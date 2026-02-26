@@ -2,8 +2,12 @@
 from __future__ import annotations
 
 import json
+import os
 from dataclasses import asdict
 from typing import Any, Dict, Optional
+
+# Override with TAX_MAX_NEW_TOKENS if needed
+DEFAULT_MAX_NEW_TOKENS = int(os.environ.get("TAX_MAX_NEW_TOKENS", "32768"))
 
 from client import (
     QwenClient,
@@ -40,7 +44,7 @@ def filer_agent(
         try:
             if attempt > 0:
                 print("  [Filer] Retry after JSON error...")
-            raw = client.generate_json(FILER_SYSTEM_PROMPT, payload, max_new_tokens=8192)
+            raw = client.generate_json(FILER_SYSTEM_PROMPT, payload, max_new_tokens=DEFAULT_MAX_NEW_TOKENS)
             break
         except ValueError as e:
             if "invalid JSON" in str(e) and attempt == 0:
@@ -106,7 +110,7 @@ def verifier_agent(
             if attempt > 0:
                 print("  [Verifier] Retry after JSON error...")
             raw = client.generate_json(
-                VERIFIER_SYSTEM_PROMPT, payload, max_new_tokens=8192
+                VERIFIER_SYSTEM_PROMPT, payload, max_new_tokens=DEFAULT_MAX_NEW_TOKENS
             )
             break
         except ValueError as e:

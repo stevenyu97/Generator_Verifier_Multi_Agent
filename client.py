@@ -134,7 +134,7 @@ class QwenClient:
         self,
         system_prompt: str,
         user_payload: Dict[str, Any],
-        max_new_tokens: int = 4096,
+        max_new_tokens: int = 32768,
     ) -> Dict[str, Any]:
         user_text = json.dumps(user_payload, indent=2)
         assistant = self.chat(system_prompt, user_text, max_new_tokens=max_new_tokens)
