@@ -155,7 +155,12 @@ class QwenClient:
         last_brace = text.rfind("}")
         if first_brace != -1 and last_brace != -1 and last_brace > first_brace:
             json_str = text[first_brace : last_brace + 1]
-            return json.loads(json_str)
+            try:
+                return json.loads(json_str)
+            except json.JSONDecodeError as e:
+                raise ValueError(
+                    f"Model returned invalid JSON (syntax error): {e}. Raw excerpt: {assistant[:500]}..."
+                ) from e
 
         raise ValueError(f"Model did not return JSON: {assistant[:500]}...")
 
@@ -554,4 +559,3 @@ def run_showcase(
 if __name__ == "__main__":
     import sys
     run_showcase(max_rounds=1)
-
