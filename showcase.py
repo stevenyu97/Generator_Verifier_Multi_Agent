@@ -29,7 +29,7 @@ def run_showcase(
 
     if case_dir is None:
         alt = Path(
-            "/home/ubuntu/LLM/Dataset/taxcalcbench_dataset/test_data/single-w2-minimal-wages-alaska"
+            "/home/ubuntu/LLM/Dataset/taxcalcbench_dataset/test_data/mfj-multiple-schedule-c-loss-multi-home-office"
         )
         if alt.joinpath("input.json").exists():
             case_dir = alt
@@ -40,7 +40,7 @@ def run_showcase(
                 / "tax_calc_bench"
                 / "ty24"
                 / "test_data"
-                / "single-w2-minimal-wages-alaska"
+                / "mfj-multiple-schedule-c-loss-multi-home-office"
             )
 
     lines_out: List[str] = []
