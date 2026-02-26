@@ -82,6 +82,7 @@ def run_showcase(
 
     log("## Agent agreement summary (one full tax case)")
     log()
+    log("### Approver (round-level)")
     log(
         f"- **Agreed** (Approver approved the draft): {counts['agree_count']} time(s)"
     )
@@ -89,6 +90,20 @@ def run_showcase(
         f"- **Disagreed** (Approver requested revision): {counts['disagree_count']} time(s)"
     )
     log()
+    # Verifier evaluates each line; summarize per-line verdicts from the last round
+    if episode_history:
+        sc = episode_history[-1].get("safety_case") or {}
+        line_findings = sc.get("line_findings") or []
+        by_verdict = {}
+        for lf in line_findings:
+            v = lf.get("verdict", "plausible")
+            by_verdict[v] = by_verdict.get(v, 0) + 1
+        log("### Verifier (per-line)")
+        log("The Verifier evaluates every draft line and returns a verdict per line. Counts from the final round:")
+        for v in ("correct", "plausible", "suspicious", "wrong"):
+            n = by_verdict.get(v, 0)
+            log(f"  - **{v}**: {n} line(s)")
+        log()
 
     for i, h in enumerate(episode_history):
         log(f"### Round {i + 1}")
