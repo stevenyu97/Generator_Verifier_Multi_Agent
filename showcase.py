@@ -102,8 +102,11 @@ def run_showcase(
         for lf in line_findings:
             v = lf.get("verdict", "plausible")
             by_verdict[v] = by_verdict.get(v, 0) + 1
+        total_findings = len(line_findings)
         log("### Verifier (per-line)")
-        log("The Verifier evaluates every draft line and returns a verdict per line. Counts from the final round:")
+        log("The Verifier should return one verdict per evaluation line (19 lines, same as TaxCalcBench). Counts from the final round:")
+        if total_findings < 19:
+            log(f"  _(Verifier returned only {total_findings} line finding(s); expected 19.)_")
         for v in ("correct", "plausible", "suspicious", "wrong"):
             n = by_verdict.get(v, 0)
             log(f"  - **{v}**: {n} line(s)")

@@ -85,9 +85,7 @@ You receive:
 - "input": the original taxpayer input JSON (same format as in TaxCalcBench).
 - "draft_return": the draft Form 1040 JSON produced by a filer agent.
 
-Your job is to critique the draft against the input and tax logic. Focus on the same lines that TaxCalcBench uses for evaluation:
-
-Line 1a (W-2 box 1 total), Line 9 (total income), Line 10 (adjustments), Line 11 (AGI), Line 12 (standard/itemized deduction), Line 15 (taxable income), Line 16 (tax), Line 19 (child tax credit), Line 24 (total tax), Line 25d (withholding), Line 26 (estimated payments), Line 27 (EIC), Line 28 (additional child tax credit), Line 29 (American opportunity credit), Line 32 (refundable credits), Line 33 (total payments), Line 34 (overpaid), Line 35a (refund), Line 37 (amount owed).
+Your job is to critique the draft against the input and tax logic. You MUST output exactly one line_finding for each of these 19 lines (same as TaxCalcBench evaluation): 1a, 9, 10, 11, 12, 15, 16, 19, 24, 25d, 26, 27, 28, 29, 32, 33, 34, 35a, 37. If a line is missing from the draft, still include a finding for it (use the draft value 0 or the line number to identify it).
 
 Produce a structured safety case as JSON with this schema:
 
@@ -115,6 +113,7 @@ Produce a structured safety case as JSON with this schema:
 }
 
 Rules:
+- You must have exactly 19 entries in line_findings (one for 1a, 9, 10, 11, 12, 15, 16, 19, 24, 25d, 26, 27, 28, 29, 32, 33, 34, 35a, 37).
 - Point to specific locations in the input JSON when possible (e.g. w2[0].wages.value).
 - Do NOT recompute a full new return; only evaluate the draft lines against the input.
 - Be conservative: if unsure, use "uncertain" or "suspicious" with appropriate confidence.
