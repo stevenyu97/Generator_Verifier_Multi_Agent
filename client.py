@@ -82,8 +82,8 @@ class QwenClient:
             raise RuntimeError(
                 "PyTorch and transformers are required. Install with: pip install torch transformers"
             )
-        self.device = os.environ.get("TAX_DEVICE", "").strip().lower() or (
-            "cuda" if torch.cuda.is_available() else "cpu"
+        self.device = os.environ.get("TAX_DEVICE", "").strip() or (
+            "cuda:1" if torch.cuda.is_available() else "cpu"
         )
         if self.device.startswith("cuda") and not torch.cuda.is_available():
             raise RuntimeError(
@@ -131,33 +131,21 @@ class QwenClient:
         return response.strip()
 
     def generate_json(
-        self, system_prompt: str, user_payload: Dict[str, Any]
+        self,
+        system_prompt: str,
+        user_payload: Dict[str, Any],
+        max_new_tokens: int = 4096,
     ) -> Dict[str, Any]:
         user_text = json.dumps(user_payload, indent=2)
-        assistant = self.chat(system_prompt, user_text)
+        assistant = self.chat(system_prompt, user_text, max_new_tokens=max_new_tokens)
 
         text = assistant.strip()
+        # Remove closed think blocks
         if "<think>" in text:
             text = re.sub(r"<think>.*?</think>", "", text, flags=re.DOTALL).strip()
-            if "<think>" in text:
-                text = (
-                    text.split("<think>", 1)[0].strip()
-                    + (
-                        " " + text.split("</think>", 1)[-1].strip()
-                        if "</think>" in text
-                        else ""
-                    )
-                )
-            if "<think>" in text:
-                idx = text.find("<think>")
-                text = (
-                    text[:idx]
-                    + " "
-                    + text[idx:].replace("<think>", "", 1)
-                ).strip()
-                text = text.split("<think>")[0].strip() if "<think>" in text else text
-            if "<think>" in text:
-                text = text[: text.find("<think>")].strip()
+        # Remove unclosed think (model truncated or never closed)
+        if "<think>" in text:
+            text = text.split("<think>", 1)[0].strip()
 
         if "```" in text:
             first_tick = text.find("```")
