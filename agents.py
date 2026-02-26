@@ -31,7 +31,15 @@ def filer_agent(
     feedback: Optional[Dict[str, Any]] = None,
 ) -> DraftReturn:
     payload = {"input": input_json, "feedback": feedback}
-    raw = client.generate_json(FILER_SYSTEM_PROMPT, payload)
+    # Hard/complex cases need more tokens to output full draft (many lines)
+    for attempt in range(2):
+        try:
+            raw = client.generate_json(FILER_SYSTEM_PROMPT, payload, max_new_tokens=8192)
+            break
+        except ValueError as e:
+            if "invalid JSON" in str(e) and attempt == 0:
+                continue  # Retry once on malformed/truncated JSON
+            raise
     lines = [DraftLine(**line) for line in raw.get("lines", [])]
     return DraftReturn(
         return_version=raw.get("return_version", "ty24-v1"),

@@ -160,8 +160,14 @@ class QwenClient:
             try:
                 return json.loads(json_str)
             except json.JSONDecodeError as e:
-                raise ValueError(
-                    f"Model returned invalid JSON (syntax error): {e}. Raw excerpt: {assistant[:500]}..."
-                ) from e
+                # Try to fix trailing commas (common in model output)
+                fixed = re.sub(r",\s*}", "}", json_str)
+                fixed = re.sub(r",\s*]", "]", fixed)
+                try:
+                    return json.loads(fixed)
+                except json.JSONDecodeError:
+                    raise ValueError(
+                        f"Model returned invalid JSON (syntax error): {e}. Raw excerpt: {assistant[:500]}..."
+                    ) from e
 
         raise ValueError(f"Model did not return JSON: {assistant[:500]}...")
