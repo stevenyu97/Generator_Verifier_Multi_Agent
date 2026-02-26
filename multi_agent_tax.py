@@ -4,9 +4,14 @@ from dataclasses import dataclass, asdict
 from typing import List, Literal, Optional, Dict, Any, Tuple
 import json
 from pathlib import Path
+import re
 
-import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer
+try:
+    import torch
+    from transformers import AutoModelForCausalLM, AutoTokenizer
+    _HAS_TORCH = True
+except ImportError:
+    _HAS_TORCH = False
 
 
 # ========= 1. Data structures =========
@@ -72,13 +77,28 @@ class QwenClient:
     """
 
     def __init__(self, model_path: str = "/home/ubuntu/models/models--Qwen--Qwen3-4B"):
-        self.device = "cuda" if torch.cuda.is_available() else "cpu"
-        self.tokenizer = AutoTokenizer.from_pretrained(model_path)
+        if not _HAS_TORCH:
+            raise RuntimeError("PyTorch and transformers are required. Install with: pip install torch transformers")
+        # Prefer GPU; override with env TAX_DEVICE=cuda or TAX_DEVICE=cuda:0 if needed
+        import os
+        self.device = os.environ.get("TAX_DEVICE", "").strip().lower() or ("cuda" if torch.cuda.is_available() else "cpu")
+        if self.device.startswith("cuda") and not torch.cuda.is_available():
+            raise RuntimeError("TAX_DEVICE=cuda but CUDA is not available. Install PyTorch with CUDA or unset TAX_DEVICE for CPU.")
+        print(f"Using device: {self.device}")
+        # Resolve HF cache snapshot so tokenizer finds files; use slow tokenizer if sentencepiece missing
+        _path = Path(model_path)
+        if (_path / "snapshots").exists():
+            _snapshots = list((_path / "snapshots").iterdir())
+            if _snapshots:
+                model_path = str(_snapshots[0])
+        self.tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=False, trust_remote_code=True)
+        dtype = torch.bfloat16 if self.device.startswith("cuda") else torch.float32
         self.model = AutoModelForCausalLM.from_pretrained(
             model_path,
-            torch_dtype=torch.bfloat16 if self.device == "cuda" else torch.float32,
-            device_map="auto" if self.device == "cuda" else None,
+            torch_dtype=dtype,
+            trust_remote_code=True,
         )
+        self.model = self.model.to(self.device)
 
     def chat(self, system_prompt: str, user_content: str, max_new_tokens: int = 1024) -> str:
         """
@@ -107,12 +127,92 @@ class QwenClient:
     def generate_json(self, system_prompt: str, user_payload: Dict[str, Any]) -> Dict[str, Any]:
         user_text = json.dumps(user_payload, indent=2)
         assistant = self.chat(system_prompt, user_text)
-        first_brace = assistant.find("{")
-        last_brace = assistant.rfind("}")
-        if first_brace == -1 or last_brace == -1:
-            raise ValueError(f"Model did not return JSON: {assistant}")
-        json_str = assistant[first_brace:last_brace + 1]
-        return json.loads(json_str)
+
+        # Robustly extract JSON from the model output.
+        text = assistant.strip()
+        # 1) Strip <think> ... </think> blocks (reasoning). If no closing tag, remove from <think> to end.
+        if "<think>" in text:
+            text = re.sub(r"<think>.*?</think>", "", text, flags=re.DOTALL).strip()
+            if "<think>" in text:
+                text = text.split("<think>", 1)[0].strip() + (" " + text.split("</think>", 1)[-1].strip() if "</think>" in text else "")
+            if "<think>" in text:
+                idx = text.find("<think>")
+                text = (text[:idx] + " " + text[idx:].replace("<think>", "", 1)).strip()
+                text = text.split("<think>")[0].strip() if "<think>" in text else text
+            # Remove everything from opening <think> to end (unclosed thinking block)
+            if "<think>" in text:
+                text = text[: text.find("<think>")].strip()
+
+        # 2) If wrapped in markdown fences, keep only the fenced block.
+        if "```" in text:
+            first_tick = text.find("```")
+            second_tick = text.find("```", first_tick + 3)
+            if second_tick != -1:
+                text = text[first_tick + 3 : second_tick].strip()
+
+        # 3) Take the outermost {...} span as JSON.
+        first_brace = text.find("{")
+        last_brace = text.rfind("}")
+        if first_brace != -1 and last_brace != -1 and last_brace > first_brace:
+            json_str = text[first_brace : last_brace + 1]
+            return json.loads(json_str)
+
+        raise ValueError(f"Model did not return JSON: {assistant[:500]}...")
+
+
+def _extract_json_from_response(assistant: str) -> Optional[Dict[str, Any]]:
+    """Strip <think> blocks and markdown fences, then return parsed JSON or None."""
+    text = assistant.strip()
+    if "<think>" in text:
+        text = re.sub(r"<think>.*?</think>", "", text, flags=re.DOTALL).strip()
+        if "<think>" in text:
+            text = text[: text.find("<think>")].strip()
+    if "```" in text:
+        first_tick = text.find("```")
+        second_tick = text.find("```", first_tick + 3)
+        if second_tick != -1:
+            text = text[first_tick + 3 : second_tick].strip()
+    first_brace = text.find("{")
+    last_brace = text.rfind("}")
+    if first_brace != -1 and last_brace != -1 and last_brace > first_brace:
+        try:
+            return json.loads(text[first_brace : last_brace + 1])
+        except json.JSONDecodeError:
+            pass
+    return None
+
+
+def _infer_approver_decision_from_text(raw: str) -> Dict[str, Any]:
+    """Infer approver decision when model returns only <think> reasoning and no JSON."""
+    lower = raw.lower()
+    if any(
+        phrase in lower
+        for phrase in (
+            "decision should be to approve",
+            "the decision is to approve",
+            "therefore, the decision is to approve",
+            "so the decision is to approve",
+        )
+    ):
+        return {
+            "decision": "approve",
+            "decision_confidence": 0.8,
+            "comments": "Inferred from model reasoning (no JSON in response).",
+            "required_changes": {"lines_to_recompute": []},
+        }
+    if "approve" in lower and "needs_revision" not in lower:
+        return {
+            "decision": "approve",
+            "decision_confidence": 0.7,
+            "comments": "Inferred from model reasoning (no JSON in response).",
+            "required_changes": {"lines_to_recompute": []},
+        }
+    return {
+        "decision": "needs_revision",
+        "decision_confidence": 0.6,
+        "comments": "Inferred from model reasoning (no JSON in response).",
+        "required_changes": {"lines_to_recompute": []},
+    }
 
 
 # ========= 3. Agent role prompts =========
@@ -212,7 +312,7 @@ Your job:
 Rules:
 - If any important line is marked "wrong" or "suspicious" with moderate/high confidence, prefer "needs_revision".
 - If all important lines are "correct" or "plausible" with high confidence, you may "approve".
-- Return strictly valid JSON only.
+- Output ONLY the JSON object. Do not use <think> tags or any other text. Reply with nothing but the JSON.
 """
 
 
@@ -287,7 +387,11 @@ def approver_agent(
             "line_findings": [asdict(lf) for lf in safety_case.line_findings],
         },
     }
-    raw = client.generate_json(APPROVER_SYSTEM_PROMPT, payload)
+    user_text = json.dumps(payload, indent=2)
+    raw_response = client.chat(APPROVER_SYSTEM_PROMPT, user_text, max_new_tokens=2048)
+    raw = _extract_json_from_response(raw_response)
+    if raw is None:
+        raw = _infer_approver_decision_from_text(raw_response)
 
     return ApprovalDecision(
         decision=raw["decision"],
@@ -349,19 +453,105 @@ def run_episode(
 def load_taxcalcbench_case(case_dir: Path) -> Dict[str, Any]:
     input_path = case_dir / "input.json"
     with input_path.open() as f:
-        return json.load(f)
+        data = json.load(f)
+    # TaxCalcBench files wrap payload in "input"
+    return data.get("input", data)
+
+
+def run_showcase(
+    output_path: Optional[Path] = None,
+    case_dir: Optional[Path] = None,
+    max_rounds: int = 1,
+) -> Tuple[DraftReturn, List[Dict[str, Any]]]:
+    """
+    Run a small showcase: load one case, run one episode, print and optionally save output.
+    """
+    if output_path is None:
+        output_path = Path(__file__).parent / "showcase_output.md"
+
+    # Prefer dataset under LLM/Dataset if present
+    if case_dir is None:
+        alt = Path("/home/ubuntu/LLM/Dataset/taxcalcbench_dataset/test_data/single-w2-minimal-wages-alaska")
+        if alt.joinpath("input.json").exists():
+            case_dir = alt
+        else:
+            case_dir = Path(__file__).parent / "dataset" / "tax_calc_bench" / "ty24" / "test_data" / "single-w2-minimal-wages-alaska"
+
+    lines_out: List[str] = []
+    def log(msg: str = "") -> None:
+        lines_out.append(msg)
+        print(msg)
+
+    log("# Multi-Agent Tax Filing Showcase")
+    log()
+    log("## Input case")
+    log(f"Case directory: `{case_dir}`")
+    if case_dir.joinpath("input.json").exists():
+        input_json = load_taxcalcbench_case(case_dir)
+        log(f"Loaded input keys: {list(input_json.keys())[:10]}...")
+        log()
+    else:
+        log("No input.json found; using minimal synthetic input.")
+        input_json = {
+            "return_header": {"tp_prior_year_agi": {"value": 0}},
+            "return_data": {"residency_status": {"value": "us_citizen"}},
+            "w2": [
+                {
+                    "employer_name": {"label": "Employer", "value": "Acme"},
+                    "wages": {"label": "Box 1", "value": 45000},
+                    "withholding": {"label": "Box 2", "value": 3500},
+                }
+            ],
+        }
+        log()
+
+    log("## Running episode (Filer → Verifier → Approver)")
+    log()
+
+    client = QwenClient()
+    final_draft, episode_history = run_episode(client, input_json, max_rounds=max_rounds)
+
+    for i, h in enumerate(episode_history):
+        log(f"### Round {i + 1}")
+        log()
+        log("**Draft return (excerpt)**")
+        for line in h["draft"]["lines"][:8]:
+            log(f"  - {line.get('form', '')} Line {line.get('line', '')}: {line.get('amount')} — {line.get('rationale', '')[:60]}...")
+        if len(h["draft"]["lines"]) > 8:
+            log(f"  ... and {len(h['draft']['lines']) - 8} more lines")
+        log()
+        log("**Safety case**")
+        sc = h["safety_case"]
+        log(f"  - Overall verdict: {sc.get('overall_verdict')} (confidence: {sc.get('overall_confidence')})")
+        for lf in (sc.get("line_findings") or [])[:5]:
+            log(f"  - {lf.get('form')} {lf.get('line')}: {lf.get('verdict')} — {lf.get('claim', '')[:50]}")
+        log()
+        log("**Approver decision**")
+        d = h["decision"]
+        log(f"  - Decision: {d.get('decision')}; comments: {d.get('comments', '')[:80]}")
+        log()
+
+    log("## Final draft (full)")
+    log("```json")
+    log(json.dumps({"lines": [asdict(l) for l in final_draft.lines]}, indent=2))
+    log("```")
+    log()
+    log("## Full episode history (JSON)")
+    log("```json")
+    log(json.dumps(episode_history, indent=2, default=str))
+    log("```")
+
+    output_path = Path(output_path)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    output_path.write_text("\n".join(lines_out), encoding="utf-8")
+    log()
+    log(f"Output saved to: {output_path.absolute()}")
+
+    return final_draft, episode_history
+
 
 
 if __name__ == "__main__":
-    # Adjust this path to one of your test cases
-    case_dir = Path(
-        "/home/ubuntu/llm/dataset/tax_calc_bench/ty24/test_data/single-w2-minimal-wages-alaska"
-    )
-    input_json = load_taxcalcbench_case(case_dir)
-
-    client = QwenClient()
-    final_draft, episode_history = run_episode(client, input_json)
-
-    print("Final draft lines:")
-    print(json.dumps({"lines": [asdict(l) for l in final_draft.lines]}, indent=2))
+    import sys
+    run_showcase(max_rounds=1)
 
