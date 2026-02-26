@@ -30,10 +30,16 @@ def filer_agent(
     input_json: Dict[str, Any],
     feedback: Optional[Dict[str, Any]] = None,
 ) -> DraftReturn:
+    if feedback is None:
+        print("  [Filer] Generating initial draft (calling model)...")
+    else:
+        print("  [Filer] Revising draft (calling model)...")
     payload = {"input": input_json, "feedback": feedback}
     # Hard/complex cases need more tokens to output full draft (many lines)
     for attempt in range(2):
         try:
+            if attempt > 0:
+                print("  [Filer] Retry after JSON error...")
             raw = client.generate_json(FILER_SYSTEM_PROMPT, payload, max_new_tokens=8192)
             break
         except ValueError as e:
@@ -51,6 +57,7 @@ def filer_agent(
 def verifier_agent(
     client: QwenClient, input_json: Dict[str, Any], draft: DraftReturn
 ) -> SafetyCase:
+    print("  [Verifier] Evaluating draft (calling model)...")
     payload = {
         "input": input_json,
         "draft_return": {
@@ -61,6 +68,8 @@ def verifier_agent(
     }
     for attempt in range(2):
         try:
+            if attempt > 0:
+                print("  [Verifier] Retry after JSON error...")
             raw = client.generate_json(
                 VERIFIER_SYSTEM_PROMPT, payload, max_new_tokens=8192
             )
@@ -128,6 +137,7 @@ def approver_agent(
         },
     }
     user_text = json.dumps(payload, indent=2)
+    print("  [Approver] Deciding approve / needs_revision (calling model)...")
     raw_response = client.chat(APPROVER_SYSTEM_PROMPT, user_text, max_new_tokens=2048)
     raw = extract_json_from_response(raw_response)
     if raw is None:

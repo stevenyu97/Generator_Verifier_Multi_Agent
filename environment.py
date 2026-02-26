@@ -19,11 +19,17 @@ def run_episode(
     history: List[Dict[str, Any]] = []
     approve_count = 0
     needs_revision_count = 0
+
+    print("[Episode] Filer: generating initial draft...")
     draft = filer_agent(client, input_json, feedback=None)
+    print(f"[Episode] Filer: done ({len(draft.lines)} lines).")
 
     for round_idx in range(max_rounds):
+        print(f"[Episode] Round {round_idx + 1}/{max_rounds}: Verifier evaluating draft...")
         safety_case = verifier_agent(client, input_json, draft)
+        print(f"[Episode] Verifier: done ({len(safety_case.line_findings)} line findings). Approver deciding...")
         decision = approver_agent(client, input_json, draft, safety_case)
+        print(f"[Episode] Approver: {decision.decision}.")
 
         if decision.decision == "approve":
             approve_count += 1
@@ -52,11 +58,13 @@ def run_episode(
             break
 
         if decision.decision == "needs_revision":
+            print("[Episode] Needs revision — Filer revising draft...")
             feedback = {
                 "safety_case": history[-1]["safety_case"],
                 "decision": history[-1]["decision"],
             }
             draft = filer_agent(client, input_json, feedback=feedback)
+            print(f"[Episode] Filer: revised draft ({len(draft.lines)} lines).")
 
     counts = {
         "approve_count": approve_count,

@@ -51,6 +51,7 @@ def run_showcase(
 
     log("# Multi-Agent Tax Filing Showcase")
     log()
+    print("[Showcase] Loading input case...")
     log("## Input case")
     log(f"Case directory: `{case_dir}`")
     if case_dir.joinpath("input.json").exists():
@@ -75,10 +76,13 @@ def run_showcase(
     log("## Running episode (Filer → Verifier → Approver)")
     log()
 
+    print("[Showcase] Loading model and starting episode...")
     client = QwenClient()
+    print("[Showcase] Running episode (Filer → Verifier → Approver)...")
     final_draft, episode_history, counts = run_episode(
         client, input_json, max_rounds=max_rounds
     )
+    print("[Showcase] Episode finished. Building report...")
 
     log("## Agent agreement summary (one full tax case)")
     log()
@@ -134,6 +138,7 @@ def run_showcase(
     output_xml = Path(case_dir) / "output.xml"
     if output_xml.exists():
         try:
+            print("[Showcase] Evaluating draft vs output.xml...")
             from evaluator import evaluate as evaluate_draft
             eval_result = evaluate_draft(final_draft, output_xml)
             log("## Evaluation (vs TaxCalcBench expected output.xml)")
@@ -157,8 +162,10 @@ def run_showcase(
 
     output_path = Path(output_path)
     output_path.parent.mkdir(parents=True, exist_ok=True)
+    print(f"[Showcase] Writing report to {output_path}...")
     output_path.write_text("\n".join(lines_out), encoding="utf-8")
     log()
     log(f"Output saved to: {output_path.absolute()}")
+    print("[Showcase] Done.")
 
     return final_draft, episode_history, counts
