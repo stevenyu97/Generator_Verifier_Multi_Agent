@@ -54,17 +54,52 @@ def filer_agent(
     )
 
 
+# Lines the Verifier must evaluate (same as TaxCalcBench). Sending only these shrinks payload and output.
+VERIFIER_LINE_IDS = {"1a", "9", "10", "11", "12", "15", "16", "19", "24", "25d", "26", "27", "28", "29", "32", "33", "34", "35a", "37"}
+
+def _trim_draft_for_verifier(draft: DraftReturn, max_rationale_len: int = 80) -> Dict[str, Any]:
+    """Send only evaluation lines with short rationales so the model has room to output JSON."""
+    trimmed = []
+    for l in draft.lines:
+        if (l.line or "").strip() not in VERIFIER_LINE_IDS:
+            continue
+        d = asdict(l)
+        if len(d.get("rationale", "")) > max_rationale_len:
+            d["rationale"] = d["rationale"][:max_rationale_len] + "..."
+        trimmed.append(d)
+    return {
+        "return_version": draft.return_version,
+        "lines": trimmed,
+        "metadata": draft.metadata,
+    }
+
+
+def _trim_input_for_verifier(input_json: Dict[str, Any], max_return_data_keys: int = 50) -> Dict[str, Any]:
+    """Shrink input for Verifier so the prompt leaves room for JSON output."""
+    inp = input_json.get("input", input_json)
+    if not isinstance(inp, dict):
+        return input_json
+    out = {"return_header": inp.get("return_header", {})}
+    rd = inp.get("return_data", {})
+    if isinstance(rd, dict) and len(rd) > max_return_data_keys:
+        keys = list(rd.keys())[:max_return_data_keys]
+        out["return_data"] = {k: rd[k] for k in keys}
+    else:
+        out["return_data"] = rd
+    if "w2" in inp:
+        out["w2"] = inp["w2"]
+    return out
+
+
 def verifier_agent(
     client: QwenClient, input_json: Dict[str, Any], draft: DraftReturn
 ) -> SafetyCase:
     print("  [Verifier] Evaluating draft (calling model)...")
+    draft_return_trimmed = _trim_draft_for_verifier(draft)
+    input_trimmed = _trim_input_for_verifier(input_json)
     payload = {
-        "input": input_json,
-        "draft_return": {
-            "return_version": draft.return_version,
-            "lines": [asdict(l) for l in draft.lines],
-            "metadata": draft.metadata,
-        },
+        "input": input_trimmed,
+        "draft_return": draft_return_trimmed,
     }
     for attempt in range(2):
         try:
