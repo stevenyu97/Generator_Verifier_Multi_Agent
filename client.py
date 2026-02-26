@@ -170,4 +170,13 @@ class QwenClient:
                         f"Model returned invalid JSON (syntax error): {e}. Raw excerpt: {assistant[:500]}..."
                     ) from e
 
+        # Fallback: model may have put JSON inside or after <think>; search raw response
+        first_brace = assistant.find("{")
+        last_brace = assistant.rfind("}")
+        if first_brace != -1 and last_brace != -1 and last_brace > first_brace:
+            json_str = assistant[first_brace : last_brace + 1]
+            try:
+                return json.loads(json_str)
+            except json.JSONDecodeError:
+                pass
         raise ValueError(f"Model did not return JSON: {assistant[:500]}...")

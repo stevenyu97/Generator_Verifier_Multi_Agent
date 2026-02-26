@@ -59,7 +59,16 @@ def verifier_agent(
             "metadata": draft.metadata,
         },
     }
-    raw = client.generate_json(VERIFIER_SYSTEM_PROMPT, payload)
+    for attempt in range(2):
+        try:
+            raw = client.generate_json(
+                VERIFIER_SYSTEM_PROMPT, payload, max_new_tokens=8192
+            )
+            break
+        except ValueError as e:
+            if ("invalid JSON" in str(e) or "did not return JSON" in str(e)) and attempt == 0:
+                continue
+            raise
 
     _valid_verdicts = ("correct", "plausible", "suspicious", "wrong")
     _valid_overall = ("accept", "uncertain", "reject")
