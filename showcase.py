@@ -106,6 +106,20 @@ def run_showcase(
         log(f"  - Decision: {d.get('decision')}; comments: {d.get('comments', '')[:80]}")
         log()
 
+    output_xml = Path(case_dir) / "output.xml"
+    if output_xml.exists():
+        try:
+            from evaluator import evaluate as evaluate_draft
+            eval_result = evaluate_draft(final_draft, output_xml)
+            log("## Evaluation (vs TaxCalcBench expected output.xml)")
+            log()
+            log(eval_result.report)
+            log()
+        except ImportError as e:
+            log("## Evaluation skipped (install lxml to evaluate vs output.xml)")
+            log(str(e))
+            log()
+
     log("## Final draft (full)")
     log("```json")
     log(json.dumps({"lines": [asdict(l) for l in final_draft.lines]}, indent=2))
