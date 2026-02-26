@@ -13,14 +13,22 @@ def run_episode(
     client: QwenClient,
     input_json: Dict[str, Any],
     max_rounds: int = 3,
-) -> Tuple[DraftReturn, List[Dict[str, Any]]]:
-    """Run one episode: Filer drafts, then up to max_rounds of Verifier + Approver; revise on needs_revision."""
+) -> Tuple[DraftReturn, List[Dict[str, Any]], Dict[str, int]]:
+    """Run one episode: Filer drafts, then up to max_rounds of Verifier + Approver; revise on needs_revision.
+    Returns (final_draft, history, counts) where counts has approve_count and needs_revision_count."""
     history: List[Dict[str, Any]] = []
+    approve_count = 0
+    needs_revision_count = 0
     draft = filer_agent(client, input_json, feedback=None)
 
     for round_idx in range(max_rounds):
         safety_case = verifier_agent(client, input_json, draft)
         decision = approver_agent(client, input_json, draft, safety_case)
+
+        if decision.decision == "approve":
+            approve_count += 1
+        else:
+            needs_revision_count += 1
 
         history.append(
             {
@@ -50,4 +58,10 @@ def run_episode(
             }
             draft = filer_agent(client, input_json, feedback=feedback)
 
-    return draft, history
+    counts = {
+        "approve_count": approve_count,
+        "needs_revision_count": needs_revision_count,
+        "agree_count": approve_count,
+        "disagree_count": needs_revision_count,
+    }
+    return draft, history, counts

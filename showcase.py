@@ -21,8 +21,8 @@ def load_taxcalcbench_case(case_dir: Path) -> Dict[str, Any]:
 def run_showcase(
     output_path: Optional[Path] = None,
     case_dir: Optional[Path] = None,
-    max_rounds: int = 1,
-) -> Tuple[DraftReturn, List[Dict[str, Any]]]:
+    max_rounds: int = 3,
+) -> Tuple[DraftReturn, List[Dict[str, Any]], Dict[str, int]]:
     """Run one episode, print progress, save report to output_path (default: showcase_output.md)."""
     if output_path is None:
         output_path = Path(__file__).parent / "showcase_output.md"
@@ -76,9 +76,19 @@ def run_showcase(
     log()
 
     client = QwenClient()
-    final_draft, episode_history = run_episode(
+    final_draft, episode_history, counts = run_episode(
         client, input_json, max_rounds=max_rounds
     )
+
+    log("## Agent agreement summary (one full tax case)")
+    log()
+    log(
+        f"- **Agreed** (Approver approved the draft): {counts['agree_count']} time(s)"
+    )
+    log(
+        f"- **Disagreed** (Approver requested revision): {counts['disagree_count']} time(s)"
+    )
+    log()
 
     for i, h in enumerate(episode_history):
         log(f"### Round {i + 1}")
@@ -136,4 +146,4 @@ def run_showcase(
     log()
     log(f"Output saved to: {output_path.absolute()}")
 
-    return final_draft, episode_history
+    return final_draft, episode_history, counts
