@@ -76,7 +76,7 @@ Required lines (use the exact "description" text; "line" is the number/letter li
 - Line 37: Subtract line 33 from line 24. This is the amount you owe
 
 The taxpayer data is formatted as JSON with sections and fields; each field may have "label" and "value". Use only that data to compute the return.
-Return strictly valid JSON, with double quotes and no comments. Do not output any other text or commentary.
+Return strictly valid JSON, with double quotes and no comments. Do not use <think> tags or any thought process—output only the JSON object. Start your response with {.
 """
 
 
@@ -118,7 +118,7 @@ Rules:
 - Point to specific locations in the input JSON when possible (e.g. w2[0].wages.value).
 - Do NOT recompute a full new return; only evaluate the draft lines against the input.
 - Be conservative: if unsure, use "uncertain" or "suspicious" with appropriate confidence.
-- Return strictly valid JSON only.
+- Return strictly valid JSON only. Do not use <think> tags or any thought process—output only the JSON object. Start your response with {.
 """
 
 
