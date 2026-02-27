@@ -58,17 +58,47 @@ def filer_agent(
     )
 
 
+# Evaluation line ids (same as TaxCalcBench). Trimming Verifier payload to these keeps prompt under model max length.
+_VERIFIER_LINE_IDS = {"1a", "9", "10", "11", "12", "15", "16", "19", "24", "25d", "26", "27", "28", "29", "32", "33", "34", "35a", "37"}
+
+
+def _trim_draft_for_verifier(draft: DraftReturn, max_rationale: int = 120) -> Dict[str, Any]:
+    """Send only evaluation lines with short rationales so prompt + 19 findings fit within model max length."""
+    lines = []
+    for l in draft.lines:
+        if (l.line or "").strip() not in _VERIFIER_LINE_IDS:
+            continue
+        d = asdict(l)
+        r = d.get("rationale", "")
+        if len(r) > max_rationale:
+            d["rationale"] = r[:max_rationale] + "..."
+        lines.append(d)
+    return {"return_version": draft.return_version, "lines": lines, "metadata": draft.metadata}
+
+
+def _trim_input_for_verifier(input_json: Dict[str, Any], max_keys: int = 60) -> Dict[str, Any]:
+    """Shrink input so Verifier prompt stays within model context limit."""
+    inp = input_json.get("input", input_json)
+    if not isinstance(inp, dict):
+        return input_json
+    out = {"return_header": inp.get("return_header", {})}
+    rd = inp.get("return_data", {})
+    if isinstance(rd, dict) and len(rd) > max_keys:
+        out["return_data"] = {k: rd[k] for k in list(rd.keys())[:max_keys]}
+    else:
+        out["return_data"] = rd
+    if "w2" in inp:
+        out["w2"] = inp["w2"]
+    return out
+
+
 def verifier_agent(
     client: QwenClient, input_json: Dict[str, Any], draft: DraftReturn
 ) -> SafetyCase:
     print("  [Verifier] Evaluating draft (calling model)...")
     payload = {
-        "input": input_json,
-        "draft_return": {
-            "return_version": draft.return_version,
-            "lines": [asdict(l) for l in draft.lines],
-            "metadata": draft.metadata,
-        },
+        "input": _trim_input_for_verifier(input_json),
+        "draft_return": _trim_draft_for_verifier(draft),
     }
     for attempt in range(2):
         try:

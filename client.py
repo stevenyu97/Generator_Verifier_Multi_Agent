@@ -120,6 +120,11 @@ class QwenClient:
             add_generation_prompt=True,
         )
         inputs = self.tokenizer(text, return_tensors="pt").to(self.device)
+        input_len = inputs["input_ids"].shape[1]
+        # Stay under the model's max length to avoid the "exceeded predefined maximum length" warning
+        model_max = getattr(self.model.config, "model_max_length", 40960)
+        if input_len + max_new_tokens > model_max:
+            max_new_tokens = max(256, model_max - input_len - 64)
         with torch.no_grad():
             outputs = self.model.generate(
                 **inputs,
@@ -143,6 +148,9 @@ class QwenClient:
         # Remove closed think blocks
         if "<think>" in text:
             text = re.sub(r"<think>.*?</think>", "", text, flags=re.DOTALL).strip()
+        # If model put JSON after </think>, use that (model sometimes ignores "no think" instruction)
+        if "</think>" in text and "{" in text.split("</think>")[-1]:
+            text = text.split("</think>")[-1].strip()
         # Remove unclosed think (model truncated or never closed)
         if "<think>" in text:
             text = text.split("<think>", 1)[0].strip()
@@ -170,7 +178,17 @@ class QwenClient:
                         f"Model returned invalid JSON (syntax error): {e}. Raw excerpt: {assistant[:500]}..."
                     ) from e
 
-        # Fallback: model may have put JSON inside or after <think>; search raw response
+        # Fallback: take everything after last </think> and look for JSON (model often puts answer there)
+        if "</think>" in assistant:
+            after_think = assistant.split("</think>")[-1].strip()
+            fb = after_think.find("{")
+            lb = after_think.rfind("}")
+            if fb != -1 and lb != -1 and lb > fb:
+                try:
+                    return json.loads(after_think[fb : lb + 1])
+                except json.JSONDecodeError:
+                    pass
+        # Fallback: search raw response for any {...}
         first_brace = assistant.find("{")
         last_brace = assistant.rfind("}")
         if first_brace != -1 and last_brace != -1 and last_brace > first_brace:
