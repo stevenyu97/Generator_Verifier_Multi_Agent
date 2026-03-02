@@ -9,6 +9,7 @@ from typing import Any, Dict, List, Optional, Tuple
 from client import QwenClient
 from environment import run_episode
 from schemas import DraftReturn
+from evaluator import LINES_TO_XPATH, _parse_xml_value, _draft_amount_for_line
 
 
 def load_taxcalcbench_case(case_dir: Path) -> Dict[str, Any]:
@@ -86,17 +87,10 @@ def run_showcase(
 
     log("## Agent agreement summary (one full tax case)")
     log()
-    log("### Approver (round-level)")
-    log(
-        f"- **Agreed** (Approver approved the draft): {counts['agree_count']} time(s)"
-    )
-    log(
-        f"- **Disagreed** (Approver requested revision): {counts['disagree_count']} time(s)"
-    )
-    log()
     # Verifier evaluates each line; summarize per-line verdicts from the last round
     if episode_history:
-        sc = episode_history[-1].get("safety_case") or {}
+        last_round = episode_history[-1]
+        sc = last_round.get("safety_case") or {}
         line_findings = sc.get("line_findings") or []
         by_verdict = {}
         for lf in line_findings:
@@ -110,6 +104,37 @@ def run_showcase(
         for v in ("correct", "plausible", "suspicious", "wrong"):
             n = by_verdict.get(v, 0)
             log(f"  - **{v}**: {n} line(s)")
+        log()
+
+        # Per-line trends: for each important line, show Verifier verdict + whether Approver flagged it
+        last_decision = last_round.get("decision") or {}
+        decision_label = last_decision.get("decision")
+        # Set of (form, line) pairs that Approver requested to recompute
+        recompute_lines = {
+            (c.get("form"), c.get("line"))
+            for c in (
+                (last_decision.get("required_changes") or {}).get(
+                    "lines_to_recompute", []
+                )
+            )
+        }
+
+        log("### Per-line trends (Verifier + Approver, final round)")
+        log("For each important line, this shows the Verifier verdict and whether the Approver flagged the line for revision.")
+        for lf in line_findings:
+            form = lf.get("form", "")
+            line_no = lf.get("line", "")
+            verdict = lf.get("verdict", "plausible")
+            key = (form, line_no)
+            if decision_label == "approve":
+                approver_status = "approved"
+            elif key in recompute_lines and decision_label == "needs_revision":
+                approver_status = "needs_revision"
+            else:
+                approver_status = "not_flagged"
+            log(
+                f"- {form} Line {line_no}: Verifier **{verdict}**, Approver **{approver_status}**"
+            )
         log()
 
     for i, h in enumerate(episode_history):
@@ -143,11 +168,107 @@ def run_showcase(
         try:
             print("[Showcase] Evaluating draft vs output.xml...")
             from evaluator import evaluate as evaluate_draft
+
+            # Run the canonical evaluation (line-level correctness vs XML)
             eval_result = evaluate_draft(final_draft, output_xml)
             log("## Evaluation (vs TaxCalcBench expected output.xml)")
             log()
             log(eval_result.report)
             log()
+
+            # Categorize each important line into the 6 (Filer, Verifier, Approver) outcome types.
+            # 1. Filer correct, V no-sac
+            # 2. Filer correct, V sac, A agree
+            # 3. Filer correct, V sac, A disagree
+            # 4. Filer false, V no-sac
+            # 5. Filer false, V sac, A agree
+            # 6. Filer false, V sac, A disagree
+            if episode_history:
+                last_round = episode_history[-1]
+                sc = last_round.get("safety_case") or {}
+                decision = last_round.get("decision") or {}
+                line_findings = sc.get("line_findings") or []
+                decision_label = decision.get("decision")
+                # Lines explicitly requested for recomputation by Approver
+                recompute_lines = {
+                    (c.get("form"), c.get("line"))
+                    for c in (
+                        (decision.get("required_changes") or {}).get(
+                            "lines_to_recompute", []
+                        )
+                    )
+                }
+
+                # Pre-read XML so we can compare Filer vs ground truth per line
+                xml_str = output_xml.read_text(encoding="utf-8")
+
+                counts = {i: 0 for i in range(1, 7)}
+
+                for line_desc, xpath in LINES_TO_XPATH.items():
+                    # Ground-truth correctness (Filer correct or false)
+                    expected_value = _parse_xml_value(xml_str, xpath)
+                    generated_value = _draft_amount_for_line(final_draft, line_desc)
+                    filer_correct = generated_value == expected_value
+
+                    # Map "Line 9: ..." → "9"
+                    line_prefix = line_desc.split(":")[0].strip()  # e.g. "Line 9"
+                    if " " in line_prefix:
+                        line_id = line_prefix.split(" ", 1)[1].strip()
+                    else:
+                        line_id = line_prefix
+
+                    # Verifier safety assurance case (sac) for this line?
+                    lf = next(
+                        (lf for lf in line_findings if lf.get("line") == line_id), None
+                    )
+                    v_has_sac = lf is not None
+
+                    # Approver per-line stance: did Approver request this line to be recomputed?
+                    key = ("1040", line_id)
+                    approver_flags_line = (
+                        decision_label == "needs_revision" and key in recompute_lines
+                    )
+
+                    # For lines with a safety case, "A agree" means Approver also treats the line as needing revision.
+                    if filer_correct:
+                        if not v_has_sac:
+                            counts[1] += 1  # Filer correct, V no-sac
+                        else:
+                            if approver_flags_line:
+                                counts[2] += 1  # Filer correct, V sac, A agree
+                            else:
+                                counts[3] += 1  # Filer correct, V sac, A disagree
+                    else:
+                        if not v_has_sac:
+                            counts[4] += 1  # Filer false, V no-sac
+                        else:
+                            if approver_flags_line:
+                                counts[5] += 1  # Filer false, V sac, A agree
+                            else:
+                                counts[6] += 1  # Filer false, V sac, A disagree
+
+                log("## Per-line outcome categories (Filer / Verifier / Approver)")
+                log()
+                log(
+                    f"1. Filer correct, V no-sac: {counts[1]} line(s)  (V no-sac only occurs when V judged the line correct)."
+                )
+                log(
+                    f"2. Filer correct, V sac, A agree: {counts[2]} line(s)"
+                )
+                log(
+                    f"3. Filer correct, V sac, A disagree: {counts[3]} line(s)"
+                )
+                log(
+                    f"4. Filer false, V no-sac: {counts[4]} line(s)"
+                )
+                log(
+                    f"5. Filer false, V sac, A agree: {counts[5]} line(s)"
+                )
+                log(
+                    f"6. Filer false, V sac, A disagree: {counts[6]} line(s)"
+                )
+                log()
+
         except ImportError as e:
             log("## Evaluation skipped (install lxml to evaluate vs output.xml)")
             log(str(e))

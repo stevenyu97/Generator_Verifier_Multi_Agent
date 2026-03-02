@@ -4,7 +4,7 @@ from __future__ import annotations
 import json
 import os
 from dataclasses import asdict
-from typing import Any, Dict, Optional
+from typing import Any, Dict, Optional, Tuple
 
 # Override with TAX_MAX_NEW_TOKENS if needed
 DEFAULT_MAX_NEW_TOKENS = int(os.environ.get("TAX_MAX_NEW_TOKENS", "32768"))
@@ -115,7 +115,8 @@ def verifier_agent(
 
     _valid_verdicts = ("correct", "plausible", "suspicious", "wrong")
     _valid_overall = ("accept", "uncertain", "reject")
-    line_findings = []
+    # Build full set of line findings from the model
+    all_line_findings = []
     for lf in raw.get("line_findings", []):
         evidence = [
             EvidenceItem(
@@ -128,7 +129,7 @@ def verifier_agent(
         v = lf.get("verdict", "plausible")
         if v not in _valid_verdicts:
             v = "plausible"
-        line_findings.append(
+        all_line_findings.append(
             LineFinding(
                 form=lf.get("form", "1040"),
                 line=lf.get("line", ""),
@@ -142,6 +143,12 @@ def verifier_agent(
     ov = raw.get("overall_verdict", "uncertain")
     if ov not in _valid_overall:
         ov = "uncertain"
+
+    # Only output a safety assurance case (sac) for lines the Verifier does not mark as clearly correct.
+    # "plausible", "suspicious", or "wrong" → include in safety case; "correct" → no sac.
+    line_findings = [
+        lf for lf in all_line_findings if lf.verdict in ("plausible", "suspicious", "wrong")
+    ]
     return SafetyCase(
         claim_id=raw.get("claim_id", "safety-case-1"),
         overall_verdict=ov,
@@ -183,3 +190,32 @@ def approver_agent(
         comments=raw.get("comments", ""),
         required_changes=raw.get("required_changes", {"lines_to_recompute": []}),
     )
+
+
+def verify_and_approve_line(
+    client: QwenClient,
+    input_json: Dict[str, Any],
+    draft: DraftReturn,
+    line_id: str,
+) -> Tuple[LineFinding, ApprovalDecision]:
+    """Run Verifier and Approver but return the finding and decision for a single line."""
+    safety_case = verifier_agent(client, input_json, draft)
+
+    # Find the verifier finding corresponding to the requested line_id
+    line_finding = next(
+        (lf for lf in safety_case.line_findings if lf.line == line_id),
+        None,
+    )
+    if line_finding is None:
+        raise ValueError(f"No verifier finding for line {line_id!r}")
+
+    # Construct a minimal safety_case focused on this line for the Approver
+    per_line_safety_case = SafetyCase(
+        claim_id=safety_case.claim_id,
+        overall_verdict=safety_case.overall_verdict,
+        overall_confidence=safety_case.overall_confidence,
+        line_findings=[line_finding],
+    )
+
+    decision = approver_agent(client, input_json, draft, per_line_safety_case)
+    return line_finding, decision

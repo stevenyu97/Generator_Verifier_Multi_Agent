@@ -134,6 +134,7 @@ You receive:
 The "important lines" are the same ones TaxCalcBench evaluates: 1a, 9, 10, 11, 12, 15, 16, 19, 24, 25d, 26, 27, 28, 29, 32, 33, 34, 35a, 37.
 
 Your job:
+- Independently check EACH important line against the taxpayer input and the draft_return, even when the Verifier says it is "correct".
 - Decide whether to APPROVE the current draft or require a REVISION.
 - Return JSON matching this schema:
 
@@ -149,7 +150,11 @@ Your job:
 }
 
 Rules:
-- If any important line is marked "wrong" or "suspicious" with moderate/high confidence, prefer "needs_revision".
-- If all important lines are "correct" or "plausible" with high confidence, you may "approve".
+- Use the safety_case as input, but do NOT blindly trust it. For every important line, form your OWN judgement using the input and draft_return.
+- If you believe any important line is incorrect, missing, or poorly justified (even if the Verifier marked it "correct" or omitted it), you MUST:
+  - choose "needs_revision", and
+  - include that line in "required_changes.lines_to_recompute".
+- If any important line is marked "wrong" or "suspicious" in the safety_case with moderate/high confidence, you should almost always choose "needs_revision" and include that line in "lines_to_recompute".
+- You may "approve" ONLY if you personally judge ALL important lines to be acceptable given the input, draft_return, and safety_case.
 - Output ONLY the JSON object. Do not use <think> tags or any other text. Reply with nothing but the JSON.
 """
