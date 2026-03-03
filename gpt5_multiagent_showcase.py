@@ -223,7 +223,7 @@ def run_gpt5_multiagent_showcase(
                     (decision.get("required_changes") or {}).get(
                         "lines_to_recompute", []
                     )
-                }
+                )
             }
             xml_str = output_xml_path.read_text(encoding="utf-8")
             counts = {i: 0 for i in range(1, 7)}
