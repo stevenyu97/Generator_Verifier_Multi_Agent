@@ -1,16 +1,10 @@
 import json
-import os
 import sys
 from pathlib import Path
 
-from openai import OpenAI
-
-from prompts import FILER_SYSTEM_PROMPT
+from gpt5_filer import run_filer
 from schemas import DraftLine, DraftReturn
 from evaluator import evaluate as evaluate_draft
-
-
-client = OpenAI()
 
 # Default TaxCalcBench case directory (edit this if you want a different default)
 DEFAULT_CASE_DIR = Path(
@@ -18,37 +12,12 @@ DEFAULT_CASE_DIR = Path(
 )
 
 
-def extract_json_from_response(text: str) -> dict:
-    text = text.strip()
-    first = text.find("{")
-    last = text.rfind("}")
-    if first == -1 or last == -1 or last <= first:
-        raise ValueError("Model did not return JSON")
-    return json.loads(text[first:last + 1])
-
-
 def run_gpt5_filer(input_json: dict, max_new_tokens: int = 32768) -> DraftReturn:
     """
-    Call GPT-5 with the same Filer prompt and payload shape as the local filer_agent.
+    Call GPT-5 via gpt5_filer (LiteLLM Responses API + reasoning, same as TaxCalcBench).
     Returns a DraftReturn compatible with the evaluator.
     """
-    client.api_key = os.environ.get("OPENAI_API_KEY", client.api_key)
-    if not client.api_key:
-        raise RuntimeError("OPENAI_API_KEY environment variable is not set.")
-
-    payload = {"input": input_json}
-    user_text = json.dumps(payload, indent=2)
-
-    resp = client.chat.completions.create(
-        model="gpt-5.1",
-        messages=[
-            {"role": "system", "content": FILER_SYSTEM_PROMPT},
-            {"role": "user", "content": user_text},
-        ],
-        temperature=0.0,
-    )
-    content = resp.choices[0].message.content or ""
-    raw = extract_json_from_response(content)
+    raw = run_filer(input_json)
 
     lines = []
     for l in raw.get("lines", []):
@@ -115,11 +84,6 @@ def main() -> None:
     print("## Evaluation (vs TaxCalcBench expected output.xml)")
     print()
     print(eval_result.report)
-    print()
-    print(f"Strictly correct return: {eval_result.strictly_correct_return}")
-    print(f"Lenient correct return: {eval_result.lenient_correct_return}")
-    print(f"Correct (by line): {eval_result.correct_by_line_score * 100:.2f}%")
-    print(f"Correct (by line, lenient): {eval_result.lenient_correct_by_line_score * 100:.2f}%")
 
 
 if __name__ == "__main__":

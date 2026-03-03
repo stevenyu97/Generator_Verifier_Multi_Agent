@@ -1,0 +1,2 @@
+# GPT-5 filer uses LiteLLM Responses API (same as TaxCalcBench) for comparable accuracy
+litellm>=1.0.0

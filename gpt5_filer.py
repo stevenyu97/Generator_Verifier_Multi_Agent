@@ -2,12 +2,13 @@ import json
 import os
 import sys
 
-from openai import OpenAI
+from litellm import responses
 
 from prompts import FILER_SYSTEM_PROMPT
 
-
-client = OpenAI()
+# Match TaxCalcBench: same model and reasoning API for comparable accuracy (~80% by line)
+GPT5_MODEL = "openai/gpt-5-2025-08-07"
+REASONING_EFFORT = "high"
 
 
 def extract_json_from_response(text: str) -> dict:
@@ -21,27 +22,30 @@ def extract_json_from_response(text: str) -> dict:
 
 def run_filer(input_json: dict, max_new_tokens: int = 32768) -> dict:
     """
-    Call a GPT-5 model with the same Filer prompt used in the local pipeline.
-    Returns the raw JSON object with `return_version`, `lines`, and `metadata`.
+    Call GPT-5 via LiteLLM Responses API with reasoning (same as TaxCalcBench)
+    so accuracy is comparable (~80% correct by line). Returns raw JSON with
+    `return_version`, `lines`, and `metadata`.
     """
-    client.api_key = os.environ.get("OPENAI_API_KEY", client.api_key)
-    if not client.api_key:
+    if not os.environ.get("OPENAI_API_KEY"):
         raise RuntimeError("OPENAI_API_KEY environment variable is not set.")
 
     payload = {"input": input_json}
     user_text = json.dumps(payload, indent=2)
+    # Single prompt string as in TaxCalcBench (responses API uses "input", not messages)
+    full_prompt = f"{FILER_SYSTEM_PROMPT}\n\n---\n\nUser input:\n{user_text}"
 
-    resp = client.chat.completions.create(
-        model="gpt-5.1",
-        messages=[
-            {"role": "system", "content": FILER_SYSTEM_PROMPT},
-            {"role": "user", "content": user_text},
-        ],
-        max_tokens=max_new_tokens,
-        temperature=0.0,
+    response = responses(
+        model=GPT5_MODEL,
+        input=full_prompt,
+        reasoning={"effort": REASONING_EFFORT},
     )
-    content = resp.choices[0].message.content or ""
-    return extract_json_from_response(content)
+    # Extract assistant message text from response output (same as tax_return_generator)
+    content = ""
+    for entry in response.output:
+        if getattr(entry, "type", None) == "message" and getattr(entry, "content", None):
+            content = entry.content[0].text
+            break
+    return extract_json_from_response(content or "")
 
 
 def main() -> None:
