@@ -63,11 +63,9 @@ _VERIFIER_LINE_IDS = {"1a", "9", "10", "11", "12", "15", "16", "19", "24", "25d"
 
 
 def _trim_draft_for_verifier(draft: DraftReturn, max_rationale: int = 120) -> Dict[str, Any]:
-    """Send only evaluation lines with short rationales so prompt + 19 findings fit within model max length."""
+    """Send the full draft (all lines) with short rationales so the Verifier can see every line but the prompt stays within length limits."""
     lines = []
     for l in draft.lines:
-        if (l.line or "").strip() not in _VERIFIER_LINE_IDS:
-            continue
         d = asdict(l)
         r = d.get("rationale", "")
         if len(r) > max_rationale:
@@ -115,8 +113,7 @@ def verifier_agent(
 
     _valid_verdicts = ("correct", "plausible", "suspicious", "wrong")
     _valid_overall = ("accept", "uncertain", "reject")
-    # Build full set of line findings from the model
-    all_line_findings = []
+    line_findings = []
     for lf in raw.get("line_findings", []):
         evidence = [
             EvidenceItem(
@@ -129,7 +126,7 @@ def verifier_agent(
         v = lf.get("verdict", "plausible")
         if v not in _valid_verdicts:
             v = "plausible"
-        all_line_findings.append(
+        line_findings.append(
             LineFinding(
                 form=lf.get("form", "1040"),
                 line=lf.get("line", ""),
@@ -144,17 +141,47 @@ def verifier_agent(
     if ov not in _valid_overall:
         ov = "uncertain"
 
-    # Only output a safety assurance case (sac) for lines the Verifier does not mark as clearly correct.
-    # "plausible", "suspicious", or "wrong" → include in safety case; "correct" → no sac.
-    line_findings = [
-        lf for lf in all_line_findings if lf.verdict in ("plausible", "suspicious", "wrong")
-    ]
-    return SafetyCase(
+    # Only output sac for lines the Verifier does not mark as "correct". Omit "correct" so V no-sac = V thinks correct.
+    line_findings_for_sac = [lf for lf in line_findings if lf.verdict != "correct"]
+    safety_case = SafetyCase(
         claim_id=raw.get("claim_id", "safety-case-1"),
         overall_verdict=ov,
         overall_confidence=float(raw.get("overall_confidence", 0.0)),
-        line_findings=line_findings,
+        line_findings=line_findings_for_sac,
     )
+    return _apply_verifier_numeric_checks(draft, safety_case)
+
+
+def _apply_verifier_numeric_checks(draft: DraftReturn, safety_case: SafetyCase) -> SafetyCase:
+    """Lightweight numeric sanity checks that can upgrade overly-optimistic Verifier verdicts.
+
+    These checks are deterministic and operate only on the draft itself, not on ground-truth XML.
+    If a line's amount is arithmetically inconsistent with related lines but the Verifier marked
+    it as 'correct', we downgrade it to 'suspicious' so downstream analysis sees a sac for it.
+    """
+    # Index draft lines by (form, line) for quick lookup
+    amounts: Dict[tuple, float] = {}
+    for dl in draft.lines:
+        try:
+            amt = float(dl.amount)
+        except (TypeError, ValueError):
+            amt = 0.0
+        key = ((dl.form or "1040").strip(), (dl.line or "").strip())
+        amounts[key] = amt
+
+    # Helper to get 1040 line amount with default 0.0
+    def _amt(line_id: str) -> float:
+        return amounts.get(("1040", line_id), 0.0)
+
+    # Simple internal-consistency rule: Line 11 ≈ Line 9 − Line 10
+    target = _amt("11")
+    lhs = _amt("9") - _amt("10")
+    if abs(target - lhs) > 1e-6:
+        for lf in safety_case.line_findings:
+            if lf.form == "1040" and lf.line.strip() == "11" and lf.verdict == "correct":
+                lf.verdict = "suspicious"
+
+    return safety_case
 
 
 def approver_agent(

@@ -8,8 +8,8 @@ from typing import Any, Dict, List, Optional, Tuple
 
 from client import QwenClient
 from environment import run_episode
-from schemas import DraftReturn
-from evaluator import LINES_TO_XPATH, _parse_xml_value, _draft_amount_for_line
+from schemas import DraftLine, DraftReturn
+from evaluator import LINES_TO_XPATH, _parse_xml_value, _draft_amount_for_line, evaluate as evaluate_draft_fn
 
 
 def load_taxcalcbench_case(case_dir: Path) -> Dict[str, Any]:
@@ -30,7 +30,8 @@ def run_showcase(
 
     if case_dir is None:
         alt = Path(
-            "/home/ubuntu/LLM/Dataset/taxcalcbench_dataset/test_data/mfj-multiple-schedule-c-loss-multi-home-office"
+            "/home/ubuntu/LLM/Dataset/taxcalcbench_dataset/test_data/single-retirement-1099r-alaska-dividend"
+            #"/home/ubuntu/LLM/Dataset/taxcalcbench_dataset/test_data/mfj-multiple-schedule-c-loss-multi-home-office"
         )
         if alt.joinpath("input.json").exists():
             case_dir = alt
@@ -148,31 +149,87 @@ def run_showcase(
         if len(h["draft"]["lines"]) > 8:
             log(f"  ... and {len(h['draft']['lines']) - 8} more lines")
         log()
-        log("**Safety case**")
+
+        # Verifier & Approver interaction for this round
         sc = h["safety_case"]
+        d = h["decision"]
+        decision_label = d.get("decision")
+        recompute_lines_round = {
+            (c.get("form"), c.get("line"))
+            for c in (
+                (d.get("required_changes") or {}).get(
+                    "lines_to_recompute", []
+                )
+            )
+        }
+
+        log("**Safety case (per-line Verifier verdicts)**")
         log(
             f"  - Overall verdict: {sc.get('overall_verdict')} (confidence: {sc.get('overall_confidence')})"
         )
-        for lf in (sc.get("line_findings") or [])[:5]:
+        for lf in (sc.get("line_findings") or []):
             log(
                 f"  - {lf.get('form')} {lf.get('line')}: {lf.get('verdict')} — {lf.get('claim', '')[:50]}"
             )
         log()
-        log("**Approver decision**")
-        d = h["decision"]
-        log(f"  - Decision: {d.get('decision')}; comments: {d.get('comments', '')[:80]}")
+
+        log("**Per-line interaction (Verifier + Approver for this round)**")
+        for lf in (sc.get("line_findings") or []):
+            form = lf.get("form", "")
+            line_no = lf.get("line", "")
+            verdict = lf.get("verdict", "plausible")
+            key = (form, line_no)
+            if decision_label == "approve":
+                approver_status = "approved"
+            elif key in recompute_lines_round and decision_label == "needs_revision":
+                approver_status = "needs_revision"
+            else:
+                approver_status = "not_flagged"
+            log(
+                f"  - {form} Line {line_no}: Verifier **{verdict}**, Approver **{approver_status}**"
+            )
+        log()
+
+        log("**Approver decision (round summary)**")
+        log(f"  - Decision: {decision_label}; comments: {d.get('comments', '')[:80]}")
         log()
 
     output_xml = Path(case_dir) / "output.xml"
     if output_xml.exists():
         try:
             print("[Showcase] Evaluating draft vs output.xml...")
-            from evaluator import evaluate as evaluate_draft
 
-            # Run the canonical evaluation (line-level correctness vs XML)
-            eval_result = evaluate_draft(final_draft, output_xml)
+            # Correct (by line) BEFORE Verifier/Approver: initial Filer draft (first round)
+            correct_before_pct = None
+            if episode_history:
+                first_round_draft = episode_history[0].get("draft") or {}
+                initial_draft = DraftReturn(
+                    return_version=first_round_draft.get("return_version", "ty24-v1"),
+                    lines=[
+                        DraftLine(
+                            form=l.get("form", "1040"),
+                            line=l.get("line", ""),
+                            description=l.get("description", ""),
+                            amount=float(l.get("amount", 0)) if l.get("amount") is not None else 0.0,
+                            rationale=l.get("rationale", ""),
+                        )
+                        for l in first_round_draft.get("lines", [])
+                    ],
+                    metadata=first_round_draft.get("metadata", {}),
+                )
+                eval_before = evaluate_draft_fn(initial_draft, output_xml)
+                correct_before_pct = eval_before.correct_by_line_score * 100
+
+            # Correct (by line) AFTER Verifier/Approver: final draft (possibly revised)
+            eval_result = evaluate_draft_fn(final_draft, output_xml)
+            correct_after_pct = eval_result.correct_by_line_score * 100
+
             log("## Evaluation (vs TaxCalcBench expected output.xml)")
             log()
+            if correct_before_pct is not None:
+                log(f"**Correct (by line) before Verifier/Approver:** {correct_before_pct:.2f}%")
+                log(f"**Correct (by line) after Verifier/Approver:** {correct_after_pct:.2f}%")
+                log()
             log(eval_result.report)
             log()
 
