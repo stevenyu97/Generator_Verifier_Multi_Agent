@@ -15,6 +15,14 @@ from gpt5_client import Gpt5Client
 from schemas import DraftLine, DraftReturn
 
 
+def _safe_amount(raw: Any) -> float:
+    """Coerce model output (e.g. '' or non-numeric) to float for draft line amount."""
+    try:
+        return float(raw)
+    except (TypeError, ValueError):
+        return 0.0
+
+
 def load_taxcalcbench_case(case_dir: Path) -> Dict[str, Any]:
     input_path = case_dir / "input.json"
     with input_path.open(encoding="utf-8") as f:
@@ -187,9 +195,7 @@ def run_gpt5_multiagent_showcase(
                         form=l.get("form", "1040"),
                         line=l.get("line", ""),
                         description=l.get("description", ""),
-                        amount=float(l.get("amount", 0))
-                        if l.get("amount") is not None
-                        else 0.0,
+                        amount=_safe_amount(l.get("amount", 0.0)),
                         rationale=l.get("rationale", ""),
                     )
                     for l in first_round_draft.get("lines", [])
