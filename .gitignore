@@ -15,3 +15,8 @@ convfinqa/raw/
 *.swp
 .idea/
 .vscode/
+
+# Raw dataset downloads (regenerate with download_data.py)
+benchmarks/convfinqa/data/
+benchmarks/convfinqa/raw/
+convfinqa/raw/
