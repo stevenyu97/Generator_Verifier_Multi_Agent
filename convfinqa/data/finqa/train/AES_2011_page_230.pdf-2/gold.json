@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total non-recourse debt as of december 31 , 2011 is due in 2014?",
+      "answer": 0.10548,
+      "answer_raw": "0.10548",
+      "program": "divide(1697, 16088)"
+    }
+  ]
+}

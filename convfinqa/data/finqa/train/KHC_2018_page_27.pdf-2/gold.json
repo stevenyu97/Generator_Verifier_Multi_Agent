@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of facilities are leased?",
+      "answer": 0.03571,
+      "answer_raw": "0.03571",
+      "program": "divide(const_3, 84)"
+    }
+  ]
+}

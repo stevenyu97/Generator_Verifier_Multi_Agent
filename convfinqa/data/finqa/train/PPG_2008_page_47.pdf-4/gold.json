@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in interest payments from 2007 to 2008?",
+      "answer": 1.23529,
+      "answer_raw": "1.23529",
+      "program": "subtract(228, 102), divide(#0, 102)"
+    }
+  ]
+}

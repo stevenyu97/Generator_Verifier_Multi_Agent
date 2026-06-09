@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in operating income from 2009 to 2010?",
+      "answer": -0.04756,
+      "answer_raw": "-0.04756",
+      "program": "subtract(1502, 1577), divide(#0, 1577)"
+    }
+  ]
+}

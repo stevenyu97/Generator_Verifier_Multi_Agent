@@ -1,0 +1,90 @@
+{
+  "input": {
+    "id": "CAT/2017/page_136.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "2017 form 10-k | 115 and $ 1088 million , respectively , were primarily comprised of loans to dealers , and the spc 2019s liabilities of $ 1106 million and $ 1087 million , respectively , were primarily comprised of commercial paper .",
+      "the assets of the spc are not available to pay cat financial 2019s creditors .",
+      "cat financial may be obligated to perform under the guarantee if the spc experiences losses .",
+      "no loss has been experienced or is anticipated under this loan purchase agreement .",
+      "cat financial is party to agreements in the normal course of business with selected customers and caterpillar dealers in which they commit to provide a set dollar amount of financing on a pre- approved basis .",
+      "they also provide lines of credit to certain customers and caterpillar dealers , of which a portion remains unused as of the end of the period .",
+      "commitments and lines of credit generally have fixed expiration dates or other termination clauses .",
+      "it has been cat financial 2019s experience that not all commitments and lines of credit will be used .",
+      "management applies the same credit policies when making commitments and granting lines of credit as it does for any other financing .",
+      "cat financial does not require collateral for these commitments/ lines , but if credit is extended , collateral may be required upon funding .",
+      "the amount of the unused commitments and lines of credit for dealers as of december 31 , 2017 and 2016 was $ 10993 million and $ 12775 million , respectively .",
+      "the amount of the unused commitments and lines of credit for customers as of december 31 , 2017 and 2016 was $ 3092 million and $ 3340 million , respectively .",
+      "our product warranty liability is determined by applying historical claim rate experience to the current field population and dealer inventory .",
+      "generally , historical claim rates are based on actual warranty experience for each product by machine model/engine size by customer or dealer location ( inside or outside north america ) .",
+      "specific rates are developed for each product shipment month and are updated monthly based on actual warranty claim experience. ."
+    ],
+    "post_text": [
+      "22 .",
+      "environmental and legal matters the company is regulated by federal , state and international environmental laws governing our use , transport and disposal of substances and control of emissions .",
+      "in addition to governing our manufacturing and other operations , these laws often impact the development of our products , including , but not limited to , required compliance with air emissions standards applicable to internal combustion engines .",
+      "we have made , and will continue to make , significant research and development and capital expenditures to comply with these emissions standards .",
+      "we are engaged in remedial activities at a number of locations , often with other companies , pursuant to federal and state laws .",
+      "when it is probable we will pay remedial costs at a site , and those costs can be reasonably estimated , the investigation , remediation , and operating and maintenance costs are accrued against our earnings .",
+      "costs are accrued based on consideration of currently available data and information with respect to each individual site , including available technologies , current applicable laws and regulations , and prior remediation experience .",
+      "where no amount within a range of estimates is more likely , we accrue the minimum .",
+      "where multiple potentially responsible parties are involved , we consider our proportionate share of the probable costs .",
+      "in formulating the estimate of probable costs , we do not consider amounts expected to be recovered from insurance companies or others .",
+      "we reassess these accrued amounts on a quarterly basis .",
+      "the amount recorded for environmental remediation is not material and is included in accrued expenses .",
+      "we believe there is no more than a remote chance that a material amount for remedial activities at any individual site , or at all the sites in the aggregate , will be required .",
+      "on january 7 , 2015 , the company received a grand jury subpoena from the u.s .",
+      "district court for the central district of illinois .",
+      "the subpoena requests documents and information from the company relating to , among other things , financial information concerning u.s .",
+      "and non-u.s .",
+      "caterpillar subsidiaries ( including undistributed profits of non-u.s .",
+      "subsidiaries and the movement of cash among u.s .",
+      "and non-u.s .",
+      "subsidiaries ) .",
+      "the company has received additional subpoenas relating to this investigation requesting additional documents and information relating to , among other things , the purchase and resale of replacement parts by caterpillar inc .",
+      "and non-u.s .",
+      "caterpillar subsidiaries , dividend distributions of certain non-u.s .",
+      "caterpillar subsidiaries , and caterpillar sarl and related structures .",
+      "on march 2-3 , 2017 , agents with the department of commerce , the federal deposit insurance corporation and the internal revenue service executed search and seizure warrants at three facilities of the company in the peoria , illinois area , including its former corporate headquarters .",
+      "the warrants identify , and agents seized , documents and information related to , among other things , the export of products from the united states , the movement of products between the united states and switzerland , the relationship between caterpillar inc .",
+      "and caterpillar sarl , and sales outside the united states .",
+      "it is the company 2019s understanding that the warrants , which concern both tax and export activities , are related to the ongoing grand jury investigation .",
+      "the company is continuing to cooperate with this investigation .",
+      "the company is unable to predict the outcome or reasonably estimate any potential loss ; however , we currently believe that this matter will not have a material adverse effect on the company 2019s consolidated results of operations , financial position or liquidity .",
+      "on march 20 , 2014 , brazil 2019s administrative council for economic defense ( cade ) published a technical opinion which named 18 companies and over 100 individuals as defendants , including two subsidiaries of caterpillar inc. , mge - equipamentos e servi e7os ferrovi e1rios ltda .",
+      "( mge ) and caterpillar brasil ltda .",
+      "the publication of the technical opinion opened cade 2019s official administrative investigation into allegations that the defendants participated in anticompetitive bid activity for the construction and maintenance of metro and train networks in brazil .",
+      "while companies cannot be ."
+    ],
+    "table": [
+      [
+        "( millions of dollars )",
+        "2017",
+        "2016"
+      ],
+      [
+        "warranty liability january 1",
+        "$ 1258",
+        "$ 1354"
+      ],
+      [
+        "reduction in liability ( payments )",
+        "-860 ( 860 )",
+        "-909 ( 909 )"
+      ],
+      [
+        "increase in liability ( new warranties )",
+        "1021",
+        "813"
+      ],
+      [
+        "warranty liability december 31",
+        "$ 1419",
+        "$ 1258"
+      ]
+    ],
+    "questions": [
+      "what is the 2017 growth rate in the amount of the unused commitments and lines of credit for dealers?"
+    ]
+  }
+}

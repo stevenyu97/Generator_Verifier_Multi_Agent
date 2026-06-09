@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "INTC/2013/page_40.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "our overall gross margin percentage decreased to 59.8% ( 59.8 % ) in 2013 from 62.1% ( 62.1 % ) in 2012 .",
+      "the decrease in the gross margin percentage was primarily due to the gross margin percentage decrease in pccg .",
+      "we derived most of our overall gross margin dollars in 2013 and 2012 from the sale of platforms in the pccg and dcg operating segments .",
+      "our net revenue for 2012 , which included 52 weeks , decreased by $ 658 million , or 1% ( 1 % ) , compared to 2011 , which included 53 weeks .",
+      "the pccg and dcg platform unit sales decreased 1% ( 1 % ) while average selling prices were unchanged .",
+      "additionally , lower netbook platform unit sales and multi-comm average selling prices , primarily discrete modems , contributed to the decrease .",
+      "these decreases were partially offset by our mcafee operating segment , which we acquired in the q1 2011 .",
+      "mcafee contributed $ 469 million of additional revenue in 2012 compared to 2011 .",
+      "our overall gross margin dollars for 2012 decreased by $ 606 million , or 2% ( 2 % ) , compared to 2011 .",
+      "the decrease was due in large part to $ 494 million of excess capacity charges , as well as lower revenue from the pccg and dcg platform .",
+      "to a lesser extent , approximately $ 390 million of higher unit costs on the pccg and dcg platform as well as lower netbook and multi-comm revenue contributed to the decrease .",
+      "the decrease was partially offset by $ 643 million of lower factory start-up costs as we transition from our 22nm process technology to r&d of our next- generation 14nm process technology , as well as $ 422 million of charges recorded in 2011 to repair and replace materials and systems impacted by a design issue related to our intel ae 6 series express chipset family .",
+      "the decrease was also partially offset by the two additional months of results from our acquisition of mcafee , which occurred on february 28 , 2011 , contributing approximately $ 334 million of additional gross margin dollars in 2012 compared to 2011 .",
+      "the amortization of acquisition-related intangibles resulted in a $ 557 million reduction to our overall gross margin dollars in 2012 , compared to $ 482 million in 2011 , primarily due to acquisitions completed in q1 2011 .",
+      "our overall gross margin percentage in 2012 was flat from 2011 as higher excess capacity charges and higher unit costs on the pccg and dcg platform were offset by lower factory start-up costs and no impact in 2012 for a design issue related to our intel 6 series express chipset family .",
+      "we derived a substantial majority of our overall gross margin dollars in 2012 and 2011 from the sale of platforms in the pccg and dcg operating segments .",
+      "pc client group the revenue and operating income for the pccg operating segment for each period were as follows: ."
+    ],
+    "post_text": [
+      "net revenue for the pccg operating segment decreased by $ 1.5 billion , or 4% ( 4 % ) , in 2013 compared to 2012 .",
+      "pccg platform unit sales were down 3% ( 3 % ) primarily on softness in traditional pc demand during the first nine months of the year .",
+      "the decrease in revenue was driven by lower notebook and desktop platform unit sales which were down 4% ( 4 % ) and 2% ( 2 % ) , respectively .",
+      "pccg platform average selling prices were flat , with 6% ( 6 % ) higher desktop platform average selling prices offset by 4% ( 4 % ) lower notebook platform average selling prices .",
+      "operating income decreased by $ 1.3 billion , or 10% ( 10 % ) , in 2013 compared to 2012 , which was driven by $ 1.5 billion of lower gross margin , partially offset by $ 200 million of lower operating expenses .",
+      "the decrease in gross margin was driven by $ 1.5 billion of higher factory start-up costs primarily on our next-generation 14nm process technology as well as lower pccg platform revenue .",
+      "these decreases were partially offset by approximately $ 520 million of lower pccg platform unit costs , $ 260 million of lower excess capacity charges , and higher sell-through of previously non- qualified units .",
+      "net revenue for the pccg operating segment decreased by $ 1.1 billion , or 3% ( 3 % ) , in 2012 compared to 2011 .",
+      "pccg revenue was negatively impacted by the growth of tablets as these devices compete with pcs for consumer sales .",
+      "platform average selling prices and unit sales decreased 2% ( 2 % ) and 1% ( 1 % ) , respectively .",
+      "the decrease was driven by 6% ( 6 % ) lower notebook platform average selling prices and 5% ( 5 % ) lower desktop platform unit sales .",
+      "these decreases were partially offset by a 4% ( 4 % ) increase in desktop platform average selling prices and a 2% ( 2 % ) increase in notebook platform unit sales .",
+      "table of contents management 2019s discussion and analysis of financial condition and results of operations ( continued ) ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2013",
+        "2012",
+        "2011"
+      ],
+      [
+        "net revenue",
+        "$ 33039",
+        "$ 34504",
+        "$ 35624"
+      ],
+      [
+        "operating income",
+        "$ 11827",
+        "$ 13106",
+        "$ 14840"
+      ]
+    ],
+    "questions": [
+      "what was the operating margin for the pc client group in 2013?"
+    ]
+  }
+}

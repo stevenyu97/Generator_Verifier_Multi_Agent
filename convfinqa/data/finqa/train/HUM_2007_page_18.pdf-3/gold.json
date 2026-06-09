@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of aso's members among the total commercial medical membership?",
+      "answer": 0.47601,
+      "answer_raw": "0.47601",
+      "program": "divide(1643000, 3451600)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the growth rate of the s&p 500 index from 2011 to 2016",
+      "answer": 0.9818,
+      "answer_raw": "0.9818",
+      "program": "subtract(198.18, 100.0), divide(#0, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "did the cme group outperform the s&p 500?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(93.73, 111.99)"
+    }
+  ]
+}

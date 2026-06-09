@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the property revenues for the large market same store to the secondary market same store in 2014",
+      "answer": 1.02119,
+      "answer_raw": "1.02119",
+      "program": "divide(252029, 246800)"
+    }
+  ]
+}

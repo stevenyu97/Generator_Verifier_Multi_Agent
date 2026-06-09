@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if you held 1000 shares on may 30 , 2014 , how much would you receive in dividends?",
+      "answer": 42.5,
+      "answer_raw": "42.5",
+      "program": "multiply(0.0425, 1000)"
+    }
+  ]
+}

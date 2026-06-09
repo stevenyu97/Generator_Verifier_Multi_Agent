@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 30 , what was the number of stockholders of record 2015 in millions",
+      "answer": 148.27586,
+      "answer_raw": "148.27586",
+      "program": "divide(43, 0.29)"
+    }
+  ]
+}

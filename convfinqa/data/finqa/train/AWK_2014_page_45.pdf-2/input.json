@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "AWK/2014/page_45.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "from those currently anticipated and expressed in such forward-looking statements as a result of a number of factors , including those we discuss under 201crisk factors 201d and elsewhere in this form 10-k .",
+      "you should read 201crisk factors 201d and 201cforward-looking statements . 201d executive overview general american water works company , inc .",
+      "( herein referred to as 201camerican water 201d or the 201ccompany 201d ) is the largest investor-owned united states water and wastewater utility company , as measured both by operating revenues and population served .",
+      "our approximately 6400 employees provide drinking water , wastewater and other water related services to an estimated 15 million people in 47 states and in one canadian province .",
+      "our primary business involves the ownership of water and wastewater utilities that provide water and wastewater services to residential , commercial , industrial and other customers .",
+      "our regulated businesses that provide these services are generally subject to economic regulation by state regulatory agencies in the states in which they operate .",
+      "the federal government and the states also regulate environmental , health and safety and water quality matters .",
+      "our regulated businesses provide services in 16 states and serve approximately 3.2 million customers based on the number of active service connections to our water and wastewater networks .",
+      "we report the results of these businesses in our regulated businesses segment .",
+      "we also provide services that are not subject to economic regulation by state regulatory agencies .",
+      "we report the results of these businesses in our market-based operations segment .",
+      "in 2014 , we continued the execution of our strategic goals .",
+      "our commitment to growth through investment in our regulated infrastructure and expansion of our regulated customer base and our market-based operations , combined with operational excellence led to continued improvement in regulated operating efficiency , improved performance of our market-based operations , and enabled us to provide increased value to our customers and investors .",
+      "during the year , we focused on growth , addressed regulatory lag , made more efficient use of capital and improved our regulated operation and maintenance ( 201co&m 201d ) efficiency ratio .",
+      "2014 financial results for the year ended december 31 , 2014 , we continued to increase net income , while making significant capital investment in our infrastructure and implementing operational efficiency improvements to keep customer rates affordable .",
+      "highlights of our 2014 operating results compared to 2013 and 2012 include: ."
+    ],
+    "post_text": [
+      "continuing operations income from continuing operations included 4 cents per diluted share of costs resulting from the freedom industries chemical spill in west virginia in 2014 and included 14 cents per diluted share in 2013 related to a tender offer .",
+      "earnings from continuing operations , adjusted for these two items , increased 10% ( 10 % ) , or 22 cents per share , mainly due to favorable operating results from our regulated businesses segment due to higher revenues and lower operating expenses , partially offset by higher depreciation expenses .",
+      "also contributing to the overall increase in income from continuing operations was lower interest expense in 2014 compared to the same period in 2013. ."
+    ],
+    "table": [
+      [
+        "",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      [
+        "income from continuing operations",
+        "$ 2.39",
+        "$ 2.07",
+        "$ 2.10"
+      ],
+      [
+        "income ( loss ) from discontinued operations net of tax",
+        "$ -0.04 ( 0.04 )",
+        "$ -0.01 ( 0.01 )",
+        "$ -0.09 ( 0.09 )"
+      ],
+      [
+        "diluted earnings per share",
+        "$ 2.35",
+        "$ 2.06",
+        "$ 2.01"
+      ]
+    ],
+    "questions": [
+      "by how much did diluted earnings per share increase from 2012 to 2014?"
+    ]
+  }
+}

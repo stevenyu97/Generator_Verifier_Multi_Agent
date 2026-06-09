@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in e total expense related to the defined contribution plan for u.s.employees from 2010 to 2011?",
+      "answer": 1.4,
+      "answer_raw": "1.4",
+      "program": "subtract(21.9, 20.5)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total expense related to the defined contribution plan for u.s.employees in 2010?",
+      "answer": 20.5,
+      "answer_raw": "20.5",
+      "program": "20.5"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what growth rate does this represent?",
+      "answer": 0.06829,
+      "answer_raw": "0.06829",
+      "program": "subtract(21.9, 20.5), divide(#0, 20.5)"
+    }
+  ]
+}

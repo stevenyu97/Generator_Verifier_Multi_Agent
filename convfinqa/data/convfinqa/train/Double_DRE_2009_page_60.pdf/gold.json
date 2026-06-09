@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the 12/07 property purchase, what was the percentage of assets allocated to in-service real estate assets?",
+      "answer": 0.7146,
+      "answer_raw": "0.7146",
+      "program": "divide(64.1, 89.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the net fair value of acquired assets and liabilities?",
+      "answer": 207914.0,
+      "answer_raw": "207914.0",
+      "program": "add(173006, 34908)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the ratio of this value to the advances and equity?",
+      "answer": 1.00513,
+      "answer_raw": "1.00513",
+      "program": "add(173006, 34908), divide(#0, 206852)"
+    }
+  ]
+}

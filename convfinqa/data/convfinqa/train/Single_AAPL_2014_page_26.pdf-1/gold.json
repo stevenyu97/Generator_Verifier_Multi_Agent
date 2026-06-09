@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in value of apple inc. from 2009 to 2014?",
+      "answer": 307.0,
+      "answer_raw": "307.0",
+      "program": "subtract(407, 100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": 3.07,
+      "answer_raw": "3.07",
+      "program": "subtract(407, 100), divide(#0, 100)"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "input": {
+    "id": "Double_JPM/2014/page_128.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "management 2019s discussion and analysis 126 jpmorgan chase & co./2014 annual report while useful as a current view of credit exposure , the net fair value of the derivative receivables does not capture the potential future variability of that credit exposure .",
+      "to capture the potential future variability of credit exposure , the firm calculates , on a client-by-client basis , three measures of potential derivatives-related credit loss : peak , derivative risk equivalent ( 201cdre 201d ) , and average exposure ( 201cavg 201d ) .",
+      "these measures all incorporate netting and collateral benefits , where applicable .",
+      "peak exposure to a counterparty is an extreme measure of exposure calculated at a 97.5% ( 97.5 % ) confidence level .",
+      "dre exposure is a measure that expresses the risk of derivative exposure on a basis intended to be equivalent to the risk of loan exposures .",
+      "the measurement is done by equating the unexpected loss in a derivative counterparty exposure ( which takes into consideration both the loss volatility and the credit rating of the counterparty ) with the unexpected loss in a loan exposure ( which takes into consideration only the credit rating of the counterparty ) .",
+      "dre is a less extreme measure of potential credit loss than peak and is the primary measure used by the firm for credit approval of derivative transactions .",
+      "finally , avg is a measure of the expected fair value of the firm 2019s derivative receivables at future time periods , including the benefit of collateral .",
+      "avg exposure over the total life of the derivative contract is used as the primary metric for pricing purposes and is used to calculate credit capital and the cva , as further described below .",
+      "the three year avg exposure was $ 37.5 billion and $ 35.4 billion at december 31 , 2014 and 2013 , respectively , compared with derivative receivables , net of all collateral , of $ 59.4 billion and $ 51.3 billion at december 31 , 2014 and 2013 , respectively .",
+      "the fair value of the firm 2019s derivative receivables incorporates an adjustment , the cva , to reflect the credit quality of counterparties .",
+      "the cva is based on the firm 2019s avg to a counterparty and the counterparty 2019s credit spread in the credit derivatives market .",
+      "the primary components of changes in cva are credit spreads , new deal activity or unwinds , and changes in the underlying market environment .",
+      "the firm believes that active risk management is essential to controlling the dynamic credit risk in the derivatives portfolio .",
+      "in addition , the firm 2019s risk management process takes into consideration the potential impact of wrong-way risk , which is broadly defined as the potential for increased correlation between the firm 2019s exposure to a counterparty ( avg ) and the counterparty 2019s credit quality .",
+      "many factors may influence the nature and magnitude of these correlations over time .",
+      "to the extent that these correlations are identified , the firm may adjust the cva associated with that counterparty 2019s avg .",
+      "the firm risk manages exposure to changes in cva by entering into credit derivative transactions , as well as interest rate , foreign exchange , equity and commodity derivative transactions .",
+      "the accompanying graph shows exposure profiles to the firm 2019s current derivatives portfolio over the next 10 years as calculated by the dre and avg metrics .",
+      "the two measures generally show that exposure will decline after the first year , if no new trades are added to the portfolio .",
+      "the following table summarizes the ratings profile by derivative counterparty of the firm 2019s derivative receivables , including credit derivatives , net of other liquid securities collateral , for the dates indicated .",
+      "the ratings scale is based on the firm 2019s internal ratings , which generally correspond to the ratings as defined by s&p and moody 2019s .",
+      "ratings profile of derivative receivables rating equivalent 2014 2013 ( a ) december 31 , ( in millions , except ratios ) exposure net of all collateral % (  % ) of exposure net of all collateral exposure net of all collateral % (  % ) of exposure net of all collateral ."
+    ],
+    "post_text": [
+      "( a ) the prior period amounts have been revised to conform with the current period presentation. ."
+    ],
+    "table": [
+      [
+        "rating equivalent december 31 ( in millions except ratios )",
+        "rating equivalent exposure net of all collateral",
+        "rating equivalent % (  % ) of exposure net of all collateral",
+        "exposure net of all collateral",
+        "% (  % ) of exposure net of all collateral"
+      ],
+      [
+        "aaa/aaa to aa-/aa3",
+        "$ 19202",
+        "32% ( 32 % )",
+        "$ 12953",
+        "25% ( 25 % )"
+      ],
+      [
+        "a+/a1 to a-/a3",
+        "13940",
+        "24",
+        "12930",
+        "25"
+      ],
+      [
+        "bbb+/baa1 to bbb-/baa3",
+        "19008",
+        "32",
+        "15220",
+        "30"
+      ],
+      [
+        "bb+/ba1 to b-/b3",
+        "6384",
+        "11",
+        "6806",
+        "13"
+      ],
+      [
+        "ccc+/caa1 and below",
+        "837",
+        "1",
+        "3415",
+        "7"
+      ],
+      [
+        "total",
+        "$ 59371",
+        "100% ( 100 % )",
+        "$ 51324",
+        "100% ( 100 % )"
+      ]
+    ],
+    "questions": [
+      "what percentage of the total exposure net of all collateral has a rating equivalent of a+/a1 to a-/a3?",
+      "what percentage of the ratings profile of derivative receivables were junk-rated in 2013?"
+    ]
+  }
+}

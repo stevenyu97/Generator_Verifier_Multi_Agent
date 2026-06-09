@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage cumulative total return for cititgroup's common stock for the five year period ending 2010?",
+      "answer": -0.8878,
+      "answer_raw": "-0.8878",
+      "program": "subtract(11.22, 100), divide(#0, 100)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the basis point increase in jpmorgan chase credit spread from 2008 \\\\n to 2009",
+      "answer": 0.05405,
+      "answer_raw": "0.05405",
+      "program": "subtract(39, 37), divide(#0, 37)"
+    }
+  ]
+}

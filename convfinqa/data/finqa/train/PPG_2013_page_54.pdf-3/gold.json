@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the unrecognized tax benefits from 2011 to 2012?",
+      "answer": -0.23364,
+      "answer_raw": "-0.23364",
+      "program": "subtract(82, 107), divide(#0, 107)"
+    }
+  ]
+}

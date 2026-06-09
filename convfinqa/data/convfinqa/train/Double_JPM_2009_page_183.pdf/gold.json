@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2009, what was the total of derivative receivables related to the netting adjustment 2013 cash collateral received/paid?",
+      "answer": 65468000000.0,
+      "answer_raw": "65468000000.0",
+      "program": "multiply(65468, const_1000000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total of the liquid securities collateral received by the firm?",
+      "answer": 15500000000.0,
+      "answer_raw": "15500000000.0",
+      "program": "multiply(65468, const_1000000), multiply(15.5, const_1000000), multiply(#1, const_1000)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the combined total of both amounts as of that date?",
+      "answer": 80968000000.0,
+      "answer_raw": "80968000000.0",
+      "program": "multiply(65468, const_1000000), multiply(15.5, const_1000000), multiply(#1, const_1000), add(#2, #0)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in that same year, how much did the gross derivative fair value receivables represent in relation to the payables one?",
+      "answer": 1.0305,
+      "answer_raw": "1.0305",
+      "program": "divide(1565518, 1519183)"
+    }
+  ]
+}

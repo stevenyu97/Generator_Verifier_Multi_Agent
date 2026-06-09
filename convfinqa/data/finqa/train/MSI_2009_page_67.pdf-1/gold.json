@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the aggerate net sales in 2008?",
+      "answer": 4135.26,
+      "answer_raw": "4135.26",
+      "program": "multiply(10086, 41%)"
+    }
+  ]
+}

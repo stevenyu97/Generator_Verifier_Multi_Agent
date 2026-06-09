@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the increase in net cash from operations between 2016 and 2017 was due to working capital changes?",
+      "answer": 0.52617,
+      "answer_raw": "0.52617",
+      "program": "divide(111.6, 212.1)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "between 2000 and 2001 , what was the percent increase of unrealized gains?",
+      "answer": 4.05263,
+      "answer_raw": "4.05263",
+      "program": "subtract(96, 19), divide(#0, 19)"
+    }
+  ]
+}

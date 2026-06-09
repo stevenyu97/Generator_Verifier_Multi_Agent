@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in addition to the repurchases of pnc common stock during the fourth quarter of 2012 , what were total number of shares repurchased including shares of series m preferred stock redeemed on december 10 , 2012?",
+      "answer": 6056.0,
+      "answer_raw": "6056.0",
+      "program": "add(1055, 5001)"
+    }
+  ]
+}

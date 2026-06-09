@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the decline in the stock price performance for hum from 2011 to 2012",
+      "answer": 0.00488,
+      "answer_raw": "0.00488",
+      "program": "divide(128, 162), divide(#0, 162)"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "input": {
+    "id": "Double_ETR/2017/page_477.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "based on the foregoing evaluation of management performance , the personnel committee approved the following annual incentive plan payouts to each named executive officer for 2017 : named executive officer base salary target as percentage of base salary payout as percentage of target 2017 annual incentive award ."
+    ],
+    "post_text": [
+      "nuclear retention plan mr . a0bakken participates in the nuclear retention plan , a retention plan for officers and other leaders with expertise in the nuclear industry .",
+      "the personnel committee authorized this plan to attract and retain key management and employee talent in the nuclear power field , a field that requires unique technical and other expertise that is in great demand in the utility industry .",
+      "the plan provides for bonuses to be paid annually over a three-year employment period with the bonus opportunity dependent on the participant 2019s management level and continued employment .",
+      "each annual payment is equal to an amount ranging from 15% ( 15 % ) to 30% ( 30 % ) of the employee 2019s base salary as of their date of enrollment in the plan .",
+      "mr . a0bakken 2019s participation in the plan commenced in may 2016 and in accordance with the terms and conditions of the plan , in may 2017 , 2018 , and 2019 , subject to his continued employment , mr . a0bakken will receive a cash bonus equal to 30% ( 30 % ) of his base salary as of may a01 , 2016 .",
+      "this plan does not allow for accelerated or prorated payout upon termination of any kind .",
+      "the three-year coverage period and percentage of base salary payable under the plan are consistent with the terms of participation of other senior nuclear officers who participate in this plan .",
+      "in may 2017 , mr .",
+      "bakken received a cash bonus of $ 181500 which equaled 30% ( 30 % ) of his may a01 , 2016 , base salary of $ 605000 .",
+      "long-term incentive compensation entergy corporation 2019s goal for its long-term incentive compensation is to focus the executive officers on building shareholder value and to increase the executive officers 2019 ownership of entergy corporation 2019s common stock in order to more closely align their interest with those of entergy corporation 2019s shareholders .",
+      "in its long-term incentive compensation programs , entergy corporation uses a mix of performance units , restricted stock , and stock options .",
+      "performance units are used to deliver more than a majority of the total target long-term incentive awards .",
+      "for periods through the end of 2017 , performance units reward the named executive officers on the basis of total shareholder return , which is a measure of stock price appreciation and dividend payments , in relation to the companies in the philadelphia utility index .",
+      "beginning with the 2018-2020 performance period , a cumulative utility earnings metric has been added to the long-term performance unit program to supplement the relative total shareholder return measure that historically has been used in this program with each measure equally weighted .",
+      "restricted stock ties the executive officers 2019 long-term financial interest to the long-term financial interests of entergy corporation 2019s shareholders .",
+      "stock options provide a direct incentive to increase the value of entergy corporation 2019s common stock .",
+      "in general , entergy corporation seeks to allocate the total value of long-term incentive compensation 60% ( 60 % ) to performance units and 40% ( 40 % ) to a combination of stock options and restricted stock , equally divided in value , based on the value the compensation model seeks to deliver .",
+      "awards for individual named executive officers may vary from this target as a result of individual performance , promotions , and internal pay equity .",
+      "the performance units for the 2015-2017 performance period were awarded under the 2011 equity ownership plan and long-term cash incentive plan ( the 201c2011 equity ownership plan 201d ) and the performance units for the ."
+    ],
+    "table": [
+      [
+        "named executive officer",
+        "base salary",
+        "target as percentage of base salary",
+        "payout as percentage of target",
+        "2017 annualincentive award"
+      ],
+      [
+        "a . christopher bakken iii",
+        "$ 620125",
+        "70% ( 70 % )",
+        "129% ( 129 % )",
+        "$ 559973"
+      ],
+      [
+        "marcus v . brown",
+        "$ 630000",
+        "70% ( 70 % )",
+        "129% ( 129 % )",
+        "$ 568890"
+      ],
+      [
+        "leo p . denault",
+        "$ 1230000",
+        "135% ( 135 % )",
+        "129% ( 129 % )",
+        "$ 2142045"
+      ],
+      [
+        "haley r . fisackerly",
+        "$ 355300",
+        "40% ( 40 % )",
+        "119% ( 119 % )",
+        "$ 169123"
+      ],
+      [
+        "andrew s . marsh",
+        "$ 600000",
+        "70% ( 70 % )",
+        "129% ( 129 % )",
+        "$ 541800"
+      ],
+      [
+        "phillip r . may jr .",
+        "$ 366150",
+        "60% ( 60 % )",
+        "137% ( 137 % )",
+        "$ 300000"
+      ],
+      [
+        "sallie t . rainer",
+        "$ 328275",
+        "40% ( 40 % )",
+        "119% ( 119 % )",
+        "$ 156259"
+      ],
+      [
+        "charles l . rice jr .",
+        "$ 286424",
+        "40% ( 40 % )",
+        "79% ( 79 % )",
+        "$ 91000"
+      ],
+      [
+        "richard c . riley",
+        "$ 344200",
+        "40% ( 40 % )",
+        "204% ( 204 % )",
+        "$ 280661"
+      ],
+      [
+        "roderick k . west",
+        "$ 675598",
+        "70% ( 70 % )",
+        "129% ( 129 % )",
+        "$ 610065"
+      ]
+    ],
+    "questions": [
+      "in the year of 2017, what was the difference between the highest and the second highest base salary?",
+      "and what was the difference between the highest and the lowest one?"
+    ]
+  }
+}

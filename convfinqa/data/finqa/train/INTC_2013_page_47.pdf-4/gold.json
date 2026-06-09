@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2013 what was the percent of the net cash used for investing activities to the net cash provided by operating activities",
+      "answer": 0.8699,
+      "answer_raw": "0.8699",
+      "program": "divide(18073, 20776)"
+    }
+  ]
+}

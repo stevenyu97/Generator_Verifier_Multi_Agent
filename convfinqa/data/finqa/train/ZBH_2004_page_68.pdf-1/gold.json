@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent difference in total assets acquired and net assets acquired?",
+      "answer": 0.37492,
+      "answer_raw": "0.37492",
+      "program": "subtract(210.5, 153.1), divide(#0, 153.1)"
+    }
+  ]
+}

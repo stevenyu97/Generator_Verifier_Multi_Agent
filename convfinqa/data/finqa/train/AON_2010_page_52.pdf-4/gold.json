@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 2008 what was the combined debt to asset ration of both 5] : juniperus and jchl",
+      "answer": 0.18182,
+      "answer_raw": "0.18182",
+      "program": "divide(22, 121)"
+    }
+  ]
+}

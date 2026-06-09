@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "PNC/2012/page_58.pdf-6",
+    "dataset": "finqa",
+    "pre_text": [
+      "consolidated income statement review our consolidated income statement is presented in item 8 of this report .",
+      "net income for 2012 was $ 3.0 billion compared with $ 3.1 billion for 2011 .",
+      "revenue growth of 8 percent and a decline in the provision for credit losses were more than offset by a 16 percent increase in noninterest expense in 2012 compared to 2011 .",
+      "further detail is included in the net interest income , noninterest income , provision for credit losses and noninterest expense portions of this consolidated income statement review .",
+      "net interest income table 2 : net interest income and net interest margin year ended december 31 dollars in millions 2012 2011 ."
+    ],
+    "post_text": [
+      "changes in net interest income and margin result from the interaction of the volume and composition of interest-earning assets and related yields , interest-bearing liabilities and related rates paid , and noninterest-bearing sources of funding .",
+      "see the statistical information ( unaudited ) 2013 average consolidated balance sheet and net interest analysis and analysis of year-to-year changes in net interest income in item 8 of this report and the discussion of purchase accounting accretion of purchased impaired loans in the consolidated balance sheet review in this item 7 for additional information .",
+      "the increase in net interest income in 2012 compared with 2011 was primarily due to the impact of the rbc bank ( usa ) acquisition , organic loan growth and lower funding costs .",
+      "purchase accounting accretion remained stable at $ 1.1 billion in both periods .",
+      "the net interest margin was 3.94% ( 3.94 % ) for 2012 and 3.92% ( 3.92 % ) for 2011 .",
+      "the increase in the comparison was primarily due to a decrease in the weighted-average rate accrued on total interest- bearing liabilities of 29 basis points , largely offset by a 21 basis point decrease on the yield on total interest-earning assets .",
+      "the decrease in the rate on interest-bearing liabilities was primarily due to the runoff of maturing retail certificates of deposit and the redemption of additional trust preferred and hybrid capital securities during 2012 , in addition to an increase in fhlb borrowings and commercial paper as lower-cost funding sources .",
+      "the decrease in the yield on interest-earning assets was primarily due to lower rates on new loan volume and lower yields on new securities in the current low rate environment .",
+      "with respect to the first quarter of 2013 , we expect net interest income to decline by two to three percent compared to fourth quarter 2012 net interest income of $ 2.4 billion , due to a decrease in purchase accounting accretion of up to $ 50 to $ 60 million , including lower expected cash recoveries .",
+      "for the full year 2013 , we expect net interest income to decrease compared with 2012 , assuming an expected decline in purchase accounting accretion of approximately $ 400 million , while core net interest income is expected to increase in the year-over-year comparison .",
+      "we believe our net interest margin will come under pressure in 2013 , due to the expected decline in purchase accounting accretion and assuming that the current low rate environment continues .",
+      "noninterest income noninterest income totaled $ 5.9 billion for 2012 and $ 5.6 billion for 2011 .",
+      "the overall increase in the comparison was primarily due to an increase in residential mortgage loan sales revenue driven by higher loan origination volume , gains on sales of visa class b common shares and higher corporate service fees , largely offset by higher provision for residential mortgage repurchase obligations .",
+      "asset management revenue , including blackrock , totaled $ 1.2 billion in 2012 compared with $ 1.1 billion in 2011 .",
+      "this increase was primarily due to higher earnings from our blackrock investment .",
+      "discretionary assets under management increased to $ 112 billion at december 31 , 2012 compared with $ 107 billion at december 31 , 2011 driven by stronger average equity markets , positive net flows and strong sales performance .",
+      "for 2012 , consumer services fees were $ 1.1 billion compared with $ 1.2 billion in 2011 .",
+      "the decline reflected the regulatory impact of lower interchange fees on debit card transactions partially offset by customer growth .",
+      "as further discussed in the retail banking portion of the business segments review section of this item 7 , the dodd-frank limits on interchange rates were effective october 1 , 2011 and had a negative impact on revenue of approximately $ 314 million in 2012 and $ 75 million in 2011 .",
+      "this impact was partially offset by higher volumes of merchant , customer credit card and debit card transactions and the impact of the rbc bank ( usa ) acquisition .",
+      "corporate services revenue increased by $ .3 billion , or 30 percent , to $ 1.2 billion in 2012 compared with $ .9 billion in 2011 due to higher commercial mortgage servicing revenue and higher merger and acquisition advisory fees in 2012 .",
+      "the major components of corporate services revenue are treasury management revenue , corporate finance fees , including revenue from capital markets-related products and services , and commercial mortgage servicing revenue , including commercial mortgage banking activities .",
+      "see the product revenue portion of this consolidated income statement review for further detail .",
+      "the pnc financial services group , inc .",
+      "2013 form 10-k 39 ."
+    ],
+    "table": [
+      [
+        "year ended december 31dollars in millions",
+        "2012",
+        "2011"
+      ],
+      [
+        "net interest income",
+        "$ 9640",
+        "$ 8700"
+      ],
+      [
+        "net interest margin",
+        "3.94% ( 3.94 % )",
+        "3.92% ( 3.92 % )"
+      ]
+    ],
+    "questions": [
+      "what was the change in millions in net interest income between 2011 and 2012?"
+    ]
+  }
+}

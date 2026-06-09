@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the total future obligations in 2014 are from noncancelable operating leases?",
+      "answer": 0.45421,
+      "answer_raw": "0.45421",
+      "program": "divide(124, 273)"
+    }
+  ]
+}

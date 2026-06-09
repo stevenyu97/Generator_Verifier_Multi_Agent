@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the change in the inventory reserve from 2008 to 2009",
+      "answer": 0.42801,
+      "answer_raw": "0.42801",
+      "program": "subtract(7964, 5577), divide(#0, 5577)"
+    }
+  ]
+}

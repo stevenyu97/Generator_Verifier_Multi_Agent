@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much did the annual payments increase from 2019 to 2024 and beyond?",
+      "answer": 350824.0,
+      "answer_raw": "350824.0",
+      "program": "subtract(475000, 124176)"
+    }
+  ]
+}

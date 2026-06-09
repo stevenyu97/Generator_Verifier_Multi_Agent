@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "JPM/2015/page_77.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "jpmorgan chase & co./2015 annual report 67 five-year stock performance the following table and graph compare the five-year cumulative total return for jpmorgan chase & co .",
+      "( 201cjpmorgan chase 201d or the 201cfirm 201d ) common stock with the cumulative return of the s&p 500 index , the kbw bank index and the s&p financial index .",
+      "the s&p 500 index is a commonly referenced united states of america ( 201cu.s . 201d ) equity benchmark consisting of leading companies from different economic sectors .",
+      "the kbw bank index seeks to reflect the performance of banks and thrifts that are publicly traded in the u.s .",
+      "and is composed of 24 leading national money center and regional banks and thrifts .",
+      "the s&p financial index is an index of 87 financial companies , all of which are components of the s&p 500 .",
+      "the firm is a component of all three industry indices .",
+      "the following table and graph assume simultaneous investments of $ 100 on december 31 , 2010 , in jpmorgan chase common stock and in each of the above indices .",
+      "the comparison assumes that all dividends are reinvested .",
+      "december 31 , ( in dollars ) 2010 2011 2012 2013 2014 2015 ."
+    ],
+    "post_text": [
+      "december 31 , ( in dollars ) ."
+    ],
+    "table": [
+      [
+        "december 31 ( in dollars )",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      [
+        "jpmorgan chase",
+        "$ 100.00",
+        "$ 80.03",
+        "$ 108.98",
+        "$ 148.98",
+        "$ 163.71",
+        "$ 177.40"
+      ],
+      [
+        "kbw bank index",
+        "100.00",
+        "76.82",
+        "102.19",
+        "140.77",
+        "153.96",
+        "154.71"
+      ],
+      [
+        "s&p financial index",
+        "100.00",
+        "82.94",
+        "106.78",
+        "144.79",
+        "166.76",
+        "164.15"
+      ],
+      [
+        "s&p 500 index",
+        "100.00",
+        "102.11",
+        "118.44",
+        "156.78",
+        "178.22",
+        "180.67"
+      ]
+    ],
+    "questions": [
+      "did jpmorgan chase outperform the kbw bank index?"
+    ]
+  }
+}

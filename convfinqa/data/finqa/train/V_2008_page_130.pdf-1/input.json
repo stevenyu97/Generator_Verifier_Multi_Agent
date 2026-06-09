@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "V/2008/page_130.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "visa inc .",
+      "notes to consolidated financial statements 2014 ( continued ) september 30 , 2008 ( in millions , except as noted ) purchase consideration total purchase consideration of approximately $ 17.3 billion was exchanged in october 2007 for the acquired interests .",
+      "the consideration was comprised of the following: ."
+    ],
+    "post_text": [
+      "( 1 ) see description of the true-up of purchase consideration below .",
+      "see note 4 2014visa europe for more information related to the visa europe put option and the liability under framework agreement .",
+      "visa inc .",
+      "common stock issued in exchange for the acquired regions the value of the purchase consideration conveyed to each of the member groups of the acquired regions was determined by valuing the underlying businesses contributed by each , after giving effect to negotiated adjustments .",
+      "the value of the purchase consideration , consisting of all outstanding shares of class canada , class ap , class lac and class cemea common stock , was measured at june 15 , 2007 ( the 201cmeasurement date 201d ) , the date on which all parties entered into the global restructuring agreement , and was determined to have a fair value of approximately $ 12.6 billion .",
+      "the company primarily relied upon the analysis of comparable companies with similar industry , business model and financial profiles .",
+      "this analysis considered a range of metrics including the forward multiples of revenue ; earnings before interest , depreciation and amortization ; and net income of comparable companies .",
+      "ultimately , the company determined that the forward net income multiple was the most appropriate measure to value the acquired regions and reflect anticipated changes in the company 2019s financial profile prospectively .",
+      "this multiple was applied to the corresponding forward net income of the acquired regions to calculate their value .",
+      "the most comparable company identified was mastercard inc .",
+      "therefore , the most significant input into this analysis was mastercard 2019s forward net income multiple of 27 times net income at the measurement date .",
+      "the company additionally performed discounted cash flow analyses for each region .",
+      "these analyses considered the company 2019s forecast by region and incorporated market participant assumptions for growth and profitability .",
+      "the cash flows were discounted using rates ranging from 12-16% ( 12-16 % ) , reflecting returns for investments times earnings before interest , tax , depreciation and amortization ( 201cebitda 201d ) to ascribe value to periods beyond the company 2019s forecast , consistent with recent payment processing , financial exchange and credit card precedent transactions. ."
+    ],
+    "table": [
+      [
+        "",
+        "in millions"
+      ],
+      [
+        "visa inc . common stock",
+        "$ 16785"
+      ],
+      [
+        "visa europe put option",
+        "346"
+      ],
+      [
+        "liability under framework agreement",
+        "132"
+      ],
+      [
+        "total purchase consideration issued at reorganization date",
+        "17263"
+      ],
+      [
+        "visa inc . shares issued as additional purchase consideration at the time of the true-up ( 1 )",
+        "1150"
+      ],
+      [
+        "total purchase consideration",
+        "$ 18413"
+      ]
+    ],
+    "questions": [
+      "what portion of the total purchase consideration was issued at the time of the true-up?"
+    ]
+  }
+}

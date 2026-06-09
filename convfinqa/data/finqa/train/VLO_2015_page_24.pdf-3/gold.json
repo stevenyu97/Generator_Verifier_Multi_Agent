@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase of shares purchased in november to december?",
+      "answer": 4595947.0,
+      "answer_raw": "4595947.0",
+      "program": "subtract(7008414, 2412467)"
+    }
+  ]
+}

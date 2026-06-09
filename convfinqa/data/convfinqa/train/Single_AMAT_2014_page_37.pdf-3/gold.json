@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in value of an investment in the applied materials from 2009 to 2014?",
+      "answer": 83.29,
+      "answer_raw": "83.29",
+      "program": "subtract(183.29, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the change in value of an investment in the s&p500 from 2009 to 2014?",
+      "answer": 116.39,
+      "answer_raw": "116.39",
+      "program": "subtract(183.29, const_100), subtract(216.39, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference in the change of investment values?",
+      "answer": 33.1,
+      "answer_raw": "33.1",
+      "program": "subtract(183.29, const_100), subtract(216.39, const_100), subtract(#1, #0)"
+    }
+  ]
+}

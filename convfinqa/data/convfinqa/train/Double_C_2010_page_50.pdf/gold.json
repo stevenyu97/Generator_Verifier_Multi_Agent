@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2009, what percentage of the total revenues net of interest expense was due to net interest revenues?",
+      "answer": 0.73149,
+      "answer_raw": "0.73149",
+      "program": "divide(12995, 17765)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that percentage in the next year, in 2010?",
+      "answer": 0.87394,
+      "answer_raw": "0.87394",
+      "program": "divide(13831, 15826)"
+    }
+  ]
+}

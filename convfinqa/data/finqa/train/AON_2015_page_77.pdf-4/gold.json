@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between the liability for uncertain tax positions as of december 31 , 2015 and the balance of the uncertain tax positions at december 31 , 2015 , ( in millions )",
+      "answer": 38.0,
+      "answer_raw": "38.0",
+      "program": "subtract(218, 180)"
+    }
+  ]
+}

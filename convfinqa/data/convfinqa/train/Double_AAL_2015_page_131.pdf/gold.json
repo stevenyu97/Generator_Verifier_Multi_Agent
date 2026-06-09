@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of the 2015 term loan facility payable on june 27, 2016, in billions?",
+      "answer": 1.9,
+      "answer_raw": "1.9",
+      "program": "1.9"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what percentage of that value corresponds to the first installment?",
+      "answer": 0.0125,
+      "answer_raw": "0.0125",
+      "program": "1.25%"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is, then, the amount of that first installment?",
+      "answer": 0.02375,
+      "answer_raw": "0.02375",
+      "program": "multiply(1.9, 1.25%)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and three years later, in 2019, what percentage of the total maturities of long-term debt and capital lease obligations were payable?",
+      "answer": 0.16235,
+      "answer_raw": "0.16235",
+      "program": "divide(3378, 20807)"
+    }
+  ]
+}

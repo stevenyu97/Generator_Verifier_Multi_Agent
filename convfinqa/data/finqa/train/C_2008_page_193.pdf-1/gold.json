@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in billions of proceeds from new securitizations from 2007 to 2008?",
+      "answer": -9.3,
+      "answer_raw": "-9.3",
+      "program": "subtract(1.2, 10.5)"
+    }
+  ]
+}

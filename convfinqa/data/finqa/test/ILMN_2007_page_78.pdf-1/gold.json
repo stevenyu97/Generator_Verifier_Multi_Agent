@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the year ended december 302007 what was the net margin",
+      "answer": 0.0474,
+      "answer_raw": "0.0474",
+      "program": "divide(17388, 366854)"
+    }
+  ]
+}

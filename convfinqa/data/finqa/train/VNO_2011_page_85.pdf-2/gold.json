@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was the quarterly high sales prices of the common shares and dividends paid per share for the first quarter of the year ended december 31 , 2011 higher than the fourth quarter of that period?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(93.53, 84.30)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the fair value of all notes due by 2019 ? in millions $ .",
+      "answer": 2672.0,
+      "answer_raw": "2672.0",
+      "program": "add(753, 785), add(1134, #0)"
+    }
+  ]
+}

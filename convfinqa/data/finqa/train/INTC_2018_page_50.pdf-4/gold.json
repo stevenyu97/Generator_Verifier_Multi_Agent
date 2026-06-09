@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total contractual obligations as of december 29 , 2018 are due to long-term debt obligations?",
+      "answer": 0.67362,
+      "answer_raw": "0.67362",
+      "program": "divide(40187, 59658)"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "INTC/2015/page_122.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "intel corporation notes to consolidated financial statements ( continued ) the aggregate fair value of awards that vested in 2015 was $ 1.5 billion ( $ 1.1 billion in 2014 and $ 1.0 billion in 2013 ) , which represents the market value of our common stock on the date that the rsus vested .",
+      "the grant-date fair value of awards that vested in 2015 was $ 1.1 billion ( $ 949 million in 2014 and $ 899 million in 2013 ) .",
+      "the number of rsus vested includes shares of common stock that we withheld on behalf of employees to satisfy the minimum statutory tax withholding requirements .",
+      "rsus that are expected to vest are net of estimated future forfeitures .",
+      "as of december 26 , 2015 , there was $ 1.8 billion in unrecognized compensation costs related to rsus granted under our equity incentive plans .",
+      "we expect to recognize those costs over a weighted average period of 1.2 years .",
+      "stock option awards as of december 26 , 2015 , options outstanding that have vested and are expected to vest were as follows : number of options ( in millions ) weighted average exercise weighted average remaining contractual ( in years ) aggregate intrinsic ( in millions ) ."
+    ],
+    "post_text": [
+      "aggregate intrinsic value represents the difference between the exercise price and $ 34.98 , the closing price of our common stock on december 24 , 2015 , as reported on the nasdaq global select market , for all in-the-money options outstanding .",
+      "options outstanding that are expected to vest are net of estimated future option forfeitures .",
+      "options with a fair value of $ 42 million completed vesting in 2015 ( $ 68 million in 2014 and $ 186 million in 2013 ) .",
+      "as of december 26 , 2015 , there was $ 13 million in unrecognized compensation costs related to stock options granted under our equity incentive plans .",
+      "we expect to recognize those costs over a weighted average period of approximately eight months. ."
+    ],
+    "table": [
+      [
+        "",
+        "number ofoptions ( in millions )",
+        "weightedaverageexerciseprice",
+        "weightedaverageremainingcontractualterm ( in years )",
+        "aggregateintrinsicvalue ( in millions )"
+      ],
+      [
+        "vested",
+        "43.8",
+        "$ 21.07",
+        "1.8",
+        "$ 609"
+      ],
+      [
+        "expected to vest",
+        "9.6",
+        "$ 24.07",
+        "4.1",
+        "$ 104"
+      ],
+      [
+        "total",
+        "53.4",
+        "$ 21.61",
+        "2.2",
+        "$ 713"
+      ]
+    ],
+    "questions": [
+      "as of december 26 , 2015 , what was the percent of the number of options vested to the total"
+    ]
+  }
+}

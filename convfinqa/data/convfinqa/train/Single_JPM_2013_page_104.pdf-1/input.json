@@ -1,0 +1,86 @@
+{
+  "input": {
+    "id": "Single_JPM/2013/page_104.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "management 2019s discussion and analysis 110 jpmorgan chase & co./2013 annual report 2012 compared with 2011 net loss was $ 2.0 billion , compared with a net income of $ 919 million in the prior year .",
+      "private equity reported net income of $ 292 million , compared with net income of $ 391 million in the prior year .",
+      "net revenue was $ 601 million , compared with $ 836 million in the prior year , due to lower unrealized and realized gains on private investments , partially offset by higher unrealized gains on public securities .",
+      "noninterest expense was $ 145 million , down from $ 238 million in the prior year .",
+      "treasury and cio reported a net loss of $ 2.1 billion , compared with net income of $ 1.3 billion in the prior year .",
+      "net revenue was a loss of $ 3.1 billion , compared with net revenue of $ 3.2 billion in the prior year .",
+      "the current year loss reflected $ 5.8 billion of losses incurred by cio from the synthetic credit portfolio for the six months ended june 30 , 2012 , and $ 449 million of losses from the retained index credit derivative positions for the three months ended september 30 , 2012 .",
+      "these losses were partially offset by securities gains of $ 2.0 billion .",
+      "the current year revenue reflected $ 888 million of extinguishment gains related to the redemption of trust preferred securities , which are included in all other income in the above table .",
+      "the extinguishment gains were related to adjustments applied to the cost basis of the trust preferred securities during the period they were in a qualified hedge accounting relationship .",
+      "net interest income was negative $ 683 million , compared with $ 1.4 billion in the prior year , primarily reflecting the impact of lower portfolio yields and higher deposit balances across the firm .",
+      "other corporate reported a net loss of $ 221 million , compared with a net loss of $ 821 million in the prior year .",
+      "noninterest revenue of $ 1.8 billion was driven by a $ 1.1 billion benefit for the washington mutual bankruptcy settlement , which is included in all other income in the above table , and a $ 665 million gain from the recovery on a bear stearns-related subordinated loan .",
+      "noninterest expense of $ 3.8 billion was up $ 1.0 billion compared with the prior year .",
+      "the current year included expense of $ 3.7 billion for additional litigation reserves , largely for mortgage-related matters .",
+      "the prior year included expense of $ 3.2 billion for additional litigation reserves .",
+      "treasury and cio overview treasury and cio are predominantly responsible for measuring , monitoring , reporting and managing the firm 2019s liquidity , funding and structural interest rate and foreign exchange risks , as well as executing the firm 2019s capital plan .",
+      "the risks managed by treasury and cio arise from the activities undertaken by the firm 2019s four major reportable business segments to serve their respective client bases , which generate both on- and off-balance sheet assets and liabilities .",
+      "cio achieves the firm 2019s asset-liability management objectives generally by investing in high-quality securities that are managed for the longer-term as part of the firm 2019s afs and htm investment securities portfolios ( the 201cinvestment securities portfolio 201d ) .",
+      "cio also uses derivatives , as well as securities that are not classified as afs or htm , to meet the firm 2019s asset-liability management objectives .",
+      "for further information on derivatives , see note 6 on pages 220 2013233 of this annual report .",
+      "for further information about securities not classified within the afs or htm portfolio , see note 3 on pages 195 2013215 of this annual report .",
+      "the treasury and cio investment securities portfolio primarily consists of u.s .",
+      "and non-u.s .",
+      "government securities , agency and non-agency mortgage-backed securities , other asset-backed securities , corporate debt securities and obligations of u.s .",
+      "states and municipalities .",
+      "at december 31 , 2013 , the total treasury and cio investment securities portfolio was $ 347.6 billion ; the average credit rating of the securities comprising the treasury and cio investment securities portfolio was aa+ ( based upon external ratings where available and where not available , based primarily upon internal ratings that correspond to ratings as defined by s&p and moody 2019s ) .",
+      "see note 12 on pages 249 2013254 of this annual report for further information on the details of the firm 2019s investment securities portfolio .",
+      "for further information on liquidity and funding risk , see liquidity risk management on pages 168 2013173 of this annual report .",
+      "for information on interest rate , foreign exchange and other risks , treasury and cio value-at-risk ( 201cvar 201d ) and the firm 2019s structural interest rate-sensitive revenue at risk , see market risk management on pages 142 2013148 of this annual report .",
+      "selected income statement and balance sheet data as of or for the year ended december 31 , ( in millions ) 2013 2012 2011 ."
+    ],
+    "post_text": [
+      "( a ) period-end investment securities included held-to-maturity balance of $ 24.0 billion at december 31 , 2013 .",
+      "held-to-maturity balances for the other periods were not material. ."
+    ],
+    "table": [
+      [
+        "as of or for the year ended december 31 ( in millions )",
+        "2013",
+        "2012",
+        "2011"
+      ],
+      [
+        "securities gains",
+        "$ 659",
+        "$ 2028",
+        "$ 1385"
+      ],
+      [
+        "investment securities portfolio ( average )",
+        "353712",
+        "358029",
+        "330885"
+      ],
+      [
+        "investment securities portfolio ( period 2013end ) ( a )",
+        "347562",
+        "365421",
+        "355605"
+      ],
+      [
+        "mortgage loans ( average )",
+        "5145",
+        "10241",
+        "13006"
+      ],
+      [
+        "mortgage loans ( period-end )",
+        "3779",
+        "7037",
+        "13375"
+      ]
+    ],
+    "questions": [
+      "what is the value of investment securities portfolio (average) in 2013 divided by 1000?",
+      "what was the balance of investment securities included held-to-maturity at the end of 2013?",
+      "what is quotient of investment securities (average) less the balance of investment securities held-to-maturity?"
+    ]
+  }
+}

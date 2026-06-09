@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage did the net interest income in 2012 represent in relation to the 2011 one?",
+      "answer": 75.0,
+      "answer_raw": "75.0",
+      "program": "subtract(const_100, 25)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that 2012 net interest income?",
+      "answer": 3.88,
+      "answer_raw": "3.88",
+      "program": "3.88"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "considering this net interest income and the percentage of the 2011 one it represented, what was the 2011 net interest income?",
+      "answer": 0.05173,
+      "answer_raw": "0.05173",
+      "program": "subtract(const_100, 25), divide(3.88, #0)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and from 2012 to 2013, what was the change in the staff number?",
+      "answer": 500.0,
+      "answer_raw": "500.0",
+      "program": "subtract(32900, 32400)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what was that staff number in 2012?",
+      "answer": 32400.0,
+      "answer_raw": "32400.0",
+      "program": "32400"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is, then, that change as a percentage of this 2012 number?",
+      "answer": 0.01543,
+      "answer_raw": "0.01543",
+      "program": "subtract(32900, 32400), divide(#0, 32400)"
+    }
+  ]
+}

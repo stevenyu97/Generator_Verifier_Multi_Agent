@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is net change in total value of intangible assets from 2011 to 2012?",
+      "answer": -14017.0,
+      "answer_raw": "-14017.0",
+      "program": "subtract(204866, 218883)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total value of intangible assets in 2011?",
+      "answer": 218883.0,
+      "answer_raw": "218883.0",
+      "program": "218883"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage change does this represent?",
+      "answer": -0.06404,
+      "answer_raw": "-0.06404",
+      "program": "subtract(204866, 218883), divide(#0, 218883)"
+    }
+  ]
+}

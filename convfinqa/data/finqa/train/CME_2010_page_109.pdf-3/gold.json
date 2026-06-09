@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the estimated percentual increase observed in the class a common stock during the years 2009 and 2010?",
+      "answer": 0.00505,
+      "answer_raw": "0.00505",
+      "program": "divide(66847, 66511), subtract(#0, const_1)"
+    }
+  ]
+}

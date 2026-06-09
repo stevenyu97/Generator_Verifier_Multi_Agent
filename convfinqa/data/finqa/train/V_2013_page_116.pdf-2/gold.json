@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2013 what was the percent of the future minimum payments on leases , and marketing and sponsorship for operating leases that was due in",
+      "answer": 0.09804,
+      "answer_raw": "0.09804",
+      "program": "divide(35, 357)"
+    }
+  ]
+}

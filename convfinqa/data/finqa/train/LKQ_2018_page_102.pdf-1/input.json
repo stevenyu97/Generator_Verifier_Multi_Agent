@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "LKQ/2018/page_102.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "business subsequent to the acquisition .",
+      "the liabilities for these payments are classified as level 3 liabilities because the related fair value measurement , which is determined using an income approach , includes significant inputs not observable in the market .",
+      "financial assets and liabilities not measured at fair value our debt is reflected on the consolidated balance sheets at cost .",
+      "based on market conditions as of december 31 , 2018 and 2017 , the fair value of our credit agreement borrowings reasonably approximated the carrying values of $ 1.7 billion and $ 2.0 billion , respectively .",
+      "in addition , based on market conditions , the fair values of the outstanding borrowings under the receivables facility reasonably approximated the carrying values of $ 110 million and $ 100 million at december 31 , 2018 and december 31 , 2017 , respectively .",
+      "as of december 31 , 2018 and december 31 , 2017 , the fair values of the u.s .",
+      "notes ( 2023 ) were approximately $ 574 million and $ 615 million , respectively , compared to a carrying value of $ 600 million at each date .",
+      "as of december 31 , 2018 and december 31 , 2017 , the fair values of the euro notes ( 2024 ) were approximately $ 586 million and $ 658 million compared to carrying values of $ 573 million and $ 600 million , respectively .",
+      "as of december 31 , 2018 , the fair value of the euro notes ( 2026/28 ) approximated the carrying value of $ 1.1 billion .",
+      "the fair value measurements of the borrowings under our credit agreement and receivables facility are classified as level 2 within the fair value hierarchy since they are determined based upon significant inputs observable in the market , including interest rates on recent financing transactions with similar terms and maturities .",
+      "we estimated the fair value by calculating the upfront cash payment a market participant would require at december 31 , 2018 to assume these obligations .",
+      "the fair value of our u.s .",
+      "notes ( 2023 ) is classified as level 1 within the fair value hierarchy since it is determined based upon observable market inputs including quoted market prices in an active market .",
+      "the fair values of our euro notes ( 2024 ) and euro notes ( 2026/28 ) are determined based upon observable market inputs including quoted market prices in markets that are not active , and therefore are classified as level 2 within the fair value hierarchy .",
+      "note 13 .",
+      "commitments and contingencies operating leases we are obligated under noncancelable operating leases for corporate office space , warehouse and distribution facilities , trucks and certain equipment .",
+      "the future minimum lease commitments under these leases at december 31 , 2018 are as follows ( in thousands ) : years ending december 31: ."
+    ],
+    "post_text": [
+      "rental expense for operating leases was approximately $ 300 million , $ 247 million , and $ 212 million during the years ended december 31 , 2018 , 2017 and 2016 , respectively .",
+      "we guarantee the residual values of the majority of our truck and equipment operating leases .",
+      "the residual values decline over the lease terms to a defined percentage of original cost .",
+      "in the event the lessor does not realize the residual value when a piece of equipment is sold , we would be responsible for a portion of the shortfall .",
+      "similarly , if the lessor realizes more than the residual value when a piece of equipment is sold , we would be paid the amount realized over the residual value .",
+      "had we terminated all of our operating leases subject to these guarantees at december 31 , 2018 , our portion of the guaranteed residual value would have totaled approximately $ 76 million .",
+      "we have not recorded a liability for the guaranteed residual value of equipment under operating leases as the recovery on disposition of the equipment under the leases is expected to approximate the guaranteed residual value .",
+      "litigation and related contingencies we have certain contingencies resulting from litigation , claims and other commitments and are subject to a variety of environmental and pollution control laws and regulations incident to the ordinary course of business .",
+      "we currently expect that the resolution of such contingencies will not materially affect our financial position , results of operations or cash flows. ."
+    ],
+    "table": [
+      [
+        "2019",
+        "$ 294269"
+      ],
+      [
+        "2020",
+        "256172"
+      ],
+      [
+        "2021",
+        "210632"
+      ],
+      [
+        "2022",
+        "158763"
+      ],
+      [
+        "2023",
+        "131518"
+      ],
+      [
+        "thereafter",
+        "777165"
+      ],
+      [
+        "future minimum lease payments",
+        "$ 1828519"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in rental expenses from 2016 to 2017?"
+    ]
+  }
+}

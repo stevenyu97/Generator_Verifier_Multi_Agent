@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total contractual obligations and commitments as of september 27 , 2003 : payments due is composed of long term debt?",
+      "answer": 0.03125,
+      "answer_raw": "0.03125",
+      "program": "divide(2030, 64964)"
+    }
+  ]
+}

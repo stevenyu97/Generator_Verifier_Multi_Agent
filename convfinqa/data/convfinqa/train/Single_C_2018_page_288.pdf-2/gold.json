@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the 2018 carrying amount?",
+      "answer": 556.0,
+      "answer_raw": "556.0",
+      "program": "556"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was it in 2017?",
+      "answer": 426.0,
+      "answer_raw": "426.0",
+      "program": "426"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change in value?",
+      "answer": 130.0,
+      "answer_raw": "130.0",
+      "program": "subtract(556, 426)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the net change over the 2017 value?",
+      "answer": 0.30516,
+      "answer_raw": "0.30516",
+      "program": "subtract(556, 426), divide(#0, 426)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total operating income was asia-pacific in 2015?",
+      "answer": 0.08899,
+      "answer_raw": "0.08899",
+      "program": "divide(36358, 408547)"
+    }
+  ]
+}

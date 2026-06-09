@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total of the company 2019s future minimum revenues under the terms of all non-cancelable tenant sublease from 2009-2011 , in millions?\\\\n",
+      "answer": 15.5,
+      "answer_raw": "15.5",
+      "program": "add(5.6, 5.4), add(#0, 4.5)"
+    }
+  ]
+}

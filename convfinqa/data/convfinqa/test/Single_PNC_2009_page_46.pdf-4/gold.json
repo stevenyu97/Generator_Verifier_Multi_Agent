@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the aaa interest rate in 2009?",
+      "answer": 14.0,
+      "answer_raw": "14.0",
+      "program": "14"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is it in 2008?",
+      "answer": 19.0,
+      "answer_raw": "19.0",
+      "program": "19"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 33.0,
+      "answer_raw": "33.0",
+      "program": "add(14, 19)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the average per year?",
+      "answer": 16.5,
+      "answer_raw": "16.5",
+      "program": "add(14, 19), divide(#0, const_2)"
+    }
+  ]
+}

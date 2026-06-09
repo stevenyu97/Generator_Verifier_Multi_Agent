@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2013 what was the anticipated percentage growth in the stock performance for the peer group in 2014",
+      "answer": 0.43,
+      "answer_raw": "0.43",
+      "program": "subtract(143, 100), divide(#0, 100)"
+    }
+  ]
+}

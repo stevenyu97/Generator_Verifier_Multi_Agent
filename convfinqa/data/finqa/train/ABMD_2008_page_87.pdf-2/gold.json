@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of future minimum lease payments are due currently?",
+      "answer": 0.32809,
+      "answer_raw": "0.32809",
+      "program": "divide(2544, 7754)"
+    }
+  ]
+}

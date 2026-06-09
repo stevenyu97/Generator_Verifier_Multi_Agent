@@ -1,0 +1,101 @@
+{
+  "input": {
+    "id": "Single_IP/2006/page_19.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "item 7 .",
+      "management 2019s discussion and analysis of financial condition and results of operations executive summary international paper 2019s operating results in 2006 bene- fited from strong gains in pricing and sales volumes and lower operating costs .",
+      "our average paper and packaging prices in 2006 increased faster than our costs for the first time in four years .",
+      "the improve- ment in sales volumes reflects increased uncoated papers , corrugated box , coated paperboard and european papers shipments , as well as improved revenues from our xpedx distribution business .",
+      "our manufacturing operations also made solid cost reduction improvements .",
+      "lower interest expense , reflecting debt repayments in 2005 and 2006 , was also a positive factor .",
+      "together , these improvements more than offset the effects of continued high raw material and distribution costs , lower real estate sales , higher net corporate expenses and lower con- tributions from businesses and forestlands divested during 2006 .",
+      "looking forward to 2007 , we expect seasonally higher sales volumes in the first quarter .",
+      "average paper price realizations should continue to improve as we implement previously announced price increases in europe and brazil .",
+      "input costs for energy , fiber and chemicals are expected to be mixed , although slightly higher in the first quarter .",
+      "operating results will benefit from the recently completed international paper/sun paperboard joint ventures in china and the addition of the luiz anto- nio paper mill to our operations in brazil .",
+      "however , primarily as a result of lower real estate sales in the first quarter , we anticipate earnings from continuing operations will be somewhat lower than in the 2006 fourth quarter .",
+      "significant steps were also taken in 2006 in the execution of the company 2019s transformation plan .",
+      "we completed the sales of our u.s .",
+      "and brazilian coated papers businesses and 5.6 million acres of u.s .",
+      "forestlands , and announced definitive sale agreements for our kraft papers , beverage pack- aging and arizona chemical businesses and a majority of our wood products business , all expected to close during 2007 .",
+      "through december 31 , 2006 , we have received approximately $ 9.7 billion of the estimated proceeds from divest- itures announced under this plan of approximately $ 11.3 billion , with the balance to be received as the remaining divestitures are completed in the first half of 2007 .",
+      "we have strengthened our balance sheet by reducing debt by $ 6.2 billion , and returned value to our shareholders by repurchasing 39.7 million shares of our common stock for approximately $ 1.4 billion .",
+      "we made a $ 1.0 billion voluntary contribution to our u.s .",
+      "qualified pension fund .",
+      "we have identified selective reinvestment opportunities totaling approx- imately $ 2.0 billion , including opportunities in china , brazil and russia .",
+      "finally , we remain focused on our three-year $ 1.2 billion target for non-price profit- ability improvements , with $ 330 million realized during 2006 .",
+      "while more remains to be done in 2007 , we have made substantial progress toward achiev- ing the objectives announced at the outset of the plan in july 2005 .",
+      "results of operations industry segment operating profits are used by inter- national paper 2019s management to measure the earn- ings performance of its businesses .",
+      "management believes that this measure allows a better under- standing of trends in costs , operating efficiencies , prices and volumes .",
+      "industry segment operating profits are defined as earnings before taxes and minority interest , interest expense , corporate items and corporate special items .",
+      "industry segment oper- ating profits are defined by the securities and exchange commission as a non-gaap financial measure , and are not gaap alternatives to net income or any other operating measure prescribed by accounting principles generally accepted in the united states .",
+      "international paper operates in six segments : print- ing papers , industrial packaging , consumer pack- aging , distribution , forest products and specialty businesses and other .",
+      "the following table shows the components of net earnings ( loss ) for each of the last three years : in millions 2006 2005 2004 ."
+    ],
+    "post_text": [
+      "* corporate special items include gains on transformation plan forestland sales , goodwill impairment charges , restructuring and other charges , net losses on sales and impairments of businesses , insurance recoveries and reversals of reserves no longer required. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2006",
+        "2005",
+        "2004"
+      ],
+      [
+        "industry segment operating profits",
+        "$ 2074",
+        "$ 1622",
+        "$ 1703"
+      ],
+      [
+        "corporate items net",
+        "-746 ( 746 )",
+        "-607 ( 607 )",
+        "-477 ( 477 )"
+      ],
+      [
+        "corporate special items*",
+        "2373",
+        "-134 ( 134 )",
+        "-141 ( 141 )"
+      ],
+      [
+        "interest expense net",
+        "-521 ( 521 )",
+        "-595 ( 595 )",
+        "-712 ( 712 )"
+      ],
+      [
+        "minority interest",
+        "-9 ( 9 )",
+        "-9 ( 9 )",
+        "-21 ( 21 )"
+      ],
+      [
+        "income tax ( provision ) benefit",
+        "-1889 ( 1889 )",
+        "407",
+        "-114 ( 114 )"
+      ],
+      [
+        "discontinued operations",
+        "-232 ( 232 )",
+        "416",
+        "-273 ( 273 )"
+      ],
+      [
+        "net earnings ( loss )",
+        "$ 1050",
+        "$ 1100",
+        "$ -35 ( 35 )"
+      ]
+    ],
+    "questions": [
+      "what was the net change in industry segment operating profits from 2004 to 2005?",
+      "what was the value of industry segment operating profits in 2004?",
+      "what is the percent change?"
+    ]
+  }
+}

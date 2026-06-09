@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the estimated average return for the s&p financial index and the s&p 500 index in the firs year of the investment of $ 100?",
+      "answer": 0.1443,
+      "answer_raw": "0.1443",
+      "program": "divide(115.18, 100), divide(113.68, 100), subtract(#0, const_1), subtract(#1, const_1), add(#2, #3), divide(#4, const_2)"
+    }
+  ]
+}

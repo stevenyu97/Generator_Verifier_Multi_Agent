@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the amount of future minimum rental payments due in 2011?",
+      "answer": 257971.0,
+      "answer_raw": "257971.0",
+      "program": "257971"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the amount of future minimum rental payments due in 2012?",
+      "answer": 254575.0,
+      "answer_raw": "254575.0",
+      "program": "254575"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 512546.0,
+      "answer_raw": "512546.0",
+      "program": "add(257971, 254575)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total future minimum rental payments?",
+      "answer": 3832573.0,
+      "answer_raw": "3832573.0",
+      "program": "3832573"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the sum of 2011 and 2012 divided by the total future minimum rental payments?",
+      "answer": 0.13373,
+      "answer_raw": "0.13373",
+      "program": "add(257971, 254575), divide(#0, 3832573)"
+    }
+  ]
+}

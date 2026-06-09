@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in the percentage of product and related maintenance revenue contributed by the custom ic design product group in 2010 versus 2012?",
+      "answer": -0.03,
+      "answer_raw": "-0.03",
+      "program": "subtract(23%, 26%)"
+    }
+  ]
+}

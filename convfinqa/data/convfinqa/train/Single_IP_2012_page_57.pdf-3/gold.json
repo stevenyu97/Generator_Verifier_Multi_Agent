@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of net sales in 2012 and 2011?",
+      "answer": 220.0,
+      "answer_raw": "220.0",
+      "program": "add(185, 35)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that divided by 2?",
+      "answer": 110.0,
+      "answer_raw": "110.0",
+      "program": "add(185, 35), divide(#0, const_2)"
+    }
+  ]
+}

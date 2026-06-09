@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of additional collateral or termination payments for a two-notch downgrade over additional collateral or termination payments for a one-notch downgrade for 2011?",
+      "answer": 0.67536,
+      "answer_raw": "0.67536",
+      "program": "subtract(2183, 1303), divide(#0, 1303)"
+    }
+  ]
+}

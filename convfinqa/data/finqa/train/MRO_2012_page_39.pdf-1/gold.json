@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "between 2012 and 2011 , what was the change in the percentage of crude oil and condensate production that was sour?",
+      "answer": -21.0,
+      "answer_raw": "-21.0",
+      "program": "subtract(37, 58)"
+    }
+  ]
+}

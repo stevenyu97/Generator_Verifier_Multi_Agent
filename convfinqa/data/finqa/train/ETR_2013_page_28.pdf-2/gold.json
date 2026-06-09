@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in net debt to net capital excluding securitization bonds from 2012 to 2013?",
+      "answer": -0.01792,
+      "answer_raw": "-0.01792",
+      "program": "subtract(54.8, 55.8), divide(#0, 55.8)"
+    }
+  ]
+}

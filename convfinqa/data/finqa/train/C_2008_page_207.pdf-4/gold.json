@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 312008 what was the ratio of the recorded goodwill impairment charges to the aggregate value of the loans held for sale",
+      "answer": 3.09677,
+      "answer_raw": "3.09677",
+      "program": "divide(9.6, 3.1)"
+    }
+  ]
+}

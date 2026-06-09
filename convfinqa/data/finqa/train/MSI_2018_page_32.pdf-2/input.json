@@ -1,0 +1,48 @@
+{
+  "input": {
+    "id": "MSI/2018/page_32.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "results of operations 20142018 compared to 2017 net sales ."
+    ],
+    "post_text": [
+      "the products and systems integration segment 2019s net sales represented 69% ( 69 % ) of our consolidated net sales in 2018 , compared to 71% ( 71 % ) in 2017 .",
+      "the services and software segment 2019s net sales represented 31% ( 31 % ) of our consolidated net sales in 2018 , compared to 29% ( 29 % ) in 2017 .",
+      "net sales were up $ 963 million , or 15% ( 15 % ) , compared to 2017 .",
+      "the increase in net sales was driven by the americas and emea with a 13% ( 13 % ) increase in the products and systems integration segment and a 20% ( 20 % ) increase in the services and software segment .",
+      "this growth includes : 2022 $ 507 million of incremental revenue from the acquisitions of avigilon and plant in 2018 and kodiak networks and interexport which were acquired during 2017 ; 2022 $ 83 million from the adoption of accounting standards codification ( \"asc\" ) 606 ( see note 1 of our consolidated financial statements ) ; and 2022 $ 32 million from favorable currency rates .",
+      "regional results include : 2022 the americas grew 17% ( 17 % ) across all products within both the products and systems integration and the services and software segments , inclusive of incremental revenue from acquisitions ; 2022 emea grew 18% ( 18 % ) on broad-based growth within all offerings within our products and systems integration and services and software segments , inclusive of incremental revenue from acquisitions ; and 2022 ap was relatively flat with growth in the services and software segment offset by lower products and systems integration revenue .",
+      "products and systems integration the 13% ( 13 % ) growth in the products and systems integration segment was driven by the following : 2022 $ 318 million of incremental revenue from the acquisitions of avigilon in 2018 and interexport during 2017 ; 2022 $ 78 million from the adoption of asc 606 ; 2022 devices revenues were up significantly due to the acquisition of avigilon along with strong demand in the americas and emea ; and 2022 systems and systems integration revenues increased 10% ( 10 % ) in 2018 , as compared to 2017 driven by incremental revenue from avigilon , as well as system deployments in emea and ap .",
+      "services and software the 20% ( 20 % ) growth in the services and software segment was driven by the following : 2022 $ 189 million of incremental revenue primarily from the acquisitions of plant and avigilon in 2018 and kodiak networks and interexport during 2017 ; 2022 $ 5 million from the adoption of asc 606 ; 2022 services were up $ 174 million , or 9% ( 9 % ) , driven by growth in both maintenance and managed service revenues , and incremental revenue from the acquisitions of interexport and plant ; and 2022 software was up $ 202 million , or 89% ( 89 % ) , driven primarily by incremental revenue from the acquisitions of plant , avigilon , and kodiak networks , and growth in our command center software suite. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "years ended december 31 2018",
+        "years ended december 31 2017",
+        "years ended december 31 % (  % ) change"
+      ],
+      [
+        "net sales from products and systems integration",
+        "$ 5100",
+        "$ 4513",
+        "13% ( 13 % )"
+      ],
+      [
+        "net sales from services and software",
+        "2243",
+        "1867",
+        "20% ( 20 % )"
+      ],
+      [
+        "net sales",
+        "$ 7343",
+        "$ 6380",
+        "15% ( 15 % )"
+      ]
+    ],
+    "questions": [
+      "what was the percentage of the net sales from services and software in 2017"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "LKQ/2018/page_105.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "remaining service period of active members expected to receive benefits under the plan or , in the case of closed plans , the expected future lifetime of the employees participating in the plan .",
+      "for the years ended december 31 , 2018 and 2017 , the service cost component of net periodic benefit cost was classified in selling , general and administrative expenses , while the other components of net periodic benefit cost were classified in other income , net in our consolidated statements of income .",
+      "for the year ended december 31 , 2016 , all components of net periodic benefit expense were included in selling , general , and administrative expenses in our consolidated statements of income .",
+      "for the year ending december 31 , 2019 , we expect net periodic benefit costs to increase by approximately $ 2 million due to the fact that we will incur a full year of pension expense related to our stahlgruber business , compared to a partial year in 2018 .",
+      "the table below summarizes the weighted-average assumptions used to calculate the net periodic benefit cost in the table above: ."
+    ],
+    "post_text": [
+      "expected long-term return on plan assets ( 1 ) 4.8% ( 4.8 % ) 5.0% ( 5.0 % ) 5.1% ( 5.1 % ) ( 1 ) our expected long-term return on plan assets is determined based on our asset allocation and estimate of future long- term returns by asset class .",
+      "assumed mortality is also a key assumption in determining benefit obligations and net periodic benefit cost .",
+      "in some of our european plans , a price inflation index is also an assumption in determining benefit obligations and net periodic benefit as of december 31 , 2018 , the pre-tax amounts recognized in accumulated other comprehensive income consisted of $ 10 million of net actuarial losses for our defined benefit plans that have not yet been recognized in net periodic benefit cost .",
+      "of this amount , we expect $ 0.2 million to be recognized as a component of net periodic benefit cost during the year ending december 31 , 2019 .",
+      "fair value of plan assets fair value is defined as the amount that would be received for selling an asset or paid to transfer a liability in an orderly transaction between market participants .",
+      "the tiers in the fair value hierarchy include : level 1 , defined as observable inputs such as quoted market prices in active markets ; level 2 , defined as inputs other than quoted prices in active markets that are either directly or indirectly observable ; and level 3 , defined as significant unobservable inputs in which little or no market data exists , therefore requiring an entity to develop its own assumptions .",
+      "investments that are valued using net asset value ( \"nav\" ) ( or its equivalent ) as a practical expedient are excluded from the fair value hierarchy disclosure .",
+      "the following is a description of the valuation methodologies used for assets reported at fair value .",
+      "the methodologies used at december 31 , 2018 and december 31 , 2017 are the same .",
+      "level 1 investments : cash and cash equivalents are valued based on cost , which approximates fair value .",
+      "mutual funds are valued based on reported market prices on the last trading day of the fiscal year .",
+      "level 3 investments : investments in insurance contracts represent the cash surrender value of the insurance policy .",
+      "these are actuarially determined amounts based on projections of future benefit payments , discount rates , and expected long- term rate of return on assets. ."
+    ],
+    "table": [
+      [
+        "",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "discount rate used to determine service cost",
+        "1.3% ( 1.3 % )",
+        "1.5% ( 1.5 % )",
+        "1.6% ( 1.6 % )"
+      ],
+      [
+        "discount rate used to determine interest cost",
+        "2.5% ( 2.5 % )",
+        "3.0% ( 3.0 % )",
+        "3.0% ( 3.0 % )"
+      ],
+      [
+        "rate of future compensation increase",
+        "1.9% ( 1.9 % )",
+        "1.3% ( 1.3 % )",
+        "2.0% ( 2.0 % )"
+      ],
+      [
+        "expected long-term return on plan assets ( 1 )",
+        "4.8% ( 4.8 % )",
+        "5.0% ( 5.0 % )",
+        "5.1% ( 5.1 % )"
+      ]
+    ],
+    "questions": [
+      "based on the review of the weighted-average assumptions used to calculate the net periodic benefit cost what was the ratio of the expected long-term return on plan assets ( 1 ) to the discount rate used to determine service cost in 2017"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "Single_ETR/2011/page_435.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the target awards for the other named executive officers were set as follows : joseph f .",
+      "domino , ceo - entergy texas ( 50% ( 50 % ) ) ; hugh t .",
+      "mcdonald , ceo - entergy arkansas ( 50% ( 50 % ) ) ; haley fisackerly , ceo - entergy mississippi ( 40% ( 40 % ) ) ; william m .",
+      "mohl ( 60% ( 60 % ) ) , ceo - entergy gulf states and entergy louisiana ; charles l .",
+      "rice , jr .",
+      "( 40% ( 40 % ) ) , ceo - entergy new orleans and theodore h .",
+      "bunting , jr .",
+      "- principal accounting officer - the subsidiaries ( 60% ( 60 % ) ) .",
+      "the target awards for the named executive officers ( other than entergy named executive officers ) were set by their respective supervisors ( subject to ultimate approval of entergy 2019s chief executive officer ) who allocated a potential incentive pool established by the personnel committee among various of their direct and indirect reports .",
+      "in setting the target awards , the supervisor took into account considerations similar to those used by the personnel committee in setting the target awards for entergy 2019s named executive officers .",
+      "target awards are set based on an executive officer 2019s current position and executive management level within the entergy organization .",
+      "executive management levels at entergy range from level 1 thorough level 4 .",
+      "mr .",
+      "denault and mr .",
+      "taylor hold positions in level 2 whereas mr .",
+      "bunting and mr .",
+      "mohl hold positions in level 3 and mr .",
+      "domino , mr .",
+      "fisackerly , mr .",
+      "mcdonald and mr .",
+      "rice hold positions in level 4 .",
+      "accordingly , their respective incentive targets differ one from another based on the external market data developed by the committee 2019s independent compensation consultant and the other factors noted above .",
+      "in december 2010 , the committee determined the executive incentive plan targets to be used for purposes of establishing annual bonuses for 2011 .",
+      "the committee 2019s determination of the target levels was made after full board review of management 2019s 2011 financial plan for entergy corporation , upon recommendation of the finance committee , and after the committee 2019s determination that the established targets aligned with entergy corporation 2019s anticipated 2011 financial performance as reflected in the financial plan .",
+      "the targets established to measure management performance against as reported results were: ."
+    ],
+    "post_text": [
+      "operating cash flow ( $ in billions ) in january 2012 , after reviewing earnings per share and operating cash flow results against the performance objectives in the above table , the committee determined that entergy corporation had exceeded as reported earnings per share target of $ 6.60 by $ 0.95 in 2011 while falling short of the operating cash flow goal of $ 3.35 billion by $ 221 million in 2011 .",
+      "in accordance with the terms of the annual incentive plan , in january 2012 , the personnel committee certified the 2012 entergy achievement multiplier at 128% ( 128 % ) of target .",
+      "under the terms of the management effectiveness program , the entergy achievement multiplier is automatically increased by 25 percent for the members of the office of the chief executive if the pre- established underlying performance goals established by the personnel committee are satisfied at the end of the performance period , subject to the personnel committee's discretion to adjust the automatic multiplier downward or eliminate it altogether .",
+      "in accordance with section 162 ( m ) of the internal revenue code , the multiplier which entergy refers to as the management effectiveness factor is intended to provide the committee a mechanism to take into consideration specific achievement factors relating to the overall performance of entergy corporation .",
+      "in january 2012 , the committee eliminated the management effectiveness factor with respect to the 2011 incentive awards , reflecting the personnel committee's determination that the entergy achievement multiplier , in and of itself without the management effectiveness factor , was consistent with the performance levels achieved by management .",
+      "the annual incentive awards for the named executive officers ( other than mr .",
+      "leonard , mr .",
+      "denault and mr .",
+      "taylor ) are awarded from an incentive pool approved by the committee .",
+      "from this pool , each named executive officer 2019s supervisor determines the annual incentive payment based on the entergy achievement multiplier .",
+      "the supervisor has the discretion to increase or decrease the multiple used to determine an incentive award based on individual and business unit performance .",
+      "the incentive awards are subject to the ultimate approval of entergy 2019s chief executive officer. ."
+    ],
+    "table": [
+      [
+        "",
+        "minimum",
+        "target",
+        "maximum"
+      ],
+      [
+        "earnings per share ( $ )",
+        "$ 6.10",
+        "$ 6.60",
+        "$ 7.10"
+      ],
+      [
+        "operating cash flow ( $ in billions )",
+        "$ 2.97",
+        "$ 3.35",
+        "$ 3.70"
+      ]
+    ],
+    "questions": [
+      "what was the shortfall in operating cash flow in 2011?",
+      "what is that divided by1000000?",
+      "what was the target operating cash flow divided by the total shortfall?"
+    ]
+  }
+}

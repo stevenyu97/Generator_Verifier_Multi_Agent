@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of aoci at december 31 , 2018 is attributed to defined benefit plan items?",
+      "answer": 0.9445,
+      "answer_raw": "0.9445",
+      "program": "divide(-177.0, -187.4)"
+    }
+  ]
+}

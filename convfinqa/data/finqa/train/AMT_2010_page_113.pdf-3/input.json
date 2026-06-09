@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "AMT/2010/page_113.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements assessments in each of the tax jurisdictions resulting from these examinations .",
+      "the company believes that adequate provisions have been made for income taxes for all periods through december 31 , 2010 .",
+      "12 .",
+      "stock-based compensation the company recognized stock-based compensation of $ 52.6 million , $ 60.7 million and $ 54.8 million for the years ended december 31 , 2010 , 2009 and 2008 , respectively .",
+      "stock-based compensation for the year ended december 31 , 2009 included $ 6.9 million related to the modification of the vesting and exercise terms for certain employee 2019s equity awards .",
+      "the company did not capitalize any stock-based compensation during the years ended december 31 , 2010 and 2009 .",
+      "summary of stock-based compensation plans 2014the company maintains equity incentive plans that provide for the grant of stock-based awards to its directors , officers and employees .",
+      "under the 2007 equity incentive plan ( 201c2007 plan 201d ) , which provides for the grant of non-qualified and incentive stock options , as well as restricted stock units , restricted stock and other stock-based awards , exercise prices in the case of non-qualified and incentive stock options are not less than the fair market value of the underlying common stock on the date of grant .",
+      "equity awards typically vest ratably over various periods , generally four years , and generally expire ten years from the date of grant .",
+      "stock options 2014as of december 31 , 2010 , the company had the ability to grant stock-based awards with respect to an aggregate of 22.0 million shares of common stock under the 2007 plan .",
+      "the fair value of each option grant is estimated on the date of grant using the black-scholes option pricing model based on the assumptions noted in the table below .",
+      "the risk-free treasury rate is based on the u.s .",
+      "treasury yield in effect at the accounting measurement date .",
+      "the expected life ( estimated period of time outstanding ) was estimated using the vesting term and historical exercise behavior of company employees .",
+      "the expected volatility was based on historical volatility for a period equal to the expected life of the stock options .",
+      "key assumptions used to apply this pricing model are as follows: ."
+    ],
+    "post_text": [
+      "the weighted average grant date fair value per share during the years ended december 31 , 2010 , 2009 and 2008 was $ 15.03 , $ 8.90 and $ 9.55 , respectively .",
+      "the intrinsic value of stock options exercised during the years ended december 31 , 2010 , 2009 and 2008 was $ 62.7 million , $ 40.1 million and $ 99.1 million , respectively .",
+      "as of december 31 , 2010 , total unrecognized compensation expense related to unvested stock options was approximately $ 27.7 million and is expected to be recognized over a weighted average period of approximately two years .",
+      "the amount of cash received from the exercise of stock options was approximately $ 129.1 million during the year ended december 31 , 2010 .",
+      "during the year ended december 31 , 2010 , the company realized approximately $ 0.3 million of state tax benefits from the exercise of stock options. ."
+    ],
+    "table": [
+      [
+        "",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      [
+        "range of risk-free interest rate",
+        "1.41% ( 1.41 % ) 2013 2.39% ( 2.39 % )",
+        "1.41% ( 1.41 % ) 2013 2.04% ( 2.04 % )",
+        "1.44% ( 1.44 % ) 2013 3.05% ( 3.05 % )"
+      ],
+      [
+        "weighted average risk-free interest rate",
+        "2.35% ( 2.35 % )",
+        "1.71% ( 1.71 % )",
+        "1.89% ( 1.89 % )"
+      ],
+      [
+        "expected life of option grants",
+        "4.60 years",
+        "4.00 years",
+        "4.00 years"
+      ],
+      [
+        "range of expected volatility of underlying stock price",
+        "37.11% ( 37.11 % ) 2013 37.48% ( 37.48 % )",
+        "36.00% ( 36.00 % ) 2013 36.63% ( 36.63 % )",
+        "28.51% ( 28.51 % ) 2013 35.30% ( 35.30 % )"
+      ],
+      [
+        "weighted average expected volatility of underlying stock price",
+        "37.14% ( 37.14 % )",
+        "36.23% ( 36.23 % )",
+        "29.10% ( 29.10 % )"
+      ],
+      [
+        "expected annual dividends",
+        "n/a",
+        "n/a",
+        "n/a"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the change in the weighted average risk-free interest rate"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total net revenues in the investment management segment in 2012 where due to management and other fees?",
+      "answer": 0.7861,
+      "answer_raw": "0.7861",
+      "program": "divide(4105, 5222)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase in the carrying vale of the furniture and equipment from 2004 to 2005",
+      "answer": 0.08245,
+      "answer_raw": "0.08245",
+      "program": "subtract(98387, 90893), divide(#0, 90893)"
+    }
+  ]
+}

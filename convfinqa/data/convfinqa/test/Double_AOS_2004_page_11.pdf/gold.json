@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2004, what percentage of the total of aggregate contractual obligations was due to long-term debt?",
+      "answer": 275.1,
+      "answer_raw": "275.1",
+      "program": "275.1"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what percentage of it was due to purchase obligations?",
+      "answer": 0.34011,
+      "answer_raw": "0.34011",
+      "program": "divide(177.3, 521.3)"
+    }
+  ]
+}

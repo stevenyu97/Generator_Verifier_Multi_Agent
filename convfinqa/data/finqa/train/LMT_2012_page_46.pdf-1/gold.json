@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the decline in the mst net sales from 2010 to 2011",
+      "answer": -0.04178,
+      "answer_raw": "-0.04178",
+      "program": "subtract(7132, 7443), divide(#0, 7443)"
+    }
+  ]
+}

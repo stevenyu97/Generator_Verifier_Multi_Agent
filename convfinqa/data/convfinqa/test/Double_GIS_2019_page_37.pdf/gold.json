@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total long-term debt obligations are due to the long-term debt?",
+      "answer": 0.73012,
+      "answer_raw": "0.73012",
+      "program": "divide(13093.0, 17932.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what percentage of that long-term debt is due in 2020?",
+      "answer": 0.10664,
+      "answer_raw": "0.10664",
+      "program": "divide(1396.3, 13093.0)"
+    }
+  ]
+}

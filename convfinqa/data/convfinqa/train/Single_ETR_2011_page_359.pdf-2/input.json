@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "Single_ETR/2011/page_359.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "entergy new orleans , inc .",
+      "management 2019s financial discussion and analysis the volume/weather variance is primarily due to an increase in electricity usage in the residential and commercial sectors due in part to a 4% ( 4 % ) increase in the average number of residential customers and a 3% ( 3 % ) increase in the average number of commercial customers , partially offset by the effect of less favorable weather on residential sales .",
+      "gross operating revenues gross operating revenues decreased primarily due to : a decrease of $ 16.2 million in electric fuel cost recovery revenues due to lower fuel rates ; a decrease of $ 15.4 million in gross gas revenues primarily due to lower fuel cost recovery revenues as a result of lower fuel rates and the effect of milder weather ; and formula rate plan decreases effective october 2010 and october 2011 , as discussed above .",
+      "the decrease was partially offset by an increase in gross wholesale revenue due to increased sales to affiliated customers and more favorable volume/weather , as discussed above .",
+      "2010 compared to 2009 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory charges ( credits ) .",
+      "following is an analysis of the change in net revenue comparing 2010 to 2009 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the volume/weather variance is primarily due to an increase of 348 gwh , or 7% ( 7 % ) , in billed retail electricity usage primarily due to more favorable weather compared to last year .",
+      "the net gas revenue variance is primarily due to more favorable weather compared to last year , along with the recognition of a gas regulatory asset associated with the settlement of entergy new orleans 2019s electric and gas formula rate plans .",
+      "see note 2 to the financial statements for further discussion of the formula rate plan settlement .",
+      "the effect of 2009 rate case settlement variance results from the april 2009 settlement of entergy new orleans 2019s rate case , and includes the effects of realigning non-fuel costs associated with the operation of grand gulf from the fuel adjustment clause to electric base rates effective june 2009 .",
+      "see note 2 to the financial statements for further discussion of the rate case settlement .",
+      "other income statement variances 2011 compared to 2010 other operation and maintenance expenses decreased primarily due to the deferral in 2011 of $ 13.4 million of 2010 michoud plant maintenance costs pursuant to the settlement of entergy new orleans 2019s 2010 test year formula rate plan filing approved by the city council in september 2011 and a decrease of $ 8.0 million in fossil- fueled generation expenses due to higher plant outage costs in 2010 due to a greater scope of work at the michoud plant .",
+      "see note 2 to the financial statements for more discussion of the 2010 test year formula rate plan filing. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2009 net revenue",
+        "$ 243.0"
+      ],
+      [
+        "volume/weather",
+        "17.0"
+      ],
+      [
+        "net gas revenue",
+        "14.2"
+      ],
+      [
+        "effect of 2009 rate case settlement",
+        "-6.6 ( 6.6 )"
+      ],
+      [
+        "other",
+        "5.3"
+      ],
+      [
+        "2010 net revenue",
+        "$ 272.9"
+      ]
+    ],
+    "questions": [
+      "what is the difference in net revenue between the years of 2010 and 2009, in millions?",
+      "what was the net revenue in the year of 2009, in millions?",
+      "how much does that difference represent in relation to this net revenue?"
+    ]
+  }
+}

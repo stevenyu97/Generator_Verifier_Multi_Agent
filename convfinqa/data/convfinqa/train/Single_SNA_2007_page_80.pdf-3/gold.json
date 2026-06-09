@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the undistributed earnings of all non-u.s. subsidiaries totaled in 2007?",
+      "answer": 338.5,
+      "answer_raw": "338.5",
+      "program": "338.5"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for 2006?",
+      "answer": 247.4,
+      "answer_raw": "247.4",
+      "program": "247.4"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the combined value for these two years?",
+      "answer": 585.9,
+      "answer_raw": "585.9",
+      "program": "add(338.5, 247.4)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and for 2005?",
+      "answer": 173.6,
+      "answer_raw": "173.6",
+      "program": "173.6"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "combined, what was the total value for all three years?",
+      "answer": 759.5,
+      "answer_raw": "759.5",
+      "program": "add(338.5, 247.4), add(#0, 173.6)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2016 what percentage by square feet of major facilities are located in the united states?",
+      "answer": 0.56385,
+      "answer_raw": "0.56385",
+      "program": "divide(34.0, 60.3)"
+    }
+  ]
+}

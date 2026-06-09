@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the compensation expense in 2017 is relates to the acceleration of equity awards upon termination of employment at baker hughes?",
+      "answer": 0.40541,
+      "answer_raw": "0.40541",
+      "program": "divide(15, 37)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the total pre-tax catastrophe losses in the last two years?",
+      "answer": 1773.6,
+      "answer_raw": "1773.6",
+      "program": "add(287.9, 1485.7)"
+    }
+  ]
+}

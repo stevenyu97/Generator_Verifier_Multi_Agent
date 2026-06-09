@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "without the change in market value of the investment portfolio in 2003 , what would the company 2019s obligations be under the deferred comp plan , in millions?",
+      "answer": 113.0,
+      "answer_raw": "113.0",
+      "program": "add(100, 13)"
+    }
+  ]
+}

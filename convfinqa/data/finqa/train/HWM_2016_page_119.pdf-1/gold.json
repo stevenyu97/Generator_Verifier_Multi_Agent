@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the decrease observed in the deferred purchase price receivable during 2015 and 2016?",
+      "answer": -0.66667,
+      "answer_raw": "-0.66667",
+      "program": "subtract(83, 249), divide(#0, 249)"
+    }
+  ]
+}

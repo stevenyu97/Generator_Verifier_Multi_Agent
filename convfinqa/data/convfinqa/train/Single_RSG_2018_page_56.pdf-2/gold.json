@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the interest expense on debt and capital lease obligations in 2018?",
+      "answer": 349.4,
+      "answer_raw": "349.4",
+      "program": "349.4"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2017?",
+      "answer": 324.8,
+      "answer_raw": "324.8",
+      "program": "324.8"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change among these years?",
+      "answer": 24.6,
+      "answer_raw": "24.6",
+      "program": "subtract(349.4, 324.8)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the interest expense on debt and capital lease obligations in 2017?",
+      "answer": 324.8,
+      "answer_raw": "324.8",
+      "program": "324.8"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what percentage change does this represent?",
+      "answer": 0.07574,
+      "answer_raw": "0.07574",
+      "program": "subtract(349.4, 324.8), divide(#0, 324.8)"
+    }
+  ]
+}

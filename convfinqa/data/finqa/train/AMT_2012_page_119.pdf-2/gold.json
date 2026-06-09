@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the customer-related intangibles to the network location intangibles included in the purchase allocation price",
+      "answer": 2.10526,
+      "answer_raw": "2.10526",
+      "program": "divide(80.0, 38.0)"
+    }
+  ]
+}

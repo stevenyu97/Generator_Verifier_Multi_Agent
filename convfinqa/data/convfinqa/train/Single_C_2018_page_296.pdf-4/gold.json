@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total credit commitments and lines of credit in 2018?",
+      "answer": 1018894.0,
+      "answer_raw": "1018894.0",
+      "program": "1018894"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2017?",
+      "answer": 985174.0,
+      "answer_raw": "985174.0",
+      "program": "985174"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 33720.0,
+      "answer_raw": "33720.0",
+      "program": "subtract(1018894, 985174)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage change does this represent?",
+      "answer": 0.03423,
+      "answer_raw": "0.03423",
+      "program": "subtract(1018894, 985174), divide(#0, 985174)"
+    }
+  ]
+}

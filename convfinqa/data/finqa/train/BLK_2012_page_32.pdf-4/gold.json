@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the balance of alternative assets from 2011 to 2012?",
+      "answer": 0.04618,
+      "answer_raw": "0.04618",
+      "program": "subtract(109795, 104948), divide(#0, 104948)"
+    }
+  ]
+}

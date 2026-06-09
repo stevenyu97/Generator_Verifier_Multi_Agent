@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in millions between the total cost of common shares repurchases from 2015 to 2016?",
+      "answer": 1874.0,
+      "answer_raw": "1874.0",
+      "program": "subtract(6069, 4195)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average rent expense for operating leases with terms exceeding one month from 2008-2010 , in millions?",
+      "answer": 685.66667,
+      "answer_raw": "685.66667",
+      "program": "add(624, 686), add(#0, 747), divide(#1, const_3)"
+    }
+  ]
+}

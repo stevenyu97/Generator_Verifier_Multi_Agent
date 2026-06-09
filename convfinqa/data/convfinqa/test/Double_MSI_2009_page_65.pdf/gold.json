@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in the year of 2009, considering the segment 2019s net sales and the percent they represented in relation to the 2019s consolidated net sales, what can be concluded to have been these consolidates sales, in billions?",
+      "answer": 22.1875,
+      "answer_raw": "22.1875",
+      "program": "divide(7.1, 32%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in this same year, what was the total of the segment net sales?",
+      "answer": 12099.0,
+      "answer_raw": "12099.0",
+      "program": "12099"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was it in 2008?",
+      "answer": 7146.0,
+      "answer_raw": "7146.0",
+      "program": "7146"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "how much, then, did the 2009 amount represent in relation to this 2008 one?",
+      "answer": 1.69312,
+      "answer_raw": "1.69312",
+      "program": "divide(12099, 7146)"
+    }
+  ]
+}

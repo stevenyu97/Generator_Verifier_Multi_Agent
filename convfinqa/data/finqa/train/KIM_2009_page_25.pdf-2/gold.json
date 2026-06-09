@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of dec 31 , 2009 , what was the average loan commitment for the company for all of its total loan commitments , in millions>",
+      "answer": 4.83514,
+      "answer_raw": "4.83514",
+      "program": "divide(178.9, 37)"
+    }
+  ]
+}

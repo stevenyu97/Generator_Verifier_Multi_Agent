@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the balance of level 3 investments assets from 2007 to 2008?",
+      "answer": -0.34435,
+      "answer_raw": "-0.34435",
+      "program": "subtract(813, 1240), divide(#0, 1240)"
+    }
+  ]
+}

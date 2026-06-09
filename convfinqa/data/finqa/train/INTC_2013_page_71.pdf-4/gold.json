@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total cash and investments as of dec . 29 2012 was comprised of available-for-sale investments?",
+      "answer": 0.53232,
+      "answer_raw": "0.53232",
+      "program": "divide(14001, 26302)"
+    }
+  ]
+}

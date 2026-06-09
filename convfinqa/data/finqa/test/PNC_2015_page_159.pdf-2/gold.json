@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2015 and 2014 , what was the average in millions for provision recapture for purchased impaired loans?",
+      "answer": 86.5,
+      "answer_raw": "86.5",
+      "program": "add(82, 91), divide(#0, const_2)"
+    }
+  ]
+}

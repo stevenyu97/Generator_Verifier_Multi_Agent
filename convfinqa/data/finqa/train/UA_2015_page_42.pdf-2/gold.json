@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of growth of the sales revenues of apparel from 2013 to 2014",
+      "answer": 0.30041,
+      "answer_raw": "0.30041",
+      "program": "subtract(2291520, 1762150), divide(#0, 1762150)"
+    }
+  ]
+}

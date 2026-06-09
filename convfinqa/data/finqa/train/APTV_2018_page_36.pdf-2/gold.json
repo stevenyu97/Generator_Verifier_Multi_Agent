@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in percentage performance for aptiv plc versus the automotive peer group for the five year period ending december 31 2018?",
+      "answer": 0.2391,
+      "answer_raw": "0.2391",
+      "program": "subtract(130.80, const_100), subtract(106.89, const_100), divide(#0, const_100), divide(#1, const_100), subtract(#2, #3)"
+    }
+  ]
+}

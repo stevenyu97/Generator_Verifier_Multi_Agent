@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the operating income in 2011?",
+      "answer": 1314.0,
+      "answer_raw": "1314.0",
+      "program": "1314"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2010?",
+      "answer": 1194.0,
+      "answer_raw": "1194.0",
+      "program": "1194"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference in this value over these years?",
+      "answer": 120.0,
+      "answer_raw": "120.0",
+      "program": "subtract(1314, 1194)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the specific value for 2010 again?",
+      "answer": 1194.0,
+      "answer_raw": "1194.0",
+      "program": "1194"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage increase?",
+      "answer": 0.1005,
+      "answer_raw": "0.1005",
+      "program": "subtract(1314, 1194), divide(#0, 1194)"
+    }
+  ]
+}

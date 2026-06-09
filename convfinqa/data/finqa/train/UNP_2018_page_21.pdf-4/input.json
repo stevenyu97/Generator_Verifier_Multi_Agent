@@ -1,0 +1,56 @@
+{
+  "input": {
+    "id": "UNP/2018/page_21.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "purchases of equity securities 2013 during 2018 , we repurchased 57669746 shares of our common stock at an average price of $ 143.70 .",
+      "the following table presents common stock repurchases during each month for the fourth quarter of 2018 : period total number of shares purchased [a] average price paid per share total number of shares purchased as part of a publicly announced plan or program [b] maximum number of shares remaining under the plan or program [b] ."
+    ],
+    "post_text": [
+      "[a] total number of shares purchased during the quarter includes approximately 17391 shares delivered or attested to upc by employees to pay stock option exercise prices , satisfy excess tax withholding obligations for stock option exercises or vesting of retention units , and pay withholding obligations for vesting of retention shares .",
+      "[b] effective january 1 , 2017 , our board of directors authorized the repurchase of up to 120 million shares of our common stock by december 31 , 2020 .",
+      "these repurchases may be made on the open market or through other transactions .",
+      "our management has sole discretion with respect to determining the timing and amount of these transactions. ."
+    ],
+    "table": [
+      [
+        "period",
+        "total number of shares purchased [a]",
+        "average price paid per share",
+        "total number of shares purchased as part of a publicly announcedplan or program [b]",
+        "maximum number of shares remaining under the plan or program [b]"
+      ],
+      [
+        "oct . 1 through oct . 31",
+        "6091605",
+        "$ 158.20",
+        "6087727",
+        "32831024"
+      ],
+      [
+        "nov . 1 through nov . 30",
+        "3408467",
+        "147.91",
+        "3402190",
+        "29428834"
+      ],
+      [
+        "dec . 1 through dec . 31",
+        "3007951",
+        "148.40",
+        "3000715",
+        "26428119"
+      ],
+      [
+        "total",
+        "12508023",
+        "$ 153.04",
+        "12490632",
+        "n/a"
+      ]
+    ],
+    "questions": [
+      "what percentage of the total number of shares purchased where purchased in december?"
+    ]
+  }
+}

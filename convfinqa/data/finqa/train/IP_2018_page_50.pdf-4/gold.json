@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average capital spending for the global cellulose fibers segment , considering the years 2016-2018?",
+      "answer": 181.66667,
+      "answer_raw": "181.66667",
+      "program": "table_average(global cellulose fibers, none)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "did american have access to more planes than american eagle at 12/31/17?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(948, 597)"
+    }
+  ]
+}

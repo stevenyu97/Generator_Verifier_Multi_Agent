@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "2 jkhy 100.00 128.02 141.48 193.46 233.19 296.19",
+      "answer": 196.19,
+      "answer_raw": "196.19",
+      "program": "subtract(296.19, 100.00)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the balance of reinsurance receivables and premium receivables from 2013 to 2014?",
+      "answer": -0.01364,
+      "answer_raw": "-0.01364",
+      "program": "subtract(29497, 29905), divide(#0, 29905)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in amortization expense between 2008 and 2009?",
+      "answer": 1.9,
+      "answer_raw": "1.9",
+      "program": "subtract(97.8, 95.9)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the percentage change?",
+      "answer": 0.01981,
+      "answer_raw": "0.01981",
+      "program": "subtract(97.8, 95.9), divide(#0, 95.9)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much did the other intangible assets net change between 2003 and 2004?",
+      "answer": -34446.0,
+      "answer_raw": "-34446.0",
+      "program": "subtract(985303, 1019749)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "so what was the percentage decline during this time?",
+      "answer": -0.03378,
+      "answer_raw": "-0.03378",
+      "program": "subtract(985303, 1019749), divide(#0, 1019749)"
+    }
+  ]
+}

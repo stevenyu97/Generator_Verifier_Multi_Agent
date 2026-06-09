@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the decline from current future minimum lease payments and the following years expected obligation?\\\\n",
+      "answer": 0.19495,
+      "answer_raw": "0.19495",
+      "program": "subtract(1703, 1371), divide(#0, 1703)"
+    }
+  ]
+}

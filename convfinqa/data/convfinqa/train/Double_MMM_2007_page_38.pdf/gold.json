@@ -1,0 +1,53 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the increase in tax payment in 2006?",
+      "answer": 600.0,
+      "answer_raw": "600.0",
+      "program": "600"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the net change in cash flows provided by operating activities in 2006?",
+      "answer": 365.0,
+      "answer_raw": "365.0",
+      "program": "365"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the ratio of tax payment to the net change in cash flows provided by operating activities in 2006?",
+      "answer": 1.64384,
+      "answer_raw": "1.64384",
+      "program": "divide(600, 365)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the net cash used in investing activities in 2007?",
+      "answer": -1367.0,
+      "answer_raw": "-1367.0",
+      "program": "-1367"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what about in 2006?",
+      "answer": -1460.0,
+      "answer_raw": "-1460.0",
+      "program": "-1460"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the net change?",
+      "answer": 93.0,
+      "answer_raw": "93.0",
+      "program": "subtract(-1367, -1460)"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "what percentage change does this represent?",
+      "answer": -0.0637,
+      "answer_raw": "-0.0637",
+      "program": "subtract(-1367, -1460), divide(#0, -1460)"
+    }
+  ]
+}

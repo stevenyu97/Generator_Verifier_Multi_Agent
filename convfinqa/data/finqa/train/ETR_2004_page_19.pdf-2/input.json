@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "ETR/2004/page_19.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries management's financial discussion and analysis net revenue 2004 compared to 2003 net revenue , which is entergy's measure of gross margin , consists of operating revenues net of : 1 ) fuel , fuel-related , and purchased power expenses and 2 ) other regulatory credits .",
+      "following is an analysis of the change in net revenue comparing 2004 to 2003. ."
+    ],
+    "post_text": [
+      "the volume/weather variance resulted primarily from increased usage , partially offset by the effect of milder weather on sales during 2004 compared to 2003 .",
+      "billed usage increased a total of 2261 gwh in the industrial and commercial sectors .",
+      "the summer capacity charges variance was due to the amortization in 2003 at entergy gulf states and entergy louisiana of deferred capacity charges for the summer of 2001 .",
+      "entergy gulf states' amortization began in june 2002 and ended in may 2003 .",
+      "entergy louisiana's amortization began in august 2002 and ended in july 2003 .",
+      "base rates increased net revenue due to a base rate increase at entergy new orleans that became effective in june 2003 .",
+      "the deferred fuel cost revisions variance resulted primarily from a revision in 2003 to an unbilled sales pricing estimate to more closely align the fuel component of that pricing with expected recoverable fuel costs at entergy louisiana .",
+      "deferred fuel cost revisions also decreased net revenue due to a revision in 2004 to the estimate of fuel costs filed for recovery at entergy arkansas in the march 2004 energy cost recovery rider .",
+      "the price applied to unbilled sales variance resulted from a decrease in fuel price in 2004 caused primarily by the effect of nuclear plant outages in 2003 on average fuel costs .",
+      "gross operating revenues and regulatory credits gross operating revenues include an increase in fuel cost recovery revenues of $ 475 million and $ 18 million in electric and gas sales , respectively , primarily due to higher fuel rates in 2004 resulting from increases in the market prices of purchased power and natural gas .",
+      "as such , this revenue increase is offset by increased fuel and purchased power expenses .",
+      "other regulatory credits increased primarily due to the following : 2022 cessation of the grand gulf accelerated recovery tariff that was suspended in july 2003 ; 2022 the amortization in 2003 of deferred capacity charges for summer 2001 power purchases at entergy gulf states and entergy louisiana ; 2022 the deferral in 2004 of $ 14.3 million of capacity charges related to generation resource planning as allowed by the lpsc ; 2022 the deferral in 2004 by entergy louisiana of $ 11.4 million related to the voluntary severance program , in accordance with a proposed stipulation entered into with the lpsc staff ; and ."
+    ],
+    "table": [
+      [
+        "",
+        "( in millions )"
+      ],
+      [
+        "2003 net revenue",
+        "$ 4214.5"
+      ],
+      [
+        "volume/weather",
+        "68.3"
+      ],
+      [
+        "summer capacity charges",
+        "17.4"
+      ],
+      [
+        "base rates",
+        "10.6"
+      ],
+      [
+        "deferred fuel cost revisions",
+        "-46.3 ( 46.3 )"
+      ],
+      [
+        "price applied to unbilled sales",
+        "-19.3 ( 19.3 )"
+      ],
+      [
+        "other",
+        "-1.2 ( 1.2 )"
+      ],
+      [
+        "2004 net revenue",
+        "$ 4244.0"
+      ]
+    ],
+    "questions": [
+      "what is the net change in net revenue during 2004 for entergy corporation?"
+    ]
+  }
+}

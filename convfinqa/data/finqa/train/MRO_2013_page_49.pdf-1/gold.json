@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average effective income tax rate on continuing operations?",
+      "answer": 67.5,
+      "answer_raw": "67.5",
+      "program": "add(74, 61), divide(#0, const_2)"
+    }
+  ]
+}

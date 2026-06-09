@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the fully insured of the consumer-choice membership total",
+      "answer": 0.49582,
+      "answer_raw": "0.49582",
+      "program": "divide(184000, 371100)"
+    }
+  ]
+}

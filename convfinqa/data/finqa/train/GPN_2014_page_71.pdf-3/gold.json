@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of assets for the acquisition of paypros was deductible for taxes?",
+      "answer": 0.40541,
+      "answer_raw": "0.40541",
+      "program": "add(10700, 31000), add(147500, #0), divide(#1, 466687)"
+    }
+  ]
+}

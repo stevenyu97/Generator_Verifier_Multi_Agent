@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the company 2019s contribution expense related to all of its defined contribution plans for 2008 to 2007",
+      "answer": 1.30912,
+      "answer_raw": "1.30912",
+      "program": "divide(35341, 26996)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum, in millions, of promissory notes issued in 2009 and 2010?",
+      "answer": 6.7,
+      "answer_raw": "6.7",
+      "program": "add(5.5, 1.2)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total sum including 2008?",
+      "answer": 8.3,
+      "answer_raw": "8.3",
+      "program": "add(5.5, 1.2), add(#0, 1.6)"
+    }
+  ]
+}

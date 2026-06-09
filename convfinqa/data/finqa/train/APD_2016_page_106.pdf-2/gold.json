@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the 2022-2026 period , what is the annual projected benefit payment value?",
+      "answer": 7.06,
+      "answer_raw": "7.06",
+      "program": "divide(35.3, const_5)"
+    }
+  ]
+}

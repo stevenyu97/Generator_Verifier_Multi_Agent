@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of new domestic sites in 2012?",
+      "answer": 960.0,
+      "answer_raw": "960.0",
+      "program": "960"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and new international sites?",
+      "answer": 7850.0,
+      "answer_raw": "7850.0",
+      "program": "7850"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combined, what was the total new sites for this year?",
+      "answer": 8810.0,
+      "answer_raw": "8810.0",
+      "program": "add(960, 7850)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage of new sites that were foreign?",
+      "answer": 0.89103,
+      "answer_raw": "0.89103",
+      "program": "add(960, 7850), divide(7850, #0)"
+    }
+  ]
+}

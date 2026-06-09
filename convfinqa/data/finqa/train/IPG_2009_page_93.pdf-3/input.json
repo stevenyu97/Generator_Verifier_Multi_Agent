@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "IPG/2009/page_93.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "part iii item 10 .",
+      "directors , executive officers and corporate governance the information required by this item is incorporated by reference to the 201celection of directors 201d section , the 201cdirector selection process 201d section , the 201ccode of conduct 201d section , the 201cprincipal committees of the board of directors 201d section , the 201caudit committee 201d section and the 201csection 16 ( a ) beneficial ownership reporting compliance 201d section of the proxy statement for the annual meeting of stockholders to be held on may 27 , 2010 ( the 201cproxy statement 201d ) , except for the description of our executive officers , which appears in part i of this report on form 10-k under the heading 201cexecutive officers of ipg . 201d new york stock exchange certification in 2009 , our ceo provided the annual ceo certification to the new york stock exchange , as required under section 303a.12 ( a ) of the new york stock exchange listed company manual .",
+      "item 11 .",
+      "executive compensation the information required by this item is incorporated by reference to the 201ccompensation of executive officers 201d section , the 201cnon-management director compensation 201d section , the 201ccompensation discussion and analysis 201d section and the 201ccompensation committee report 201d section of the proxy statement .",
+      "item 12 .",
+      "security ownership of certain beneficial owners and management and related stockholder matters the information required by this item is incorporated by reference to the 201coutstanding shares 201d section of the proxy statement , except for information regarding the shares of common stock to be issued or which may be issued under our equity compensation plans as of december 31 , 2009 , which is provided in the following table .",
+      "equity compensation plan information plan category number of shares of common stock to be issued upon exercise of outstanding options , warrants and rights ( a ) 12 weighted-average exercise price of outstanding stock options ( b ) number of securities remaining available for future issuance under equity compensation plans ( excluding securities reflected in column a ) ( c ) 3 equity compensation plans approved by security holders .",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "34317386 $ 16.11 52359299 equity compensation plans not approved by security holders 4 .",
+      ".",
+      ".",
+      ".",
+      ".",
+      "612500 $ 27.53 2014 ."
+    ],
+    "post_text": [
+      "1 includes a total of 6058967 performance-based share awards made under the 2004 , 2006 and 2009 performance incentive plan representing the target number of shares to be issued to employees following the completion of the 2007-2009 performance period ( the 201c2009 ltip share awards 201d ) , the 2008- 2010 performance period ( the 201c2010 ltip share awards 201d ) and the 2009-2011 performance period ( the 201c2011 ltip share awards 201d ) respectively .",
+      "the computation of the weighted-average exercise price in column ( b ) of this table does not take the 2009 ltip share awards , the 2010 ltip share awards or the 2011 ltip share awards into account .",
+      "2 includes a total of 3914804 restricted share unit and performance-based awards ( 201cshare unit awards 201d ) which may be settled in shares or cash .",
+      "the computation of the weighted-average exercise price in column ( b ) of this table does not take the share unit awards into account .",
+      "each share unit award actually settled in cash will increase the number of shares of common stock available for issuance shown in column ( c ) .",
+      "3 includes ( i ) 37885502 shares of common stock available for issuance under the 2009 performance incentive plan , ( ii ) 13660306 shares of common stock available for issuance under the employee stock purchase plan ( 2006 ) and ( iii ) 813491 shares of common stock available for issuance under the 2009 non-management directors 2019 stock incentive plan .",
+      "4 consists of special stock option grants awarded to certain true north executives following our acquisition of true north ( the 201ctrue north options 201d ) .",
+      "the true north options have an exercise price equal to the fair market value of interpublic 2019s common stock on the date of the grant .",
+      "the terms and conditions of these stock option awards are governed by interpublic 2019s 1997 performance incentive plan .",
+      "generally , the options become exercisable between two and five years after the date of the grant and expire ten years from the grant date. ."
+    ],
+    "table": [
+      [
+        "plan category",
+        "number of shares of common stock to be issued upon exercise of outstandingoptions warrants and rights ( a ) 12",
+        "weighted-average exercise price of outstanding stock options ( b )",
+        "number of securities remaining available for futureissuance under equity compensation plans ( excluding securities reflected in column a ) ( c ) 3"
+      ],
+      [
+        "equity compensation plans approved by security holders",
+        "34317386",
+        "$ 16.11",
+        "52359299"
+      ],
+      [
+        "equity compensation plans not approved by security holders4",
+        "612500",
+        "$ 27.53",
+        "2014"
+      ],
+      [
+        "total",
+        "34929886",
+        "$ 16.31",
+        "52359299"
+      ]
+    ],
+    "questions": [
+      "what percentage of remaining securities are available for issuance under the 2009 non-management directors 2019 stock incentive plan ."
+    ]
+  }
+}

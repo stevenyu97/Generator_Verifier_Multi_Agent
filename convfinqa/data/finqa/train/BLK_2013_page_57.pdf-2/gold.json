@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the nonoperating income ( expense ) less net income ( loss ) attributable to nci as adjusted as a percentage of nonoperating income ( expense ) on a gaap basis in 2013?",
+      "answer": 0.06034,
+      "answer_raw": "0.06034",
+      "program": "divide(7, 116)"
+    }
+  ]
+}

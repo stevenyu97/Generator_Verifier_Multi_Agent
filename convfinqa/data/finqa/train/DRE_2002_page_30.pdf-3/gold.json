@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in basic net income available for common shares from 2001 to 2002?",
+      "answer": 42.59574,
+      "answer_raw": "42.59574",
+      "program": "subtract(229967, 161272), divide(#0, 161272), multiply(#1, const_100)"
+    }
+  ]
+}

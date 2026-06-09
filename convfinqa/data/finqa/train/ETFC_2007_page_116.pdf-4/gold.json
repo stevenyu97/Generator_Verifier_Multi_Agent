@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of counterparty exposure at december 31 2007 is represented by union bank of switzerland?",
+      "answer": 0.11691,
+      "answer_raw": "0.11691",
+      "program": "divide(15562, 133106)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between the total fee revenue of 2000 and 1999?",
+      "answer": 353.0,
+      "answer_raw": "353.0",
+      "program": "subtract(2665, 2312)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how much does that difference represent in relation to the total fee revenue of 1999?",
+      "answer": 0.15268,
+      "answer_raw": "0.15268",
+      "program": "subtract(2665, 2312), divide(#0, 2312)"
+    }
+  ]
+}

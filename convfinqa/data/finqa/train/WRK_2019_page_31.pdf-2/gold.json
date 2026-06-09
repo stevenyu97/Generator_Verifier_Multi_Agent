@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of facilities are for consumer packaging?",
+      "answer": 0.43168,
+      "answer_raw": "0.43168",
+      "program": "divide(139, 322)"
+    }
+  ]
+}

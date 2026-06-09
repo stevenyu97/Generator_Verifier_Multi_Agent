@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming the same rate of growth as in 2018 , what would industrial segment revenues grow to in 2019?",
+      "answer": 6197.35607,
+      "answer_raw": "6197.35607",
+      "program": "divide(5679, 5204), multiply(#0, 5679)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total decrease of cost of sales due to the adoption of the lifo method",
+      "answer": 20664.0,
+      "answer_raw": "20664.0",
+      "program": "add(9978, 11212), subtract(#0, 526)"
+    }
+  ]
+}

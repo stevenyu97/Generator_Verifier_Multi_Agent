@@ -1,0 +1,57 @@
+{
+  "input": {
+    "id": "TMUS/2016/page_32.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "does not believe are in our and our stockholders 2019 best interest .",
+      "the rights plan is intended to protect stockholders in the event of an unfair or coercive offer to acquire the company and to provide our board of directors with adequate time to evaluate unsolicited offers .",
+      "the rights plan may prevent or make takeovers or unsolicited corporate transactions with respect to our company more difficult , even if stockholders may consider such transactions favorable , possibly including transactions in which stockholders might otherwise receive a premium for their shares .",
+      "item 1b .",
+      "unresolved staff comments item 2 .",
+      "properties as of december 31 , 2016 , our significant properties used in connection with switching centers , data centers , call centers and warehouses were as follows: ."
+    ],
+    "post_text": [
+      "as of december 31 , 2016 , we leased approximately 60000 cell sites .",
+      "as of december 31 , 2016 , we leased approximately 2000 t-mobile and metropcs retail locations , including stores and kiosks ranging in size from approximately 100 square feet to 17000 square feet .",
+      "we currently lease office space totaling approximately 950000 square feet for our corporate headquarters in bellevue , washington .",
+      "we use these offices for engineering and administrative purposes .",
+      "we also lease space throughout the u.s. , totaling approximately 1200000 square feet as of december 31 , 2016 , for use by our regional offices primarily for administrative , engineering and sales purposes .",
+      "item 3 .",
+      "legal proceedings see note 12 2013 commitments and contingencies of the notes to the consolidated financial statements included in part ii , item 8 of this form 10-k for information regarding certain legal proceedings in which we are involved .",
+      "item 4 .",
+      "mine safety disclosures part ii .",
+      "item 5 .",
+      "market for registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities market information our common stock is traded on the nasdaq global select market of the nasdaq stock market llc ( 201cnasdaq 201d ) under the symbol 201ctmus . 201d as of december 31 , 2016 , there were 309 registered stockholders of record of our common stock , but we estimate the total number of stockholders to be much higher as a number of our shares are held by brokers or dealers for their customers in street name. ."
+    ],
+    "table": [
+      [
+        "",
+        "approximate number",
+        "approximate size in square feet"
+      ],
+      [
+        "switching centers",
+        "57",
+        "1400000"
+      ],
+      [
+        "data centers",
+        "8",
+        "600000"
+      ],
+      [
+        "call center",
+        "16",
+        "1300000"
+      ],
+      [
+        "warehouses",
+        "16",
+        "500000"
+      ]
+    ],
+    "questions": [
+      "what is the ratio of the call center to the switching centers in square feet"
+    ]
+  }
+}

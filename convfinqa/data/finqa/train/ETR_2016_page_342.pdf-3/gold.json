@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming the retail electric price increase wouldn't have occured , what would 2016 net revenue have been , in millions?",
+      "answer": 2369.4,
+      "answer_raw": "2369.4",
+      "program": "subtract(2438.4, 69.0)"
+    }
+  ]
+}

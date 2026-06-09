@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the range of market performance for the two indexes in 2014?",
+      "answer": 53.0,
+      "answer_raw": "53.0",
+      "program": "subtract(235, 182)"
+    }
+  ]
+}

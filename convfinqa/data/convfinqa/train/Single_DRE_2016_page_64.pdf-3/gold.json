@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in value of management fees earned from 2015 to 2016?",
+      "answer": 2.3,
+      "answer_raw": "2.3",
+      "program": "subtract(6.8, 4.5)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the change divided by the 2015 value?",
+      "answer": 0.51111,
+      "answer_raw": "0.51111",
+      "program": "subtract(6.8, 4.5), divide(#0, 4.5)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is that shown as a percent?",
+      "answer": 51.11111,
+      "answer_raw": "51.11111",
+      "program": "subtract(6.8, 4.5), divide(#0, 4.5), multiply(#1, const_100)"
+    }
+  ]
+}

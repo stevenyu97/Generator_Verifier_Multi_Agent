@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "AAP/2016/page_96.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "advance auto parts , inc .",
+      "schedule ii - valuation and qualifying accounts ( in thousands ) allowance for doubtful accounts receivable : balance at beginning of period charges to expenses deductions balance at end of period january 3 , 2015 $ 13295 $ 17182 $ ( 14325 ) ( 1 ) $ 16152 january 2 , 2016 16152 22067 ( 12461 ) ( 1 ) 25758 december 31 , 2016 25758 24597 ( 21191 ) ( 1 ) 29164 ( 1 ) accounts written off during the period .",
+      "these amounts did not impact the company 2019s statement of operations for any year presented .",
+      "note : other valuation and qualifying accounts have not been reported in this schedule because they are either not applicable or because the information has been included elsewhere in this report. ."
+    ],
+    "post_text": [
+      "advance auto parts , inc .",
+      "schedule ii - valuation and qualifying accounts ( in thousands ) allowance for doubtful accounts receivable : balance at beginning of period charges to expenses deductions balance at end of period january 3 , 2015 $ 13295 $ 17182 $ ( 14325 ) ( 1 ) $ 16152 january 2 , 2016 16152 22067 ( 12461 ) ( 1 ) 25758 december 31 , 2016 25758 24597 ( 21191 ) ( 1 ) 29164 ( 1 ) accounts written off during the period .",
+      "these amounts did not impact the company 2019s statement of operations for any year presented .",
+      "note : other valuation and qualifying accounts have not been reported in this schedule because they are either not applicable or because the information has been included elsewhere in this report. ."
+    ],
+    "table": [
+      [
+        "allowance for doubtful accounts receivable:",
+        "balance atbeginningof period",
+        "charges toexpenses",
+        "deductions",
+        "",
+        "balance atend ofperiod"
+      ],
+      [
+        "january 3 2015",
+        "$ 13295",
+        "$ 17182",
+        "$ -14325 ( 14325 )",
+        "-1 ( 1 )",
+        "$ 16152"
+      ],
+      [
+        "january 2 2016",
+        "16152",
+        "22067",
+        "-12461 ( 12461 )",
+        "-1 ( 1 )",
+        "25758"
+      ],
+      [
+        "december 31 2016",
+        "25758",
+        "24597",
+        "-21191 ( 21191 )",
+        "-1 ( 1 )",
+        "29164"
+      ]
+    ],
+    "questions": [
+      "what is the net increase in the balance of allowance for doubtful accounts receivable during 2015?"
+    ]
+  }
+}

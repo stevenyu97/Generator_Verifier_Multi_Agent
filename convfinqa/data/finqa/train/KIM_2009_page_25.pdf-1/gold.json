@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2009 what was the percent of the income tax benefit and the noncontrolling interests of the the company recognized non-cash impairment charges",
+      "answer": 198.8,
+      "answer_raw": "198.8",
+      "program": "add(22.5, 1.2), add(#0, 175.1)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the sum of the securitization rates of standby letters of credit from 2007 and 2008?",
+      "answer": 1.36,
+      "answer_raw": "1.36",
+      "program": "add(66%, 70%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the average between them?",
+      "answer": 0.68,
+      "answer_raw": "0.68",
+      "program": "add(66%, 70%), divide(#0, const_2)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "for that same period, what was the total of unfunded commitments, in millions?",
+      "answer": 290.0,
+      "answer_raw": "290.0",
+      "program": "add(195, 95)"
+    }
+  ]
+}

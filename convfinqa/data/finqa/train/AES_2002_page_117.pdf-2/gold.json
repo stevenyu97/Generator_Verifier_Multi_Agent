@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in revenues for investments in 50% ( 50 % ) or less owned investments accounted for using the equity method between 2000 and 2001?",
+      "answer": -0.01506,
+      "answer_raw": "-0.01506",
+      "program": "subtract(6147, 6241), divide(#0, 6241)"
+    }
+  ]
+}

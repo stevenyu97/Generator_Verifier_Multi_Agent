@@ -1,0 +1,50 @@
+{
+  "input": {
+    "id": "JPM/2015/page_243.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "jpmorgan chase & co./2015 annual report 233 note 11 2013 noninterest expense for details on noninterest expense , see consolidated statements of income on page 176 .",
+      "included within other expense is the following : year ended december 31 , ( in millions ) 2015 2014 2013 ."
+    ],
+    "post_text": [
+      "federal deposit insurance corporation-related ( 201cfdic 201d ) expense 1227 1037 1496 note 12 2013 securities securities are classified as trading , afs or held-to-maturity ( 201chtm 201d ) .",
+      "securities classified as trading assets are discussed in note 3 .",
+      "predominantly all of the firm 2019s afs and htm investment securities ( the 201cinvestment securities portfolio 201d ) are held by treasury and cio in connection with its asset-liability management objectives .",
+      "at december 31 , 2015 , the investment securities portfolio consisted of debt securities with an average credit rating of aa+ ( based upon external ratings where available , and where not available , based primarily upon internal ratings which correspond to ratings as defined by s&p and moody 2019s ) .",
+      "afs securities are carried at fair value on the consolidated balance sheets .",
+      "unrealized gains and losses , after any applicable hedge accounting adjustments , are reported as net increases or decreases to accumulated other comprehensive income/ ( loss ) .",
+      "the specific identification method is used to determine realized gains and losses on afs securities , which are included in securities gains/ ( losses ) on the consolidated statements of income .",
+      "htm debt securities , which management has the intent and ability to hold until maturity , are carried at amortized cost on the consolidated balance sheets .",
+      "for both afs and htm debt securities , purchase discounts or premiums are generally amortized into interest income over the contractual life of the security .",
+      "during 2014 , the firm transferred u.s .",
+      "government agency mortgage-backed securities and obligations of u.s .",
+      "states and municipalities with a fair value of $ 19.3 billion from afs to htm .",
+      "these securities were transferred at fair value , and the transfer was a non-cash transaction .",
+      "aoci included net pretax unrealized losses of $ 9 million on the securities at the date of transfer .",
+      "the transfer reflected the firm 2019s intent to hold the securities to maturity in order to reduce the impact of price volatility on aoci and certain capital measures under basel iii. ."
+    ],
+    "table": [
+      [
+        "year ended december 31 ( in millions )",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "legal expense",
+        "$ 2969",
+        "$ 2883",
+        "$ 11143"
+      ],
+      [
+        "federal deposit insurance corporation-related ( 201cfdic 201d ) expense",
+        "1227",
+        "1037",
+        "1496"
+      ]
+    ],
+    "questions": [
+      "what was the minimum legal expense in the past three years?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is percentage change in fair value of net assets denominated in foreign currencies from 2007 to 2008?",
+      "answer": -0.31738,
+      "answer_raw": "-0.31738",
+      "program": "subtract(1127, 1651), divide(#0, 1651)"
+    }
+  ]
+}

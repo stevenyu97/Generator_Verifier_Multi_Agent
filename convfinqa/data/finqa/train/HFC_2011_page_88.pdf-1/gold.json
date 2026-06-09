@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the tax rate on the gain on sale of discontinued operations before income taxes",
+      "answer": 0.13661,
+      "answer_raw": "0.13661",
+      "program": "divide(1978, 14479)"
+    }
+  ]
+}

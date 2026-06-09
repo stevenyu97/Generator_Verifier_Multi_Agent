@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net impact of granted and vested shares in the number of unvested restricted stocks in 2007?",
+      "answer": 473304.0,
+      "answer_raw": "473304.0",
+      "program": "add(1818716, -1345412)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the total impact of the forfeited shares are included?",
+      "answer": 242518.0,
+      "answer_raw": "242518.0",
+      "program": "add(1818716, -1345412), add(#0, -230786)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the balance of unvested restricted stock as december 31 2008?",
+      "answer": 3883230.0,
+      "answer_raw": "3883230.0",
+      "program": "3883230"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about as of december 31 2007?",
+      "answer": 3821707.0,
+      "answer_raw": "3821707.0",
+      "program": "3821707"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the net change during 2008?",
+      "answer": 61523.0,
+      "answer_raw": "61523.0",
+      "program": "subtract(3883230, 3821707)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the change in the shareholders 2019 equity in 2010",
+      "answer": 0.16815,
+      "answer_raw": "0.16815",
+      "program": "subtract(22974, 19667), divide(#0, 19667)"
+    }
+  ]
+}

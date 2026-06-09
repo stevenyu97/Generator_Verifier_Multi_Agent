@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the weighted-average useful life of other intangible assets?",
+      "answer": 33.0,
+      "answer_raw": "33.0",
+      "program": "33"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that for software?",
+      "answer": 5.0,
+      "answer_raw": "5.0",
+      "program": "5"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does the weighted-average useful life for other intangible assets represent in relation to this software one?",
+      "answer": 6.6,
+      "answer_raw": "6.6",
+      "program": "divide(33, 5)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much is that in percentage?",
+      "answer": 660.0,
+      "answer_raw": "660.0",
+      "program": "divide(33, 5), multiply(#0, const_100)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the difference between this percentage and the number one, or one hundred percent?",
+      "answer": 560.0,
+      "answer_raw": "560.0",
+      "program": "divide(33, 5), multiply(#0, const_100), subtract(#1, const_100)"
+    }
+  ]
+}

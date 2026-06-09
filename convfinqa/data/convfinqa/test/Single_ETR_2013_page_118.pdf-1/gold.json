@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of annual long-term debt maturities in 2017?",
+      "answer": 766801.0,
+      "answer_raw": "766801.0",
+      "program": "766801"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2016?",
+      "answer": 270852.0,
+      "answer_raw": "270852.0",
+      "program": "270852"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 495949.0,
+      "answer_raw": "495949.0",
+      "program": "subtract(766801, 270852)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation to the 2016 total, in percentage?",
+      "answer": 1.83107,
+      "answer_raw": "1.83107",
+      "program": "subtract(766801, 270852), divide(#0, 270852)"
+    }
+  ]
+}

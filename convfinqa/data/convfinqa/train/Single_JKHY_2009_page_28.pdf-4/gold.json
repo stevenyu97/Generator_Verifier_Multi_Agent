@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in the balance of cash and cash equivalents from 2008 to 2009?",
+      "answer": 52686.0,
+      "answer_raw": "52686.0",
+      "program": "subtract(118251, 65565)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage change does this represent?",
+      "answer": 0.80357,
+      "answer_raw": "0.80357",
+      "program": "subtract(118251, 65565), divide(#0, 65565)"
+    }
+  ]
+}

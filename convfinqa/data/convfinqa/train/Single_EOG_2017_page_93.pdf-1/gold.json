@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of 2017 accretion to 2016?",
+      "answer": 1.07435,
+      "answer_raw": "1.07435",
+      "program": "divide(34708, 32306)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that less 1?",
+      "answer": 0.07435,
+      "answer_raw": "0.07435",
+      "program": "divide(34708, 32306), subtract(#0, const_1)"
+    }
+  ]
+}

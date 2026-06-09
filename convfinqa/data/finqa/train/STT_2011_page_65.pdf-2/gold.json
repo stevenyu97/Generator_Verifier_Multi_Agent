@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total short-term duration advances are u.s short-term advances?",
+      "answer": 0.55714,
+      "answer_raw": "0.55714",
+      "program": "divide(1994, 3579)"
+    }
+  ]
+}

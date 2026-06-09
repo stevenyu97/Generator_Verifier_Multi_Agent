@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "combined, what was the total number of subscribers for eurosport and eurosport 2?",
+      "answer": 198.0,
+      "answer_raw": "198.0",
+      "program": "add(133, 65)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and including eurosportnews?",
+      "answer": 207.0,
+      "answer_raw": "207.0",
+      "program": "add(133, 65), add(#0, const_9)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what percentage of subscribers were for eurosport?",
+      "answer": 0.64251,
+      "answer_raw": "0.64251",
+      "program": "add(133, 65), add(#0, const_9), divide(133, #1)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in millions of the gross unrecognized tax benefits between 2009 and 2010?",
+      "answer": -28.0,
+      "answer_raw": "-28.0",
+      "program": "subtract(943, 971)"
+    }
+  ]
+}

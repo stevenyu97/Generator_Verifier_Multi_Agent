@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "the decrease in pretax pension expenses was what percentage of a decrease?",
+      "answer": 0.64957,
+      "answer_raw": "0.64957",
+      "program": "subtract(117, 41), divide(#0, 117)"
+    }
+  ]
+}

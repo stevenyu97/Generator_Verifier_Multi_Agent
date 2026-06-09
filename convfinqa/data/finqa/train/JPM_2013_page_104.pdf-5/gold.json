@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the management 2019s discussion and analysis 110 jpmorgan chase & co what was the change in net income from 2011 to 2012 in billions",
+      "answer": -921.0,
+      "answer_raw": "-921.0",
+      "program": "multiply(2.0, const_m1), subtract(#0, 919)"
+    }
+  ]
+}

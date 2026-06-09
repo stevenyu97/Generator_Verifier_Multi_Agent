@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "of the two acquisitions , was the purchase price of the hardy acquisition greater than the mondavi acquisition?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(1137.4, 1030.7)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of major manufacturing sites are based in asia pacific?",
+      "answer": 0.28571,
+      "answer_raw": "0.28571",
+      "program": "divide(36, 126)"
+    }
+  ]
+}

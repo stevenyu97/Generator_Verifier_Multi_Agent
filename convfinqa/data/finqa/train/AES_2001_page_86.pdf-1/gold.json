@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2001 what was the net change in aoci in millions?\\\\n",
+      "answer": 28.0,
+      "answer_raw": "28.0",
+      "program": "multiply(93, const_m1), subtract(#0, -121)"
+    }
+  ]
+}

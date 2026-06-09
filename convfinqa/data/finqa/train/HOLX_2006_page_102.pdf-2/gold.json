@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the estimated purchase price is developed technology and know how?",
+      "answer": 0.17906,
+      "answer_raw": "0.17906",
+      "program": "divide(39500, 220600)"
+    }
+  ]
+}

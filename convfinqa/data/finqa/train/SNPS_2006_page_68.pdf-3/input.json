@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "SNPS/2006/page_68.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "fair value of the tangible assets and identifiable intangible assets acquired , was $ 17.7 million .",
+      "goodwill resulted primarily from the company 2019s expectation of synergies from the integration of sigma-c 2019s technology with the company 2019s technology and operations .",
+      "virtio corporation , inc .",
+      "( virtio ) the company acquired virtio on may 15 , 2006 in an all-cash transaction .",
+      "reasons for the acquisition .",
+      "the company believes that its acquisition of virtio will expand its presence in electronic system level design .",
+      "the company expects the combination of the company 2019s system studio solution with virtio 2019s virtual prototyping technology will help accelerate systems to market by giving software developers the ability to begin code development earlier than with prevailing methods .",
+      "purchase price .",
+      "the company paid $ 9.1 million in cash for the outstanding shares of virtio , of which $ 0.9 million was deposited with an escrow agent and which will be paid to the former stockholders of virtio pursuant to the terms of an escrow agreement .",
+      "in addition , the company had a prior investment in virtio of approximately $ 1.7 million .",
+      "the total purchase consideration consisted of: ."
+    ],
+    "post_text": [
+      "acquisition-related costs of $ 0.7 million consist primarily of legal , tax and accounting fees , estimated facilities closure costs and employee termination costs .",
+      "as of october 31 , 2006 , the company had paid $ 0.3 million of the acquisition-related costs .",
+      "the $ 0.4 million balance remaining at october 31 , 2006 primarily consists of professional and tax-related service fees and facilities closure costs .",
+      "under the agreement with virtio , the company has also agreed to pay up to $ 4.3 million over three years to the former stockholders based upon achievement of certain sales milestones .",
+      "this contingent consideration is considered to be additional purchase price and will be an adjustment to goodwill when and if payment is made .",
+      "additionally , the company has also agreed to pay $ 0.9 million in employee retention bonuses which will be recognized as compensation expense over the service period of the applicable employees .",
+      "assets acquired .",
+      "the company has performed a preliminary valuation and allocated the total purchase consideration to the assets and liabilities acquired , including identifiable intangible assets based on their respective fair values on the acquisition date .",
+      "the company acquired $ 2.5 million of intangible assets consisting of $ 1.9 million in existing technology , $ 0.4 million in customer relationships and $ 0.2 million in non-compete agreements to be amortized over five to seven years .",
+      "additionally , the company acquired tangible assets of $ 5.5 million and assumed liabilities of $ 3.2 million .",
+      "goodwill , representing the excess of the purchase price over the fair value of the net tangible and identifiable intangible assets acquired in the merger , was $ 6.7 million .",
+      "goodwill resulted primarily from the company 2019s expectation of synergies from the integration of virtio 2019s technology with the company 2019s technology and operations .",
+      "hpl technologies , inc .",
+      "( hpl ) the company acquired hpl on december 7 , 2005 in an all-cash transaction .",
+      "reasons for the acquisition .",
+      "the company believes that the acquisition of hpl will help solidify the company 2019s position as a leading electronic design automation vendor in design for manufacturing ( dfm ) ."
+    ],
+    "table": [
+      [
+        "",
+        "( in thousands )"
+      ],
+      [
+        "cash paid",
+        "$ 9076"
+      ],
+      [
+        "prior investment in virtio",
+        "1664"
+      ],
+      [
+        "acquisition-related costs",
+        "713"
+      ],
+      [
+        "total purchase price",
+        "$ 11453"
+      ]
+    ],
+    "questions": [
+      "what is the percentage of cash paid among the total purchase price?"
+    ]
+  }
+}

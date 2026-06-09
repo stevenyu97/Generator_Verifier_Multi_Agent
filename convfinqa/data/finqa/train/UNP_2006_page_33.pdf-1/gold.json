@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average other income from 2004 to 2006 in millions",
+      "answer": 117.0,
+      "answer_raw": "117.0",
+      "program": "add(118, 145), add(#0, 88), divide(#1, const_3)"
+    }
+  ]
+}

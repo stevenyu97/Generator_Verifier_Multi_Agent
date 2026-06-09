@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in paid shareholder dividends between 2006 and 2007?",
+      "answer": 82.4,
+      "answer_raw": "82.4",
+      "program": "subtract(121.4, 39.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the specific value for 2006?",
+      "answer": 39.0,
+      "answer_raw": "39.0",
+      "program": "39.0"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the growth rate during this time?",
+      "answer": 2.11282,
+      "answer_raw": "2.11282",
+      "program": "subtract(121.4, 39.0), divide(#0, 39.0)"
+    }
+  ]
+}

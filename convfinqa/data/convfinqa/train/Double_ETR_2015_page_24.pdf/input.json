@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "Double_ETR/2015/page_24.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries management 2019s financial discussion and analysis net revenue utility following is an analysis of the change in net revenue comparing 2014 to 2013 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the retail electric price variance is primarily due to : 2022 increases in the energy efficiency rider at entergy arkansas , as approved by the apsc , effective july 2013 and july 2014 .",
+      "energy efficiency revenues are offset by costs included in other operation and maintenance expenses and have minimal effect on net income ; 2022 the effect of the apsc 2019s order in entergy arkansas 2019s 2013 rate case , including an annual base rate increase effective january 2014 offset by a miso rider to provide customers credits in rates for transmission revenue received through miso ; 2022 a formula rate plan increase at entergy mississippi , as approved by the mspc , effective september 2013 ; 2022 an increase in entergy mississippi 2019s storm damage rider , as approved by the mpsc , effective october 2013 .",
+      "the increase in the storm damage rider is offset by other operation and maintenance expenses and has no effect on net income ; 2022 an annual base rate increase at entergy texas , effective april 2014 , as a result of the puct 2019s order in the september 2013 rate case ; and 2022 a formula rate plan increase at entergy louisiana , as approved by the lpsc , effective december 2014 .",
+      "see note 2 to the financial statements for a discussion of rate proceedings .",
+      "the asset retirement obligation affects net revenue because entergy records a regulatory debit or credit for the difference between asset retirement obligation-related expenses and trust earnings plus asset retirement obligation- related costs collected in revenue .",
+      "the variance is primarily caused by increases in regulatory credits because of decreases in decommissioning trust earnings and increases in depreciation and accretion expenses and increases in regulatory credits to realign the asset retirement obligation regulatory assets with regulatory treatment .",
+      "the volume/weather variance is primarily due to an increase of 3129 gwh , or 3% ( 3 % ) , in billed electricity usage primarily due to an increase in sales to industrial customers and the effect of more favorable weather on residential sales .",
+      "the increase in industrial sales was primarily due to expansions , recovery of a major refining customer from an unplanned outage in 2013 , and continued moderate growth in the manufacturing sector .",
+      "the miso deferral variance is primarily due to the deferral in 2014 of the non-fuel miso-related charges , as approved by the lpsc and the mpsc , partially offset by the deferral in april 2013 , as approved by the apsc , of costs incurred from march 2010 through december 2012 related to the transition and implementation of joining the miso ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2013 net revenue",
+        "$ 5524"
+      ],
+      [
+        "retail electric price",
+        "135"
+      ],
+      [
+        "asset retirement obligation",
+        "56"
+      ],
+      [
+        "volume/weather",
+        "36"
+      ],
+      [
+        "miso deferral",
+        "16"
+      ],
+      [
+        "net wholesale revenue",
+        "-29 ( 29 )"
+      ],
+      [
+        "other",
+        "-3 ( 3 )"
+      ],
+      [
+        "2014 net revenue",
+        "$ 5735"
+      ]
+    ],
+    "questions": [
+      "what was the net revenue in 2014?",
+      "and what was it in 2013?",
+      "by how much, then, did it change over the year?",
+      "and what is this change as a percent of the 2013 net revenue?",
+      "and in this same year, what percentage of this net revenue was due to the retail electric price?"
+    ]
+  }
+}

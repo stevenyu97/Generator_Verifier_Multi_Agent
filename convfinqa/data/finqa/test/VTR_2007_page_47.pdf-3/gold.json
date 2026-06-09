@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the given average price per share , how much money did the repurchases cost in 2007?",
+      "answer": 643822.41,
+      "answer_raw": "643822.41",
+      "program": "multiply(14669, 43.89)"
+    }
+  ]
+}

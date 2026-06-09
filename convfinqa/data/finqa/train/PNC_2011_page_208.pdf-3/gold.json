@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if there were no loan sales in 2010 , what would the total amount of reserves available be , in millions , combined in 2010 and 2011 .",
+      "answer": 125.0,
+      "answer_raw": "125.0",
+      "program": "add(47, 54), add(#0, 24)"
+    }
+  ]
+}

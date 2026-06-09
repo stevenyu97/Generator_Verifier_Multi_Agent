@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total african and us net undeveloped acres expiring in 2016?",
+      "answer": 257.0,
+      "answer_raw": "257.0",
+      "program": "add(189, 68)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage of undeveloped acres were in the us in 2018?",
+      "answer": 0.12574,
+      "answer_raw": "0.12574",
+      "program": "divide(128, 1018)"
+    }
+  ]
+}

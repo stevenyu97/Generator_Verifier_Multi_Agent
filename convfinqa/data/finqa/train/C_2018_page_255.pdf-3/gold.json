@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in millions in total gains ( losses ) included in other revenue between the year ended december 31 , 2016 and 2017?",
+      "answer": 3421.0,
+      "answer_raw": "3421.0",
+      "program": "subtract(1451, -1970)"
+    }
+  ]
+}

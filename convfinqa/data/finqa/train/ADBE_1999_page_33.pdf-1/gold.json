@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average purchase price of shares purchased during 1999?",
+      "answer": 17.94118,
+      "answer_raw": "17.94118",
+      "program": "divide(30.5, 1.7)"
+    }
+  ]
+}

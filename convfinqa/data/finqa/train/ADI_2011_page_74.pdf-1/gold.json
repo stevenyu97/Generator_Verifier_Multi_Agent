@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in total total amount of proceeds received by the company from exercise of options in 2011?",
+      "answer": 0.00602,
+      "answer_raw": "0.00602",
+      "program": "subtract(217.4, 216.1), divide(#0, 216.1)"
+    }
+  ]
+}

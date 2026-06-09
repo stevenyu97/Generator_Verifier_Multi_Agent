@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in the value of an investment in e*trade financial corporation from 2010 to 2015?",
+      "answer": 85.25,
+      "answer_raw": "85.25",
+      "program": "subtract(185.25, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what return does this represent?",
+      "answer": 0.8525,
+      "answer_raw": "0.8525",
+      "program": "subtract(185.25, const_100), divide(#0, const_100)"
+    }
+  ]
+}

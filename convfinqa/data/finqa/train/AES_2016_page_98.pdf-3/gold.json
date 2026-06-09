@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the maximum argentina foreign currency gains in millions fofr the three year period?",
+      "answer": 124.0,
+      "answer_raw": "124.0",
+      "program": "table_max(argentina, none)"
+    }
+  ]
+}

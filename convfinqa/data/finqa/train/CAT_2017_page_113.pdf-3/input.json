@@ -1,0 +1,54 @@
+{
+  "input": {
+    "id": "CAT/2017/page_113.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "92 | 2017 form 10-k finite-lived intangible assets are amortized over their estimated useful lives and tested for impairment if events or changes in circumstances indicate that the asset may be impaired .",
+      "in 2016 , gross customer relationship intangibles of $ 96 million and related accumulated amortization of $ 27 million as well as gross intellectual property intangibles of $ 111 million and related accumulated amortization of $ 48 million from the resource industries segment were impaired .",
+      "the fair value of these intangibles was determined to be insignificant based on an income approach using expected cash flows .",
+      "the fair value determination is categorized as level 3 in the fair value hierarchy due to its use of internal projections and unobservable measurement inputs .",
+      "the total impairment of $ 132 million was a result of restructuring activities and is included in other operating ( income ) expense in statement 1 .",
+      "see note 25 for information on restructuring costs .",
+      "amortization expense related to intangible assets was $ 323 million , $ 326 million and $ 337 million for 2017 , 2016 and 2015 , respectively .",
+      "as of december 31 , 2017 , amortization expense related to intangible assets is expected to be : ( millions of dollars ) ."
+    ],
+    "post_text": [
+      "b .",
+      "goodwill there were no goodwill impairments during 2017 or 2015 .",
+      "our annual impairment tests completed in the fourth quarter of 2016 indicated the fair value of each reporting unit was substantially above its respective carrying value , including goodwill , with the exception of our surface mining & technology reporting unit .",
+      "the surface mining & technology reporting unit , which primarily serves the mining industry , is a part of our resource industries segment .",
+      "the goodwill assigned to this reporting unit is largely from our acquisition of bucyrus international , inc .",
+      "in 2011 .",
+      "its product portfolio includes large mining trucks , electric rope shovels , draglines , hydraulic shovels and related parts .",
+      "in addition to equipment , surface mining & technology also develops and sells technology products and services to provide customer fleet management , equipment management analytics and autonomous machine capabilities .",
+      "the annual impairment test completed in the fourth quarter of 2016 indicated that the fair value of surface mining & technology was below its carrying value requiring the second step of the goodwill impairment test process .",
+      "the fair value of surface mining & technology was determined primarily using an income approach based on a discounted ten year cash flow .",
+      "we assigned the fair value to surface mining & technology 2019s assets and liabilities using various valuation techniques that required assumptions about royalty rates , dealer attrition , technological obsolescence and discount rates .",
+      "the resulting implied fair value of goodwill was below the carrying value .",
+      "accordingly , we recognized a goodwill impairment charge of $ 595 million , which resulted in goodwill of $ 629 million remaining for surface mining & technology as of october 1 , 2016 .",
+      "the fair value determination is categorized as level 3 in the fair value hierarchy due to its use of internal projections and unobservable measurement inputs .",
+      "there was a $ 17 million tax benefit associated with this impairment charge. ."
+    ],
+    "table": [
+      [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "thereafter"
+      ],
+      [
+        "$ 322",
+        "$ 316",
+        "$ 305",
+        "$ 287",
+        "$ 268",
+        "$ 613"
+      ]
+    ],
+    "questions": [
+      "what is the expected growth rate in amortization expense in 2019?"
+    ]
+  }
+}

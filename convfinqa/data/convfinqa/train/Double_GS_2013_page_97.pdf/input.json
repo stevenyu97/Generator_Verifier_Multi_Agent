@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "Double_GS/2013/page_97.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "management 2019s discussion and analysis sensitivity measures certain portfolios and individual positions are not included in var because var is not the most appropriate risk measure .",
+      "other sensitivity measures we use to analyze market risk are described below .",
+      "10% ( 10 % ) sensitivity measures .",
+      "the table below presents market risk for inventory positions that are not included in var .",
+      "the market risk of these positions is determined by estimating the potential reduction in net revenues of a 10% ( 10 % ) decline in the underlying asset value .",
+      "equity positions below relate to private and restricted public equity securities , including interests in funds that invest in corporate equities and real estate and interests in hedge funds , which are included in 201cfinancial instruments owned , at fair value . 201d debt positions include interests in funds that invest in corporate mezzanine and senior debt instruments , loans backed by commercial and residential real estate , corporate bank loans and other corporate debt , including acquired portfolios of distressed loans .",
+      "these debt positions are included in 201cfinancial instruments owned , at fair value . 201d see note 6 to the consolidated financial statements for further information about cash instruments .",
+      "these measures do not reflect diversification benefits across asset categories or across other market risk measures .",
+      "asset categories 10% ( 10 % ) sensitivity amount as of december in millions 2013 2012 equity 1 $ 2256 $ 2471 ."
+    ],
+    "post_text": [
+      "1 .",
+      "december 2012 includes $ 208 million related to our investment in the ordinary shares of icbc , which was sold in the first half of 2013 .",
+      "credit spread sensitivity on derivatives and borrowings .",
+      "var excludes the impact of changes in counterparty and our own credit spreads on derivatives as well as changes in our own credit spreads on unsecured borrowings for which the fair value option was elected .",
+      "the estimated sensitivity to a one basis point increase in credit spreads ( counterparty and our own ) on derivatives was a gain of $ 4 million and $ 3 million ( including hedges ) as of december 2013 and december 2012 , respectively .",
+      "in addition , the estimated sensitivity to a one basis point increase in our own credit spreads on unsecured borrowings for which the fair value option was elected was a gain of $ 8 million and $ 7 million ( including hedges ) as of december 2013 and december 2012 , respectively .",
+      "however , the actual net impact of a change in our own credit spreads is also affected by the liquidity , duration and convexity ( as the sensitivity is not linear to changes in yields ) of those unsecured borrowings for which the fair value option was elected , as well as the relative performance of any hedges undertaken .",
+      "interest rate sensitivity .",
+      "as of december 2013 and december 2012 , the firm had $ 14.90 billion and $ 6.50 billion , respectively , of loans held for investment which were accounted for at amortized cost and included in 201creceivables from customers and counterparties , 201d substantially all of which had floating interest rates .",
+      "as of december 2013 and december 2012 , the estimated sensitivity to a 100 basis point increase in interest rates on such loans was $ 136 million and $ 62 million , respectively , of additional interest income over a 12-month period , which does not take into account the potential impact of an increase in costs to fund such loans .",
+      "see note 8 to the consolidated financial statements for further information about loans held for investment .",
+      "goldman sachs 2013 annual report 95 ."
+    ],
+    "table": [
+      [
+        "asset categories",
+        "asset categories",
+        ""
+      ],
+      [
+        "in millions",
+        "2013",
+        "2012"
+      ],
+      [
+        "equity1",
+        "$ 2256",
+        "$ 2471"
+      ],
+      [
+        "debt",
+        "1522",
+        "1676"
+      ],
+      [
+        "total",
+        "$ 3778",
+        "$ 4147"
+      ]
+    ],
+    "questions": [
+      "as of december 2013, what was the value of the total 10% ( 10 % ) sensitivity amount that was equity related?",
+      "and what was that total 10% ( 10 % ) sensitivity amount?",
+      "what percentage, then, did that value represent in relation to this amount?",
+      "and what was that percentage representation of the equity related amount for the year of 2012?"
+    ]
+  }
+}

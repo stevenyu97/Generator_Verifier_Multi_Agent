@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "without contributing favorable currency rates , what might the percentage increase of net sales be from 2017 to 2018?",
+      "answer": 931.0,
+      "answer_raw": "931.0",
+      "program": "subtract(7343, 32), subtract(#0, 6380)"
+    }
+  ]
+}

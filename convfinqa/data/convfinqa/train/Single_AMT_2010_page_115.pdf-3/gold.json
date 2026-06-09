@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the weighted average fair value for the espp shares in 2010?",
+      "answer": 9.43,
+      "answer_raw": "9.43",
+      "program": "9.43"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2009?",
+      "answer": 6.65,
+      "answer_raw": "6.65",
+      "program": "6.65"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 2.78,
+      "answer_raw": "2.78",
+      "program": "subtract(9.43, 6.65)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "how much does this change represent in relation to the weighted average fair value for the espp shares in 2009, in percentage?",
+      "answer": 0.41805,
+      "answer_raw": "0.41805",
+      "program": "subtract(9.43, 6.65), divide(#0, 6.65)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 31 , 2008 what was the ratio of the tier 2 capital compared to 2007",
+      "answer": 0.94444,
+      "answer_raw": "0.94444",
+      "program": "subtract(108.4, 71.0), subtract(121.6, 82.0), divide(#0, #1)"
+    }
+  ]
+}

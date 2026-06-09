@@ -1,0 +1,50 @@
+{
+  "input": {
+    "id": "HOLX/2011/page_127.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents as of september 25 , 2010 , the carrying amount of the original notes and related equity component ( recorded in capital in excess of par value , net of deferred taxes ) consisted of the following: ."
+    ],
+    "post_text": [
+      "as noted above , on november 18 , 2010 , the company executed separate , privately-negotiated exchange agreements , and the company retired $ 450.0 million in aggregate principal of its original notes for $ 450.0 million in aggregate principal of exchange notes .",
+      "the company accounted for this retirement under the derecognition provisions of subtopic asc 470-20-40 , which requires the allocation of the fair value of the consideration transferred ( i.e. , the exchange notes ) between the liability and equity components of the original instrument to determine the gain or loss on the transaction .",
+      "in connection with this transaction , the company recorded a loss on extinguishment of debt of $ 29.9 million , which is comprised of the loss on the debt itself of $ 26.0 million and the write-off of the pro-rata amount of debt issuance costs of $ 3.9 million allocated to the notes retired .",
+      "the loss on the debt itself is calculated as the difference between the fair value of the liability component of the original notes 2019 amount retired immediately before the exchange and its related carrying value immediately before the exchange .",
+      "the fair value of the liability component was calculated similar to the description above for initially recording the original notes under fsp apb 14-1 , and the company used an effective interest rate of 5.46% ( 5.46 % ) , representing the estimated nonconvertible debt borrowing rate with a three year maturity at the measurement date .",
+      "in addition , under this accounting standard , a portion of the fair value of the consideration transferred is allocated to the reacquisition of the equity component , which is the difference between the fair value of the consideration transferred and the fair value of the liability component immediately before the exchange .",
+      "as a result , $ 39.9 million was allocated to the reacquisition of the equity component of the original instrument , which is recorded net of deferred taxes within capital in excess of par value .",
+      "since the exchange notes have the same characteristics as the original notes and can be settled in cash or a combination of cash and shares of common stock ( i.e. , partial settlement ) , the company is required to account for the liability and equity components of its exchange notes separately to reflect its nonconvertible debt borrowing rate .",
+      "the company estimated the fair value of the exchange notes liability component to be $ 349.0 million using a discounted cash flow technique .",
+      "key inputs used to estimate the fair value of the liability component included the company 2019s estimated nonconvertible debt borrowing rate as of november 18 , 2010 ( the date the convertible notes were issued ) , the amount and timing of cash flows , and the expected life of the exchange notes .",
+      "the company used an estimated effective interest rate of 6.52% ( 6.52 % ) .",
+      "the excess of the fair value transferred over the estimated fair value of the liability component totaling $ 97.3 million was allocated to the conversion feature as an increase to capital in excess of par value with a corresponding offset recognized as a discount to reduce the net carrying value of the exchange notes .",
+      "as a result of the fair value of the exchange notes being lower than the exchange notes principal value , there is an additional discount on the exchange notes of $ 3.7 million at the measurement date .",
+      "the total discount is being amortized to interest expense over a six-year period ending december 15 , 2016 ( the expected life of the liability component ) using the effective interest method .",
+      "in addition , third-party transaction costs have been allocated to the liability and equity components based on the relative values of these components .",
+      "source : hologic inc , 10-k , november 23 , 2011 powered by morningstar ae document research 2120 the information contained herein may not be copied , adapted or distributed and is not warranted to be accurate , complete or timely .",
+      "the user assumes all risks for any damages or losses arising from any use of this information , except to the extent such damages or losses cannot be limited or excluded by applicable law .",
+      "past financial performance is no guarantee of future results. ."
+    ],
+    "table": [
+      [
+        "convertible notes principal amount",
+        "$ 1725000"
+      ],
+      [
+        "unamortized discount",
+        "-277947 ( 277947 )"
+      ],
+      [
+        "net carrying amount",
+        "$ 1447053"
+      ],
+      [
+        "equity component net of taxes",
+        "$ 283638"
+      ]
+    ],
+    "questions": [
+      "what is the ratio of net carrying amount of notes to equity net of taxes?"
+    ]
+  }
+}

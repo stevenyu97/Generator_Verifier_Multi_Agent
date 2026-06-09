@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the estimated population served in the west virginia market area in million of people?",
+      "answer": 0.6,
+      "answer_raw": "0.6",
+      "program": "0.6"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and that in number of people?",
+      "answer": 600000.0,
+      "answer_raw": "600000.0",
+      "program": "multiply(0.6, const_1000000)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does the number of customers in the west virginia market area represents in relation to that number of people?",
+      "answer": 0.28173,
+      "answer_raw": "0.28173",
+      "program": "multiply(0.6, const_1000000), divide(169037, #0)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the capital expenditures used for continuing operations in 2018?",
+      "answer": 240.0,
+      "answer_raw": "240.0",
+      "program": "240"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what were they in 2017?",
+      "answer": 183.0,
+      "answer_raw": "183.0",
+      "program": "183"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, do the 2018 capital expenditures represent in relation to these 2017 ones?",
+      "answer": 1.31148,
+      "answer_raw": "1.31148",
+      "program": "divide(240, 183)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is the difference between this value and the number one?",
+      "answer": 0.31148,
+      "answer_raw": "0.31148",
+      "program": "divide(240, 183), subtract(#0, const_1)"
+    }
+  ]
+}

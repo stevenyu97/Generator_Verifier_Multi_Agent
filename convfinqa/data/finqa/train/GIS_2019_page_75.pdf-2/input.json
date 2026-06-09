@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "GIS/2019/page_75.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "commodities purchased for use in our supply chain .",
+      "we manage our exposures through a combination of purchase orders , long-term contracts with suppliers , exchange-traded futures and options , and over-the-counter options and swaps .",
+      "we offset our exposures based on current and projected market conditions and generally seek to acquire the inputs at as close to our planned cost as possible .",
+      "we use derivatives to manage our exposure to changes in commodity prices .",
+      "we do not perform the assessments required to achieve hedge accounting for commodity derivative positions .",
+      "accordingly , the changes in the values of these derivatives are recorded currently in cost of sales in our consolidated statements of earnings .",
+      "although we do not meet the criteria for cash flow hedge accounting , we believe that these instruments are effective in achieving our objective of providing certainty in the future price of commodities purchased for use in our supply chain .",
+      "accordingly , for purposes of measuring segment operating performance these gains and losses are reported in unallocated corporate items outside of segment operating results until such time that the exposure we are managing affects earnings .",
+      "at that time we reclassify the gain or loss from unallocated corporate items to segment operating profit , allowing our operating segments to realize the economic effects of the derivative without experiencing any resulting mark-to-market volatility , which remains in unallocated corporate items .",
+      "unallocated corporate items for fiscal 2019 , 2018 and 2017 included: ."
+    ],
+    "post_text": [
+      "net mark-to-market valuation of certain commodity positions recognized in unallocated corporate items $ ( 36.0 ) $ 32.1 $ 13.9 as of may 26 , 2019 , the net notional value of commodity derivatives was $ 312.5 million , of which $ 242.9 million related to agricultural inputs and $ 69.6 million related to energy inputs .",
+      "these contracts relate to inputs that generally will be utilized within the next 12 months .",
+      "interest rate risk we are exposed to interest rate volatility with regard to future issuances of fixed-rate debt , and existing and future issuances of floating-rate debt .",
+      "primary exposures include u.s .",
+      "treasury rates , libor , euribor , and commercial paper rates in the united states and europe .",
+      "we use interest rate swaps , forward-starting interest rate swaps , and treasury locks to hedge our exposure to interest rate changes , to reduce the volatility of our financing costs , and to achieve a desired proportion of fixed rate versus floating-rate debt , based on current and projected market conditions .",
+      "generally under these swaps , we agree with a counterparty to exchange the difference between fixed-rate and floating-rate interest amounts based on an agreed upon notional principal amount .",
+      "floating interest rate exposures 2014 floating-to-fixed interest rate swaps are accounted for as cash flow hedges , as are all hedges of forecasted issuances of debt .",
+      "effectiveness is assessed based on either the perfectly effective hypothetical derivative method or changes in the present value of interest payments on the underlying debt .",
+      "effective gains and losses deferred to aoci are reclassified into earnings over the life of the associated debt .",
+      "ineffective gains and losses are recorded as net interest .",
+      "the amount of hedge ineffectiveness was less than $ 1 million in fiscal 2019 , a $ 2.6 million loss in fiscal 2018 , and less than $ 1 million in fiscal 2017 .",
+      "fixed interest rate exposures 2014 fixed-to-floating interest rate swaps are accounted for as fair value hedges with effectiveness assessed based on changes in the fair value of the underlying debt and derivatives , using ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "fiscal year 2019",
+        "fiscal year 2018",
+        "fiscal year 2017"
+      ],
+      [
+        "net gain ( loss ) onmark-to-marketvaluation of commodity positions",
+        "$ -39.0 ( 39.0 )",
+        "$ 14.3",
+        "$ -22.0 ( 22.0 )"
+      ],
+      [
+        "net loss on commodity positions reclassified from unallocated corporate items to segmentoperating profit",
+        "10.0",
+        "11.3",
+        "32.0"
+      ],
+      [
+        "netmark-to-marketrevaluation of certain grain inventories",
+        "-7.0 ( 7.0 )",
+        "6.5",
+        "3.9"
+      ],
+      [
+        "netmark-to-marketvaluation of certain commodity positions recognized in unallocated corporate items",
+        "$ -36.0 ( 36.0 )",
+        "$ 32.1",
+        "$ 13.9"
+      ]
+    ],
+    "questions": [
+      "what is the net change in netmark-to-marketvaluation of certain commodity position from 2018 to 2019 as presented in the table?"
+    ]
+  }
+}

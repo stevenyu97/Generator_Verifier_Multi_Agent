@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "combined, what was the total revisions due to prices and revisions other than price?",
+      "answer": 87.0,
+      "answer_raw": "87.0",
+      "program": "add(9, 78)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the value of revisions other than price?",
+      "answer": 78.0,
+      "answer_raw": "78.0",
+      "program": "78"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the proportion of this value compared to the total?",
+      "answer": 0.89655,
+      "answer_raw": "0.89655",
+      "program": "add(9, 78), divide(78, #0)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and as a percentage?",
+      "answer": 89.65517,
+      "answer_raw": "89.65517",
+      "program": "add(9, 78), divide(78, #0), multiply(#1, const_100)"
+    }
+  ]
+}

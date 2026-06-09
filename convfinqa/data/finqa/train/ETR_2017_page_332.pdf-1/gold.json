@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the discount rate on the impact on 2017 qualified projected benefit obligation to the impact on 2018 qualified pension cost increase",
+      "answer": 15.14001,
+      "answer_raw": "15.14001",
+      "program": "divide(47040, 3107)"
+    }
+  ]
+}

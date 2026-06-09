@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the implied value of the preferred shares of eletropaulo based on the bndes acquisition , in billions?",
+      "answer": 1.69492,
+      "answer_raw": "1.69492",
+      "program": "divide(1, 59%)"
+    }
+  ]
+}

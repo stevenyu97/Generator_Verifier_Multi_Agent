@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the change in the operating profit from 2013 to 2014",
+      "answer": 0.00063,
+      "answer_raw": "0.00063",
+      "program": "divide(1649, 1612), divide(#0, 1612)"
+    }
+  ]
+}

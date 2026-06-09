@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would total 2015 operating expenses be if they grow at the same rate as 2014 volume growth , in millions?",
+      "answer": 15235.07,
+      "answer_raw": "15235.07",
+      "program": "add(15235, 7%)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the operating profit for mst in 2011?",
+      "answer": 645.0,
+      "answer_raw": "645.0",
+      "program": "645"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2010?",
+      "answer": 713.0,
+      "answer_raw": "713.0",
+      "program": "713"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": -68.0,
+      "answer_raw": "-68.0",
+      "program": "subtract(645, 713)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation to that operating profit in 2010?",
+      "answer": -0.09537,
+      "answer_raw": "-0.09537",
+      "program": "subtract(645, 713), divide(#0, 713)"
+    }
+  ]
+}

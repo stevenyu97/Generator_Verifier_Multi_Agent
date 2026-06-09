@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the the company recorded a deferred tax asset associated with its nols from 2015 to 2016",
+      "answer": 0.07407,
+      "answer_raw": "0.07407",
+      "program": "subtract(580, 540), divide(#0, 540)"
+    }
+  ]
+}

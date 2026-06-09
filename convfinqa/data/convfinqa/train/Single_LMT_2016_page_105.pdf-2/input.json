@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "Single_LMT/2016/page_105.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "contributions and expected benefit payments the funding of our qualified defined benefit pension plans is determined in accordance with erisa , as amended by the ppa , and in a manner consistent with cas and internal revenue code rules .",
+      "there were no contributions to our legacy qualified defined benefit pension plans during 2016 .",
+      "we do not plan to make contributions to our legacy pension plans in 2017 because none are required using current assumptions including investment returns on plan assets .",
+      "we made $ 23 million in contributions during 2016 to our newly established sikorsky pension plan and expect to make $ 45 million in contributions to this plan during 2017 .",
+      "the following table presents estimated future benefit payments , which reflect expected future employee service , as of december 31 , 2016 ( in millions ) : ."
+    ],
+    "post_text": [
+      "defined contribution plans we maintain a number of defined contribution plans , most with 401 ( k ) features , that cover substantially all of our employees .",
+      "under the provisions of our 401 ( k ) plans , we match most employees 2019 eligible contributions at rates specified in the plan documents .",
+      "our contributions were $ 617 million in 2016 , $ 393 million in 2015 and $ 385 million in 2014 , the majority of which were funded in our common stock .",
+      "our defined contribution plans held approximately 36.9 million and 40.0 million shares of our common stock as of december 31 , 2016 and 2015 .",
+      "note 12 2013 stockholders 2019 equity at december 31 , 2016 and 2015 , our authorized capital was composed of 1.5 billion shares of common stock and 50 million shares of series preferred stock .",
+      "of the 290 million shares of common stock issued and outstanding as of december 31 , 2016 , 289 million shares were considered outstanding for consolidated balance sheet presentation purposes ; the remaining shares were held in a separate trust .",
+      "of the 305 million shares of common stock issued and outstanding as of december 31 , 2015 , 303 million shares were considered outstanding for consolidated balance sheet presentation purposes ; the remaining shares were held in a separate trust .",
+      "no shares of preferred stock were issued and outstanding at december 31 , 2016 or 2015 .",
+      "repurchases of common stock during 2016 , we repurchased 8.9 million shares of our common stock for $ 2.1 billion .",
+      "during 2015 and 2014 , we paid $ 3.1 billion and $ 1.9 billion to repurchase 15.2 million and 11.5 million shares of our common stock .",
+      "on september 22 , 2016 , our board of directors approved a $ 2.0 billion increase to our share repurchase program .",
+      "inclusive of this increase , the total remaining authorization for future common share repurchases under our program was $ 3.5 billion as of december 31 , 2016 .",
+      "as we repurchase our common shares , we reduce common stock for the $ 1 of par value of the shares repurchased , with the excess purchase price over par value recorded as a reduction of additional paid-in capital .",
+      "due to the volume of repurchases made under our share repurchase program , additional paid-in capital was reduced to zero , with the remainder of the excess purchase price over par value of $ 1.7 billion and $ 2.4 billion recorded as a reduction of retained earnings in 2016 and 2015 .",
+      "we paid dividends totaling $ 2.0 billion ( $ 6.77 per share ) in 2016 , $ 1.9 billion ( $ 6.15 per share ) in 2015 and $ 1.8 billion ( $ 5.49 per share ) in 2014 .",
+      "we have increased our quarterly dividend rate in each of the last three years , including a 10% ( 10 % ) increase in the quarterly dividend rate in the fourth quarter of 2016 .",
+      "we declared quarterly dividends of $ 1.65 per share during each of the first three quarters of 2016 and $ 1.82 per share during the fourth quarter of 2016 ; $ 1.50 per share during each of the first three quarters of 2015 and $ 1.65 per share during the fourth quarter of 2015 ; and $ 1.33 per share during each of the first three quarters of 2014 and $ 1.50 per share during the fourth quarter of 2014. ."
+    ],
+    "table": [
+      [
+        "",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022 2013 2026"
+      ],
+      [
+        "qualified defined benefit pension plans",
+        "$ 2260",
+        "$ 2340",
+        "$ 2420",
+        "$ 2510",
+        "$ 2590",
+        "$ 13920"
+      ],
+      [
+        "retiree medical and life insurance plans",
+        "180",
+        "180",
+        "190",
+        "190",
+        "190",
+        "870"
+      ]
+    ],
+    "questions": [
+      "what was the total dividends paid in 2016?",
+      "and converted to thousands?",
+      "and this value over the amount paid out per share?"
+    ]
+  }
+}

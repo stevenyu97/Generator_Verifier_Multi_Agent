@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2008, what was the total liability from the 2003 and the 2007 program, combined?",
+      "answer": 6.9,
+      "answer_raw": "6.9",
+      "program": "add(1.2, 5.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "including the 2001 program, what becomes this total liability?",
+      "answer": 12.8,
+      "answer_raw": "12.8",
+      "program": "add(1.2, 5.7), add(#0, 5.9)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what was the average liability between those three years?",
+      "answer": 4.26667,
+      "answer_raw": "4.26667",
+      "program": "add(1.2, 5.7), add(#0, 5.9), divide(#1, const_3)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and concerning that total liability, by how much did it change since the end of 2006?",
+      "answer": -19.0,
+      "answer_raw": "-19.0",
+      "program": "subtract(12.8, 31.8)"
+    }
+  ]
+}

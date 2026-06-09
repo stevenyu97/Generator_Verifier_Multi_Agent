@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2016, what was the difference between the accumulated benefit obligation and the projected one?",
+      "answer": -1.0,
+      "answer_raw": "-1.0",
+      "program": "subtract(49, 50)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and from 2015 to that year, what was the change in the fair value of options?",
+      "answer": -1.32,
+      "answer_raw": "-1.32",
+      "program": "subtract(9.35, 10.67)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is this change as a percentage of that fair value in 2015?",
+      "answer": -0.12371,
+      "answer_raw": "-0.12371",
+      "program": "subtract(9.35, 10.67), divide(#0, 10.67)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of cash and premiums receivable and other current assets?",
+      "answer": 98626.0,
+      "answer_raw": "98626.0",
+      "program": "add(6510, 92116)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the balance of property and equipment and other assets\t?",
+      "answer": 21315.0,
+      "answer_raw": "21315.0",
+      "program": "21315"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the balance of total assets?",
+      "answer": 119941.0,
+      "answer_raw": "119941.0",
+      "program": "add(6510, 92116), add(#0, 21315)"
+    }
+  ]
+}

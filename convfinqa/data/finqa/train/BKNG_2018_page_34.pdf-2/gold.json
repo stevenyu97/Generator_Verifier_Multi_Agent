@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of growth of the nasdaq composite index from 2015 to 2016",
+      "answer": 0.08452,
+      "answer_raw": "0.08452",
+      "program": "subtract(133.19, 122.81), divide(#0, 122.81)"
+    }
+  ]
+}

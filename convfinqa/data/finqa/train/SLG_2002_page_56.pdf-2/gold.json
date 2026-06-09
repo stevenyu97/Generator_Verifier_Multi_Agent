@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "the lessor is entitled to additional rent as defined by the lease agreement for what percentage of the original agreement?",
+      "answer": 2.85714,
+      "answer_raw": "2.85714",
+      "program": "divide(140, 49)"
+    }
+  ]
+}

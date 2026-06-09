@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the belief and expectations of the jpmorgan chase expectations what was the ratio of the jpmorgan chase to the s&p financial index performance at december 312008",
+      "answer": 1.96482,
+      "answer_raw": "1.96482",
+      "program": "divide(100.54, 51.17)"
+    }
+  ]
+}

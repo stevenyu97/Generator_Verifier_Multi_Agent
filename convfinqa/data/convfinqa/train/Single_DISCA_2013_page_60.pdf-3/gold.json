@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the last year for which there was still information about the performance of the s&p 500?",
+      "answer": 2013.0,
+      "answer_raw": "2013.0",
+      "program": "2013"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the first year?",
+      "answer": 2008.0,
+      "answer_raw": "2008.0",
+      "program": "2008"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "for how many years, then, there was information available about the performance of the s&p 500?",
+      "answer": 5.0,
+      "answer_raw": "5.0",
+      "program": "subtract(2013, 2008)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the value of that stock in 2013?",
+      "answer": 204.63,
+      "answer_raw": "204.63",
+      "program": "204.63"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and what was the change in the value of that stock from 2008 to 2013?",
+      "answer": 104.63,
+      "answer_raw": "104.63",
+      "program": "subtract(2013, 2008), subtract(204.63, const_100)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "considering the five year period of this change, what then was its annual average?",
+      "answer": 20.926,
+      "answer_raw": "20.926",
+      "program": "subtract(2013, 2008), subtract(204.63, const_100), divide(#1, #0)"
+    }
+  ]
+}

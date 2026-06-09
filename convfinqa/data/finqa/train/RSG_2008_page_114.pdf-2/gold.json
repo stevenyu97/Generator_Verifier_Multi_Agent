@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the growth in the revenues from 2007 to 2008",
+      "answer": 0.01269,
+      "answer_raw": "0.01269",
+      "program": "subtract(9362.2, 9244.9), divide(#0, 9244.9)"
+    }
+  ]
+}

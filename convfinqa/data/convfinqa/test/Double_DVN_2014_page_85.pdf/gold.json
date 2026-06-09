@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total amortization amount in the years of 2015 to 2018?",
+      "answer": 180.0,
+      "answer_raw": "180.0",
+      "program": "multiply(45, const_4)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "including 2019, what becomes this total?",
+      "answer": 224.0,
+      "answer_raw": "224.0",
+      "program": "multiply(45, const_4), add(#0, 44)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what was the average amount between those five years?",
+      "answer": 44.8,
+      "answer_raw": "44.8",
+      "program": "multiply(45, const_4), add(#0, 44), divide(#1, const_5)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in the first year of that period, how much was the amortization expense for intangibles of the previous year as a portion of that amortization amount?",
+      "answer": 0.8,
+      "answer_raw": "0.8",
+      "program": "divide(36, 45)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is that in percentage?",
+      "answer": 80.0,
+      "answer_raw": "80.0",
+      "program": "divide(36, 45), multiply(#0, const_100)"
+    }
+  ]
+}

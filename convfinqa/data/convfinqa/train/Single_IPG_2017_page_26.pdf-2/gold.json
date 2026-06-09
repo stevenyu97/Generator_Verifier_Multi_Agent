@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average price paid per share october 1-31?",
+      "answer": 20.74,
+      "answer_raw": "20.74",
+      "program": "20.74"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for november 1-30?",
+      "answer": 18.89,
+      "answer_raw": "18.89",
+      "program": "18.89"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between these two values?",
+      "answer": 1.85,
+      "answer_raw": "1.85",
+      "program": "subtract(20.74, 18.89)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage decrease?",
+      "answer": 0.0892,
+      "answer_raw": "0.0892",
+      "program": "subtract(20.74, 18.89), divide(#0, 20.74)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and converted to a percentage?",
+      "answer": 8.91996,
+      "answer_raw": "8.91996",
+      "program": "subtract(20.74, 18.89), divide(#0, 20.74), multiply(#1, const_100)"
+    }
+  ]
+}

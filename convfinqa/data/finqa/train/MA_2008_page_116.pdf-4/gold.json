@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the expected subsidy receipts to the expected benefit payments",
+      "answer": 0.02916,
+      "answer_raw": "0.02916",
+      "program": "divide(77, 2641)"
+    }
+  ]
+}

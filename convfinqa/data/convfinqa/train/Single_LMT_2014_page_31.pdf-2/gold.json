@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average price of the purchased shares in november 2014?",
+      "answer": 187.74,
+      "answer_raw": "187.74",
+      "program": "187.74"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in october 2014?",
+      "answer": 176.96,
+      "answer_raw": "176.96",
+      "program": "176.96"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the month?",
+      "answer": 10.78,
+      "answer_raw": "10.78",
+      "program": "subtract(187.74, 176.96)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation to that average price in october?",
+      "answer": 0.06092,
+      "answer_raw": "0.06092",
+      "program": "subtract(187.74, 176.96), divide(#0, 176.96)"
+    }
+  ]
+}

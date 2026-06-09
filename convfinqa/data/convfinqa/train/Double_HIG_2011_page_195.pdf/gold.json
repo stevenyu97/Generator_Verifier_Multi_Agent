@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of sales inducements deferred for the years of 2010 and 2011, combined, in millions?",
+      "answer": 51.0,
+      "answer_raw": "51.0",
+      "program": "add(20, 31)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "including 2009, what becomes this total?",
+      "answer": 110.0,
+      "answer_raw": "110.0",
+      "program": "add(20, 31), add(59, #0)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what is the average between the three years, in millions?",
+      "answer": 36.66667,
+      "answer_raw": "36.66667",
+      "program": "add(20, 31), add(59, #0), divide(#1, const_3)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and between the last two years of that period, what was the change in the balance of deferred sales?",
+      "answer": 21.0,
+      "answer_raw": "21.0",
+      "program": "subtract(459, 438)"
+    }
+  ]
+}

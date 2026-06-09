@@ -1,0 +1,81 @@
+{
+  "input": {
+    "id": "HIG/2016/page_253.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "f-80 www.thehartford.com the hartford financial services group , inc .",
+      "notes to consolidated financial statements ( continued ) 14 .",
+      "commitments and contingencies ( continued ) future minimum lease commitments as of december 31 , 2016 operating leases ."
+    ],
+    "post_text": [
+      "[1] excludes expected future minimum sublease income of approximately $ 2 , $ 2 , $ 2 , $ 2 , $ 0 and $ 0 in 2017 , 2018 , 2019 , 2020 , 2021 and thereafter respectively .",
+      "the company 2019s lease commitments consist primarily of lease agreements for office space , automobiles , and office equipment that expire at various dates .",
+      "unfunded commitments as of december 31 , 2016 , the company has outstanding commitments totaling $ 1.6 billion , of which $ 1.2 billion is committed to fund limited partnership and other alternative investments , which may be called by the partnership during the commitment period to fund the purchase of new investments and partnership expenses .",
+      "additionally , $ 313 of the outstanding commitments relate to various funding obligations associated with private placement securities .",
+      "the remaining outstanding commitments of $ 95 relate to mortgage loans the company is expecting to fund in the first half of 2017 .",
+      "guaranty funds and other insurance-related assessments in all states , insurers licensed to transact certain classes of insurance are required to become members of a guaranty fund .",
+      "in most states , in the event of the insolvency of an insurer writing any such class of insurance in the state , the guaranty funds may assess its members to pay covered claims of the insolvent insurers .",
+      "assessments are based on each member 2019s proportionate share of written premiums in the state for the classes of insurance in which the insolvent insurer was engaged .",
+      "assessments are generally limited for any year to one or two percent of the premiums written per year depending on the state .",
+      "some states permit member insurers to recover assessments paid through surcharges on policyholders or through full or partial premium tax offsets , while other states permit recovery of assessments through the rate filing process .",
+      "liabilities for guaranty fund and other insurance-related assessments are accrued when an assessment is probable , when it can be reasonably estimated , and when the event obligating the company to pay an imposed or probable assessment has occurred .",
+      "liabilities for guaranty funds and other insurance- related assessments are not discounted and are included as part of other liabilities in the consolidated balance sheets .",
+      "as of december 31 , 2016 and 2015 the liability balance was $ 134 and $ 138 , respectively .",
+      "as of december 31 , 2016 and 2015 amounts related to premium tax offsets of $ 34 and $ 44 , respectively , were included in other assets .",
+      "derivative commitments certain of the company 2019s derivative agreements contain provisions that are tied to the financial strength ratings , as set by nationally recognized statistical agencies , of the individual legal entity that entered into the derivative agreement .",
+      "if the legal entity 2019s financial strength were to fall below certain ratings , the counterparties to the derivative agreements could demand immediate and ongoing full collateralization and in certain instances enable the counterparties to terminate the agreements and demand immediate settlement of all outstanding derivative positions traded under each impacted bilateral agreement .",
+      "the settlement amount is determined by netting the derivative positions transacted under each agreement .",
+      "if the termination rights were to be exercised by the counterparties , it could impact the legal entity 2019s ability to conduct hedging activities by increasing the associated costs and decreasing the willingness of counterparties to transact with the legal entity .",
+      "the aggregate fair value of all derivative instruments with credit-risk-related contingent features that are in a net liability position as of december 31 , 2016 was $ 1.4 billion .",
+      "of this $ 1.4 billion , the legal entities have posted collateral of $ 1.7 billion in the normal course of business .",
+      "in addition , the company has posted collateral of $ 31 associated with a customized gmwb derivative .",
+      "based on derivative market values as of december 31 , 2016 , a downgrade of one level below the current financial strength ratings by either moody 2019s or s&p would not require additional assets to be posted as collateral .",
+      "based on derivative market values as of december 31 , 2016 , a downgrade of two levels below the current financial strength ratings by either moody 2019s or s&p would require additional $ 10 of assets to be posted as collateral .",
+      "these collateral amounts could change as derivative market values change , as a result of changes in our hedging activities or to the extent changes in contractual terms are negotiated .",
+      "the nature of the collateral that we post , when required , is primarily in the form of u.s .",
+      "treasury bills , u.s .",
+      "treasury notes and government agency securities .",
+      "guarantees in the ordinary course of selling businesses or entities to third parties , the company has agreed to indemnify purchasers for losses arising subsequent to the closing due to breaches of representations and warranties with respect to the business or entity being sold or with respect to covenants and obligations of the company and/or its subsidiaries .",
+      "these obligations are typically subject to various time limitations , defined by the contract or by operation of law , such as statutes of limitation .",
+      "in some cases , the maximum potential obligation is subject to contractual limitations , while in other cases such limitations are not specified or applicable .",
+      "the company does not expect to make any payments on these guarantees and is not carrying any liabilities associated with these guarantees. ."
+    ],
+    "table": [
+      [
+        "",
+        "operating leases"
+      ],
+      [
+        "2017",
+        "$ 42"
+      ],
+      [
+        "2018",
+        "35"
+      ],
+      [
+        "2019",
+        "28"
+      ],
+      [
+        "2020",
+        "20"
+      ],
+      [
+        "2021",
+        "10"
+      ],
+      [
+        "thereafter",
+        "28"
+      ],
+      [
+        "total minimum lease payments [1]",
+        "$ 163"
+      ]
+    ],
+    "questions": [
+      "what is the total future expected income from subleases?"
+    ]
+  }
+}

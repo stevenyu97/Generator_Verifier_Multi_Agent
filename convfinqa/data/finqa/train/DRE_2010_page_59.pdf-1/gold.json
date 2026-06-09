@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the debt to equity ratio in the assets acquired",
+      "answer": 0.91885,
+      "answer_raw": "0.91885",
+      "program": "divide(305619, 332612)"
+    }
+  ]
+}

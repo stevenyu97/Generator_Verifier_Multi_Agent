@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the segment income",
+      "answer": 0.04837,
+      "answer_raw": "0.04837",
+      "program": "subtract(1790.2, 1707.6), divide(#0, 1707.6)"
+    }
+  ]
+}

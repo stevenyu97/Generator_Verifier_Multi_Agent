@@ -1,0 +1,92 @@
+{
+  "input": {
+    "id": "IP/2007/page_19.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "item 7 .",
+      "management 2019s discussion and analysis of financial condition and results of operations executive summary international paper 2019s operating results in 2007 bene- fited from significantly higher paper and packaging price realizations .",
+      "sales volumes were slightly high- er , with growth in overseas markets partially offset by lower volumes in north america as we continued to balance our production with our customers 2019 demand .",
+      "operationally , our pulp and paper and containerboard mills ran very well in 2007 .",
+      "however , input costs for wood , energy and transportation costs were all well above 2006 levels .",
+      "in our forest products business , earnings decreased 31% ( 31 % ) reflect- ing a sharp decline in harvest income and a smaller drop in forestland and real estate sales , both reflect- ing our forestland divestitures in 2006 .",
+      "interest expense decreased over 40% ( 40 % ) , principally due to lower debt balances and interest rates from debt repayments and refinancings .",
+      "looking forward to the first quarter of 2008 , we expect demand for north american printing papers and packaging to remain steady .",
+      "however , if the economic downturn in 2008 is greater than expected , this could have a negative impact on sales volumes and earnings .",
+      "some slight increases in paper and packaging price realizations are expected as we implement our announced price increases .",
+      "however , first quarter earnings will reflect increased planned maintenance expenses and continued escalation of wood , energy and transportation costs .",
+      "as a result , excluding the impact of projected reduced earnings from land sales and the addition of equity earnings contributions from our recent investment in ilim holding s.a .",
+      "in russia , we expect 2008 first-quarter earnings to be lower than in the 2007 fourth quarter .",
+      "results of operations industry segment operating profits are used by inter- national paper 2019s management to measure the earn- ings performance of its businesses .",
+      "management believes that this measure allows a better under- standing of trends in costs , operating efficiencies , prices and volumes .",
+      "industry segment operating profits are defined as earnings before taxes and minority interest , interest expense , corporate items and corporate special items .",
+      "industry segment oper- ating profits are defined by the securities and exchange commission as a non-gaap financial measure , and are not gaap alternatives to net earn- ings or any other operating measure prescribed by accounting principles generally accepted in the united states .",
+      "international paper operates in six segments : print- ing papers , industrial packaging , consumer pack- aging , distribution , forest products , and specialty businesses and other .",
+      "the following table shows the components of net earnings for each of the last three years : in millions 2007 2006 2005 ."
+    ],
+    "post_text": [
+      "* corporate special items include restructuring and other charg- es , net ( gains ) losses on sales and impairments of businesses , gains on transformation plan forestland sales , goodwill impairment charges , insurance recoveries and reversals of reserves no longer required .",
+      "industry segment operating profits of $ 2.4 billion were $ 349 million higher in 2007 than in 2006 due principally to the benefits from higher average price realizations ( $ 461 million ) , the net impact of cost reduction initiatives , improved operating perform- ance and a more favorable mix of products sold ( $ 304 million ) , higher sales volumes ( $ 17 million ) , lower special item costs ( $ 115 million ) and other items ( $ 4 million ) .",
+      "these benefits more than offset the impacts of higher energy , raw material and freight costs ( $ 205 million ) , higher costs for planned mill maintenance outages ( $ 48 million ) , lower earn- ings from land sales ( $ 101 million ) , costs at the pensacola mill associated with the conversion of a machine to the production of linerboard ( $ 52 million ) and reduced earnings due to net acquisitions and divestitures ( $ 146 million ) .",
+      "segment operating profit ( in millions ) $ 2074 ( $ 205 ) ( $ 48 ) $ 17 ( $ 244 ) $ 2423$ 4 ( $ 52 ) ( $ 101 ) $ 461 $ 1000 $ 1500 $ 2000 $ 2500 $ 3000 ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "industry segment operating profits",
+        "$ 2423",
+        "$ 2074",
+        "$ 1622"
+      ],
+      [
+        "corporate items net",
+        "-732 ( 732 )",
+        "-746 ( 746 )",
+        "-607 ( 607 )"
+      ],
+      [
+        "corporate special items*",
+        "241",
+        "2373",
+        "-134 ( 134 )"
+      ],
+      [
+        "interest expense net",
+        "-297 ( 297 )",
+        "-521 ( 521 )",
+        "-595 ( 595 )"
+      ],
+      [
+        "minority interest",
+        "-5 ( 5 )",
+        "-9 ( 9 )",
+        "-9 ( 9 )"
+      ],
+      [
+        "income tax benefit ( provision )",
+        "-415 ( 415 )",
+        "-1889 ( 1889 )",
+        "407"
+      ],
+      [
+        "discontinued operations",
+        "-47 ( 47 )",
+        "-232 ( 232 )",
+        "416"
+      ],
+      [
+        "net earnings",
+        "$ 1168",
+        "$ 1050",
+        "$ 1100"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in industry segment operating profits from 2006 to 2007?"
+    ]
+  }
+}

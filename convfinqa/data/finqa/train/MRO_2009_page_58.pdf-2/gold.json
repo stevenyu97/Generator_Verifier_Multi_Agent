@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by what percentage did the average crack spread for the midwest ( chicago ) decrease from 2007 to 2009?",
+      "answer": -0.60316,
+      "answer_raw": "-0.60316",
+      "program": "subtract(3.52, 8.87), divide(#0, 8.87)"
+    }
+  ]
+}

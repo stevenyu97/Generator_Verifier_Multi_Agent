@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the total expense related to the defined contribution plan for u.s.employees in 2011?",
+      "answer": 0.06829,
+      "answer_raw": "0.06829",
+      "program": "subtract(21.9, 20.5), divide(#0, 20.5)"
+    }
+  ]
+}

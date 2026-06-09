@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the expected percentage change in total rental expense under operating leases in 2020 compare to 2019?",
+      "answer": -0.13555,
+      "answer_raw": "-0.13555",
+      "program": "divide(79789, const_1000), subtract(#0, 92.3), divide(#1, 92.3)"
+    }
+  ]
+}

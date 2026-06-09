@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the sum of eurosport and eurosport 2 viewing subscribers?",
+      "answer": 198.0,
+      "answer_raw": "198.0",
+      "program": "add(133, 65)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the sum plus those from eurosport news?",
+      "answer": 207.0,
+      "answer_raw": "207.0",
+      "program": "add(133, 65), add(#0, const_9)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the percent of eurosport 2 viewers to the sum?",
+      "answer": 0.31401,
+      "answer_raw": "0.31401",
+      "program": "add(133, 65), add(#0, const_9), divide(65, #1)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the net cash from operating activities from 2011 to 2012?",
+      "answer": 143.0,
+      "answer_raw": "143.0",
+      "program": "subtract(7216, 7073)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does that change represent in relation to the total net cash from operating activities in 2011, in percentage?",
+      "answer": 0.02022,
+      "answer_raw": "0.02022",
+      "program": "subtract(7216, 7073), divide(#0, 7073)"
+    }
+  ]
+}

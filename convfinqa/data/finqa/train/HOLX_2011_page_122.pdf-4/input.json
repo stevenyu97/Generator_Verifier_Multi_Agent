@@ -1,0 +1,47 @@
+{
+  "input": {
+    "id": "HOLX/2011/page_122.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents the company concluded that the acquisition of sentinelle medical did not represent a material business combination , and therefore , no pro forma financial information has been provided herein .",
+      "subsequent to the acquisition date , the company 2019s results of operations include the results of sentinelle medical , which is included within the company 2019s breast health reporting segment .",
+      "the company accounted for the sentinelle medical acquisition as a purchase of a business under asc 805 .",
+      "the purchase price was comprised of an $ 84.8 million cash payment , which was net of certain adjustments , plus three contingent payments up to a maximum of an additional $ 250.0 million in cash .",
+      "the contingent payments are based on a multiple of incremental revenue growth during the two-year period following the completion of the acquisition as follows : six months after acquisition , 12 months after acquisition , and 24 months after acquisition .",
+      "pursuant to asc 805 , the company recorded its estimate of the fair value of the contingent consideration liability based on future revenue projections of the sentinelle medical business under various potential scenarios and weighted probability assumptions of these outcomes .",
+      "as of the date of acquisition , these cash flow projections were discounted using a rate of 16.5% ( 16.5 % ) .",
+      "the discount rate is based on the weighted-average cost of capital of the acquired business plus a credit risk premium for non-performance risk related to the liability pursuant to asc 820 .",
+      "this analysis resulted in an initial contingent consideration liability of $ 29.5 million , which will be adjusted periodically as a component of operating expenses based on changes in the fair value of the liability driven by the accretion of the liability for the time value of money and changes in the assumptions pertaining to the achievement of the defined revenue growth milestones .",
+      "this fair value measurement was based on significant inputs not observable in the market and thus represented a level 3 measurement as defined in asc during each quarter in fiscal 2011 , the company has re-evaluated its assumptions and updated the revenue and probability assumptions for future earn-out periods and lowered its projections .",
+      "as a result of these adjustments , which were partially offset by the accretion of the liability , and using a current discount rate of approximately 17.0% ( 17.0 % ) , the company recorded a reversal of expense of $ 14.3 million in fiscal 2011 to record the contingent consideration liability at fair value .",
+      "in addition , during the second quarter of fiscal 2011 , the first earn-out period ended , and the company adjusted the fair value of the contingent consideration liability for actual results during the earn-out period .",
+      "this payment of $ 4.3 million was made in the third quarter of fiscal 2011 .",
+      "at september 24 , 2011 , the fair value of the liability is $ 10.9 million .",
+      "the company did not issue any equity awards in connection with this acquisition .",
+      "the company incurred third-party transaction costs of $ 1.2 million , which were expensed within general and administrative expenses in fiscal 2010 .",
+      "the purchase price was as follows: ."
+    ],
+    "post_text": [
+      "source : hologic inc , 10-k , november 23 , 2011 powered by morningstar ae document research 2120 the information contained herein may not be copied , adapted or distributed and is not warranted to be accurate , complete or timely .",
+      "the user assumes all risks for any damages or losses arising from any use of this information , except to the extent such damages or losses cannot be limited or excluded by applicable law .",
+      "past financial performance is no guarantee of future results. ."
+    ],
+    "table": [
+      [
+        "cash",
+        "$ 84751"
+      ],
+      [
+        "contingent consideration",
+        "29500"
+      ],
+      [
+        "total purchase price",
+        "$ 114251"
+      ]
+    ],
+    "questions": [
+      "what percentage of the total purchase price was contingent consideration?"
+    ]
+  }
+}

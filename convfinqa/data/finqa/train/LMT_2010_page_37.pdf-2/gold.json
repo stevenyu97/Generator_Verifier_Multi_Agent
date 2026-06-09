@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the total operating expenses in 2009?",
+      "answer": 11872.0,
+      "answer_raw": "11872.0",
+      "program": "subtract(13532, 1660)"
+    }
+  ]
+}

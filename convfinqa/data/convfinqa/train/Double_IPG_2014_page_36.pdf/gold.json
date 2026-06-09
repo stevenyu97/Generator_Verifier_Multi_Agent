@@ -1,0 +1,60 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net cash provided by operating activities in 2014?",
+      "answer": 669.5,
+      "answer_raw": "669.5",
+      "program": "669.5"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about net cash used by investing activities?",
+      "answer": -200.8,
+      "answer_raw": "-200.8",
+      "program": "-200.8"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net affect in cash flow from operating and investing activities?",
+      "answer": 468.7,
+      "answer_raw": "468.7",
+      "program": "add(669.5, -200.8)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what the effect of financing activities?",
+      "answer": -343.9,
+      "answer_raw": "-343.9",
+      "program": "-343.9"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total net cash flow?",
+      "answer": 124.8,
+      "answer_raw": "124.8",
+      "program": "add(669.5, -200.8), add(#0, -343.9)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the net income in 2014?",
+      "answer": 831.2,
+      "answer_raw": "831.2",
+      "program": "831.2"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "what about in 2013?",
+      "answer": 598.4,
+      "answer_raw": "598.4",
+      "program": "598.4"
+    },
+    {
+      "line_id": "turn_7",
+      "question": "what is the net change in the net income?",
+      "answer": 232.8,
+      "answer_raw": "232.8",
+      "program": "subtract(831.2, 598.4)"
+    }
+  ]
+}

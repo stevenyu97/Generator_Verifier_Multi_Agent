@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for basel adjustments , what would tier 1 capital have declined absent adjustments related to aoci and basel adjustments?\\\\n",
+      "answer": 3254.0,
+      "answer_raw": "3254.0",
+      "program": "add(1474, 1780)"
+    }
+  ]
+}

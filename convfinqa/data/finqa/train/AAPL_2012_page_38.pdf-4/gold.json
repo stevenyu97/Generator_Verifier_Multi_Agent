@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the annual operating cash flow between 2010 and 2011?",
+      "answer": 1.01823,
+      "answer_raw": "1.01823",
+      "program": "subtract(37529, 18595), divide(#0, 18595)"
+    }
+  ]
+}

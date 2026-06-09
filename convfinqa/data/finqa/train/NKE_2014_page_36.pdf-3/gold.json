@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of capital leases are due in 2016?",
+      "answer": 0.47297,
+      "answer_raw": "0.47297",
+      "program": "divide(35, 74)"
+    }
+  ]
+}

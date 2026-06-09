@@ -1,0 +1,85 @@
+{
+  "input": {
+    "id": "SNA/2013/page_93.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "a valuation allowance totaling $ 45.4 million , $ 43.9 million and $ 40.4 million as of 2013 , 2012 and 2011 year end , respectively , has been established for deferred income tax assets primarily related to certain subsidiary loss carryforwards that may not be realized .",
+      "realization of the net deferred income tax assets is dependent on generating sufficient taxable income prior to their expiration .",
+      "although realization is not assured , management believes it is more- likely-than-not that the net deferred income tax assets will be realized .",
+      "the amount of the net deferred income tax assets considered realizable , however , could change in the near term if estimates of future taxable income during the carryforward period fluctuate .",
+      "the following is a reconciliation of the beginning and ending amounts of unrecognized tax benefits for 2013 , 2012 and ( amounts in millions ) 2013 2012 2011 ."
+    ],
+    "post_text": [
+      "of the $ 4.6 million , $ 6.8 million and $ 11.0 million of unrecognized tax benefits as of 2013 , 2012 and 2011 year end , respectively , approximately $ 4.6 million , $ 4.1 million and $ 9.1 million , respectively , would impact the effective income tax rate if recognized .",
+      "interest and penalties related to unrecognized tax benefits are recorded in income tax expense .",
+      "during 2013 and 2012 , the company reversed a net $ 0.6 million and $ 0.5 million , respectively , of interest and penalties to income associated with unrecognized tax benefits .",
+      "as of 2013 , 2012 and 2011 year end , the company has provided for $ 0.9 million , $ 1.6 million and $ 1.6 million , respectively , of accrued interest and penalties related to unrecognized tax benefits .",
+      "the unrecognized tax benefits and related accrued interest and penalties are included in 201cother long-term liabilities 201d on the accompanying consolidated balance sheets .",
+      "snap-on and its subsidiaries file income tax returns in the united states and in various state , local and foreign jurisdictions .",
+      "it is reasonably possible that certain unrecognized tax benefits may either be settled with taxing authorities or the statutes of limitations for such items may lapse within the next 12 months , causing snap-on 2019s gross unrecognized tax benefits to decrease by a range of zero to $ 1.1 million .",
+      "over the next 12 months , snap-on anticipates taking certain tax positions on various tax returns for which the related tax benefit does not meet the recognition threshold .",
+      "accordingly , snap-on 2019s gross unrecognized tax benefits may increase by a range of zero to $ 0.8 million over the next 12 months for uncertain tax positions expected to be taken in future tax filings .",
+      "with few exceptions , snap-on is no longer subject to u.s .",
+      "federal and state/local income tax examinations by tax authorities for years prior to 2008 , and snap-on is no longer subject to non-u.s .",
+      "income tax examinations by tax authorities for years prior to 2006 .",
+      "the undistributed earnings of all non-u.s .",
+      "subsidiaries totaled $ 556.0 million , $ 492.2 million and $ 416.4 million as of 2013 , 2012 and 2011 year end , respectively .",
+      "snap-on has not provided any deferred taxes on these undistributed earnings as it considers the undistributed earnings to be permanently invested .",
+      "determination of the amount of unrecognized deferred income tax liability related to these earnings is not practicable .",
+      "2013 annual report 83 ."
+    ],
+    "table": [
+      [
+        "( amounts in millions )",
+        "2013",
+        "2012",
+        "2011"
+      ],
+      [
+        "unrecognized tax benefits at beginning of year",
+        "$ 6.8",
+        "$ 11.0",
+        "$ 11.1"
+      ],
+      [
+        "gross increases 2013 tax positions in prior periods",
+        "1.5",
+        "0.7",
+        "0.5"
+      ],
+      [
+        "gross decreases 2013 tax positions in prior periods",
+        "-1.6 ( 1.6 )",
+        "-4.9 ( 4.9 )",
+        "-0.4 ( 0.4 )"
+      ],
+      [
+        "gross increases 2013 tax positions in the current period",
+        "0.5",
+        "1.2",
+        "2.8"
+      ],
+      [
+        "settlements with taxing authorities",
+        "-2.1 ( 2.1 )",
+        "2013",
+        "-1.2 ( 1.2 )"
+      ],
+      [
+        "lapsing of statutes of limitations",
+        "-0.5 ( 0.5 )",
+        "-1.2 ( 1.2 )",
+        "-1.8 ( 1.8 )"
+      ],
+      [
+        "unrecognized tax benefits at end of year",
+        "$ 4.6",
+        "$ 6.8",
+        "$ 11.0"
+      ]
+    ],
+    "questions": [
+      "from 2011 to 2013 what was the average gross increases 2013 tax positions in prior periods"
+    ]
+  }
+}

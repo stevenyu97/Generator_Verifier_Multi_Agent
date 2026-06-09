@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would 2016 net revenue have been if it was impacted by the same higher other operation and maintenance expenses that impacted the prior year ( in millions ) ?",
+      "answer": 1473.4,
+      "answer_raw": "1473.4",
+      "program": "subtract(1520.5, 47.1)"
+    }
+  ]
+}

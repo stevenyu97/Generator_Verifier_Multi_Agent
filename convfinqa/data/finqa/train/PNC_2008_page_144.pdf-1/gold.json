@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2008 what was the debt to equity ratio",
+      "answer": 0.58668,
+      "answer_raw": "0.58668",
+      "program": "subtract(19924, 7367), divide(7367, #0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how is the cash flow of entergy mississippi affected by the balance in money pool from 2007 to 2008?",
+      "answer": 87041.0,
+      "answer_raw": "87041.0",
+      "program": "add(20997, 66044)"
+    }
+  ]
+}

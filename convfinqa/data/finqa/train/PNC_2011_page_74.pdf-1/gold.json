@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by what percentage did the fair value decrease from 2010 to 2011?",
+      "answer": 37.36689,
+      "answer_raw": "37.36689",
+      "program": "subtract(1033, 647), divide(#0, 1033), multiply(#1, const_100)"
+    }
+  ]
+}

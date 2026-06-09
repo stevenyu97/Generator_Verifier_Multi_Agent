@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the sentinelle medical's purchase price was paid in cash?",
+      "answer": 0.7418,
+      "answer_raw": "0.7418",
+      "program": "divide(84751, 114251)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what portion of that same purchase price is related to contingent consideration?",
+      "answer": 0.2582,
+      "answer_raw": "0.2582",
+      "program": "divide(29500, 114251)"
+    }
+  ]
+}

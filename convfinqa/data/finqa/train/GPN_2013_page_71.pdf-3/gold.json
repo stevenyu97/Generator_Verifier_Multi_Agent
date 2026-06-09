@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the beginning balance of accrual for fraud losses is paid in cash?",
+      "answer": 0.52872,
+      "answer_raw": "0.52872",
+      "program": "divide(35655, 67436)"
+    }
+  ]
+}

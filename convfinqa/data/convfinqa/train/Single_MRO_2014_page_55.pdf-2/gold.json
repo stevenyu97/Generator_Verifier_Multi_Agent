@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total capital expenditures in 2014?",
+      "answer": 5495.0,
+      "answer_raw": "5495.0",
+      "program": "5495"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for 2013?",
+      "answer": 4449.0,
+      "answer_raw": "4449.0",
+      "program": "4449"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between these two values?",
+      "answer": 1046.0,
+      "answer_raw": "1046.0",
+      "program": "subtract(5495, 4449)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the growth rate during this time?",
+      "answer": 0.23511,
+      "answer_raw": "0.23511",
+      "program": "subtract(5495, 4449), divide(#0, 4449)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2007 what was the percentage change in the account balance of unrecognized tax benefits based on the reconciliation at december 31 .",
+      "answer": 9.36269,
+      "answer_raw": "9.36269",
+      "program": "subtract(2000, 193), divide(#0, 193)"
+    }
+  ]
+}

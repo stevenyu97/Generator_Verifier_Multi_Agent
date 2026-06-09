@@ -1,0 +1,56 @@
+{
+  "input": {
+    "id": "EXPD/2018/page_27.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the graph below compares expeditors international of washington , inc.'s cumulative 5-year total shareholder return on common stock with the cumulative total returns of the s&p 500 index and the nasdaq industrial transportation index ( nqusb2770t ) .",
+      "the graph assumes that the value of the investment in our common stock and in each of the indexes ( including reinvestment of dividends ) was $ 100 on 12/31/2013 and tracks it through 12/31/2018 .",
+      "total return assumes reinvestment of dividends in each of the indices indicated .",
+      "comparison of 5-year cumulative total return among expeditors international of washington , inc. , the s&p 500 index and the nasdaq industrial transportation index. ."
+    ],
+    "post_text": [
+      "the stock price performance included in this graph is not necessarily indicative of future stock price performance. ."
+    ],
+    "table": [
+      [
+        "",
+        "12/13",
+        "12/14",
+        "12/15",
+        "12/16",
+        "12/17",
+        "12/18"
+      ],
+      [
+        "expeditors international of washington inc .",
+        "$ 100.00",
+        "$ 100.81",
+        "$ 101.92",
+        "$ 119.68",
+        "$ 146.19",
+        "$ 153.88"
+      ],
+      [
+        "standard and poor's 500 index",
+        "100.00",
+        "111.39",
+        "110.58",
+        "121.13",
+        "144.65",
+        "135.63"
+      ],
+      [
+        "nasdaq industrial transportation ( nqusb2770t )",
+        "100.00",
+        "121.41",
+        "93.55",
+        "120.89",
+        "154.19",
+        "140.25"
+      ]
+    ],
+    "questions": [
+      "what is the difference in percentage of cumulative total return between expeditors international of washington inc . and the nasdaq industrial transportation ( nqusb2770t ) for the 5 year period ending 12/18?"
+    ]
+  }
+}

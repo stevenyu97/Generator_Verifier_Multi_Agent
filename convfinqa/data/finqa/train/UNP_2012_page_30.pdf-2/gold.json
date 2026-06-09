@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "did contract services expense increase more in 2012 than in 2011?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(103, 106)"
+    }
+  ]
+}

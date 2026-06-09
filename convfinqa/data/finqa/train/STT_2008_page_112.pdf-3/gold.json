@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "between 2007 and 2008 , what percent did the value of standby letters of credit increase?",
+      "answer": 0.28656,
+      "answer_raw": "0.28656",
+      "program": "subtract(6061, 4711), divide(#0, 4711)"
+    }
+  ]
+}

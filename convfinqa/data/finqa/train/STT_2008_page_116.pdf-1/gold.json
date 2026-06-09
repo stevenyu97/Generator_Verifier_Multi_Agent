@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is percentage change in total conduit asset from 2007 to 2008?",
+      "answer": -0.16849,
+      "answer_raw": "-0.16849",
+      "program": "subtract(23.59, 28.37), divide(#0, 28.37)"
+    }
+  ]
+}

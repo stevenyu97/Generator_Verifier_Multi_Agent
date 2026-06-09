@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "V/2009/page_88.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "visa inc .",
+      "notes to consolidated financial statements 2014 ( continued ) september 30 , 2009 ( in millions , except as noted ) note 2 2014the reorganization description of the reorganization and purchase consideration in a series of transactions from october 1 to october 3 , 2007 , visa undertook a reorganization in which visa u.s.a. , visa international , visa canada and inovant became direct or indirect subsidiaries of visa inc .",
+      "and the retrospective responsibility plan was established .",
+      "see note 4 2014retrospective responsibility plan .",
+      "for accounting purposes , the company reflected the reorganization as a single transaction occurring on october 1 ( the 201creorganization date 201d ) , using the purchase method of accounting with visa u.s.a .",
+      "as the accounting acquirer .",
+      "the net assets underlying the acquired interests in visa international , visa canada , and inovant ( the 201cacquired interests 201d ) were recorded at fair value at the reorganization date with the excess purchase price over this value attributed to goodwill .",
+      "visa europe did not become a subsidiary of visa inc. , but rather remained owned and governed by its european member financial institutions and entered into a set of contractual arrangements with the company in connection with the reorganization .",
+      "the company issued different classes and series of common stock in the reorganization reflecting the different rights and obligations of the visa financial institution members and visa europe .",
+      "the allocation of the company 2019s common stock to each of visa ap , visa lac , visa cemea , visa canada ( collectively the 201cacquired regions 201d ) and visa u.s.a .",
+      "( collectively 201cthe participating regions 201d ) was based on each entity 2019s expected relative contribution to the company 2019s projected fiscal 2008 net income , after giving effect to negotiated adjustments .",
+      "this allocation was adjusted shortly prior to the ipo ( the 201ctrue- up 201d ) to reflect actual performance in the four quarters ended december 31 , 2007 .",
+      "the allocation of the company 2019s common stock and other consideration conveyed to visa europe in exchange for its ownership interest in visa international and inovant was determined based on the fair value of each element exchanged in the reorganization as discussed below and in note 3 2014visa europe .",
+      "total shares authorized and issued to the financial institution member groups of the participating regions and to visa europe in the reorganization totaled 775080512 shares of class b and class c common stock .",
+      "total purchase consideration , inclusive of the true-up , of approximately $ 18.4 billion comprised of the following: ."
+    ],
+    "post_text": [
+      "visa inc .",
+      "common stock issued in exchange for the acquired interests the value of the purchase consideration conveyed to each of the member groups of the acquired regions was determined by valuing the underlying businesses contributed by each , after giving effect to negotiated adjustments .",
+      "the fair value of the purchase consideration , consisting of 258022779 shares of class c ( series i ) common stock , was approximately $ 12.6 billion , measured at june 15 , 2007 , or the date on which all parties entered into the global restructuring agreement .",
+      "additional purchase consideration of $ 1.2 billion , consisting of 26138056 incremental shares of class c common stock valued at $ 44 per share were issued to the acquired regions shortly before the ipo in connection with the true-up .",
+      "the fair value of these shares was determined based on the price per share in the ipo. ."
+    ],
+    "table": [
+      [
+        "",
+        "in millions"
+      ],
+      [
+        "visa inc . common stock",
+        "$ 17935"
+      ],
+      [
+        "visa europe put option",
+        "346"
+      ],
+      [
+        "liability under framework agreement",
+        "132"
+      ],
+      [
+        "total purchase consideration",
+        "$ 18413"
+      ]
+    ],
+    "questions": [
+      "of the total purchase consideration , what portion is allocated for visa inc . common stock?"
+    ]
+  }
+}

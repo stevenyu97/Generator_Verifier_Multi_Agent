@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of the amortized cost of contracts due in one year or less among the total?",
+      "answer": 0.33333,
+      "answer_raw": "0.33333",
+      "program": "divide(50, 150)"
+    }
+  ]
+}

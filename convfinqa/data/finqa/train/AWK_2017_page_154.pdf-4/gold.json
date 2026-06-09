@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2017 what was the percent of the return on assets to the balance at the end of december",
+      "answer": 0.00719,
+      "answer_raw": "0.00719",
+      "program": "divide(const_2, 278)"
+    }
+  ]
+}

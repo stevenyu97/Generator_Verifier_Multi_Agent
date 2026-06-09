@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the net gains and losses from cva and hedges of cva ( a )",
+      "answer": 0.59091,
+      "answer_raw": "0.59091",
+      "program": "divide(403, 682)"
+    }
+  ]
+}

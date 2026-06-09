@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2010 what was the ratio of the value of the direct amount of the premiums to the amount ceded to other companies",
+      "answer": 2.72445,
+      "answer_raw": "2.72445",
+      "program": "divide(15780, 5792)"
+    }
+  ]
+}

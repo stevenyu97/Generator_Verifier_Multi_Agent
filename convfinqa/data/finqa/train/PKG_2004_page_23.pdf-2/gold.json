@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "containerboard sales volume to external domestic and export customers decreased by how many tons in the year ended december 31 , 2003 from 2002?",
+      "answer": 32000.0,
+      "answer_raw": "32000.0",
+      "program": "subtract(477000, 445000)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was, in millions, the difference in the number of international subscribers between discovery channel and animal planet?",
+      "answer": 71.0,
+      "answer_raw": "71.0",
+      "program": "subtract(271, 200)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that difference between discovery channel and discovery science?",
+      "answer": 190.0,
+      "answer_raw": "190.0",
+      "program": "subtract(271, 81)"
+    }
+  ]
+}

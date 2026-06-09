@@ -1,0 +1,85 @@
+{
+  "input": {
+    "id": "APD/2013/page_44.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "put options we currently have outstanding put option agreements with other shareholders of our air products san fu company , ltd .",
+      "and indura s.a .",
+      "subsidiaries .",
+      "the put options give the shareholders the right to sell stock in the subsidiaries based on pricing terms in the agreements .",
+      "refer to note 17 , commitments and contingencies , to the consolidated financial statements for additional information .",
+      "due to the uncertainty of whether these options would be exercised and the related timing , we excluded the potential payments from the contractual obligations table .",
+      "pension benefits we sponsor defined benefit pension plans that cover a substantial portion of our worldwide employees .",
+      "the principal defined benefit pension plans 2014the u.s .",
+      "salaried pension plan and the u.k .",
+      "pension plan 2014were closed to new participants in 2005 and were replaced with defined contribution plans .",
+      "over the long run , the shift to defined contribution plans is expected to reduce volatility of both plan expense and contributions .",
+      "for 2013 , the fair market value of pension plan assets for our defined benefit plans as of the measurement date increased to $ 3800.8 from $ 3239.1 in 2012 .",
+      "the projected benefit obligation for these plans as of the measurement date was $ 4394.0 and $ 4486.5 in 2013 and 2012 , respectively .",
+      "refer to note 16 , retirement benefits , to the consolidated financial statements for comprehensive and detailed disclosures on our postretirement benefits .",
+      "pension expense ."
+    ],
+    "post_text": [
+      "2013 vs .",
+      "2012 the increase in pension expense , excluding special items , was primarily attributable to the 100 bp decrease in weighted average discount rate , resulting in higher amortization of actuarial losses .",
+      "the increase was partially offset by a higher expected return on plan assets and contributions in 2013 .",
+      "special items of $ 19.8 primarily included $ 12.4 for pension settlement losses and $ 6.9 for special termination benefits relating to the 2013 business restructuring and cost reduction plan .",
+      "2012 vs .",
+      "2011 pension expense in 2012 , excluding special items , was comparable to 2011 expense as a result of no change in the weighted average discount rate from year to year .",
+      "2014 outlook pension expense is estimated to be approximately $ 140 to $ 145 , excluding special items , in 2014 , a decrease of $ 5 to $ 10 from 2013 , resulting primarily from an increase in discount rates , partially offset by unfavorable impacts associated with changes in mortality and inflation assumptions .",
+      "pension settlement losses of $ 10 to $ 25 are expected , dependent on the timing of retirements .",
+      "in 2014 , pension expense will include approximately $ 118 for amortization of actuarial losses compared to $ 143 in 2013 .",
+      "net actuarial gains of $ 370.4 were recognized in 2013 , resulting primarily from an approximately 65 bp increase in the weighted average discount rate as well as actual asset returns above expected returns .",
+      "actuarial gains/losses are amortized into pension expense over prospective periods to the extent they are not offset by future gains or losses .",
+      "future changes in the discount rate and actual returns on plan assets , different from expected returns , would impact the actuarial gains/losses and resulting amortization in years beyond 2014 .",
+      "pension funding pension funding includes both contributions to funded plans and benefit payments for unfunded plans , which are primarily non-qualified plans .",
+      "with respect to funded plans , our funding policy is that contributions , combined with appreciation and earnings , will be sufficient to pay benefits without creating unnecessary surpluses .",
+      "in addition , we make contributions to satisfy all legal funding requirements while managing our capacity to benefit from tax deductions attributable to plan contributions .",
+      "with the assistance of third party actuaries , we analyze the liabilities and demographics of each plan , which help guide the level of contributions .",
+      "during 2013 and 2012 , our cash contributions to funded plans and benefit payments for unfunded plans were $ 300.8 and $ 76.4 , respectively .",
+      "contributions for 2013 include voluntary contributions for u.s .",
+      "plans of $ 220.0. ."
+    ],
+    "table": [
+      [
+        "",
+        "2013",
+        "2012",
+        "2011"
+      ],
+      [
+        "pension expense",
+        "$ 169.7",
+        "$ 120.4",
+        "$ 114.1"
+      ],
+      [
+        "special terminations settlements and curtailments ( included above )",
+        "19.8",
+        "8.2",
+        "1.3"
+      ],
+      [
+        "weighted average discount rate",
+        "4.0% ( 4.0 % )",
+        "5.0% ( 5.0 % )",
+        "5.0% ( 5.0 % )"
+      ],
+      [
+        "weighted average expected rate of return on plan assets",
+        "7.7% ( 7.7 % )",
+        "8.0% ( 8.0 % )",
+        "8.0% ( 8.0 % )"
+      ],
+      [
+        "weighted average expected rate of compensation increase",
+        "3.8% ( 3.8 % )",
+        "3.9% ( 3.9 % )",
+        "4.0% ( 4.0 % )"
+      ]
+    ],
+    "questions": [
+      "considering the years 2012-2013 , what is the increase observed in the special terminations settlements and curtailments?"
+    ]
+  }
+}

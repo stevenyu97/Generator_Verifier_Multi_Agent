@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the 2017 total long term debt to 2016",
+      "answer": 1.00078,
+      "answer_raw": "1.00078",
+      "program": "divide(1279, 1278)"
+    }
+  ]
+}

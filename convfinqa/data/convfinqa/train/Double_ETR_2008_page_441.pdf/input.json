@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "Double_ETR/2008/page_441.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "for purposes of determining entergy corporation's relative performance for the 2006-2008 period , the committee used the philadelphia utility index as the peer group .",
+      "based on market data and the recommendation of management , the committee compared entergy corporation's total shareholder return against the total shareholder return of the companies that comprised the philadelphia utility index .",
+      "based on a comparison of entergy corporation's performance relative to the philadelphia utility index as described above , the committee concluded that entergy corporation had exceeded the performance targets for the 2006-2008 performance cycle with entergy finishing in the first quartile which resulted in a payment of 250% ( 250 % ) of target ( the maximum amount payable ) .",
+      "each performance unit was then automatically converted into cash at the rate of $ 83.13 per unit , the closing price of entergy corporation common stock on the last trading day of the performance cycle ( december 31 , 2008 ) , plus dividend equivalents accrued over the three-year performance cycle .",
+      "see the 2008 option exercises and stock vested table for the amount paid to each of the named executive officers for the 2006-2008 performance unit cycle .",
+      "stock options the personnel committee and in the case of the named executive officers ( other than mr .",
+      "leonard , mr .",
+      "denault and mr .",
+      "smith ) , entergy's chief executive officer and the named executive officer's supervisor consider several factors in determining the amount of stock options it will grant under entergy's equity ownership plans to the named executive officers , including : individual performance ; prevailing market practice in stock option grants ; the targeted long-term value created by the use of stock options ; the number of participants eligible for stock options , and the resulting \"burn rate\" ( i.e. , the number of stock options authorized divided by the total number of shares outstanding ) to assess the potential dilutive effect ; and the committee's assessment of other elements of compensation provided to the named executive officer for stock option awards to the named executive officers ( other than mr .",
+      "leonard ) , the committee's assessment of individual performance of each named executive officer done in consultation with entergy corporation's chief executive officer is the most important factor in determining the number of options awarded .",
+      "the following table sets forth the number of stock options granted to each named executive officer in 2008 .",
+      "the exercise price for each option was $ 108.20 , which was the closing fair market value of entergy corporation common stock on the date of grant. ."
+    ],
+    "post_text": [
+      "the option grants awarded to the named executive officers ( other than mr .",
+      "leonard and mr .",
+      "lewis ) ranged in amount between 5000 and 50000 shares .",
+      "mr .",
+      "lewis did not receive any stock option awards in 2008 .",
+      "in the case of mr .",
+      "leonard , who received 175000 stock options , the committee took special note of his performance as entergy corporation's chief executive officer .",
+      "among other things , the committee noted that ."
+    ],
+    "table": [
+      [
+        "named exeutive officer",
+        "stock options"
+      ],
+      [
+        "j . wayne leonard",
+        "175000"
+      ],
+      [
+        "leo p . denault",
+        "50000"
+      ],
+      [
+        "richard j . smith",
+        "35000"
+      ],
+      [
+        "e . renae conley",
+        "15600"
+      ],
+      [
+        "hugh t . mcdonald",
+        "7000"
+      ],
+      [
+        "haley fisackerly",
+        "5000"
+      ],
+      [
+        "joseph f . domino",
+        "7000"
+      ],
+      [
+        "roderick k . west",
+        "8000"
+      ],
+      [
+        "theodore h . bunting jr .",
+        "18000"
+      ],
+      [
+        "carolyn shanks",
+        "7000"
+      ]
+    ],
+    "questions": [
+      "what is the total value of stock options for leo p. denault?",
+      "what about in millions?",
+      "what about the total value for j. wayne leonard?",
+      "what is the value in millions?"
+    ]
+  }
+}

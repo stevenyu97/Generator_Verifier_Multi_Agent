@@ -1,0 +1,80 @@
+{
+  "input": {
+    "id": "PNC/2013/page_205.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "to determine stock-based compensation expense , the grant date fair value is applied to the options granted with a reduction for estimated forfeitures .",
+      "we recognize compensation expense for stock options on a straight-line basis over the specified vesting period .",
+      "at december 31 , 2012 and 2011 , options for 12759000 and 12337000 shares of common stock were exercisable at a weighted-average price of $ 90.86 and $ 106.08 , respectively .",
+      "the total intrinsic value of options exercised during 2013 , 2012 and 2011 was $ 86 million , $ 37 million and $ 4 million , respectively .",
+      "the total tax benefit recognized related to compensation expense on all share-based payment arrangements during 2013 , 2012 and 2011 was approximately $ 56 million , $ 37 million and $ 38 million , respectively .",
+      "cash received from option exercises under all incentive plans for 2013 , 2012 and 2011 was approximately $ 208 million , $ 118 million and $ 41 million , respectively .",
+      "the tax benefit realized from option exercises under all incentive plans for 2013 , 2012 and 2011 was approximately $ 31 million , $ 14 million and $ 1 million , respectively .",
+      "shares of common stock available during the next year for the granting of options and other awards under the incentive plans were 24535159 at december 31 , 2013 .",
+      "total shares of pnc common stock authorized for future issuance under equity compensation plans totaled 25712719 shares at december 31 , 2013 , which includes shares available for issuance under the incentive plans and the employee stock purchase plan ( espp ) as described below .",
+      "during 2013 , we issued approximately 2.6 million shares from treasury stock in connection with stock option exercise activity .",
+      "as with past exercise activity , we currently intend to utilize primarily treasury stock for any future stock option exercises .",
+      "awards granted to non-employee directors in 2013 , 2012 and 2011 include 27076 , 25620 and 27090 deferred stock units , respectively , awarded under the outside directors deferred stock unit plan .",
+      "a deferred stock unit is a phantom share of our common stock , which is accounted for as a liability until such awards are paid to the participants in cash .",
+      "as there are no vesting or service requirements on these awards , total compensation expense is recognized in full for these awards on the date of grant .",
+      "incentive/performance unit share awards and restricted stock/share unit awards the fair value of nonvested incentive/performance unit share awards and restricted stock/share unit awards is initially determined based on prices not less than the market value of our common stock on the date of grant .",
+      "the value of certain incentive/performance unit share awards is subsequently remeasured based on the achievement of one or more financial and other performance goals , generally over a three-year period .",
+      "the personnel and compensation committee ( 201cp&cc 201d ) of the board of directors approves the final award payout with respect to certain incentive/performance unit share awards .",
+      "restricted stock/share unit awards have various vesting periods generally ranging from 3 years to 5 years .",
+      "beginning in 2013 , we incorporated several enhanced risk- related performance changes to certain long-term incentive compensation programs .",
+      "in addition to achieving certain financial performance metrics on both an absolute basis and relative to our peers , final payout amounts will be subject to reduction if pnc fails to meet certain risk-related performance metrics as specified in the award agreement .",
+      "however , the p&cc has the discretion to waive any or all of this reduction under certain circumstances .",
+      "these awards have either a three- year or a four-year performance period and are payable in either stock or a combination of stock and cash .",
+      "additionally , performance-based restricted share units were granted in 2013 to certain executives as part of annual bonus deferral criteria .",
+      "these units , payable solely in stock , vest ratably over a four-year period and contain the same risk- related discretionary criteria noted in the preceding paragraph .",
+      "the weighted-average grant date fair value of incentive/ performance unit share awards and restricted stock/unit awards granted in 2013 , 2012 and 2011 was $ 64.77 , $ 60.68 and $ 63.25 per share , respectively .",
+      "the total fair value of incentive/performance unit share and restricted stock/unit awards vested during 2013 , 2012 and 2011 was approximately $ 63 million , $ 55 million and $ 52 million , respectively .",
+      "we recognize compensation expense for such awards ratably over the corresponding vesting and/or performance periods for each type of program .",
+      "table 124 : nonvested incentive/performance unit share awards and restricted stock/share unit awards 2013 rollforward shares in thousands nonvested incentive/ performance unit shares weighted- average grant date fair value nonvested restricted stock/ weighted- average grant date fair value ."
+    ],
+    "post_text": [
+      "the pnc financial services group , inc .",
+      "2013 form 10-k 187 ."
+    ],
+    "table": [
+      [
+        "shares in thousands december 31 2012",
+        "nonvested incentive/ performance unit shares 1119",
+        "weighted- average grant date fair value $ 61.14",
+        "nonvested restricted stock/ share units 3061",
+        "weighted- average grant date fair value $ 60.04"
+      ],
+      [
+        "granted",
+        "926",
+        "64.36",
+        "1288",
+        "65.06"
+      ],
+      [
+        "vested/released",
+        "-326 ( 326 )",
+        "58.26",
+        "-674 ( 674 )",
+        "55.22"
+      ],
+      [
+        "forfeited",
+        "-72 ( 72 )",
+        "62.02",
+        "-192 ( 192 )",
+        "62.37"
+      ],
+      [
+        "december 31 2013",
+        "1647",
+        "$ 63.49",
+        "3483",
+        "$ 62.70"
+      ]
+    ],
+    "questions": [
+      "for 2013 , what was the change in shares in thousands of nonvested incentive/ performance unit shares?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total compensation expense in 2018 is composed of other variable incentive compensation?",
+      "answer": 0.31667,
+      "answer_raw": "0.31667",
+      "program": "divide(640, 2021)"
+    }
+  ]
+}

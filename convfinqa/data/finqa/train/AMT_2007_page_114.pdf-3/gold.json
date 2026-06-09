@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "the 3.95% ( 3.95 % ) notional swap was how much of the total notional swap principle?",
+      "answer": 0.6,
+      "answer_raw": "0.6",
+      "program": "divide(150000, 250000)"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "SWKS/2010/page_105.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "31mar201122064257 positions which were required to be capitalized .",
+      "there are no positions which we anticipate could change materially within the next twelve months .",
+      "liquidity and capital resources ."
+    ],
+    "post_text": [
+      "( 1 ) does not include restricted cash balances cash flow from operating activities : cash provided from operating activities is net income adjusted for certain non-cash items and changes in certain assets and liabilities .",
+      "for fiscal year 2010 we generated $ 223.0 million in cash flow from operations , an increase of $ 4.2 million when compared to the $ 218.8 million generated in fiscal year 2009 .",
+      "during fiscal year 2010 , net income increased by $ 42.3 million to $ 137.3 million when compared to fiscal year 2009 .",
+      "despite the increase in net income , net cash provided by operating activities remained relatively consistent .",
+      "this was primarily due to : 2022 fiscal year 2010 net income included a deferred tax expense of $ 38.5 million compared to a $ 24.9 million deferred tax benefit included in 2009 net income due to the release of the tax valuation allowance in fiscal year 2009 .",
+      "2022 during fiscal year 2010 , the company invested in working capital as result of higher business activity .",
+      "compared to fiscal year 2009 , accounts receivable , inventory and accounts payable increased by $ 60.9 million , $ 38.8 million and $ 42.9 million , respectively .",
+      "cash flow from investing activities : cash flow from investing activities consists primarily of capital expenditures and acquisitions .",
+      "we had net cash outflows of $ 95.3 million in fiscal year 2010 , compared to $ 49.5 million in fiscal year 2009 .",
+      "the increase is primarily due to an increase of $ 49.8 million in capital expenditures .",
+      "we anticipate our capital spending to be consistent in fiscal year 2011 to maintain our projected growth rate .",
+      "cash flow from financing activities : cash flows from financing activities consist primarily of cash transactions related to debt and equity .",
+      "during fiscal year 2010 , we had net cash outflows of $ 38.6 million , compared to $ 30.2 million in fiscal year 2009 .",
+      "during the year we had the following significant transactions : 2022 we retired $ 53.0 million in aggregate principal amount ( carrying value of $ 51.1 million ) of 2007 convertible notes for $ 80.7 million , which included a $ 29.6 million premium paid for the equity component of the instrument .",
+      "2022 we received net proceeds from employee stock option exercises of $ 40.5 million in fiscal year 2010 , compared to $ 38.7 million in fiscal year 2009 .",
+      "skyworks / 2010 annual report 103 ."
+    ],
+    "table": [
+      [
+        "( dollars in thousands )",
+        "fiscal years ended october 1 2010",
+        "fiscal years ended october 2 2009",
+        "fiscal years ended october 3 2008"
+      ],
+      [
+        "cash and cash equivalents at beginning of period",
+        "$ 364221",
+        "$ 225104",
+        "$ 241577"
+      ],
+      [
+        "net cash provided by operating activities",
+        "222962",
+        "218805",
+        "182673"
+      ],
+      [
+        "net cash used in investing activities",
+        "-95329 ( 95329 )",
+        "-49528 ( 49528 )",
+        "-94959 ( 94959 )"
+      ],
+      [
+        "net cash used in financing activities",
+        "-38597 ( 38597 )",
+        "-30160 ( 30160 )",
+        "-104187 ( 104187 )"
+      ],
+      [
+        "cash and cash equivalents at end of period ( 1 )",
+        "$ 453257",
+        "$ 364221",
+        "$ 225104"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in the net cash outflows in 2010 compared to 2009"
+    ]
+  }
+}

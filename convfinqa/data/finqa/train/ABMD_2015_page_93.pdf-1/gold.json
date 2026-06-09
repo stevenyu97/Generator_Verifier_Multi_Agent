@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the class b preferred stock is currently outstanding?",
+      "answer": 0.0,
+      "answer_raw": "0.0",
+      "program": "divide(0, 1000000)"
+    }
+  ]
+}

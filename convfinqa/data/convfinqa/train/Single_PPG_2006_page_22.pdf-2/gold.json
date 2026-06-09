@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum between the segment income increased by asset impairment in fine chemicals business and the optical and specialty materials segment income of 2005?",
+      "answer": 185.0,
+      "answer_raw": "185.0",
+      "program": "add(27, 158)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the segment income increased by asset impairment in fine chemicals business of 2005?",
+      "answer": 27.0,
+      "answer_raw": "27.0",
+      "program": "27"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does that segment income increase represents in relation to that sum?",
+      "answer": 0.14595,
+      "answer_raw": "0.14595",
+      "program": "add(27, 158), divide(27, #0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage chaning in the total fair value of restricted stock and performance awards vested from 2016 to 2017?",
+      "answer": 0.685,
+      "answer_raw": "0.685",
+      "program": "subtract(33.7, 20.0), divide(#0, 20.0)"
+    }
+  ]
+}

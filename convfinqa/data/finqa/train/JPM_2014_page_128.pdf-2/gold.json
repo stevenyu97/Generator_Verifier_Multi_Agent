@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the ratings profile of derivative receivables were junk rated in 2013?",
+      "answer": 20.0,
+      "answer_raw": "20.0",
+      "program": "add(13, 7)"
+    }
+  ]
+}

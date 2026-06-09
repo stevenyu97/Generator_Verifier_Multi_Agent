@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average provision for interest and penalties for the period december 31 , 2015 to 2017 , in millions?",
+      "answer": 30.66667,
+      "answer_raw": "30.66667",
+      "program": "add(38, 34), add(20, #0), divide(#1, const_3)"
+    }
+  ]
+}

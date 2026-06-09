@@ -1,0 +1,46 @@
+{
+  "input": {
+    "id": "DG/2008/page_73.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the contractual maturities of held-to-maturity securities as of january 30 , 2009 were in excess of three years and were $ 31.4 million at cost and $ 28.9 million at fair value , respectively .",
+      "for the successor year ended january 30 , 2009 and period ended february 1 , 2008 , and the predecessor period ended july 6 , 2007 and year ended february 2 , 2007 , gross realized gains and losses on the sales of available-for-sale securities were not material .",
+      "the cost of securities sold is based upon the specific identification method .",
+      "merchandise inventories inventories are stated at the lower of cost or market with cost determined using the retail last-in , first-out ( 201clifo 201d ) method .",
+      "under the company 2019s retail inventory method ( 201crim 201d ) , the calculation of gross profit and the resulting valuation of inventories at cost are computed by applying a calculated cost-to-retail inventory ratio to the retail value of sales at a department level .",
+      "costs directly associated with warehousing and distribution are capitalized into inventory .",
+      "the excess of current cost over lifo cost was approximately $ 50.0 million at january 30 , 2009 and $ 6.1 million at february 1 , 2008 .",
+      "current cost is determined using the retail first-in , first-out method .",
+      "the company 2019s lifo reserves were adjusted to zero at july 6 , 2007 as a result of the merger .",
+      "the successor recorded lifo provisions of $ 43.9 million and $ 6.1 million during 2008 and 2007 , respectively .",
+      "the predecessor recorded a lifo credit of $ 1.5 million in 2006 .",
+      "in 2008 , the increased commodity cost pressures mainly related to food and pet products which have been driven by fruit and vegetable prices and rising freight costs .",
+      "increases in petroleum , resin , metals , pulp and other raw material commodity driven costs also resulted in multiple product cost increases .",
+      "the company intends to address these commodity cost increases through negotiations with its vendors and by increasing retail prices as necessary .",
+      "on a quarterly basis , the company estimates the annual impact of commodity cost fluctuations based upon the best available information at that point in time .",
+      "store pre-opening costs pre-opening costs related to new store openings and the construction periods are expensed as incurred .",
+      "property and equipment property and equipment are recorded at cost .",
+      "the company provides for depreciation and amortization on a straight-line basis over the following estimated useful lives: ."
+    ],
+    "post_text": [
+      "improvements of leased properties are amortized over the shorter of the life of the applicable lease term or the estimated useful life of the asset. ."
+    ],
+    "table": [
+      [
+        "land improvements",
+        "20"
+      ],
+      [
+        "buildings",
+        "39-40"
+      ],
+      [
+        "furniture fixtures and equipment",
+        "3-10"
+      ]
+    ],
+    "questions": [
+      "what was the total lifo provisions recorded by the successor from 2007 to 2008 in millions"
+    ]
+  }
+}

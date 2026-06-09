@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions , what is the average operating expenses from 2008-2010?",
+      "answer": 12216.0,
+      "answer_raw": "12216.0",
+      "program": "add(11984, 10764), add(#0, 13900), divide(#1, const_3)"
+    }
+  ]
+}

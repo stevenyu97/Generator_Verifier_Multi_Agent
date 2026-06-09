@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "Single_GRMN/2008/page_98.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "."
+    ],
+    "post_text": [
+      "the black-scholes option valuation model was developed for use in estimating the fair value of traded options which have no vesting restrictions and are fully transferable .",
+      "in addition , option valuation models require the input of highly subjective assumptions , including the expected stock price volatility .",
+      "because the company 2019s employee stock options have characteristics significantly different from those of traded options , and because changes in the subjective input assumptions can materially affect the fair value estimate , in management 2019s opinion , the existing models do not necessarily provide a reliable single measure of the fair value of its employee stock options .",
+      "the fair value of the rsus was determined based on the market value at the date of grant .",
+      "the total fair value of awards vested during 2008 , 2007 , and 2006 was $ 35384 , $ 17840 , and $ 9413 , respectively .",
+      "the total stock based compensation expense calculated using the black-scholes option valuation model in 2008 , 2007 , and 2006 was $ 38872 , $ 22164 , and $ 11913 , respectively.the aggregate intrinsic values of options outstanding and exercisable at december 27 , 2008 were $ 8.2 million and $ 8.2 million , respectively .",
+      "the aggregate intrinsic value of options exercised during the year ended december 27 , 2008 was $ 0.6 million .",
+      "aggregate intrinsic value represents the positive difference between the company 2019s closing stock price on the last trading day of the fiscal period , which was $ 19.39 on december 27 , 2008 , and the exercise price multiplied by the number of options exercised .",
+      "as of december 27 , 2008 , there was $ 141.7 million of total unrecognized compensation cost related to unvested share-based compensation awards granted to employees under the stock compensation plans .",
+      "that cost is expected to be recognized over a period of five years .",
+      "employee stock purchase plan the shareholders also adopted an employee stock purchase plan ( espp ) .",
+      "up to 2000000 shares of common stock have been reserved for the espp .",
+      "shares will be offered to employees at a price equal to the lesser of 85% ( 85 % ) of the fair market value of the stock on the date of purchase or 85% ( 85 % ) of the fair market value on the enrollment date .",
+      "the espp is intended to qualify as an 201cemployee stock purchase plan 201d under section 423 of the internal revenue code .",
+      "during 2008 , 2007 , and 2006 , 362902 , 120230 , and 124693 shares , respectively were purchased under the plan for a total purchase price of $ 8782 , $ 5730 , and $ 3569 , respectively .",
+      "at december 27 , 2008 , approximately 663679 shares were available for future issuance .",
+      "10 .",
+      "earnings per share the following table sets forth the computation of basic and diluted net income per share: ."
+    ],
+    "table": [
+      [
+        "",
+        "2008",
+        "2007",
+        "2006"
+      ],
+      [
+        "weighted average fair value of options granted",
+        "$ 18.47",
+        "$ 33.81",
+        "$ 20.01"
+      ],
+      [
+        "expected volatility",
+        "0.3845",
+        "0.3677",
+        "0.3534"
+      ],
+      [
+        "dividend yield",
+        "3.75% ( 3.75 % )",
+        "0.76% ( 0.76 % )",
+        "1.00% ( 1.00 % )"
+      ],
+      [
+        "expected life of options in years",
+        "6.0",
+        "6.0",
+        "6.3"
+      ],
+      [
+        "risk-free interest rate",
+        "2% ( 2 % )",
+        "4% ( 4 % )",
+        "5% ( 5 % )"
+      ]
+    ],
+    "questions": [
+      "what is the expected volatility in 2007 divided by that in 2008?",
+      "what is that value minus 1?"
+    ]
+  }
+}

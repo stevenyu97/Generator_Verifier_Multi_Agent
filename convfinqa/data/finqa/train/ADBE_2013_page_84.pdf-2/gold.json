@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the july 2013 settled examination , what percentage of the cash and income tax assets in the settlement was represented by income tax benefit recorded in the third quarter of fiscal 2013?",
+      "answer": 0.17476,
+      "answer_raw": "0.17476",
+      "program": "divide(7.2, 41.2)"
+    }
+  ]
+}

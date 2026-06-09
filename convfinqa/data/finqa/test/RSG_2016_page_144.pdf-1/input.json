@@ -1,0 +1,54 @@
+{
+  "input": {
+    "id": "RSG/2016/page_144.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "republic services , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) 16 .",
+      "financial instruments fuel hedges we have entered into multiple swap agreements designated as cash flow hedges to mitigate some of our exposure related to changes in diesel fuel prices .",
+      "these swaps qualified for , and were designated as , effective hedges of changes in the prices of forecasted diesel fuel purchases ( fuel hedges ) .",
+      "the following table summarizes our outstanding fuel hedges as of december 31 , 2016 : year gallons hedged weighted average contract price per gallon ."
+    ],
+    "post_text": [
+      "if the national u.s .",
+      "on-highway average price for a gallon of diesel fuel as published by the department of energy exceeds the contract price per gallon , we receive the difference between the average price and the contract price ( multiplied by the notional gallons ) from the counterparty .",
+      "if the average price is less than the contract price per gallon , we pay the difference to the counterparty .",
+      "the fair values of our fuel hedges are determined using standard option valuation models with assumptions about commodity prices based on those observed in underlying markets ( level 2 in the fair value hierarchy ) .",
+      "the aggregate fair values of our outstanding fuel hedges as of december 31 , 2016 and 2015 were current liabilities of $ 2.7 million and $ 37.8 million , respectively , and have been recorded in other accrued liabilities in our consolidated balance sheets .",
+      "the ineffective portions of the changes in fair values resulted in a gain of $ 0.8 million for the year ended december 31 , 2016 , and a loss of $ 0.4 million and $ 0.5 million for the years ended december 31 , 2015 and 2014 , respectively , and have been recorded in other income , net in our consolidated statements of income .",
+      "total gain ( loss ) recognized in other comprehensive income ( loss ) for fuel hedges ( the effective portion ) was $ 20.7 million , $ ( 2.0 ) million and $ ( 24.2 ) million , for the years ended december 31 , 2016 , 2015 and 2014 , respectively .",
+      "we classify cash inflows and outflows from our fuel hedges within operating activities in the unaudited consolidated statements of cash flows .",
+      "recycling commodity hedges revenue from the sale of recycled commodities is primarily from sales of old corrugated containers and old newsprint .",
+      "from time to time we use derivative instruments such as swaps and costless collars designated as cash flow hedges to manage our exposure to changes in prices of these commodities .",
+      "during 2016 , we entered into multiple agreements related to the forecasted occ sales .",
+      "the agreements qualified for , and were designated as , effective hedges of changes in the prices of certain forecasted recycling commodity sales ( commodity hedges ) .",
+      "we entered into costless collar agreements on forecasted sales of occ .",
+      "the agreements involve combining a purchased put option giving us the right to sell occ at an established floor strike price with a written call option obligating us to deliver occ at an established cap strike price .",
+      "the puts and calls have the same settlement dates , are net settled in cash on such dates and have the same terms to expiration .",
+      "the contemporaneous combination of options resulted in no net premium for us and represents costless collars .",
+      "under these agreements , we will make or receive no payments as long as the settlement price is between the floor price and cap price ; however , if the settlement price is above the cap , we will pay the counterparty an amount equal to the excess of the settlement price over the cap times the monthly volumes hedged .",
+      "if the settlement price is below the floor , the counterparty will pay us the deficit of the settlement price below the floor times the monthly volumes hedged .",
+      "the objective of these agreements is to reduce variability of cash flows for forecasted sales of occ between two designated strike prices. ."
+    ],
+    "table": [
+      [
+        "year",
+        "gallons hedged",
+        "weighted average contractprice per gallon"
+      ],
+      [
+        "2017",
+        "12000000",
+        "$ 2.92"
+      ],
+      [
+        "2018",
+        "3000000",
+        "2.61"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the gallons hedged in 2017 to 2018"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent change in revenue recognized under the agreement between 2004and 2005?",
+      "answer": 1.08571,
+      "answer_raw": "1.08571",
+      "program": "subtract(7.3, 3.5), divide(#0, 3.5)"
+    }
+  ]
+}

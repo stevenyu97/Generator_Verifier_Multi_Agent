@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "between december 2012 and december 2011 , what was the change in billions in the amount of securities borrowed?",
+      "answer": -9.22,
+      "answer_raw": "-9.22",
+      "program": "subtract(38.40, 47.62)"
+    }
+  ]
+}

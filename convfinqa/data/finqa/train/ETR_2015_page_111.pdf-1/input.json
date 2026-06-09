@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "ETR/2015/page_111.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries notes to financial statements the ferc proceedings that resulted from rate filings made in 2007 , 2008 , and 2009 have been resolved by various orders issued by the ferc and appellate courts .",
+      "see below for a discussion of rate filings since 2009 and the comprehensive recalculation filing directed by the ferc in the proceeding related to the 2010 rate filing .",
+      "2010 rate filing based on calendar year 2009 production costs in may 2010 , entergy filed with the ferc the 2010 rates in accordance with the ferc 2019s orders in the system agreement proceeding , and supplemented the filing in september 2010 .",
+      "several parties intervened in the proceeding at the ferc , including the lpsc and the city council , which also filed protests .",
+      "in july 2010 the ferc accepted entergy 2019s proposed rates for filing , effective june 1 , 2010 , subject to refund , and set the proceeding for hearing and settlement procedures .",
+      "settlement procedures have been terminated , and the alj scheduled hearings to begin in march 2011 .",
+      "subsequently , in january 2011 the alj issued an order directing the parties and ferc staff to show cause why this proceeding should not be stayed pending the issuance of ferc decisions in the prior production cost proceedings currently before the ferc on review .",
+      "in march 2011 the alj issued an order placing this proceeding in abeyance .",
+      "in october 2013 the ferc issued an order granting clarification and denying rehearing with respect to its october 2011 rehearing order in this proceeding .",
+      "the ferc clarified that in a bandwidth proceeding parties can challenge erroneous inputs , implementation errors , or prudence of cost inputs , but challenges to the bandwidth formula itself must be raised in a federal power act section 206 complaint or section 205 filing .",
+      "subsequently in october 2013 the presiding alj lifted the stay order holding in abeyance the hearing previously ordered by the ferc and directing that the remaining issues proceed to a hearing on the merits .",
+      "the hearing was held in march 2014 and the presiding alj issued an initial decision in september 2014 .",
+      "briefs on exception were filed in october 2014 .",
+      "in december 2015 the ferc issued an order affirming the initial decision in part and rejecting the initial decision in part .",
+      "among other things , the december 2015 order directs entergy services to submit a compliance filing , the results of which may affect the rough production cost equalization filings made for the june - december 2005 , 2006 , 2007 , and 2008 test periods .",
+      "in january 2016 the lpsc , the apsc , and entergy services filed requests for rehearing of the ferc 2019s december 2015 order .",
+      "in february 2016 , entergy services submitted the compliance filing ordered in the december 2015 order .",
+      "the result of the true-up payments and receipts for the recalculation of production costs resulted in the following payments/receipts among the utility operating companies : payments ( receipts ) ( in millions ) ."
+    ],
+    "post_text": [
+      "2011 rate filing based on calendar year 2010 production costs in may 2011 , entergy filed with the ferc the 2011 rates in accordance with the ferc 2019s orders in the system agreement proceeding .",
+      "several parties intervened in the proceeding at the ferc , including the lpsc , which also filed a protest .",
+      "in july 2011 the ferc accepted entergy 2019s proposed rates for filing , effective june 1 , 2011 , subject to refund , set the proceeding for hearing procedures , and then held those procedures in abeyance pending ferc decisions in the prior production cost proceedings currently before the ferc on review .",
+      "in january 2014 the lpsc filed a petition for a writ of mandamus at the united states court of appeals for the fifth circuit .",
+      "in its petition , the lpsc requested that the fifth circuit issue an order compelling the ferc to issue a final order in several proceedings related to the system agreement , including the 2011 rate filing based on calendar year 2010 production costs and the 2012 and 2013 rate filings discussed below .",
+      "in march 2014 the fifth circuit rejected the lpsc 2019s petition for a writ of mandamus .",
+      "in december 2014 the ferc rescinded its earlier abeyance order and consolidated the 2011 rate filing with the 2012 , 2013 ."
+    ],
+    "table": [
+      [
+        "",
+        "payments ( receipts ) ( in millions )"
+      ],
+      [
+        "entergy arkansas",
+        "$ 2"
+      ],
+      [
+        "entergy louisiana",
+        "$ 6"
+      ],
+      [
+        "entergy mississippi",
+        "( $ 4 )"
+      ],
+      [
+        "entergy new orleans",
+        "( $ 1 )"
+      ],
+      [
+        "entergy texas",
+        "( $ 3 )"
+      ]
+    ],
+    "questions": [
+      "what is the difference in payments between entergy louisiana and entergy arkansas , in millions?"
+    ]
+  }
+}

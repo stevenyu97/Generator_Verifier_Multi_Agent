@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "HWM/2018/page_67.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "arconic and subsidiaries notes to the consolidated financial statements ( dollars in millions , except per-share amounts ) a .",
+      "summary of significant accounting policies basis of presentation .",
+      "the consolidated financial statements of arconic inc .",
+      "and subsidiaries ( 201carconic 201d or the 201ccompany 201d ) are prepared in conformity with accounting principles generally accepted in the united states of america ( gaap ) and require management to make certain judgments , estimates , and assumptions .",
+      "these may affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements .",
+      "they also may affect the reported amounts of revenues and expenses during the reporting period .",
+      "actual results could differ from those estimates upon subsequent resolution of identified matters .",
+      "certain amounts in previously issued financial statements were reclassified to conform to the current period presentation ( see below and note c ) on january 1 , 2018 , arconic adopted new guidance issued by the financial accounting standards board ( fasb ) related to the following : presentation of net periodic pension cost and net periodic postretirement benefit cost that required a reclassification of costs within the statement of consolidated operations ; presentation of certain cash receipts and cash payments within the statement of consolidated cash flows that required a reclassification of amounts between operating and either financing or investing activities ; the classification of restricted cash within the statement of consolidated cash flows ; and the reclassification from accumulated other comprehensive loss to accumulated deficit in the consolidated balance sheet of stranded tax effects resulting from the tax cuts and jobs act enacted on december 22 , 2017 .",
+      "see recently adopted accounting guidance below for further details .",
+      "also on january 1 , 2018 , the company changed its primary measure of segment performance from adjusted earnings before interest , tax , depreciation and amortization ( 201cadjusted ebitda 201d ) to segment operating profit , which more closely aligns segment performance with operating income as presented in the statement of consolidated operations .",
+      "see note c for further details .",
+      "the separation of alcoa inc .",
+      "into two standalone , publicly-traded companies , arconic inc .",
+      "( the new name for alcoa inc. ) and alcoa corporation , became effective on november 1 , 2016 ( the 201cseparation transaction 201d ) .",
+      "the financial results of alcoa corporation for 2016 have been retrospectively reflected in the statement of consolidated operations as discontinued operations and , as such , have been excluded from continuing operations and segment results for 2016 .",
+      "the cash flows and comprehensive income related to alcoa corporation have not been segregated and are included in the statement of consolidated cash flows and statement of consolidated comprehensive income ( loss ) , respectively , for 2016 .",
+      "see note v for additional information related to the separation transaction and discontinued operations .",
+      "principles of consolidation .",
+      "the consolidated financial statements include the accounts of arconic and companies in which arconic has a controlling interest .",
+      "intercompany transactions have been eliminated .",
+      "investments in affiliates in which arconic cannot exercise significant influence are accounted for on the cost method .",
+      "management also evaluates whether an arconic entity or interest is a variable interest entity and whether arconic is the primary beneficiary .",
+      "consolidation is required if both of these criteria are met .",
+      "arconic does not have any variable interest entities requiring consolidation .",
+      "cash equivalents .",
+      "cash equivalents are highly liquid investments purchased with an original maturity of three months or less .",
+      "inventory valuation .",
+      "inventories are carried at the lower of cost and net realizable value , with cost for approximately half of u.s .",
+      "inventories determined under the last-in , first-out ( lifo ) method .",
+      "the cost of other inventories is determined under a combination of the first-in , first-out ( fifo ) and average-cost methods .",
+      "properties , plants , and equipment .",
+      "properties , plants , and equipment are recorded at cost .",
+      "depreciation is recorded principally on the straight-line method at rates based on the estimated useful lives of the assets .",
+      "the following table details the weighted-average useful lives of structures and machinery and equipment by reporting segment ( numbers in years ) : ."
+    ],
+    "post_text": [
+      "gains or losses from the sale of asset groups are generally recorded in restructuring and other charges while the sale of individual assets are recorded in other expense ( income ) , net ( see policy below for assets classified as held for sale and discontinued operations ) .",
+      "repairs and maintenance are charged to expense as incurred .",
+      "interest related to the construction of qualifying assets is capitalized as part of the construction costs. ."
+    ],
+    "table": [
+      [
+        "",
+        "structures",
+        "machinery and equipment"
+      ],
+      [
+        "engineered products and solutions",
+        "29",
+        "17"
+      ],
+      [
+        "global rolled products",
+        "31",
+        "21"
+      ],
+      [
+        "transportation and construction solutions",
+        "27",
+        "18"
+      ]
+    ],
+    "questions": [
+      "what is the difference between the weighted average useful lives of structures and machinery/equipment in the global rolled products segment , in years?"
+    ]
+  }
+}

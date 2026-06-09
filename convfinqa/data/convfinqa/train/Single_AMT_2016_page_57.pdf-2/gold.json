@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of new sites acquired and constructed during 2016 in us and asia?",
+      "answer": 43930.0,
+      "answer_raw": "43930.0",
+      "program": "add(65, 43865)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the sum including emea?",
+      "answer": 44595.0,
+      "answer_raw": "44595.0",
+      "program": "add(65, 43865), add(#0, 665)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the number of new sites in latin america?",
+      "answer": 715.0,
+      "answer_raw": "715.0",
+      "program": "715"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total sum?",
+      "answer": 45310.0,
+      "answer_raw": "45310.0",
+      "program": "add(65, 43865), add(#0, 665), add(#1, 715)"
+    }
+  ]
+}

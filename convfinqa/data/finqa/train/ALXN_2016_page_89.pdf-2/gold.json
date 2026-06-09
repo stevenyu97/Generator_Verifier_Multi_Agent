@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many square feet are leased by the company?",
+      "answer": 664000.0,
+      "answer_raw": "664000.0",
+      "program": "add(514000, 81000), add(#0, 69000)"
+    }
+  ]
+}

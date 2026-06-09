@@ -1,0 +1,86 @@
+{
+  "input": {
+    "id": "C/2018/page_190.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "investment strategy the company 2019s global pension and postretirement funds 2019 investment strategy is to invest in a prudent manner for the exclusive purpose of providing benefits to participants .",
+      "the investment strategies are targeted to produce a total return that , when combined with the company 2019s contributions to the funds , will maintain the funds 2019 ability to meet all required benefit obligations .",
+      "risk is controlled through diversification of asset types and investments in domestic and international equities , fixed income securities and cash and short-term investments .",
+      "the target asset allocation in most locations outside the u.s .",
+      "is primarily in equity and debt securities .",
+      "these allocations may vary by geographic region and country depending on the nature of applicable obligations and various other regional considerations .",
+      "the wide variation in the actual range of plan asset allocations for the funded non-u.s .",
+      "plans is a result of differing local statutory requirements and economic conditions .",
+      "for example , in certain countries local law requires that all pension plan assets must be invested in fixed income investments , government funds or local-country securities .",
+      "significant concentrations of risk in plan assets the assets of the company 2019s pension plans are diversified to limit the impact of any individual investment .",
+      "the u.s .",
+      "qualified pension plan is diversified across multiple asset classes , with publicly traded fixed income , hedge funds , publicly traded equity and real estate representing the most significant asset allocations .",
+      "investments in these four asset classes are further diversified across funds , managers , strategies , vintages , sectors and geographies , depending on the specific characteristics of each asset class .",
+      "the pension assets for the company 2019s non-u.s .",
+      "significant plans are primarily invested in publicly traded fixed income and publicly traded equity securities .",
+      "oversight and risk management practices the framework for the company 2019s pension oversight process includes monitoring of retirement plans by plan fiduciaries and/or management at the global , regional or country level , as appropriate .",
+      "independent risk management contributes to the risk oversight and monitoring for the company 2019s u.s .",
+      "qualified pension plan and non-u.s .",
+      "significant pension plans .",
+      "although the specific components of the oversight process are tailored to the requirements of each region , country and plan , the following elements are common to the company 2019s monitoring and risk management process : 2022 periodic asset/liability management studies and strategic asset allocation reviews ; 2022 periodic monitoring of funding levels and funding ratios ; 2022 periodic monitoring of compliance with asset allocation guidelines ; 2022 periodic monitoring of asset class and/or investment manager performance against benchmarks ; and 2022 periodic risk capital analysis and stress testing .",
+      "estimated future benefit payments the company expects to pay the following estimated benefit payments in future years: ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "in millions of dollars",
+        "pension plans u.s . plans",
+        "pension plans non-u.s . plans",
+        "pension plans u.s . plans",
+        "non-u.s . plans"
+      ],
+      [
+        "2019",
+        "$ 797",
+        "$ 435",
+        "$ 62",
+        "$ 70"
+      ],
+      [
+        "2020",
+        "828",
+        "417",
+        "62",
+        "75"
+      ],
+      [
+        "2021",
+        "847",
+        "426",
+        "61",
+        "80"
+      ],
+      [
+        "2022",
+        "857",
+        "448",
+        "59",
+        "86"
+      ],
+      [
+        "2023",
+        "873",
+        "471",
+        "57",
+        "92"
+      ],
+      [
+        "2024 20132028",
+        "4365",
+        "2557",
+        "252",
+        "547"
+      ]
+    ],
+    "questions": [
+      "what are total estimated future benefit payments in millions for 2020?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much of a greater return , in percentage , was gained in the s&p retail index compared to the tractor supply company?",
+      "answer": 0.9983,
+      "answer_raw": "0.9983",
+      "program": "subtract(217.01, 100.00), divide(#0, 100.00), subtract(117.18, 100), divide(#2, 100), subtract(#1, #3)"
+    }
+  ]
+}

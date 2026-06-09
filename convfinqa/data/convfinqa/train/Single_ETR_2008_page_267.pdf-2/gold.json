@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in revenue from 2006 to 2007?",
+      "answer": 36.1,
+      "answer_raw": "36.1",
+      "program": "subtract(1110.6, 1074.5)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what growth rate does this represent?",
+      "answer": 0.0336,
+      "answer_raw": "0.0336",
+      "program": "subtract(1110.6, 1074.5), divide(#0, 1074.5)"
+    }
+  ]
+}

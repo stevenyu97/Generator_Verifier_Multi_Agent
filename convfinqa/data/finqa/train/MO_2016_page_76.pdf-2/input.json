@@ -1,0 +1,91 @@
+{
+  "input": {
+    "id": "MO/2016/page_76.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "altria group , inc .",
+      "and subsidiaries notes to consolidated financial statements _________________________ may not be obtainable in all cases .",
+      "this risk has been substantially reduced given that 47 states and puerto rico limit the dollar amount of bonds or require no bond at all .",
+      "as discussed below , however , tobacco litigation plaintiffs have challenged the constitutionality of florida 2019s bond cap statute in several cases and plaintiffs may challenge state bond cap statutes in other jurisdictions as well .",
+      "such challenges may include the applicability of state bond caps in federal court .",
+      "states , including florida , may also seek to repeal or alter bond cap statutes through legislation .",
+      "although altria group , inc .",
+      "cannot predict the outcome of such challenges , it is possible that the consolidated results of operations , cash flows or financial position of altria group , inc. , or one or more of its subsidiaries , could be materially affected in a particular fiscal quarter or fiscal year by an unfavorable outcome of one or more such challenges .",
+      "altria group , inc .",
+      "and its subsidiaries record provisions in the consolidated financial statements for pending litigation when they determine that an unfavorable outcome is probable and the amount of the loss can be reasonably estimated .",
+      "at the present time , while it is reasonably possible that an unfavorable outcome in a case may occur , except to the extent discussed elsewhere in this note 19 .",
+      "contingencies : ( i ) management has concluded that it is not probable that a loss has been incurred in any of the pending tobacco-related cases ; ( ii ) management is unable to estimate the possible loss or range of loss that could result from an unfavorable outcome in any of the pending tobacco-related cases ; and ( iii ) accordingly , management has not provided any amounts in the consolidated financial statements for unfavorable outcomes , if any .",
+      "litigation defense costs are expensed as incurred .",
+      "altria group , inc .",
+      "and its subsidiaries have achieved substantial success in managing litigation .",
+      "nevertheless , litigation is subject to uncertainty and significant challenges remain .",
+      "it is possible that the consolidated results of operations , cash flows or financial position of altria group , inc. , or one or more of its subsidiaries , could be materially affected in a particular fiscal quarter or fiscal year by an unfavorable outcome or settlement of certain pending litigation .",
+      "altria group , inc .",
+      "and each of its subsidiaries named as a defendant believe , and each has been so advised by counsel handling the respective cases , that it has valid defenses to the litigation pending against it , as well as valid bases for appeal of adverse verdicts .",
+      "each of the companies has defended , and will continue to defend , vigorously against litigation challenges .",
+      "however , altria group , inc .",
+      "and its subsidiaries may enter into settlement discussions in particular cases if they believe it is in the best interests of altria group , inc .",
+      "to do so .",
+      "overview of altria group , inc .",
+      "and/or pm usa tobacco- related litigation types and number of cases : claims related to tobacco products generally fall within the following categories : ( i ) smoking and health cases alleging personal injury brought on behalf of individual plaintiffs ; ( ii ) smoking and health cases primarily alleging personal injury or seeking court-supervised programs for ongoing medical monitoring and purporting to be brought on behalf of a class of individual plaintiffs , including cases in which the aggregated claims of a number of individual plaintiffs are to be tried in a single proceeding ; ( iii ) health care cost recovery cases brought by governmental ( both domestic and foreign ) plaintiffs seeking reimbursement for health care expenditures allegedly caused by cigarette smoking and/or disgorgement of profits ; ( iv ) class action suits alleging that the uses of the terms 201clights 201d and 201cultra lights 201d constitute deceptive and unfair trade practices , common law or statutory fraud , unjust enrichment , breach of warranty or violations of the racketeer influenced and corrupt organizations act ( 201crico 201d ) ; and ( v ) other tobacco-related litigation described below .",
+      "plaintiffs 2019 theories of recovery and the defenses raised in pending smoking and health , health care cost recovery and 201clights/ultra lights 201d cases are discussed below .",
+      "the table below lists the number of certain tobacco-related cases pending in the united states against pm usa ( 1 ) and , in some instances , altria group , inc .",
+      "as of december 31 , 2016 , 2015 and 2014: ."
+    ],
+    "post_text": [
+      "( 1 ) does not include 25 cases filed on the asbestos docket in the circuit court for baltimore city , maryland , which seek to join pm usa and other cigarette- manufacturing defendants in complaints previously filed against asbestos companies .",
+      "( 2 ) does not include 2485 cases brought by flight attendants seeking compensatory damages for personal injuries allegedly caused by exposure to environmental tobacco smoke ( 201cets 201d ) .",
+      "the flight attendants allege that they are members of an ets smoking and health class action in florida , which was settled in 1997 ( broin ) .",
+      "the terms of the court-approved settlement in that case allowed class members to file individual lawsuits seeking compensatory damages , but prohibited them from seeking punitive damages .",
+      "also , does not include individual smoking and health cases brought by or on behalf of plaintiffs in florida state and federal courts following the decertification of the engle case ( discussed below in smoking and health litigation - engle class action ) .",
+      "( 3 ) includes as one case the 600 civil actions ( of which 344 were actions against pm usa ) that were to be tried in a single proceeding in west virginia ( in re : tobacco litigation ) .",
+      "the west virginia supreme court of appeals ruled that the united states constitution did not preclude a trial in two phases in this case .",
+      "issues related to defendants 2019 conduct and whether punitive damages are permissible were tried in the first phase .",
+      "trial in the first phase of this case began in april 2013 .",
+      "in may 2013 , the jury returned a verdict in favor of defendants on the claims for design defect , negligence , failure to warn , breach of warranty , and concealment and declined to find that the defendants 2019 conduct warranted punitive damages .",
+      "plaintiffs prevailed on their claim that ventilated filter cigarettes should have included use instructions for the period 1964 - 1969 .",
+      "the second phase will consist of trials to determine liability and compensatory damages .",
+      "in november 2014 , the west virginia supreme court of appeals affirmed the final judgment .",
+      "in july 2015 , the trial court entered an order that will result in the entry of final judgment in favor of defendants and against all but 30 plaintiffs who potentially have a claim against one or more defendants that may be pursued in a second phase of trial .",
+      "the court intends to try the claims of these 30 plaintiffs in six consolidated trials , each with a group of five plaintiffs .",
+      "the first trial is currently scheduled to begin may 1 , 2018 .",
+      "dates for the five remaining consolidated trials have not been scheduled .",
+      "( 4 ) see health care cost recovery litigation - federal government 2019s lawsuit below. ."
+    ],
+    "table": [
+      [
+        "",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "individual smoking and health cases ( 2 )",
+        "70",
+        "65",
+        "67"
+      ],
+      [
+        "smoking and health class actions and aggregated claims litigation ( 3 )",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "health care cost recovery actions ( 4 )",
+        "1",
+        "1",
+        "1"
+      ],
+      [
+        "201clights/ultra lights 201d class actions",
+        "8",
+        "11",
+        "12"
+      ]
+    ],
+    "questions": [
+      "what are the total number of pending tobacco-related cases in united states in 2014?"
+    ]
+  }
+}

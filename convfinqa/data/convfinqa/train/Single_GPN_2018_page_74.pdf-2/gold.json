@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of cash and cash equivalents as of 12/31/18?",
+      "answer": 7540.0,
+      "answer_raw": "7540.0",
+      "program": "7540"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for property and equipment?",
+      "answer": 5943.0,
+      "answer_raw": "5943.0",
+      "program": "5943"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combined, what was the total value?",
+      "answer": 13483.0,
+      "answer_raw": "13483.0",
+      "program": "add(7540, 5943)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the value for identified intangible assets?",
+      "answer": 188294.0,
+      "answer_raw": "188294.0",
+      "program": "188294"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "combined, what was the value of all three asset?",
+      "answer": 201777.0,
+      "answer_raw": "201777.0",
+      "program": "add(7540, 5943), add(#0, 188294)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and the total including other assets?",
+      "answer": 224055.0,
+      "answer_raw": "224055.0",
+      "program": "add(7540, 5943), add(#0, 188294), add(#1, 22278)"
+    }
+  ]
+}

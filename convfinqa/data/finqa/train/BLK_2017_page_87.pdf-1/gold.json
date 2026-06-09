@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total increase from acquisitions and unrealized allocations ? in millions $ .",
+      "answer": 125.0,
+      "answer_raw": "125.0",
+      "program": "add(75, 37), add(13, #0)"
+    }
+  ]
+}

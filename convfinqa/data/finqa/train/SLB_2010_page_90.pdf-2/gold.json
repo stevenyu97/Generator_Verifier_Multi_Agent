@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase in the allowance in doubtful accounts from 2009 to 2010",
+      "answer": 0.15625,
+      "answer_raw": "0.15625",
+      "program": "subtract(185, 160), divide(#0, 160)"
+    }
+  ]
+}

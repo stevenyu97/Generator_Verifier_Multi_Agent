@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was non-interest expense as a percentage of revenue in 2002?",
+      "answer": 0.76869,
+      "answer_raw": "0.76869",
+      "program": "divide(22764, 29614)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent of the company 2019s operating leases that would be due after 2022 as part of the net commitments",
+      "answer": 0.26685,
+      "answer_raw": "0.26685",
+      "program": "divide(24668, 92440)"
+    }
+  ]
+}

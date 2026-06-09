@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the total operating expenses for aeronautics in 2010?",
+      "answer": 11733.0,
+      "answer_raw": "11733.0",
+      "program": "subtract(13235, 1502)"
+    }
+  ]
+}

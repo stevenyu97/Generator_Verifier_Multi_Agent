@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the capital and statutory surplus from 2005 to 2006?",
+      "answer": 376.5,
+      "answer_raw": "376.5",
+      "program": "subtract(2704.1, 2327.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to that capital and statutory surplus in 2005, in percentage?",
+      "answer": 0.16175,
+      "answer_raw": "0.16175",
+      "program": "subtract(2704.1, 2327.6), divide(#0, 2327.6)"
+    }
+  ]
+}

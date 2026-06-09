@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the increase in level 3 liabilities between december 31 2009 and december 31 2008 , in millions?",
+      "answer": 273.0,
+      "answer_raw": "273.0",
+      "program": "subtract(295, 22)"
+    }
+  ]
+}

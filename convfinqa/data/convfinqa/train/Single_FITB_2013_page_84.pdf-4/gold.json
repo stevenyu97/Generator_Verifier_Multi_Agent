@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many shares were authorized to repurchase?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the number time 1000000?",
+      "answer": 100000000.0,
+      "answer_raw": "100000000.0",
+      "program": "multiply(100, const_1000000)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how many shares were purchased in the accelerated share repurchase transaction with a counter party?",
+      "answer": 25035519.0,
+      "answer_raw": "25035519.0",
+      "program": "25035519"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is that divided by the total authorized shares?",
+      "answer": 0.25036,
+      "answer_raw": "0.25036",
+      "program": "multiply(100, const_1000000), divide(25035519, #0)"
+    }
+  ]
+}

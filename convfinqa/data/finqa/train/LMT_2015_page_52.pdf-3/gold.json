@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the increase net sales to the increased volume of sales for the f-35 production contracts in 2015\\\\n\\\\n",
+      "answer": 464.28571,
+      "answer_raw": "464.28571",
+      "program": "divide(650, 1.4)"
+    }
+  ]
+}

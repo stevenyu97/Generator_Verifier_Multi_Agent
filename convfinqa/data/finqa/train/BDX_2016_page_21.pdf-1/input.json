@@ -1,0 +1,80 @@
+{
+  "input": {
+    "id": "BDX/2016/page_21.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the agreements that govern the indebtedness incurred or assumed in connection with the acquisition contain various covenants that impose restrictions on us and certain of our subsidiaries that may affect our ability to operate our businesses .",
+      "the agreements that govern the indebtedness incurred or assumed in connection with the carefusion transaction contain various affirmative and negative covenants that may , subject to certain significant exceptions , restrict our ability and the ability of certain of our subsidiaries ( including carefusion ) to , among other things , have liens on their property , transact business with affiliates and/or merge or consolidate with any other person or sell or convey certain of our assets to any one person .",
+      "in addition , some of the agreements that govern our indebtedness contain financial covenants that will require us to maintain certain financial ratios .",
+      "our ability and the ability of our subsidiaries to comply with these provisions may be affected by events beyond our control .",
+      "failure to comply with these covenants could result in an event of default , which , if not cured or waived , could accelerate our repayment obligations .",
+      "item 1b .",
+      "unresolved staff comments .",
+      "item 2 .",
+      "properties .",
+      "bd 2019s executive offices are located in franklin lakes , new jersey .",
+      "as of october 31 , 2016 , bd owned or leased 255 facilities throughout the world , comprising approximately 19796011 square feet of manufacturing , warehousing , administrative and research facilities .",
+      "the u.s .",
+      "facilities , including those in puerto rico , comprise approximately 7459856 square feet of owned and 2923257 square feet of leased space .",
+      "the international facilities comprise approximately 7189652 square feet of owned and 2223245 square feet of leased space .",
+      "sales offices and distribution centers included in the total square footage are also located throughout the world .",
+      "operations in each of bd 2019s business segments are conducted at both u.s .",
+      "and international locations .",
+      "particularly in the international marketplace , facilities often serve more than one business segment and are used for multiple purposes , such as administrative/sales , manufacturing and/or warehousing/distribution .",
+      "bd generally seeks to own its manufacturing facilities , although some are leased .",
+      "the following table summarizes property information by business segment. ."
+    ],
+    "post_text": [
+      "( a ) facilities used by more than one business segment .",
+      "bd believes that its facilities are of good construction and in good physical condition , are suitable and adequate for the operations conducted at those facilities , and are , with minor exceptions , fully utilized and operating at normal capacity .",
+      "the u.s .",
+      "facilities are located in alabama , arizona , california , connecticut , florida , georgia , illinois , indiana , maryland , massachusetts , michigan , nebraska , new jersey , north carolina , ohio , oklahoma , south carolina , texas , utah , virginia , washington , d.c. , washington , wisconsin and puerto rico .",
+      "the international facilities are as follows : - europe , middle east , africa , which includes facilities in austria , belgium , bosnia and herzegovina , the czech republic , denmark , england , finland , france , germany , ghana , hungary , ireland , italy , kenya , luxembourg , netherlands , norway , poland , portugal , russia , saudi arabia , south africa , spain , sweden , switzerland , turkey , the united arab emirates and zambia. ."
+    ],
+    "table": [
+      [
+        "sites",
+        "corporate",
+        "bd life sciences",
+        "bd medical",
+        "mixed ( a )",
+        "total"
+      ],
+      [
+        "leased",
+        "11",
+        "19",
+        "75",
+        "92",
+        "195"
+      ],
+      [
+        "owned",
+        "3",
+        "15",
+        "31",
+        "121",
+        "60"
+      ],
+      [
+        "total",
+        "14",
+        "34",
+        "106",
+        "103",
+        "255"
+      ],
+      [
+        "square feet",
+        "1425720",
+        "4337963",
+        "9891908",
+        "4140420",
+        "19796011"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the total international facilities square feet of owned by bd"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of minimum annual future rental commitment under operating leases that have initial or remaining non-cancelable lease terms is payable in 2022?",
+      "answer": 123.0,
+      "answer_raw": "123.0",
+      "program": "add(15, 14), add(12, 9), add(#1, #0), add(8, 65), add(#2, #3)"
+    }
+  ]
+}

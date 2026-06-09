@@ -1,0 +1,56 @@
+{
+  "input": {
+    "id": "HUM/2007/page_18.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "we participate in a medicare health support pilot program through green ribbon health , or grh , a joint- venture company with pfizer health solutions inc .",
+      "grh is designed to support medicare beneficiaries living with diabetes and/or congestive heart failure in central florida .",
+      "grh uses disease management initiatives including evidence-based clinical guidelines , personal self-directed change strategies , and personal nurses to help participants navigate the health system .",
+      "revenues under the contract with cms , which expires october 31 , 2008 unless terminated earlier , are subject to refund unless a savings target is met .",
+      "to date , all revenues have been deferred until reliable estimates are determinable .",
+      "our products marketed to commercial segment employers and members smart plans and other consumer products over the last several years , we have developed and offered various commercial products designed to provide options and choices to employers that are annually facing substantial premium increases driven by double-digit medical cost inflation .",
+      "these smart plans , discussed more fully below , and other consumer offerings , which can be offered on either a fully-insured or aso basis , provided coverage to approximately 564700 members at december 31 , 2007 , representing approximately 16.4% ( 16.4 % ) of our total commercial medical membership as detailed below .",
+      "smart plans and other consumer membership other commercial membership commercial medical membership ."
+    ],
+    "post_text": [
+      "these products are often offered to employer groups as 201cbundles 201d , where the subscribers are offered various hmo and ppo options , with various employer contribution strategies as determined by the employer .",
+      "paramount to our product strategy , we have developed a group of innovative consumer products , styled as 201csmart 201d products , that we believe will be a long-term solution for employers .",
+      "we believe this new generation of products provides more ( 1 ) choices for the individual consumer , ( 2 ) transparency of provider costs , and ( 3 ) benefit designs that engage consumers in the costs and effectiveness of health care choices .",
+      "innovative tools and technology are available to assist consumers with these decisions , including the trade-offs between higher premiums and point-of-service costs at the time consumers choose their plans , and to suggest ways in which the consumers can maximize their individual benefits at the point they use their plans .",
+      "we believe that when consumers can make informed choices about the cost and effectiveness of their health care , a sustainable long term solution for employers can be realized .",
+      "smart products , which accounted for approximately 55% ( 55 % ) of enrollment in all of our consumer-choice plans as of december 31 , 2007 , are only sold to employers who use humana as their sole health insurance carrier .",
+      "some employers have selected other types of consumer-choice products , such as , ( 1 ) a product with a high deductible , ( 2 ) a catastrophic coverage plan , or ( 3 ) ones that offer a spending account option in conjunction with more traditional medical coverage or as a stand alone plan .",
+      "unlike our smart products , these products , while valuable in helping employers deal with near-term cost increases by shifting costs to employees , are not considered by us to be long-term comprehensive solutions to the employers 2019 cost dilemma , although we view them as an important interim step .",
+      "our commercial hmo products provide prepaid health insurance coverage to our members through a network of independent primary care physicians , specialty physicians , and other health care providers who ."
+    ],
+    "table": [
+      [
+        "",
+        "smart plans and other consumer membership",
+        "other commercial membership",
+        "commercial medical membership"
+      ],
+      [
+        "fully-insured",
+        "327900",
+        "1480700",
+        "1808600"
+      ],
+      [
+        "aso",
+        "236800",
+        "1406200",
+        "1643000"
+      ],
+      [
+        "total commercial medical",
+        "564700",
+        "2886900",
+        "3451600"
+      ]
+    ],
+    "questions": [
+      "considering the smart plans and other consumer membership , what is the percentage of the fully insured among the total commercial medical plans?"
+    ]
+  }
+}

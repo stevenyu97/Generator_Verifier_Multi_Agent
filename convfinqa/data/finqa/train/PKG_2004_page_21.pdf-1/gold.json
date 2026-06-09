@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was interest expense net in 2004 greater than ( provision ) benefit for income taxes?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(-29.6, -42.2)"
+    }
+  ]
+}

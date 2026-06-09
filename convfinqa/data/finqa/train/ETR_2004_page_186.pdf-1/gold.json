@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were are the deferred fuel costs as a percentage of the total fuel write-offs in 2002?",
+      "answer": 0.5817,
+      "answer_raw": "0.5817",
+      "program": "divide(8.9, 15.3)"
+    }
+  ]
+}

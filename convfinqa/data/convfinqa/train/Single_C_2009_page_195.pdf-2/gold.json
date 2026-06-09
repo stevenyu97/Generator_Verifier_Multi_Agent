@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in value of allowance for loan losses from 2007 to 2008?",
+      "answer": 7177.0,
+      "answer_raw": "7177.0",
+      "program": "subtract(16117, 8940)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage change does this represent?",
+      "answer": 0.8028,
+      "answer_raw": "0.8028",
+      "program": "subtract(16117, 8940), divide(#0, 8940)"
+    }
+  ]
+}

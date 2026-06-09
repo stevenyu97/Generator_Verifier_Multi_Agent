@@ -1,0 +1,53 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the additions in 2005 to the ones in 2004?",
+      "answer": 1.01339,
+      "answer_raw": "1.01339",
+      "program": "divide(83656, 82551)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the difference between this value and the number one?",
+      "answer": 0.01339,
+      "answer_raw": "0.01339",
+      "program": "divide(83656, 82551), subtract(#0, const_1)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and in the previous year of this period, what was the total of deductions?",
+      "answer": 1390.0,
+      "answer_raw": "1390.0",
+      "program": "1390"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was it in 2004?",
+      "answer": 15244.0,
+      "answer_raw": "15244.0",
+      "program": "15244"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what was, then, the combined total for both years?",
+      "answer": 16634.0,
+      "answer_raw": "16634.0",
+      "program": "add(1390, 15244)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "including 2006, what becomes this total?",
+      "answer": 29441.0,
+      "answer_raw": "29441.0",
+      "program": "add(1390, 15244), add(#0, 12807)"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "and what were the average deductions between the three years?",
+      "answer": 9813.66667,
+      "answer_raw": "9813.66667",
+      "program": "add(1390, 15244), add(#0, 12807), divide(#1, const_3)"
+    }
+  ]
+}

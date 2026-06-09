@@ -1,0 +1,99 @@
+{
+  "input": {
+    "id": "EMN/2006/page_108.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "eastman notes to the audited consolidated financial statements accumulated other comprehensive income ( loss ) ( dollars in millions ) cumulative translation adjustment unfunded additional minimum pension liability unrecognized loss and prior service cost , net of unrealized gains ( losses ) on cash flow hedges unrealized losses on investments accumulated comprehensive income ( loss ) balance at december 31 , 2004 155 ( 248 ) -- ( 8 ) ( 2 ) ( 103 ) ."
+    ],
+    "post_text": [
+      "pre-sfas no .",
+      "158 balance at december 31 , 2006 121 ( 207 ) -- ( 6 ) ( 1 ) ( 93 ) adjustments to apply sfas no .",
+      "158 -- 207 ( 288 ) -- -- ( 81 ) balance at december 31 , 2006 121 -- ( 288 ) ( 6 ) ( 1 ) ( 174 ) except for cumulative translation adjustment , amounts of other comprehensive income ( loss ) are presented net of applicable taxes .",
+      "because cumulative translation adjustment is considered a component of permanently invested , unremitted earnings of subsidiaries outside the united states , no taxes are provided on such amounts .",
+      "15 .",
+      "share-based compensation plans and awards 2002 omnibus long-term compensation plan eastman's 2002 omnibus long-term compensation plan provides for grants to employees of nonqualified stock options , incentive stock options , tandem and freestanding stock appreciation rights ( 201csar 2019s 201d ) , performance shares and various other stock and stock-based awards .",
+      "the 2002 omnibus plan provides that options can be granted through may 2 , 2007 , for the purchase of eastman common stock at an option price not less than 100 percent of the per share fair market value on the date of the stock option's grant .",
+      "there is a maximum of 7.5 million shares of common stock available for option grants and other awards during the term of the 2002 omnibus plan .",
+      "director long-term compensation plan eastman's 2002 director long-term compensation plan provides for grants of nonqualified stock options and restricted shares to nonemployee members of the board of directors .",
+      "shares of restricted stock are granted upon the first day of the directors' initial term of service and nonqualified stock options and shares of restricted stock are granted each year following the annual meeting of stockholders .",
+      "the 2002 director plan provides that options can be granted through the later of may 1 , 2007 , or the date of the annual meeting of stockholders in 2007 for the purchase of eastman common stock at an option price not less than the stock's fair market value on the date of the grant. ."
+    ],
+    "table": [
+      [
+        "( dollars in millions )",
+        "cumulative translation adjustment$",
+        "unfundedadditionalminimum pension liability$",
+        "unrecognized loss and prior service cost net of taxes$",
+        "unrealized gains ( losses ) on cash flow hedges$",
+        "unrealized losses on investments$",
+        "accumulated other comprehensive income ( loss ) $"
+      ],
+      [
+        "balance at december 31 2004",
+        "155",
+        "-248 ( 248 )",
+        "--",
+        "-8 ( 8 )",
+        "-2 ( 2 )",
+        "-103 ( 103 )"
+      ],
+      [
+        "period change",
+        "-94 ( 94 )",
+        "-7 ( 7 )",
+        "--",
+        "3",
+        "1",
+        "-97 ( 97 )"
+      ],
+      [
+        "balance at december 31 2005",
+        "61",
+        "-255 ( 255 )",
+        "--",
+        "-5 ( 5 )",
+        "-1 ( 1 )",
+        "-200 ( 200 )"
+      ],
+      [
+        "period change",
+        "60",
+        "48",
+        "--",
+        "-1 ( 1 )",
+        "--",
+        "107"
+      ],
+      [
+        "pre-sfas no . 158 balance at december 31 2006",
+        "121",
+        "-207 ( 207 )",
+        "--",
+        "-6 ( 6 )",
+        "-1 ( 1 )",
+        "-93 ( 93 )"
+      ],
+      [
+        "adjustments to apply sfas no . 158",
+        "--",
+        "207",
+        "-288 ( 288 )",
+        "--",
+        "--",
+        "-81 ( 81 )"
+      ],
+      [
+        "balance at december 31 2006",
+        "121",
+        "--",
+        "-288 ( 288 )",
+        "-6 ( 6 )",
+        "-1 ( 1 )",
+        "-174 ( 174 )"
+      ]
+    ],
+    "questions": [
+      "what is the percent change in cumulative translation adjustment between 2005 and 2006?"
+    ]
+  }
+}

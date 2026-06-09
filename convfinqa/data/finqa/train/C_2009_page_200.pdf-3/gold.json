@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the long-term debt junior subordinated debt and at december 31 , 2009 compared to december 31 , 2008",
+      "answer": 0.80403,
+      "answer_raw": "0.80403",
+      "program": "divide(19345, 24060)"
+    }
+  ]
+}

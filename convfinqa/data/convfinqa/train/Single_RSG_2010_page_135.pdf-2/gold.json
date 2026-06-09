@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the weighted-average estimated fair values of stock options granted from 2009 to 2010?",
+      "answer": 1.49,
+      "answer_raw": "1.49",
+      "program": "subtract(5.28, 3.79)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to those estimated fair values in 2009, in percentage?",
+      "answer": 0.39314,
+      "answer_raw": "0.39314",
+      "program": "subtract(5.28, 3.79), divide(#0, 3.79)"
+    }
+  ]
+}

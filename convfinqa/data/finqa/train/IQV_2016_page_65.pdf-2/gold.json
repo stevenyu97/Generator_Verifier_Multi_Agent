@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent increase in selling and administrative expenses from 2015 to 2016?",
+      "answer": 0.24049,
+      "answer_raw": "0.24049",
+      "program": "subtract(1011, 815), divide(#0, 815)"
+    }
+  ]
+}

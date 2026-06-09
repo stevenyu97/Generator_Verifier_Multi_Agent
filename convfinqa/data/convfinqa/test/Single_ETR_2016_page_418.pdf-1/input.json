@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "Single_ETR/2016/page_418.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "entergy texas , inc .",
+      "and subsidiaries management 2019s financial discussion and analysis results of operations net income 2016 compared to 2015 net income increased $ 37.9 million primarily due to lower other operation and maintenance expenses , the asset write-off of its receivable associated with the spindletop gas storage facility in 2015 , and higher net revenue .",
+      "2015 compared to 2014 net income decreased $ 5.2 million primarily due to the asset write-off of its receivable associated with the spindletop gas storage facility and higher other operation and maintenance expenses , partially offset by higher net revenue and a lower effective tax rate .",
+      "net revenue 2016 compared to 2015 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory charges .",
+      "following is an analysis of the change in net revenue comparing 2016 to 2015 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the reserve equalization variance is primarily due to a reduction in reserve equalization expense primarily due to changes in the entergy system generation mix compared to the same period in 2015 as a result of the execution of a new purchased power agreement and entergy mississippi 2019s exit from the system agreement , each in november 2015 , and entergy texas 2019s exit from the system agreement in august 2016 .",
+      "see note 2 to the financial statements for a discussion of the system agreement .",
+      "the purchased power capacity variance is primarily due to decreased expenses due to the termination of the purchased power agreements between entergy louisiana and entergy texas in august 2016 , as well as capacity cost changes for ongoing purchased power capacity contracts .",
+      "the transmission revenue variance is primarily due to an increase in attachment o rates charged by miso to transmission customers and a settlement of attachment o rates previously billed to transmission customers by miso. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2015 net revenue",
+        "$ 637.2"
+      ],
+      [
+        "reserve equalization",
+        "14.3"
+      ],
+      [
+        "purchased power capacity",
+        "12.4"
+      ],
+      [
+        "transmission revenue",
+        "7.0"
+      ],
+      [
+        "retail electric price",
+        "5.4"
+      ],
+      [
+        "net wholesale",
+        "-27.8 ( 27.8 )"
+      ],
+      [
+        "other",
+        "-4.3 ( 4.3 )"
+      ],
+      [
+        "2016 net revenue",
+        "$ 644.2"
+      ]
+    ],
+    "questions": [
+      "what was the total value of both the reserve equalization and the purchased power capacity as a change in net revenue from 2015 to 2016, in millions?",
+      "including the transmission revenue, what then becomes that total value?"
+    ]
+  }
+}

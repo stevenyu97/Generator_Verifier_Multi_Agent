@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase of capital expenditures for operations in the industrial packaging business segment in from 2017 to 2018?",
+      "answer": 0.26914,
+      "answer_raw": "0.26914",
+      "program": "subtract(1061, 836), divide(#0, 836)"
+    }
+  ]
+}

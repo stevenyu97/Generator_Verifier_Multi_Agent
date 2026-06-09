@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in connection with tax matters , what was the increase in recognized interest expense between 2012 and 2011?",
+      "answer": 0.0,
+      "answer_raw": "0.0",
+      "program": "subtract(140, 140)"
+    }
+  ]
+}

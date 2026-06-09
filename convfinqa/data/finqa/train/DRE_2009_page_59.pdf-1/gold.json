@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "of the total real estate investments what was the percent of operating rental properties",
+      "answer": 0.96439,
+      "answer_raw": "0.96439",
+      "program": "divide(176038, 182538)"
+    }
+  ]
+}

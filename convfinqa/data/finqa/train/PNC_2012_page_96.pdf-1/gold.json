@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is average estimated pretax pension expense for 2013 and 2012?",
+      "answer": 81.0,
+      "answer_raw": "81.0",
+      "program": "add(73, 89), divide(#0, const_2)"
+    }
+  ]
+}

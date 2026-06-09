@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did pretax income from discontinued operations decrease from 2007 to 2009?",
+      "answer": -0.7153,
+      "answer_raw": "-0.7153",
+      "program": "subtract(80, 281), divide(#0, 281)"
+    }
+  ]
+}

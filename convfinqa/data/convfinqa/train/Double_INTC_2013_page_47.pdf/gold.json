@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "from 2011 to 2012, what was the change in the net cash provided by operating activities?",
+      "answer": -2079.0,
+      "answer_raw": "-2079.0",
+      "program": "subtract(18884, 20963)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this change as a percentage of that net cash in 2011?",
+      "answer": -0.09917,
+      "answer_raw": "-0.09917",
+      "program": "subtract(18884, 20963), divide(#0, 20963)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and over the subsequent year of this period, what was the change in that net cash?",
+      "answer": 19.0,
+      "answer_raw": "19.0",
+      "program": "19"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what percentage did this change represent in relation to the 2012 net cash?",
+      "answer": 0.00101,
+      "answer_raw": "0.00101",
+      "program": "divide(19, 18884)"
+    }
+  ]
+}

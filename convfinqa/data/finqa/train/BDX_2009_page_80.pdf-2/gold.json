@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2009 what was the ratio of the 3 granted to the sum of the distributed and forfeited or canceled shares",
+      "answer": 1.28343,
+      "answer_raw": "1.28343",
+      "program": "add(165211, 316839), divide(618679, #0)"
+    }
+  ]
+}

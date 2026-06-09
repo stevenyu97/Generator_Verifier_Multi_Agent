@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 312012 what was the outstanding amount of share repurchase authorized in billions?",
+      "answer": 0.88,
+      "answer_raw": "0.88",
+      "program": "subtract(const_8, 7.12)"
+    }
+  ]
+}

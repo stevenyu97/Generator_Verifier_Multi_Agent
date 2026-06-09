@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "ALLE/2016/page_116.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the following table summarizes the weighted-average number of ordinary shares outstanding for basic and diluted earnings per share calculations. ."
+    ],
+    "post_text": [
+      "at december 31 , 2016 , 0.6 million stock options were excluded from the computation of weighted average diluted shares outstanding because the effect of including these shares would have been anti-dilutive .",
+      "note 21 2013 commitments and contingencies the company is involved in various litigations , claims and administrative proceedings , including those related to environmental and product warranty matters .",
+      "amounts recorded for identified contingent liabilities are estimates , which are reviewed periodically and adjusted to reflect additional information when it becomes available .",
+      "subject to the uncertainties inherent in estimating future costs for contingent liabilities , except as expressly set forth in this note , management believes that any liability which may result from these legal matters would not have a material adverse effect on the financial condition , results of operations , liquidity or cash flows of the company .",
+      "environmental matters the company is dedicated to an environmental program to reduce the utilization and generation of hazardous materials during the manufacturing process and to remediate identified environmental concerns .",
+      "as to the latter , the company is currently engaged in site investigations and remediation activities to address environmental cleanup from past operations at current and former production facilities .",
+      "the company regularly evaluates its remediation programs and considers alternative remediation methods that are in addition to , or in replacement of , those currently utilized by the company based upon enhanced technology and regulatory changes .",
+      "changes to the company's remediation programs may result in increased expenses and increased environmental reserves .",
+      "the company is sometimes a party to environmental lawsuits and claims and has received notices of potential violations of environmental laws and regulations from the u.s .",
+      "environmental protection agency and similar state authorities .",
+      "it has also been identified as a potentially responsible party ( \"prp\" ) for cleanup costs associated with off-site waste disposal at federal superfund and state remediation sites .",
+      "for all such sites , there are other prps and , in most instances , the company 2019s involvement is minimal .",
+      "in estimating its liability , the company has assumed it will not bear the entire cost of remediation of any site to the exclusion of other prps who may be jointly and severally liable .",
+      "the ability of other prps to participate has been taken into account , based on our understanding of the parties 2019 financial condition and probable contributions on a per site basis .",
+      "additional lawsuits and claims involving environmental matters are likely to arise from time to time in the future .",
+      "the company incurred $ 23.3 million , $ 4.4 million , and $ 2.9 million of expenses during the years ended december 31 , 2016 , 2015 and 2014 , respectively , for environmental remediation at sites presently or formerly owned or leased by the company .",
+      "in the fourth-quarter of 2016 , with the collaboration and approval of state regulators , the company launched a proactive , alternative approach to remediate two sites in the united states .",
+      "this approach will allow the company to more aggressively address environmental conditions at these sites and reduce the impact of potential changes in regulatory requirements .",
+      "as a result , the company recorded a $ 15 million charge for environmental remediation in the fourth quarter .",
+      "environmental remediation costs are recorded in costs of goods sold within the consolidated statements of comprehensive income .",
+      "as of december 31 , 2016 and 2015 , the company has recorded reserves for environmental matters of $ 30.6 million and $ 15.2 million .",
+      "the total reserve at december 31 , 2016 and 2015 included $ 9.6 million and $ 2.8 million related to remediation of sites previously disposed by the company .",
+      "environmental reserves are classified as accrued expenses and other current liabilities or other noncurrent liabilities based on their expected term .",
+      "the company's total current environmental reserve at december 31 , 2016 and 2015 was $ 6.1 million and $ 3.7 million and the remainder is classified as noncurrent .",
+      "given the evolving nature of environmental laws , regulations and technology , the ultimate cost of future compliance is uncertain .",
+      "warranty liability standard product warranty accruals are recorded at the time of sale and are estimated based upon product warranty terms and historical experience .",
+      "the company assesses the adequacy of its liabilities and will make adjustments as necessary based on known or anticipated warranty claims , or as new information becomes available. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "weighted-average number of basic shares",
+        "95.8",
+        "95.9",
+        "96.1"
+      ],
+      [
+        "shares issuable under incentive stock plans",
+        "1.1",
+        "1.0",
+        "1.1"
+      ],
+      [
+        "weighted-average number of diluted shares",
+        "96.9",
+        "96.9",
+        "97.2"
+      ]
+    ],
+    "questions": [
+      "considering the years 2014-2016 , what is the average number of shares issuable under incentive stock plans , in millions?"
+    ]
+  }
+}

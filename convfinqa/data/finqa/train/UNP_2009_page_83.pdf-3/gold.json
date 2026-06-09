@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in accrued wages and vacation in millions from 2008 to 2009?",
+      "answer": 0.92371,
+      "answer_raw": "0.92371",
+      "program": "divide(339, 367)"
+    }
+  ]
+}

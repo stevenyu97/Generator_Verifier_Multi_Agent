@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at what tax rate was stock-based compensation being taxed at during the years 2015 , 2016 and 2017?",
+      "answer": -0.36364,
+      "answer_raw": "-0.36364",
+      "program": "divide(-4, 11)"
+    }
+  ]
+}

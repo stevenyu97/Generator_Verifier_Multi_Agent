@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent of the residential vehicles as part of the fleet",
+      "answer": 0.48101,
+      "answer_raw": "0.48101",
+      "program": "divide(7600, 15800)"
+    }
+  ]
+}

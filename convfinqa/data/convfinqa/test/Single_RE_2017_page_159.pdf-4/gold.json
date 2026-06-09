@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the balance of the prudential insurance company of america from 2016 to 2017?",
+      "answer": -1889.0,
+      "answer_raw": "-1889.0",
+      "program": "subtract(144618, 146507)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to that balance in 2016, in percentage?",
+      "answer": -0.01289,
+      "answer_raw": "-0.01289",
+      "program": "subtract(144618, 146507), divide(#0, 146507)"
+    }
+  ]
+}

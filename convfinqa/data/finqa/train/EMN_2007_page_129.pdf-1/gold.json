@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2007 what was the percent of the shared based compensation associated with stock options",
+      "answer": 0.5,
+      "answer_raw": "0.5",
+      "program": "divide(13, 26)"
+    }
+  ]
+}

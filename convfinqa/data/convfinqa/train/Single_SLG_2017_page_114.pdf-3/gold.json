@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of pension plans for 2017?",
+      "answer": 3856.0,
+      "answer_raw": "3856.0",
+      "program": "3856"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and total plan contributions for that year?",
+      "answer": 16745.0,
+      "answer_raw": "16745.0",
+      "program": "16745"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the percentage of pension plan contributions out of the total?",
+      "answer": 0.23028,
+      "answer_raw": "0.23028",
+      "program": "divide(3856, 16745)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and converted to a percentage value?",
+      "answer": 23.02777,
+      "answer_raw": "23.02777",
+      "program": "divide(3856, 16745), multiply(#0, const_100)"
+    }
+  ]
+}

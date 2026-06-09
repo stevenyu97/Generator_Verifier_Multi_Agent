@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2013 , what was the balance in the investment securities portfolio without htm securities , in us$ b?",
+      "answer": 323.562,
+      "answer_raw": "323.562",
+      "program": "divide(347562, const_1000), subtract(#0, 24.0)"
+    }
+  ]
+}

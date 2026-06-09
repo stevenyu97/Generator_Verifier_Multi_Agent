@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of the shares purchased between october 1-31 2009",
+      "answer": 613009.2,
+      "answer_raw": "613009.2",
+      "program": "multiply(24980, 24.54)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of gains were lost due to foreign currency hedges?",
+      "answer": 0.1231,
+      "answer_raw": "0.1231",
+      "program": "divide(45.4, 368.8)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2017 what was the percent of the total non-cancelable lease terms in excess of one year due in 2019",
+      "answer": 0.13814,
+      "answer_raw": "0.13814",
+      "program": "add(359, 156), add(2649, 1079), divide(#0, #1)"
+    }
+  ]
+}

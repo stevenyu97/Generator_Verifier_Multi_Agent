@@ -1,0 +1,60 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amount of receivables in 2016?",
+      "answer": 14215.0,
+      "answer_raw": "14215.0",
+      "program": "14215"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2015?",
+      "answer": 15794.0,
+      "answer_raw": "15794.0",
+      "program": "15794"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the total amount of receivables in both years?",
+      "answer": 30009.0,
+      "answer_raw": "30009.0",
+      "program": "add(14215, 15794)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "including 2014, what becomes this total?",
+      "answer": 30451.0,
+      "answer_raw": "30451.0",
+      "program": "add(14215, 15794), add(#0, 442)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and including 2013, what then becomes the total for the four years?",
+      "answer": 35188.0,
+      "answer_raw": "35188.0",
+      "program": "add(14215, 15794), add(#0, 442), add(#1, 4737)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and concerning the city council unanimously approved settlement from june 2014, what was the percentage bandwidth of the midpoint target authorized return on common equity?",
+      "answer": 0.4,
+      "answer_raw": "0.4",
+      "program": "divide(40, const_100)"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "and what was that midpoint target authorized return?",
+      "answer": 9.95,
+      "answer_raw": "9.95",
+      "program": "9.95"
+    },
+    {
+      "line_id": "turn_7",
+      "question": "what is, then, the maximum possible amount of this return?",
+      "answer": 10.35,
+      "answer_raw": "10.35",
+      "program": "divide(40, const_100), add(#0, 9.95)"
+    }
+  ]
+}

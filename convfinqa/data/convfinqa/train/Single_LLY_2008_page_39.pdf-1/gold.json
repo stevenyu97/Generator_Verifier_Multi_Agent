@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in value for total intangibles 2014 net from 2007 to 2008?",
+      "answer": 1598.7,
+      "answer_raw": "1598.7",
+      "program": "subtract(4054.1, 2455.4)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the percent change?",
+      "answer": 0.6511,
+      "answer_raw": "0.6511",
+      "program": "subtract(4054.1, 2455.4), divide(#0, 2455.4)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much higher are the returns of the s&p 500 in the same period ( 2008-2013 ) ? as a percentage .",
+      "answer": 0.0228,
+      "answer_raw": "0.0228",
+      "program": "divide(228, 100), divide(#0, 100)"
+    }
+  ]
+}

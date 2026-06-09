@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "AAPL/2007/page_48.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "capital asset purchases associated with the retail segment were $ 294 million in 2007 , bringing the total capital asset purchases since inception of the retail segment to $ 1.0 billion .",
+      "as of september 29 , 2007 , the retail segment had approximately 7900 employees and had outstanding operating lease commitments associated with retail store space and related facilities of $ 1.1 billion .",
+      "the company would incur substantial costs if it were to close multiple retail stores .",
+      "such costs could adversely affect the company 2019s financial condition and operating results .",
+      "other segments the company 2019s other segments , which consists of its asia pacific and filemaker operations , experienced an increase in net sales of $ 406 million , or 30% ( 30 % ) during 2007 compared to 2006 .",
+      "this increase related primarily to a 58% ( 58 % ) increase in sales of mac portable products and strong ipod sales in the company 2019s asia pacific region .",
+      "during 2006 , net sales in other segments increased 35% ( 35 % ) compared to 2005 primarily due to an increase in sales of ipod and mac portable products .",
+      "strong sales growth was a result of the introduction of the updated ipods featuring video-playing capabilities and the new intel-based mac portable products that translated to a 16% ( 16 % ) increase in mac unit sales during 2006 compared to 2005 .",
+      "gross margin gross margin for each of the last three fiscal years are as follows ( in millions , except gross margin percentages ) : september 29 , september 30 , september 24 , 2007 2006 2005 ."
+    ],
+    "post_text": [
+      "gross margin percentage of 34.0% ( 34.0 % ) in 2007 increased significantly from 29.0% ( 29.0 % ) in 2006 .",
+      "the primary drivers of this increase were more favorable costs on certain commodity components , including nand flash memory and dram memory , higher overall revenue that provided for more leverage on fixed production costs and a higher percentage of revenue from the company 2019s direct sales channels .",
+      "the company anticipates that its gross margin and the gross margins of the personal computer , consumer electronics and mobile communication industries will be subject to pressure due to price competition .",
+      "the company expects gross margin percentage to decline sequentially in the first quarter of 2008 primarily as a result of the full-quarter impact of product transitions and reduced pricing that were effected in the fourth quarter of 2007 , lower sales of ilife and iwork in their second quarter of availability , seasonally higher component costs , and a higher mix of indirect sales .",
+      "these factors are expected to be partially offset by higher sales of the company 2019s mac os x operating system due to the introduction of mac os x version 10.5 leopard ( 2018 2018mac os x leopard 2019 2019 ) that became available in october 2007 .",
+      "the foregoing statements regarding the company 2019s expected gross margin percentage are forward-looking .",
+      "there can be no assurance that current gross margin percentage will be maintained or targeted gross margin percentage levels will be achieved .",
+      "in general , gross margins and margins on individual products will remain under downward pressure due to a variety of factors , including continued industry wide global pricing pressures , increased competition , compressed product life cycles , potential increases in the cost and availability of raw material and outside manufacturing services , and a potential shift in the company 2019s sales mix towards products with lower gross margins .",
+      "in response to these competitive pressures , the company expects it will continue to take pricing actions with respect to its products .",
+      "gross margins could also be affected by the company 2019s ability to effectively manage product quality and warranty costs and to stimulate ."
+    ],
+    "table": [
+      [
+        "",
+        "september 29 2007",
+        "september 30 2006",
+        "september 24 2005"
+      ],
+      [
+        "net sales",
+        "$ 24006",
+        "$ 19315",
+        "$ 13931"
+      ],
+      [
+        "cost of sales",
+        "15852",
+        "13717",
+        "9889"
+      ],
+      [
+        "gross margin",
+        "$ 8154",
+        "$ 5598",
+        "$ 4042"
+      ],
+      [
+        "gross margin percentage",
+        "34.0% ( 34.0 % )",
+        "29.0% ( 29.0 % )",
+        "29.0% ( 29.0 % )"
+      ]
+    ],
+    "questions": [
+      "what was the change in cost of sales between 2007 and 2008 , in millions?15852 13717"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average berths capacity on mein schiff 1 and mein schiff 2?",
+      "answer": 1900.0,
+      "answer_raw": "1900.0",
+      "program": "divide(3800, 2)"
+    }
+  ]
+}

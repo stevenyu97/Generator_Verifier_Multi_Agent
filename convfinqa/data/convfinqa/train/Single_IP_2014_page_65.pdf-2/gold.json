@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the 2013 value of brazilian papers net sales times 1000?",
+      "answer": 1100.0,
+      "answer_raw": "1100.0",
+      "program": "multiply(1.1, const_1000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that divided by total printing papers sales in 2013?",
+      "answer": 0.17728,
+      "answer_raw": "0.17728",
+      "program": "multiply(1.1, const_1000), divide(#0, 6205)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the servicing fees from 1999 to 2000?",
+      "answer": 255.0,
+      "answer_raw": "255.0",
+      "program": "subtract(1425, 1170)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what were those fees in 1999?",
+      "answer": 1170.0,
+      "answer_raw": "1170.0",
+      "program": "1170"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to these 1999 servicing fees, in percentage?",
+      "answer": 0.21795,
+      "answer_raw": "0.21795",
+      "program": "subtract(1425, 1170), divide(#0, 1170)"
+    }
+  ]
+}

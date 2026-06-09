@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total liability in millions for capital lease and ground leases?",
+      "answer": 745935.0,
+      "answer_raw": "745935.0",
+      "program": "add(51869, 694066)"
+    }
+  ]
+}

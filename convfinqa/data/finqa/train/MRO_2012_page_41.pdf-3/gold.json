@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total revenues consited of e&p production in 2012?",
+      "answer": 0.89776,
+      "answer_raw": "0.89776",
+      "program": "divide(14084, 15688)"
+    }
+  ]
+}

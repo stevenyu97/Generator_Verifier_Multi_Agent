@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total value of all shares of common stock were issued under the espp from 2007-2009?[14] : shares of common stock of 65005 , 36836 and 20759 were issued under the espp at a weighted-average price of $ 12.78 , $ 20.97 and $ 37.25 during 2009 , 2008 and 2007 , respectively .",
+      "answer": 2376487.57,
+      "answer_raw": "2376487.57",
+      "program": "multiply(65005, 12.78), multiply(36836, 20.97), multiply(20759, 37.25), add(#0, #1), add(#3, #2)"
+    }
+  ]
+}

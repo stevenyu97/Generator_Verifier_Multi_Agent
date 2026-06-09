@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total accretion expense of 2011 and 2010?",
+      "answer": 0.0,
+      "answer_raw": "0.0",
+      "program": "add(0, 0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "then what is the total accretion expense if we also include 2009?",
+      "answer": 0.0,
+      "answer_raw": "0.0",
+      "program": "add(0, 0), add(#0, #0)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the balance at december 31 2011?",
+      "answer": 25.0,
+      "answer_raw": "25.0",
+      "program": "25"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the balance at january 1 2009?",
+      "answer": 3.0,
+      "answer_raw": "3.0",
+      "program": "3"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the difference between that balance at december 31 2011 and that of january 1 2009?",
+      "answer": 22.0,
+      "answer_raw": "22.0",
+      "program": "add(0, 0), add(#0, #0), subtract(25, 3)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "how much does that total represents in relation to that difference?",
+      "answer": 0.0,
+      "answer_raw": "0.0",
+      "program": "add(0, 0), add(#0, #0), subtract(25, 3), divide(#1, #2)"
+    }
+  ]
+}

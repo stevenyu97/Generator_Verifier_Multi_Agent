@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "AMT/2007/page_114.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements 2014 ( continued ) market and lease the unused tower space on the broadcast towers ( the economic rights ) .",
+      "tv azteca retains title to these towers and is responsible for their operation and maintenance .",
+      "the company is entitled to 100% ( 100 % ) of the revenues generated from leases with tenants on the unused space and is responsible for any incremental operating expenses associated with those tenants .",
+      "the term of the economic rights agreement is seventy years ; however , tv azteca has the right to purchase , at fair market value , the economic rights from the company at any time during the last fifty years of the agreement .",
+      "should tv azteca elect to purchase the economic rights ( in whole or in part ) , it would also be obligated to repay a proportional amount of the loan discussed above at the time of such election .",
+      "the company 2019s obligation to pay tv azteca $ 1.5 million annually would also be reduced proportionally .",
+      "the company has accounted for the annual payment of $ 1.5 million as a capital lease ( initially recording an asset and a corresponding liability of approximately $ 18.6 million ) .",
+      "the capital lease asset and the discount on the note , which aggregate approximately $ 30.2 million , represent the cost to acquire the economic rights and are being amortized over the seventy-year life of the economic rights agreement .",
+      "on a quarterly basis , the company assesses the recoverability of its note receivable from tv azteca .",
+      "as of december 31 , 2007 and 2006 , the company has assessed the recoverability of the note receivable from tv azteca and concluded that no adjustment to its carrying value is required .",
+      "a former executive officer and former director of the company served as a director of tv azteca from december 1999 to february 2006 .",
+      "as of december 31 , 2007 and 2006 , the company also had other long-term notes receivable outstanding of approximately $ 4.3 million and $ 11.0 million , respectively .",
+      "8 .",
+      "derivative financial instruments the company enters into interest rate protection agreements to manage exposure on the variable rate debt under its credit facilities and to manage variability in cash flows relating to forecasted interest payments .",
+      "under these agreements , the company is exposed to credit risk to the extent that a counterparty fails to meet the terms of a contract .",
+      "such exposure was limited to the current value of the contract at the time the counterparty fails to perform .",
+      "the company believes its contracts as of december 31 , 2007 and 2006 are with credit worthy institutions .",
+      "as of december 31 , 2007 and 2006 , the carrying amounts of the company 2019s derivative financial instruments , along with the estimated fair values of the related assets reflected in notes receivable and other long-term assets and ( liabilities ) reflected in other long-term liabilities in the accompanying consolidated balance sheet , are as follows ( in thousands except percentages ) : as of december 31 , 2007 notional amount interest rate term carrying amount and fair value ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "as of december 31 2007",
+        "notional amount",
+        "interest rate",
+        "term",
+        "carrying amount and fair value"
+      ],
+      [
+        "interest rate swap agreement",
+        "$ 150000",
+        "3.95% ( 3.95 % )",
+        "expiring in 2009",
+        "$ -369 ( 369 )"
+      ],
+      [
+        "interest rate swap agreement",
+        "100000",
+        "4.08% ( 4.08 % )",
+        "expiring in 2010",
+        "-571 ( 571 )"
+      ],
+      [
+        "total",
+        "$ 250000",
+        "",
+        "",
+        "$ -940 ( 940 )"
+      ]
+    ],
+    "questions": [
+      "what is the yearly amortization expense for the economic rights agreement assuming an 11 year effective life?"
+    ]
+  }
+}

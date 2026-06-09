@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in brent oil prices from 2016 to 2017?",
+      "answer": 0.24015,
+      "answer_raw": "0.24015",
+      "program": "subtract(54.12, 43.64), divide(#0, 43.64)"
+    }
+  ]
+}

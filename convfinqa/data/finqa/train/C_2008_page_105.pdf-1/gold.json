@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total long-term debt for citigroup subsidiaries long-term debt at december 312008",
+      "answer": 359.6,
+      "answer_raw": "359.6",
+      "program": "add(192.3, 20.6), add(#0, 37.4), add(109.3, #1)"
+    }
+  ]
+}

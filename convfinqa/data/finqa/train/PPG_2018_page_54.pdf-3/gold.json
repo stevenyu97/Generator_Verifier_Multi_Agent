@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in research and development net in millions from 2017 to 2018?",
+      "answer": -10.0,
+      "answer_raw": "-10.0",
+      "program": "subtract(441, 451)"
+    }
+  ]
+}

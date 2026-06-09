@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the performance price of the s&p 500 in 2012?",
+      "answer": 108.59,
+      "answer_raw": "108.59",
+      "program": "108.59"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the change in that performance price from 2007 to 2012?",
+      "answer": 8.59,
+      "answer_raw": "8.59",
+      "program": "subtract(108.59, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does this change represent in relation to the performance price of that stock in 2007?",
+      "answer": 0.0859,
+      "answer_raw": "0.0859",
+      "program": "subtract(108.59, const_100), divide(#0, const_100)"
+    }
+  ]
+}

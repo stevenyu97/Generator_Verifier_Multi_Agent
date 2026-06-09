@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in the accumulated other comprehensive income during 2015?",
+      "answer": -606.0,
+      "answer_raw": "-606.0",
+      "program": "subtract(60, 666)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it during 2016?",
+      "answer": 46.0,
+      "answer_raw": "46.0",
+      "program": "subtract(106, 60)"
+    }
+  ]
+}

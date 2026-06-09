@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average cost of operations from 2006 to 2008 in millions",
+      "answer": 2.1,
+      "answer_raw": "2.1",
+      "program": "add(2.4, 2.0), add(#0, 1.9), divide(#1, const_3)"
+    }
+  ]
+}

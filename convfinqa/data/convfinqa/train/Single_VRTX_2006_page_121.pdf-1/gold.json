@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in revenue recognized under the agreement from 2004 to 2005, in millions?",
+      "answer": 3.8,
+      "answer_raw": "3.8",
+      "program": "subtract(7.3, 3.5)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how much, in percentage, does that change represent in relation to the total revenue recognized under the agreement in 2004, counted in millions?",
+      "answer": 1.08571,
+      "answer_raw": "1.08571",
+      "program": "subtract(7.3, 3.5), divide(#0, 3.5)"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "input": {
+    "id": "Single_IP/2009/page_72.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "in april 2009 , the fasb issued additional guidance under asc 820 which provides guidance on estimat- ing the fair value of an asset or liability ( financial or nonfinancial ) when the volume and level of activity for the asset or liability have significantly decreased , and on identifying transactions that are not orderly .",
+      "the application of the requirements of this guidance did not have a material effect on the accompanying consolidated financial statements .",
+      "in august 2009 , the fasb issued asu 2009-05 , 201cmeasuring liabilities at fair value , 201d which further amends asc 820 by providing clarification for cir- cumstances in which a quoted price in an active market for the identical liability is not available .",
+      "the company included the disclosures required by this guidance in the accompanying consolidated financial statements .",
+      "accounting for uncertainty in income taxes in june 2006 , the fasb issued guidance under asc 740 , 201cincome taxes 201d ( formerly fin 48 ) .",
+      "this guid- ance prescribes a recognition threshold and measurement attribute for the financial statement recognition and measurement of a tax position taken or expected to be taken in tax returns .",
+      "specifically , the financial statement effects of a tax position may be recognized only when it is determined that it is 201cmore likely than not 201d that , based on its technical merits , the tax position will be sustained upon examination by the relevant tax authority .",
+      "the amount recognized shall be measured as the largest amount of tax benefits that exceed a 50% ( 50 % ) probability of being recognized .",
+      "this guidance also expands income tax disclosure requirements .",
+      "international paper applied the provisions of this guidance begin- ning in the first quarter of 2007 .",
+      "the adoption of this guidance resulted in a charge to the beginning bal- ance of retained earnings of $ 94 million at the date of adoption .",
+      "note 3 industry segment information financial information by industry segment and geo- graphic area for 2009 , 2008 and 2007 is presented on pages 47 and 48 .",
+      "effective january 1 , 2008 , the company changed its method of allocating corpo- rate overhead expenses to its business segments to increase the expense amounts allocated to these businesses in reports reviewed by its chief executive officer to facilitate performance comparisons with other companies .",
+      "accordingly , the company has revised its presentation of industry segment operat- ing profit to reflect this change in allocation method , and has adjusted all comparative prior period information on this basis .",
+      "note 4 earnings per share attributable to international paper company common shareholders basic earnings per common share from continuing operations are computed by dividing earnings from continuing operations by the weighted average number of common shares outstanding .",
+      "diluted earnings per common share from continuing oper- ations are computed assuming that all potentially dilutive securities , including 201cin-the-money 201d stock options , were converted into common shares at the beginning of each year .",
+      "in addition , the computation of diluted earnings per share reflects the inclusion of contingently convertible securities in periods when dilutive .",
+      "a reconciliation of the amounts included in the computation of basic earnings per common share from continuing operations , and diluted earnings per common share from continuing operations is as fol- in millions except per share amounts 2009 2008 2007 ."
+    ],
+    "post_text": [
+      "average common shares outstanding 2013 assuming dilution 428.0 421.0 433.0 basic earnings ( loss ) per common share from continuing operations $ 1.56 $ ( 3.02 ) $ 2.83 diluted earnings ( loss ) per common share from continuing operations $ 1.55 $ ( 3.02 ) $ 2.81 ( a ) securities are not included in the table in periods when anti- dilutive .",
+      "( b ) options to purchase 22.2 million , 25.1 million and 17.5 million shares for the years ended december 31 , 2009 , 2008 and 2007 , respectively , were not included in the computation of diluted common shares outstanding because their exercise price exceeded the average market price of the company 2019s common stock for each respective reporting date .",
+      "note 5 restructuring and other charges this footnote discusses restructuring and other charges recorded for each of the three years included in the period ended december 31 , 2009 .",
+      "it ."
+    ],
+    "table": [
+      [
+        "in millions except per share amounts",
+        "2009",
+        "2008",
+        "2007"
+      ],
+      [
+        "earnings ( loss ) from continuing operations",
+        "$ 663",
+        "$ -1269 ( 1269 )",
+        "$ 1215"
+      ],
+      [
+        "effect of dilutive securities ( a )",
+        "2013",
+        "2013",
+        "2013"
+      ],
+      [
+        "earnings ( loss ) from continuing operations 2013 assumingdilution",
+        "$ 663",
+        "$ -1269 ( 1269 )",
+        "$ 1215"
+      ],
+      [
+        "average common shares outstanding",
+        "425.3",
+        "421.0",
+        "428.9"
+      ],
+      [
+        "effect of dilutive securities restricted performance share plan ( a )",
+        "2.7",
+        "2013",
+        "3.7"
+      ],
+      [
+        "stock options ( b )",
+        "2013",
+        "2013",
+        "0.4"
+      ],
+      [
+        "average common shares outstanding 2013 assuming dilution",
+        "428.0",
+        "421.0",
+        "433.0"
+      ],
+      [
+        "basic earnings ( loss ) per common share from continuing operations",
+        "$ 1.56",
+        "$ -3.02 ( 3.02 )",
+        "$ 2.83"
+      ],
+      [
+        "diluted earnings ( loss ) per common share from continuing operations",
+        "$ 1.55",
+        "$ -3.02 ( 3.02 )",
+        "$ 2.81"
+      ]
+    ],
+    "questions": [
+      "what is the sum of earnings (loss) from continuing operations in 2008 and 2009?",
+      "what are earnings (loss) in 2008?",
+      "what is the total sum for the 3 years?"
+    ]
+  }
+}

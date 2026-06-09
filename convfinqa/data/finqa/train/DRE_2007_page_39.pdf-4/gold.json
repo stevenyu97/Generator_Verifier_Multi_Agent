@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the growth in the recurring tenant improvements from 2006 to 2007",
+      "answer": 0.08118,
+      "answer_raw": "0.08118",
+      "program": "subtract(45296, 41895), divide(#0, 41895)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the number of shares purchased during october 2018?",
+      "answer": 1204.0,
+      "answer_raw": "1204.0",
+      "program": "1204"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "at what average price?",
+      "answer": 128.43,
+      "answer_raw": "128.43",
+      "program": "128.43"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total value of these shares?",
+      "answer": 154629.72,
+      "answer_raw": "154629.72",
+      "program": "multiply(1204, 128.43)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the net change in the average share price from november to december 2018?",
+      "answer": 14.36,
+      "answer_raw": "14.36",
+      "program": "subtract(133.79, 119.43)"
+    }
+  ]
+}

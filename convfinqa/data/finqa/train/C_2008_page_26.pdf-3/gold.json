@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "on citigroup 2019s consolidated balance sheets based on the balances of 2008 what was the ratio of the total gaap assets to the risk- weighted assets",
+      "answer": 1.80991,
+      "answer_raw": "1.80991",
+      "program": "divide(179.0, 98.9)"
+    }
+  ]
+}

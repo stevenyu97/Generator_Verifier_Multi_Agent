@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the increase in the fair values of our foreign currency forward contracts liability from 2010 to 2011",
+      "answer": 0.16667,
+      "answer_raw": "0.16667",
+      "program": "subtract(0.7, 0.6), divide(#0, 0.6)"
+    }
+  ]
+}

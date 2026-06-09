@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if stock compensation were not an expense , what would 2015 net income have been?",
+      "answer": 434300000.0,
+      "answer_raw": "434300000.0",
+      "program": "add(403.1, 31.2), multiply(#0, const_1000000)"
+    }
+  ]
+}

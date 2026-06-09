@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "PKG/2006/page_28.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "incentive compensation expense ( $ 8.2 million ) and related fringe benefit costs ( $ 1.4 million ) , and higher warehousing costs due to customer requirements ( $ 2.0 million ) .",
+      "corporate overhead for the year ended december 31 , 2006 , increased $ 3.1 million , or 6.5% ( 6.5 % ) , from the year ended december 31 , 2005 .",
+      "the increase was primarily attributable to higher incentive compensation expense ( $ 2.6 million ) and other increased costs which were not individually significant .",
+      "other expense , net , decreased $ 2.1 million , or 20.1% ( 20.1 % ) for the year ended december 31 , 2006 compared to the year ended december 31 , 2005 .",
+      "the decrease was primarily due to a $ 3.1 million decrease in expenses related to the disposals of property , plant and equipment as part of planned disposals in connection with capital projects .",
+      "partially offsetting the decrease in fixed asset disposal expense was higher legal expenses ( $ 0.5 million ) and increased losses on disposals of storeroom items ( $ 0.4 million ) .",
+      "interest expense , net and income taxes interest expense , net of interest income , increased by $ 3.1 million , or 11.1% ( 11.1 % ) , for the year ended december 31 , 2006 compared to the full year 2005 , primarily as a result of higher interest expense on our variable rate debt due to higher interest rates .",
+      "pca 2019s effective tax rate was 35.8% ( 35.8 % ) for the year ended december 31 , 2006 and 40.2% ( 40.2 % ) for the year ended december 31 , 2005 .",
+      "the lower tax rate in 2006 is primarily due to a larger domestic manufacturer 2019s deduction and a reduction in the texas state tax rate .",
+      "for both years 2006 and 2005 , tax rates were higher than the federal statutory rate of 35.0% ( 35.0 % ) due to state income taxes .",
+      "year ended december 31 , 2005 compared to year ended december 31 , 2004 the historical results of operations of pca for the years ended december 31 , 2005 and 2004 are set forth below : for the year ended december 31 , ( in millions ) 2005 2004 change ."
+    ],
+    "post_text": [
+      "net sales net sales increased by $ 103.6 million , or 5.5% ( 5.5 % ) , for the year ended december 31 , 2005 from the year ended december 31 , 2004 .",
+      "net sales increased primarily due to increased sales prices and volumes of corrugated products compared to 2004 .",
+      "total corrugated products volume sold increased 4.2% ( 4.2 % ) to 31.2 billion square feet in 2005 compared to 29.9 billion square feet in 2004 .",
+      "on a comparable shipment-per-workday basis , corrugated products sales volume increased 4.6% ( 4.6 % ) in 2005 from 2004 .",
+      "excluding pca 2019s acquisition of midland container in april 2005 , corrugated products volume was 3.0% ( 3.0 % ) higher in 2005 than 2004 and up 3.4% ( 3.4 % ) compared to 2004 on a shipment-per-workday basis .",
+      "shipments-per-workday is calculated by dividing our total corrugated products volume during the year by the number of workdays within the year .",
+      "the larger percentage increase was due to the fact that 2005 had one less workday ( 250 days ) , those days not falling on a weekend or holiday , than 2004 ( 251 days ) .",
+      "containerboard sales volume to external domestic and export customers decreased 12.2% ( 12.2 % ) to 417000 tons for the year ended december 31 , 2005 from 475000 tons in 2004. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "for the year ended december 31 , 2005",
+        "for the year ended december 31 , 2004",
+        "change"
+      ],
+      [
+        "net sales",
+        "$ 1993.7",
+        "$ 1890.1",
+        "$ 103.6"
+      ],
+      [
+        "income from operations",
+        "$ 116.1",
+        "$ 140.5",
+        "$ -24.4 ( 24.4 )"
+      ],
+      [
+        "interest expense net",
+        "-28.1 ( 28.1 )",
+        "-29.6 ( 29.6 )",
+        "1.5"
+      ],
+      [
+        "income before taxes",
+        "88.0",
+        "110.9",
+        "-22.9 ( 22.9 )"
+      ],
+      [
+        "provision for income taxes",
+        "-35.4 ( 35.4 )",
+        "-42.2 ( 42.2 )",
+        "6.8"
+      ],
+      [
+        "net income",
+        "$ 52.6",
+        "$ 68.7",
+        "$ -16.1 ( 16.1 )"
+      ]
+    ],
+    "questions": [
+      "income from operations was what percent of net sales for 2005?"
+    ]
+  }
+}

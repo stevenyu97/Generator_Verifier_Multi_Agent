@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming that all cash , cash equivalents and marketable securities are invested to generate the stated interest income in 2014 , what would be the average interest rate?",
+      "answer": 0.01643,
+      "answer_raw": "0.01643",
+      "program": "divide(27.4, 1667.2)"
+    }
+  ]
+}

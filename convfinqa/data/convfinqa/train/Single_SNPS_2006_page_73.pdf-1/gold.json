@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of the balance of 2005 to 2004?",
+      "answer": 1.22785,
+      "answer_raw": "1.22785",
+      "program": "divide(728979, 593706)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that less 1?",
+      "answer": 0.22785,
+      "answer_raw": "0.22785",
+      "program": "divide(728979, 593706), subtract(#0, const_1)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total highway revenue equipment owned is containers?",
+      "answer": 0.60362,
+      "answer_raw": "0.60362",
+      "program": "divide(33633, 55719)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage rent in 2002, in thousands?",
+      "answer": 1832000.0,
+      "answer_raw": "1832000.0",
+      "program": "1832000"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2001?",
+      "answer": 2157000.0,
+      "answer_raw": "2157000.0",
+      "program": "2157000"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the total percentage rent in both years combined, in thousands?",
+      "answer": 3989000.0,
+      "answer_raw": "3989000.0",
+      "program": "add(1832000, 2157000)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in the subsequent year of 2002, what was the total of future noncancelable minimum rent amounts for 2004 and 2005, also in thousands?",
+      "answer": 2053096.0,
+      "answer_raw": "2053096.0",
+      "program": "add(1084934, 968162)"
+    }
+  ]
+}

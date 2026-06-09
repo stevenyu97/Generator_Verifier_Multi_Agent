@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what amount of long-term debt due in the next 36 months as of december 31 , 2003 , in millions?",
+      "answer": 1041.531,
+      "answer_raw": "1041.531",
+      "program": "add(503215, 462420), add(#0, 75896), divide(#1, const_1000)"
+    }
+  ]
+}

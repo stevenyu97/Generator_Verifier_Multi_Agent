@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the price of ball corporation in 2010?",
+      "answer": 178.93,
+      "answer_raw": "178.93",
+      "program": "178.93"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that less an initial $100 investment?",
+      "answer": 78.93,
+      "answer_raw": "78.93",
+      "program": "subtract(178.93, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is that difference over 100?",
+      "answer": 0.7893,
+      "answer_raw": "0.7893",
+      "program": "subtract(178.93, const_100), divide(#0, const_100)"
+    }
+  ]
+}

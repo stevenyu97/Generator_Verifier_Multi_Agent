@@ -1,0 +1,53 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of removal costs in 2015?",
+      "answer": 311.0,
+      "answer_raw": "311.0",
+      "program": "311"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2014?",
+      "answer": 301.0,
+      "answer_raw": "301.0",
+      "program": "301"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 10.0,
+      "answer_raw": "10.0",
+      "program": "subtract(311, 301)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is this change as a portion of the 2014 total?",
+      "answer": 0.03322,
+      "answer_raw": "0.03322",
+      "program": "subtract(311, 301), divide(#0, 301)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and in that year of 2015, what amount from the additional costs from the california state coastal conservancy was awk expected to collect?",
+      "answer": 8.0,
+      "answer_raw": "8.0",
+      "program": "8"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what was the total of those additional costs?",
+      "answer": 34.0,
+      "answer_raw": "34.0",
+      "program": "34"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "what portion, then, of this total did that amount represent?",
+      "answer": 0.23529,
+      "answer_raw": "0.23529",
+      "program": "divide(8, 34)"
+    }
+  ]
+}

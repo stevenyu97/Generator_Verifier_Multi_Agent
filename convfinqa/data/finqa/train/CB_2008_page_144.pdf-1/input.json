@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "CB/2008/page_144.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "foreign currency exchange rate risk many of our non-u.s .",
+      "companies maintain both assets and liabilities in local currencies .",
+      "therefore , foreign exchange rate risk is generally limited to net assets denominated in those foreign currencies .",
+      "foreign exchange rate risk is reviewed as part of our risk management process .",
+      "locally required capital levels are invested in home currencies in order to satisfy regulatory require- ments and to support local insurance operations regardless of currency fluctuations .",
+      "the principal currencies creating foreign exchange risk for us are the british pound sterling , the euro , and the canadian dollar .",
+      "the following table provides more information on our exposure to foreign exchange rate risk at december 31 , 2008 and 2007. ."
+    ],
+    "post_text": [
+      "reinsurance of gmdb and gmib guarantees our net income is directly impacted by changes in the reserves calculated in connection with the reinsurance of variable annuity guarantees , primarily gmdb and gmib .",
+      "these reserves are calculated in accordance with sop 03-1 ( sop reserves ) and changes in these reserves are reflected as life and annuity benefit expense , which is included in life underwriting income .",
+      "in addition , our net income is directly impacted by the change in the fair value of the gmib liability ( fvl ) , which is classified as a derivative according to fas 133 .",
+      "the fair value liability established for a gmib reinsurance contract represents the differ- ence between the fair value of the contract and the sop 03-1 reserves .",
+      "changes in the fair value of the gmib liability , net of associated changes in the calculated sop 03-1 reserve , are reflected as realized gains or losses .",
+      "ace views our variable annuity reinsurance business as having a similar risk profile to that of catastrophe reinsurance , with the probability of long-term economic loss relatively small at the time of pricing .",
+      "adverse changes in market factors and policyholder behavior will have an impact on both life underwriting income and net income .",
+      "when evaluating these risks , we expect to be compensated for taking both the risk of a cumulative long-term economic net loss , as well as the short-term accounting variations caused by these market movements .",
+      "therefore , we evaluate this business in terms of its long-term eco- nomic risk and reward .",
+      "the ultimate risk to the variable annuity guaranty reinsurance business is a long-term underperformance of investment returns , which can be exacerbated by a long-term reduction in interest rates .",
+      "following a market downturn , continued market underperformance over a period of five to seven years would eventually result in a higher level of paid claims as policyholders accessed their guarantees through death or annuitization .",
+      "however , if market conditions improved following a downturn , sop 03-1 reserves and fair value liability would fall reflecting a decreased likelihood of future claims , which would result in an increase in both life underwriting income and net income .",
+      "as of december 31 , 2008 , management established the sop 03-1 reserve based on the benefit ratio calculated using actual market values at december 31 , 2008 .",
+      "management exercises judgment in determining the extent to which short-term market movements impact the sop 03-1 reserve .",
+      "the sop 03-1 reserve is based on the calculation of a long-term benefit ratio ( or loss ratio ) for the variable annuity guarantee reinsurance .",
+      "despite the long-term nature of the risk the benefit ratio calculation is impacted by short-term market movements that may be judged by management to be temporary or transient .",
+      "management will , in keeping with the language in sop 03-1 , regularly examine both quantitative and qualitative analysis and management will determine if , in its judgment , the change in the calculated benefit ratio is of sufficient magnitude and has persisted for a sufficient duration to warrant a change in the benefit ratio used to establish the sop 03-1 reserve .",
+      "this has no impact on either premium received or claims paid nor does it impact the long-term profit or loss of the variable annuity guaran- tee reinsurance .",
+      "the sop 03-1 reserve and fair value liability calculations are directly affected by market factors , including equity levels , interest rate levels , credit risk and implied volatilities , as well as policyholder behaviors , such as annuitization and lapse rates .",
+      "the table below shows the sensitivity , as of december 31 , 2008 , of the sop 03-1 reserves and fair value liability associated with the variable annuity guarantee reinsurance portfolio .",
+      "in addition , the tables below show the sensitivity of the fair value of specific derivative instruments held ( hedge value ) , which includes instruments purchased in january 2009 , to partially offset the risk in the variable annuity guarantee reinsurance portfolio .",
+      "although these derivatives do not receive hedge accounting treatment , some portion of the change in value may be used to offset changes in the sop 03-1 reserve. ."
+    ],
+    "table": [
+      [
+        "( in millions of u.s . dollars )",
+        "2008",
+        "2007"
+      ],
+      [
+        "fair value of net assets denominated in foreign currencies",
+        "$ 1127",
+        "$ 1651"
+      ],
+      [
+        "percentage of fair value of total net assets",
+        "7.8% ( 7.8 % )",
+        "9.9% ( 9.9 % )"
+      ],
+      [
+        "pre-tax impact on equity of hypothetical 10 percent strengthening of the u.s . dollar",
+        "$ 84",
+        "$ 150"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the pre-tax impact on equity of hypothetical 10 percent strengthening of the u.s . dollar in 2007 to 2008"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of total re-organization costs in 2013?",
+      "answer": 2640.0,
+      "answer_raw": "2640.0",
+      "program": "2640"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2012?",
+      "answer": 2179.0,
+      "answer_raw": "2179.0",
+      "program": "2179"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the net change in value?",
+      "answer": 461.0,
+      "answer_raw": "461.0",
+      "program": "subtract(2640, 2179)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the percent change?",
+      "answer": 0.21156,
+      "answer_raw": "0.21156",
+      "program": "subtract(2640, 2179), divide(#0, 2179)"
+    }
+  ]
+}

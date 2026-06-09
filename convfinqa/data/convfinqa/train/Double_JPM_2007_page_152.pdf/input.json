@@ -1,0 +1,85 @@
+{
+  "input": {
+    "id": "Double_JPM/2007/page_152.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "notes to consolidated financial statements jpmorgan chase & co .",
+      "150 jpmorgan chase & co .",
+      "/ 2007 annual report expected loss modeling in 2006 , the firm restructured four multi-seller conduits that it administers .",
+      "the restructurings included enhancing the firm 2019s expected loss model .",
+      "in determining the primary beneficiary of the conduits it administers , the firm uses a monte carlo 2013based model to estimate the expected losses of each of the conduits and considers the rela- tive rights and obligations of each of the variable interest holders .",
+      "the variability to be considered in the modeling of expected losses is based on the design of the entity .",
+      "the firm 2019s traditional multi-seller conduits are designed to pass credit risk , not liquidity risk , to its vari- able interest holders , as the assets are intended to be held in the conduit for the longer term .",
+      "under fin 46r , the firm is required to run the monte carlo-based expected loss model each time a reconsideration event occurs .",
+      "in applying this guidance to the conduits , the following events are considered to be reconsideration events as they could affect the determination of the primary beneficiary of the conduits : 2022 new deals , including the issuance of new or additional variable interests ( credit support , liquidity facilities , etc ) ; 2022 changes in usage , including the change in the level of outstand- ing variable interests ( credit support , liquidity facilities , etc ) ; 2022 modifications of asset purchase agreements ; and 2022 sales of interests held by the primary beneficiary .",
+      "from an operational perspective , the firm does not run its monte carlo-based expected loss model every time there is a reconsidera- tion event due to the frequency of their occurrence .",
+      "instead , the firm runs its expected loss model each quarter and includes a growth assumption for each conduit to ensure that a sufficient amount of elns exists for each conduit at any point during the quarter .",
+      "as part of its normal quarterly model review , the firm reassesses the underlying assumptions and inputs of the expected loss model .",
+      "during the second half of 2007 , certain assumptions used in the model were adjusted to reflect the then current market conditions .",
+      "specifically , risk ratings and loss given default assumptions relating to residential subprime mortgage exposures were modified .",
+      "for other nonmortgage-related asset classes , the firm determined that the assumptions in the model required little adjustment .",
+      "as a result of the updates to the model , during the fourth quarter of 2007 the terms of the elns were renegotiated to increase the level of commit- ment and funded amounts to be provided by the eln holders .",
+      "the total amount of expected loss notes outstanding at december 31 , 2007 and 2006 , were $ 130 million and $ 54 million , respectively .",
+      "management concluded that the model assumptions used were reflective of market participant 2019s assumptions and appropriately considered the probability of a recurrence of recent market events .",
+      "qualitative considerations the multi-seller conduits are primarily designed to provide an efficient means for clients to access the commercial paper market .",
+      "the firm believes the conduits effectively disperse risk among all parties and that the preponderance of economic risk in the firm 2019s multi-seller conduits is not held by jpmorgan chase .",
+      "the percentage of assets in the multi-seller conduits that the firm views as client-related represent 99% ( 99 % ) and 98% ( 98 % ) of the total conduits 2019 holdings at december 31 , 2007 and 2006 , respectively .",
+      "consolidated sensitivity analysis on capital it is possible that the firm could be required to consolidate a vie if it were determined that the firm became the primary beneficiary of the vie under the provisions of fin 46r .",
+      "the factors involved in making the determination of whether or not a vie should be consolidated are dis- cussed above and in note 1 on page 108 of this annual report .",
+      "the table below shows the impact on the firm 2019s reported assets , liabilities , net income , tier 1 capital ratio and tier 1 leverage ratio if the firm were required to consolidate all of the multi-seller conduits that it administers .",
+      "as of or for the year ending december 31 , 2007 ."
+    ],
+    "post_text": [
+      "the firm could fund purchases of assets from vies should it become necessary .",
+      "investor intermediation as a financial intermediary , the firm creates certain types of vies and also structures transactions , typically derivative structures , with these vies to meet investor needs .",
+      "the firm may also provide liquidity and other support .",
+      "the risks inherent in the derivative instruments or liq- uidity commitments are managed similarly to other credit , market or liquidity risks to which the firm is exposed .",
+      "the principal types of vies for which the firm is engaged in these structuring activities are municipal bond vehicles , credit-linked note vehicles and collateralized debt obligation vehicles .",
+      "municipal bond vehicles the firm has created a series of secondary market trusts that provide short-term investors with qualifying tax-exempt investments , and that allow investors in tax-exempt securities to finance their investments at short-term tax-exempt rates .",
+      "in a typical transaction , the vehicle pur- chases fixed-rate longer-term highly rated municipal bonds and funds the purchase by issuing two types of securities : ( 1 ) putable floating- rate certificates and ( 2 ) inverse floating-rate residual interests ( 201cresid- ual interests 201d ) .",
+      "the maturity of each of the putable floating-rate certifi- cates and the residual interests is equal to the life of the vehicle , while the maturity of the underlying municipal bonds is longer .",
+      "holders of the putable floating-rate certificates may 201cput 201d , or tender , the certifi- cates if the remarketing agent cannot successfully remarket the float- ing-rate certificates to another investor .",
+      "a liquidity facility conditionally obligates the liquidity provider to fund the purchase of the tendered floating-rate certificates .",
+      "upon termination of the vehicle , if the pro- ceeds from the sale of the underlying municipal bonds are not suffi- cient to repay the liquidity facility , the liquidity provider has recourse either to excess collateralization in the vehicle or the residual interest holders for reimbursement .",
+      "the third-party holders of the residual interests in these vehicles could experience losses if the face amount of the putable floating-rate cer- tificates exceeds the market value of the municipal bonds upon termi- nation of the vehicle .",
+      "certain vehicles require a smaller initial invest- ment by the residual interest holders and thus do not result in excess collateralization .",
+      "for these vehicles there exists a reimbursement obli- ."
+    ],
+    "table": [
+      [
+        "( in billions except ratios )",
+        "reported",
+        "pro forma"
+      ],
+      [
+        "assets",
+        "$ 1562.1",
+        "$ 1623.9"
+      ],
+      [
+        "liabilities",
+        "1438.9",
+        "1500.9"
+      ],
+      [
+        "net income",
+        "15.4",
+        "15.2"
+      ],
+      [
+        "tier 1 capital ratio",
+        "8.4% ( 8.4 % )",
+        "8.4% ( 8.4 % )"
+      ],
+      [
+        "tier 1 leverage ratio",
+        "6.0",
+        "5.8"
+      ]
+    ],
+    "questions": [
+      "in 2007, how much did the reported debt represent in relation to the total of assets?",
+      "and what was the average of those assets for each of the firm's self sponsored conduits, in billions?"
+    ]
+  }
+}

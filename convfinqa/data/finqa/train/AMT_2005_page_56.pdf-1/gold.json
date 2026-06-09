@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the annual interest expense related to the 7.125% ( 7.125 % ) notes , in millions?",
+      "answer": 35.625,
+      "answer_raw": "35.625",
+      "program": "multiply(7.125%, 500.0)"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "input": {
+    "id": "MRO/2007/page_149.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "supplementary information on oil and gas producing activities ( unaudited ) c o n t i n u e d summary of changes in standardized measure of discounted future net cash flows relating to proved oil and gas reserves ( in millions ) 2007 2006 2005 sales and transfers of oil and gas produced , net of production , transportation and administrative costs $ ( 4887 ) $ ( 5312 ) $ ( 3754 ) net changes in prices and production , transportation and administrative costs related to future production 12845 ( 1342 ) 6648 ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "sales and transfers of oil and gas produced net of production transportation and administrative costs",
+        "$ -4887 ( 4887 )",
+        "$ -5312 ( 5312 )",
+        "$ -3754 ( 3754 )"
+      ],
+      [
+        "net changes in prices and production transportation and administrative costs related to future production",
+        "12845",
+        "-1342 ( 1342 )",
+        "6648"
+      ],
+      [
+        "extensions discoveries and improved recovery less related costs",
+        "1816",
+        "1290",
+        "700"
+      ],
+      [
+        "development costs incurred during the period",
+        "1654",
+        "1251",
+        "1030"
+      ],
+      [
+        "changes in estimated future development costs",
+        "-1727 ( 1727 )",
+        "-527 ( 527 )",
+        "-552 ( 552 )"
+      ],
+      [
+        "revisions of previous quantity estimates",
+        "290",
+        "1319",
+        "820"
+      ],
+      [
+        "net changes in purchases and sales of minerals in place",
+        "23",
+        "30",
+        "4557"
+      ],
+      [
+        "accretion of discount",
+        "1726",
+        "1882",
+        "1124"
+      ],
+      [
+        "net change in income taxes",
+        "-6751 ( 6751 )",
+        "-660 ( 660 )",
+        "-6694 ( 6694 )"
+      ],
+      [
+        "timing and other",
+        "-12 ( 12 )",
+        "-14 ( 14 )",
+        "307"
+      ],
+      [
+        "net change for the year",
+        "4977",
+        "-2083 ( 2083 )",
+        "4186"
+      ],
+      [
+        "beginning of year",
+        "8518",
+        "10601",
+        "6415"
+      ],
+      [
+        "end of year",
+        "$ 13495",
+        "$ 8518",
+        "$ 10601"
+      ],
+      [
+        "net change for the year from discontinued operations",
+        "$ 2013",
+        "$ -216 ( 216 )",
+        "$ 162"
+      ]
+    ],
+    "questions": [
+      "5 development costs incurred during the period 1654 1251 1030"
+    ]
+  }
+}

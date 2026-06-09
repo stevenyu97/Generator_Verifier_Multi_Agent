@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the profit margin in 2014 for the aeronautics business segment",
+      "answer": 0.11052,
+      "answer_raw": "0.11052",
+      "program": "divide(1649, 14920)"
+    }
+  ]
+}

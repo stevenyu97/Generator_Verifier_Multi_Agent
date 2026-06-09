@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 31 , 2013 what was the ratio of square feet of our office in alpharetta , georgia to the jersey city new jersey",
+      "answer": 2.37383,
+      "answer_raw": "2.37383",
+      "program": "divide(254000, 107000)"
+    }
+  ]
+}

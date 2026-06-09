@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "convert the number of remaining share purchase authorizations to the millions place",
+      "answer": 13000000.0,
+      "answer_raw": "13000000.0",
+      "program": "multiply(13.0, const_1000000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the average price per share of the common stock during fiscal 2008?",
+      "answer": 37.85,
+      "answer_raw": "37.85",
+      "program": "37.85"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what is the number of shares remaining?",
+      "answer": 343461.03038,
+      "answer_raw": "343461.03038",
+      "program": "multiply(13.0, const_1000000), divide(#0, 37.85)"
+    }
+  ]
+}

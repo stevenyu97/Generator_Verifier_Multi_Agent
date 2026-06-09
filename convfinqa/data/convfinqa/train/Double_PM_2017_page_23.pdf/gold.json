@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much do the facilities located in the eu represent in relation to the total?",
+      "answer": 0.28261,
+      "answer_raw": "0.28261",
+      "program": "divide(13, 46)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is that in percentage?",
+      "answer": 0.28261,
+      "answer_raw": "0.28261",
+      "program": "divide(13, 46)"
+    }
+  ]
+}

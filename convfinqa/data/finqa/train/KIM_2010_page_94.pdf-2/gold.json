@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the par value of the redeemed preferred a units , in millions?",
+      "answer": 4.84,
+      "answer_raw": "4.84",
+      "program": "multiply(2200000, 2.2), divide(#0, const_1000000)"
+    }
+  ]
+}

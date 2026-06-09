@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the total expense related to the defined contribution plan for non-u.s employees in 2010?",
+      "answer": 0.07339,
+      "answer_raw": "0.07339",
+      "program": "subtract(11.7, 10.9), divide(#0, 10.9)"
+    }
+  ]
+}

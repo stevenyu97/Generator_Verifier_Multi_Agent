@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value per diluted share as adjusted in 2009?",
+      "answer": 1.96,
+      "answer_raw": "1.96",
+      "program": "1.96"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2008?",
+      "answer": 1.74,
+      "answer_raw": "1.74",
+      "program": "1.74"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the net change in value?",
+      "answer": 0.22,
+      "answer_raw": "0.22",
+      "program": "subtract(1.96, 1.74)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the 2008 value?",
+      "answer": 1.74,
+      "answer_raw": "1.74",
+      "program": "1.74"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the percent change?",
+      "answer": 0.12644,
+      "answer_raw": "0.12644",
+      "program": "subtract(1.96, 1.74), divide(#0, 1.74)"
+    }
+  ]
+}

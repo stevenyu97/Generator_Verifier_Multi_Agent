@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total income tax benefit in 2015 and 2014?",
+      "answer": 14.0,
+      "answer_raw": "14.0",
+      "program": "add(6.9, 7.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the total including 2013?",
+      "answer": 19.6,
+      "answer_raw": "19.6",
+      "program": "add(6.9, 7.1), add(5.6, #0)"
+    }
+  ]
+}

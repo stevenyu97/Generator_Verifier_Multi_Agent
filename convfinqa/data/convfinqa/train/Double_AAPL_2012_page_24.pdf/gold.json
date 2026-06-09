@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the performance price of the apple inc . from 2007 to 2012?",
+      "answer": 337.0,
+      "answer_raw": "337.0",
+      "program": "subtract(437, 100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much did this change represent in relation to that performance price in 2007?",
+      "answer": 3.37,
+      "answer_raw": "3.37",
+      "program": "subtract(437, 100), divide(#0, 100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "in that same period, what was that change for the s&p 500?",
+      "answer": 5.0,
+      "answer_raw": "5.0",
+      "program": "subtract(105, const_100)"
+    }
+  ]
+}

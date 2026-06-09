@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the operating expenses in 2007 in billions",
+      "answer": 2.82051,
+      "answer_raw": "2.82051",
+      "program": "divide(1.1, 39%)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in cash flow from operating activities due to the changes in accounts receivable?",
+      "answer": -31.4,
+      "answer_raw": "-31.4",
+      "program": "subtract(485.5, 516.9)"
+    }
+  ]
+}

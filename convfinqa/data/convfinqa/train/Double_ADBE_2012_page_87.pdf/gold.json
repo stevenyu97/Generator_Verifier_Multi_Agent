@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the customer contracts and relationships segment, what was the annual amortization rate?",
+      "answer": 10.0,
+      "answer_raw": "10.0",
+      "program": "divide(const_100, 10)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the difference between the weighted average useful life of that segment and the one of trademarks?",
+      "answer": 3.0,
+      "answer_raw": "3.0",
+      "program": "subtract(10, 7)"
+    }
+  ]
+}

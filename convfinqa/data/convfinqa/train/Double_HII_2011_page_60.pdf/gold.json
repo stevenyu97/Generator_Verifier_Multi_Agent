@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the weighted average discount rate for pensions from 2010 to 2011?",
+      "answer": -0.61,
+      "answer_raw": "-0.61",
+      "program": "subtract(5.23, 5.84)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much did this change represent in relation to that rate in 2010?",
+      "answer": -0.10445,
+      "answer_raw": "-0.10445",
+      "program": "subtract(5.23, 5.84), divide(#0, 5.84)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "in that same period, what was the change in that same discount rate but for other post-retirement benefits?",
+      "answer": -0.64,
+      "answer_raw": "-0.64",
+      "program": "subtract(4.94, 5.58)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is this change as a percent of this discount rate in 2010?",
+      "answer": -0.1147,
+      "answer_raw": "-0.1147",
+      "program": "subtract(4.94, 5.58), divide(#0, 5.58)"
+    }
+  ]
+}

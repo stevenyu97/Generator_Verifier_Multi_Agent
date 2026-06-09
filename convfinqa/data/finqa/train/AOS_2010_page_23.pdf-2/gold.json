@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total aggregate contractual obligations is composed of ?",
+      "answer": 0.12671,
+      "answer_raw": "0.12671",
+      "program": "divide(45.5, 359.1)"
+    }
+  ]
+}

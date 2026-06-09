@@ -1,0 +1,89 @@
+{
+  "input": {
+    "id": "Double_UNP/2008/page_83.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "14 .",
+      "leases we lease certain locomotives , freight cars , and other property .",
+      "the consolidated statement of financial position as of december 31 , 2008 and 2007 included $ 2024 million , net of $ 869 million of amortization , and $ 2062 million , net of $ 887 million of amortization , respectively , for properties held under capital leases .",
+      "a charge to income resulting from the amortization for assets held under capital leases is included within depreciation expense in our consolidated statements of income .",
+      "future minimum lease payments for operating and capital leases with initial or remaining non-cancelable lease terms in excess of one year as of december 31 , 2008 were as follows : millions of dollars operating leases capital leases ."
+    ],
+    "post_text": [
+      "the majority of capital lease payments relate to locomotives .",
+      "rent expense for operating leases with terms exceeding one month was $ 747 million in 2008 , $ 810 million in 2007 , and $ 798 million in 2006 .",
+      "when cash rental payments are not made on a straight-line basis , we recognize variable rental expense on a straight-line basis over the lease term .",
+      "contingent rentals and sub-rentals are not significant .",
+      "15 .",
+      "commitments and contingencies asserted and unasserted claims 2013 various claims and lawsuits are pending against us and certain of our subsidiaries .",
+      "we cannot fully determine the effect of all asserted and unasserted claims on our consolidated results of operations , financial condition , or liquidity ; however , to the extent possible , where asserted and unasserted claims are considered probable and where such claims can be reasonably estimated , we have recorded a liability .",
+      "we do not expect that any known lawsuits , claims , environmental costs , commitments , contingent liabilities , or guarantees will have a material adverse effect on our consolidated results of operations , financial condition , or liquidity after taking into account liabilities and insurance recoveries previously recorded for these matters .",
+      "personal injury 2013 the cost of personal injuries to employees and others related to our activities is charged to expense based on estimates of the ultimate cost and number of incidents each year .",
+      "we use third-party actuaries to assist us in measuring the expense and liability , including unasserted claims .",
+      "the federal employers 2019 liability act ( fela ) governs compensation for work-related accidents .",
+      "under fela , damages are assessed based on a finding of fault through litigation or out-of-court settlements .",
+      "we offer a comprehensive variety of services and rehabilitation programs for employees who are injured at our personal injury liability is discounted to present value using applicable u.s .",
+      "treasury rates .",
+      "approximately 88% ( 88 % ) of the recorded liability related to asserted claims , and approximately 12% ( 12 % ) related to unasserted claims at december 31 , 2008 .",
+      "because of the uncertainty surrounding the ultimate outcome of personal injury claims , it is reasonably possible that future costs to settle these claims may range from ."
+    ],
+    "table": [
+      [
+        "millions of dollars",
+        "operatingleases",
+        "capitalleases"
+      ],
+      [
+        "2009",
+        "$ 657",
+        "$ 188"
+      ],
+      [
+        "2010",
+        "614",
+        "168"
+      ],
+      [
+        "2011",
+        "580",
+        "178"
+      ],
+      [
+        "2012",
+        "465",
+        "122"
+      ],
+      [
+        "2013",
+        "389",
+        "152"
+      ],
+      [
+        "later years",
+        "3204",
+        "1090"
+      ],
+      [
+        "total minimum lease payments",
+        "$ 5909",
+        "$ 1898"
+      ],
+      [
+        "amount representing interest",
+        "n/a",
+        "628"
+      ],
+      [
+        "present value of minimum lease payments",
+        "n/a",
+        "$ 1270"
+      ]
+    ],
+    "questions": [
+      "as of december 31, 2008, what was the amount of future minimum lease payments for operating and capital leases that was due in 2009?",
+      "and what was the total of those payments?",
+      "what percentage, then, does that amount represent in relation to this total?",
+      "and concerning the rent expense for operating leases, how much did the ones with terms exceeding one month in that same year of 2008 represent in relation to the ones under the same conditions in 2007?"
+    ]
+  }
+}

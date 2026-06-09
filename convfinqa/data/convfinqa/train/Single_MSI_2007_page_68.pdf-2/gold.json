@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the operating earnings from 2005 to 2007?",
+      "answer": -523.0,
+      "answer_raw": "-523.0",
+      "program": "subtract(709, 1232)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to those operating earnings in 2005, in percentage?",
+      "answer": -0.42451,
+      "answer_raw": "-0.42451",
+      "program": "subtract(709, 1232), divide(#0, 1232)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of target date/risk in 2017?",
+      "answer": 199466.0,
+      "answer_raw": "199466.0",
+      "program": "199466"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2016?",
+      "answer": 149432.0,
+      "answer_raw": "149432.0",
+      "program": "149432"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change in value?",
+      "answer": 50034.0,
+      "answer_raw": "50034.0",
+      "program": "subtract(199466, 149432)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the percent change?",
+      "answer": 0.33483,
+      "answer_raw": "0.33483",
+      "program": "subtract(199466, 149432), divide(#0, 149432)"
+    }
+  ]
+}

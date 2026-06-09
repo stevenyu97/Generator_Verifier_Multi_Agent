@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the highest dividend yield during 2016-2018?",
+      "answer": 0.03884,
+      "answer_raw": "0.03884",
+      "program": "table_max(dividend yield, none)"
+    }
+  ]
+}

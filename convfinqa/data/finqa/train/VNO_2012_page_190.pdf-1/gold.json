@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2012 and 2011 , percentage rentals based on tenants 2019 sales totaled what in thousands?",
+      "answer": 16461000.0,
+      "answer_raw": "16461000.0",
+      "program": "add(8466000, 7995000)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total number of outstanding shares as of december 31 , 2005 according to pro-forma income , in millions?",
+      "answer": 301.16774,
+      "answer_raw": "301.16774",
+      "program": "multiply(186724, const_1000), divide(#0, 0.62), divide(#1, const_1000000)"
+    }
+  ]
+}

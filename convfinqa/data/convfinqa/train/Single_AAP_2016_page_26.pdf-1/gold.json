@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in value of an investment in advance auto parts from 2015 to 2016?",
+      "answer": -11.39,
+      "answer_raw": "-11.39",
+      "program": "subtract(217.49, 228.88)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what roi does this represent?",
+      "answer": -0.04976,
+      "answer_raw": "-0.04976",
+      "program": "subtract(217.49, 228.88), divide(#0, 228.88)"
+    }
+  ]
+}

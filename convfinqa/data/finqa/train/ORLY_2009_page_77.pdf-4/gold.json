@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the balance of accumulated other comprehensive loss from 2008 to 2009?",
+      "answer": -5821.0,
+      "answer_raw": "-5821.0",
+      "program": "subtract(13053, 18874)"
+    }
+  ]
+}

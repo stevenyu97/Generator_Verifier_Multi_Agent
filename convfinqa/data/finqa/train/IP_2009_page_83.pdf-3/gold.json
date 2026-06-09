@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the review of the unrecognized tax benefits what was the average settlement amount from 2007 to 2009 in millions",
+      "answer": 320.5,
+      "answer_raw": "320.5",
+      "program": "add(174, 352), add(#0, 112), add(#1, const_3), divide(#2, const_2)"
+    }
+  ]
+}

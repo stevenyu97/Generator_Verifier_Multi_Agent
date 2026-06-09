@@ -1,0 +1,56 @@
+{
+  "input": {
+    "id": "AAP/2013/page_68.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "advance auto parts , inc .",
+      "and subsidiaries notes to the consolidated financial statements december 28 , 2013 , december 29 , 2012 and december 31 , 2011 ( in thousands , except per share data ) in july 2012 , the fasb issued asu no .",
+      "2012-02 201cintangible-goodwill and other 2013 testing indefinite-lived intangible assets for impairment . 201d asu 2012-02 modifies the requirement to test intangible assets that are not subject to amortization based on events or changes in circumstances that might indicate that the asset is impaired now requiring the test only if it is more likely than not that the asset is impaired .",
+      "furthermore , asu 2012-02 provides entities the option of performing a qualitative assessment to determine if it is more likely than not that the fair value of an intangible asset is less than the carrying amount as a basis for determining whether it is necessary to perform a quantitative impairment test .",
+      "asu 2012-02 is effective for fiscal years beginning after september 15 , 2012 and early adoption is permitted .",
+      "the adoption of asu 2012-02 had no impact on the company 2019s consolidated financial condition , results of operations or cash flows .",
+      "3 .",
+      "inventories , net : merchandise inventory the company used the lifo method of accounting for approximately 95% ( 95 % ) of inventories at both december 28 , 2013 and december 29 , 2012 .",
+      "under lifo , the company 2019s cost of sales reflects the costs of the most recently purchased inventories , while the inventory carrying balance represents the costs for inventories purchased in fiscal 2013 and prior years .",
+      "the company recorded a reduction to cost of sales of $ 5572 and $ 24087 in fiscal 2013 and fiscal 2012 , respectively .",
+      "the company 2019s overall costs to acquire inventory for the same or similar products have generally decreased historically as the company has been able to leverage its continued growth , execution of merchandise strategies and realization of supply chain efficiencies .",
+      "in fiscal 2011 , the company recorded an increase to cost of sales of $ 24708 due to an increase in supply chain costs and inflationary pressures affecting certain product categories .",
+      "product cores the remaining inventories are comprised of product cores , the non-consumable portion of certain parts and batteries , which are valued under the first-in , first-out ( 201cfifo 201d ) method .",
+      "product cores are included as part of the company 2019s merchandise costs and are either passed on to the customer or returned to the vendor .",
+      "because product cores are not subject to frequent cost changes like the company 2019s other merchandise inventory , there is no material difference when applying either the lifo or fifo valuation method .",
+      "inventory overhead costs purchasing and warehousing costs included in inventory as of december 28 , 2013 and december 29 , 2012 , were $ 161519 and $ 134258 , respectively .",
+      "inventory balance and inventory reserves inventory balances at the end of fiscal 2013 and 2012 were as follows : december 28 , december 29 ."
+    ],
+    "post_text": [
+      "inventory quantities are tracked through a perpetual inventory system .",
+      "the company completes physical inventories and other targeted inventory counts in its store locations to ensure the accuracy of the perpetual inventory quantities of both merchandise and core inventory in these locations .",
+      "in its distribution centers and pdq aes , the company uses a cycle counting program to ensure the accuracy of the perpetual inventory quantities of both merchandise and product core inventory .",
+      "reserves for estimated shrink are established based on the results of physical inventories conducted by the company with the assistance of an independent third party in substantially all of the company 2019s stores over the course of the year , other targeted inventory counts in its stores , results from recent cycle counts in its distribution facilities and historical and current loss trends. ."
+    ],
+    "table": [
+      [
+        "",
+        "december 282013",
+        "december 292012"
+      ],
+      [
+        "inventories at fifo net",
+        "$ 2424795",
+        "$ 2182419"
+      ],
+      [
+        "adjustments to state inventories at lifo",
+        "131762",
+        "126190"
+      ],
+      [
+        "inventories at lifo net",
+        "$ 2556557",
+        "$ 2308609"
+      ]
+    ],
+    "questions": [
+      "what was the total reduction to cost of sales from 2011 to 2013?"
+    ]
+  }
+}

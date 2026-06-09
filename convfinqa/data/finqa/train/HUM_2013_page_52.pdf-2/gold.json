@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of shares purchased in november concerning the whole 2013 year?",
+      "answer": 0.59749,
+      "answer_raw": "0.59749",
+      "program": "divide(1191867, 1994797)"
+    }
+  ]
+}

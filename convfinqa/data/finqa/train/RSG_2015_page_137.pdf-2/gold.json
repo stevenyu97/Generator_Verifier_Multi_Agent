@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the remaining purchase capacity of the october 2015 compared to the authorized",
+      "answer": 0.95056,
+      "answer_raw": "0.95056",
+      "program": "divide(855.5, 900.0)"
+    }
+  ]
+}

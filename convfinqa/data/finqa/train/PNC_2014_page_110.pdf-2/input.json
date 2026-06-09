@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "PNC/2014/page_110.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "these simulations assume that as assets and liabilities mature , they are replaced or repriced at then current market rates .",
+      "we also consider forward projections of purchase accounting accretion when forecasting net interest income .",
+      "the following graph presents the libor/swap yield curves for the base rate scenario and each of the alternate scenarios one year forward .",
+      "table 51 : alternate interest rate scenarios : one year forward base rates pnc economist market forward slope flattening 2y 3y 5y 10y the fourth quarter 2014 interest sensitivity analyses indicate that our consolidated balance sheet is positioned to benefit from an increase in interest rates and an upward sloping interest rate yield curve .",
+      "we believe that we have the deposit funding base and balance sheet flexibility to adjust , where appropriate and permissible , to changing interest rates and market conditions .",
+      "market risk management 2013 customer-related trading we engage in fixed income securities , derivatives and foreign exchange transactions to support our customers 2019 investing and hedging activities .",
+      "these transactions , related hedges and the credit valuation adjustment ( cva ) related to our customer derivatives portfolio are marked-to-market daily and reported as customer-related trading activities .",
+      "we do not engage in proprietary trading of these products .",
+      "we use value-at-risk ( var ) as the primary means to measure and monitor market risk in customer-related trading activities .",
+      "we calculate a diversified var at a 95% ( 95 % ) confidence interval .",
+      "var is used to estimate the probability of portfolio losses based on the statistical analysis of historical market risk factors .",
+      "a diversified var reflects empirical correlations across different asset classes .",
+      "during 2014 , our 95% ( 95 % ) var ranged between $ .8 million and $ 3.9 million , averaging $ 2.1 million .",
+      "during 2013 , our 95% ( 95 % ) var ranged between $ 1.7 million and $ 5.5 million , averaging $ 3.5 million .",
+      "to help ensure the integrity of the models used to calculate var for each portfolio and enterprise-wide , we use a process known as backtesting .",
+      "the backtesting process consists of comparing actual observations of gains or losses against the var levels that were calculated at the close of the prior day .",
+      "this assumes that market exposures remain constant throughout the day and that recent historical market variability is a good predictor of future variability .",
+      "our customer-related trading activity includes customer revenue and intraday hedging which helps to reduce losses , and may reduce the number of instances of actual losses exceeding the prior day var measure .",
+      "there were two instances during 2014 under our diversified var measure where actual losses exceeded the prior day var measure .",
+      "in comparison , there was one such instance during 2013 .",
+      "we use a 500 day look back period for backtesting and include customer-related trading revenue .",
+      "the following graph shows a comparison of enterprise-wide gains and losses against prior day diversified var for the period indicated .",
+      "table 52 : enterprise 2013 wide gains/losses versus value-at- total customer-related trading revenue was as follows : table 53 : customer-related trading revenue ( a ) year ended december 31 in millions 2014 2013 ."
+    ],
+    "post_text": [
+      "( a ) customer-related trading revenues exclude underwriting fees for both periods presented .",
+      "( b ) includes changes in fair value for certain loans accounted for at fair value .",
+      "customer-related trading revenues for 2014 decreased $ 86 million compared with 2013 .",
+      "the decrease was primarily due to market interest rate changes impacting credit valuations for customer-related derivatives activities and reduced derivatives client sales revenues , which were partially offset by improved securities and foreign exchange client sales results .",
+      "92 the pnc financial services group , inc .",
+      "2013 form 10-k ."
+    ],
+    "table": [
+      [
+        "year ended december 31in millions",
+        "2014",
+        "2013"
+      ],
+      [
+        "net interest income",
+        "$ 31",
+        "$ 30"
+      ],
+      [
+        "noninterest income",
+        "147",
+        "234"
+      ],
+      [
+        "total customer-related trading revenue",
+        "$ 178",
+        "$ 264"
+      ],
+      [
+        "securities trading ( b )",
+        "$ 33",
+        "$ 21"
+      ],
+      [
+        "foreign exchange",
+        "96",
+        "98"
+      ],
+      [
+        "financial derivatives and other",
+        "49",
+        "145"
+      ],
+      [
+        "total customer-related trading revenue",
+        "$ 178",
+        "$ 264"
+      ]
+    ],
+    "questions": [
+      "in millions , what was the total in 2014 and 2013 of net interest income?"
+    ]
+  }
+}

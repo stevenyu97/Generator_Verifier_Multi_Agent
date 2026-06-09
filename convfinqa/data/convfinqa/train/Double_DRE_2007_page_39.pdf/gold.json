@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the recurring leasing costs in 2007?",
+      "answer": 32238.0,
+      "answer_raw": "32238.0",
+      "program": "32238"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the total recurring capital expenditures?",
+      "answer": 85936.0,
+      "answer_raw": "85936.0",
+      "program": "85936"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what proportion leasing costs represent?",
+      "answer": 0.37514,
+      "answer_raw": "0.37514",
+      "program": "divide(32238, 85936)"
+    }
+  ]
+}

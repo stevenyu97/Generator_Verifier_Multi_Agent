@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the weighted average discount rate for pensions from 2010 to 2011?",
+      "answer": -0.10445,
+      "answer_raw": "-0.10445",
+      "program": "subtract(5.23, 5.84), divide(#0, 5.84)"
+    }
+  ]
+}

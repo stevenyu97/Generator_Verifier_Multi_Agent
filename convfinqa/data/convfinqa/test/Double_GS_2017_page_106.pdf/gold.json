@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "between the years of 2015 and 2016, what was the change in the estimated sensitivity to a one basis point increase in credit spreads on financial liabilities for which the fair value option was elected?",
+      "answer": 10.0,
+      "answer_raw": "10.0",
+      "program": "subtract(35, 25)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in the subsequent year of this period, in 2017, what percentage of the total market risk for positions, accounted for at fair value, that are not included in var, was due to equity?",
+      "answer": 0.56618,
+      "answer_raw": "0.56618",
+      "program": "divide(2096, 3702)"
+    }
+  ]
+}

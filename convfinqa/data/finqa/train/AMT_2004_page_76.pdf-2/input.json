@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "AMT/2004/page_76.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements 2014 ( continued ) stock-based compensation 2014the company complies with the provisions of sfas no .",
+      "148 , 201caccounting for stock-based compensation 2014transition and disclosure 2014an amendment of sfas no .",
+      "123 , 201d which provides optional transition guidance for those companies electing to voluntarily adopt the accounting provisions of sfas no .",
+      "123 .",
+      "the company continues to use accounting principles board opinion no .",
+      "25 ( apb no .",
+      "25 ) , 201caccounting for stock issued to employees , 201d to account for equity grants and awards to employees , officers and directors and has adopted the disclosure-only provisions of sfas no .",
+      "148 .",
+      "in accordance with apb no .",
+      "25 , the company recognizes compensation expense based on the excess , if any , of the quoted stock price at the grant date of the award or other measurement date over the amount an employee must pay to acquire the stock .",
+      "the company 2019s stock option plans are more fully described in note 13 .",
+      "in december 2004 , the fasb issued sfas no .",
+      "123r , 201cshare-based payment 201d ( sfas no .",
+      "123r ) , described below .",
+      "the following table illustrates the effect on net loss and net loss per share if the company had applied the fair value recognition provisions of sfas no .",
+      "123 ( as amended ) to stock-based compensation .",
+      "the estimated fair value of each option is calculated using the black-scholes option-pricing model ( in thousands , except per share amounts ) : ."
+    ],
+    "post_text": [
+      "during the year ended december 31 , 2004 and 2003 , the company modified certain option awards to accelerate vesting and recorded charges of $ 3.0 million and $ 2.3 million , respectively , and corresponding increases to additional paid in capital in the accompanying consolidated financial statements .",
+      "fair value of financial instruments 2014the carrying values of the company 2019s financial instruments , with the exception of long-term obligations , including current portion , reasonably approximate the related fair values as of december 31 , 2004 and 2003 .",
+      "as of december 31 , 2004 , the carrying amount and fair value of long-term obligations , including current portion , were $ 3.3 billion and $ 3.6 billion , respectively .",
+      "as of december 31 , 2003 , the carrying amount and fair value of long-term obligations , including current portion , were $ 3.4 billion and $ 3.6 billion , respectively .",
+      "fair values are based primarily on quoted market prices for those or similar instruments .",
+      "retirement plan 2014the company has a 401 ( k ) plan covering substantially all employees who meet certain age and employment requirements .",
+      "under the plan , the company matching contribution for periods prior to june 30 , 2004 was 35% ( 35 % ) up to a maximum 5% ( 5 % ) of a participant 2019s contributions .",
+      "effective july 1 , 2004 , the plan was amended to increase the company match to 50% ( 50 % ) up to a maximum 6% ( 6 % ) of a participant 2019s contributions .",
+      "the company contributed approximately $ 533000 , $ 825000 and $ 979000 to the plan for the years ended december 31 , 2004 , 2003 and 2002 , respectively .",
+      "recent accounting pronouncements 2014in december 2004 , the fasb issued sfas no .",
+      "123r , which is a revision of sfas no .",
+      "123 , 201caccounting for stock-based compensation , 201d and supersedes apb no .",
+      "25 , accounting for ."
+    ],
+    "table": [
+      [
+        "",
+        "2004",
+        "2003",
+        "2002"
+      ],
+      [
+        "net loss as reported",
+        "$ -247587 ( 247587 )",
+        "$ -325321 ( 325321 )",
+        "$ -1163540 ( 1163540 )"
+      ],
+      [
+        "add : stock-based employee compensation expense associated with modifications net of related tax effect included in net loss asreported",
+        "2297",
+        "2077",
+        ""
+      ],
+      [
+        "less : total stock-based employee compensation expense determined under fair value based method for all awards net of related taxeffect",
+        "-23906 ( 23906 )",
+        "-31156 ( 31156 )",
+        "-38126 ( 38126 )"
+      ],
+      [
+        "pro-forma net loss",
+        "$ -269196 ( 269196 )",
+        "$ -354400 ( 354400 )",
+        "$ -1201666 ( 1201666 )"
+      ],
+      [
+        "basic and diluted net loss per share 2014as reported",
+        "$ -1.10 ( 1.10 )",
+        "$ -1.56 ( 1.56 )",
+        "$ -5.95 ( 5.95 )"
+      ],
+      [
+        "basic and diluted net loss per share pro-forma",
+        "$ -1.20 ( 1.20 )",
+        "$ -1.70 ( 1.70 )",
+        "$ -6.15 ( 6.15 )"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in 401 ( k ) contributed amounts from 2002 to 2003?"
+    ]
+  }
+}

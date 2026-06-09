@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "of total repurchases in october to december 2018 , what percentage of shares purchased were part of publicly announced plans or programs?",
+      "answer": 0.96241,
+      "answer_raw": "0.96241",
+      "program": "divide(2620987, 2723347)"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "AAPL/2008/page_38.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents company stock performance the following graph shows a five-year comparison of cumulative total shareholder return , calculated on a dividend reinvested basis , for the company , the s&p 500 composite index ( the 201cs&p 500 201d ) and the s&p computers ( hardware ) index ( the 201cindustry index 201d ) .",
+      "the graph assumes $ 100 was invested in each of the company 2019s common stock , the s&p 500 , and the industry index on september 30 , 2003 .",
+      "data points on the graph are annual .",
+      "note that historic stock price performance is not necessarily indicative of future stock price performance .",
+      "copyright a9 2008 , standard & poor 2019s , a division of the mcgraw-hill companies , inc .",
+      "all rights reserved. ."
+    ],
+    "post_text": [
+      "s&p a9 500 $ 100 $ 114 $ 128 $ 142 $ 165 $ 129 s&p a9 computer hardware $ 100 $ 104 $ 119 $ 128 $ 188 $ 158 ."
+    ],
+    "table": [
+      [
+        "",
+        "sep-03",
+        "sep-04",
+        "sep-05",
+        "sep-06",
+        "sep-07",
+        "sep-08"
+      ],
+      [
+        "apple inc .",
+        "$ 100",
+        "$ 187",
+        "$ 517",
+        "$ 743",
+        "$ 1481",
+        "$ 1097"
+      ],
+      [
+        "s&p a9500",
+        "$ 100",
+        "$ 114",
+        "$ 128",
+        "$ 142",
+        "$ 165",
+        "$ 129"
+      ],
+      [
+        "s&p a9computer hardware",
+        "$ 100",
+        "$ 104",
+        "$ 119",
+        "$ 128",
+        "$ 188",
+        "$ 158"
+      ]
+    ],
+    "questions": [
+      "what was the change in cumulative total return for the s&p a9500 between 2003 and 2004?"
+    ]
+  }
+}

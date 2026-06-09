@@ -1,0 +1,99 @@
+{
+  "input": {
+    "id": "ADBE/2009/page_98.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "adobe systems incorporated notes to consolidated financial statements ( continued ) note 8 .",
+      "other assets other assets as of november 27 , 2009 and november 28 , 2008 consisted of the following ( in thousands ) : ."
+    ],
+    "post_text": [
+      "acquired rights to use technology purchased during fiscal 2009 and fiscal 2008 was $ 6.0 million and $ 100.4 million , respectively .",
+      "of the cost for fiscal 2008 , an estimated $ 56.4 million was related to future licensing rights and has been capitalized and is being amortized on a straight-line basis over the estimated useful lives up to fifteen years .",
+      "of the remaining costs for fiscal 2008 , we estimated that $ 27.2 million was related to historical use of licensing rights which was expensed as cost of sales and the residual of $ 16.8 million for fiscal 2008 was expensed as general and administrative costs .",
+      "in connection with these licensing arrangements , we have the ability to acquire additional rights to use technology in the future .",
+      "see note 17 for further information regarding our contractual commitments .",
+      "in general , acquired rights to use technology are amortized over their estimated useful lives of 3 to 15 years .",
+      "included in investments are our indirect investments through our limited partnership interest in adobe ventures of approximately $ 37.1 million and $ 39.0 million as of november 27 , 2009 and november 28 , 2008 , respectively , which is consolidated in accordance with the provisions for consolidating variable interest entities .",
+      "the partnership is controlled by granite ventures , an independent venture capital firm and sole general partner of adobe ventures .",
+      "we are the primary beneficiary of adobe ventures and bear virtually all of the risks and rewards related to our ownership .",
+      "our investment in adobe ventures does not have a significant impact on our consolidated financial position , results of operations or cash flows .",
+      "adobe ventures carries its investments in equity securities at estimated fair value and investment gains and losses are included in our consolidated statements of income .",
+      "substantially all of the investments held by adobe ventures at november 27 , 2009 and november 28 , 2008 are not publicly traded and , therefore , there is no established market for these securities .",
+      "in order to determine the fair value of these investments , we use the most recent round of financing involving new non-strategic investors or estimates of current market value made by granite ventures .",
+      "it is our policy to evaluate the fair value of these investments held by adobe ventures , as well as our direct investments , on a regular basis .",
+      "this evaluation includes , but is not limited to , reviewing each company 2019s cash position , financing needs , earnings and revenue outlook , operational performance , management and ownership changes and competition .",
+      "in the case of privately-held companies , this evaluation is based on information that we request from these companies .",
+      "this information is not subject to the same disclosure regulations as u.s .",
+      "publicly traded companies and as such , the basis for these evaluations is subject to the timing and the accuracy of the data received from these companies .",
+      "see note 4 for further information regarding adobe ventures .",
+      "also included in investments are our direct investments in privately-held companies of approximately $ 26.4 million and $ 37.6 million as of november 27 , 2009 and november 28 , 2008 , respectively , which are accounted for based on the cost method .",
+      "we assess these investments for impairment in value as circumstances dictate .",
+      "see note 4 for further information regarding our cost method investments .",
+      "we entered into a purchase and sale agreement , effective may 12 , 2008 , for the acquisition of real property located in waltham , massachusetts .",
+      "we purchased the property upon completion of construction of an office building shell and core , parking structure , and site improvements .",
+      "the purchase price for the property was $ 44.7 million and closed on june 16 , 2009 .",
+      "we made an initial deposit of $ 7.0 million which was included in security and other deposits as of november 28 , 2008 and the remaining balance was paid at closing .",
+      "this deposit was held in escrow until closing and then applied to the purchase price. ."
+    ],
+    "table": [
+      [
+        "",
+        "2009",
+        "2008"
+      ],
+      [
+        "acquired rights to use technology",
+        "$ 84313",
+        "$ 90643"
+      ],
+      [
+        "investments",
+        "63526",
+        "76589"
+      ],
+      [
+        "security and other deposits",
+        "11692",
+        "16087"
+      ],
+      [
+        "prepaid royalties",
+        "12059",
+        "9026"
+      ],
+      [
+        "deferred compensation plan assets",
+        "9045",
+        "7560"
+      ],
+      [
+        "restricted cash",
+        "4650",
+        "7361"
+      ],
+      [
+        "prepaid land lease",
+        "3209",
+        "3185"
+      ],
+      [
+        "prepaid rent",
+        "1377",
+        "2658"
+      ],
+      [
+        "other",
+        "1394",
+        "3420"
+      ],
+      [
+        "other assets",
+        "$ 191265",
+        "$ 216529"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in the other assets from 2008 to 2009?"
+    ]
+  }
+}

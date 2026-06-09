@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "Single_IPG/2018/page_26.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "part ii item 5 .",
+      "market for registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities market information our common stock is listed and traded on the new york stock exchange under the symbol 201cipg 201d .",
+      "as of february 13 , 2019 , there were approximately 10000 registered holders of our outstanding common stock .",
+      "on february 13 , 2019 , we announced that our board of directors ( the 201cboard 201d ) had declared a common stock cash dividend of $ 0.235 per share , payable on march 15 , 2019 to holders of record as of the close of business on march 1 , 2019 .",
+      "although it is the board 2019s current intention to declare and pay future dividends , there can be no assurance that such additional dividends will in fact be declared and paid .",
+      "any and the amount of any such declaration is at the discretion of the board and will depend upon factors such as our earnings , financial position and cash requirements .",
+      "equity compensation plans see item 12 for information about our equity compensation plans .",
+      "transfer agent and registrar for common stock the transfer agent and registrar for our common stock is : computershare shareowner services llc 480 washington boulevard 29th floor jersey city , new jersey 07310 telephone : ( 877 ) 363-6398 sales of unregistered securities not applicable .",
+      "repurchases of equity securities the following table provides information regarding our purchases of our equity securities during the period from october 1 , 2018 to december 31 , 2018 .",
+      "total number of shares ( or units ) purchased 1 average price paid per share ( or unit ) 2 total number of shares ( or units ) purchased as part of publicly announced plans or programs 3 maximum number ( or approximate dollar value ) of shares ( or units ) that may yet be purchased under the plans or programs 3 ."
+    ],
+    "post_text": [
+      "1 the total number of shares of our common stock , par value $ 0.10 per share , repurchased were withheld under the terms of grants under employee stock- based compensation plans to offset tax withholding obligations that occurred upon vesting and release of restricted shares ( the 201cwithheld shares 201d ) .",
+      "2 the average price per share for each of the months in the fiscal quarter and for the three-month period was calculated by dividing the sum in the applicable period of the aggregate value of the tax withholding obligations by the sum of the number of withheld shares .",
+      "3 in february 2017 , the board authorized a share repurchase program to repurchase from time to time up to $ 300.0 million , excluding fees , of our common stock ( the 201c2017 share repurchase program 201d ) .",
+      "in february 2018 , the board authorized a share repurchase program to repurchase from time to time up to $ 300.0 million , excluding fees , of our common stock , which was in addition to any amounts remaining under the 2017 share repurchase program .",
+      "on july 2 , 2018 , in connection with the announcement of the acxiom acquisition , we announced that share repurchases will be suspended for a period of time in order to reduce the increased debt levels incurred in conjunction with the acquisition , and no shares were repurchased pursuant to the share repurchase programs in the periods reflected .",
+      "there are no expiration dates associated with the share repurchase programs. ."
+    ],
+    "table": [
+      [
+        "",
+        "total number ofshares ( or units ) purchased1",
+        "average price paidper share ( or unit ) 2",
+        "total number ofshares ( or units ) purchased as part ofpublicly announcedplans or programs3",
+        "maximum number ( orapproximate dollar value ) of shares ( or units ) that may yet be purchasedunder the plans orprograms3"
+      ],
+      [
+        "october 1 - 31",
+        "3824",
+        "$ 23.30",
+        "2014",
+        "$ 338421933"
+      ],
+      [
+        "november 1 - 30",
+        "1750",
+        "$ 23.77",
+        "2014",
+        "$ 338421933"
+      ],
+      [
+        "december 1 - 31",
+        "2014",
+        "2014",
+        "2014",
+        "$ 338421933"
+      ],
+      [
+        "total",
+        "5574",
+        "$ 23.45",
+        "2014",
+        ""
+      ]
+    ],
+    "questions": [
+      "what was the total value spent on purchased shares in october?",
+      "and what was the total number of shares purchased in november?",
+      "for what price, in average, were those shares purchased?",
+      "what was, then, the total value spent on purchased shares in november?",
+      "and what is the difference between the total value spent on purchased shares in october and in november?"
+    ]
+  }
+}

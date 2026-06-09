@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "consumer home equity lines of credit accounted for 80% ( 80 % ) of consumer unfunded credit commitments . what is this amount in 2007 in millions of dollars?",
+      "answer": 8700.0,
+      "answer_raw": "8700.0",
+      "program": "multiply(80%, 10875)"
+    }
+  ]
+}

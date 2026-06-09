@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by what percentage did the amount of claims as of sept 30 , 2007 decrease to equal the combined claims september 30 of 2009-2012?",
+      "answer": 62.0438,
+      "answer_raw": "62.0438",
+      "program": "subtract(137, 52), divide(#0, 137), multiply(#1, 100)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total of withheld shares in the months of october and november, combined?",
+      "answer": 2367.0,
+      "answer_raw": "2367.0",
+      "program": "add(1474, 893)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "including december, what then becomes that total of withheld shares?",
+      "answer": 13006.0,
+      "answer_raw": "13006.0",
+      "program": "add(1474, 893), add(#0, 10639)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what is the average of withheld shares between those three months?",
+      "answer": 4335.33333,
+      "answer_raw": "4335.33333",
+      "program": "add(1474, 893), add(#0, 10639), divide(#1, const_3)"
+    }
+  ]
+}

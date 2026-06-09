@@ -1,0 +1,113 @@
+{
+  "input": {
+    "id": "GS/2013/page_145.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements level 3 rollforward if a derivative was transferred to level 3 during a reporting period , its entire gain or loss for the period is included in level 3 .",
+      "transfers between levels are reported at the beginning of the reporting period in which they occur .",
+      "in the tables below , negative amounts for transfers into level 3 and positive amounts for transfers out of level 3 represent net transfers of derivative liabilities .",
+      "gains and losses on level 3 derivatives should be considered in the context of the following : 2030 a derivative with level 1 and/or level 2 inputs is classified in level 3 in its entirety if it has at least one significant level 3 input .",
+      "2030 if there is one significant level 3 input , the entire gain or loss from adjusting only observable inputs ( i.e. , level 1 and level 2 inputs ) is classified as level 3 .",
+      "2030 gains or losses that have been reported in level 3 resulting from changes in level 1 or level 2 inputs are frequently offset by gains or losses attributable to level 1 or level 2 derivatives and/or level 1 , level 2 and level 3 cash instruments .",
+      "as a result , gains/ ( losses ) included in the level 3 rollforward below do not necessarily represent the overall impact on the firm 2019s results of operations , liquidity or capital resources .",
+      "the tables below present changes in fair value for all derivatives categorized as level 3 as of the end of the year. ."
+    ],
+    "post_text": [
+      "1 .",
+      "the aggregate amounts include losses of approximately $ 1.29 billion and $ 324 million reported in 201cmarket making 201d and 201cother principal transactions , 201d respectively .",
+      "the net unrealized loss on level 3 derivatives of $ 1.37 billion for 2013 principally resulted from changes in level 2 inputs and was primarily attributable to losses on certain credit derivatives , principally due to the impact of tighter credit spreads , and losses on certain currency derivatives , primarily due to changes in foreign exchange rates .",
+      "transfers into level 3 derivatives during 2013 primarily reflected transfers of credit derivative assets from level 2 , principally due to reduced transparency of upfront credit points and correlation inputs used to value these derivatives .",
+      "transfers out of level 3 derivatives during 2013 primarily reflected transfers of certain credit derivatives to level 2 , principally due to unobservable credit spread and correlation inputs no longer being significant to the valuation of these derivatives and unobservable inputs not being significant to the net risk of certain portfolios .",
+      "goldman sachs 2013 annual report 143 ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "level 3 derivative assets and liabilities at fair value for the year ended december 2013 asset/ ( liability ) balance beginning of year",
+        "level 3 derivative assets and liabilities at fair value for the year ended december 2013 net realized gains/ ( losses )",
+        "level 3 derivative assets and liabilities at fair value for the year ended december 2013 net unrealized gains/ ( losses ) relating to instruments still held at year-end",
+        "level 3 derivative assets and liabilities at fair value for the year ended december 2013 purchases",
+        "level 3 derivative assets and liabilities at fair value for the year ended december 2013 sales",
+        "level 3 derivative assets and liabilities at fair value for the year ended december 2013 settlements",
+        "level 3 derivative assets and liabilities at fair value for the year ended december 2013 transfers into level 3",
+        "level 3 derivative assets and liabilities at fair value for the year ended december 2013 transfers out of level 3",
+        "level 3 derivative assets and liabilities at fair value for the year ended december 2013 asset/ ( liability ) balance endof year"
+      ],
+      [
+        "interest rates 2014 net",
+        "$ -355 ( 355 )",
+        "$ -78 ( 78 )",
+        "$ 168",
+        "$ 1",
+        "$ -8 ( 8 )",
+        "$ 196",
+        "$ -9 ( 9 )",
+        "$ -1 ( 1 )",
+        "$ -86 ( 86 )"
+      ],
+      [
+        "credit 2014 net",
+        "6228",
+        "-1 ( 1 )",
+        "-977 ( 977 )",
+        "201",
+        "-315 ( 315 )",
+        "-1508 ( 1508 )",
+        "695",
+        "-147 ( 147 )",
+        "4176"
+      ],
+      [
+        "currencies 2014 net",
+        "35",
+        "-93 ( 93 )",
+        "-419 ( 419 )",
+        "22",
+        "-6 ( 6 )",
+        "169",
+        "139",
+        "-47 ( 47 )",
+        "-200 ( 200 )"
+      ],
+      [
+        "commodities 2014 net",
+        "-304 ( 304 )",
+        "-6 ( 6 )",
+        "58",
+        "21",
+        "-48 ( 48 )",
+        "281",
+        "50",
+        "8",
+        "60"
+      ],
+      [
+        "equities 2014 net",
+        "-1248 ( 1248 )",
+        "-67 ( 67 )",
+        "-202 ( 202 )",
+        "77",
+        "-472 ( 472 )",
+        "1020",
+        "-15 ( 15 )",
+        "-52 ( 52 )",
+        "-959 ( 959 )"
+      ],
+      [
+        "total derivatives 2014 net",
+        "$ 4356",
+        "$ ( 245 ) 1",
+        "$ ( 1372 ) 1",
+        "$ 322",
+        "$ -849 ( 849 )",
+        "$ 158",
+        "$ 860",
+        "$ -239 ( 239 )",
+        "$ 2991"
+      ]
+    ],
+    "questions": [
+      "what was the total derivatives-net change for level 3 derivative assets and liabilities at fair value for the year from the beginning of 2013 to the end of 2013 , in millions?"
+    ]
+  }
+}

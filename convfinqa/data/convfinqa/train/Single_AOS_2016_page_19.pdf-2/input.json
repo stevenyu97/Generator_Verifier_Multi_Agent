@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "Single_AOS/2016/page_19.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the graph below shows a five-year comparison of the cumulative shareholder return on our common stock with the cumulative total return of the standard & poor 2019s ( s&p ) mid cap 400 index and the russell 1000 index , both of which are published indices .",
+      "comparison of five-year cumulative total return from december 31 , 2011 to december 31 , 2016 assumes $ 100 invested with reinvestment of dividends period indexed returns ."
+    ],
+    "post_text": [
+      "2011 2012 2013 2014 2015 2016 smith ( a o ) corp s&p midcap 400 index russell 1000 index ."
+    ],
+    "table": [
+      [
+        "company/index",
+        "baseperiod 12/31/11",
+        "baseperiod 12/31/12",
+        "baseperiod 12/31/13",
+        "baseperiod 12/31/14",
+        "baseperiod 12/31/15",
+        "12/31/16"
+      ],
+      [
+        "a . o . smith corporation",
+        "100.0",
+        "159.5",
+        "275.8",
+        "292.0",
+        "401.0",
+        "501.4"
+      ],
+      [
+        "s&p mid cap 400 index",
+        "100.0",
+        "117.9",
+        "157.4",
+        "172.8",
+        "169.0",
+        "204.1"
+      ],
+      [
+        "russell 1000 index",
+        "100.0",
+        "116.4",
+        "155.0",
+        "175.4",
+        "177.0",
+        "198.4"
+      ]
+    ],
+    "questions": [
+      "what was the a. o. smith corporation share price as of 12/31/16?",
+      "and the change in price between 12/31/11 and this date?",
+      "so what was the percentage return during this time?",
+      "and the price for russell 1000 index as of 12/31/16?",
+      "and the change in price from 12/31/11?",
+      "so what was the percentage change during this time?"
+    ]
+  }
+}

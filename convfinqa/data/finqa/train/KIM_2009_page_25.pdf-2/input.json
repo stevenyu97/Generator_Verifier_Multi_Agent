@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "KIM/2009/page_25.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "latin american investments during 2009 , the company acquired a land parcel located in rio clara , brazil through a newly formed consolidated joint venture in which the company has a 70% ( 70 % ) controlling ownership interest for a purchase price of 3.3 million brazilian reals ( approximately usd $ 1.5 million ) .",
+      "this parcel will be developed into a 48000 square foot retail shopping center .",
+      "additionally , during 2009 , the company acquired a land parcel located in san luis potosi , mexico , through an unconsolidated joint venture in which the company has a noncontrolling interest , for an aggregate purchase price of approximately $ 0.8 million .",
+      "the company recognized equity in income from its unconsolidated mexican investments in real estate joint ventures of approximately $ 7.0 million , $ 17.1 million , and $ 5.2 million during 2009 , 2008 and 2007 , respectively .",
+      "the company recognized equity in income from its unconsolidated chilean investments in real estate joint ventures of approximately $ 0.4 million , $ 0.2 and $ 0.1 million during 2009 , 2008 and 2007 , respectively .",
+      "the company 2019s revenues from its consolidated mexican subsidiaries aggregated approximately $ 23.4 million , $ 20.3 million , $ 8.5 million during 2009 , 2008 and 2007 , respectively .",
+      "the company 2019s revenues from its consolidated brazilian subsidiaries aggregated approximately $ 1.5 million and $ 0.4 million during 2009 and 2008 , respectively .",
+      "the company 2019s revenues from its consolidated chilean subsidiaries aggregated less than $ 100000 during 2009 and 2008 , respectively .",
+      "mortgages and other financing receivables during 2009 , the company provided financing to five borrowers for an aggregate amount of approximately $ 8.3 million .",
+      "during 2009 , the company received an aggregate of approximately $ 40.4 million which fully paid down the outstanding balance on four mortgage receivables .",
+      "as of december 31 , 2009 , the company had 37 loans with total commitments of up to $ 178.9 million , of which approximately $ 131.3 million has been funded .",
+      "availability under the company 2019s revolving credit facilities are expected to be sufficient to fund these remaining commitments .",
+      "( see note 10 of the notes to consolidated financial statements included in this annual report on form 10-k. ) asset impairments on a continuous basis , management assesses whether there are any indicators , including property operating performance and general market conditions , that the value of the company 2019s assets ( including any related amortizable intangible assets or liabilities ) may be impaired .",
+      "to the extent impairment has occurred , the carrying value of the asset would be adjusted to an amount to reflect the estimated fair value of the asset .",
+      "during 2009 , economic conditions had continued to experience volatility resulting in further declines in the real estate and equity markets .",
+      "year over year increases in capitalization rates , discount rates and vacancies as well as the deterioration of real estate market fundamentals , negatively impacted net operating income and leasing which further contributed to declines in real estate markets in general .",
+      "as a result of the volatility and declining market conditions described above , as well as the company 2019s strategy in relation to certain of its non-retail assets , the company recognized non-cash impairment charges during 2009 , aggregating approximately $ 175.1 million , before income tax benefit of approximately $ 22.5 million and noncontrolling interests of approximately $ 1.2 million .",
+      "details of these non-cash impairment charges are as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "( see notes 2 , 6 , 8 , 9 , 10 and 11 of the notes to consolidated financial statements included in this annual report on form 10-k. ) ."
+    ],
+    "table": [
+      [
+        "impairment of property carrying values",
+        "$ 50.0"
+      ],
+      [
+        "real estate under development",
+        "2.1"
+      ],
+      [
+        "investments in other real estate investments",
+        "49.2"
+      ],
+      [
+        "marketable securities and other investments",
+        "30.1"
+      ],
+      [
+        "investments in real estate joint ventures",
+        "43.7"
+      ],
+      [
+        "total impairment charges",
+        "$ 175.1"
+      ]
+    ],
+    "questions": [
+      "as of dec 31 , 2009 , what was the average loan commitment for the company for all of its total loan commitments , in millions>"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net increase in the number of asbestos cases during 2010?",
+      "answer": -27.0,
+      "answer_raw": "-27.0",
+      "program": "subtract(499, 526)"
+    }
+  ]
+}

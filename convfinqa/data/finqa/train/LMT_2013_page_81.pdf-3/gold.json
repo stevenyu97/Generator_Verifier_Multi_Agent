@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the change in the total long-term debt net of unamortized discounts from 2012 to 2013",
+      "answer": 0.00015,
+      "answer_raw": "0.00015",
+      "program": "divide(6152, 6308), divide(#0, 6308)"
+    }
+  ]
+}

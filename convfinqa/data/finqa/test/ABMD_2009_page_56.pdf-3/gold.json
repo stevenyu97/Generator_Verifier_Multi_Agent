@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of operating lease commitments is expected to be paid within 12 months?",
+      "answer": 0.21637,
+      "answer_raw": "0.21637",
+      "program": "divide(2313, 10690)"
+    }
+  ]
+}

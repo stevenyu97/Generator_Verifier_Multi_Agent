@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in net sales for the discontinued operations related to the former glass segment from 2016 to 2017 in millions?",
+      "answer": -691.0,
+      "answer_raw": "-691.0",
+      "program": "subtract(217, 908)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in total commitments to extend credit and other commitments from 2017 to 2018?",
+      "answer": 9091.0,
+      "answer_raw": "9091.0",
+      "program": "subtract(181612, 172521)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the value in 2017?",
+      "answer": 172521.0,
+      "answer_raw": "172521.0",
+      "program": "172521"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change divided by the 2017 value?",
+      "answer": 0.0527,
+      "answer_raw": "0.0527",
+      "program": "subtract(181612, 172521), divide(#0, 172521)"
+    }
+  ]
+}

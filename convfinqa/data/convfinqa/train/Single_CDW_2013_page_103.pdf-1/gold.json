@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of forfeited shares as of december 2013?",
+      "answer": 5931.0,
+      "answer_raw": "5931.0",
+      "program": "5931"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that of vested shares?",
+      "answer": 1200544.0,
+      "answer_raw": "1200544.0",
+      "program": "1200544"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "if the forfeited shares became vested, what would then be the total sum of vested shares?",
+      "answer": 1206475.0,
+      "answer_raw": "1206475.0",
+      "program": "add(5931, 1200544)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage would that sum represent in relation to the total number of shares?",
+      "answer": 0.31762,
+      "answer_raw": "0.31762",
+      "program": "add(5931, 1200544), divide(#0, 3798508)"
+    }
+  ]
+}

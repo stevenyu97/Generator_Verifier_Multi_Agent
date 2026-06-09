@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total long-term debt 2013 kmp after the implementation of asu 2009-17 is current maturities?",
+      "answer": 0.10941,
+      "answer_raw": "0.10941",
+      "program": "add(10282.8, 1263.3), divide(1263.3, #0)"
+    }
+  ]
+}

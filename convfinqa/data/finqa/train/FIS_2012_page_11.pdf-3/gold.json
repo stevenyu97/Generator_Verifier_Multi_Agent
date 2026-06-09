@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total consolidate revenue was the psg segment in 2011?",
+      "answer": 0.42166,
+      "answer_raw": "0.42166",
+      "program": "divide(2372.1, 5625.6)"
+    }
+  ]
+}

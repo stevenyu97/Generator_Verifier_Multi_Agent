@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2014 what was the decrease in printing papers net sales in millions",
+      "answer": -0.5,
+      "answer_raw": "-0.5",
+      "program": "subtract(5.7, 6.2)"
+    }
+  ]
+}

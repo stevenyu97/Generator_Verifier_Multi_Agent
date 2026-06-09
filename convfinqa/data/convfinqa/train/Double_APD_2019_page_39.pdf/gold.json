@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in the effective tax rate between 2018 and 2019?",
+      "answer": 0.05,
+      "answer_raw": "0.05",
+      "program": "subtract(26.0%, 21.0%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the difference in the adjusted effective tax rate between 2018 and 2019?",
+      "answer": 0.008,
+      "answer_raw": "0.008",
+      "program": "subtract(19.4%, 18.6%)"
+    }
+  ]
+}

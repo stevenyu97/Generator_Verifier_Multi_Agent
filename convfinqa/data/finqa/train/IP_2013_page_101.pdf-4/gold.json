@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the lease obligations to purchase obligations",
+      "answer": 0.13024,
+      "answer_raw": "0.13024",
+      "program": "divide(59, 453)"
+    }
+  ]
+}

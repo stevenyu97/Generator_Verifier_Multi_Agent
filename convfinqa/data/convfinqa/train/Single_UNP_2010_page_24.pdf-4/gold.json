@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the positive value of dividends paid in 2010?",
+      "answer": 602.0,
+      "answer_raw": "602.0",
+      "program": "602"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the positive value in 2009?",
+      "answer": 544.0,
+      "answer_raw": "544.0",
+      "program": "544"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum value?",
+      "answer": 1146.0,
+      "answer_raw": "1146.0",
+      "program": "add(602, 544)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total sum including the positive value in 2008?",
+      "answer": 1627.0,
+      "answer_raw": "1627.0",
+      "program": "add(602, 544), add(#0, 481)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the average per year?",
+      "answer": 542.33333,
+      "answer_raw": "542.33333",
+      "program": "add(602, 544), add(#0, 481), divide(#1, const_3)"
+    }
+  ]
+}

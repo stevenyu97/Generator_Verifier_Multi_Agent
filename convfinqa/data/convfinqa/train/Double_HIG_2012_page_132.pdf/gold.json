@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2012, what percentage did the property and casualty insurance subsidiaries represent in relation to the total statutory surplus for the company 2019s insurance companies?",
+      "answer": 0.54393,
+      "answer_raw": "0.54393",
+      "program": "divide(7645, 14055)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the change in the value of those property and casualty insurance subsidiaries since 2011?",
+      "answer": 233.0,
+      "answer_raw": "233.0",
+      "program": "subtract(7645, 7412)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the highest share price in the period october 1 2005 to december 31 2005?",
+      "answer": 13.14,
+      "answer_raw": "13.14",
+      "program": "table_max(october 1 2005 to december 31 2005, none)"
+    }
+  ]
+}

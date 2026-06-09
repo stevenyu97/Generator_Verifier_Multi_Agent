@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "GPN/2008/page_99.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements 2014 ( continued ) merchant acquiring business in the united kingdom to the partnership .",
+      "in addition , hsbc uk entered into a ten-year marketing alliance with the partnership in which hsbc uk will refer customers to the partnership for payment processing services in the united kingdom .",
+      "on june 23 , 2008 , we entered into a new five year , $ 200 million term loan to fund a portion of the acquisition .",
+      "we funded the remaining purchase price with excess cash and our existing credit facilities .",
+      "the term loan bears interest , at our election , at the prime rate or london interbank offered rate plus a margin based on our leverage position .",
+      "as of july 1 , 2008 , the interest rate on the term loan was 3.605% ( 3.605 % ) .",
+      "the term loan calls for quarterly principal payments of $ 5 million beginning with the quarter ending august 31 , 2008 and increasing to $ 10 million beginning with the quarter ending august 31 , 2010 and $ 15 million beginning with the quarter ending august 31 , 2011 .",
+      "the partnership agreement includes provisions pursuant to which hsbc uk may compel us to purchase , at fair value , additional membership units from hsbc uk ( the 201cput option 201d ) .",
+      "hsbc uk may exercise the put option on the fifth anniversary of the closing of the acquisition and on each anniversary thereafter .",
+      "by exercising the put option , hsbc uk can require us to purchase , on an annual basis , up to 15% ( 15 % ) of the total membership units .",
+      "additionally , on the tenth anniversary of closing and each tenth anniversary thereafter , hsbc uk may compel us to purchase all of their membership units at fair value .",
+      "while not redeemable until june 2013 , we estimate the maximum total redemption amount of the minority interest under the put option would be $ 421.4 million , as of may 31 , 2008 .",
+      "the purpose of this acquisition was to establish a presence in the united kingdom .",
+      "the key factors that contributed to the decision to make this acquisition include historical and prospective financial statement analysis and hsbc uk 2019s market share and retail presence in the united kingdom .",
+      "the purchase price was determined by analyzing the historical and prospective financial statements and applying relevant purchase price multiples .",
+      "the purchase price totaled $ 441.1 million , consisting of $ 438.6 million cash consideration plus $ 2.5 million of direct out of pocket costs .",
+      "the acquisition has been recorded using the purchase method of accounting , and , accordingly , the purchase price has been allocated to the assets acquired and liabilities assumed based on their estimated fair values at the date of acquisition .",
+      "the following table summarizes the preliminary purchase price allocation: ."
+    ],
+    "post_text": [
+      "due to the recent timing of the transaction , the allocation of the purchase price is preliminary .",
+      "all of the goodwill associated with the acquisition is expected to be deductible for tax purposes .",
+      "the customer-related intangible assets have amortization periods of up to 13 years .",
+      "the contract-based intangible assets have amortization periods of 7 years .",
+      "the trademark has an amortization period of 5 years. ."
+    ],
+    "table": [
+      [
+        "",
+        "total"
+      ],
+      [
+        "goodwill",
+        "$ 294741"
+      ],
+      [
+        "customer-related intangible assets",
+        "116920"
+      ],
+      [
+        "contract-based intangible assets",
+        "13437"
+      ],
+      [
+        "trademark",
+        "2204"
+      ],
+      [
+        "property and equipment",
+        "26955"
+      ],
+      [
+        "other current assets",
+        "100"
+      ],
+      [
+        "total assets acquired",
+        "454357"
+      ],
+      [
+        "minority interest in equity of subsidiary ( at historical cost )",
+        "-13257 ( 13257 )"
+      ],
+      [
+        "net assets acquired",
+        "$ 441100"
+      ]
+    ],
+    "questions": [
+      "what is the interest expense of the loan for the first quarter?"
+    ]
+  }
+}

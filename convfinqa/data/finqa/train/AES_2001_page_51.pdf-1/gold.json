@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2000 , what is the implied revenue for the north america segment based on the margin , in millions ? \\\\n",
+      "answer": 3376.0,
+      "answer_raw": "3376.0",
+      "program": "divide(844, 25%)"
+    }
+  ]
+}

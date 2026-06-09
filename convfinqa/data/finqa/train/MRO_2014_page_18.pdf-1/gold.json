@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are total african net undeveloped acres in thousands for 12/31/15?",
+      "answer": 3936.0,
+      "answer_raw": "3936.0",
+      "program": "add(1950, 1986)"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "Single_C/2015/page_314.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "performance graph comparison of five-year cumulative total return the following graph and table compare the cumulative total return on citi 2019s common stock , which is listed on the nyse under the ticker symbol 201cc 201d and held by 81805 common stockholders of record as of january 31 , 2016 , with the cumulative total return of the s&p 500 index and the s&p financial index over the five-year period through december 31 , 2015 .",
+      "the graph and table assume that $ 100 was invested on december 31 , 2010 in citi 2019s common stock , the s&p 500 index and the s&p financial index , and that all dividends were reinvested .",
+      "comparison of five-year cumulative total return for the years ended date citi s&p 500 financials ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "date",
+        "citi",
+        "s&p 500",
+        "s&p financials"
+      ],
+      [
+        "31-dec-2010",
+        "100.00",
+        "100.00",
+        "100.00"
+      ],
+      [
+        "30-dec-2011",
+        "55.67",
+        "102.11",
+        "82.94"
+      ],
+      [
+        "31-dec-2012",
+        "83.81",
+        "118.45",
+        "106.84"
+      ],
+      [
+        "31-dec-2013",
+        "110.49",
+        "156.82",
+        "144.90"
+      ],
+      [
+        "31-dec-2014",
+        "114.83",
+        "178.28",
+        "166.93"
+      ],
+      [
+        "31-dec-2015",
+        "110.14",
+        "180.75",
+        "164.39"
+      ]
+    ],
+    "questions": [
+      "what was the value of citi in 2013 less the initial $100 investment?",
+      "what was the value of the s&p in 2013?",
+      "what is the value of that less an initial $100 investment",
+      "what is the normalized ratio of citi to the s&p in 2013?"
+    ]
+  }
+}

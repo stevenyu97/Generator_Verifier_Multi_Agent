@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the approximate sum of the addition to our intangibles in 2004 in millions",
+      "answer": 551.0,
+      "answer_raw": "551.0",
+      "program": "add(250, 133), add(168, #0)"
+    }
+  ]
+}

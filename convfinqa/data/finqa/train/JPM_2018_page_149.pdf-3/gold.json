@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the fair value of derivative receivables reported on the consolidated balance sheets at december 31 , 2018 and 2017 .",
+      "answer": 0.95929,
+      "answer_raw": "0.95929",
+      "program": "divide(54.2, 56.5)"
+    }
+  ]
+}

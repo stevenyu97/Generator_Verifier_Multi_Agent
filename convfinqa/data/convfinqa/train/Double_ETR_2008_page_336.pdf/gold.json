@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the net revenue from 2007 to 2008?",
+      "answer": 11.9,
+      "answer_raw": "11.9",
+      "program": "subtract(498.8, 486.9)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what percentage of this change was due to rider revenue?",
+      "answer": 0.5042,
+      "answer_raw": "0.5042",
+      "program": "subtract(498.8, 486.9), divide(const_6, #0)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what was this change as a portion of that net revenue in 2007?",
+      "answer": 0.02444,
+      "answer_raw": "0.02444",
+      "program": "subtract(498.8, 486.9), divide(#0, 486.9)"
+    }
+  ]
+}

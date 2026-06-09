@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the decline in the net revenue in 2015",
+      "answer": -558.0,
+      "answer_raw": "-558.0",
+      "program": "subtract(1666, 2224)"
+    }
+  ]
+}

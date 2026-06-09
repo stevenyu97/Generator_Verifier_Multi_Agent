@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "Double_GS/2012/page_165.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "notes to consolidated financial statements note 12 .",
+      "other assets other assets are generally less liquid , non-financial assets .",
+      "the table below presents other assets by type. ."
+    ],
+    "post_text": [
+      "1 .",
+      "net of accumulated depreciation and amortization of $ 9.05 billion and $ 8.46 billion as of december 2012 and december 2011 , respectively .",
+      "2 .",
+      "includes $ 149 million of intangible assets classified as held for sale .",
+      "see note 13 for further information about goodwill and identifiable intangible assets .",
+      "3 .",
+      "see note 24 for further information about income taxes .",
+      "4 .",
+      "excludes investments accounted for at fair value under the fair value option where the firm would otherwise apply the equity method of accounting of $ 5.54 billion and $ 4.17 billion as of december 2012 and december 2011 , respectively , which are included in 201cfinancial instruments owned , at fair value . 201d the firm has generally elected the fair value option for such investments acquired after the fair value option became available .",
+      "5 .",
+      "includes $ 16.77 billion of assets related to the firm 2019s reinsurance business which were classified as held for sale as of december 2012 .",
+      "assets held for sale in the fourth quarter of 2012 , the firm classified its reinsurance business within its institutional client services segment as held for sale .",
+      "assets related to this business of $ 16.92 billion , consisting primarily of available-for-sale securities and separate account assets at fair value , are included in 201cother assets . 201d liabilities related to the business of $ 14.62 billion are included in 201cother liabilities and accrued expenses . 201d see note 8 for further information about insurance-related assets and liabilities held for sale at fair value .",
+      "the firm expects to complete the sale of a majority stake in its reinsurance business in 2013 and does not expect to recognize a material gain or loss upon the sale .",
+      "upon completion of the sale , the firm will no longer consolidate this business .",
+      "property , leasehold improvements and equipment property , leasehold improvements and equipment included $ 6.20 billion and $ 6.48 billion as of december 2012 and december 2011 , respectively , related to property , leasehold improvements and equipment that the firm uses in connection with its operations .",
+      "the remainder is held by investment entities , including vies , consolidated by the firm .",
+      "substantially all property and equipment are depreciated on a straight-line basis over the useful life of the asset .",
+      "leasehold improvements are amortized on a straight-line basis over the useful life of the improvement or the term of the lease , whichever is shorter .",
+      "certain costs of software developed or obtained for internal use are capitalized and amortized on a straight-line basis over the useful life of the software .",
+      "property , leasehold improvements and equipment are tested for impairment whenever events or changes in circumstances suggest that an asset 2019s or asset group 2019s carrying value may not be fully recoverable .",
+      "the firm 2019s policy for impairment testing of property , leasehold improvements and equipment is the same as is used for identifiable intangible assets with finite lives .",
+      "see note 13 for further information .",
+      "goldman sachs 2012 annual report 163 ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "as of december 2012",
+        "as of december 2011"
+      ],
+      [
+        "property leasehold improvements andequipment1",
+        "$ 8217",
+        "$ 8697"
+      ],
+      [
+        "goodwill and identifiable intangibleassets2",
+        "5099",
+        "5468"
+      ],
+      [
+        "income tax-related assets3",
+        "5620",
+        "5017"
+      ],
+      [
+        "equity-method investments4",
+        "453",
+        "664"
+      ],
+      [
+        "miscellaneous receivables and other5",
+        "20234",
+        "3306"
+      ],
+      [
+        "total",
+        "$ 39623",
+        "$ 23152"
+      ]
+    ],
+    "questions": [
+      "what percentage of total other assets was made of goodwill and identifiable intangible assets in 2012?",
+      "and in 2011?"
+    ]
+  }
+}

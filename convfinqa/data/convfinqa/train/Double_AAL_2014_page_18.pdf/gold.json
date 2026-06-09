@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total mainline operating expenses in millions in 2014?",
+      "answer": 31903.61446,
+      "answer_raw": "31903.61446",
+      "program": "divide(10592, 33.2%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the anticipated percentage increase in aircraft fuel expense from 2014 to 2015?",
+      "answer": 0.00406,
+      "answer_raw": "0.00406",
+      "program": "divide(43, 10592)"
+    }
+  ]
+}

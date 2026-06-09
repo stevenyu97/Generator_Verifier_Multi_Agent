@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the cash income tax payments to the cash interest payments",
+      "answer": 12.33951,
+      "answer_raw": "12.33951",
+      "program": "divide(1999, 162)"
+    }
+  ]
+}

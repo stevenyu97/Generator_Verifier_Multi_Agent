@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in operating profit margins as adjusted from 2016 to 2017?",
+      "answer": 0.007,
+      "answer_raw": "0.007",
+      "program": "subtract(15.3%, 14.6%)"
+    }
+  ]
+}

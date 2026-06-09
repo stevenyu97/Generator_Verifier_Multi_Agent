@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the highest gross margin percentage?",
+      "answer": 0.28,
+      "answer_raw": "0.28",
+      "program": "table_max(gross margin percentage, none)"
+    }
+  ]
+}

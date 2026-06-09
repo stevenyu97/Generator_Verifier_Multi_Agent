@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage decrease of state and local income taxes after federal income tax effects from 2002 to 2003?",
+      "answer": -0.4359,
+      "answer_raw": "-0.4359",
+      "program": "subtract(2.2, 3.9), divide(#0, 3.9)"
+    }
+  ]
+}

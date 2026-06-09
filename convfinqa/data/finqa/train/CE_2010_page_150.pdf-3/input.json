@@ -1,0 +1,56 @@
+{
+  "input": {
+    "id": "CE/2010/page_150.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "asbestos claims the company and several of its us subsidiaries are defendants in asbestos cases .",
+      "during the year ended december 31 , 2010 , asbestos case activity is as follows: ."
+    ],
+    "post_text": [
+      "because many of these cases involve numerous plaintiffs , the company is subject to claims significantly in excess of the number of actual cases .",
+      "the company has reserves for defense costs related to claims arising from these matters .",
+      "award proceedings in relation to domination agreement and squeeze-out on october 1 , 2004 , celanese gmbh and the company 2019s subsidiary , bcp holdings gmbh ( 201cbcp holdings 201d ) , a german limited liability company , entered into a domination agreement pursuant to which the bcp holdings became obligated to offer to acquire all outstanding celanese gmbh shares from the minority shareholders of celanese gmbh in return for payment of fair cash compensation ( the 201cpurchaser offer 201d ) .",
+      "the amount of this fair cash compensation was determined to be a41.92 per share in accordance with applicable german law .",
+      "all minority shareholders who elected not to sell their shares to the bcp holdings under the purchaser offer were entitled to remain shareholders of celanese gmbh and to receive from the bcp holdings a gross guaranteed annual payment of a3.27 per celanese gmbh share less certain corporate taxes in lieu of any dividend .",
+      "as of march 30 , 2005 , several minority shareholders of celanese gmbh had initiated special award proceedings seeking the court 2019s review of the amounts of the fair cash compensation and of the guaranteed annual payment offered in the purchaser offer under the domination agreement .",
+      "in the purchaser offer , 145387 shares were tendered at the fair cash compensation of a41.92 , and 924078 shares initially remained outstanding and were entitled to the guaranteed annual payment under the domination agreement .",
+      "as a result of these proceedings , the amount of the fair cash consideration and the guaranteed annual payment paid under the domination agreement could be increased by the court so that all minority shareholders , including those who have already tendered their shares in the purchaser offer for the fair cash compensation , could claim the respective higher amounts .",
+      "on december 12 , 2006 , the court of first instance appointed an expert to assist the court in determining the value of celanese gmbh .",
+      "on may 30 , 2006 the majority shareholder of celanese gmbh adopted a squeeze-out resolution under which all outstanding shares held by minority shareholders should be transferred to bcp holdings for a fair cash compensation of a66.99 per share ( the 201csqueeze-out 201d ) .",
+      "this shareholder resolution was challenged by shareholders but the squeeze-out became effective after the disputes were settled on december 22 , 2006 .",
+      "award proceedings were subsequently filed by 79 shareholders against bcp holdings with the frankfurt district court requesting the court to set a higher amount for the squeeze-out compensation .",
+      "pursuant to a settlement agreement between bcp holdings and certain former celanese gmbh shareholders , if the court sets a higher value for the fair cash compensation or the guaranteed payment under the purchaser offer or the squeeze-out compensation , former celanese gmbh shareholders who ceased to be shareholders of celanese gmbh due to the squeeze-out will be entitled to claim for their shares the higher of the compensation amounts determined by the court in these different proceedings related to the purchaser offer and the squeeze-out .",
+      "if the fair cash compensation determined by the court is higher than the squeeze-out compensation of a 66.99 , then 1069465 shares will be entitled to an adjustment .",
+      "if the court confirms the value of the fair cash compensation under the domination agreement but determines a higher value for the squeeze-out compensation , 924078 shares %%transmsg*** transmitting job : d77691 pcn : 148000000 ***%%pcmsg|148 |00010|yes|no|02/08/2011 16:10|0|0|page is valid , no graphics -- color : n| ."
+    ],
+    "table": [
+      [
+        "",
+        "asbestos cases"
+      ],
+      [
+        "as of december 31 2009",
+        "526"
+      ],
+      [
+        "case adjustments",
+        "2"
+      ],
+      [
+        "new cases filed",
+        "41"
+      ],
+      [
+        "resolved cases",
+        "-70 ( 70 )"
+      ],
+      [
+        "as of december 31 2010",
+        "499"
+      ]
+    ],
+    "questions": [
+      "in 2010 what was the percent of the new cases as part of the total"
+    ]
+  }
+}

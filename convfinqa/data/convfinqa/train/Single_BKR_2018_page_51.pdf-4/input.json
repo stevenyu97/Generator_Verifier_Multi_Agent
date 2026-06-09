@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "Single_BKR/2018/page_51.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "bhge 2018 form 10-k | 31 business environment the following discussion and analysis summarizes the significant factors affecting our results of operations , financial condition and liquidity position as of and for the year ended december 31 , 2018 , 2017 and 2016 , and should be read in conjunction with the consolidated and combined financial statements and related notes of the company .",
+      "we operate in more than 120 countries helping customers find , evaluate , drill , produce , transport and process hydrocarbon resources .",
+      "our revenue is predominately generated from the sale of products and services to major , national , and independent oil and natural gas companies worldwide , and is dependent on spending by our customers for oil and natural gas exploration , field development and production .",
+      "this spending is driven by a number of factors , including our customers' forecasts of future energy demand and supply , their access to resources to develop and produce oil and natural gas , their ability to fund their capital programs , the impact of new government regulations and most importantly , their expectations for oil and natural gas prices as a key driver of their cash flows .",
+      "oil and natural gas prices oil and natural gas prices are summarized in the table below as averages of the daily closing prices during each of the periods indicated. ."
+    ],
+    "post_text": [
+      "brent oil prices ( $ /bbl ) ( 1 ) $ 71.34 $ 54.12 $ 43.64 wti oil prices ( $ /bbl ) ( 2 ) 65.23 50.80 43.29 natural gas prices ( $ /mmbtu ) ( 3 ) 3.15 2.99 2.52 ( 1 ) energy information administration ( eia ) europe brent spot price per barrel ( 2 ) eia cushing , ok wti ( west texas intermediate ) spot price ( 3 ) eia henry hub natural gas spot price per million british thermal unit 2018 demonstrated the volatility of the oil and gas market .",
+      "through the first three quarters of 2018 , we experienced stability in the north american and international markets .",
+      "however , in the fourth quarter of 2018 commodity prices dropped nearly 40% ( 40 % ) resulting in increased customer uncertainty .",
+      "from an offshore standpoint , through most of 2018 , we saw multiple large offshore projects reach positive final investment decisions , and the lng market and outlook improved throughout 2018 , driven by increased demand globally .",
+      "in 2018 , the first large north american lng positive final investment decision was reached .",
+      "outside of north america , customer spending is highly driven by brent oil prices , which increased on average throughout the year .",
+      "average brent oil prices increased to $ 71.34/bbl in 2018 from $ 54.12/bbl in 2017 , and ranged from a low of $ 50.57/bbl in december 2018 , to a high of $ 86.07/bbl in october 2018 .",
+      "for the first three quarters of 2018 , brent oil prices increased sequentially .",
+      "however , in the fourth quarter , brent oil prices declined 39% ( 39 % ) versus the end of the third quarter , as a result of increased supply from the u.s. , worries of a global economic slowdown , and lower than expected production cuts .",
+      "in north america , customer spending is highly driven by wti oil prices , which similar to brent oil prices , on average increased throughout the year .",
+      "average wti oil prices increased to $ 65.23/bbl in 2018 from $ 50.80/bbl in 2017 , and ranged from a low of $ 44.48/bbl in december 2018 , to a high of $ 77.41/bbl in june 2018 .",
+      "in north america , natural gas prices , as measured by the henry hub natural gas spot price , averaged $ 3.15/ mmbtu in 2018 , representing a 6% ( 6 % ) increase over the prior year .",
+      "throughout the year , henry hub natural gas spot prices ranged from a high of $ 6.24/mmbtu in january 2018 to a low of $ 2.49/mmbtu in february 2018 .",
+      "according to the u.s .",
+      "department of energy ( doe ) , working natural gas in storage at the end of 2018 was 2705 billion cubic feet ( bcf ) , which was 15.6% ( 15.6 % ) , or 421 bcf , below the corresponding week in 2017. ."
+    ],
+    "table": [
+      [
+        "",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "brent oil prices ( $ /bbl ) ( 1 )",
+        "$ 71.34",
+        "$ 54.12",
+        "$ 43.64"
+      ],
+      [
+        "wti oil prices ( $ /bbl ) ( 2 )",
+        "65.23",
+        "50.80",
+        "43.29"
+      ],
+      [
+        "natural gas prices ( $ /mmbtu ) ( 3 )",
+        "3.15",
+        "2.99",
+        "2.52"
+      ]
+    ],
+    "questions": [
+      "what was the net change in the brent oil price from 2016 to 2017?",
+      "what was the price in 2016?",
+      "what is the percent change?"
+    ]
+  }
+}

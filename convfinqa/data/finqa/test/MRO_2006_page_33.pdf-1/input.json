@@ -1,0 +1,99 @@
+{
+  "input": {
+    "id": "MRO/2006/page_33.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "in 2006 , our board of directors approved a projected $ 3.2 billion expansion of our garyville , louisiana refinery by 180 mbpd to 425 mbpd , which will increase our total refining capacity to 1.154 million barrels per day ( 2018 2018mmbpd 2019 2019 ) .",
+      "we recently received air permit approval from the louisiana department of environmental quality for this project and construction is expected to begin in mid-2007 , with startup planned for the fourth quarter of 2009 .",
+      "we have also commenced front-end engineering and design ( 2018 2018feed 2019 2019 ) for a potential heavy oil upgrading project at our detroit refinery , which would allow us to process increased volumes of canadian oil sands production , and are undertaking a feasibility study for a similar upgrading project at our catlettsburg refinery .",
+      "marketing we are a supplier of gasoline and distillates to resellers and consumers within our market area in the midwest , the upper great plains and southeastern united states .",
+      "in 2006 , our refined product sales volumes ( excluding matching buy/sell transactions ) totaled 21.5 billion gallons , or 1.401 mmbpd .",
+      "the average sales price of our refined products in aggregate was $ 77.76 per barrel for 2006 .",
+      "the following table sets forth our refined product sales by product group and our average sales price for each of the last three years .",
+      "refined product sales ( thousands of barrels per day ) 2006 2005 2004 ."
+    ],
+    "post_text": [
+      "( a ) includes matching buy/sell volumes of 24 mbpd , 77 mbpd and 71 mbpd in 2006 , 2005 and 2004 .",
+      "on april 1 , 2006 , we changed our accounting for matching buy/sell arrangements as a result of a new accounting standard .",
+      "this change resulted in lower refined product sales volumes for the remainder of 2006 than would have been reported under the previous accounting practices .",
+      "see note 2 to the consolidated financial statements .",
+      "the wholesale distribution of petroleum products to private brand marketers and to large commercial and industrial consumers and sales in the spot market accounted for 71 percent of our refined product sales volumes in 2006 .",
+      "we sold 52 percent of our gasoline volumes and 89 percent of our distillates volumes on a wholesale or spot market basis .",
+      "half of our propane is sold into the home heating market , with the balance being purchased by industrial consumers .",
+      "propylene , cumene , aromatics , aliphatics , and sulfur are domestically marketed to customers in the chemical industry .",
+      "base lube oils , maleic anhydride , slack wax , extract and pitch are sold throughout the united states and canada , with pitch products also being exported worldwide .",
+      "we market asphalt through owned and leased terminals throughout the midwest , the upper great plains and southeastern united states .",
+      "our customer base includes approximately 800 asphalt-paving contractors , government entities ( states , counties , cities and townships ) and asphalt roofing shingle manufacturers .",
+      "we blended 35 mbpd of ethanol into gasoline in 2006 .",
+      "in 2005 and 2004 , we blended 35 mbpd and 30 mbpd of ethanol .",
+      "the expansion or contraction of our ethanol blending program will be driven by the economics of the ethanol supply and changes in government regulations .",
+      "we sell reformulated gasoline in parts of our marketing territory , primarily chicago , illinois ; louisville , kentucky ; northern kentucky ; and milwaukee , wisconsin , and we sell low-vapor-pressure gasoline in nine states .",
+      "as of december 31 , 2006 , we supplied petroleum products to about 4200 marathon branded retail outlets located primarily in ohio , michigan , indiana , kentucky and illinois .",
+      "branded retail outlets are also located in florida , georgia , minnesota , wisconsin , west virginia , tennessee , virginia , north carolina , pennsylvania , alabama and south carolina .",
+      "sales to marathon brand jobbers and dealers accounted for 14 percent of our refined product sales volumes in 2006 .",
+      "ssa sells gasoline and diesel fuel through company-operated retail outlets .",
+      "sales of refined products through these ssa retail outlets accounted for 15 percent of our refined product sales volumes in 2006 .",
+      "as of december 31 , 2006 , ssa had 1636 retail outlets in nine states that sold petroleum products and convenience store merchandise and services , primarily under the brand names 2018 2018speedway 2019 2019 and 2018 2018superamerica . 2019 2019 ssa 2019s revenues from the sale of non-petroleum merchandise totaled $ 2.7 billion in 2006 , compared with $ 2.5 billion in 2005 .",
+      "profit levels from the sale ."
+    ],
+    "table": [
+      [
+        "( thousands of barrels per day )",
+        "2006",
+        "2005",
+        "2004"
+      ],
+      [
+        "gasoline",
+        "804",
+        "836",
+        "807"
+      ],
+      [
+        "distillates",
+        "375",
+        "385",
+        "373"
+      ],
+      [
+        "propane",
+        "23",
+        "22",
+        "22"
+      ],
+      [
+        "feedstocks and special products",
+        "106",
+        "96",
+        "92"
+      ],
+      [
+        "heavy fuel oil",
+        "26",
+        "29",
+        "27"
+      ],
+      [
+        "asphalt",
+        "91",
+        "87",
+        "79"
+      ],
+      [
+        "total ( a )",
+        "1425",
+        "1455",
+        "1400"
+      ],
+      [
+        "average sales price ( $ per barrel )",
+        "$ 77.76",
+        "$ 66.42",
+        "$ 49.53"
+      ]
+    ],
+    "questions": [
+      "based on a 365 day year and the average sales price per barrel listed above , what was the total refined product sales revenue for 2006?"
+    ]
+  }
+}

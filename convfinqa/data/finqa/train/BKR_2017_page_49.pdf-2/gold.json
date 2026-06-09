@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the rig counts is related to north america in 2016?",
+      "answer": 0.40175,
+      "answer_raw": "0.40175",
+      "program": "divide(642, 1598)"
+    }
+  ]
+}

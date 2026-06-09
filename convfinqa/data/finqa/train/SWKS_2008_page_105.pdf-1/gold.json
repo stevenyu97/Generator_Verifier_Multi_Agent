@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in march 2007what was the share price in the company repurchased of 4.3 million of its common shares at $ 30.1 million as authorized by the company 2019s board of directors .",
+      "answer": 7.0,
+      "answer_raw": "7.0",
+      "program": "divide(30.1, 4.3)"
+    }
+  ]
+}

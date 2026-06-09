@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the decrease observed in the fair value of ars investments between 2009 and 2008?",
+      "answer": 12.0,
+      "answer_raw": "12.0",
+      "program": "subtract(192, 180)"
+    }
+  ]
+}

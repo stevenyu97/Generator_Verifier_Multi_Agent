@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in dividend yield from 2007 to 2008?",
+      "answer": 0.01124,
+      "answer_raw": "0.01124",
+      "program": "subtract(1.80, 1.78), divide(#0, 1.78)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions for 2014 2013 and 2012 , what was average equity securities?",
+      "answer": 3514.33333,
+      "answer_raw": "3514.33333",
+      "program": "table_average(equity securities, none)"
+    }
+  ]
+}

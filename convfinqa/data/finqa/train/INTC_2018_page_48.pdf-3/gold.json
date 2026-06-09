@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in net cash provided by operating activities between 2017 and 2018?",
+      "answer": 0.33116,
+      "answer_raw": "0.33116",
+      "program": "subtract(29432, 22110), divide(#0, 22110)"
+    }
+  ]
+}

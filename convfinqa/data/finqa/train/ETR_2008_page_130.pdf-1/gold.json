@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the sum of the notes entergy issued to nypa with eight and seven annual installment payments",
+      "answer": 916.0,
+      "answer_raw": "916.0",
+      "program": "multiply(const_8, 20), multiply(108, const_7), add(#0, #1)"
+    }
+  ]
+}

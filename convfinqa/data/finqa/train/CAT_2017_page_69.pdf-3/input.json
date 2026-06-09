@@ -1,0 +1,95 @@
+{
+  "input": {
+    "id": "CAT/2017/page_69.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "between the actual return on plan assets compared to the expected return on plan assets ( u.s .",
+      "pension plans had an actual rate of return of 7.8 percent compared to an expected rate of return of 6.9 percent ) .",
+      "2022 2015 net mark-to-market loss of $ 179 million - primarily due to the difference between the actual return on plan assets compared to the expected return on plan assets ( u.s .",
+      "pension plans had an actual rate of return of ( 2.0 ) percent compared to an expected rate of return of 7.4 percent ) which was partially offset by higher discount rates at the end of 2015 compared to 2014 .",
+      "the net mark-to-market losses were in the following results of operations line items: ."
+    ],
+    "post_text": [
+      "effective january 1 , 2018 , we adopted new accounting guidance issued by the fasb related to the presentation of net periodic pension and opeb costs .",
+      "this guidance requires that an employer disaggregate the service cost component from the other components of net benefit cost .",
+      "service cost is required to be reported in the same line item or items as other compensation costs arising from services rendered by the pertinent employees during the period .",
+      "the other components of net benefit cost are required to be reported outside the subtotal for income from operations .",
+      "as a result , components of pension and opeb costs , other than service costs , will be reclassified from operating costs to other income/expense .",
+      "this change will be applied retrospectively to prior years .",
+      "in the fourth quarter of 2017 , the company reviewed and made changes to the mortality assumptions primarily for our u.s .",
+      "pension plans which resulted in an overall increase in the life expectancy of plan participants .",
+      "as of december 31 , 2017 these changes resulted in an increase in our liability for postemployment benefits of approximately $ 290 million .",
+      "in the fourth quarter of 2016 , the company adopted new mortality improvement scales released by the soa for our u.s .",
+      "pension and opeb plans .",
+      "as of december 31 , 2016 , this resulted in an increase in our liability for postemployment benefits of approximately $ 200 million .",
+      "in the first quarter of 2017 , we announced the closure of our gosselies , belgium facility .",
+      "this announcement impacted certain employees that participated in a defined benefit pension plan and resulted in a curtailment and the recognition of termination benefits .",
+      "in march 2017 , we recognized a net loss of $ 20 million for the curtailment and termination benefits .",
+      "in addition , we announced the decision to phase out production at our aurora , illinois , facility , which resulted in termination benefits of $ 9 million for certain hourly employees that participate in our u.s .",
+      "hourly defined benefit pension plan .",
+      "beginning in 2016 , we elected to utilize a full yield curve approach in the estimation of service and interest costs by applying the specific spot rates along the yield curve used in the determination of the benefit obligation to the relevant projected cash flows .",
+      "service and interest costs in 2017 and 2016 were lower by $ 140 million and $ 180 million , respectively , under the new method than they would have been under the previous method .",
+      "this change had no impact on our year-end defined benefit pension and opeb obligations or our annual net periodic benefit cost as the lower service and interest costs were entirely offset in the actuarial loss ( gain ) reported for the respective year .",
+      "we expect our total defined benefit pension and opeb expense ( excluding the impact of mark-to-market gains and losses ) to decrease approximately $ 80 million in 2018 .",
+      "this decrease is primarily due to a higher expected return on plan assets as a result of a higher asset base in 2018 .",
+      "in general , our strategy for both the u.s .",
+      "and the non-u.s .",
+      "pensions includes ongoing alignment of our investments to our liabilities , while reducing risk in our portfolio .",
+      "for our u.s .",
+      "pension plans , our year-end 2017 asset allocation was 34 a0percent equities , 62 a0percent fixed income and 4 percent other .",
+      "our current u.s .",
+      "pension target asset allocation is 30 percent equities and 70 percent fixed income .",
+      "the target allocation is revisited periodically to ensure it reflects our overall objectives .",
+      "the u.s .",
+      "plans are rebalanced to plus or minus 5 percentage points of the target asset allocation ranges on a monthly basis .",
+      "the year-end 2017 asset allocation for our non-u.s .",
+      "pension plans was 40 a0percent equities , 53 a0percent fixed income , 4 a0percent real estate and 3 percent other .",
+      "the 2017 weighted-average target allocations for our non-u.s .",
+      "pension plans was 38 a0percent equities , 54 a0percent fixed income , 5 a0percent real estate and 3 a0percent other .",
+      "the target allocations for each plan vary based upon local statutory requirements , demographics of the plan participants and funded status .",
+      "the frequency of rebalancing for the non-u.s .",
+      "plans varies depending on the plan .",
+      "contributions to our pension and opeb plans were $ 1.6 billion and $ 329 million in 2017 and 2016 , respectively .",
+      "the 2017 contributions include a $ 1.0 billion discretionary contribution made to our u.s .",
+      "pension plans in december 2017 .",
+      "we expect to make approximately $ 365 million of contributions to our pension and opeb plans in 2018 .",
+      "we believe we have adequate resources to fund both pension and opeb plans .",
+      "48 | 2017 form 10-k ."
+    ],
+    "table": [
+      [
+        "( millions of dollars )",
+        "years ended december 31 , 2017",
+        "years ended december 31 , 2016",
+        "years ended december 31 , 2015"
+      ],
+      [
+        "cost of goods sold",
+        "$ -29 ( 29 )",
+        "$ 476",
+        "$ 122"
+      ],
+      [
+        "selling general and administrative expenses",
+        "244",
+        "382",
+        "18"
+      ],
+      [
+        "research and development expenses",
+        "86",
+        "127",
+        "39"
+      ],
+      [
+        "total",
+        "$ 301",
+        "$ 985",
+        "$ 179"
+      ]
+    ],
+    "questions": [
+      "what portion of the net mark-to-market loss were driven by cost of good sold in 2015?"
+    ]
+  }
+}

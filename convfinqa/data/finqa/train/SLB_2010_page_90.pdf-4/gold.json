@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2010 , what was the provision for doubtful accounts as a percentage of total allowance for doubtful accounts?",
+      "answer": 0.2375,
+      "answer_raw": "0.2375",
+      "program": "divide(38, 160)"
+    }
+  ]
+}

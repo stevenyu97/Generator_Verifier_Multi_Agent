@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "Single_CME/2010/page_104.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the company expects to amortize $ 1.7 million of actuarial loss from accumulated other comprehensive income ( loss ) into net periodic benefit costs in 2011 .",
+      "at december 31 , 2010 , anticipated benefit payments from the plan in future years are as follows: ."
+    ],
+    "post_text": [
+      "savings plans .",
+      "cme maintains a defined contribution savings plan pursuant to section 401 ( k ) of the internal revenue code , whereby all u.s .",
+      "employees are participants and have the option to contribute to this plan .",
+      "cme matches employee contributions up to 3% ( 3 % ) of the employee 2019s base salary and may make additional discretionary contributions of up to 2% ( 2 % ) of base salary .",
+      "in addition , certain cme london-based employees are eligible to participate in a defined contribution plan .",
+      "for cme london-based employees , the plan provides for company contributions of 10% ( 10 % ) of earnings and does not have any vesting requirements .",
+      "salary and cash bonuses paid are included in the definition of earnings .",
+      "aggregate expense for all of the defined contribution savings plans amounted to $ 6.3 million , $ 5.2 million and $ 5.8 million in 2010 , 2009 and 2008 , respectively .",
+      "cme non-qualified plans .",
+      "cme maintains non-qualified plans , under which participants may make assumed investment choices with respect to amounts contributed on their behalf .",
+      "although not required to do so , cme invests such contributions in assets that mirror the assumed investment choices .",
+      "the balances in these plans are subject to the claims of general creditors of the exchange and totaled $ 28.8 million and $ 23.4 million at december 31 , 2010 and 2009 , respectively .",
+      "although the value of the plans is recorded as an asset in the consolidated balance sheets , there is an equal and offsetting liability .",
+      "the investment results of these plans have no impact on net income as the investment results are recorded in equal amounts to both investment income and compensation and benefits expense .",
+      "supplemental savings plan 2014cme maintains a supplemental plan to provide benefits for employees who have been impacted by statutory limits under the provisions of the qualified pension and savings plan .",
+      "all cme employees hired prior to january 1 , 2007 are immediately vested in their supplemental plan benefits .",
+      "all cme employees hired on or after january 1 , 2007 are subject to the vesting requirements of the underlying qualified plans .",
+      "total expense for the supplemental plan was $ 0.9 million , $ 0.7 million and $ 1.3 million for 2010 , 2009 and 2008 , respectively .",
+      "deferred compensation plan 2014a deferred compensation plan is maintained by cme , under which eligible officers and members of the board of directors may contribute a percentage of their compensation and defer income taxes thereon until the time of distribution .",
+      "nymexmembers 2019 retirement plan and benefits .",
+      "nymex maintained a retirement and benefit plan under the commodities exchange , inc .",
+      "( comex ) members 2019 recognition and retention plan ( mrrp ) .",
+      "this plan provides benefits to certain members of the comex division based on long-term membership , and participation is limited to individuals who were comex division members prior to nymex 2019s acquisition of comex in 1994 .",
+      "no new participants were permitted into the plan after the date of this acquisition .",
+      "under the terms of the mrrp , the company is required to fund the plan with a minimum annual contribution of $ 0.4 million until it is fully funded .",
+      "all benefits to be paid under the mrrp are based on reasonable actuarial assumptions which are based upon the amounts that are available and are expected to be available to pay benefits .",
+      "total contributions to the plan were $ 0.8 million for each of 2010 , 2009 and for the period august 23 through december 31 , 2008 .",
+      "at december 31 , 2010 and 2009 , the total obligation for the mrrp totaled $ 20.7 million and $ 20.5 million ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "year"
+      ],
+      [
+        "2011",
+        "$ 7.2"
+      ],
+      [
+        "2012",
+        "8.2"
+      ],
+      [
+        "2013",
+        "8.6"
+      ],
+      [
+        "2014",
+        "9.5"
+      ],
+      [
+        "2015",
+        "10.0"
+      ],
+      [
+        "2016-2020",
+        "62.8"
+      ]
+    ],
+    "questions": [
+      "combined, what was the total obligation for the mrrp in 2009 and 2010?",
+      "and the average for this vaue?"
+    ]
+  }
+}

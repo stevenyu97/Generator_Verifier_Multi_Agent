@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the increase observed in the expected benefit payments during 2012 and 2013?",
+      "answer": 0.18401,
+      "answer_raw": "0.18401",
+      "program": "divide(25513, 21548), subtract(#0, const_1)"
+    }
+  ]
+}

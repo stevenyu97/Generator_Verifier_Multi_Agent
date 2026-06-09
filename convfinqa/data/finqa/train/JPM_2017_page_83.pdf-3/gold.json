@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2017 what was net interest income on average managed interest-earning assets in us$ m?",
+      "answer": 51461.9712,
+      "answer_raw": "51461.9712",
+      "program": "multiply(2.36%, 2180592)"
+    }
+  ]
+}

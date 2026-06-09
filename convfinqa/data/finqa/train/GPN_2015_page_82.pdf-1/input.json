@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "GPN/2015/page_82.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "during fiscal 2013 , we entered into an asr with a financial institution to repurchase an aggregate of $ 125 million of our common stock .",
+      "in exchange for an up-front payment of $ 125 million , the financial institution committed to deliver a number of shares during the asr 2019s purchase period , which ended on march 30 , 2013 .",
+      "the total number of shares delivered under this asr was 2.5 million at an average price of $ 49.13 per share .",
+      "during fiscal 2013 , in addition to shares repurchased under the asr , we repurchased and retired 1.1 million shares of our common stock at a cost of $ 50.3 million , or an average of $ 44.55 per share , including commissions .",
+      "note 10 2014share-based awards and options non-qualified stock options and restricted stock have been granted to officers , key employees and directors under the global payments inc .",
+      "2000 long-term incentive plan , as amended and restated ( the 201c2000 plan 201d ) , the global payments inc .",
+      "amended and restated 2005 incentive plan ( the 201c2005 plan 201d ) , the amended and restated 2000 non-employee director stock option plan ( the 201cdirector stock option plan 201d ) , and the global payments inc .",
+      "2011 incentive plan ( the 201c2011 plan 201d ) ( collectively , the 201cplans 201d ) .",
+      "there were no further grants made under the 2000 plan after the 2005 plan was effective , and the director stock option plan expired by its terms on february 1 , 2011 .",
+      "there will be no future grants under the 2000 plan , the 2005 plan or the director stock option the 2011 plan permits grants of equity to employees , officers , directors and consultants .",
+      "a total of 7.0 million shares of our common stock was reserved and made available for issuance pursuant to awards granted under the 2011 plan .",
+      "the following table summarizes share-based compensation expense and the related income tax benefit recognized for stock options , restricted stock , performance units , tsr units , and shares issued under our employee stock purchase plan ( each as described below ) .",
+      "2015 2014 2013 ( in millions ) ."
+    ],
+    "post_text": [
+      "we grant various share-based awards pursuant to the plans under what we refer to as our 201clong-term incentive plan . 201d the awards are held in escrow and released upon the grantee 2019s satisfaction of conditions of the award certificate .",
+      "restricted stock and restricted stock units we grant restricted stock and restricted stock units .",
+      "restricted stock awards vest over a period of time , provided , however , that if the grantee is not employed by us on the vesting date , the shares are forfeited .",
+      "restricted shares cannot be sold or transferred until they have vested .",
+      "restricted stock granted before fiscal 2015 vests in equal installments on each of the first four anniversaries of the grant date .",
+      "restricted stock granted during fiscal 2015 will either vest in equal installments on each of the first three anniversaries of the grant date or cliff vest at the end of a three-year service period .",
+      "the grant date fair value of restricted stock , which is based on the quoted market value of our common stock at the closing of the award date , is recognized as share-based compensation expense on a straight-line basis over the vesting period .",
+      "performance units certain of our executives have been granted up to three types of performance units under our long-term incentive plan .",
+      "performance units are performance-based restricted stock units that , after a performance period , convert into common shares , which may be restricted .",
+      "the number of shares is dependent upon the achievement of certain performance measures during the performance period .",
+      "the target number of performance units and any market-based performance measures ( 201cat threshold , 201d 201ctarget , 201d and 201cmaximum 201d ) are set by the compensation committee of our board of directors .",
+      "performance units are converted only after the compensation committee certifies performance based on pre-established goals .",
+      "80 2013 global payments inc .",
+      "| 2015 form 10-k annual report ."
+    ],
+    "table": [
+      [
+        "",
+        "2015",
+        "2014 ( in millions )",
+        "2013"
+      ],
+      [
+        "share-based compensation expense",
+        "$ 21.1",
+        "$ 29.8",
+        "$ 18.4"
+      ],
+      [
+        "income tax benefit",
+        "$ -6.9 ( 6.9 )",
+        "$ -7.1 ( 7.1 )",
+        "$ -5.6 ( 5.6 )"
+      ]
+    ],
+    "questions": [
+      "what is the effective income tax rate which generated the income tax benefit from the share-based expense in 2015?"
+    ]
+  }
+}

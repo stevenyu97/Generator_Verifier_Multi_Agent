@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the long-term retail/hnw in emea as a percentage of the total long-term retail/hnw?",
+      "answer": 0.19257,
+      "answer_raw": "0.19257",
+      "program": "divide(77699, 403484)"
+    }
+  ]
+}

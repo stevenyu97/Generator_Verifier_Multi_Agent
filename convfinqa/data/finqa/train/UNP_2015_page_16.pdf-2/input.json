@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "UNP/2015/page_16.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "average highway revenue equipment owned leased total age ( yrs. ) ."
+    ],
+    "post_text": [
+      "capital expenditures our rail network requires significant annual capital investments for replacement , improvement , and expansion .",
+      "these investments enhance safety , support the transportation needs of our customers , and improve our operational efficiency .",
+      "additionally , we add new locomotives and freight cars to our fleet to replace older , less efficient equipment , to support growth and customer demand , and to reduce our impact on the environment through the acquisition of more fuel-efficient and low-emission locomotives .",
+      "2015 capital program 2013 during 2015 , our capital program totaled $ 4.3 billion .",
+      "( see the cash capital expenditures table in management 2019s discussion and analysis of financial condition and results of operations 2013 liquidity and capital resources , item 7. ) 2016 capital plan 2013 in 2016 , we expect our capital plan to be approximately $ 3.75 billion , which will include expenditures for ptc of approximately $ 375 million and may include non-cash investments .",
+      "we may revise our 2016 capital plan if business conditions warrant or if new laws or regulations affect our ability to generate sufficient returns on these investments .",
+      "( see discussion of our 2016 capital plan in management 2019s discussion and analysis of financial condition and results of operations 2013 2016 outlook , item 7. ) equipment encumbrances 2013 equipment with a carrying value of approximately $ 2.6 billion and $ 2.8 billion at december 31 , 2015 , and 2014 , respectively served as collateral for capital leases and other types of equipment obligations in accordance with the secured financing arrangements utilized to acquire or refinance such railroad equipment .",
+      "as a result of the merger of missouri pacific railroad company ( mprr ) with and into uprr on january 1 , 1997 , and pursuant to the underlying indentures for the mprr mortgage bonds , uprr must maintain the same value of assets after the merger in order to comply with the security requirements of the mortgage bonds .",
+      "as of the merger date , the value of the mprr assets that secured the mortgage bonds was approximately $ 6.0 billion .",
+      "in accordance with the terms of the indentures , this collateral value must be maintained during the entire term of the mortgage bonds irrespective of the outstanding balance of such bonds .",
+      "environmental matters 2013 certain of our properties are subject to federal , state , and local laws and regulations governing the protection of the environment .",
+      "( see discussion of environmental issues in business 2013 governmental and environmental regulation , item 1 , and management 2019s discussion and analysis of financial condition and results of operations 2013 critical accounting policies 2013 environmental , item 7. ) item 3 .",
+      "legal proceedings from time to time , we are involved in legal proceedings , claims , and litigation that occur in connection with our business .",
+      "we routinely assess our liabilities and contingencies in connection with these matters based upon the latest available information and , when necessary , we seek input from our third-party advisors when making these assessments .",
+      "consistent with sec rules and requirements , we describe below material pending legal proceedings ( other than ordinary routine litigation incidental to our business ) , material proceedings known to be contemplated by governmental authorities , other proceedings arising under federal , state , or local environmental laws and regulations ( including governmental proceedings involving potential fines , penalties , or other monetary sanctions in excess of $ 100000 ) , and such other pending matters that we may determine to be appropriate. ."
+    ],
+    "table": [
+      [
+        "highway revenue equipment",
+        "owned",
+        "leased",
+        "total",
+        "average age ( yrs. )"
+      ],
+      [
+        "containers",
+        "33633",
+        "25998",
+        "59631",
+        "8.0"
+      ],
+      [
+        "chassis",
+        "22086",
+        "26837",
+        "48923",
+        "9.6"
+      ],
+      [
+        "total highway revenue equipment",
+        "55719",
+        "52835",
+        "108554",
+        "n/a"
+      ]
+    ],
+    "questions": [
+      "what percentage of total highway revenue equipment leased is containers?"
+    ]
+  }
+}

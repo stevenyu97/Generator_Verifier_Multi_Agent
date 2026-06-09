@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent higher is fair value than carrying value?",
+      "answer": 0.07513,
+      "answer_raw": "0.07513",
+      "program": "divide(5309, 4938), subtract(#0, const_1)"
+    }
+  ]
+}

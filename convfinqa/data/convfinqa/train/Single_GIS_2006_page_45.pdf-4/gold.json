@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in accrued trade and consumer promotion liability as of 5/28/06 and 5/29/05?",
+      "answer": 56.0,
+      "answer_raw": "56.0",
+      "program": "subtract(339, 283)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the percentage change during this time?",
+      "answer": 0.19788,
+      "answer_raw": "0.19788",
+      "program": "subtract(339, 283), divide(#0, 283)"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "input": {
+    "id": "DG/2009/page_87.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "dollar general corporation and subsidiaries notes to consolidated financial statements ( continued ) 3 .",
+      "merger ( continued ) merger as a subsidiary of buck .",
+      "the company 2019s results of operations after july 6 , 2007 include the effects of the merger .",
+      "the aggregate purchase price was approximately $ 7.1 billion , including direct costs of the merger , and was funded primarily through debt financings as described more fully below in note 7 and cash equity contributions from kkr , gs capital partners vi fund , l.p .",
+      "and affiliated funds ( affiliates of goldman , sachs & co. ) , and other equity co-investors ( collectively , the 2018 2018investors 2019 2019 of approximately $ 2.8 billion ( 316.2 million shares of new common stock , $ 0.875 par value per share , valued at $ 8.75 per share ) .",
+      "also in connection with the merger , certain of the company 2019s management employees invested in and were issued new shares , representing less than 1% ( 1 % ) of the outstanding shares , in the company .",
+      "pursuant to the terms of the merger agreement , the former holders of the predecessor 2019s common stock , par value $ 0.50 per share , received $ 22.00 per share , or approximately $ 6.9 billion , and all such shares were acquired as a result of the merger .",
+      "as discussed in note 1 , the merger was accounted for as a reverse acquisition in accordance with applicable purchase accounting provisions .",
+      "because of this accounting treatment , the company 2019s assets and liabilities have properly been accounted for at their estimated fair values as of the merger date .",
+      "the aggregate purchase price has been allocated to the tangible and intangible assets acquired and liabilities assumed based upon an assessment of their relative fair values as of the merger date .",
+      "the allocation of the purchase price is as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "the purchase price allocation included approximately $ 4.34 billion of goodwill , none of which is expected to be deductible for tax purposes .",
+      "the goodwill balance at january 30 , 2009 decreased $ 6.3 million from the balance at february 1 , 2008 due to an adjustment to income tax contingencies as further discussed in note 6. ."
+    ],
+    "table": [
+      [
+        "cash and cash equivalents",
+        "$ 349615"
+      ],
+      [
+        "short-term investments",
+        "30906"
+      ],
+      [
+        "merchandise inventories",
+        "1368130"
+      ],
+      [
+        "income taxes receivable",
+        "40199"
+      ],
+      [
+        "deferred income taxes",
+        "57176"
+      ],
+      [
+        "prepaid expenses and other current assets",
+        "63204"
+      ],
+      [
+        "property and equipment net",
+        "1301119"
+      ],
+      [
+        "goodwill",
+        "4338589"
+      ],
+      [
+        "intangible assets",
+        "1396612"
+      ],
+      [
+        "other assets net",
+        "66537"
+      ],
+      [
+        "current portion of long-term obligations",
+        "-7088 ( 7088 )"
+      ],
+      [
+        "accounts payable",
+        "-585518 ( 585518 )"
+      ],
+      [
+        "accrued expenses and other",
+        "-306394 ( 306394 )"
+      ],
+      [
+        "income taxes payable",
+        "-84 ( 84 )"
+      ],
+      [
+        "long-term obligations",
+        "-267927 ( 267927 )"
+      ],
+      [
+        "deferred income taxes",
+        "-540675 ( 540675 )"
+      ],
+      [
+        "other liabilities",
+        "-208710 ( 208710 )"
+      ],
+      [
+        "total purchase price assigned",
+        "$ 7095691"
+      ]
+    ],
+    "questions": [
+      "how much of the purchase price was allocated to intangibles?"
+    ]
+  }
+}

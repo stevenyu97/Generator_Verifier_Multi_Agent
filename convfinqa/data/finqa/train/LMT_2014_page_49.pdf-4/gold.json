@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in net sales for mst in 2013?",
+      "answer": -0.05621,
+      "answer_raw": "-0.05621",
+      "program": "subtract(7153, 7579), divide(#0, 7579)"
+    }
+  ]
+}

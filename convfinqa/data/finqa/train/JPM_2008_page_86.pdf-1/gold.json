@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the increase in tier 1 capital was due to net income?",
+      "answer": 0.11835,
+      "answer_raw": "0.11835",
+      "program": "divide(5605, 47358)"
+    }
+  ]
+}

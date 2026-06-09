@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total return if 1000000 is invested in global payments in may 31 , 2012 and liquidated in may 31 , 2015?",
+      "answer": 10753.28,
+      "answer_raw": "10753.28",
+      "program": "subtract(246.72, const_1000), divide(1000000, 100), subtract(#1, #0)"
+    }
+  ]
+}

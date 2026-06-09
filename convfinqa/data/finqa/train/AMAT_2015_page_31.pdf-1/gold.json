@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the company's property are leased?",
+      "answer": 0.23639,
+      "answer_raw": "0.23639",
+      "program": "divide(1663, 7035)"
+    }
+  ]
+}

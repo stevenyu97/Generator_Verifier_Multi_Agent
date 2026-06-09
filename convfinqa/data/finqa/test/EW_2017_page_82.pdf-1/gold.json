@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the total purchase price net of cash acquired is goodwill?",
+      "answer": 0.77991,
+      "answer_raw": "0.77991",
+      "program": "divide(142.1, 182.2)"
+    }
+  ]
+}

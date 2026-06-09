@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much cost would be passed on to customers over three years , in millions , due to the june 2014 rate case , the energy efficiency rider , and the storm damage rider?",
+      "answer": 48.0,
+      "answer_raw": "48.0",
+      "program": "add(16, 16), add(#0, 16)"
+    }
+  ]
+}

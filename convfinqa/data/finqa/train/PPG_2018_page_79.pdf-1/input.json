@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "PPG/2018/page_79.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "2018 ppg annual report and form 10-k 77 u.s .",
+      "qualified pension beginning in 2012 , the company initiated a lump sum payout program that gave certain terminated vested participants in certain u.s .",
+      "defined benefit pension plans the option to take a one-time lump sum cash payment in lieu of receiving a future monthly annuity .",
+      "during 2017 , ppg paid $ 87 million in lump sum benefits to terminated vested participants who elected to participate in the program .",
+      "as the lump-sum payments were in excess of the expected 2017 service and interest costs for the qualified pension plans , ppg remeasured the periodic benefit obligation of the qualified plans and recorded a settlement charge totaling $ 35 million ( $ 22 million after-tax ) .",
+      "u.s .",
+      "non-qualified pension in the first quarter 2017 , ppg made lump-sum payments to certain retirees who had participated in ppg's u.s .",
+      "non-qualified pension plan ( the \"nonqualified plan\" ) totaling approximately $ 40 million .",
+      "as the lump-sum payments were in excess of the expected 2017 service and interest costs for the nonqualified plan , ppg remeasured the periodic benefit obligation of the nonqualified plan as of march 1 , 2017 and recorded a settlement charge totaling $ 22 million ( $ 14 million after-tax ) .",
+      "plan assets each ppg sponsored defined benefit pension plan is managed in accordance with the requirements of local laws and regulations governing defined benefit pension plans for the exclusive purpose of providing pension benefits to participants and their beneficiaries .",
+      "investment committees comprised of ppg managers have fiduciary responsibility to oversee the management of pension plan assets by third party asset managers .",
+      "pension plan assets are held in trust by financial institutions and managed on a day-to-day basis by the asset managers .",
+      "the asset managers receive a mandate from each investment committee that is aligned with the asset allocation targets established by each investment committee to achieve the plan 2019s investment strategies .",
+      "the performance of the asset managers is monitored and evaluated by the investment committees throughout the year .",
+      "pension plan assets are invested to generate investment earnings over an extended time horizon to help fund the cost of benefits promised under the plans while mitigating investment risk .",
+      "the asset allocation targets established for each pension plan are intended to diversify the investments among a variety of asset categories and among a variety of individual securities within each asset category to mitigate investment risk and provide each plan with sufficient liquidity to fund the payment of pension benefits to retirees .",
+      "the following summarizes the weighted average target pension plan asset allocation as of december 31 , 2018 and 2017 for all ppg defined benefit plans: ."
+    ],
+    "post_text": [
+      "notes to the consolidated financial statements ."
+    ],
+    "table": [
+      [
+        "asset category",
+        "2018",
+        "2017"
+      ],
+      [
+        "equity securities",
+        "15-45% ( 15-45 % )",
+        "15-45% ( 15-45 % )"
+      ],
+      [
+        "debt securities",
+        "30-65% ( 30-65 % )",
+        "30-65% ( 30-65 % )"
+      ],
+      [
+        "real estate",
+        "0-10% ( 0-10 % )",
+        "0-10% ( 0-10 % )"
+      ],
+      [
+        "other",
+        "20-40% ( 20-40 % )",
+        "20-40% ( 20-40 % )"
+      ]
+    ],
+    "questions": [
+      "what was the tax expense for the non-qualified periodic benefit obligation settlement charge? ( $ million )"
+    ]
+  }
+}

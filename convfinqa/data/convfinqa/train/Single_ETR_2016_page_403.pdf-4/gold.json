@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the receivables for 2016?",
+      "answer": 14215.0,
+      "answer_raw": "14215.0",
+      "program": "14215"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2015?",
+      "answer": 15794.0,
+      "answer_raw": "15794.0",
+      "program": "15794"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference in this value between the two years?",
+      "answer": -1579.0,
+      "answer_raw": "-1579.0",
+      "program": "subtract(14215, 15794)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the specific value for 2015 again?",
+      "answer": 15794.0,
+      "answer_raw": "15794.0",
+      "program": "15794"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage change during this time?",
+      "answer": -0.09997,
+      "answer_raw": "-0.09997",
+      "program": "subtract(14215, 15794), divide(#0, 15794)"
+    }
+  ]
+}

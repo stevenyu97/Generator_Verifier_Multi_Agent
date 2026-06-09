@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total other purchase commitments is made up of noncancelable operating leases?",
+      "answer": 0.53623,
+      "answer_raw": "0.53623",
+      "program": "divide(185, 345)"
+    }
+  ]
+}

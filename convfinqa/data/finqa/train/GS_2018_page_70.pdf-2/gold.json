@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in operating expenses in 2017?",
+      "answer": 0.03137,
+      "answer_raw": "0.03137",
+      "program": "subtract(20941, 20304), divide(#0, 20304)"
+    }
+  ]
+}

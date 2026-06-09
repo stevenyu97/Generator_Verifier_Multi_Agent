@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the compensation to be used on stock purchases if the employees used 20% of their compensation in 2008?",
+      "answer": 1.14,
+      "answer_raw": "1.14",
+      "program": "multiply(5.7, 20%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the change in weighted-average grant-date fair value of share awards from 2006 to 2007?",
+      "answer": 9.0,
+      "answer_raw": "9.0",
+      "program": "subtract(45, 36)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the percentage change?",
+      "answer": 0.25,
+      "answer_raw": "0.25",
+      "program": "subtract(45, 36), divide(#0, 36)"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "Single_IP/2013/page_62.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "million excluding a gain on a bargain purchase price adjustment on the acquisition of a majority share of our operations in turkey and restructuring costs ) compared with $ 53 million ( $ 72 million excluding restructuring costs ) in 2012 and $ 66 million ( $ 61 million excluding a gain for a bargain purchase price adjustment on an acquisition by our then joint venture in turkey and costs associated with the closure of our etienne mill in france in 2009 ) in 2011 .",
+      "sales volumes in 2013 were higher than in 2012 reflecting strong demand for packaging in the agricultural markets in morocco and turkey .",
+      "in europe , sales volumes decreased slightly due to continuing weak demand for packaging in the industrial markets , and lower demand for packaging in the agricultural markets resulting from poor weather conditions .",
+      "average sales margins were significantly lower due to input costs for containerboard rising ahead of box sales price increases .",
+      "other input costs were also higher , primarily for energy .",
+      "operating profits in 2013 and 2012 included net gains of $ 13 million and $ 10 million , respectively , for insurance settlements and italian government grants , partially offset by additional operating costs , related to the earthquakes in northern italy in may 2012 which affected our san felice box plant .",
+      "entering the first quarter of 2014 , sales volumes are expected to increase slightly reflecting higher demand for packaging in the industrial markets .",
+      "average sales margins are expected to gradually improve as a result of slight reductions in material costs and planned box price increases .",
+      "other input costs should be about flat .",
+      "brazilian industrial packaging includes the results of orsa international paper embalagens s.a. , a corrugated packaging producer in which international paper acquired a 75% ( 75 % ) share in january 2013 .",
+      "net sales were $ 335 million in 2013 .",
+      "operating profits in 2013 were a loss of $ 2 million ( a gain of $ 2 million excluding acquisition and integration costs ) .",
+      "looking ahead to the first quarter of 2014 , sales volumes are expected to be seasonally lower than in the fourth quarter of 2013 .",
+      "average sales margins should improve reflecting the partial implementation of an announced sales price increase and a more favorable product mix .",
+      "operating costs and input costs are expected to be lower .",
+      "asian industrial packaging net sales were $ 400 million in 2013 compared with $ 400 million in 2012 and $ 410 million in 2011 .",
+      "operating profits for the packaging operations were a loss of $ 5 million in 2013 ( a loss of $ 1 million excluding restructuring costs ) compared with gains of $ 2 million in 2012 and $ 2 million in 2011 .",
+      "operating profits were favorably impacted in 2013 by higher average sales margins and slightly higher sales volumes compared with 2012 , but these benefits were offset by higher operating costs .",
+      "looking ahead to the first quarter of 2014 , sales volumes and average sales margins are expected to be seasonally soft .",
+      "net sales for the distribution operations were $ 285 million in 2013 compared with $ 260 million in 2012 and $ 285 million in 2011 .",
+      "operating profits were $ 3 million in 2013 , 2012 and 2011 .",
+      "printing papers demand for printing papers products is closely correlated with changes in commercial printing and advertising activity , direct mail volumes and , for uncoated cut-size products , with changes in white- collar employment levels that affect the usage of copy and laser printer paper .",
+      "pulp is further affected by changes in currency rates that can enhance or disadvantage producers in different geographic regions .",
+      "principal cost drivers include manufacturing efficiency , raw material and energy costs and freight costs .",
+      "printing papers net sales for 2013 were about flat with both 2012 and 2011 .",
+      "operating profits in 2013 were 55% ( 55 % ) lower than in 2012 and 69% ( 69 % ) lower than in 2011 .",
+      "excluding facility closure costs and impairment costs , operating profits in 2013 were 15% ( 15 % ) lower than in 2012 and 40% ( 40 % ) lower than in 2011 .",
+      "benefits from lower operating costs ( $ 81 million ) and lower maintenance outage costs ( $ 17 million ) were more than offset by lower average sales price realizations ( $ 38 million ) , lower sales volumes ( $ 14 million ) , higher input costs ( $ 99 million ) and higher other costs ( $ 34 million ) .",
+      "in addition , operating profits in 2013 included costs of $ 118 million associated with the announced closure of our courtland , alabama mill .",
+      "during 2013 , the company accelerated depreciation for certain courtland assets , and diligently evaluated certain other assets for possible alternative uses by one of our other businesses .",
+      "the net book value of these assets at december 31 , 2013 was approximately $ 470 million .",
+      "during 2014 , we have continued our evaluation and expect to conclude as to any uses for these assets during the first quarter of 2014 .",
+      "operating profits also included a $ 123 million impairment charge associated with goodwill and a trade name intangible asset in our india papers business .",
+      "operating profits in 2011 included a $ 24 million gain related to the announced repurposing of our franklin , virginia mill to produce fluff pulp and an $ 11 million impairment charge related to our inverurie , scotland mill that was closed in 2009 .",
+      "printing papers ."
+    ],
+    "post_text": [
+      "north american printing papers net sales were $ 2.6 billion in 2013 , $ 2.7 billion in 2012 and $ 2.8 billion in 2011. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2013",
+        "2012",
+        "2011"
+      ],
+      [
+        "sales",
+        "$ 6205",
+        "$ 6230",
+        "$ 6215"
+      ],
+      [
+        "operating profit",
+        "271",
+        "599",
+        "872"
+      ]
+    ],
+    "questions": [
+      "what is the net sales of printing papers in north american in 2013, in billions?",
+      "what about in millions?",
+      "what is the total sales in 2013?",
+      "what portion does north america represent?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in net revenue for entergy wholesale commodities during 2013?",
+      "answer": -52.0,
+      "answer_raw": "-52.0",
+      "program": "subtract(1802, 1854)"
+    }
+  ]
+}

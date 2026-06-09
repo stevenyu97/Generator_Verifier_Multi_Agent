@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2010 , what was the cumulative total return of the s&p 500?",
+      "answer": 30.69,
+      "answer_raw": "30.69",
+      "program": "subtract(130.69, 100.00)"
+    }
+  ]
+}

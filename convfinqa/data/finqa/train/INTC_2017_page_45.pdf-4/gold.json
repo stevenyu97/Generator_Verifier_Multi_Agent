@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 2017 what was percent of the net cash used for investing activities to the net cash provided by operating activities",
+      "answer": 0.71289,
+      "answer_raw": "0.71289",
+      "program": "divide(15762, 22110)"
+    }
+  ]
+}

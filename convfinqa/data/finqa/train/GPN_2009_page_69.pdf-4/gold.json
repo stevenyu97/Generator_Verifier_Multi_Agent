@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the yearly amortization expense related to customer-related intangible assets , ( in thousands ) ?",
+      "answer": 295.27273,
+      "answer_raw": "295.27273",
+      "program": "divide(3248, 11)"
+    }
+  ]
+}

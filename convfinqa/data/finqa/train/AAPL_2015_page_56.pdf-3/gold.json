@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in total property plant and equipment net from 2014 to 2015?",
+      "answer": 0.08956,
+      "answer_raw": "0.08956",
+      "program": "subtract(22471, 20624), divide(#0, 20624)"
+    }
+  ]
+}

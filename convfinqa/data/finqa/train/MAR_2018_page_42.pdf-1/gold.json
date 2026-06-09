@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "non cash items represent what percent of cash from operations in 2017?",
+      "answer": 0.6273,
+      "answer_raw": "0.6273",
+      "program": "divide(1397, 2227)"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "AES/2017/page_175.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the aes corporation notes to consolidated financial statements 2014 ( continued ) december 31 , 2017 , 2016 , and 2015 was dispatched starting in february 2018 .",
+      "aes puerto rico continues to be the lowest cost and epa compliant energy provider in puerto rico .",
+      "therefore , we expect aes puerto rico to continue to be a critical supplier to prepa .",
+      "starting prior to the hurricanes , prepa has been facing economic challenges that could impact the company , and on july 2 , 2017 , filed for bankruptcy under title iii .",
+      "as a result of the bankruptcy filing , aes puerto rico and aes ilumina 2019s non-recourse debt of $ 365 million and $ 36 million , respectively , is in default and has been classified as current as of december 31 , 2017 .",
+      "in november 2017 , aes puerto rico signed a forbearance and standstill agreement with its lenders to prevent the lenders from taking any action against the company due to the default events .",
+      "this agreement will expire on march 22 , 2018 .",
+      "the company's receivable balances in puerto rico as of december 31 , 2017 totaled $ 86 million , of which $ 53 million was overdue .",
+      "after the filing of title iii protection , and up until the disruption caused by the hurricanes , aes in puerto rico was collecting the overdue amounts from prepa in line with historic payment patterns .",
+      "considering the information available as of the filing date , management believes the carrying amount of our assets in puerto rico of $ 627 million is recoverable as of december 31 , 2017 and no reserve on the receivables is required .",
+      "foreign currency risks 2014 aes operates businesses in many foreign countries and such operations could be impacted by significant fluctuations in foreign currency exchange rates .",
+      "fluctuations in currency exchange rate between u.s .",
+      "dollar and the following currencies could create significant fluctuations in earnings and cash flows : the argentine peso , the brazilian real , the dominican republic peso , the euro , the chilean peso , the colombian peso , and the philippine peso .",
+      "concentrations 2014 due to the geographical diversity of its operations , the company does not have any significant concentration of customers or sources of fuel supply .",
+      "several of the company's generation businesses rely on ppas with one or a limited number of customers for the majority of , and in some cases all of , the relevant businesses' output over the term of the ppas .",
+      "however , no single customer accounted for 10% ( 10 % ) or more of total revenue in 2017 , 2016 or 2015 .",
+      "the cash flows and results of operations of our businesses depend on the credit quality of our customers and the continued ability of our customers and suppliers to meet their obligations under ppas and fuel supply agreements .",
+      "if a substantial portion of the company's long-term ppas and/or fuel supply were modified or terminated , the company would be adversely affected to the extent that it would be unable to replace such contracts at equally favorable terms .",
+      "26 .",
+      "related party transactions certain of our businesses in panama and the dominican republic are partially owned by governments either directly or through state-owned institutions .",
+      "in the ordinary course of business , these businesses enter into energy purchase and sale transactions , and transmission agreements with other state-owned institutions which are controlled by such governments .",
+      "at two of our generation businesses in mexico , the offtakers exercise significant influence , but not control , through representation on these businesses' boards of directors .",
+      "these offtakers are also required to hold a nominal ownership interest in such businesses .",
+      "in chile , we provide capacity and energy under contractual arrangements to our investment which is accounted for under the equity method of accounting .",
+      "additionally , the company provides certain support and management services to several of its affiliates under various agreements .",
+      "the company's consolidated statements of operations included the following transactions with related parties for the periods indicated ( in millions ) : ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "years ended december 31,",
+        "2017",
+        "2016",
+        "2015"
+      ],
+      [
+        "revenue 2014non-regulated",
+        "$ 1297",
+        "$ 1100",
+        "$ 1099"
+      ],
+      [
+        "cost of sales 2014non-regulated",
+        "220",
+        "210",
+        "330"
+      ],
+      [
+        "interest income",
+        "8",
+        "4",
+        "25"
+      ],
+      [
+        "interest expense",
+        "36",
+        "39",
+        "33"
+      ]
+    ],
+    "questions": [
+      "for 2017 , what was net interest expense with related parties , in millions?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "without the accounting change , what would the aro balance have been ( millions ) at december 31 2003?",
+      "answer": 16.0,
+      "answer_raw": "16.0",
+      "program": "subtract(29, 13)"
+    }
+  ]
+}

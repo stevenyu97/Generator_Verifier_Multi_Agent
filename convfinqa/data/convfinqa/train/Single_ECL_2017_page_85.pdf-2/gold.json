@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the yearly interest expense related to the seven year notes issued in january 2016?",
+      "answer": 13.0,
+      "answer_raw": "13.0",
+      "program": "multiply(400, 3.25%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the aggregate principal three year fixed rate note issued in january 2016?",
+      "answer": 400.0,
+      "answer_raw": "400.0",
+      "program": "400"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and it's coupon rate?",
+      "answer": 0.02,
+      "answer_raw": "0.02",
+      "program": "2.00%"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the yearly interest expense related to the three year notes issued in january 2016?",
+      "answer": 8.0,
+      "answer_raw": "8.0",
+      "program": "multiply(400, 3.25%), multiply(400, 2.00%)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total yearly interest expense related to the notes issued in january 2016?",
+      "answer": 21.0,
+      "answer_raw": "21.0",
+      "program": "multiply(400, 3.25%), multiply(400, 2.00%), add(#1, #0)"
+    }
+  ]
+}

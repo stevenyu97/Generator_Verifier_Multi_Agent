@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what the total number of votes to issue shares of republic common stock and other securities convertible",
+      "answer": 142182884.0,
+      "answer_raw": "142182884.0",
+      "program": "add(141728743, 297976), add(#0, 156165)"
+    }
+  ]
+}

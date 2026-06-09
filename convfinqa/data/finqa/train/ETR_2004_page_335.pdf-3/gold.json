@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the maximum exposure to loss for entergy if no cash is repaid to domestic utility companies is incurred from entergy louisiana?",
+      "answer": 0.352,
+      "answer_raw": "0.352",
+      "program": "add(1.8, 7.7), add(#0, 8.8), add(#1, 4.3), add(#2, 2.4), divide(8.8, #3)"
+    }
+  ]
+}

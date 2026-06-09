@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of the united parcel service inc . in 2014?",
+      "answer": 223.79,
+      "answer_raw": "223.79",
+      "program": "223.79"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the change in its value from 2009 to 2014?",
+      "answer": 123.79,
+      "answer_raw": "123.79",
+      "program": "subtract(223.79, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does this change represent, in percentage, in relation to the original 2009 value?",
+      "answer": 1.2379,
+      "answer_raw": "1.2379",
+      "program": "subtract(223.79, const_100), divide(#0, const_100)"
+    }
+  ]
+}

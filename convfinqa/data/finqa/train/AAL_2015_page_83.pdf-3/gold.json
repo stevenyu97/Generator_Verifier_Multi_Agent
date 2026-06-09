@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the labor-related deemed claim to professional services in 2013",
+      "answer": 8.70854,
+      "answer_raw": "8.70854",
+      "program": "divide(1733, 199)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the system energy 2019s receivables from the money pool from 2015 to 2016?",
+      "answer": -0.15321,
+      "answer_raw": "-0.15321",
+      "program": "subtract(33809, 39926), divide(#0, 39926)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much more , in millions , are the total level 3 assets than the level 3 liabilities for year ended dec 31 , 2009?",
+      "answer": 13856.0,
+      "answer_raw": "13856.0",
+      "program": "subtract(14151, 295)"
+    }
+  ]
+}

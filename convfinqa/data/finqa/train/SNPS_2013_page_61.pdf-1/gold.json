@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the identifiable intangible assets as a percent of total goodwill?",
+      "answer": 0.41654,
+      "answer_raw": "0.41654",
+      "program": "divide(107.3, 257.6)"
+    }
+  ]
+}

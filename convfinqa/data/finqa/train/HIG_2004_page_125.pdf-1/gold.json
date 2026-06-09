@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2004 what was the percent of the hartford declared dividends that was paid to shareholders i",
+      "answer": 0.98187,
+      "answer_raw": "0.98187",
+      "program": "divide(325, 331)"
+    }
+  ]
+}

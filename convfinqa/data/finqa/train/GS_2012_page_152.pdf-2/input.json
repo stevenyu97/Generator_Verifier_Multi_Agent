@@ -1,0 +1,81 @@
+{
+  "input": {
+    "id": "GS/2012/page_152.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements gains and losses on financial assets and financial liabilities accounted for at fair value under the fair value option the table below presents the gains and losses recognized as a result of the firm electing to apply the fair value option to certain financial assets and financial liabilities .",
+      "these gains and losses are included in 201cmarket making 201d and 201cother principal transactions . 201d the table below also includes gains and losses on the embedded derivative component of hybrid financial instruments included in unsecured short-term borrowings and unsecured long-term borrowings .",
+      "these gains and losses would have been recognized under other u.s .",
+      "gaap even if the firm had not elected to account for the entire hybrid instrument at fair value .",
+      "the amounts in the table exclude contractual interest , which is included in 201cinterest income 201d and 201cinterest expense , 201d for all instruments other than hybrid financial instruments .",
+      "see note 23 for further information about interest income and interest expense .",
+      "gains/ ( losses ) on financial assets and financial liabilities at fair value under the fair value option year ended december in millions 2012 2011 2010 receivables from customers and counterparties 1 $ 190 $ 97 $ ( 97 ) ."
+    ],
+    "post_text": [
+      "1 .",
+      "primarily consists of gains/ ( losses ) on certain reinsurance contracts and certain transfers accounted for as receivables rather than purchases .",
+      "2 .",
+      "includes gains/ ( losses ) on the embedded derivative component of hybrid financial instruments of $ ( 814 ) million , $ 2.01 billion , and $ ( 1.49 ) billion as of december 2012 , december 2011 and december 2010 , respectively .",
+      "3 .",
+      "includes gains/ ( losses ) on the embedded derivative component of hybrid financial instruments of $ ( 887 ) million , $ 1.80 billion and $ ( 1.32 ) billion as of december 2012 , december 2011 and december 2010 , respectively .",
+      "4 .",
+      "primarily consists of gains/ ( losses ) on certain insurance contracts .",
+      "5 .",
+      "primarily consists of gains/ ( losses ) on resale and repurchase agreements , securities borrowed and loaned and deposits .",
+      "excluding the gains and losses on the instruments accounted for under the fair value option described above , 201cmarket making 201d and 201cother principal transactions 201d primarily represent gains and losses on 201cfinancial instruments owned , at fair value 201d and 201cfinancial instruments sold , but not yet purchased , at fair value . 201d 150 goldman sachs 2012 annual report ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "gains/ ( losses ) on financial assets and financial liabilities at fair value under the fair value option year ended december 2012",
+        "gains/ ( losses ) on financial assets and financial liabilities at fair value under the fair value option year ended december 2011",
+        "gains/ ( losses ) on financial assets and financial liabilities at fair value under the fair value option year ended december 2010"
+      ],
+      [
+        "receivables from customers andcounterparties1",
+        "$ 190",
+        "$ 97",
+        "$ -97 ( 97 )"
+      ],
+      [
+        "other secured financings",
+        "-190 ( 190 )",
+        "-63 ( 63 )",
+        "-227 ( 227 )"
+      ],
+      [
+        "unsecured short-term borrowings2",
+        "-973 ( 973 )",
+        "2149",
+        "-1455 ( 1455 )"
+      ],
+      [
+        "unsecured long-term borrowings3",
+        "-1523 ( 1523 )",
+        "2336",
+        "-1169 ( 1169 )"
+      ],
+      [
+        "other liabilities and accrued expenses4",
+        "-1486 ( 1486 )",
+        "-911 ( 911 )",
+        "50"
+      ],
+      [
+        "other5",
+        "-81 ( 81 )",
+        "90",
+        "-10 ( 10 )"
+      ],
+      [
+        "total",
+        "$ -4063 ( 4063 )",
+        "$ 3698",
+        "$ -2908 ( 2908 )"
+      ]
+    ],
+    "questions": [
+      "by what amount is the total gains/ ( losses ) on financial assets and financial liabilities at fair value at 2017 different from 2016?"
+    ]
+  }
+}

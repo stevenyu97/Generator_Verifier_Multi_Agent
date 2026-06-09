@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the expense related to amortization of actuarial losses in 2020?",
+      "answer": 105.0,
+      "answer_raw": "105.0",
+      "program": "105"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2019?",
+      "answer": 76.2,
+      "answer_raw": "76.2",
+      "program": "76.2"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the fraction among these two years?",
+      "answer": 1.37795,
+      "answer_raw": "1.37795",
+      "program": "divide(105, 76.2)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage change does this represent?",
+      "answer": 0.37795,
+      "answer_raw": "0.37795",
+      "program": "divide(105, 76.2), subtract(#0, const_1)"
+    }
+  ]
+}

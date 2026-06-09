@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "GS/2018/page_108.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the goldman sachs group , inc .",
+      "and subsidiaries management 2019s discussion and analysis during periods in which we have significantly more positive net revenue days than net revenue loss days , we expect to have fewer var exceptions because , under normal conditions , our business model generally produces positive net revenues .",
+      "in periods in which our franchise revenues are adversely affected , we generally have more loss days , resulting in more var exceptions .",
+      "the daily net revenues for positions included in var used to determine var exceptions reflect the impact of any intraday activity , including bid/offer net revenues , which are more likely than not to be positive by their nature .",
+      "sensitivity measures certain portfolios and individual positions are not included in var because var is not the most appropriate risk measure .",
+      "other sensitivity measures we use to analyze market risk are described below .",
+      "10% ( 10 % ) sensitivity measures .",
+      "the table below presents market risk by asset category for positions accounted for at fair value , that are not included in var. ."
+    ],
+    "post_text": [
+      "in the table above : 2030 the market risk of these positions is determined by estimating the potential reduction in net revenues of a 10% ( 10 % ) decline in the value of these positions .",
+      "2030 equity positions relate to private and restricted public equity securities , including interests in funds that invest in corporate equities and real estate and interests in hedge funds .",
+      "2030 debt positions include interests in funds that invest in corporate mezzanine and senior debt instruments , loans backed by commercial and residential real estate , corporate bank loans and other corporate debt , including acquired portfolios of distressed loans .",
+      "2030 funded equity and debt positions are included in our consolidated statements of financial condition in financial instruments owned .",
+      "see note 6 to the consolidated financial statements for further information about cash instruments .",
+      "2030 these measures do not reflect the diversification effect across asset categories or across other market risk measures .",
+      "credit spread sensitivity on derivatives and financial liabilities .",
+      "var excludes the impact of changes in counterparty and our own credit spreads on derivatives , as well as changes in our own credit spreads ( debt valuation adjustment ) on financial liabilities for which the fair value option was elected .",
+      "the estimated sensitivity to a one basis point increase in credit spreads ( counterparty and our own ) on derivatives was a gain of $ 3 million ( including hedges ) as of both december 2018 and december 2017 .",
+      "in addition , the estimated sensitivity to a one basis point increase in our own credit spreads on financial liabilities for which the fair value option was elected was a gain of $ 41 million as of december 2018 and $ 35 million as of december 2017 .",
+      "however , the actual net impact of a change in our own credit spreads is also affected by the liquidity , duration and convexity ( as the sensitivity is not linear to changes in yields ) of those financial liabilities for which the fair value option was elected , as well as the relative performance of any hedges undertaken .",
+      "interest rate sensitivity .",
+      "loans receivable were $ 80.59 billion as of december 2018 and $ 65.93 billion as of december 2017 , substantially all of which had floating interest rates .",
+      "the estimated sensitivity to a 100 basis point increase in interest rates on such loans was $ 607 million as of december 2018 and $ 527 million as of december 2017 , of additional interest income over a twelve-month period , which does not take into account the potential impact of an increase in costs to fund such loans .",
+      "see note 9 to the consolidated financial statements for further information about loans receivable .",
+      "other market risk considerations as of both december 2018 and december 2017 , we had commitments and held loans for which we have obtained credit loss protection from sumitomo mitsui financial group , inc .",
+      "see note 18 to the consolidated financial statements for further information about such lending commitments .",
+      "in addition , we make investments in securities that are accounted for as available-for-sale and included in financial instruments owned in the consolidated statements of financial condition .",
+      "see note 6 to the consolidated financial statements for further information .",
+      "we also make investments accounted for under the equity method and we also make direct investments in real estate , both of which are included in other assets .",
+      "direct investments in real estate are accounted for at cost less accumulated depreciation .",
+      "see note 13 to the consolidated financial statements for further information about other assets .",
+      "92 goldman sachs 2018 form 10-k ."
+    ],
+    "table": [
+      [
+        "$ in millions",
+        "as of december 2018",
+        "as of december 2017"
+      ],
+      [
+        "equity",
+        "$ 1923",
+        "$ 2096"
+      ],
+      [
+        "debt",
+        "1890",
+        "1606"
+      ],
+      [
+        "total",
+        "$ 3813",
+        "$ 3702"
+      ]
+    ],
+    "questions": [
+      "for asset category for positions accounted for at fair value , that are not included in var , in millions for 2018 and 2017 , what was the maximum equity value?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the number of individual smoking and health cases pending from 2018 to 2019?",
+      "answer": -2.0,
+      "answer_raw": "-2.0",
+      "program": "subtract(55, 57)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "does a .5% ( .5 % ) decrease in discount rate have a greater impact on pension expense than a .5% ( .5 % ) decrease in expected long-term return on assets?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(1, 10)"
+    }
+  ]
+}

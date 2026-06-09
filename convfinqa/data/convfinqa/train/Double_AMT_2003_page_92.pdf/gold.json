@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the amount of the state operating loss carryforwards that expires between 2004 and 2008?",
+      "answer": 483578.0,
+      "answer_raw": "483578.0",
+      "program": "483578"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the total of that state operating loss carryforwards?",
+      "answer": 1513972.0,
+      "answer_raw": "1513972.0",
+      "program": "1513972"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is, then, that amount as a portion of this total?",
+      "answer": 0.31941,
+      "answer_raw": "0.31941",
+      "program": "divide(483578, 1513972)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in 2003, how much did the net federal operating loss carryforwards represent in relation to that state one?",
+      "answer": 0.6,
+      "answer_raw": "0.6",
+      "program": "divide(0.9, 1.5)"
+    }
+  ]
+}

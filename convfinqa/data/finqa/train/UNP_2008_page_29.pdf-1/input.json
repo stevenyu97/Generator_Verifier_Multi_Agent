@@ -1,0 +1,96 @@
+{
+  "input": {
+    "id": "UNP/2008/page_29.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "average revenue per car 2008 2007 2006 % (  % ) change 2008 v 2007 % (  % ) change 2007 v 2006 ."
+    ],
+    "post_text": [
+      "agricultural products 2013 price improvements , fuel surcharges , and volume growth generated higher agricultural freight revenue in 2008 versus 2007 .",
+      "strong global demand for grain and a weak dollar drove higher shipments of corn and feed grains and shipments of wheat and food grains for 2008 .",
+      "shipments of ethanol , a grain product used as an alternative fuel and fuel additive , and its co- products ( primarily livestock feed ) also increased .",
+      "price increases were the primary drivers of agricultural freight revenue in 2007 versus 2006 , partially offset by a decline in volume levels .",
+      "shipments of whole grains used in feed declined as barge operators captured more shipments destined for export from the gulf coast due to both favorable barge rates and improved navigation conditions on the mississippi river .",
+      "conversely , wheat and food grain shipments improved as a strong wheat crop generated record shipments to the gulf coast for export .",
+      "shipments of ethanol and its co-products also increased substantially .",
+      "automotive 2013 double-digit declines in shipments of both finished vehicles and auto parts drove freight revenue lower in 2008 compared to 2007 .",
+      "price improvements and fuel surcharges partially offset these lower volumes .",
+      "the manufacturers experienced poor sales and reduced vehicle production during 2008 due to the recessionary economy , which in turn reduced shipments of finished vehicles and parts .",
+      "in addition , a major parts supplier strike reduced volume levels compared to 2007 .",
+      "shipments of finished vehicles decreased 23% ( 23 % ) in 2008 versus 2007 .",
+      "in 2007 , price increases drove the growth in automotive revenue , partially offset by lower finished vehicle shipments versus 2006 .",
+      "a decline in vehicle production levels primarily drove the volume decline .",
+      "conversely , automotive parts shipments grew due to increased volumes from domestic manufacturers , new business acquired in the middle of 2006 , and our new intermodal train service between mexico and michigan .",
+      "2008 agricultural revenue 2008 automotive revenue ."
+    ],
+    "table": [
+      [
+        "average revenue per car",
+        "2008",
+        "2007",
+        "2006",
+        "% (  % ) change 2008 v 2007",
+        "% (  % ) change 2007 v 2006"
+      ],
+      [
+        "agricultural",
+        "$ 3352",
+        "$ 2888",
+        "$ 2584",
+        "16 % (  % )",
+        "12% ( 12 % )"
+      ],
+      [
+        "automotive",
+        "2017",
+        "1766",
+        "1710",
+        "14",
+        "3"
+      ],
+      [
+        "chemicals",
+        "2818",
+        "2464",
+        "2326",
+        "14",
+        "6"
+      ],
+      [
+        "energy",
+        "1622",
+        "1363",
+        "1285",
+        "19",
+        "6"
+      ],
+      [
+        "industrial products",
+        "2620",
+        "2322",
+        "2167",
+        "13",
+        "7"
+      ],
+      [
+        "intermodal",
+        "955",
+        "847",
+        "813",
+        "13",
+        "4"
+      ],
+      [
+        "average",
+        "$ 1848",
+        "$ 1591",
+        "$ 1501",
+        "16 % (  % )",
+        "6% ( 6 % )"
+      ]
+    ],
+    "questions": [
+      "in 2008 what was the ratio of the average revenue per car for the agriculture products to energy"
+    ]
+  }
+}

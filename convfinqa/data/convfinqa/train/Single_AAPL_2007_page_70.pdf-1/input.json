@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "Single_AAPL/2007/page_70.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "notes to consolidated financial statements ( continued ) note 2 2014financial instruments ( continued ) covered by collateral , third-party flooring arrangements , or credit insurance are outstanding with the company 2019s distribution and retail channel partners .",
+      "one customer accounted for approximately 11% ( 11 % ) of trade receivables as of september 29 , 2007 , while no customers accounted for more than 10% ( 10 % ) of trade receivables as of september 30 , 2006 .",
+      "the following table summarizes the activity in the allowance for doubtful accounts ( in millions ) : september 29 , september 30 , september 24 , 2007 2006 2005 ."
+    ],
+    "post_text": [
+      "vendor non-trade receivables the company has non-trade receivables from certain of its manufacturing vendors resulting from the sale of raw material components to these manufacturing vendors who manufacture sub-assemblies or assemble final products for the company .",
+      "the company purchases these raw material components directly from suppliers .",
+      "these non-trade receivables , which are included in the consolidated balance sheets in other current assets , totaled $ 2.4 billion and $ 1.6 billion as of september 29 , 2007 and september 30 , 2006 , respectively .",
+      "the company does not reflect the sale of these components in net sales and does not recognize any profits on these sales until the products are sold through to the end customer at which time the profit is recognized as a reduction of cost of sales .",
+      "derivative financial instruments the company uses derivatives to partially offset its business exposure to foreign exchange risk .",
+      "foreign currency forward and option contracts are used to offset the foreign exchange risk on certain existing assets and liabilities and to hedge the foreign exchange risk on expected future cash flows on certain forecasted revenue and cost of sales .",
+      "the company 2019s accounting policies for these instruments are based on whether the instruments are designated as hedge or non-hedge instruments .",
+      "the company records all derivatives on the balance sheet at fair value. ."
+    ],
+    "table": [
+      [
+        "",
+        "september 29 2007",
+        "september 30 2006",
+        "september 24 2005"
+      ],
+      [
+        "beginning allowance balance",
+        "$ 52",
+        "$ 46",
+        "$ 47"
+      ],
+      [
+        "charged to costs and expenses",
+        "12",
+        "17",
+        "8"
+      ],
+      [
+        "deductions",
+        "-17 ( 17 )",
+        "-11 ( 11 )",
+        "-9 ( 9 )"
+      ],
+      [
+        "ending allowance balance",
+        "$ 47",
+        "$ 52",
+        "$ 46"
+      ]
+    ],
+    "questions": [
+      "what was the balance in the allowance for doubtful accounts in 2006?",
+      "what was the balance in 2005?",
+      "what is the net difference?",
+      "what was the 2005 balance?",
+      "what is the percent change?"
+    ]
+  }
+}

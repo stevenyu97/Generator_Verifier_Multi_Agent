@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the weighted average grant date fair value listed above , what was the value of unvested restricted stock awards at december 31 , 2009?",
+      "answer": 64708890.11,
+      "answer_raw": "64708890.11",
+      "program": "multiply(1441499, 44.89)"
+    }
+  ]
+}

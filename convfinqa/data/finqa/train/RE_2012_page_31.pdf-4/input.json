@@ -1,0 +1,85 @@
+{
+  "input": {
+    "id": "RE/2012/page_31.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "the company endeavors to actively engage with every insured account posing significant potential asbestos exposure to mt .",
+      "mckinley .",
+      "such engagement can take the form of pursuing a final settlement , negotiation , litigation , or the monitoring of claim activity under settlement in place ( 201csip 201d ) agreements .",
+      "sip agreements generally condition an insurer 2019s payment upon the actual claim experience of the insured and may have annual payment caps or other measures to control the insurer 2019s payments .",
+      "the company 2019s mt .",
+      "mckinley operation is currently managing four sip agreements , one of which was executed prior to the acquisition of mt .",
+      "mckinley in 2000 .",
+      "the company 2019s preference with respect to coverage settlements is to execute settlements that call for a fixed schedule of payments , because such settlements eliminate future uncertainty .",
+      "the company has significantly enhanced its classification of insureds by exposure characteristics over time , as well as its analysis by insured for those it considers to be more exposed or active .",
+      "those insureds identified as relatively less exposed or active are subject to less rigorous , but still active management , with an emphasis on monitoring those characteristics , which may indicate an increasing exposure or levels of activity .",
+      "the company continually focuses on further enhancement of the detailed estimation processes used to evaluate potential exposure of policyholders .",
+      "everest re 2019s book of assumed a&e reinsurance is relatively concentrated within a limited number of contracts and for a limited period , from 1974 to 1984 .",
+      "because the book of business is relatively concentrated and the company has been managing the a&e exposures for many years , its claim staff is familiar with the ceding companies that have generated most of these liabilities in the past and which are therefore most likely to generate future liabilities .",
+      "the company 2019s claim staff has developed familiarity both with the nature of the business written by its ceding companies and the claims handling and reserving practices of those companies .",
+      "this level of familiarity enhances the quality of the company 2019s analysis of its exposure through those companies .",
+      "as a result , the company believes that it can identify those claims on which it has unusual exposure , such as non-products asbestos claims , for concentrated attention .",
+      "however , in setting reserves for its reinsurance liabilities , the company relies on claims data supplied , both formally and informally by its ceding companies and brokers .",
+      "this furnished information is not always timely or accurate and can impact the accuracy and timeliness of the company 2019s ultimate loss projections .",
+      "the following table summarizes the composition of the company 2019s total reserves for a&e losses , gross and net of reinsurance , for the periods indicated: ."
+    ],
+    "post_text": [
+      "( 1 ) additional reserves are case specific reserves established by the company in excess of those reported by the ceding company , based on the company 2019s assessment of the covered loss .",
+      "( some amounts may not reconcile due to rounding. ) additional losses , including those relating to latent injuries and other exposures , which are as yet unrecognized , the type or magnitude of which cannot be foreseen by either the company or the industry , may emerge in the future .",
+      "such future emergence could have material adverse effects on the company 2019s future financial condition , results of operations and cash flows. ."
+    ],
+    "table": [
+      [
+        "( dollars in millions )",
+        "years ended december 31 , 2012",
+        "years ended december 31 , 2011",
+        "years ended december 31 , 2010"
+      ],
+      [
+        "case reserves reported by ceding companies",
+        "$ 138.4",
+        "$ 145.6",
+        "$ 135.4"
+      ],
+      [
+        "additional case reserves established by the company ( assumed reinsurance ) ( 1 )",
+        "90.6",
+        "102.9",
+        "116.1"
+      ],
+      [
+        "case reserves established by the company ( direct insurance )",
+        "36.7",
+        "40.6",
+        "38.9"
+      ],
+      [
+        "incurred but not reported reserves",
+        "177.1",
+        "210.9",
+        "264.4"
+      ],
+      [
+        "gross reserves",
+        "442.8",
+        "499.9",
+        "554.8"
+      ],
+      [
+        "reinsurance receivable",
+        "-17.1 ( 17.1 )",
+        "-19.8 ( 19.8 )",
+        "-21.9 ( 21.9 )"
+      ],
+      [
+        "net reserves",
+        "$ 425.7",
+        "$ 480.2",
+        "$ 532.9"
+      ]
+    ],
+    "questions": [
+      "as of december 31 , 2012 what was the percentage change in net reserves from 2011"
+    ]
+  }
+}

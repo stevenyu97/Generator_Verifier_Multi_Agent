@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of crude oil trunk lines handled in 2009?",
+      "answer": 1279.0,
+      "answer_raw": "1279.0",
+      "program": "1279"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the total pipeline barrels?",
+      "answer": 2232.0,
+      "answer_raw": "2232.0",
+      "program": "2232"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what portion does this represent?",
+      "answer": 0.57303,
+      "answer_raw": "0.57303",
+      "program": "divide(1279, 2232)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the net change in the total pipeline barrels from 2007 to 2009?",
+      "answer": 268.0,
+      "answer_raw": "268.0",
+      "program": "subtract(2500, 2232)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total handles in 2007?",
+      "answer": 2500.0,
+      "answer_raw": "2500.0",
+      "program": "2500"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what percentage change does this represent?",
+      "answer": 0.1072,
+      "answer_raw": "0.1072",
+      "program": "subtract(2500, 2232), divide(#0, 2500)"
+    }
+  ]
+}

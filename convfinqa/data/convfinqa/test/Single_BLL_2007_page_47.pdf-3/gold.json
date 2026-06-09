@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the annual cash dividends paid on common stock per share in 2006, in dollars?",
+      "answer": 0.4,
+      "answer_raw": "0.4",
+      "program": "divide(40, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was, in millions, the total of dividends paid in that year?",
+      "answer": 41.0,
+      "answer_raw": "41.0",
+      "program": "41"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how many shares, then, in millions, were bought in 2006, considering those two values?",
+      "answer": 102.5,
+      "answer_raw": "102.5",
+      "program": "divide(40, const_100), divide(41, #0)"
+    }
+  ]
+}

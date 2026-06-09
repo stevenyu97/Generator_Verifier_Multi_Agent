@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total value of purchased shares during november 2017?",
+      "answer": 96114.48,
+      "answer_raw": "96114.48",
+      "program": "multiply(924, 104.02)"
+    }
+  ]
+}

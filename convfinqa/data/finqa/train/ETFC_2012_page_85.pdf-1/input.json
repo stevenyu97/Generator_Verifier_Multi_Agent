@@ -1,0 +1,57 @@
+{
+  "input": {
+    "id": "ETFC/2012/page_85.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "there is no goodwill assigned to reporting units within the balance sheet management segment .",
+      "the following table shows the amount of goodwill allocated to each of the reporting units and the fair value as a percentage of book value for the reporting units in the trading and investing segment ( dollars in millions ) : ."
+    ],
+    "post_text": [
+      "we also evaluate the remaining useful lives on intangible assets each reporting period to determine whether events and circumstances warrant a revision to the remaining period of amortization .",
+      "other intangible assets have a weighted average remaining useful life of 13 years .",
+      "we did not recognize impairment on our other intangible assets in the periods presented .",
+      "effects if actual results differ if our estimates of fair value for the reporting units change due to changes in our business or other factors , we may determine that an impairment charge is necessary .",
+      "estimates of fair value are determined based on a complex model using estimated future cash flows and company comparisons .",
+      "if actual cash flows are less than estimated future cash flows used in the annual assessment , then goodwill would have to be tested for impairment .",
+      "the estimated fair value of the market making reporting unit as a percentage of book value was approximately 115% ( 115 % ) ; therefore , if actual cash flows are less than our estimated cash flows , goodwill impairment could occur in the market making reporting unit in the future .",
+      "these cash flows will be monitored closely to determine if a further evaluation of potential impairment is necessary so that impairment could be recognized in a timely manner .",
+      "in addition , following the review of order handling practices and pricing for order flow between e*trade securities llc and gi execution services , llc , our regulators may initiate investigations into our historical practices which could subject us to monetary penalties and cease-and-desist orders , which could also prompt claims by customers of e*trade securities llc .",
+      "any of these actions could materially and adversely affect our market making and trade execution businesses , which could impact future cash flows and could result in goodwill impairment .",
+      "intangible assets are amortized over their estimated useful lives .",
+      "if changes in the estimated underlying revenue occur , impairment or a change in the remaining life may need to be recognized .",
+      "estimates of effective tax rates , deferred taxes and valuation allowance description in preparing the consolidated financial statements , we calculate income tax expense ( benefit ) based on our interpretation of the tax laws in the various jurisdictions where we conduct business .",
+      "this requires us to estimate current tax obligations and the realizability of uncertain tax positions and to assess temporary differences between the financial statement carrying amounts and the tax basis of assets and liabilities .",
+      "these differences result in deferred tax assets and liabilities , the net amount of which we show as other assets or other liabilities on the consolidated balance sheet .",
+      "we must also assess the likelihood that each of the deferred tax assets will be realized .",
+      "to the extent we believe that realization is not more likely than not , we establish a valuation allowance .",
+      "when we establish a valuation allowance or increase this allowance in a reporting period , we generally record a corresponding tax expense in the consolidated statement of income ( loss ) .",
+      "conversely , to the extent circumstances indicate that a valuation allowance is no longer necessary , that portion of the valuation allowance is reversed , which generally reduces overall income tax expense .",
+      "at december 31 , 2012 we had net deferred tax assets of $ 1416.2 million , net of a valuation allowance ( on state , foreign country and charitable contribution deferred tax assets ) of $ 97.8 million. ."
+    ],
+    "table": [
+      [
+        "reporting unit",
+        "december 31 2012 goodwill",
+        "december 31 2012 % (  % ) of fair value to book value"
+      ],
+      [
+        "retail brokerage",
+        "$ 1791.8",
+        "190% ( 190 % )"
+      ],
+      [
+        "market making",
+        "142.4",
+        "115% ( 115 % )"
+      ],
+      [
+        "total goodwill",
+        "$ 1934.2",
+        ""
+      ]
+    ],
+    "questions": [
+      "what percentage of total goodwill is comprised of retail brokerage at december 31 2012?"
+    ]
+  }
+}

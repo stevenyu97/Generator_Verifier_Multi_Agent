@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of s&p financials in 2016?",
+      "answer": 188.9,
+      "answer_raw": "188.9",
+      "program": "188.9"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the value in 2015?",
+      "answer": 153.9,
+      "answer_raw": "153.9",
+      "program": "153.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 35.0,
+      "answer_raw": "35.0",
+      "program": "subtract(188.9, 153.9)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the 2015 number?",
+      "answer": 153.9,
+      "answer_raw": "153.9",
+      "program": "153.9"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the net change over the 2015 value?",
+      "answer": 0.22742,
+      "answer_raw": "0.22742",
+      "program": "subtract(188.9, 153.9), divide(#0, 153.9)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total future minimum lease payments for entergy louisiana is used for interest?",
+      "answer": 0.44429,
+      "answer_raw": "0.44429",
+      "program": "divide(209895, 472429)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total non-vest iso's and restricted share units, in thousands, as of 12/31/11?",
+      "answer": 3342.0,
+      "answer_raw": "3342.0",
+      "program": "add(830, 2512)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "were there more iso's granted than restricted stock units in 2010?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(623, 1059)"
+    }
+  ]
+}

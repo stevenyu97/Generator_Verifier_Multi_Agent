@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total discrete tax benefit from employee share-based awards in the first quarter of 2017?",
+      "answer": 112.0,
+      "answer_raw": "112.0",
+      "program": "112"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the second quarter?",
+      "answer": 16.0,
+      "answer_raw": "16.0",
+      "program": "16"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total for the first two quarters?",
+      "answer": 128.0,
+      "answer_raw": "128.0",
+      "program": "add(112, 16)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about the total if third quarter is added?",
+      "answer": 139.0,
+      "answer_raw": "139.0",
+      "program": "add(112, 16), add(#0, 11)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what about the total for the year?",
+      "answer": 155.0,
+      "answer_raw": "155.0",
+      "program": "add(112, 16), add(#0, 11), add(#1, 16)"
+    }
+  ]
+}

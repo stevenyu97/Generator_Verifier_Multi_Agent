@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "CDW/2017/page_56.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents ( 4 ) the increase in cash flows was primarily due to the timing of inventory purchases and longer payment terms with certain vendors .",
+      "in order to manage our working capital and operating cash needs , we monitor our cash conversion cycle , defined as days of sales outstanding in accounts receivable plus days of supply in inventory minus days of purchases outstanding in accounts payable , based on a rolling three-month average .",
+      "components of our cash conversion cycle are as follows: ."
+    ],
+    "post_text": [
+      "( 1 ) represents the rolling three-month average of the balance of accounts receivable , net at the end of the period , divided by average daily net sales for the same three-month period .",
+      "also incorporates components of other miscellaneous receivables .",
+      "( 2 ) represents the rolling three-month average of the balance of merchandise inventory at the end of the period divided by average daily cost of sales for the same three-month period .",
+      "( 3 ) represents the rolling three-month average of the combined balance of accounts payable-trade , excluding cash overdrafts , and accounts payable-inventory financing at the end of the period divided by average daily cost of sales for the same three-month period .",
+      "the cash conversion cycle was 19 days at december 31 , 2017 and 2016 .",
+      "the increase in dso was primarily driven by higher net sales and related accounts receivable for third-party services such as saas , software assurance and warranties .",
+      "these services have an unfavorable impact on dso as the receivable is recognized on the consolidated balance sheet on a gross basis while the corresponding sales amount in the consolidated statement of operations is recorded on a net basis .",
+      "this also results in a favorable impact on dpo as the payable is recognized on the consolidated balance sheet without a corresponding cost of sales in the statement of operations because the cost paid to the vendor or third-party service provider is recorded as a reduction to net sales .",
+      "in addition , dpo also increased due to the mix of payables with certain vendors that have longer payment terms .",
+      "the cash conversion cycle was 19 and 21 days at december 31 , 2016 and 2015 , respectively .",
+      "the increase in dso was primarily driven by higher net sales and related accounts receivable for third-party services such as saas , software assurance and warranties .",
+      "these services have an unfavorable impact on dso as the receivable is recognized on the balance sheet on a gross basis while the corresponding sales amount in the statement of operations is recorded on a net basis .",
+      "these services have a favorable impact on dpo as the payable is recognized on the balance sheet without a corresponding cost of sale in the statement of operations because the cost paid to the vendor or third-party service provider is recorded as a reduction to net sales .",
+      "in addition to the impact of these services on dpo , dpo also increased due to the mix of payables with certain vendors that have longer payment terms .",
+      "investing activities net cash used in investing activities increased $ 15 million in 2017 compared to 2016 .",
+      "capital expenditures increased $ 17 million to $ 81 million from $ 64 million for 2017 and 2016 , respectively , primarily related to improvements to our information technology systems .",
+      "net cash used in investing activities decreased $ 289 million in 2016 compared to 2015 .",
+      "the decrease in cash used was primarily due to the completion of the acquisition of cdw uk in 2015 .",
+      "additionally , capital expenditures decreased $ 26 million to $ 64 million from $ 90 million for 2016 and 2015 , respectively , primarily due to spending for our new office location in 2015 .",
+      "financing activities net cash used in financing activities increased $ 514 million in 2017 compared to 2016 .",
+      "the increase was primarily driven by changes in accounts payable-inventory financing , which resulted in an increase in cash used for financing activities of $ 228 million and by share repurchases during 2017 , which resulted in an increase in cash used for financing activities of $ 167 million .",
+      "for more information on our share repurchase program , see part ii , item 5 , 201cmarket for registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities . 201d the increase in cash used for accounts payable-inventory financing was primarily driven by the termination of one of our inventory financing agreements in the fourth quarter of 2016 , with amounts ."
+    ],
+    "table": [
+      [
+        "( in days )",
+        "december 31 , 2017",
+        "december 31 , 2016",
+        "december 31 , 2015"
+      ],
+      [
+        "days of sales outstanding ( dso ) ( 1 )",
+        "52",
+        "51",
+        "48"
+      ],
+      [
+        "days of supply in inventory ( dio ) ( 2 )",
+        "12",
+        "12",
+        "13"
+      ],
+      [
+        "days of purchases outstanding ( dpo ) ( 3 )",
+        "-45 ( 45 )",
+        "-44 ( 44 )",
+        "-40 ( 40 )"
+      ],
+      [
+        "cash conversion cycle",
+        "19",
+        "19",
+        "21"
+      ]
+    ],
+    "questions": [
+      "what was the average capital expenditures , in millions , for 2016 and 2015?"
+    ]
+  }
+}

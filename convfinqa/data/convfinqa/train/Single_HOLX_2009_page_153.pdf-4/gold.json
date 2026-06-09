@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of the value of construction of the finished cytyc building in 2008?",
+      "answer": 7400.0,
+      "answer_raw": "7400.0",
+      "program": "add(3000, 4400)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the sum including the value of the land?",
+      "answer": 15100.0,
+      "answer_raw": "15100.0",
+      "program": "add(3000, 4400), add(7700, #0)"
+    }
+  ]
+}

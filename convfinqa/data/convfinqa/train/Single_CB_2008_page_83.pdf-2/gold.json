@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the balance of unpaid losses in the beginning of 2008?",
+      "answer": 7603.0,
+      "answer_raw": "7603.0",
+      "program": "7603"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total of losses and loss expenses paid?",
+      "answer": -6327.0,
+      "answer_raw": "-6327.0",
+      "program": "-6327"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what then became that balance after these losses and loss expenses paid?",
+      "answer": 1276.0,
+      "answer_raw": "1276.0",
+      "program": "add(7603, -6327)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was the total in other losses ( including foreign exchange revaluation )?",
+      "answer": -980.0,
+      "answer_raw": "-980.0",
+      "program": "-980"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what then became that balance of unpaid losses after these other losses?",
+      "answer": 296.0,
+      "answer_raw": "296.0",
+      "program": "add(7603, -6327), add(#0, -980)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and including the losses and loss expenses that were acquired what became that balance?",
+      "answer": 649.0,
+      "answer_raw": "649.0",
+      "program": "add(7603, -6327), add(#0, -980), add(#1, 353)"
+    }
+  ]
+}

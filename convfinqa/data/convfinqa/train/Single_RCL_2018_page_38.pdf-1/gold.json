@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the price of royal caribbean cruises ltd. on 12/15?",
+      "answer": 220.72,
+      "answer_raw": "220.72",
+      "program": "220.72"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 12/14?",
+      "answer": 176.94,
+      "answer_raw": "176.94",
+      "program": "176.94"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much did the price change between these dates?",
+      "answer": 43.78,
+      "answer_raw": "43.78",
+      "program": "subtract(220.72, 176.94)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage growth in price over this year?",
+      "answer": 0.24743,
+      "answer_raw": "0.24743",
+      "program": "subtract(220.72, 176.94), divide(#0, 176.94)"
+    }
+  ]
+}

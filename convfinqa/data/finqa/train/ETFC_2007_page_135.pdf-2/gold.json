@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 2006 what was the ratio of the non-vested to the shares issued",
+      "answer": 3.46747,
+      "answer_raw": "3.46747",
+      "program": "divide(2878, 830)"
+    }
+  ]
+}

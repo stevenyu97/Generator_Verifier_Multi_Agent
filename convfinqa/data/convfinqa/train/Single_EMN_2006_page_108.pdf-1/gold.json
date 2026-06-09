@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in cumulative translation adjustments between 2004 and 2006?",
+      "answer": -34.0,
+      "answer_raw": "-34.0",
+      "program": "subtract(121, 155)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the value for 2004 specifically?",
+      "answer": 155.0,
+      "answer_raw": "155.0",
+      "program": "155"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the percentage change during this time?",
+      "answer": -0.21935,
+      "answer_raw": "-0.21935",
+      "program": "subtract(121, 155), divide(#0, 155)"
+    }
+  ]
+}

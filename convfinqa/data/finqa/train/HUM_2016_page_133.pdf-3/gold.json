@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of stockholders of record on january 12 , 2017 , for an aggregate amount of $ 43 million .",
+      "answer": 148.27586,
+      "answer_raw": "148.27586",
+      "program": "divide(43, 0.29)"
+    }
+  ]
+}

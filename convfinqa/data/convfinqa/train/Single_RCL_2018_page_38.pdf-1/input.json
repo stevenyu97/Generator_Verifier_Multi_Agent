@@ -1,0 +1,57 @@
+{
+  "input": {
+    "id": "Single_RCL/2018/page_38.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "table of contents performance graph the following graph compares the total return , assuming reinvestment of dividends , on an investment in the company , based on performance of the company's common stock , with the total return of the standard & poor's 500 composite stock index ( \"s&p 500\" ) and the dow jones united states travel and leisure index for a five year period by measuring the changes in common stock prices from december 31 , 2013 to december 31 , 2018. ."
+    ],
+    "post_text": [
+      "the stock performance graph assumes for comparison that the value of the company's common stock and of each index was $ 100 on december 31 , 2013 and that all dividends were reinvested .",
+      "past performance is not necessarily an indicator of future results. ."
+    ],
+    "table": [
+      [
+        "",
+        "12/13",
+        "12/14",
+        "12/15",
+        "12/16",
+        "12/17",
+        "12/18"
+      ],
+      [
+        "royal caribbean cruises ltd .",
+        "100.00",
+        "176.94",
+        "220.72",
+        "182.99",
+        "271.25",
+        "227.46"
+      ],
+      [
+        "s&p 500",
+        "100.00",
+        "113.69",
+        "115.26",
+        "129.05",
+        "157.22",
+        "150.33"
+      ],
+      [
+        "dow jones u.s . travel & leisure",
+        "100.00",
+        "116.37",
+        "123.23",
+        "132.56",
+        "164.13",
+        "154.95"
+      ]
+    ],
+    "questions": [
+      "what was the price of royal caribbean cruises ltd. on 12/15?",
+      "and in 12/14?",
+      "how much did the price change between these dates?",
+      "and the percentage growth in price over this year?"
+    ]
+  }
+}

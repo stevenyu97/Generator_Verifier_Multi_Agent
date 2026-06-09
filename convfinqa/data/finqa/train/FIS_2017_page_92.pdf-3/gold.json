@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the amount of long-term debt that should be reported in the non-current liabilities section of the balance sheet as of december 31 , 2017?",
+      "answer": 7748.0,
+      "answer_raw": "7748.0",
+      "program": "subtract(8793, 1045)"
+    }
+  ]
+}

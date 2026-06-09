@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the second quarter of 2017 , what is the average sale price per share of the company 2019s common stock?",
+      "answer": 25.205,
+      "answer_raw": "25.205",
+      "program": "add(28.65, 21.76), divide(#0, const_2)"
+    }
+  ]
+}

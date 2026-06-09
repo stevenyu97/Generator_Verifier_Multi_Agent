@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of the average expenses related to the company 2019s retirement program in 2008 and 2007?",
+      "answer": 8.4,
+      "answer_raw": "8.4",
+      "program": "add(3.7, 4.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total value including 2006?",
+      "answer": 12.5,
+      "answer_raw": "12.5",
+      "program": "add(3.7, 4.7), add(#0, 4.1)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the average value per year?",
+      "answer": 4.16667,
+      "answer_raw": "4.16667",
+      "program": "add(3.7, 4.7), add(#0, 4.1), divide(#1, const_3)"
+    }
+  ]
+}

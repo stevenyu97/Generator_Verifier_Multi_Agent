@@ -1,0 +1,97 @@
+{
+  "input": {
+    "id": "HII/2011/page_72.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "contractual obligations in 2011 , we issued $ 1200 million of senior notes and entered into the credit facility with third-party lenders in the amount of $ 1225 million .",
+      "as of december 31 , 2011 , total outstanding long-term debt was $ 1859 million , consisting of these senior notes and the credit facility , in addition to $ 105 million of third party debt that remained outstanding subsequent to the spin-off .",
+      "in connection with the spin-off , we entered into a transition services agreement with northrop grumman , under which northrop grumman or certain of its subsidiaries provides us with certain services to help ensure an orderly transition following the distribution .",
+      "under the transition services agreement , northrop grumman provides , for up to 12 months following the spin-off , certain enterprise shared services ( including information technology , resource planning , financial , procurement and human resource services ) , benefits support services and other specified services .",
+      "the original term of the transition services agreement ends on march 31 , 2012 , although we have the right to and have cancelled certain services as we transition to new third-party providers .",
+      "the services provided by northrop grumman are charged to us at cost , and a limited number of these services may be extended for a period of approximately six months to allow full information systems transition .",
+      "see note 20 : related party transactions and former parent company equity in item 8 .",
+      "in connection with the spin-off , we entered into a tax matters agreement with northrop grumman ( the 201ctax matters agreement 201d ) that governs the respective rights , responsibilities and obligations of northrop grumman and us after the spin-off with respect to tax liabilities and benefits , tax attributes , tax contests and other tax sharing regarding u.s .",
+      "federal , state , local and foreign income taxes , other taxes and related tax returns .",
+      "we have several liabilities with northrop grumman to the irs for the consolidated u.s .",
+      "federal income taxes of the northrop grumman consolidated group relating to the taxable periods in which we were part of that group .",
+      "however , the tax matters agreement specifies the portion of this tax liability for which we will bear responsibility , and northrop grumman has agreed to indemnify us against any amounts for which we are not responsible .",
+      "the tax matters agreement also provides special rules for allocating tax liabilities in the event that the spin-off , together with certain related transactions , is not tax-free .",
+      "see note 20 : related party transactions and former parent company equity in item 8 .",
+      "we do not expect either the transition services agreement or the tax matters agreement to have a significant impact on our financial condition and results of operations .",
+      "the following table presents our contractual obligations as of december 31 , 2011 , and the related estimated timing of future cash payments : ( $ in millions ) total 2012 2013 - 2014 2015 - 2016 2017 and beyond ."
+    ],
+    "post_text": [
+      "( 1 ) interest payments include interest on $ 554 million of variable interest rate debt calculated based on interest rates at december 31 , 2011 .",
+      "( 2 ) a 201cpurchase obligation 201d is defined as an agreement to purchase goods or services that is enforceable and legally binding on us and that specifies all significant terms , including : fixed or minimum quantities to be purchased ; fixed , minimum , or variable price provisions ; and the approximate timing of the transaction .",
+      "these amounts are primarily comprised of open purchase order commitments to vendors and subcontractors pertaining to funded contracts .",
+      "( 3 ) other long-term liabilities primarily consist of total accrued workers 2019 compensation reserves , deferred compensation , and other miscellaneous liabilities , of which $ 201 million is the current portion of workers 2019 compensation liabilities .",
+      "it excludes obligations for uncertain tax positions of $ 9 million , as the timing of the payments , if any , cannot be reasonably estimated .",
+      "the above table excludes retirement related contributions .",
+      "in 2012 , we expect to make minimum and discretionary contributions to our qualified pension plans of approximately $ 153 million and $ 65 million , respectively , exclusive of any u.s .",
+      "government recoveries .",
+      "we will continue to periodically evaluate whether to make additional discretionary contributions .",
+      "in 2012 , we expect to make $ 35 million in contributions for our other postretirement plans , exclusive of any ."
+    ],
+    "table": [
+      [
+        "( $ in millions )",
+        "total",
+        "2012",
+        "2013 - 2014",
+        "2015 - 2016",
+        "2017 and beyond"
+      ],
+      [
+        "long-term debt",
+        "$ 1859",
+        "$ 29",
+        "$ 129",
+        "$ 396",
+        "$ 1305"
+      ],
+      [
+        "interest payments on long-term debt ( 1 )",
+        "854",
+        "112",
+        "219",
+        "202",
+        "321"
+      ],
+      [
+        "operating leases",
+        "124",
+        "21",
+        "32",
+        "23",
+        "48"
+      ],
+      [
+        "purchase obligations ( 2 )",
+        "2425",
+        "1409",
+        "763",
+        "209",
+        "44"
+      ],
+      [
+        "other long-term liabilities ( 3 )",
+        "587",
+        "66",
+        "96",
+        "67",
+        "358"
+      ],
+      [
+        "total contractual obligations",
+        "$ 5849",
+        "$ 1637",
+        "$ 1239",
+        "$ 897",
+        "$ 2076"
+      ]
+    ],
+    "questions": [
+      "what is the ratio of long term debt to the total contractual obligations"
+    ]
+  }
+}

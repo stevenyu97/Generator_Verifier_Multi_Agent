@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much of the change in level 3 assets was due to the net decrease in derivative receivables due to the tightening of credit spreads?",
+      "answer": 0.86301,
+      "answer_raw": "0.86301",
+      "program": "divide(6.3, 7.3)"
+    }
+  ]
+}

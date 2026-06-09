@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the 2014 non operating expense related to early debt extinguishment charges to 2013",
+      "answer": 1.65517,
+      "answer_raw": "1.65517",
+      "program": "divide(48, 29)"
+    }
+  ]
+}

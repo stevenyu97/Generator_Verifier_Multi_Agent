@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent change in cross-border outstandings in the uk between 2006 and 2007?",
+      "answer": 0.07594,
+      "answer_raw": "0.07594",
+      "program": "subtract(5951, 5531), divide(#0, 5531)"
+    }
+  ]
+}

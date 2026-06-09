@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "credit derivatives for 2017 were what percent of the foreign exchange derivatives?",
+      "answer": 0.0538,
+      "answer_raw": "0.0538",
+      "program": "divide(869, 16151)"
+    }
+  ]
+}

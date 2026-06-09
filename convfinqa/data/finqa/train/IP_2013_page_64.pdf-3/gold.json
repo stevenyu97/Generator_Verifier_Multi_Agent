@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the printing papers profit margin in 2011",
+      "answer": 0.04394,
+      "answer_raw": "0.04394",
+      "program": "divide(163, 3710)"
+    }
+  ]
+}

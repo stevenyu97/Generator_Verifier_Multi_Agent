@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage decrease the credit card lines from 2008 to 2009",
+      "answer": -0.21641,
+      "answer_raw": "-0.21641",
+      "program": "subtract(785495, 1002437), divide(#0, 1002437)"
+    }
+  ]
+}

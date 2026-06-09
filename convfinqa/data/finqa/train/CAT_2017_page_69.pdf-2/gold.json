@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the expected growth rate in pension and opb contributions from 2017 to 2018?",
+      "answer": -0.77187,
+      "answer_raw": "-0.77187",
+      "program": "multiply(const_1000, 1.6), subtract(365, #0), divide(#1, #0)"
+    }
+  ]
+}

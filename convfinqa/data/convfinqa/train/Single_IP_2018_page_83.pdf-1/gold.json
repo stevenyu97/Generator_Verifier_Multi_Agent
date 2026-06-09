@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in unrecognized tax benefits from 2017 to 2018?",
+      "answer": 32.0,
+      "answer_raw": "32.0",
+      "program": "subtract(220, 188)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the balance of unrecognized tax benefits in 2017?",
+      "answer": 188.0,
+      "answer_raw": "188.0",
+      "program": "188"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage change does this represent?",
+      "answer": 0.17021,
+      "answer_raw": "0.17021",
+      "program": "subtract(220, 188), divide(#0, 188)"
+    }
+  ]
+}

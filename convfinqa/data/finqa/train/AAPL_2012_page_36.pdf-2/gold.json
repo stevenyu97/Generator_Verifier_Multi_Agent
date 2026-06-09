@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the increase in gross margin percentage between 2011 and 2012?",
+      "answer": 1.1,
+      "answer_raw": "1.1",
+      "program": "subtract(40.5, 39.4)"
+    }
+  ]
+}

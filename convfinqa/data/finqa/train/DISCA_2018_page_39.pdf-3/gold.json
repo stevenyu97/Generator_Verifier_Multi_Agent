@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage cumulative total shareholder return on discb for the five year period ended december 31 , 2018?",
+      "answer": -0.271,
+      "answer_raw": "-0.271",
+      "program": "subtract(72.90, const_100), divide(#0, const_100)"
+    }
+  ]
+}

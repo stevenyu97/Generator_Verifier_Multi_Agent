@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent increase does dilutive stock have on the value of weighted shares outstanding for earnings per share in 2013?",
+      "answer": 0.01297,
+      "answer_raw": "0.01297",
+      "program": "divide(171.8, 169.6), subtract(#0, const_1)"
+    }
+  ]
+}

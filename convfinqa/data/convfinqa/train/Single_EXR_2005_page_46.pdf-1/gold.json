@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in value of the high bid price for the quarter ended december 31, 2004 and the quarter ended march 31, 2005?",
+      "answer": -0.25,
+      "answer_raw": "-0.25",
+      "program": "subtract(14.30, 14.55)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": -0.01718,
+      "answer_raw": "-0.01718",
+      "program": "subtract(14.30, 14.55), divide(#0, 14.55)"
+    }
+  ]
+}

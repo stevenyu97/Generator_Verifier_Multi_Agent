@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many years are between 2023 and 2008?",
+      "answer": 15.0,
+      "answer_raw": "15.0",
+      "program": "subtract(2023, 2008)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the value of developed product technology?",
+      "answer": 1057.9,
+      "answer_raw": "1057.9",
+      "program": "1057.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is that value divided by the number of years?",
+      "answer": 70.52667,
+      "answer_raw": "70.52667",
+      "program": "subtract(2023, 2008), divide(1057.9, #0)"
+    }
+  ]
+}

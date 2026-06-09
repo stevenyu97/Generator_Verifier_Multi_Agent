@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "MMM/2007/page_15.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "item 1b .",
+      "unresolved staff comments .",
+      "item 2 .",
+      "properties .",
+      "3m 2019s general offices , corporate research laboratories , and certain division laboratories are located in st .",
+      "paul , minnesota .",
+      "in the united states , 3m has nine sales offices in eight states and operates 74 manufacturing facilities in 27 states .",
+      "internationally , 3m has 148 sales offices .",
+      "the company operates 93 manufacturing and converting facilities in 32 countries outside the united states .",
+      "3m owns substantially all of its physical properties .",
+      "3m 2019s physical facilities are highly suitable for the purposes for which they were designed .",
+      "because 3m is a global enterprise characterized by substantial intersegment cooperation , properties are often used by multiple business segments .",
+      "item 3 .",
+      "legal proceedings .",
+      "discussion of legal matters is incorporated by reference from part ii , item 8 , note 13 , 201ccommitments and contingencies , 201d of this document , and should be considered an integral part of part i , item 3 , 201clegal proceedings . 201d item 4 .",
+      "submission of matters to a vote of security holders .",
+      "none in the quarter ended december 31 , 2007 .",
+      "part ii item 5 .",
+      "market for registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities .",
+      "equity compensation plans 2019 information is incorporated by reference from part iii , item 12 , 201csecurity ownership of certain beneficial owners and management and related stockholder matters , 201d of this document , and should be considered an integral part of item 5 .",
+      "at january 31 , 2008 , there were approximately 121302 shareholders of record .",
+      "3m 2019s stock is listed on the new york stock exchange , inc .",
+      "( nyse ) , the chicago stock exchange , inc. , and the swx swiss exchange .",
+      "cash dividends declared and paid totaled $ .48 per share for each quarter of 2007 , and $ .46 per share for each quarter of 2006 .",
+      "stock price comparisons follow : stock price comparisons ( nyse composite transactions ) ( per share amounts ) quarter second quarter quarter fourth quarter year ."
+    ],
+    "post_text": [
+      "issuer purchases of equity securities repurchases of common stock are made to support the company 2019s stock-based employee compensation plans and for other corporate purposes .",
+      "on february 13 , 2006 , the board of directors authorized the purchase of $ 2.0 billion of the company 2019s common stock between february 13 , 2006 and february 28 , 2007 .",
+      "in august 2006 , 3m 2019s board of directors authorized the repurchase of an additional $ 1.0 billion in share repurchases , raising the total authorization to $ 3.0 billion for the period from february 13 , 2006 to february 28 , 2007 .",
+      "in february 2007 , 3m 2019s board of directors authorized a two- year share repurchase of up to $ 7.0 billion for the period from february 12 , 2007 to february 28 , 2009. ."
+    ],
+    "table": [
+      [
+        "( per share amounts )",
+        "first quarter",
+        "second quarter",
+        "third quarter",
+        "fourth quarter",
+        "year"
+      ],
+      [
+        "2007 high",
+        "$ 79.88",
+        "$ 89.03",
+        "$ 93.98",
+        "$ 97.00",
+        "$ 97.00"
+      ],
+      [
+        "2007 low",
+        "72.90",
+        "75.91",
+        "83.21",
+        "78.98",
+        "72.90"
+      ],
+      [
+        "2006 high",
+        "$ 79.83",
+        "$ 88.35",
+        "$ 81.60",
+        "$ 81.95",
+        "$ 88.35"
+      ],
+      [
+        "2006 low",
+        "70.30",
+        "75.76",
+        "67.05",
+        "73.00",
+        "67.05"
+      ]
+    ],
+    "questions": [
+      "in 2006 what was the total amount authorized by the board of directors authorized for the repurchase of shares in billions"
+    ]
+  }
+}

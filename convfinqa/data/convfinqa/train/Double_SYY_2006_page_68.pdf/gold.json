@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total restricted cash balance is related to funds deposited in insurance trusts in 2005?",
+      "answer": 0.79042,
+      "answer_raw": "0.79042",
+      "program": "divide(80410000, 101731000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2006?",
+      "answer": 0.80815,
+      "answer_raw": "0.80815",
+      "program": "divide(82653000, 102274000)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2016 what was the ratio of receivables from brokers dealers and clearing organizations to payables to brokers dealers and clearing organizations?",
+      "answer": 0.9296,
+      "answer_raw": "0.9296",
+      "program": "divide(18513, 19915)"
+    }
+  ]
+}

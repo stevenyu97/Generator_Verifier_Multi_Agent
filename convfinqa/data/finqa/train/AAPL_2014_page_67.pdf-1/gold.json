@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average effective tax rate for the 3 years ended 2014?",
+      "answer": 25.83333,
+      "answer_raw": "25.83333",
+      "program": "add(26.1, 26.2), add(#0, 25.2), divide(#1, 3)"
+    }
+  ]
+}

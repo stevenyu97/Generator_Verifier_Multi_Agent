@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as part of the overall decline in the nets ales in 2013 what was the total decline in sales before the partial offsetting increase leading to the net decline in millions",
+      "answer": 95.0,
+      "answer_raw": "95.0",
+      "program": "add(50, 25), add(#0, 20)"
+    }
+  ]
+}

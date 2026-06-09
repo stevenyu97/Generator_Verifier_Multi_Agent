@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in the repurchase reserve between 2008 and 2009 , in millions?",
+      "answer": 407.0,
+      "answer_raw": "407.0",
+      "program": "subtract(482, 75)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2004 what was the ratio of the increase in the depreciation expense on the tenant improvement to the buildings",
+      "answer": 2.35,
+      "answer_raw": "2.35",
+      "program": "divide(14.1, const_6)"
+    }
+  ]
+}

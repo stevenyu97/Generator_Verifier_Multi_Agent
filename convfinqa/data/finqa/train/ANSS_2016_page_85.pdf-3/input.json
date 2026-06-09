@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "ANSS/2016/page_85.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents 17 .",
+      "unconditional purchase obligations the company has entered into various unconditional purchase obligations which primarily include software licenses and long- term purchase contracts for network , communication and office maintenance services .",
+      "the company expended $ 7.2 million , $ 5.3 million and $ 2.9 million related to unconditional purchase obligations that existed as of the beginning of each year for the years ended december 31 , 2016 , 2015 and 2014 , respectively .",
+      "future expenditures under unconditional purchase obligations in effect as of december 31 , 2016 are as follows : ( in thousands ) ."
+    ],
+    "post_text": [
+      "18 .",
+      "restructuring during the fourth quarter of 2016 , the company initiated workforce realignment activities .",
+      "the company incurred $ 3.4 million in restructuring charges , or $ 2.4 million net of tax , during the year ended december 31 , 2016 .",
+      "the company expects to incur additional charges of $ 10 million - $ 15 million , or $ 7 million - $ 10 million net of tax , primarily during the first quarter of 2017 .",
+      "19 .",
+      "employment-related settlement on february 15 , 2017 , the company entered into an employment-related settlement agreement .",
+      "in connection with the settlement agreement , the company will make a lump-sum payment of $ 4.7 million .",
+      "the charges related to this agreement are included in selling , general and administrative expense in the 2016 consolidated statement of income .",
+      "as part of the settlement agreement , all the claims initiated against the company will be withdrawn and a general release of all claims in favor of the company and all of its related entities was executed .",
+      "20 .",
+      "contingencies and commitments the company is subject to various investigations , claims and legal proceedings that arise in the ordinary course of business , including commercial disputes , labor and employment matters , tax audits , alleged infringement of intellectual property rights and other matters .",
+      "in the opinion of the company , the resolution of pending matters is not expected to have a material adverse effect on the company's consolidated results of operations , cash flows or financial position .",
+      "however , each of these matters is subject to various uncertainties and it is possible that an unfavorable resolution of one or more of these proceedings could materially affect the company's results of operations , cash flows or financial position .",
+      "an indian subsidiary of the company has several service tax audits pending that have resulted in formal inquiries being received on transactions through mid-2012 .",
+      "the company could incur tax charges and related liabilities , including those related to the service tax audit case , of approximately $ 7 million .",
+      "the service tax issues raised in the company 2019s notices and inquiries are very similar to the case , m/s microsoft corporation ( i ) ( p ) ltd .",
+      "vs commissioner of service tax , new delhi , wherein the delhi customs , excise and service tax appellate tribunal ( cestat ) has passed a favorable ruling to microsoft .",
+      "the company can provide no assurances on whether the microsoft case 2019s favorable ruling will be challenged in higher courts or on the impact that the present microsoft case 2019s decision will have on the company 2019s cases .",
+      "the company is uncertain as to when these service tax matters will be concluded .",
+      "a french subsidiary of the company received notice that the french taxing authority rejected the company's 2012 research and development credit .",
+      "the company has contested the decision .",
+      "however , if the company does not receive a favorable outcome , it could incur charges of approximately $ 0.8 million .",
+      "in addition , an unfavorable outcome could result in the authorities reviewing or rejecting $ 3.8 million of similar research and development credits for 2013 through the current year that are currently reflected as an asset .",
+      "the company can provide no assurances on the timing or outcome of this matter. ."
+    ],
+    "table": [
+      [
+        "2017",
+        "$ 14134"
+      ],
+      [
+        "2018",
+        "10288"
+      ],
+      [
+        "2019",
+        "9724"
+      ],
+      [
+        "2020",
+        "2617"
+      ],
+      [
+        "2021",
+        "652"
+      ],
+      [
+        "total",
+        "$ 37415"
+      ]
+    ],
+    "questions": [
+      "what is the percentage decrease in expenditures from 2017-2018?"
+    ]
+  }
+}

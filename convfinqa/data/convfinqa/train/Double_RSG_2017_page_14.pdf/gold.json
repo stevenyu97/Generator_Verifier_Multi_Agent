@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2017, how much did the number of vehicles for residential represent in relation to the one for large-container?",
+      "answer": 1.7561,
+      "answer_raw": "1.7561",
+      "program": "divide(7200, 4100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the amount of vehicles that were converted to compressed natural gas?",
+      "answer": 3021.0,
+      "answer_raw": "3021.0",
+      "program": "multiply(15900, 19%)"
+    }
+  ]
+}

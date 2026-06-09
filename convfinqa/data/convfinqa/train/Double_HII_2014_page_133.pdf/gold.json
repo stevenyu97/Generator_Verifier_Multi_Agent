@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total equity approved by security holders?",
+      "answer": 6033117.0,
+      "answer_raw": "6033117.0",
+      "program": "add(1955024, 4078093)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "wha is the equity compensation plan approved by security holder to be issued upon exercise of outstanding options warrants and rights?",
+      "answer": 1955024.0,
+      "answer_raw": "1955024.0",
+      "program": "1955024"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what proportion does this represent?",
+      "answer": 0.32405,
+      "answer_raw": "0.32405",
+      "program": "add(1955024, 4078093), divide(1955024, #0)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the number of securities remaining available for future issuance under equity compensation plans that has been approved by security holders?",
+      "answer": 4078093.0,
+      "answer_raw": "4078093.0",
+      "program": "4078093"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total number of securities approved by security holders?",
+      "answer": 6033117.0,
+      "answer_raw": "6033117.0",
+      "program": "add(1955024, 4078093)"
+    }
+  ]
+}

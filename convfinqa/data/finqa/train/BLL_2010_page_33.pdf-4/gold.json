@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in net sales metal beverage packaging , europe between 2008 to 2009?",
+      "answer": -0.06914,
+      "answer_raw": "-0.06914",
+      "program": "subtract(1739.5, 1868.7), divide(#0, 1868.7)"
+    }
+  ]
+}

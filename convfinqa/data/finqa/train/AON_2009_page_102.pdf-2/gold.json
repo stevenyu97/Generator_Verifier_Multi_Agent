@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average tax benefit , in millions?",
+      "answer": 71.33333,
+      "answer_raw": "71.33333",
+      "program": "table_average(tax benefit, none)"
+    }
+  ]
+}

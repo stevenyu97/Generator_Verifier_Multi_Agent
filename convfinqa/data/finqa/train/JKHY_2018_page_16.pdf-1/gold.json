@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage growth of the jkhy",
+      "answer": 228.02,
+      "answer_raw": "228.02",
+      "program": "add(128.02, 100.00)"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "Single_ALLE/2018/page_121.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "note 18 2013 earnings per share ( eps ) basic eps is calculated by dividing net earnings attributable to allegion plc by the weighted-average number of ordinary shares outstanding for the applicable period .",
+      "diluted eps is calculated after adjusting the denominator of the basic eps calculation for the effect of all potentially dilutive ordinary shares , which in the company 2019s case , includes shares issuable under share-based compensation plans .",
+      "the following table summarizes the weighted-average number of ordinary shares outstanding for basic and diluted earnings per share calculations: ."
+    ],
+    "post_text": [
+      "at december 31 , 2018 , 0.1 million stock options were excluded from the computation of weighted-average diluted shares outstanding because the effect of including these shares would have been anti-dilutive .",
+      "note 19 2013 net revenues net revenues are recognized based on the satisfaction of performance obligations under the terms of a contract .",
+      "a performance obligation is a promise in a contract to transfer control of a distinct product or to provide a service , or a bundle of products or services , to a customer , and is the unit of account under asc 606 .",
+      "the company has two principal revenue streams , tangible product sales and services .",
+      "approximately 99% ( 99 % ) of consolidated net revenues involve contracts with a single performance obligation , which is the transfer of control of a product or bundle of products to a customer .",
+      "transfer of control typically occurs when goods are shipped from the company's facilities or at other predetermined control transfer points ( for instance , destination terms ) .",
+      "net revenues are measured as the amount of consideration expected to be received in exchange for transferring control of the products and takes into account variable consideration , such as sales incentive programs including discounts and volume rebates .",
+      "the existence of these programs does not preclude revenue recognition but does require the company's best estimate of the variable consideration to be made based on expected activity , as these items are reserved for as a deduction to net revenues over time based on the company's historical rates of providing these incentives and annual forecasted sales volumes .",
+      "the company also offers a standard warranty with most product sales and the value of such warranty is included in the contractual price .",
+      "the corresponding cost of the warranty obligation is accrued as a liability ( see note 20 ) .",
+      "the company's remaining net revenues involve services , including installation and consulting .",
+      "unlike the single performance obligation to ship a product or bundle of products , the service revenue stream delays revenue recognition until the service performance obligations are satisfied .",
+      "in some instances , customer acceptance provisions are included in sales arrangements to give the buyer the ability to ensure the service meets the criteria established in the order .",
+      "in these instances , revenue recognition is deferred until the performance obligations are satisfied , which could include acceptance terms specified in the arrangement being fulfilled through customer acceptance or a demonstration that established criteria have been satisfied .",
+      "during the year ended december 31 , 2018 , no adjustments related to performance obligations satisfied in previous periods were recorded .",
+      "upon adoption of asc 606 , the company used the practical expedients to omit the disclosure of remaining performance obligations for contracts with an original expected duration of one year or less and for contracts where the company has the right to invoice for performance completed to date .",
+      "the transaction price is not adjusted for the effects of a significant financing component , as the time period between control transfer of goods and services is less than one year .",
+      "sales , value-added and other similar taxes collected by the company are excluded from net revenues .",
+      "the company has also elected to account for shipping and handling activities that occur after control of the related goods transfers as fulfillment activities instead of performance obligations .",
+      "these activities are included in cost of goods sold in the consolidated statements of comprehensive income .",
+      "the company 2019s payment terms are generally consistent with the industries in which their businesses operate .",
+      "the following table shows the company's net revenues for the years ended december 31 , based on the two principal revenue streams , tangible product sales and services , disaggregated by business segment .",
+      "net revenues are shown by tangible product sales and services , as contract terms , conditions and economic factors affecting the nature , amount , timing and uncertainty around revenue recognition and cash flows are substantially similar within each of the two principal revenue streams: ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "weighted-average number of basic shares",
+        "95.0",
+        "95.1",
+        "95.8"
+      ],
+      [
+        "shares issuable under incentive stock plans",
+        "0.7",
+        "0.9",
+        "1.1"
+      ],
+      [
+        "weighted-average number of diluted shares",
+        "95.7",
+        "96.0",
+        "96.9"
+      ]
+    ],
+    "questions": [
+      "what is the difference between the weighted-average number of diluted shares of 2018 and 2017?",
+      "what is the weighted-average number of diluted shares of 2017?",
+      "how much does that difference represents in relation to the weighted-average number of diluted shares of 2017?",
+      "and how much does that represents in 100 basis (percent)?"
+    ]
+  }
+}

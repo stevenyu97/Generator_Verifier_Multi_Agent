@@ -1,0 +1,83 @@
+{
+  "input": {
+    "id": "EW/2004/page_51.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      ") increased net cash flows from receivables from improved days sales outstanding offsetting increased sales levels ; partially offset by reduced cash flows from increases in inventories to build new product lines and support increased sales levels .",
+      "cash provided by operating activities in 2003 decreased $ 8.4 million from 2002 due primarily to : ) reduced cash inflows from accounts receivable securitization ; and ) reduced cash inflows from increases in inventories partially offset by : ) higher earnings in 2003 before non-cash charges and credits ; ) decreased net cash outflows from accounts and other receivables ; and ) decreased net cash outflows from accounts payable and accrued expenses .",
+      "net cash used in investing activities in 2004 consisted primarily of the acquisition of pvt and the purchase of ev3 2019s technology of $ 137.7 million , and capital expenditures of $ 42.5 million .",
+      "net cash used in investing activities in 2003 consisted primarily of the acquisition of jomed , whitland and embol-x , inc .",
+      "of $ 33.2 million , and capital expenditures of $ 37.9 million .",
+      "net cash used in financing activities in 2004 consisted primarily of purchases of treasury stock of $ 59.1 million , partially offset by proceeds from stock plans of $ 30.5 million and net proceeds from issuance of long-term debt of $ 7.1 million .",
+      "cash used in financing activities in 2003 consisted primarily of purchases of treasury stock of $ 49.4 million and net payments on debt of $ 4.0 million , partially offset by proceeds from stock plans of $ 36.6 million .",
+      "a summary of all of the company 2019s contractual obligations and commercial commitments as of december 31 , 2004 were as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "less than after contractual obligations total 1 year 1-3 years 4-5 years 5 years long-term debt *************************** $ 267.1 $ 2014 $ 2014 $ 2014 $ 267.1 interest on long-term debt ****************** 30.9 11.2 15.4 4.3 2014 operating leases*************************** 49.8 13.1 20.4 15.2 1.1 unconditional purchase obligations ( a ) ********* 15.1 7.5 7.6 2014 2014 contractual development obligations ( b ) ******** 31.9 4.3 3.6 4.0 20.0 total contractual cash obligations************* $ 394.8 $ 36.1 $ 47.0 $ 23.5 $ 288.2 ( a ) unconditional purchase obligations consist primarily of minimum purchase commitments of inventory .",
+      "( b ) contractual development obligations consist primarily of cash that edwards lifesciences is obligated to pay to unconsolidated affiliates upon their achievement of product development milestones .",
+      "critical accounting policies and estimates the company 2019s results of operations and financial position are determined based upon the application of the company 2019s accounting policies , as discussed in the notes to the consolidated financial statements .",
+      "certain of the company 2019s accounting policies represent a selection among acceptable alternatives under generally accepted ."
+    ],
+    "table": [
+      [
+        "contractual obligations",
+        "payments due by period total",
+        "payments due by period less than 1 year",
+        "payments due by period 1-3 years",
+        "payments due by period 4-5 years",
+        "payments due by period after 5 years"
+      ],
+      [
+        "long-term debt",
+        "$ 267.1",
+        "$ 2014",
+        "$ 2014",
+        "$ 2014",
+        "$ 267.1"
+      ],
+      [
+        "interest on long-term debt",
+        "30.9",
+        "11.2",
+        "15.4",
+        "4.3",
+        "2014"
+      ],
+      [
+        "operating leases",
+        "49.8",
+        "13.1",
+        "20.4",
+        "15.2",
+        "1.1"
+      ],
+      [
+        "unconditional purchase obligations ( a )",
+        "15.1",
+        "7.5",
+        "7.6",
+        "2014",
+        "2014"
+      ],
+      [
+        "contractual development obligations ( b )",
+        "31.9",
+        "4.3",
+        "3.6",
+        "4.0",
+        "20.0"
+      ],
+      [
+        "total contractual cash obligations",
+        "$ 394.8",
+        "$ 36.1",
+        "$ 47.0",
+        "$ 23.5",
+        "$ 288.2"
+      ]
+    ],
+    "questions": [
+      "what percent of total contractual cash obligations is due to long-term debt?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the aggregate fair values of our outstanding fuel hedges for 2015 and 2016",
+      "answer": 14.0,
+      "answer_raw": "14.0",
+      "program": "divide(37.8, 2.7)"
+    }
+  ]
+}

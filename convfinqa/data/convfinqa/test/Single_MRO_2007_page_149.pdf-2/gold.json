@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in development costs from 2006 to 2007?",
+      "answer": 403.0,
+      "answer_raw": "403.0",
+      "program": "subtract(1654, 1251)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were development costs in 2007?",
+      "answer": 1654.0,
+      "answer_raw": "1654.0",
+      "program": "1654"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change added to the 2007 costs?",
+      "answer": 2057.0,
+      "answer_raw": "2057.0",
+      "program": "subtract(1654, 1251), add(#0, 1654)"
+    }
+  ]
+}

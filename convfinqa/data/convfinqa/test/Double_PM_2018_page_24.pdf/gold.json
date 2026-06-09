@@ -1,0 +1,60 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the price performance of the pmi in 2014?",
+      "answer": 97.9,
+      "answer_raw": "97.9",
+      "program": "97.90"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and by what amount did it change since 2013?",
+      "answer": -2.1,
+      "answer_raw": "-2.1",
+      "program": "subtract(97.90, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is this amount as a portion of that price in 2013?",
+      "answer": -0.021,
+      "answer_raw": "-0.021",
+      "program": "subtract(97.90, const_100), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was the change in the performance price of that stock for the full five years shown in the chart?",
+      "answer": -3.5,
+      "answer_raw": "-3.5",
+      "program": "subtract(96.50, const_100)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is this five year change as a percent of the 2013 price?",
+      "answer": -0.035,
+      "answer_raw": "-0.035",
+      "program": "subtract(96.50, const_100), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and in this same period, what was that change for the s&p 500 index?",
+      "answer": 50.3,
+      "answer_raw": "50.3",
+      "program": "subtract(96.50, const_100), divide(#0, const_100), subtract(150.30, const_100)"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "and what was this s&p 500 index change as a percentage of its price performance in 2013?",
+      "answer": 0.503,
+      "answer_raw": "0.503",
+      "program": "subtract(96.50, const_100), divide(#0, const_100), subtract(150.30, const_100), divide(#2, const_100)"
+    },
+    {
+      "line_id": "turn_7",
+      "question": "what is, then, the difference between the pmi percentage and this s&p 500 index one for the five years?",
+      "answer": 0.538,
+      "answer_raw": "0.538",
+      "program": "subtract(96.50, const_100), divide(#0, const_100), subtract(150.30, const_100), divide(#2, const_100), subtract(#3, #1)"
+    }
+  ]
+}

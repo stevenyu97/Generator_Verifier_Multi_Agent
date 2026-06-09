@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "GRMN/2008/page_84.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "."
+    ],
+    "post_text": [
+      "long-lived assets in accordance with sfas no .",
+      "144 , accounting for the impairment or disposal of long-lived assets , the company reviews long-lived assets for impairment whenever events or changes in circumstances indicate the carrying amount of an asset may not be fully recoverable .",
+      "the carrying amount of a long-lived asset is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset .",
+      "that assessment is based on the carrying amount of the asset at the date it is tested for recoverability .",
+      "an impairment loss is measured as the amount by which the carrying amount of a long-lived asset exceeds its fair value .",
+      "sfas no .",
+      "142 , goodwill and other intangible assets , requires that goodwill and intangible assets with indefinite useful lives should not be amortized but rather be tested for impairment at least annually or sooner whenever events or changes in circumstances indicate that they may be impaired .",
+      "the company did not recognize any goodwill or intangible asset impairment charges in 2008 , 2007 , or 2006 .",
+      "the company established reporting units based on its current reporting structure .",
+      "for purposes of testing goodwill for impairment , goodwill has been allocated to these reporting units to the extent it relates to each reporting unit .",
+      "sfas no .",
+      "142 also requires that intangible assets with definite lives be amortized over their estimated useful lives and reviewed for impairment in accordance with sfas no .",
+      "144 .",
+      "the company is currently amortizing its acquired intangible assets with definite lives over periods ranging from 3 to 10 years .",
+      "dividends on june 6 , 2008 the board of directors declared a dividend of $ 0.75 per share to be paid on december 15 , 2008 to shareholders of record on december 1 , 2008 .",
+      "the company paid out a dividend in the amount of $ 150251 .",
+      "the dividend has been reported as a reduction of retained earnings .",
+      "on august 1 , 2007 the board of directors declared a dividend of $ 0.75 per share to be paid on september 14 , 2007 to shareholders of record on august 15 , 2007 .",
+      "the company paid out a dividend in the amount of $ 162531 .",
+      "the dividend has been reported as a reduction of retained earnings .",
+      "on april 26 , 2006 the board of directors declared a post-split dividend of $ 0.50 per share to be paid on december 15 , 2006 to shareholders of record on december 1 , 2006 .",
+      "the company paid out a dividend in the amount of $ 107923 .",
+      "the dividend has been reported as a reduction of retained earnings .",
+      "approximately $ 186383 and $ 159210 of retained earnings are indefinitely restricted from distribution to stockholders pursuant to the laws of taiwan at december 27 , 2008 and december 29 , 2007 , respectively .",
+      "intangible assets at december 27 , 2008 and december 29 , 2007 , the company had patents , license agreements , customer related intangibles and other identifiable finite-lived intangible assets recorded at a cost of $ 152104 and $ 159503 , respectively .",
+      "the company 2019s excess purchase cost over fair value of net assets acquired ( goodwill ) was $ 127429 at december 27 , 2008 and $ 98494 at december 29 , 2007 .",
+      "identifiable , finite-lived intangible assets are amortized over their estimated useful lives on a straight-line basis over three to ten years .",
+      "accumulated amortization was $ 48579 and $ 59967 at december 27 , 2008 and december 29 , 2007 respectively .",
+      "amortization expense was $ 30874 , $ 26942 , and $ 21147 , for the years ended ."
+    ],
+    "table": [
+      [
+        "buildings and improvements",
+        "39"
+      ],
+      [
+        "office furniture and equipment",
+        "5"
+      ],
+      [
+        "manufacturing and engineering equipment",
+        "5"
+      ],
+      [
+        "vehicles",
+        "5"
+      ]
+    ],
+    "questions": [
+      "considering the year 2007 , how many shares belonged to the shareholders?"
+    ]
+  }
+}

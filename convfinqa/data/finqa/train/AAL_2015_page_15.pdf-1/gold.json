@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total active full-time equivalent employees consisted of flight attendants?",
+      "answer": 0.21941,
+      "answer_raw": "0.21941",
+      "program": "divide(26000, 118500)"
+    }
+  ]
+}

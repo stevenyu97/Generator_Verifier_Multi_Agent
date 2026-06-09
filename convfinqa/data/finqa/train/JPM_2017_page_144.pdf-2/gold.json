@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the derivative receivables reported on the consolidated balance sheets for 2016 to 2017",
+      "answer": 1.13451,
+      "answer_raw": "1.13451",
+      "program": "divide(64.1, 56.5)"
+    }
+  ]
+}

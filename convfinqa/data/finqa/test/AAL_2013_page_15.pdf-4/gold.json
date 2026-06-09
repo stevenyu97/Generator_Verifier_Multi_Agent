@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total full-time employees of american are pilots?",
+      "answer": 0.13145,
+      "answer_raw": "0.13145",
+      "program": "divide(7900, 60100)"
+    }
+  ]
+}

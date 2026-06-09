@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of future minimum rental payments are due after 2022?",
+      "answer": 0.39257,
+      "answer_raw": "0.39257",
+      "program": "divide(771, 1964)"
+    }
+  ]
+}

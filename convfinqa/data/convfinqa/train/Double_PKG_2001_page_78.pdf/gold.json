@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the unrecognized prior service cost as a percentage of prepaid pension cost at 12/31/98?",
+      "answer": 0.37792,
+      "answer_raw": "0.37792",
+      "program": "divide(13455, 35603)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "was the projected benefit obligation bigger than the plan assets at fair value at 9/30/98?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(-108716, 146579)"
+    }
+  ]
+}

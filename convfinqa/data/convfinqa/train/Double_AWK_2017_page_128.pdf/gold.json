@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of allowance for other funds used during construction and allowance for borrowed funds used during construction in 2016?",
+      "answer": 21.0,
+      "answer_raw": "21.0",
+      "program": "add(15, const_6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how about the allowance for other funds used during construction in 2016?",
+      "answer": 15.0,
+      "answer_raw": "15.0",
+      "program": "15"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and allowance for borrowed funds used during construction?",
+      "answer": 6.0,
+      "answer_raw": "6.0",
+      "program": "6"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total of these accounts?",
+      "answer": 21.0,
+      "answer_raw": "21.0",
+      "program": "add(15, 6)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what portion is related to allowance for borrowed funds used during construction?",
+      "answer": 0.28571,
+      "answer_raw": "0.28571",
+      "program": "add(15, 6), divide(6, #0)"
+    }
+  ]
+}

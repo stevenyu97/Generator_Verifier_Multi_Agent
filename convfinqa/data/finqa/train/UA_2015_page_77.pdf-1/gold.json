@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the schedule of the company 2019s future minimum payments as of december 312015 what was the percent of the amount due in 2016 to the total",
+      "answer": 0.14733,
+      "answer_raw": "0.14733",
+      "program": "divide(126488, 858543)"
+    }
+  ]
+}

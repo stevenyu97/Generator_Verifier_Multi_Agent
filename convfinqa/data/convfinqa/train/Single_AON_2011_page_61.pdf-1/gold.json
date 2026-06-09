@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were net revenues in 2011?",
+      "answer": 6817.0,
+      "answer_raw": "6817.0",
+      "program": "6817"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were they in 2010?",
+      "answer": 6423.0,
+      "answer_raw": "6423.0",
+      "program": "6423"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change in revenues?",
+      "answer": 394.0,
+      "answer_raw": "394.0",
+      "program": "subtract(6817, 6423)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the net change over the 2010 value?",
+      "answer": 0.06134,
+      "answer_raw": "0.06134",
+      "program": "subtract(6817, 6423), divide(#0, 6423)"
+    }
+  ]
+}

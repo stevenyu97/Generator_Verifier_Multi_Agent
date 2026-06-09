@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would the investment income ( loss ) have been in 2015 without the gain from the sale of shares of arris group common stock in 2014?",
+      "answer": -73.0,
+      "answer_raw": "-73.0",
+      "program": "subtract(81, 154)"
+    }
+  ]
+}

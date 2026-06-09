@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the years 2014-2015 , what was the increase in the additions for tax positions of prior years , in dollars?",
+      "answer": 10.0,
+      "answer_raw": "10.0",
+      "program": "subtract(14, 4)"
+    }
+  ]
+}

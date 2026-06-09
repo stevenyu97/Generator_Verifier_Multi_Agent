@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the roi of an investment in ups in 2004 and sold in 2006?",
+      "answer": -0.0894,
+      "answer_raw": "-0.0894",
+      "program": "subtract(91.06, const_100), divide(#0, const_100)"
+    }
+  ]
+}

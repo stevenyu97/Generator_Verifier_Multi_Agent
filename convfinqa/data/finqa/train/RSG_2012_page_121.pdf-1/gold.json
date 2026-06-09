@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent of the valuation allowance to the state net operating loss carry forwards at december 312012",
+      "answer": 0.87174,
+      "answer_raw": "0.87174",
+      "program": "divide(113.5, 130.2)"
+    }
+  ]
+}

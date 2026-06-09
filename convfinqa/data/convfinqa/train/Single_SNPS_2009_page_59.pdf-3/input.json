@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "Single_SNPS/2009/page_59.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "synopsys , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) and other electronic applications markets .",
+      "the company believes the acquisition will expand its technology portfolio , channel reach and total addressable market by adding complementary products and expertise for fpga solutions and rapid asic prototyping .",
+      "purchase price .",
+      "synopsys paid $ 8.00 per share for all outstanding shares including certain vested options of synplicity for an aggregate cash payment of $ 223.3 million .",
+      "additionally , synopsys assumed certain employee stock options and restricted stock units , collectively called 201cstock awards . 201d the total purchase consideration consisted of: ."
+    ],
+    "post_text": [
+      "acquisition related costs consist primarily of professional services , severance and employee related costs and facilities closure costs of which $ 6.8 million have been paid as of october 31 , 2009 .",
+      "fair value of stock awards assumed .",
+      "an aggregate of 4.7 million shares of synplicity stock options and restricted stock units were exchanged for synopsys stock options and restricted stock units at an exchange ratio of 0.3392 per share .",
+      "the fair value of stock options assumed was determined using a black-scholes valuation model .",
+      "the fair value of stock awards vested or earned of $ 4.2 million was included as part of the purchase price .",
+      "the fair value of unvested awards of $ 5.0 million will be recorded as operating expense over the remaining service periods on a straight-line basis .",
+      "purchase price allocation .",
+      "the company allocated $ 80.0 million of the purchase price to identifiable intangible assets to be amortized over two to seven years .",
+      "in-process research and development expense related to these acquisitions was $ 4.8 million .",
+      "goodwill , representing the excess of the purchase price over the fair value of tangible and identifiable intangible assets acquired , was $ 120.3 million and will not be amortized .",
+      "goodwill primarily resulted from the company 2019s expectation of cost synergies and sales growth from the integration of synplicity 2019s technology with the company 2019s technology and operations to provide an expansion of products and market reach .",
+      "fiscal 2007 acquisitions during fiscal year 2007 , the company completed certain purchase acquisitions for cash .",
+      "the company allocated the total purchase considerations of $ 54.8 million ( which included acquisition related costs of $ 1.4 million ) to the assets and liabilities acquired , including identifiable intangible assets , based on their respective fair values at the acquisition dates , resulting in aggregate goodwill of $ 36.6 million .",
+      "acquired identifiable intangible assets of $ 14.3 million are being amortized over two to nine years .",
+      "in-process research and development expense related to these acquisitions was $ 3.2 million. ."
+    ],
+    "table": [
+      [
+        "",
+        "( in thousands )"
+      ],
+      [
+        "cash paid net of cash acquired",
+        "$ 180618"
+      ],
+      [
+        "fair value of assumed vested or earned stock awards",
+        "4169"
+      ],
+      [
+        "acquisition related costs",
+        "8016"
+      ],
+      [
+        "total purchase price consideration",
+        "$ 192803"
+      ]
+    ],
+    "questions": [
+      "how much did the company allocate towards the identifiable intangible assets?",
+      "what is 80 times 1000?",
+      "what percent of total purchase price considerations came from the price allocation?"
+    ]
+  }
+}

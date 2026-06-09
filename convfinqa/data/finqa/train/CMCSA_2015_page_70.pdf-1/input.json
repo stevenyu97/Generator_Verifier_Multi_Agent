@@ -1,0 +1,46 @@
+{
+  "input": {
+    "id": "CMCSA/2015/page_70.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "( e ) total contractual obligations are made up of the following components .",
+      "( in millions ) ."
+    ],
+    "post_text": [
+      "off-balance sheet arrangements as of december 31 , 2015 , we did not have any material off-balance sheet arrangements that are reasonably likely to have a current or future effect on our financial condition , results of operations , liquidity , capital expenditures or capital resources .",
+      "recent accounting pronouncements see note 3 to each of comcast 2019s and nbcuniversal 2019s consolidated financial statements for additional information related to recent accounting pronouncements .",
+      "critical accounting judgments and estimates the preparation of our consolidated financial statements requires us to make estimates that affect the reported amounts of assets , liabilities , revenue and expenses , and the related disclosure of contingent assets and contingent liabilities .",
+      "we base our judgments on our historical experience and on various other assump- tions that we believe are reasonable under the circumstances , the results of which form the basis for making estimates about the carrying value of assets and liabilities that are not readily apparent from other sources .",
+      "actual results may differ from these estimates under different assumptions or conditions .",
+      "we believe our judgments and related estimates associated with the valuation and impairment testing of our cable franchise rights and the accounting for film and television costs are critical in the preparation of our consolidated financial statements .",
+      "management has discussed the development and selection of these crit- ical accounting judgments and estimates with the audit committee of our board of directors , and the audit committee has reviewed our disclosures relating to them , which are presented below .",
+      "see notes 9 and 6 to comcast 2019s consolidated financial statements for a discussion of our accounting policies with respect to these items .",
+      "valuation and impairment testing of cable franchise rights our largest asset , our cable franchise rights , results from agreements we have with state and local govern- ments that allow us to construct and operate a cable business within a specified geographic area .",
+      "the value of a franchise is derived from the economic benefits we receive from the right to solicit new customers and to market new services , such as advanced video services and high-speed internet and voice services , in a particular service area .",
+      "the amounts we record for cable franchise rights are primarily a result of cable system acquisitions .",
+      "typically when we acquire a cable system , the most significant asset we record is the value of the cable franchise rights .",
+      "often these cable system acquisitions include multiple franchise areas .",
+      "we cur- rently serve approximately 6400 franchise areas in the united states .",
+      "we have concluded that our cable franchise rights have an indefinite useful life since there are no legal , regu- latory , contractual , competitive , economic or other factors which limit the period over which these rights will contribute to our cash flows .",
+      "accordingly , we do not amortize our cable franchise rights but assess the carry- ing value of our cable franchise rights annually , or more frequently whenever events or changes in circumstances indicate that the carrying amount may exceed the fair value ( 201cimpairment testing 201d ) .",
+      "67 comcast 2015 annual report on form 10-k ."
+    ],
+    "table": [
+      [
+        "liabilities recorded on the balance sheet",
+        "$ 60578"
+      ],
+      [
+        "commitments not recorded on the balance sheet",
+        "55688"
+      ],
+      [
+        "total",
+        "$ 116266"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the total contractual obligations for the liabilities recorded on the balance sheet to the commitments not recorded on the balance sheet"
+    ]
+  }
+}

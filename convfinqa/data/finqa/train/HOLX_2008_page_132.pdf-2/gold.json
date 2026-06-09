@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the estimated purchase price is recorded as acquisition cost?",
+      "answer": 0.01302,
+      "answer_raw": "0.01302",
+      "program": "divide(7700, 591200)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the processing fees and expenses associated with the loan facility pen in may 2004",
+      "answer": 0.02313,
+      "answer_raw": "0.02313",
+      "program": "subtract(685.5, 670.0), divide(#0, 670.0)"
+    }
+  ]
+}

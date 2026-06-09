@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the total bayer healthcare collaboration revenue from 2009 to 2010?",
+      "answer": 8.1,
+      "answer_raw": "8.1",
+      "program": "subtract(75.4, 67.3)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that revenue in 2009?",
+      "answer": 67.3,
+      "answer_raw": "67.3",
+      "program": "67.3"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2009 revenue, in percentage?",
+      "answer": 0.12036,
+      "answer_raw": "0.12036",
+      "program": "subtract(75.4, 67.3), divide(#0, 67.3)"
+    }
+  ]
+}

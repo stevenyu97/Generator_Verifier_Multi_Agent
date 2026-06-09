@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "MRO/2012/page_39.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "item 7 .",
+      "management 2019s discussion and analysis of financial condition and results of operations we are an international energy company with operations in the u.s. , canada , africa , the middle east and europe .",
+      "our operations are organized into three reportable segments : 2022 e&p which explores for , produces and markets liquid hydrocarbons and natural gas on a worldwide basis .",
+      "2022 osm which mines , extracts and transports bitumen from oil sands deposits in alberta , canada , and upgrades the bitumen to produce and market synthetic crude oil and vacuum gas oil .",
+      "2022 ig which produces and markets products manufactured from natural gas , such as lng and methanol , in e.g .",
+      "certain sections of management 2019s discussion and analysis of financial condition and results of operations include forward- looking statements concerning trends or events potentially affecting our business .",
+      "these statements typically contain words such as \"anticipates\" \"believes\" \"estimates\" \"expects\" \"targets\" \"plans\" \"projects\" \"could\" \"may\" \"should\" \"would\" or similar words indicating that future outcomes are uncertain .",
+      "in accordance with \"safe harbor\" provisions of the private securities litigation reform act of 1995 , these statements are accompanied by cautionary language identifying important factors , though not necessarily all such factors , which could cause future outcomes to differ materially from those set forth in forward-looking statements .",
+      "for additional risk factors affecting our business , see item 1a .",
+      "risk factors in this annual report on form 10-k .",
+      "management 2019s discussion and analysis of financial condition and results of operations should be read in conjunction with the information under item 1 .",
+      "business , item 1a .",
+      "risk factors and item 8 .",
+      "financial statements and supplementary data found in this annual report on form 10-k .",
+      "spin-off downstream business on june 30 , 2011 , the spin-off of marathon 2019s downstream business was completed , creating two independent energy companies : marathon oil and mpc .",
+      "marathon stockholders at the close of business on the record date of june 27 , 2011 received one share of mpc common stock for every two shares of marathon common stock held .",
+      "a private letter tax ruling received in june 2011 from the irs affirmed the tax-free nature of the spin-off .",
+      "activities related to the downstream business have been treated as discontinued operations in 2011 and 2010 ( see item 8 .",
+      "financial statements and supplementary data 2013 note 3 to the consolidated financial statements for additional information ) .",
+      "overview 2013 market conditions exploration and production prevailing prices for the various grades of crude oil and natural gas that we produce significantly impact our revenues and cash flows .",
+      "the following table lists benchmark crude oil and natural gas price annual averages for the past three years. ."
+    ],
+    "post_text": [
+      "henry hub natural gas ( dollars per mmbtu ) ( a ) $ 2.79 $ 4.04 $ 4.39 ( a ) settlement date average .",
+      "liquid hydrocarbon 2013 prices of crude oil have been volatile in recent years , but less so when comparing annual averages for 2012 and 2011 .",
+      "in 2011 , crude prices increased over 2010 levels , with increases in brent averages outstripping those in wti .",
+      "the quality , location and composition of our liquid hydrocarbon production mix will cause our u.s .",
+      "liquid hydrocarbon realizations to differ from the wti benchmark .",
+      "in 2012 , 2011 and 2010 , the percentage of our u.s .",
+      "crude oil and condensate production that was sour averaged 37 percent , 58 percent and 68 percent .",
+      "sour crude contains more sulfur and tends to be heavier than light sweet crude oil so that refining it is more costly and produces lower value products ; therefore , sour crude is considered of lower quality and typically sells at a discount to wti .",
+      "the percentage of our u.s .",
+      "crude and condensate production that is sour has been decreasing as onshore production from the eagle ford and bakken shale plays increases and production from the gulf of mexico declines .",
+      "in recent years , crude oil sold along the u.s .",
+      "gulf coast has been priced at a premium to wti because the louisiana light sweet benchmark has been tracking brent , while production from inland areas farther from large refineries has been at a discount to wti .",
+      "ngls were 10 percent , 7 percent and 6 percent of our u.s .",
+      "liquid hydrocarbon sales in 2012 , 2011 and 2010 .",
+      "in 2012 , our sales of ngls increased due to our development of u.s .",
+      "unconventional liquids-rich plays. ."
+    ],
+    "table": [
+      [
+        "benchmark",
+        "2012",
+        "2011",
+        "2010"
+      ],
+      [
+        "wti crude oil ( dollars per bbl )",
+        "$ 94.15",
+        "$ 95.11",
+        "$ 79.61"
+      ],
+      [
+        "brent ( europe ) crude oil ( dollars per bbl )",
+        "$ 111.65",
+        "$ 111.26",
+        "$ 79.51"
+      ],
+      [
+        "henry hub natural gas ( dollars per mmbtu ) ( a )",
+        "$ 2.79",
+        "$ 4.04",
+        "$ 4.39"
+      ]
+    ],
+    "questions": [
+      "by what percentage did the average price of wti crude oil increase from 2010 to 2012?"
+    ]
+  }
+}

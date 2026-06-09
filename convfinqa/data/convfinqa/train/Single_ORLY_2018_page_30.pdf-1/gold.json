@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change of an investment in o 2019reilly automotive inc . from 2013 to 2017?",
+      "answer": 87.0,
+      "answer_raw": "87.0",
+      "program": "subtract(187, 100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what roi does this represent?",
+      "answer": 0.87,
+      "answer_raw": "0.87",
+      "program": "subtract(187, 100), divide(#0, 100)"
+    }
+  ]
+}

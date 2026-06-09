@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the balance of class a common stock as a percentage of class b common stock?",
+      "answer": 0.5972,
+      "answer_raw": "0.5972",
+      "program": "divide(422208, 706985)"
+    }
+  ]
+}

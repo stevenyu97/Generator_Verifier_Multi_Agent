@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total number of properties is related to seniors housing operating?",
+      "answer": 0.34448,
+      "answer_raw": "0.34448",
+      "program": "divide(443, 1286)"
+    }
+  ]
+}

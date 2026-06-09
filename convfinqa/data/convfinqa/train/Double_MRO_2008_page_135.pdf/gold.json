@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of asset retirement obligations in 2008?",
+      "answer": 965.0,
+      "answer_raw": "965.0",
+      "program": "965"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2007?",
+      "answer": 1134.0,
+      "answer_raw": "1134.0",
+      "program": "1134"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": -169.0,
+      "answer_raw": "-169.0",
+      "program": "subtract(965, 1134)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is this change as a portion of the 2007 total?",
+      "answer": -0.14903,
+      "answer_raw": "-0.14903",
+      "program": "subtract(965, 1134), divide(#0, 1134)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and over the year precedent to this period, what was the change in that total of obligations?",
+      "answer": 90.0,
+      "answer_raw": "90.0",
+      "program": "subtract(1134, 1044)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "how much did this change represent in relation to the asset retirement obligations in 2006?",
+      "answer": 0.08621,
+      "answer_raw": "0.08621",
+      "program": "subtract(1134, 1044), divide(#0, 1044)"
+    }
+  ]
+}

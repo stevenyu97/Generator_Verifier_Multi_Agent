@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the highest income from performance plans?",
+      "answer": 67.0,
+      "answer_raw": "67.0",
+      "program": "table_max(performance plans, none)"
+    }
+  ]
+}

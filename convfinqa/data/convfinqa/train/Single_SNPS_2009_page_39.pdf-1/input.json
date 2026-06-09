@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "Single_SNPS/2009/page_39.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "cash provided by operating activities cash provided by operations is dependent primarily upon the payment terms of our license agreements .",
+      "to be classified as upfront revenue , we require that 75% ( 75 % ) of a term or perpetual license fee be paid within the first year .",
+      "conversely , payment terms for tsls are generally extended and the license fee is typically paid either quarterly or annually in even increments over the term of the license .",
+      "accordingly , we generally receive cash from upfront license revenue much sooner than from time-based licenses revenue .",
+      "fiscal 2008 to fiscal 2009 .",
+      "cash from operating activities decreased primarily as a result of a decrease in deferred revenue due to the timing of billings and cash payments from certain customers , increased payments to vendors compared to fiscal 2008 and a tax prepayment for an irs settlement .",
+      "see note 9 of notes to consolidated financial statements .",
+      "fiscal 2007 to fiscal 2008 .",
+      "cash from operating activities decreased primarily due to the timing of billings and cash payments from customers compared to fiscal 2007 , delivering lower cash inflows during fiscal 2008 and also as a result of a litigation settlement of $ 12.5 million received from magma during fiscal 2007 .",
+      "cash used in investing activities fiscal 2008 to fiscal 2009 .",
+      "the decrease in cash used primarily relates to a decrease in our purchases of marketable securities and cash paid for acquisitions as compared to fiscal 2008 , offset by the timing of maturities of marketable securities .",
+      "fiscal 2007 to fiscal 2008 .",
+      "the decrease in cash used primarily relates to the sale of marketable securities for our acquisition of synplicity , and as a result of lower capital expenditures during fiscal 2008 as compared to fiscal 2007 .",
+      "cash provided by ( used in ) financing activities fiscal 2008 to fiscal 2009 .",
+      "the increase in cash provided primarily relates to the absence of common stock repurchases in fiscal 2009 offset by a decrease in the number of options exercised by employees compared to fiscal 2008 .",
+      "fiscal 2007 to fiscal 2008 .",
+      "the increase in cash used primarily relates to more common stock repurchases under our stock repurchase program and options exercised by employees compared to fiscal 2007 .",
+      "see note 7 of notes to consolidated financial statements for details of our stock repurchase program .",
+      "we hold our cash , cash equivalents and short-term investments in the united states and in foreign accounts , primarily in ireland , bermuda , and japan .",
+      "as of october 31 , 2009 , we held an aggregate of $ 612.4 million in cash , cash equivalents and short-term investments in the united states and an aggregate of $ 555.9 million in foreign accounts .",
+      "funds in foreign accounts are generated from revenue outside north america .",
+      "at present , such foreign funds are considered to be indefinitely reinvested in foreign countries to the extent of indefinitely reinvested foreign earnings as described in note 9 of notes to consolidated financial statements .",
+      "we expect cash provided by operating activities to fluctuate in future periods as a result of a number of factors , including the timing of our billings and collections , our operating results , the timing and amount of tax and other liability payments and cash used in any future acquisitions .",
+      "accounts receivable , net october 31 ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "2009",
+        "2008",
+        "$ change",
+        "% (  % ) change"
+      ],
+      [
+        "( dollars in millions )",
+        "( dollars in millions )",
+        "",
+        ""
+      ],
+      [
+        "$ 127.0",
+        "$ 147.4",
+        "$ -20.4 ( 20.4 )",
+        "( 14 ) % (  % )"
+      ]
+    ],
+    "questions": [
+      "what was the sum of cash held in the us and foreign accounts?",
+      "what was the sum held in foreign accounts?",
+      "what is that divided by the total?"
+    ]
+  }
+}

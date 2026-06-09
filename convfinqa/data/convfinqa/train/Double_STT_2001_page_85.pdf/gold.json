@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the balance of loan commitments from 2000 to 2001?",
+      "answer": 1595.0,
+      "answer_raw": "1595.0",
+      "program": "subtract(12962, 11367)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage change does this represent?",
+      "answer": 0.14032,
+      "answer_raw": "0.14032",
+      "program": "subtract(12962, 11367), divide(#0, 11367)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change in the balance of indemnified securities on loan from 2000 to 2001?",
+      "answer": 11609.0,
+      "answer_raw": "11609.0",
+      "program": "subtract(113047, 101438)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage change does this represent?",
+      "answer": 0.11444,
+      "answer_raw": "0.11444",
+      "program": "subtract(113047, 101438), divide(#0, 101438)"
+    }
+  ]
+}

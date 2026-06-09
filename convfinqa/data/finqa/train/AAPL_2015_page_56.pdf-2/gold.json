@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in total property plant and equipment net from 2014 to 2015 in millions?",
+      "answer": 1847.0,
+      "answer_raw": "1847.0",
+      "program": "subtract(22471, 20624)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average from the proceeds from sales of property and equipment from 2015 to 2017",
+      "answer": 20.05,
+      "answer_raw": "20.05",
+      "program": "add(6.1, 9.8), add(#0, 21.2), add(#1, const_3), divide(#2, const_2)"
+    }
+  ]
+}

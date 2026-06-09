@@ -1,0 +1,56 @@
+{
+  "input": {
+    "id": "Single_ETR/2002/page_38.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries management's financial discussion and analysis annually , beginning in 2006 , if power market prices drop below the ppa prices .",
+      "accordingly , because the price is not fixed , the table above does not report power from that plant as sold forward after 2005 .",
+      "under the ppas with nypa for the output of power from indian point 3 and fitzpatrick , the non-utility nuclear business is obligated to produce at an average capacity factor of 85% ( 85 % ) with a financial true-up payment to nypa should nypa's cost to purchase power due to an output shortfall be higher than the ppas' price .",
+      "the calculation of any true-up payments is based on two two-year periods .",
+      "for the first period , which ran through november 20 , 2002 , indian point 3 and fitzpatrick operated at 95% ( 95 % ) and 97% ( 97 % ) , respectively , under the true-up formula .",
+      "credits of up to 5% ( 5 % ) reflecting period one generation above 85% ( 85 % ) can be used to offset any output shortfalls in the second period , which runs through the end of the ppas on december 31 , 2004 .",
+      "entergy continually monitors industry trends in order to determine whether asset impairments or other losses could result from a decline in value , or cancellation , of merchant power projects , and records provisions for impairments and losses accordingly .",
+      "marketing and trading the earnings of entergy's energy commodity services segment are exposed to commodity price market risks primarily through entergy's 50%-owned , unconsolidated investment in entergy-koch .",
+      "entergy-koch trading ( ekt ) uses value-at-risk models as one measure of the market risk of a loss in fair value for ekt's natural gas and power trading portfolio .",
+      "actual future gains and losses in portfolios will differ from those estimated based upon actual fluctuations in market rates , operating exposures , and the timing thereof , and changes in the portfolio of derivative financial instruments during the year .",
+      "to manage its portfolio , ekt enters into various derivative and contractual transactions in accordance with the policy approved by the trading committee of the governing board of entergy-koch .",
+      "the trading portfolio consists of physical and financial natural gas and power as well as other energy and weather-related contracts .",
+      "these contracts take many forms , including futures , forwards , swaps , and options .",
+      "characteristics of ekt's value-at-risk method and the use of that method are as follows : fffd value-at-risk is used in conjunction with stress testing , position reporting , and profit and loss reporting in order to measure and control the risk inherent in the trading and mark-to-market portfolios .",
+      "fffd ekt estimates its value-at-risk using a model based on j.p .",
+      "morgan's risk metrics methodology combined with a monte carlo simulation approach .",
+      "fffd ekt estimates its daily value-at-risk for natural gas and power using a 97.5% ( 97.5 % ) confidence level .",
+      "ekt's daily value-at-risk is a measure that indicates that , if prices moved against the positions , the loss in neutralizing the portfolio would not be expected to exceed the calculated value-at-risk .",
+      "fffd ekt seeks to limit the daily value-at-risk on any given day to a certain dollar amount approved by the trading committee .",
+      "ekt's value-at-risk measures , which it calls daily earnings at risk ( de@r ) , for its trading portfolio were as follows: ."
+    ],
+    "post_text": [
+      "ekt's de@r increased in 2002 compared to 2001 as a result of an increase in the size of the position held and an increase in the volatility of natural gas prices in the latter part of the year .",
+      "for all derivative and contractual transactions , ekt is exposed to losses in the event of nonperformance by counterparties to these transactions .",
+      "relevant considerations when assessing ekt's credit risk exposure include: ."
+    ],
+    "table": [
+      [
+        "",
+        "2002",
+        "2001"
+      ],
+      [
+        "de@r at end of period",
+        "$ 15.2 million",
+        "$ 5.5 million"
+      ],
+      [
+        "average de@r for the period",
+        "$ 10.8 million",
+        "$ 6.4 million"
+      ]
+    ],
+    "questions": [
+      "what was the total of daily earnings at risk at the end of the period in 2002?",
+      "and what was that total in 2001?",
+      "what was, then, the change in this total over the year?",
+      "and how much does this change represent in relation to the 2001 total of daily earnings, in percentage?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total number of security options was not approved by security holders?",
+      "answer": 0.07423,
+      "answer_raw": "0.07423",
+      "program": "divide(776360, 10459418)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the total loss due to instrument-specific credit risk for 2008 to 2007",
+      "answer": 0.20213,
+      "answer_raw": "0.20213",
+      "program": "divide(38, 188)"
+    }
+  ]
+}

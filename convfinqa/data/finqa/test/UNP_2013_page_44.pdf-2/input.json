@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "UNP/2013/page_44.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "our environmental site activity was as follows : 2013 2012 2011 ."
+    ],
+    "post_text": [
+      "the environmental liability includes future costs for remediation and restoration of sites , as well as ongoing monitoring costs , but excludes any anticipated recoveries from third parties .",
+      "cost estimates are based on information available for each site , financial viability of other potentially responsible parties , and existing technology , laws , and regulations .",
+      "the ultimate liability for remediation is difficult to determine because of the number of potentially responsible parties , site-specific cost sharing arrangements with other potentially responsible parties , the degree of contamination by various wastes , the scarcity and quality of volumetric data related to many of the sites , and the speculative nature of remediation costs .",
+      "estimates of liability may vary over time due to changes in federal , state , and local laws governing environmental remediation .",
+      "current obligations are not expected to have a material adverse effect on our consolidated results of operations , financial condition , or liquidity .",
+      "property and depreciation 2013 our railroad operations are highly capital intensive , and our large base of homogeneous , network-type assets turns over on a continuous basis .",
+      "each year we develop a capital program for the replacement of assets and for the acquisition or construction of assets that enable us to enhance our operations or provide new service offerings to customers .",
+      "assets purchased or constructed throughout the year are capitalized if they meet applicable minimum units of property criteria .",
+      "properties and equipment are carried at cost and are depreciated on a straight-line basis over their estimated service lives , which are measured in years , except for rail in high-density traffic corridors ( i.e. , all rail lines except for those subject to abandonment , yard and switching tracks , and electronic yards ) for which lives are measured in millions of gross tons per mile of track .",
+      "we use the group method of depreciation in which all items with similar characteristics , use , and expected lives are grouped together in asset classes , and are depreciated using composite depreciation rates .",
+      "the group method of depreciation treats each asset class as a pool of resources , not as singular items .",
+      "we currently have more than 60 depreciable asset classes , and we may increase or decrease the number of asset classes due to changes in technology , asset strategies , or other factors .",
+      "we determine the estimated service lives of depreciable railroad property by means of depreciation studies .",
+      "we perform depreciation studies at least every three years for equipment and every six years for track assets ( i.e. , rail and other track material , ties , and ballast ) and other road property .",
+      "our depreciation studies take into account the following factors : f0b7 statistical analysis of historical patterns of use and retirements of each of our asset classes ; f0b7 evaluation of any expected changes in current operations and the outlook for continued use of the assets ; f0b7 evaluation of technological advances and changes to maintenance practices ; and f0b7 expected salvage to be received upon retirement .",
+      "for rail in high-density traffic corridors , we measure estimated service lives in millions of gross tons per mile of track .",
+      "it has been our experience that the lives of rail in high-density traffic corridors are closely correlated to usage ( i.e. , the amount of weight carried over the rail ) .",
+      "the service lives also vary based on rail weight , rail condition ( e.g. , new or secondhand ) , and rail type ( e.g. , straight or curve ) .",
+      "our depreciation studies for rail in high density traffic corridors consider each of these factors in determining the estimated service lives .",
+      "for rail in high-density traffic corridors , we calculate depreciation rates annually by dividing the number of gross ton-miles carried over the rail ( i.e. , the weight of loaded and empty freight cars , locomotives and maintenance of way equipment transported over the rail ) by the estimated service lives of the rail measured in millions of gross tons per mile .",
+      "rail in high-density traffic corridors accounts for approximately 70 percent of the historical cost of rail and other track material .",
+      "based on the number of gross ton-miles carried over our rail in high density traffic corridors during 2013 , the estimated service lives of the majority of this rail ranged from approximately 15 years to approximately 30 years .",
+      "for all other depreciable assets , we compute depreciation based on the estimated service lives ."
+    ],
+    "table": [
+      [
+        "",
+        "2013",
+        "2012",
+        "2011"
+      ],
+      [
+        "open sites beginning balance",
+        "284",
+        "285",
+        "294"
+      ],
+      [
+        "new sites",
+        "41",
+        "56",
+        "51"
+      ],
+      [
+        "closed sites",
+        "-57 ( 57 )",
+        "-57 ( 57 )",
+        "-60 ( 60 )"
+      ],
+      [
+        "open sites ending balance atdecember 31",
+        "268",
+        "284",
+        "285"
+      ]
+    ],
+    "questions": [
+      "what was the net change in the number of environmental sites from 2011 to 2012?"
+    ]
+  }
+}

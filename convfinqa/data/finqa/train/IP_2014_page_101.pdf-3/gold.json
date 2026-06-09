@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 31 , 2014 what was the percent of the total future minimum commitments under existing non-cancelable purchase obligations in 2016",
+      "answer": 0.87774,
+      "answer_raw": "0.87774",
+      "program": "divide(761, 867)"
+    }
+  ]
+}

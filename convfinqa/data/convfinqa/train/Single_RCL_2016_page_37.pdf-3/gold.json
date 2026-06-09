@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of the royal caribbean cruises ltd . in 2013?",
+      "answer": 198.03,
+      "answer_raw": "198.03",
+      "program": "198.03"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2012?",
+      "answer": 139.36,
+      "answer_raw": "139.36",
+      "program": "139.36"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change in its value over the year?",
+      "answer": 58.67,
+      "answer_raw": "58.67",
+      "program": "subtract(198.03, 139.36)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation to the value in 2012, in percentage?",
+      "answer": 0.421,
+      "answer_raw": "0.421",
+      "program": "subtract(198.03, 139.36), divide(#0, 139.36)"
+    }
+  ]
+}

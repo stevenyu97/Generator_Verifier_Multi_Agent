@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2013, what would be, in billions, the total balance of net outstanding standby letters of credit including the letters of credit for other financial institutions?",
+      "answer": 13.8,
+      "answer_raw": "13.8",
+      "program": "add(10.5, 3.3)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "as of that same date, what was the total of the remarketing programs, in billions?",
+      "answer": 7.5,
+      "answer_raw": "7.5",
+      "program": "7.5"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what was it in one year before, in december 31 of 2012?",
+      "answer": 6.6,
+      "answer_raw": "6.6",
+      "program": "6.6"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "by how much, then, in billions, did it change over the period?",
+      "answer": 0.9,
+      "answer_raw": "0.9",
+      "program": "subtract(7.5, 6.6)"
+    }
+  ]
+}

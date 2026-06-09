@@ -1,0 +1,143 @@
+{
+  "input": {
+    "id": "DVN/2017/page_31.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "item 7 .",
+      "management 2019s discussion and analysis of financial condition and results of operations introduction the following discussion and analysis presents management 2019s perspective of our business , financial condition and overall performance .",
+      "this information is intended to provide investors with an understanding of our past performance , current financial condition and outlook for the future and should be read in conjunction with 201citem 8 .",
+      "financial statements and supplementary data 201d of this report .",
+      "overview of 2017 results during 2017 , we generated solid operating results with our strategy of operating in north america 2019s best resource plays , delivering superior execution , continuing disciplined capital allocation and maintaining a high degree of financial strength .",
+      "led by our development in the stack and delaware basin , we continued to improve our 90-day initial production rates .",
+      "with investments in proprietary data tools , predictive analytics and artificial intelligence , we are delivering industry-leading , initial-rate well productivity performance and improving the performance of our established wells .",
+      "compared to 2016 , commodity prices increased significantly and were the primary driver for improvements in devon 2019s earnings and cash flow during 2017 .",
+      "we exited 2017 with liquidity comprised of $ 2.7 billion of cash and $ 2.9 billion of available credit under our senior credit facility .",
+      "we have no significant debt maturities until 2021 .",
+      "we further enhanced our financial strength by completing approximately $ 415 million of our announced $ 1 billion asset divestiture program in 2017 .",
+      "we anticipate closing the remaining divestitures in 2018 .",
+      "in 2018 and beyond , we have the financial capacity to further accelerate investment across our best-in-class u.s .",
+      "resource plays .",
+      "we are increasing drilling activity and will continue to shift our production mix to high-margin products .",
+      "we will continue our premier technical work to drive capital allocation and efficiency and industry- leading well productivity results .",
+      "we will continue to maximize the value of our base production by sustaining the operational efficiencies we have achieved .",
+      "finally , we will continue to manage activity levels within our cash flows .",
+      "we expect this disciplined approach will position us to deliver capital-efficient , cash-flow expansion over the next two years .",
+      "key measures of our financial performance in 2017 are summarized in the following table .",
+      "increased commodity prices as well as continued focus on our production expenses improved our 2017 financial performance as compared to 2016 , as seen in the table below .",
+      "more details for these metrics are found within the 201cresults of operations 2013 2017 vs .",
+      "2016 201d , below. ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "net earnings ( loss ) attributable to devon",
+        "2017 $ 898",
+        "change +185% ( +185 % )",
+        "2016* $ -1056 ( 1056 )",
+        "change +92% ( +92 % )",
+        "2015* $ -12896 ( 12896 )"
+      ],
+      [
+        "net earnings ( loss ) per diluted share attributable to devon",
+        "$ 1.70",
+        "+181% ( +181 % )",
+        "$ -2.09 ( 2.09 )",
+        "+93% ( +93 % )",
+        "$ -31.72 ( 31.72 )"
+      ],
+      [
+        "core earnings ( loss ) attributable to devon ( 1 )",
+        "$ 427",
+        "+217% ( +217 % )",
+        "$ -367 ( 367 )",
+        "- 430% ( 430 % )",
+        "$ 111"
+      ],
+      [
+        "core earnings ( loss ) per diluted share attributable to devon ( 1 )",
+        "$ 0.81",
+        "+210% ( +210 % )",
+        "$ -0.73 ( 0.73 )",
+        "- 382% ( 382 % )",
+        "$ 0.26"
+      ],
+      [
+        "retained production ( mboe/d )",
+        "541",
+        "- 4% ( 4 % )",
+        "563",
+        "- 3% ( 3 % )",
+        "580"
+      ],
+      [
+        "total production ( mboe/d )",
+        "543",
+        "- 11% ( 11 % )",
+        "611",
+        "- 10% ( 10 % )",
+        "680"
+      ],
+      [
+        "realized price per boe ( 2 )",
+        "$ 25.96",
+        "+39% ( +39 % )",
+        "$ 18.72",
+        "- 14% ( 14 % )",
+        "$ 21.68"
+      ],
+      [
+        "operating cash flow",
+        "$ 2909",
+        "+94% ( +94 % )",
+        "$ 1500",
+        "- 69% ( 69 % )",
+        "$ 4898"
+      ],
+      [
+        "capitalized expenditures including acquisitions",
+        "$ 2937",
+        "- 25% ( 25 % )",
+        "$ 3908",
+        "- 32% ( 32 % )",
+        "$ 5712"
+      ],
+      [
+        "shareholder and noncontrolling interests distributions",
+        "$ 481",
+        "- 8% ( 8 % )",
+        "$ 525",
+        "- 19% ( 19 % )",
+        "$ 650"
+      ],
+      [
+        "cash and cash equivalents",
+        "$ 2673",
+        "+36% ( +36 % )",
+        "$ 1959",
+        "- 15% ( 15 % )",
+        "$ 2310"
+      ],
+      [
+        "total debt",
+        "$ 10406",
+        "+2% ( +2 % )",
+        "$ 10154",
+        "- 22% ( 22 % )",
+        "$ 13032"
+      ],
+      [
+        "reserves ( mmboe )",
+        "2152",
+        "+5% ( +5 % )",
+        "2058",
+        "- 6% ( 6 % )",
+        "2182"
+      ]
+    ],
+    "questions": [
+      "what is the ratio of operating cash flow to total debt in 2017?"
+    ]
+  }
+}

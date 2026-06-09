@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in 'average u.s . short-duration advances' from 2011 to 2013?",
+      "answer": 362.0,
+      "answer_raw": "362.0",
+      "program": "subtract(2356, 1994)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage change does this represent?",
+      "answer": 0.18154,
+      "answer_raw": "0.18154",
+      "program": "subtract(2356, 1994), divide(#0, 1994)"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "Double_APD/2016/page_57.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "pension expense ."
+    ],
+    "post_text": [
+      "( a ) effective in 2016 , the company began to measure the service cost and interest cost components of pension expense by applying spot rates along the yield curve to the relevant projected cash flows , as we believe this provides a better measurement of these costs .",
+      "the company has accounted for this as a change in accounting estimate and , accordingly has accounted for it on a prospective basis .",
+      "this change does not affect the measurement of the total benefit obligation .",
+      "2016 vs .",
+      "2015 pension expense , excluding special items , decreased from the prior year due to the adoption of the spot rate approach which reduced service cost and interest cost , the impact from expected return on assets and demographic gains , partially offset by the impact of the adoption of new mortality tables for our major plans .",
+      "special items of $ 7.3 included pension settlement losses of $ 6.4 , special termination benefits of $ 2.0 , and curtailment gains of $ 1.1 .",
+      "these resulted primarily from our recent business restructuring and cost reduction actions .",
+      "2015 vs .",
+      "2014 the decrease in pension expense , excluding special items , was due to the impact from expected return on assets , a 40 bp reduction in the weighted average compensation increase assumption , and lower service cost and interest cost .",
+      "the decrease was partially offset by the impact of higher amortization of actuarial losses , which resulted primarily from a 60 bp decrease in weighted average discount rate .",
+      "special items of $ 35.2 included pension settlement losses of $ 21.2 , special termination benefits of $ 8.7 , and curtailment losses of $ 5.3 .",
+      "these resulted primarily from our recent business restructuring and cost reduction actions .",
+      "2017 outlook in 2017 , pension expense , excluding special items , is estimated to be approximately $ 70 to $ 75 , an increase of $ 10 to $ 15 from 2016 , resulting primarily from a decrease in discount rates , offset by favorable asset experience , effects of the versum spin-off and the adoption of new mortality tables .",
+      "pension settlement losses of $ 10 to $ 15 are expected , dependent on the timing of retirements .",
+      "in 2017 , we expect pension expense to include approximately $ 164 for amortization of actuarial losses compared to $ 121 in 2016 .",
+      "net actuarial losses of $ 484 were recognized in accumulated other comprehensive income in 2016 , primarily attributable to lower discount rates and improved mortality projections .",
+      "actuarial gains/losses are amortized into pension expense over prospective periods to the extent they are not offset by future gains or losses .",
+      "future changes in the discount rate and actual returns on plan assets different from expected returns would impact the actuarial gains/losses and resulting amortization in years beyond 2017 .",
+      "during the first quarter of 2017 , the company expects to record a curtailment loss estimated to be $ 5 to $ 10 related to employees transferring to versum .",
+      "the loss will be reflected in the results from discontinued operations on the consolidated income statements .",
+      "we continue to evaluate opportunities to manage the liabilities associated with our pension plans .",
+      "pension funding pension funding includes both contributions to funded plans and benefit payments for unfunded plans , which are primarily non-qualified plans .",
+      "with respect to funded plans , our funding policy is that contributions , combined with appreciation and earnings , will be sufficient to pay benefits without creating unnecessary surpluses .",
+      "in addition , we make contributions to satisfy all legal funding requirements while managing our capacity to benefit from tax deductions attributable to plan contributions .",
+      "with the assistance of third party actuaries , we analyze the liabilities and demographics of each plan , which help guide the level of contributions .",
+      "during 2016 and 2015 , our cash contributions to funded plans and benefit payments for unfunded plans were $ 79.3 and $ 137.5 , respectively .",
+      "for 2017 , cash contributions to defined benefit plans are estimated to be $ 65 to $ 85 .",
+      "the estimate is based on expected contributions to certain international plans and anticipated benefit payments for unfunded plans , which ."
+    ],
+    "table": [
+      [
+        "",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "pension expense",
+        "$ 68.1",
+        "$ 135.6",
+        "$ 135.9"
+      ],
+      [
+        "special terminations settlements and curtailments ( included above )",
+        "7.3",
+        "35.2",
+        "5.8"
+      ],
+      [
+        "weighted average discount rate ( a )",
+        "4.1% ( 4.1 % )",
+        "4.0% ( 4.0 % )",
+        "4.6% ( 4.6 % )"
+      ],
+      [
+        "weighted average expected rate of return on plan assets",
+        "7.5% ( 7.5 % )",
+        "7.4% ( 7.4 % )",
+        "7.7% ( 7.7 % )"
+      ],
+      [
+        "weighted average expected rate of compensation increase",
+        "3.5% ( 3.5 % )",
+        "3.5% ( 3.5 % )",
+        "3.9% ( 3.9 % )"
+      ]
+    ],
+    "questions": [
+      "in the year of 2016, what percentage did the pension settlement losses represent in relation to the total of special terminations settlements and curtailments?",
+      "and from 2015 to that year, what was the change in the cash contributions to funded plans and benefit payments for unfunded plans?",
+      "how much did this change represent in relation to those contributions in 2015?"
+    ]
+  }
+}

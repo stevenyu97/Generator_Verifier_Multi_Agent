@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the growth rate of the ventas stock as of 12/31/2003",
+      "answer": 1.06,
+      "answer_raw": "1.06",
+      "program": "subtract(206, const_100), divide(#0, const_100)"
+    }
+  ]
+}

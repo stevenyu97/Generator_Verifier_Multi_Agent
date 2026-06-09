@@ -1,0 +1,47 @@
+{
+  "input": {
+    "id": "CE/2010/page_134.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "tax returns for 2001 and beyond are open for examination under statute .",
+      "currently , unrecognized tax benefits are not expected to change significantly over the next 12 months .",
+      "19 .",
+      "stock-based and other management compensation plans in april 2009 , the company approved a global incentive plan which replaces the company 2019s 2004 stock incentive plan .",
+      "the 2009 global incentive plan ( 201cgip 201d ) enables the compensation committee of the board of directors to award incentive and nonqualified stock options , stock appreciation rights , shares of series a common stock , restricted stock , restricted stock units ( 201crsus 201d ) and incentive bonuses ( which may be paid in cash or stock or a combination thereof ) , any of which may be performance-based , with vesting and other award provisions that provide effective incentive to company employees ( including officers ) , non-management directors and other service providers .",
+      "under the 2009 gip , the company no longer can grant rsus with the right to participate in dividends or dividend equivalents .",
+      "the maximum number of shares that may be issued under the 2009 gip is equal to 5350000 shares plus ( a ) any shares of series a common stock that remain available for issuance under the 2004 stock incentive plan ( 201csip 201d ) ( not including any shares of series a common stock that are subject to outstanding awards under the 2004 sip or any shares of series a common stock that were issued pursuant to awards under the 2004 sip ) and ( b ) any awards under the 2004 stock incentive plan that remain outstanding that cease for any reason to be subject to such awards ( other than by reason of exercise or settlement of the award to the extent that such award is exercised for or settled in vested and non-forfeitable shares ) .",
+      "as of december 31 , 2010 , total shares available for awards and total shares subject to outstanding awards are as follows : shares available for awards shares subject to outstanding awards ."
+    ],
+    "post_text": [
+      "upon the termination of a participant 2019s employment with the company by reason of death or disability or by the company without cause ( as defined in the respective award agreements ) , an award in amount equal to ( i ) the value of the award granted multiplied by ( ii ) a fraction , ( x ) the numerator of which is the number of full months between grant date and the date of such termination , and ( y ) the denominator of which is the term of the award , such product to be rounded down to the nearest whole number , and reduced by ( iii ) the value of any award that previously vested , shall immediately vest and become payable to the participant .",
+      "upon the termination of a participant 2019s employment with the company for any other reason , any unvested portion of the award shall be forfeited and cancelled without consideration .",
+      "there was $ 19 million and $ 0 million of tax benefit realized from stock option exercises and vesting of rsus during the years ended december 31 , 2010 and 2009 , respectively .",
+      "during the year ended december 31 , 2008 the company reversed $ 8 million of the $ 19 million tax benefit that was realized during the year ended december 31 , 2007 .",
+      "deferred compensation in april 2007 , certain participants in the company 2019s 2004 deferred compensation plan elected to participate in a revised program , which includes both cash awards and restricted stock units ( see restricted stock units below ) .",
+      "based on participation in the revised program , the company expensed $ 9 million , $ 10 million and $ 8 million during the years ended december 31 , 2010 , 2009 and 2008 , respectively , related to the revised program and made payments of $ 4 million during the year ended december 31 , 2010 to participants who left the company and $ 28 million to active employees during december 2010 .",
+      "as of december 31 , 2010 , $ 1 million remains to be paid during 2011 under the revised program .",
+      "as of december 31 , 2009 , there was no deferred compensation payable remaining associated with the 2004 deferred compensation plan .",
+      "the company recorded expense related to participants continuing in the 2004 deferred %%transmsg*** transmitting job : d77691 pcn : 132000000 ***%%pcmsg|132 |00011|yes|no|02/09/2011 18:22|0|0|page is valid , no graphics -- color : n| ."
+    ],
+    "table": [
+      [
+        "",
+        "shares available for awards",
+        "shares subject to outstanding awards"
+      ],
+      [
+        "2009 global incentive plan",
+        "2322450",
+        "2530454"
+      ],
+      [
+        "2004 stock incentive plan",
+        "-",
+        "5923147"
+      ]
+    ],
+    "questions": [
+      "in the 2009 global incentive plan what is the percent of the shares available to the shares subject to a outstanding awards"
+    ]
+  }
+}

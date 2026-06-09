@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average amortization expense for other intangible assets for 2007-2009 , in millions?",
+      "answer": 14.06667,
+      "answer_raw": "14.06667",
+      "program": "add(19.3, 14.4), add(#0, 8.5), divide(#1, const_3)"
+    }
+  ]
+}

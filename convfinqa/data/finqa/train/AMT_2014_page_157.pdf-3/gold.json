@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming conversion at the maximum share conversion rate , how many common shares would result from a conversion of the mandatory convertible preferred stock , series a?",
+      "answer": 6880800.0,
+      "answer_raw": "6880800.0",
+      "program": "multiply(6000000, 1.1468)"
+    }
+  ]
+}

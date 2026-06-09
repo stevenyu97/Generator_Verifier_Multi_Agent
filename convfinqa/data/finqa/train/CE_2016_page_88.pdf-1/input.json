@@ -1,0 +1,98 @@
+{
+  "input": {
+    "id": "CE/2016/page_88.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents 4 .",
+      "acquisitions , dispositions and plant closures acquisitions 2022 so.f.ter .",
+      "s.p.a .",
+      "on december 1 , 2016 , the company acquired 100% ( 100 % ) of the stock of the forli , italy based so.f.ter .",
+      "s.p.a .",
+      "( \"softer\" ) , a leading thermoplastic compounder .",
+      "the acquisition of softer increases the company's global engineered materials product platforms , extends the operational model , technical and industry solutions capabilities and expands project pipelines .",
+      "the acquisition was accounted for as a business combination and the acquired operations are included in the advanced engineered materials segment .",
+      "pro forma financial information since the respective acquisition date has not been provided as the acquisition did not have a material impact on the company's financial information .",
+      "the company allocated the purchase price of the acquisition to identifiable assets acquired and liabilities assumed based on their estimated fair values as of the acquisition date .",
+      "the excess of the purchase price over the aggregate fair values was recorded as goodwill ( note 2 and note 11 ) .",
+      "the company calculated the fair value of the assets acquired using the income , market , or cost approach ( or a combination thereof ) .",
+      "fair values were determined based on level 3 inputs ( note 2 ) including estimated future cash flows , discount rates , royalty rates , growth rates , sales projections , retention rates and terminal values , all of which require significant management judgment and are susceptible to change .",
+      "the purchase price allocation is based upon preliminary information and is subject to change if additional information about the facts and circumstances that existed at the acquisition date becomes available .",
+      "the final fair value of the net assets acquired may result in adjustments to the assets and liabilities , including goodwill .",
+      "however , any subsequent measurement period adjustments are not expected to have a material impact on the company's results of operations .",
+      "the preliminary purchase price allocation for the softer acquisition is as follows : december 1 , 2016 ( in $ millions ) ."
+    ],
+    "post_text": [
+      "______________________________ ( 1 ) goodwill consists of expected revenue and operating synergies resulting from the acquisition .",
+      "none of the goodwill is deductible for income tax purposes .",
+      "( 2 ) includes a $ 23 million indemnity receivable for uncertain tax positions related to the acquisition .",
+      "transaction related costs of $ 3 million were expensed as incurred to selling , general and administrative expenses in the consolidated statements of operations .",
+      "the amount of pro forma net earnings ( loss ) of softer included in the company's consolidated statement of operations was approximately 2% ( 2 % ) ( unaudited ) of its consolidated net earnings ( loss ) had the acquisition occurred as of the beginning of 2016 .",
+      "the amount of softer net earnings ( loss ) consolidated by the company since the acquisition date was not material. ."
+    ],
+    "table": [
+      [
+        "",
+        "as ofdecember 1 2016 ( in $ millions )"
+      ],
+      [
+        "cash and cash equivalents",
+        "11"
+      ],
+      [
+        "trade receivables - third party and affiliates",
+        "53"
+      ],
+      [
+        "inventories",
+        "58"
+      ],
+      [
+        "property plant and equipment net",
+        "68"
+      ],
+      [
+        "intangible assets ( note 11 )",
+        "79"
+      ],
+      [
+        "goodwill ( note 11 ) ( 1 )",
+        "106"
+      ],
+      [
+        "other assets ( 2 )",
+        "33"
+      ],
+      [
+        "total fair value of assets acquired",
+        "408"
+      ],
+      [
+        "trade payables - third party and affiliates",
+        "-41 ( 41 )"
+      ],
+      [
+        "total debt ( note 14 )",
+        "-103 ( 103 )"
+      ],
+      [
+        "deferred income taxes",
+        "-30 ( 30 )"
+      ],
+      [
+        "other liabilities",
+        "-45 ( 45 )"
+      ],
+      [
+        "total fair value of liabilities assumed",
+        "-219 ( 219 )"
+      ],
+      [
+        "net assets acquired",
+        "189"
+      ]
+    ],
+    "questions": [
+      "if the tax controversy from softer is resolved favorably , what would the gross assets acquired be , in millions?"
+    ]
+  }
+}

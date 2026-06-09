@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "Single_BLK/2012/page_82.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the company further presents total net 201ceconomic 201d investment exposure , net of deferred compensation investments and hedged investments , to reflect another gauge for investors as the economic impact of investments held pursuant to deferred compensation arrangements is substantially offset by a change in compensation expense and the impact of hedged investments is substantially mitigated by total return swap hedges .",
+      "carried interest capital allocations are excluded as there is no impact to blackrock 2019s stockholders 2019 equity until such amounts are realized as performance fees .",
+      "finally , the company 2019s regulatory investment in federal reserve bank stock , which is not subject to market or interest rate risk , is excluded from the company 2019s net economic investment exposure .",
+      "( dollar amounts in millions ) december 31 , december 31 ."
+    ],
+    "post_text": [
+      "total 201ceconomic 201d investment exposure .",
+      ".",
+      ".",
+      "$ 1211 $ 1062 ( 1 ) at december 31 , 2012 and december 31 , 2011 , approximately $ 524 million and $ 587 million , respectively , of blackrock 2019s total gaap investments were maintained in sponsored investment funds that were deemed to be controlled by blackrock in accordance with gaap , and , therefore , are consolidated even though blackrock may not economically own a majority of such funds .",
+      "( 2 ) the decrease of $ 239 million related to a lower holding requirement of federal reserve bank stock held by blackrock institutional trust company , n.a .",
+      "( 201cbtc 201d ) .",
+      "total investments , as adjusted , at december 31 , 2012 increased $ 137 million from december 31 , 2011 , resulting from $ 765 million of purchases/capital contributions , $ 185 million from positive market valuations and earnings from equity method investments , and $ 64 million from net additional carried interest capital allocations , partially offset by $ 742 million of sales/maturities and $ 135 million of distributions representing return of capital and return on investments. ."
+    ],
+    "table": [
+      [
+        "( dollar amounts in millions )",
+        "december 31 2012",
+        "december 31 2011"
+      ],
+      [
+        "total investments gaap",
+        "$ 1750",
+        "$ 1631"
+      ],
+      [
+        "investments held by consolidated sponsored investmentfunds ( 1 )",
+        "-524 ( 524 )",
+        "-587 ( 587 )"
+      ],
+      [
+        "net exposure to consolidated investment funds",
+        "430",
+        "475"
+      ],
+      [
+        "total investments as adjusted",
+        "1656",
+        "1519"
+      ],
+      [
+        "federal reserve bank stock ( 2 )",
+        "-89 ( 89 )",
+        "-328 ( 328 )"
+      ],
+      [
+        "carried interest",
+        "-85 ( 85 )",
+        "-21 ( 21 )"
+      ],
+      [
+        "deferred compensation investments",
+        "-62 ( 62 )",
+        "-65 ( 65 )"
+      ],
+      [
+        "hedged investments",
+        "-209 ( 209 )",
+        "-43 ( 43 )"
+      ],
+      [
+        "total 201ceconomic 201d investment exposure",
+        "$ 1211",
+        "$ 1062"
+      ]
+    ],
+    "questions": [
+      "what was the sum of total 2010 economic investment exposure and the positive value of investments held by consolidated sponsored investment funds?",
+      "what is the positive value of investments held?",
+      "what is that divided the total sum?"
+    ]
+  }
+}

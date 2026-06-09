@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in tax positions throughout 2010?",
+      "answer": -1833.0,
+      "answer_raw": "-1833.0",
+      "program": "add(907, -2740)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it from 2011 to 2012?",
+      "answer": -2059.0,
+      "answer_raw": "-2059.0",
+      "program": "subtract(19520, 21579)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does this previous change represent in relation to those tax positions or the valuation allowance in 2011?",
+      "answer": -0.09542,
+      "answer_raw": "-0.09542",
+      "program": "subtract(19520, 21579), divide(#0, 21579)"
+    }
+  ]
+}

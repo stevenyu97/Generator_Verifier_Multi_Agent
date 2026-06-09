@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2012 and 2013 what was average total home equity and residential real estate loans in millions?",
+      "answer": 51336.0,
+      "answer_raw": "51336.0",
+      "program": "add(51512, 51160), divide(#0, const_2)"
+    }
+  ]
+}

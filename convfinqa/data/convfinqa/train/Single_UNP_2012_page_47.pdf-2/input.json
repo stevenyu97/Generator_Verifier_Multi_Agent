@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "Single_UNP/2012/page_47.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the following table presents the net periodic pension and opeb cost/ ( benefit ) for the years ended december 31 : millions 2013 2012 2011 2010 ."
+    ],
+    "post_text": [
+      "our net periodic pension cost is expected to increase to approximately $ 111 million in 2013 from $ 89 million in 2012 .",
+      "the increase is driven mainly by a decrease in the discount rate to 3.78% ( 3.78 % ) , our net periodic opeb expense is expected to increase to approximately $ 15 million in 2013 from $ 13 million in 2012 .",
+      "the increase in our net periodic opeb cost is primarily driven by a decrease in the discount rate to 3.48% ( 3.48 % ) .",
+      "cautionary information certain statements in this report , and statements in other reports or information filed or to be filed with the sec ( as well as information included in oral statements or other written statements made or to be made by us ) , are , or will be , forward-looking statements as defined by the securities act of 1933 and the securities exchange act of 1934 .",
+      "these forward-looking statements and information include , without limitation , ( a ) statements in the ceo 2019s letter preceding part i ; statements regarding planned capital expenditures under the caption 201c2013 capital expenditures 201d in item 2 of part i ; statements regarding dividends in item 5 ; and statements and information set forth under the captions 201c2013 outlook 201d and 201cliquidity and capital resources 201d in this item 7 , and ( b ) any other statements or information in this report ( including information incorporated herein by reference ) regarding : expectations as to financial performance , revenue growth and cost savings ; the time by which goals , targets , or objectives will be achieved ; projections , predictions , expectations , estimates , or forecasts as to our business , financial and operational results , future economic performance , and general economic conditions ; expectations as to operational or service performance or improvements ; expectations as to the effectiveness of steps taken or to be taken to improve operations and/or service , including capital expenditures for infrastructure improvements and equipment acquisitions , any strategic business acquisitions , and modifications to our transportation plans ( including statements set forth in item 2 as to expectations related to our planned capital expenditures ) ; expectations as to existing or proposed new products and services ; expectations as to the impact of any new regulatory activities or legislation on our operations or financial results ; estimates of costs relating to environmental remediation and restoration ; estimates and expectations regarding tax matters ; expectations that claims , litigation , environmental costs , commitments , contingent liabilities , labor negotiations or agreements , or other matters will not have a material adverse effect on our consolidated results of operations , financial condition , or liquidity and any other similar expressions concerning matters that are not historical facts .",
+      "forward-looking statements may be identified by their use of forward-looking terminology , such as 201cbelieves , 201d 201cexpects , 201d 201cmay , 201d 201cshould , 201d 201cwould , 201d 201cwill , 201d 201cintends , 201d 201cplans , 201d 201cestimates , 201d 201canticipates , 201d 201cprojects 201d and similar words , phrases or expressions .",
+      "forward-looking statements should not be read as a guarantee of future performance or results , and will not necessarily be accurate indications of the times that , or by which , such performance or results will be achieved .",
+      "forward-looking statements and information are subject to risks and uncertainties that could cause actual performance or results to differ materially from those expressed in the statements and information .",
+      "forward-looking statements and information reflect the good faith consideration by management of currently available information , and may be based on underlying assumptions believed to be reasonable under the circumstances .",
+      "however , such information and assumptions ( and , therefore , such forward-looking statements and information ) are or may be subject to variables or unknown or unforeseeable events or circumstances over which management has little or no influence or control .",
+      "the risk factors in item 1a of this report could affect our future results and could cause those results or other outcomes to differ materially from those expressed or implied in any forward-looking statements or information .",
+      "to the extent circumstances require or we deem it otherwise necessary , we will update or amend these risk factors in a form 10-q , form 8-k or subsequent form 10-k .",
+      "all forward-looking statements are qualified by , and should be read in conjunction with , these risk factors .",
+      "forward-looking statements speak only as of the date the statement was made .",
+      "we assume no obligation to update forward-looking information to reflect actual results , changes in assumptions or changes in other factors affecting forward-looking information .",
+      "if we do update one or more forward-looking ."
+    ],
+    "table": [
+      [
+        "millions",
+        "est.2013",
+        "2012",
+        "2011",
+        "2010"
+      ],
+      [
+        "net periodic pension cost",
+        "$ 111",
+        "$ 89",
+        "$ 78",
+        "$ 51"
+      ],
+      [
+        "net periodic opeb cost/ ( benefit )",
+        "15",
+        "13",
+        "-6 ( 6 )",
+        "-14 ( 14 )"
+      ]
+    ],
+    "questions": [
+      "what was the net change in net periodic pension cost from 2011 to 2012?",
+      "what was the cost in 2011?",
+      "what is the percent change?"
+    ]
+  }
+}

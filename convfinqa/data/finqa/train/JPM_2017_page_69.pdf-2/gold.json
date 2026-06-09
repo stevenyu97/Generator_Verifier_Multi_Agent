@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "did jpmorgan chase outperform the s&p 500 index?\\\\n",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(277.62, 208.05)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in the after-tax earnings from joint ventures primarily driven by increased consumer spending at cereal partners worldwide ( cpw ) and unfavorable foreign currency exchange from h e4agen- dazs japan , inc . from 2012 to 2013",
+      "answer": -9.0,
+      "answer_raw": "-9.0",
+      "program": "subtract(90, 99)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the difference in the after-tax earnings from joint ventures primarily driven by increased consumer spending at cereal partners worldwide ( cpw ) and unfavorable foreign currency exchange from h e4agen- dazs japan , inc . in 2012?",
+      "answer": 99.0,
+      "answer_raw": "99.0",
+      "program": "99"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the percent change?",
+      "answer": -0.09091,
+      "answer_raw": "-0.09091",
+      "program": "subtract(90, 99), divide(#0, 99)"
+    }
+  ]
+}

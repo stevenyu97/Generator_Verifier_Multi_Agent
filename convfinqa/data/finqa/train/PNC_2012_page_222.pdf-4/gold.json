@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total weighted-average grant-date fair value of incentive/ performance unit share awards and restricted stock/unit awards granted in 2011 and 2010?",
+      "answer": 117.84,
+      "answer_raw": "117.84",
+      "program": "add(63.25, 54.59)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value in 2009?",
+      "answer": 108261.0,
+      "answer_raw": "108261.0",
+      "program": "108261"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2008?",
+      "answer": 103698.0,
+      "answer_raw": "103698.0",
+      "program": "103698"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the ratio of 2009 to 2008?",
+      "answer": 1.044,
+      "answer_raw": "1.044",
+      "program": "divide(108261, 103698)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is that value less 1?",
+      "answer": 0.044,
+      "answer_raw": "0.044",
+      "program": "divide(108261, 103698), subtract(#0, const_1)"
+    }
+  ]
+}

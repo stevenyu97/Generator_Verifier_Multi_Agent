@@ -1,0 +1,102 @@
+{
+  "input": {
+    "id": "ZBH/2003/page_42.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "z i m m e r h o l d i n g s , i n c .",
+      "a n d s u b s i d i a r i e s 2 0 0 3 f o r m 1 0 - k contractual obligations the company has entered into contracts with various third parties in the normal course of business which will require future payments .",
+      "the following table illustrates the company 2019s contractual obligations : than 1 - 3 4 - 5 after contractual obligations total 1 year years years 5 years ."
+    ],
+    "post_text": [
+      "critical accounting estimates the financial results of the company are affected by the income taxes 2013 the company estimates income selection and application of accounting policies and methods .",
+      "tax expense and income tax liabilities and assets by taxable significant accounting policies which require management 2019s jurisdiction .",
+      "realization of deferred tax assets in each taxable judgment are discussed below .",
+      "jurisdiction is dependent on the company 2019s ability to generate future taxable income sufficient to realize the excess inventory and instruments 2013 the company benefits .",
+      "the company evaluates deferred tax assets on must determine as of each balance sheet date how much , if an ongoing basis and provides valuation allowances if it is any , of its inventory may ultimately prove to be unsaleable or determined to be 2018 2018more likely than not 2019 2019 that the deferred unsaleable at its carrying cost .",
+      "similarly , the company must tax benefit will not be realized .",
+      "federal income taxes are also determine if instruments on hand will be put to provided on the portion of the income of foreign subsidiaries productive use or remain undeployed as a result of excess that is expected to be remitted to the u.s .",
+      "the company supply .",
+      "reserves are established to effectively adjust operates within numerous taxing jurisdictions .",
+      "the company inventory and instruments to net realizable value .",
+      "to is subject to regulatory review or audit in virtually all of determine the appropriate level of reserves , the company those jurisdictions and those reviews and audits may require evaluates current stock levels in relation to historical and extended periods of time to resolve .",
+      "the company makes use expected patterns of demand for all of its products and of all available information and makes reasoned judgments instrument systems and components .",
+      "the basis for the regarding matters requiring interpretation in establishing determination is generally the same for all inventory and tax expense , liabilities and reserves .",
+      "the company believes instrument items and categories except for work-in-progress adequate provisions exist for income taxes for all periods inventory , which is recorded at cost .",
+      "obsolete or and jurisdictions subject to review or audit .",
+      "discontinued items are generally destroyed and completely written off .",
+      "management evaluates the need for changes to commitments and contingencies 2013 accruals for valuation reserves based on market conditions , competitive product liability and other claims are established with offerings and other factors on a regular basis .",
+      "centerpulse internal and external counsel based on current information historically applied a similar conceptual framework in and historical settlement information for claims , related fees estimating market value of excess inventory and instruments and for claims incurred but not reported .",
+      "an actuarial model under international financial reporting standards and is used by the company to assist management in determining u.s .",
+      "generally accepted accounting principles .",
+      "within that an appropriate level of accruals for product liability claims .",
+      "framework , zimmer and centerpulse differed however , in historical patterns of claim loss development over time are certain respects , to their approaches to such estimation .",
+      "statistically analyzed to arrive at factors which are then following the acquisition , the company determined that a applied to loss estimates in the actuarial model .",
+      "the amounts consistent approach is necessary to maintaining effective established represent management 2019s best estimate of the control over financial reporting .",
+      "consideration was given to ultimate costs that it will incur under the various both approaches and the company established a common contingencies .",
+      "estimation technique taking both prior approaches into account .",
+      "this change in estimate resulted in a charge to earnings of $ 3.0 million after tax in the fourth quarter .",
+      "such change is not considered material to the company 2019s financial position , results of operations or cash flows. ."
+    ],
+    "table": [
+      [
+        "contractual obligations",
+        "total",
+        "less than 1 year",
+        "1 - 3 years",
+        "4 - 5 years",
+        "after 5 years"
+      ],
+      [
+        "long-term debt",
+        "$ 1103.0",
+        "$ 100.0",
+        "$ 655.3",
+        "$ 347.7",
+        "$ 2013"
+      ],
+      [
+        "capital leases",
+        "6.1",
+        "1.3",
+        "3.7",
+        "1.1",
+        "2013"
+      ],
+      [
+        "operating leases",
+        "77.2",
+        "23.0",
+        "32.3",
+        "9.2",
+        "12.7"
+      ],
+      [
+        "purchase obligations",
+        "13.3",
+        "13.3",
+        "2013",
+        "2013",
+        "2013"
+      ],
+      [
+        "other long-term liabilities",
+        "352.6",
+        "2013",
+        "139.9",
+        "42.0",
+        "170.7"
+      ],
+      [
+        "total contractual obligations",
+        "$ 1552.2",
+        "$ 137.6",
+        "$ 831.2",
+        "$ 400.0",
+        "$ 183.4"
+      ]
+    ],
+    "questions": [
+      "what percent of total contractual obligations is comprised of long-term debt?"
+    ]
+  }
+}

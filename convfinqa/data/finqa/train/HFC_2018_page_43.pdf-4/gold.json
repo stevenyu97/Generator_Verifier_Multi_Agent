@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in october 2018 , what was the total cost for repurchasing the 1360987 shares?",
+      "answer": 90287877.58,
+      "answer_raw": "90287877.58",
+      "program": "multiply(66.34, 1360987)"
+    }
+  ]
+}

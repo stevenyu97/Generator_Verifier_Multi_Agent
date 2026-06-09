@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in effective tax rate from from 2015 to 2016?",
+      "answer": 0.017,
+      "answer_raw": "0.017",
+      "program": "subtract(28.9%, 27.2%)"
+    }
+  ]
+}

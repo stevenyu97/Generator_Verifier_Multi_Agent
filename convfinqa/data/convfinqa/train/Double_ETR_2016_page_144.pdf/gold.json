@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total impact on liabilities of the october 2015 planned shutdown of fitzpatrick and the 2016 decommissioning of the indian point 3 and fitzpatrick?",
+      "answer": 61.5,
+      "answer_raw": "61.5",
+      "program": "add(26.4, 35.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and as of that same year of 2016, what is the amount from the long-term debt that is due in the two subsequent years?",
+      "answer": 1135487.0,
+      "answer_raw": "1135487.0",
+      "program": "add(307403, 828084)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what is that in millions?",
+      "answer": 1135.487,
+      "answer_raw": "1135.487",
+      "program": "add(307403, 828084), divide(#0, const_1000)"
+    }
+  ]
+}

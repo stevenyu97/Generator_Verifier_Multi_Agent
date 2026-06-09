@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "L/2016/page_62.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "item 5 .",
+      "market for the registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities the following graph compares annual total return of our common stock , the standard & poor 2019s 500 composite stock index ( 201cs&p 500 index 201d ) and our peer group ( 201cloews peer group 201d ) for the five years ended december 31 , 2016 .",
+      "the graph assumes that the value of the investment in our common stock , the s&p 500 index and the loews peer group was $ 100 on december 31 , 2011 and that all dividends were reinvested. ."
+    ],
+    "post_text": [
+      "( a ) the loews peer group consists of the following companies that are industry competitors of our principal operating subsidiaries : chubb limited ( name change from ace limited after it acquired the chubb corporation on january 15 , 2016 ) , w.r .",
+      "berkley corporation , the chubb corporation ( included through january 15 , 2016 when it was acquired by ace limited ) , energy transfer partners l.p. , ensco plc , the hartford financial services group , inc. , kinder morgan energy partners , l.p .",
+      "( included through november 26 , 2014 when it was acquired by kinder morgan inc. ) , noble corporation , spectra energy corp , transocean ltd .",
+      "and the travelers companies , inc .",
+      "dividend information we have paid quarterly cash dividends in each year since 1967 .",
+      "regular dividends of $ 0.0625 per share of loews common stock were paid in each calendar quarter of 2016 and 2015. ."
+    ],
+    "table": [
+      [
+        "",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      [
+        "loews common stock",
+        "100.0",
+        "108.91",
+        "129.64",
+        "113.59",
+        "104.47",
+        "128.19"
+      ],
+      [
+        "s&p 500 index",
+        "100.0",
+        "116.00",
+        "153.57",
+        "174.60",
+        "177.01",
+        "198.18"
+      ],
+      [
+        "loews peer group ( a )",
+        "100.0",
+        "113.39",
+        "142.85",
+        "150.44",
+        "142.44",
+        "165.34"
+      ]
+    ],
+    "questions": [
+      "what was the growth rate of the s&p 500 index from 2011 to 2016"
+    ]
+  }
+}

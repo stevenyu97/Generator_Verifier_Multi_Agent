@@ -1,0 +1,67 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total in acquired customer-related and network location intangibles, from american tower corporation and subsidiaries notes to consolidated financial statements, in millions?",
+      "answer": 147.7,
+      "answer_raw": "147.7",
+      "program": "add(75.0, 72.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the expected period in which those location intangibles will be amortized, in years?",
+      "answer": 20.0,
+      "answer_raw": "20.0",
+      "program": "20"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is, then, the expected annual amortization expenses, in millions?",
+      "answer": 7.385,
+      "answer_raw": "7.385",
+      "program": "add(75.0, 72.7), divide(#0, 20)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "from that same company, what was the value of current assets, from preliminary allocation of the aggregate purchase consideration paid and the amounts of assets acquired and liabilities assumed based upon their estimated fair value at the date of acquisition?",
+      "answer": 11095.0,
+      "answer_raw": "11095.0",
+      "program": "add(8763, 2332)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and what is the total sum of those current assets and the non-current ones?",
+      "answer": 37806.0,
+      "answer_raw": "37806.0",
+      "program": "add(8763, 2332), add(26711, #0)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "including property and equipment, what then becomes that sum?",
+      "answer": 21079.0,
+      "answer_raw": "21079.0",
+      "program": "21079"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "and including the intangible assets, what becomes this total?",
+      "answer": 58885.0,
+      "answer_raw": "58885.0",
+      "program": "add(8763, 2332), add(26711, #0), add(21079, #1)"
+    },
+    {
+      "line_id": "turn_7",
+      "question": "what was the fair value of net assets acquired?",
+      "answer": 57536.0,
+      "answer_raw": "57536.0",
+      "program": "57536"
+    },
+    {
+      "line_id": "turn_8",
+      "question": "how much, then, does that total represent in relation to this fair value?",
+      "answer": 1.02345,
+      "answer_raw": "1.02345",
+      "program": "add(8763, 2332), add(26711, #0), add(21079, #1), divide(#2, 57536)"
+    }
+  ]
+}

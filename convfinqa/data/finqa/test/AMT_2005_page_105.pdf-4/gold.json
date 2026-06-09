@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total value of net operating loss carryforwards is related to state?",
+      "answer": 0.52847,
+      "answer_raw": "0.52847",
+      "program": "add(2157503, 2418012), divide(2418012, #0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the reduction in the after-tax earnings from joint ventures primarily driven by increased consumer spending at cereal partners worldwide ( cpw ) and unfavorable foreign currency exchange from h e4agen- dazs japan , inc . from 2012 to 2013",
+      "answer": -0.09091,
+      "answer_raw": "-0.09091",
+      "program": "subtract(90, 99), divide(#0, 99)"
+    }
+  ]
+}

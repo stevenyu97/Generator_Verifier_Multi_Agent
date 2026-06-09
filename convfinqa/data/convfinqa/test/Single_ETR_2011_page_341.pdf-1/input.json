@@ -1,0 +1,51 @@
+{
+  "input": {
+    "id": "Single_ETR/2011/page_341.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "entergy mississippi , inc .",
+      "management 2019s financial discussion and analysis 2010 compared to 2009 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory charges ( credits ) .",
+      "following is an analysis of the change in net revenue comparing 2010 to 2009 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the volume/weather variance is primarily due to an increase of 1046 gwh , or 8% ( 8 % ) , in billed electricity usage in all sectors , primarily due to the effect of more favorable weather on the residential sector .",
+      "gross operating revenues , fuel and purchased power expenses , and other regulatory charges ( credits ) gross operating revenues increased primarily due to an increase of $ 22 million in power management rider revenue as the result of higher rates , the volume/weather variance discussed above , and an increase in grand gulf rider revenue as a result of higher rates and increased usage , offset by a decrease of $ 23.5 million in fuel cost recovery revenues due to lower fuel rates .",
+      "fuel and purchased power expenses decreased primarily due to a decrease in deferred fuel expense as a result of prior over-collections , offset by an increase in the average market price of purchased power coupled with increased net area demand .",
+      "other regulatory charges increased primarily due to increased recovery of costs associated with the power management recovery rider .",
+      "other income statement variances 2011 compared to 2010 other operation and maintenance expenses decreased primarily due to : a $ 5.4 million decrease in compensation and benefits costs primarily resulting from an increase in the accrual for incentive-based compensation in 2010 and a decrease in stock option expense ; and the sale of $ 4.9 million of surplus oil inventory .",
+      "the decrease was partially offset by an increase of $ 3.9 million in legal expenses due to the deferral in 2010 of certain litigation expenses in accordance with regulatory treatment .",
+      "taxes other than income taxes increased primarily due to an increase in ad valorem taxes due to a higher 2011 assessment as compared to 2010 , partially offset by higher capitalized property taxes as compared with prior year .",
+      "depreciation and amortization expenses increased primarily due to an increase in plant in service .",
+      "interest expense decreased primarily due to a revision caused by ferc 2019s acceptance of a change in the treatment of funds received from independent power producers for transmission interconnection projects. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2009 net revenue",
+        "$ 536.7"
+      ],
+      [
+        "volume/weather",
+        "18.9"
+      ],
+      [
+        "other",
+        "-0.3 ( 0.3 )"
+      ],
+      [
+        "2010 net revenue",
+        "$ 555.3"
+      ]
+    ],
+    "questions": [
+      "what is the effect of volume/weather in net revenue during 2010, in millions?",
+      "what about in full dollars?",
+      "what is the increases in the gwh of billed lectricity usage in all sectors?",
+      "what is the revenue per gwh?"
+    ]
+  }
+}

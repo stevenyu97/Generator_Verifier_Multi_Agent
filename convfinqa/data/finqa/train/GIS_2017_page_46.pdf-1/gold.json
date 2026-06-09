@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total average fair value impact of all the instruments?",
+      "answer": 53.3,
+      "answer_raw": "53.3",
+      "program": "add(26.5, 22.9), add(#0, 2.5), add(#1, 1.4)"
+    }
+  ]
+}

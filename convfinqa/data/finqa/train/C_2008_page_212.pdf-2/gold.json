@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the fair value of the msr from 2007 to 2008",
+      "answer": -0.33151,
+      "answer_raw": "-0.33151",
+      "program": "subtract(4273, 6392), divide(#0, 6392)"
+    }
+  ]
+}

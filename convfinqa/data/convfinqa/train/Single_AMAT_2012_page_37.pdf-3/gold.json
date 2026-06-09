@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the dividend yield for 2012 for applied materials?",
+      "answer": 0.00143,
+      "answer_raw": "0.00143",
+      "program": "divide(0.09, 62.92)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for 2010?",
+      "answer": 0.00101,
+      "answer_raw": "0.00101",
+      "program": "divide(0.09, 62.92), divide(0.07, 69.23)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference in yield between these two years?",
+      "answer": 0.00042,
+      "answer_raw": "0.00042",
+      "program": "divide(0.09, 62.92), divide(0.07, 69.23), subtract(#0, #1)"
+    }
+  ]
+}

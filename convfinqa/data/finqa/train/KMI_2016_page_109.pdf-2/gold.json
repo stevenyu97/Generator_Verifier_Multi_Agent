@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of restricted shares vest in 2018?",
+      "answer": 0.26028,
+      "answer_raw": "0.26028",
+      "program": "divide(2352443, 9038137)"
+    }
+  ]
+}

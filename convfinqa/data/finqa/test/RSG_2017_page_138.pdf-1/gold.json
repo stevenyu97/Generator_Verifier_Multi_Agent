@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2017 what was the debt to equity based on the 2017 actual asset allocation",
+      "answer": 2.33333,
+      "answer_raw": "2.33333",
+      "program": "divide(70, 30)"
+    }
+  ]
+}

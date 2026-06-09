@@ -1,0 +1,52 @@
+{
+  "input": {
+    "id": "JPM/2007/page_147.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "jpmorgan chase & co .",
+      "/ 2007 annual report 145 subprime adjustable-rate mortgage loan modifications see the glossary of terms on page 183 of this annual report for the firm 2019s definition of subprime loans .",
+      "within the confines of the limited decision-making abilities of a qspe under sfas 140 , the operating doc- uments that govern existing subprime securitizations generally authorize the servicer to modify loans for which default is reasonably foreseeable , provided that the modification is in the best interests of the qspe 2019s ben- eficial interest holders , and would not result in a remic violation .",
+      "in december 2007 , the american securitization forum ( 201casf 201d ) issued the 201cstreamlined foreclosure and loss avoidance framework for securitized subprime adjustable rate mortgage loans 201d ( 201cthe framework 201d ) .",
+      "the framework provides guidance for servicers to stream- line evaluation procedures for borrowers with certain subprime adjustable rate mortgage ( 201carm 201d ) loans to more efficiently provide modifications of such loans with terms that are more appropriate for the individual needs of such borrowers .",
+      "the framework applies to all first-lien subprime arm loans that have a fixed rate of interest for an initial period of 36 months or less , are included in securitized pools , were originated between january 1 , 2005 , and july 31 , 2007 , and have an initial interest rate reset date between january 1 , 2008 , and july 31 , 2010 ( 201casf framework loans 201d ) .",
+      "the framework categorizes the population of asf framework loans into three segments .",
+      "segment 1 includes loans where the borrower is current and is likely to be able to refinance into any available mortgage product .",
+      "segment 2 includes loans where the borrower is current , is unlikely to be able to refinance into any readily available mortgage industry product and meets certain defined criteria .",
+      "segment 3 includes loans where the borrower is not current , as defined , and does not meet the criteria for segments 1 or 2 .",
+      "asf framework loans in segment 2 of the framework are eligible for fast-track modification under which the interest rate will be kept at the existing initial rate , generally for five years following the interest rate reset date .",
+      "the framework indicates that for segment 2 loans , jpmorgan chase , as servicer , may presume that the borrower will be unable to make payments pursuant to the original terms of the borrower 2019s loan after the initial interest rate reset date .",
+      "thus , the firm may presume that a default on that loan by the borrower is reasonably foreseeable unless the terms of the loan are modified .",
+      "jpmorgan chase has adopted the loss mitigation approaches under the framework for securitized sub- prime loans that meet the specific segment 2 screening criteria , and it expects to begin modifying segment 2 loans by the end of the first quar- ter of 2008 .",
+      "the firm believes that the adoption of the framework will not affect the off-balance sheet accounting treatment of jpmorgan chase-sponsored qspes that hold segment 2 subprime loans .",
+      "the total amount of assets owned by firm-sponsored qspes that hold asf framework loans ( including those loans that are not serviced by the firm ) as of december 31 , 2007 , was $ 20.0 billion .",
+      "of this amount , $ 9.7 billion relates to asf framework loans serviced by the firm .",
+      "based on current economic conditions , the firm estimates that approximately 20% ( 20 % ) , 10% ( 10 % ) and 70% ( 70 % ) of the asf framework loans it services that are owned by firm-sponsored qspes will fall within segments 1 , 2 and 3 , respectively .",
+      "this estimate could change substantially as a result of unanticipated changes in housing values , economic conditions , investor/borrower behavior and other factors .",
+      "the total principal amount of beneficial interests issued by firm-spon- sored securitizations that hold asf framework loans as of december 31 , 2007 , was as follows. ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "december 31 2007 ( in millions )",
+        "2007"
+      ],
+      [
+        "third-party",
+        "$ 19636"
+      ],
+      [
+        "retained interest",
+        "412"
+      ],
+      [
+        "total",
+        "$ 20048"
+      ]
+    ],
+    "questions": [
+      "how much of the firm-sponsored qspes that hold asf framework loans are serviced by the firm?"
+    ]
+  }
+}

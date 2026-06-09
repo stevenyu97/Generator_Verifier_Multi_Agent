@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the decline in the account balance in the allowance for doubtful accounts from 2016 to 2017",
+      "answer": -0.05782,
+      "answer_raw": "-0.05782",
+      "program": "subtract(44.0, 46.7), divide(#0, 46.7)"
+    }
+  ]
+}

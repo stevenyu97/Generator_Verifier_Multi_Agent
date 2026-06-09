@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in operating leases from 2019 to 2020?",
+      "answer": -190.0,
+      "answer_raw": "-190.0",
+      "program": "subtract(1888, 2078)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": -0.09143,
+      "answer_raw": "-0.09143",
+      "program": "subtract(1888, 2078), divide(#0, 2078)"
+    }
+  ]
+}

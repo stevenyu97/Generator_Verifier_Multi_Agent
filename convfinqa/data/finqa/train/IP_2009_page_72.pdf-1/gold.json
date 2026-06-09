@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in diluted earnings ( loss ) per common share from continuing operations between 2008 and 2009?",
+      "answer": 4.57,
+      "answer_raw": "4.57",
+      "program": "subtract(1.55, -3.02)"
+    }
+  ]
+}

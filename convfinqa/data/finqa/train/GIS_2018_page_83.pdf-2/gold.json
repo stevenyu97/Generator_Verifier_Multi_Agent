@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change of netmark-to-marketvaluation of certain commodity positions from 2017 to 2018?",
+      "answer": 18.2,
+      "answer_raw": "18.2",
+      "program": "subtract(32.1, 13.9)"
+    }
+  ]
+}

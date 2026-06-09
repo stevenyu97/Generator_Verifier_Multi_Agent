@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "during the period 11/17/05 2013 11/30/05 what was the percentage of the treasury stock purchased in the fourth quarter of 2005",
+      "answer": 0.30823,
+      "answer_raw": "0.30823",
+      "program": "divide(874306, 2836519)"
+    }
+  ]
+}

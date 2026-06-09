@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in interest rate instruments from 2017 to 2018?",
+      "answer": 8.1,
+      "answer_raw": "8.1",
+      "program": "subtract(33.2, 25.1)"
+    }
+  ]
+}

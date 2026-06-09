@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the decrease in undeveloped reserves due to dispositions and \\\\ntransfers to proved developed reserves , in mmboe?",
+      "answer": -132.0,
+      "answer_raw": "-132.0",
+      "program": "multiply(29, const_m1), add(#0, -103)"
+    }
+  ]
+}

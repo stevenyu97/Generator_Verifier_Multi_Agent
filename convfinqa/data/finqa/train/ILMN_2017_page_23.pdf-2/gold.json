@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 312017 what was the ratio of square footage in san francisco bay area ca singapore",
+      "answer": 1.55949,
+      "answer_raw": "1.55949",
+      "program": "divide(616000, 395000)"
+    }
+  ]
+}

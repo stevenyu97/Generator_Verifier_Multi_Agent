@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in research and development expenses from 2012 to 2013?",
+      "answer": -0.18269,
+      "answer_raw": "-0.18269",
+      "program": "subtract(85, 104), divide(#0, 104)"
+    }
+  ]
+}

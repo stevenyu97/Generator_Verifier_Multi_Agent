@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total amount of returns that jkhy , peer group and s&p 500 had made combined by june 30 , 2012?",
+      "answer": 29.72,
+      "answer_raw": "29.72",
+      "program": "subtract(116.62, 100), subtract(107.65, 100), subtract(105.45, 100), add(#0, #1), add(#2, #3)"
+    }
+  ]
+}

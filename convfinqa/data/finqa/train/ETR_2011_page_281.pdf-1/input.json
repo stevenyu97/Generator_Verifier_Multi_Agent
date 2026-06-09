@@ -1,0 +1,51 @@
+{
+  "input": {
+    "id": "ETR/2011/page_281.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy arkansas , inc .",
+      "and subsidiaries management 2019s financial discussion and analysis entergy arkansas 2019s receivables from the money pool were as follows as of december 31 for each of the following years: ."
+    ],
+    "post_text": [
+      "in april 2011 , entergy arkansas entered into a new $ 78 million credit facility that expires in april 2012 .",
+      "there were no outstanding borrowings under the entergy arkansas credit facility as of december 31 , 2011 .",
+      "entergy arkansas has obtained short-term borrowing authorization from the ferc under which it may borrow through october 2013 , up to the aggregate amount , at any one time outstanding , of $ 250 million .",
+      "see note 4 to the financial statements for further discussion of entergy arkansas 2019s short-term borrowing limits .",
+      "entergy arkansas has also obtained an order from the apsc authorizing long-term securities issuances through december state and local rate regulation and fuel-cost recovery retail rates 2009 base rate filing in september 2009 , entergy arkansas filed with the apsc for a general change in rates , charges , and tariffs .",
+      "in june 2010 the apsc approved a settlement and subsequent compliance tariffs that provide for a $ 63.7 million rate increase , effective for bills rendered for the first billing cycle of july 2010 .",
+      "the settlement provides for a 10.2% ( 10.2 % ) return on common equity .",
+      "production cost allocation rider the apsc approved a production cost allocation rider for recovery from customers of the retail portion of the costs allocated to entergy arkansas as a result of the system agreement proceedings .",
+      "these costs cause an increase in entergy arkansas 2019s deferred fuel cost balance , because entergy arkansas pays the costs over seven months but collects them from customers over twelve months .",
+      "see note 2 to the financial statements and entergy corporation and subsidiaries 201cmanagement 2019s financial discussion and analysis - system agreement 201d for discussions of the system agreement proceedings .",
+      "energy cost recovery rider entergy arkansas 2019s retail rates include an energy cost recovery rider to recover fuel and purchased energy costs in monthly bills .",
+      "the rider utilizes prior calendar year energy costs and projected energy sales for the twelve- month period commencing on april 1 of each year to develop an energy cost rate , which is redetermined annually and includes a true-up adjustment reflecting the over-recovery or under-recovery , including carrying charges , of the energy cost for the prior calendar year .",
+      "the energy cost recovery rider tariff also allows an interim rate request depending upon the level of over- or under-recovery of fuel and purchased energy costs .",
+      "in early october 2005 , the apsc initiated an investigation into entergy arkansas's interim energy cost recovery rate .",
+      "the investigation focused on entergy arkansas's 1 ) gas contracting , portfolio , and hedging practices ; 2 ) wholesale purchases during the period ; 3 ) management of the coal inventory at its coal generation plants ; and 4 ) response to the contractual failure of the railroads to provide coal deliveries .",
+      "in march 2006 , the apsc extended its investigation to cover the costs included in entergy arkansas's march 2006 annual energy cost rate filing , and a hearing was held in the apsc energy cost recovery investigation in october 2006. ."
+    ],
+    "table": [
+      [
+        "2011",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      [
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )"
+      ],
+      [
+        "$ 17362",
+        "$ 41463",
+        "$ 28859",
+        "$ 15991"
+      ]
+    ],
+    "questions": [
+      "what was the average receivables for entergy arkansas from 2008 to 2011"
+    ]
+  }
+}

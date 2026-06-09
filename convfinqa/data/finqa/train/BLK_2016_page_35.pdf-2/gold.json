@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the asset allocation and balanced as a percentage of the total component changes in multi-asset aum in 2015?",
+      "answer": 0.4938,
+      "answer_raw": "0.4938",
+      "program": "divide(185836, 376336)"
+    }
+  ]
+}

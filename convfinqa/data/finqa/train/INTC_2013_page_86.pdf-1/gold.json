@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net cash flow from long-term debt during 2013?",
+      "answer": 29.0,
+      "answer_raw": "29.0",
+      "program": "subtract(13165, 13136)"
+    }
+  ]
+}

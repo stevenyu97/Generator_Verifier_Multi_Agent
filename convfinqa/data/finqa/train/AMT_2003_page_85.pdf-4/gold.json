@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "during the year ended december 2003 what was the tax rate applicable to the recorded an unrealized loss",
+      "answer": 0.33333,
+      "answer_raw": "0.33333",
+      "program": "subtract(0.3, 0.2), divide(#0, 0.3)"
+    }
+  ]
+}

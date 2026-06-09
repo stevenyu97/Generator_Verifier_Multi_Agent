@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of stock warrants issued in the purchase of spectrasite , inc, in millions?",
+      "answer": 0.05625,
+      "answer_raw": "0.05625",
+      "program": "divide(1.8, 32)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in the year of 2015, what was the total amount used for stock repurchase, in millions of dollars?",
+      "answer": 22950532.5,
+      "answer_raw": "22950532.5",
+      "program": "multiply(874306, 26.25)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and how much is that in dollars?",
+      "answer": 22.95053,
+      "answer_raw": "22.95053",
+      "program": "multiply(874306, 26.25), divide(#0, const_1000000)"
+    }
+  ]
+}

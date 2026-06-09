@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of the the carrying amount to the fair value of long-term obligations in 2004/",
+      "answer": 0.91667,
+      "answer_raw": "0.91667",
+      "program": "divide(3.3, 3.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the net change in the 401k contributions from 2002 to 2003?",
+      "answer": -154000.0,
+      "answer_raw": "-154000.0",
+      "program": "subtract(825000, 979000)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage change does this rerpesent?",
+      "answer": -0.1573,
+      "answer_raw": "-0.1573",
+      "program": "subtract(825000, 979000), divide(#0, 979000)"
+    }
+  ]
+}

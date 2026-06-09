@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "approximately what percent of the net gain on hedging in aoci at 12/31/06 is expected to impact net income during 2007?",
+      "answer": 0.2,
+      "answer_raw": "0.2",
+      "program": "divide(0.8, 4)"
+    }
+  ]
+}

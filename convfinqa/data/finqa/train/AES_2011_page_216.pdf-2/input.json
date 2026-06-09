@@ -1,0 +1,40 @@
+{
+  "input": {
+    "id": "AES/2011/page_216.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the aes corporation notes to consolidated financial statements 2014 ( continued ) december 31 , 2011 , 2010 , and 2009 the table below sets forth the pre-tax accumulated other comprehensive income ( loss ) expected to be recognized as an increase ( decrease ) to income from continuing operations before income taxes over the next twelve months as of december 31 , 2011 for the following types of derivative instruments : accumulated other comprehensive income ( loss ) ( 1 ) ( in millions ) ."
+    ],
+    "post_text": [
+      "( 1 ) excludes a loss of $ 94 million expected to be recognized as part of the sale of cartagena , which closed on february 9 , 2012 , and is further discussed in note 23 2014acquisitions and dispositions .",
+      "the balance in accumulated other comprehensive loss related to derivative transactions will be reclassified into earnings as interest expense is recognized for interest rate hedges and cross currency swaps ( except for the amount reclassified to foreign currency transaction gains and losses to offset the remeasurement of the foreign currency-denominated debt being hedged by the cross currency swaps ) , as depreciation is recognized for interest rate hedges during construction , as foreign currency transaction gains and losses are recognized for hedges of foreign currency exposure , and as electricity sales and fuel purchases are recognized for hedges of forecasted electricity and fuel transactions .",
+      "these balances are included in the consolidated statements of cash flows as operating and/or investing activities based on the nature of the underlying transaction .",
+      "for the years ended december 31 , 2011 , 2010 and 2009 , pre-tax gains ( losses ) of $ 0 million , $ ( 1 ) million , and $ 0 million net of noncontrolling interests , respectively , were reclassified into earnings as a result of the discontinuance of a cash flow hedge because it was probable that the forecasted transaction would not occur by the end of the originally specified time period ( as documented at the inception of the hedging relationship ) or within an additional two-month time period thereafter. ."
+    ],
+    "table": [
+      [
+        "",
+        "accumulated other comprehensive income ( loss ) ( 1 ) ( in millions )"
+      ],
+      [
+        "interest rate derivatives",
+        "$ -101 ( 101 )"
+      ],
+      [
+        "cross currency derivatives",
+        "$ -1 ( 1 )"
+      ],
+      [
+        "foreign currency derivatives",
+        "$ 7"
+      ],
+      [
+        "commodity and other derivatives",
+        "$ -1 ( 1 )"
+      ]
+    ],
+    "questions": [
+      "the loss on the sale of cartagena is what percent of the aoci impact of interest rate derivatives?"
+    ]
+  }
+}

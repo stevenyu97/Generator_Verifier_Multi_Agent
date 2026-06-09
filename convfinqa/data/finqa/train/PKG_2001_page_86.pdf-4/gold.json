@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total in thousands in minimum rental payments in 2000 and 2001?",
+      "answer": 12474.0,
+      "answer_raw": "12474.0",
+      "program": "add(7583, 4891)"
+    }
+  ]
+}

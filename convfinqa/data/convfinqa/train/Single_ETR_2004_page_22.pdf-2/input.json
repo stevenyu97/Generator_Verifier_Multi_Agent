@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "Single_ETR/2004/page_22.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries management's financial discussion and analysis other income ( deductions ) changed from $ 47.6 million in 2002 to ( $ 36.0 million ) in 2003 primarily due to a decrease in \"miscellaneous - net\" as a result of a $ 107.7 million accrual in the second quarter of 2003 for the loss that would be associated with a final , non-appealable decision disallowing abeyed river bend plant costs .",
+      "see note 2 to the consolidated financial statements for more details regarding the river bend abeyed plant costs .",
+      "the decrease was partially offset by an increase in interest and dividend income as a result of the implementation of sfas 143 .",
+      "interest on long-term debt decreased from $ 462.0 million in 2002 to $ 433.5 million in 2003 primarily due to the redemption and refinancing of long-term debt .",
+      "non-utility nuclear following are key performance measures for non-utility nuclear: ."
+    ],
+    "post_text": [
+      "2004 compared to 2003 the decrease in earnings for non-utility nuclear from $ 300.8 million to $ 245.0 million was primarily due to the $ 154.5 million net-of-tax cumulative effect of a change in accounting principle that increased earnings in the first quarter of 2003 upon implementation of sfas 143 .",
+      "see \"critical accounting estimates - sfas 143\" below for discussion of the implementation of sfas 143 .",
+      "earnings before the cumulative effect of accounting change increased by $ 98.7 million primarily due to the following : 2022 lower operation and maintenance expenses , which decreased from $ 681.8 million in 2003 to $ 595.7 million in 2004 , primarily resulting from charges recorded in 2003 in connection with the voluntary severance program ; 2022 higher revenues , which increased from $ 1.275 billion in 2003 to $ 1.342 billion in 2004 , primarily resulting from higher contract pricing .",
+      "the addition of a support services contract for the cooper nuclear station and increased generation in 2004 due to power uprates completed in 2003 and fewer planned and unplanned outages in 2004 also contributed to the higher revenues ; and 2022 miscellaneous income resulting from a reduction in the decommissioning liability for a plant , as discussed in note 8 to the consolidated financial statements .",
+      "partially offsetting this increase were the following : 2022 higher income taxes , which increased from $ 88.6 million in 2003 to $ 142.6 million in 2004 ; and 2022 higher depreciation expense , which increased from $ 34.3 million in 2003 to $ 48.9 million in 2004 , due to additions to plant in service .",
+      "2003 compared to 2002 the increase in earnings for non-utility nuclear from $ 200.5 million to $ 300.8 million was primarily due to the $ 154.5 million net-of-tax cumulative effect of a change in accounting principle recognized in the first quarter of 2003 upon implementation of sfas 143 .",
+      "see \"critical accounting estimates - sfas 143\" below for discussion of the implementation of sfas 143 .",
+      "income before the cumulative effect of accounting change decreased by $ 54.2 million .",
+      "the decrease was primarily due to $ 83.0 million ( $ 50.6 million net-of-tax ) of charges recorded in connection with the voluntary severance program .",
+      "except for the effect of the voluntary severance program , operation and maintenance expenses in 2003 per mwh of generation were in line with 2002 operation and maintenance expenses. ."
+    ],
+    "table": [
+      [
+        "",
+        "2004",
+        "2003",
+        "2002"
+      ],
+      [
+        "net mw in operation at december 31",
+        "4058",
+        "4001",
+        "3955"
+      ],
+      [
+        "average realized price per mwh",
+        "$ 41.26",
+        "$ 39.38",
+        "$ 40.07"
+      ],
+      [
+        "generation in gwh for the year",
+        "32524",
+        "32379",
+        "29953"
+      ],
+      [
+        "capacity factor for the year",
+        "92% ( 92 % )",
+        "92% ( 92 % )",
+        "93% ( 93 % )"
+      ]
+    ],
+    "questions": [
+      "what is the change in earnings for non-utility nuclear from 2003 to 2004?",
+      "what is the earnings for non-utility nuclear in 2003?",
+      "what percentage change does this represent?"
+    ]
+  }
+}

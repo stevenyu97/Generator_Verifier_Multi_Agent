@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the ipo net proceeds was used for funding the of escrow account?",
+      "answer": 0.15707,
+      "answer_raw": "0.15707",
+      "program": "divide(const_3, 19.1)"
+    }
+  ]
+}

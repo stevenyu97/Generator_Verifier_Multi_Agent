@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the rent expense in 2007?",
+      "answer": 106.4,
+      "answer_raw": "106.4",
+      "program": "106.4"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2006?",
+      "answer": 81.5,
+      "answer_raw": "81.5",
+      "program": "81.5"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 24.9,
+      "answer_raw": "24.9",
+      "program": "subtract(106.4, 81.5)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the rent expense in 2006?",
+      "answer": 81.5,
+      "answer_raw": "81.5",
+      "program": "81.5"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this 2006 rent expense, in percentage?",
+      "answer": 0.30552,
+      "answer_raw": "0.30552",
+      "program": "subtract(106.4, 81.5), divide(#0, 81.5)"
+    }
+  ]
+}

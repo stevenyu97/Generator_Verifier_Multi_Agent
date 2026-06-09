@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "using a three year average , the industrial products was what percent of total revenue?",
+      "answer": 0.16584,
+      "answer_raw": "0.16584",
+      "program": "table_sum(total freight revenues, none), table_sum(industrial products, none), divide(#1, #0)"
+    }
+  ]
+}

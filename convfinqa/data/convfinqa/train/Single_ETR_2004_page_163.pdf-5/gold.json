@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in receivables from the money pool between 2001 and 2022?",
+      "answer": 19515.0,
+      "answer_raw": "19515.0",
+      "program": "subtract(23794, 4279)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the value for 2002 specifically?",
+      "answer": 4279.0,
+      "answer_raw": "4279.0",
+      "program": "4279"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the percentage change during this time?",
+      "answer": 4.56065,
+      "answer_raw": "4.56065",
+      "program": "subtract(23794, 4279), divide(#0, 4279)"
+    }
+  ]
+}

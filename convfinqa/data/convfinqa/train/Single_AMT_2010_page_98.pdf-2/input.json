@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "Single_AMT/2010/page_98.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements u.s .",
+      "acquisitions 2014during the year ended december 31 , 2010 , the company acquired 548 towers through multiple acquisitions in the united states for an aggregate purchase price of $ 329.3 million and contingent consideration of approximately $ 4.6 million .",
+      "the acquisition of these towers is consistent with the company 2019s strategy to expand in selected geographic areas and have been accounted for as business combinations .",
+      "the following table summarizes the preliminary allocation of the aggregate purchase consideration paid and the amounts of assets acquired and liabilities assumed based on the estimated fair value of the acquired assets and assumed liabilities at the date of acquisition ( in thousands ) : purchase price allocation ."
+    ],
+    "post_text": [
+      "( 1 ) consists of customer relationships of approximately $ 205.4 million and network location intangibles of approximately $ 55.5 million .",
+      "the customer relationships and network location intangibles are being amortized on a straight-line basis over a period of 20 years .",
+      "( 2 ) goodwill is expected to be deductible for income tax purposes .",
+      "the goodwill was allocated to the domestic rental and management segment .",
+      "the allocation of the purchase price will be finalized upon completion of analyses of the fair value of the assets acquired and liabilities assumed .",
+      "south africa acquisition 2014on november 4 , 2010 , the company entered into a definitive agreement with cell c ( pty ) limited to purchase up to approximately 1400 existing towers , and up to 1800 additional towers that either are under construction or will be constructed , for an aggregate purchase price of up to approximately $ 430 million .",
+      "the company anticipates closing the purchase of up to 1400 existing towers during 2011 , subject to customary closing conditions .",
+      "other transactions coltel transaction 2014on september 3 , 2010 , the company entered into a definitive agreement to purchase the exclusive use rights for towers in colombia from colombia telecomunicaciones s.a .",
+      "e.s.p .",
+      "( 201ccoltel 201d ) until 2023 , when ownership of the towers will transfer to the company at no additional cost .",
+      "pursuant to that agreement , the company completed the purchase of exclusive use rights for 508 towers for an aggregate purchase price of $ 86.8 million during the year ended december 31 , 2010 .",
+      "the company expects to complete the purchase of the exclusive use rights for an additional 180 towers by the end of 2011 , subject to customary closing conditions .",
+      "the transaction has been accounted for as a capital lease , with the aggregated purchase price being allocated to property and equipment and non-current assets .",
+      "joint venture with mtn group 2014on december 6 , 2010 , the company entered into a definitive agreement with mtn group limited ( 201cmtn group 201d ) to establish a joint venture in ghana ( 201ctowerco ghana 201d ) .",
+      "towerco ghana , which will be managed by the company , will be owned by a holding company of which a wholly owned american tower subsidiary will hold a 51% ( 51 % ) share and a wholly owned mtn group subsidiary ( 201cmtn ghana 201d ) will hold a 49% ( 49 % ) share .",
+      "the transaction involves the sale of up to 1876 of mtn ghana 2019s existing sites to ."
+    ],
+    "table": [
+      [
+        "",
+        "purchase price allocation"
+      ],
+      [
+        "non-current assets",
+        "$ 442"
+      ],
+      [
+        "property and equipment",
+        "64564"
+      ],
+      [
+        "intangible assets ( 1 )",
+        "260898"
+      ],
+      [
+        "current liabilities",
+        "-360 ( 360 )"
+      ],
+      [
+        "long-term liabilities",
+        "-7802 ( 7802 )"
+      ],
+      [
+        "fair value of net assets acquired",
+        "$ 317742"
+      ],
+      [
+        "goodwill ( 2 )",
+        "16131"
+      ]
+    ],
+    "questions": [
+      "what was the expense related to customer relationships, in millions?",
+      "and what was it for network location intangibles, also in millions?",
+      "what, then, is the combined total of both of those expenses, in millions?",
+      "considering the period over which this total of expenses was being amortized, what is, then, in millions, its annual average?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the total current liabilities for 2013?",
+      "answer": 0.4715,
+      "answer_raw": "0.4715",
+      "program": "subtract(1662.5, 1129.8), divide(#0, 1129.8)"
+    }
+  ]
+}

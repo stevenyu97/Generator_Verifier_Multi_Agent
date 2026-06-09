@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2010 , what was the percent of the maturities of the aggregate carrying value of long-term debt due in 2012",
+      "answer": 0.11202,
+      "answer_raw": "0.11202",
+      "program": "divide(625884, 5587388)"
+    }
+  ]
+}

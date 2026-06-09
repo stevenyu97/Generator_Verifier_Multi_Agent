@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "during fiscal 2007 , was the net cash used in financing activities included the repurchase of our common stock greater than cash for payment of dividends?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(98413, 21685)"
+    }
+  ]
+}

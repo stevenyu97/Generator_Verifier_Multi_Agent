@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of 2009 capital leases are current liabilities?",
+      "answer": 0.17868,
+      "answer_raw": "0.17868",
+      "program": "divide(290, 1623)"
+    }
+  ]
+}

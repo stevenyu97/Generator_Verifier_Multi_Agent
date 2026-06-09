@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net revenue in 2002, in millions?",
+      "answer": 1130.7,
+      "answer_raw": "1130.7",
+      "program": "1130.7"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2003, also in millions?",
+      "answer": 1110.1,
+      "answer_raw": "1110.1",
+      "program": "1110.1"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change in net revenue over the year?",
+      "answer": 20.6,
+      "answer_raw": "20.6",
+      "program": "subtract(1130.7, 1110.1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was the increase in fuel cost recovery revenues in that same period?",
+      "answer": 440.2,
+      "answer_raw": "440.2",
+      "program": "440.2"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "how much, then, does this increase represent in relation to the that change in net revenue, in percentage?",
+      "answer": 21.36893,
+      "answer_raw": "21.36893",
+      "program": "subtract(1130.7, 1110.1), divide(440.2, #0)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the rental expense for operating leases in 2011?",
+      "answer": 249.0,
+      "answer_raw": "249.0",
+      "program": "249"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was it in 2010?",
+      "answer": 233.0,
+      "answer_raw": "233.0",
+      "program": "233"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change in value?",
+      "answer": 16.0,
+      "answer_raw": "16.0",
+      "program": "subtract(249, 233)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the percent change?",
+      "answer": 0.06867,
+      "answer_raw": "0.06867",
+      "program": "subtract(249, 233), divide(#0, 233)"
+    }
+  ]
+}

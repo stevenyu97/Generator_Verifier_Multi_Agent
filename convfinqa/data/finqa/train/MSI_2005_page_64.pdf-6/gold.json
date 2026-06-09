@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the rental expense , net of sublease income in 2005 compared to 2004",
+      "answer": 1.17051,
+      "answer_raw": "1.17051",
+      "program": "divide(254, 217)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the other commercial membership , what is the percentage of fully insured plans among the total commercial medical plans?",
+      "answer": 0.64857,
+      "answer_raw": "0.64857",
+      "program": "divide(1815800, 2799700)"
+    }
+  ]
+}

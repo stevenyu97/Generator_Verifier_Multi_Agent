@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 31 , 2005 what was the percent of the total commitment applicable to the standby letters of credit",
+      "answer": 0.8578,
+      "answer_raw": "0.8578",
+      "program": "divide(2630, 3066)"
+    }
+  ]
+}

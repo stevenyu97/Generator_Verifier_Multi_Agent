@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total significant contractual obligations and commitments as of december 31 , 2007 are due in 2009?",
+      "answer": 0.0927,
+      "answer_raw": "0.0927",
+      "program": "divide(615875, 6643762)"
+    }
+  ]
+}

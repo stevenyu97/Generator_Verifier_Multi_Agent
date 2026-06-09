@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the loss from foreign currency translation in 2017?",
+      "answer": 96.1,
+      "answer_raw": "96.1",
+      "program": "96.1"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was it in 2016?",
+      "answer": 139.6,
+      "answer_raw": "139.6",
+      "program": "139.6"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum for 2016 and 2017?",
+      "answer": 235.7,
+      "answer_raw": "235.7",
+      "program": "add(96.1, 139.6)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total sum including loss from 2015?",
+      "answer": 296.8,
+      "answer_raw": "296.8",
+      "program": "add(96.1, 139.6), add(#0, 61.1)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total sum divided by 3?",
+      "answer": 98.93333,
+      "answer_raw": "98.93333",
+      "program": "add(96.1, 139.6), add(#0, 61.1), divide(#1, const_3)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the revised allocation of net assets acquired is goodwill?",
+      "answer": 0.57195,
+      "answer_raw": "0.57195",
+      "program": "divide(156.6, 273.8)"
+    }
+  ]
+}

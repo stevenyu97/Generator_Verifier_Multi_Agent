@@ -1,0 +1,88 @@
+{
+  "input": {
+    "id": "RCL/2011/page_16.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "part i berths at the end of 2011 .",
+      "there are approximately 10 ships with an estimated 34000 berths that are expected to be placed in service in the north american cruise market between 2012 and 2016 .",
+      "europe in europe , cruising represents a smaller but growing sector of the vacation industry .",
+      "it has experienced a compound annual growth rate in cruise guests of approximately 9.6% ( 9.6 % ) from 2007 to 2011 and we believe this market has significant continued growth poten- tial .",
+      "we estimate that europe was served by 104 ships with approximately 100000 berths at the beginning of 2007 and by 121 ships with approximately 155000 berths at the end of 2011 .",
+      "there are approximately 10 ships with an estimated 28000 berths that are expected to be placed in service in the european cruise market between 2012 and 2016 .",
+      "the following table details the growth in the global , north american and european cruise markets in terms of cruise guests and estimated weighted-average berths over the past five years : global cruise guests ( 1 ) weighted-average supply of berths marketed globally ( 1 ) north american cruise guests ( 2 ) weighted-average supply of berths marketed in north america ( 1 ) european cruise guests ( 3 ) weighted-average supply of berths marketed in europe ( 1 ) ."
+    ],
+    "post_text": [
+      "( 1 ) source : our estimates of the number of global cruise guests , and the weighted-average supply of berths marketed globally , in north america and europe are based on a combination of data that we obtain from various publicly available cruise industry trade information sources including seatrade insider and cruise line international association .",
+      "in addition , our estimates incorporate our own statistical analysis utilizing the same publicly available cruise industry data as a base .",
+      "( 2 ) source : cruise line international association based on cruise guests carried for at least two consecutive nights for years 2007 through 2010 .",
+      "year 2011 amounts represent our estimates ( see number 1 above ) .",
+      "( 3 ) source : european cruise council for years 2007 through 2010 .",
+      "year 2011 amounts represent our estimates ( see number 1 above ) .",
+      "other markets in addition to expected industry growth in north america and europe as discussed above , we expect the asia/pacific region to demonstrate an even higher growth rate in the near term , although it will continue to represent a relatively small sector compared to north america and europe .",
+      "we compete with a number of cruise lines ; however , our principal competitors are carnival corporation & plc , which owns , among others , aida cruises , carnival cruise lines , costa cruises , cunard line , holland america line , iberocruceros , p&o cruises and princess cruises ; disney cruise line ; msc cruises ; norwegian cruise line and oceania cruises .",
+      "cruise lines compete with other vacation alternatives such as land-based resort hotels and sightseeing destinations for consum- ers 2019 leisure time .",
+      "demand for such activities is influ- enced by political and general economic conditions .",
+      "companies within the vacation market are dependent on consumer discretionary spending .",
+      "operating strategies our principal operating strategies are to : and employees and protect the environment in which our vessels and organization operate , to better serve our global guest base and grow our business , order to enhance our revenues while continuing to expand and diversify our guest mix through interna- tional guest sourcing , and ensure adequate cash and liquidity , with the overall goal of maximizing our return on invested capital and long-term shareholder value , our brands throughout the world , revitalization of existing ships and the transfer of key innovations across each brand , while expanding our fleet with the new state-of-the-art cruise ships recently delivered and on order , by deploying them into those markets and itineraries that provide opportunities to optimize returns , while continuing our focus on existing key markets , support ongoing operations and initiatives , and the principal industry distribution channel , while enhancing our consumer outreach programs. ."
+    ],
+    "table": [
+      [
+        "year",
+        "global cruiseguests ( 1 )",
+        "weighted-averagesupplyofberthsmarketedglobally ( 1 )",
+        "northamericancruiseguests ( 2 )",
+        "weighted-average supply ofberths marketedin northamerica ( 1 )",
+        "europeancruiseguests",
+        "weighted-averagesupply ofberthsmarketed ineurope ( 1 )"
+      ],
+      [
+        "2007",
+        "16586000",
+        "327000",
+        "10247000",
+        "212000",
+        "4080000",
+        "105000"
+      ],
+      [
+        "2008",
+        "17184000",
+        "347000",
+        "10093000",
+        "219000",
+        "4500000",
+        "120000"
+      ],
+      [
+        "2009",
+        "17340000",
+        "363000",
+        "10198000",
+        "222000",
+        "5000000",
+        "131000"
+      ],
+      [
+        "2010",
+        "18800000",
+        "391000",
+        "10781000",
+        "232000",
+        "5540000",
+        "143000"
+      ],
+      [
+        "2011",
+        "20227000",
+        "412000",
+        "11625000",
+        "245000",
+        "5894000",
+        "149000"
+      ]
+    ],
+    "questions": [
+      "what is the annual average of berths per ship , from 2012-2016 , that are expected to be placed in service in the north american cruise market?"
+    ]
+  }
+}

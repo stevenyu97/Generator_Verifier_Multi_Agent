@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of tangible book value at december 31 , 2010 is due to cash and cash equivalents and mutual fund investment holdings?",
+      "answer": 0.57692,
+      "answer_raw": "0.57692",
+      "program": "divide(1.5, 2.6)"
+    }
+  ]
+}

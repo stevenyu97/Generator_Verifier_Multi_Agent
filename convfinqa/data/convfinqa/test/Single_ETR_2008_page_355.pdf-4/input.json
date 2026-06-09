@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "Single_ETR/2008/page_355.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "entergy new orleans , inc .",
+      "management's financial discussion and analysis net revenue 2008 compared to 2007 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory charges .",
+      "following is an analysis of the change in net revenue comparing 2008 to 2007 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the volume/weather variance is due to an increase in electricity usage in the service territory in 2008 compared to the same period in 2007 .",
+      "entergy new orleans estimates that approximately 141000 electric customers and 93000 gas customers have returned since hurricane katrina and are taking service as of december 31 , 2008 , compared to approximately 132000 electric customers and 86000 gas customers as of december 31 , 2007 .",
+      "billed retail electricity usage increased a total of 184 gwh compared to the same period in 2007 , an increase of 4% ( 4 % ) .",
+      "the net gas revenue variance is primarily due to an increase in base rates in march and november 2007 .",
+      "refer to note 2 to the financial statements for a discussion of the base rate increase .",
+      "the rider revenue variance is due primarily to higher total revenue and a storm reserve rider effective march 2007 as a result of the city council's approval of a settlement agreement in october 2006 .",
+      "the approved storm reserve has been set to collect $ 75 million over a ten-year period through the rider and the funds will be held in a restricted escrow account .",
+      "the settlement agreement is discussed in note 2 to the financial statements .",
+      "the base revenue variance is primarily due to a base rate recovery credit , effective january 2008 .",
+      "the base rate credit is discussed in note 2 to the financial statements .",
+      "gross operating revenues and fuel and purchased power expenses gross operating revenues increased primarily due to : an increase of $ 58.9 million in gross wholesale revenue due to increased sales to affiliated customers and an increase in the average price of energy available for resale sales ; an increase of $ 47.7 million in electric fuel cost recovery revenues due to higher fuel rates and increased electricity usage ; and an increase of $ 22 million in gross gas revenues due to higher fuel recovery revenues and increases in gas base rates in march 2007 and november 2007 .",
+      "fuel and purchased power increased primarily due to increases in the average market prices of natural gas and purchased power in addition to an increase in demand. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2007 net revenue",
+        "$ 231.0"
+      ],
+      [
+        "volume/weather",
+        "15.5"
+      ],
+      [
+        "net gas revenue",
+        "6.6"
+      ],
+      [
+        "rider revenue",
+        "3.9"
+      ],
+      [
+        "base revenue",
+        "-11.3 ( 11.3 )"
+      ],
+      [
+        "other",
+        "7.0"
+      ],
+      [
+        "2008 net revenue",
+        "$ 252.7"
+      ]
+    ],
+    "questions": [
+      "what was the number of gas customers in 2008?",
+      "and what was it in 2007?",
+      "what was, then, the change in that number over the year?",
+      "and how much does this change represent in relation to the 2007 number of customers, in percentage?"
+    ]
+  }
+}

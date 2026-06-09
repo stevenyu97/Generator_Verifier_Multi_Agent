@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "Single_HUM/2004/page_78.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "humana inc .",
+      "notes to consolidated financial statements 2014 ( continued ) in any spe transactions .",
+      "the adoption of fin 46 or fin 46-r did not have a material impact on our financial position , results of operations , or cash flows .",
+      "in december 2004 , the fasb issued statement no .",
+      "123r , share-based payment , or statement 123r , which requires companies to expense the fair value of employee stock options and other forms of stock-based compensation .",
+      "this requirement represents a significant change because fixed-based stock option awards , a predominate form of stock compensation for us , were not recognized as compensation expense under apb 25 .",
+      "statement 123r requires the cost of the award , as determined on the date of grant at fair value , be recognized over the period during which an employee is required to provide service in exchange for the award ( usually the vesting period ) .",
+      "the grant-date fair value of the award will be estimated using option-pricing models .",
+      "we are required to adopt statement 123r no later than july 1 , 2005 under one of three transition methods , including a prospective , retrospective and combination approach .",
+      "we previously disclosed on page 67 the effect of expensing stock options under a fair value approach using the black-scholes pricing model for 2004 , 2003 and 2002 .",
+      "we currently are evaluating all of the provisions of statement 123r and the expected effect on us including , among other items , reviewing compensation strategies related to stock-based awards , selecting an option pricing model and determining the transition method .",
+      "in march 2004 , the fasb issued eitf issue no .",
+      "03-1 , or eitf 03-1 , the meaning of other-than- temporary impairment and its application to certain investments .",
+      "eitf 03-1 includes new guidance for evaluating and recording impairment losses on certain debt and equity investments when the fair value of the investment security is less than its carrying value .",
+      "in september 2004 , the fasb delayed the previously scheduled third quarter 2004 effective date until the issuance of additional implementation guidance , expected in 2005 .",
+      "upon issuance of a final standard , we will evaluate the impact on our consolidated financial position and results of operations .",
+      "3 .",
+      "acquisitions on february 16 , 2005 , we acquired careplus health plans of florida , or careplus , as well as its affiliated 10 medical centers and pharmacy company .",
+      "careplus provides medicare advantage hmo plans and benefits to medicare eligible members in miami-dade , broward and palm beach counties .",
+      "this acquisition enhances our medicare market position in south florida .",
+      "we paid approximately $ 450 million in cash including estimated transaction costs , subject to a balance sheet settlement process with a nine month claims run-out period .",
+      "we currently are in the process of allocating the purchase price to the net tangible and intangible assets .",
+      "on april 1 , 2004 , we acquired ochsner health plan , or ochsner , from the ochsner clinic foundation .",
+      "ochsner is a louisiana health benefits company offering network-based managed care plans to employer-groups and medicare eligible members .",
+      "this acquisition enabled us to enter a new market with significant market share which should facilitate new sales opportunities in this and surrounding markets , including houston , texas .",
+      "we paid $ 157.1 million in cash , including transaction costs .",
+      "the fair value of the tangible assets ( liabilities ) as of the acquisition date are as follows: ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "( in thousands )"
+      ],
+      [
+        "cash and cash equivalents",
+        "$ 15270"
+      ],
+      [
+        "investment securities",
+        "84527"
+      ],
+      [
+        "premiums receivable and other current assets",
+        "20616"
+      ],
+      [
+        "property and equipment and other assets",
+        "6847"
+      ],
+      [
+        "medical and other expenses payable",
+        "-71063 ( 71063 )"
+      ],
+      [
+        "other current liabilities",
+        "-21604 ( 21604 )"
+      ],
+      [
+        "other liabilities",
+        "-82 ( 82 )"
+      ],
+      [
+        "net tangible assets acquired",
+        "$ 34511"
+      ]
+    ],
+    "questions": [
+      "what was the medical and other expenses payable?",
+      "and the other current liabilities ?",
+      "combined, what is the value of these two liabilities?",
+      "and the value of other liabilities?",
+      "now combined with the other two values?",
+      "so what was the percentage of other current liabilities to total liabilties?"
+    ]
+  }
+}

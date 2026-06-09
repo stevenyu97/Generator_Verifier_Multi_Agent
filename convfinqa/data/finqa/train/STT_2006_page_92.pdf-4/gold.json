@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent did indemnified securities financing increase between 2005 and 2006?",
+      "answer": 0.73684,
+      "answer_raw": "0.73684",
+      "program": "divide(372863, 506032)"
+    }
+  ]
+}

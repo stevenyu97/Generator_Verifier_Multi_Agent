@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the number of shares issued to directors in 2001?",
+      "answer": 4800.0,
+      "answer_raw": "4800.0",
+      "program": "4800"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the number in 2002?",
+      "answer": 3500.0,
+      "answer_raw": "3500.0",
+      "program": "3500"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum number of shares?",
+      "answer": 8300.0,
+      "answer_raw": "8300.0",
+      "program": "add(4800, 3500)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the number of issued shares in 2003?",
+      "answer": 3500.0,
+      "answer_raw": "3500.0",
+      "program": "3500"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total sum?",
+      "answer": 11800.0,
+      "answer_raw": "11800.0",
+      "program": "add(4800, 3500), add(#0, 3500)"
+    }
+  ]
+}

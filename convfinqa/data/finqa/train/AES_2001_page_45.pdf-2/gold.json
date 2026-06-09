@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "2001 south american revenues were what in millions?",
+      "answer": 1740.0,
+      "answer_raw": "1740.0",
+      "program": "divide(522, 30%)"
+    }
+  ]
+}

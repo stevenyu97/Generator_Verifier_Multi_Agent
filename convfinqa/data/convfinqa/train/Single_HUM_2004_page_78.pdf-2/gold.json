@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the medical and other expenses payable?",
+      "answer": 71063.0,
+      "answer_raw": "71063.0",
+      "program": "71063"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the other current liabilities ?",
+      "answer": 21604.0,
+      "answer_raw": "21604.0",
+      "program": "21604"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combined, what is the value of these two liabilities?",
+      "answer": 92667.0,
+      "answer_raw": "92667.0",
+      "program": "add(71063, 21604)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the value of other liabilities?",
+      "answer": 82.0,
+      "answer_raw": "82.0",
+      "program": "82"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "now combined with the other two values?",
+      "answer": 92749.0,
+      "answer_raw": "92749.0",
+      "program": "add(71063, 21604), add(82, #0)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "so what was the percentage of other current liabilities to total liabilties?",
+      "answer": 0.23293,
+      "answer_raw": "0.23293",
+      "program": "add(71063, 21604), add(82, #0), divide(21604, #1)"
+    }
+  ]
+}

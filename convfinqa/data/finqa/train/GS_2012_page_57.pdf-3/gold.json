@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "between the years ended december 2011 and 2012 , what was the decrease in millions in icbc?",
+      "answer": 1264.0,
+      "answer_raw": "1264.0",
+      "program": "subtract(747, -517)"
+    }
+  ]
+}

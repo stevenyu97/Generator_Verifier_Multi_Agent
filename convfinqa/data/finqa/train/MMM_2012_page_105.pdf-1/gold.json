@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in december 2012 what was the percentage difference in the carrying values of the long-term debt excluding current portion",
+      "answer": 0.09634,
+      "answer_raw": "0.09634",
+      "program": "subtract(4916, 4484), divide(#0, 4484)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in comparison to overall information technology sector , how much percentage would global payments have earned the investor .",
+      "answer": 80.13,
+      "answer_raw": "80.13",
+      "program": "subtract(224.24, const_100), subtract(144.11, const_100), subtract(#0, #1)"
+    }
+  ]
+}

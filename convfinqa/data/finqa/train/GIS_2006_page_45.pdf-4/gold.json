@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in our accrued trade and consumer promotion liability from 2005 to 2006",
+      "answer": 0.19788,
+      "answer_raw": "0.19788",
+      "program": "subtract(339, 283), divide(#0, 283)"
+    }
+  ]
+}

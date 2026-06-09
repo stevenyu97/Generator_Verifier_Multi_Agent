@@ -1,0 +1,81 @@
+{
+  "input": {
+    "id": "AMT/2005/page_31.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "part ii item 5 .",
+      "market for registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities the following table presents reported quarterly high and low per share sale prices of our class a common stock on the new york stock exchange ( nyse ) for the years 2005 and 2004. ."
+    ],
+    "post_text": [
+      "on march 9 , 2006 , the closing price of our class a common stock was $ 29.83 per share as reported on the nyse .",
+      "as of march 9 , 2006 , we had 419677495 outstanding shares of class a common stock and 687 registered holders .",
+      "in february 2004 , all outstanding shares of our class b common stock were converted into shares of our class a common stock on a one-for-one basis pursuant to the occurrence of the 201cdodge conversion event 201d as defined in our charter .",
+      "also in february 2004 , all outstanding shares of class c common stock were converted into shares of class a common stock on a one-for-one basis .",
+      "in august 2005 , we amended and restated our charter to , among other things , eliminate our class b common stock and class c common stock .",
+      "the information under 201csecurities authorized for issuance under equity compensation plans 201d from the definitive proxy statement is hereby incorporated by reference into item 12 of this annual report .",
+      "dividends we have never paid a dividend on any class of our common stock .",
+      "we anticipate that we may retain future earnings , if any , to fund the development and growth of our business .",
+      "the indentures governing our 7.50% ( 7.50 % ) senior notes due 2012 ( 7.50% ( 7.50 % ) notes ) and our 7.125% ( 7.125 % ) senior notes due 2012 ( 7.125% ( 7.125 % ) notes ) may prohibit us from paying dividends to our stockholders unless we satisfy certain financial covenants .",
+      "our credit facilities and the indentures governing the terms of our debt securities contain covenants that may restrict the ability of our subsidiaries from making to us any direct or indirect distribution , dividend or other payment on account of their limited liability company interests , partnership interests , capital stock or other equity interests .",
+      "under our credit facilities , the borrower subsidiaries may pay cash dividends or make other distributions to us in accordance with the applicable credit facility only if no default exists or would be created thereby .",
+      "the indenture governing the terms of the ati 7.25% ( 7.25 % ) senior subordinated notes due 2011 ( ati 7.25% ( 7.25 % ) notes ) prohibit ati and certain of our other subsidiaries that have guaranteed those notes ( sister guarantors ) from paying dividends and making other payments or distributions to us unless certain financial covenants are satisfied .",
+      "the indentures governing the terms of our 7.50% ( 7.50 % ) notes and 7.125% ( 7.125 % ) notes also contain certain restrictive covenants , which prohibit the restricted subsidiaries under these indentures from paying dividends and making other payments or distributions to us unless certain financial covenants are satisfied .",
+      "for more information about the restrictions under our credit facilities and our notes indentures , see note 7 to our consolidated financial statements included in this annual report and the section entitled 201cmanagement 2019s ."
+    ],
+    "table": [
+      [
+        "2005",
+        "high",
+        "low"
+      ],
+      [
+        "quarter ended march 31",
+        "$ 19.28",
+        "$ 17.30"
+      ],
+      [
+        "quarter ended june 30",
+        "21.16",
+        "16.28"
+      ],
+      [
+        "quarter ended september 30",
+        "25.20",
+        "20.70"
+      ],
+      [
+        "quarter ended december 31",
+        "28.33",
+        "22.73"
+      ],
+      [
+        "2004",
+        "high",
+        "low"
+      ],
+      [
+        "quarter ended march 31",
+        "$ 13.12",
+        "$ 9.89"
+      ],
+      [
+        "quarter ended june 30",
+        "16.00",
+        "11.13"
+      ],
+      [
+        "quarter ended september 30",
+        "15.85",
+        "13.10"
+      ],
+      [
+        "quarter ended december 31",
+        "18.75",
+        "15.19"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in the common stock price from the highest price during quarter ended september 31 of 2005 to the highest price during quarter ended september 31 of 2006?"
+    ]
+  }
+}

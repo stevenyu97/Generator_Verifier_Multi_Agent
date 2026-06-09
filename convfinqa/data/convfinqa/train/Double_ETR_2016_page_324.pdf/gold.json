@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the balance of money pool in 2016?",
+      "answer": 51232.0,
+      "answer_raw": "51232.0",
+      "program": "51232"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2015?",
+      "answer": 52742.0,
+      "answer_raw": "52742.0",
+      "program": "52742"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": -1510.0,
+      "answer_raw": "-1510.0",
+      "program": "subtract(51232, 52742)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in the five years after this period, what is the total amount of the credit facilities that are going to expire, in millions?",
+      "answer": 170.0,
+      "answer_raw": "170.0",
+      "program": "add(150, 20)"
+    }
+  ]
+}

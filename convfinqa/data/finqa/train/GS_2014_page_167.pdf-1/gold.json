@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of future minimum rental payments is due after 2019?",
+      "answer": 0.40037,
+      "answer_raw": "0.40037",
+      "program": "divide(870, 2173)"
+    }
+  ]
+}

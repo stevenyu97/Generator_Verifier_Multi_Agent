@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as part of the employee stock purchase plan what was the percent of the decline in issuance under this plan from 2016 to 2017",
+      "answer": -0.1241,
+      "answer_raw": "-0.1241",
+      "program": "subtract(113941, 130085), divide(#0, 130085)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of net rentals in 2013 and 2014?",
+      "answer": 24.2,
+      "answer_raw": "24.2",
+      "program": "add(8.3, 15.9)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the average per year?",
+      "answer": 12.1,
+      "answer_raw": "12.1",
+      "program": "add(8.3, 15.9), divide(#0, const_2)"
+    }
+  ]
+}

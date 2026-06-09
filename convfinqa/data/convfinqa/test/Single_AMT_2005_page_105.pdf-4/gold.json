@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total value of net operating loss carryforwards?",
+      "answer": 4575515.0,
+      "answer_raw": "4575515.0",
+      "program": "add(2157503, 2418012)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much do the net operating loss carryforwards related to state represent in relation to this total?",
+      "answer": 0.52847,
+      "answer_raw": "0.52847",
+      "program": "add(2157503, 2418012), divide(2418012, #0)"
+    }
+  ]
+}

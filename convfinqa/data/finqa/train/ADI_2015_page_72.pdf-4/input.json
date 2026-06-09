@@ -1,0 +1,73 @@
+{
+  "input": {
+    "id": "ADI/2015/page_72.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "analog devices , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) a summary of the company 2019s restricted stock unit award activity as of october 31 , 2015 and changes during the fiscal year then ended is presented below : restricted stock units outstanding ( in thousands ) weighted- average grant- date fair value per share ."
+    ],
+    "post_text": [
+      "as of october 31 , 2015 , there was $ 108.8 million of total unrecognized compensation cost related to unvested share- based awards comprised of stock options and restricted stock units .",
+      "that cost is expected to be recognized over a weighted- average period of 1.3 years .",
+      "the total grant-date fair value of shares that vested during fiscal 2015 , 2014 and 2013 was approximately $ 65.6 million , $ 57.4 million and $ 63.9 million , respectively .",
+      "common stock repurchase program the company 2019s common stock repurchase program has been in place since august 2004 .",
+      "in the aggregate , the board of directors have authorized the company to repurchase $ 5.6 billion of the company 2019s common stock under the program .",
+      "under the program , the company may repurchase outstanding shares of its common stock from time to time in the open market and through privately negotiated transactions .",
+      "unless terminated earlier by resolution of the company 2019s board of directors , the repurchase program will expire when the company has repurchased all shares authorized under the program .",
+      "as of october 31 , 2015 , the company had repurchased a total of approximately 140.7 million shares of its common stock for approximately $ 5.0 billion under this program .",
+      "an additional $ 544.5 million remains available for repurchase of shares under the current authorized program .",
+      "the repurchased shares are held as authorized but unissued shares of common stock .",
+      "the company also , from time to time , repurchases shares in settlement of employee minimum tax withholding obligations due upon the vesting of restricted stock units or the exercise of stock options .",
+      "the withholding amount is based on the employees minimum statutory withholding requirement .",
+      "any future common stock repurchases will be dependent upon several factors , including the company's financial performance , outlook , liquidity and the amount of cash the company has available in the united states .",
+      "preferred stock the company has 471934 authorized shares of $ 1.00 par value preferred stock , none of which is issued or outstanding .",
+      "the board of directors is authorized to fix designations , relative rights , preferences and limitations on the preferred stock at the time of issuance .",
+      "4 .",
+      "industry , segment and geographic information the company operates and tracks its results in one reportable segment based on the aggregation of six operating segments .",
+      "the company designs , develops , manufactures and markets a broad range of integrated circuits ( ics ) .",
+      "the chief executive officer has been identified as the company's chief operating decision maker .",
+      "the company has determined that all of the company's operating segments share the following similar economic characteristics , and therefore meet the criteria established for operating segments to be aggregated into one reportable segment , namely : 2022 the primary source of revenue for each operating segment is the sale of integrated circuits .",
+      "2022 the integrated circuits sold by each of the company's operating segments are manufactured using similar semiconductor manufacturing processes and raw materials in either the company 2019s own production facilities or by third-party wafer fabricators using proprietary processes .",
+      "2022 the company sells its products to tens of thousands of customers worldwide .",
+      "many of these customers use products spanning all operating segments in a wide range of applications .",
+      "2022 the integrated circuits marketed by each of the company's operating segments are sold globally through a direct sales force , third-party distributors , independent sales representatives and via our website to the same types of customers .",
+      "all of the company's operating segments share a similar long-term financial model as they have similar economic characteristics .",
+      "the causes for variation in operating and financial performance are the same among the company's operating segments and include factors such as ( i ) life cycle and price and cost fluctuations , ( ii ) number of competitors , ( iii ) product ."
+    ],
+    "table": [
+      [
+        "",
+        "restrictedstock unitsoutstanding ( in thousands )",
+        "weighted-average grant-date fair valueper share"
+      ],
+      [
+        "restricted stock units outstanding at november 1 2014",
+        "3188",
+        "$ 43.46"
+      ],
+      [
+        "units granted",
+        "818",
+        "$ 52.25"
+      ],
+      [
+        "restrictions lapsed",
+        "-1151 ( 1151 )",
+        "$ 39.72"
+      ],
+      [
+        "forfeited",
+        "-157 ( 157 )",
+        "$ 45.80"
+      ],
+      [
+        "restricted stock units outstanding at october 31 2015",
+        "2698",
+        "$ 47.59"
+      ]
+    ],
+    "questions": [
+      "what percent of the restricted stock was lost due to restrictions lapsed in the 2014 period?"
+    ]
+  }
+}

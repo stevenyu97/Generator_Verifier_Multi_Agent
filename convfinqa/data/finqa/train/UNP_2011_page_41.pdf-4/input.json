@@ -1,0 +1,104 @@
+{
+  "input": {
+    "id": "UNP/2011/page_41.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "amount of commitment expiration per period other commercial commitments after millions total 2012 2013 2014 2015 2016 2016 ."
+    ],
+    "post_text": [
+      "[a] none of the credit facility was used as of december 31 , 2011 .",
+      "[b] $ 100 million of the receivables securitization facility was utilized at december 31 , 2011 , which is accounted for as debt .",
+      "the full program matures in august 2012 .",
+      "[c] includes guaranteed obligations related to our headquarters building , equipment financings , and affiliated operations .",
+      "[d] none of the letters of credit were drawn upon as of december 31 , 2011 .",
+      "off-balance sheet arrangements guarantees 2013 at december 31 , 2011 , we were contingently liable for $ 325 million in guarantees .",
+      "we have recorded a liability of $ 3 million for the fair value of these obligations as of december 31 , 2011 and 2010 .",
+      "we entered into these contingent guarantees in the normal course of business , and they include guaranteed obligations related to our headquarters building , equipment financings , and affiliated operations .",
+      "the final guarantee expires in 2022 .",
+      "we are not aware of any existing event of default that would require us to satisfy these guarantees .",
+      "we do not expect that these guarantees will have a material adverse effect on our consolidated financial condition , results of operations , or liquidity .",
+      "other matters labor agreements 2013 in january 2010 , the nation 2019s largest freight railroads began the current round of negotiations with the labor unions .",
+      "generally , contract negotiations with the various unions take place over an extended period of time .",
+      "this round of negotiations was no exception .",
+      "in september 2011 , the rail industry reached agreements with the united transportation union .",
+      "on november 5 , 2011 , a presidential emergency board ( peb ) appointed by president obama issued recommendations to resolve the disputes between the u.s .",
+      "railroads and 11 unions that had not yet reached agreements .",
+      "since then , ten unions reached agreements with the railroads , all of them generally patterned on the recommendations of the peb , and the unions subsequently ratified these agreements .",
+      "the railroad industry reached a tentative agreement with the brotherhood of maintenance of way employees ( bmwe ) on february 2 , 2012 , eliminating the immediate threat of a national rail strike .",
+      "the bmwe now will commence ratification of this tentative agreement by its members .",
+      "inflation 2013 long periods of inflation significantly increase asset replacement costs for capital-intensive companies .",
+      "as a result , assuming that we replace all operating assets at current price levels , depreciation charges ( on an inflation-adjusted basis ) would be substantially greater than historically reported amounts .",
+      "derivative financial instruments 2013 we may use derivative financial instruments in limited instances to assist in managing our overall exposure to fluctuations in interest rates and fuel prices .",
+      "we are not a party to leveraged derivatives and , by policy , do not use derivative financial instruments for speculative purposes .",
+      "derivative financial instruments qualifying for hedge accounting must maintain a specified level of effectiveness between the hedging instrument and the item being hedged , both at inception and throughout the hedged period .",
+      "we formally document the nature and relationships between the hedging instruments and hedged items at inception , as well as our risk-management objectives , strategies for undertaking the various hedge transactions , and method of assessing hedge effectiveness .",
+      "changes in the fair market value of derivative financial instruments that do not qualify for hedge accounting are charged to earnings .",
+      "we may use swaps , collars , futures , and/or forward contracts to mitigate the risk of adverse movements in interest rates and fuel prices ; however , the use of these derivative financial instruments may limit future benefits from favorable price movements. ."
+    ],
+    "table": [
+      [
+        "other commercial commitmentsmillions",
+        "total",
+        "amount of commitment expiration per period 2012",
+        "amount of commitment expiration per period 2013",
+        "amount of commitment expiration per period 2014",
+        "amount of commitment expiration per period 2015",
+        "amount of commitment expiration per period 2016",
+        "amount of commitment expiration per period after 2016"
+      ],
+      [
+        "credit facilities [a]",
+        "$ 1800",
+        "$ -",
+        "$ -",
+        "$ -",
+        "$ 1800",
+        "$ -",
+        "$ -"
+      ],
+      [
+        "receivables securitization facility [b]",
+        "600",
+        "600",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "guarantees [c]",
+        "325",
+        "18",
+        "8",
+        "214",
+        "12",
+        "13",
+        "60"
+      ],
+      [
+        "standby letters of credit [d]",
+        "24",
+        "24",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "total commercialcommitments",
+        "$ 2749",
+        "$ 642",
+        "$ 8",
+        "$ 214",
+        "$ 1812",
+        "$ 13",
+        "$ 60"
+      ]
+    ],
+    "questions": [
+      "what percent of total commercial commitments are credit facilities?"
+    ]
+  }
+}

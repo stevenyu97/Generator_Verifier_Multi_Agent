@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in value of rental expense for operating leases from 2007 to 2008?",
+      "answer": 22.4,
+      "answer_raw": "22.4",
+      "program": "subtract(49.0, 26.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that difference divided by the 2007 value?",
+      "answer": 0.84211,
+      "answer_raw": "0.84211",
+      "program": "subtract(49.0, 26.6), divide(#0, 26.6)"
+    }
+  ]
+}

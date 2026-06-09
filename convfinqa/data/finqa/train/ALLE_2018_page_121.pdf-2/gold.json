@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the years 2017-2018 , what is the decrease observed in the weighted-average number of diluted shares?",
+      "answer": -0.3125,
+      "answer_raw": "-0.3125",
+      "program": "subtract(95.7, 96.0), divide(#0, 96.0), multiply(#1, const_100)"
+    }
+  ]
+}

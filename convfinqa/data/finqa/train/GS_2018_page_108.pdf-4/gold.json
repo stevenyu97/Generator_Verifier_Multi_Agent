@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the debt-to-equity ratio in 2018?",
+      "answer": 0.98284,
+      "answer_raw": "0.98284",
+      "program": "divide(1890, 1923)"
+    }
+  ]
+}

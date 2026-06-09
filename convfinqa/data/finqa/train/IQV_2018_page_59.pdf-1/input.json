@@ -1,0 +1,103 @@
+{
+  "input": {
+    "id": "IQV/2018/page_59.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "contingencies we are exposed to certain known contingencies that are material to our investors .",
+      "the facts and circumstances surrounding these contingencies and a discussion of their effect on us are in note 12 to our audited consolidated financial statements included elsewhere in this annual report on form 10-k .",
+      "these contingencies may have a material effect on our liquidity , capital resources or results of operations .",
+      "in addition , even where our reserves are adequate , the incurrence of any of these liabilities may have a material effect on our liquidity and the amount of cash available to us for other purposes .",
+      "we believe that we have made appropriate arrangements in respect of the future effect on us of these known contingencies .",
+      "we also believe that the amount of cash available to us from our operations , together with cash from financing , will be sufficient for us to pay any known contingencies as they become due without materially affecting our ability to conduct our operations and invest in the growth of our business .",
+      "off-balance sheet arrangements we do not have any off-balance sheet arrangements except for operating leases entered into in the normal course of business .",
+      "contractual obligations and commitments below is a summary of our future payment commitments by year under contractual obligations as of december 31 , 2018: ."
+    ],
+    "post_text": [
+      "( 1 ) interest payments on our debt are based on the interest rates in effect on december 31 , 2018 .",
+      "( 2 ) purchase obligations are defined as agreements to purchase goods or services that are enforceable and legally binding and that specify all significant terms , including fixed or minimum quantities to be purchased , fixed , minimum or variable pricing provisions and the approximate timing of the transactions .",
+      "( 3 ) we are currently committed to invest $ 120 million in private equity funds .",
+      "as of december 31 , 2018 , we have funded approximately $ 78 million of these commitments and we have approximately $ 42 million remaining to be funded which has not been included in the above table as we are unable to predict when these commitments will be paid .",
+      "( 4 ) amounts represent expected future benefit payments for our pension and postretirement benefit plans , as well as expected contributions for 2019 for our funded pension benefit plans .",
+      "we made cash contributions totaling approximately $ 31 million to our defined benefit plans in 2018 , and we estimate that we will make contributions totaling approximately $ 25 million to our defined benefit plans in 2019 .",
+      "due to the potential impact of future plan investment performance , changes in interest rates , changes in other economic and demographic assumptions and changes in legislation in foreign jurisdictions , we are not able to reasonably estimate the timing and amount of contributions that may be required to fund our defined benefit plans for periods beyond 2019 .",
+      "( 5 ) as of december 31 , 2018 , our liability related to uncertain income tax positions was approximately $ 106 million , $ 89 million of which has not been included in the above table as we are unable to predict when these liabilities will be paid due to the uncertainties in the timing of the settlement of the income tax positions. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2019",
+        "2020 - 2021",
+        "2022 - 2023",
+        "thereafter",
+        "total"
+      ],
+      [
+        "long-term debt including interest ( 1 )",
+        "$ 508",
+        "$ 1287",
+        "$ 3257",
+        "$ 8167",
+        "$ 13219"
+      ],
+      [
+        "operating leases",
+        "167",
+        "244",
+        "159",
+        "119",
+        "689"
+      ],
+      [
+        "data acquisition",
+        "289",
+        "467",
+        "135",
+        "4",
+        "895"
+      ],
+      [
+        "purchase obligations ( 2 )",
+        "17",
+        "22",
+        "15",
+        "8",
+        "62"
+      ],
+      [
+        "commitments to unconsolidated affiliates ( 3 )",
+        "2014",
+        "2014",
+        "2014",
+        "2014",
+        "2014"
+      ],
+      [
+        "benefit obligations ( 4 )",
+        "25",
+        "27",
+        "29",
+        "81",
+        "162"
+      ],
+      [
+        "uncertain income tax positions ( 5 )",
+        "17",
+        "2014",
+        "2014",
+        "2014",
+        "17"
+      ],
+      [
+        "total",
+        "$ 1023",
+        "$ 2047",
+        "$ 3595",
+        "$ 8379",
+        "$ 15044"
+      ]
+    ],
+    "questions": [
+      "based on the summary of total future payment commitments of long-term debt including interest due that was the percent of the in 2019"
+    ]
+  }
+}

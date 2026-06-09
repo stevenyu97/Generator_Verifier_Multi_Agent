@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the firm 2019s commercial lending commitments primarily extended to investment-grade corporate borrowers , what was the change in billions as of december 2018 and december 2017?",
+      "answer": 8.01,
+      "answer_raw": "8.01",
+      "program": "subtract(93.99, 85.98)"
+    }
+  ]
+}

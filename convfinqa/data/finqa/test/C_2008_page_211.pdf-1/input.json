@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "C/2008/page_211.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the notional amount of these unfunded letters of credit was $ 1.4 billion as of december 31 , 2008 and december 31 , 2007 .",
+      "the amount funded was insignificant with no amounts 90 days or more past due or on a non-accrual status at december 31 , 2008 and december 31 , 2007 .",
+      "these items have been classified appropriately in trading account assets or trading account liabilities on the consolidated balance sheet .",
+      "changes in fair value of these items are classified in principal transactions in the company 2019s consolidated statement of income .",
+      "other items for which the fair-value option was selected in accordance with sfas 159 the company has elected the fair-value option for the following eligible items , which did not affect opening retained earnings : 2022 certain credit products ; 2022 certain investments in private equity and real estate ventures and certain equity-method investments ; 2022 certain structured liabilities ; 2022 certain non-structured liabilities ; and 2022 certain mortgage loans certain credit products citigroup has elected the fair-value option for certain originated and purchased loans , including certain unfunded loan products , such as guarantees and letters of credit , executed by citigroup 2019s trading businesses .",
+      "none of these credit products is a highly leveraged financing commitment .",
+      "significant groups of transactions include loans and unfunded loan products that are expected to be either sold or securitized in the near term , or transactions where the economic risks are hedged with derivative instruments such as purchased credit default swaps or total return swaps where the company pays the total return on the underlying loans to a third party .",
+      "citigroup has elected the fair-value option to mitigate accounting mismatches in cases where hedge accounting is complex and to achieve operational simplifications .",
+      "fair value was not elected for most lending transactions across the company , including where those management objectives would not be met .",
+      "the following table provides information about certain credit products carried at fair value: ."
+    ],
+    "post_text": [
+      "in millions of dollars trading assets loans trading assets loans carrying amount reported on the consolidated balance sheet $ 16254 $ 2315 $ 26020 $ 3038 aggregate unpaid principal balance in excess of fair value $ 6501 $ 3 $ 899 $ ( 5 ) balance on non-accrual loans or loans more than 90 days past due $ 77 $ 1113 $ 186 $ 1292 aggregate unpaid principal balance in excess of fair value for non-accrual loans or loans more than 90 days past due $ 190 $ ( 4 ) $ 68 $ 2014 in addition to the amounts reported above , $ 72 million and $ 141 million of unfunded loan commitments related to certain credit products selected for fair-value accounting were outstanding as of december 31 , 2008 and december 31 , 2007 , respectively .",
+      "changes in fair value of funded and unfunded credit products are classified in principal transactions in the company 2019s consolidated statement of income .",
+      "related interest revenue is measured based on the contractual interest rates and reported as interest revenue on trading account assets or loans depending on their balance sheet classifications .",
+      "the changes in fair value for the years ended december 31 , 2008 and 2007 due to instrument-specific credit risk totaled to a loss of $ 38 million and $ 188 million , respectively .",
+      "certain investments in private equity and real estate ventures and certain equity method investments citigroup invests in private equity and real estate ventures for the purpose of earning investment returns and for capital appreciation .",
+      "the company has elected the fair-value option for certain of these ventures , because such investments are considered similar to many private equity or hedge fund activities in our investment companies , which are reported at fair value .",
+      "the fair-value option brings consistency in the accounting and evaluation of certain of these investments .",
+      "as required by sfas 159 , all investments ( debt and equity ) in such private equity and real estate entities are accounted for at fair value .",
+      "these investments are classified as investments on citigroup 2019s consolidated balance sheet .",
+      "citigroup also holds various non-strategic investments in leveraged buyout funds and other hedge funds that previously were required to be accounted for under the equity method .",
+      "the company elected fair-value accounting to reduce operational and accounting complexity .",
+      "since the funds account for all of their underlying assets at fair value , the impact of applying the equity method to citigroup 2019s investment in these funds was equivalent to fair-value accounting .",
+      "thus , this fair-value election had no impact on opening retained earnings .",
+      "these investments are classified as other assets on citigroup 2019s consolidated balance sheet .",
+      "changes in the fair values of these investments are classified in other revenue in the company 2019s consolidated statement of income .",
+      "certain structured liabilities the company has elected the fair-value option for certain structured liabilities whose performance is linked to structured interest rates , inflation or currency risks ( 201cstructured liabilities 201d ) .",
+      "the company elected the fair- value option , because these exposures are considered to be trading-related positions and , therefore , are managed on a fair-value basis .",
+      "these positions will continue to be classified as debt , deposits or derivatives ( trading account liabilities ) on the company 2019s consolidated balance sheet according to their legal form .",
+      "for those structured liabilities classified as long-term debt for which the fair-value option has been elected , the aggregate unpaid principal balance exceeds the aggregate fair value of such instruments by $ 277 million as of december 31 , 2008 and $ 7 million as of december 31 , 2007 .",
+      "the change in fair value for these structured liabilities is reported in principal transactions in the company 2019s consolidated statement of income .",
+      "related interest expense is measured based on the contractual interest rates and reported as such in the consolidated income statement .",
+      "certain non-structured liabilities the company has elected the fair-value option for certain non-structured liabilities with fixed and floating interest rates ( 201cnon-structured liabilities 201d ) . ."
+    ],
+    "table": [
+      [
+        "in millions of dollars",
+        "2008 trading assets",
+        "2008 loans",
+        "2008 trading assets",
+        "loans"
+      ],
+      [
+        "carrying amount reported on the consolidated balance sheet",
+        "$ 16254",
+        "$ 2315",
+        "$ 26020",
+        "$ 3038"
+      ],
+      [
+        "aggregate unpaid principal balance in excess of fair value",
+        "$ 6501",
+        "$ 3",
+        "$ 899",
+        "$ -5 ( 5 )"
+      ],
+      [
+        "balance on non-accrual loans or loans more than 90 days past due",
+        "$ 77",
+        "$ 1113",
+        "$ 186",
+        "$ 1292"
+      ],
+      [
+        "aggregate unpaid principal balance in excess of fair value for non-accrual loans or loans more than 90 days pastdue",
+        "$ 190",
+        "$ -4 ( 4 )",
+        "$ 68",
+        "$ 2014"
+      ]
+    ],
+    "questions": [
+      "what was the change in millions of carrying amount reported on the consolidated balance sheet trading assets from 2007 to 2008?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the excess of current cost over lifo cost from 2008 to 2009 .",
+      "answer": 43.9,
+      "answer_raw": "43.9",
+      "program": "subtract(50.0, 6.1)"
+    }
+  ]
+}

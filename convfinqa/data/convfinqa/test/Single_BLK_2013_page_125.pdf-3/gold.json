@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in rent expense and certain office equipment expense under agreements between 2012 and 2013?",
+      "answer": 4.0,
+      "answer_raw": "4.0",
+      "program": "subtract(137, 133)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the specific value for 2013 again?",
+      "answer": 133.0,
+      "answer_raw": "133.0",
+      "program": "133"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the growth rate over this time?",
+      "answer": 0.03008,
+      "answer_raw": "0.03008",
+      "program": "subtract(137, 133), divide(#0, 133)"
+    }
+  ]
+}

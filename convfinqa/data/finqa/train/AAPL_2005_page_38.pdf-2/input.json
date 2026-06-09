@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "AAPL/2005/page_38.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "expansion of the retail segment has required and will continue to require a substantial investment in fixed assets and related infrastructure , operating lease commitments , personnel , and other operating expenses .",
+      "capital expenditures associated with the retail segment were $ 132 million in 2005 , bringing the total capital expenditures since inception of the retail segment to approximately $ 529 million .",
+      "as of september 24 , 2005 , the retail segment had approximately 3673 employees and had outstanding operating lease commitments associated with retail store space and related facilities of approximately $ 606 million .",
+      "the company would incur substantial costs should it choose to terminate its retail segment or close individual stores .",
+      "such costs could adversely affect the company 2019s results of operations and financial condition .",
+      "gross margin gross margin for each of the last three fiscal years are as follows ( in millions , except gross margin percentages ) : september 24 , september 25 , september 27 ."
+    ],
+    "post_text": [
+      "gross margin increased in 2005 to 29.0% ( 29.0 % ) of net sales from 27.3% ( 27.3 % ) of net sales in 2004 .",
+      "the company 2019s gross margin during 2005 increased due to more favorable pricing on certain commodity components including lcd flat-panel displays and dram memory ; an increase in higher margin software sales ; a favorable shift in direct sales related primarily to the company 2019s retail and online stores ; and higher overall revenue that provided for more leverage on fixed production costs .",
+      "these increases to gross margin were partially offset by an increase in lower margin ipod sales .",
+      "the company anticipates that its gross margin and the gross margin of the overall personal computer and consumer electronics industries will remain under pressure in light of price competition , especially for the ipod product line .",
+      "the company expects gross margin percentage to decline in the first quarter of 2006 primarily as a result of a shift in the mix of revenue toward lower margin products such as the ipod and content from the itunes music store .",
+      "the foregoing statements regarding the company 2019s expected gross margin are forward-looking .",
+      "there can be no assurance that current gross margins will be maintained or targeted gross margin levels will be achieved .",
+      "in general , gross margins and margins on individual products , including ipods , will remain under significant downward pressure due to a variety of factors , including continued industry wide global pricing pressures , increased competition , compressed product life cycles , potential increases in the cost and availability of raw material and outside manufacturing services , and potential changes to the company 2019s product mix , including higher unit sales of consumer products with lower average selling prices and lower gross margins .",
+      "in response to these downward pressures , the company expects it will continue to take pricing actions with respect to its products .",
+      "gross margins could also be affected by the company 2019s ability to effectively manage product quality and warranty costs and to stimulate demand for certain of its products .",
+      "due to the company 2019s significant international operations , financial results can be significantly affected in the short-term by fluctuations in exchange rates. ."
+    ],
+    "table": [
+      [
+        "",
+        "september 24 2005",
+        "september 25 2004",
+        "september 27 2003"
+      ],
+      [
+        "net sales",
+        "$ 13931",
+        "$ 8279",
+        "$ 6207"
+      ],
+      [
+        "cost of sales",
+        "9888",
+        "6020",
+        "4499"
+      ],
+      [
+        "gross margin",
+        "$ 4043",
+        "$ 2259",
+        "$ 1708"
+      ],
+      [
+        "gross margin percentage",
+        "29.0% ( 29.0 % )",
+        "27.3% ( 27.3 % )",
+        "27.5% ( 27.5 % )"
+      ]
+    ],
+    "questions": [
+      "what was the largest gross margin in millions dollars over the three year period?"
+    ]
+  }
+}

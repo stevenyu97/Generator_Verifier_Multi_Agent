@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total of dollars brought in by the aerospace end market segment in 2015?",
+      "answer": 3739.4,
+      "answer_raw": "3739.4",
+      "program": "multiply(70%, 5342)"
+    }
+  ]
+}

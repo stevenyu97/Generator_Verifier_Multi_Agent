@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the greatest yearly production of crude oil trunk lines?",
+      "answer": 1451.0,
+      "answer_raw": "1451.0",
+      "program": "table_max(crude oil trunk lines, none)"
+    }
+  ]
+}

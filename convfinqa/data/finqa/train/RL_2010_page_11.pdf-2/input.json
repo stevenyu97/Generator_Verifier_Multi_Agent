@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "RL/2010/page_11.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents worldwide distribution channels the following table presents the number of doors by geographic location , in which ralph lauren-branded products distributed by our wholesale segment were sold to consumers in our primary channels of distribution as of april 3 , 2010 : number of location doors ( a ) ."
+    ],
+    "post_text": [
+      "( a ) in asia-pacific , our products are primarily distributed through concessions-based sales arrangements .",
+      "in addition , american living and chaps-branded products distributed by our wholesale segment were sold domestically through approximately 1700 doors as of april 3 , 2010 .",
+      "we have five key department-store customers that generate significant sales volume .",
+      "for fiscal 2010 , these customers in the aggregate accounted for approximately 45% ( 45 % ) of all wholesale revenues , with macy 2019s , inc .",
+      "representing approximately 18% ( 18 % ) of these revenues .",
+      "our product brands are sold primarily through their own sales forces .",
+      "our wholesale segment maintains its primary showrooms in new york city .",
+      "in addition , we maintain regional showrooms in atlanta , chicago , dallas , milan , paris , london , munich , madrid and stockholm .",
+      "shop-within-shops .",
+      "as a critical element of our distribution to department stores , we and our licensing partners utilize shop- within-shops to enhance brand recognition , to permit more complete merchandising of our lines by the department stores and to differentiate the presentation of products .",
+      "shop-within-shops fixed assets primarily include items such as customized freestanding fixtures , wall cases and components , decorative items and flooring .",
+      "as of april 3 , 2010 , we had approximately 14000 shop-within-shops dedicated to our ralph lauren-branded wholesale products worldwide .",
+      "excluding significantly larger shop-within-shops in key department store locations , the size of our shop-within-shops typically ranges from approximately 300 to 6000 square feet .",
+      "we normally share in the cost of these shop-within-shops with our wholesale customers .",
+      "basic stock replenishment program .",
+      "basic products such as knit shirts , chino pants and oxford cloth shirts can be ordered at any time through our basic stock replenishment programs .",
+      "we generally ship these products within three-to-five days of order receipt .",
+      "our retail segment as of april 3 , 2010 , our retail segment consisted of 179 full-price retail stores and 171 factory stores worldwide , totaling approximately 2.6 million square feet , 281 concessions-based shop-within-shops and two e-commerce websites .",
+      "the extension of our direct-to-consumer reach is a primary long-term strategic goal .",
+      "full-price retail stores our full-price retail stores reinforce the luxury image and distinct sensibility of our brands and feature exclusive lines that are not sold in domestic department stores .",
+      "we opened 3 new full-price stores and closed 3 full-price stores in fiscal 2010 .",
+      "in addition , we assumed 16 full-price stores in connection with the asia-pacific ."
+    ],
+    "table": [
+      [
+        "location",
+        "number of doors ( a )"
+      ],
+      [
+        "united states and canada",
+        "4402"
+      ],
+      [
+        "europe",
+        "4421"
+      ],
+      [
+        "japan",
+        "117"
+      ],
+      [
+        "total",
+        "8940"
+      ]
+    ],
+    "questions": [
+      "what percentage of doors in the wholesale segment as of april 3 , 2010 where in the united states and canada geography?"
+    ]
+  }
+}

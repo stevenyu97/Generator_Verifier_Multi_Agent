@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the reinsurance receivables and premium receivables from 2014 to 2013 in thousands",
+      "answer": -408.0,
+      "answer_raw": "-408.0",
+      "program": "subtract(29497, 29905)"
+    }
+  ]
+}

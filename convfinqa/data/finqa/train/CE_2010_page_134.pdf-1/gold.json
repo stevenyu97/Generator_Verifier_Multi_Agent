@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total shares subject to outstanding awards is under the 2004 stock incentive plan?",
+      "answer": 0.29933,
+      "answer_raw": "0.29933",
+      "program": "add(2530454, 5923147), divide(2530454, #0)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in revenue from 2007 to 2008?",
+      "answer": 21.7,
+      "answer_raw": "21.7",
+      "program": "subtract(252.7, 231.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that divided by the 2007 net revenues?",
+      "answer": 0.09394,
+      "answer_raw": "0.09394",
+      "program": "subtract(252.7, 231.0), divide(#0, 231.0)"
+    }
+  ]
+}

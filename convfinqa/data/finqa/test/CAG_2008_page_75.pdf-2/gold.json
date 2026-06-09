@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total inventories is comprised of finished goods in 2008?",
+      "answer": 0.61046,
+      "answer_raw": "0.61046",
+      "program": "divide(1179.1, 1931.5)"
+    }
+  ]
+}

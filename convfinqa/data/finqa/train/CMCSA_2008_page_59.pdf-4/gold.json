@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of our investment in clearwire compared to other investors",
+      "answer": 0.32812,
+      "answer_raw": "0.32812",
+      "program": "divide(1.05, 3.2)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in non-operating income ( expense ) less net income ( loss ) attributable to nci as adjusted from 2009 to 2010?",
+      "answer": 1.54348,
+      "answer_raw": "1.54348",
+      "program": "add(25, 46), divide(#0, 46)"
+    }
+  ]
+}

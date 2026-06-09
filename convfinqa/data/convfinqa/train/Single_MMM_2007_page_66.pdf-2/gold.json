@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of accrued interest and penalties on a gross basis as of 1/1/07?",
+      "answer": 65.0,
+      "answer_raw": "65.0",
+      "program": "65"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for the period as of 12/31/07?",
+      "answer": 69.0,
+      "answer_raw": "69.0",
+      "program": "69"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combining these two values, what is the total?",
+      "answer": 134.0,
+      "answer_raw": "134.0",
+      "program": "add(65, 69)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the gross utb balance as of 1/107?",
+      "answer": 691.0,
+      "answer_raw": "691.0",
+      "program": "691"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage of interest and penalties in the gross utb balance?",
+      "answer": 0.19392,
+      "answer_raw": "0.19392",
+      "program": "add(65, 69), divide(#0, 691)"
+    }
+  ]
+}

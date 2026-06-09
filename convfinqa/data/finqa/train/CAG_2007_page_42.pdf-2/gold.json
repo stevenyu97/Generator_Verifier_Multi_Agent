@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total gross profit was due to food and ingredients in fiscal 2006?",
+      "answer": 0.19058,
+      "answer_raw": "0.19058",
+      "program": "divide(538, 2823)"
+    }
+  ]
+}

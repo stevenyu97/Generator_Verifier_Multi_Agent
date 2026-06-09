@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of american's total planes carried fewer than 100 pasengers?",
+      "answer": 0.0211,
+      "answer_raw": "0.0211",
+      "program": "divide(20, 948)"
+    }
+  ]
+}

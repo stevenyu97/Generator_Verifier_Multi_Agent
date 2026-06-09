@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "AON/2018/page_41.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "( 1 ) adjusted other income ( expense ) excludes pension settlement charges of $ 37 million , $ 128 million , and $ 220 million , for the years ended 2018 , 2017 , and 2016 , respectively .",
+      "( 2 ) adjusted items are generally taxed at the estimated annual effective tax rate , except for the applicable tax impact associated with estimated restructuring plan expenses , legacy litigation , accelerated tradename amortization , impairment charges and non-cash pension settlement charges , which are adjusted at the related jurisdictional rates .",
+      "in addition , tax expense excludes the tax impacts from the sale of certain assets and liabilities previously classified as held for sale as well as the tax adjustments recorded to finalize the 2017 accounting for the enactment date impact of the tax reform act recorded pursuant torr sab 118 .",
+      "( 3 ) adjusted net income from discontinued operations excludes the gain on sale of discontinued operations of $ 82 million , $ 779 million , and $ 0 million for the years ended 2018 , 2017 , and 2016 , respectively .",
+      "adjusted net income from discontinued operations excludes intangible asset amortization of $ 0 million , $ 11rr million , and $ 120 million for the twelve months ended december 31 , 2018 , 2017 , and 2016 , respectively .",
+      "the effective tax rate was further adjusted for the applicable tax impact associated with the gain on sale and intangible asset amortization , as applicable .",
+      "free cash flow we use free cash flow , defined as cash flow provided by operations minus capital expenditures , as a non-gaap measure of our core operating performance and cash generating capabilities of our business operations .",
+      "this supplemental information related to free cash flow represents a measure not in accordance with u.s .",
+      "gaap and should be viewed in addition to , not instead of , our financial statements .",
+      "the use of this non-gaap measure does not imply or represent the residual cash flow for discretionary expenditures .",
+      "a reconciliation of this non-gaap measure to cash flow provided by operations is as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "impact of foreign currency exchange rate fluctuations we conduct business in more than 120 countries and sovereignties and , because of this , foreign currency exchange rate fluctuations have a significant impact on our business .",
+      "foreign currency exchange rate movements may be significant and may distort true period-to-period comparisons of changes in revenue or pretax income .",
+      "therefore , to give financial statement users meaningful information about our operations , we have provided an illustration of the impact of foreign currency exchange rate fluctuations on our financial results .",
+      "the methodology used to calculate this impact isolates the impact of the change in currencies between periods by translating the prior year 2019s revenue , expenses , and net income using the current year 2019s foreign currency exchange rates .",
+      "translating prior year results at current year foreign currency exchange rates , currency fluctuations had a $ 0.08 favorable impact on net income per diluted share during the year ended december 31 , 2018 .",
+      "currency fluctuations had a $ 0.12 favorable impact on net income per diluted share during the year ended december 31 , 2017 , when 2016 results were translated at 2017 rates .",
+      "currency fluctuations had no impact on net income per diluted share during the year ended december 31 , 2016 , when 2015 results were translated at 2016 rates .",
+      "translating prior year results at current year foreign currency exchange rates , currency fluctuations had a $ 0.09 favorable impact on adjusted net income per diluted share during the year ended december 31 , 2018 .",
+      "currency fluctuations had a $ 0.08 favorable impact on adjusted net income per diluted share during the year ended december 31 , 2017 , when 2016 results were translated at 2017 rates .",
+      "currency fluctuations had a $ 0.04 unfavorable impact on adjusted net income per diluted share during the year ended december 31 , 2016 , when 2015 results were translated at 2016 rates .",
+      "these translations are performed for comparative purposes only and do not impact the accounting policies or practices for amounts included in the financial statements .",
+      "competition and markets authority the u.k . 2019s competition regulator , the competition and markets authority ( the 201ccma 201d ) , conducted a market investigation into the supply and acquisition of investment consulting and fiduciary management services , including those offered by aon and its competitors in the u.k. , to assess whether any feature or combination of features in the target market prevents , restricts , or distorts competition .",
+      "the cma issued a final report on december 12 , 2018 .",
+      "the cma will draft a series of orders that will set out the detailed remedies , expected in first quarter of 2019 , when they will be subject to further public consultation .",
+      "we do not anticipate the remedies to have a significant impact on the company 2019s consolidated financial position or business .",
+      "financial conduct authority the fca is conducting a market study to assess how effectively competition is working in the wholesale insurance broker sector in the u.k .",
+      "in which aon , through its subsidiaries , participates .",
+      "the fca has indicated that the purpose of a market study is to assess the extent to which the market is working well in the interests of customers and to identify features of the market that may impact competition .",
+      "depending on the study 2019s findings , the fca may require remedies in order to correct any features found ."
+    ],
+    "table": [
+      [
+        "years ended december 31",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "cash provided by continuing operating activities",
+        "$ 1686",
+        "$ 669",
+        "$ 1829"
+      ],
+      [
+        "capital expenditures used for continuing operations",
+        "-240 ( 240 )",
+        "-183 ( 183 )",
+        "-156 ( 156 )"
+      ],
+      [
+        "free cash flow provided by continuing operations",
+        "$ 1446",
+        "$ 486",
+        "$ 1673"
+      ]
+    ],
+    "questions": [
+      "what is the decrease observed in the adjusted net income from discontinued operations during 2017 and 2018 , in millions?"
+    ]
+  }
+}

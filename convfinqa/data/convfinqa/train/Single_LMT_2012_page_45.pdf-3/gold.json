@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in net sales for mfc from 2010 to 2011?",
+      "answer": 533.0,
+      "answer_raw": "533.0",
+      "program": "subtract(7463, 6930)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total of net sales for mfc in 2010?",
+      "answer": 6930.0,
+      "answer_raw": "6930.0",
+      "program": "6930"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2010 total?",
+      "answer": 0.07691,
+      "answer_raw": "0.07691",
+      "program": "subtract(7463, 6930), divide(#0, 6930)"
+    }
+  ]
+}

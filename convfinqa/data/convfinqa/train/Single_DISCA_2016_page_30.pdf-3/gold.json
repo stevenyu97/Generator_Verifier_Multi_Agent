@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of the disca in 2016?",
+      "answer": 133.81,
+      "answer_raw": "133.81",
+      "program": "133.81"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the change in its value from 2011 to 2016??",
+      "answer": 33.81,
+      "answer_raw": "33.81",
+      "program": "subtract(133.81, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does this change represent in relation to the original value of 2011?",
+      "answer": 0.3381,
+      "answer_raw": "0.3381",
+      "program": "subtract(133.81, const_100), divide(#0, const_100)"
+    }
+  ]
+}

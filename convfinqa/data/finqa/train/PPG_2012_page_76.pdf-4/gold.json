@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in net sales of the commodity chemicals business that will be reclassified and reported as discontinued operations from 2011 to 2012?",
+      "answer": -0.02355,
+      "answer_raw": "-0.02355",
+      "program": "subtract(1700, 1741), divide(#0, 1741)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total goodwill is comprised of retail brokerage at december 31 2012?",
+      "answer": 0.92638,
+      "answer_raw": "0.92638",
+      "program": "divide(1791.8, 1934.2)"
+    }
+  ]
+}

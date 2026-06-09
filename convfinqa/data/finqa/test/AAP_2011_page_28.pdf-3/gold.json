@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "compared to the lowest stock price , how much did advanced auto parts outperform the overall market?",
+      "answer": 0.71886,
+      "answer_raw": "0.71886",
+      "program": "subtract(88.67, 65.70), divide(#0, 65.70), subtract(201.18, 97.26), divide(#2, 97.26), subtract(#3, #1)"
+    }
+  ]
+}

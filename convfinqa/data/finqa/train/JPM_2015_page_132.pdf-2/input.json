@@ -1,0 +1,112 @@
+{
+  "input": {
+    "id": "JPM/2015/page_132.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis 122 jpmorgan chase & co./2015 annual report wholesale credit portfolio the firm 2019s wholesale businesses are exposed to credit risk through underwriting , lending , market-making , and hedging activities with and for clients and counterparties , as well as through various operating services such as cash management and clearing activities .",
+      "a portion of the loans originated or acquired by the firm 2019s wholesale businesses is generally retained on the balance sheet .",
+      "the firm distributes a significant percentage of the loans it originates into the market as part of its syndicated loan business and to manage portfolio concentrations and credit risk .",
+      "the wholesale credit portfolio , excluding oil & gas , continued to be generally stable throughout 2015 , characterized by low levels of criticized exposure , nonaccrual loans and charge-offs .",
+      "growth in loans retained was driven by increased client activity , notably in commercial real estate .",
+      "discipline in underwriting across all areas of lending continues to remain a key point of focus .",
+      "the wholesale portfolio is actively managed , in part by conducting ongoing , in-depth reviews of client credit quality and transaction structure , inclusive of collateral where applicable ; and of industry , product and client concentrations .",
+      "wholesale credit portfolio december 31 , credit exposure nonperforming ( c ) ."
+    ],
+    "post_text": [
+      "receivables from customers and other ( a ) 13372 28972 2014 2014 total wholesale credit- related assets 434064 438861 1220 899 lending-related commitments 366399 366881 193 103 total wholesale credit exposure $ 800463 $ 805742 $ 1413 $ 1002 credit derivatives used in credit portfolio management activities ( b ) $ ( 20681 ) $ ( 26703 ) $ ( 9 ) $ 2014 liquid securities and other cash collateral held against derivatives ( 16580 ) ( 19604 ) na na ( a ) receivables from customers and other include $ 13.3 billion and $ 28.8 billion of margin loans at december 31 , 2015 and 2014 , respectively , to prime and retail brokerage customers ; these are classified in accrued interest and accounts receivable on the consolidated balance sheets .",
+      "( b ) represents the net notional amount of protection purchased and sold through credit derivatives used to manage both performing and nonperforming wholesale credit exposures ; these derivatives do not qualify for hedge accounting under u.s .",
+      "gaap .",
+      "for additional information , see credit derivatives on page 129 , and note 6 .",
+      "( c ) excludes assets acquired in loan satisfactions. ."
+    ],
+    "table": [
+      [
+        "december 31 , ( in millions )",
+        "december 31 , 2015",
+        "december 31 , 2014",
+        "2015",
+        "2014"
+      ],
+      [
+        "loans retained",
+        "$ 357050",
+        "$ 324502",
+        "$ 988",
+        "$ 599"
+      ],
+      [
+        "loans held-for-sale",
+        "1104",
+        "3801",
+        "3",
+        "4"
+      ],
+      [
+        "loans at fair value",
+        "2861",
+        "2611",
+        "25",
+        "21"
+      ],
+      [
+        "loans 2013 reported",
+        "361015",
+        "330914",
+        "1016",
+        "624"
+      ],
+      [
+        "derivative receivables",
+        "59677",
+        "78975",
+        "204",
+        "275"
+      ],
+      [
+        "receivables from customers and other ( a )",
+        "13372",
+        "28972",
+        "2014",
+        "2014"
+      ],
+      [
+        "total wholesale credit-related assets",
+        "434064",
+        "438861",
+        "1220",
+        "899"
+      ],
+      [
+        "lending-related commitments",
+        "366399",
+        "366881",
+        "193",
+        "103"
+      ],
+      [
+        "total wholesale credit exposure",
+        "$ 800463",
+        "$ 805742",
+        "$ 1413",
+        "$ 1002"
+      ],
+      [
+        "credit derivatives usedin credit portfolio management activities ( b )",
+        "$ -20681 ( 20681 )",
+        "$ -26703 ( 26703 )",
+        "$ -9 ( 9 )",
+        "$ 2014"
+      ],
+      [
+        "liquid securities and other cash collateral held against derivatives",
+        "-16580 ( 16580 )",
+        "-19604 ( 19604 )",
+        "na",
+        "na"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in loans retained from 2014 to 2015?"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the accretable yield balance in 2010?",
+      "answer": 19097.0,
+      "answer_raw": "19097.0",
+      "program": "19097"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was in in 2009?",
+      "answer": 25544.0,
+      "answer_raw": "25544.0",
+      "program": "25544"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the net change?",
+      "answer": -6447.0,
+      "answer_raw": "-6447.0",
+      "program": "subtract(19097, 25544)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the percent change?",
+      "answer": -0.25239,
+      "answer_raw": "-0.25239",
+      "program": "subtract(19097, 25544), divide(#0, 25544)"
+    }
+  ]
+}

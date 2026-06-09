@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total future minimum lease payments is expected to go for interest?",
+      "answer": 0.24245,
+      "answer_raw": "0.24245",
+      "program": "divide(60249, 248504)"
+    }
+  ]
+}

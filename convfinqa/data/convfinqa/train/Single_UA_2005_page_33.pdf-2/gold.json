@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in total net revenue from 2004 to 2005?",
+      "answer": 89762.0,
+      "answer_raw": "89762.0",
+      "program": "subtract(205181, 115419)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what growth rate does this represent?",
+      "answer": 0.77771,
+      "answer_raw": "0.77771",
+      "program": "subtract(205181, 115419), divide(#0, 115419)"
+    }
+  ]
+}

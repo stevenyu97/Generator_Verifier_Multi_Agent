@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average approximate vested performance share units from 2011 to 2013",
+      "answer": 415208.0,
+      "answer_raw": "415208.0",
+      "program": "add(148000, 213000), add(54208, #0)"
+    }
+  ]
+}

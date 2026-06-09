@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "holding weighted- average debt level as the same as 2013what would the interest expense be in 2014 in billions?",
+      "answer": 0.5088,
+      "answer_raw": "0.5088",
+      "program": "multiply(9.6, 5.3%)"
+    }
+  ]
+}

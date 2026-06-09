@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "PNC/2015/page_198.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "in 2011 , we transferred approximately 1.3 million shares of blackrock series c preferred stock to blackrock in connection with our obligation .",
+      "in 2013 , we transferred an additional .2 million shares to blackrock .",
+      "at december 31 , 2015 , we held approximately 1.3 million shares of blackrock series c preferred stock which were available to fund our obligation in connection with the blackrock ltip programs .",
+      "see note 24 subsequent events for information on our february 1 , 2016 transfer of 0.5 million shares of the series c preferred stock to blackrock to satisfy a portion of our ltip obligation .",
+      "pnc accounts for its blackrock series c preferred stock at fair value , which offsets the impact of marking-to-market the obligation to deliver these shares to blackrock .",
+      "the fair value of the blackrock series c preferred stock is included on our consolidated balance sheet in the caption other assets .",
+      "additional information regarding the valuation of the blackrock series c preferred stock is included in note 7 fair value .",
+      "note 14 financial derivatives we use derivative financial instruments ( derivatives ) primarily to help manage exposure to interest rate , market and credit risk and reduce the effects that changes in interest rates may have on net income , the fair value of assets and liabilities , and cash flows .",
+      "we also enter into derivatives with customers to facilitate their risk management activities .",
+      "derivatives represent contracts between parties that usually require little or no initial net investment and result in one party delivering cash or another type of asset to the other party based on a notional amount and an underlying as specified in the contract .",
+      "derivative transactions are often measured in terms of notional amount , but this amount is generally not exchanged and it is not recorded on the balance sheet .",
+      "the notional amount is the basis to which the underlying is applied to determine required payments under the derivative contract .",
+      "the underlying is a referenced interest rate ( commonly libor ) , security price , credit spread or other index .",
+      "residential and commercial real estate loan commitments associated with loans to be sold also qualify as derivative instruments .",
+      "the following table presents the notional amounts and gross fair values of all derivative assets and liabilities held by pnc : table 111 : total gross derivatives ."
+    ],
+    "post_text": [
+      "( a ) included in other assets on our consolidated balance sheet .",
+      "( b ) included in other liabilities on our consolidated balance sheet .",
+      "all derivatives are carried on our consolidated balance sheet at fair value .",
+      "derivative balances are presented on the consolidated balance sheet on a net basis taking into consideration the effects of legally enforceable master netting agreements and , when appropriate , any related cash collateral exchanged with counterparties .",
+      "further discussion regarding the offsetting rights associated with these legally enforceable master netting agreements is included in the offsetting , counterparty credit risk , and contingent features section below .",
+      "any nonperformance risk , including credit risk , is included in the determination of the estimated net fair value of the derivatives .",
+      "further discussion on how derivatives are accounted for is included in note 1 accounting policies .",
+      "derivatives designated as hedging instruments under gaap certain derivatives used to manage interest rate and foreign exchange risk as part of our asset and liability risk management activities are designated as accounting hedges under gaap .",
+      "derivatives hedging the risks associated with changes in the fair value of assets or liabilities are considered fair value hedges , derivatives hedging the variability of expected future cash flows are considered cash flow hedges , and derivatives hedging a net investment in a foreign subsidiary are considered net investment hedges .",
+      "designating derivatives as accounting hedges allows for gains and losses on those derivatives , to the extent effective , to be recognized in the income statement in the same period the hedged items affect earnings .",
+      "180 the pnc financial services group , inc .",
+      "2013 form 10-k ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "december 31 2015 notional/contractamount",
+        "december 31 2015 assetfairvalue ( a )",
+        "december 31 2015 liabilityfairvalue ( b )",
+        "december 31 2015 notional/contractamount",
+        "december 31 2015 assetfairvalue ( a )",
+        "liabilityfairvalue ( b )"
+      ],
+      [
+        "derivatives designated as hedging instruments under gaap",
+        "$ 52074",
+        "$ 1159",
+        "$ 174",
+        "$ 49061",
+        "$ 1261",
+        "$ 186"
+      ],
+      [
+        "derivatives not designated as hedging instruments under gaap",
+        "295902",
+        "3782",
+        "3628",
+        "291256",
+        "3973",
+        "3841"
+      ],
+      [
+        "total gross derivatives",
+        "$ 347976",
+        "$ 4941",
+        "$ 3802",
+        "$ 340317",
+        "$ 5234",
+        "$ 4027"
+      ]
+    ],
+    "questions": [
+      "was the derivatives designated as hedging instruments under gaap greater than the derivatives not designated as hedging instruments under gaap for 2015?"
+    ]
+  }
+}

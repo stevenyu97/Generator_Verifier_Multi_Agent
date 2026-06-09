@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in the average for 2008 and 2009 when considering the foreign exchange contracts?",
+      "answer": 10.3,
+      "answer_raw": "10.3",
+      "program": "subtract(21.6, 11.3)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "for 2008, what is the variation between the high of foreign exchange contracts and the high for interest rate contracts?",
+      "answer": 5.9,
+      "answer_raw": "5.9",
+      "program": "subtract(34.3, 28.4)"
+    }
+  ]
+}

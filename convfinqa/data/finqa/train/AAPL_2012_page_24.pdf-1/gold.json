@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage 5 year cumulative total return for apple inc . for the the period ended september 30 , 2012?",
+      "answer": 3.37,
+      "answer_raw": "3.37",
+      "program": "subtract(437, 100), divide(#0, 100)"
+    }
+  ]
+}

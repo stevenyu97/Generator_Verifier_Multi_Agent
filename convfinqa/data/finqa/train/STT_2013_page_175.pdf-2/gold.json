@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the balance of asset purchase agreements from 2012 to 2013?",
+      "answer": -0.07466,
+      "answer_raw": "-0.07466",
+      "program": "subtract(4685, 5063), divide(#0, 5063)"
+    }
+  ]
+}

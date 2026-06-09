@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in ccg operating income between 2014 and 2015?",
+      "answer": -2161.0,
+      "answer_raw": "-2161.0",
+      "program": "subtract(8166, 10327)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the specific amount for 2014 again?",
+      "answer": 10327.0,
+      "answer_raw": "10327.0",
+      "program": "10327"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so then what is the growth rate over these years?",
+      "answer": -0.20926,
+      "answer_raw": "-0.20926",
+      "program": "subtract(8166, 10327), divide(#0, 10327)"
+    }
+  ]
+}

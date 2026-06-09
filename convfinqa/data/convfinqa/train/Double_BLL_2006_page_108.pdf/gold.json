@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in the equity plans for 2006, which one was bigger: the number of shares issued or the ones remaining in the plan?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(5941210, 4852978)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total value of those issued shares?",
+      "answer": 129525982.82,
+      "answer_raw": "129525982.82",
+      "program": "multiply(4852978, 26.69)"
+    }
+  ]
+}

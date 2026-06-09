@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "Single_APTV/2015/page_50.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "table of contents stock performance graph * $ 100 invested on 11/17/11 in our stock or 10/31/11 in the relevant index , including reinvestment of dividends .",
+      "fiscal year ending december 31 , 2015 .",
+      "( 1 ) delphi automotive plc ( 2 ) s&p 500 2013 standard & poor 2019s 500 total return index ( 3 ) automotive supplier peer group 2013 russell 3000 auto parts index , including american axle & manufacturing , borgwarner inc. , cooper tire & rubber company , dana holding corp. , delphi automotive plc , dorman products inc. , federal-mogul corp. , ford motor co. , fuel systems solutions inc. , general motors co. , gentex corp. , gentherm inc. , genuine parts co. , johnson controls inc. , lear corp. , lkq corp. , meritor inc. , standard motor products inc. , stoneridge inc. , superior industries international , tenneco inc. , tesla motors inc. , the goodyear tire & rubber co. , tower international inc. , visteon corp. , and wabco holdings inc .",
+      "company index november 17 , december 31 , december 31 , december 31 , december 31 , december 31 ."
+    ],
+    "post_text": [
+      "dividends the company has declared and paid cash dividends of $ 0.25 per ordinary share in each quarter of 2014 and 2015 .",
+      "in addition , in january 2016 , the board of directors increased the annual dividend rate to $ 1.16 per ordinary share , and declared a regular quarterly cash dividend of $ 0.29 per ordinary share , payable on february 29 , 2016 to shareholders of record at the close of business on february 17 , 2016. ."
+    ],
+    "table": [
+      [
+        "company index",
+        "november 17 2011",
+        "december 31 2011",
+        "december 31 2012",
+        "december 31 2013",
+        "december 31 2014",
+        "december 31 2015"
+      ],
+      [
+        "delphi automotive plc ( 1 )",
+        "$ 100.00",
+        "$ 100.98",
+        "$ 179.33",
+        "$ 285.81",
+        "$ 350.82",
+        "$ 418.67"
+      ],
+      [
+        "s&p 500 ( 2 )",
+        "100.00",
+        "100.80",
+        "116.93",
+        "154.80",
+        "175.99",
+        "178.43"
+      ],
+      [
+        "automotive supplier peer group ( 3 )",
+        "100.00",
+        "89.62",
+        "109.96",
+        "166.26",
+        "176.25",
+        "171.91"
+      ]
+    ],
+    "questions": [
+      "what was the price of delphi automotive plc as of 12/31/15?",
+      "and the difference between this price and the starting price as of 11/17/11?",
+      "and as a percentage of the original value?"
+    ]
+  }
+}

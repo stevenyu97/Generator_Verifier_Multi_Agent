@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the gross profit margins from 2016 to 2017",
+      "answer": 0.02395,
+      "answer_raw": "0.02395",
+      "program": "subtract(34.2, 33.4), divide(#0, 33.4)"
+    }
+  ]
+}

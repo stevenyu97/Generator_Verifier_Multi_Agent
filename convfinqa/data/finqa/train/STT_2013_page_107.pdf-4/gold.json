@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total contractual obligations is long term debt?",
+      "answer": 0.84338,
+      "answer_raw": "0.84338",
+      "program": "divide(10630, 12604)"
+    }
+  ]
+}

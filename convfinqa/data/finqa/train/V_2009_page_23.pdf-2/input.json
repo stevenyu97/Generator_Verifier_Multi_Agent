@@ -1,0 +1,130 @@
+{
+  "input": {
+    "id": "V/2009/page_23.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "competition we compete in the global payment marketplace against all forms of payment , including paper- based forms ( principally cash and checks ) , card-based payments ( including credit , charge , debit , atm , prepaid , private-label and other types of general-purpose and limited-use cards ) and other electronic payments ( including wire transfers , electronic benefits transfers , automatic clearing house , or ach , payments and electronic data interchange ) .",
+      "within the general purpose payment card industry , we face substantial and intense competition worldwide in the provision of payments services to financial institution customers and their cardholder merchants .",
+      "the leading global card brands in the general purpose payment card industry are visa , mastercard , american express and diners club .",
+      "other general-purpose card brands are more concentrated in specific geographic regions , such as jcb in japan and discover in the united states .",
+      "in certain countries , our competitors have leading positions , such as china unionpay in china , which is the sole domestic inter-bank bankcard processor and operates the sole domestic bankcard acceptance mark in china due to local regulation .",
+      "we also compete against private-label cards , which can generally be used to make purchases solely at the sponsoring retail store , gasoline retailer or other merchant .",
+      "in the debit card market segment , visa and mastercard are the primary global brands .",
+      "in addition , our interlink and visa electron brands compete with maestro , owned by mastercard , and various regional and country-specific debit network brands .",
+      "in addition to our plus brand , the primary cash access card brands are cirrus , owned by mastercard , and many of the online debit network brands referenced above .",
+      "in many countries , local debit brands are the primary brands , and our brands are used primarily to enable cross-border transactions , which typically constitute a small portion of overall transaction volume .",
+      "see item 8 2014financial statements and supplementary data for financial information about geographic areas .",
+      "based on payments volume , total volume , number of transactions and number of cards in circulation , visa is the largest retail electronic payments network in the world .",
+      "the following chart compares our network with those of our major general-purpose payment network competitors for calendar year 2008 : company payments volume volume transactions cards ( billions ) ( billions ) ( billions ) ( millions ) visa inc. ( 1 ) .",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "$ 2727 $ 4346 56.7 1717 ."
+    ],
+    "post_text": [
+      "( 1 ) visa inc .",
+      "figures as reported on form 8-k filed with the sec on april 29 , 2009 .",
+      "source : the nilson report , issue 924 ( april 2009 ) and issue 925 ( may 2009 ) .",
+      "note : visa inc .",
+      "figures exclude visa europe .",
+      "figures for competitors include their respective european operations .",
+      "visa figures include visa , visa electron , and interlink brands .",
+      "the visa card figure includes plus-only cards ( with no visa logo ) in all regions except the united states , but plus cash volume is not included .",
+      "domestic china figures including commercial funds transfers are excluded .",
+      "mastercard includes pin-based debit card figures on mastercard cards , but not maestro or cirrus figures .",
+      "american express includes business from third-party issuers .",
+      "jcb figures are for april 2007 through march 2008 , but cards are as of september 2008 .",
+      "transaction figures are estimates .",
+      "figures include business from third-party issuers. ."
+    ],
+    "table": [
+      [
+        "company",
+        "payments volume ( billions )",
+        "total volume ( billions )",
+        "total transactions ( billions )",
+        "cards ( millions )"
+      ],
+      [
+        "visa inc. ( 1 )",
+        "$ 2727",
+        "$ 4346",
+        "56.7",
+        "1717"
+      ],
+      [
+        "mastercard",
+        "1900",
+        "2533",
+        "29.9",
+        "981"
+      ],
+      [
+        "american express",
+        "673",
+        "683",
+        "5.3",
+        "92"
+      ],
+      [
+        "discover",
+        "106",
+        "120",
+        "1.6",
+        "57"
+      ],
+      [
+        "jcb",
+        "63",
+        "68",
+        "0.7",
+        "60"
+      ],
+      [
+        "diners club",
+        "30",
+        "31",
+        "0.2",
+        "7"
+      ]
+    ],
+    "questions": [
+      "what is the average payment volume per transaction of visa inc?"
+    ]
+  }
+}

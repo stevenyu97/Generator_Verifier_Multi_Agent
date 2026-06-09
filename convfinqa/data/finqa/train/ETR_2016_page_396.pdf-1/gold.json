@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the combined impact in millions on 2016 net revenue from the net gas revenue adjustment , the volume/weather adjustment , and other adjustments?",
+      "answer": -15.7,
+      "answer_raw": "-15.7",
+      "program": "add(-2.5, -5.1), add(#0, -8.1)"
+    }
+  ]
+}

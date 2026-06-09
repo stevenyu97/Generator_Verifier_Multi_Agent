@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did income from continuing operations increase from 2012 to 2014?",
+      "answer": 0.1381,
+      "answer_raw": "0.1381",
+      "program": "subtract(2.39, 2.10), divide(#0, 2.10)"
+    }
+  ]
+}

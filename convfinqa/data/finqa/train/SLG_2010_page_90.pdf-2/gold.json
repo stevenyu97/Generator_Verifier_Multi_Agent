@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2009 what was the average revenues per quarter in millions",
+      "answer": 248961.75,
+      "answer_raw": "248961.75",
+      "program": "add(243040, 245769), add(248251, #0), add(258787, #1), divide(#2, const_4)"
+    }
+  ]
+}

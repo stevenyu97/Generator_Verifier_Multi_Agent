@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net value change in the cmg balance?",
+      "answer": 6.5,
+      "answer_raw": "6.5",
+      "program": "subtract(441.9, 435.4)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the cmg balance at the end of 2007?",
+      "answer": 441.9,
+      "answer_raw": "441.9",
+      "program": "441.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the percent change?",
+      "answer": 0.01471,
+      "answer_raw": "0.01471",
+      "program": "subtract(441.9, 435.4), divide(#0, 441.9)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the percent change times 100?",
+      "answer": 1.47092,
+      "answer_raw": "1.47092",
+      "program": "subtract(441.9, 435.4), divide(#0, 441.9), multiply(#1, const_100)"
+    }
+  ]
+}

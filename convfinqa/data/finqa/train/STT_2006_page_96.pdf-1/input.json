@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "STT/2006/page_96.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "for the year ended december 31 , 2005 , we realized net losses of $ 1 million on sales of available-for- sale securities .",
+      "unrealized gains of $ 1 million were included in other comprehensive income at december 31 , 2004 , net of deferred taxes of less than $ 1 million , related to these sales .",
+      "for the year ended december 31 , 2004 , we realized net gains of $ 26 million on sales of available-for- sale securities .",
+      "unrealized gains of $ 11 million were included in other comprehensive income at december 31 , 2003 , net of deferred taxes of $ 7 million , related to these sales .",
+      "note 13 .",
+      "equity-based compensation the 2006 equity incentive plan was approved by shareholders in april 2006 , and 20000000 shares of common stock were approved for issuance for stock and stock-based awards , including stock options , stock appreciation rights , restricted stock , deferred stock and performance awards .",
+      "in addition , up to 8000000 shares from our 1997 equity incentive plan , that were available to issue or become available due to cancellations and forfeitures , may be awarded under the 2006 plan .",
+      "the 1997 plan expired on december 18 , 2006 .",
+      "as of december 31 , 2006 , 1305420 shares from the 1997 plan have been added to and may be awarded from the 2006 plan .",
+      "as of december 31 , 2006 , 106045 awards have been made under the 2006 plan .",
+      "we have stock options outstanding from previous plans , including the 1997 plan , under which no further grants can be made .",
+      "the exercise price of non-qualified and incentive stock options and stock appreciation rights may not be less than the fair value of such shares at the date of grant .",
+      "stock options and stock appreciation rights issued under the 2006 plan and the prior 1997 plan generally vest over four years and expire no later than ten years from the date of grant .",
+      "for restricted stock awards issued under the 2006 plan and the prior 1997 plan , stock certificates are issued at the time of grant and recipients have dividend and voting rights .",
+      "in general , these grants vest over three years .",
+      "for deferred stock awards issued under the 2006 plan and the prior 1997 plan , no stock is issued at the time of grant .",
+      "generally , these grants vest over two- , three- or four-year periods .",
+      "performance awards granted under the 2006 equity incentive plan and the prior 1997 plan are earned over a performance period based on achievement of goals , generally over two- to three- year periods .",
+      "payment for performance awards is made in shares of our common stock or in cash equal to the fair market value of our common stock , based on certain financial ratios after the conclusion of each performance period .",
+      "we record compensation expense , equal to the estimated fair value of the options on the grant date , on a straight-line basis over the options 2019 vesting period .",
+      "we use a black-scholes option-pricing model to estimate the fair value of the options granted .",
+      "the weighted-average assumptions used in connection with the option-pricing model were as follows for the years indicated. ."
+    ],
+    "post_text": [
+      "compensation expense related to stock options , stock appreciation rights , restricted stock awards , deferred stock awards and performance awards , which we record as a component of salaries and employee benefits expense in our consolidated statement of income , was $ 208 million , $ 110 million and $ 74 million for the years ended december 31 , 2006 , 2005 and 2004 , respectively .",
+      "the related total income tax benefit recorded in our consolidated statement of income was $ 83 million , $ 44 million and $ 30 million for 2006 , 2005 and 2004 , respectively .",
+      "seq 87 copyarea : 38 .",
+      "x 54 .",
+      "trimsize : 8.25 x 10.75 typeset state street corporation serverprocess c:\\\\fc\\\\delivery_1024177\\\\2771-1-do_p.pdf chksum : 0 cycle 1merrill corporation 07-2771-1 thu mar 01 17:11:13 2007 ( v 2.247w--stp1pae18 ) ."
+    ],
+    "table": [
+      [
+        "",
+        "2006",
+        "2005",
+        "2004"
+      ],
+      [
+        "dividend yield",
+        "1.41% ( 1.41 % )",
+        "1.85% ( 1.85 % )",
+        "1.35% ( 1.35 % )"
+      ],
+      [
+        "expected volatility",
+        "26.50",
+        "28.70",
+        "27.10"
+      ],
+      [
+        "risk-free interest rate",
+        "4.60",
+        "4.19",
+        "3.02"
+      ],
+      [
+        "expected option lives ( in years )",
+        "7.8",
+        "7.8",
+        "5.0"
+      ]
+    ],
+    "questions": [
+      "by what percent did the risk free interest rate increase between 2004 and 2006?"
+    ]
+  }
+}

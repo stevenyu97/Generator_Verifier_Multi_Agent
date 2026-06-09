@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average cash flow from 2010 to 2012",
+      "answer": 920.0,
+      "answer_raw": "920.0",
+      "program": "add(1225, 1001), add(534, #0), divide(#1, const_3)"
+    }
+  ]
+}

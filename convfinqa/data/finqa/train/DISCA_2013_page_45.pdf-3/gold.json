@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of january 21 , 2014 , what was the implied total value of eurosport international based on the price paid for the increased ownership , in us$ millions ?",
+      "answer": 1106.45161,
+      "answer_raw": "1106.45161",
+      "program": "subtract(51%, 20%), divide(343, #0)"
+    }
+  ]
+}

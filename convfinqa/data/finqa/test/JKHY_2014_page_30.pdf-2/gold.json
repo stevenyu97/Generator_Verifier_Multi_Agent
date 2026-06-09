@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the annual performance of the jkhy stock from 2009 to 2010",
+      "answer": 0.1685,
+      "answer_raw": "0.1685",
+      "program": "subtract(116.85, 100.00), divide(#0, const_100)"
+    }
+  ]
+}

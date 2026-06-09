@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average balance of cash collateral for 2017 and 2018?",
+      "answer": 15700000000.0,
+      "answer_raw": "15700000000.0",
+      "program": "add(15.3, 16.1), divide(#0, const_2), multiply(#1, const_1000000), multiply(#2, const_1000)"
+    }
+  ]
+}

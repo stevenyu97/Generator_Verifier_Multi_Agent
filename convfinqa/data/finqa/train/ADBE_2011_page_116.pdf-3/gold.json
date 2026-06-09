@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is total capital lease obligations in millions?",
+      "answer": 48173.0,
+      "answer_raw": "48173.0",
+      "program": "table_sum(capital lease obligations, none)"
+    }
+  ]
+}

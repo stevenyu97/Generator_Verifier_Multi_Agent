@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent decrease of redeemable noncontrolling interests and call options with affiliates from 2021 to 2022?",
+      "answer": 86.71329,
+      "answer_raw": "86.71329",
+      "program": "subtract(42.9, 5.7), divide(#0, 42.9), multiply(#1, const_100)"
+    }
+  ]
+}

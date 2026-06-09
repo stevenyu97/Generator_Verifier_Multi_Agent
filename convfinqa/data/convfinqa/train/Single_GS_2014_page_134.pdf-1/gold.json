@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of net derivative liabilities under bilateral agreements in 2014?",
+      "answer": 35764.0,
+      "answer_raw": "35764.0",
+      "program": "35764"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2013?",
+      "answer": 22176.0,
+      "answer_raw": "22176.0",
+      "program": "22176"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 13588.0,
+      "answer_raw": "13588.0",
+      "program": "subtract(35764, 22176)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the total of net derivative liabilities under bilateral agreements in 2013?",
+      "answer": 22176.0,
+      "answer_raw": "22176.0",
+      "program": "22176"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this 2013 total, in percentage?",
+      "answer": 0.61273,
+      "answer_raw": "0.61273",
+      "program": "subtract(35764, 22176), divide(#0, 22176)"
+    }
+  ]
+}

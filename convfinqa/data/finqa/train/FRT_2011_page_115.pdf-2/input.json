@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "FRT/2011/page_115.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "federal realty investment trust schedule iii summary of real estate and accumulated depreciation - continued three years ended december 31 , 2011 reconciliation of accumulated depreciation and amortization ( in thousands ) balance , december 31 , 2008................................................................................................................................... .",
+      "additions during period 2014depreciation and amortization expense .................................................................... .",
+      "deductions during period 2014disposition and retirements of property ................................................................. .",
+      "balance , december 31 , 2009................................................................................................................................... .",
+      "additions during period 2014depreciation and amortization expense .................................................................... .",
+      "deductions during period 2014disposition and retirements of property ................................................................. .",
+      "balance , december 31 , 2010................................................................................................................................... .",
+      "additions during period 2014depreciation and amortization expense .................................................................... .",
+      "deductions during period 2014disposition and retirements of property ................................................................. .",
+      "balance , december 31 , 2011................................................................................................................................... .",
+      "$ 846258 103698 ( 11869 ) 938087 108261 ( 11144 ) 1035204 114180 ( 21796 ) $ 1127588 ."
+    ],
+    "post_text": [
+      "federal realty investment trust schedule iii summary of real estate and accumulated depreciation - continued three years ended december 31 , 2011 reconciliation of accumulated depreciation and amortization ( in thousands ) balance , december 31 , 2008................................................................................................................................... .",
+      "additions during period 2014depreciation and amortization expense .................................................................... .",
+      "deductions during period 2014disposition and retirements of property ................................................................. .",
+      "balance , december 31 , 2009................................................................................................................................... .",
+      "additions during period 2014depreciation and amortization expense .................................................................... .",
+      "deductions during period 2014disposition and retirements of property ................................................................. .",
+      "balance , december 31 , 2010................................................................................................................................... .",
+      "additions during period 2014depreciation and amortization expense .................................................................... .",
+      "deductions during period 2014disposition and retirements of property ................................................................. .",
+      "balance , december 31 , 2011................................................................................................................................... .",
+      "$ 846258 103698 ( 11869 ) 938087 108261 ( 11144 ) 1035204 114180 ( 21796 ) $ 1127588 ."
+    ],
+    "table": [
+      [
+        "balance december 31 2008",
+        "$ 846258"
+      ],
+      [
+        "additions during period 2014depreciation and amortization expense",
+        "103698"
+      ],
+      [
+        "deductions during period 2014disposition and retirements of property",
+        "-11869 ( 11869 )"
+      ],
+      [
+        "balance december 31 2009",
+        "938087"
+      ],
+      [
+        "additions during period 2014depreciation and amortization expense",
+        "108261"
+      ],
+      [
+        "deductions during period 2014disposition and retirements of property",
+        "-11144 ( 11144 )"
+      ],
+      [
+        "balance december 31 2010",
+        "1035204"
+      ],
+      [
+        "additions during period 2014depreciation and amortization expense",
+        "114180"
+      ],
+      [
+        "deductions during period 2014disposition and retirements of property",
+        "-21796 ( 21796 )"
+      ],
+      [
+        "balance december 31 2011",
+        "$ 1127588"
+      ]
+    ],
+    "questions": [
+      "considering the years 2008-2010 , what is the value of the average deductions?\\\\n"
+    ]
+  }
+}

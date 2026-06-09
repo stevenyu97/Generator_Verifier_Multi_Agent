@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the non interest income from 2011 to 2012?",
+      "answer": 0.3,
+      "answer_raw": "0.3",
+      "program": "subtract(5.9, 5.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to that income in 2011, in percentage?",
+      "answer": 0.05357,
+      "answer_raw": "0.05357",
+      "program": "subtract(5.9, 5.6), divide(#0, 5.6)"
+    }
+  ]
+}

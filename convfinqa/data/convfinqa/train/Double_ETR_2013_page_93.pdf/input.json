@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "Double_ETR/2013/page_93.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries notes to financial statements equitable discretion and not require refunds for the 20-month period from september 13 , 2001 - may 2 , 2003 .",
+      "because the ruling on refunds relied on findings in the interruptible load proceeding , which is discussed in a separate section below , the ferc concluded that the refund ruling will be held in abeyance pending the outcome of the rehearing requests in that proceeding .",
+      "on the second issue , the ferc reversed its prior decision and ordered that the prospective bandwidth remedy begin on june 1 , 2005 ( the date of its initial order in the proceeding ) rather than january 1 , 2006 , as it had previously ordered .",
+      "pursuant to the october 2011 order , entergy was required to calculate the additional bandwidth payments for the period june - december 2005 utilizing the bandwidth formula tariff prescribed by the ferc that was filed in a december 2006 compliance filing and accepted by the ferc in an april 2007 order .",
+      "as is the case with bandwidth remedy payments , these payments and receipts will ultimately be paid by utility operating company customers to other utility operating company customers .",
+      "in december 2011 , entergy filed with the ferc its compliance filing that provides the payments and receipts among the utility operating companies pursuant to the ferc 2019s october 2011 order .",
+      "the filing shows the following payments/receipts among the utility operating companies : payments ( receipts ) ( in millions ) ."
+    ],
+    "post_text": [
+      "entergy arkansas made its payment in january 2012 .",
+      "in february 2012 , entergy arkansas filed for an interim adjustment to its production cost allocation rider requesting that the $ 156 million payment be collected from customers over the 22-month period from march 2012 through december 2013 .",
+      "in march 2012 the apsc issued an order stating that the payment can be recovered from retail customers through the production cost allocation rider , subject to refund .",
+      "the lpsc and the apsc have requested rehearing of the ferc 2019s october 2011 order .",
+      "in december 2013 the lpsc filed a petition for a writ of mandamus at the united states court of appeals for the d.c .",
+      "circuit .",
+      "in its petition , the lpsc requested that the d.c .",
+      "circuit issue an order compelling the ferc to issue a final order on pending rehearing requests .",
+      "in its response to the lpsc petition , the ferc committed to rule on the pending rehearing request before the end of february .",
+      "in january 2014 the d.c .",
+      "circuit denied the lpsc's petition .",
+      "the apsc , the lpsc , the puct , and other parties intervened in the december 2011 compliance filing proceeding , and the apsc and the lpsc also filed protests .",
+      "calendar year 2013 production costs the liabilities and assets for the preliminary estimate of the payments and receipts required to implement the ferc 2019s remedy based on calendar year 2013 production costs were recorded in december 2013 , based on certain year-to-date information .",
+      "the preliminary estimate was recorded based on the following estimate of the payments/receipts among the utility operating companies for 2014. ."
+    ],
+    "table": [
+      [
+        "",
+        "payments ( receipts ) ( in millions )"
+      ],
+      [
+        "entergy arkansas",
+        "$ 156"
+      ],
+      [
+        "entergy gulf states louisiana",
+        "( $ 75 )"
+      ],
+      [
+        "entergy louisiana",
+        "$ 2014"
+      ],
+      [
+        "entergy mississippi",
+        "( $ 33 )"
+      ],
+      [
+        "entergy new orleans",
+        "( $ 5 )"
+      ],
+      [
+        "entergy texas",
+        "( $ 43 )"
+      ]
+    ],
+    "questions": [
+      "what portion of the entergy arkansas payment goes to entergy mississippi?",
+      "and which portion goes to entergy texas?"
+    ]
+  }
+}

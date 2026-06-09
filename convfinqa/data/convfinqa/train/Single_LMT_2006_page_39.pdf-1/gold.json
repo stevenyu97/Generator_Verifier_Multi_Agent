@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of net earnings in 2006?",
+      "answer": 2529.0,
+      "answer_raw": "2529.0",
+      "program": "2529"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2005?",
+      "answer": 1825.0,
+      "answer_raw": "1825.0",
+      "program": "1825"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change in net earnings over the year?",
+      "answer": 704.0,
+      "answer_raw": "704.0",
+      "program": "subtract(2529, 1825)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does that change represent in relation to the 2015 total of net earnings, in percentage?",
+      "answer": 0.38575,
+      "answer_raw": "0.38575",
+      "program": "subtract(2529, 1825), divide(#0, 1825)"
+    }
+  ]
+}

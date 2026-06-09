@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the working capital from 2006 to 2007",
+      "answer": 1.75786,
+      "answer_raw": "1.75786",
+      "program": "subtract(4.476, 1.623), divide(#0, 1.623)"
+    }
+  ]
+}

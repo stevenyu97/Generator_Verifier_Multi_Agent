@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the comcast corporation finite-lived intangible assets in 2016 to 2017",
+      "answer": 1.10732,
+      "answer_raw": "1.10732",
+      "program": "divide(1785, 1612)"
+    }
+  ]
+}

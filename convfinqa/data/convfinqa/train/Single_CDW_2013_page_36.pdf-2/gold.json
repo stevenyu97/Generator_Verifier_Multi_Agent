@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of 2012 income tax expense and net income?",
+      "answer": 186.1,
+      "answer_raw": "186.1",
+      "program": "add(67.1, 119.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is 2012 net income divided by that sum?",
+      "answer": 0.36056,
+      "answer_raw": "0.36056",
+      "program": "add(67.1, 119.0), divide(67.1, #0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage cumulative 5-year total return to shareholders of cadence design systems , inc . 2019s common stock for the period ended december 30 , 2006?",
+      "answer": -0.2004,
+      "answer_raw": "-0.2004",
+      "program": "subtract(79.96, const_100), divide(#0, const_100)"
+    }
+  ]
+}

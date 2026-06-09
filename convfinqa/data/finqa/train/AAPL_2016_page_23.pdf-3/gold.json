@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the cumulative change in the s&p 500 between 2016 and 2011?",
+      "answer": 113.0,
+      "answer_raw": "113.0",
+      "program": "subtract(213, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the balance of accumulated other comprehensive loss from 2008 to 2009?",
+      "answer": -0.30841,
+      "answer_raw": "-0.30841",
+      "program": "subtract(13053, 18874), divide(#0, 18874)"
+    }
+  ]
+}

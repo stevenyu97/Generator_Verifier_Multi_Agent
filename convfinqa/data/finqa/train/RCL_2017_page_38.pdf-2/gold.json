@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the mathematical mean for all three investments as of dec 31 , 2017?",
+      "answer": 277.46,
+      "answer_raw": "277.46",
+      "program": "add(385.47, 208.14), add(#0, 238.77), divide(#1, const_3)"
+    }
+  ]
+}

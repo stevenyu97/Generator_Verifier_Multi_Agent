@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the total assets acquisitions allocated to goodwill",
+      "answer": 0.6099,
+      "answer_raw": "0.6099",
+      "program": "divide(6099, 10000)"
+    }
+  ]
+}

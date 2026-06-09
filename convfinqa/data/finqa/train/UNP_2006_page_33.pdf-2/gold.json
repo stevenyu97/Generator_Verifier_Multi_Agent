@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in other income from 2004 to 2005 in millions?",
+      "answer": 57.0,
+      "answer_raw": "57.0",
+      "program": "subtract(145, 88)"
+    }
+  ]
+}

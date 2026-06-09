@@ -1,0 +1,79 @@
+{
+  "input": {
+    "id": "Single_ECL/2017/page_96.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "13 .",
+      "rentals and leases the company leases sales and administrative office facilities , distribution centers , research and manufacturing facilities , as well as vehicles and other equipment under operating leases .",
+      "total rental expense under the company 2019s operating leases was $ 239 million in 2017 and $ 221 million in both 2016 and 2015 .",
+      "as of december 31 , 2017 , identifiable future minimum payments with non-cancelable terms in excess of one year were : ( millions ) ."
+    ],
+    "post_text": [
+      "the company enters into operating leases for vehicles whose non-cancelable terms are one year or less in duration with month-to-month renewal options .",
+      "these leases have been excluded from the table above .",
+      "the company estimates payments under such leases will approximate $ 62 million in 2018 .",
+      "these vehicle leases have guaranteed residual values that have historically been satisfied by the proceeds on the sale of the vehicles .",
+      "14 .",
+      "research and development expenditures research expenditures that relate to the development of new products and processes , including significant improvements and refinements to existing products , are expensed as incurred .",
+      "such costs were $ 201 million in 2017 , $ 189 million in 2016 and $ 191 million in 2015 .",
+      "the company did not participate in any material customer sponsored research during 2017 , 2016 or 2015 .",
+      "15 .",
+      "commitments and contingencies the company is subject to various claims and contingencies related to , among other things , workers 2019 compensation , general liability ( including product liability ) , automobile claims , health care claims , environmental matters and lawsuits .",
+      "the company is also subject to various claims and contingencies related to income taxes , which are discussed in note 12 .",
+      "the company also has contractual obligations including lease commitments , which are discussed in note 13 .",
+      "the company records liabilities where a contingent loss is probable and can be reasonably estimated .",
+      "if the reasonable estimate of a probable loss is a range , the company records the most probable estimate of the loss or the minimum amount when no amount within the range is a better estimate than any other amount .",
+      "the company discloses a contingent liability even if the liability is not probable or the amount is not estimable , or both , if there is a reasonable possibility that a material loss may have been incurred .",
+      "insurance globally , the company has insurance policies with varying deductibility levels for property and casualty losses .",
+      "the company is insured for losses in excess of these deductibles , subject to policy terms and conditions and has recorded both a liability and an offsetting receivable for amounts in excess of these deductibles .",
+      "the company is self-insured for health care claims for eligible participating employees , subject to certain deductibles and limitations .",
+      "the company determines its liabilities for claims on an actuarial basis .",
+      "litigation and environmental matters the company and certain subsidiaries are party to various lawsuits , claims and environmental actions that have arisen in the ordinary course of business .",
+      "these include from time to time antitrust , commercial , patent infringement , product liability and wage hour lawsuits , as well as possible obligations to investigate and mitigate the effects on the environment of the disposal or release of certain chemical substances at various sites , such as superfund sites and other operating or closed facilities .",
+      "the company has established accruals for certain lawsuits , claims and environmental matters .",
+      "the company currently believes that there is not a reasonably possible risk of material loss in excess of the amounts accrued related to these legal matters .",
+      "because litigation is inherently uncertain , and unfavorable rulings or developments could occur , there can be no certainty that the company may not ultimately incur charges in excess of recorded liabilities .",
+      "a future adverse ruling , settlement or unfavorable development could result in future charges that could have a material adverse effect on the company 2019s results of operations or cash flows in the period in which they are recorded .",
+      "the company currently believes that such future charges related to suits and legal claims , if any , would not have a material adverse effect on the company 2019s consolidated financial position .",
+      "environmental matters the company is currently participating in environmental assessments and remediation at approximately 45 locations , the majority of which are in the u.s. , and environmental liabilities have been accrued reflecting management 2019s best estimate of future costs .",
+      "potential insurance reimbursements are not anticipated in the company 2019s accruals for environmental liabilities. ."
+    ],
+    "table": [
+      [
+        "2018",
+        "$ 131"
+      ],
+      [
+        "2019",
+        "115"
+      ],
+      [
+        "2020",
+        "96"
+      ],
+      [
+        "2021",
+        "86"
+      ],
+      [
+        "2022",
+        "74"
+      ],
+      [
+        "thereafter",
+        "115"
+      ],
+      [
+        "total",
+        "$ 617"
+      ]
+    ],
+    "questions": [
+      "what were the r&d costs in 2016?",
+      "what were the r&d costs in 2015?",
+      "what is the net difference?",
+      "what were the r&d costs in 2015?",
+      "what was the percent change?"
+    ]
+  }
+}

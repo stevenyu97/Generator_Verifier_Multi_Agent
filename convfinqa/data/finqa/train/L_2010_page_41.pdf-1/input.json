@@ -1,0 +1,108 @@
+{
+  "input": {
+    "id": "L/2010/page_41.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "item 1 .",
+      "business cna financial corporation 2013 ( continued ) unpredictability in the law , insurance underwriting is expected to continue to be difficult in commercial lines , professional liability and other specialty coverages .",
+      "the dodd-frank wall street reform and consumer protection act expands the federal presence in insurance oversight and may increase the regulatory requirements to which cna may be subject .",
+      "the act 2019s requirements include streamlining the state-based regulation of reinsurance and nonadmitted insurance ( property or casualty insurance placed from insurers that are eligible to accept insurance , but are not licensed to write insurance in a particular state ) .",
+      "the act also establishes a new federal insurance office within the u.s .",
+      "department of the treasury with powers over all lines of insurance except health insurance , certain long term care insurance and crop insurance , to , among other things , monitor aspects of the insurance industry , identify issues in the regulation of insurers that could contribute to a systemic crisis in the insurance industry or the overall financial system , coordinate federal policy on international insurance matters and preempt state insurance measures under certain circumstances .",
+      "the act calls for numerous studies and contemplates further regulation .",
+      "the patient protection and affordable care act and the related amendments in the health care and education reconciliation act may increase cna 2019s operating costs and underwriting losses .",
+      "this landmark legislation may lead to numerous changes in the health care industry that could create additional operating costs for cna , particularly with respect to workers 2019 compensation and long term care products .",
+      "these costs might arise through the increased use of health care services by claimants or the increased complexities in health care bills that could require additional levels of review .",
+      "in addition , due to the expected number of new participants in the health care system and the potential for additional malpractice claims , cna may experience increased underwriting risk in the lines of business that provide management and professional liability insurance to individuals and businesses engaged in the health care industry .",
+      "the lines of business that provide professional liability insurance to attorneys , accountants and other professionals who advise clients regarding the health care reform legislation may also experience increased underwriting risk due to the complexity of the legislation .",
+      "properties : the chicago location owned by ccc , a wholly owned subsidiary of cna , houses cna 2019s principal executive offices .",
+      "cna owns or leases office space in various cities throughout the united states and in other countries .",
+      "the following table sets forth certain information with respect to cna 2019s principal office locations : location ( square feet ) principal usage 333 s .",
+      "wabash avenue 763322 principal executive offices of cna chicago , illinois 401 penn street 190677 property and casualty insurance offices reading , pennsylvania 2405 lucien way 116948 property and casualty insurance offices maitland , florida 40 wall street 114096 property and casualty insurance offices new york , new york 1100 ward avenue 104478 property and casualty insurance offices honolulu , hawaii 101 s .",
+      "phillips avenue 83616 property and casualty insurance offices sioux falls , south dakota 600 n .",
+      "pearl street 65752 property and casualty insurance offices dallas , texas 1249 s .",
+      "river road 50366 property and casualty insurance offices cranbury , new jersey 4267 meridian parkway 46903 data center aurora , illinois 675 placentia avenue 46571 property and casualty insurance offices brea , california cna leases its office space described above except for the chicago , illinois building , the reading , pennsylvania building , and the aurora , illinois building , which are owned. ."
+    ],
+    "post_text": [
+      "item 1 .",
+      "business cna financial corporation 2013 ( continued ) unpredictability in the law , insurance underwriting is expected to continue to be difficult in commercial lines , professional liability and other specialty coverages .",
+      "the dodd-frank wall street reform and consumer protection act expands the federal presence in insurance oversight and may increase the regulatory requirements to which cna may be subject .",
+      "the act 2019s requirements include streamlining the state-based regulation of reinsurance and nonadmitted insurance ( property or casualty insurance placed from insurers that are eligible to accept insurance , but are not licensed to write insurance in a particular state ) .",
+      "the act also establishes a new federal insurance office within the u.s .",
+      "department of the treasury with powers over all lines of insurance except health insurance , certain long term care insurance and crop insurance , to , among other things , monitor aspects of the insurance industry , identify issues in the regulation of insurers that could contribute to a systemic crisis in the insurance industry or the overall financial system , coordinate federal policy on international insurance matters and preempt state insurance measures under certain circumstances .",
+      "the act calls for numerous studies and contemplates further regulation .",
+      "the patient protection and affordable care act and the related amendments in the health care and education reconciliation act may increase cna 2019s operating costs and underwriting losses .",
+      "this landmark legislation may lead to numerous changes in the health care industry that could create additional operating costs for cna , particularly with respect to workers 2019 compensation and long term care products .",
+      "these costs might arise through the increased use of health care services by claimants or the increased complexities in health care bills that could require additional levels of review .",
+      "in addition , due to the expected number of new participants in the health care system and the potential for additional malpractice claims , cna may experience increased underwriting risk in the lines of business that provide management and professional liability insurance to individuals and businesses engaged in the health care industry .",
+      "the lines of business that provide professional liability insurance to attorneys , accountants and other professionals who advise clients regarding the health care reform legislation may also experience increased underwriting risk due to the complexity of the legislation .",
+      "properties : the chicago location owned by ccc , a wholly owned subsidiary of cna , houses cna 2019s principal executive offices .",
+      "cna owns or leases office space in various cities throughout the united states and in other countries .",
+      "the following table sets forth certain information with respect to cna 2019s principal office locations : location ( square feet ) principal usage 333 s .",
+      "wabash avenue 763322 principal executive offices of cna chicago , illinois 401 penn street 190677 property and casualty insurance offices reading , pennsylvania 2405 lucien way 116948 property and casualty insurance offices maitland , florida 40 wall street 114096 property and casualty insurance offices new york , new york 1100 ward avenue 104478 property and casualty insurance offices honolulu , hawaii 101 s .",
+      "phillips avenue 83616 property and casualty insurance offices sioux falls , south dakota 600 n .",
+      "pearl street 65752 property and casualty insurance offices dallas , texas 1249 s .",
+      "river road 50366 property and casualty insurance offices cranbury , new jersey 4267 meridian parkway 46903 data center aurora , illinois 675 placentia avenue 46571 property and casualty insurance offices brea , california cna leases its office space described above except for the chicago , illinois building , the reading , pennsylvania building , and the aurora , illinois building , which are owned. ."
+    ],
+    "table": [
+      [
+        "location",
+        "size ( square feet )",
+        "principal usage"
+      ],
+      [
+        "333 s . wabash avenuechicago illinois",
+        "763322",
+        "principal executive offices of cna"
+      ],
+      [
+        "401 penn streetreading pennsylvania",
+        "190677",
+        "property and casualty insurance offices"
+      ],
+      [
+        "2405 lucien waymaitland florida",
+        "116948",
+        "property and casualty insurance offices"
+      ],
+      [
+        "40 wall streetnew york new york",
+        "114096",
+        "property and casualty insurance offices"
+      ],
+      [
+        "1100 ward avenuehonolulu hawaii",
+        "104478",
+        "property and casualty insurance offices"
+      ],
+      [
+        "101 s . phillips avenuesioux falls south dakota",
+        "83616",
+        "property and casualty insurance offices"
+      ],
+      [
+        "600 n . pearl streetdallas texas",
+        "65752",
+        "property and casualty insurance offices"
+      ],
+      [
+        "1249 s . river roadcranbury new jersey",
+        "50366",
+        "property and casualty insurance offices"
+      ],
+      [
+        "4267 meridian parkwayaurora illinois",
+        "46903",
+        "data center"
+      ],
+      [
+        "675 placentia avenuebrea california",
+        "46571",
+        "property and casualty insurance offices"
+      ]
+    ],
+    "questions": [
+      "does cna have a large physical presence in south dakota than in texas?"
+    ]
+  }
+}

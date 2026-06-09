@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the occupied square footage for 2601 research forest drive the woodlands texas?",
+      "answer": 414000.0,
+      "answer_raw": "414000.0",
+      "program": "414000"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for 2300 discovery drive orlando florida?",
+      "answer": 364000.0,
+      "answer_raw": "364000.0",
+      "program": "364000"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combined, what was the occupied square footage for these two properties?",
+      "answer": 778000.0,
+      "answer_raw": "778000.0",
+      "program": "add(414000, 364000)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the average square footage?",
+      "answer": 389000.0,
+      "answer_raw": "389000.0",
+      "program": "add(414000, 364000), divide(#0, const_2)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the proportion of long-term debt to total contractual obligations in 2017?",
+      "answer": 0.36415,
+      "answer_raw": "0.36415",
+      "program": "divide(203244, 558138)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and as a percentage?",
+      "answer": 36.41465,
+      "answer_raw": "36.41465",
+      "program": "divide(203244, 558138), multiply(#0, const_100)"
+    }
+  ]
+}

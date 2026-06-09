@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average weighted-average useful life for all those intangible assets , in number of years?",
+      "answer": 21.25,
+      "answer_raw": "21.25",
+      "program": "add(25, 25), add(25, 10), add(#0, #1), divide(#2, const_4)"
+    }
+  ]
+}

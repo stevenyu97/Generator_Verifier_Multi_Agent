@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in payments between entergy arkansas and entergy new orleans , in millions?",
+      "answer": 66.0,
+      "answer_raw": "66.0",
+      "program": "subtract(68, 2)"
+    }
+  ]
+}

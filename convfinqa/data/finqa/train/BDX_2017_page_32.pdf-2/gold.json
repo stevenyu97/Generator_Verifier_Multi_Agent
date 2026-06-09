@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the management 2019s discussion and analysis of financial condition and results of operations what was the percent of approximate tax expense of the total specified items in 2018",
+      "answer": 0.33765,
+      "answer_raw": "0.33765",
+      "program": "subtract(1466, 971), divide(#0, 1466)"
+    }
+  ]
+}

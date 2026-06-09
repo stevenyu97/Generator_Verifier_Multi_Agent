@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how is cash flow of system energy affected by the change in balance of money pool from 2007 to 2008?",
+      "answer": 10705.0,
+      "answer_raw": "10705.0",
+      "program": "subtract(53620, 42915)"
+    }
+  ]
+}

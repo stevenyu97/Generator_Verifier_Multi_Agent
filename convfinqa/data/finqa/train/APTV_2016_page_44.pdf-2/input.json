@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "APTV/2016/page_44.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "taxing authorities could challenge our historical and future tax positions .",
+      "our future effective tax rates could be affected by changes in the mix of earnings in countries with differing statutory rates and changes in tax laws or their interpretation including changes related to tax holidays or tax incentives .",
+      "our taxes could increase if certain tax holidays or incentives are not renewed upon expiration , or if tax rates or regimes applicable to us in such jurisdictions are otherwise increased .",
+      "the amount of tax we pay is subject to our interpretation of applicable tax laws in the jurisdictions in which we file .",
+      "we have taken and will continue to take tax positions based on our interpretation of such tax laws .",
+      "in particular , we will seek to organize and operate ourselves in such a way that we are and remain tax resident in the united kingdom .",
+      "additionally , in determining the adequacy of our provision for income taxes , we regularly assess the likelihood of adverse outcomes resulting from tax examinations .",
+      "while it is often difficult to predict the final outcome or the timing of the resolution of a tax examination , our reserves for uncertain tax benefits reflect the outcome of tax positions that are more likely than not to occur .",
+      "while we believe that we have complied with all applicable tax laws , there can be no assurance that a taxing authority will not have a different interpretation of the law and assess us with additional taxes .",
+      "should additional taxes be assessed , this may result in a material adverse effect on our results of operations and financial condition .",
+      "item 1b .",
+      "unresolved staff comments we have no unresolved sec staff comments to report .",
+      "item 2 .",
+      "properties as of december 31 , 2016 , we owned or leased 126 major manufacturing sites and 15 major technical centers .",
+      "a manufacturing site may include multiple plants and may be wholly or partially owned or leased .",
+      "we also have many smaller manufacturing sites , sales offices , warehouses , engineering centers , joint ventures and other investments strategically located throughout the world .",
+      "we have a presence in 46 countries .",
+      "the following table shows the regional distribution of our major manufacturing sites by the operating segment that uses such facilities : north america europe , middle east & africa asia pacific south america total ."
+    ],
+    "post_text": [
+      "in addition to these manufacturing sites , we had 15 major technical centers : five in north america ; five in europe , middle east and africa ; four in asia pacific ; and one in south america .",
+      "of our 126 major manufacturing sites and 15 major technical centers , which include facilities owned or leased by our consolidated subsidiaries , 75 are primarily owned and 66 are primarily leased .",
+      "we frequently review our real estate portfolio and develop footprint strategies to support our customers 2019 global plans , while at the same time supporting our technical needs and controlling operating expenses .",
+      "we believe our evolving portfolio will meet current and anticipated future needs .",
+      "item 3 .",
+      "legal proceedings we are from time to time subject to various actions , claims , suits , government investigations , and other proceedings incidental to our business , including those arising out of alleged defects , breach of contracts , competition and antitrust matters , product warranties , intellectual property matters , personal injury claims and employment-related matters .",
+      "it is our opinion that the outcome of such matters will not have a material adverse impact on our consolidated financial position , results of operations , or cash flows .",
+      "with respect to warranty matters , although we cannot ensure that the future costs of warranty claims by customers will not be material , we believe our established reserves are adequate to cover potential warranty settlements .",
+      "however , the final amounts required to resolve these matters could differ materially from our recorded estimates. ."
+    ],
+    "table": [
+      [
+        "",
+        "north america",
+        "europemiddle east& africa",
+        "asia pacific",
+        "south america",
+        "total"
+      ],
+      [
+        "electrical/electronic architecture",
+        "32",
+        "34",
+        "25",
+        "5",
+        "96"
+      ],
+      [
+        "powertrain systems",
+        "4",
+        "8",
+        "5",
+        "1",
+        "18"
+      ],
+      [
+        "electronics and safety",
+        "3",
+        "6",
+        "3",
+        "2014",
+        "12"
+      ],
+      [
+        "total",
+        "39",
+        "48",
+        "33",
+        "6",
+        "126"
+      ]
+    ],
+    "questions": [
+      "what percentage of major manufacturing sites are in asia pacific?"
+    ]
+  }
+}

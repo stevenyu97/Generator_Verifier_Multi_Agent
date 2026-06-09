@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "JPM/2010/page_219.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "jpmorgan chase & co./2010 annual report 219 note 13 2013 securities financing activities jpmorgan chase enters into resale agreements , repurchase agreements , securities borrowed transactions and securities loaned transactions ( collectively , 201csecurities financing agree- ments 201d ) primarily to finance the firm 2019s inventory positions , ac- quire securities to cover short positions , accommodate customers 2019 financing needs , and settle other securities obligations .",
+      "securities financing agreements are treated as collateralized financings on the firm 2019s consolidated balance sheets .",
+      "resale and repurchase agreements are generally carried at the amounts at which the securities will be subsequently sold or repurchased , plus accrued interest .",
+      "securities borrowed and securities loaned transactions are generally carried at the amount of cash collateral advanced or received .",
+      "where appropriate under applicable ac- counting guidance , resale and repurchase agreements with the same counterparty are reported on a net basis .",
+      "fees received or paid in connection with securities financing agreements are recorded in interest income or interest expense .",
+      "the firm has elected the fair value option for certain securities financing agreements .",
+      "for a further discussion of the fair value option , see note 4 on pages 187 2013189 of this annual report .",
+      "the securities financing agreements for which the fair value option has been elected are reported within securities purchased under resale agreements ; securities loaned or sold under repurchase agreements ; and securities borrowed on the consolidated bal- ance sheets .",
+      "generally , for agreements carried at fair value , current-period interest accruals are recorded within interest income and interest expense , with changes in fair value reported in principal transactions revenue .",
+      "however , for financial instru- ments containing embedded derivatives that would be separately accounted for in accordance with accounting guidance for hybrid instruments , all changes in fair value , including any interest elements , are reported in principal transactions revenue .",
+      "the following table details the firm 2019s securities financing agree- ments , all of which are accounted for as collateralized financings during the periods presented. ."
+    ],
+    "post_text": [
+      "( a ) includes resale agreements of $ 20.3 billion and $ 20.5 billion accounted for at fair value at december 31 , 2010 and 2009 , respectively .",
+      "( b ) includes securities borrowed of $ 14.0 billion and $ 7.0 billion accounted for at fair value at december 31 , 2010 and 2009 , respectively .",
+      "( c ) includes repurchase agreements of $ 4.1 billion and $ 3.4 billion accounted for at fair value at december 31 , 2010 and 2009 , respectively .",
+      "the amounts reported in the table above have been reduced by $ 112.7 billion and $ 121.2 billion at december 31 , 2010 and 2009 , respectively , as a result of agreements in effect that meet the specified conditions for net presentation under applicable accounting guidance .",
+      "jpmorgan chase 2019s policy is to take possession , where possible , of securities purchased under resale agreements and of securi- ties borrowed .",
+      "the firm monitors the market value of the un- derlying securities that it has received from its counterparties and either requests additional collateral or returns a portion of the collateral when appropriate in light of the market value of the underlying securities .",
+      "margin levels are established initially based upon the counterparty and type of collateral and moni- tored on an ongoing basis to protect against declines in collat- eral value in the event of default .",
+      "jpmorgan chase typically enters into master netting agreements and other collateral arrangements with its resale agreement and securities bor- rowed counterparties , which provide for the right to liquidate the purchased or borrowed securities in the event of a customer default .",
+      "as a result of the firm 2019s credit risk mitigation practices described above on resale and securities borrowed agreements , the firm did not hold any reserves for credit impairment on these agreements as of december 31 , 2010 and 2009 .",
+      "for a further discussion of assets pledged and collateral received in securities financing agreements see note 31 on pages 280 2013 281 of this annual report. ."
+    ],
+    "table": [
+      [
+        "december 31 ( in millions )",
+        "2010",
+        "2009"
+      ],
+      [
+        "securities purchased under resale agreements ( a )",
+        "$ 222302",
+        "$ 195328"
+      ],
+      [
+        "securities borrowed ( b )",
+        "123587",
+        "119630"
+      ],
+      [
+        "securities sold under repurchase agreements ( c )",
+        "$ 262722",
+        "$ 245692"
+      ],
+      [
+        "securities loaned",
+        "10592",
+        "7835"
+      ]
+    ],
+    "questions": [
+      "in 2010 what was the percent of the securities borrowed accounted for at fair value"
+    ]
+  }
+}

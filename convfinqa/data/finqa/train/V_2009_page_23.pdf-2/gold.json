@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average payment volume per transaction of visa inc?",
+      "answer": 48.09524,
+      "answer_raw": "48.09524",
+      "program": "divide(2727, 56.7)"
+    }
+  ]
+}

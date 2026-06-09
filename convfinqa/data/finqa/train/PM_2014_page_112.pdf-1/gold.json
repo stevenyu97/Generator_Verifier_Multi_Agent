@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in total accumulated other comprehensive losses in millions from 2012 to 2013?",
+      "answer": -586.0,
+      "answer_raw": "-586.0",
+      "program": "subtract(-4190, -3604)"
+    }
+  ]
+}

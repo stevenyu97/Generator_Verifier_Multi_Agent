@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in cash dividends received by the company from 2011 to 2012?",
+      "answer": 5.0,
+      "answer_raw": "5.0",
+      "program": "subtract(83, 78)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage change does this represent?",
+      "answer": 0.0641,
+      "answer_raw": "0.0641",
+      "program": "subtract(83, 78), divide(#0, 78)"
+    }
+  ]
+}

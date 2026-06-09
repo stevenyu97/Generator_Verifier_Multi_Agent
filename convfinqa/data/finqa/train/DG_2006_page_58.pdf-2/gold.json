@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the yearly depreciation rate on land improvements?",
+      "answer": 5.0,
+      "answer_raw": "5.0",
+      "program": "divide(const_100, 20)"
+    }
+  ]
+}

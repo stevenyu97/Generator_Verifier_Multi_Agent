@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the fair value per share in 2014?",
+      "answer": 45.45,
+      "answer_raw": "45.45",
+      "program": "45.45"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the fair value per share in 2013?",
+      "answer": 40.13,
+      "answer_raw": "40.13",
+      "program": "40.13"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the change in value?",
+      "answer": 5.32,
+      "answer_raw": "5.32",
+      "program": "subtract(45.45, 40.13)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the original value in 2013?",
+      "answer": 40.13,
+      "answer_raw": "40.13",
+      "program": "40.13"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what was the percent change?",
+      "answer": 0.13257,
+      "answer_raw": "0.13257",
+      "program": "subtract(45.45, 40.13), divide(#0, 40.13)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase in the dividends paid per share for the year from 2007 to 2008",
+      "answer": 0.0992,
+      "answer_raw": "0.0992",
+      "program": "subtract(8.20, 7.46), divide(#0, 7.46)"
+    }
+  ]
+}

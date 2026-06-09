@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "MS/2017/page_57.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis supplemental financial information and disclosures income tax matters effective tax rate from continuing operations ."
+    ],
+    "post_text": [
+      "adjusted effective income tax rate 2014 non-gaap1 30.8% ( 30.8 % ) 31.6% ( 31.6 % ) 32.3% ( 32.3 % ) 1 .",
+      "beginning in 2017 , income tax consequences associated with employee share-based awards are recognized in provision for income taxes in the income statements but are excluded from the intermittent net discrete tax provisions ( benefits ) adjustment as we anticipate conversion activity each year .",
+      "see note 2 to the financial statements on the adoption of the accounting update improvements to employee share-based payment accounting .",
+      "for 2015 , adjusted effective income tax rate also excludes dva .",
+      "for further information on non-gaap measures , see 201cselected non-gaap financial information 201d herein .",
+      "the effective tax rate from continuing operations for 2017 included an intermittent net discrete tax provision of $ 968 million , primarily related to the impact of the tax act , partially offset by net discrete tax benefits primarily associ- ated with the remeasurement of reserves and related interest due to new information regarding the status of multi-year irs tax examinations .",
+      "the tax act , enacted on december 22 , 2017 , significantly revised u.s .",
+      "corporate income tax law by , among other things , reducing the corporate income tax rate to 21% ( 21 % ) , and implementing a modified territorial tax system that includes a one-time transition tax on deemed repatriated earnings of non-u.s .",
+      "subsidiaries ; imposes a minimum tax on global intangible low-taxed income ( 201cgilti 201d ) and an alternative base erosion and anti-abuse tax ( 201cbeat 201d ) on u.s .",
+      "corpora- tions that make deductible payments to non-u.s .",
+      "related persons in excess of specified amounts ; and broadens the tax base by partially or wholly eliminating tax deductions for certain historically deductible expenses ( e.g. , fdic premiums and executive compensation ) .",
+      "we recorded an approximate $ 1.2 billion net discrete tax provision as a result of the enactment of the tax act , primarily from the remeasurement of certain deferred tax assets using the lower enacted corporate tax rate .",
+      "this provi- sion incorporates the best available information as of the enactment date as well as assumptions made based upon our current interpretation of the tax act .",
+      "our estimates may change as we receive additional clarification and implementa- tion guidance from the u.s .",
+      "treasury department and as the interpretation of the tax act evolves over time .",
+      "the ultimate impact of the income tax effects of the tax act will be deter- mined in connection with the preparation of our u.s .",
+      "consoli- dated federal income tax return .",
+      "taking into account our current assumptions , estimates and interpretations related to the tax act and other factors , we expect our effective tax rate from continuing operations for 2018 to be approximately 22% ( 22 % ) to 25% ( 25 % ) , depending on factors such as the geographic mix of earnings and employee share- based awards ( see 201cforward-looking statements 201d ) .",
+      "subsequent to the release of the firm 2019s 2017 earnings on january 18 , 2018 , certain estimates related to the net discrete tax provision associated with the enactment of the tax act were revised , resulting in a $ 43 million increase in the provi- sion for income taxes and a reallocation of impacts among segments .",
+      "this decreased diluted eps and diluted eps from continuing operations by $ 0.03 and $ 0.02 in the fourth quarter and year ended december 31 , 2017 , respectively .",
+      "on a business segment basis , the change resulted in an $ 89 million increase in provision for income taxes for wealth management , a $ 45 million decrease for institutional securi- ties , and a $ 1 million decrease for investment management .",
+      "the effective tax rate from continuing operations for 2016 included intermittent net discrete tax benefits of $ 68 million , primarily related to the remeasurement of reserves and related interest due to new information regarding the status of multi- year irs tax examinations , partially offset by adjustments for other tax matters .",
+      "the effective tax rate from continuing operations for 2015 included intermittent net discrete tax benefits of $ 564 million , primarily associated with the repatriation of non-u.s .",
+      "earn- ings at a cost lower than originally estimated due to an internal restructuring to simplify the legal entity organization in the u.k .",
+      "u.s .",
+      "bank subsidiaries we provide loans to a variety of customers , from large corpo- rate and institutional clients to high net worth individuals , primarily through our u.s .",
+      "bank subsidiaries , morgan stanley bank n.a .",
+      "( 201cmsbna 201d ) and morgan stanley private bank , national association ( 201cmspbna 201d ) ( collectively , 201cu.s .",
+      "bank subsidiaries 201d ) .",
+      "the lending activities in the institutional securities business segment primarily include loans and lending commitments to corporate clients .",
+      "the lending activ- ities in the wealth management business segment primarily include securities-based lending that allows clients to borrow december 2017 form 10-k 52 ."
+    ],
+    "table": [
+      [
+        "",
+        "2017",
+        "2016",
+        "2015"
+      ],
+      [
+        "u.s . gaap",
+        "40.1% ( 40.1 % )",
+        "30.8% ( 30.8 % )",
+        "25.9% ( 25.9 % )"
+      ],
+      [
+        "adjusted effective income taxrate 2014non-gaap1",
+        "30.8% ( 30.8 % )",
+        "31.6% ( 31.6 % )",
+        "32.3% ( 32.3 % )"
+      ]
+    ],
+    "questions": [
+      "what is the difference between u.s . gaap and adjusted effective income tax rate 2014non-gaap in 2017?"
+    ]
+  }
+}

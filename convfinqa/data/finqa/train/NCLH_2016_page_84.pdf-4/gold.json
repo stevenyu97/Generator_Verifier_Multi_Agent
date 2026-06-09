@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in december 2016 the nclc issued senior unsecured notes due december 2021 , what is the payment they will receive on december 2021?",
+      "answer": 733.25,
+      "answer_raw": "733.25",
+      "program": "multiply(700.0, 4.750%), add(#0, 700.0)"
+    }
+  ]
+}

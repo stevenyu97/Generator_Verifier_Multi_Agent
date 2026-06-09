@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the 2008 maturities as a part of the total maturities",
+      "answer": 0.01417,
+      "answer_raw": "0.01417",
+      "program": "divide(33117, 2336989)"
+    }
+  ]
+}

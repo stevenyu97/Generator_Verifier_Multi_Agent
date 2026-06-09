@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of natural gas price to wti oil price in 2017?",
+      "answer": 0.05886,
+      "answer_raw": "0.05886",
+      "program": "divide(2.99, 50.80)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the price of natural gas in 2016?",
+      "answer": 2.52,
+      "answer_raw": "2.52",
+      "program": "2.52"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what about the price of wti oil?",
+      "answer": 43.29,
+      "answer_raw": "43.29",
+      "program": "43.29"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is ratio of natural gas price to wti oil price in 2016?",
+      "answer": 0.05821,
+      "answer_raw": "0.05821",
+      "program": "divide(2.52, 43.29)"
+    }
+  ]
+}

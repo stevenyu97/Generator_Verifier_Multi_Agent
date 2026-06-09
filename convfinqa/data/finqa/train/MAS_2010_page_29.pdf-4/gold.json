@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the increase in the s&p industrial index from 2006 to 2007",
+      "answer": 0.11983,
+      "answer_raw": "0.11983",
+      "program": "subtract(126.72, 113.16), divide(#0, 113.16)"
+    }
+  ]
+}

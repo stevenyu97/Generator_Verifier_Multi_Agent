@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in value of unrealized losses from 2007 to 2008?",
+      "answer": 5.6,
+      "answer_raw": "5.6",
+      "program": "subtract(15.8, 10.2)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": 0.54902,
+      "answer_raw": "0.54902",
+      "program": "subtract(15.8, 10.2), divide(#0, 10.2)"
+    }
+  ]
+}

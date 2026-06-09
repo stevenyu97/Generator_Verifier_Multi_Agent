@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for ati what was the percent of the increase in the shares bought by employees from 2007 to 2008",
+      "answer": 0.14069,
+      "answer_raw": "0.14069",
+      "program": "subtract(55764, 48886), divide(#0, 48886)"
+    }
+  ]
+}

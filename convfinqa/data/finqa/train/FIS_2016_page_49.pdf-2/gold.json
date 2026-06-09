@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the unfavorable foreign currency impact in operating expenses in 2015?",
+      "answer": 212.0,
+      "answer_raw": "212.0",
+      "program": "subtract(243, 31)"
+    }
+  ]
+}

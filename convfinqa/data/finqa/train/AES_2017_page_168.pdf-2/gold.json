@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would the ending amount of unrecognized tax benefits for 2015 be ( in millions ) without settlements?",
+      "answer": 381.0,
+      "answer_raw": "381.0",
+      "program": "subtract(364, -17)"
+    }
+  ]
+}

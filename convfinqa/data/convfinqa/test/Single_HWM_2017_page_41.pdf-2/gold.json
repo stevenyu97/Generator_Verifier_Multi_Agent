@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the highest stock price in the second quarter of 2017?",
+      "answer": 28.65,
+      "answer_raw": "28.65",
+      "program": "28.65"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the lowest stock price?",
+      "answer": 21.76,
+      "answer_raw": "21.76",
+      "program": "21.76"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum of these two?",
+      "answer": 50.41,
+      "answer_raw": "50.41",
+      "program": "add(28.65, 21.76)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about the average?",
+      "answer": 25.205,
+      "answer_raw": "25.205",
+      "program": "add(28.65, 21.76), divide(#0, const_2)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average revenues from 2013 to 2015",
+      "answer": 691.66667,
+      "answer_raw": "691.66667",
+      "program": "add(766, 709), add(600, #0), divide(#1, const_3)"
+    }
+  ]
+}

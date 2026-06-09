@@ -1,0 +1,109 @@
+{
+  "input": {
+    "id": "BLK/2015/page_123.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "12 .",
+      "borrowings short-term borrowings 2015 revolving credit facility .",
+      "in march 2011 , the company entered into a five-year $ 3.5 billion unsecured revolving credit facility , which was amended in 2014 , 2013 and 2012 .",
+      "in april 2015 , the company 2019s credit facility was further amended to extend the maturity date to march 2020 and to increase the amount of the aggregate commitment to $ 4.0 billion ( the 201c2015 credit facility 201d ) .",
+      "the 2015 credit facility permits the company to request up to an additional $ 1.0 billion of borrowing capacity , subject to lender credit approval , increasing the overall size of the 2015 credit facility to an aggregate principal amount not to exceed $ 5.0 billion .",
+      "interest on borrowings outstanding accrues at a rate based on the applicable london interbank offered rate plus a spread .",
+      "the 2015 credit facility requires the company not to exceed a maximum leverage ratio ( ratio of net debt to earnings before interest , taxes , depreciation and amortization , where net debt equals total debt less unrestricted cash ) of 3 to 1 , which was satisfied with a ratio of less than 1 to 1 at december 31 , 2015 .",
+      "the 2015 credit facility provides back-up liquidity to fund ongoing working capital for general corporate purposes and various investment opportunities .",
+      "at december 31 , 2015 , the company had no amount outstanding under the 2015 credit facility .",
+      "commercial paper program .",
+      "on october 14 , 2009 , blackrock established a commercial paper program ( the 201ccp program 201d ) under which the company could issue unsecured commercial paper notes ( the 201ccp notes 201d ) on a private placement basis up to a maximum aggregate amount outstanding at any time of $ 4.0 billion as amended in april 2015 .",
+      "the cp program is currently supported by the 2015 credit facility .",
+      "at december 31 , 2015 , blackrock had no cp notes outstanding .",
+      "long-term borrowings the carrying value and fair value of long-term borrowings estimated using market prices and foreign exchange rates at december 31 , 2015 included the following : ( in millions ) maturity amount unamortized discount and debt issuance costs carrying value fair value ."
+    ],
+    "post_text": [
+      "long-term borrowings at december 31 , 2014 had a carrying value of $ 4.922 billion and a fair value of $ 5.309 billion determined using market prices at the end of december 2025 notes .",
+      "in may 2015 , the company issued 20ac700 million of 1.25% ( 1.25 % ) senior unsecured notes maturing on may 6 , 2025 ( the 201c2025 notes 201d ) .",
+      "the notes are listed on the new york stock exchange .",
+      "the net proceeds of the 2025 notes were used for general corporate purposes , including refinancing of outstanding indebtedness .",
+      "interest of approximately $ 10 million per year based on current exchange rates is payable annually on may 6 of each year .",
+      "the 2025 notes may be redeemed in whole or in part prior to maturity at any time at the option of the company at a 201cmake-whole 201d redemption price .",
+      "the unamortized discount and debt issuance costs are being amortized over the remaining term of the 2025 notes .",
+      "upon conversion to u.s .",
+      "dollars the company designated the 20ac700 million debt offering as a net investment hedge to offset its currency exposure relating to its net investment in certain euro functional currency operations .",
+      "a gain of $ 19 million , net of tax , was recognized in other comprehensive income for 2015 .",
+      "no hedge ineffectiveness was recognized during 2015 .",
+      "2024 notes .",
+      "in march 2014 , the company issued $ 1.0 billion in aggregate principal amount of 3.50% ( 3.50 % ) senior unsecured and unsubordinated notes maturing on march 18 , 2024 ( the 201c2024 notes 201d ) .",
+      "the net proceeds of the 2024 notes were used to refinance certain indebtedness which matured in the fourth quarter of 2014 .",
+      "interest is payable semi-annually in arrears on march 18 and september 18 of each year , or approximately $ 35 million per year .",
+      "the 2024 notes may be redeemed prior to maturity at any time in whole or in part at the option of the company at a 201cmake-whole 201d redemption price .",
+      "the unamortized discount and debt issuance costs are being amortized over the remaining term of the 2024 notes .",
+      "2022 notes .",
+      "in may 2012 , the company issued $ 1.5 billion in aggregate principal amount of unsecured unsubordinated obligations .",
+      "these notes were issued as two separate series of senior debt securities , including $ 750 million of 1.375% ( 1.375 % ) notes , which were repaid in june 2015 at maturity , and $ 750 million of 3.375% ( 3.375 % ) notes maturing in june 2022 ( the 201c2022 notes 201d ) .",
+      "net proceeds were used to fund the repurchase of blackrock 2019s common stock and series b preferred from barclays and affiliates and for general corporate purposes .",
+      "interest on the 2022 notes of approximately $ 25 million per year , respectively , is payable semi-annually on june 1 and december 1 of each year , which commenced december 1 , 2012 .",
+      "the 2022 notes may be redeemed prior to maturity at any time in whole or in part at the option of the company at a 201cmake-whole 201d redemption price .",
+      "the 201cmake-whole 201d redemption price represents a price , subject to the specific terms of the 2022 notes and related indenture , that is the greater of ( a ) par value and ( b ) the present value of future payments that will not be paid because of an early redemption , which is discounted at a fixed spread over a ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "maturityamount",
+        "unamortized discount and debt issuance costs",
+        "carrying value",
+        "fair value"
+      ],
+      [
+        "6.25% ( 6.25 % ) notes due 2017",
+        "$ 700",
+        "$ -1 ( 1 )",
+        "$ 699",
+        "$ 757"
+      ],
+      [
+        "5.00% ( 5.00 % ) notes due 2019",
+        "1000",
+        "-3 ( 3 )",
+        "997",
+        "1106"
+      ],
+      [
+        "4.25% ( 4.25 % ) notes due 2021",
+        "750",
+        "-5 ( 5 )",
+        "745",
+        "828"
+      ],
+      [
+        "3.375% ( 3.375 % ) notes due 2022",
+        "750",
+        "-6 ( 6 )",
+        "744",
+        "773"
+      ],
+      [
+        "3.50% ( 3.50 % ) notes due 2024",
+        "1000",
+        "-8 ( 8 )",
+        "992",
+        "1030"
+      ],
+      [
+        "1.25% ( 1.25 % ) notes due 2025",
+        "760",
+        "-7 ( 7 )",
+        "753",
+        "729"
+      ],
+      [
+        "total long-term borrowings",
+        "$ 4960",
+        "$ -30 ( 30 )",
+        "$ 4930",
+        "$ 5223"
+      ]
+    ],
+    "questions": [
+      "what portion of total long-term borrowings is due in the next 36 months as of december 31 , 2015?"
+    ]
+  }
+}

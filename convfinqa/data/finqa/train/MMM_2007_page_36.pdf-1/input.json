@@ -1,0 +1,73 @@
+{
+  "input": {
+    "id": "MMM/2007/page_36.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "new accounting pronouncements information regarding new accounting pronouncements is included in note 1 to the consolidated financial statements .",
+      "financial condition and liquidity the company generates significant ongoing cash flow .",
+      "increases in long-term debt have been used , in part , to fund share repurchase activities and acquisitions .",
+      "on november 15 , 2007 , 3m ( safety , security and protection services business ) announced that it had entered into a definitive agreement for 3m 2019s acquisition of 100 percent of the outstanding shares of aearo holding corp .",
+      "e83a a global leader in the personal protection industry that manufactures and markets personal protection and energy absorbing products e83a for approximately $ 1.2 billion .",
+      "the sale is expected to close towards the end of the first quarter of 2008 .",
+      "at december 31 ."
+    ],
+    "post_text": [
+      "cash , cash equivalents and marketable securities at december 31 , 2007 totaled approximately $ 3 billion , helped by strong cash flow generation and by the timing of debt issuances .",
+      "at december 31 , 2006 , cash balances were higher due to the significant pharmaceuticals sales proceeds received in december 2006 .",
+      "3m believes its ongoing cash flows provide ample cash to fund expected investments and capital expenditures .",
+      "the company has sufficient access to capital markets to meet currently anticipated growth and acquisition investment funding needs .",
+      "the company does not utilize derivative instruments linked to the company 2019s stock .",
+      "however , the company does have contingently convertible debt that , if conditions for conversion are met , is convertible into shares of 3m common stock ( refer to note 10 in this document ) .",
+      "the company 2019s financial condition and liquidity are strong .",
+      "various assets and liabilities , including cash and short-term debt , can fluctuate significantly from month to month depending on short-term liquidity needs .",
+      "working capital ( defined as current assets minus current liabilities ) totaled $ 4.476 billion at december 31 , 2007 , compared with $ 1.623 billion at december 31 , 2006 .",
+      "working capital was higher primarily due to increases in cash and cash equivalents , short-term marketable securities , receivables and inventories and decreases in short-term debt and accrued income taxes .",
+      "the company 2019s liquidity remains strong , with cash , cash equivalents and marketable securities at december 31 , 2007 totaling approximately $ 3 billion .",
+      "primary short-term liquidity needs are provided through u.s .",
+      "commercial paper and euro commercial paper issuances .",
+      "as of december 31 , 2007 , outstanding total commercial paper issued totaled $ 349 million and averaged $ 1.249 billion during 2007 .",
+      "the company believes it unlikely that its access to the commercial paper market will be restricted .",
+      "in june 2007 , the company established a medium-term notes program through which up to $ 3 billion of medium-term notes may be offered , with remaining shelf borrowing capacity of $ 2.5 billion as of december 31 , 2007 .",
+      "on april 30 , 2007 , the company replaced its $ 565-million credit facility with a new $ 1.5-billion five-year credit facility , which has provisions for the company to request an increase of the facility up to $ 2 billion ( at the lenders 2019 discretion ) , and providing for up to $ 150 million in letters of credit .",
+      "as of december 31 , 2007 , there are $ 110 million in letters of credit drawn against the facility .",
+      "at december 31 , 2007 , available short-term committed lines of credit internationally totaled approximately $ 67 million , of which $ 13 million was utilized .",
+      "debt covenants do not restrict the payment of dividends .",
+      "the company has a \"well-known seasoned issuer\" shelf registration statement , effective february 24 , 2006 , to register an indeterminate amount of debt or equity securities for future sales .",
+      "the company intends to use the proceeds from future securities sales off this shelf for general corporate purposes .",
+      "at december 31 , 2007 , certain debt agreements ( $ 350 million of dealer remarketable securities and $ 87 million of esop debt ) had ratings triggers ( bbb-/baa3 or lower ) that would require repayment of debt .",
+      "the company has an aa credit rating , with a stable outlook , from standard & poor 2019s and an aa1 credit rating , with a negative outlook , from moody 2019s investors service .",
+      "in addition , under the $ 1.5-billion five-year credit facility agreement , 3m is required to maintain its ebitda to interest ratio as of the end of each fiscal quarter at not less than 3.0 to 1 .",
+      "this is calculated ( as defined in the agreement ) as the ratio of consolidated total ebitda for the four consecutive quarters then ended to total interest expense on all funded debt for the same period .",
+      "at december 31 , 2007 , this ratio was approximately 35 to 1. ."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "total debt",
+        "$ 4920",
+        "$ 3553",
+        "$ 2381"
+      ],
+      [
+        "less : cash cash equivalents and marketable securities",
+        "2955",
+        "2084",
+        "1072"
+      ],
+      [
+        "net debt",
+        "$ 1965",
+        "$ 1469",
+        "$ 1309"
+      ]
+    ],
+    "questions": [
+      "in 2007 what was the ratio of the total debt to cash cash equivalents and marketable securities"
+    ]
+  }
+}

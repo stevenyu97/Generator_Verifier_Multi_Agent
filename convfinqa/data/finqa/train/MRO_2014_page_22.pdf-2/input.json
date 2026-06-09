@@ -1,0 +1,81 @@
+{
+  "input": {
+    "id": "MRO/2014/page_22.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "during 2014 , 2013 and 2012 , netherland , sewell & associates , inc .",
+      "( \"nsai\" ) prepared a certification of the prior year's reserves for the alba field in e.g .",
+      "the nsai summary reports are filed as an exhibit to this annual report on form 10-k .",
+      "members of the nsai team have multiple years of industry experience , having worked for large , international oil and gas companies before joining nsai .",
+      "the senior technical advisor has over 35 years of practical experience in petroleum geosciences , with over 15 years experience in the estimation and evaluation of reserves .",
+      "the second team member has over 10 years of practical experience in petroleum engineering , with 5 years experience in the estimation and evaluation of reserves .",
+      "both are registered professional engineers in the state of texas .",
+      "ryder scott company ( \"ryder scott\" ) also performed audits of the prior years' reserves of several of our fields in 2014 , 2013 and 2012 .",
+      "their summary reports are filed as exhibits to this annual report on form 10-k .",
+      "the team lead for ryder scott has over 20 years of industry experience , having worked for a major international oil and gas company before joining ryder scott .",
+      "he is a member of spe , where he served on the oil and gas reserves committee , and is a registered professional engineer in the state of texas .",
+      "changes in proved undeveloped reserves as of december 31 , 2014 , 728 mmboe of proved undeveloped reserves were reported , an increase of 101 mmboe from december 31 , 2013 .",
+      "the following table shows changes in total proved undeveloped reserves for 2014 : ( mmboe ) ."
+    ],
+    "post_text": [
+      "significant additions to proved undeveloped reserves during 2014 included 121 mmboe in the eagle ford and 61 mmboe in the bakken shale plays due to development drilling .",
+      "transfers from proved undeveloped to proved developed reserves included 67 mmboe in the eagle ford , 26 mmboe in the bakken and 1 mmboe in the oklahoma resource basins due to development drilling and completions .",
+      "costs incurred in 2014 , 2013 and 2012 relating to the development of proved undeveloped reserves , were $ 3149 million , $ 2536 million and $ 1995 million .",
+      "a total of 102 mmboe was booked as extensions , discoveries or other additions due to the application of reliable technology .",
+      "technologies included statistical analysis of production performance , decline curve analysis , pressure and rate transient analysis , reservoir simulation and volumetric analysis .",
+      "the statistical nature of production performance coupled with highly certain reservoir continuity or quality within the reliable technology areas and sufficient proved undeveloped locations establish the reasonable certainty criteria required for booking proved reserves .",
+      "projects can remain in proved undeveloped reserves for extended periods in certain situations such as large development projects which take more than five years to complete , or the timing of when additional gas compression is needed .",
+      "of the 728 mmboe of proved undeveloped reserves at december 31 , 2014 , 19 percent of the volume is associated with projects that have been included in proved reserves for more than five years .",
+      "the majority of this volume is related to a compression project in e.g .",
+      "that was sanctioned by our board of directors in 2004 .",
+      "the timing of the installation of compression is being driven by the reservoir performance with this project intended to maintain maximum production levels .",
+      "performance of this field since the board sanctioned the project has far exceeded expectations .",
+      "estimates of initial dry gas in place increased by roughly 10 percent between 2004 and 2010 .",
+      "during 2012 , the compression project received the approval of the e.g .",
+      "government , allowing design and planning work to progress towards implementation , with completion expected by mid-2016 .",
+      "the other component of alba proved undeveloped reserves is an infill well approved in 2013 and to be drilled in the second quarter of 2015 .",
+      "proved undeveloped reserves for the north gialo development , located in the libyan sahara desert , were booked for the first time in 2010 .",
+      "this development , which is anticipated to take more than five years to develop , is executed by the operator and encompasses a multi-year drilling program including the design , fabrication and installation of extensive liquid handling and gas recycling facilities .",
+      "anecdotal evidence from similar development projects in the region lead to an expected project execution time frame of more than five years from the time the reserves were initially booked .",
+      "interruptions associated with the civil unrest in 2011 and third-party labor strikes and civil unrest in 2013-2014 have also extended the project duration .",
+      "as of december 31 , 2014 , future development costs estimated to be required for the development of proved undeveloped crude oil and condensate , ngls , natural gas and synthetic crude oil reserves related to continuing operations for the years 2015 through 2019 are projected to be $ 2915 million , $ 2598 million , $ 2493 million , $ 2669 million and $ 2745 million. ."
+    ],
+    "table": [
+      [
+        "beginning of year",
+        "627"
+      ],
+      [
+        "revisions of previous estimates",
+        "1"
+      ],
+      [
+        "improved recovery",
+        "1"
+      ],
+      [
+        "purchases of reserves in place",
+        "4"
+      ],
+      [
+        "extensions discoveries and other additions",
+        "227"
+      ],
+      [
+        "dispositions",
+        "-29 ( 29 )"
+      ],
+      [
+        "transfers to proved developed",
+        "-103 ( 103 )"
+      ],
+      [
+        "end of year",
+        "728"
+      ]
+    ],
+    "questions": [
+      "by how much did undeveloped reserves increase throughout 2014 ff1f"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by what amount did the sales of glass increase due to higher selling prices?",
+      "answer": 43.9,
+      "answer_raw": "43.9",
+      "program": "multiply(2195, 2%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much is that in dollars?",
+      "answer": 43900000.0,
+      "answer_raw": "43900000.0",
+      "program": "multiply(2195, 2%), multiply(#0, const_1000000)"
+    }
+  ]
+}

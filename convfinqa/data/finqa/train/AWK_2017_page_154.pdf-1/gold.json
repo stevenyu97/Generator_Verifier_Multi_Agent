@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the actual return on assets as a percentage of beginning 2017 balance?",
+      "answer": 0.01429,
+      "answer_raw": "0.01429",
+      "program": "divide(2, 140)"
+    }
+  ]
+}

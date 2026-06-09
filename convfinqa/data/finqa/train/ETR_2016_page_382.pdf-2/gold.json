@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "the company has four separate credit facilities expiring in may 2017 . what was the average amount in millions of those four facilties?",
+      "answer": 25.625,
+      "answer_raw": "25.625",
+      "program": "divide(102.5, const_4)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total purchase consideration is goodwill?",
+      "answer": 0.39684,
+      "answer_raw": "0.39684",
+      "program": "divide(94250, 237500)"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "input": {
+    "id": "Single_GS/2017/page_65.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the goldman sachs group , inc .",
+      "and subsidiaries management 2019s discussion and analysis net revenues the table below presents our net revenues by line item in the consolidated statements of earnings. ."
+    ],
+    "post_text": [
+      "in the table above : 2030 investment banking consists of revenues ( excluding net interest ) from financial advisory and underwriting assignments , as well as derivative transactions directly related to these assignments .",
+      "these activities are included in our investment banking segment .",
+      "2030 investment management consists of revenues ( excluding net interest ) from providing investment management services to a diverse set of clients , as well as wealth advisory services and certain transaction services to high-net-worth individuals and families .",
+      "these activities are included in our investment management segment .",
+      "2030 commissions and fees consists of revenues from executing and clearing client transactions on major stock , options and futures exchanges worldwide , as well as over-the-counter ( otc ) transactions .",
+      "these activities are included in our institutional client services and investment management segments .",
+      "2030 market making consists of revenues ( excluding net interest ) from client execution activities related to making markets in interest rate products , credit products , mortgages , currencies , commodities and equity products .",
+      "these activities are included in our institutional client services segment .",
+      "2030 other principal transactions consists of revenues ( excluding net interest ) from our investing activities and the origination of loans to provide financing to clients .",
+      "in addition , other principal transactions includes revenues related to our consolidated investments .",
+      "these activities are included in our investing & lending segment .",
+      "operating environment .",
+      "during 2017 , generally higher asset prices and tighter credit spreads were supportive of industry-wide underwriting activities , investment management performance and other principal transactions .",
+      "however , low levels of volatility in equity , fixed income , currency and commodity markets continued to negatively affect our market-making activities , particularly in fixed income , currency and commodity products .",
+      "the price of natural gas decreased significantly during 2017 , while the price of oil increased compared with the end of 2016 .",
+      "if the trend of low volatility continues over the long term and market-making activity levels remain low , or if investment banking activity levels , asset prices or assets under supervision decline , net revenues would likely be negatively impacted .",
+      "see 201csegment operating results 201d below for further information about the operating environment and material trends and uncertainties that may impact our results of operations .",
+      "the first half of 2016 included challenging trends in the operating environment for our business activities including concerns and uncertainties about global economic growth , central bank activity and the political uncertainty and economic implications surrounding the potential exit of the u.k .",
+      "from the e.u .",
+      "during the second half of 2016 , the operating environment improved , as global equity markets steadily increased and investment grade and high-yield credit spreads tightened .",
+      "these trends provided a more favorable backdrop for our business activities .",
+      "2017 versus 2016 net revenues in the consolidated statements of earnings were $ 32.07 billion for 2017 , 5% ( 5 % ) higher than 2016 , due to significantly higher other principal transactions revenues , and higher investment banking revenues , investment management revenues and net interest income .",
+      "these increases were partially offset by significantly lower market making revenues and lower commissions and fees .",
+      "non-interest revenues .",
+      "investment banking revenues in the consolidated statements of earnings were $ 7.37 billion for 2017 , 18% ( 18 % ) higher than 2016 .",
+      "revenues in financial advisory were higher compared with 2016 , reflecting an increase in completed mergers and acquisitions transactions .",
+      "revenues in underwriting were significantly higher compared with 2016 , due to significantly higher revenues in both debt underwriting , primarily reflecting an increase in industry-wide leveraged finance activity , and equity underwriting , reflecting an increase in industry-wide secondary offerings .",
+      "52 goldman sachs 2017 form 10-k ."
+    ],
+    "table": [
+      [
+        "$ in millions",
+        "year ended december 2017",
+        "year ended december 2016",
+        "year ended december 2015"
+      ],
+      [
+        "investment banking",
+        "$ 7371",
+        "$ 6273",
+        "$ 7027"
+      ],
+      [
+        "investment management",
+        "5803",
+        "5407",
+        "5868"
+      ],
+      [
+        "commissions and fees",
+        "3051",
+        "3208",
+        "3320"
+      ],
+      [
+        "market making",
+        "7660",
+        "9933",
+        "9523"
+      ],
+      [
+        "other principal transactions",
+        "5256",
+        "3200",
+        "5018"
+      ],
+      [
+        "totalnon-interestrevenues",
+        "29141",
+        "28021",
+        "30756"
+      ],
+      [
+        "interest income",
+        "13113",
+        "9691",
+        "8452"
+      ],
+      [
+        "interest expense",
+        "10181",
+        "7104",
+        "5388"
+      ],
+      [
+        "net interest income",
+        "2932",
+        "2587",
+        "3064"
+      ],
+      [
+        "total net revenues",
+        "$ 32073",
+        "$ 30608",
+        "$ 33820"
+      ]
+    ],
+    "questions": [
+      "what was the total net revenues for 2016?",
+      "and for 2015?",
+      "so how much did this value change over the year?",
+      "and the growth rate for that time?"
+    ]
+  }
+}

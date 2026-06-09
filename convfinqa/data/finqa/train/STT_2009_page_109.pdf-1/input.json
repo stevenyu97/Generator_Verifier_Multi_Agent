@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "STT/2009/page_109.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "in connection with our assessment of impairment we recorded gross other-than-temporary impairment of $ 1.15 billion for 2009 , compared to $ 122 million for 2008 .",
+      "of the total recorded , $ 227 million related to credit and was recognized in our consolidated statement of income .",
+      "the remaining $ 928 million related to factors other than credit , more fully discussed below , and was recognized , net of related taxes , in oci in our consolidated statement of condition .",
+      "the $ 227 million was composed of $ 151 million associated with expected credit losses , $ 54 million related to management 2019s decision to sell the impaired securities prior to their recovery in value , and $ 22 million related to adverse changes in the timing of expected future cash flows from the securities .",
+      "the majority of the impairment losses related to non-agency securities collateralized by mortgages , for which management concluded had experienced credit losses based on the present value of the securities 2019 expected future cash flows .",
+      "these securities are classified as asset-backed securities in the foregoing investment securities tables .",
+      "as described in note 1 , management periodically reviews the fair values of investment securities to determine if other-than-temporary impairment has occurred .",
+      "this review encompasses all investment securities and includes such quantitative factors as current and expected future interest rates and the length of time that a security 2019s cost basis has exceeded its fair value , and includes investment securities for which we have issuer- specific concerns regardless of quantitative factors .",
+      "gains and losses related to investment securities were as follows for the years ended december 31: ."
+    ],
+    "post_text": [
+      "( 1 ) these losses were recognized as a component of oci ; see note 12 .",
+      "we conduct periodic reviews to evaluate each security that is impaired .",
+      "impairment exists when the current fair value of an individual security is below its amortized cost basis .",
+      "for debt securities available for sale and held to maturity , other-than-temporary impairment is recorded in our consolidated statement of income when management intends to sell ( or may be required to sell ) securities before they recover in value , or when management expects the present value of cash flows expected to be collected to be less than the amortized cost of the impaired security ( a credit loss ) .",
+      "our review of impaired securities generally includes : 2022 the identification and evaluation of securities that have indications of possible other-than-temporary impairment , such as issuer-specific concerns including deteriorating financial condition or bankruptcy ; 2022 the analysis of expected future cash flows of securities , based on quantitative and qualitative factors ; 2022 the analysis of the collectability of those future cash flows , including information about past events , current conditions and reasonable and supportable forecasts ; 2022 the analysis of individual impaired securities , including consideration of the length of time the security has been in an unrealized loss position and the anticipated recovery period ; 2022 the discussion of evidential matter , including an evaluation of factors or triggers that could cause individual securities to be deemed other-than-temporarily impaired and those that would not support other-than-temporary impairment ; and 2022 documentation of the results of these analyses .",
+      "factors considered in determining whether impairment is other than temporary include : 2022 the length of time the security has been impaired; ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2009",
+        "2008",
+        "2007"
+      ],
+      [
+        "gross gains from sales of available-for-sale securities",
+        "$ 418",
+        "$ 100",
+        "$ 24"
+      ],
+      [
+        "gross losses from sales of available-for-sale securities",
+        "-50 ( 50 )",
+        "-32 ( 32 )",
+        "-17 ( 17 )"
+      ],
+      [
+        "gross losses from other-than-temporary impairment",
+        "-1155 ( 1155 )",
+        "-122 ( 122 )",
+        "-34 ( 34 )"
+      ],
+      [
+        "losses not related to credit ( 1 )",
+        "928",
+        "2014",
+        "2014"
+      ],
+      [
+        "net impairment losses",
+        "-227 ( 227 )",
+        "-122 ( 122 )",
+        "-34 ( 34 )"
+      ],
+      [
+        "gains ( losses ) related to investment securities net",
+        "$ 141",
+        "$ -54 ( 54 )",
+        "$ -27 ( 27 )"
+      ]
+    ],
+    "questions": [
+      "what was the percent change in gross gains from sales of available-for-sale securities between 2008 and 2009?"
+    ]
+  }
+}

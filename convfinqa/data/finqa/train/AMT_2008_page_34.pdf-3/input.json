@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "AMT/2008/page_34.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "act of 1933 , as amended , and section 1145 of the united states code .",
+      "no underwriters were engaged in connection with such issuances .",
+      "during the three months ended december 31 , 2008 , we issued an aggregate of 7173456 shares of our common stock upon conversion of $ 147.1 million principal amount of our 3.00% ( 3.00 % ) notes .",
+      "pursuant to the terms of the indenture , holders of the 3.00% ( 3.00 % ) notes receive 48.7805 shares of our common stock for every $ 1000 principal amount of notes converted .",
+      "in connection with the conversions , we paid such holders an aggregate of approximately $ 3.7 million , calculated based on the accrued and unpaid interest on the notes and the discounted value of the future interest payments on the notes .",
+      "all shares were issued in reliance on the exemption from registration set forth in section 3 ( a ) ( 9 ) of the securities act of 1933 , as amended .",
+      "no underwriters were engaged in connection with such issuances .",
+      "issuer purchases of equity securities during the three months ended december 31 , 2008 , we repurchased 2784221 shares of our common stock for an aggregate of $ 79.4 million , including commissions and fees , pursuant to our publicly announced stock repurchase program , as follows : period total number of shares purchased ( 1 ) average price paid per share total number of shares purchased as part of publicly announced plans or programs approximate dollar value of shares that may yet be purchased under the plans or programs ( in millions ) ."
+    ],
+    "post_text": [
+      "( 1 ) repurchases made pursuant to the $ 1.5 billion stock repurchase program approved by our board of directors in february 2008 .",
+      "under this program , our management is authorized to purchase shares from time to time through open market purchases or privately negotiated transactions at prevailing prices as permitted by securities laws and other legal requirements , and subject to market conditions and other factors .",
+      "to facilitate repurchases , we make purchases pursuant to a trading plan under rule 10b5-1 of the exchange act , which allows us to repurchase shares during periods when we otherwise might be prevented from doing so under insider trading laws or because of self-imposed trading blackout periods .",
+      "this program may be discontinued at any time .",
+      "as reflected in the above table , in the fourth quarter of 2008 , we significantly reduced purchases of common stock under our stock repurchase program based on the downturn in the economy and the disruptions in the financial and credit markets .",
+      "subsequent to december 31 , 2008 , we repurchased approximately 28000 shares of our common stock for an aggregate of $ 0.8 million , including commissions and fees , pursuant to this program .",
+      "we expect to continue to manage the pacing of the program in the future in response to general market conditions and other relevant factors. ."
+    ],
+    "table": [
+      [
+        "period",
+        "total number of shares purchased ( 1 )",
+        "average price paid per share",
+        "total number of shares purchased as part of publicly announced plans or programs",
+        "approximate dollar value of shares that may yet be purchased under the plans orprograms ( in millions )"
+      ],
+      [
+        "october 2008",
+        "1379180",
+        "$ 30.51",
+        "1379180",
+        "$ 1005.3"
+      ],
+      [
+        "november 2008",
+        "1315800",
+        "$ 26.51",
+        "1315800",
+        "$ 970.4"
+      ],
+      [
+        "december 2008",
+        "89241",
+        "$ 27.32",
+        "89241",
+        "$ 967.9"
+      ],
+      [
+        "total fourth quarter",
+        "2784221",
+        "$ 28.53",
+        "2784221",
+        "$ 967.9"
+      ]
+    ],
+    "questions": [
+      "what is the total cash used for stock repurchase during the fourth quarter of 2008 , in millions?"
+    ]
+  }
+}

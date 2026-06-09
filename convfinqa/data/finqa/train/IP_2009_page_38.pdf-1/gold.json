@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage decrease in annual sales of printing papers and graphic arts supplies and equipment from 2008 to 2009?",
+      "answer": 0.21154,
+      "answer_raw": "0.21154",
+      "program": "subtract(5.2, 4.1), divide(#0, 5.2)"
+    }
+  ]
+}

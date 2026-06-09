@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the securitization bonds issued by entergy gulf states reconstruction funding has a maturity date in 2022?",
+      "answer": 0.34719,
+      "answer_raw": "0.34719",
+      "program": "divide(114400, 329500)"
+    }
+  ]
+}

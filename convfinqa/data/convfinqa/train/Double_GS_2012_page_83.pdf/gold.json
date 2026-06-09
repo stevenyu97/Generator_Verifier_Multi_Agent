@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of the fair value of securities and certain overnight cash deposits in non-u.s . dollar-denominated assets in 2012?",
+      "answer": 46984.0,
+      "answer_raw": "46984.0",
+      "program": "46984"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the total air value of securities and certain overnight cash deposits?",
+      "answer": 172095.0,
+      "answer_raw": "172095.0",
+      "program": "172095"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what portion is in non-u.s . dollar-denominated assets in 2012?",
+      "answer": 0.27301,
+      "answer_raw": "0.27301",
+      "program": "divide(46984, 172095)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what the portion in 2011?",
+      "answer": 0.24278,
+      "answer_raw": "0.24278",
+      "program": "divide(40291, 165959)"
+    }
+  ]
+}

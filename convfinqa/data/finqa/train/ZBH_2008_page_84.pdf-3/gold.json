@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "% (  % ) change of the dilutive effect from 2006-2008",
+      "answer": 0.58333,
+      "answer_raw": "0.58333",
+      "program": "divide(const_1, 2.4), subtract(const_1, #0)"
+    }
+  ]
+}

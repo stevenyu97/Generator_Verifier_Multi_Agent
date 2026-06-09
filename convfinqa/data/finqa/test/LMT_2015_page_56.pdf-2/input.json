@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "LMT/2015/page_56.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "2014 compared to 2013 mst 2019s net sales decreased $ 305 million , or 3% ( 3 % ) , in 2014 as compared to 2013 .",
+      "net sales decreased by approximately $ 305 million due to the wind-down or completion of certain c4isr programs ( primarily ptds ) ; about $ 85 million for undersea systems programs due to decreased volume and deliveries ; and about $ 55 million related to the settlements of contract cost matters on certain programs in 2013 that were not repeated in 2014 ( including a portion of the terminated presidential helicopter program ) .",
+      "the decreases were partially offset by higher net sales of approximately $ 80 million for integrated warfare systems and sensors programs due to increased volume ( primarily space fence ) ; and approximately $ 40 million for training and logistics solutions programs due to increased deliveries ( primarily close combat tactical trainer ) .",
+      "mst 2019s operating profit decreased $ 129 million , or 12% ( 12 % ) , in 2014 as compared to 2013 .",
+      "the decrease was primarily attributable to lower operating profit of approximately $ 120 million related to the settlements of contract cost matters on certain programs in 2013 that were not repeated in 2014 ( including a portion of the terminated presidential helicopter program ) ; approximately $ 55 million due to the reasons described above for lower c4isr program sales , as well as performance matters on an international program ; and approximately $ 45 million due to higher reserves recorded on certain training and logistics solutions programs .",
+      "the decreases were partially offset by higher operating profit of approximately $ 45 million for performance matters and reserves recorded in 2013 that were not repeated in 2014 ; and about $ 60 million for various programs due to increased risk retirements ( including mh-60 and radar surveillance programs ) .",
+      "adjustments not related to volume , including net profit booking rate adjustments and other matters , were approximately $ 85 million lower for 2014 compared to 2013 .",
+      "backlog backlog increased in 2015 compared to 2014 primarily due to the addition of sikorsky backlog , as well as higher orders on new program starts ( such as australian defence force pilot training system ) .",
+      "backlog increased in 2014 compared to 2013 primarily due to higher orders on new program starts ( such as space fence ) .",
+      "trends we expect mst 2019s 2016 net sales to increase in the mid-double digit percentage range compared to 2015 net sales due to the inclusion of sikorsky programs for a full year , partially offset by a decline in volume due to the wind-down or completion of certain programs .",
+      "operating profit is expected to be equivalent to 2015 on higher volume , and operating margin is expected to decline due to costs associated with the sikorsky acquisition , including the impact of purchase accounting adjustments , integration costs and inherited restructuring costs associated with actions committed to by sikorsky prior to acquisition .",
+      "space systems our space systems business segment is engaged in the research and development , design , engineering and production of satellites , strategic and defensive missile systems and space transportation systems .",
+      "space systems provides network-enabled situational awareness and integrates complex global systems to help our customers gather , analyze , and securely distribute critical intelligence data .",
+      "space systems is also responsible for various classified systems and services in support of vital national security systems .",
+      "space systems 2019 major programs include the trident ii d5 fleet ballistic missile ( fbm ) , orion , space based infrared system ( sbirs ) , aehf , gps-iii , geostationary operational environmental satellite r-series ( goes-r ) , and muos .",
+      "operating profit for our space systems business segment includes our share of earnings for our investment in ula , which provides expendable launch services to the u.s .",
+      "government .",
+      "space systems 2019 operating results included the following ( in millions ) : ."
+    ],
+    "post_text": [
+      "2015 compared to 2014 space systems 2019 net sales in 2015 decreased $ 97 million , or 1% ( 1 % ) , compared to 2014 .",
+      "the decrease was attributable to approximately $ 335 million lower net sales for government satellite programs due to decreased volume ( primarily aehf ) and the wind-down or completion of mission solutions programs ; and approximately $ 55 million for strategic missile and defense systems due to lower volume .",
+      "these decreases were partially offset by higher net sales of approximately $ 235 million for businesses acquired in 2014 ; and approximately $ 75 million for the orion program due to increased volume. ."
+    ],
+    "table": [
+      [
+        "",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "net sales",
+        "$ 9105",
+        "$ 9202",
+        "$ 9288"
+      ],
+      [
+        "operating profit",
+        "1171",
+        "1187",
+        "1198"
+      ],
+      [
+        "operating margins",
+        "12.9% ( 12.9 % )",
+        "12.9% ( 12.9 % )",
+        "12.9% ( 12.9 % )"
+      ],
+      [
+        "backlog at year-end",
+        "$ 17400",
+        "$ 20300",
+        "$ 21400"
+      ]
+    ],
+    "questions": [
+      "what was average net sales for space systems in millions from 2013 to 2015?"
+    ]
+  }
+}

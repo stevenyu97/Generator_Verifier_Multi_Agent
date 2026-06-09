@@ -1,0 +1,50 @@
+{
+  "input": {
+    "id": "CB/2008/page_243.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "s c h e d u l e i v ( continued ) ace limited and subsidiaries s u p p l e m e n t a l i n f o r m a t i o n c o n c e r n i n g r e i n s u r a n c e premiums earned for the years ended december 31 , 2008 , 2007 , and 2006 ( in millions of u.s .",
+      "dollars ) direct amount ceded to companies assumed from other companies net amount percentage of amount assumed to ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "for the years ended december 31 2008 2007 and 2006 ( in millions of u.s . dollars )",
+        "direct amount",
+        "ceded to other companies",
+        "assumed from other companies",
+        "net amount",
+        "percentage of amount assumed to net"
+      ],
+      [
+        "2008",
+        "$ 16087",
+        "$ 6144",
+        "$ 3260",
+        "$ 13203",
+        "25% ( 25 % )"
+      ],
+      [
+        "2007",
+        "$ 14673",
+        "$ 5834",
+        "$ 3458",
+        "$ 12297",
+        "28% ( 28 % )"
+      ],
+      [
+        "2006",
+        "$ 13562",
+        "$ 5198",
+        "$ 3461",
+        "$ 11825",
+        "29% ( 29 % )"
+      ]
+    ],
+    "questions": [
+      "in 2008 what was the ratio of the direct amount to the amount ceded to other companies"
+    ]
+  }
+}

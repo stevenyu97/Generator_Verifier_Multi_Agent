@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the cumulative total return on the s & p 500 for the five year period?",
+      "answer": 136.98,
+      "answer_raw": "136.98",
+      "program": "subtract(236.98, 100.00)"
+    }
+  ]
+}

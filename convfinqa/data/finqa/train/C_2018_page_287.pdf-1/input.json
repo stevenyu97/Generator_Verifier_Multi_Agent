@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "C/2018/page_287.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "own debt valuation adjustments ( dva ) own debt valuation adjustments are recognized on citi 2019s liabilities for which the fair value option has been elected using citi 2019s credit spreads observed in the bond market .",
+      "effective january 1 , 2016 , changes in fair value of fair value option liabilities related to changes in citigroup 2019s own credit spreads ( dva ) are reflected as a component of aoci .",
+      "see note 1 to the consolidated financial statements for additional information .",
+      "among other variables , the fair value of liabilities for which the fair value option has been elected ( other than non-recourse and similar liabilities ) is impacted by the narrowing or widening of the company 2019s credit spreads .",
+      "the estimated changes in the fair value of these liabilities due to such changes in the company 2019s own credit spread ( or instrument-specific credit risk ) were a gain of $ 1415 million and a loss of $ 680 million for the years ended december 31 , 2018 and 2017 , respectively .",
+      "changes in fair value resulting from changes in instrument-specific credit risk were estimated by incorporating the company 2019s current credit spreads observable in the bond market into the relevant valuation technique used to value each liability as described above .",
+      "the fair value option for financial assets and financial liabilities selected portfolios of securities purchased under agreements to resell , securities borrowed , securities sold under agreements to repurchase , securities loaned and certain non-collateralized short-term borrowings the company elected the fair value option for certain portfolios of fixed income securities purchased under agreements to resell and fixed income securities sold under agreements to repurchase , securities borrowed , securities loaned and certain non-collateralized short-term borrowings held primarily by broker-dealer entities in the united states , united kingdom and japan .",
+      "in each case , the election was made because the related interest rate risk is managed on a portfolio basis , primarily with offsetting derivative instruments that are accounted for at fair value through earnings .",
+      "changes in fair value for transactions in these portfolios are recorded in principal transactions .",
+      "the related interest revenue and interest expense are measured based on the contractual rates specified in the transactions and are reported as interest revenue and interest expense in the consolidated statement of income .",
+      "certain loans and other credit products citigroup has also elected the fair value option for certain other originated and purchased loans , including certain unfunded loan products , such as guarantees and letters of credit , executed by citigroup 2019s lending and trading businesses .",
+      "none of these credit products are highly leveraged financing commitments .",
+      "significant groups of transactions include loans and unfunded loan products that are expected to be either sold or securitized in the near term , or transactions where the economic risks are hedged with derivative instruments , such as purchased credit default swaps or total return swaps where the company pays the total return on the underlying loans to a third party .",
+      "citigroup has elected the fair value option to mitigate accounting mismatches in cases where hedge accounting is complex and to achieve operational simplifications .",
+      "fair value was not elected for most lending transactions across the company .",
+      "the following table provides information about certain credit products carried at fair value: ."
+    ],
+    "post_text": [
+      "in addition to the amounts reported above , $ 1137 million and $ 508 million of unfunded commitments related to certain credit products selected for fair value accounting were outstanding as of december 31 , 2018 and 2017 , respectively. ."
+    ],
+    "table": [
+      [
+        "in millions of dollars",
+        "december 31 2018 trading assets",
+        "december 31 2018 loans",
+        "december 31 2018 trading assets",
+        "loans"
+      ],
+      [
+        "carrying amount reported on the consolidated balance sheet",
+        "$ 10108",
+        "$ 3224",
+        "$ 8851",
+        "$ 4374"
+      ],
+      [
+        "aggregate unpaid principal balance in excess of fair value",
+        "435",
+        "741",
+        "623",
+        "682"
+      ],
+      [
+        "balance of non-accrual loans or loans more than 90 days past due",
+        "2014",
+        "1",
+        "2014",
+        "1"
+      ],
+      [
+        "aggregate unpaid principal balance in excess of fair value for non-accrual loans or loans more than 90 days past due",
+        "2014",
+        "2014",
+        "2014",
+        "1"
+      ]
+    ],
+    "questions": [
+      "what was the difference in millions of carrying amount reported on the consolidated balance sheet for trading assets between 2018 and the year prior?"
+    ]
+  }
+}

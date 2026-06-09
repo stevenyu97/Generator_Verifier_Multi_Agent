@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the balance of total liquidity resources in 2017?",
+      "answer": 0.079,
+      "answer_raw": "0.079",
+      "program": "subtract(10831, 10038), divide(#0, 10038)"
+    }
+  ]
+}

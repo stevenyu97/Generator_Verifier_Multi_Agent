@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "PPG/2018/page_20.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "18 2018 ppg annual report and 10-k research and development ."
+    ],
+    "post_text": [
+      "( a ) prior year amounts have been recast for the adoption of accounting standards update no .",
+      "2017-07 , \"improving the presentation of net periodic pension cost and net periodic postretirement benefit cost . 201d see note 1 within item 8 of this form 10-k for additional information .",
+      "technology innovation has been a hallmark of ppg 2019s success throughout its history .",
+      "the company seeks to optimize its investment in research and development to create new products to drive profitable growth .",
+      "we align our product development with the macro trends in the markets we serve and leverage core technology platforms to develop products for unmet market needs .",
+      "our history of successful technology introductions is based on a commitment to an efficient and effective innovation process and disciplined portfolio management .",
+      "we have obtained government funding for a small portion of the company 2019s research efforts , and we will continue to pursue government funding where appropriate .",
+      "ppg owns and operates several facilities to conduct research and development for new and improved products and processes .",
+      "in addition to the company 2019s centralized principal research and development centers ( see item 2 .",
+      "201cproperties 201d of this form 10-k ) , operating segments manage their development through centers of excellence .",
+      "as part of our ongoing efforts to manage our formulations and raw material costs effectively , we operate a global competitive sourcing laboratory in china .",
+      "because of the company 2019s broad array of products and customers , ppg is not materially dependent upon any single technology platform .",
+      "raw materials and energy the effective management of raw materials and energy is important to ppg 2019s continued success .",
+      "ppg uses a wide variety of complex raw materials that serve as the building blocks of our manufactured products that provide broad ranging , high performance solutions to our customers .",
+      "the company 2019s most significant raw materials are epoxy and other resins , titanium dioxide and other pigments , and solvents in the coatings businesses and sand and soda ash for the specialty coatings and materials business .",
+      "coatings raw materials include both organic , primarily petroleum-derived , materials and inorganic materials , including titanium dioxide .",
+      "these raw materials represent ppg 2019s single largest production cost component .",
+      "most of the raw materials and energy used in production are purchased from outside sources , and the company has made , and plans to continue to make , supply arrangements to meet our planned operating requirements for the future .",
+      "supply of critical raw materials and energy is managed by establishing contracts with multiple sources , and identifying alternative materials or technology whenever possible .",
+      "our products use both petroleum-derived and bio-based materials as part of a product renewal strategy .",
+      "while prices for these raw materials typically fluctuate with energy prices and global supply and demand , such fluctuations are impacted by the fact that the manufacture of our raw materials is several steps downstream from crude oil and natural gas .",
+      "the company is continuing its aggressive sourcing initiatives to broaden our supply of high quality raw materials .",
+      "these initiatives include qualifying multiple and local sources of supply , including suppliers from asia and other lower cost regions of the world , adding on-site resin production at certain manufacturing locations and a reduction in the amount of titanium dioxide used in our product formulations .",
+      "we are subject to existing and evolving standards relating to the registration of chemicals which could potentially impact the availability and viability of some of the raw materials we use in our production processes .",
+      "our ongoing , global product stewardship efforts are directed at maintaining our compliance with these standards .",
+      "ppg has joined a global initiative to eliminate child labor from the mica industry , and the company is continuing to take steps , including audits of our suppliers , to ensure compliance with ppg 2019s zero-tolerance policy against the use of child labor in their supply chains .",
+      "changes to chemical registration regulations have been proposed or implemented in the eu and many other countries , including china , canada , the united states ( u.s. ) , brazil , mexico and korea .",
+      "because implementation of many of these programs has not been finalized , the financial impact cannot be estimated at this time .",
+      "we anticipate that the number of chemical registration regulations will continue to increase globally , and we have implemented programs to track and comply with these regulations .",
+      "given the recent volatility in certain energy-based input costs and foreign currencies , the company is not able to predict with certainty the 2019 full year impact of related changes in raw material pricing versus 2018 ; however , ppg currently expects overall coatings raw material costs to increase a low-single-digit percentage in the first half of 2019 , with impacts varied by region and commodity .",
+      "further , given the distribution nature of many of our businesses , logistics and distribution costs are sizable , as are wages and benefits but to a lesser degree .",
+      "ppg typically experiences fluctuating prices for energy and raw materials driven by various factors , including changes in supplier feedstock costs and inventories , global industry activity levels , foreign currency exchange rates , government regulation , and global supply and demand factors .",
+      "in aggregate , average ."
+    ],
+    "table": [
+      [
+        "( $ in millions )",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "research and development costs including depreciation of research facilities ( a )",
+        "$ 464",
+        "$ 472",
+        "$ 473"
+      ],
+      [
+        "% (  % ) of annual net sales",
+        "3.0% ( 3.0 % )",
+        "3.2% ( 3.2 % )",
+        "3.3% ( 3.3 % )"
+      ]
+    ],
+    "questions": [
+      "what was the change in millions of research and development costs including depreciation of research facilities from 2017 to 201?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the total common stock is under the vertex 401 ( k ) plan?",
+      "answer": 0.01432,
+      "answer_raw": "0.01432",
+      "program": "divide(270, 18851)"
+    }
+  ]
+}

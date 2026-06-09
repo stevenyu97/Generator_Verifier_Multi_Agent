@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "combined, what was the backlog at year-end for 2013 and 2012?",
+      "answer": 29700.0,
+      "answer_raw": "29700.0",
+      "program": "add(15000, 14700)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value for 2011?",
+      "answer": 14400.0,
+      "answer_raw": "14400.0",
+      "program": "14400"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "now the total value for all three years together?",
+      "answer": 44100.0,
+      "answer_raw": "44100.0",
+      "program": "add(15000, 14700), add(#0, 14400)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was the average during this time?",
+      "answer": 14700.0,
+      "answer_raw": "14700.0",
+      "program": "add(15000, 14700), add(#0, 14400), divide(#1, const_3)"
+    }
+  ]
+}

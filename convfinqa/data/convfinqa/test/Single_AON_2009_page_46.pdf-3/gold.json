@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of risk and insurance brokerage services segment revenue in 2009?",
+      "answer": 6305.0,
+      "answer_raw": "6305.0",
+      "program": "6305"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that in 2008?",
+      "answer": 6197.0,
+      "answer_raw": "6197.0",
+      "program": "6197"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 108.0,
+      "answer_raw": "108.0",
+      "program": "subtract(6305, 6197)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation to the 2008 total, in percentage?",
+      "answer": 0.01743,
+      "answer_raw": "0.01743",
+      "program": "subtract(6305, 6197), divide(#0, 6197)"
+    }
+  ]
+}

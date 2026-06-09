@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net chance in the balance of gross unrecognized tax benefits from 2009 to 2010?",
+      "answer": 11041.0,
+      "answer_raw": "11041.0",
+      "program": "subtract(19900, 8859)"
+    }
+  ]
+}

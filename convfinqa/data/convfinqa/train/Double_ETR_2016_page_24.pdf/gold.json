@@ -1,0 +1,53 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the tax benefit from the the stipulated settlement in the business combination granting customer credits in 2015?",
+      "answer": 41.0,
+      "answer_raw": "41.0",
+      "program": "subtract(107, 66)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the net revenue in that same year?",
+      "answer": 2224.0,
+      "answer_raw": "2224.0",
+      "program": "2224"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was that net revenue in 2014?",
+      "answer": 1666.0,
+      "answer_raw": "1666.0",
+      "program": "1666"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was, then, the decline over the year?",
+      "answer": 558.0,
+      "answer_raw": "558.0",
+      "program": "subtract(107, 66), subtract(2224, 1666)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "which one is greater: that tax benefit from 2015 or this decline in net revenue?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "subtract(107, 66), subtract(2224, 1666), greater(#0, #1)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what becomes that decline if counted as simply the change in net revenue from 2014 to 2015?",
+      "answer": -558.0,
+      "answer_raw": "-558.0",
+      "program": "subtract(1666, 2224)"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "and how much would this change represent in relation to the 2014 net revenue?",
+      "answer": -0.2509,
+      "answer_raw": "-0.2509",
+      "program": "subtract(1666, 2224), divide(#0, 2224)"
+    }
+  ]
+}

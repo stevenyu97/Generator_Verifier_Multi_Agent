@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the performance share program , for the years 2013 , 2012 , and 2011 , what was the maximum shares in the beginning outstanding balance in thousands?",
+      "answer": 557.0,
+      "answer_raw": "557.0",
+      "program": "table_max(beginning outstanding balance, none)"
+    }
+  ]
+}

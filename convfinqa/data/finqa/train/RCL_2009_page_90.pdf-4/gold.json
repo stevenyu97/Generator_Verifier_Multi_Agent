@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the increase in the expected stock price volatility from 2008 to 2009",
+      "answer": 0.75159,
+      "answer_raw": "0.75159",
+      "program": "subtract(55.0, 31.4), divide(#0, 31.4)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in net cash used in investing activities between 2011 and 2012?",
+      "answer": 587.0,
+      "answer_raw": "587.0",
+      "program": "subtract(3245, 2658)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the percentage change during this time?",
+      "answer": 4.52811,
+      "answer_raw": "4.52811",
+      "program": "subtract(3245, 2658), divide(2658, #0)"
+    }
+  ]
+}

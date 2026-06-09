@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in sales and revenues from 2017 to 2018 , in billions?",
+      "answer": 9.26,
+      "answer_raw": "9.26",
+      "program": "subtract(54.722, 45.462)"
+    }
+  ]
+}

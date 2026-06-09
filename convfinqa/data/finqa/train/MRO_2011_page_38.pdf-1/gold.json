@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much has the wti crude oil dollars per bbl increased since 2009?",
+      "answer": 0.53181,
+      "answer_raw": "0.53181",
+      "program": "subtract(95.11, 62.09), divide(#0, 62.09)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent increase in rent expense from 2012 to 2013?",
+      "answer": 0.05618,
+      "answer_raw": "0.05618",
+      "program": "subtract(94, 89), divide(#0, 89)"
+    }
+  ]
+}

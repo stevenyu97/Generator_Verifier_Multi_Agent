@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming a fmv of a share equal to 2000 , under the pre-december 31 , 2007 plan , approximately how many shares would each non-employee director receive annually?",
+      "answer": 90.0,
+      "answer_raw": "90.0",
+      "program": "divide(2000, const_3), divide(60000, #0)"
+    }
+  ]
+}

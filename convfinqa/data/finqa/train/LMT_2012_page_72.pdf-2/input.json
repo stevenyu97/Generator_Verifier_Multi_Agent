@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "LMT/2012/page_72.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "until the hedged transaction is recognized in earnings .",
+      "changes in the fair value of the derivatives that are attributable to the ineffective portion of the hedges , or of derivatives that are not considered to be highly effective hedges , if any , are immediately recognized in earnings .",
+      "the aggregate notional amount of our outstanding foreign currency hedges at december 31 , 2012 and 2011 was $ 1.3 billion and $ 1.7 billion .",
+      "the aggregate notional amount of our outstanding interest rate swaps at december 31 , 2012 and 2011 was $ 503 million and $ 450 million .",
+      "derivative instruments did not have a material impact on net earnings and comprehensive income during 2012 , 2011 , and 2010 .",
+      "substantially all of our derivatives are designated for hedge accounting .",
+      "see note 15 for more information on the fair value measurements related to our derivative instruments .",
+      "stock-based compensation 2013 compensation cost related to all share-based payments including stock options and restricted stock units is measured at the grant date based on the estimated fair value of the award .",
+      "we generally recognize the compensation cost ratably over a three-year vesting period .",
+      "income taxes 2013 we periodically assess our tax filing exposures related to periods that are open to examination .",
+      "based on the latest available information , we evaluate our tax positions to determine whether the position will more likely than not be sustained upon examination by the internal revenue service ( irs ) .",
+      "if we cannot reach a more-likely-than-not determination , no benefit is recorded .",
+      "if we determine that the tax position is more likely than not to be sustained , we record the largest amount of benefit that is more likely than not to be realized when the tax position is settled .",
+      "we record interest and penalties related to income taxes as a component of income tax expense on our statements of earnings .",
+      "interest and penalties are not material .",
+      "accumulated other comprehensive loss 2013 changes in the balance of accumulated other comprehensive loss , net of income taxes , consisted of the following ( in millions ) : postretirement benefit plan adjustments other , net accumulated comprehensive ."
+    ],
+    "post_text": [
+      "the postretirement benefit plan adjustments are shown net of tax benefits at december 31 , 2012 , 2011 , and 2010 of $ 7.4 billion , $ 6.1 billion , and $ 4.9 billion .",
+      "these tax benefits include amounts recognized on our income tax returns as current deductions and deferred income taxes , which will be recognized on our tax returns in future years .",
+      "see note 7 and note 9 for more information on our income taxes and postretirement plans .",
+      "recent accounting pronouncements 2013 effective january 1 , 2012 , we retrospectively adopted new guidance issued by the financial accounting standards board by presenting total comprehensive income and the components of net income and other comprehensive loss in two separate but consecutive statements .",
+      "the adoption of this guidance resulted only in a change in how we present other comprehensive loss in our consolidated financial statements and did not have any impact on our results of operations , financial position , or cash flows. ."
+    ],
+    "table": [
+      [
+        "",
+        "postretirement benefit plan adjustments",
+        "other net",
+        "accumulated other comprehensive loss"
+      ],
+      [
+        "balance at january 1 2010",
+        "$ -8564 ( 8564 )",
+        "$ -31 ( 31 )",
+        "$ -8595 ( 8595 )"
+      ],
+      [
+        "other comprehensive ( loss ) income",
+        "-430 ( 430 )",
+        "15",
+        "-415 ( 415 )"
+      ],
+      [
+        "balance at december 31 2010",
+        "-8994 ( 8994 )",
+        "-16 ( 16 )",
+        "-9010 ( 9010 )"
+      ],
+      [
+        "other comprehensive loss",
+        "-2192 ( 2192 )",
+        "-55 ( 55 )",
+        "-2247 ( 2247 )"
+      ],
+      [
+        "balance at december 31 2011",
+        "-11186 ( 11186 )",
+        "-71 ( 71 )",
+        "-11257 ( 11257 )"
+      ],
+      [
+        "other comprehensive ( loss ) income",
+        "-2346 ( 2346 )",
+        "110",
+        "-2236 ( 2236 )"
+      ],
+      [
+        "balance at december 31 2012",
+        "$ -13532 ( 13532 )",
+        "$ 39",
+        "$ -13493 ( 13493 )"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in aggregate notional amount of outstanding foreign currency hedges from 2011 to 2012?"
+    ]
+  }
+}

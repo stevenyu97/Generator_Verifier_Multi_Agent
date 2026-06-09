@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the royal caribbean cruises ltd . performance from 2014 to 2015",
+      "answer": 0.24743,
+      "answer_raw": "0.24743",
+      "program": "subtract(220.72, 176.94), divide(#0, 176.94)"
+    }
+  ]
+}

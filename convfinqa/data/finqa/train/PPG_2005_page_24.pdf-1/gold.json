@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is operating income return on sales for 2003 in the coatings segment?",
+      "answer": 0.14871,
+      "answer_raw": "0.14871",
+      "program": "divide(719, 4835)"
+    }
+  ]
+}

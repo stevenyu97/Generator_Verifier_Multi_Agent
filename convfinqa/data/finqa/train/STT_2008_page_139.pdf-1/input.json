@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "STT/2008/page_139.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "note 21 .",
+      "expenses during the fourth quarter of 2008 , we elected to provide support to certain investment accounts managed by ssga through the purchase of asset- and mortgage-backed securities and a cash infusion , which resulted in a charge of $ 450 million .",
+      "ssga manages certain investment accounts , offered to retirement plans , that allow participants to purchase and redeem units at a constant net asset value regardless of volatility in the underlying value of the assets held by the account .",
+      "the accounts enter into contractual arrangements with independent third-party financial institutions that agree to make up any shortfall in the account if all the units are redeemed at the constant net asset value .",
+      "the financial institutions have the right , under certain circumstances , to terminate this guarantee with respect to future investments in the account .",
+      "during 2008 , the liquidity and pricing issues in the fixed-income markets adversely affected the market value of the securities in these accounts to the point that the third-party guarantors considered terminating their financial guarantees with the accounts .",
+      "although we were not statutorily or contractually obligated to do so , we elected to purchase approximately $ 2.49 billion of asset- and mortgage-backed securities from these accounts that had been identified as presenting increased risk in the current market environment and to contribute an aggregate of $ 450 million to the accounts to improve the ratio of the market value of the accounts 2019 portfolio holdings to the book value of the accounts .",
+      "we have no ongoing commitment or intent to provide support to these accounts .",
+      "the securities are carried in investment securities available for sale in our consolidated statement of condition .",
+      "the components of other expenses were as follows for the years ended december 31: ."
+    ],
+    "post_text": [
+      "in september and october 2008 , lehman brothers holdings inc. , or lehman brothers , and certain of its affiliates filed for bankruptcy or other insolvency proceedings .",
+      "while we had no unsecured financial exposure to lehman brothers or its affiliates , we indemnified certain customers in connection with these and other collateralized repurchase agreements with lehman brothers entities .",
+      "in the then current market environment , the market value of the underlying collateral had declined .",
+      "during the third quarter of 2008 , to the extent these declines resulted in collateral value falling below the indemnification obligation , we recorded a reserve to provide for our estimated net exposure .",
+      "the reserve , which totaled $ 200 million , was based on the cost of satisfying the indemnification obligation net of the fair value of the collateral , which we purchased during the fourth quarter of 2008 .",
+      "the collateral , composed of commercial real estate loans which are discussed in note 5 , is recorded in loans and leases in our consolidated statement of condition. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2008",
+        "2007",
+        "2006"
+      ],
+      [
+        "customer indemnification obligation",
+        "$ 200",
+        "",
+        ""
+      ],
+      [
+        "securities processing",
+        "187",
+        "$ 79",
+        "$ 37"
+      ],
+      [
+        "other",
+        "505",
+        "399",
+        "281"
+      ],
+      [
+        "total other expenses",
+        "$ 892",
+        "$ 478",
+        "$ 318"
+      ]
+    ],
+    "questions": [
+      "what portion of the total other expenses is related to customer indemnification obligation in 2008?"
+    ]
+  }
+}

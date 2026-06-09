@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in accelerated software amortization from 2012 to 2013?",
+      "answer": 0.33333,
+      "answer_raw": "0.33333",
+      "program": "subtract(6.0, 4.5), divide(#0, 4.5)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2010, what was the total of new sites acquired or constructed?",
+      "answer": 7812.0,
+      "answer_raw": "7812.0",
+      "program": "add(947, 6865)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what portion of these sites were located in the us?",
+      "answer": 0.12122,
+      "answer_raw": "0.12122",
+      "program": "add(947, 6865), divide(947, #0)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what portion, then, of this total, do the sites located outside the us represent?",
+      "answer": 0.87878,
+      "answer_raw": "0.87878",
+      "program": "add(947, 6865), divide(6865, #0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the change in the 8 total brokerage payable from 2015 to 2016",
+      "answer": 0.06385,
+      "answer_raw": "0.06385",
+      "program": "subtract(57152, 53722), divide(#0, 53722)"
+    }
+  ]
+}

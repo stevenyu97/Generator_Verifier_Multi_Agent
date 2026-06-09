@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "Single_ETR/2004/page_258.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "entergy new orleans , inc .",
+      "management's financial discussion and analysis results of operations net income ( loss ) 2004 compared to 2003 net income increased $ 20.2 million primarily due to higher net revenue .",
+      "2003 compared to 2002 entergy new orleans had net income of $ 7.9 million in 2003 compared to a net loss in 2002 .",
+      "the increase was due to higher net revenue and lower interest expense , partially offset by higher other operation and maintenance expenses and depreciation and amortization expenses .",
+      "net revenue 2004 compared to 2003 net revenue , which is entergy new orleans' measure of gross margin , consists of operating revenues net of : 1 ) fuel , fuel-related , and purchased power expenses and 2 ) other regulatory credits .",
+      "following is an analysis of the change in net revenue comparing 2004 to 2003. ."
+    ],
+    "post_text": [
+      "the increase in base rates was effective june 2003 .",
+      "the rate increase is discussed in note 2 to the domestic utility companies and system energy financial statements .",
+      "the volume/weather variance is primarily due to increased billed electric usage of 162 gwh in the industrial service sector .",
+      "the increase was partially offset by milder weather in the residential and commercial sectors .",
+      "the 2004 deferrals variance is due to the deferral of voluntary severance plan and fossil plant maintenance expenses in accordance with a stipulation approved by the city council in august 2004 .",
+      "the stipulation allows for the recovery of these costs through amortization of a regulatory asset .",
+      "the voluntary severance plan and fossil plant maintenance expenses are being amortized over a five-year period that became effective january 2004 and january 2003 , respectively .",
+      "the formula rate plan is discussed in note 2 to the domestic utility companies and system energy financial statements .",
+      "the price applied to unbilled electric sales variance is due to an increase in the fuel price applied to unbilled sales. ."
+    ],
+    "table": [
+      [
+        "",
+        "( in millions )"
+      ],
+      [
+        "2003 net revenue",
+        "$ 208.3"
+      ],
+      [
+        "base rates",
+        "10.6"
+      ],
+      [
+        "volume/weather",
+        "8.3"
+      ],
+      [
+        "2004 deferrals",
+        "7.5"
+      ],
+      [
+        "price applied to unbilled electric sales",
+        "3.7"
+      ],
+      [
+        "other",
+        "0.6"
+      ],
+      [
+        "2004 net revenue",
+        "$ 239.0"
+      ]
+    ],
+    "questions": [
+      "what was net revenues at the end of 2004?",
+      "what were they at the end of 2003?",
+      "what was the change in revenue?",
+      "what was the 2003 number?",
+      "what is the percent change?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average capital expenditures from 2011 to 2013 in millions",
+      "answer": 107.1,
+      "answer_raw": "107.1",
+      "program": "add(70.6, 79.4), add(61.2, #0), add(#1, const_3), divide(#2, const_2)"
+    }
+  ]
+}

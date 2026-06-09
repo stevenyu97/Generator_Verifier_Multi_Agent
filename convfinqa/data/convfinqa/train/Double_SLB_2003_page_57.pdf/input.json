@@ -1,0 +1,108 @@
+{
+  "input": {
+    "id": "Double_SLB/2003/page_57.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "table of contents part ii , item 8 schlumberger limited ( schlumberger n.v. , incorporated in the netherlands antilles ) and subsidiary companies shares of common stock issued treasury shares outstanding ."
+    ],
+    "post_text": [
+      "see the notes to consolidated financial statements 39 / slb 2003 form 10-k ."
+    ],
+    "table": [
+      [
+        "",
+        "issued",
+        "in treasury",
+        "shares outstanding"
+      ],
+      [
+        "balance january 1 2001",
+        "667085793",
+        "-94361099 ( 94361099 )",
+        "572724694"
+      ],
+      [
+        "employee stock purchase plan",
+        "2013",
+        "1752833",
+        "1752833"
+      ],
+      [
+        "shares granted to directors",
+        "2013",
+        "4800",
+        "4800"
+      ],
+      [
+        "shares sold to optionees",
+        "8385",
+        "1399686",
+        "1408071"
+      ],
+      [
+        "balance december 31 2001",
+        "667094178",
+        "-91203780 ( 91203780 )",
+        "575890398"
+      ],
+      [
+        "employee stock purchase plan",
+        "2013",
+        "2677842",
+        "2677842"
+      ],
+      [
+        "shares granted to directors",
+        "2013",
+        "3500",
+        "3500"
+      ],
+      [
+        "shares sold to optionees",
+        "10490",
+        "2243400",
+        "2253890"
+      ],
+      [
+        "acquisition of technoguide",
+        "2013",
+        "1347485",
+        "1347485"
+      ],
+      [
+        "balance december 31 2002",
+        "667104668",
+        "-84931553 ( 84931553 )",
+        "582173115"
+      ],
+      [
+        "employee stock purchase plan",
+        "2013",
+        "2464088",
+        "2464088"
+      ],
+      [
+        "shares granted to directors",
+        "2013",
+        "3500",
+        "3500"
+      ],
+      [
+        "shares sold to optionees",
+        "1320",
+        "1306305",
+        "1307625"
+      ],
+      [
+        "balance december 31 2003",
+        "667105988",
+        "-81157660 ( 81157660 )",
+        "585948328"
+      ]
+    ],
+    "questions": [
+      "what percentage of the shares outstanding did the the acquisition of technoguide account for?",
+      "and during this same period, what was the total amount of shares issued to directors?"
+    ]
+  }
+}

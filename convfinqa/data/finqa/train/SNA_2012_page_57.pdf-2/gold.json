@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the snap-on share repurchase in 2011 compared to 2010",
+      "answer": 4.13158,
+      "answer_raw": "4.13158",
+      "program": "divide(628000, 152000)"
+    }
+  ]
+}

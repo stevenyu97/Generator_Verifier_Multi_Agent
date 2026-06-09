@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of the balance at the end of 2012 to the beginning of 2010?",
+      "answer": 1.41754,
+      "answer_raw": "1.41754",
+      "program": "divide(404, 285)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that less 1?",
+      "answer": 0.41754,
+      "answer_raw": "0.41754",
+      "program": "divide(404, 285), subtract(#0, 1)"
+    }
+  ]
+}

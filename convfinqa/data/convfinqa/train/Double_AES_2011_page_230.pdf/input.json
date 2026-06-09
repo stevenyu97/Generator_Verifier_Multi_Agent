@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "Double_AES/2011/page_230.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the aes corporation notes to consolidated financial statements 2014 ( continued ) december 31 , 2011 , 2010 , and 2009 ( 1 ) weighted average interest rate at december 31 , 2011 .",
+      "( 2 ) the company has interest rate swaps and interest rate option agreements in an aggregate notional principal amount of approximately $ 3.6 billion on non-recourse debt outstanding at december 31 , 2011 .",
+      "the swap agreements economically change the variable interest rates on the portion of the debt covered by the notional amounts to fixed rates ranging from approximately 1.44% ( 1.44 % ) to 6.98% ( 6.98 % ) .",
+      "the option agreements fix interest rates within a range from 1.00% ( 1.00 % ) to 7.00% ( 7.00 % ) .",
+      "the agreements expire at various dates from 2016 through 2028 .",
+      "( 3 ) multilateral loans include loans funded and guaranteed by bilaterals , multilaterals , development banks and other similar institutions .",
+      "( 4 ) non-recourse debt of $ 704 million and $ 945 million as of december 31 , 2011 and 2010 , respectively , was excluded from non-recourse debt and included in current and long-term liabilities of held for sale and discontinued businesses in the accompanying consolidated balance sheets .",
+      "non-recourse debt as of december 31 , 2011 is scheduled to reach maturity as set forth in the table below : december 31 , annual maturities ( in millions ) ."
+    ],
+    "post_text": [
+      "as of december 31 , 2011 , aes subsidiaries with facilities under construction had a total of approximately $ 1.4 billion of committed but unused credit facilities available to fund construction and other related costs .",
+      "excluding these facilities under construction , aes subsidiaries had approximately $ 1.2 billion in a number of available but unused committed revolving credit lines to support their working capital , debt service reserves and other business needs .",
+      "these credit lines can be used in one or more of the following ways : solely for borrowings ; solely for letters of credit ; or a combination of these uses .",
+      "the weighted average interest rate on borrowings from these facilities was 14.75% ( 14.75 % ) at december 31 , 2011 .",
+      "on october 3 , 2011 , dolphin subsidiary ii , inc .",
+      "( 201cdolphin ii 201d ) , a newly formed , wholly-owned special purpose indirect subsidiary of aes , entered into an indenture ( the 201cindenture 201d ) with wells fargo bank , n.a .",
+      "( the 201ctrustee 201d ) as part of its issuance of $ 450 million aggregate principal amount of 6.50% ( 6.50 % ) senior notes due 2016 ( the 201c2016 notes 201d ) and $ 800 million aggregate principal amount of 7.25% ( 7.25 % ) senior notes due 2021 ( the 201c7.25% ( 201c7.25 % ) 2021 notes 201d , together with the 2016 notes , the 201cnotes 201d ) to finance the acquisition ( the 201cacquisition 201d ) of dpl .",
+      "upon closing of the acquisition on november 28 , 2011 , dolphin ii was merged into dpl with dpl being the surviving entity and obligor .",
+      "the 2016 notes and the 7.25% ( 7.25 % ) 2021 notes are included under 201cnotes and bonds 201d in the non-recourse detail table above .",
+      "see note 23 2014acquisitions and dispositions for further information .",
+      "interest on the 2016 notes and the 7.25% ( 7.25 % ) 2021 notes accrues at a rate of 6.50% ( 6.50 % ) and 7.25% ( 7.25 % ) per year , respectively , and is payable on april 15 and october 15 of each year , beginning april 15 , 2012 .",
+      "prior to september 15 , 2016 with respect to the 2016 notes and july 15 , 2021 with respect to the 7.25% ( 7.25 % ) 2021 notes , dpl may redeem some or all of the 2016 notes or 7.25% ( 7.25 % ) 2021 notes at par , plus a 201cmake-whole 201d amount set forth in ."
+    ],
+    "table": [
+      [
+        "december 31,",
+        "annual maturities ( in millions )"
+      ],
+      [
+        "2012",
+        "$ 2152"
+      ],
+      [
+        "2013",
+        "1389"
+      ],
+      [
+        "2014",
+        "1697"
+      ],
+      [
+        "2015",
+        "851"
+      ],
+      [
+        "2016",
+        "2301"
+      ],
+      [
+        "thereafter",
+        "7698"
+      ],
+      [
+        "total non-recourse debt",
+        "$ 16088"
+      ]
+    ],
+    "questions": [
+      "what is the total amount available under the committed credit facilities as of december 31, 2011, in billions?",
+      "and as of that same date, how much did the non-recourse debt due in 2014 represent in relation to the total debt, in percentage?"
+    ]
+  }
+}

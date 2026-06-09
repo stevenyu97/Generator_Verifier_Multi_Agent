@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the investment in solexa on november 12 , 2006 what was the price per share in the transaction in dollars",
+      "answer": 1e-05,
+      "answer_raw": "1e-05",
+      "program": "divide(50, 5154639)"
+    }
+  ]
+}

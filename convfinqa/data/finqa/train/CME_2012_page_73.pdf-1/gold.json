@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2012 what was the ratio of the bm&fbovespa s.a . fair value to the cost basis",
+      "answer": 953.5,
+      "answer_raw": "953.5",
+      "program": "add(690.6, 262.9)"
+    }
+  ]
+}

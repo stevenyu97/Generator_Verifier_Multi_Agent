@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "AES/2001/page_44.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "gross margin gross margin increased $ 307 million , or 15% ( 15 % ) , to $ 2.3 billion in 2001 from $ 2.0 billion in 2000 .",
+      "gross margin as a percentage of revenues decreased to 25% ( 25 % ) in 2000 from 26% ( 26 % ) in 2001 .",
+      "the increase in gross margin is due to acquisition of new businesses and new operations from greenfield projects offset by lower market prices in the united kingdom .",
+      "the decrease in gross margin as a percentage of revenues is due to a decline in the competitive supply and contract generation gross margin percentages offset slightly by increased gross margin percentages from large utilities and growth distribution .",
+      "excluding businesses acquired or that commenced commercial operations in 2001 or 2000 , gross margin decreased 2% ( 2 % ) to $ 1.8 billion in 2001. ."
+    ],
+    "post_text": [
+      "contract generation gross margin increased $ 60 million , or 8% ( 8 % ) , to $ 827 million in 2001 from $ 767 million in 2000 .",
+      "excluding businesses acquired or that commenced commercial operations during 2001 and 2000 , contract generation gross margin decreased 6% ( 6 % ) to $ 710 million in 2001 .",
+      "contract generation gross margin increased in all geographic regions except for asia .",
+      "the contract generation gross margin as a percentage of revenues decreased to 33% ( 33 % ) in 2001 from 44% ( 44 % ) in 2000 .",
+      "in south america , contract generation gross margin increased $ 17 million and was 27% ( 27 % ) of revenues .",
+      "the increase is due to the acquisition of gener offset by a decline at tiete from the rationing of electricity in brazil .",
+      "in north america , contract generation gross margin increased $ 8 million and was 50% ( 50 % ) of revenues .",
+      "the increase is due to improvements at southland and beaver valley partially offset by a decrease at thames from the contract buydown ( see footnote 13 to the company 2019s consolidated financial statements ) .",
+      "in europe/ africa , contract generation gross margin increased $ 44 million and was 30% ( 30 % ) of revenues .",
+      "the increase is due primarily to our additional ownership interest in kilroot and the acquisition of ebute in nigeria .",
+      "in asia , contract generation gross margin decreased $ 22 million and was 29% ( 29 % ) of revenues .",
+      "the decrease is due mainly to additional bad debt provisions at jiaozuo , hefei and aixi in china that were partially offset by the start of commercial operations at haripur .",
+      "the decrease in contract generation gross margin as a percentage of revenue is due to the acquisition of generation businesses with overall gross margin percentages , which are lower than the overall portfolio of generation businesses .",
+      "as a percentage of sales , contract generation gross margin declined in south america and asia , was relatively flat in north america and increased in europe/africa and the caribbean .",
+      "the competitive supply gross margin decreased $ 119 million , or 21% ( 21 % ) , to $ 440 million in 2001 from $ 559 million in 2000 .",
+      "excluding businesses acquired or that commenced commercial operations during 2001 and 2000 , competitive supply gross margin decreased 26% ( 26 % ) to $ 408 million in 2001 .",
+      "the overall decrease is due to declines in europe/africa and south america that were partially offset by slight increases in north america , the caribbean and asia .",
+      "the competitive supply gross margin as a percentage of revenues decreased to 16% ( 16 % ) in 2001 from 23% ( 23 % ) in 2000 .",
+      "in south america , competitive supply segment gross margin decreased $ 61 million and was 1% ( 1 % ) of revenues due to declines at our businesses in argentina .",
+      "in europe/africa , competitive supply segment gross margin decreased $ 95 million and was 22% ( 22 % ) of revenues .",
+      "the decrease is due primarily to declines at drax , barry and fifoots from the lower market prices in the u.k .",
+      "in north america , competitive supply segment gross margin increased $ 14 million and was 11% ( 11 % ) of revenues .",
+      "the increase was due to an expanded customer base at new energy and was partially offset by decreases at somerset in new york and deepwater in texas .",
+      "in the caribbean ( which includes colombia ) , the competitive supply gross margin increased $ 15 million and was 29% ( 29 % ) of revenues .",
+      "the increase is due primarily to the acquisition of chivor .",
+      "as a percentage ."
+    ],
+    "table": [
+      [
+        "",
+        "2001",
+        "2000",
+        "% (  % ) change"
+      ],
+      [
+        "contract generation",
+        "$ 827 million",
+        "$ 767 million",
+        "8% ( 8 % )"
+      ],
+      [
+        "competitive supply",
+        "$ 440 million",
+        "$ 559 million",
+        "( 21% ( 21 % ) )"
+      ],
+      [
+        "large utilities",
+        "$ 739 million",
+        "$ 538 million",
+        "37% ( 37 % )"
+      ],
+      [
+        "growth distribution",
+        "$ 296 million",
+        "$ 131 million",
+        "126% ( 126 % )"
+      ]
+    ],
+    "questions": [
+      "2001 revenue from large utilities were how many times the revenues from the growth distribution segment?"
+    ]
+  }
+}

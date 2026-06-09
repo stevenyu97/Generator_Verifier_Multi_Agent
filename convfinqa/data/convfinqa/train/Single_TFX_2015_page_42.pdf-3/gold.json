@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change value of the s&p healthcare index from 2010 to 2015?",
+      "answer": 99.0,
+      "answer_raw": "99.0",
+      "program": "subtract(199, 100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the change in value of the s&p 500 from 2010 to 2015?",
+      "answer": 81.0,
+      "answer_raw": "81.0",
+      "program": "subtract(199, 100), subtract(181, 100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference between the two values?",
+      "answer": 18.0,
+      "answer_raw": "18.0",
+      "program": "subtract(199, 100), subtract(181, 100), subtract(#0, #1)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in total property , plant and equipment subject to capital lease between 2014 and 2015?",
+      "answer": -70.0,
+      "answer_raw": "-70.0",
+      "program": "subtract(1721, 1791)"
+    }
+  ]
+}

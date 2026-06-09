@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "AAPL/2013/page_72.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents as of september 28 , 2013 .",
+      "the company 2019s share repurchase program does not obligate it to acquire any specific number of shares .",
+      "under the program , shares may be repurchased in privately negotiated and/or open market transactions , including under plans complying with rule 10b5-1 of the securities exchange act of 1934 , as amended ( the 201cexchange act 201d ) .",
+      "in august 2012 , the company entered into an accelerated share repurchase arrangement ( 201casr 201d ) with a financial institution to purchase up to $ 1.95 billion of the company 2019s common stock in 2013 .",
+      "in the first quarter of 2013 , 2.6 million shares were initially delivered to the company .",
+      "in april 2013 , the purchase period for the asr ended and an additional 1.5 million shares were delivered to the company .",
+      "in total , 4.1 million shares were delivered under the asr at an average repurchase price of $ 478.20 per share .",
+      "the shares were retired in the quarters they were delivered , and the up-front payment of $ 1.95 billion was accounted for as a reduction to shareholders 2019 equity in the company 2019s consolidated balance sheet in the first quarter of 2013 .",
+      "in april 2013 , the company entered into a new asr program with two financial institutions to purchase up to $ 12 billion of the company 2019s common stock .",
+      "in exchange for up-front payments totaling $ 12 billion , the financial institutions committed to deliver shares during the asr 2019s purchase periods , which will end during 2014 .",
+      "the total number of shares ultimately delivered , and therefore the average price paid per share , will be determined at the end of the applicable purchase period based on the volume weighted average price of the company 2019s stock during that period .",
+      "during the third quarter of 2013 , 23.5 million shares were initially delivered to the company and retired .",
+      "this does not represent the final number of shares to be delivered under the asr .",
+      "the up-front payments of $ 12 billion were accounted for as a reduction to shareholders 2019 equity in the company 2019s consolidated balance sheet .",
+      "the company reflected the asrs as a repurchase of common stock for purposes of calculating earnings per share and as forward contracts indexed to its own common stock .",
+      "the forward contracts met all of the applicable criteria for equity classification , and , therefore , were not accounted for as derivative instruments .",
+      "during 2013 , the company repurchased 19.4 million shares of its common stock in the open market at an average price of $ 464.11 per share for a total of $ 9.0 billion .",
+      "these shares were retired upon repurchase .",
+      "note 8 2013 comprehensive income comprehensive income consists of two components , net income and other comprehensive income .",
+      "other comprehensive income refers to revenue , expenses , and gains and losses that under gaap are recorded as an element of shareholders 2019 equity but are excluded from net income .",
+      "the company 2019s other comprehensive income consists of foreign currency translation adjustments from those subsidiaries not using the u.s .",
+      "dollar as their functional currency , net deferred gains and losses on certain derivative instruments accounted for as cash flow hedges , and unrealized gains and losses on marketable securities classified as available-for-sale .",
+      "the following table shows the components of aoci , net of taxes , as of september 28 , 2013 and september 29 , 2012 ( in millions ) : ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "2013",
+        "2012"
+      ],
+      [
+        "cumulative foreign currency translation",
+        "$ -105 ( 105 )",
+        "$ 8"
+      ],
+      [
+        "net unrecognized gains/losses on derivative instruments",
+        "-175 ( 175 )",
+        "-240 ( 240 )"
+      ],
+      [
+        "net unrealized gains/losses on marketable securities",
+        "-191 ( 191 )",
+        "731"
+      ],
+      [
+        "accumulated other comprehensive income/ ( loss )",
+        "$ -471 ( 471 )",
+        "$ 499"
+      ]
+    ],
+    "questions": [
+      "what was the change in cumulative foreign currency translation during 2013?"
+    ]
+  }
+}

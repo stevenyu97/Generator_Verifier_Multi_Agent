@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of cash provided by operating activities were dividends paid in 2012?",
+      "answer": 0.18601,
+      "answer_raw": "0.18601",
+      "program": "divide(1146, 6161)"
+    }
+  ]
+}

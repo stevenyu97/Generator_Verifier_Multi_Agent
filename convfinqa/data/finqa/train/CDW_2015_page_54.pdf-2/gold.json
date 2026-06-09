@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the total term loan that was due in 1-3 years",
+      "answer": 0.07415,
+      "answer_raw": "0.07415",
+      "program": "divide(126.3, 1703.4)"
+    }
+  ]
+}

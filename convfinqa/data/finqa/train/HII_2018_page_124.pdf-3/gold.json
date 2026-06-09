@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 312018 what was the ratio of the equity compensation plans approved by security holders number of securities to be issued to the number of securities remaining available for future issuance",
+      "answer": 0.0999,
+      "answer_raw": "0.0999",
+      "program": "divide(399165, 3995600)"
+    }
+  ]
+}

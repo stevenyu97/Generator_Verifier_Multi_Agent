@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average net sales from 2003 to 2005 in millions",
+      "answer": 942.0,
+      "answer_raw": "942.0",
+      "program": "add(468, 723), add(#0, 690), add(#1, const_3), divide(#2, const_2)"
+    }
+  ]
+}

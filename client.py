@@ -15,6 +15,11 @@ try:
 except ImportError:
     _HAS_TORCH = False
 
+try:
+    from device_pick import resolve_torch_device
+except ImportError:
+    resolve_torch_device = None  # type: ignore
+
 
 def extract_json_from_response(assistant: str) -> Optional[Dict[str, Any]]:
     """Strip <think> blocks and markdown fences, then return parsed JSON or None."""
@@ -82,12 +87,15 @@ class QwenClient:
             raise RuntimeError(
                 "PyTorch and transformers are required. Install with: pip install torch transformers"
             )
-        self.device = os.environ.get("TAX_DEVICE", "").strip() or (
-            "cuda:1" if torch.cuda.is_available() else "cpu"
-        )
+        if resolve_torch_device is not None:
+            self.device = resolve_torch_device()
+        else:
+            self.device = os.environ.get("TAX_DEVICE", "").strip() or (
+                "cuda:0" if torch.cuda.is_available() else "cpu"
+            )
         if self.device.startswith("cuda") and not torch.cuda.is_available():
             raise RuntimeError(
-                "TAX_DEVICE=cuda but CUDA is not available. Install PyTorch with CUDA or unset TAX_DEVICE for CPU."
+                "TAX_DEVICE requests CUDA but CUDA is not available. Install PyTorch with CUDA or set TAX_DEVICE=cpu."
             )
         print(f"Using device: {self.device}")
         _path = Path(model_path)

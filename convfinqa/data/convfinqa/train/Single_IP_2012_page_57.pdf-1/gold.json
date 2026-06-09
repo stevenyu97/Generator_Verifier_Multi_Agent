@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is 2 times 1000?",
+      "answer": 2000.0,
+      "answer_raw": "2000.0",
+      "program": "multiply(const_2, const_1000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that divided by 2012 sales?",
+      "answer": 0.63091,
+      "answer_raw": "0.63091",
+      "program": "multiply(const_2, const_1000), divide(#0, 3170)"
+    }
+  ]
+}

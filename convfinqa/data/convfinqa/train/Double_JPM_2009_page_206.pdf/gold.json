@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the net aggregate carrying amount did the firm record as its allowance for loan losses in 2009?",
+      "answer": 0.0339,
+      "answer_raw": "0.0339",
+      "program": "divide(1.6, 47.2)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the ratio of the allowance for loan losses that were recorded for the prime mortgage to the net aggregate carrying amount of the pools?",
+      "answer": 0.0339,
+      "answer_raw": "0.0339",
+      "program": "divide(1.6, 47.2)"
+    }
+  ]
+}

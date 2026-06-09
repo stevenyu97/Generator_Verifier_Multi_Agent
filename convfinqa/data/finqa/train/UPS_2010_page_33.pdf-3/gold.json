@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in total cumulative return on investment between united parcel service inc . and the dow jones transportation average for the five year period ending 12/31/10?",
+      "answer": 0.3159,
+      "answer_raw": "0.3159",
+      "program": "subtract(110.57, const_100), subtract(131.59, const_100), divide(#0, const_100), divide(#1, const_100)"
+    }
+  ]
+}

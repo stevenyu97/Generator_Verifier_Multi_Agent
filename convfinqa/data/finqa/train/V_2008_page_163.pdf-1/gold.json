@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what amount of net capital was raised by the company at the ipo with the issuance of class a common stock?",
+      "answer": 19101082000.0,
+      "answer_raw": "19101082000.0",
+      "program": "multiply(446600000, 42.77)"
+    }
+  ]
+}

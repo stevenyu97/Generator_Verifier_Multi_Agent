@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the balance of goodwill from 2014 to 2015?",
+      "answer": -0.0036,
+      "answer_raw": "-0.0036",
+      "program": "subtract(1636526, 1642438), divide(#0, 1642438)"
+    }
+  ]
+}

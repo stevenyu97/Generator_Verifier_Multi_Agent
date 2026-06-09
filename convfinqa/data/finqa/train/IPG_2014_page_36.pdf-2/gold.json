@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the mathematical range of net income adjusted to reconcile net income to net cash provided by operating activities from 2012-2014?",
+      "answer": 232.8,
+      "answer_raw": "232.8",
+      "program": "subtract(831.2, 598.4)"
+    }
+  ]
+}

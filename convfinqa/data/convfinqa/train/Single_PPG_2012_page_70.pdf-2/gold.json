@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in stock-based compensation costs between 2012 and 2011?",
+      "answer": 37.0,
+      "answer_raw": "37.0",
+      "program": "subtract(73, 36)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the value for 2011 again?",
+      "answer": 36.0,
+      "answer_raw": "36.0",
+      "program": "36"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the percentage change during this time?",
+      "answer": 1.02778,
+      "answer_raw": "1.02778",
+      "program": "subtract(73, 36), divide(#0, 36)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of free cash flow in 2011?",
+      "answer": 331.0,
+      "answer_raw": "331.0",
+      "program": "331"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that in 2010?",
+      "answer": 168.0,
+      "answer_raw": "168.0",
+      "program": "168"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 163.0,
+      "answer_raw": "163.0",
+      "program": "subtract(331, 168)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the total of free cash flow in 2010?",
+      "answer": 168.0,
+      "answer_raw": "168.0",
+      "program": "168"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this 2010 total?",
+      "answer": 0.97024,
+      "answer_raw": "0.97024",
+      "program": "subtract(331, 168), divide(#0, 168)"
+    }
+  ]
+}

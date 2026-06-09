@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "SNPS/2017/page_99.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "synopsys , inc .",
+      "notes to consolidated financial statements 2014continued the company has the following tax loss and credit carryforwards available to offset future income tax liabilities : carryforward amount expiration ( in thousands ) ."
+    ],
+    "post_text": [
+      "the federal and state net operating loss carryforward is from acquired companies and the annual use of such loss is subject to significant limitations under internal revenue code section 382 .",
+      "foreign tax credits may only be used to offset tax attributable to foreign source income .",
+      "the federal research tax credit was permanently reinstated in fiscal 2016 .",
+      "the company adopted asu 2016-09 in the first quarter of fiscal 2017 .",
+      "the company recorded all income tax effects of share-based awards in its provision for income taxes in the condensed consolidated statement of operations on a prospective basis .",
+      "prior to adoption , the company did not recognize excess tax benefits from stock-based compensation as a charge to capital in excess of par value to the extent that the related tax deduction did not reduce income taxes payable .",
+      "upon adoption of asu 2016-09 , the company recorded a deferred tax asset of $ 106.5 million mainly related to the research tax credit carryover , for the previously unrecognized excess tax benefits with an offsetting adjustment to retained earnings .",
+      "adoption of the new standard resulted in net excess tax benefits in the provision for income taxes of $ 38.1 million for fiscal 2017 .",
+      "during the fourth quarter of fiscal 2017 , the company repatriated $ 825 million from its foreign subsidiary .",
+      "the repatriation was executed in anticipation of potential u.s .",
+      "corporate tax reform , and the company plans to indefinitely reinvest the remainder of its undistributed foreign earnings outside the united states .",
+      "the company provides for u.s .",
+      "income and foreign withholding taxes on foreign earnings , except for foreign earnings that are considered indefinitely reinvested outside the u.s .",
+      "as of october 31 , 2017 , there were approximately $ 598.3 million of earnings upon which u.s .",
+      "income taxes of approximately $ 110.0 million have not been provided for. ."
+    ],
+    "table": [
+      [
+        "carryforward",
+        "amount ( in thousands )",
+        "expirationdate"
+      ],
+      [
+        "federal net operating loss carryforward",
+        "$ 57265",
+        "2018-2034"
+      ],
+      [
+        "federal research credit carryforward",
+        "78599",
+        "2019-2036"
+      ],
+      [
+        "federal foreign tax credit carryforward",
+        "2081",
+        "2019-2022"
+      ],
+      [
+        "international foreign tax credit carryforward",
+        "13351",
+        "indefinite"
+      ],
+      [
+        "california research credit carryforward",
+        "169038",
+        "indefinite"
+      ],
+      [
+        "other state research credit carryforward",
+        "7482",
+        "2023-2032"
+      ],
+      [
+        "state net operating loss carryforward",
+        "33201",
+        "2024-2035"
+      ]
+    ],
+    "questions": [
+      "what is the differnece between the federal and the state net operating loss carryforward?"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total interest payment in 2010?",
+      "answer": 189.0,
+      "answer_raw": "189.0",
+      "program": "189"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the total interest payment in 2009?",
+      "answer": 201.0,
+      "answer_raw": "201.0",
+      "program": "201"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the effective rate?",
+      "answer": 0.9403,
+      "answer_raw": "0.9403",
+      "program": "divide(189, 201)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the estimated interest expense in 2011?",
+      "answer": 177.71642,
+      "answer_raw": "177.71642",
+      "program": "divide(189, 201), multiply(189, #0)"
+    }
+  ]
+}

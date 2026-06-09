@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the asset management revenue from 2008 to 2009",
+      "answer": 0.25073,
+      "answer_raw": "0.25073",
+      "program": "divide(172, 686)"
+    }
+  ]
+}

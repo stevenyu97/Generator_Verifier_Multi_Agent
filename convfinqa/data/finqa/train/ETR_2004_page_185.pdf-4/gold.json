@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the net change in net revenue during 2004 is due to the change in volume/weather for entergy gulf states , inc?",
+      "answer": 0.67254,
+      "answer_raw": "0.67254",
+      "program": "subtract(1149.8, 1110.1), divide(26.7, #0)"
+    }
+  ]
+}

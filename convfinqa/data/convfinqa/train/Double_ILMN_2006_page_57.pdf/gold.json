@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total of operating leases due in less than one year?",
+      "answer": 5320.0,
+      "answer_raw": "5320.0",
+      "program": "5320"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the total of all operating leases?",
+      "answer": 37899.0,
+      "answer_raw": "37899.0",
+      "program": "37899"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, do the operating leases due in less than one year represent, in percentage, in relation to this total?",
+      "answer": 0.14037,
+      "answer_raw": "0.14037",
+      "program": "divide(5320, 37899)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much do the ones due in 1 2013 3 years represent in relation to it, also in percentage?",
+      "answer": 0.27468,
+      "answer_raw": "0.27468",
+      "program": "divide(10410, 37899)"
+    }
+  ]
+}

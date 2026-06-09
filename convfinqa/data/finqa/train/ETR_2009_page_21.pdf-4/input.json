@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "ETR/2009/page_21.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries management's financial discussion and analysis the purchased power capacity variance is primarily due to higher capacity charges .",
+      "a portion of the variance is due to the amortization of deferred capacity costs and is offset in base revenues due to base rate increases implemented to recover incremental deferred and ongoing purchased power capacity charges .",
+      "the volume/weather variance is primarily due to the effect of less favorable weather compared to the same period in 2007 and decreased electricity usage primarily during the unbilled sales period .",
+      "hurricane gustav and hurricane ike , which hit the utility's service territories in september 2008 , contributed an estimated $ 46 million to the decrease in electricity usage .",
+      "industrial sales were also depressed by the continuing effects of the hurricanes and , especially in the latter part of the year , because of the overall decline of the economy , leading to lower usage in the latter part of the year affecting both the large customer industrial segment as well as small and mid-sized industrial customers .",
+      "the decreases in electricity usage were partially offset by an increase in residential and commercial customer electricity usage that occurred during the periods of the year not affected by the hurricanes .",
+      "the retail electric price variance is primarily due to : an increase in the attala power plant costs recovered through the power management rider by entergy mississippi .",
+      "the net income effect of this recovery is limited to a portion representing an allowed return on equity with the remainder offset by attala power plant costs in other operation and maintenance expenses , depreciation expenses , and taxes other than income taxes ; a storm damage rider that became effective in october 2007 at entergy mississippi ; and an energy efficiency rider that became effective in november 2007 at entergy arkansas .",
+      "the establishment of the storm damage rider and the energy efficiency rider results in an increase in rider revenue and a corresponding increase in other operation and maintenance expense with no impact on net income .",
+      "the retail electric price variance was partially offset by : the absence of interim storm recoveries through the formula rate plans at entergy louisiana and entergy gulf states louisiana which ceased upon the act 55 financing of storm costs in the third quarter 2008 ; and a credit passed on to customers as a result of the act 55 storm cost financings .",
+      "refer to \"liquidity and capital resources - hurricane katrina and hurricane rita\" below and note 2 to the financial statements for a discussion of the interim recovery of storm costs and the act 55 storm cost financings .",
+      "non-utility nuclear following is an analysis of the change in net revenue comparing 2008 to 2007 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "as shown in the table above , net revenue for non-utility nuclear increased by $ 495 million , or 27% ( 27 % ) , in 2008 compared to 2007 primarily due to higher pricing in its contracts to sell power , additional production available from the acquisition of palisades in april 2007 , and fewer outage days .",
+      "in addition to the refueling outages shown in the ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2007 net revenue",
+        "$ 1839"
+      ],
+      [
+        "realized price changes",
+        "309"
+      ],
+      [
+        "palisades acquisition",
+        "98"
+      ],
+      [
+        "volume variance ( other than palisades )",
+        "73"
+      ],
+      [
+        "fuel expenses ( other than palisades )",
+        "-19 ( 19 )"
+      ],
+      [
+        "other",
+        "34"
+      ],
+      [
+        "2008 net revenue",
+        "$ 2334"
+      ]
+    ],
+    "questions": [
+      "what was the average net revenue between 2007 and 2008 in millions"
+    ]
+  }
+}

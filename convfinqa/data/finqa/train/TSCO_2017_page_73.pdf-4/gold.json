@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much is the goodwill worth in 2016 if the intangible assets are worth $ 31.1 million?",
+      "answer": 63.1,
+      "answer_raw": "63.1",
+      "program": "subtract(94.4, 31.3)"
+    }
+  ]
+}

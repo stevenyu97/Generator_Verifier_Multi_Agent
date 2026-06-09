@@ -1,0 +1,53 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the expected volatility in 2009?",
+      "answer": 28.7,
+      "answer_raw": "28.7",
+      "program": "28.7"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2008?",
+      "answer": 27.3,
+      "answer_raw": "27.3",
+      "program": "27.3"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "net change from 2008 to 2009?",
+      "answer": 1.4,
+      "answer_raw": "1.4",
+      "program": "subtract(28.7, 27.3)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage change does this represent?",
+      "answer": 0.05128,
+      "answer_raw": "0.05128",
+      "program": "subtract(28.7, 27.3), divide(#0, 27.3)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what about the net change in the weighted-average estimated fair values of stock options granted from 2009 to 20010?",
+      "answer": 1.49,
+      "answer_raw": "1.49",
+      "program": "subtract(5.28, 3.79)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the weighted-average estimated fair values of stock options granted in 2009?",
+      "answer": 3.79,
+      "answer_raw": "3.79",
+      "program": "3.79"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "what percentage change does this represent?",
+      "answer": 0.39314,
+      "answer_raw": "0.39314",
+      "program": "subtract(5.28, 3.79), divide(#0, 3.79)"
+    }
+  ]
+}

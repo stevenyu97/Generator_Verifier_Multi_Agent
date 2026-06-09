@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is thee total value of outstanding security options?",
+      "answer": 9682979.93,
+      "answer_raw": "9682979.93",
+      "program": "subtract(9683058, 78.07)"
+    }
+  ]
+}

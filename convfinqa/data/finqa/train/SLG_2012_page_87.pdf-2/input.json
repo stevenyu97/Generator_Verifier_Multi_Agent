@@ -1,0 +1,155 @@
+{
+  "input": {
+    "id": "SLG/2012/page_87.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "sl green realty corp .",
+      "it happens here 2012 annual report 85 | 85 in april a02011 , we purchased sitq immobilier , a subsid- iary of caisse de depot et placement du quebec , or sitq 2019s , 31.5% ( 31.5 % ) economic interest in 1515 a0 broadway , thereby consoli- dating full ownership of the 1750000 a0square foot ( unaudited ) building .",
+      "the transaction valued the consolidated interests at $ 1.23 a0 billion .",
+      "this valuation was based on a negotiated sales agreement and took into consideration such factors as whether this was a distressed sale and whether a minority dis- count was warranted .",
+      "we acquired the interest subject to the $ 458.8 a0million mortgage encumbering the property .",
+      "we rec- ognized a purchase price fair value adjustment of $ 475.1 a0mil- lion upon the closing of this transaction .",
+      "this property , which we initially acquired in may a02002 , was previously accounted for as an investment in unconsolidated joint ventures .",
+      "in january a0 2011 , we purchased city investment fund , or cif 2019s , 49.9% ( 49.9 % ) a0interest in 521 a0fifth avenue , thereby assum- ing full ownership of the 460000 a0 square foot ( unaudited ) building .",
+      "the transaction valued the consolidated interests at approximately $ 245.7 a0 million , excluding $ 4.5 a0 million of cash and other assets acquired .",
+      "we acquired the interest subject to the $ 140.0 a0 million mortgage encumbering the property .",
+      "we recognized a purchase price fair value adjust- ment of $ 13.8 a0million upon the closing of this transaction .",
+      "in april a02011 , we refinanced the property with a new $ 150.0 a0mil- lion 2-year mortgage which carries a floating rate of interest of 200 a0basis points over the 30-day libor .",
+      "in connection with that refinancing , we acquired the fee interest in the property for $ 15.0 a0million .",
+      "the following summarizes our allocation of the purchase price of the assets acquired and liabilities assumed upon the closing of these 2011 acquisitions ( amounts in thousands ) : 51 east 180 110 east 1515 521 fifth 42nd street maiden lane 42nd street broadway avenue land fffd$ 44095 $ 191523 $ 34000 $ 2002 2008462700 $ 110100 ."
+    ],
+    "post_text": [
+      "net consideration funded by us at closing fffd$ 81632 $ 200281835 $ 20022744 $ 2002 2008259228 $ 200270000 equity and/or debt investment held fffd 2014 2014 $ 16000 $ 2002 2002 200840942 $ 200241432 debt assumed fffd$ 2002 2002 2002 2002 2008 2014 $ 2002 2002 2002 2002 2002 2008 2014 $ 65000 $ 2002 2008458767 $ 140000 2010 acquisitions | in january 2010 , we became the sole owner of 100 a0church street , a 1.05 a0million square foot ( unau- dited ) office tower located in downtown manhattan , following the successful foreclosure of the senior mezzanine loan at the property .",
+      "our initial investment totaled $ 40.9 a0million , which was comprised of a 50% ( 50 % ) a0interest in the senior mezzanine loan and two other mezzanine loans at 100 a0 church street , which we acquired from gramercy capital corp .",
+      "( nyse : a0gkk ) , or gramercy , in the summer of a0 2007 .",
+      "at closing of the foreclo- sure , we funded an additional $ 15.0 a0million of capital into the project as part of our agreement with wachovia bank , n.a .",
+      "to extend and restructure the existing financing .",
+      "gramercy declined to fund its share of this capital and instead trans- ferred its interests in the investment to us at closing .",
+      "the restructured $ 139.7 a0million mortgage carries an interest rate of 350 a0basis points over the 30-day libor .",
+      "the restructured mortgage , which was scheduled to mature in january a0 2013 , was repaid in march a02011 .",
+      "in august a0 2010 , we acquired 125 a0 park avenue , a manhattan office tower , for $ 330 a0million .",
+      "in connection with the acquisition , we assumed $ 146.25 a0million of in-place financ- ing .",
+      "the 5.748% ( 5.748 % ) interest-only loan matures in october a02014 .",
+      "in december a02010 , we completed the acquisition of various investments from gramercy .",
+      "this acquisition included ( 1 ) a0the remaining 45% ( 45 % ) a0interest in the leased fee at 885 a0third avenue for approximately $ 39.3 a0 million plus assumed mortgage debt of approximately $ 120.4 a0million , ( 2 ) a0the remaining 45% ( 45 % ) interest in the leased fee at 2 a0 herald square for approxi- mately $ 25.6 a0 million plus assumed mortgage debt of approximately $ 86.1 a0 million and , ( 3 ) a0 the entire leased fee interest in 292 a0madison avenue for approximately $ 19.2 a0mil- lion plus assumed mortgage debt of approximately $ 59.1 a0million .",
+      "these assets are all leased to third a0party operators. ."
+    ],
+    "table": [
+      [
+        "",
+        "51 east 42nd street",
+        "180 maiden lane",
+        "110 east 42nd street",
+        "1515 broadway",
+        "521 fifth avenue"
+      ],
+      [
+        "land",
+        "$ 44095",
+        "$ 191523",
+        "$ 34000",
+        "$ 462700",
+        "$ 110100"
+      ],
+      [
+        "building",
+        "33470",
+        "233230",
+        "46411",
+        "707938",
+        "146686"
+      ],
+      [
+        "above market lease value",
+        "5616",
+        "7944",
+        "823",
+        "18298",
+        "3318"
+      ],
+      [
+        "acquired in-place leases",
+        "4333",
+        "29948",
+        "5396",
+        "98661",
+        "23016"
+      ],
+      [
+        "other assets net of other liabilities",
+        "2014",
+        "2014",
+        "2014",
+        "27127",
+        "2014"
+      ],
+      [
+        "assets acquired",
+        "87514",
+        "462645",
+        "86630",
+        "1314724",
+        "283120"
+      ],
+      [
+        "fair value adjustment to mortgage note payable",
+        "2014",
+        "2014",
+        "2014",
+        "-3693 ( 3693 )",
+        "2014"
+      ],
+      [
+        "below market lease value",
+        "7514",
+        "20320",
+        "2326",
+        "84417",
+        "25977"
+      ],
+      [
+        "liabilities assumed",
+        "7514",
+        "20320",
+        "2326",
+        "80724",
+        "25977"
+      ],
+      [
+        "purchase price allocation",
+        "$ 80000",
+        "$ 442325",
+        "$ 84304",
+        "$ 1234000",
+        "$ 257143"
+      ],
+      [
+        "net consideration funded by us at closing",
+        "$ 81632",
+        "$ 81835",
+        "$ 2744",
+        "$ 259228",
+        "$ 70000"
+      ],
+      [
+        "equity and/or debt investment held",
+        "2014",
+        "2014",
+        "$ 16000",
+        "$ 40942",
+        "$ 41432"
+      ],
+      [
+        "debt assumed",
+        "$ 2014",
+        "$ 2014",
+        "$ 65000",
+        "$ 458767",
+        "$ 140000"
+      ]
+    ],
+    "questions": [
+      "what was the company's share of the value of the 521 fifth avenue acquisition based on the transaction cost?"
+    ]
+  }
+}

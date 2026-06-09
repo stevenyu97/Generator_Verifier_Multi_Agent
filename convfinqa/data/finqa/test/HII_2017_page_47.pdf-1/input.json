@@ -1,0 +1,125 @@
+{
+  "input": {
+    "id": "HII/2017/page_47.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "item 6 .",
+      "selected financial data the following table sets forth our selected financial data .",
+      "the table should be read in conjunction with item 7 and item 8 of this annual report on form 10-k. ."
+    ],
+    "post_text": [
+      "( 1 ) long-term debt does not include the current portion of long-term debt , which is included in current liabilities .",
+      "( 2 ) free cash flow is a non-gaap financial measure and represents cash from operating activities less capital expenditures net of related grant proceeds .",
+      "see liquidity and capital resources in item 7 for more information on this measure. ."
+    ],
+    "table": [
+      [
+        "( $ in millions except per share amounts )",
+        "year ended december 31 2017",
+        "year ended december 31 2016",
+        "year ended december 31 2015",
+        "year ended december 31 2014",
+        "year ended december 31 2013"
+      ],
+      [
+        "sales and service revenues",
+        "$ 7441",
+        "$ 7068",
+        "$ 7020",
+        "$ 6957",
+        "$ 6820"
+      ],
+      [
+        "goodwill impairment",
+        "2014",
+        "2014",
+        "75",
+        "47",
+        "2014"
+      ],
+      [
+        "operating income ( loss )",
+        "865",
+        "858",
+        "769",
+        "655",
+        "512"
+      ],
+      [
+        "net earnings ( loss )",
+        "479",
+        "573",
+        "404",
+        "338",
+        "261"
+      ],
+      [
+        "total assets",
+        "6374",
+        "6352",
+        "6024",
+        "6239",
+        "6190"
+      ],
+      [
+        "long-term debt ( 1 )",
+        "1279",
+        "1278",
+        "1273",
+        "1562",
+        "1665"
+      ],
+      [
+        "total long-term obligations",
+        "3225",
+        "3356",
+        "3260",
+        "3562",
+        "3277"
+      ],
+      [
+        "net cash provided by ( used in ) operating activities",
+        "814",
+        "822",
+        "861",
+        "755",
+        "260"
+      ],
+      [
+        "free cash flow ( 2 )",
+        "453",
+        "537",
+        "673",
+        "590",
+        "121"
+      ],
+      [
+        "dividends declared per share",
+        "$ 2.52",
+        "$ 2.10",
+        "$ 1.70",
+        "$ 1.00",
+        "$ 0.50"
+      ],
+      [
+        "basic earnings ( loss ) per share",
+        "$ 10.48",
+        "$ 12.24",
+        "$ 8.43",
+        "$ 6.93",
+        "$ 5.25"
+      ],
+      [
+        "diluted earnings ( loss ) per share",
+        "$ 10.46",
+        "$ 12.14",
+        "$ 8.36",
+        "$ 6.86",
+        "$ 5.18"
+      ]
+    ],
+    "questions": [
+      "what was the return on total assets during 2013?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of doors in the wholesale segment as of march 30 , 2013 where in the asia geography?",
+      "answer": 0.00734,
+      "answer_raw": "0.00734",
+      "program": "divide(78, 10625)"
+    }
+  ]
+}

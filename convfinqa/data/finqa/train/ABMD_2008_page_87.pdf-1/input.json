@@ -1,0 +1,79 @@
+{
+  "input": {
+    "id": "ABMD/2008/page_87.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "abiomed , inc .",
+      "and subsidiaries notes to consolidated financial statements 2014 ( continued ) note 15 .",
+      "commitments and contingencies ( continued ) the company applies the disclosure provisions of fin no .",
+      "45 , guarantor 2019s accounting and disclosure requirements for guarantees , including guarantees of indebtedness of others , and interpretation of fasb statements no .",
+      "5 , 57 and 107 and rescission of fasb interpretation no .",
+      "34 ( fin no .",
+      "45 ) to its agreements that contain guarantee or indemnification clauses .",
+      "these disclosure provisions expand those required by sfas no .",
+      "5 , accounting for contingencies , by requiring that guarantors disclose certain types of guarantees , even if the likelihood of requiring the guarantor 2019s performance is remote .",
+      "in addition to product warranties , the following is a description of arrangements in which the company is a guarantor .",
+      "indemnifications 2014in many sales transactions , the company indemnifies customers against possible claims of patent infringement caused by the company 2019s products .",
+      "the indemnifications contained within sales contracts usually do not include limits on the claims .",
+      "the company has never incurred any material costs to defend lawsuits or settle patent infringement claims related to sales transactions .",
+      "under the provisions of fin no .",
+      "45 , intellectual property indemnifications require disclosure only .",
+      "the company enters into agreements with other companies in the ordinary course of business , typically with underwriters , contractors , clinical sites and customers that include indemnification provisions .",
+      "under these provisions the company generally indemnifies and holds harmless the indemnified party for losses suffered or incurred by the indemnified party as a result of its activities .",
+      "these indemnification provisions generally survive termination of the underlying agreement .",
+      "the maximum potential amount of future payments the company could be required to make under these indemnification provisions is unlimited .",
+      "abiomed has never incurred any material costs to defend lawsuits or settle claims related to these indemnification agreements .",
+      "as a result , the estimated fair value of these agreements is minimal .",
+      "accordingly , the company has no liabilities recorded for these agreements as of march 31 , 2008 .",
+      "clinical study agreements 2014in the company 2019s clinical study agreements , abiomed has agreed to indemnify the participating institutions against losses incurred by them for claims related to any personal injury of subjects taking part in the study to the extent they relate to uses of the company 2019s devices in accordance with the clinical study agreement , the protocol for the device and abiomed 2019s instructions .",
+      "the indemnification provisions contained within the company 2019s clinical study agreements do not generally include limits on the claims .",
+      "the company has never incurred any material costs related to the indemnification provisions contained in its clinical study agreements .",
+      "facilities leases 2014as of march 31 , 2008 , the company had entered into leases for its facilities , including its primary operating facility in danvers , massachusetts with terms through fiscal 2010 .",
+      "the danvers lease may be extended , at the company 2019s option , for two successive additional periods of five years each with monthly rent charges to be determined based on then current fair rental values .",
+      "the company 2019s lease for its aachen location expires in december 2012 .",
+      "total rent expense under these leases , included in the accompanying consolidated statements of operations approximated $ 2.2 million , $ 1.6 million , and $ 1.3 million for the fiscal years ended march 31 , 2008 , 2007 and 2006 , respectively .",
+      "future minimum lease payments under all significant non-cancelable operating leases as of march 31 , 2008 are approximately as follows : fiscal year ending march 31 , operating leases ( in $ 000 2019s ) ."
+    ],
+    "post_text": [
+      "litigation 2014from time-to-time , the company is involved in legal and administrative proceedings and claims of various types .",
+      "while any litigation contains an element of uncertainty , management presently believes that the outcome of each such other proceedings or claims which are pending or known to be threatened , or all of them combined , is not expected to have a material adverse effect on the company 2019s financial position , cash flow and results. ."
+    ],
+    "table": [
+      [
+        "fiscal year ending march 31,",
+        "operating leases ( in $ 000 2019s )"
+      ],
+      [
+        "2009",
+        "2544"
+      ],
+      [
+        "2010",
+        "2220"
+      ],
+      [
+        "2011",
+        "1287"
+      ],
+      [
+        "2012",
+        "973"
+      ],
+      [
+        "2013",
+        "730"
+      ],
+      [
+        "thereafter",
+        "2014"
+      ],
+      [
+        "total future minimum lease payments",
+        "$ 7754"
+      ]
+    ],
+    "questions": [
+      "the total rent for leases in the fiscal years ended march 31 , 2008 , 2007 and 2006 is what percent of the entire future minimum lease payments?"
+    ]
+  }
+}

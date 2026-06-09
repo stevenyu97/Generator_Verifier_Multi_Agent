@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "Single_ETR/2008/page_336.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "entergy mississippi , inc .",
+      "management's financial discussion and analysis results of operations net income 2008 compared to 2007 net income decreased $ 12.4 million primarily due to higher other operation and maintenance expenses , lower other income , and higher depreciation and amortization expenses , partially offset by higher net revenue .",
+      "2007 compared to 2006 net income increased $ 19.8 million primarily due to higher net revenue , lower other operation and maintenance expenses , higher other income , and lower interest expense , partially offset by higher depreciation and amortization expenses .",
+      "net revenue 2008 compared to 2007 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory charges .",
+      "following is an analysis of the change in net revenue comparing 2008 to 2007 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the attala costs variance is primarily due to an increase in the attala power plant costs that are recovered through the power management rider .",
+      "the net income effect of this recovery in limited to a portion representing an allowed return on equity with the remainder offset by attala power plant costs in other operation and maintenance expenses , depreciation expenses , and taxes other than income taxes .",
+      "the recovery of attala power plant costs is discussed further in \"liquidity and capital resources - uses of capital\" below .",
+      "the rider revenue variance is the result of a storm damage rider that became effective in october 2007 .",
+      "the establishment of this rider results in an increase in rider revenue and a corresponding increase in other operation and maintenance expense for the storm reserve with no effect on net income .",
+      "the base revenue variance is primarily due to a formula rate plan increase effective july 2007 .",
+      "the formula rate plan filing is discussed further in \"state and local rate regulation\" below .",
+      "the reserve equalization variance is primarily due to changes in the entergy system generation mix compared to the same period in 2007. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2007 net revenue",
+        "$ 486.9"
+      ],
+      [
+        "attala costs",
+        "9.9"
+      ],
+      [
+        "rider revenue",
+        "6.0"
+      ],
+      [
+        "base revenue",
+        "5.1"
+      ],
+      [
+        "reserve equalization",
+        "-2.4 ( 2.4 )"
+      ],
+      [
+        "net wholesale revenue",
+        "-4.0 ( 4.0 )"
+      ],
+      [
+        "other",
+        "-2.7 ( 2.7 )"
+      ],
+      [
+        "2008 net revenue",
+        "$ 498.8"
+      ]
+    ],
+    "questions": [
+      "what was net revenue in 2008?",
+      "what was the net revenue in 2007?",
+      "what is the change in revenue over the year?",
+      "what is the percent change?"
+    ]
+  }
+}

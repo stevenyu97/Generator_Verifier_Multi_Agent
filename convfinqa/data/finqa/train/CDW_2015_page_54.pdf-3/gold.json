@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in principal amount of senior notes due 2022 compared to senior notes due 2023 , in millions?",
+      "answer": 116.9,
+      "answer_raw": "116.9",
+      "program": "subtract(852.0, 735.1)"
+    }
+  ]
+}

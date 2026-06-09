@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if the hr solutions segment generated 35% ( 35 % ) of the consolidated revenue , what would be the total revenue for 2014 , ( in millions ) ?",
+      "answer": 12182.85714,
+      "answer_raw": "12182.85714",
+      "program": "divide(4264, 35%)"
+    }
+  ]
+}

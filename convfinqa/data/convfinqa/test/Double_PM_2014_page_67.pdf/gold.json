@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of us dollar notes issued in november of 2014, in millions?",
+      "answer": 1500.0,
+      "answer_raw": "1500.0",
+      "program": "add(750, 750)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that total for the entire year?",
+      "answer": 2000.0,
+      "answer_raw": "2000.0",
+      "program": "add(750, 750), add(#0, 500)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and concerning the euro notes, what was their full total for 2014, also in millions?",
+      "answer": 3098.0,
+      "answer_raw": "3098.0",
+      "program": "add(1029, 1372), add(#0, 697)"
+    }
+  ]
+}

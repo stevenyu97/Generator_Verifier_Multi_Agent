@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the activity between the company and the 2007 financing entities what was the ratio of the cash payments to the cash receipts in 2013",
+      "answer": 2.625,
+      "answer_raw": "2.625",
+      "program": "divide(21, 8)"
+    }
+  ]
+}

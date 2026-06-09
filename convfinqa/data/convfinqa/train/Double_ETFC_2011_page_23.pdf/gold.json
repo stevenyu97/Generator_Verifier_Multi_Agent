@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the portion of not leased in alpharetta , georgia?",
+      "answer": 0.63462,
+      "answer_raw": "0.63462",
+      "program": "divide(165000, 260000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the area of the facility in menlo park california?",
+      "answer": 91000.0,
+      "answer_raw": "91000.0",
+      "program": "91000"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what about in sandy utah?",
+      "answer": 66000.0,
+      "answer_raw": "66000.0",
+      "program": "66000"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the ratio of menlo park california space to sandy utah space?",
+      "answer": 1.37879,
+      "answer_raw": "1.37879",
+      "program": "divide(91000, 66000)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were total tax benefits realized for deductions during 2007 and 2006 in excess of the stock-based compensation expense for options exercised and other stock-based awards vested in millions?",
+      "answer": 66.0,
+      "answer_raw": "66.0",
+      "program": "add(30, 36)"
+    }
+  ]
+}

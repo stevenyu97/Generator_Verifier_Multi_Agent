@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in the share price for citi between 12/31/16 and 12/31/11?",
+      "answer": 129.3,
+      "answer_raw": "129.3",
+      "program": "subtract(229.3, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the difference in share price for s&p500 during this time?",
+      "answer": 98.2,
+      "answer_raw": "98.2",
+      "program": "subtract(229.3, const_100), subtract(198.2, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the proportion of price change for citi to the price change for s&p500?",
+      "answer": 1.3167,
+      "answer_raw": "1.3167",
+      "program": "subtract(229.3, const_100), subtract(198.2, const_100), divide(#0, #1)"
+    }
+  ]
+}

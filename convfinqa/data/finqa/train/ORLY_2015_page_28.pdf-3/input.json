@@ -1,0 +1,53 @@
+{
+  "input": {
+    "id": "ORLY/2015/page_28.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "stock performance graph : the graph below shows the cumulative total shareholder return assuming the investment of $ 100 , on december 31 , 2010 , and the reinvestment of dividends thereafter , if any , in the company's common stock versus the standard and poor's s&p 500 retail index ( \"s&p 500 retail index\" ) and the standard and poor's s&p 500 index ( \"s&p 500\" ) . ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "company/index",
+        "december 31 , 2010",
+        "december 31 , 2011",
+        "december 31 , 2012",
+        "december 31 , 2013",
+        "december 31 , 2014",
+        "december 31 , 2015"
+      ],
+      [
+        "o'reilly automotive inc .",
+        "$ 100",
+        "$ 132",
+        "$ 148",
+        "$ 213",
+        "$ 319",
+        "$ 419"
+      ],
+      [
+        "s&p 500 retail index",
+        "100",
+        "103",
+        "128",
+        "185",
+        "203",
+        "252"
+      ],
+      [
+        "s&p 500",
+        "$ 100",
+        "$ 100",
+        "$ 113",
+        "$ 147",
+        "$ 164",
+        "$ 163"
+      ]
+    ],
+    "questions": [
+      "how much greater was the five year return for the s&p 500 retail index compared to the s&p 500?"
+    ]
+  }
+}

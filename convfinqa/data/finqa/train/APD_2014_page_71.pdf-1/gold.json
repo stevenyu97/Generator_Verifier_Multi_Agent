@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the decrease observed in the sales during 2013 and 2014?",
+      "answer": -0.83748,
+      "answer_raw": "-0.83748",
+      "program": "subtract(8.5, 52.3), divide(#0, 52.3)"
+    }
+  ]
+}

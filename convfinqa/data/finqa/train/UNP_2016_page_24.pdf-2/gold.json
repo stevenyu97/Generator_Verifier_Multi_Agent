@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage of dividends paid to cash provided by operating activities in 2015?",
+      "answer": 0.31917,
+      "answer_raw": "0.31917",
+      "program": "divide(2344, 7344)"
+    }
+  ]
+}

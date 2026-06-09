@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by what percentage did the average wti crude oil benchmark decrease from 2007 to 2009?",
+      "answer": -0.14252,
+      "answer_raw": "-0.14252",
+      "program": "subtract(62.09, 72.41), divide(#0, 72.41)"
+    }
+  ]
+}

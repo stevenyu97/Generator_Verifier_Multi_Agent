@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 312018 what was the total number of number of securities of the equity compensation plans approved by security holders",
+      "answer": 4394765.0,
+      "answer_raw": "4394765.0",
+      "program": "add(399165, 3995600)"
+    }
+  ]
+}

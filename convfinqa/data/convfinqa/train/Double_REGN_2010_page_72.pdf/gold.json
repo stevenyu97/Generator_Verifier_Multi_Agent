@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the research and development costs related to vegf trap-eye in 2009?",
+      "answer": 27.1,
+      "answer_raw": "27.1",
+      "program": "27.1"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what were they in 2008?",
+      "answer": 82.7,
+      "answer_raw": "82.7",
+      "program": "82.7"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, did the 2009 costs represent in relation to these 2008 ones?",
+      "answer": 0.32769,
+      "answer_raw": "0.32769",
+      "program": "divide(27.1, 82.7)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and for those same years, what was that ratio for the research and development costs related to arcalyst ae?",
+      "answer": 0.72704,
+      "answer_raw": "0.72704",
+      "program": "divide(28.5, 39.2)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2014 , what percent of the multi asset value was the value of of asset allocation and balanced?",
+      "answer": 0.48442,
+      "answer_raw": "0.48442",
+      "program": "divide(183032, 377837)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the pre-tax expense incurred as part of the early redemption to the redemption amount",
+      "answer": 0.02207,
+      "answer_raw": "0.02207",
+      "program": "divide(7282, 329897)"
+    }
+  ]
+}

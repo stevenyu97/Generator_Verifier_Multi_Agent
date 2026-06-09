@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in weighted average fair value per share at grant date from 2017 to 2018?",
+      "answer": 0.19149,
+      "answer_raw": "0.19149",
+      "program": "subtract(12.32, 10.34), divide(#0, 10.34)"
+    }
+  ]
+}

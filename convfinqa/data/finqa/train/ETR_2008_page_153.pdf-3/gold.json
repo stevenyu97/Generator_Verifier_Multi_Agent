@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "not including years 'thereafter' , what is the total lease payments ? ( in $ thousands )",
+      "answer": 183379.0,
+      "answer_raw": "183379.0",
+      "program": "subtract(321237, 137858)"
+    }
+  ]
+}

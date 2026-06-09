@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in accumulated other comprehensive earnings ( loss ) between 2004 and 2005?\\\\n",
+      "answer": -4.03313,
+      "answer_raw": "-4.03313",
+      "program": "divide(-133.9, 33.2)"
+    }
+  ]
+}

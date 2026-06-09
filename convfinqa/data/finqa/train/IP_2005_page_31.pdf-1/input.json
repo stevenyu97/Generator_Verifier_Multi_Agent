@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "IP/2005/page_31.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "wood products sales in the united states in 2005 of $ 1.6 billion were up 3% ( 3 % ) from $ 1.5 billion in 2004 and 18% ( 18 % ) from $ 1.3 billion in 2003 .",
+      "average price realiza- tions for lumber were up 6% ( 6 % ) and 21% ( 21 % ) in 2005 compared with 2004 and 2003 , respectively .",
+      "lumber sales volumes in 2005 were up 5% ( 5 % ) versus 2004 and 10% ( 10 % ) versus 2003 .",
+      "average sales prices for plywood were down 4% ( 4 % ) from 2004 , but were 15% ( 15 % ) higher than in 2003 .",
+      "plywood sales volumes in 2005 were slightly higher than 2004 and 2003 .",
+      "operating profits in 2005 were 18% ( 18 % ) lower than 2004 , but nearly three times higher than 2003 .",
+      "lower average plywood prices and higher raw material costs more than offset the effects of higher average lumber prices , volume increases and a positive sales mix .",
+      "in 2005 , log costs were up 9% ( 9 % ) versus 2004 , negatively im- pacting both plywood and lumber profits .",
+      "lumber and plywood operating costs also reflected substantially higher glue and natural gas costs versus both 2004 and looking forward to the first quarter of 2006 , a con- tinued strong housing market , combined with low prod- uct inventory in the distribution chain , should translate into continued strong lumber and plywood demand .",
+      "however , a possible softening of housing starts and higher interest rates later in the year could put down- ward pressure on pricing in the second half of 2006 .",
+      "specialty businesses and other the specialty businesses and other segment in- cludes the operating results of arizona chemical , euro- pean distribution and , prior to its closure in 2003 , our natchez , mississippi chemical cellulose pulp mill .",
+      "also included are certain divested businesses whose results are included in this segment for periods prior to their sale or closure .",
+      "this segment 2019s 2005 net sales declined 18% ( 18 % ) and 26% ( 26 % ) from 2004 and 2003 , respectively .",
+      "operating profits in 2005 were down substantially from both 2004 and 2003 .",
+      "the decline in sales principally reflects declining contributions from businesses sold or closed .",
+      "operating profits were also affected by higher energy and raw material costs in our chemical business .",
+      "specialty businesses and other in millions 2005 2004 2003 ."
+    ],
+    "post_text": [
+      "chemicals sales were $ 692 million in 2005 , com- pared with $ 672 million in 2004 and $ 625 million in 2003 .",
+      "although demand was strong for most arizona chemical product lines , operating profits in 2005 were 84% ( 84 % ) and 83% ( 83 % ) lower than in 2004 and 2003 , re- spectively , due to higher energy costs in the u.s. , and higher prices and reduced availability for crude tall oil ( cto ) .",
+      "in the united states , energy costs increased 41% ( 41 % ) compared to 2004 due to higher natural gas prices and supply interruption costs .",
+      "cto prices increased 26% ( 26 % ) compared to 2004 , as certain energy users turned to cto as a substitute fuel for high-cost alternative energy sources such as natural gas and fuel oil .",
+      "european cto receipts decreased 30% ( 30 % ) compared to 2004 due to lower yields following the finnish paper industry strike and a swedish storm that limited cto throughput and corre- sponding sales volumes .",
+      "other businesses in this operating segment include operations that have been sold , closed , or are held for sale , principally the european distribution business , the oil and gas and mineral royalty business , decorative products , retail packaging , and the natchez chemical cellulose pulp mill .",
+      "sales for these businesses were ap- proximately $ 223 million in 2005 ( mainly european distribution and decorative products ) compared with $ 448 million in 2004 ( mainly european distribution and decorative products ) , and $ 610 million in 2003 .",
+      "liquidity and capital resources overview a major factor in international paper 2019s liquidity and capital resource planning is its generation of operat- ing cash flow , which is highly sensitive to changes in the pricing and demand for our major products .",
+      "while changes in key cash operating costs , such as energy and raw material costs , do have an effect on operating cash generation , we believe that our strong focus on cost controls has improved our cash flow generation over an operating cycle .",
+      "as a result , we believe that we are well positioned for improvements in operating cash flow should prices and worldwide economic conditions im- prove in the future .",
+      "as part of our continuing focus on improving our return on investment , we have focused our capital spending on improving our key platform businesses in north america and in geographic areas with strong growth opportunities .",
+      "spending levels have been kept below the level of depreciation and amortization charges for each of the last three years , and we anticipate con- tinuing this approach in 2006 .",
+      "with the low interest rate environment in 2005 , financing activities have focused largely on the repay- ment or refinancing of higher coupon debt , resulting in a net reduction in debt of approximately $ 1.7 billion in 2005 .",
+      "we plan to continue this program , with addi- tional reductions anticipated as our previously an- nounced transformation plan progresses in 2006 .",
+      "our liquidity position continues to be strong , with approx- imately $ 3.2 billion of committed liquidity to cover fu- ture short-term cash flow requirements not met by operating cash flows. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2005",
+        "2004",
+        "2003"
+      ],
+      [
+        "sales",
+        "$ 915",
+        "$ 1120",
+        "$ 1235"
+      ],
+      [
+        "operating profit",
+        "$ 4",
+        "$ 38",
+        "$ 23"
+      ]
+    ],
+    "questions": [
+      "what percentage of specialty businesses sales where due to chemicals sales in 2005?"
+    ]
+  }
+}

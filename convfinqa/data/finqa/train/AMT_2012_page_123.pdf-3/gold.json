@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the final purchase price allocation what was the ratio of the property and equipment to the intangible assets",
+      "answer": 3.38041,
+      "answer_raw": "3.38041",
+      "program": "divide(3590, 1062)"
+    }
+  ]
+}

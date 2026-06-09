@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "without credit derivatives , what would 2005 total derivatives balance have been , in us$ b?",
+      "answer": 41352.0,
+      "answer_raw": "41352.0",
+      "program": "subtract(43593, 2241)"
+    }
+  ]
+}

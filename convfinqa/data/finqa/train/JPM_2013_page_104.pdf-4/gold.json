@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the selected financial statement data what was the variance between the mortgage loans average and period-end balance",
+      "answer": 1366.0,
+      "answer_raw": "1366.0",
+      "program": "subtract(5145, 3779)"
+    }
+  ]
+}

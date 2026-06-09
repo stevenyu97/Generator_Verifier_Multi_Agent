@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the total payments made for the notes entergy issued to nypa that lasted 7 years?",
+      "answer": 756.0,
+      "answer_raw": "756.0",
+      "program": "multiply(108, const_7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the amount of the installment that was paid for eight years?",
+      "answer": 20.0,
+      "answer_raw": "20.0",
+      "program": "20"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the total amount of these installments?",
+      "answer": 160.0,
+      "answer_raw": "160.0",
+      "program": "multiply(108, const_7), multiply(20, const_8)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "combined, what was the sum of the notes entergy issued to nypa?",
+      "answer": 916.0,
+      "answer_raw": "916.0",
+      "program": "multiply(108, const_7), multiply(20, const_8), add(#1, #0)"
+    }
+  ]
+}

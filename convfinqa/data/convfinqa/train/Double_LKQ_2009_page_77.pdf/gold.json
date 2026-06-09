@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the variation in the rental expense for operating leases from 2007 to 2008?",
+      "answer": 22.4,
+      "answer_raw": "22.4",
+      "program": "subtract(49.0, 26.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this variation as a percent of that expense in 2007?",
+      "answer": 0.84211,
+      "answer_raw": "0.84211",
+      "program": "subtract(49.0, 26.6), divide(#0, 26.6)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and throughout the next one year period, from 2008 to 2009, what was that variation?",
+      "answer": 8.2,
+      "answer_raw": "8.2",
+      "program": "subtract(57.2, 49.0)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much did this variation represent in relation to that rental expense in 2008, in percentage?",
+      "answer": 0.16735,
+      "answer_raw": "0.16735",
+      "program": "subtract(57.2, 49.0), divide(#0, 49.0)"
+    }
+  ]
+}

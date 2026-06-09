@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net revenue in 2014?",
+      "answer": 5735.0,
+      "answer_raw": "5735.0",
+      "program": "5735"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2013?",
+      "answer": 5524.0,
+      "answer_raw": "5524.0",
+      "program": "5524"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "by how much, then, did it change over the year?",
+      "answer": 211.0,
+      "answer_raw": "211.0",
+      "program": "subtract(5735, 5524)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is this change as a percent of the 2013 net revenue?",
+      "answer": 0.0382,
+      "answer_raw": "0.0382",
+      "program": "subtract(5735, 5524), divide(#0, 5524)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and in this same year, what percentage of this net revenue was due to the retail electric price?",
+      "answer": 0.02444,
+      "answer_raw": "0.02444",
+      "program": "divide(135, 5524)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in the year of the 2011, what would have been the diluted earnings per share if the impact of 4.3 million potential common shares had not been excluded?",
+      "answer": 149.2,
+      "answer_raw": "149.2",
+      "program": "add(144.9, 4.3)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in the two years subsequent to that one, what was the total effect , in millions , of the dilutive securities?",
+      "answer": 2.8,
+      "answer_raw": "2.8",
+      "program": "add(2.1, 0.7)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and including 2011, what becomes this total effect?",
+      "answer": 2.9,
+      "answer_raw": "2.9",
+      "program": "add(2.1, 0.7), add(#0, 0.1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was the average effect between those three years, in millions?",
+      "answer": 0.96667,
+      "answer_raw": "0.96667",
+      "program": "add(2.1, 0.7), add(#0, 0.1), divide(#1, const_3)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amount of the repurchase liability at end of period for 2012?",
+      "answer": 2811.0,
+      "answer_raw": "2811.0",
+      "program": "2811"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in that same year, what was the total of the make-whole settlements?",
+      "answer": 524.0,
+      "answer_raw": "524.0",
+      "program": "524"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what became, then, that liability with this total of settlements?",
+      "answer": 3335.0,
+      "answer_raw": "3335.0",
+      "program": "add(2811, 524)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and was this sum two years later, in 2014?",
+      "answer": 64.0,
+      "answer_raw": "64.0",
+      "program": "add(53, 11)"
+    }
+  ]
+}

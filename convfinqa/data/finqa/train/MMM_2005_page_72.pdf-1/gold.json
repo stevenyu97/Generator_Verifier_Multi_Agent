@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the accounts receivable of the net assets acquired",
+      "answer": 0.07583,
+      "answer_raw": "0.07583",
+      "program": "divide(96, 1266)"
+    }
+  ]
+}

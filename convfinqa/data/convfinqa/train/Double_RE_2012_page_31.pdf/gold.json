@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in gross reserves from 2011 to 2012?",
+      "answer": -57.1,
+      "answer_raw": "-57.1",
+      "program": "subtract(442.8, 499.9)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much is this change as a percentage of those gross reserves in 2011?",
+      "answer": -0.11422,
+      "answer_raw": "-0.11422",
+      "program": "subtract(442.8, 499.9), divide(#0, 499.9)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "during this same year of 2011, how much did the incurred but not reported reserves represent in relation to the total net reserves, in percentage?",
+      "answer": 0.43919,
+      "answer_raw": "0.43919",
+      "program": "divide(210.9, 480.2)"
+    }
+  ]
+}

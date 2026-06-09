@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many berths per ship , to the nearest whole number , should be expected in global cruise market between 2015-2019 , assuming each ship has the same amount?",
+      "answer": 2989.39394,
+      "answer_raw": "2989.39394",
+      "program": "divide(98650, 33)"
+    }
+  ]
+}

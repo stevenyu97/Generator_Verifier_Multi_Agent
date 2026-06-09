@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of long term debt to the total contractual obligations",
+      "answer": 0.31783,
+      "answer_raw": "0.31783",
+      "program": "divide(1859, 5849)"
+    }
+  ]
+}

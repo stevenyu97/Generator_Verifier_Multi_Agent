@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the year ended december 28 , 2008 what was the percent of the united states revenues to the total",
+      "answer": 0.48858,
+      "answer_raw": "0.48858",
+      "program": "divide(280064, 573225)"
+    }
+  ]
+}

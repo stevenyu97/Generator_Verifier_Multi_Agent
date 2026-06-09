@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "Single_KMI/2014/page_114.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "maturities of debt the scheduled maturities of the outstanding debt balances , excluding debt fair value adjustments as of december 31 , 2014 , are summarized as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "_______ interest rates , interest rate swaps and contingent debt the weighted average interest rate on all of our borrowings was 5.02% ( 5.02 % ) during 2014 and 5.08% ( 5.08 % ) during 2013 .",
+      "information on our interest rate swaps is contained in note 13 .",
+      "for information about our contingent debt agreements , see note 12 .",
+      "subsequent event subsequent to december 31 , 2014 , additional ep trust i preferred securities were converted , primarily consisting of 969117 ep trust i preferred securities converted on january 14 , 2015 , into ( i ) 697473 of our class p common stock ; ( ii ) approximately $ 24 million in cash ; and ( iii ) 1066028 in warrants .",
+      "9 .",
+      "share-based compensation and employee benefits share-based compensation kinder morgan , inc .",
+      "class p shares stock compensation plan for non-employee directors we have a stock compensation plan for non-employee directors , in which our eligible non-employee directors participate .",
+      "the plan recognizes that the compensation paid to each eligible non-employee director is fixed by our board , generally annually , and that the compensation is payable in cash .",
+      "pursuant to the plan , in lieu of receiving some or all of the cash compensation , each eligible non-employee director may elect to receive shares of class p common stock .",
+      "each election will be generally at or around the first board meeting in january of each calendar year and will be effective for the entire calendar year .",
+      "an eligible director may make a new election each calendar year .",
+      "the total number of shares of class p common stock authorized under the plan is 250000 .",
+      "during 2014 , 2013 and 2012 , we made restricted class p common stock grants to our non-employee directors of 6210 , 5710 and 5520 , respectively .",
+      "these grants were valued at time of issuance at $ 220000 , $ 210000 and $ 185000 , respectively .",
+      "all of the restricted stock grants made to non-employee directors vest during a six-month period .",
+      "table of contents ."
+    ],
+    "table": [
+      [
+        "year",
+        "total"
+      ],
+      [
+        "2015",
+        "$ 2717"
+      ],
+      [
+        "2016",
+        "1684"
+      ],
+      [
+        "2017",
+        "3059"
+      ],
+      [
+        "2018",
+        "2328"
+      ],
+      [
+        "2019",
+        "2819"
+      ],
+      [
+        "thereafter",
+        "28422"
+      ],
+      [
+        "total",
+        "$ 41029"
+      ]
+    ],
+    "questions": [
+      "what is the total value of debt of maturities?",
+      "what is the value of those due after 2019?",
+      "what is the difference?",
+      "what is the total value?",
+      "what is the difference divided by the value due after 2019?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate of the net earnings attributable to pmi?",
+      "answer": -0.13377,
+      "answer_raw": "-0.13377",
+      "program": "subtract(6035, 6967), divide(#0, 6967)"
+    }
+  ]
+}

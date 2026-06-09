@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the acquisition related costs recognized in 2015 to 2014",
+      "answer": 0.75,
+      "answer_raw": "0.75",
+      "program": "divide(0.6, 0.8)"
+    }
+  ]
+}

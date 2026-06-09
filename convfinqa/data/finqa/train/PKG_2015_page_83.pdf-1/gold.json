@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "\\\\n\\\\n\\\\n\\\\nof the total purchase commitments , what percentage were due after 2020?\\\\n",
+      "answer": 0.24679,
+      "answer_raw": "0.24679",
+      "program": "divide(77.0, 312.0)"
+    }
+  ]
+}

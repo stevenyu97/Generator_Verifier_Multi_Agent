@@ -1,0 +1,51 @@
+{
+  "input": {
+    "id": "Single_HST/2017/page_142.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "host hotels & resorts , inc. , host hotels & resorts , l.p. , and subsidiaries notes to consolidated financial statements 2014 ( continued ) cash paid for income taxes , net of refunds received , was $ 40 million , $ 15 million , and $ 9 million in 2017 , 2016 , and 2015 , respectively .",
+      "a reconciliation of the beginning and ending amount of unrecognized tax benefits is as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "all of such uncertain tax position amounts , if recognized , would impact our reconciliation between the income tax provision calculated at the statutory u.s .",
+      "federal income tax rate of 35% ( 35 % ) ( 21% ( 21 % ) beginning with calendar year 2018 ) and the actual income tax provision recorded each year .",
+      "as of december 31 , 2017 , the tax years that remain subject to examination by major tax jurisdictions generally include 2014-2017 .",
+      "there were no material interest or penalties recorded for the years ended december 31 , 2017 , 2016 , and 2015 .",
+      "7 .",
+      "leases taxable reit subsidiaries leases we lease substantially all of our hotels to a wholly owned subsidiary that qualifies as a taxable reit subsidiary due to federal income tax restrictions on a reit 2019s ability to derive revenue directly from the operation and management of a hotel .",
+      "ground leases as of december 31 , 2017 , all or a portion of 26 of our hotels are subject to ground leases , generally with multiple renewal options , all of which are accounted for as operating leases .",
+      "for lease agreements with scheduled rent increases , we recognize the lease expense ratably over the term of the lease .",
+      "certain of these leases contain provisions for the payment of contingent rentals based on a percentage of sales in excess of stipulated amounts .",
+      "other lease information we also have leases on facilities used in our former restaurant business , all of which we subsequently subleased .",
+      "these leases and subleases contain one or more renewal options , generally for five- or ten-year periods .",
+      "the restaurant leases are accounted for as operating leases .",
+      "our contingent liability related to these leases is $ 9 million as of december 31 , 2017 .",
+      "we , however , consider the likelihood of any material funding related to these leases to be remote .",
+      "our leasing activity also includes those entered into by our hotels for various types of equipment , such as computer equipment , vehicles and telephone systems .",
+      "equipment leases are accounted for either as operating or capital leases , depending upon the characteristics of the particular lease arrangement .",
+      "equipment leases that are characterized as capital leases are classified as furniture and equipment and are depreciated over the life of the lease .",
+      "the amortization expense applicable to capitalized leases is included in depreciation expense. ."
+    ],
+    "table": [
+      [
+        "",
+        "2017",
+        "2016"
+      ],
+      [
+        "balance at january 1",
+        "$ 11",
+        "$ 11"
+      ],
+      [
+        "balance at december 31",
+        "$ 11",
+        "$ 11"
+      ]
+    ],
+    "questions": [
+      "what was the change in total cash paid for income taxes, net of refunds from 2015 to 2016, in millions?",
+      "and how much does that change represent in relation to the cash paid for income taxes, net of refunds in 2015, in percentage?"
+    ]
+  }
+}

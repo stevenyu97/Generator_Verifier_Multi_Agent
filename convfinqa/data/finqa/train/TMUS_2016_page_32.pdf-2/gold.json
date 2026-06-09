@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average space of the warehouse in square feet",
+      "answer": 31250.0,
+      "answer_raw": "31250.0",
+      "program": "divide(500000, 16)"
+    }
+  ]
+}

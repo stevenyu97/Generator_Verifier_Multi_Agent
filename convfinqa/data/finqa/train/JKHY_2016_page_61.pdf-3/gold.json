@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the make-up of the acquisition that was allocated to the goodwill in the net assets acquired",
+      "answer": 0.6099,
+      "answer_raw": "0.6099",
+      "program": "divide(6099, 10000)"
+    }
+  ]
+}

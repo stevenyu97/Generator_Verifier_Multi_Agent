@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "MKTX/2005/page_40.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "part ii price range our common stock commenced trading on the nasdaq national market under the symbol 201cmktx 201d on november 5 , 2004 .",
+      "prior to that date , there was no public market for our common stock .",
+      "the high and low bid information for our common stock , as reported by nasdaq , was as follows : on march 8 , 2006 , the last reported closing price of our common stock on the nasdaq national market was $ 12.59 .",
+      "holders there were approximately 114 holders of record of our common stock as of march 8 , 2006 .",
+      "dividend policy we have not declared or paid any cash dividends on our capital stock since our inception .",
+      "we intend to retain future earnings to finance the operation and expansion of our business and do not anticipate paying any cash dividends in the foreseeable future .",
+      "in the event we decide to declare dividends on our common stock in the future , such declaration will be subject to the discretion of our board of directors .",
+      "our board may take into account such matters as general business conditions , our financial results , capital requirements , contractual , legal , and regulatory restrictions on the payment of dividends by us to our stockholders or by our subsidiaries to us and any such other factors as our board may deem relevant .",
+      "use of proceeds on november 4 , 2004 , the registration statement relating to our initial public offering ( no .",
+      "333-112718 ) was declared effective .",
+      "we received net proceeds from the sale of the shares of our common stock in the offering of $ 53.9 million , at an initial public offering price of $ 11.00 per share , after deducting underwriting discounts and commissions and estimated offering expenses .",
+      "except for salaries , and reimbursements for travel expenses and other out-of -pocket costs incurred in the ordinary course of business , none of the proceeds from the offering have been paid by us , directly or indirectly , to any of our directors or officers or any of their associates , or to any persons owning ten percent or more of our outstanding stock or to any of our affiliates .",
+      "we have invested the proceeds from the offering in cash and cash equivalents and short-term marketable securities .",
+      "item 5 .",
+      "market for registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "high",
+        "low"
+      ],
+      [
+        "november 5 2004 to december 31 2004",
+        "$ 24.41",
+        "$ 12.75"
+      ],
+      [
+        "january 1 2005 to march 31 2005",
+        "$ 15.95",
+        "$ 9.64"
+      ],
+      [
+        "april 1 2005 to june 30 2005",
+        "$ 13.87",
+        "$ 9.83"
+      ],
+      [
+        "july 1 2005 to september 30 2005",
+        "$ 14.09",
+        "$ 9.99"
+      ],
+      [
+        "october 1 2005 to december 31 2005",
+        "$ 13.14",
+        "$ 10.64"
+      ]
+    ],
+    "questions": [
+      "what was the highest share price in the period october 1 2005 to december 31 2005?"
+    ]
+  }
+}

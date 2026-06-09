@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "Double_WELL/2017/page_48.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "item 7 .",
+      "management 2019s discussion and analysis of financial condition and results of operations the following discussion and analysis is based primarily on the consolidated financial statements of welltower inc .",
+      "presented in conformity with u.s .",
+      "generally accepted accounting principles ( 201cu.s .",
+      "gaap 201d ) for the periods presented and should be read together with the notes thereto contained in this annual report on form 10-k .",
+      "other important factors are identified in 201citem 1 2014 business 201d and 201citem 1a 2014 risk factors 201d above .",
+      "executive summary company overview welltower inc .",
+      "( nyse:well ) , an s&p 500 company headquartered in toledo , ohio , is driving the transformation of health care infrastructure .",
+      "the company invests with leading seniors housing operators , post- acute providers and health systems to fund the real estate and infrastructure needed to scale innovative care delivery models and improve people 2019s wellness and overall health care experience .",
+      "welltowertm , a real estate investment trust ( 201creit 201d ) , owns interests in properties concentrated in major , high-growth markets in the united states ( 201cu.s . 201d ) , canada and the united kingdom ( 201cu.k . 201d ) , consisting of seniors housing and post-acute communities and outpatient medical properties .",
+      "our capital programs , when combined with comprehensive planning , development and property management services , make us a single-source solution for acquiring , planning , developing , managing , repositioning and monetizing real estate assets .",
+      "the following table summarizes our consolidated portfolio for the year ended december 31 , 2017 ( dollars in thousands ) : type of property noi ( 1 ) percentage of number of properties ."
+    ],
+    "post_text": [
+      "( 1 ) represents consolidated noi and excludes our share of investments in unconsolidated entities .",
+      "entities in which we have a joint venture with a minority partner are shown at 100% ( 100 % ) of the joint venture amount .",
+      "see non-gaap financial measures for additional information and reconciliation .",
+      "business strategy our primary objectives are to protect stockholder capital and enhance stockholder value .",
+      "we seek to pay consistent cash dividends to stockholders and create opportunities to increase dividend payments to stockholders as a result of annual increases in net operating income and portfolio growth .",
+      "to meet these objectives , we invest across the full spectrum of seniors housing and health care real estate and diversify our investment portfolio by property type , relationship and geographic location .",
+      "substantially all of our revenues are derived from operating lease rentals , resident fees/services , and interest earned on outstanding loans receivable .",
+      "these items represent our primary sources of liquidity to fund distributions and depend upon the continued ability of our obligors to make contractual rent and interest payments to us and the profitability of our operating properties .",
+      "to the extent that our obligors/partners experience operating difficulties and become unable to generate sufficient cash to make payments or operating distributions to us , there could be a material adverse impact on our consolidated results of operations , liquidity and/or financial condition .",
+      "to mitigate this risk , we monitor our investments through a variety of methods determined by the type of property .",
+      "our asset management process for seniors housing properties generally includes review of monthly financial statements and other operating data for each property , review of obligor/ partner creditworthiness , property inspections , and review of covenant compliance relating to licensure , real estate taxes , letters of credit and other collateral .",
+      "our internal property management division manages and monitors the outpatient medical portfolio with a comprehensive process including review of tenant relations ."
+    ],
+    "table": [
+      [
+        "type of property",
+        "noi ( 1 )",
+        "percentage of noi",
+        "number of properties"
+      ],
+      [
+        "triple-net",
+        "$ 967084",
+        "43.3% ( 43.3 % )",
+        "573"
+      ],
+      [
+        "seniors housing operating",
+        "880026",
+        "39.5% ( 39.5 % )",
+        "443"
+      ],
+      [
+        "outpatient medical",
+        "384068",
+        "17.2% ( 17.2 % )",
+        "270"
+      ],
+      [
+        "totals",
+        "$ 2231178",
+        "100.0% ( 100.0 % )",
+        "1286"
+      ]
+    ],
+    "questions": [
+      "what was the total number of properties subject to triple-net leases and seniors housing operating housing?",
+      "what was the portion of the total number of properties is related to triple-net?"
+    ]
+  }
+}

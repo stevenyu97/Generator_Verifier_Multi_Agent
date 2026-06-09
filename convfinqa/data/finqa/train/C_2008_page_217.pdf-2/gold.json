@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total maximum potential amount of future payments are backed by performance guarrantees ? \\\\n",
+      "answer": 0.05346,
+      "answer_raw": "0.05346",
+      "program": "divide(16.3, 304.9)"
+    }
+  ]
+}

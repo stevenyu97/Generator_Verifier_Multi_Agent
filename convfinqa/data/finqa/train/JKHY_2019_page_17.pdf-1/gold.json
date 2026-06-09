@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the company market capitalization on august 15 , 2019,",
+      "answer": 20623882.0,
+      "answer_raw": "20623882.0",
+      "program": "multiply(145300, 141.94)"
+    }
+  ]
+}

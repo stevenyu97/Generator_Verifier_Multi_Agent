@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total assets acquired is composed of goodwill?",
+      "answer": 0.69676,
+      "answer_raw": "0.69676",
+      "program": "divide(13536, 19427)"
+    }
+  ]
+}

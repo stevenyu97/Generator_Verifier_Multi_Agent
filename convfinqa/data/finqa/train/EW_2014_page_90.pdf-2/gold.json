@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the expected change according to the model in the fair value per share between 2012 and 2013?",
+      "answer": -4.46,
+      "answer_raw": "-4.46",
+      "program": "subtract(19.47, 23.93)"
+    }
+  ]
+}

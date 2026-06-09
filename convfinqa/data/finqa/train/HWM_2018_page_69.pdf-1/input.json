@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "HWM/2018/page_69.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "discounted cash flow model ( dcf ) to estimate the current fair value of its reporting units when testing for impairment , as management believes forecasted cash flows are the best indicator of such fair value .",
+      "a number of significant assumptions and estimates are involved in the application of the dcf model to forecast operating cash flows , including sales growth ( volumes and pricing ) , production costs , capital spending , and discount rate .",
+      "most of these assumptions vary significantly among the reporting units .",
+      "cash flow forecasts are generally based on approved business unit operating plans for the early years and historical relationships in later years .",
+      "the wacc rate for the individual reporting units is estimated with the assistance of valuation experts .",
+      "arconic would recognize an impairment charge for the amount by which the carrying amount exceeds the reporting unit 2019s fair value without exceeding the total amount of goodwill allocated to that reporting unit .",
+      "in connection with the interim impairment evaluation of long-lived assets for the disks operations ( an asset group within the aen business unit ) in the second quarter of 2018 , which resulted from a decline in forecasted financial performance for the business in connection with its updated three-year strategic plan , the company also performed an interim impairment evaluation of goodwill for the aen reporting unit .",
+      "the estimated fair value of the reporting unit was substantially in excess of the carrying value ; thus , there was no impairment of goodwill .",
+      "goodwill impairment tests in 2017 and 2016 indicated that goodwill was not impaired for any of the company 2019s reporting units , except for the arconic forgings and extrusions ( afe ) business whose estimated fair value was lower than its carrying value .",
+      "as such , arconic recorded an impairment for the full amount of goodwill in the afe reporting unit of $ 719 .",
+      "the decrease in the afe fair value was primarily due to unfavorable performance that was impacting operating margins and a higher discount rate due to an increase in the risk-free rate of return , while the carrying value increased compared to prior year .",
+      "other intangible assets .",
+      "intangible assets with indefinite useful lives are not amortized while intangible assets with finite useful lives are amortized generally on a straight-line basis over the periods benefited .",
+      "the following table details the weighted- average useful lives of software and other intangible assets by reporting segment ( numbers in years ) : ."
+    ],
+    "post_text": [
+      "revenue recognition .",
+      "the company's contracts with customers are comprised of acknowledged purchase orders incorporating the company 2019s standard terms and conditions , or for larger customers , may also generally include terms under negotiated multi-year agreements .",
+      "these contracts with customers typically consist of the manufacture of products which represent single performance obligations that are satisfied upon transfer of control of the product to the customer .",
+      "the company produces fastening systems ; seamless rolled rings ; investment castings , including airfoils and forged jet engine components ; extruded , machined and formed aircraft parts ; aluminum sheet and plate ; integrated aluminum structural systems ; architectural extrusions ; and forged aluminum commercial vehicle wheels .",
+      "transfer of control is assessed based on alternative use of the products we produce and our enforceable right to payment for performance to date under the contract terms .",
+      "transfer of control and revenue recognition generally occur upon shipment or delivery of the product , which is when title , ownership and risk of loss pass to the customer and is based on the applicable shipping terms .",
+      "the shipping terms vary across all businesses and depend on the product , the country of origin , and the type of transportation ( truck , train , or vessel ) .",
+      "an invoice for payment is issued at time of shipment .",
+      "the company 2019s objective is to have net 30-day terms .",
+      "our business units set commercial terms on which arconic sells products to its customers .",
+      "these terms are influenced by industry custom , market conditions , product line ( specialty versus commodity products ) , and other considerations .",
+      "in certain circumstances , arconic receives advanced payments from its customers for product to be delivered in future periods .",
+      "these advanced payments are recorded as deferred revenue until the product is delivered and title and risk of loss have passed to the customer in accordance with the terms of the contract .",
+      "deferred revenue is included in other current liabilities and other noncurrent liabilities and deferred credits on the accompanying consolidated balance sheet .",
+      "environmental matters .",
+      "expenditures for current operations are expensed or capitalized , as appropriate .",
+      "expenditures relating to existing conditions caused by past operations , which will not contribute to future revenues , are expensed .",
+      "liabilities are recorded when remediation costs are probable and can be reasonably estimated .",
+      "the liability may include costs such as site investigations , consultant fees , feasibility studies , outside contractors , and monitoring expenses .",
+      "estimates are generally not discounted or reduced by potential claims for recovery .",
+      "claims for recovery are recognized when probable and as agreements are reached with third parties .",
+      "the estimates also include costs related to other potentially responsible parties to the extent that arconic has reason to believe such parties will not fully pay their proportionate share .",
+      "the liability is continuously reviewed and adjusted to reflect current remediation progress , prospective estimates of required activity , and other factors that may be relevant , including changes in technology or regulations .",
+      "litigation matters .",
+      "for asserted claims and assessments , liabilities are recorded when an unfavorable outcome of a matter is ."
+    ],
+    "table": [
+      [
+        "",
+        "software",
+        "other intangible assets"
+      ],
+      [
+        "engineered products and solutions",
+        "5",
+        "33"
+      ],
+      [
+        "global rolled products",
+        "5",
+        "9"
+      ],
+      [
+        "transportation and construction solutions",
+        "5",
+        "16"
+      ]
+    ],
+    "questions": [
+      "what is the difference between the weighted average useful lives of software and other intangible assets in the transportation and construction solutions segment , in years?"
+    ]
+  }
+}

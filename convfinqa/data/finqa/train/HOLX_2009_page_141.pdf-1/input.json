@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "HOLX/2009/page_141.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents hologic , inc .",
+      "notes to consolidated financial statements ( continued ) ( in thousands , except per share data ) as of september 26 , 2009 , the company 2019s financial assets that are re-measured at fair value on a recurring basis consisted of $ 313 in money market mutual funds that are classified as cash and cash equivalents in the consolidated balance sheets .",
+      "as there are no withdrawal restrictions , they are classified within level 1 of the fair value hierarchy and are valued using quoted market prices for identical assets .",
+      "the company holds certain minority cost-method equity investments in non-publicly traded securities aggregating $ 7585 and $ 9278 at september 26 , 2009 and september 27 , 2008 , respectively , which are included in other long-term assets on the company 2019s consolidated balance sheets .",
+      "these investments are generally carried at cost .",
+      "as the inputs utilized for the company 2019s periodic impairment assessment are not based on observable market data , these cost method investments are classified within level 3 of the fair value hierarchy on a non-recurring basis .",
+      "to determine the fair value of these investments , the company uses all available financial information related to the entities , including information based on recent or pending third-party equity investments in these entities .",
+      "in certain instances , a cost method investment 2019s fair value is not estimated as there are no identified events or changes in circumstances that may have a significant adverse effect on the fair value of the investment and to do so would be impractical .",
+      "during fiscal 2009 , the company recorded other-than-temporary impairment charges totaling $ 2243 related to two of its cost method investments to adjust their carrying amounts to fair value .",
+      "7 .",
+      "pension and other employee benefits the company has certain defined benefit pension plans covering the employees of its aeg german subsidiary ( the 201cpension benefits 201d ) .",
+      "as of september 29 , 2007 , the company adopted sfas no .",
+      "158 , employers 2019 accounting for defined benefit pension and other postretirement plans , an amendment of fasb statements no .",
+      "87 , 88 , 106 and 132 ( r ) ( codified primarily in asc 715 , defined benefit plans ) using a prospective approach .",
+      "the adoption of this standard did not impact the company 2019s compliance with its debt covenants under its credit agreements , cash position or results of operations .",
+      "the following table summarizes the incremental effect of adopting this standard on individual line items in the consolidated balance sheet as of september 29 , 2007 : before adoption of sfas no .",
+      "158 adjustments ( in thousands ) adoption of sfas no .",
+      "158 ."
+    ],
+    "post_text": [
+      "as of september 26 , 2009 and september 27 , 2008 , the company 2019s pension liability is $ 6736 and $ 7323 , respectively , which is primarily recorded as a component of long-term liabilities in the consolidated balance sheets .",
+      "under german law , there are no rules governing investment or statutory supervision of the pension plan .",
+      "as such , there is no minimum funding requirement imposed on employers .",
+      "pension benefits are safeguarded by the pension guaranty fund , a form of compulsory reinsurance that guarantees an employee will receive vested pension benefits in the event of insolvency .",
+      "source : hologic inc , 10-k , november 24 , 2009 powered by morningstar ae document research 2120 the information contained herein may not be copied , adapted or distributed and is not warranted to be accurate , complete or timely .",
+      "the user assumes all risks for any damages or losses arising from any use of this information , except to the extent such damages or losses cannot be limited or excluded by applicable law .",
+      "past financial performance is no guarantee of future results. ."
+    ],
+    "table": [
+      [
+        "",
+        "before adoption of sfas no . 158",
+        "adjustments ( in thousands )",
+        "after adoption of sfas no . 158"
+      ],
+      [
+        "accumulated other comprehensive income",
+        "$ 2014",
+        "$ 2212",
+        "$ 2212"
+      ],
+      [
+        "total stockholders 2019 equity",
+        "$ 803511",
+        "$ 2212",
+        "$ 805723"
+      ]
+    ],
+    "questions": [
+      "what is the net change in the equity investments in non-publicly traded securities from 2008 to 2009?"
+    ]
+  }
+}

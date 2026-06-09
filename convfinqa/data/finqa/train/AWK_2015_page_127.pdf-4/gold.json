@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the growth rate in the account balance 2015",
+      "answer": 0.07087,
+      "answer_raw": "0.07087",
+      "program": "add(12, -3), divide(#0, 127)"
+    }
+  ]
+}

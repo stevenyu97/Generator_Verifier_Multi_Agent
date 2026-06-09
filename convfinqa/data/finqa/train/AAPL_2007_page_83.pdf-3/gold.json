@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of september 29 , 2007 , what percent of the company 2019s total future minimum lease payments under noncancelable operating leases were related to leases for retail space?",
+      "answer": 0.78571,
+      "answer_raw": "0.78571",
+      "program": "divide(1.1, 1.4)"
+    }
+  ]
+}

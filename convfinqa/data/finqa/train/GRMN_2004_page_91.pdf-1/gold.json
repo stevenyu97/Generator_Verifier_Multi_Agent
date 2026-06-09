@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the increase in expense related to office , warehouse space , and real estate during 2003 and 2004?",
+      "answer": 284.0,
+      "answer_raw": "284.0",
+      "program": "subtract(608, 324)"
+    }
+  ]
+}

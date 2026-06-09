@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2014 what was the ratio of the decrease in tax positions compared to the end balance",
+      "answer": -0.306,
+      "answer_raw": "-0.306",
+      "program": "multiply(3176, const_m1), divide(#0, 10379)"
+    }
+  ]
+}

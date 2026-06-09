@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in expenses related to personal pension plan from 2009 to 2010?",
+      "answer": 0.69231,
+      "answer_raw": "0.69231",
+      "program": "subtract(22, 13), divide(#0, 13)"
+    }
+  ]
+}

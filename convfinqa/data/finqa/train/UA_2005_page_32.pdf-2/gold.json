@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of growth in gross profit from 2004 to 2005\\\\n",
+      "answer": 0.42453,
+      "answer_raw": "0.42453",
+      "program": "divide(40.5, 95.4)"
+    }
+  ]
+}

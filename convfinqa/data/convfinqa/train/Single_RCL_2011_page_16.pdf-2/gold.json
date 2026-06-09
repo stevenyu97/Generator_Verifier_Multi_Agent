@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of global cruise guests in 2011?",
+      "answer": 20227000.0,
+      "answer_raw": "20227000.0",
+      "program": "20227000"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2007?",
+      "answer": 16586000.0,
+      "answer_raw": "16586000.0",
+      "program": "16586000"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so by how much did this value change between these years?",
+      "answer": 3641000.0,
+      "answer_raw": "3641000.0",
+      "program": "subtract(20227000, 16586000)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the value for 2007 again?",
+      "answer": 16586000.0,
+      "answer_raw": "16586000.0",
+      "program": "16586000"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage change during this time?",
+      "answer": 0.21952,
+      "answer_raw": "0.21952",
+      "program": "subtract(20227000, 16586000), divide(#0, 16586000)"
+    }
+  ]
+}

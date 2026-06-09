@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "AMT/2012/page_123.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements the allocation of the purchase price was finalized during the year ended december 31 , 2012 .",
+      "the following table summarizes the allocation of the aggregate purchase consideration paid and the amounts of assets acquired and liabilities assumed based upon their estimated fair value at the date of acquisition ( in thousands ) : purchase price allocation ."
+    ],
+    "post_text": [
+      "( 1 ) consists of customer-related intangibles of approximately $ 0.4 million and network location intangibles of approximately $ 0.7 million .",
+      "the customer-related intangibles and network location intangibles are being amortized on a straight-line basis over periods of up to 20 years .",
+      "( 2 ) the company expects that the goodwill recorded will be deductible for tax purposes .",
+      "the goodwill was allocated to the company 2019s international rental and management segment .",
+      "colombia 2014colombia movil acquisition 2014on july 17 , 2011 , the company entered into a definitive agreement with colombia movil s.a .",
+      "e.s.p .",
+      "( 201ccolombia movil 201d ) , whereby atc sitios infraco , s.a.s. , a colombian subsidiary of the company ( 201catc infraco 201d ) , would purchase up to 2126 communications sites from colombia movil for an aggregate purchase price of approximately $ 182.0 million .",
+      "from december 21 , 2011 through the year ended december 31 , 2012 , atc infraco completed the purchase of 1526 communications sites for an aggregate purchase price of $ 136.2 million ( including contingent consideration of $ 17.3 million ) , subject to post-closing adjustments .",
+      "through a subsidiary , millicom international cellular s.a .",
+      "( 201cmillicom 201d ) exercised its option to acquire an indirect , substantial non-controlling interest in atc infraco .",
+      "under the terms of the agreement , the company is required to make additional payments upon the conversion of certain barter agreements with other wireless carriers to cash paying lease agreements .",
+      "based on the company 2019s current estimates , the value of potential contingent consideration payments required to be made under the amended agreement is expected to be between zero and $ 32.8 million and is estimated to be $ 17.3 million using a probability weighted average of the expected outcomes at december 31 , 2012 .",
+      "during the year ended december 31 , 2012 , the company recorded a reduction in fair value of $ 1.2 million , which is included in other operating expenses in the consolidated statements of operations. ."
+    ],
+    "table": [
+      [
+        "",
+        "final purchase price allocation"
+      ],
+      [
+        "non-current assets",
+        "$ 2"
+      ],
+      [
+        "property and equipment",
+        "3590"
+      ],
+      [
+        "intangible assets ( 1 )",
+        "1062"
+      ],
+      [
+        "other non-current liabilities",
+        "-91 ( 91 )"
+      ],
+      [
+        "fair value of net assets acquired",
+        "$ 4563"
+      ],
+      [
+        "goodwill ( 2 )",
+        "89"
+      ]
+    ],
+    "questions": [
+      "what was the cost per tower in the colombia movil acquisition?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "operating expenses were what multiple of pre-tax earnings in 2015?",
+      "answer": 11.52066,
+      "answer_raw": "11.52066",
+      "program": "divide(13.94, 1.21)"
+    }
+  ]
+}

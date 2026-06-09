@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the balance of total long-term debt ?",
+      "answer": 6424582.0,
+      "answer_raw": "6424582.0",
+      "program": "6424582"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what amount of long-term debt is due in 12 months?",
+      "answer": 619373.0,
+      "answer_raw": "619373.0",
+      "program": "619373"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what would be the balance of long-term debt after one year?",
+      "answer": 5805209.0,
+      "answer_raw": "5805209.0",
+      "program": "subtract(6424582, 619373)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what portion of payments due in less than 1 years is related to long-term debt?",
+      "answer": 0.31683,
+      "answer_raw": "0.31683",
+      "program": "divide(619373, 1954928)"
+    }
+  ]
+}

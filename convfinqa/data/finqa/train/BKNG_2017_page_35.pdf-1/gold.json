@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in booking holdings inc . for the five years ended 2017?",
+      "answer": 1.801,
+      "answer_raw": "1.801",
+      "program": "subtract(280.10, const_100), divide(#0, const_100)"
+    }
+  ]
+}

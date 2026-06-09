@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "IP/2007/page_30.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "customer demand .",
+      "this compared with 555000 tons of total downtime in 2006 of which 150000 tons related to lack-of-orders .",
+      "printing papers in millions 2007 2006 2005 ."
+    ],
+    "post_text": [
+      "north american printing papers net sales in 2007 were $ 3.5 billion compared with $ 4.4 billion in 2006 ( $ 3.5 billion excluding the coated and super- calendered papers business ) and $ 4.8 billion in 2005 ( $ 3.2 billion excluding the coated and super- calendered papers business ) .",
+      "sales volumes decreased in 2007 versus 2006 partially due to reduced production capacity resulting from the conversion of the paper machine at the pensacola mill to the production of lightweight linerboard for our industrial packaging segment .",
+      "average sales price realizations increased significantly , reflecting benefits from price increases announced throughout 2007 .",
+      "lack-of-order downtime declined to 27000 tons in 2007 from 40000 tons in 2006 .",
+      "operating earnings of $ 537 million in 2007 increased from $ 482 million in 2006 ( $ 407 million excluding the coated and supercalendered papers business ) and $ 175 million in 2005 ( $ 74 million excluding the coated and supercalendered papers business ) .",
+      "the benefits from improved average sales price realizations more than offset the effects of higher input costs for wood , energy , and freight .",
+      "mill operations were favorable compared with the prior year due to current-year improvements in machine performance and energy conservation efforts .",
+      "sales volumes for the first quarter of 2008 are expected to increase slightly , and the mix of prod- ucts sold to improve .",
+      "demand for printing papers in north america was steady as the quarter began .",
+      "price increases for cut-size paper and roll stock have been announced that are expected to be effective principally late in the first quarter .",
+      "planned mill maintenance outage costs should be about the same as in the fourth quarter ; however , raw material costs are expected to continue to increase , primarily for wood and energy .",
+      "brazil ian papers net sales for 2007 of $ 850 mil- lion were higher than the $ 495 million in 2006 and the $ 465 million in 2005 .",
+      "compared with 2006 , aver- age sales price realizations improved reflecting price increases for uncoated freesheet paper realized dur- ing the second half of 2006 and the first half of 2007 .",
+      "excluding the impact of the luiz antonio acquisition , sales volumes increased primarily for cut size and offset paper .",
+      "operating profits for 2007 of $ 246 mil- lion were up from $ 122 million in 2006 and $ 134 mil- lion in 2005 as the benefits from higher sales prices and favorable manufacturing costs were only parti- ally offset by higher input costs .",
+      "contributions from the luiz antonio acquisition increased net sales by approximately $ 350 million and earnings by approx- imately $ 80 million in 2007 .",
+      "entering 2008 , sales volumes for uncoated freesheet paper and pulp should be seasonally lower .",
+      "average price realizations should be essentially flat , but mar- gins are expected to reflect a less favorable product mix .",
+      "energy costs , primarily for hydroelectric power , are expected to increase significantly reflecting a lack of rainfall in brazil in the latter part of 2007 .",
+      "european papers net sales in 2007 were $ 1.5 bil- lion compared with $ 1.3 billion in 2006 and $ 1.2 bil- lion in 2005 .",
+      "sales volumes in 2007 were higher than in 2006 at our eastern european mills reflecting stronger market demand and improved efficiencies , but lower in western europe reflecting the closure of the marasquel mill in 2006 .",
+      "average sales price real- izations increased significantly in 2007 in both east- ern and western european markets .",
+      "operating profits of $ 214 million in 2007 increased from a loss of $ 16 million in 2006 and earnings of $ 88 million in 2005 .",
+      "the loss in 2006 reflects the impact of a $ 128 million impairment charge to reduce the carrying value of the fixed assets at the saillat , france mill .",
+      "excluding this charge , the improvement in 2007 compared with 2006 reflects the contribution from higher net sales , partially offset by higher input costs for wood , energy and freight .",
+      "looking ahead to the first quarter of 2008 , sales volumes are expected to be stable in western europe , but seasonally weaker in eastern europe and russia .",
+      "average price realizations are expected to remain about flat .",
+      "wood costs are expected to increase , especially in russia due to strong demand ahead of tariff increases , and energy costs are anticipated to be seasonally higher .",
+      "asian printing papers net sales were approx- imately $ 20 million in 2007 , compared with $ 15 mil- lion in 2006 and $ 10 million in 2005 .",
+      "operating earnings increased slightly in 2007 , but were close to breakeven in all periods .",
+      "u.s .",
+      "market pulp sales in 2007 totaled $ 655 mil- lion compared with $ 510 million and $ 525 million in 2006 and 2005 , respectively .",
+      "sales volumes in 2007 were up from 2006 levels , primarily for paper and ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "sales",
+        "$ 6530",
+        "$ 6700",
+        "$ 6980"
+      ],
+      [
+        "operating profit",
+        "$ 1101",
+        "$ 636",
+        "$ 434"
+      ]
+    ],
+    "questions": [
+      "what percent of printing papers sales in 2006 was from north american printing papers net sales?"
+    ]
+  }
+}

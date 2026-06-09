@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in interest expense net from 2015 to 2016?",
+      "answer": 0.80822,
+      "answer_raw": "0.80822",
+      "program": "subtract(26.4, 14.6), divide(#0, 14.6)"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "input": {
+    "id": "CMCSA/2015/page_69.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the table below sets forth information on our share repurchases and dividends paid in 2015 , 2014 and 2013 .",
+      "( in billions ) share repurchases and dividends paid dividends paid share repurchases 20142013 2015 contractual obligations ."
+    ],
+    "post_text": [
+      "purchase obligations ( b ) 53644 10848 10080 8537 24179 other long-term liabilities reflected on the balance sheet ( c ) 6280 590 1245 2390 2055 total ( d ) ( e ) $ 116266 $ 15517 $ 18996 $ 20056 $ 61697 refer to note 10 and note 17 to comcast 2019s consolidated financial statements .",
+      "( a ) excludes interest payments .",
+      "( b ) purchase obligations consist of agreements to purchase goods and services that are legally binding on us and specify all significant terms , including fixed or minimum quantities to be purchased and price provisions .",
+      "our purchase obligations related to our cable communications segment include programming contracts with cable networks and local broadcast television stations ; contracts with customer premise equipment manufacturers , communications vendors and multichannel video providers for which we provide advertising sales representation ; and other contracts entered into in the normal course of business .",
+      "cable communications programming contracts in the table above include amounts payable under fixed or minimum guaranteed commitments and do not represent the total fees that are expected to be paid under programming contracts , which we expect to be significantly higher because these contracts are generally based on the number of subscribers receiving the programming .",
+      "our purchase obligations related to our nbcuniversal segments consist primarily of commitments to acquire film and television programming , including u.s .",
+      "television rights to future olympic games through 2032 , sunday night football on the nbc network through the 2022-23 season , including the super bowl in 2018 and 2021 , nhl games through the 2020-21 season , spanish-language u.s .",
+      "television rights to fifa world cup games through 2022 , u.s television rights to english premier league soccer games through the 2021-22 season , certain pga tour and other golf events through 2030 and certain nascar events through 2024 , as well as obligations under various creative talent and employment agreements , including obligations to actors , producers , television personalities and executives , and various other television commitments .",
+      "purchase obligations do not include contracts with immaterial future commitments .",
+      "( c ) other long-term liabilities reflected on the balance sheet consist primarily of subsidiary preferred shares ; deferred compensation obliga- tions ; and pension , postretirement and postemployment benefit obligations .",
+      "a contractual obligation with a carrying value of $ 1.1 billion is not included in the table above because it is uncertain if the arrangement will be settled .",
+      "the contractual obligation involves an interest held by a third party in the revenue of certain theme parks .",
+      "the arrangement provides the counterparty with the right to periodic pay- ments associated with current period revenue and , beginning in 2017 , the option to require nbcuniversal to purchase the interest for cash in an amount based on a contractually specified formula , which amount could be significantly higher than our current carrying value .",
+      "see note 11 to comcast 2019s consolidated financial statements for additional information related to this arrangement .",
+      "reserves for uncertain tax positions of $ 1.1 billion are not included in the table above because it is uncertain if and when these reserves will become payable .",
+      "payments of $ 2.1 billion of participations and residuals are also not included in the table above because we cannot make a reliable esti- mate of the period in which these obligations will be settled .",
+      "( d ) our contractual obligations do not include the commitment to invest up to $ 4 billion at any one time as an investor in atairos due to our inability to estimate the timing of this funding .",
+      "in addition , we do not include any future expenditures related to the construction and development of the proposed universal studios theme park in beijing , china as we are not currently obligated to make such funding .",
+      "comcast 2015 annual report on form 10-k 66 ."
+    ],
+    "table": [
+      [
+        "as of december 31 2015 ( in millions )",
+        "payment due by period total",
+        "payment due by period year 1",
+        "payment due by period years 2-3",
+        "payment due by period years 4-5",
+        "payment due by period more than 5"
+      ],
+      [
+        "debtobligations ( a )",
+        "$ 52727",
+        "$ 3597",
+        "$ 6842",
+        "$ 8482",
+        "$ 33806"
+      ],
+      [
+        "capital lease obligations",
+        "156",
+        "30",
+        "47",
+        "39",
+        "40"
+      ],
+      [
+        "operating lease obligations",
+        "3459",
+        "452",
+        "782",
+        "608",
+        "1617"
+      ],
+      [
+        "purchaseobligations ( b )",
+        "53644",
+        "10848",
+        "10080",
+        "8537",
+        "24179"
+      ],
+      [
+        "other long-term liabilities reflected on the balance sheet ( c )",
+        "6280",
+        "590",
+        "1245",
+        "2390",
+        "2055"
+      ],
+      [
+        "total ( d ) ( e )",
+        "$ 116266",
+        "$ 15517",
+        "$ 18996",
+        "$ 20056",
+        "$ 61697"
+      ]
+    ],
+    "questions": [
+      "what percent of total payments due in year 1 are due to debt obligations?"
+    ]
+  }
+}

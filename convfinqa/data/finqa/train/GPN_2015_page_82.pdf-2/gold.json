@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total income tax benefit that came from buying back their common stock from 2013 to 2015?",
+      "answer": 19.6,
+      "answer_raw": "19.6",
+      "program": "add(6.9, 7.1), add(5.6, #0)"
+    }
+  ]
+}

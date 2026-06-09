@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference between the value of the nyse composite index in 2007 and 2002?",
+      "answer": 117.0,
+      "answer_raw": "117.0",
+      "program": "subtract(217, 100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how much does that difference represent in relation to the 2002 value?",
+      "answer": 1.17,
+      "answer_raw": "1.17",
+      "program": "subtract(217, 100), divide(#0, 100)"
+    }
+  ]
+}

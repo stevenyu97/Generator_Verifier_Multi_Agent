@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total future minimum lease payments for system energy is due in the next 12 months?",
+      "answer": 0.13151,
+      "answer_raw": "0.13151",
+      "program": "divide(51637, 392640)"
+    }
+  ]
+}

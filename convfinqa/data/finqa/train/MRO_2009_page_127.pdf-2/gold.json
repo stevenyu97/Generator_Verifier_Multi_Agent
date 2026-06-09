@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were total payments of long-term debt for the years 2010 - 2014 , in $ millions?",
+      "answer": 2929.0,
+      "answer_raw": "2929.0",
+      "program": "add(102, 246), add(#0, 1492), add(#1, 287), add(#2, 802)"
+    }
+  ]
+}

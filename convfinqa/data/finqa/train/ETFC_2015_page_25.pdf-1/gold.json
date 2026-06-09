@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2015 what was the ratio of the square footage in alpharetta georgia to jersey city new jersey",
+      "answer": 2.38532,
+      "answer_raw": "2.38532",
+      "program": "divide(260000, 109000)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did the short-term debt and current portion of long-term debt portion of the company's capital structure decrease from 2013 to 2015?",
+      "answer": -0.002,
+      "answer_raw": "-0.002",
+      "program": "subtract(5.9%, 6.1%)"
+    }
+  ]
+}

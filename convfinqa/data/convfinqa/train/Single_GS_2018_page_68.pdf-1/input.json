@@ -1,0 +1,118 @@
+{
+  "input": {
+    "id": "Single_GS/2018/page_68.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the goldman sachs group , inc .",
+      "and subsidiaries management 2019s discussion and analysis net revenues the table below presents net revenues by line item. ."
+    ],
+    "post_text": [
+      "in the table above : 2030 investment banking consists of revenues ( excluding net interest ) from financial advisory and underwriting assignments , as well as derivative transactions directly related to these assignments .",
+      "these activities are included in our investment banking segment .",
+      "2030 investment management consists of revenues ( excluding net interest ) from providing investment management services to a diverse set of clients , as well as wealth advisory services and certain transaction services to high-net-worth individuals and families .",
+      "these activities are included in our investment management segment .",
+      "2030 commissions and fees consists of revenues from executing and clearing client transactions on major stock , options and futures exchanges worldwide , as well as over-the-counter ( otc ) transactions .",
+      "these activities are included in our institutional client services and investment management segments .",
+      "2030 market making consists of revenues ( excluding net interest ) from client execution activities related to making markets in interest rate products , credit products , mortgages , currencies , commodities and equity products .",
+      "these activities are included in our institutional client services segment .",
+      "2030 other principal transactions consists of revenues ( excluding net interest ) from our investing activities and the origination of loans to provide financing to clients .",
+      "in addition , other principal transactions includes revenues related to our consolidated investments .",
+      "these activities are included in our investing & lending segment .",
+      "provision for credit losses , previously reported in other principal transactions revenues , is now reported as a separate line item in the consolidated statements of earnings .",
+      "previously reported amounts have been conformed to the current presentation .",
+      "operating environment .",
+      "during 2018 , our market- making activities reflected generally higher levels of volatility and improved client activity , compared with a low volatility environment in 2017 .",
+      "in investment banking , industry-wide mergers and acquisitions volumes increased compared with 2017 , while industry-wide underwriting transactions decreased .",
+      "our other principal transactions revenues benefited from company-specific events , including sales , and strong corporate performance , while investments in public equities reflected losses , as global equity prices generally decreased in 2018 , particularly towards the end of the year .",
+      "in investment management , our assets under supervision increased reflecting net inflows in liquidity products , fixed income assets and equity assets , partially offset by depreciation in client assets , primarily in equity assets .",
+      "if market-making or investment banking activity levels decline , or assets under supervision decline , or asset prices continue to decline , net revenues would likely be negatively impacted .",
+      "see 201csegment operating results 201d for further information about the operating environment and material trends and uncertainties that may impact our results of operations .",
+      "during 2017 , generally higher asset prices and tighter credit spreads were supportive of industry-wide underwriting activities , investment management performance and other principal transactions .",
+      "however , low levels of volatility in equity , fixed income , currency and commodity markets continued to negatively affect our market-making activities .",
+      "2018 versus 2017 net revenues in the consolidated statements of earnings were $ 36.62 billion for 2018 , 12% ( 12 % ) higher than 2017 , primarily due to significantly higher market making revenues and net interest income , as well as higher investment management revenues and investment banking revenues .",
+      "non-interest revenues .",
+      "investment banking revenues in the consolidated statements of earnings were $ 7.86 billion for 2018 , 7% ( 7 % ) higher than 2017 .",
+      "revenues in financial advisory were higher , reflecting an increase in industry-wide completed mergers and acquisitions volumes .",
+      "revenues in underwriting were slightly higher , due to significantly higher revenues in equity underwriting , driven by initial public offerings , partially offset by lower revenues in debt underwriting , reflecting a decline in leveraged finance activity .",
+      "investment management revenues in the consolidated statements of earnings were $ 6.51 billion for 2018 , 12% ( 12 % ) higher than 2017 , primarily due to significantly higher incentive fees , as a result of harvesting .",
+      "management and other fees were also higher , reflecting higher average assets under supervision and the impact of the recently adopted revenue recognition standard , partially offset by shifts in the mix of client assets and strategies .",
+      "see note 3 to the consolidated financial statements for further information about asu no .",
+      "2014-09 , 201crevenue from contracts with customers ( topic 606 ) . 201d 52 goldman sachs 2018 form 10-k ."
+    ],
+    "table": [
+      [
+        "$ in millions",
+        "year ended december 2018",
+        "year ended december 2017",
+        "year ended december 2016"
+      ],
+      [
+        "investment banking",
+        "$ 7862",
+        "$ 7371",
+        "$ 6273"
+      ],
+      [
+        "investment management",
+        "6514",
+        "5803",
+        "5407"
+      ],
+      [
+        "commissions and fees",
+        "3199",
+        "3051",
+        "3208"
+      ],
+      [
+        "market making",
+        "9451",
+        "7660",
+        "9933"
+      ],
+      [
+        "other principal transactions",
+        "5823",
+        "5913",
+        "3382"
+      ],
+      [
+        "totalnon-interestrevenues",
+        "32849",
+        "29798",
+        "28203"
+      ],
+      [
+        "interest income",
+        "19679",
+        "13113",
+        "9691"
+      ],
+      [
+        "interest expense",
+        "15912",
+        "10181",
+        "7104"
+      ],
+      [
+        "net interest income",
+        "3767",
+        "2932",
+        "2587"
+      ],
+      [
+        "total net revenues",
+        "$ 36616",
+        "$ 32730",
+        "$ 30790"
+      ]
+    ],
+    "questions": [
+      "what was the total net revenues for 2018?",
+      "and for 2017?",
+      "so what was the difference in this value between the two years?",
+      "and the value for 2017 again?",
+      "so what was the growth rate?"
+    ]
+  }
+}

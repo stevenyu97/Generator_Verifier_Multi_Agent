@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did undeveloped reserves increase throughout 2014 ff1f",
+      "answer": 0.13874,
+      "answer_raw": "0.13874",
+      "program": "subtract(728, 627), divide(#0, 728)"
+    }
+  ]
+}

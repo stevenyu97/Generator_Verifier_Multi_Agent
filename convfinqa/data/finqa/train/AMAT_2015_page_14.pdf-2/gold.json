@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the segment of display from 2014 to 2015?",
+      "answer": -0.11467,
+      "answer_raw": "-0.11467",
+      "program": "subtract(525, 593), divide(#0, 593)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did net undeveloped acres decrease from 2015 to 2016?",
+      "answer": 0.27702,
+      "answer_raw": "0.27702",
+      "program": "subtract(2285, 1652), divide(#0, 2285)"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "input": {
+    "id": "UNP/2009/page_61.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to the consolidated financial statements union pacific corporation and subsidiary companies for purposes of this report , unless the context otherwise requires , all references herein to the 201ccorporation 201d , 201cupc 201d , 201cwe 201d , 201cus 201d , and 201cour 201d mean union pacific corporation and its subsidiaries , including union pacific railroad company , which will be separately referred to herein as 201cuprr 201d or the 201crailroad 201d .",
+      "1 .",
+      "nature of operations operations and segmentation 2013 we are a class i railroad that operates in the united states .",
+      "we have 32094 route miles , linking pacific coast and gulf coast ports with the midwest and eastern united states gateways and providing several corridors to key mexican gateways .",
+      "we serve the western two- thirds of the country and maintain coordinated schedules with other rail carriers for the handling of freight to and from the atlantic coast , the pacific coast , the southeast , the southwest , canada , and mexico .",
+      "export and import traffic is moved through gulf coast and pacific coast ports and across the mexican and canadian borders .",
+      "the railroad , along with its subsidiaries and rail affiliates , is our one reportable operating segment .",
+      "although revenues are analyzed by commodity group , we analyze the net financial results of the railroad as one segment due to the integrated nature of our rail network .",
+      "the following table provides revenue by commodity group : millions of dollars 2009 2008 2007 ."
+    ],
+    "post_text": [
+      "although our revenues are principally derived from customers domiciled in the united states , the ultimate points of origination or destination for some products transported are outside the united states .",
+      "basis of presentation 2013 the consolidated financial statements are presented in accordance with accounting principles generally accepted in the united states of america ( gaap ) as codified in the financial accounting standards board ( fasb ) accounting standards codification ( asc ) .",
+      "subsequent events evaluation 2013 we evaluated the effects of all subsequent events through february 5 , 2010 , the date of this report , which is concurrent with the date we file this report with the u.s .",
+      "securities and exchange commission ( sec ) .",
+      "2 .",
+      "significant accounting policies change in accounting principle 2013 we have historically accounted for rail grinding costs as a capital asset .",
+      "beginning in the first quarter of 2010 , we will change our accounting policy for rail grinding costs ."
+    ],
+    "table": [
+      [
+        "millions of dollars",
+        "2009",
+        "2008",
+        "2007"
+      ],
+      [
+        "agricultural",
+        "$ 2666",
+        "$ 3174",
+        "$ 2605"
+      ],
+      [
+        "automotive",
+        "854",
+        "1344",
+        "1458"
+      ],
+      [
+        "chemicals",
+        "2102",
+        "2494",
+        "2287"
+      ],
+      [
+        "energy",
+        "3118",
+        "3810",
+        "3134"
+      ],
+      [
+        "industrial products",
+        "2147",
+        "3273",
+        "3077"
+      ],
+      [
+        "intermodal",
+        "2486",
+        "3023",
+        "2925"
+      ],
+      [
+        "total freight revenues",
+        "$ 13373",
+        "$ 17118",
+        "$ 15486"
+      ],
+      [
+        "other revenues",
+        "770",
+        "852",
+        "797"
+      ],
+      [
+        "total operating revenues",
+        "$ 14143",
+        "$ 17970",
+        "$ 16283"
+      ]
+    ],
+    "questions": [
+      "for 2009 , what was freight revenue per route mile?"
+    ]
+  }
+}

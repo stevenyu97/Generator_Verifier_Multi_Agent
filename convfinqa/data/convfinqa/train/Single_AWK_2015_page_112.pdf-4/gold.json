@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total regulatory liabilities for 2015?",
+      "answer": 402.0,
+      "answer_raw": "402.0",
+      "program": "402"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2014?",
+      "answer": 392.0,
+      "answer_raw": "392.0",
+      "program": "392"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between these two values?",
+      "answer": 10.0,
+      "answer_raw": "10.0",
+      "program": "subtract(402, 392)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was the value for 2014 again?",
+      "answer": 392.0,
+      "answer_raw": "392.0",
+      "program": "392"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and the percentage change during this time?",
+      "answer": 0.02551,
+      "answer_raw": "0.02551",
+      "program": "subtract(402, 392), divide(#0, 392)"
+    }
+  ]
+}

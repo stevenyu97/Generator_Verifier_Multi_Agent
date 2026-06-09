@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total contractual obligations due in 2010 are comprised of long-term debt obligations?",
+      "answer": 0.93522,
+      "answer_raw": "0.93522",
+      "program": "divide(41431, 44301)"
+    }
+  ]
+}

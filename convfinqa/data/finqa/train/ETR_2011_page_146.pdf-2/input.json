@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "ETR/2011/page_146.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries notes to financial statements ferc audit report , system energy initially recorded as a net regulatory asset the difference between the recovery of the lease payments and the amounts expensed for interest and depreciation and continues to record this difference as a regulatory asset or liability on an ongoing basis , resulting in a zero net balance for the regulatory asset at the end of the lease term .",
+      "the amount was a net regulatory asset ( liability ) of ( $ 2.0 ) million and $ 60.6 million as of december 31 , 2011 and 2010 , respectively .",
+      "as of december 31 , 2011 , system energy had future minimum lease payments ( reflecting an implicit rate of 5.13% ( 5.13 % ) ) , which are recorded as long-term debt as follows : amount ( in thousands ) ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in thousands )"
+      ],
+      [
+        "2012",
+        "$ 49959"
+      ],
+      [
+        "2013",
+        "50546"
+      ],
+      [
+        "2014",
+        "51637"
+      ],
+      [
+        "2015",
+        "52253"
+      ],
+      [
+        "2016",
+        "-"
+      ],
+      [
+        "years thereafter",
+        "-"
+      ],
+      [
+        "total",
+        "204395"
+      ],
+      [
+        "less : amount representing interest",
+        "25611"
+      ],
+      [
+        "present value of net minimum lease payments",
+        "$ 178784"
+      ]
+    ],
+    "questions": [
+      "in how many years will is the company expected to pay off all its future minimum lease payments?"
+    ]
+  }
+}

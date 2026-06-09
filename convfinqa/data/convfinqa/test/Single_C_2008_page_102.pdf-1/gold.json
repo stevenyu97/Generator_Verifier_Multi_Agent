@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total capital in 2008 less tier 1 capital?",
+      "answer": 37.4,
+      "answer_raw": "37.4",
+      "program": "subtract(108.4, 71.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is total capital from 2007?",
+      "answer": 121.6,
+      "answer_raw": "121.6",
+      "program": "121.6"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is tier 1 capital in 2007?",
+      "answer": 82.0,
+      "answer_raw": "82.0",
+      "program": "82.0"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the difference of total capital and tier 1 in 2007?",
+      "answer": 39.6,
+      "answer_raw": "39.6",
+      "program": "subtract(108.4, 71.0), subtract(121.6, 82.0)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the ratio of the differences in capital from 2008 to 2007?",
+      "answer": 0.94444,
+      "answer_raw": "0.94444",
+      "program": "subtract(108.4, 71.0), subtract(121.6, 82.0), divide(#0, #1)"
+    }
+  ]
+}

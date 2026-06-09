@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total square feet of new building to be constructed where aon is expected to move in?",
+      "answer": 669000.0,
+      "answer_raw": "669000.0",
+      "program": "add(190000, 479000)"
+    }
+  ]
+}

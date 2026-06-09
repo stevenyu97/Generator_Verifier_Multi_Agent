@@ -1,0 +1,96 @@
+{
+  "input": {
+    "id": "HII/2011/page_69.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "construction of cvn-79 john f .",
+      "kennedy , construction of the u.s .",
+      "coast guard 2019s fifth national security cutter ( unnamed ) , advance planning efforts for the cvn-72 uss abraham lincoln rcoh , and continued execution of the cvn-71 uss theodore roosevelt rcoh .",
+      "2010 2014the value of new contract awards during the year ended december 31 , 2010 , was approximately $ 3.6 billion .",
+      "significant new awards during this period included $ 480 million for the construction of the u.s .",
+      "coast guard 2019s fourth national security cutter hamilton , $ 480 million for design and long-lead material procurement activities for the cvn-79 john f .",
+      "kennedy aircraft carrier , $ 377 million for cvn-78 gerald r .",
+      "ford , $ 224 million for lha-7 ( unnamed ) , $ 184 million for lpd-26 john p .",
+      "murtha , $ 114 million for ddg-114 ralph johnson and $ 62 million for long-lead material procurement activities for lpd-27 ( unnamed ) .",
+      "liquidity and capital resources we endeavor to ensure the most efficient conversion of operating results into cash for deployment in operating our businesses and maximizing stockholder value .",
+      "we use various financial measures to assist in capital deployment decision making , including net cash provided by operating activities and free cash flow .",
+      "we believe these measures are useful to investors in assessing our financial performance .",
+      "the table below summarizes key components of cash flow provided by ( used in ) operating activities: ."
+    ],
+    "post_text": [
+      "cash flows we discuss below our major operating , investing and financing activities for each of the three years in the period ended december 31 , 2011 , as classified on our consolidated statements of cash flows .",
+      "operating activities 2011 2014cash provided by operating activities was $ 528 million in 2011 compared with $ 359 million in 2010 .",
+      "the increase of $ 169 million was due principally to increased earnings net of impairment charges and lower pension contributions , offset by an increase in trade working capital .",
+      "net cash paid by northrop grumman on our behalf for u.s .",
+      "federal income tax obligations was $ 53 million .",
+      "we expect cash generated from operations for 2012 to be sufficient to service debt , meet contract obligations , and finance capital expenditures .",
+      "although 2012 cash from operations is expected to be sufficient to service these obligations , we may from time to time borrow funds under our credit facility to accommodate timing differences in cash flows .",
+      "2010 2014net cash provided by operating activities was $ 359 million in 2010 compared with cash used of $ 88 million in 2009 .",
+      "the change of $ 447 million was due principally to a decrease in discretionary pension contributions of $ 97 million , a decrease in trade working capital of $ 299 million , and a decrease in deferred income taxes of $ 79 million .",
+      "in 2009 , trade working capital balances included the unfavorable impact of delayed customer billings associated with the negative performance adjustments on the lpd-22 through lpd-25 contract due to projected cost increases at completion .",
+      "see note 7 : contract charges in item 8 .",
+      "the change in deferred taxes was due principally to the timing of contract related deductions .",
+      "u.s .",
+      "federal income tax payments made by northrop grumman on our behalf were $ 89 million in 2010. ."
+    ],
+    "table": [
+      [
+        "( $ in millions )",
+        "year ended december 31 2011",
+        "year ended december 31 2010",
+        "year ended december 31 2009"
+      ],
+      [
+        "net earnings ( loss )",
+        "$ -94 ( 94 )",
+        "$ 135",
+        "$ 124"
+      ],
+      [
+        "goodwill impairment",
+        "290",
+        "0",
+        "0"
+      ],
+      [
+        "deferred income taxes",
+        "27",
+        "-19 ( 19 )",
+        "-98 ( 98 )"
+      ],
+      [
+        "depreciation and amortization",
+        "190",
+        "183",
+        "186"
+      ],
+      [
+        "stock-based compensation",
+        "42",
+        "0",
+        "0"
+      ],
+      [
+        "retiree benefit funding less than ( in excess of ) expense",
+        "122",
+        "33",
+        "-28 ( 28 )"
+      ],
+      [
+        "trade working capital decrease ( increase )",
+        "-49 ( 49 )",
+        "27",
+        "-272 ( 272 )"
+      ],
+      [
+        "net cash provided by ( used in ) operating activities",
+        "$ 528",
+        "$ 359",
+        "$ -88 ( 88 )"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in net cash from operating activities from 2010 to 2011?"
+    ]
+  }
+}

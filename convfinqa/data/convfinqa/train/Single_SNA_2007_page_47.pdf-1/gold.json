@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total current assets in 2007?",
+      "answer": 1187.4,
+      "answer_raw": "1187.4",
+      "program": "1187.4"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for 2006?",
+      "answer": 1113.2,
+      "answer_raw": "1113.2",
+      "program": "1113.2"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the difference in this value between the two years?",
+      "answer": 74.2,
+      "answer_raw": "74.2",
+      "program": "subtract(1187.4, 1113.2)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "so what was the percentage change?",
+      "answer": 0.06665,
+      "answer_raw": "0.06665",
+      "program": "subtract(1187.4, 1113.2), divide(#0, 1113.2)"
+    }
+  ]
+}

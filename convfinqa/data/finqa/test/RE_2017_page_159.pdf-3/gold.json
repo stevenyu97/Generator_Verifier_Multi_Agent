@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the estimated total cost to replace the annuities the company was liable for in 2017",
+      "answer": 179062.0,
+      "answer_raw": "179062.0",
+      "program": "add(144618, 34444)"
+    }
+  ]
+}

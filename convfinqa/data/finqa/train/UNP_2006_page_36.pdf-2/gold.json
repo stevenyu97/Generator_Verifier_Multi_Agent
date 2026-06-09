@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the debt issue in 2004 to the debt payment in 2005",
+      "answer": 1.06581,
+      "answer_raw": "1.06581",
+      "program": "divide(745, 699)"
+    }
+  ]
+}

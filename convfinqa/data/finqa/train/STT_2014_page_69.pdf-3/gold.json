@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in average u.s . short-duration advances between 2012 and 2013?",
+      "answer": 0.19473,
+      "answer_raw": "0.19473",
+      "program": "subtract(2356, 1972), divide(#0, 1972)"
+    }
+  ]
+}

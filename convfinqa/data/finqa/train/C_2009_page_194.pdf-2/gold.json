@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2009 what was the percent of the purchases included in the total carrying amount of loan receivable",
+      "answer": 0.35761,
+      "answer_raw": "0.35761",
+      "program": "divide(329, 920)"
+    }
+  ]
+}

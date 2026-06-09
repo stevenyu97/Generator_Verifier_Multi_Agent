@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in deferred tax asset associated with its nols from 2015 to 2016?",
+      "answer": 40.0,
+      "answer_raw": "40.0",
+      "program": "subtract(580, 540)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the deferred tax asset associated with its nols in 2016?",
+      "answer": 540.0,
+      "answer_raw": "540.0",
+      "program": "540"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage change does this represent?",
+      "answer": 0.07407,
+      "answer_raw": "0.07407",
+      "program": "subtract(580, 540), divide(#0, 540)"
+    }
+  ]
+}

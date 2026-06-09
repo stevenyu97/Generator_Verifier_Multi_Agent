@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 2010 what was the percent of the losses related to employee stock options included in the net federal operating loss carry forwards",
+      "answer": 0.25,
+      "answer_raw": "0.25",
+      "program": "divide(0.3, 1.2)"
+    }
+  ]
+}

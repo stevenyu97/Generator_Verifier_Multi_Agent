@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many common units were not vested at the time fo distribution?",
+      "answer": 5931.0,
+      "answer_raw": "5931.0",
+      "program": "5931"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the number of shares of restricted stock vested/settled?",
+      "answer": 1200544.0,
+      "answer_raw": "1200544.0",
+      "program": "1200544"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total of these two?",
+      "answer": 1206475.0,
+      "answer_raw": "1206475.0",
+      "program": "add(5931, 1200544)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what proportion of total restricted stock does this represent?",
+      "answer": 0.31762,
+      "answer_raw": "0.31762",
+      "program": "add(5931, 1200544), divide(#0, 3798508)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "combined, what was the shares outstanding for 12/31/10 and 12/31/09?",
+      "answer": 2556.0,
+      "answer_raw": "2556.0",
+      "program": "add(1361, 1195)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the average of these values?",
+      "answer": 1278.0,
+      "answer_raw": "1278.0",
+      "program": "add(1361, 1195), divide(#0, const_2)"
+    }
+  ]
+}

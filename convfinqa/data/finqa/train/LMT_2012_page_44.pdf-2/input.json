@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "LMT/2012/page_44.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "aeronautics 2019 operating profit for 2011 increased $ 132 million , or 9% ( 9 % ) , compared to 2010 .",
+      "the increase primarily was attributable to approximately $ 115 million of higher operating profit on c-130 programs due to increased volume and the retirement of risks ; increased volume and risk retirements on f-16 programs of about $ 50 million and c-5 programs of approximately $ 20 million ; and about $ 70 million due to risk retirements on other aeronautics sustainment activities in 2011 .",
+      "these increases partially were offset by a decline in operating profit of approximately $ 75 million on the f-22 program and f-35 development contract primarily due to lower volume and about $ 55 million on other programs , including f-35 lrip , primarily due to lower profit rate adjustments in 2011 compared to 2010 .",
+      "adjustments not related to volume , including net profit rate adjustments described above , were approximately $ 90 million higher in 2011 compared to 2010 .",
+      "backlog backlog decreased in 2012 compared to 2011 mainly due to lower orders on f-35 contracts and c-130 programs , partially offset by higher orders on f-16 programs .",
+      "backlog increased in 2011 compared to 2010 mainly due to higher orders on f-35 contracts , which partially were offset by higher sales volume on the c-130 programs .",
+      "trends we expect aeronautics will experience a mid single digit percentage range decline in net sales for 2013 as compared to 2012 .",
+      "a decrease in net sales from a decline in f-16 and c-130j aircraft deliveries is expected to be partially offset by an increase in net sales volume on f-35 lrip contracts .",
+      "operating profit is projected to decrease at a high single digit percentage range from 2012 levels due to the expected decline in net sales as well as changes in aircraft mix , resulting in a slight decline in operating margins between the years .",
+      "information systems & global solutions our is&gs business segment provides management services , integrated information technology solutions , and advanced technology systems and expertise across a broad spectrum of applications for civil , defense , intelligence , and other government customers .",
+      "is&gs has a portfolio of many smaller contracts as compared to our other business segments .",
+      "is&gs has been impacted by the continuing downturn in the federal information technology budgets and the impact of the continuing resolution that was effective on october 1 , 2012 , the start of the u.s .",
+      "government 2019s fiscal year .",
+      "is&gs 2019 operating results included the following ( in millions ) : ."
+    ],
+    "post_text": [
+      "2012 compared to 2011 is&gs 2019 net sales for 2012 decreased $ 535 million , or 6% ( 6 % ) , compared to 2011 .",
+      "the decrease was attributable to lower net sales of approximately $ 485 million due to the substantial completion of various programs during 2011 ( primarily jtrs ; odin ; and u.k .",
+      "census ) ; and about $ 255 million due to lower volume on numerous other programs ( primarily hanford ; warfighter information network-tactical ( win-t ) ; command , control , battle management and communications ( c2bmc ) ; and transportation worker identification credential ( twic ) ) .",
+      "partially offsetting the decreases were higher net sales of approximately $ 140 million from qtc , which was acquired early in the fourth quarter of 2011 ; and about $ 65 million from increased activity on numerous other programs , primarily federal cyber security programs and persistent threat detection system ( ptds ) operational support .",
+      "is&gs 2019 operating profit for 2012 decreased $ 66 million , or 8% ( 8 % ) , compared to 2011 .",
+      "the decrease was attributable to lower operating profit of approximately $ 50 million due to the favorable impact of the odin contract completion in 2011 ; about $ 25 million due to an increase in reserves for performance issues related to an international airborne surveillance system in 2012 ; and approximately $ 20 million due to lower volume on certain programs ( primarily c2bmc and win-t ) .",
+      "partially offsetting the decreases was an increase in operating profit due to higher risk retirements of approximately $ 15 million from the twic program ; and about $ 10 million due to increased activity on numerous other programs , primarily federal cyber security programs and ptds operational support .",
+      "operating profit for the jtrs program was comparable as a decrease in volume was offset by a decrease in reserves .",
+      "adjustments not related to volume , including net profit booking rate adjustments and other matters described above , were approximately $ 20 million higher for 2012 compared to 2011. ."
+    ],
+    "table": [
+      [
+        "",
+        "2012",
+        "2011",
+        "2010"
+      ],
+      [
+        "net sales",
+        "$ 8846",
+        "$ 9381",
+        "$ 9921"
+      ],
+      [
+        "operating profit",
+        "808",
+        "874",
+        "814"
+      ],
+      [
+        "operating margins",
+        "9.1% ( 9.1 % )",
+        "9.3% ( 9.3 % )",
+        "8.2% ( 8.2 % )"
+      ],
+      [
+        "backlog at year-end",
+        "8700",
+        "9300",
+        "9700"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in net sales for is&gs in 2011?"
+    ]
+  }
+}

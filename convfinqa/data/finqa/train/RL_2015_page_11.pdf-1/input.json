@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "RL/2015/page_11.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "factory stores we extend our reach to additional consumer groups through our 259 factory stores worldwide , which are principally located in major outlet centers .",
+      "during fiscal 2015 , we added 30 new factory stores and closed six factory stores .",
+      "we operated the following factory stores as of march 28 , 2015: ."
+    ],
+    "post_text": [
+      "( a ) includes the u.s .",
+      "and canada .",
+      "( b ) includes australia .",
+      "our worldwide factory stores offer selections of our apparel , accessories , and fragrances .",
+      "in addition to these product offerings , certain of our factory stores in the americas offer home furnishings .",
+      "our factory stores range in size from approximately 800 to 26700 square feet .",
+      "factory stores obtain products from our suppliers , our product licensing partners , and our other retail stores and e-commerce operations , and also serve as a secondary distribution channel for our excess and out-of-season products .",
+      "concession-based shop-within-shops the terms of trade for shop-within-shops are largely conducted on a concession basis , whereby inventory continues to be owned by us ( not the department store ) until ultimate sale to the end consumer .",
+      "the salespeople involved in the sales transactions are generally our employees and not those of the department store .",
+      "as of march 28 , 2015 , we had 536 concession-based shop-within-shops at 236 retail locations dedicated to our products , which were located in asia , australia , new zealand , and europe .",
+      "the size of our concession-based shop-within-shops ranges from approximately 200 to 6000 square feet .",
+      "we may share in the cost of building out certain of these shop-within-shops with our department store partners .",
+      "e-commerce websites in addition to our stores , our retail segment sells products online through our e-commerce channel , which includes : 2022 our north american e-commerce sites located at www.ralphlauren.com and www.clubmonaco.com , as well as our club monaco site in canada located at www.clubmonaco.ca ; 2022 our ralph lauren e-commerce sites in europe , including www.ralphlauren.co.uk ( servicing the united kingdom ) , www.ralphlauren.fr ( servicing belgium , france , italy , luxembourg , the netherlands , portugal , and spain ) , and www.ralphlauren.de ( recently expanded to service denmark , estonia , finland , latvia , slovakia , and sweden , in addition to servicing austria and germany ) ; and 2022 our ralph lauren e-commerce sites in asia , including www.ralphlauren.co.jp ( servicing japan ) , www.ralphlauren.co.kr ( servicing south korea ) , www.ralphlauren.asia ( servicing hong kong , macau , malaysia , and singapore ) , and www.ralphlauren.com.au ( servicing australia and new zealand ) .",
+      "our ralph lauren e-commerce sites in the u.s. , europe , and asia offer our customers access to a broad array of ralph lauren , double rl , polo , and denim & supply apparel , accessories , fragrance , and home products , and reinforce the luxury image of our brands .",
+      "while investing in e-commerce operations remains a primary focus , it is an extension of our investment in the integrated omni-channel strategy used to operate our overall retail business , in which our e-commerce operations are interdependent with our physical stores .",
+      "our club monaco e-commerce sites in the u.s .",
+      "and canada offer our domestic and canadian customers access to our global assortment of club monaco apparel and accessories product lines , as well as select online exclusives. ."
+    ],
+    "table": [
+      [
+        "location",
+        "factory stores"
+      ],
+      [
+        "the americas ( a )",
+        "165"
+      ],
+      [
+        "europe",
+        "54"
+      ],
+      [
+        "asia ( b )",
+        "40"
+      ],
+      [
+        "total",
+        "259"
+      ]
+    ],
+    "questions": [
+      "what percentage of factory stores as of march 28 , 2015 where located in asia?"
+    ]
+  }
+}

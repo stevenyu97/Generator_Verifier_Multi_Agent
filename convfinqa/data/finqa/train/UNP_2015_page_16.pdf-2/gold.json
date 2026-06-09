@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total highway revenue equipment leased is containers?",
+      "answer": 0.49206,
+      "answer_raw": "0.49206",
+      "program": "divide(25998, 52835)"
+    }
+  ]
+}

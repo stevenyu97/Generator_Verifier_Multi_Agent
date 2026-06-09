@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "during 2011 , what percentage of the wind turbines & deposits were written down?",
+      "answer": 0.7205,
+      "answer_raw": "0.7205",
+      "program": "divide(116, 161)"
+    }
+  ]
+}

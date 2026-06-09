@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total return if 1000000 is invested in s&p500 in may 31 , 2012 and liquidated in may 31 , 2015?",
+      "answer": 714000.0,
+      "answer_raw": "714000.0",
+      "program": "subtract(171.40, 100), divide(1000000, 100), multiply(#1, #0)"
+    }
+  ]
+}

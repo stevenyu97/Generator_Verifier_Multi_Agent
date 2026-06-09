@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "EW/2016/page_79.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "edwards lifesciences corporation notes to consolidated financial statements ( continued ) 7 .",
+      "acquisitions ( continued ) was recorded to goodwill .",
+      "the following table summarizes the fair values of the assets acquired and liabilities assumed ( in millions ) : ."
+    ],
+    "post_text": [
+      "goodwill includes expected synergies and other benefits the company believes will result from the acquisition .",
+      "goodwill was assigned to the company 2019s united states segment and is not deductible for tax purposes .",
+      "ipr&d has been capitalized at fair value as an intangible asset with an indefinite life and will be assessed for impairment in subsequent periods .",
+      "the fair value of the ipr&d was determined using the income approach .",
+      "this approach determines fair value based on cash flow projections which are discounted to present value using a risk-adjusted rate of return .",
+      "the discount rate used to determine the fair value of the ipr&d was 16.5% ( 16.5 % ) .",
+      "completion of successful design developments , bench testing , pre-clinical studies and human clinical studies are required prior to selling any product .",
+      "the risks and uncertainties associated with completing development within a reasonable period of time include those related to the design , development , and manufacturability of the product , the success of pre-clinical and clinical studies , and the timing of regulatory approvals .",
+      "the valuation assumed $ 97.7 million of additional research and development expenditures would be incurred prior to the date of product introduction , and the company does not currently anticipate significant changes to forecasted research and development expenditures associated with the cardiaq program .",
+      "the company 2019s valuation model also assumed net cash inflows would commence in late 2018 , if successful clinical trial experiences lead to a ce mark approval .",
+      "upon completion of development , the underlying research and development intangible asset will be amortized over its estimated useful life .",
+      "the company disclosed in early february 2017 that it had voluntarily paused enrollment in its clinical trials for the edwards-cardiaq valve to perform further design validation testing on a feature of the valve .",
+      "this testing has been completed and , in collaboration with clinical investigators , the company has decided to resume screening patients for enrollment in its clinical trials .",
+      "the results of operations for cardiaq have been included in the accompanying consolidated financial statements from the date of acquisition .",
+      "pro forma results have not been presented as the results of cardiaq are not material in relation to the consolidated financial statements of the company .",
+      "8 .",
+      "goodwill and other intangible assets on july 3 , 2015 , the company acquired cardiaq ( see note 7 ) .",
+      "this transaction resulted in an increase to goodwill of $ 258.9 million and ipr&d of $ 190.0 million. ."
+    ],
+    "table": [
+      [
+        "current assets",
+        "$ 28.1"
+      ],
+      [
+        "property and equipment net",
+        "0.2"
+      ],
+      [
+        "goodwill",
+        "258.9"
+      ],
+      [
+        "ipr&d",
+        "190.0"
+      ],
+      [
+        "current liabilities assumed",
+        "-32.9 ( 32.9 )"
+      ],
+      [
+        "deferred income taxes",
+        "-66.0 ( 66.0 )"
+      ],
+      [
+        "contingent consideration",
+        "-30.3 ( 30.3 )"
+      ],
+      [
+        "total cash purchase price",
+        "348.0"
+      ],
+      [
+        "less : cash acquired",
+        "-27.9 ( 27.9 )"
+      ],
+      [
+        "total cash purchase price net of cash acquired",
+        "$ 320.1"
+      ]
+    ],
+    "questions": [
+      "what percentage of the total cash purchase price net of cash acquired was represented by ipr&d?"
+    ]
+  }
+}

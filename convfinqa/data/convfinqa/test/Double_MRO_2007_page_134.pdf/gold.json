@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much did the weighted average exercise price per share increase between 2005 and 2007?",
+      "answer": 35.8,
+      "answer_raw": "35.8",
+      "program": "subtract(60.94, 25.14)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the percentage change during this time?",
+      "answer": 1.42403,
+      "answer_raw": "1.42403",
+      "program": "subtract(60.94, 25.14), divide(#0, 25.14)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what were the total tax benefits for deductions in 2007 and 2006 in excess of the stock-based compensation expense for options exercised and other stock-based awards vested?",
+      "answer": 66.0,
+      "answer_raw": "66.0",
+      "program": "add(30, 36)"
+    }
+  ]
+}

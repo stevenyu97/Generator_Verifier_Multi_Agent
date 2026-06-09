@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "OKE/2008/page_86.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "oneok partners 2019 commodity price risk is estimated as a hypothetical change in the price of ngls , crude oil and natural gas at december 31 , 2008 , excluding the effects of hedging and assuming normal operating conditions .",
+      "oneok partners 2019 condensate sales are based on the price of crude oil .",
+      "oneok partners estimates the following : 2022 a $ 0.01 per gallon decrease in the composite price of ngls would decrease annual net margin by approximately $ 1.2 million ; 2022 a $ 1.00 per barrel decrease in the price of crude oil would decrease annual net margin by approximately $ 1.0 million ; and 2022 a $ 0.10 per mmbtu decrease in the price of natural gas would decrease annual net margin by approximately $ 0.6 million .",
+      "the above estimates of commodity price risk do not include any effects on demand for its services that might be caused by , or arise in conjunction with , price changes .",
+      "for example , a change in the gross processing spread may cause a change in the amount of ethane extracted from the natural gas stream , impacting gathering and processing margins , ngl exchange revenues , natural gas deliveries , and ngl volumes shipped and fractionated .",
+      "oneok partners is also exposed to commodity price risk primarily as a result of ngls in storage , the relative values of the various ngl products to each other , the relative value of ngls to natural gas and the relative value of ngl purchases at one location and sales at another location , known as basis risk .",
+      "oneok partners utilizes fixed-price physical forward contracts to reduce earnings volatility related to ngl price fluctuations .",
+      "oneok partners has not entered into any financial instruments with respect to its ngl marketing activities .",
+      "in addition , oneok partners is exposed to commodity price risk as its natural gas interstate and intrastate pipelines collect natural gas from its customers for operations or as part of its fee for services provided .",
+      "when the amount of natural gas consumed in operations by these pipelines differs from the amount provided by its customers , the pipelines must buy or sell natural gas , or store or use natural gas from inventory , which exposes oneok partners to commodity price risk .",
+      "at december 31 , 2008 , there were no hedges in place with respect to natural gas price risk from oneok partners 2019 natural gas pipeline business .",
+      "distribution our distribution segment uses derivative instruments to hedge the cost of anticipated natural gas purchases during the winter heating months to protect their customers from upward volatility in the market price of natural gas .",
+      "gains or losses associated with these derivative instruments are included in , and recoverable through , the monthly purchased gas cost mechanism .",
+      "energy services our energy services segment is exposed to commodity price risk , basis risk and price volatility arising from natural gas in storage , requirement contracts , asset management contracts and index-based purchases and sales of natural gas at various market locations .",
+      "we minimize the volatility of our exposure to commodity price risk through the use of derivative instruments , which , under certain circumstances , are designated as cash flow or fair value hedges .",
+      "we are also exposed to commodity price risk from fixed-price purchases and sales of natural gas , which we hedge with derivative instruments .",
+      "both the fixed-price purchases and sales and related derivatives are recorded at fair value .",
+      "fair value component of the energy marketing and risk management assets and liabilities - the following table sets forth the fair value component of the energy marketing and risk management assets and liabilities , excluding $ 21.0 million of net liabilities from derivative instruments declared as either fair value or cash flow hedges. ."
+    ],
+    "post_text": [
+      "( a ) - the maturiti es of derivatives are based on inject ion and withdrawal periods from april through m arc h , which is consistent with our business s trategy .",
+      "the maturities are as fol lows : $ 225.0 mi llion matures through march 2009 , $ 33.9 mi llion matures through march 2012 and $ ( 0.1 ) mil lion matures through march 2014 .",
+      "fair v alue com ponent of energy m arketing and risk m anagement assets and liabili ti es ."
+    ],
+    "table": [
+      [
+        "",
+        "( thousands of dollars )"
+      ],
+      [
+        "net fair value of derivatives outstanding at december 31 2007",
+        "$ 25171"
+      ],
+      [
+        "derivatives reclassified or otherwise settled during the period",
+        "-55874 ( 55874 )"
+      ],
+      [
+        "fair value of new derivatives entered into during the period",
+        "236772"
+      ],
+      [
+        "other changes in fair value",
+        "52731"
+      ],
+      [
+        "net fair value of derivatives outstanding at december 31 2008 ( a )",
+        "$ 258800"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in net fair value of derivatives outstanding at between 2007 and 2008 in thousands?"
+    ]
+  }
+}

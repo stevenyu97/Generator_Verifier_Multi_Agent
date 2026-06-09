@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the per-gallon cost of locomotive diesel fuel prices in 2012?",
+      "answer": 3.22,
+      "answer_raw": "3.22",
+      "program": "3.22"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2011?",
+      "answer": 3.12,
+      "answer_raw": "3.12",
+      "program": "3.12"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between these years?",
+      "answer": 0.1,
+      "answer_raw": "0.1",
+      "program": "subtract(3.22, 3.12)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "using this value, what was the estimated fuel cost for 2012?",
+      "answer": 1050.0,
+      "answer_raw": "1050.0",
+      "program": "subtract(3.22, 3.12), divide(105, #0)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and converted to the billions?",
+      "answer": 1050000000.0,
+      "answer_raw": "1050000000.0",
+      "program": "subtract(3.22, 3.12), divide(105, #0), multiply(#1, const_1000000)"
+    }
+  ]
+}

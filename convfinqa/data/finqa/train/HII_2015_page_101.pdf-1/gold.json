@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent of the average unrecognized tax benefits fro 2014 and 2015 to the recorded reduction in its liability for uncertain tax positions based on the approved irs allocation",
+      "answer": 0.21429,
+      "answer_raw": "0.21429",
+      "program": "divide(const_3, 14)"
+    }
+  ]
+}

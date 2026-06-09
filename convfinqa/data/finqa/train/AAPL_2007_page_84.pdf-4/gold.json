@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average accruals for product warranties , in millions?",
+      "answer": 287.0,
+      "answer_raw": "287.0",
+      "program": "table_average(accruals for product warranties, none)"
+    }
+  ]
+}

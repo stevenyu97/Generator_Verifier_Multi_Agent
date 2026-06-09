@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total cash payments required for long-term debt maturities , rental payments under noncancellable operating leases , purchase obligations and other commitments in effect at december 31 , 2010 are comprised of purchase obligations?",
+      "answer": 0.61573,
+      "answer_raw": "0.61573",
+      "program": "divide(6586.9, 10697.7)"
+    }
+  ]
+}

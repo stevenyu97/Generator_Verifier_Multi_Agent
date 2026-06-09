@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage of stock-based compensation consisting of stock options?",
+      "answer": 0.18182,
+      "answer_raw": "0.18182",
+      "program": "divide(2, 11)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what rate of income tax benefit is based on stock compensation?",
+      "answer": 0.36364,
+      "answer_raw": "0.36364",
+      "program": "divide(const_4, 11)"
+    }
+  ]
+}

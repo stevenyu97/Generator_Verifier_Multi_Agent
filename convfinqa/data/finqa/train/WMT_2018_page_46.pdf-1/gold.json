@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in fiscal 2017 what was the ratio of the gain from the sale of the yihaodian business to the gain from the sale of shopping malls in chile .",
+      "answer": 2.75773,
+      "answer_raw": "2.75773",
+      "program": "divide(535, 194)"
+    }
+  ]
+}

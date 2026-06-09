@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "Single_CDNS/2012/page_58.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "all highly liquid securities with a maturity of three months or less at the date of purchase are considered to be cash equivalents .",
+      "securities with maturities greater than three months are classified as available-for-sale and are considered to be short-term investments .",
+      "the carrying value of our interest-bearing instruments approximated fair value as of december 29 , 2012 .",
+      "interest rates under our revolving credit facility are variable , so interest expense for periods when the credit facility is utilized could be adversely affected by changes in interest rates .",
+      "interest rates under our revolving credit facility can fluctuate based on changes in market interest rates and in an interest rate margin that varies based on our consolidated leverage ratio .",
+      "as of december 29 , 2012 , we had no outstanding balance on the credit facility .",
+      "see note 3 in the notes to consolidated financial statements for an additional description of our credit facility .",
+      "equity price risk convertible notes our 2015 notes and 2013 notes include conversion and settlement provisions that are based on the price of our common stock at conversion or at maturity of the notes .",
+      "in addition , the hedges and warrants associated with these convertible notes also include settlement provisions that are based on the price of our common stock .",
+      "the amount of cash we may be required to pay , or the number of shares we may be required to provide to note holders at conversion or maturity of these notes , is determined by the price of our common stock .",
+      "the amount of cash or number of shares that we may receive from hedge counterparties in connection with the related hedges and the number of shares that we may be required to provide warrant counterparties in connection with the related warrants are also determined by the price of our common stock .",
+      "upon the expiration of our 2015 warrants , cadence will issue shares of common stock to the purchasers of the warrants to the extent our stock price exceeds the warrant strike price of $ 10.78 at that time .",
+      "the following table shows the number of shares that cadence would issue to 2015 warrant counterparties at expiration of the warrants , assuming various cadence closing stock prices on the dates of warrant expiration : shares ( in millions ) ."
+    ],
+    "post_text": [
+      "prior to the expiration of the 2015 warrants , for purposes of calculating diluted earnings per share , our diluted weighted-average shares outstanding will increase when our average closing stock price for a quarter exceeds $ 10.78 .",
+      "for an additional description of our 2015 notes and 2013 notes , see note 3 in the notes to consolidated financial statements and 201cliquidity and capital resources 2014 other factors affecting liquidity and capital resources , 201d under item 7 , 201cmanagement 2019s discussion and analysis of financial condition and results of operations . 201d ."
+    ],
+    "table": [
+      [
+        "",
+        "shares ( in millions )"
+      ],
+      [
+        "$ 11.00",
+        "0.9"
+      ],
+      [
+        "$ 12.00",
+        "4.7"
+      ],
+      [
+        "$ 13.00",
+        "7.9"
+      ],
+      [
+        "$ 14.00",
+        "10.7"
+      ],
+      [
+        "$ 15.00",
+        "13.0"
+      ],
+      [
+        "$ 16.00",
+        "15.1"
+      ],
+      [
+        "$ 17.00",
+        "17.0"
+      ],
+      [
+        "$ 18.00",
+        "18.6"
+      ],
+      [
+        "$ 19.00",
+        "20.1"
+      ],
+      [
+        "$ 20.00",
+        "21.4"
+      ]
+    ],
+    "questions": [
+      "what was the number of shares if the closing price is $20?",
+      "and if the closing price is $11?",
+      "so what is the difference in shares to be issued in these two scenarios?",
+      "and the percentage difference in the number of shares to be issued if the stock price closes at $11 over $20?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in sales from 2013 to 2014?",
+      "answer": 0.21154,
+      "answer_raw": "0.21154",
+      "program": "divide(1.4, 16), divide(1.3, 18), subtract(#0, #1), divide(#2, #1)"
+    }
+  ]
+}

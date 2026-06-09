@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "total corrugated products volume sold increased by how many billion square feet in 2006 compared to 2005?",
+      "answer": 0.1,
+      "answer_raw": "0.1",
+      "program": "subtract(31.3, 31.2)"
+    }
+  ]
+}

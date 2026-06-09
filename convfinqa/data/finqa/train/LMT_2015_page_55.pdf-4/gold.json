@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were average net sales for mst in millions from 2013 to 2015?",
+      "answer": 8953.33333,
+      "answer_raw": "8953.33333",
+      "program": "table_average(net sales, none)"
+    }
+  ]
+}

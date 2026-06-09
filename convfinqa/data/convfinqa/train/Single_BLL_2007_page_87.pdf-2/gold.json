@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the related tax expense in 2006, in millions?",
+      "answer": 5.7,
+      "answer_raw": "5.7",
+      "program": "5.7"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the net of related tax benefit in 2007, also in millions?",
+      "answer": 3.2,
+      "answer_raw": "3.2",
+      "program": "3.2"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is, then, the difference between the 2006 related tax expense and this 2007 net, in millions?",
+      "answer": 2.5,
+      "answer_raw": "2.5",
+      "program": "subtract(5.7, 3.2)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is, in millions, the difference between this difference and the related tax benefit of 2005?",
+      "answer": -8.2,
+      "answer_raw": "-8.2",
+      "program": "subtract(5.7, 3.2), subtract(#0, 10.7)"
+    }
+  ]
+}

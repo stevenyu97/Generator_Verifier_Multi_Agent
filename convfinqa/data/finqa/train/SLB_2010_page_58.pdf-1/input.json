@@ -1,0 +1,125 @@
+{
+  "input": {
+    "id": "SLB/2010/page_58.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "schlumberger limited and subsidiaries shares of common stock issued in treasury shares outstanding ( stated in millions ) ."
+    ],
+    "post_text": [
+      "see the notes to consolidated financial statements part ii , item 8 ."
+    ],
+    "table": [
+      [
+        "",
+        "issued",
+        "in treasury",
+        "shares outstanding"
+      ],
+      [
+        "balance january 1 2008",
+        "1334",
+        "-138 ( 138 )",
+        "1196"
+      ],
+      [
+        "shares sold to optionees less shares exchanged",
+        "2013",
+        "5",
+        "5"
+      ],
+      [
+        "shares issued under employee stock purchase plan",
+        "2013",
+        "2",
+        "2"
+      ],
+      [
+        "stock repurchase program",
+        "2013",
+        "-21 ( 21 )",
+        "-21 ( 21 )"
+      ],
+      [
+        "issued on conversions of debentures",
+        "2013",
+        "12",
+        "12"
+      ],
+      [
+        "balance december 31 2008",
+        "1334",
+        "-140 ( 140 )",
+        "1194"
+      ],
+      [
+        "shares sold to optionees less shares exchanged",
+        "2013",
+        "4",
+        "4"
+      ],
+      [
+        "vesting of restricted stock",
+        "2013",
+        "1",
+        "1"
+      ],
+      [
+        "shares issued under employee stock purchase plan",
+        "2013",
+        "4",
+        "4"
+      ],
+      [
+        "stock repurchase program",
+        "2013",
+        "-8 ( 8 )",
+        "-8 ( 8 )"
+      ],
+      [
+        "balance december 31 2009",
+        "1334",
+        "-139 ( 139 )",
+        "1195"
+      ],
+      [
+        "acquisition of smith international inc .",
+        "100",
+        "76",
+        "176"
+      ],
+      [
+        "shares sold to optionees less shares exchanged",
+        "2013",
+        "6",
+        "6"
+      ],
+      [
+        "shares issued under employee stock purchase plan",
+        "2013",
+        "3",
+        "3"
+      ],
+      [
+        "stock repurchase program",
+        "2013",
+        "-27 ( 27 )",
+        "-27 ( 27 )"
+      ],
+      [
+        "issued on conversions of debentures",
+        "2013",
+        "8",
+        "8"
+      ],
+      [
+        "balance december 31 2010",
+        "1434",
+        "-73 ( 73 )",
+        "1361"
+      ]
+    ],
+    "questions": [
+      "what was the average beginning and ending balance of shares in millions outstanding during 2010?"
+    ]
+  }
+}

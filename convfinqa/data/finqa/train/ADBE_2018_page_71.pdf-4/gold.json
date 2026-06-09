@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "goodwill is what percent of total estimated purchase price?",
+      "answer": 0.73048,
+      "answer_raw": "0.73048",
+      "program": "divide(3459751, 4736263)"
+    }
+  ]
+}

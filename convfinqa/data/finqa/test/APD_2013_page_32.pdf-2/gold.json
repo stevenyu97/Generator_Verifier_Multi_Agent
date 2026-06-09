@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the gaap basis , what was the growth observed in the effective tax rate during 2012 and 2013?",
+      "answer": 0.009,
+      "answer_raw": "0.009",
+      "program": "subtract(22.8%, 21.9%)"
+    }
+  ]
+}

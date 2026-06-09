@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2010 what was the percent of the financing proceeds as part of the total restricted cash and marketable securities",
+      "answer": 0.23032,
+      "answer_raw": "0.23032",
+      "program": "divide(39.8, 172.8)"
+    }
+  ]
+}

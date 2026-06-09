@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average payment per year for the state tax settlement , in millions?",
+      "answer": 56.0,
+      "answer_raw": "56.0",
+      "program": "divide(168, const_3)"
+    }
+  ]
+}

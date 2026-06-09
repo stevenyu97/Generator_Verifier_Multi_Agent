@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net income margin in 2008 for the optical and specialty materials segment?",
+      "answer": 0.21517,
+      "answer_raw": "0.21517",
+      "program": "divide(244, 1134)"
+    }
+  ]
+}

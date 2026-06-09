@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "EL/2013/page_117.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "we also record an inventory obsolescence reserve , which represents the difference between the cost of the inventory and its estimated realizable value , based on various product sales projections .",
+      "this reserve is calcu- lated using an estimated obsolescence percentage applied to the inventory based on age , historical trends and requirements to support forecasted sales .",
+      "in addition , and as necessary , we may establish specific reserves for future known or anticipated events .",
+      "pension and other post-retirement benefit costs we offer the following benefits to some or all of our employees : a domestic trust-based noncontributory qual- ified defined benefit pension plan ( 201cu.s .",
+      "qualified plan 201d ) and an unfunded , non-qualified domestic noncon- tributory pension plan to provide benefits in excess of statutory limitations ( collectively with the u.s .",
+      "qualified plan , the 201cdomestic plans 201d ) ; a domestic contributory defined contribution plan ; international pension plans , which vary by country , consisting of both defined benefit and defined contribution pension plans ; deferred compensation arrangements ; and certain other post- retirement benefit plans .",
+      "the amounts needed to fund future payouts under our defined benefit pension and post-retirement benefit plans are subject to numerous assumptions and variables .",
+      "cer- tain significant variables require us to make assumptions that are within our control such as an anticipated discount rate , expected rate of return on plan assets and future compensation levels .",
+      "we evaluate these assumptions with our actuarial advisors and select assumptions that we believe reflect the economics underlying our pension and post-retirement obligations .",
+      "while we believe these assumptions are within accepted industry ranges , an increase or decrease in the assumptions or economic events outside our control could have a direct impact on reported net earnings .",
+      "the discount rate for each plan used for determining future net periodic benefit cost is based on a review of highly rated long-term bonds .",
+      "for fiscal 2013 , we used a discount rate for our domestic plans of 3.90% ( 3.90 % ) and vary- ing rates on our international plans of between 1.00% ( 1.00 % ) and 7.00% ( 7.00 % ) .",
+      "the discount rate for our domestic plans is based on a bond portfolio that includes only long-term bonds with an aa rating , or equivalent , from a major rating agency .",
+      "as of june 30 , 2013 , we used an above-mean yield curve , rather than the broad-based yield curve we used before , because we believe it represents a better estimate of an effective settlement rate of the obligation , and the timing and amount of cash flows related to the bonds included in this portfolio are expected to match the estimated defined benefit payment streams of our domestic plans .",
+      "the benefit obligation of our domestic plans would have been higher by approximately $ 34 mil- lion at june 30 , 2013 had we not used the above-mean yield curve .",
+      "for our international plans , the discount rate in a particular country was principally determined based on a yield curve constructed from high quality corporate bonds in each country , with the resulting portfolio having a duration matching that particular plan .",
+      "for fiscal 2013 , we used an expected return on plan assets of 7.50% ( 7.50 % ) for our u.s .",
+      "qualified plan and varying rates of between 2.25% ( 2.25 % ) and 7.00% ( 7.00 % ) for our international plans .",
+      "in determining the long-term rate of return for a plan , we consider the historical rates of return , the nature of the plan 2019s investments and an expectation for the plan 2019s investment strategies .",
+      "see 201cnote 12 2014 pension , deferred compensation and post-retirement benefit plans 201d of notes to consolidated financial statements for details regarding the nature of our pension and post-retirement plan invest- ments .",
+      "the difference between actual and expected return on plan assets is reported as a component of accu- mulated other comprehensive income .",
+      "those gains/losses that are subject to amortization over future periods will be recognized as a component of the net periodic benefit cost in such future periods .",
+      "for fiscal 2013 , our pension plans had actual return on assets of approximately $ 74 million as compared with expected return on assets of approximately $ 64 million .",
+      "the resulting net deferred gain of approximately $ 10 million , when combined with gains and losses from previous years , will be amortized over periods ranging from approximately 7 to 22 years .",
+      "the actual return on plan assets from our international pen- sion plans exceeded expectations , primarily reflecting a strong performance from fixed income and equity invest- ments .",
+      "the lower than expected return on assets from our u.s .",
+      "qualified plan was primarily due to weakness in our fixed income investments , partially offset by our strong equity returns .",
+      "a 25 basis-point change in the discount rate or the expected rate of return on plan assets would have had the following effect on fiscal 2013 pension expense : 25 basis-point 25 basis-point increase decrease ( in millions ) ."
+    ],
+    "post_text": [
+      "our post-retirement plans are comprised of health care plans that could be impacted by health care cost trend rates , which may have a significant effect on the amounts the est{e lauder companies inc .",
+      "115 ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "25 basis-point increase",
+        "25 basis-point decrease"
+      ],
+      [
+        "discount rate",
+        "$ -3.5 ( 3.5 )",
+        "$ 3.9"
+      ],
+      [
+        "expected return on assets",
+        "$ -2.5 ( 2.5 )",
+        "$ 2.7"
+      ]
+    ],
+    "questions": [
+      "considering the year 2013 , what was the percentual increase in the actual return on assets compared with the expected return?"
+    ]
+  }
+}

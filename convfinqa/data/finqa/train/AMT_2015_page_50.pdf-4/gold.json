@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of february 19 , 2016 what was the market capitalization",
+      "answer": 37014734589.92,
+      "answer_raw": "37014734589.92",
+      "program": "multiply(423897556, 87.32)"
+    }
+  ]
+}

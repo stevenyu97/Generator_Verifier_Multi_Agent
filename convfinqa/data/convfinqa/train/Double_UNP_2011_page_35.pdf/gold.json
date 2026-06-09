@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of cash provided by operating activities in 2010?",
+      "answer": 4105.0,
+      "answer_raw": "4105.0",
+      "program": "4105"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the impact of adoption of a new accounting standard in cash flow from operation activities?",
+      "answer": 400.0,
+      "answer_raw": "400.0",
+      "program": "400"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what would be the total value of cash provided by operating activities if the net accounts standards were not adopted?",
+      "answer": 4505.0,
+      "answer_raw": "4505.0",
+      "program": "add(4105, 400)"
+    }
+  ]
+}

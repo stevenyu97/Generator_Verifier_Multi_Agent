@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the interest income in 2017 relative to 2016?",
+      "answer": -0.03483,
+      "answer_raw": "-0.03483",
+      "program": "subtract(19.4, 20.1), divide(#0, 20.1)"
+    }
+  ]
+}

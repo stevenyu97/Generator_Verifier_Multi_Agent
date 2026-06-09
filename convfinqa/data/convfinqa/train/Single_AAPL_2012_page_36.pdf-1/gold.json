@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in value of net sales from 2011 to 2012?",
+      "answer": 48259.0,
+      "answer_raw": "48259.0",
+      "program": "subtract(156508, 108249)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were net sales in 2011?",
+      "answer": 108249.0,
+      "answer_raw": "108249.0",
+      "program": "108249"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the change in value divided by the 2011 net sales?",
+      "answer": 0.44581,
+      "answer_raw": "0.44581",
+      "program": "subtract(156508, 108249), divide(#0, 108249)"
+    }
+  ]
+}

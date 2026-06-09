@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in earnings for non-utility nuclear from 2003 to 2004?",
+      "answer": -55.8,
+      "answer_raw": "-55.8",
+      "program": "subtract(245.0, 300.8)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the earnings for non-utility nuclear in 2003?",
+      "answer": 300.8,
+      "answer_raw": "300.8",
+      "program": "300.8"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage change does this represent?",
+      "answer": -0.18551,
+      "answer_raw": "-0.18551",
+      "program": "subtract(245.0, 300.8), divide(#0, 300.8)"
+    }
+  ]
+}

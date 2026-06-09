@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average yearly decline in international traffic in 2008 and in 2009?",
+      "answer": 0.175,
+      "answer_raw": "0.175",
+      "program": "add(11%, 24%), divide(#0, const_2)"
+    }
+  ]
+}

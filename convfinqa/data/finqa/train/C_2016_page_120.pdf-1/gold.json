@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase in the liquidity coverage ratio ( lcr ) for citi from 2015 to 2016",
+      "answer": 0.0708,
+      "answer_raw": "0.0708",
+      "program": "subtract(121, 113), divide(#0, 113)"
+    }
+  ]
+}

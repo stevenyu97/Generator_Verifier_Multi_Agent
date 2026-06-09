@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total accumulated other comprehensive losses in 2017?",
+      "answer": -8535.0,
+      "answer_raw": "-8535.0",
+      "program": "-8535"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2016?",
+      "answer": -9559.0,
+      "answer_raw": "-9559.0",
+      "program": "-9559"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference in value over these years?",
+      "answer": 1024.0,
+      "answer_raw": "1024.0",
+      "program": "subtract(-8535, -9559)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage change during this time?",
+      "answer": -0.10712,
+      "answer_raw": "-0.10712",
+      "program": "subtract(-8535, -9559), divide(#0, -9559)"
+    }
+  ]
+}

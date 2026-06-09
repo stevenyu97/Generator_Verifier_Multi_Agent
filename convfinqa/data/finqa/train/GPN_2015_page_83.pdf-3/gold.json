@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total value of the granted shares in 2014 , ( in thousands )",
+      "answer": 25568.0,
+      "answer_raw": "25568.0",
+      "program": "multiply(544, 47)"
+    }
+  ]
+}

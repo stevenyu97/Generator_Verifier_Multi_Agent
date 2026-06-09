@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in equipment rents payable from 2011 to 2012?",
+      "answer": 0.05556,
+      "answer_raw": "0.05556",
+      "program": "subtract(95, 90), divide(#0, 90)"
+    }
+  ]
+}

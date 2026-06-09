@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming 4 inventory turns per year , what would q12012 cash flow be from the receivables balance on december 31 , 2011 , in billions?",
+      "answer": 4.7,
+      "answer_raw": "4.7",
+      "program": "divide(18.8, 4)"
+    }
+  ]
+}

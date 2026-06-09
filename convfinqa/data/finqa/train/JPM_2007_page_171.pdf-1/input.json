@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "JPM/2007/page_171.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "jpmorgan chase & co .",
+      "/ 2007 annual report 169 for qualifying fair value hedges , all changes in the fair value of the derivative and in the fair value of the hedged item for the risk being hedged are recognized in earnings .",
+      "if the hedge relationship is termi- nated , then the fair value adjustment to the hedged item continues to be reported as part of the basis of the item and continues to be amor- tized to earnings as a yield adjustment .",
+      "for qualifying cash flow hedges , the effective portion of the change in the fair value of the derivative is recorded in other comprehensive income and recognized in the consolidated statement of income when the hedged cash flows affect earnings .",
+      "the ineffective portions of cash flow hedges are immediately recognized in earnings .",
+      "if the hedge relationship is terminated , then the change in fair value of the derivative recorded in other comprehensive income is recognized when the cash flows that were hedged occur , con- sistent with the original hedge strategy .",
+      "for hedge relationships discon- tinued because the forecasted transaction is not expected to occur according to the original strategy , any related derivative amounts recorded in other comprehensive income are immediately recognized in earnings .",
+      "for qualifying net investment hedges , changes in the fair value of the derivative or the revaluation of the foreign currency 2013denominated debt instrument are recorded in the translation adjustments account within other comprehensive income .",
+      "jpmorgan chase 2019s fair value hedges primarily include hedges of fixed- rate long-term debt , warehouse loans , afs securities , msrs and gold inventory .",
+      "interest rate swaps are the most common type of derivative contract used to modify exposure to interest rate risk , converting fixed-rate assets and liabilities to a floating-rate .",
+      "prior to the adoption of sfas 156 , interest rate options , swaptions and forwards were also used in combination with interest rate swaps to hedge the fair value of the firm 2019s msrs in sfas 133 hedge relationships .",
+      "for a further discus- sion of msr risk management activities , see note 18 on pages 154 2013156 of this annual report .",
+      "all amounts have been included in earnings consistent with the classification of the hedged item , primarily net interest income for long-term debt and afs securities ; mortgage fees and related income for msrs , other income for warehouse loans ; and principal transactions for gold inventory .",
+      "the firm did not recog- nize any gains or losses during 2007 , 2006 or 2005 on firm commit- ments that no longer qualify as fair value hedges .",
+      "jpmorgan chase also enters into derivative contracts to hedge expo- sure to variability in cash flows from floating-rate financial instruments and forecasted transactions , primarily the rollover of short-term assets and liabilities , and foreign currency 2013denominated revenue and expense .",
+      "interest rate swaps , futures and forward contracts are the most common instruments used to reduce the impact of interest rate and foreign exchange rate changes on future earnings .",
+      "all amounts affecting earnings have been recognized consistent with the classifica- tion of the hedged item , primarily net interest income .",
+      "the firm uses forward foreign exchange contracts and foreign curren- cy 2013denominated debt instruments to protect the value of net invest- ments in subsidiaries , the functional currency of which is not the u.s .",
+      "dollar .",
+      "the portion of the hedging instruments excluded from the assessment of hedge effectiveness ( forward points ) is recorded in net interest income .",
+      "the following table presents derivative instrument hedging-related activities for the periods indicated. ."
+    ],
+    "post_text": [
+      "fair value hedge ineffective net gains/ ( losses ) ( a ) $ 111 $ 51 $ ( 58 ) cash flow hedge ineffective net gains/ ( losses ) ( a ) 29 2 ( 2 ) cash flow hedging net gains/ ( losses ) on forecasted transactions that failed to occur ( b ) 15 2014 2014 ( a ) includes ineffectiveness and the components of hedging instruments that have been excluded from the assessment of hedge effectiveness .",
+      "( b ) during the second half of 2007 , the firm did not issue short-term fixed rate canadian dollar denominated notes due to the weak credit market for canadian short-term over the next 12 months , it is expected that $ 263 million ( after-tax ) of net losses recorded in other comprehensive income at december 31 , 2007 , will be recognized in earnings .",
+      "the maximum length of time over which forecasted transactions are hedged is 10 years , and such transactions primarily relate to core lending and borrowing activities .",
+      "jpmorgan chase does not seek to apply hedge accounting to all of the firm 2019s economic hedges .",
+      "for example , the firm does not apply hedge accounting to standard credit derivatives used to manage the credit risk of loans and commitments because of the difficulties in qualifying such contracts as hedges under sfas 133 .",
+      "similarly , the firm does not apply hedge accounting to certain interest rate deriva- tives used as economic hedges. ."
+    ],
+    "table": [
+      [
+        "year ended december 31 ( in millions )",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "fair value hedge ineffective net gains/ ( losses ) ( a )",
+        "$ 111",
+        "$ 51",
+        "$ -58 ( 58 )"
+      ],
+      [
+        "cash flow hedge ineffective net gains/ ( losses ) ( a )",
+        "29",
+        "2",
+        "-2 ( 2 )"
+      ],
+      [
+        "cash flow hedging net gains/ ( losses ) on forecasted transactions that failed tooccur ( b )",
+        "15",
+        "2014",
+        "2014"
+      ]
+    ],
+    "questions": [
+      "in 2007 what was the ratio of the fair value hedge ineffective net gains/ ( losses ) to the cash flow hedge ineffective net gains/ ( losses ) ( a )"
+    ]
+  }
+}

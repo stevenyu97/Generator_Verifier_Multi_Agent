@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in revenues from 2003 to 2004?",
+      "answer": -20.3,
+      "answer_raw": "-20.3",
+      "program": "subtract(978.4, 998.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that change over 2003 revenues?",
+      "answer": -0.02033,
+      "answer_raw": "-0.02033",
+      "program": "subtract(978.4, 998.7), divide(#0, 998.7)"
+    }
+  ]
+}

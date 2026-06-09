@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2010, what was the ratio of trading assets derivative receivables to the derivative payables?",
+      "answer": 1.28855,
+      "answer_raw": "1.28855",
+      "program": "divide(84676, 65714)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the 2020 net derivative balance, in billions?",
+      "answer": 18962.0,
+      "answer_raw": "18962.0",
+      "program": "subtract(84676, 65714)"
+    }
+  ]
+}

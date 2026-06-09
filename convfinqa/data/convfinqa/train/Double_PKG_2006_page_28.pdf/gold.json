@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the operating margin in 2004?",
+      "answer": 0.07433,
+      "answer_raw": "0.07433",
+      "program": "divide(140.5, 1890.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the income from operations in 2005?",
+      "answer": 116.1,
+      "answer_raw": "116.1",
+      "program": "116.1"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what about the total net sales?",
+      "answer": 1993.7,
+      "answer_raw": "1993.7",
+      "program": "1993.7"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the operating margin in 2004?",
+      "answer": 0.05823,
+      "answer_raw": "0.05823",
+      "program": "divide(116.1, 1993.7)"
+    }
+  ]
+}

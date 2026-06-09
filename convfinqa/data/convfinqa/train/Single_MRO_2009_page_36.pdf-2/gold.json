@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in pipeline barrels handled between 2007 and 2009?",
+      "answer": 268.0,
+      "answer_raw": "268.0",
+      "program": "subtract(2500, 2232)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the starting value in 2007 again?",
+      "answer": 2500.0,
+      "answer_raw": "2500.0",
+      "program": "2500"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the percentage decline during this time?",
+      "answer": 0.1072,
+      "answer_raw": "0.1072",
+      "program": "subtract(2500, 2232), divide(#0, 2500)"
+    }
+  ]
+}

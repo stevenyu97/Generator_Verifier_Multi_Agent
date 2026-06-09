@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "Single_UPS/2007/page_32.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "shareowner return performance graph the following performance graph and related information shall not be deemed 201csoliciting material 201d or to be 201cfiled 201d with the securities and exchange commission , nor shall such information be incorporated by reference into any future filing under the securities act of 1933 or securities exchange act of 1934 , each as amended , except to the extent that the company specifically incorporates such information by reference into such filing .",
+      "the following graph shows a five-year comparison of cumulative total shareowners 2019 returns for our class b common stock , the s&p 500 index , and the dow jones transportation average .",
+      "the comparison of the total cumulative return on investment , which is the change in the quarterly stock price plus reinvested dividends for each of the quarterly periods , assumes that $ 100 was invested on december 31 , 2002 in the s&p 500 index , the dow jones transportation average , and the class b common stock of united parcel service , inc .",
+      "comparison of five year cumulative total return $ 40.00 $ 60.00 $ 80.00 $ 100.00 $ 120.00 $ 140.00 $ 160.00 $ 180.00 $ 200.00 $ 220.00 2002 20072006200520042003 s&p 500 ups dj transport ."
+    ],
+    "post_text": [
+      "securities authorized for issuance under equity compensation plans the following table provides information as of december 31 , 2007 regarding compensation plans under which our class a common stock is authorized for issuance .",
+      "these plans do not authorize the issuance of our class b common stock. ."
+    ],
+    "table": [
+      [
+        "",
+        "12/31/02",
+        "12/31/03",
+        "12/31/04",
+        "12/31/05",
+        "12/31/06",
+        "12/31/07"
+      ],
+      [
+        "united parcel service inc .",
+        "$ 100.00",
+        "$ 119.89",
+        "$ 139.55",
+        "$ 124.88",
+        "$ 127.08",
+        "$ 122.64"
+      ],
+      [
+        "s&p 500 index",
+        "$ 100.00",
+        "$ 128.68",
+        "$ 142.68",
+        "$ 149.69",
+        "$ 173.33",
+        "$ 182.85"
+      ],
+      [
+        "dow jones transportation average",
+        "$ 100.00",
+        "$ 131.84",
+        "$ 168.39",
+        "$ 188.00",
+        "$ 206.46",
+        "$ 209.40"
+      ]
+    ],
+    "questions": [
+      "what was the value of ups in 2003?",
+      "what was, then, the change in its value considering the amount originally invested in it in 2002?",
+      "and how much does this change represent in relation to this original amount invested?"
+    ]
+  }
+}

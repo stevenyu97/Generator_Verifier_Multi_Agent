@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions , what was total outstanding for interest only products plus principal and interest products?",
+      "answer": 14826.0,
+      "answer_raw": "14826.0",
+      "program": "add(6401, 8425)"
+    }
+  ]
+}

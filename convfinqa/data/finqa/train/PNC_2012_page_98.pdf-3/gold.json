@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much in combined repurchase claims , in millions , were recorded in the first quarter of 2005 , 2006 , 2007 , 2008?",
+      "answer": 170.0,
+      "answer_raw": "170.0",
+      "program": "add(12, 41), add(#0, 100), add(#1, 17)"
+    }
+  ]
+}

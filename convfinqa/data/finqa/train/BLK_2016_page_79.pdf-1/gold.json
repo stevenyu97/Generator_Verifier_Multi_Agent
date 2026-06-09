@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in total liquidity resources from 2015 to 2016?",
+      "answer": 0.00551,
+      "answer_raw": "0.00551",
+      "program": "subtract(10038, 9983), divide(#0, 9983)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the finished products to the total inventory",
+      "answer": 0.24031,
+      "answer_raw": "0.24031",
+      "program": "divide(988.1, 4111.8)"
+    }
+  ]
+}

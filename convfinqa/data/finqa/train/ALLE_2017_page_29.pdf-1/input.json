@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "ALLE/2017/page_29.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "research and development we are committed to investing in highly productive research and development capabilities , particularly in electro-mechanical systems .",
+      "our research and development ( \"r&d\" ) expenditures were approximately $ 48.3 million , $ 47.3 million and $ 45.2 million for the years ended december 31 , 2017 , 2016 and 2015 , respectively .",
+      "we concentrate on developing technology innovations that will deliver growth through the introduction of new products and solutions , and also on driving continuous improvements in product cost , quality , safety and sustainability .",
+      "we manage our r&d team as a global group with an emphasis on a global collaborative approach to identify and develop new technologies and worldwide product platforms .",
+      "we are organized on a regional basis to leverage expertise in local standards and configurations .",
+      "in addition to regional engineering centers in each geographic region , we also operate a global engineering center of excellence in bangalore , india .",
+      "seasonality our business experiences seasonality that varies by product line .",
+      "because more construction and do-it-yourself projects occur during the second and third calendar quarters of each year in the northern hemisphere , our security product sales , typically , are higher in those quarters than in the first and fourth calendar quarters .",
+      "however , our interflex business typically experiences higher sales in the fourth calendar quarter due to project timing .",
+      "revenue by quarter for the years ended december 31 , 2017 , 2016 and 2015 are as follows: ."
+    ],
+    "post_text": [
+      "employees we currently have approximately 10000 employees .",
+      "environmental regulation we have a dedicated environmental program that is designed to reduce the utilization and generation of hazardous materials during the manufacturing process as well as to remediate identified environmental concerns .",
+      "as to the latter , we are currently engaged in site investigations and remediation activities to address environmental cleanup from past operations at current and former production facilities .",
+      "the company regularly evaluates its remediation programs and considers alternative remediation methods that are in addition to , or in replacement of , those currently utilized by the company based upon enhanced technology and regulatory changes .",
+      "we are sometimes a party to environmental lawsuits and claims and have received notices of potential violations of environmental laws and regulations from the u.s .",
+      "environmental protection agency ( the \"epa\" ) and similar state authorities .",
+      "we have also been identified as a potentially responsible party ( \"prp\" ) for cleanup costs associated with off-site waste disposal at federal superfund and state remediation sites .",
+      "for all such sites , there are other prps and , in most instances , our involvement is minimal .",
+      "in estimating our liability , we have assumed that we will not bear the entire cost of remediation of any site to the exclusion of other prps who may be jointly and severally liable .",
+      "the ability of other prps to participate has been taken into account , based on our understanding of the parties 2019 financial condition and probable contributions on a per site basis .",
+      "additional lawsuits and claims involving environmental matters are likely to arise from time to time in the future .",
+      "we incurred $ 3.2 million , $ 23.3 million , and $ 4.4 million of expenses during the years ended december 31 , 2017 , 2016 , and 2015 , respectively , for environmental remediation at sites presently or formerly owned or leased by us .",
+      "as of december 31 , 2017 and 2016 , we have recorded reserves for environmental matters of $ 28.9 million and $ 30.6 million .",
+      "of these amounts $ 8.9 million and $ 9.6 million , respectively , relate to remediation of sites previously disposed by us .",
+      "given the evolving nature of environmental laws , regulations and technology , the ultimate cost of future compliance is uncertain. ."
+    ],
+    "table": [
+      [
+        "",
+        "first quarter",
+        "second quarter",
+        "third quarter",
+        "fourth quarter"
+      ],
+      [
+        "2017",
+        "23% ( 23 % )",
+        "26% ( 26 % )",
+        "25% ( 25 % )",
+        "26% ( 26 % )"
+      ],
+      [
+        "2016",
+        "22% ( 22 % )",
+        "26% ( 26 % )",
+        "26% ( 26 % )",
+        "26% ( 26 % )"
+      ],
+      [
+        "2015",
+        "22% ( 22 % )",
+        "25% ( 25 % )",
+        "26% ( 26 % )",
+        "27% ( 27 % )"
+      ]
+    ],
+    "questions": [
+      "considering the years 2016-2017 , what is the increase observed in the research and development expenditures?"
+    ]
+  }
+}

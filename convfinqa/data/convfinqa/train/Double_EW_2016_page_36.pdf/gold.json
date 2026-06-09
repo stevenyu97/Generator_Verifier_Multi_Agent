@@ -1,0 +1,53 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of an investment in edwards lifesciences in 2016?",
+      "answer": 265.06,
+      "answer_raw": "265.06",
+      "program": "265.06"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the net change from the initial investment?",
+      "answer": 165.06,
+      "answer_raw": "165.06",
+      "program": "subtract(265.06, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what rate of cumulative return does this represent?",
+      "answer": 1.6506,
+      "answer_raw": "1.6506",
+      "program": "subtract(265.06, const_100), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about the value if the investment in s&p500 in 2016?",
+      "answer": 198.18,
+      "answer_raw": "198.18",
+      "program": "198.18"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the net change from the initial investment?",
+      "answer": 98.18,
+      "answer_raw": "98.18",
+      "program": "subtract(265.06, const_100), divide(#0, const_100), subtract(198.18, const_100)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what rate of cumulative return does this represent?",
+      "answer": 0.9818,
+      "answer_raw": "0.9818",
+      "program": "subtract(265.06, const_100), divide(#0, const_100), subtract(198.18, const_100), divide(#2, const_100)"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "what is the difference in returns between s&p500 and edwards lifesciences for this period?",
+      "answer": 0.6688,
+      "answer_raw": "0.6688",
+      "program": "subtract(265.06, const_100), divide(#0, const_100), subtract(198.18, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

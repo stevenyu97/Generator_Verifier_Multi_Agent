@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2016 what was the ratio of the s&p 500 index to loews common stock overall growth from 2011 to 2016",
+      "answer": 1.19862,
+      "answer_raw": "1.19862",
+      "program": "divide(198.18, 165.34)"
+    }
+  ]
+}

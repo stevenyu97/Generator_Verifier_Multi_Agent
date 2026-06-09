@@ -1,0 +1,91 @@
+{
+  "input": {
+    "id": "MRO/2009/page_138.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "marathon oil corporation notes to consolidated financial statements equivalent to the exchangeable shares at the acquisition date as discussed below .",
+      "additional shares of voting preferred stock will be issued as necessary to adjust the number of votes to account for changes in the exchange ratio .",
+      "preferred shares 2013 in connection with the acquisition of western discussed in note 6 , the board of directors authorized a class of voting preferred stock consisting of 6 million shares .",
+      "upon completion of the acquisition , we issued 5 million shares of this voting preferred stock to a trustee , who holds the shares for the benefit of the holders of the exchangeable shares discussed above .",
+      "each share of voting preferred stock is entitled to one vote on all matters submitted to the holders of marathon common stock .",
+      "each holder of exchangeable shares may direct the trustee to vote the number of shares of voting preferred stock equal to the number of shares of marathon common stock issuable upon the exchange of the exchangeable shares held by that holder .",
+      "in no event will the aggregate number of votes entitled to be cast by the trustee with respect to the outstanding shares of voting preferred stock exceed the number of votes entitled to be cast with respect to the outstanding exchangeable shares .",
+      "except as otherwise provided in our restated certificate of incorporation or by applicable law , the common stock and the voting preferred stock will vote together as a single class in the election of directors of marathon and on all other matters submitted to a vote of stockholders of marathon generally .",
+      "the voting preferred stock will have no other voting rights except as required by law .",
+      "other than dividends payable solely in shares of voting preferred stock , no dividend or other distribution , will be paid or payable to the holder of the voting preferred stock .",
+      "in the event of any liquidation , dissolution or winding up of marathon , the holder of shares of the voting preferred stock will not be entitled to receive any assets of marathon available for distribution to its stockholders .",
+      "the voting preferred stock is not convertible into any other class or series of the capital stock of marathon or into cash , property or other rights , and may not be redeemed .",
+      "25 .",
+      "leases we lease a wide variety of facilities and equipment under operating leases , including land and building space , office equipment , production facilities and transportation equipment .",
+      "most long-term leases include renewal options and , in certain leases , purchase options .",
+      "future minimum commitments for capital lease obligations ( including sale-leasebacks accounted for as financings ) and for operating lease obligations having initial or remaining noncancelable lease terms in excess of one year are as follows : ( in millions ) capital lease obligations ( a ) operating obligations ."
+    ],
+    "post_text": [
+      "( a ) capital lease obligations include $ 164 million related to assets under construction as of december 31 , 2009 .",
+      "these leases are currently reported in long-term debt based on percentage of construction completed at $ 36 million .",
+      "in connection with past sales of various plants and operations , we assigned and the purchasers assumed certain leases of major equipment used in the divested plants and operations of united states steel .",
+      "in the event of a default by any of the purchasers , united states steel has assumed these obligations ; however , we remain primarily obligated for payments under these leases .",
+      "minimum lease payments under these operating lease obligations of $ 16 million have been included above and an equal amount has been reported as sublease rentals. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "capital lease obligations ( a )",
+        "operating lease obligations"
+      ],
+      [
+        "2010",
+        "$ 46",
+        "$ 165"
+      ],
+      [
+        "2011",
+        "45",
+        "140"
+      ],
+      [
+        "2012",
+        "58",
+        "121"
+      ],
+      [
+        "2013",
+        "44",
+        "102"
+      ],
+      [
+        "2014",
+        "44",
+        "84"
+      ],
+      [
+        "later years",
+        "466",
+        "313"
+      ],
+      [
+        "sublease rentals",
+        "-",
+        "-16 ( 16 )"
+      ],
+      [
+        "total minimum lease payments",
+        "$ 703",
+        "$ 909"
+      ],
+      [
+        "less imputed interest costs",
+        "-257 ( 257 )",
+        ""
+      ],
+      [
+        "present value of net minimum lease payments",
+        "$ 446",
+        ""
+      ]
+    ],
+    "questions": [
+      "what percentage of operating leases are due currently?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the price of shares from the highest value during the quarter ended december 31 , 2008 and the closing price on february 13 , 2009?",
+      "answer": 0.2922,
+      "answer_raw": "0.2922",
+      "program": "subtract(37.28, 28.85), divide(#0, 28.85)"
+    }
+  ]
+}

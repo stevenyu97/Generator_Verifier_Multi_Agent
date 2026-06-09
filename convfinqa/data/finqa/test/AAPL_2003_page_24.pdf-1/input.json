@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "AAPL/2003/page_24.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "24 of 93 net sales in japan remained flat during 2002 versus 2001 , with a slight decline in unit sales of 2% ( 2 % ) .",
+      "consistent with the company 2019s other geographic operating segments , during 2002 japan showed growth in unit sales of consumer systems and a decline in unit sales of power macintosh systems .",
+      "japan 2019s imac unit sales increased 85% ( 85 % ) in 2002 .",
+      "however , in the case of japan the increase in imac unit shipments in 2002 versus 2001 was primarily the result of the unusually depressed level of net sales experienced by the company in the first quarter of 2001 as discussed above .",
+      "additionally , net sales in japan on a sequential and year-over-year comparative basis generally worsened as 2002 progressed reflecting particularly poor economic conditions in japan .",
+      "retail the company opened 25 new retail stores during 2003 , bringing the total number of open stores to 65 as of september 27 , 2003 , which compares to 40 open stores as of september 28 , 2002 and 8 open stores as of september 29 , 2001 .",
+      "during the first quarter of fiscal 2004 , the company opened 9 additional stores including its first international store in the ginza in tokyo , japan .",
+      "the retail segment 2019s net sales grew to $ 621 million during 2003 from $ 283 million in 2002 and from $ 19 million in 2001 .",
+      "the $ 338 million or 119% ( 119 % ) increase in net sales during 2003 reflects the impact from opening 25 new stores in 2003 , the full year impact of 2002 store openings , as well as an increase in average revenue per store .",
+      "total macintosh sales increased by approximately $ 170 million of which $ 108 million related to year-over-year increases in powerbook sales .",
+      "the retail segment has also contributed strongly to the increases in net sales of peripherals , software and services experienced by the company during 2003 .",
+      "during 2003 , approximately 45% ( 45 % ) of the retail segment 2019s net sales came from the sale of apple-branded and third-party peripherals , software and services as compared to 28% ( 28 % ) for the company as a whole .",
+      "with an average of 54 stores open during 2003 , the retail segment achieved annualized revenue per store of approximately $ 11.5 million , as compared to approximately $ 10.2 million based on an average of 28 stores open in 2002 .",
+      "as measured by the company 2019s operating segment reporting , the retail segment improved from a loss of $ 22 million during 2002 to a loss of $ 5 million during 2003 .",
+      "this improvement is primarily attributable to the segment 2019s year-over-year increase in net sales , which resulted in higher leverage on occupancy , depreciation and other fixed costs .",
+      "expansion of the retail segment has required and will continue to require a substantial investment in fixed assets and related infrastructure , operating lease commitments , personnel , and other operating expenses .",
+      "capital expenditures associated with the retail segment since its inception totaled approximately $ 290 million through the end of fiscal 2003 , $ 92 million of which was incurred during 2003 .",
+      "as of september 27 , 2003 , the retail segment had approximately 1300 employees and had outstanding operating lease commitments associated with retail store space and related facilities of $ 354 million .",
+      "the company would incur substantial costs should it choose to terminate its retail segment or close individual stores .",
+      "such costs could adversely affect the company 2019s results of operations and financial condition .",
+      "investment in a new business model such as the retail segment is inherently risky , particularly in light of the significant investment involved , the current economic climate , and the fixed nature of a substantial portion of the retail segment 2019s operating expenses .",
+      "gross margin gross margin for the three fiscal years ended september 27 , 2003 are as follows ( in millions , except gross margin percentages ) : ."
+    ],
+    "post_text": [
+      "gross margin decreased to 27.5% ( 27.5 % ) of net sales in 2003 from 27.9% ( 27.9 % ) of net sales in 2002 .",
+      "this decline in gross margin reflects relatively aggressive pricing actions on several macintosh models instituted by the company beginning in late fiscal 2002 as a result of continued pricing pressure throughout the personal computer industry , lower sales of relatively higher margin power macintosh systems during the first three fiscal quarters of 2003 , and increased air freight and manufacturing costs associated with the production ramp-up of the new power mac g5 and 15-inch powerbook , both of which began shipping in volume during september 2003 .",
+      "this decline is also attributable to a rise in certain component costs as the year progressed .",
+      "the aforementioned negative factors affecting gross margins during 2003 were partially offset by the increase in higher margin software and direct sales .",
+      "the company anticipates that its gross margin and the gross margin of the overall personal computer industry will remain under pressure throughout fiscal 2004 in light of weak economic conditions , price competition in the personal computer industry , and potential increases in component pricing .",
+      "the company also expects to continue to incur air freight charges on the power mac g5 and other products during 2004 .",
+      "the foregoing statements regarding the company 2019s expected gross margin during 2004 , general demand for personal computers , anticipated industry component pricing , anticipated air freight charges , and future economic conditions are forward-looking .",
+      "there can be no assurance that current gross margins will be maintained , targeted gross margin levels will be achieved , or current margins on existing individual products will be maintained .",
+      "in general , gross margins and margins on individual products will remain under ."
+    ],
+    "table": [
+      [
+        "",
+        "2003",
+        "2002",
+        "2001"
+      ],
+      [
+        "net sales",
+        "$ 6207",
+        "$ 5742",
+        "$ 5363"
+      ],
+      [
+        "cost of sales",
+        "4499",
+        "4139",
+        "4128"
+      ],
+      [
+        "gross margin",
+        "$ 1708",
+        "$ 1603",
+        "$ 1235"
+      ],
+      [
+        "gross margin percentage",
+        "27.5% ( 27.5 % )",
+        "27.9% ( 27.9 % )",
+        "23.0% ( 23.0 % )"
+      ]
+    ],
+    "questions": [
+      "what were capital expenditures associated with the retail segment since its inception , exclusive of the amount incurred during 2003 , in millions?"
+    ]
+  }
+}

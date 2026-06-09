@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net cash provided by operating activities in 2013?",
+      "answer": 592.9,
+      "answer_raw": "592.9",
+      "program": "592.9"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the net cash used in investing activities in that same year?",
+      "answer": -224.5,
+      "answer_raw": "-224.5",
+      "program": "-224.5"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the balance between the provided and the spent net cash in that year?",
+      "answer": 368.4,
+      "answer_raw": "368.4",
+      "program": "add(592.9, -224.5)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what would be the total net change, considering this balance and the net cash ( used in ) provided by financing activities?",
+      "answer": -843.9,
+      "answer_raw": "-843.9",
+      "program": "add(592.9, -224.5), add(#0, -1212.3)"
+    }
+  ]
+}

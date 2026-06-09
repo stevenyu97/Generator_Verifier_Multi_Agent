@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the equity compensation plans approved by security holders is to be issued upon exercise of outstanding options warrants and rights?",
+      "answer": 0.24961,
+      "answer_raw": "0.24961",
+      "program": "add(1424356, 4281952), divide(1424356, #0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many sales did the north america account for in 2009?",
+      "answer": 3994.56,
+      "answer_raw": "3994.56",
+      "program": "multiply(7008, 57%)"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "JPM/2012/page_109.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "jpmorgan chase & co./2012 annual report 119 implementing further revisions to the capital accord in the u.s .",
+      "( such further revisions are commonly referred to as 201cbasel iii 201d ) .",
+      "basel iii revised basel ii by , among other things , narrowing the definition of capital , and increasing capital requirements for specific exposures .",
+      "basel iii also includes higher capital ratio requirements and provides that the tier 1 common capital requirement will be increased to 7% ( 7 % ) , comprised of a minimum ratio of 4.5% ( 4.5 % ) plus a 2.5% ( 2.5 % ) capital conservation buffer .",
+      "implementation of the 7% ( 7 % ) tier 1 common capital requirement is required by january 1 , in addition , global systemically important banks ( 201cgsibs 201d ) will be required to maintain tier 1 common requirements above the 7% ( 7 % ) minimum in amounts ranging from an additional 1% ( 1 % ) to an additional 2.5% ( 2.5 % ) .",
+      "in november 2012 , the financial stability board ( 201cfsb 201d ) indicated that it would require the firm , as well as three other banks , to hold the additional 2.5% ( 2.5 % ) of tier 1 common ; the requirement will be phased in beginning in 2016 .",
+      "the basel committee also stated it intended to require certain gsibs to hold an additional 1% ( 1 % ) of tier 1 common under certain circumstances , to act as a disincentive for the gsib from taking actions that would further increase its systemic importance .",
+      "currently , no gsib ( including the firm ) is required to hold this additional 1% ( 1 % ) of tier 1 common .",
+      "in addition , pursuant to the requirements of the dodd-frank act , u.s .",
+      "federal banking agencies have proposed certain permanent basel i floors under basel ii and basel iii capital calculations .",
+      "the following table presents a comparison of the firm 2019s tier 1 common under basel i rules to its estimated tier 1 common under basel iii rules , along with the firm 2019s estimated risk-weighted assets .",
+      "tier 1 common under basel iii includes additional adjustments and deductions not included in basel i tier 1 common , such as the inclusion of aoci related to afs securities and defined benefit pension and other postretirement employee benefit ( 201copeb 201d ) plans .",
+      "the firm estimates that its tier 1 common ratio under basel iii rules would be 8.7% ( 8.7 % ) as of december 31 , 2012 .",
+      "the tier 1 common ratio under both basel i and basel iii are non- gaap financial measures .",
+      "however , such measures are used by bank regulators , investors and analysts as a key measure to assess the firm 2019s capital position and to compare the firm 2019s capital to that of other financial services companies .",
+      "december 31 , 2012 ( in millions , except ratios ) ."
+    ],
+    "post_text": [
+      "estimated risk-weighted assets under basel iii rules ( a ) $ 1647903 estimated tier 1 common ratio under basel iii rules ( b ) 8.7% ( 8.7 % ) ( a ) key differences in the calculation of risk-weighted assets between basel i and basel iii include : ( 1 ) basel iii credit risk rwa is based on risk-sensitive approaches which largely rely on the use of internal credit models and parameters , whereas basel i rwa is based on fixed supervisory risk weightings which vary only by counterparty type and asset class ; ( 2 ) basel iii market risk rwa reflects the new capital requirements related to trading assets and securitizations , which include incremental capital requirements for stress var , correlation trading , and re-securitization positions ; and ( 3 ) basel iii includes rwa for operational risk , whereas basel i does not .",
+      "the actual impact on the firm 2019s capital ratios upon implementation could differ depending on final implementation guidance from the regulators , as well as regulatory approval of certain of the firm 2019s internal risk models .",
+      "( b ) the tier 1 common ratio is tier 1 common divided by rwa .",
+      "the firm 2019s estimate of its tier 1 common ratio under basel iii reflects its current understanding of the basel iii rules based on information currently published by the basel committee and u.s .",
+      "federal banking agencies and on the application of such rules to its businesses as currently conducted ; it excludes the impact of any changes the firm may make in the future to its businesses as a result of implementing the basel iii rules , possible enhancements to certain market risk models , and any further implementation guidance from the regulators .",
+      "the basel iii capital requirements are subject to prolonged transition periods .",
+      "the transition period for banks to meet the tier 1 common requirement under basel iii was originally scheduled to begin in 2013 , with full implementation on january 1 , 2019 .",
+      "in november 2012 , the u.s .",
+      "federal banking agencies announced a delay in the implementation dates for the basel iii capital requirements .",
+      "the additional capital requirements for gsibs will be phased in starting january 1 , 2016 , with full implementation on january 1 , 2019 .",
+      "management 2019s current objective is for the firm to reach , by the end of 2013 , an estimated basel iii tier i common ratio of 9.5% ( 9.5 % ) .",
+      "additional information regarding the firm 2019s capital ratios and the federal regulatory capital standards to which it is subject is presented in supervision and regulation on pages 1 20138 of the 2012 form 10-k , and note 28 on pages 306 2013 308 of this annual report .",
+      "broker-dealer regulatory capital jpmorgan chase 2019s principal u.s .",
+      "broker-dealer subsidiaries are j.p .",
+      "morgan securities llc ( 201cjpmorgan securities 201d ) and j.p .",
+      "morgan clearing corp .",
+      "( 201cjpmorgan clearing 201d ) .",
+      "jpmorgan clearing is a subsidiary of jpmorgan securities and provides clearing and settlement services .",
+      "jpmorgan securities and jpmorgan clearing are each subject to rule 15c3-1 under the securities exchange act of 1934 ( the 201cnet capital rule 201d ) .",
+      "jpmorgan securities and jpmorgan clearing are also each registered as futures commission merchants and subject to rule 1.17 of the commodity futures trading commission ( 201ccftc 201d ) .",
+      "jpmorgan securities and jpmorgan clearing have elected to compute their minimum net capital requirements in accordance with the 201calternative net capital requirements 201d of the net capital rule .",
+      "at december 31 , 2012 , jpmorgan securities 2019 net capital , as defined by the net capital rule , was $ 13.5 billion , exceeding the minimum requirement by ."
+    ],
+    "table": [
+      [
+        "tier 1 common under basel i rules",
+        "$ 140342"
+      ],
+      [
+        "adjustments related to aoci for afs securities and defined benefit pension and opeb plans",
+        "4077"
+      ],
+      [
+        "all other adjustments",
+        "-453 ( 453 )"
+      ],
+      [
+        "estimated tier 1 common under basel iii rules",
+        "$ 143966"
+      ],
+      [
+        "estimated risk-weighted assets under basel iii rules ( a )",
+        "$ 1647903"
+      ],
+      [
+        "estimated tier 1 common ratio under basel iii rules ( b )",
+        "8.7% ( 8.7 % )"
+      ]
+    ],
+    "questions": [
+      "in 2012 what was the percent of the adjustments related to aoci for afs securities and defined benefit pension and opeb plans as part of the tier 1 common under basel i rules"
+    ]
+  }
+}

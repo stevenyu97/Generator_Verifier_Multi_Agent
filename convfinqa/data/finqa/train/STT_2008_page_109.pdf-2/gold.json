@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of severence was paid off in 2008?",
+      "answer": 0.08,
+      "answer_raw": "0.08",
+      "program": "divide(20, 250)"
+    }
+  ]
+}

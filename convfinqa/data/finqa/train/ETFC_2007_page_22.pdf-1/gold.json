@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage cumulative total return for e*trade financial corporation for the five years ended 12/07?",
+      "answer": -0.2695,
+      "answer_raw": "-0.2695",
+      "program": "subtract(73.05, const_100), divide(#0, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total minimum payments required for lease commitments is due in the upcoming year?",
+      "answer": 0.17322,
+      "answer_raw": "0.17322",
+      "program": "divide(317, 1830)"
+    }
+  ]
+}

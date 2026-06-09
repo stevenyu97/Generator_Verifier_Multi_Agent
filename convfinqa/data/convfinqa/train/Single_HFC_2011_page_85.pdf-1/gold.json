@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total amount of cash and cash equivalents and accounts receivable, combined?",
+      "answer": 1610.6,
+      "answer_raw": "1610.6",
+      "program": "add(872.7, 737.9)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total amount of accrued liabilities and long-term debt, also combined?",
+      "answer": 1117.4,
+      "answer_raw": "1117.4",
+      "program": "add(872.7, 737.9), add(40.7, 1076.7)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does the cash and cash equivalents and accounts receivable total represent in relation to this one?",
+      "answer": 1.44138,
+      "answer_raw": "1.44138",
+      "program": "add(872.7, 737.9), add(40.7, 1076.7), divide(#0, #1)"
+    }
+  ]
+}

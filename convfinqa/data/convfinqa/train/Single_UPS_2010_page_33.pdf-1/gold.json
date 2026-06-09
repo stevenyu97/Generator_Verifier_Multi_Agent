@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of an investment in ups in 2010?",
+      "answer": 110.57,
+      "answer_raw": "110.57",
+      "program": "110.57"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the change in the value from 2005 to 2010?",
+      "answer": 10.57,
+      "answer_raw": "10.57",
+      "program": "subtract(110.57, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what growth rate does this represent?",
+      "answer": 0.1057,
+      "answer_raw": "0.1057",
+      "program": "subtract(110.57, const_100), divide(#0, const_100)"
+    }
+  ]
+}

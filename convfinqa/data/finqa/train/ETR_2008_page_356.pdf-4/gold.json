@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the number of electric consumers from 2006 to 2007 for entergy new orleans?",
+      "answer": 0.38947,
+      "answer_raw": "0.38947",
+      "program": "subtract(132000, 95000), divide(#0, 95000)"
+    }
+  ]
+}

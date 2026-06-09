@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the increase in cash , cash equivalents , and short-term investments from 2007 to 2008 in millions?",
+      "answer": 9104.0,
+      "answer_raw": "9104.0",
+      "program": "subtract(24490, 15386)"
+    }
+  ]
+}

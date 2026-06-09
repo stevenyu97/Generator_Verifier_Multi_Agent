@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 292017 what was the percent of the net cash provided by ( used for ) financing activities to the net cash provided by operating activities",
+      "answer": 0.38331,
+      "answer_raw": "0.38331",
+      "program": "divide(8475, 22110)"
+    }
+  ]
+}

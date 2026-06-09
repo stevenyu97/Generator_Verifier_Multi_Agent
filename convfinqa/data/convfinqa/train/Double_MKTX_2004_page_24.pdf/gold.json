@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "from november 5 to december 31 of 2004, what was the numerical range of the share price?",
+      "answer": 11.66,
+      "answer_raw": "11.66",
+      "program": "subtract(24.41, 12.75)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and as of march 28 of the next year, what was the last reported closing price of the common stock on the nasdaq national market?",
+      "answer": 10.26,
+      "answer_raw": "10.26",
+      "program": "10.26"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what was the amount of holders of record of that common stock?",
+      "answer": 188.0,
+      "answer_raw": "188.0",
+      "program": "188"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was, then, the market cap of that common stock as of that date?",
+      "answer": 1928.88,
+      "answer_raw": "1928.88",
+      "program": "multiply(10.26, 188)"
+    }
+  ]
+}

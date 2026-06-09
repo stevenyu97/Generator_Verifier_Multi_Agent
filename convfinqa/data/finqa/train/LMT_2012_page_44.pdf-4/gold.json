@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the increase in the operating profit from 2010 to 2011",
+      "answer": 0.07371,
+      "answer_raw": "0.07371",
+      "program": "subtract(874, 814), divide(#0, 814)"
+    }
+  ]
+}

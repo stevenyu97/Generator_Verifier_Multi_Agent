@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much did entergy receive from the money pool between 2014 and 2017 ? ( in thousands $ )",
+      "answer": 43174.0,
+      "answer_raw": "43174.0",
+      "program": "add(12723, 14215), add(#0, 15794), add(#1, 442)"
+    }
+  ]
+}

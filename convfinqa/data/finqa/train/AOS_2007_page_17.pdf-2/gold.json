@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in cumulative total return for the five year period ending 12/31/07 between a o smith corp and the s&p 600 electrical equipment?",
+      "answer": -1.1061,
+      "answer_raw": "-1.1061",
+      "program": "subtract(142.72, const_100), divide(#0, const_100), subtract(253.33, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the total unrecognized tax benefits is increases related to tax positions taken during a prior period?",
+      "answer": 0.05336,
+      "answer_raw": "0.05336",
+      "program": "divide(27, 506)"
+    }
+  ]
+}

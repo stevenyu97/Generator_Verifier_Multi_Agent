@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of 2013 , principal payments required in 2008 were what percent of those due after 5 years?",
+      "answer": 0.22646,
+      "answer_raw": "0.22646",
+      "program": "divide(378841, 1672866)"
+    }
+  ]
+}

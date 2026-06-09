@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the total accumulated other comprehensive losses from 2015 to 2016?",
+      "answer": -157.0,
+      "answer_raw": "-157.0",
+      "program": "subtract(-9559, -9402)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about from 2016 to 2017?",
+      "answer": 1024.0,
+      "answer_raw": "1024.0",
+      "program": "subtract(-8535, -9559)"
+    }
+  ]
+}

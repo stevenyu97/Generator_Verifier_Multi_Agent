@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "Single_UAA/2017/page_86.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "other long term debt in december 2012 , the company entered into a $ 50.0 million recourse loan collateralized by the land , buildings and tenant improvements comprising the company 2019s corporate headquarters .",
+      "the loan has a seven year term and maturity date of december 2019 .",
+      "the loan bears interest at one month libor plus a margin of 1.50% ( 1.50 % ) , and allows for prepayment without penalty .",
+      "the loan includes covenants and events of default substantially consistent with the company 2019s credit agreement discussed above .",
+      "the loan also requires prior approval of the lender for certain matters related to the property , including transfers of any interest in the property .",
+      "as of december 31 , 2017 and 2016 , the outstanding balance on the loan was $ 40.0 million and $ 42.0 million , respectively .",
+      "the weighted average interest rate on the loan was 2.5% ( 2.5 % ) and 2.0% ( 2.0 % ) for the years ended december 31 , 2017 and 2016 , respectively .",
+      "the following are the scheduled maturities of long term debt as of december 31 , 2017 : ( in thousands ) ."
+    ],
+    "post_text": [
+      "interest expense , net was $ 34.5 million , $ 26.4 million , and $ 14.6 million for the years ended december 31 , 2017 , 2016 and 2015 , respectively .",
+      "interest expense includes the amortization of deferred financing costs , bank fees , capital and built-to-suit lease interest and interest expense under the credit and other long term debt facilities .",
+      "amortization of deferred financing costs was $ 1.3 million , $ 1.2 million , and $ 0.8 million for the years ended december 31 , 2017 , 2016 and 2015 , respectively .",
+      "the company monitors the financial health and stability of its lenders under the credit and other long term debt facilities , however during any period of significant instability in the credit markets lenders could be negatively impacted in their ability to perform under these facilities .",
+      "7 .",
+      "commitments and contingencies obligations under operating leases the company leases warehouse space , office facilities , space for its brand and factory house stores and certain equipment under non-cancelable operating leases .",
+      "the leases expire at various dates through 2033 , excluding extensions at the company 2019s option , and include provisions for rental adjustments .",
+      "the table below includes executed lease agreements for brand and factory house stores that the company did not yet occupy as of december 31 , 2017 and does not include contingent rent the company may incur at its stores based on future sales above a specified minimum or payments made for maintenance , insurance and real estate taxes .",
+      "the following is a schedule of future minimum lease payments for non-cancelable real property operating leases as of december 31 , 2017 as well as ."
+    ],
+    "table": [
+      [
+        "2018",
+        "$ 27000"
+      ],
+      [
+        "2019",
+        "63000"
+      ],
+      [
+        "2020",
+        "25000"
+      ],
+      [
+        "2021",
+        "86250"
+      ],
+      [
+        "2022",
+        "2014"
+      ],
+      [
+        "2023 and thereafter",
+        "600000"
+      ],
+      [
+        "total scheduled maturities of long term debt",
+        "$ 801250"
+      ],
+      [
+        "current maturities of long term debt",
+        "$ 27000"
+      ]
+    ],
+    "questions": [
+      "what is the outstanding balance on the loan in 2017?",
+      "what about in 2016?",
+      "what is the change in the balance of outstanding loans?",
+      "what is the outstanding balance on the loan in 2016?",
+      "what percentage increase does this represent?"
+    ]
+  }
+}

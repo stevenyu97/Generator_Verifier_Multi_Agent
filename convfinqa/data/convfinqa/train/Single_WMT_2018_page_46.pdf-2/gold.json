@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in value of u.s. segment sales for walmart from 2017 to 2018?",
+      "answer": 10644.0,
+      "answer_raw": "10644.0",
+      "program": "subtract(318477, 307833)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that over the 2017 value?",
+      "answer": 0.03458,
+      "answer_raw": "0.03458",
+      "program": "subtract(318477, 307833), divide(#0, 307833)"
+    }
+  ]
+}

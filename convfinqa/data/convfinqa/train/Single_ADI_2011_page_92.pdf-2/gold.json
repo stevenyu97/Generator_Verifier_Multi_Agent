@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of additions for tax positions related to prior years and reductions for tax positions related to prior years?",
+      "answer": -8412.0,
+      "answer_raw": "-8412.0",
+      "program": "add(9265, -17677)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the value of settlements with taxing authorities?",
+      "answer": -370.0,
+      "answer_raw": "-370.0",
+      "program": "-370"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total sum?",
+      "answer": -8782.0,
+      "answer_raw": "-8782.0",
+      "program": "add(9265, -17677), add(#0, -370)"
+    }
+  ]
+}

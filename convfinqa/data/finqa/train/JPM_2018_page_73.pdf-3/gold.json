@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the estimated variation between the percentual decrease observed in the s&p 500 index and in the jpmorgan chase during the years 2017 and 2018?",
+      "answer": 0.02258,
+      "answer_raw": "0.02258",
+      "program": "divide(189.57, 203.07), subtract(const_1, #0), divide(150.27, 157.17), subtract(const_1, #2), subtract(#1, #3)"
+    }
+  ]
+}

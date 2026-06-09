@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the greatest foreign currency translation loss , in millions?",
+      "answer": -139.6,
+      "answer_raw": "-139.6",
+      "program": "table_min(foreign currency translation, none)"
+    }
+  ]
+}

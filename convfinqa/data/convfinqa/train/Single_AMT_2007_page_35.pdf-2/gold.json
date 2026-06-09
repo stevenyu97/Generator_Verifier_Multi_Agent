@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total number of shares purchased in 11/07?",
+      "answer": 2891719.0,
+      "answer_raw": "2891719.0",
+      "program": "2891719"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the average price paid per share for that time?",
+      "answer": 44.16,
+      "answer_raw": "44.16",
+      "program": "44.16"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the total amount paid for these shares?",
+      "answer": 127698311.04,
+      "answer_raw": "127698311.04",
+      "program": "multiply(2891719, 44.16)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and converted to the hundreds?",
+      "answer": 127.69831,
+      "answer_raw": "127.69831",
+      "program": "multiply(2891719, 44.16), divide(#0, const_1000000)"
+    }
+  ]
+}

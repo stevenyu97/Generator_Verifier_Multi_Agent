@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "DISH/2008/page_120.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "dish network corporation notes to consolidated financial statements - continued december 31 , 2008 , we recorded $ 6 million in interest and penalty expense to earnings .",
+      "accrued interest and penalties was $ 7 million at december 31 , 2008 .",
+      "11 .",
+      "acquisition of sling media , inc .",
+      "during october 2007 , we acquired all remaining outstanding shares ( 94% ( 94 % ) ) of sling media , inc .",
+      "( 201csling media 201d ) for cash consideration of $ 342 million , including direct transaction costs of $ 8 million .",
+      "we also exchanged sling media employee stock options for our options to purchase approximately 342000 of our common stock valued at approximately $ 16 million .",
+      "sling media , a leading innovator in the digital- lifestyle space , was acquired to allow us to offer new products and services to our subscribers .",
+      "on january 1 , 2008 , sling media was distributed to echostar in the spin-off .",
+      "this transaction was accounted for as a purchase business combination in accordance with statement of financial accounting standards no .",
+      "141 , 201cbusiness combinations 201d ( 201csfas 141 201d ) .",
+      "the purchase consideration was allocated based on the fair values of identifiable tangible and intangible assets and liabilities as follows : purchase price allocation ( in thousands ) ."
+    ],
+    "post_text": [
+      "( 1 ) represents the elimination of our previously recorded 6% ( 6 % ) non-controlling interest in sling media .",
+      "( 2 ) includes $ 9 million deferred tax liability related to the acquisition intangibles .",
+      "the total $ 62 million of acquired intangible assets resulting from the sling media transaction is comprised of technology-based intangibles and trademarks totaling approximately $ 34 million with estimated weighted-average useful lives of seven years , reseller relationships totaling approximately $ 24 million with estimated weighted-average useful lives of three years and contract-based intangibles totaling approximately $ 4 million with estimated weighted-average useful lives of four years .",
+      "the in-process research and development costs of $ 22 million were expensed to general and administrative expense upon acquisition in accordance with sfas 141 .",
+      "the goodwill recorded as a result of the acquisition is not deductible for income tax purposes .",
+      "the business combination did not have a material impact on our results of operations for the year ended december 31 , 2007 and would not have materially impacted our results of operations for these periods had the business combination occurred on january 1 , 2007 .",
+      "further , the business combination would not have had a material impact on our results of operations for the comparable period in 2006 had the business combination occurred on january 1 , 2006. ."
+    ],
+    "table": [
+      [
+        "",
+        "final purchase price allocation ( in thousands )"
+      ],
+      [
+        "tangible assets",
+        "$ 28779"
+      ],
+      [
+        "prepaid compensation costs",
+        "11844"
+      ],
+      [
+        "other noncurrent assets ( 1 )",
+        "-9541 ( 9541 )"
+      ],
+      [
+        "acquisition intangibles",
+        "61800"
+      ],
+      [
+        "in-process research and development",
+        "22200"
+      ],
+      [
+        "goodwill",
+        "256917"
+      ],
+      [
+        "total assets acquired",
+        "$ 371999"
+      ],
+      [
+        "current liabilities",
+        "-19233 ( 19233 )"
+      ],
+      [
+        "long-term liabilities ( 2 )",
+        "-10922 ( 10922 )"
+      ],
+      [
+        "net assets acquired",
+        "$ 341844"
+      ]
+    ],
+    "questions": [
+      "what percentage of total assets acquired where comprised of goodwill?"
+    ]
+  }
+}

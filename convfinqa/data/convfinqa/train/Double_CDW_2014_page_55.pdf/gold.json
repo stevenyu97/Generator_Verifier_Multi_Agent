@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of may 30, 2014, what would be the total dividend amount for 1000 shares?",
+      "answer": 42.5,
+      "answer_raw": "42.5",
+      "program": "multiply(0.0425, 1000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and which one was higher: the dividend per share declared on february 10, 2015 or the one declared on february 12, 2014?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(0.0675, 0.0425)"
+    }
+  ]
+}

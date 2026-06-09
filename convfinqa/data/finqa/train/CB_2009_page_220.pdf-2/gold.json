@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in net income for bermuda subsidiaries from 2008 to 2009?",
+      "answer": 0.12568,
+      "answer_raw": "0.12568",
+      "program": "subtract(2472, 2196), divide(#0, 2196)"
+    }
+  ]
+}

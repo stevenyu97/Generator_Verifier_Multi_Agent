@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of delphi automotive plc in the year of 2016?",
+      "answer": 331.43,
+      "answer_raw": "331.43",
+      "program": "331.43"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the difference between that value in 2016 and the one in 2011?",
+      "answer": 231.43,
+      "answer_raw": "231.43",
+      "program": "subtract(331.43, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does that difference represent in relation to the value of delphi automotive plc in 2011?",
+      "answer": 2.3143,
+      "answer_raw": "2.3143",
+      "program": "subtract(331.43, const_100), divide(#0, const_100)"
+    }
+  ]
+}

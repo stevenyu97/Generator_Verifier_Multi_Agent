@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in revenues generated through subleasing from 2009 to 2010?",
+      "answer": 0.7,
+      "answer_raw": "0.7",
+      "program": "subtract(5.9, 5.2)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what were those revenues in 2009?",
+      "answer": 5.2,
+      "answer_raw": "5.2",
+      "program": "5.2"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to these 2009 revenues generated through subleasing?",
+      "answer": 0.13462,
+      "answer_raw": "0.13462",
+      "program": "subtract(5.9, 5.2), divide(#0, 5.2)"
+    }
+  ]
+}

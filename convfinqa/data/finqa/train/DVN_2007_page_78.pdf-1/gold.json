@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the devon 2019s cumulative translation adjustments included in accumulated other comprehensive income for 2005 to 2004",
+      "answer": 1.1537,
+      "answer_raw": "1.1537",
+      "program": "divide(1216, 1054)"
+    }
+  ]
+}

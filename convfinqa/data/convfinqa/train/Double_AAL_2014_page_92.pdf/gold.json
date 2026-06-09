@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the increase in total reorganization items net from 2012 to 2013?",
+      "answer": 461.0,
+      "answer_raw": "461.0",
+      "program": "subtract(2640, 2179)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this increase as a portion of that net total in 2012?",
+      "answer": 0.21156,
+      "answer_raw": "0.21156",
+      "program": "subtract(2640, 2179), divide(#0, 2179)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and in that same year of 2013, how much did the interest expense, net of capitalized interest represent in relation to the other non operating income net related to debt extinguishm net and currency losses?",
+      "answer": 8.45238,
+      "answer_raw": "8.45238",
+      "program": "divide(710, 84)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the performance price of the masco common stock in the five year period ended 2010?",
+      "answer": -48.49,
+      "answer_raw": "-48.49",
+      "program": "subtract(51.51, 100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this change as a percentage of that price in 2006?",
+      "answer": -0.4849,
+      "answer_raw": "-0.4849",
+      "program": "subtract(51.51, 100), divide(#0, 100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "in the last year of that period, what percentage of the shares authorized to purchase in open-market transactions or otherwise by the board of directors in 2007 were part of the remaining authorization?",
+      "answer": 0.54,
+      "answer_raw": "0.54",
+      "program": "divide(27, 50)"
+    }
+  ]
+}

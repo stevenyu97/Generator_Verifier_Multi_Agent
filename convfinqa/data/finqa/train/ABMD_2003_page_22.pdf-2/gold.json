@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the decrease in potential dilutive shares from 2002 to 2003 ?",
+      "answer": 1362488.0,
+      "answer_raw": "1362488.0",
+      "program": "subtract(1420831, 58343)"
+    }
+  ]
+}

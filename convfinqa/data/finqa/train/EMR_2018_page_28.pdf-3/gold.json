@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "to maintain the same percentage of sales capital expenditure in 2019 as in 2018 what will be the sales needed in millions?",
+      "answer": 18571.42857,
+      "answer_raw": "18571.42857",
+      "program": "divide(650, 3.5%)"
+    }
+  ]
+}

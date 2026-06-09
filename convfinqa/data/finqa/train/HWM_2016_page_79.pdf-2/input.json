@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "HWM/2016/page_79.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "properties , plants , and equipment .",
+      "properties , plants , and equipment are recorded at cost .",
+      "depreciation is recorded principally on the straight-line method at rates based on the estimated useful lives of the assets .",
+      "the following table details the weighted-average useful lives of structures and machinery and equipment by reporting segment ( numbers in years ) : ."
+    ],
+    "post_text": [
+      "gains or losses from the sale of assets are generally recorded in other income , net ( see policy below for assets classified as held for sale and discontinued operations ) .",
+      "repairs and maintenance are charged to expense as incurred .",
+      "interest related to the construction of qualifying assets is capitalized as part of the construction costs .",
+      "properties , plants , and equipment are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of such assets ( asset group ) may not be recoverable .",
+      "recoverability of assets is determined by comparing the estimated undiscounted net cash flows of the operations related to the assets ( asset group ) to their carrying amount .",
+      "an impairment loss would be recognized when the carrying amount of the assets ( asset group ) exceeds the estimated undiscounted net cash flows .",
+      "the amount of the impairment loss to be recorded is calculated as the excess of the carrying value of the assets ( asset group ) over their fair value , with fair value determined using the best information available , which generally is a discounted cash flow ( dcf ) model .",
+      "the determination of what constitutes an asset group , the associated estimated undiscounted net cash flows , and the estimated useful lives of assets also require significant judgments .",
+      "goodwill and other intangible assets .",
+      "goodwill is not amortized ; instead , it is reviewed for impairment annually ( in the fourth quarter ) or more frequently if indicators of impairment exist or if a decision is made to sell or exit a business .",
+      "a significant amount of judgment is involved in determining if an indicator of impairment has occurred .",
+      "such indicators may include deterioration in general economic conditions , negative developments in equity and credit markets , adverse changes in the markets in which an entity operates , increases in input costs that have a negative effect on earnings and cash flows , or a trend of negative or declining cash flows over multiple periods , among others .",
+      "the fair value that could be realized in an actual transaction may differ from that used to evaluate the impairment of goodwill .",
+      "goodwill is allocated among and evaluated for impairment at the reporting unit level , which is defined as an operating segment or one level below an operating segment .",
+      "arconic has eight reporting units , of which four are included in the engineered products and solutions segment , three are included in the transportation and construction solutions segment , and the remaining reporting unit is the global rolled products segment .",
+      "more than 70% ( 70 % ) of arconic 2019s total goodwill is allocated to two reporting units as follows : arconic fastening systems and rings ( afsr ) ( $ 2200 ) and arconic power and propulsion ( app ) ( $ 1647 ) businesses , both of which are included in the engineered products and solutions segment .",
+      "these amounts include an allocation of corporate 2019s goodwill .",
+      "in november 2014 , arconic acquired firth rixson ( see note f ) , and , as a result recognized $ 1801 in goodwill .",
+      "this amount was allocated between the afsr and arconic forgings and extrusions ( afe ) reporting units , which is part of the engineered products and solutions segment .",
+      "in march and july 2015 , arconic acquired tital and rti , respectively , ( see note f ) and recognized $ 117 and $ 298 , respectively , in goodwill .",
+      "the goodwill amount related to tital was allocated to the app reporting unit and the amount related to rti was allocated to arconic titanium and engineered products ( atep ) , a new arconic reporting unit that consists solely of the acquired rti business and is part of the engineered products and solutions segment .",
+      "in reviewing goodwill for impairment , an entity has the option to first assess qualitative factors to determine whether the existence of events or circumstances leads to a determination that it is more likely than not ( greater than 50% ( 50 % ) ) that the estimated fair value of a reporting unit is less than its carrying amount .",
+      "if an entity elects to perform a qualitative assessment and determines that an impairment is more likely than not , the entity is then required to perform the ."
+    ],
+    "table": [
+      [
+        "segment",
+        "structures",
+        "machinery and equipment"
+      ],
+      [
+        "global rolled products",
+        "31",
+        "21"
+      ],
+      [
+        "engineered products and solutions",
+        "29",
+        "17"
+      ],
+      [
+        "transportation and construction solutions",
+        "27",
+        "19"
+      ]
+    ],
+    "questions": [
+      "what is the difference between firth rixson's goodwill and the rti's?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2013 , what was the change in shares in thousands of nonvested incentive/ performance unit shares?",
+      "answer": 528.0,
+      "answer_raw": "528.0",
+      "program": "subtract(1647, 1119)"
+    }
+  ]
+}

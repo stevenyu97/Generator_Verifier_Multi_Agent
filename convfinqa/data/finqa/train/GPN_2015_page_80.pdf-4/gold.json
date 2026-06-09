@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total loss carryforwards?",
+      "answer": 36.9,
+      "answer_raw": "36.9",
+      "program": "add(12.4, 19.8), add(#0, 4.7)"
+    }
+  ]
+}

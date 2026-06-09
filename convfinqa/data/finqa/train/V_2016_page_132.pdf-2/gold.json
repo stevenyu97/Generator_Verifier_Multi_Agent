@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in fair value per option granted from 2015 to 2016?",
+      "answer": 2.97,
+      "answer_raw": "2.97",
+      "program": "subtract(15.01, 12.04)"
+    }
+  ]
+}

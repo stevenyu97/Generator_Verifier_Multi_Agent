@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions , what is the total impact on the change in net revenue from the reserve equalization , the purchased power capacity , and the transmission revenue?",
+      "answer": 33.7,
+      "answer_raw": "33.7",
+      "program": "add(14.3, 12.4), add(#0, const_7)"
+    }
+  ]
+}

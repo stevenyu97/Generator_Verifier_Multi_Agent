@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the annual interest cost for the 125 park avenue acquisition?",
+      "answer": 8.40645,
+      "answer_raw": "8.40645",
+      "program": "multiply(146.25, 5.748%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the company's share of the value of the 521 fifth avenue acquisition, based on the transaction cost?",
+      "answer": 122.6043,
+      "answer_raw": "122.6043",
+      "program": "multiply(245.7, 49.9%)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and converted to the millions?",
+      "answer": 122604300.0,
+      "answer_raw": "122604300.0",
+      "program": "multiply(245.7, 49.9%), multiply(#0, const_1000000)"
+    }
+  ]
+}

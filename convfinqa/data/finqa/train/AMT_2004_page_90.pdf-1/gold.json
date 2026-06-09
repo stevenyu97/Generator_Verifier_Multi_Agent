@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total cash obligations are due after 2009?",
+      "answer": 0.6328,
+      "answer_raw": "0.6328",
+      "program": "divide(2206476, 3486855)"
+    }
+  ]
+}

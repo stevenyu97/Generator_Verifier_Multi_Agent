@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total mw capacity of the boiling water reactors?",
+      "answer": 2131.0,
+      "answer_raw": "2131.0",
+      "program": "add(688, 838), add(#0, 605)"
+    }
+  ]
+}

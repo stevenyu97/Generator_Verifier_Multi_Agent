@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average sales price for the class b common shares in 2012 in the first quarter",
+      "answer": 53.465,
+      "answer_raw": "53.465",
+      "program": "add(59.73, 45.20), add(#0, const_2), divide(#1, const_2)"
+    }
+  ]
+}

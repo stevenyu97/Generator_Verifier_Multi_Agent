@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "CDW/2014/page_93.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "related employer payroll tax costs ) .",
+      "the contributions of these amounts are due by march 15 of the calendar year following the year in which the company realizes the benefits of the deductions .",
+      "this arrangement has been accounted for as contingent consideration .",
+      "pre-2009 business combinations were accounted for under a former accounting standard which , among other aspects , precluded the recognition of certain contingent consideration as of the business combination date .",
+      "instead , under the former accounting standard , contingent consideration is accounted for as additional purchase price ( goodwill ) at the time the contingency is resolved .",
+      "as of december 31 , 2013 , the company accrued $ 20.9 million related to this arrangement within other current liabilities , as the company realized the tax benefit of the compensation deductions during the 2013 tax year .",
+      "the company made the related cash contribution during the first quarter of 2014 .",
+      "11 .",
+      "earnings per share the numerator for both basic and diluted earnings per share is net income .",
+      "the denominator for basic earnings per share is the weighted-average number of common shares outstanding during the period .",
+      "the 2013 denominator was impacted by the common shares issued during both the ipo and the underwriters' exercise in full of the overallotment option granted to them in connection with the ipo .",
+      "because such common shares were issued on july 2 , 2013 and july 31 , 2013 , respectively , they are only partially reflected in the 2013 denominator .",
+      "such shares are fully reflected in the 2014 denominator .",
+      "see note 9 for additional discussion of the ipo .",
+      "the dilutive effect of outstanding restricted stock , restricted stock units , stock options , coworker stock purchase plan units and mpk plan units is reflected in the denominator for diluted earnings per share using the treasury stock method .",
+      "the following is a reconciliation of basic shares to diluted shares: ."
+    ],
+    "post_text": [
+      "there was an insignificant amount of potential common shares excluded from diluted earnings per share for the years ended december 31 , 2014 , 2013 and 2012 , as their inclusion would have had an anti-dilutive effect .",
+      "12 .",
+      "deferred compensation plan on march 10 , 2010 , in connection with the company 2019s purchase of $ 28.5 million principal amount of its outstanding senior subordinated debt , the company established the restricted debt unit plan ( the 201crdu plan 201d ) , an unfunded nonqualified deferred compensation plan .",
+      "the total number of rdus that could be granted under the rdu plan was 28500 .",
+      "as of december 31 , 2014 , 28500 rdus were outstanding .",
+      "rdus vested daily on a pro rata basis over the three-year period from january 1 , 2012 ( or , if later , the date of hire or the date of a subsequent rdu grant ) through december 31 , 2014 .",
+      "all outstanding rdus were vested as of december 31 , 2014 .",
+      "participants have no rights to the underlying debt .",
+      "the total amount of compensation available to be paid under the rdu plan was initially to be based on two components , a principal component and an interest component .",
+      "the principal component credits the rdu plan with a notional amount equal to the $ 28.5 million face value of the senior subordinated notes ( the \"debt pool\" ) , together with certain redemption premium equivalents as noted below .",
+      "the interest component credited the rdu plan with amounts equal to the interest that would have been earned on the debt pool from march 10 , 2010 through maturity on october 12 , 2017 , except as discussed below .",
+      "interest amounts for 2010 and 2011 were deferred until 2012 , and thereafter , interest amounts were paid to participants semi-annually on the interest payment due dates .",
+      "the company used a portion of the ipo proceeds together with incremental borrowings to redeem $ 324.0 million of the total senior subordinated notes outstanding on august 1 , 2013 .",
+      "in connection with the ipo and the partial redemption of the senior subordinated notes , the company amended the rdu plan to increase the retentive value of the plan .",
+      "in accordance with the original terms of the rdu plan , the principal component of the rdus converted to a cash-denominated pool upon the redemption of the senior subordinated notes .",
+      "in addition , the company added $ 0.1 table of contents cdw corporation and subsidiaries notes to consolidated financial statements ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "years ended december 31 , 2014",
+        "years ended december 31 , 2013",
+        "years ended december 31 , 2012"
+      ],
+      [
+        "weighted-average shares - basic",
+        "170.6",
+        "156.6",
+        "145.1"
+      ],
+      [
+        "effect of dilutive securities",
+        "2.2",
+        "2.1",
+        "0.7"
+      ],
+      [
+        "weighted-average shares - diluted",
+        "172.8",
+        "158.7",
+        "145.8"
+      ]
+    ],
+    "questions": [
+      "what was the average , in millions , of weighted-average diluted shares from 2012-2014?"
+    ]
+  }
+}

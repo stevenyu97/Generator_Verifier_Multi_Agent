@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "IPG/2017/page_40.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis of financial condition and results of operations 2013 ( continued ) ( amounts in millions , except per share amounts ) the effect of foreign exchange rate changes on cash , cash equivalents and restricted cash included in the consolidated statements of cash flows resulted in an increase of $ 11.6 in 2016 , primarily a result of the brazilian real strengthening against the u.s .",
+      "dollar as of december 31 , 2016 compared to december 31 , 2015. ."
+    ],
+    "post_text": [
+      "liquidity outlook we expect our cash flow from operations and existing cash and cash equivalents to be sufficient to meet our anticipated operating requirements at a minimum for the next twelve months .",
+      "we also have a committed corporate credit facility , uncommitted lines of credit and a commercial paper program available to support our operating needs .",
+      "we continue to maintain a disciplined approach to managing liquidity , with flexibility over significant uses of cash , including our capital expenditures , cash used for new acquisitions , our common stock repurchase program and our common stock dividends .",
+      "from time to time , we evaluate market conditions and financing alternatives for opportunities to raise additional funds or otherwise improve our liquidity profile , enhance our financial flexibility and manage market risk .",
+      "our ability to access the capital markets depends on a number of factors , which include those specific to us , such as our credit ratings , and those related to the financial markets , such as the amount or terms of available credit .",
+      "there can be no guarantee that we would be able to access new sources of liquidity , or continue to access existing sources of liquidity , on commercially reasonable terms , or at all .",
+      "funding requirements our most significant funding requirements include our operations , non-cancelable operating lease obligations , capital expenditures , acquisitions , common stock dividends , taxes and debt service .",
+      "additionally , we may be required to make payments to minority shareholders in certain subsidiaries if they exercise their options to sell us their equity interests .",
+      "notable funding requirements include : 2022 debt service 2013 as of december 31 , 2017 , we had outstanding short-term borrowings of $ 84.9 from our uncommitted lines of credit used primarily to fund seasonal working capital needs .",
+      "the remainder of our debt is primarily long-term , with maturities scheduled through 2024 .",
+      "see the table below for the maturity schedule of our long-term debt .",
+      "2022 acquisitions 2013 we paid cash of $ 29.7 , net of cash acquired of $ 7.1 , for acquisitions completed in 2017 .",
+      "we also paid $ 0.9 in up-front payments and $ 100.8 in deferred payments for prior-year acquisitions as well as ownership increases in our consolidated subsidiaries .",
+      "in addition to potential cash expenditures for new acquisitions , we expect to pay approximately $ 42.0 in 2018 related to prior acquisitions .",
+      "we may also be required to pay approximately $ 33.0 in 2018 related to put options held by minority shareholders if exercised .",
+      "we will continue to evaluate strategic opportunities to grow and continue to strengthen our market position , particularly in our digital and marketing services offerings , and to expand our presence in high-growth and key strategic world markets .",
+      "2022 dividends 2013 during 2017 , we paid four quarterly cash dividends of $ 0.18 per share on our common stock , which corresponded to aggregate dividend payments of $ 280.3 .",
+      "on february 14 , 2018 , we announced that our board of directors ( the 201cboard 201d ) had declared a common stock cash dividend of $ 0.21 per share , payable on march 15 , 2018 to holders of record as of the close of business on march 1 , 2018 .",
+      "assuming we pay a quarterly dividend of $ 0.21 per share and there is no significant change in the number of outstanding shares as of december 31 , 2017 , we would expect to pay approximately $ 320.0 over the next twelve months. ."
+    ],
+    "table": [
+      [
+        "balance sheet data",
+        "december 31 , 2017",
+        "december 31 , 2016"
+      ],
+      [
+        "cash cash equivalents and marketable securities",
+        "$ 791.0",
+        "$ 1100.6"
+      ],
+      [
+        "short-term borrowings",
+        "$ 84.9",
+        "$ 85.7"
+      ],
+      [
+        "current portion of long-term debt",
+        "2.0",
+        "323.9"
+      ],
+      [
+        "long-term debt",
+        "1285.6",
+        "1280.7"
+      ],
+      [
+        "total debt",
+        "$ 1372.5",
+        "$ 1690.3"
+      ]
+    ],
+    "questions": [
+      "what is the outstanding number of shares as of december 31 , 2017?"
+    ]
+  }
+}

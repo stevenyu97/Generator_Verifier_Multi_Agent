@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of discretionary company contributions to total expensed amounts for savings plans in 2009?",
+      "answer": 0.10826,
+      "answer_raw": "0.10826",
+      "program": "divide(3.8, 35.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that times 100?",
+      "answer": 10.82621,
+      "answer_raw": "10.82621",
+      "program": "divide(3.8, 35.1), multiply(#0, const_100)"
+    }
+  ]
+}

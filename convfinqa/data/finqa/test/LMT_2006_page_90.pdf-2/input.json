@@ -1,0 +1,81 @@
+{
+  "input": {
+    "id": "LMT/2006/page_90.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the defined benefit pension plans 2019 trust and $ 130 million to our retiree medical plans which will reduce our cash funding requirements for 2007 and 2008 .",
+      "in 2007 , we expect to make no contributions to the defined benefit pension plans and expect to contribute $ 175 million to the retiree medical and life insurance plans , after giving consideration to the 2006 prepayments .",
+      "the following benefit payments , which reflect expected future service , as appropriate , are expected to be paid : ( in millions ) pension benefits benefits ."
+    ],
+    "post_text": [
+      "as noted previously , we also sponsor nonqualified defined benefit plans to provide benefits in excess of qualified plan limits .",
+      "the aggregate liabilities for these plans at december 31 , 2006 were $ 641 million .",
+      "the expense associated with these plans totaled $ 59 million in 2006 , $ 58 million in 2005 and $ 61 million in 2004 .",
+      "we also sponsor a small number of foreign benefit plans .",
+      "the liabilities and expenses associated with these plans are not material to our results of operations , financial position or cash flows .",
+      "note 13 2013 leases our total rental expense under operating leases was $ 310 million , $ 324 million and $ 318 million for 2006 , 2005 and 2004 , respectively .",
+      "future minimum lease commitments at december 31 , 2006 for all operating leases that have a remaining term of more than one year were $ 1.1 billion ( $ 288 million in 2007 , $ 254 million in 2008 , $ 211 million in 2009 , $ 153 million in 2010 , $ 118 million in 2011 and $ 121 million in later years ) .",
+      "certain major plant facilities and equipment are furnished by the u.s .",
+      "government under short-term or cancelable arrangements .",
+      "note 14 2013 legal proceedings , commitments and contingencies we are a party to or have property subject to litigation and other proceedings , including matters arising under provisions relating to the protection of the environment .",
+      "we believe the probability is remote that the outcome of these matters will have a material adverse effect on the corporation as a whole .",
+      "we cannot predict the outcome of legal proceedings with certainty .",
+      "these matters include the following items , all of which have been previously reported : on march 27 , 2006 , we received a subpoena issued by a grand jury in the united states district court for the northern district of ohio .",
+      "the subpoena requests documents related to our application for patents issued in the united states and the united kingdom relating to a missile detection and warning technology .",
+      "we are cooperating with the government 2019s investigation .",
+      "on february 6 , 2004 , we submitted a certified contract claim to the united states requesting contractual indemnity for remediation and litigation costs ( past and future ) related to our former facility in redlands , california .",
+      "we submitted the claim consistent with a claim sponsorship agreement with the boeing company ( boeing ) , executed in 2001 , in boeing 2019s role as the prime contractor on the short range attack missile ( sram ) program .",
+      "the contract for the sram program , which formed a significant portion of our work at the redlands facility , had special contractual indemnities from the u.s .",
+      "air force , as authorized by public law 85-804 .",
+      "on august 31 , 2004 , the united states denied the claim .",
+      "our appeal of that decision is pending with the armed services board of contract appeals .",
+      "on august 28 , 2003 , the department of justice ( the doj ) filed complaints in partial intervention in two lawsuits filed under the qui tam provisions of the civil false claims act in the united states district court for the western district of kentucky , united states ex rel .",
+      "natural resources defense council , et al v .",
+      "lockheed martin corporation , et al , and united states ex rel .",
+      "john d .",
+      "tillson v .",
+      "lockheed martin energy systems , inc. , et al .",
+      "the doj alleges that we committed violations of the resource conservation and recovery act at the paducah gaseous diffusion plant by not properly handling , storing ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "pensionbenefits",
+        "otherbenefits"
+      ],
+      [
+        "2007",
+        "$ 1440",
+        "$ 260"
+      ],
+      [
+        "2008",
+        "1490",
+        "260"
+      ],
+      [
+        "2009",
+        "1540",
+        "270"
+      ],
+      [
+        "2010",
+        "1600",
+        "270"
+      ],
+      [
+        "2011",
+        "1660",
+        "270"
+      ],
+      [
+        "years 2012 2013 2016",
+        "9530",
+        "1260"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in the rental expense under operating leases from 2004 to 2005"
+    ]
+  }
+}

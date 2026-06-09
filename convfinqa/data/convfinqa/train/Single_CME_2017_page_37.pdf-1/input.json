@@ -1,0 +1,101 @@
+{
+  "input": {
+    "id": "Single_CME/2017/page_37.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "item 1b .",
+      "unresolved staff comments not applicable .",
+      "item 2 .",
+      "properties our global headquarters are located in chicago , illinois , at 20 south wacker drive .",
+      "the following is a description of our key locations and facilities .",
+      "location primary use owned/leased lease expiration approximate size ( in square feet ) ( 1 ) 20 south wacker drive chicago , illinois global headquarters and office space leased 2032 ( 2 ) 512000 141 west jackson chicago , illinois trading floor and office space leased 2027 ( 3 ) 150000 333 s .",
+      "lasalle chicago , illinois trading floor and office space owned n/a 300000 550 west washington chicago , illinois office space leased 2023 250000 one north end new york , new york trading floor and office space leased 2028 ( 4 ) 240000 ."
+    ],
+    "post_text": [
+      "data center 3 chicagoland area business continuity and co-location leased 2031 ( 5 ) 83000 bagmane tech park bangalore , office space leased 2020 ( 6 ) 72000 ( 1 ) size represents the amount of space leased or owned by us unless otherwise noted .",
+      "( 2 ) the initial lease expires in 2032 with two consecutive options to extend the term for five years each .",
+      "( 3 ) the initial lease expires in 2027 and contains options to extend the term and expand the premises .",
+      "( 4 ) the initial lease expires in 2028 and contains options to extend the term and expand the premises .",
+      "in 2019 , the premises will be reduced to 225000 square feet .",
+      "( 5 ) in march 2016 , the company sold its datacenter in the chicago area for $ 130.0 million .",
+      "at the time of the sale , the company leased back a portion of the property .",
+      "( 6 ) the initial lease expires in 2020 and contains an option to extend the term as well as an option to terminate early .",
+      "item 3 .",
+      "legal proceedings see 201clegal and regulatory matters 201d in note 12 .",
+      "contingencies to the consolidated financial statements beginning on page 87 for cme group 2019s legal proceedings disclosure which is incorporated herein by reference .",
+      "item 4 .",
+      "mine safety disclosures not applicable. ."
+    ],
+    "table": [
+      [
+        "location",
+        "primary use",
+        "owned/leased",
+        "lease expiration",
+        "approximate size ( in square feet ) ( 1 )"
+      ],
+      [
+        "20 south wacker drive chicago illinois",
+        "global headquarters and office space",
+        "leased",
+        "2032 ( 2 )",
+        "512000"
+      ],
+      [
+        "141 west jacksonchicago illinois",
+        "trading floor and office space",
+        "leased",
+        "2027 ( 3 )",
+        "150000"
+      ],
+      [
+        "333 s . lasallechicago illinois",
+        "trading floor and office space",
+        "owned",
+        "n/a",
+        "300000"
+      ],
+      [
+        "550 west washingtonchicago illinois",
+        "office space",
+        "leased",
+        "2023",
+        "250000"
+      ],
+      [
+        "one north endnew york new york",
+        "trading floor and office space",
+        "leased",
+        "2028 ( 4 )",
+        "240000"
+      ],
+      [
+        "one new change london",
+        "office space",
+        "leased",
+        "2026",
+        "58000"
+      ],
+      [
+        "data center 3chicagoland area",
+        "business continuity and co-location",
+        "leased",
+        "2031 ( 5 )",
+        "83000"
+      ],
+      [
+        "bagmane tech park bangalore india",
+        "office space",
+        "leased",
+        "2020 ( 6 )",
+        "72000"
+      ]
+    ],
+    "questions": [
+      "what square footage will the one north end ny, ny premises be reduced to in 2019?",
+      "and what is the starting square footage?",
+      "so by how much will the square footage decrease?",
+      "so what is the percentage decrease?"
+    ]
+  }
+}

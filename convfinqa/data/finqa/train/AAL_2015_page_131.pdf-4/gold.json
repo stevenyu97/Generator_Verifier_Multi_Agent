@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total maturities of long-term debt and capital lease obligations are payable after 2020?",
+      "answer": 0.37699,
+      "answer_raw": "0.37699",
+      "program": "divide(7844, 20807)"
+    }
+  ]
+}

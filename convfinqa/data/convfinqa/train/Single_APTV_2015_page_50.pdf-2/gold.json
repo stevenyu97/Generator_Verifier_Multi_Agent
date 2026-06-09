@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of an $100 investment in delphi automotive plc in 2015?",
+      "answer": 418.67,
+      "answer_raw": "418.67",
+      "program": "418.67"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the net increase?",
+      "answer": 318.67,
+      "answer_raw": "318.67",
+      "program": "subtract(418.67, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net increase in a $100 investment in automotive supplier peer group from 2011 to 2015?",
+      "answer": 71.91,
+      "answer_raw": "71.91",
+      "program": "subtract(418.67, const_100), subtract(171.91, const_100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the rate of return for delphi automotive plc?",
+      "answer": 3.1867,
+      "answer_raw": "3.1867",
+      "program": "subtract(418.67, const_100), subtract(171.91, const_100), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what about for automotive supplier peer group?",
+      "answer": 0.7191,
+      "answer_raw": "0.7191",
+      "program": "subtract(418.67, const_100), subtract(171.91, const_100), divide(#0, const_100), divide(#1, const_100)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the difference in these rates?",
+      "answer": 2.4676,
+      "answer_raw": "2.4676",
+      "program": "subtract(418.67, const_100), subtract(171.91, const_100), divide(#0, const_100), divide(#1, const_100), subtract(#2, #3)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the $ 1.6 billion stock repurchase program , what percentage was the structured stock repurchase agreement with a large financial institution?",
+      "answer": 0.05,
+      "answer_raw": "0.05",
+      "program": "multiply(1.6, const_1000), divide(80.0, #0)"
+    }
+  ]
+}

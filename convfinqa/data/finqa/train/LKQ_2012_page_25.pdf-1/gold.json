@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage of cumulative return for lkq corporation for the five years ended 12/31/2012?",
+      "answer": 1.01,
+      "answer_raw": "1.01",
+      "program": "subtract(201, 100), divide(#0, 100)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in total wholesale credit-related assets from 2012 to 2013?",
+      "answer": 0.00547,
+      "answer_raw": "0.00547",
+      "program": "subtract(414067, 411814), divide(#0, 411814)"
+    }
+  ]
+}

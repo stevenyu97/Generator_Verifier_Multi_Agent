@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage sales change from 2005 to 2006?",
+      "answer": 0.38648,
+      "answer_raw": "0.38648",
+      "program": "subtract(19315, 13931), divide(#0, 13931)"
+    }
+  ]
+}

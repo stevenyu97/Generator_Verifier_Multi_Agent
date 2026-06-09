@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the total contractual obligations for the liabilities recorded on the balance sheet to the commitments not recorded on the balance sheet",
+      "answer": 1.08781,
+      "answer_raw": "1.08781",
+      "program": "divide(60578, 55688)"
+    }
+  ]
+}

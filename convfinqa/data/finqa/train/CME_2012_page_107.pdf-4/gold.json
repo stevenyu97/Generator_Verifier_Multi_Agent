@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the total value of outstanding balance from 2011 to 2012?",
+      "answer": 0.26539,
+      "answer_raw": "0.26539",
+      "program": "multiply(1432610, 57), multiply(1913527, 54), subtract(#1, #0), divide(#2, #0)"
+    }
+  ]
+}

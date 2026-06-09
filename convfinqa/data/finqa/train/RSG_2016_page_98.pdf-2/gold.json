@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the allowance for doubtful accounts in 2016",
+      "answer": -0.05782,
+      "answer_raw": "-0.05782",
+      "program": "subtract(44.0, 46.7), divide(#0, 46.7)"
+    }
+  ]
+}

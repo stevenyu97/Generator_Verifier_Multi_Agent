@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total paid to alliance from 2008-2010 , in millions?",
+      "answer": 44.2,
+      "answer_raw": "44.2",
+      "program": "add(14.2, 14.9), add(#0, 15.1)"
+    }
+  ]
+}

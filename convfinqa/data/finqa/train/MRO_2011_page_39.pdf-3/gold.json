@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the completed debottlenecking work that increased crude oil production capacity at the alvheim fpso in norway , what was the increase in gross bbld from the previous capacity?",
+      "answer": 8000.0,
+      "answer_raw": "8000.0",
+      "program": "subtract(150000, 142000)"
+    }
+  ]
+}

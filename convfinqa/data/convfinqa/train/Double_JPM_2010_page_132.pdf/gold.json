@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the business banking loans in 2010?",
+      "answer": 16.8,
+      "answer_raw": "16.8",
+      "program": "16.8"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2009?",
+      "answer": 17.0,
+      "answer_raw": "17.0",
+      "program": "17.0"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the ratio of 2010 to 2009?",
+      "answer": 0.98824,
+      "answer_raw": "0.98824",
+      "program": "divide(16.8, 17.0)"
+    }
+  ]
+}

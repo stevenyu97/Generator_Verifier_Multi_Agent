@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of apple inc in 2010?",
+      "answer": 369.0,
+      "answer_raw": "369.0",
+      "program": "369"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the 2006 value?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the net change in value?",
+      "answer": 269.0,
+      "answer_raw": "269.0",
+      "program": "subtract(369, 100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the percent change?",
+      "answer": 2.69,
+      "answer_raw": "2.69",
+      "program": "subtract(369, 100), divide(#0, 100)"
+    }
+  ]
+}

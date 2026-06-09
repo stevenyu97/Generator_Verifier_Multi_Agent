@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total fair value impact of the interest rate instruments and the foreign currency ones, combined, in may 2018?",
+      "answer": 54.5,
+      "answer_raw": "54.5",
+      "program": "add(33.2, 21.3)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "including the commodity instruments, what then becomes that total?",
+      "answer": 56.4,
+      "answer_raw": "56.4",
+      "program": "add(33.2, 21.3), add(#0, 1.9)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and including, on top, the equity instruments, what then becomes this total fair value impact?",
+      "answer": 58.4,
+      "answer_raw": "58.4",
+      "program": "add(33.2, 21.3), add(#0, 1.9), add(#1, 2.0)"
+    }
+  ]
+}

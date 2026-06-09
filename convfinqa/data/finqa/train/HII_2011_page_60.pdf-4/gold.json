@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the 25 basis point decrease in discount rate to the expected return on assets expense in 2012",
+      "answer": 2.25,
+      "answer_raw": "2.25",
+      "program": "divide(18, const_8)"
+    }
+  ]
+}

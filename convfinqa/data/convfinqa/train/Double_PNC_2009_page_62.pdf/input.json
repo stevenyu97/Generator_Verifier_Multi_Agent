@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "Double_PNC/2009/page_62.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "blackrock information related to our equity investment in blackrock follows: ."
+    ],
+    "post_text": [
+      "carrying value of pnc 2019s investment in blackrock ( in billions ) ( b ) $ 5.8 $ 4.2 ( a ) includes pnc 2019s share of blackrock 2019s reported gaap earnings and additional income taxes on those earnings incurred by pnc .",
+      "( b ) at december 31 .",
+      "blackrock/barclays global investors transaction on december 1 , 2009 , blackrock acquired bgi from barclays bank plc in exchange for approximately $ 6.65 billion in cash and 37566771 shares of blackrock common and participating preferred stock .",
+      "in connection with the bgi transaction , blackrock entered into amendments to stockholder agreements with pnc and its other major shareholder .",
+      "these amendments , which changed certain shareholder rights , including composition of the blackrock board of directors and share transfer restrictions , became effective upon closing of the bgi transaction .",
+      "also in connection with the bgi transaction , blackrock entered into a stock purchase agreement with pnc in which we purchased 3556188 shares of blackrock 2019s series d preferred stock at a price of $ 140.60 per share , or $ 500 million , to partially finance the transaction .",
+      "on january 31 , 2010 , the series d preferred stock was converted to series b preferred stock .",
+      "upon closing of the bgi transaction , the carrying value of our investment in blackrock increased significantly , reflecting our portion of the increase in blackrock 2019s equity resulting from the value of blackrock shares issued in connection with their acquisition of bgi .",
+      "pnc recognized this increase in value as a $ 1.076 billion pretax gain in the fourth quarter of 2009 .",
+      "at december 31 , 2009 , our percentage ownership of blackrock common stock was approximately 35% ( 35 % ) .",
+      "blackrock ltip programs and exchange agreements pnc 2019s noninterest income included pretax gains of $ 98 million in 2009 and $ 243 million in 2008 related to our blackrock ltip shares obligation .",
+      "these gains represented the mark-to-market adjustment related to our remaining blackrock ltip common shares obligation and resulted from the decrease in the market value of blackrock common shares in those periods .",
+      "as previously reported , pnc entered into an exchange agreement with blackrock on december 26 , 2008 .",
+      "the transactions that resulted from this agreement restructured pnc 2019s ownership of blackrock equity without altering , to any meaningful extent , pnc 2019s economic interest in blackrock .",
+      "pnc continues to be subject to the limitations on its voting rights in its existing agreements with blackrock .",
+      "also on december 26 , 2008 , blackrock entered into an exchange agreement with merrill lynch in anticipation of the consummation of the merger of bank of america corporation and merrill lynch that occurred on january 1 , 2009 .",
+      "the pnc and merrill lynch exchange agreements restructured pnc 2019s and merrill lynch 2019s respective ownership of blackrock common and preferred equity .",
+      "the exchange contemplated by these agreements was completed on february 27 , 2009 .",
+      "on that date , pnc 2019s obligation to deliver blackrock common shares was replaced with an obligation to deliver shares of blackrock 2019s new series c preferred stock .",
+      "pnc acquired 2.9 million shares of series c preferred stock from blackrock in exchange for common shares on that same date .",
+      "pnc accounts for these preferred shares at fair value , which offsets the impact of marking-to-market the obligation to deliver these shares to blackrock as we aligned the fair value marks on this asset and liability .",
+      "the fair value of the blackrock series c preferred stock is included on our consolidated balance sheet in other assets .",
+      "additional information regarding the valuation of the blackrock series c preferred stock is included in note 8 fair value in the notes to consolidated financial statements included in item 8 of this report .",
+      "pnc accounts for its remaining investment in blackrock under the equity method of accounting , with its share of blackrock 2019s earnings reduced primarily due to the exchange of blackrock common stock for blackrock series c preferred stock .",
+      "the series c preferred stock is not taken into consideration in determining pnc 2019s share of blackrock earnings under the equity method .",
+      "pnc 2019s percentage ownership of blackrock common stock increased as a result of the substantial exchange of merrill lynch 2019s blackrock common stock for blackrock preferred stock .",
+      "as a result of the blackrock preferred stock held by merrill lynch and the new blackrock preferred stock issued to merrill lynch and pnc under the exchange agreements , pnc 2019s share of blackrock common stock is higher than its overall share of blackrock 2019s equity and earnings .",
+      "the transactions related to the exchange agreements do not affect our right to receive dividends declared by blackrock. ."
+    ],
+    "table": [
+      [
+        "",
+        "2009",
+        "2008"
+      ],
+      [
+        "business segment earnings ( in millions ) ( a )",
+        "$ 207",
+        "$ 207"
+      ],
+      [
+        "pnc 2019s share of blackrock earnings ( b )",
+        "23% ( 23 % )",
+        "33% ( 33 % )"
+      ],
+      [
+        "carrying value of pnc 2019s investment in blackrock ( in billions ) ( b )",
+        "$ 5.8",
+        "$ 4.2"
+      ]
+    ],
+    "questions": [
+      "what is the carrying value of pnc 2019s investment in blackrock in 2009?",
+      "what about in 2008?",
+      "what is the sum for two years?"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "input": {
+    "id": "STT/2009/page_83.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "we currently maintain a corporate commercial paper program , unrelated to the conduits 2019 asset-backed commercial paper program , under which we can issue up to $ 3 billion with original maturities of up to 270 days from the date of issue .",
+      "at december 31 , 2009 , we had $ 2.78 billion of commercial paper outstanding , compared to $ 2.59 billion at december 31 , 2008 .",
+      "additional information about our corporate commercial paper program is provided in note 8 of the notes to consolidated financial statements included under item 8 .",
+      "in connection with our participation in the fdic 2019s temporary liquidity guarantee program , or tlgp , in which we elected to participate in december 2008 , the parent company was eligible to issue up to approximately $ 1.67 billion of unsecured senior debt during 2009 , backed by the full faith and credit of the united states .",
+      "as of december 31 , 2009 , the parent company 2019s outstanding unsecured senior debt issued under the tlgp was $ 1.5 billion .",
+      "additional information with respect to this outstanding debt is provided in note 9 of the notes to consolidated financial statements included under item 8 .",
+      "the guarantee of this outstanding debt under the tlgp expires on april 30 , 2012 , the maturity date of the debt .",
+      "state street bank currently has board authority to issue bank notes up to an aggregate of $ 5 billion , and up to $ 1 billion of subordinated bank notes .",
+      "in connection with state street bank 2019s participation in the tlgp , in which state street bank elected to participate in december 2008 , state street bank was eligible to issue up to approximately $ 2.48 billion of unsecured senior notes during 2009 , backed by the full faith and credit of the united states .",
+      "as of december 31 , 2009 , state street bank 2019s outstanding unsecured senior notes issued under the tlgp , and pursuant to the aforementioned board authority , totaled $ 2.45 billion .",
+      "additional information with respect to these outstanding bank notes is provided in note 9 of the notes to consolidated financial statements included under item 8 .",
+      "the guarantee of state street bank 2019s outstanding debt under the tlgp expires on the maturity date of each respective debt issuance , as follows 2014$ 1 billion on march 15 , 2011 , and $ 1.45 billion on september 15 , 2011 .",
+      "state street bank currently maintains a line of credit with a financial institution of cad $ 800 million , or approximately $ 761 million as of december 31 , 2009 , to support its canadian securities processing operations .",
+      "the line of credit has no stated termination date and is cancelable by either party with prior notice .",
+      "as of december 31 , 2009 , no balance was outstanding on this line of credit .",
+      "contractual cash obligations ."
+    ],
+    "post_text": [
+      "( 1 ) long-term debt excludes capital lease obligations ( reported as a separate line item ) and the effect of interest- rate swaps .",
+      "interest payments were calculated at the stated rate with the exception of floating-rate debt , for which payments were calculated using the indexed rate in effect on december 31 , 2009 .",
+      "the obligations presented in the table above are recorded in our consolidated statement of condition at december 31 , 2009 , except for interest on long-term debt .",
+      "the table does not include obligations which will be settled in cash , primarily in less than one year , such as deposits , federal funds purchased , securities sold under repurchase agreements and other short-term borrowings .",
+      "additional information about deposits , federal funds purchased , securities sold under repurchase agreements and other short-term borrowings is provided in notes 7 and 8 of the notes to consolidated financial statements included under item 8 .",
+      "the table does not include obligations related to derivative instruments , because the amounts included in our consolidated statement of condition at december 31 , 2009 related to derivatives do not represent the amounts that may ultimately be paid under the contracts upon settlement .",
+      "additional information about derivative contracts is provided in note 16 of the notes to consolidated financial statements included under item 8 .",
+      "we have obligations under pension and other post-retirement benefit plans , more fully described in note 18 of the notes to consolidated financial statements included under item 8 , which are not included in the above table. ."
+    ],
+    "table": [
+      [
+        "as of december 31 2009 ( in millions )",
+        "payments due by period total",
+        "payments due by period less than 1 year",
+        "payments due by period 1-3 years",
+        "payments due by period 4-5 years",
+        "payments due by period over 5 years"
+      ],
+      [
+        "long-term debt ( 1 )",
+        "$ 10981",
+        "$ 529",
+        "$ 4561",
+        "$ 797",
+        "$ 5094"
+      ],
+      [
+        "operating leases",
+        "1033",
+        "229",
+        "342",
+        "240",
+        "222"
+      ],
+      [
+        "capital lease obligations",
+        "1151",
+        "74",
+        "147",
+        "145",
+        "785"
+      ],
+      [
+        "total contractual cash obligations",
+        "$ 13165",
+        "$ 832",
+        "$ 5050",
+        "$ 1182",
+        "$ 6101"
+      ]
+    ],
+    "questions": [
+      "what percent of the total payments are due to be paid off within the first year?"
+    ]
+  }
+}

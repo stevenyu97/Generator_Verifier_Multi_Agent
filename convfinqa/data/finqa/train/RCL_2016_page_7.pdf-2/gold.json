@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage increase in asian cruise guests occurred between 2012 and 2016?",
+      "answer": 146.67571,
+      "answer_raw": "146.67571",
+      "program": "subtract(3636, 1474), divide(#0, 1474), multiply(#1, const_100)"
+    }
+  ]
+}

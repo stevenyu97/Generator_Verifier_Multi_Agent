@@ -1,0 +1,97 @@
+{
+  "input": {
+    "id": "Single_LLY/2008/page_39.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "on the underlying exposure .",
+      "for derivative contracts that are designated and qualify as cash fl ow hedges , the effective portion of gains and losses on these contracts is reported as a component of other comprehensive income and reclassifi ed into earnings in the same period the hedged transaction affects earnings .",
+      "hedge ineffectiveness is immediately recognized in earnings .",
+      "derivative contracts that are not designated as hedging instruments are recorded at fair value with the gain or loss recognized in current earnings during the period of change .",
+      "we may enter into foreign currency forward and option contracts to reduce the effect of fl uctuating currency exchange rates ( principally the euro , the british pound , and the japanese yen ) .",
+      "foreign currency derivatives used for hedging are put in place using the same or like currencies and duration as the underlying exposures .",
+      "forward contracts are principally used to manage exposures arising from subsidiary trade and loan payables and receivables denominated in foreign currencies .",
+      "these contracts are recorded at fair value with the gain or loss recognized in other 2014net .",
+      "the purchased option contracts are used to hedge anticipated foreign currency transactions , primarily intercompany inventory activities expected to occur within the next year .",
+      "these contracts are designated as cash fl ow hedges of those future transactions and the impact on earnings is included in cost of sales .",
+      "we may enter into foreign currency forward contracts and currency swaps as fair value hedges of fi rm commitments .",
+      "forward and option contracts generally have maturities not exceeding 12 months .",
+      "in the normal course of business , our operations are exposed to fl uctuations in interest rates .",
+      "these fl uctuations can vary the costs of fi nancing , investing , and operating .",
+      "we address a portion of these risks through a controlled program of risk management that includes the use of derivative fi nancial instruments .",
+      "the objective of controlling these risks is to limit the impact of fl uctuations in interest rates on earnings .",
+      "our primary interest rate risk exposure results from changes in short-term u.s .",
+      "dollar interest rates .",
+      "in an effort to manage interest rate exposures , we strive to achieve an acceptable balance between fi xed and fl oating rate debt and investment positions and may enter into interest rate swaps or collars to help maintain that balance .",
+      "interest rate swaps or collars that convert our fi xed- rate debt or investments to a fl oating rate are designated as fair value hedges of the underlying instruments .",
+      "interest rate swaps or collars that convert fl oating rate debt or investments to a fi xed rate are designated as cash fl ow hedg- es .",
+      "interest expense on the debt is adjusted to include the payments made or received under the swap agreements .",
+      "goodwill and other intangibles : goodwill is not amortized .",
+      "all other intangibles arising from acquisitions and research alliances have fi nite lives and are amortized over their estimated useful lives , ranging from 5 to 20 years , using the straight-line method .",
+      "the weighted-average amortization period for developed product technology is approximately 12 years .",
+      "amortization expense for 2008 , 2007 , and 2006 was $ 193.4 million , $ 172.8 million , and $ 7.6 million before tax , respectively .",
+      "the estimated amortization expense for each of the fi ve succeeding years approximates $ 280 million before tax , per year .",
+      "substantially all of the amortization expense is included in cost of sales .",
+      "see note 3 for further discussion of goodwill and other intangibles acquired in 2008 and 2007 .",
+      "goodwill and other intangible assets at december 31 were as follows: ."
+    ],
+    "post_text": [
+      "goodwill and net other intangibles are reviewed to assess recoverability at least annually and when certain impairment indicators are present .",
+      "no signifi cant impairments occurred with respect to the carrying value of our goodwill or other intangible assets in 2008 , 2007 , or 2006 .",
+      "property and equipment : property and equipment is stated on the basis of cost .",
+      "provisions for depreciation of buildings and equipment are computed generally by the straight-line method at rates based on their estimated useful lives ( 12 to 50 years for buildings and 3 to 18 years for equipment ) .",
+      "we review the carrying value of long-lived assets for potential impairment on a periodic basis and whenever events or changes in circumstances indicate the ."
+    ],
+    "table": [
+      [
+        "",
+        "2008",
+        "2007"
+      ],
+      [
+        "goodwill",
+        "$ 1167.5",
+        "$ 745.7"
+      ],
+      [
+        "developed product technology 2014 gross",
+        "3035.4",
+        "1767.5"
+      ],
+      [
+        "less accumulated amortization",
+        "-346.6 ( 346.6 )",
+        "-162.6 ( 162.6 )"
+      ],
+      [
+        "developed product technology 2014 net",
+        "2688.8",
+        "1604.9"
+      ],
+      [
+        "other intangibles 2014 gross",
+        "243.2",
+        "142.8"
+      ],
+      [
+        "less accumulated amortization",
+        "-45.4 ( 45.4 )",
+        "-38.0 ( 38.0 )"
+      ],
+      [
+        "other intangibles 2014 net",
+        "197.8",
+        "104.8"
+      ],
+      [
+        "total intangibles 2014 net",
+        "$ 4054.1",
+        "$ 2455.4"
+      ]
+    ],
+    "questions": [
+      "what was the difference in amortization expense between 2007 and 2008?",
+      "and the value for 2007 specifically?",
+      "so what was the growth rate over these two years?"
+    ]
+  }
+}

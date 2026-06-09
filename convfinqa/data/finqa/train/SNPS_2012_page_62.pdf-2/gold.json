@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total purchase allocation was ?",
+      "answer": 0.33495,
+      "answer_raw": "0.33495",
+      "program": "divide(184300, 550234)"
+    }
+  ]
+}

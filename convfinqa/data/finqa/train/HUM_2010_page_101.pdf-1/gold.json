@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of total assets acquired to total liabilities assumed?",
+      "answer": 4.83378,
+      "answer_raw": "4.83378",
+      "program": "divide(1014621, 209902)"
+    }
+  ]
+}

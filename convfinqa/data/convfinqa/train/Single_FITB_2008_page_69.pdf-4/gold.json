@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in capital expenditures from 2007 to 2008, in millions?",
+      "answer": -26.0,
+      "answer_raw": "-26.0",
+      "program": "subtract(68, 94)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total of capital expenditures in 2007, also in millions?",
+      "answer": 94.0,
+      "answer_raw": "94.0",
+      "program": "94"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2007 total, in percentage?",
+      "answer": -0.2766,
+      "answer_raw": "-0.2766",
+      "program": "subtract(68, 94), divide(#0, 94)"
+    }
+  ]
+}

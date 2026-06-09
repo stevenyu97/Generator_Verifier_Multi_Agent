@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in held-to-maturity securities at cost and at fair value as of january 30 , 2009?",
+      "answer": -0.07962,
+      "answer_raw": "-0.07962",
+      "program": "subtract(28.9, 31.4), divide(#0, 31.4)"
+    }
+  ]
+}

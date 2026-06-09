@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in percentage cumulative total shareholder return on masco common stock versus the s&p 500 index for the five year period ended 2010?",
+      "answer": -0.6038,
+      "answer_raw": "-0.6038",
+      "program": "subtract(51.51, 100), divide(#0, 100), subtract(111.89, 100), divide(#2, 100), subtract(#1, #3)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "input": {
+    "id": "HOLX/2005/page_27.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "leased real property in september 2002 , we completed a sale/leaseback transaction for our 200000 square foot headquarters and manufacturing facility located in bedford , massachusetts and our 62500 square foot lorad manufacturing facility in danbury , connecticut .",
+      "the lease for these facilities , including the associated land , has a term of 20 years , with four-five year renewal options .",
+      "we sublease approximately 10000 square feet of the bedford facility to a subtenant , cmp media , under a lease which expires in may 2006 .",
+      "we also sublease approximately 11000 square feet of the bedford facility to a subtenant , genesys conferencing , under a lease which expires in february we lease a 60000 square feet of office and manufacturing space in danbury , connecticut near our lorad manufacturing facility .",
+      "this lease expires in december 2012 .",
+      "we also lease a sales and service office in belgium .",
+      "item 3 .",
+      "legal proceedings .",
+      "in march 2005 , we were served with a complaint filed on november 12 , 2004 by oleg sokolov with the united states district court for the district of connecticut alleging that our htc 2122 grid infringes u.s .",
+      "patent number 5970118 .",
+      "the plaintiff is seeking to preliminarily and permanently enjoin us from infringing the patent , as well as damages resulting from the alleged infringement , treble damages and reasonable attorney fees , and such other and further relief as may be available .",
+      "on april 25 , 2005 , we filed an answer and counterclaims in response to the complaint in which we denied the plaintiff 2019s allegations and , among other things , sought declaratory relief with respect to the patent claims and damages , as well as other relief .",
+      "on october 28 , 1998 , the plaintiff had previously sued lorad , asserting , among other things , that lorad had misappropriated the plaintiff 2019s trade secrets relating to the htc grid .",
+      "this previous case was dismissed on august 28 , 2000 .",
+      "the dismissal was affirmed by the appellate court of the state of connecticut , and the united states supreme court refused to grant certiorari .",
+      "we do not believe that we infringe any valid or enforceable patents of the plaintiff .",
+      "however , while we intend to vigorously defend our interests , ongoing litigation can be costly and time consuming , and we cannot guarantee that we will prevail .",
+      "item 4 .",
+      "submission of matters to a vote of security holders .",
+      "at a special meeting of stockholders held november 15 , 2005 , our stockholders approved a proposal to amend our certificate of incorporation to increase the number of shares of common stock the company has authority to issue from 30 million to 90 million .",
+      "the voting results for the proposal , not adjusted for the effect of the stock split , were as follows: ."
+    ],
+    "post_text": [
+      "as a result of the amendment , the previously announced two-for-one stock split to be effected as a stock dividend , was paid on november 30 , 2005 to stockholders of record on november 16 , 2005. ."
+    ],
+    "table": [
+      [
+        "for",
+        "against",
+        "abstained",
+        "broker non-votes"
+      ],
+      [
+        "17695228",
+        "963202",
+        "155213",
+        "0"
+      ]
+    ],
+    "questions": [
+      "what portion of the votes support the proposal?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was total stock-based performance unit awards expense in 2018 , 2017 , and 2016 , in millions?",
+      "answer": 27.0,
+      "answer_raw": "27.0",
+      "program": "add(13, const_8), add(#0, const_6)"
+    }
+  ]
+}

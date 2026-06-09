@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "PKG/2001/page_86.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "the containerboard group ( a division of tenneco packaging inc. ) notes to combined financial statements ( continued ) april 11 , 1999 14 .",
+      "leases ( continued ) to the sale transaction on april 12 , 1999 .",
+      "therefore , the remaining outstanding aggregate minimum rental commitments under noncancelable operating leases are as follows : ( in thousands ) ."
+    ],
+    "post_text": [
+      "15 .",
+      "sale of assets in the second quarter of 1996 , packaging entered into an agreement to form a joint venture with caraustar industries whereby packaging sold its two recycled paperboard mills and a fiber recycling operation and brokerage business to the joint venture in return for cash and a 20% ( 20 % ) equity interest in the joint venture .",
+      "proceeds from the sale were approximately $ 115 million and the group recognized a $ 50 million pretax gain ( $ 30 million after taxes ) in the second quarter of 1996 .",
+      "in june , 1998 , packaging sold its remaining 20% ( 20 % ) equity interest in the joint venture to caraustar industries for cash and a note of $ 26000000 .",
+      "the group recognized a $ 15 million pretax gain on this transaction .",
+      "at april 11 , 1999 , the balance of the note with accrued interest is $ 27122000 .",
+      "the note was paid in june , 1999 .",
+      "16 .",
+      "subsequent events on august 25 , 1999 , pca and packaging agreed that the acquisition consideration should be reduced as a result of a postclosing price adjustment by an amount equal to $ 20 million plus interest through the date of payment by packaging .",
+      "the group recorded $ 11.9 million of this amount as part of the impairment charge on the accompanying financial statements , representing the amount that was previously estimated by packaging .",
+      "pca intends to record the remaining amount in september , 1999 .",
+      "in august , 1999 , pca signed purchase and sales agreements with various buyers to sell approximately 405000 acres of timberland .",
+      "pca has completed the sale of approximately 260000 of these acres and expects to complete the sale of the remaining acres by mid-november , 1999. ."
+    ],
+    "table": [
+      [
+        "remainder of 1999",
+        "$ 7606"
+      ],
+      [
+        "2000",
+        "7583"
+      ],
+      [
+        "2001",
+        "4891"
+      ],
+      [
+        "2002",
+        "3054"
+      ],
+      [
+        "2003",
+        "1415"
+      ],
+      [
+        "thereafter",
+        "1178"
+      ],
+      [
+        "total",
+        "$ 25727"
+      ]
+    ],
+    "questions": [
+      "what percentage of outstanding aggregate minimum rental commitments under noncancelable operating leases are due in 2001?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the redeemable non controlling interests balance at december 31 2009 from 2008",
+      "answer": 0.06252,
+      "answer_raw": "0.06252",
+      "program": "subtract(1251628, 1177978), divide(#0, 1177978)"
+    }
+  ]
+}

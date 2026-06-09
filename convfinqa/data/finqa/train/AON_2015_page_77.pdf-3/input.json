@@ -1,0 +1,97 @@
+{
+  "input": {
+    "id": "AON/2015/page_77.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "uncertain tax positions the following is a reconciliation of the company's beginning and ending amount of uncertain tax positions ( in millions ) : ."
+    ],
+    "post_text": [
+      "the company's liability for uncertain tax positions as of december 31 , 2015 , 2014 , and 2013 , includes $ 180 million , $ 154 million , and $ 141 million , respectively , related to amounts that would impact the effective tax rate if recognized .",
+      "it is possible that the amount of unrecognized tax benefits may change in the next twelve months ; however , we do not expect the change to have a significant impact on our consolidated statements of income or consolidated balance sheets .",
+      "these changes may be the result of settlements of ongoing audits .",
+      "at this time , an estimate of the range of the reasonably possible outcomes within the twelve months cannot be made .",
+      "the company recognizes interest and penalties related to uncertain tax positions in its provision for income taxes .",
+      "the company accrued potential interest and penalties of $ 2 million , $ 4 million , and $ 2 million in 2015 , 2014 , and 2013 , respectively .",
+      "the company recorded a liability for interest and penalties of $ 33 million , $ 31 million , and $ 27 million as of december 31 , 2015 , 2014 , and 2013 , respectively .",
+      "the company and its subsidiaries file income tax returns in their respective jurisdictions .",
+      "the company has substantially concluded all u.s .",
+      "federal income tax matters for years through 2007 .",
+      "material u.s .",
+      "state and local income tax jurisdiction examinations have been concluded for years through 2005 .",
+      "the company has concluded income tax examinations in its primary non-u.s .",
+      "jurisdictions through 2005 .",
+      "9 .",
+      "shareholders' equity distributable reserves as a u.k .",
+      "incorporated company , the company is required under u.k .",
+      "law to have available \"distributable reserves\" to make share repurchases or pay dividends to shareholders .",
+      "distributable reserves may be created through the earnings of the u.k .",
+      "parent company and , amongst other methods , through a reduction in share capital approved by the english companies court .",
+      "distributable reserves are not linked to a u.s .",
+      "gaap reported amount ( e.g. , retained earnings ) .",
+      "as of december 31 , 2015 and 2014 , the company had distributable reserves in excess of $ 2.1 billion and $ 4.0 billion , respectively .",
+      "ordinary shares in april 2012 , the company's board of directors authorized a share repurchase program under which up to $ 5.0 billion of class a ordinary shares may be repurchased ( \"2012 share repurchase program\" ) .",
+      "in november 2014 , the company's board of directors authorized a new $ 5.0 billion share repurchase program in addition to the existing program ( \"2014 share repurchase program\" and , together , the \"repurchase programs\" ) .",
+      "under each program , shares may be repurchased through the open market or in privately negotiated transactions , based on prevailing market conditions , funded from available capital .",
+      "during 2015 , the company repurchased 16.0 million shares at an average price per share of $ 97.04 for a total cost of $ 1.6 billion under the repurchase programs .",
+      "during 2014 , the company repurchased 25.8 million shares at an average price per share of $ 87.18 for a total cost of $ 2.3 billion under the 2012 share repurchase plan .",
+      "in august 2015 , the $ 5 billion of class a ordinary shares authorized under the 2012 share repurchase program was exhausted .",
+      "at december 31 , 2015 , the remaining authorized amount for share repurchase under the 2014 share repurchase program is $ 4.1 billion .",
+      "under the repurchase programs , the company repurchased a total of 78.1 million shares for an aggregate cost of $ 5.9 billion. ."
+    ],
+    "table": [
+      [
+        "",
+        "2015",
+        "2014"
+      ],
+      [
+        "balance at january 1",
+        "$ 191",
+        "$ 164"
+      ],
+      [
+        "additions based on tax positions related to the current year",
+        "31",
+        "31"
+      ],
+      [
+        "additions for tax positions of prior years",
+        "53",
+        "10"
+      ],
+      [
+        "reductions for tax positions of prior years",
+        "-18 ( 18 )",
+        "-6 ( 6 )"
+      ],
+      [
+        "settlements",
+        "-32 ( 32 )",
+        "2014"
+      ],
+      [
+        "business combinations",
+        "2014",
+        "5"
+      ],
+      [
+        "lapse of statute of limitations",
+        "-5 ( 5 )",
+        "-11 ( 11 )"
+      ],
+      [
+        "foreign currency translation",
+        "-2 ( 2 )",
+        "-2 ( 2 )"
+      ],
+      [
+        "balance at december 31",
+        "$ 218",
+        "$ 191"
+      ]
+    ],
+    "questions": [
+      "in 2015 what was the percentage change in the uncertain tax positions"
+    ]
+  }
+}

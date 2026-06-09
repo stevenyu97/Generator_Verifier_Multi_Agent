@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of shares outstanding as of december 31 , 2007",
+      "answer": 138297141.0,
+      "answer_raw": "138297141.0",
+      "program": "subtract(138311810, 14669)"
+    }
+  ]
+}

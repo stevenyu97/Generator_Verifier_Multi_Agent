@@ -1,0 +1,79 @@
+{
+  "input": {
+    "id": "Single_MRO/2011/page_38.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "a significant portion of our natural gas production in the lower 48 states of the u.s .",
+      "is sold at bid-week prices or first-of-month indices relative to our specific producing areas .",
+      "average settlement date henry hub natural gas prices have been relatively stable for the periods of this report ; however , a decline began in september 2011 which has continued in 2012 with february averaging $ 2.68 per mmbtu .",
+      "should u.s .",
+      "natural gas prices remain depressed , an impairment charge related to our natural gas assets may be necessary .",
+      "our other major natural gas-producing regions are europe and eg .",
+      "natural gas prices in europe have been significantly higher than in the u.s .",
+      "in the case of eg our natural gas sales are subject to term contracts , making realized prices less volatile .",
+      "the natural gas sales from eg are at fixed prices ; therefore , our worldwide reported average natural gas realized prices may not fully track market price movements .",
+      "oil sands mining osm segment revenues correlate with prevailing market prices for the various qualities of synthetic crude oil we produce .",
+      "roughly two-thirds of the normal output mix will track movements in wti and one-third will track movements in the canadian heavy sour crude oil marker , primarily western canadian select .",
+      "output mix can be impacted by operational problems or planned unit outages at the mines or the upgrader .",
+      "the operating cost structure of the oil sands mining operations is predominantly fixed and therefore many of the costs incurred in times of full operation continue during production downtime .",
+      "per-unit costs are sensitive to production rates .",
+      "key variable costs are natural gas and diesel fuel , which track commodity markets such as the canadian alberta energy company ( 201caeco 201d ) natural gas sales index and crude oil prices , respectively .",
+      "recently aeco prices have declined , much as henry hub prices have .",
+      "we would expect a significant , continued declined in natural gas prices to have a favorable impact on osm operating costs .",
+      "the table below shows average benchmark prices that impact both our revenues and variable costs. ."
+    ],
+    "post_text": [
+      "wti crude oil ( dollars per bbl ) $ 95.11 $ 79.61 $ 62.09 western canadian select ( dollars per bbl ) ( a ) 77.97 65.31 52.13 aeco natural gas sales index ( dollars per mmbtu ) ( b ) $ 3.68 $ 3.89 $ 3.49 ( a ) monthly pricing based upon average wti adjusted for differentials unique to western canada .",
+      "( b ) monthly average day ahead index .",
+      "integrated gas our integrated gas operations include production and marketing of products manufactured from natural gas , such as lng and methanol , in eg .",
+      "world lng trade in 2011 has been estimated to be 241 mmt .",
+      "long-term , lng continues to be in demand as markets seek the benefits of clean burning natural gas .",
+      "market prices for lng are not reported or posted .",
+      "in general , lng delivered to the u.s .",
+      "is tied to henry hub prices and will track with changes in u.s .",
+      "natural gas prices , while lng sold in europe and asia is indexed to crude oil prices and will track the movement of those prices .",
+      "we have a 60 percent ownership in an lng production facility in equatorial guinea , which sells lng under a long-term contract at prices tied to henry hub natural gas prices .",
+      "gross sales from the plant were 4.1 mmt , 3.7 mmt and 3.9 mmt in 2011 , 2010 and 2009 .",
+      "we own a 45 percent interest in a methanol plant located in equatorial guinea through our investment in ampco .",
+      "gross sales of methanol from the plant totaled 1039657 , 850605 and 960374 metric tonnes in 2011 , 2010 and 2009 .",
+      "methanol demand has a direct impact on ampco 2019s earnings .",
+      "because global demand for methanol is rather limited , changes in the supply-demand balance can have a significant impact on sales prices .",
+      "world demand for methanol in 2011 has been estimated to be 55.4 mmt .",
+      "our plant capacity of 1.1 mmt is about 2 percent of total demand .",
+      "operating and financial highlights significant operating and financial highlights during 2011 include : 2022 completed the spin-off of our downstream business on june 30 , 2011 2022 acquired a significant operated position in the eagle ford shale play in south texas 2022 added net proved reserves , for the e&p and osm segments combined , of 307 mmboe , excluding dispositions , for a 212 percent reserve replacement ratio ."
+    ],
+    "table": [
+      [
+        "benchmark",
+        "2011",
+        "2010",
+        "2009"
+      ],
+      [
+        "wti crude oil ( dollars per bbl )",
+        "$ 95.11",
+        "$ 79.61",
+        "$ 62.09"
+      ],
+      [
+        "western canadian select ( dollars per bbl ) ( a )",
+        "77.97",
+        "65.31",
+        "52.13"
+      ],
+      [
+        "aeco natural gas sales index ( dollars per mmbtu ) ( b )",
+        "$ 3.68",
+        "$ 3.89",
+        "$ 3.49"
+      ]
+    ],
+    "questions": [
+      "what was the price of wti crude oil in 2011?",
+      "what was the price of wti crude oil in 2009?",
+      "what is the difference between the price of wti crude oil from 2009 to 2011?",
+      "what was the price of wti crude oil in 2009?",
+      "what is the difference in price divided by the 2009 price of wti crude oil?"
+    ]
+  }
+}

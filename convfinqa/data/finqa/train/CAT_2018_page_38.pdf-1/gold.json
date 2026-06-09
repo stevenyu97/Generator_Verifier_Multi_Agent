@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would profit per share be in 2019 with the same growth rate as 2018?\\\\n\\\\n",
+      "answer": 83.54571,
+      "answer_raw": "83.54571",
+      "program": "divide(10.26, 1.26), multiply(#0, 10.26)"
+    }
+  ]
+}

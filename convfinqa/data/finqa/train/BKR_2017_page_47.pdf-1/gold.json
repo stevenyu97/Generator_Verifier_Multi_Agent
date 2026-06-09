@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the natural gas prices as a percentage of wti oil prices in 2017?",
+      "answer": 0.05886,
+      "answer_raw": "0.05886",
+      "program": "divide(2.99, 50.80)"
+    }
+  ]
+}

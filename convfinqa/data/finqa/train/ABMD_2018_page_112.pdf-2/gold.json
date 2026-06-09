@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of non-cancelable future minimum lease payments are due after 5 years?\\\\n\\\\n",
+      "answer": 0.1906,
+      "answer_raw": "0.1906",
+      "program": "divide(1923, 10089)"
+    }
+  ]
+}

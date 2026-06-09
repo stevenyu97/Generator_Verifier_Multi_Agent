@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the three months ended march 2003 what were the total sales proceeds for subsidiaries assets in millions?",
+      "answer": 613.0,
+      "answer_raw": "613.0",
+      "program": "add(495, 59), add(#0, 30), add(#1, 29)"
+    }
+  ]
+}

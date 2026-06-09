@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "Single_IPG/2013/page_46.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "item 7a .",
+      "quantitative and qualitative disclosures about market risk ( amounts in millions ) in the normal course of business , we are exposed to market risks related to interest rates , foreign currency rates and certain balance sheet items .",
+      "from time to time , we use derivative instruments , pursuant to established guidelines and policies , to manage some portion of these risks .",
+      "derivative instruments utilized in our hedging activities are viewed as risk management tools and are not used for trading or speculative purposes .",
+      "interest rates our exposure to market risk for changes in interest rates relates primarily to the fair market value and cash flows of our debt obligations .",
+      "the majority of our debt ( approximately 89% ( 89 % ) and 93% ( 93 % ) as of december 31 , 2013 and 2012 , respectively ) bears interest at fixed rates .",
+      "we do have debt with variable interest rates , but a 10% ( 10 % ) increase or decrease in interest rates would not be material to our interest expense or cash flows .",
+      "the fair market value of our debt is sensitive to changes in interest rates , and the impact of a 10% ( 10 % ) change in interest rates is summarized below .",
+      "increase/ ( decrease ) in fair market value as of december 31 , 10% ( 10 % ) increase in interest rates 10% ( 10 % ) decrease in interest rates ."
+    ],
+    "post_text": [
+      "we have used interest rate swaps for risk management purposes to manage our exposure to changes in interest rates .",
+      "we do not have any interest rate swaps outstanding as of december 31 , 2013 .",
+      "we had $ 1642.1 of cash , cash equivalents and marketable securities as of december 31 , 2013 that we generally invest in conservative , short-term bank deposits or securities .",
+      "the interest income generated from these investments is subject to both domestic and foreign interest rate movements .",
+      "during 2013 and 2012 , we had interest income of $ 24.7 and $ 29.5 , respectively .",
+      "based on our 2013 results , a 100-basis-point increase or decrease in interest rates would affect our interest income by approximately $ 16.4 , assuming that all cash , cash equivalents and marketable securities are impacted in the same manner and balances remain constant from year-end 2013 levels .",
+      "foreign currency rates we are subject to translation and transaction risks related to changes in foreign currency exchange rates .",
+      "since we report revenues and expenses in u.s .",
+      "dollars , changes in exchange rates may either positively or negatively affect our consolidated revenues and expenses ( as expressed in u.s .",
+      "dollars ) from foreign operations .",
+      "the primary foreign currencies that impacted our results during 2013 were the australian dollar , brazilian real , euro , japanese yen and the south african rand .",
+      "based on 2013 exchange rates and operating results , if the u.s .",
+      "dollar were to strengthen or weaken by 10% ( 10 % ) , we currently estimate operating income would decrease or increase between 3% ( 3 % ) and 4% ( 4 % ) , assuming that all currencies are impacted in the same manner and our international revenue and expenses remain constant at 2013 levels .",
+      "the functional currency of our foreign operations is generally their respective local currency .",
+      "assets and liabilities are translated at the exchange rates in effect at the balance sheet date , and revenues and expenses are translated at the average exchange rates during the period presented .",
+      "the resulting translation adjustments are recorded as a component of accumulated other comprehensive loss , net of tax , in the stockholders 2019 equity section of our consolidated balance sheets .",
+      "our foreign subsidiaries generally collect revenues and pay expenses in their functional currency , mitigating transaction risk .",
+      "however , certain subsidiaries may enter into transactions in currencies other than their functional currency .",
+      "assets and liabilities denominated in currencies other than the functional currency are susceptible to movements in foreign currency until final settlement .",
+      "currency transaction gains or losses primarily arising from transactions in currencies other than the functional currency are included in office and general expenses .",
+      "we have not entered into a material amount of foreign currency forward exchange contracts or other derivative financial instruments to hedge the effects of potential adverse fluctuations in foreign currency exchange rates. ."
+    ],
+    "table": [
+      [
+        "as of december 31,",
+        "increase/ ( decrease ) in fair market value 10% ( 10 % ) increasein interest rates",
+        "increase/ ( decrease ) in fair market value 10% ( 10 % ) decreasein interest rates"
+      ],
+      [
+        "2013",
+        "$ -26.9 ( 26.9 )",
+        "$ 27.9"
+      ],
+      [
+        "2012",
+        "-27.5 ( 27.5 )",
+        "28.4"
+      ]
+    ],
+    "questions": [
+      "what was the interest income in 2013?",
+      "and what was it in 2012?",
+      "what was, then, the change in interest income over the year?",
+      "what was the total interest income in 2012?",
+      "and how much does that change represent in relation to this 2012 total?"
+    ]
+  }
+}

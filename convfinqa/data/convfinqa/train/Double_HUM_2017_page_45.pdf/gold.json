@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the stock total return performance for hum in 2014?",
+      "answer": 214.0,
+      "answer_raw": "214.0",
+      "program": "214"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2013?",
+      "answer": 152.0,
+      "answer_raw": "152.0",
+      "program": "152"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "by what amount, then, did that performance increase over the year?",
+      "answer": 62.0,
+      "answer_raw": "62.0",
+      "program": "subtract(214, 152)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in that same year of 2014, what was the highest stock total return performance between all stocks?",
+      "answer": 214.0,
+      "answer_raw": "214.0",
+      "program": "214"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "by how much did this performance change since 2012?",
+      "answer": 114.0,
+      "answer_raw": "114.0",
+      "program": "subtract(214, 100)"
+    }
+  ]
+}

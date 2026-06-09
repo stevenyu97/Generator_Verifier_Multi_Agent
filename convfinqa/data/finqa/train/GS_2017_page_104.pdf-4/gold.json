@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in average daily var in the currency rates risk category between 2016 and 2017?",
+      "answer": -0.42857,
+      "answer_raw": "-0.42857",
+      "program": "subtract(12, 21), divide(#0, 21)"
+    }
+  ]
+}

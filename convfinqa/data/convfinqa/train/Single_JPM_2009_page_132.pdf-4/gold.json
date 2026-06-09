@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many days were in the period?",
+      "answer": 261.0,
+      "answer_raw": "261.0",
+      "program": "261"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how many days did the firm post market risk 2013related gains?",
+      "answer": 227.0,
+      "answer_raw": "227.0",
+      "program": "227"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference?",
+      "answer": 34.0,
+      "answer_raw": "34.0",
+      "program": "subtract(261, 227)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total number of days?",
+      "answer": 261.0,
+      "answer_raw": "261.0",
+      "program": "261"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the difference divided by the total days in the period?",
+      "answer": 0.13027,
+      "answer_raw": "0.13027",
+      "program": "subtract(261, 227), divide(#0, 261)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase in the cash and cash equivalents from 2005 to 2006",
+      "answer": -0.16641,
+      "answer_raw": "-0.16641",
+      "program": "subtract(104520, 125385), divide(#0, 125385)"
+    }
+  ]
+}

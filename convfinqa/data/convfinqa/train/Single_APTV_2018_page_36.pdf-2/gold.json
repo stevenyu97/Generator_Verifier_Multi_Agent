@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of the aptiv plc in 2018?",
+      "answer": 130.8,
+      "answer_raw": "130.8",
+      "program": "130.80"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was, then, the change in its value, considering 2018 and the original amount invested in it in 2013?",
+      "answer": 30.8,
+      "answer_raw": "30.8",
+      "program": "subtract(130.80, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what was the change in the value of the automotive peer group, considering the 2018 one and the original amount invested in it in 2013?",
+      "answer": 6.89,
+      "answer_raw": "6.89",
+      "program": "subtract(130.80, const_100), subtract(106.89, const_100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "how much does the change in the value of the aptiv plc represent in relation to the original amount invested in it, in percentage?",
+      "answer": 0.308,
+      "answer_raw": "0.308",
+      "program": "subtract(130.80, const_100), subtract(106.89, const_100), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does the change in the value of the automotive peer group represent in relation to the original amount invested in it, in percentage?",
+      "answer": 0.0689,
+      "answer_raw": "0.0689",
+      "program": "subtract(130.80, const_100), subtract(106.89, const_100), divide(#0, const_100), divide(#1, const_100)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is, then, the difference between the percentage change of the aptiv plc and the automotive peer group one?",
+      "answer": 0.2391,
+      "answer_raw": "0.2391",
+      "program": "subtract(130.80, const_100), subtract(106.89, const_100), divide(#0, const_100), divide(#1, const_100), subtract(#2, #3)"
+    }
+  ]
+}

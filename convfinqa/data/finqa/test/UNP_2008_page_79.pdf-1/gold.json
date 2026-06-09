@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the value of the interest retained by upri from 2007 to 2008 was $ 431 million and $ 471 million , respectively .",
+      "answer": -0.08493,
+      "answer_raw": "-0.08493",
+      "program": "subtract(431, 471), divide(#0, 471)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of debt repayment will take place during 2008-2009?",
+      "answer": 0.3433,
+      "answer_raw": "0.3433",
+      "program": "divide(2055, 5986)"
+    }
+  ]
+}

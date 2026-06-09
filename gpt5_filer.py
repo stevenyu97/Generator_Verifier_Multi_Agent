@@ -7,7 +7,7 @@ from litellm import responses
 from prompts import FILER_SYSTEM_PROMPT
 
 # Match TaxCalcBench: same model and reasoning API for comparable accuracy (~80% by line)
-GPT5_MODEL = "openai/gpt-5-2025-08-07"
+GPT5_MODEL = "gpt-5.2-2025-12-11"
 REASONING_EFFORT = "high"
 
 

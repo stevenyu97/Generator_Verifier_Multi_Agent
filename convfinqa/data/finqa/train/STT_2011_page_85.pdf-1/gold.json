@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the classification of loan and lease balances due after one year that was loans and leases with predetermined interest rates",
+      "answer": 0.39854,
+      "answer_raw": "0.39854",
+      "program": "divide(1145, 2873)"
+    }
+  ]
+}

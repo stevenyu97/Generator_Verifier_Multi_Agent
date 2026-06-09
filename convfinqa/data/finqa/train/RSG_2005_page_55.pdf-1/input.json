@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "RSG/2005/page_55.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the fair value of variable rate debt approximates the carrying value since interest rates are variable and , thus , approximate current market rates .",
+      "free cash flow we define free cash flow , which is not a measure determined in accordance with generally accepted accounting principles in the united states , as cash provided by operating activities less purchases of property and equipment plus proceeds from sales of property and equipment as presented in our consolidated statements of cash flows .",
+      "our free cash flow for the years ended december 31 , 2005 , 2004 and 2003 is calculated as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "free cash flow for the year ended december 31 , 2005 was higher than the previous years presented primarily because of a $ 113.4 million federal tax payment that was deferred until february 2006 as a result of an internal revenue service notice issued in response to hurricane katrina , and the timing of payments for capital and other expenditures .",
+      "as a result of the timing of these payments , we expect free cash flow during 2006 to be lower than 2005 .",
+      "we believe that the presentation of free cash flow provides useful information regarding our recurring cash provided by operating activities after expenditures for property and equipment , net of proceeds from sales of property and equipment .",
+      "it also demonstrates our ability to execute our financial strategy which includes reinvesting in existing capital assets to ensure a high level of customer service , investing in capital assets to facilitate growth in our customer base and services provided , pursuing strategic acquisitions that augment our existing business platform , repurchasing shares of common stock at prices that provide value to our shareholders , paying cash dividends , maintaining our investment grade rating and minimizing debt .",
+      "in addition , free cash flow is a key metric used to determine compensation .",
+      "the presentation of free cash flow has material limitations .",
+      "free cash flow does not represent our cash flow available for discretionary expenditures because it excludes certain expenditures that are required or that we have committed to such as debt service requirements and dividend payments .",
+      "our definition of free cash flow may not be comparable to similarly titled measures presented by other companies .",
+      "seasonality our operations can be adversely affected by periods of inclement weather which could increase the volume of waste collected under our existing contracts ( without corresponding compensation ) , delay the collection and disposal of waste , reduce the volume of waste delivered to our disposal sites , or delay the construction or expansion of our landfill sites and other facilities .",
+      "new accounting pronouncements on december 16 , 2004 , the financial accounting standards board issued statement of financial accounting standards no .",
+      "123 ( revised 2004 ) , 201cshare-based payment , 201d which is a revision of sfas 123 , 201caccounting for stock-based compensation . 201d sfas 123 ( r ) supersedes apb opinion no .",
+      "25 , 201caccounting for stock issued to employees , 201d and amends sfas 95 , 201cstatement of cash flows . 201d generally , the approach in sfas 123 ( r ) is similar to the approach described in sfas 123 .",
+      "however , sfas 123 ( r ) requires all share-based payments to employees , including grants of employee stock options , to be recognized in the income statement based on their fair values .",
+      "pro forma disclosure is no longer an alternative .",
+      "we are required to adopt sfas 123 ( r ) on january 1 , 2006 and expect to use the 201cmodified-prospective 201d method in which compensation cost will be recognized beginning with the effective date based on the requirements of sfas 123 ( r ) for all share-based payments granted after the effective date. ."
+    ],
+    "table": [
+      [
+        "",
+        "2005",
+        "2004",
+        "2003"
+      ],
+      [
+        "cash provided by operating activities",
+        "$ 767.5",
+        "$ 666.3",
+        "$ 600.5"
+      ],
+      [
+        "purchases of property and equipment",
+        "-328.7 ( 328.7 )",
+        "-283.8 ( 283.8 )",
+        "-273.2 ( 273.2 )"
+      ],
+      [
+        "proceeds from sales of property and equipment",
+        "10.1",
+        "5.7",
+        "9.1"
+      ],
+      [
+        "free cash flow",
+        "$ 448.9",
+        "$ 388.2",
+        "$ 336.4"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the increase in proceeds from sales of property and equipment from 2004 to 2005"
+    ]
+  }
+}

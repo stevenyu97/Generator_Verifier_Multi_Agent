@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in cash flows used in investing activities from 2016 to 2017?",
+      "answer": -0.69802,
+      "answer_raw": "-0.69802",
+      "program": "subtract(510.8, 1691.5), divide(#0, 1691.5)"
+    }
+  ]
+}

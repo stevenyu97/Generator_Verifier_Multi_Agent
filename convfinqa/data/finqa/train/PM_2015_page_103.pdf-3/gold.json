@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in liability balance during 2014?",
+      "answer": -38.0,
+      "answer_raw": "-38.0",
+      "program": "subtract(270, 308)"
+    }
+  ]
+}

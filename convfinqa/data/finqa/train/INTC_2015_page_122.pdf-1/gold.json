@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 26 , 2015 , what was the expected unrecognized compensation costs to be recognized per year in billions",
+      "answer": 1.5,
+      "answer_raw": "1.5",
+      "program": "divide(1.8, 1.2)"
+    }
+  ]
+}

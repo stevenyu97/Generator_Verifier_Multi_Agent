@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "Single_UA/2011/page_54.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "from time to time , we may elect to use foreign currency forward contracts to reduce the risk from exchange rate fluctuations on intercompany transactions and projected inventory purchases for our european and canadian subsidiaries .",
+      "in addition , we may elect to enter into foreign currency forward contracts to reduce the risk associated with foreign currency exchange rate fluctuations on pound sterling denominated balance sheet items .",
+      "we do not enter into derivative financial instruments for speculative or trading purposes .",
+      "based on the foreign currency forward contracts outstanding as of december 31 , 2011 , we receive u.s .",
+      "dollars in exchange for canadian dollars at a weighted average contractual forward foreign currency exchange rate of 1.03 cad per $ 1.00 , u.s .",
+      "dollars in exchange for euros at a weighted average contractual foreign currency exchange rate of 20ac0.77 per $ 1.00 and euros in exchange for pounds sterling at a weighted average contractual foreign currency exchange rate of a30.84 per 20ac1.00 .",
+      "as of december 31 , 2011 , the notional value of our outstanding foreign currency forward contracts for our canadian subsidiary was $ 51.1 million with contract maturities of 1 month or less , and the notional value of our outstanding foreign currency forward contracts for our european subsidiary was $ 50.0 million with contract maturities of 1 month .",
+      "as of december 31 , 2011 , the notional value of our outstanding foreign currency forward contract used to mitigate the foreign currency exchange rate fluctuations on pound sterling denominated balance sheet items was 20ac10.5 million , or $ 13.6 million , with a contract maturity of 1 month .",
+      "the foreign currency forward contracts are not designated as cash flow hedges , and accordingly , changes in their fair value are recorded in other expense , net on the consolidated statements of income .",
+      "the fair values of our foreign currency forward contracts were liabilities of $ 0.7 million and $ 0.6 million as of december 31 , 2011 and 2010 , respectively , and were included in accrued expenses on the consolidated balance sheet .",
+      "refer to note 10 to the consolidated financial statements for a discussion of the fair value measurements .",
+      "included in other expense , net were the following amounts related to changes in foreign currency exchange rates and derivative foreign currency forward contracts: ."
+    ],
+    "post_text": [
+      "we enter into foreign currency forward contracts with major financial institutions with investment grade credit ratings and are exposed to credit losses in the event of non-performance by these financial institutions .",
+      "this credit risk is generally limited to the unrealized gains in the foreign currency forward contracts .",
+      "however , we monitor the credit quality of these financial institutions and consider the risk of counterparty default to be minimal .",
+      "although we have entered into foreign currency forward contracts to minimize some of the impact of foreign currency exchange rate fluctuations on future cash flows , we cannot be assured that foreign currency exchange rate fluctuations will not have a material adverse impact on our financial condition and results of operations .",
+      "inflation inflationary factors such as increases in the cost of our product and overhead costs may adversely affect our operating results .",
+      "although we do not believe that inflation has had a material impact on our financial position or results of operations to date , a high rate of inflation in the future may have an adverse effect on our ability to maintain current levels of gross margin and selling , general and administrative expenses as a percentage of net revenues if the selling prices of our products do not increase with these increased costs. ."
+    ],
+    "table": [
+      [
+        "year ended december 31 , ( in thousands )",
+        "year ended december 31 , 2011",
+        "year ended december 31 , 2010",
+        "2009"
+      ],
+      [
+        "unrealized foreign currency exchange rate gains ( losses )",
+        "$ -4027 ( 4027 )",
+        "$ -1280 ( 1280 )",
+        "$ 5222"
+      ],
+      [
+        "realized foreign currency exchange rate gains ( losses )",
+        "298",
+        "-2638 ( 2638 )",
+        "-261 ( 261 )"
+      ],
+      [
+        "unrealized derivative losses",
+        "-31 ( 31 )",
+        "-809 ( 809 )",
+        "-1060 ( 1060 )"
+      ],
+      [
+        "realized derivative gains ( losses )",
+        "1696",
+        "3549",
+        "-4412 ( 4412 )"
+      ]
+    ],
+    "questions": [
+      "what is the change in the balance of foreign currency forward contracts liability from 2010 to 2011?",
+      "what is the balance of foreign currency forward contracts liability in 2010?",
+      "what percentage change does this represent?"
+    ]
+  }
+}

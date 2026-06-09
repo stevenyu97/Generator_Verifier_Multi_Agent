@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what the value of the investment in ups in 2012?",
+      "answer": 140.54,
+      "answer_raw": "140.54",
+      "program": "140.54"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2010?",
+      "answer": 130.29,
+      "answer_raw": "130.29",
+      "program": "130.29"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change in value of this investment?",
+      "answer": 10.25,
+      "answer_raw": "10.25",
+      "program": "subtract(140.54, 130.29)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what roi does this represent?",
+      "answer": 0.07867,
+      "answer_raw": "0.07867",
+      "program": "subtract(140.54, 130.29), divide(#0, 130.29)"
+    }
+  ]
+}

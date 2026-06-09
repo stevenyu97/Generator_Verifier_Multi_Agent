@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent of assets are definitive net assets?",
+      "answer": 0.2416,
+      "answer_raw": "0.2416",
+      "program": "add(264844, 188294), add(144357, #0), divide(144357, #1)"
+    }
+  ]
+}

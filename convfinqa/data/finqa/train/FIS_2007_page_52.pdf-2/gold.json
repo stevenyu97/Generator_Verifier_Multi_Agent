@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total significant contractual obligations and commitments as of december 31 , 2007 are is interest?",
+      "answer": 0.17313,
+      "answer_raw": "0.17313",
+      "program": "divide(1150219, 6643762)"
+    }
+  ]
+}

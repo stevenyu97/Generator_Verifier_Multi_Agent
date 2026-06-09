@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net three year avg derivative liability exposure , in billions , for 2016?",
+      "answer": -10.3,
+      "answer_raw": "-10.3",
+      "program": "subtract(31.1, 41.4)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average square footage of leased corporate sites?",
+      "answer": 114099.3,
+      "answer_raw": "114099.3",
+      "program": "divide(2281986, 20)"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "input": {
+    "id": "GS/2013/page_52.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis institutional client services our institutional client services segment is comprised of : fixed income , currency and commodities client execution .",
+      "includes client execution activities related to making markets in interest rate products , credit products , mortgages , currencies and commodities .",
+      "we generate market-making revenues in these activities in three ways : 2030 in large , highly liquid markets ( such as markets for u.s .",
+      "treasury bills or certain mortgage pass-through certificates ) , we execute a high volume of transactions for our clients for modest spreads and fees .",
+      "2030 in less liquid markets ( such as mid-cap corporate bonds , growth market currencies or certain non-agency mortgage-backed securities ) , we execute transactions for our clients for spreads and fees that are generally somewhat larger .",
+      "2030 we also structure and execute transactions involving customized or tailor-made products that address our clients 2019 risk exposures , investment objectives or other complex needs ( such as a jet fuel hedge for an airline ) .",
+      "given the focus on the mortgage market , our mortgage activities are further described below .",
+      "our activities in mortgages include commercial mortgage- related securities , loans and derivatives , residential mortgage-related securities , loans and derivatives ( including u.s .",
+      "government agency-issued collateralized mortgage obligations , other prime , subprime and alt-a securities and loans ) , and other asset-backed securities , loans and derivatives .",
+      "we buy , hold and sell long and short mortgage positions , primarily for market making for our clients .",
+      "our inventory therefore changes based on client demands and is generally held for short-term periods .",
+      "see notes 18 and 27 to the consolidated financial statements for information about exposure to mortgage repurchase requests , mortgage rescissions and mortgage-related litigation .",
+      "equities .",
+      "includes client execution activities related to making markets in equity products and commissions and fees from executing and clearing institutional client transactions on major stock , options and futures exchanges worldwide , as well as over-the-counter transactions .",
+      "equities also includes our securities services business , which provides financing , securities lending and other prime brokerage services to institutional clients , including hedge funds , mutual funds , pension funds and foundations , and generates revenues primarily in the form of interest rate spreads or fees .",
+      "the table below presents the operating results of our institutional client services segment. ."
+    ],
+    "post_text": [
+      "1 .",
+      "in april 2013 , we completed the sale of a majority stake in our americas reinsurance business and no longer consolidate this business .",
+      "net revenues related to the americas reinsurance business were $ 317 million for 2013 , $ 1.08 billion for 2012 and $ 880 million for 2011 .",
+      "see note 12 to the consolidated financial statements for further information about this sale .",
+      "2013 versus 2012 .",
+      "net revenues in institutional client services were $ 15.72 billion for 2013 , 13% ( 13 % ) lower than 2012 .",
+      "net revenues in fixed income , currency and commodities client execution were $ 8.65 billion for 2013 , 13% ( 13 % ) lower than 2012 , reflecting significantly lower net revenues in interest rate products compared with a solid 2012 , and significantly lower net revenues in mortgages compared with a strong 2012 .",
+      "the decrease in interest rate products and mortgages primarily reflected the impact of a more challenging environment and lower activity levels compared with 2012 .",
+      "in addition , net revenues in currencies were slightly lower , while net revenues in credit products and commodities were essentially unchanged compared with 2012 .",
+      "in december 2013 , we completed the sale of a majority stake in our european insurance business and recognized a gain of $ 211 million .",
+      "50 goldman sachs 2013 annual report ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "year ended december 2013",
+        "year ended december 2012",
+        "year ended december 2011"
+      ],
+      [
+        "fixed income currency and commodities client execution",
+        "$ 8651",
+        "$ 9914",
+        "$ 9018"
+      ],
+      [
+        "equities client execution1",
+        "2594",
+        "3171",
+        "3031"
+      ],
+      [
+        "commissions and fees",
+        "3103",
+        "3053",
+        "3633"
+      ],
+      [
+        "securities services",
+        "1373",
+        "1986",
+        "1598"
+      ],
+      [
+        "total equities",
+        "7070",
+        "8210",
+        "8262"
+      ],
+      [
+        "total net revenues",
+        "15721",
+        "18124",
+        "17280"
+      ],
+      [
+        "operating expenses",
+        "11782",
+        "12480",
+        "12837"
+      ],
+      [
+        "pre-tax earnings",
+        "$ 3939",
+        "$ 5644",
+        "$ 4443"
+      ]
+    ],
+    "questions": [
+      "what percentage of total net revenues institutional client services segment in 2013 were made up of equities client execution?"
+    ]
+  }
+}

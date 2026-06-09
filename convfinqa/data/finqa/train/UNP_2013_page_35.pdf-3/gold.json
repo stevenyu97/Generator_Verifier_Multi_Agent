@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in track miles of rail replaced between 2011 and 2012?",
+      "answer": 69.0,
+      "answer_raw": "69.0",
+      "program": "subtract(964, 895)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average of the afs investment securities during the years 2016-2018?",
+      "answer": 221866.0,
+      "answer_raw": "221866.0",
+      "program": "add(228681, 200247), add(#0, 236670), divide(#1, const_3)"
+    }
+  ]
+}

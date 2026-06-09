@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of medical and other expenses payable, in thousands?",
+      "answer": 37375.0,
+      "answer_raw": "37375.0",
+      "program": "37375"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the value of other current liabilities, also in thousands?",
+      "answer": 23359.0,
+      "answer_raw": "23359.0",
+      "program": "23359"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what would, then, be the total sum of those two values?",
+      "answer": 60734.0,
+      "answer_raw": "60734.0",
+      "program": "add(37375, 23359)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "including now the value of other liabilities, what would then be the total sum, in thousands?",
+      "answer": 66649.0,
+      "answer_raw": "66649.0",
+      "program": "add(37375, 23359), add(#0, 5915)"
+    }
+  ]
+}

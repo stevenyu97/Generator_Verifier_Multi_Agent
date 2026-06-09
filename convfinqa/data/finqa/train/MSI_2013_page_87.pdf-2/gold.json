@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average share price in 2012",
+      "answer": 39.74,
+      "answer_raw": "39.74",
+      "program": "add(34.52, 42.96), add(#0, const_2), divide(#1, const_2)"
+    }
+  ]
+}

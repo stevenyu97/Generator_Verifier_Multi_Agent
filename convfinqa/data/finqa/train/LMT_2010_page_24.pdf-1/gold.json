@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total floor space is owned by the company?",
+      "answer": 0.37803,
+      "answer_raw": "0.37803",
+      "program": "divide(29.6, 78.3)"
+    }
+  ]
+}

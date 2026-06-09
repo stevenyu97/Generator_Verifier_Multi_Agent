@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "IPG/2012/page_21.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "repurchase of equity securities the following table provides information regarding our purchases of our equity securities during the period from october 1 , 2012 to december 31 , 2012 .",
+      "total number of shares ( or units ) purchased 1 average price paid per share ( or unit ) 2 total number of shares ( or units ) purchased as part of publicly announced plans or programs 3 maximum number ( or approximate dollar value ) of shares ( or units ) that may yet be purchased under the plans or programs 3 ."
+    ],
+    "post_text": [
+      "1 includes shares of our common stock , par value $ 0.10 per share , withheld under the terms of grants under employee stock-based compensation plans to offset tax withholding obligations that occurred upon vesting and release of restricted shares ( the 201cwithheld shares 201d ) .",
+      "we repurchased 13566 withheld shares in october 2012 , 1419 withheld shares in november 2012 and 7959 withheld shares in december 2012 , for a total of 22944 withheld shares during the three-month period .",
+      "2 the average price per share for each of the months in the fiscal quarter and for the three-month period was calculated by dividing the sum of the applicable period of the aggregate value of the tax withholding obligations and the aggregate amount we paid for shares acquired under our stock repurchase program , described in note 5 to the consolidated financial statements , by the sum of the number of withheld shares and the number of shares acquired in our stock repurchase program .",
+      "3 on february 24 , 2012 , we announced in a press release that our board had approved a share repurchase program to repurchase from time to time up to $ 300.0 million of our common stock ( the 201c2012 share repurchase program 201d ) , in addition to amounts available on existing authorizations .",
+      "on november 20 , 2012 , we announced in a press release that our board had authorized an increase in our 2012 share repurchase program to $ 400.0 million of our common stock .",
+      "on february 22 , 2013 , we announced that our board had approved a new share repurchase program to repurchase from time to time up to $ 300.0 million of our common stock .",
+      "the new authorization is in addition to any amounts remaining available for repurchase under the 2012 share repurchase program .",
+      "there is no expiration date associated with the share repurchase programs. ."
+    ],
+    "table": [
+      [
+        "",
+        "total number ofshares ( or units ) purchased1",
+        "average price paidper share ( or unit ) 2",
+        "total number ofshares ( or units ) purchased as part ofpublicly announcedplans or programs3",
+        "maximum number ( or approximate dollar value ) of shares ( or units ) that mayyet be purchased under theplans or programs3"
+      ],
+      [
+        "october 1 - 31",
+        "13566",
+        "$ 10.26",
+        "0",
+        "$ 148858924"
+      ],
+      [
+        "november 1 - 30",
+        "5345171",
+        "$ 9.98",
+        "5343752",
+        "$ 195551133"
+      ],
+      [
+        "december 1 - 31",
+        "8797959",
+        "$ 10.87",
+        "8790000",
+        "$ 99989339"
+      ],
+      [
+        "total",
+        "14156696",
+        "$ 10.53",
+        "14133752",
+        ""
+      ]
+    ],
+    "questions": [
+      "what was the percent of the withheld shares repurchased in october during the three-month period"
+    ]
+  }
+}

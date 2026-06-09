@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total interest expense is related to unpaid taxes in 2007?",
+      "answer": 0.16667,
+      "answer_raw": "0.16667",
+      "program": "divide(1.4, 8.4)"
+    }
+  ]
+}

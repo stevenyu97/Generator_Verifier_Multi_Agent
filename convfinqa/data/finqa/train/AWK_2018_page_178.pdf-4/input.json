@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "AWK/2018/page_178.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "the following table provides the minimum annual future rental commitment under operating leases that have initial or remaining non-cancelable lease terms over the next five years and thereafter: ."
+    ],
+    "post_text": [
+      "the company has a series of agreements with various public entities ( the 201cpartners 201d ) to establish certain joint ventures , commonly referred to as 201cpublic-private partnerships . 201d under the public-private partnerships , the company constructed utility plant , financed by the company , and the partners constructed utility plant ( connected to the company 2019s property ) , financed by the partners .",
+      "the company agreed to transfer and convey some of its real and personal property to the partners in exchange for an equal principal amount of industrial development bonds ( 201cidbs 201d ) , issued by the partners under a state industrial development bond and commercial development act .",
+      "the company leased back the total facilities , including portions funded by both the company and the partners , under leases for a period of 40 years .",
+      "the leases related to the portion of the facilities funded by the company have required payments from the company to the partners that approximate the payments required by the terms of the idbs from the partners to the company ( as the holder of the idbs ) .",
+      "as the ownership of the portion of the facilities constructed by the company will revert back to the company at the end of the lease , the company has recorded these as capital leases .",
+      "the lease obligation and the receivable for the principal amount of the idbs are presented by the company on a net basis .",
+      "the carrying value of the facilities funded by the company recognized as a capital lease asset was $ 147 million and $ 150 million as of december 31 , 2018 and 2017 , respectively , which is presented in property , plant and equipment on the consolidated balance sheets .",
+      "the future payments under the lease obligations are equal to and offset by the payments receivable under the idbs .",
+      "as of december 31 , 2018 , the minimum annual future rental commitment under the operating leases for the portion of the facilities funded by the partners that have initial or remaining non-cancelable lease terms in excess of one year included in the preceding minimum annual rental commitments are $ 4 million in 2019 through 2023 , and $ 59 million thereafter .",
+      "note 20 : segment information the company 2019s operating segments are comprised of the revenue-generating components of its businesses for which separate financial information is internally produced and regularly used by management to make operating decisions and assess performance .",
+      "the company operates its businesses primarily through one reportable segment , the regulated businesses segment .",
+      "the company also operates market-based businesses that provide a broad range of related and complementary water and wastewater services within non-reportable operating segments , collectively referred to as the market-based businesses .",
+      "the regulated businesses segment is the largest component of the company 2019s business and includes 20 subsidiaries that provide water and wastewater services to customers in 16 states .",
+      "the company 2019s primary market-based businesses include the homeowner services group , which provides warranty protection programs to residential and smaller commercial customers ; the military services group , which provides water and wastewater services to the u.s .",
+      "government on military installations ; and keystone , which provides water transfer services for shale natural gas exploration and production companies. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount"
+      ],
+      [
+        "2019",
+        "$ 17"
+      ],
+      [
+        "2020",
+        "15"
+      ],
+      [
+        "2021",
+        "12"
+      ],
+      [
+        "2022",
+        "11"
+      ],
+      [
+        "2023",
+        "6"
+      ],
+      [
+        "thereafter",
+        "80"
+      ]
+    ],
+    "questions": [
+      "what percentage of the minimum annual future rental commitment under operating leases that have initial or remaining non-cancelable lease terms is due in 2019?"
+    ]
+  }
+}

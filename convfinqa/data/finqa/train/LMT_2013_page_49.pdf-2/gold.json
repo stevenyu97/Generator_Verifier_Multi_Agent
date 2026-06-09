@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were average operating profit for space systems from 2011 to 2013 in millions?",
+      "answer": 1063.66667,
+      "answer_raw": "1063.66667",
+      "program": "table_average(operating profit, none)"
+    }
+  ]
+}

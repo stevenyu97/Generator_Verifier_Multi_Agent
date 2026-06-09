@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between the total debt at december 31, 2007 and that at december 31, 2006?",
+      "answer": 1.367,
+      "answer_raw": "1.367",
+      "program": "subtract(4.920, 3.553)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how much does that difference represents in relation to the total debt at december 31, 2006?",
+      "answer": 0.38475,
+      "answer_raw": "0.38475",
+      "program": "subtract(4.920, 3.553), divide(#0, 3.553)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage decrease in the balance of cash and cash equivalents during 2004?",
+      "answer": 0.12849,
+      "answer_raw": "0.12849",
+      "program": "divide(4493, 34968)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what portion of cash used for investing activities was used for acquisition of westgate mall , shaw 2019s plaza and several parcels of land?",
+      "answer": 0.65911,
+      "answer_raw": "0.65911",
+      "program": "divide(101.7, 154.3)"
+    }
+  ]
+}

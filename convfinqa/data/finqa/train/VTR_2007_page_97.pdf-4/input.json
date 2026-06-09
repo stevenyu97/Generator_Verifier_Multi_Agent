@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "VTR/2007/page_97.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "ventas , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) applicable indenture .",
+      "the issuers may also redeem the 2015 senior notes , in whole at any time or in part from time to time , on or after june 1 , 2010 at varying redemption prices set forth in the applicable indenture , plus accrued and unpaid interest thereon to the redemption date .",
+      "in addition , at any time prior to june 1 , 2008 , the issuers may redeem up to 35% ( 35 % ) of the aggregate principal amount of either or both of the 2010 senior notes and 2015 senior notes with the net cash proceeds from certain equity offerings at redemption prices equal to 106.750% ( 106.750 % ) and 107.125% ( 107.125 % ) , respectively , of the principal amount thereof , plus , in each case , accrued and unpaid interest thereon to the redemption date .",
+      "the issuers may redeem the 2014 senior notes , in whole at any time or in part from time to time , ( i ) prior to october 15 , 2009 at a redemption price equal to 100% ( 100 % ) of the principal amount thereof , plus a make-whole premium as described in the applicable indenture and ( ii ) on or after october 15 , 2009 at varying redemption prices set forth in the applicable indenture , plus , in each case , accrued and unpaid interest thereon to the redemption date .",
+      "the issuers may redeem the 2009 senior notes and the 2012 senior notes , in whole at any time or in part from time to time , at a redemption price equal to 100% ( 100 % ) of the principal amount thereof , plus accrued and unpaid interest thereon to the redemption date and a make-whole premium as described in the applicable indenture .",
+      "if we experience certain kinds of changes of control , the issuers must make an offer to repurchase the senior notes , in whole or in part , at a purchase price in cash equal to 101% ( 101 % ) of the principal amount of the senior notes , plus any accrued and unpaid interest to the date of purchase ; provided , however , that in the event moody 2019s and s&p have confirmed their ratings at ba3 or higher and bb- or higher on the senior notes and certain other conditions are met , this repurchase obligation will not apply .",
+      "mortgages at december 31 , 2007 , we had outstanding 121 mortgage loans totaling $ 1.57 billion that are collateralized by the underlying assets of the properties .",
+      "outstanding principal balances on these loans ranged from $ 0.4 million to $ 59.4 million as of december 31 , 2007 .",
+      "the loans generally bear interest at fixed rates ranging from 5.4% ( 5.4 % ) to 8.5% ( 8.5 % ) per annum , except for 15 loans with outstanding principal balances ranging from $ 0.4 million to $ 32.0 million , which bear interest at the lender 2019s variable rates ranging from 3.4% ( 3.4 % ) to 7.3% ( 7.3 % ) per annum as of december 31 , 2007 .",
+      "at december 31 , 2007 , the weighted average annual rate on fixed rate debt was 6.5% ( 6.5 % ) and the weighted average annual rate on the variable rate debt was 6.1% ( 6.1 % ) .",
+      "the loans had a weighted average maturity of 7.0 years as of december 31 , 2007 .",
+      "sunrise 2019s portion of total debt was $ 157.1 million as of december 31 , scheduled maturities of borrowing arrangements and other provisions as of december 31 , 2007 , our indebtedness had the following maturities ( in thousands ) : ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "2008",
+        "$ 193101"
+      ],
+      [
+        "2009",
+        "605762"
+      ],
+      [
+        "2010",
+        "282138"
+      ],
+      [
+        "2011",
+        "303191"
+      ],
+      [
+        "2012",
+        "527221"
+      ],
+      [
+        "thereafter",
+        "1436263"
+      ],
+      [
+        "total maturities",
+        "3347676"
+      ],
+      [
+        "unamortized fair value adjustment",
+        "19669"
+      ],
+      [
+        "unamortized commission fees and discounts",
+        "-6846 ( 6846 )"
+      ],
+      [
+        "senior notes payable and other debt",
+        "$ 3360499"
+      ]
+    ],
+    "questions": [
+      "what was the growth rate of maturities from 2008 to 2009"
+    ]
+  }
+}

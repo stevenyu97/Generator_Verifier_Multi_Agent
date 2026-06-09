@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of entergy's total employees are employed in entergy mississippi?",
+      "answer": 0.05645,
+      "answer_raw": "0.05645",
+      "program": "divide(828, 14669)"
+    }
+  ]
+}

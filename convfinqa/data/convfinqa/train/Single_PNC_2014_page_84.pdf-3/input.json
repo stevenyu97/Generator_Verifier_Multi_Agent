@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "Single_PNC/2014/page_84.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the discount rate used to measure pension obligations is determined by comparing the expected future benefits that will be paid under the plan with yields available on high quality corporate bonds of similar duration .",
+      "the impact on pension expense of a .5% ( .5 % ) decrease in discount rate in the current environment is an increase of $ 18 million per year .",
+      "this sensitivity depends on the economic environment and amount of unrecognized actuarial gains or losses on the measurement date .",
+      "the expected long-term return on assets assumption also has a significant effect on pension expense .",
+      "the expected return on plan assets is a long-term assumption established by considering historical and anticipated returns of the asset classes invested in by the pension plan and the asset allocation policy currently in place .",
+      "for purposes of setting and reviewing this assumption , 201clong term 201d refers to the period over which the plan 2019s projected benefit obligations will be disbursed .",
+      "we review this assumption at each measurement date and adjust it if warranted .",
+      "our selection process references certain historical data and the current environment , but primarily utilizes qualitative judgment regarding future return expectations .",
+      "to evaluate the continued reasonableness of our assumption , we examine a variety of viewpoints and data .",
+      "various studies have shown that portfolios comprised primarily of u.s .",
+      "equity securities have historically returned approximately 9% ( 9 % ) annually over long periods of time , while u.s .",
+      "debt securities have returned approximately 6% ( 6 % ) annually over long periods .",
+      "application of these historical returns to the plan 2019s allocation ranges for equities and bonds produces a result between 6.50% ( 6.50 % ) and 7.25% ( 7.25 % ) and is one point of reference , among many other factors , that is taken into consideration .",
+      "we also examine the plan 2019s actual historical returns over various periods and consider the current economic environment .",
+      "recent experience is considered in our evaluation with appropriate consideration that , especially for short time periods , recent returns are not reliable indicators of future returns .",
+      "while annual returns can vary significantly ( actual returns for 2014 , 2013 and 2012 were +6.50% ( +6.50 % ) , +15.48% ( +15.48 % ) , and +15.29% ( +15.29 % ) , respectively ) , the selected assumption represents our estimated long-term average prospective returns .",
+      "acknowledging the potentially wide range for this assumption , we also annually examine the assumption used by other companies with similar pension investment strategies , so that we can ascertain whether our determinations markedly differ from others .",
+      "in all cases , however , this data simply informs our process , which places the greatest emphasis on our qualitative judgment of future investment returns , given the conditions existing at each annual measurement date .",
+      "taking into consideration all of these factors , the expected long-term return on plan assets for determining net periodic pension cost for 2014 was 7.00% ( 7.00 % ) , down from 7.50% ( 7.50 % ) for 2013 .",
+      "after considering the views of both internal and external capital market advisors , particularly with regard to the effects of the recent economic environment on long-term prospective fixed income returns , we are reducing our expected long-term return on assets to 6.75% ( 6.75 % ) for determining pension cost for under current accounting rules , the difference between expected long-term returns and actual returns is accumulated and amortized to pension expense over future periods .",
+      "each one percentage point difference in actual return compared with our expected return can cause expense in subsequent years to increase or decrease by up to $ 9 million as the impact is amortized into results of operations .",
+      "we currently estimate pretax pension expense of $ 9 million in 2015 compared with pretax income of $ 7 million in 2014 .",
+      "this year-over-year expected increase in expense reflects the effects of the lower expected return on asset assumption , improved mortality , and the lower discount rate required to be used in 2015 .",
+      "these factors will be partially offset by the favorable impact of the increase in plan assets at december 31 , 2014 and the assumed return on a $ 200 million voluntary contribution to the plan made in february 2015 .",
+      "the table below reflects the estimated effects on pension expense of certain changes in annual assumptions , using 2015 estimated expense as a baseline .",
+      "table 26 : pension expense 2013 sensitivity analysis change in assumption ( a ) estimated increase/ ( decrease ) to 2015 pension expense ( in millions ) ."
+    ],
+    "post_text": [
+      "( a ) the impact is the effect of changing the specified assumption while holding all other assumptions constant .",
+      "our pension plan contribution requirements are not particularly sensitive to actuarial assumptions .",
+      "investment performance has the most impact on contribution requirements and will drive the amount of required contributions in future years .",
+      "also , current law , including the provisions of the pension protection act of 2006 , sets limits as to both minimum and maximum contributions to the plan .",
+      "notwithstanding the voluntary contribution made in february 2015 noted above , we do not expect to be required to make any contributions to the plan during 2015 .",
+      "we maintain other defined benefit plans that have a less significant effect on financial results , including various nonqualified supplemental retirement plans for certain employees , which are described more fully in note 13 employee benefit plans in the notes to consolidated financial statements in item 8 of this report .",
+      "66 the pnc financial services group , inc .",
+      "2013 form 10-k ."
+    ],
+    "table": [
+      [
+        "change in assumption ( a )",
+        "estimatedincrease/ ( decrease ) to 2015pensionexpense ( in millions )"
+      ],
+      [
+        ".5% ( .5 % ) decrease in discount rate",
+        "$ 18"
+      ],
+      [
+        ".5% ( .5 % ) decrease in expected long-term return on assets",
+        "$ 22"
+      ],
+      [
+        ".5% ( .5 % ) increase in compensation rate",
+        "$ 2"
+      ]
+    ],
+    "questions": [
+      "what is the difference in pretax pension expense from 2014 to 2015?",
+      "what fraction change does this represent?",
+      "what about percentage change?"
+    ]
+  }
+}

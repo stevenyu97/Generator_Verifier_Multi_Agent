@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in total liquidity resources from 2016 to 2017?",
+      "answer": 793.0,
+      "answer_raw": "793.0",
+      "program": "subtract(10831, 10038)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that change divided by the 2016 value?",
+      "answer": 0.079,
+      "answer_raw": "0.079",
+      "program": "subtract(10831, 10038), divide(#0, 10038)"
+    }
+  ]
+}

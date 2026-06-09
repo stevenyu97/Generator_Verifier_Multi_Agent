@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "PNC/2014/page_161.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "during 2014 , $ 91 million of provision recapture was recorded for purchased impaired loans compared to $ 11 million of provision expense for 2013 .",
+      "the charge-offs ( which were specifically for commercial loans greater than a defined threshold ) during 2014 were $ 42 million compared to $ 104 million for 2013 .",
+      "at december 31 , 2014 , the allowance for loan and lease losses was $ .9 billion on $ 4.4 billion of purchased impaired loans while the remaining $ .5 billion of purchased impaired loans required no allowance as the net present value of expected cash flows equaled or exceeded the recorded investment .",
+      "as of december 31 , 2013 , the allowance for loan and lease losses related to purchased impaired loans was $ 1.0 billion .",
+      "if any allowance for loan losses is recognized on a purchased impaired pool , which is accounted for as a single asset , the entire balance of that pool would be disclosed as requiring an allowance .",
+      "subsequent increases in the net present value of cash flows will result in a provision recapture of any previously recorded allowance for loan and lease losses , to the extent applicable , and/or a reclassification from non-accretable difference to accretable yield , which will be recognized prospectively .",
+      "individual loan transactions where final dispositions have occurred ( as noted above ) result in removal of the loans from their applicable pools for cash flow estimation purposes .",
+      "the cash flow re-estimation process is completed quarterly to evaluate the appropriateness of the allowance associated with the purchased impaired loans .",
+      "activity for the accretable yield during 2014 and 2013 follows : table 72 : purchased impaired loans 2013 accretable yield ."
+    ],
+    "post_text": [
+      "( a ) approximately 93% ( 93 % ) of net reclassifications for the year ended december 31 , 2014 were within the commercial portfolio as compared to 37% ( 37 % ) for year ended december 31 , 2013 .",
+      "note 5 allowances for loan and lease losses and unfunded loan commitments and letters of credit allowance for loan and lease losses we maintain the alll at levels that we believe to be appropriate to absorb estimated probable credit losses incurred in the portfolios as of the balance sheet date .",
+      "we use the two main portfolio segments 2013 commercial lending and consumer lending 2013 and develop and document the alll under separate methodologies for each of these segments as discussed in note 1 accounting policies .",
+      "a rollforward of the alll and associated loan data is presented below .",
+      "the pnc financial services group , inc .",
+      "2013 form 10-k 143 ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2014",
+        "2013"
+      ],
+      [
+        "january 1",
+        "$ 2055",
+        "$ 2166"
+      ],
+      [
+        "accretion ( including excess cash recoveries )",
+        "-587 ( 587 )",
+        "-695 ( 695 )"
+      ],
+      [
+        "net reclassifications to accretable from non-accretable ( a )",
+        "208",
+        "613"
+      ],
+      [
+        "disposals",
+        "-118 ( 118 )",
+        "-29 ( 29 )"
+      ],
+      [
+        "december 31",
+        "$ 1558",
+        "$ 2055"
+      ]
+    ],
+    "questions": [
+      "what was the dollar amount in millions for net reclassifications for the year ended december 31 , 2014 due to the commercial portfolio?"
+    ]
+  }
+}

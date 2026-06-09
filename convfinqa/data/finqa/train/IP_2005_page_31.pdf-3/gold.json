@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio total amount of proceeds from the sales of business entities for european distribution and decorative products in 2004 to 2003",
+      "answer": 0.73443,
+      "answer_raw": "0.73443",
+      "program": "divide(448, 610)"
+    }
+  ]
+}

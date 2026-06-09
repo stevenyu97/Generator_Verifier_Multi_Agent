@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "MRO/2013/page_40.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "discount to brent was narrower in 2013 than in 2012 and 2011 .",
+      "as a result of the significant increase in u.s .",
+      "production of light sweet crude oil , the historical relationship between wti , brent and lls pricing may not be indicative of future periods .",
+      "composition 2013 the proportion of our liquid hydrocarbon sales volumes that are ngls continues to increase due to our development of united states unconventional liquids-rich plays .",
+      "ngls were 15 percent of our north america e&p liquid hydrocarbon sales volumes in 2013 compared to 10 percent in 2012 and 7 percent in 2011 .",
+      "natural gas 2013 a significant portion of our natural gas production in the u.s .",
+      "is sold at bid-week prices , or first-of-month indices relative to our specific producing areas .",
+      "average henry hub settlement prices for natural gas were 31 percent higher for 2013 than for 2012 .",
+      "international e&p liquid hydrocarbons 2013 our international e&p crude oil production is relatively sweet and has historically sold in relation to the brent crude benchmark , which on average was 3 percent lower for 2013 than 2012 .",
+      "natural gas 2013 our major international e&p natural gas-producing regions are europe and e.g .",
+      "natural gas prices in europe have been considerably higher than the u.s .",
+      "in recent years .",
+      "in the case of e.g. , our natural gas sales are subject to term contracts , making realized prices in these areas less volatile .",
+      "the natural gas sales from e.g .",
+      "are at fixed prices ; therefore , our reported average international e&p natural gas realized prices may not fully track market price movements .",
+      "oil sands mining the oil sands mining segment produces and sells various qualities of synthetic crude oil .",
+      "output mix can be impacted by operational problems or planned unit outages at the mines or upgrader .",
+      "sales prices for roughly two-thirds of the normal output mix has historically tracked movements in wti and one-third has historically tracked movements in the canadian heavy crude oil marker , primarily wcs .",
+      "the wcs discount to wti has been increasing on average in each year presented below .",
+      "despite a wider wcs discount in 2013 , our average oil sands mining price realizations increased due to a greater proportion of higher value synthetic crude oil sales volumes compared to 2012 .",
+      "the operating cost structure of the oil sands mining operations is predominantly fixed and therefore many of the costs incurred in times of full operation continue during production downtime .",
+      "per-unit costs are sensitive to production rates .",
+      "key variable costs are natural gas and diesel fuel , which track commodity markets such as the aeco natural gas sales index and crude oil prices , respectively .",
+      "the table below shows average benchmark prices that impact both our revenues and variable costs: ."
+    ],
+    "post_text": [
+      "wcs ( dollars per bbl ) ( a ) $ 72.77 $ 73.18 $ 77.97 aeco natural gas sales index ( dollars per mmbtu ) ( b ) $ 3.08 $ 2.39 $ 3.68 ( a ) monthly pricing based upon average wti adjusted for differentials unique to western canada .",
+      "( b ) monthly average day ahead index. ."
+    ],
+    "table": [
+      [
+        "benchmark",
+        "2013",
+        "2012",
+        "2011"
+      ],
+      [
+        "wti crude oil ( dollars per bbl )",
+        "$ 98.05",
+        "$ 94.15",
+        "$ 95.11"
+      ],
+      [
+        "wcs ( dollars per bbl ) ( a )",
+        "$ 72.77",
+        "$ 73.18",
+        "$ 77.97"
+      ],
+      [
+        "aeco natural gas sales index ( dollars per mmbtu ) ( b )",
+        "$ 3.08",
+        "$ 2.39",
+        "$ 3.68"
+      ]
+    ],
+    "questions": [
+      "by what percentage did the aeco natural gas sales index decline from 2011 to 2013?"
+    ]
+  }
+}

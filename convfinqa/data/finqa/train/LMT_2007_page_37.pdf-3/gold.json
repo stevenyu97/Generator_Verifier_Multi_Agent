@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage remains of the total approved shares for repurchased under the approved share repurchase program?",
+      "answer": 0.25547,
+      "answer_raw": "0.25547",
+      "program": "subtract(128, 95.3), divide(#0, 128)"
+    }
+  ]
+}

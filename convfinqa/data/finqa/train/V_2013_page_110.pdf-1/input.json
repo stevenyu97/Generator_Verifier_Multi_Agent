@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "V/2013/page_110.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "visa inc .",
+      "notes to consolidated financial statements 2014 ( continued ) september 30 , 2013 in july 2013 , the company 2019s board of directors authorized a $ 1.5 billion share repurchase program to be in effect through july 2014 .",
+      "as of september 30 , 2013 , the program had remaining authorized funds of $ 251 million .",
+      "all share repurchase programs authorized prior to july 2013 have been completed .",
+      "in october 2013 , the company 2019s board of directors authorized a new $ 5.0 billion share repurchase program .",
+      "under the terms of the retrospective responsibility plan , when the company makes a deposit into the litigation escrow account , the shares of class b common stock are subject to dilution through an adjustment to the conversion rate of the shares of class b common stock to shares of class a common stock .",
+      "these deposits have the same economic effect on earnings per share as repurchasing the company 2019s class a common stock , because they reduce the class b conversion rate and consequently the as-converted class a common stock share count .",
+      "the following table presents as-converted class b common stock after deposits into the litigation escrow account in fiscal 2012 .",
+      "there were no deposits into the litigation escrow account in fiscal 2013. ."
+    ],
+    "post_text": [
+      "( 1 ) effective price per share calculated using the volume-weighted average price of the company 2019s class a common stock over a pricing period in accordance with the company 2019s current certificate of incorporation .",
+      "class b common stock .",
+      "the class b common stock is not convertible or transferable until the date on which all of the covered litigation has been finally resolved .",
+      "this transfer restriction is subject to limited exceptions , including transfers to other holders of class b common stock .",
+      "after termination of the restrictions , the class b common stock will be convertible into class a common stock if transferred to a person that was not a visa member ( as defined in the current certificate of incorporation ) or similar person or an affiliate of a visa member or similar person .",
+      "upon such transfer , each share of class b common stock will automatically convert into a number of shares of class a common stock based upon the applicable conversion rate in effect at the time of such transfer .",
+      "adjustment of the conversion rate occurs upon : ( i ) the completion of any follow-on offering of class a common stock completed to increase the size of the litigation escrow account ( or any cash deposit by the company in lieu thereof ) resulting in a further corresponding decrease in the conversion rate ; or ( ii ) the final resolution of the covered litigation and the release of funds remaining on deposit in the litigation escrow account to the company resulting in a corresponding increase in the conversion rate. ."
+    ],
+    "table": [
+      [
+        "( in millions except per share and conversion rate data )",
+        "fiscal 2012 july 2012",
+        "fiscal 2012 december 2011"
+      ],
+      [
+        "deposits under the retrospective responsibility plan",
+        "$ 150",
+        "$ 1565"
+      ],
+      [
+        "effective price per share ( 1 )",
+        "$ 125.50",
+        "$ 101.75"
+      ],
+      [
+        "reduction in equivalent number of shares of class a common stock",
+        "1",
+        "15"
+      ],
+      [
+        "conversion rate of class b common stock to class a common stock after deposits",
+        "0.4206",
+        "0.4254"
+      ],
+      [
+        "as-converted class b common stock after deposits",
+        "103",
+        "104"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in the effective price per share from december 2011 to july 2012?"
+    ]
+  }
+}

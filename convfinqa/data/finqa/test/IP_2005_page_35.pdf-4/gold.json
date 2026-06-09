@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the total contractual obligations for future payments for total debt in 2005",
+      "answer": 0.25579,
+      "answer_raw": "0.25579",
+      "program": "divide(1181, 4617)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the profit margin for lockheed martin in 2002?",
+      "answer": 0.05999,
+      "answer_raw": "0.05999",
+      "program": "divide(443, 7384)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the total operating profit in 2002 and 2001?",
+      "answer": 803.0,
+      "answer_raw": "803.0",
+      "program": "add(443, 360)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and including the value for 2003?",
+      "answer": 1148.0,
+      "answer_raw": "1148.0",
+      "program": "add(443, 360), add(#0, 345)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "so what was the average value during this time?",
+      "answer": 382.66667,
+      "answer_raw": "382.66667",
+      "program": "add(443, 360), add(#0, 345), divide(#1, const_3)"
+    }
+  ]
+}

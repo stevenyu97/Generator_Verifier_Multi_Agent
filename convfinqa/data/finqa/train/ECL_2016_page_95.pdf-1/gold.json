@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the ecolab and nalco plan remeasurement , what percentage in the reduction of postretirement benefit obligations created a corresponding impact to aoci?",
+      "answer": 0.62,
+      "answer_raw": "0.62",
+      "program": "divide(31, 50)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage difference in future minimum rental commitments as of december 31 , 2013 between 2014 and 2015?",
+      "answer": -0.02381,
+      "answer_raw": "-0.02381",
+      "program": "subtract(656, 672), divide(#0, 672)"
+    }
+  ]
+}

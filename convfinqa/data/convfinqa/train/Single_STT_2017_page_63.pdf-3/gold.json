@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of the s&p500 index in 2015?",
+      "answer": 153.0,
+      "answer_raw": "153.0",
+      "program": "153"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the original amount invested in it in 2012?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change in the value of the stock from 2012 to 2015?",
+      "answer": 53.0,
+      "answer_raw": "53.0",
+      "program": "subtract(153, 100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the original amount invested in the stock in 2012?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this original amount?",
+      "answer": 0.53,
+      "answer_raw": "0.53",
+      "program": "subtract(153, 100), divide(#0, 100)"
+    }
+  ]
+}

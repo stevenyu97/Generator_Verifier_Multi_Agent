@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "ETR/2008/page_376.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy texas , inc .",
+      "management's financial discussion and analysis net revenue 2008 compared to 2007 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory charges .",
+      "following is an analysis of the change in net revenue comparing 2008 to 2007 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the volume/weather variance is primarily due to decreased usage during the unbilled sales period .",
+      "see \"critical accounting estimates\" below and note 1 to the financial statements for further discussion of the accounting for unbilled revenues .",
+      "the reserve equalization variance is primarily due to lower reserve equalization revenue related to changes in the entergy system generation mix compared to the same period in 2007 .",
+      "the securitization transition charge variance is primarily due to the issuance of securitization bonds .",
+      "in june 2007 , entergy gulf states reconstruction funding i , a company wholly-owned and consolidated by entergy texas , issued securitization bonds and with the proceeds purchased from entergy texas the transition property , which is the right to recover from customers through a transition charge amounts sufficient to service the securitization bonds .",
+      "see note 5 to the financial statements for additional information regarding the securitization bonds .",
+      "the fuel recovery variance is primarily due to a reserve for potential rate refunds made in the first quarter 2007 as a result of a puct ruling related to the application of past puct rulings addressing transition to competition in texas .",
+      "the other variance is primarily caused by various operational effects of the jurisdictional separation on revenues and fuel and purchased power expenses .",
+      "gross operating revenues , fuel and purchased power expenses , and other regulatory charges gross operating revenues increased $ 229.3 million primarily due to the following reasons : an increase of $ 157 million in fuel cost recovery revenues due to higher fuel rates and increased usage , partially offset by interim fuel refunds to customers for fuel cost recovery over-collections through november 2007 .",
+      "the refund was distributed over a two-month period beginning february 2008 .",
+      "the interim refund and the puct approval is discussed in note 2 to the financial statements ; an increase of $ 37.1 million in affiliated wholesale revenue primarily due to increases in the cost of energy ; an increase in transition charge amounts collected from customers to service the securitization bonds as discussed above .",
+      "see note 5 to the financial statements for additional information regarding the securitization bonds ; and implementation of an interim surcharge to collect $ 10.3 million in under-recovered incremental purchased capacity costs incurred through july 2007 .",
+      "the surcharge was collected over a two-month period beginning february 2008 .",
+      "the incremental capacity recovery rider and puct approval is discussed in note 2 to the financial statements. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2007 net revenue",
+        "$ 442.3"
+      ],
+      [
+        "volume/weather",
+        "-4.6 ( 4.6 )"
+      ],
+      [
+        "reserve equalization",
+        "-3.3 ( 3.3 )"
+      ],
+      [
+        "securitization transition charge",
+        "9.1"
+      ],
+      [
+        "fuel recovery",
+        "7.5"
+      ],
+      [
+        "other",
+        "-10.1 ( 10.1 )"
+      ],
+      [
+        "2008 net revenue",
+        "$ 440.9"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in net revenue in 2008 for entergy texas , inc.?"
+    ]
+  }
+}

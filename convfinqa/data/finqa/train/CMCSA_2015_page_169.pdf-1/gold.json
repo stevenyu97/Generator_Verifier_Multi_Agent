@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the excess of the benefits over their fair value in 2015 to 2014 as of december 31 , 2015 and 2014 , the benefit obligations associated with these plans exceeded the fair value of the plan assets by $ 67 million and $ 51 million , respectively .",
+      "answer": 1.31373,
+      "answer_raw": "1.31373",
+      "program": "divide(67, 51)"
+    }
+  ]
+}

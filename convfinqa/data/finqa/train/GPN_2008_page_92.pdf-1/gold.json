@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2008 , how much of the compensation will be used on stock purchases if the employees used 20% ( 20 % ) of their compensation?",
+      "answer": 1.14,
+      "answer_raw": "1.14",
+      "program": "multiply(5.7, 20%)"
+    }
+  ]
+}

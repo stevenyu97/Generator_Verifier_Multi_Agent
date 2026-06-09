@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in december 2013 what was the ratio of the estimated risk-weighted assets under basel iii advanced approach to the estimated tier 1 common under basel iii rules",
+      "answer": 10.52151,
+      "answer_raw": "10.52151",
+      "program": "divide(1590873, 151202)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the operating profit for aeronautics from 2011 to 2012?",
+      "answer": 69.0,
+      "answer_raw": "69.0",
+      "program": "subtract(1699, 1630)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this change as a portion of that operating profit in 2011?",
+      "answer": 0.04233,
+      "answer_raw": "0.04233",
+      "program": "subtract(1699, 1630), divide(#0, 1630)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "in that same period, what was the change in the total net sales?",
+      "answer": 591.0,
+      "answer_raw": "591.0",
+      "program": "subtract(14953, 14362)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what percentage does this change represent in relation to those net sales in 2011?",
+      "answer": 0.04115,
+      "answer_raw": "0.04115",
+      "program": "subtract(14953, 14362), divide(#0, 14362)"
+    }
+  ]
+}

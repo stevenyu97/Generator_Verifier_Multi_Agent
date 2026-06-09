@@ -1,0 +1,79 @@
+{
+  "input": {
+    "id": "Single_EOG/2017/page_93.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "14 .",
+      "accounting for certain long-lived assets eog reviews its proved oil and gas properties for impairment purposes by comparing the expected undiscounted future cash flows at a depreciation , depletion and amortization group level to the unamortized capitalized cost of the asset .",
+      "the carrying rr values for assets determined to be impaired were adjusted to estimated fair value using the income approach described in the fair value measurement topic of the asc .",
+      "in certain instances , eog utilizes accepted offers from third-party purchasers as the basis for determining fair value .",
+      "during 2017 , proved oil and gas properties with a carrying amount of $ 370 million were written down to their fair value of $ 146 million , resulting in pretax impairment charges of $ 224 million .",
+      "during 2016 , proved oil and gas properties with a carrying rr amount of $ 643 million were written down to their fair value of $ 527 million , resulting in pretax impairment charges of $ 116 million .",
+      "impairments in 2017 , 2016 and 2015 included domestic legacy natural gas assets .",
+      "amortization and impairments of unproved oil and gas property costs , including amortization of capitalized interest , were $ 211 million , $ 291 million and $ 288 million during 2017 , 2016 and 2015 , respectively .",
+      "15 .",
+      "asset retirement obligations the following table presents the reconciliation of the beginning and ending aggregate carrying amounts of short-term and long-term legal obligations associated with the retirement of property , plant and equipment for the years ended december 31 , 2017 and 2016 ( in thousands ) : ."
+    ],
+    "post_text": [
+      "( 1 ) includes $ 164 million in 2016 related to yates transaction ( see note 17 ) .",
+      "( 2 ) includes settlements related to asset sales .",
+      "the current and noncurrent portions of eog's asset retirement obligations are included in current liabilities - other and other liabilities , respectively , on the consolidated balance sheets. ."
+    ],
+    "table": [
+      [
+        "",
+        "2017",
+        "2016"
+      ],
+      [
+        "carrying amount at beginning of period",
+        "$ 912926",
+        "$ 811554"
+      ],
+      [
+        "liabilities incurred ( 1 )",
+        "54764",
+        "212739"
+      ],
+      [
+        "liabilities settled ( 2 )",
+        "-61871 ( 61871 )",
+        "-94800 ( 94800 )"
+      ],
+      [
+        "accretion",
+        "34708",
+        "32306"
+      ],
+      [
+        "revisions",
+        "-9818 ( 9818 )",
+        "-38286 ( 38286 )"
+      ],
+      [
+        "foreign currency translations",
+        "16139",
+        "-10587 ( 10587 )"
+      ],
+      [
+        "carrying amount at end of period",
+        "$ 946848",
+        "$ 912926"
+      ],
+      [
+        "current portion",
+        "$ 19259",
+        "$ 18516"
+      ],
+      [
+        "noncurrent portion",
+        "$ 927589",
+        "$ 894410"
+      ]
+    ],
+    "questions": [
+      "what is the ratio of 2017 accretion to 2016?",
+      "what is that less 1?"
+    ]
+  }
+}

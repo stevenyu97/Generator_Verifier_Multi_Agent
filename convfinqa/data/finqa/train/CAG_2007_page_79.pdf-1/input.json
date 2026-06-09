@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "CAG/2007/page_79.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements 2014 ( continued ) fiscal years ended may 27 , 2007 , may 28 , 2006 , and may 29 , 2005 columnar amounts in millions except per share amounts 6 .",
+      "impairment of debt and equity securities during fiscal 2005 , the company determined that the carrying values of its investments in two unrelated equity method investments , a bio-fuels venture and a malt venture , were other-than-temporarily impaired and therefore recognized pre-tax impairment charges totaling $ 71.0 million ( $ 65.6 million after tax ) .",
+      "during fiscal 2006 , the company recognized additional impairment charges totaling $ 75.8 million ( $ 73.1 million after tax ) of its investments in the malt venture and an unrelated investment in a foreign prepared foods business , due to further declines in the estimated proceeds from the disposition of these investments .",
+      "the investment in a foreign prepared foods business was disposed of in fiscal 2006 .",
+      "the extent of the impairments was determined based upon the company 2019s assessment of the recoverability of its investments based primarily upon the expected proceeds of planned dispositions of the investments .",
+      "during fiscal 2007 , the company completed the disposition of the equity method investment in the malt venture for proceeds of approximately $ 24 million , including notes and other receivables totaling approximately $ 7 million .",
+      "this transaction resulted in a pre-tax gain of approximately $ 4 million , with a related tax benefit of approximately $ 4 million .",
+      "these charges and the subsequent gain on disposition are reflected in equity method investment earnings ( loss ) in the consolidated statements of earnings .",
+      "the company held , at may 28 , 2006 , subordinated notes in the original principal amount of $ 150 million plus accrued interest of $ 50.4 million from swift foods .",
+      "during the company 2019s fourth quarter of fiscal 2005 , swift foods effected changes in its capital structure .",
+      "as a result of those changes , the company determined that the fair value of the subordinated notes was impaired .",
+      "from the date on which the company initially determined that the value of the notes was impaired through the second quarter of fiscal 2006 , the company believed the impairment of this available-for-sale security to be temporary .",
+      "as such , the company had reduced the carrying value of the note by $ 35.4 million and recorded cumulative after-tax charges of $ 21.9 million in accumulated other comprehensive income as of the end of the second quarter of fiscal 2006 .",
+      "during the second half of fiscal 2006 , due to the company 2019s consideration of current conditions related to the debtor 2019s business and changes in the company 2019s intended holding period for this investment , the company determined that the impairment was other-than-temporary .",
+      "accordingly , the company reduced the carrying value of the notes to approximately $ 117 million and recognized impairment charges totaling $ 82.9 million in selling , general and administrative expenses , including the reclassification of the cumulative after-tax charges of $ 21.9 million from accumulated other comprehensive income , in fiscal 2006 .",
+      "during the second quarter of fiscal 2007 , the company closed on the sale of these notes for approximately $ 117 million , net of transaction expenses , resulting in no additional gain or loss .",
+      "7 .",
+      "inventories the major classes of inventories are as follows: ."
+    ],
+    "post_text": [
+      "raw materials and packaging includes grain , fertilizer , crude oil , and other trading and merchandising inventory of $ 691.0 million and $ 542.1 million as of the end of fiscal year 2007 and 2006 , respectively. ."
+    ],
+    "table": [
+      [
+        "",
+        "2007",
+        "2006"
+      ],
+      [
+        "raw materials and packaging",
+        "$ 1154.2",
+        "$ 985.0"
+      ],
+      [
+        "work in progress",
+        "95.2",
+        "97.4"
+      ],
+      [
+        "finished goods",
+        "1008.1",
+        "923.6"
+      ],
+      [
+        "supplies and other",
+        "91.0",
+        "124.6"
+      ],
+      [
+        "total",
+        "$ 2348.5",
+        "$ 2130.6"
+      ]
+    ],
+    "questions": [
+      "what percent of total inventories was comprised of raw materials and packaging in 2006?"
+    ]
+  }
+}

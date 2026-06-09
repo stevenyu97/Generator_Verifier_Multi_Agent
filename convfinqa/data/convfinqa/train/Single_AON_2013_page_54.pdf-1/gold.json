@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the experience loss in uk?",
+      "answer": 2012.0,
+      "answer_raw": "2012.0",
+      "program": "2012"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the experience loss in us?",
+      "answer": 1219.0,
+      "answer_raw": "1219.0",
+      "program": "1219"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum of the uk and us?",
+      "answer": 3231.0,
+      "answer_raw": "3231.0",
+      "program": "add(2012, 1219)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total sum including other combined experience loss?",
+      "answer": 3633.0,
+      "answer_raw": "3633.0",
+      "program": "add(2012, 1219), add(#0, 402)"
+    }
+  ]
+}

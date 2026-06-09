@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2013, what percentage did the tax benefit represent in relation to nonoperating income ( expense ) on a gaap basis?",
+      "answer": 0.41379,
+      "answer_raw": "0.41379",
+      "program": "divide(48, 116)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what percentage did the nonoperating income ( expense ) less net income ( loss ) attributable to nci as adjusted represent in relation to it?",
+      "answer": 0.06034,
+      "answer_raw": "0.06034",
+      "program": "divide(7, 116)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the growth rate of reit index as of 12/31/2003",
+      "answer": 0.38,
+      "answer_raw": "0.38",
+      "program": "subtract(138, const_100), divide(#0, const_100)"
+    }
+  ]
+}

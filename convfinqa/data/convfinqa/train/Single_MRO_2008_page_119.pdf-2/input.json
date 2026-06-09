@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "Single_MRO/2008/page_119.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "marathon oil corporation notes to consolidated financial statements 7 .",
+      "dispositions outside-operated norwegian properties 2013 on october 31 , 2008 , we closed the sale of our norwegian outside-operated properties and undeveloped offshore acreage in the heimdal area of the norwegian north sea for net proceeds of $ 301 million , with a pretax gain of $ 254 million as of december 31 , 2008 .",
+      "pilot travel centers 2013 on october 8 , 2008 , we completed the sale of our 50 percent ownership interest in ptc .",
+      "sale proceeds were $ 625 million , with a pretax gain on the sale of $ 126 million .",
+      "immediately preceding the sale , we received a $ 75 million partial redemption of our ownership interest from ptc that was accounted for as a return of investment .",
+      "operated irish properties 2013 on december 17 , 2008 , we agreed to sell our operated properties located in ireland for proceeds of $ 180 million , before post-closing adjustments and cash on hand at closing .",
+      "closing is subject to completion of the necessary administrative processes .",
+      "as of december 31 , 2008 , operating assets and liabilities were classified as held for sale , as disclosed by major class in the following table : ( in millions ) 2008 ."
+    ],
+    "post_text": [
+      "8 .",
+      "discontinued operations on june 2 , 2006 , we sold our russian oil exploration and production businesses in the khanty-mansiysk region of western siberia .",
+      "under the terms of the agreement , we received $ 787 million for these businesses , plus preliminary working capital and other closing adjustments of $ 56 million , for a total transaction value of $ 843 million .",
+      "proceeds net of transaction costs and cash held by the russian businesses at the transaction date totaled $ 832 million .",
+      "a gain on the sale of $ 243 million ( $ 342 million before income taxes ) was reported in discontinued operations for 2006 .",
+      "income taxes on this gain were reduced by the utilization of a capital loss carryforward .",
+      "exploration and production segment goodwill of $ 21 million was allocated to the russian assets and reduced the reported gain .",
+      "adjustments to the sales price were completed in 2007 and an additional gain on the sale of $ 8 million ( $ 13 million before income taxes ) was recognized .",
+      "the activities of the russian businesses have been reported as discontinued operations in the consolidated statements of income and the consolidated statements of cash flows for 2006 .",
+      "revenues applicable to discontinued operations were $ 173 million and pretax income from discontinued operations was $ 45 million for 2006. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2008"
+      ],
+      [
+        "current assets",
+        "$ 164"
+      ],
+      [
+        "noncurrent assets",
+        "103"
+      ],
+      [
+        "total assets",
+        "267"
+      ],
+      [
+        "current liabilities",
+        "62"
+      ],
+      [
+        "noncurrent liabilities",
+        "199"
+      ],
+      [
+        "total liabilities",
+        "261"
+      ],
+      [
+        "net assets held for sale",
+        "$ 6"
+      ]
+    ],
+    "questions": [
+      "what was the total in current assets and noncurrent assets in 2008, in millions?",
+      "and what is the average between them, also in millions?"
+    ]
+  }
+}

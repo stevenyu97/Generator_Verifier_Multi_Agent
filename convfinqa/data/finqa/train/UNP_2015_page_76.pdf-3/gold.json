@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in equipment rents payable from 2014 to 2015?",
+      "answer": 0.05,
+      "answer_raw": "0.05",
+      "program": "subtract(105, 100), divide(#0, 100)"
+    }
+  ]
+}

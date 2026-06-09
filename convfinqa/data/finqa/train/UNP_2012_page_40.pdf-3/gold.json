@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total commercial commitments are receivables securitization facility?",
+      "answer": 0.21962,
+      "answer_raw": "0.21962",
+      "program": "divide(600, 2732)"
+    }
+  ]
+}

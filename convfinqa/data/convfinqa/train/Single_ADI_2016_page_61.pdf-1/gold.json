@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the balance of goodwill in 2015?",
+      "answer": 1636526.0,
+      "answer_raw": "1636526.0",
+      "program": "1636526"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that balance in 2014?",
+      "answer": 1642438.0,
+      "answer_raw": "1642438.0",
+      "program": "1642438"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": -5912.0,
+      "answer_raw": "-5912.0",
+      "program": "subtract(1636526, 1642438)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the balance of goodwill in 2014?",
+      "answer": 1642438.0,
+      "answer_raw": "1642438.0",
+      "program": "1642438"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this 2014 balance, in percentage?",
+      "answer": -0.0036,
+      "answer_raw": "-0.0036",
+      "program": "subtract(1636526, 1642438), divide(#0, 1642438)"
+    }
+  ]
+}

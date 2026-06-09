@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total accumulated other comprehensive income is from 2007?",
+      "answer": 0.27937,
+      "answer_raw": "0.27937",
+      "program": "divide(81.1, 290.3)"
+    }
+  ]
+}

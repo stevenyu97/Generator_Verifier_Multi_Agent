@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total amount is held on fixed maturities?",
+      "answer": 0.96364,
+      "answer_raw": "0.96364",
+      "program": "divide(24704, 25636)"
+    }
+  ]
+}

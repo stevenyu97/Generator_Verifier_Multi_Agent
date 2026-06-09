@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many total votes can the class b-3 provide in 2017?",
+      "answer": 1300.0,
+      "answer_raw": "1300.0",
+      "program": "multiply(const_1000, 1.3), multiply(const_1, #0)"
+    }
+  ]
+}

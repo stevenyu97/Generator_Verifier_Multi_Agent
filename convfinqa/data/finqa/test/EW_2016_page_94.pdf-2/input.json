@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "EW/2016/page_94.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "edwards lifesciences corporation notes to consolidated financial statements ( continued ) 13 .",
+      "common stock ( continued ) the company also maintains the nonemployee directors stock incentive compensation program ( the 2018 2018nonemployee directors program 2019 2019 ) .",
+      "under the nonemployee directors program , upon a director 2019s initial election to the board , the director receives an initial grant of stock options or restricted stock units equal to a fair market value on grant date of $ 0.2 million , not to exceed 20000 shares .",
+      "these grants vest over three years from the date of grant , subject to the director 2019s continued service .",
+      "in addition , annually each nonemployee director may receive up to 40000 stock options or 16000 restricted stock units of the company 2019s common stock , or a combination thereof , provided that in no event may the total value of the combined annual award exceed $ 0.2 million .",
+      "these grants generally vest over one year from the date of grant .",
+      "under the nonemployee directors program , an aggregate of 2.8 million shares of the company 2019s common stock has been authorized for issuance .",
+      "the company has an employee stock purchase plan for united states employees and a plan for international employees ( collectively 2018 2018espp 2019 2019 ) .",
+      "under the espp , eligible employees may purchase shares of the company 2019s common stock at 85% ( 85 % ) of the lower of the fair market value of edwards lifesciences common stock on the effective date of subscription or the date of purchase .",
+      "under the espp , employees can authorize the company to withhold up to 12% ( 12 % ) of their compensation for common stock purchases , subject to certain limitations .",
+      "the espp is available to all active employees of the company paid from the united states payroll and to eligible employees of the company outside the united states , to the extent permitted by local law .",
+      "the espp for united states employees is qualified under section 423 of the internal revenue code .",
+      "the number of shares of common stock authorized for issuance under the espp was 13.8 million shares .",
+      "the fair value of each option award and employee stock purchase subscription is estimated on the date of grant using the black-scholes option valuation model that uses the assumptions noted in the following tables .",
+      "the risk-free interest rate is estimated using the u.s .",
+      "treasury yield curve and is based on the expected term of the award .",
+      "expected volatility is estimated based on a blend of the weighted-average of the historical volatility of edwards lifesciences 2019 stock and the implied volatility from traded options on edwards lifesciences 2019 stock .",
+      "the expected term of awards granted is estimated from the vesting period of the award , as well as historical exercise behavior , and represents the period of time that awards granted are expected to be outstanding .",
+      "the company uses historical data to estimate forfeitures and has estimated an annual forfeiture rate of 6.0% ( 6.0 % ) .",
+      "the black-scholes option pricing model was used with the following weighted-average assumptions for options granted during the following periods : option awards ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "average risk-free interest rate",
+        "1.1% ( 1.1 % )",
+        "1.4% ( 1.4 % )",
+        "1.5% ( 1.5 % )"
+      ],
+      [
+        "expected dividend yield",
+        "none",
+        "none",
+        "none"
+      ],
+      [
+        "expected volatility",
+        "33% ( 33 % )",
+        "30% ( 30 % )",
+        "31% ( 31 % )"
+      ],
+      [
+        "expected life ( years )",
+        "4.5",
+        "4.6",
+        "4.6"
+      ],
+      [
+        "fair value per share",
+        "$ 31.00",
+        "$ 18.13",
+        "$ 11.75"
+      ]
+    ],
+    "questions": [
+      "what is the percentage difference in the fair value per share between 2014 and 2015?"
+    ]
+  }
+}

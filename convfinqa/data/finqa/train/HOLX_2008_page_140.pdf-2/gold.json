@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the estimated price of hologic common stock used in the transaction for biolucent acquisition?",
+      "answer": 27.31201,
+      "answer_raw": "27.31201",
+      "program": "divide(63200, 2314)"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "AAL/2015/page_83.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents the following discussion of nonoperating income and expense excludes the results of us airways in order to provide a more meaningful year-over-year comparison .",
+      "interest expense , net of capitalized interest decreased $ 129 million in 2014 from 2013 primarily due to a $ 63 million decrease in special charges recognized year-over-year as further described below , as well as refinancing activities that resulted in $ 65 million less interest expense recognized in 2014 .",
+      "( 1 ) in 2014 , american recognized $ 29 million of special charges relating to non-cash interest accretion on bankruptcy settlement obligations .",
+      "in 2013 , american recognized $ 48 million of special charges relating to post-petition interest expense on unsecured obligations pursuant to the plan and penalty interest related to american 2019s 10.5% ( 10.5 % ) secured notes and 7.50% ( 7.50 % ) senior secured notes .",
+      "in addition , in 2013 american recorded special charges of $ 44 million for debt extinguishment costs incurred as a result of the repayment of certain aircraft secured indebtedness , including cash interest charges and non-cash write offs of unamortized debt issuance costs .",
+      "( 2 ) as a result of the 2013 refinancing activities and the early extinguishment of american 2019s 7.50% ( 7.50 % ) senior secured notes in 2014 , american incurred $ 65 million less interest expense in 2014 as compared to 2013 .",
+      "other nonoperating expense , net in 2014 consisted of $ 92 million of net foreign currency losses , including a $ 43 million special charge for venezuelan foreign currency losses , and $ 48 million of early debt extinguishment costs related to the prepayment of american 2019s 7.50% ( 7.50 % ) senior secured notes and other indebtedness .",
+      "the foreign currency losses were driven primarily by the strengthening of the u.s .",
+      "dollar relative to other currencies during 2014 , principally in the latin american market , including a 48% ( 48 % ) decrease in the value of the venezuelan bolivar and a 14% ( 14 % ) decrease in the value of the brazilian real .",
+      "other nonoperating expense , net in 2013 consisted principally of net foreign currency losses of $ 55 million and early debt extinguishment charges of $ 29 million .",
+      "reorganization items , net reorganization items refer to revenues , expenses ( including professional fees ) , realized gains and losses and provisions for losses that are realized or incurred as a direct result of the chapter 11 cases .",
+      "the following table summarizes the components included in reorganization items , net on american 2019s consolidated statement of operations for the year ended december 31 , 2013 ( in millions ) : ."
+    ],
+    "post_text": [
+      "( 1 ) in exchange for employees 2019 contributions to the successful reorganization , including agreeing to reductions in pay and benefits , american agreed in the plan to provide each employee group a deemed claim , which was used to provide a distribution of a portion of the equity of the reorganized entity to those employees .",
+      "each employee group received a deemed claim amount based upon a portion of the value of cost savings provided by that group through reductions to pay and benefits as well as through certain work rule changes .",
+      "the total value of this deemed claim was approximately $ 1.7 billion .",
+      "( 2 ) amounts include allowed claims ( claims approved by the bankruptcy court ) and estimated allowed claims relating to ( i ) the rejection or modification of financings related to aircraft and ( ii ) entry of orders treated as unsecured claims with respect to facility agreements supporting certain issuances of special facility revenue ."
+    ],
+    "table": [
+      [
+        "",
+        "2013"
+      ],
+      [
+        "labor-related deemed claim ( 1 )",
+        "$ 1733"
+      ],
+      [
+        "aircraft and facility financing renegotiations and rejections ( 2 ) ( 3 )",
+        "320"
+      ],
+      [
+        "fair value of conversion discount ( 4 )",
+        "218"
+      ],
+      [
+        "professional fees",
+        "199"
+      ],
+      [
+        "other",
+        "170"
+      ],
+      [
+        "total reorganization items net",
+        "$ 2640"
+      ]
+    ],
+    "questions": [
+      "what percentage of total 2013 reorganization items consisted of professional fees?"
+    ]
+  }
+}

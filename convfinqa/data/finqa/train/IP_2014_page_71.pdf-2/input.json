@@ -1,0 +1,106 @@
+{
+  "input": {
+    "id": "IP/2014/page_71.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "on the credit rating of the company and a $ 200 million term loan with an interest rate of libor plus a margin of 175 basis points , both with maturity dates in 2017 .",
+      "the proceeds from these borrowings were used , along with available cash , to fund the acquisition of temple- inland .",
+      "during 2012 , international paper fully repaid the $ 1.2 billion term loan .",
+      "international paper utilizes interest rate swaps to change the mix of fixed and variable rate debt and manage interest expense .",
+      "at december 31 , 2012 , international paper had interest rate swaps with a total notional amount of $ 150 million and maturities in 2013 ( see note 14 derivatives and hedging activities on pages 70 through 74 of item 8 .",
+      "financial statements and supplementary data ) .",
+      "during 2012 , existing swaps and the amortization of deferred gains on previously terminated swaps decreased the weighted average cost of debt from 6.8% ( 6.8 % ) to an effective rate of 6.6% ( 6.6 % ) .",
+      "the inclusion of the offsetting interest income from short- term investments reduced this effective rate to 6.2% ( 6.2 % ) .",
+      "other financing activities during 2012 included the issuance of approximately 1.9 million shares of treasury stock , net of restricted stock withholding , and 1.0 million shares of common stock for various incentive plans , including stock options exercises that generated approximately $ 108 million of cash .",
+      "payment of restricted stock withholding taxes totaled $ 35 million .",
+      "off-balance sheet variable interest entities information concerning off-balance sheet variable interest entities is set forth in note 12 variable interest entities and preferred securities of subsidiaries on pages 67 through 69 of item 8 .",
+      "financial statements and supplementary data for discussion .",
+      "liquidity and capital resources outlook for 2015 capital expenditures and long-term debt international paper expects to be able to meet projected capital expenditures , service existing debt and meet working capital and dividend requirements during 2015 through current cash balances and cash from operations .",
+      "additionally , the company has existing credit facilities totaling $ 2.0 billion of which nothing has been used .",
+      "the company was in compliance with all its debt covenants at december 31 , 2014 .",
+      "the company 2019s financial covenants require the maintenance of a minimum net worth of $ 9 billion and a total debt-to- capital ratio of less than 60% ( 60 % ) .",
+      "net worth is defined as the sum of common stock , paid-in capital and retained earnings , less treasury stock plus any cumulative goodwill impairment charges .",
+      "the calculation also excludes accumulated other comprehensive income/ loss and nonrecourse financial liabilities of special purpose entities .",
+      "the total debt-to-capital ratio is defined as total debt divided by the sum of total debt plus net worth .",
+      "at december 31 , 2014 , international paper 2019s net worth was $ 14.0 billion , and the total-debt- to-capital ratio was 40% ( 40 % ) .",
+      "the company will continue to rely upon debt and capital markets for the majority of any necessary long-term funding not provided by operating cash flows .",
+      "funding decisions will be guided by our capital structure planning objectives .",
+      "the primary goals of the company 2019s capital structure planning are to maximize financial flexibility and preserve liquidity while reducing interest expense .",
+      "the majority of international paper 2019s debt is accessed through global public capital markets where we have a wide base of investors .",
+      "maintaining an investment grade credit rating is an important element of international paper 2019s financing strategy .",
+      "at december 31 , 2014 , the company held long-term credit ratings of bbb ( stable outlook ) and baa2 ( stable outlook ) by s&p and moody 2019s , respectively .",
+      "contractual obligations for future payments under existing debt and lease commitments and purchase obligations at december 31 , 2014 , were as follows: ."
+    ],
+    "post_text": [
+      "( a ) total debt includes scheduled principal payments only .",
+      "( b ) represents debt obligations borrowed from non-consolidated variable interest entities for which international paper has , and intends to effect , a legal right to offset these obligations with investments held in the entities .",
+      "accordingly , in its consolidated balance sheet at december 31 , 2014 , international paper has offset approximately $ 5.2 billion of interests in the entities against this $ 5.3 billion of debt obligations held by the entities ( see note 12 variable interest entities and preferred securities of subsidiaries on pages 67 through 69 in item 8 .",
+      "financial statements and supplementary data ) .",
+      "( c ) includes $ 2.3 billion relating to fiber supply agreements entered into at the time of the 2006 transformation plan forestland sales and in conjunction with the 2008 acquisition of weyerhaeuser company 2019s containerboard , packaging and recycling business .",
+      "( d ) not included in the above table due to the uncertainty as to the amount and timing of the payment are unrecognized tax benefits of approximately $ 119 million .",
+      "as discussed in note 12 variable interest entities and preferred securities of subsidiaries on pages 67 through 69 in item 8 .",
+      "financial statements and supplementary data , in connection with the 2006 international paper installment sale of forestlands , we received $ 4.8 billion of installment notes ( or timber notes ) , which we contributed to certain non- consolidated borrower entities .",
+      "the installment notes mature in august 2016 ( unless extended ) .",
+      "the deferred ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "thereafter"
+      ],
+      [
+        "maturities of long-term debt ( a )",
+        "$ 742",
+        "$ 543",
+        "$ 71",
+        "$ 1229",
+        "$ 605",
+        "$ 6184"
+      ],
+      [
+        "debt obligations with right of offset ( b )",
+        "2014",
+        "5202",
+        "2014",
+        "2014",
+        "2014",
+        "2014"
+      ],
+      [
+        "lease obligations",
+        "142",
+        "106",
+        "84",
+        "63",
+        "45",
+        "91"
+      ],
+      [
+        "purchase obligations ( c )",
+        "3266",
+        "761",
+        "583",
+        "463",
+        "422",
+        "1690"
+      ],
+      [
+        "total ( d )",
+        "$ 4150",
+        "$ 6612",
+        "$ 738",
+        "$ 1755",
+        "$ 1072",
+        "$ 7965"
+      ]
+    ],
+    "questions": [
+      "what percentage of contractual obligations for future payments under existing debt and lease commitments and purchase obligations at december 31 , 2014 due in 2016 are purchase obligations?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the floating rate notes included in the long-term debt payments due in 2016 to 2017",
+      "answer": 1.3125,
+      "answer_raw": "1.3125",
+      "program": "divide(126, 96)"
+    }
+  ]
+}

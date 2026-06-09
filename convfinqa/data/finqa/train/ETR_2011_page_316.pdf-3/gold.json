@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2011 what was the ratio of the income tax benefit to the increase in the net income",
+      "answer": 1.74021,
+      "answer_raw": "1.74021",
+      "program": "divide(422, 242.5)"
+    }
+  ]
+}

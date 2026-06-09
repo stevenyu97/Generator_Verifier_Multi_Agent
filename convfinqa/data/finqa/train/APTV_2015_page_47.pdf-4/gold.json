@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of powertrain systems sites among all sites?",
+      "answer": 0.16667,
+      "answer_raw": "0.16667",
+      "program": "divide(21, 126)"
+    }
+  ]
+}

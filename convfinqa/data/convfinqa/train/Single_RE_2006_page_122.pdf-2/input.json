@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "Single_RE/2006/page_122.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the following table displays the expected benefit payments in the years indicated : ( dollars in thousands ) ."
+    ],
+    "post_text": [
+      "1 4 .",
+      "d i v i d e n d r e s t r i c t i o n s a n d s t a t u t o r y f i n a n c i a l i n f o r m a t i o n a .",
+      "d i v i d e n d r e s t r i c t i o n s under bermuda law , group is prohibited from declaring or paying a dividend if such payment would reduce the realizable value of its assets to an amount less than the aggregate value of its liabilities and its issued share capital and share premium ( addi- tional paid-in capital ) accounts .",
+      "group 2019s ability to pay dividends and its operating expenses is dependent upon dividends from its subsidiaries .",
+      "the payment of such dividends by insurer subsidiaries is limited under bermuda law and the laws of the var- ious u.s .",
+      "states in which group 2019s insurance and reinsurance subsidiaries are domiciled or deemed domiciled .",
+      "the limitations are generally based upon net income and compliance with applicable policyholders 2019 surplus or minimum solvency margin and liquidity ratio requirements as determined in accordance with the relevant statutory accounting practices .",
+      "under bermuda law , bermuda re is prohibited from declaring or making payment of a dividend if it fails to meet its minimum solvency margin or minimum liquidity ratio .",
+      "as a long-term insurer , bermuda re is also unable to declare or pay a dividend to anyone who is not a policyholder unless , after payment of the dividend , the value of the assets in its long-term business fund , as certified by its approved actuary , exceeds its liabilities for long-term business by at least the $ 250000 minimum solvency margin .",
+      "prior approval of the bermuda monetary authority is required if bermuda re 2019s dividend payments would reduce its prior year-end total statutory capital by 15.0% ( 15.0 % ) or more .",
+      "delaware law provides that an insurance company which is a member of an insurance holding company system and is domi- ciled in the state shall not pay dividends without giving prior notice to the insurance commissioner of delaware and may not pay dividends without the approval of the insurance commissioner if the value of the proposed dividend , together with all other dividends and distributions made in the preceding twelve months , exceeds the greater of ( 1 ) 10% ( 10 % ) of statutory surplus or ( 2 ) net income , not including realized capital gains , each as reported in the prior year 2019s statutory annual statement .",
+      "in addition , no dividend may be paid in excess of unassigned earned surplus .",
+      "at december 31 , 2006 , everest re had $ 270.4 million available for payment of dividends in 2007 without the need for prior regulatory approval .",
+      "b .",
+      "s t a t u t o r y f i n a n c i a l i n f o r m a t i o n everest re prepares its statutory financial statements in accordance with accounting practices prescribed or permitted by the national association of insurance commissioners ( 201cnaic 201d ) and the delaware insurance department .",
+      "prescribed statutory accounting practices are set forth in the naic accounting practices and procedures manual .",
+      "the capital and statutory surplus of everest re was $ 2704.1 million ( unaudited ) and $ 2327.6 million at december 31 , 2006 and 2005 , respectively .",
+      "the statutory net income of everest re was $ 298.7 million ( unaudited ) for the year ended december 31 , 2006 , the statutory net loss was $ 26.9 million for the year ended december 31 , 2005 and the statutory net income $ 175.8 million for the year ended december 31 , 2004 .",
+      "bermuda re prepares its statutory financial statements in conformity with the accounting principles set forth in bermuda in the insurance act 1978 , amendments thereto and related regulations .",
+      "the statutory capital and surplus of bermuda re was $ 1893.9 million ( unaudited ) and $ 1522.5 million at december 31 , 2006 and 2005 , respectively .",
+      "the statutory net income of bermuda re was $ 409.8 million ( unaudited ) for the year ended december 31 , 2006 , the statutory net loss was $ 220.5 million for the year ended december 31 , 2005 and the statutory net income was $ 248.7 million for the year ended december 31 , 2004 .",
+      "1 5 .",
+      "c o n t i n g e n c i e s in the ordinary course of business , the company is involved in lawsuits , arbitrations and other formal and informal dispute resolution procedures , the outcomes of which will determine the company 2019s rights and obligations under insurance , reinsur- ance and other contractual agreements .",
+      "in some disputes , the company seeks to enforce its rights under an agreement or to collect funds owing to it .",
+      "in other matters , the company is resisting attempts by others to collect funds or enforce alleged rights .",
+      "these disputes arise from time to time and as they arise are addressed , and ultimately resolved , through both informal and formal means , including negotiated resolution , arbitration and litigation .",
+      "in all such matters , the company believes that ."
+    ],
+    "table": [
+      [
+        "2007",
+        "$ 117"
+      ],
+      [
+        "2008",
+        "140"
+      ],
+      [
+        "2009",
+        "203"
+      ],
+      [
+        "2010",
+        "263"
+      ],
+      [
+        "2011",
+        "328"
+      ],
+      [
+        "next 5 years",
+        "2731"
+      ]
+    ],
+    "questions": [
+      "what were the expected benefit payments in 2007 and 2008 combined?",
+      "and the value for 2009 specifically?",
+      "now combined with the other two years?",
+      "and now including 2010?",
+      "and also combined with 2011?"
+    ]
+  }
+}

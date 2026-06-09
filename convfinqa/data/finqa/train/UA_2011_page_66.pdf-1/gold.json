@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the inventory of finished goods from 2010 to 2011",
+      "answer": 0.50848,
+      "answer_raw": "0.50848",
+      "program": "subtract(323606, 214524), divide(#0, 214524)"
+    }
+  ]
+}

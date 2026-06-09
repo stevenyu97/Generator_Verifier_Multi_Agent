@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the approved securities is issued?",
+      "answer": 0.39931,
+      "answer_raw": "0.39931",
+      "program": "add(5171000, 7779000), divide(5171000, #0)"
+    }
+  ]
+}

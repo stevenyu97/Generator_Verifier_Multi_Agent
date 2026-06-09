@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average number of shares of class a common stock were issued to non-executive between 2010 and 2012",
+      "answer": 59099.0,
+      "answer_raw": "59099.0",
+      "program": "add(40260, 40585), add(#0, 37350), add(#1, const_3), divide(#2, const_2)"
+    }
+  ]
+}

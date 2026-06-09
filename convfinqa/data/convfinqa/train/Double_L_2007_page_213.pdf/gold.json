@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the reconciliation, what was the change in the balance of unrecognized tax benefits throughout 2007?",
+      "answer": -17.0,
+      "answer_raw": "-17.0",
+      "program": "subtract(53, 70)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and during that same year, considering the total income tax expense and the percentage of the income before tax it represents, what was the total amount of this income before tax?",
+      "answer": 4574.28571,
+      "answer_raw": "4574.28571",
+      "program": "divide(1601, 35%)"
+    }
+  ]
+}

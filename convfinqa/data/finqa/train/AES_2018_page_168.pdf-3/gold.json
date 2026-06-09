@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change of unrecognized tax benefits at year end between 2017 and 2018?",
+      "answer": 0.33046,
+      "answer_raw": "0.33046",
+      "program": "subtract(463, 348), divide(#0, 348)"
+    }
+  ]
+}

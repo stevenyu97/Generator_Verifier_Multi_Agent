@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amount in cash?",
+      "answer": 116.0,
+      "answer_raw": "116.0",
+      "program": "116"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and accounts receivables?",
+      "answer": 278.0,
+      "answer_raw": "278.0",
+      "program": "278"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combining these two assets, what was the total value?",
+      "answer": 394.0,
+      "answer_raw": "394.0",
+      "program": "add(116, 278)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the amount of inventory?",
+      "answer": 124.0,
+      "answer_raw": "124.0",
+      "program": "124"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and combined with the other two assets?",
+      "answer": 518.0,
+      "answer_raw": "518.0",
+      "program": "add(116, 278), add(#0, 124)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and the total value now including total other assets?",
+      "answer": 559.0,
+      "answer_raw": "559.0",
+      "program": "add(116, 278), add(#0, 124), add(#1, 41)"
+    }
+  ]
+}

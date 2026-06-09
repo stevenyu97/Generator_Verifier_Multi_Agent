@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2017 what was the percent of shares forfeited",
+      "answer": 0.03559,
+      "answer_raw": "0.03559",
+      "program": "divide(const_10, 281)"
+    }
+  ]
+}

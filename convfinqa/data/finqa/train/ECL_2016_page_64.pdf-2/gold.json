@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions for 2016 , 2015 , and 2014 , what was the total beginning balance in allowance for doubtful accounts?",
+      "answer": 233.0,
+      "answer_raw": "233.0",
+      "program": "table_sum(beginning balance, none)"
+    }
+  ]
+}

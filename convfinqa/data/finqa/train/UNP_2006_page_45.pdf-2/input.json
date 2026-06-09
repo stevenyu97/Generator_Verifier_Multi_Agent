@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "UNP/2006/page_45.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "potentially responsible parties , and existing technology , laws , and regulations .",
+      "the ultimate liability for remediation is difficult to determine because of the number of potentially responsible parties involved , site- specific cost sharing arrangements with other potentially responsible parties , the degree of contamination by various wastes , the scarcity and quality of volumetric data related to many of the sites , and the speculative nature of remediation costs .",
+      "current obligations are not expected to have a material adverse effect on our consolidated results of operations , financial condition , or liquidity .",
+      "personal injury 2013 the cost of personal injuries to employees and others related to our activities is charged to expense based on estimates of the ultimate cost and number of incidents each year .",
+      "we use third-party actuaries to assist us with measuring the expense and liability , including unasserted claims .",
+      "the federal employers 2019 liability act ( fela ) governs compensation for work-related accidents .",
+      "under fela , damages are assessed based on a finding of fault through litigation or out-of-court settlements .",
+      "we offer a comprehensive variety of services and rehabilitation programs for employees who are injured at work .",
+      "annual expenses for personal injury-related events were $ 240 million in 2006 , $ 247 million in 2005 , and $ 288 million in 2004 .",
+      "as of december 31 , 2006 and 2005 , we had accrued liabilities of $ 631 million and $ 619 million for future personal injury costs , respectively , of which $ 233 million and $ 274 million was recorded in current liabilities as accrued casualty costs , respectively .",
+      "our personal injury liability is discounted to present value using applicable u.s .",
+      "treasury rates .",
+      "approximately 87% ( 87 % ) of the recorded liability related to asserted claims , and approximately 13% ( 13 % ) related to unasserted claims .",
+      "estimates can vary over time due to evolving trends in litigation .",
+      "our personal injury claims activity was as follows : claims activity 2006 2005 2004 ."
+    ],
+    "post_text": [
+      "depreciation 2013 the railroad industry is capital intensive .",
+      "properties are carried at cost .",
+      "provisions for depreciation are computed principally on the straight-line method based on estimated service lives of depreciable property .",
+      "the lives are calculated using a separate composite annual percentage rate for each depreciable property group , based on the results of internal depreciation studies .",
+      "we are required to submit a report on depreciation studies and proposed depreciation rates to the stb for review and approval every three years for equipment property and every six years for road property .",
+      "the cost ( net of salvage ) of depreciable railroad property retired or replaced in the ordinary course of business is charged to accumulated depreciation , and no gain or loss is recognized .",
+      "a gain or loss is recognized in other income for all other property upon disposition because the gain or loss is not part of rail operations .",
+      "the cost of internally developed software is capitalized and amortized over a five-year period .",
+      "significant capital spending in recent years increased the total value of our depreciable assets .",
+      "cash capital spending totaled $ 2.2 billion for the year ended december 31 , 2006 .",
+      "for the year ended december 31 , 2006 , depreciation expense was $ 1.2 billion .",
+      "we use various methods to estimate useful lives for each group of depreciable property .",
+      "due to the capital intensive nature of the business and the large base of depreciable assets , variances to those estimates could have a material effect on our consolidated financial statements .",
+      "if the estimated useful lives of all depreciable assets were increased by one year , annual depreciation expense would decrease by approximately $ 43 million .",
+      "if the estimated useful lives of all assets to be depreciated were decreased by one year , annual depreciation expense would increase by approximately $ 45 million .",
+      "income taxes 2013 as required under fasb statement no .",
+      "109 , accounting for income taxes , we account for income taxes by recording taxes payable or refundable for the current year and deferred tax assets and liabilities for the future tax consequences of events that have been recognized in our financial statements or tax returns .",
+      "these ."
+    ],
+    "table": [
+      [
+        "claims activity",
+        "2006",
+        "2005",
+        "2004"
+      ],
+      [
+        "open claims beginning balance",
+        "4197",
+        "4028",
+        "4085"
+      ],
+      [
+        "new claims",
+        "4190",
+        "4584",
+        "4366"
+      ],
+      [
+        "settled or dismissed claims",
+        "-4261 ( 4261 )",
+        "-4415 ( 4415 )",
+        "-4423 ( 4423 )"
+      ],
+      [
+        "open claims ending balance at december 31",
+        "4126",
+        "4197",
+        "4028"
+      ]
+    ],
+    "questions": [
+      "what was the percentage increase in the open claims ending balance at december 312005 from 2004"
+    ]
+  }
+}

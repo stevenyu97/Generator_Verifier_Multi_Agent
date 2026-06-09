@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the statistical interval for 2017's interest income using 2016's interest income as a midpoint?",
+      "answer": 9.1,
+      "answer_raw": "9.1",
+      "program": "add(20.1, 11.0), subtract(20.1, 11.0)"
+    }
+  ]
+}

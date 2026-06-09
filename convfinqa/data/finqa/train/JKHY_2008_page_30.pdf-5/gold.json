@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in fiscal 2008 , what percentage of net cash for investment activities came from payments for acquisitions?",
+      "answer": 0.47097,
+      "answer_raw": "0.47097",
+      "program": "divide(48109, 102148)"
+    }
+  ]
+}

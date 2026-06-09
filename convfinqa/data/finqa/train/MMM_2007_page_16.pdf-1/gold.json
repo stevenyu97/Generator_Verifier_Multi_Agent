@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the total tumber of shares purchased that was not of the shares purchased as part of publicly announced plans or programs",
+      "answer": 0.0201,
+      "answer_raw": "0.0201",
+      "program": "subtract(39756386, 38972900), divide(#0, 38972900)"
+    }
+  ]
+}

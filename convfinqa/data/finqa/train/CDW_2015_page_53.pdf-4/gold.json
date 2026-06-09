@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the three year average cash conversion cycle in days?",
+      "answer": 21.66667,
+      "answer_raw": "21.66667",
+      "program": "table_average(cash conversion cycle, none)"
+    }
+  ]
+}

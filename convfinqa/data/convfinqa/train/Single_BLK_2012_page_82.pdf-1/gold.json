@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the sum of total 2010 economic investment exposure and the positive value of investments held by consolidated sponsored investment funds?",
+      "answer": 1735.0,
+      "answer_raw": "1735.0",
+      "program": "add(1211, 524)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the positive value of investments held?",
+      "answer": 524.0,
+      "answer_raw": "524.0",
+      "program": "524"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is that divided the total sum?",
+      "answer": 0.30202,
+      "answer_raw": "0.30202",
+      "program": "add(1211, 524), divide(524, #0)"
+    }
+  ]
+}

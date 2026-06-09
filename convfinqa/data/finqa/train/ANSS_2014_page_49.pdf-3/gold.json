@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage decrease in net come for the year ended 2013 to the year ended 2012?",
+      "answer": 0.1704,
+      "answer_raw": "0.1704",
+      "program": "subtract(245.3, 203.5), divide(#0, 245.3)"
+    }
+  ]
+}

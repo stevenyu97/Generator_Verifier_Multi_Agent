@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "MAS/2018/page_73.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "masco corporation notes to consolidated financial statements ( continued ) m .",
+      "employee retirement plans ( continued ) plan assets .",
+      "our qualified defined-benefit pension plan weighted average asset allocation , which is based upon fair value , was as follows: ."
+    ],
+    "post_text": [
+      "for our qualified defined-benefit pension plans , we have adopted accounting guidance that defines fair value , establishes a framework for measuring fair value and prescribes disclosures about fair value measurements .",
+      "accounting guidance defines fair value as \"the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.\" following is a description of the valuation methodologies used for assets measured at fair value .",
+      "there have been no changes in the methodologies used at december 31 , 2018 compared to december 31 , 2017 .",
+      "common and preferred stocks and short-term and other investments : valued at the closing price reported on the active market on which the individual securities are traded or based on the active market for similar securities .",
+      "certain investments are valued based on net asset value ( \"nav\" ) , which approximates fair value .",
+      "such basis is determined by referencing the respective fund's underlying assets .",
+      "there are no unfunded commitments or other restrictions associated with these investments .",
+      "private equity and hedge funds : valued based on an estimated fair value using either a market approach or an income approach , both of which require a significant degree of judgment .",
+      "there is no active trading market for these investments and they are generally illiquid .",
+      "due to the significant unobservable inputs , the fair value measurements used to estimate fair value are a level 3 input .",
+      "certain investments are valued based on nav , which approximates fair value .",
+      "such basis is determined by referencing the respective fund's underlying assets .",
+      "there are no unfunded commitments or other restrictions associated with the investments valued at nav .",
+      "corporate , government and other debt securities : valued based on either the closing price reported on the active market on which the individual securities are traded or using pricing models maximizing the use of observable inputs for similar securities .",
+      "this includes basing value on yields currently available on comparable securities of issuers with similar credit ratings .",
+      "certain investments are valued based on nav , which approximates fair value .",
+      "such basis is determined by referencing the respective fund's underlying assets .",
+      "there are unfunded commitments of $ 1 million and no other restrictions associated with these investments .",
+      "common collective trust fund : valued based on an amortized cost basis , which approximates fair value .",
+      "such basis is determined by reference to the respective fund's underlying assets , which are primarily cash equivalents .",
+      "there are no unfunded commitments or other restrictions associated with this fund .",
+      "buy-in annuity : valued based on the associated benefit obligation for which the buy-in annuity covers the benefits , which approximates fair value .",
+      "such basis is determined based on various assumptions , including the discount rate , long-term rate of return on plan assets and mortality rate .",
+      "the methods described above may produce a fair value calculation that may not be indicative of net realizable value or reflective of future fair values .",
+      "furthermore , while we believe our valuation methods are appropriate and consistent with other market participants , the use of different methodologies or assumptions to determine the fair value of certain financial instruments could result in a different fair value measurement at the reporting date .",
+      "the following tables set forth , by level within the fair value hierarchy , the qualified defined-benefit pension plan assets at fair value as of december 31 , 2018 and 2017 , as well as those valued at nav using the practical expedient , which approximates fair value , in millions. ."
+    ],
+    "table": [
+      [
+        "",
+        "2018",
+        "2017"
+      ],
+      [
+        "equity securities",
+        "34% ( 34 % )",
+        "55% ( 55 % )"
+      ],
+      [
+        "debt securities",
+        "49% ( 49 % )",
+        "28% ( 28 % )"
+      ],
+      [
+        "other",
+        "17% ( 17 % )",
+        "17% ( 17 % )"
+      ],
+      [
+        "total",
+        "100% ( 100 % )",
+        "100% ( 100 % )"
+      ]
+    ],
+    "questions": [
+      "in 2018 what was the debt to the equity ratio"
+    ]
+  }
+}

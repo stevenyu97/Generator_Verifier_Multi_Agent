@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2012 , what was the year to date percent of the share repurchase under the program for $ 4.2 billion..\\\\n",
+      "answer": 58.5,
+      "answer_raw": "58.5",
+      "program": "add(4.2, 54.3)"
+    }
+  ]
+}

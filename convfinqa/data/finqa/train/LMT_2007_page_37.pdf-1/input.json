@@ -1,0 +1,50 @@
+{
+  "input": {
+    "id": "LMT/2007/page_37.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "issuer purchases of equity securities the following table provides information about our repurchases of common stock during the three-month period ended december 31 , 2007 .",
+      "period total number of shares purchased average price paid per total number of shares purchased as part of publicly announced program ( a ) maximum number of shares that may yet be purchased under the program ( b ) ."
+    ],
+    "post_text": [
+      "( a ) we repurchased a total of 2957300 shares of our common stock during the quarter ended december 31 , 2007 under a share repurchase program that we announced in october 2002 .",
+      "( b ) our board of directors has approved a share repurchase program for the repurchase of up to 128 million shares of our common stock from time-to-time , including 20 million shares approved for repurchase by our board of directors in september 2007 .",
+      "under the program , management has discretion to determine the number and price of the shares to be repurchased , and the timing of any repurchases , in compliance with applicable law and regulation .",
+      "as of december 31 , 2007 , we had repurchased a total of 95.3 million shares under the program .",
+      "in 2007 , we did not make any unregistered sales of equity securities. ."
+    ],
+    "table": [
+      [
+        "period",
+        "total number ofshares purchased",
+        "average pricepaid pershare",
+        "total number of sharespurchased as part ofpubliclyannouncedprogram ( a )",
+        "maximum number ofshares that may yet bepurchased under theprogram ( b )"
+      ],
+      [
+        "october",
+        "127100",
+        "$ 108.58",
+        "127100",
+        "35573131"
+      ],
+      [
+        "november",
+        "1504300",
+        "109.07",
+        "1504300",
+        "34068831"
+      ],
+      [
+        "december",
+        "1325900",
+        "108.78",
+        "1325900",
+        "32742931"
+      ]
+    ],
+    "questions": [
+      "how many shares in millions are available to be repurchased under the approved share repurchase program?"
+    ]
+  }
+}

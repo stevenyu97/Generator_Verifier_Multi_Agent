@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amortization expense for other intangible assets in 2009?",
+      "answer": 19.3,
+      "answer_raw": "19.3",
+      "program": "19.3"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2008?",
+      "answer": 14.4,
+      "answer_raw": "14.4",
+      "program": "14.4"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combined, what is the total value during these two years?",
+      "answer": 33.7,
+      "answer_raw": "33.7",
+      "program": "add(19.3, 14.4)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and including the value for 2007?",
+      "answer": 42.2,
+      "answer_raw": "42.2",
+      "program": "add(19.3, 14.4), add(#0, 8.5)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the average over these years?",
+      "answer": 14.06667,
+      "answer_raw": "14.06667",
+      "program": "add(19.3, 14.4), add(#0, 8.5), divide(#1, const_3)"
+    }
+  ]
+}

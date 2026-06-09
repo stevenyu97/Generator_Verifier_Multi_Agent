@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is change in percentage points in net income margin in 2011?",
+      "answer": 0.27364,
+      "answer_raw": "0.27364",
+      "program": "divide(242.5, 886.2)"
+    }
+  ]
+}

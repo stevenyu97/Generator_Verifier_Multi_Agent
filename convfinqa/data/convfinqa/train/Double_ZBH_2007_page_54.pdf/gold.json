@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage does the long-term debt represent in relation to the total contractual obligations?",
+      "answer": 0.1763,
+      "answer_raw": "0.1763",
+      "program": "divide(104.3, 591.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what percentage do operating leases represent?",
+      "answer": 0.22701,
+      "answer_raw": "0.22701",
+      "program": "divide(134.3, 591.6)"
+    }
+  ]
+}

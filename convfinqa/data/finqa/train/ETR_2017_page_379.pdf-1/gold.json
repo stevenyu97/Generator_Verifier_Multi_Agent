@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the 2016 money pool receivables was the 2017 receivables?",
+      "answer": 0.15413,
+      "answer_raw": "0.15413",
+      "program": "divide(1633, 10595)"
+    }
+  ]
+}

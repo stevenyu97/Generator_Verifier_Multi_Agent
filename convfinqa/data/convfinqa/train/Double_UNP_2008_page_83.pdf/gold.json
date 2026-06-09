@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2008, what was the amount of future minimum lease payments for operating and capital leases that was due in 2009?",
+      "answer": 845.0,
+      "answer_raw": "845.0",
+      "program": "add(657, 188)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total of those payments?",
+      "answer": 7807.0,
+      "answer_raw": "7807.0",
+      "program": "add(657, 188), add(5909, 1898)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage, then, does that amount represent in relation to this total?",
+      "answer": 0.10824,
+      "answer_raw": "0.10824",
+      "program": "add(657, 188), add(5909, 1898), divide(#0, #1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and concerning the rent expense for operating leases, how much did the ones with terms exceeding one month in that same year of 2008 represent in relation to the ones under the same conditions in 2007?",
+      "answer": 0.92222,
+      "answer_raw": "0.92222",
+      "program": "divide(747, 810)"
+    }
+  ]
+}

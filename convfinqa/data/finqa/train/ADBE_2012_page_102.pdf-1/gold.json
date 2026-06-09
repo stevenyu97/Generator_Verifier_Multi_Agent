@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for fiscal 2012 , what percent of the total change in the valuation allowance was recorded as a tax benefit through the income statement?\\\\n",
+      "answer": 0.0913,
+      "answer_raw": "0.0913",
+      "program": "divide(2.1, 23.0)"
+    }
+  ]
+}

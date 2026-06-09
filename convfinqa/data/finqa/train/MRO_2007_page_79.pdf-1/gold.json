@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "did the company increase it's quarterly dividend rate from 2007 to 2008?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "divide(0.92, const_4), greater(0.24, #0)"
+    }
+  ]
+}

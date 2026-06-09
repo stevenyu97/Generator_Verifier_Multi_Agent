@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the increase in net cash used in investing activities in 2003 is due to an increase in construction expenditures?",
+      "answer": 0.65153,
+      "answer_raw": "0.65153",
+      "program": "divide(57.4, 88.1)"
+    }
+  ]
+}

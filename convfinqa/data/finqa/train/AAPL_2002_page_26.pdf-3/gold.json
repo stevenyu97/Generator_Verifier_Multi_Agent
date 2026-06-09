@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the greatest amount of total other income and expense , in millions?",
+      "answer": 570.0,
+      "answer_raw": "570.0",
+      "program": "table_max(total other income and expense, none)"
+    }
+  ]
+}

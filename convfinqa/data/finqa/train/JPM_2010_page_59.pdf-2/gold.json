@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was noninterest revenue as a percent of total net revenue in 2010?",
+      "answer": 0.50337,
+      "answer_raw": "0.50337",
+      "program": "divide(51693, 102694)"
+    }
+  ]
+}

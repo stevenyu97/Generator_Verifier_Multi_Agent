@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the total interest on long-term debt to the total contractual cash obligations",
+      "answer": 0.15208,
+      "answer_raw": "0.15208",
+      "program": "divide(2244, 14755)"
+    }
+  ]
+}

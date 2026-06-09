@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the sum of the annual long-term debt maturities due in five years",
+      "answer": 4192989.0,
+      "answer_raw": "4192989.0",
+      "program": "add(204079, 766451), add(#0, 822690), add(#1, 768588), add(#2, 1631181)"
+    }
+  ]
+}

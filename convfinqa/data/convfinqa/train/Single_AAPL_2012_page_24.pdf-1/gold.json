@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in the price of apple inc. between 9/30/12 and 9/30/07?",
+      "answer": 337.0,
+      "answer_raw": "337.0",
+      "program": "subtract(437, 100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the cumulative total return during this time?",
+      "answer": 3.37,
+      "answer_raw": "3.37",
+      "program": "subtract(437, 100), divide(#0, 100)"
+    }
+  ]
+}

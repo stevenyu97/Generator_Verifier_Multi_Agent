@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "LKQ/2010/page_81.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "( v ) bankruptcy , insolvency , or other similar proceedings , ( vi ) our inability to pay debts , ( vii ) judgment defaults of $ 15 million or more , ( viii ) customary erisa and environmental defaults , ( ix ) actual or asserted invalidity of any material provision of the loan documentation or impairment of a portion of the collateral , ( x ) failure of subordinated indebtedness to be validly and sufficiently subordinated , and ( xi ) a change of control .",
+      "borrowings under the credit agreement accrue interest at variable rates , which depend on the type ( u.s .",
+      "dollar or canadian dollar ) and duration of the borrowing , plus an applicable margin rate .",
+      "the weighted-average interest rates , including the effect of interest rate swap agreements , on borrowings outstanding against our senior secured credit facility at december 31 , 2010 and 2009 were 3.97% ( 3.97 % ) and 4.53% ( 4.53 % ) , respectively .",
+      "borrowings against the senior secured credit facility totaled $ 590.1 million and $ 595.7 million at december 31 , 2010 and 2009 , respectively , of which $ 50.0 million and $ 7.5 million were classified as current maturities , respectively .",
+      "we also incur commitment fees on the unused portion of our revolving credit facility ranging from 0.38% ( 0.38 % ) to 0.50% ( 0.50 % ) .",
+      "as part of the consideration for business acquisitions completed during 2010 , 2009 and 2008 , we issued promissory notes totaling approximately $ 5.5 million , $ 1.2 million and $ 1.6 million , respectively .",
+      "the notes bear interest at annual rates of 2.0% ( 2.0 % ) to 4.0% ( 4.0 % ) , and interest is payable at maturity or in monthly installments .",
+      "note 6 .",
+      "derivative instruments and hedging activities we are exposed to market risks , including the effect of changes in interest rates , foreign currency exchange rates and commodity prices .",
+      "under our current policies , we use derivatives to manage our exposure to variable interest rates on our credit agreement , but we do not attempt to hedge our foreign currency and commodity price risks .",
+      "we do not hold or issue derivatives for trading purposes .",
+      "at december 31 , 2010 , we had interest rate swap agreements in place to hedge a portion of the variable interest rate risk on our variable rate term loans , with the objective of minimizing the impact of interest rate fluctuations and stabilizing cash flows .",
+      "beginning on the effective dates of the interest rate swap agreements , on a monthly basis through the maturity date , we have paid and will pay the fixed interest rate and have received and will receive payment at a variable rate of interest based on the london interbank offered rate ( 201clibor 201d ) on the notional amount .",
+      "the interest rate swap agreements qualify as cash flow hedges , and we have elected to apply hedge accounting for these swap agreements .",
+      "as a result , the effective portion of changes in the fair value of the interest rate swap agreements is recorded in other comprehensive income and is reclassified to interest expense when the underlying interest payment has an impact on earnings .",
+      "the ineffective portion of changes in the fair value of the interest rate swap agreements is reported in interest expense .",
+      "the following table summarizes the terms of our interest rate swap agreements as of december 31 , 2010: ."
+    ],
+    "post_text": [
+      "* includes applicable margin of 2.25% ( 2.25 % ) per annum currently in effect under the credit agreement as of december 31 , 2010 , the fair market value of the $ 200 million notional amount swap was a liability of $ 1.4 million , included in other accrued expenses on our consolidated balance sheet .",
+      "the fair market value of the other swap contracts was an asset of $ 4.8 million , included in other assets on our consolidated balance sheet as of december 31 , 2010 .",
+      "as of december 31 , 2009 , the fair market value of the interest rate swap contracts was a liability of $ 10.2 million and was included in other accrued expenses ( $ 5.0 million ) and other noncurrent liabilities ( $ 5.2 million ) on our consolidated balance sheet. ."
+    ],
+    "table": [
+      [
+        "notional amount",
+        "effective date",
+        "maturity date",
+        "fixed interest rate*"
+      ],
+      [
+        "$ 200000000",
+        "april 14 2008",
+        "april 14 2011",
+        "4.99% ( 4.99 % )"
+      ],
+      [
+        "$ 250000000",
+        "october 14 2010",
+        "october 14 2015",
+        "3.81% ( 3.81 % )"
+      ],
+      [
+        "$ 100000000",
+        "april 14 2011",
+        "october 14 2013",
+        "3.34% ( 3.34 % )"
+      ]
+    ],
+    "questions": [
+      "what was the sum of the promissory notes totaling approximately issued as part of the plan business acquisitions from 2008 to 2010 in millions"
+    ]
+  }
+}

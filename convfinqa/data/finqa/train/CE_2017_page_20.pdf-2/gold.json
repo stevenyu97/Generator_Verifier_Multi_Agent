@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the research and development costs from 2015 to 2016",
+      "answer": -0.34454,
+      "answer_raw": "-0.34454",
+      "program": "subtract(78, 119), divide(#0, 119)"
+    }
+  ]
+}

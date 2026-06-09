@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2017, what is the ratio of operating cash flow to total debt?",
+      "answer": 3.57717,
+      "answer_raw": "3.57717",
+      "program": "divide(10406, 2909)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2016?",
+      "answer": 6.76933,
+      "answer_raw": "6.76933",
+      "program": "divide(10154, 1500)"
+    }
+  ]
+}

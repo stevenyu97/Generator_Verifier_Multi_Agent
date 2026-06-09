@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in value of the citigroup regulatory capital ratios total capital (tier 1 and tier 2) from 2007 to 2008?",
+      "answer": 5.0,
+      "answer_raw": "5.0",
+      "program": "subtract(15.70, 10.70)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": 0.46729,
+      "answer_raw": "0.46729",
+      "program": "subtract(15.70, 10.70), divide(#0, 10.70)"
+    }
+  ]
+}

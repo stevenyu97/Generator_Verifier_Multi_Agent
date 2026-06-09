@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in net reserves from 2004 to 2005?",
+      "answer": -56.2,
+      "answer_raw": "-56.2",
+      "program": "subtract(450.5, 506.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to these net reserves in 2004?",
+      "answer": -0.11091,
+      "answer_raw": "-0.11091",
+      "program": "subtract(450.5, 506.7), divide(#0, 506.7)"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "ABMD/2003/page_27.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "a lump sum buyout cost of approximately $ 1.1 million .",
+      "total rent expense under these leases , included in the accompanying consolidated statements of operations , was approximately $ 893000 , $ 856000 and $ 823000 for the fiscal years ended march 31 , 2001 , 2002 and 2003 , respectively .",
+      "during the fiscal year ended march 31 , 2000 , the company entered into 36-month operating leases totaling approximately $ 644000 for the lease of office furniture .",
+      "these leases ended in fiscal year 2003 and at the company 2019s option the furniture was purchased at its fair market value .",
+      "rental expense recorded for these leases during the fiscal years ended march 31 , 2001 , 2002 and 2003 was approximately $ 215000 , $ 215000 and $ 127000 respectively .",
+      "during fiscal 2000 , the company entered into a 36-month capital lease for computer equipment and software for approximately $ 221000 .",
+      "this lease ended in fiscal year 2003 and at the company 2019s option these assets were purchased at the stipulated buyout price .",
+      "future minimum lease payments under all non-cancelable operating leases as of march 31 , 2003 are approximately as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "from time to time , the company is involved in legal and administrative proceedings and claims of various types .",
+      "while any litigation contains an element of uncertainty , management , in consultation with the company 2019s general counsel , presently believes that the outcome of each such other proceedings or claims which are pending or known to be threatened , or all of them combined , will not have a material adverse effect on the company .",
+      "7 .",
+      "stock option and purchase plans all stock options granted by the company under the below-described plans were granted at the fair value of the underlying common stock at the date of grant .",
+      "outstanding stock options , if not exercised , expire 10 years from the date of grant .",
+      "the 1992 combination stock option plan ( the combination plan ) , as amended , was adopted in september 1992 as a combination and restatement of the company 2019s then outstanding incentive stock option plan and nonqualified plan .",
+      "a total of 2670859 options were awarded from the combination plan during its ten-year restatement term that ended on may 1 , 2002 .",
+      "as of march 31 , 2003 , 1286042 of these options remain outstanding and eligible for future exercise .",
+      "these options are held by company employees and generally become exercisable ratably over five years .",
+      "the 1998 equity incentive plan , ( the equity incentive plan ) , was adopted by the company in august 1998 .",
+      "the equity incentive plan provides for grants of options to key employees , directors , advisors and consultants as either incentive stock options or nonqualified stock options as determined by the company 2019s board of directors .",
+      "a maximum of 1000000 shares of common stock may be awarded under this plan .",
+      "options granted under the equity incentive plan are exercisable at such times and subject to such terms as the board of directors may specify at the time of each stock option grant .",
+      "options outstanding under the equity incentive plan have vesting periods of 3 to 5 years from the date of grant .",
+      "the 2000 stock incentive plan , ( the 2000 plan ) , was adopted by the company in august 2000 .",
+      "the 2000 plan provides for grants of options to key employees , directors , advisors and consultants to the company or its subsidiaries as either incentive or nonqualified stock options as determined by the company 2019s board of directors .",
+      "up to 1400000 shares of common stock may be awarded under the 2000 plan and are exercisable at such times and subject to such terms as the board of directors may specify at the time of each stock option grant .",
+      "options outstanding under the 2000 plan generally vested 4 years from the date of grant .",
+      "the company has a nonqualified stock option plan for non-employee directors ( the directors 2019 plan ) .",
+      "the directors 2019 plan , as amended , was adopted in july 1989 and provides for grants of options to purchase shares of the company 2019s common stock to non-employee directors of the company .",
+      "up to 400000 shares of common stock may be awarded under the directors 2019 plan .",
+      "options outstanding under the directors 2019 plan have vesting periods of 1 to 5 years from the date of grant .",
+      "notes to consolidated financial statements ( continued ) march 31 , 2003 page 25 ."
+    ],
+    "table": [
+      [
+        "year ending march 31,",
+        "operating leases"
+      ],
+      [
+        "2004",
+        "$ 781"
+      ],
+      [
+        "2005",
+        "776"
+      ],
+      [
+        "2006",
+        "776"
+      ],
+      [
+        "2007",
+        "769"
+      ],
+      [
+        "2008",
+        "772"
+      ],
+      [
+        "thereafter",
+        "1480"
+      ],
+      [
+        "total future minimum lease payments",
+        "$ 5354"
+      ]
+    ],
+    "questions": [
+      "is the vesting under the 2000 employee equity plan potentially longer than under the directors 1989 plan?"
+    ]
+  }
+}

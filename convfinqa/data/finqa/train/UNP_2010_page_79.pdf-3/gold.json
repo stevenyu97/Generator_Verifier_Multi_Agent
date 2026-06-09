@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much less , in percentage , were the capital leases in 2011 than the operating leases?",
+      "answer": 0.49266,
+      "answer_raw": "0.49266",
+      "program": "subtract(613, 311), divide(#0, 613)"
+    }
+  ]
+}

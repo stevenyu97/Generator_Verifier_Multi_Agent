@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total cash flow from hedges, considering the balance in 2014 and oci before reclassifications, in millions?",
+      "answer": 122.8,
+      "answer_raw": "122.8",
+      "program": "add(70.1, 52.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much do the reclassifications represent in relation to this total, in percentage?",
+      "answer": 0.75733,
+      "answer_raw": "0.75733",
+      "program": "add(70.1, 52.7), divide(93.0, #0)"
+    }
+  ]
+}

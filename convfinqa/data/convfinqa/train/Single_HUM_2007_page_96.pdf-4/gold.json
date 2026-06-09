@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of the 2007 weighted average grant date fair value of the restricted stocks to 2006?",
+      "answer": 1.16979,
+      "answer_raw": "1.16979",
+      "program": "divide(63.59, 54.36)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that value less 1?",
+      "answer": 0.16979,
+      "answer_raw": "0.16979",
+      "program": "divide(63.59, 54.36), subtract(#0, const_1)"
+    }
+  ]
+}

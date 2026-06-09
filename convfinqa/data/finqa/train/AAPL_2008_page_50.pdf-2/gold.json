@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the greatest interest income , in millions , for the three year period?",
+      "answer": 653.0,
+      "answer_raw": "653.0",
+      "program": "table_max(interest income, none)"
+    }
+  ]
+}

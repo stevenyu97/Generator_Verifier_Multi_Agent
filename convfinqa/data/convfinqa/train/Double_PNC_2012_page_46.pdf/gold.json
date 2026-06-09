@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many shared were redeemed during 2012, including series m preferred stock?",
+      "answer": 6056.0,
+      "answer_raw": "6056.0",
+      "program": "add(1055, 5001)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total number of shares repurchased during november and december of 2012?",
+      "answer": 1042.0,
+      "answer_raw": "1042.0",
+      "program": "add(750, 292)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what about the total number of shares repurchased during the the last quarter of 2012?",
+      "answer": 1055.0,
+      "answer_raw": "1055.0",
+      "program": "1055"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what proportion was purchased in these two months?",
+      "answer": 0.98768,
+      "answer_raw": "0.98768",
+      "program": "add(750, 292), divide(#0, 1055)"
+    }
+  ]
+}

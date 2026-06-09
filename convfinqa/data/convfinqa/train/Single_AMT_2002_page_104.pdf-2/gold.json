@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum value of expected payments for principal of long-term debt in 2003 and 2004?",
+      "answer": 399758.0,
+      "answer_raw": "399758.0",
+      "program": "add(268496, 131262)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total sum value including 2005?",
+      "answer": 594840.0,
+      "answer_raw": "594840.0",
+      "program": "add(268496, 131262), add(#0, 195082)"
+    }
+  ]
+}

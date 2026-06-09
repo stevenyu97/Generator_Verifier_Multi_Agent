@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentual increase in the operating expenses during 2017 and 2018?",
+      "answer": 0.275,
+      "answer_raw": "0.275",
+      "program": "divide(91.8, 72.0), subtract(#0, const_1)"
+    }
+  ]
+}

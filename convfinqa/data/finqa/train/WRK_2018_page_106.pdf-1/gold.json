@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by what percent did the balance of deferred tax assets increase between 2016 and 2018?",
+      "answer": 0.29458,
+      "answer_raw": "0.29458",
+      "program": "subtract(229.4, 177.2), divide(#0, 177.2)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the currency exchange of cad to usd?",
+      "answer": 1.21766,
+      "answer_raw": "1.21766",
+      "program": "divide(800, 657)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what portion of severance is paid during 2008?",
+      "answer": 0.08,
+      "answer_raw": "0.08",
+      "program": "divide(20, 250)"
+    }
+  ]
+}

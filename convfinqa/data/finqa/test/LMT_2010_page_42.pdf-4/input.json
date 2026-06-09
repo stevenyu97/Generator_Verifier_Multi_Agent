@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "LMT/2010/page_42.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "( in millions ) 2010 2009 2008 ."
+    ],
+    "post_text": [
+      "operating activities net cash provided by operating activities increased by $ 374 million to $ 3547 million in 2010 as compared to 2009 .",
+      "the increase primarily was attributable to an improvement in our operating working capital balances of $ 570 million as discussed below , and $ 187 million related to lower net income tax payments , as compared to 2009 .",
+      "partially offsetting these improvements was a net reduction in cash from operations of $ 350 million related to our defined benefit pension plan .",
+      "this reduction was the result of increased contributions to the pension trust of $ 758 million as compared to 2009 , partially offset by an increase in the cas costs recovered on our contracts .",
+      "operating working capital accounts consists of receivables , inventories , accounts payable , and customer advances and amounts in excess of costs incurred .",
+      "the improvement in cash provided by operating working capital was due to a decline in 2010 accounts receivable balances compared to 2009 , and an increase in 2010 customer advances and amounts in excess of costs incurred balances compared to 2009 .",
+      "these improvements partially were offset by a decline in accounts payable balances in 2010 compared to 2009 .",
+      "the decline in accounts receivable primarily was due to higher collections on various programs at electronic systems , is&gs , and space systems business areas .",
+      "the increase in customer advances and amounts in excess of costs incurred primarily was attributable to an increase on government and commercial satellite programs at space systems and air mobility programs at aeronautics , partially offset by a decrease on various programs at electronic systems .",
+      "the decrease in accounts payable was attributable to the timing of accounts payable activities across all segments .",
+      "net cash provided by operating activities decreased by $ 1248 million to $ 3173 million in 2009 as compared to 2008 .",
+      "the decline primarily was attributable to an increase in our contributions to the defined benefit pension plan of $ 1373 million as compared to 2008 and an increase in our operating working capital accounts of $ 147 million .",
+      "partially offsetting these items was the impact of lower net income tax payments in 2009 as compared to 2008 in the amount of $ 319 million .",
+      "the decline in cash provided by operating working capital primarily was due to growth of receivables on various programs in the ms2 and gt&l lines of business at electronic systems and an increase in inventories on combat aircraft programs at aeronautics , which partially were offset by increases in customer advances and amounts in excess of costs incurred on government satellite programs at space systems and the timing of accounts payable activities .",
+      "investing activities capital expenditures 2013 the majority of our capital expenditures relate to facilities infrastructure and equipment that are incurred to support new and existing programs across all of our business segments .",
+      "we also incur capital expenditures for it to support programs and general enterprise it infrastructure .",
+      "capital expenditures for property , plant and equipment amounted to $ 820 million in 2010 , $ 852 million in 2009 , and $ 926 million in 2008 .",
+      "we expect that our operating cash flows will continue to be sufficient to fund our annual capital expenditures over the next few years .",
+      "acquisitions , divestitures and other activities 2013 acquisition activities include both the acquisition of businesses and investments in affiliates .",
+      "amounts paid in 2010 of $ 148 million primarily related to investments in affiliates .",
+      "we paid $ 435 million in 2009 for acquisition activities , compared with $ 233 million in 2008 .",
+      "in 2010 , we received proceeds of $ 798 million from the sale of eig , net of $ 17 million in transaction costs ( see note 2 ) .",
+      "there were no material divestiture activities in 2009 and 2008 .",
+      "during 2010 , we increased our short-term investments by $ 171 million compared to an increase of $ 279 million in 2009 .",
+      "financing activities share activity and dividends 2013 during 2010 , 2009 , and 2008 , we repurchased 33.0 million , 24.9 million , and 29.0 million shares of our common stock for $ 2483 million , $ 1851 million , and $ 2931 million .",
+      "of the shares we repurchased in 2010 , 0.9 million shares for $ 63 million were repurchased in december but settled and were paid for in january 2011 .",
+      "in october 2010 , our board of directors approved a new share repurchase program for the repurchase of our common stock from time-to-time , up to an authorized amount of $ 3.0 billion ( see note 12 ) .",
+      "under the program , we have discretion to determine the dollar amount of shares to be repurchased and the timing of any repurchases in compliance with applicable law and regulation .",
+      "we repurchased a total of 11.2 million shares under the program for $ 776 million , and as of december 31 , 2010 , there remained $ 2224 million available for additional share repurchases .",
+      "in connection with their approval of the new share repurchase program , our board terminated our previous share repurchase program .",
+      "cash received from the issuance of our common stock in connection with stock option exercises during 2010 , 2009 , and 2008 totaled $ 59 million , $ 40 million , and $ 250 million .",
+      "those activities resulted in the issuance of 1.4 million shares , 1.0 million shares , and 4.7 million shares during the respective periods. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      [
+        "net cash provided by operating activities",
+        "$ 3547",
+        "$ 3173",
+        "$ 4421"
+      ],
+      [
+        "net cash used for investing activities",
+        "-319 ( 319 )",
+        "-1518 ( 1518 )",
+        "-907 ( 907 )"
+      ],
+      [
+        "net cash used for financing activities",
+        "-3363 ( 3363 )",
+        "-1476 ( 1476 )",
+        "-3938 ( 3938 )"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in capital expenditures for property , plant and equipment from 2008 to 2009?"
+    ]
+  }
+}

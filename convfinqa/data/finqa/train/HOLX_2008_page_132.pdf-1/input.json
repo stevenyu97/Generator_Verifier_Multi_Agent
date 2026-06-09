@@ -1,0 +1,52 @@
+{
+  "input": {
+    "id": "HOLX/2008/page_132.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "hologic , inc .",
+      "notes to consolidated financial statements ( continued ) ( in thousands , except per share data ) 3 .",
+      "business combinations fiscal 2008 acquisitions : acquisition of third wave technologies , inc .",
+      "on july 24 , 2008 the company completed its acquisition of third wave technologies , inc .",
+      "( 201cthird wave 201d ) pursuant to a definitive agreement dated june 8 , 2008 .",
+      "the company has concluded that the acquisition of third wave does not represent a material business combination and therefore no pro forma financial information has been provided herein .",
+      "subsequent to the acquisition date , the company 2019s results of operations include the results of third wave , which has been reported as a component of the company 2019s diagnostics reporting segment .",
+      "third wave , located in madison , wisconsin , develops and markets molecular diagnostic reagents for a wide variety of dna and rna analysis applications based on its proprietary invader chemistry .",
+      "third wave 2019s current clinical diagnostic offerings consist of products for conditions such as cystic fibrosis , hepatitis c , cardiovascular risk and other diseases .",
+      "third wave recently submitted to the u.s .",
+      "food and drug administration ( 201cfda 201d ) pre-market approval ( 201cpma 201d ) applications for two human papillomavirus ( 201chpv 201d ) tests .",
+      "the company paid $ 11.25 per share of third wave , for an aggregate purchase price of approximately $ 591200 ( subject to adjustment ) consisting of approximately $ 575400 in cash in exchange for stock and warrants ; approximately 668 of fully vested stock options granted to third wave employees in exchange for their vested third wave stock options , with an estimated fair value of approximately $ 8100 ; and approximately $ 7700 for acquisition related fees and expenses .",
+      "there are no potential contingent consideration arrangements payable to the former shareholders in connection with this transaction .",
+      "additionally , the company granted approximately 315 unvested stock options in exchange for unvested third wave stock options , with an estimated fair value of approximately $ 5100 , which will be recognized as compensation expense over the vesting period .",
+      "the company determined the fair value of the options issued in connection with the acquisition in accordance with eitf issue no .",
+      "99-12 , determination of the measurement date for the market price of acquirer securities issued in a purchase business combination 201d ) .",
+      "the company determined the measurement date to be july 24 , 2008 , the date the transaction was completed , as the number of shares to be issued according to the exchange ratio was not fixed until this date .",
+      "the company valued the securities based on the average market price for two days before the measurement date and the measurement date itself .",
+      "the weighted average stock price was determined to be approximately $ 23.54 .",
+      "the preliminary purchase price is as follows: ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "cash portion of consideration",
+        "$ 575400"
+      ],
+      [
+        "fair value of vested options exchanged",
+        "8100"
+      ],
+      [
+        "direct acquisition costs",
+        "7700"
+      ],
+      [
+        "total estimated purchase price",
+        "$ 591200"
+      ]
+    ],
+    "questions": [
+      "what portion of the estimated purchase price is paid in cash?"
+    ]
+  }
+}

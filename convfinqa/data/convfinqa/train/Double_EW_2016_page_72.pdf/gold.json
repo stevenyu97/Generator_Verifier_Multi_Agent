@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage did past damages represent in relation to the total settlement?",
+      "answer": 0.70495,
+      "answer_raw": "0.70495",
+      "program": "divide(754.3, 1070.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what percentage did license agreements?",
+      "answer": 0.22243,
+      "answer_raw": "0.22243",
+      "program": "divide(238.0, 1070.0)"
+    }
+  ]
+}

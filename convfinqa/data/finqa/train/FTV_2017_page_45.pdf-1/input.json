@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "FTV/2017/page_45.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "2022 higher 2017 sales volumes , incremental year-over-year cost savings associated with restructuring and productivity improvement initiatives , costs associated with various growth investments made in 2016 and changes in currency exchange rates , partially offset by incremental year-over-year costs associated with various product development and sales and marketing growth investments : 60 basis points year-over-year operating profit margin comparisons were unfavorably impacted by : 2022 the incremental year-over-year net dilutive effect of acquired businesses : 20 basis points 2016 compared to 2015 year-over-year price increases in the segment contributed 0.3% ( 0.3 % ) to sales growth during 2016 as compared to 2015 and are reflected as a component of the change in sales from existing businesses .",
+      "sales from existing businesses in the segment 2019s transportation technologies businesses grew at a high-single digit rate during 2016 as compared to 2015 , due primarily to strong demand for dispenser , payment and point-of-sale systems , environmental compliance products as well as vehicle and fleet management products , partly offset by weaker year-over-year demand for compressed natural gas products .",
+      "as expected , beginning in the second half of 2016 , the business began to experience reduced emv-related demand for indoor point-of-sale solutions , as customers had largely upgraded to products that support indoor emv requirements in the prior year in response to the indoor liability shift .",
+      "however , demand increased on a year-over-year basis for dispensers and payment systems as customers in the united states continued to upgrade equipment driven primarily by the emv deadlines related to outdoor payment systems .",
+      "geographically , sales from existing businesses continued to increase on a year-over-year basis in the united states and to a lesser extent in asia and western europe .",
+      "sales from existing businesses in the segment 2019s automation & specialty components business declined at a low-single digit rate during 2016 as compared to 2015 .",
+      "the businesses experienced sequential year-over-year improvement in demand during the second half of 2016 as compared to the first half of 2016 .",
+      "during 2016 , year-over-year demand declined for engine retarder products due primarily to weakness in the north american heavy-truck market , partly offset by strong growth in china and europe .",
+      "in addition , year-over-year demand declined in certain medical and defense related end markets which were partly offset by increased year-over-year demand for industrial automation products particularly in china .",
+      "geographically , sales from existing businesses in the segment 2019s automation & specialty components businesses declined in north america , partly offset by growth in western europe and china .",
+      "sales from existing businesses in the segment 2019s franchise distribution business grew at a mid-single digit rate during 2016 , as compared to 2015 , due primarily to continued net increases in franchisees as well as continued growth in demand for professional tool products and tool storage products , primarily in the united states .",
+      "this growth was partly offset by year- over-year declines in wheel service equipment sales during 2016 .",
+      "operating profit margins increased 70 basis points during 2016 as compared to 2015 .",
+      "the following factors favorably impacted year-over-year operating profit margin comparisons : 2022 higher 2016 sales volumes , pricing improvements , incremental year-over-year cost savings associated with restructuring and productivity improvement initiatives and the incrementally favorable impact of the impairment of certain tradenames used in the segment in 2015 and 2016 , net of costs associated with various growth investments , product development and sales and marketing growth investments , higher year-over-year costs associated with restructuring actions and changes in currency exchange rates : 65 basis points 2022 the incremental net accretive effect in 2016 of acquired businesses : 5 basis points cost of sales and gross profit ."
+    ],
+    "post_text": [
+      "the year-over-year increase in cost of sales during 2017 as compared to 2016 is due primarily to the impact of higher year- over-year sales volumes and changes in currency exchange rates partly offset by incremental year-over-year cost savings ."
+    ],
+    "table": [
+      [
+        "( $ in millions )",
+        "for the year ended december 31 2017",
+        "for the year ended december 31 2016",
+        "for the year ended december 31 2015"
+      ],
+      [
+        "sales",
+        "$ 6656.0",
+        "$ 6224.3",
+        "$ 6178.8"
+      ],
+      [
+        "cost of sales",
+        "-3357.5 ( 3357.5 )",
+        "-3191.5 ( 3191.5 )",
+        "-3178.8 ( 3178.8 )"
+      ],
+      [
+        "gross profit",
+        "3298.5",
+        "3032.8",
+        "3000.0"
+      ],
+      [
+        "gross profit margin",
+        "49.6% ( 49.6 % )",
+        "48.7% ( 48.7 % )",
+        "48.6% ( 48.6 % )"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in sales from 2015 to 2016?"
+    ]
+  }
+}

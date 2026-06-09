@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the performance as shown for the cme group inc . to the s&p 500 in 2017",
+      "answer": 1.5456,
+      "answer_raw": "1.5456",
+      "program": "divide(188.81, 122.16)"
+    }
+  ]
+}

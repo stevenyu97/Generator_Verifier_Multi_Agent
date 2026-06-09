@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the equity compensation plan approved by security holders remains available for future issuance?",
+      "answer": 0.90917,
+      "answer_raw": "0.90917",
+      "program": "add(399165, 3995600), divide(3995600, #0)"
+    }
+  ]
+}

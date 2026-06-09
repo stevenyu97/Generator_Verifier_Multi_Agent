@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2009 , what is the average reserve percentage for the prime mortgage and option arm pools of loans?\\\\n\\\\n",
+      "answer": 0.0339,
+      "answer_raw": "0.0339",
+      "program": "divide(1.6, 47.2)"
+    }
+  ]
+}

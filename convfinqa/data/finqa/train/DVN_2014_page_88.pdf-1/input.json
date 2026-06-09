@@ -1,0 +1,50 @@
+{
+  "input": {
+    "id": "DVN/2014/page_88.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "devon energy corporation and subsidiaries notes to consolidated financial statements 2013 ( continued ) other debentures and notes following are descriptions of the various other debentures and notes outstanding at december 31 , 2014 and 2013 , as listed in the table presented at the beginning of this note .",
+      "geosouthern debt in december 2013 , in conjunction with the planned geosouthern acquisition , devon issued $ 2.25 billion aggregate principal amount of fixed and floating rate senior notes resulting in cash proceeds of approximately $ 2.2 billion , net of discounts and issuance costs .",
+      "the floating rate senior notes due in 2015 bear interest at a rate equal to three-month libor plus 0.45 percent , which rate will be reset quarterly .",
+      "the floating rate senior notes due in 2016 bears interest at a rate equal to three-month libor plus 0.54 percent , which rate will be reset quarterly .",
+      "the schedule below summarizes the key terms of these notes ( in millions ) . ."
+    ],
+    "post_text": [
+      "( 1 ) the 1.20% ( 1.20 % ) $ 650 million note due december 15 , 2016 was redeemed on november 13 , 2014 .",
+      "the senior notes were classified as short-term debt on devon 2019s consolidated balance sheet as of december 31 , 2013 due to certain redemption features in the event that the geosouthern acquisition was not completed on or prior to june 30 , 2014 .",
+      "on february 28 , 2014 , the geosouthern acquisition closed and thus the senior notes were subsequently classified as long-term debt .",
+      "additionally , during december 2013 , devon entered into a term loan agreement with a group of major financial institutions pursuant to which devon could draw up to $ 2.0 billion to finance , in part , the geosouthern acquisition and to pay transaction costs .",
+      "in february 2014 , devon drew the $ 2.0 billion of term loans for the geosouthern transaction , and the amount was subsequently repaid on june 30 , 2014 with the canadian divestiture proceeds that were repatriated to the u.s .",
+      "in june 2014 , at which point the term loan was terminated. ."
+    ],
+    "table": [
+      [
+        "floating rate due december 15 2015",
+        "$ 500"
+      ],
+      [
+        "floating rate due december 15 2016",
+        "350"
+      ],
+      [
+        "1.20% ( 1.20 % ) due december 15 2016 ( 1 )",
+        "650"
+      ],
+      [
+        "2.25% ( 2.25 % ) due december 15 2018",
+        "750"
+      ],
+      [
+        "discount and issuance costs",
+        "-2 ( 2 )"
+      ],
+      [
+        "net proceeds",
+        "$ 2248"
+      ]
+    ],
+    "questions": [
+      "what percentage of the net proceeds came from the floating rates due in 2015 and 2016?"
+    ]
+  }
+}

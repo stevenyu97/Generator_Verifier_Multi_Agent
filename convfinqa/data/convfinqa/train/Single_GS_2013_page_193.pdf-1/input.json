@@ -1,0 +1,85 @@
+{
+  "input": {
+    "id": "Single_GS/2013/page_193.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "notes to consolidated financial statements the table below presents information regarding group inc . 2019s regulatory capital ratios and tier 1 leverage ratio under basel i , as implemented by the federal reserve board .",
+      "the information as of december 2013 reflects the revised market risk regulatory capital requirements .",
+      "these changes resulted in increased regulatory capital requirements for market risk .",
+      "the information as of december 2012 is prior to the implementation of these revised market risk regulatory capital requirements. ."
+    ],
+    "post_text": [
+      "revised capital framework the u.s .",
+      "federal bank regulatory agencies ( agencies ) have approved revised risk-based capital and leverage ratio regulations establishing a new comprehensive capital framework for u.s .",
+      "banking organizations ( revised capital framework ) .",
+      "these regulations are largely based on the basel committee 2019s december 2010 final capital framework for strengthening international capital standards ( basel iii ) and also implement certain provisions of the dodd-frank act .",
+      "under the revised capital framework , group inc .",
+      "is an 201cadvanced approach 201d banking organization .",
+      "below are the aspects of the rules that are most relevant to the firm , as an advanced approach banking organization .",
+      "definition of capital and capital ratios .",
+      "the revised capital framework introduced changes to the definition of regulatory capital , which , subject to transitional provisions , became effective across the firm 2019s regulatory capital and leverage ratios on january 1 , 2014 .",
+      "these changes include the introduction of a new capital measure called common equity tier 1 ( cet1 ) , and the related regulatory capital ratio of cet1 to rwas ( cet1 ratio ) .",
+      "in addition , the definition of tier 1 capital has been narrowed to include only cet1 and instruments such as perpetual non- cumulative preferred stock , which meet certain criteria .",
+      "certain aspects of the revised requirements phase in over time .",
+      "these include increases in the minimum capital ratio requirements and the introduction of new capital buffers and certain deductions from regulatory capital ( such as investments in nonconsolidated financial institutions ) .",
+      "in addition , junior subordinated debt issued to trusts is being phased out of regulatory capital .",
+      "the minimum cet1 ratio is 4.0% ( 4.0 % ) as of january 1 , 2014 and will increase to 4.5% ( 4.5 % ) on january 1 , 2015 .",
+      "the minimum tier 1 capital ratio increased from 4.0% ( 4.0 % ) to 5.5% ( 5.5 % ) on january 1 , 2014 and will increase to 6.0% ( 6.0 % ) beginning january 1 , 2015 .",
+      "the minimum total capital ratio remains unchanged at 8.0% ( 8.0 % ) .",
+      "these minimum ratios will be supplemented by a new capital conservation buffer that phases in , beginning january 1 , 2016 , in increments of 0.625% ( 0.625 % ) per year until it reaches 2.5% ( 2.5 % ) on january 1 , 2019 .",
+      "the revised capital framework also introduces a new counter-cyclical capital buffer , to be imposed in the event that national supervisors deem it necessary in order to counteract excessive credit growth .",
+      "risk-weighted assets .",
+      "in february 2014 , the federal reserve board informed us that we have completed a satisfactory 201cparallel run , 201d as required of advanced approach banking organizations under the revised capital framework , and therefore changes to rwas will take effect beginning with the second quarter of 2014 .",
+      "accordingly , the calculation of rwas in future quarters will be based on the following methodologies : 2030 during the first quarter of 2014 2014 the basel i risk-based capital framework adjusted for certain items related to existing capital deductions and the phase-in of new capital deductions ( basel i adjusted ) ; 2030 during the remaining quarters of 2014 2014 the higher of rwas computed under the basel iii advanced approach or the basel i adjusted calculation ; and 2030 beginning in the first quarter of 2015 2014 the higher of rwas computed under the basel iii advanced or standardized approach .",
+      "goldman sachs 2013 annual report 191 ."
+    ],
+    "table": [
+      [
+        "$ in millions",
+        "as of december 2013",
+        "as of december 2012"
+      ],
+      [
+        "tier 1 capital",
+        "$ 72471",
+        "$ 66977"
+      ],
+      [
+        "tier 2 capital",
+        "$ 13632",
+        "$ 13429"
+      ],
+      [
+        "total capital",
+        "$ 86103",
+        "$ 80406"
+      ],
+      [
+        "risk-weighted assets",
+        "$ 433226",
+        "$ 399928"
+      ],
+      [
+        "tier 1 capital ratio",
+        "16.7% ( 16.7 % )",
+        "16.7% ( 16.7 % )"
+      ],
+      [
+        "total capital ratio",
+        "19.9% ( 19.9 % )",
+        "20.1% ( 20.1 % )"
+      ],
+      [
+        "tier 1 leverage ratio",
+        "8.1% ( 8.1 % )",
+        "7.3% ( 7.3 % )"
+      ]
+    ],
+    "questions": [
+      "what was the amount of tier 1 capital as of december 2013?",
+      "and as of december 2012?",
+      "what was the difference between these two values?",
+      "and as a percentage of the original value?"
+    ]
+  }
+}

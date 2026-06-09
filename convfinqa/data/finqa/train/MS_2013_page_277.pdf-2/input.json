@@ -1,0 +1,100 @@
+{
+  "input": {
+    "id": "MS/2013/page_277.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "morgan stanley notes to consolidated financial statements 2014 ( continued ) the following table presents a reconciliation of the beginning and ending amount of unrecognized tax benefits for 2013 , 2012 and 2011 ( dollars in millions ) : unrecognized tax benefits ."
+    ],
+    "post_text": [
+      "the company is under continuous examination by the irs and other tax authorities in certain countries , such as japan and the u.k. , and in states in which the company has significant business operations , such as new york .",
+      "the company is currently under review by the irs appeals office for the remaining issues covering tax years 1999 2013 2005 .",
+      "also , the company is currently at various levels of field examination with respect to audits by the irs , as well as new york state and new york city , for tax years 2006 2013 2008 and 2007 2013 2009 , respectively .",
+      "during 2014 , the company expects to reach a conclusion with the u.k .",
+      "tax authorities on substantially all issues through tax year 2010 .",
+      "the company believes that the resolution of tax matters will not have a material effect on the consolidated statements of financial condition of the company , although a resolution could have a material impact on the company 2019s consolidated statements of income for a particular future period and on the company 2019s effective income tax rate for any period in which such resolution occurs .",
+      "the company has established a liability for unrecognized tax benefits that the company believes is adequate in relation to the potential for additional assessments .",
+      "once established , the company adjusts unrecognized tax benefits only when more information is available or when an event occurs necessitating a change .",
+      "the company periodically evaluates the likelihood of assessments in each taxing jurisdiction resulting from the expiration of the applicable statute of limitations or new information regarding the status of current and subsequent years 2019 examinations .",
+      "as part of the company 2019s periodic review , federal and state unrecognized tax benefits were released or remeasured .",
+      "as a result of this remeasurement , the income tax provision included a discrete tax benefit of $ 161 million and $ 299 million in 2013 and 2012 , respectively .",
+      "it is reasonably possible that the gross balance of unrecognized tax benefits of approximately $ 4.1 billion as of december 31 , 2013 may decrease significantly within the next 12 months due to an expected completion of the ."
+    ],
+    "table": [
+      [
+        "balance at december 31 2010",
+        "$ 3711"
+      ],
+      [
+        "increase based on tax positions related to the current period",
+        "412"
+      ],
+      [
+        "increase based on tax positions related to prior periods",
+        "70"
+      ],
+      [
+        "decreases based on tax positions related to prior periods",
+        "-79 ( 79 )"
+      ],
+      [
+        "decreases related to settlements with taxing authorities",
+        "-56 ( 56 )"
+      ],
+      [
+        "decreases related to a lapse of applicable statute of limitations",
+        "-13 ( 13 )"
+      ],
+      [
+        "balance at december 31 2011",
+        "$ 4045"
+      ],
+      [
+        "increase based on tax positions related to the current period",
+        "$ 299"
+      ],
+      [
+        "increase based on tax positions related to prior periods",
+        "127"
+      ],
+      [
+        "decreases based on tax positions related to prior periods",
+        "-21 ( 21 )"
+      ],
+      [
+        "decreases related to settlements with taxing authorities",
+        "-260 ( 260 )"
+      ],
+      [
+        "decreases related to a lapse of applicable statute of limitations",
+        "-125 ( 125 )"
+      ],
+      [
+        "balance at december 31 2012",
+        "$ 4065"
+      ],
+      [
+        "increase based on tax positions related to the current period",
+        "$ 51"
+      ],
+      [
+        "increase based on tax positions related to prior periods",
+        "267"
+      ],
+      [
+        "decreases based on tax positions related to prior periods",
+        "-141 ( 141 )"
+      ],
+      [
+        "decreases related to settlements with taxing authorities",
+        "-146 ( 146 )"
+      ],
+      [
+        "balance at december 31 2013",
+        "$ 4096"
+      ]
+    ],
+    "questions": [
+      "how many years are currently involved in tax controversies?"
+    ]
+  }
+}

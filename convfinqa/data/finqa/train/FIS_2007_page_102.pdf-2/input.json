@@ -1,0 +1,52 @@
+{
+  "input": {
+    "id": "FIS/2007/page_102.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "projected payments relating to these liabilities for the next five years ending december 31 , 2012 and the period from 2013 to 2017 are as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "( 18 ) concentration of risk the company generates a significant amount of revenue from large customers , however , no customers accounted for more than 10% ( 10 % ) of total revenue or total segment revenue in the years ended december 31 , 2007 , 2006 and 2005 .",
+      "financial instruments that potentially subject the company to concentrations of credit risk consist primarily of cash equivalents and trade receivables .",
+      "the company places its cash equivalents with high credit quality financial institutions and , by policy , limits the amount of credit exposure with any one financial institution .",
+      "concentrations of credit risk with respect to trade receivables are limited because a large number of geographically diverse customers make up the company 2019s customer base , thus spreading the trade receivables credit risk .",
+      "the company controls credit risk through monitoring procedures .",
+      "( 19 ) segment information upon completion of the certegy merger , the company implemented a new organizational structure , which resulted in a new operating segment structure beginning with the reporting of first quarter 2006 results .",
+      "effective as of february 1 , 2006 , the company 2019s operating segments are tps and lps .",
+      "this structure reflects how the businesses are operated and managed .",
+      "the primary components of the tps segment , which includes certegy 2019s card and check services , the financial institution processing component of the former financial institution software and services segment of fis and the operations acquired from efunds , are enterprise solutions , integrated financial solutions and international businesses .",
+      "the primary components of the lps segment are mortgage information services businesses , which includes the mortgage lender processing component of the former financial institution software and services segment of fis , and the former lender services , default management , and information services segments of fis .",
+      "fidelity national information services , inc .",
+      "and subsidiaries and affiliates notes to consolidated and combined financial statements 2014 ( continued ) ."
+    ],
+    "table": [
+      [
+        "2008",
+        "$ 980"
+      ],
+      [
+        "2009",
+        "1185"
+      ],
+      [
+        "2010",
+        "978"
+      ],
+      [
+        "2011",
+        "1022"
+      ],
+      [
+        "2012",
+        "1425"
+      ],
+      [
+        "2013 - 2017",
+        "$ 8147"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in projected payments from 2009 to 2010?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did the long-term debt and redeemable preferred stock at redemption value portion of the capital structure increase since 2016?",
+      "answer": 0.06,
+      "answer_raw": "0.06",
+      "program": "subtract(52.4%, 46.4%)"
+    }
+  ]
+}

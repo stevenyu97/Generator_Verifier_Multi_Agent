@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2015 what was the 2016 percent of non-cancelable operating leases as part of the total minimum future lease payments",
+      "answer": 0.12108,
+      "answer_raw": "0.12108",
+      "program": "divide(6306, 52083)"
+    }
+  ]
+}

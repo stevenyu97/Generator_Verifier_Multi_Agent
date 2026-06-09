@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total revenue in 2008 came from the asia-pacific region?",
+      "answer": 0.1269,
+      "answer_raw": "0.1269",
+      "program": "divide(72740, 573225)"
+    }
+  ]
+}

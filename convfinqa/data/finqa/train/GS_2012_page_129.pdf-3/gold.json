@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "from december 2012 to december 2011 , what was the change in millions in fair value of investments in private equity finds?",
+      "answer": 394.0,
+      "answer_raw": "394.0",
+      "program": "subtract(8074, 7680)"
+    }
+  ]
+}

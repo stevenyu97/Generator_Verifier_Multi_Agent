@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in 401(k) contribution between 2003 and 2004?",
+      "answer": -292000.0,
+      "answer_raw": "-292000.0",
+      "program": "subtract(533000, 825000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the percentage change during this time?",
+      "answer": -0.35394,
+      "answer_raw": "-0.35394",
+      "program": "subtract(533000, 825000), divide(#0, 825000)"
+    }
+  ]
+}

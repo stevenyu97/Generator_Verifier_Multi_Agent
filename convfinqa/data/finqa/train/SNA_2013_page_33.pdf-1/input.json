@@ -1,0 +1,48 @@
+{
+  "input": {
+    "id": "SNA/2013/page_33.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "other purchases or sales of equity securities the following chart discloses information regarding shares of snap-on 2019s common stock that were sold by citibank , n.a .",
+      "( 201ccitibank 201d ) during the fourth quarter of 2013 pursuant to a prepaid equity forward transaction agreement ( the 201cagreement 201d ) with citibank that is intended to reduce the impact of market risk associated with the stock-based portion of the company 2019s deferred compensation plans .",
+      "the company 2019s stock-based deferred compensation liabilities , which are impacted by changes in the company 2019s stock price , increase as the company 2019s stock price rises and decrease as the company 2019s stock price declines .",
+      "pursuant to the agreement , citibank may purchase or sell shares of the company 2019s common stock ( for citibank 2019s account ) in the market or in privately negotiated transactions .",
+      "the agreement has no stated expiration date , but the parties expect that each transaction under the agreement will have a term of approximately one year .",
+      "the agreement does not provide for snap-on to purchase or repurchase shares .",
+      "the following chart discloses information regarding citibank 2019s sales of snap-on common stock during the fourth quarter of 2013 pursuant to the agreement : period shares sold average per share ."
+    ],
+    "post_text": [
+      "2013 annual report 23 ."
+    ],
+    "table": [
+      [
+        "period",
+        "shares sold",
+        "averagepriceper share"
+      ],
+      [
+        "09/29/13 to 10/26/13",
+        "2013",
+        "2013"
+      ],
+      [
+        "10/27/13 to 11/23/13",
+        "2013",
+        "2013"
+      ],
+      [
+        "11/24/13 to 12/28/13",
+        "5000",
+        "$ 106.32"
+      ],
+      [
+        "total/average",
+        "5000",
+        "$ 106.32"
+      ]
+    ],
+    "questions": [
+      "how is the cash flow statement from financing activities affected by the sales of commons stock during the 4th quarter of 2013?"
+    ]
+  }
+}

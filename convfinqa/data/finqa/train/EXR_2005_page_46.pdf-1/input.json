@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "EXR/2005/page_46.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "part ii item 5 .",
+      "market for registrant 2019s common equity and related stockholder matters market information our common stock has been traded on the new york stock exchange ( 2018 2018nyse 2019 2019 ) under the symbol 2018 2018exr 2019 2019 since our ipo on august 17 , 2004 .",
+      "prior to that time there was no public market for our common stock .",
+      "the following table sets forth , for the periods indicated , the high and low bid price for our common stock as reported by the nyse and the per share dividends declared : dividends high low declared ."
+    ],
+    "post_text": [
+      "on february 28 , 2006 , the closing price of our common stock as reported by the nyse was $ 15.00 .",
+      "at february 28 , 2006 , we had 166 holders of record of our common stock .",
+      "holders of shares of common stock are entitled to receive distributions when declared by our board of directors out of any assets legally available for that purpose .",
+      "as a reit , we are required to distribute at least 90% ( 90 % ) of our 2018 2018reit taxable income 2019 2019 is generally equivalent to our net taxable ordinary income , determined without regard to the deduction for dividends paid , to our stockholders annually in order to maintain our reit qualifications for u.s .",
+      "federal income tax purposes .",
+      "unregistered sales of equity securities and use of proceeds on june 20 , 2005 , we completed the sale of 6200000 shares of our common stock , $ .01 par value , for $ 83514 , which we reported in a current report on form 8-k filed with the securities and exchange commission on june 24 , 2005 .",
+      "we used the proceeds for general corporate purposes , including debt repayment .",
+      "the shares were issued pursuant to an exemption from registration under the securities act of 1933 , as amended. ."
+    ],
+    "table": [
+      [
+        "",
+        "high",
+        "low",
+        "dividends declared"
+      ],
+      [
+        "period from august 17 2004 to september 30 2004",
+        "$ 14.38",
+        "$ 12.50",
+        "$ 0.1113"
+      ],
+      [
+        "quarter ended december 31 2004",
+        "14.55",
+        "12.60",
+        "0.2275"
+      ],
+      [
+        "quarter ended march 31 2005",
+        "14.30",
+        "12.55",
+        "0.2275"
+      ],
+      [
+        "quarter ended june 30 2005",
+        "14.75",
+        "12.19",
+        "0.2275"
+      ],
+      [
+        "quarter ended september 30 2005",
+        "16.71",
+        "14.32",
+        "0.2275"
+      ],
+      [
+        "quarter ended december 31 2005",
+        "15.90",
+        "13.00",
+        "0.2275"
+      ]
+    ],
+    "questions": [
+      "using the high bid price what was the percentage difference between the quarter ended december 31 , 2004 and the quarter ended march 312005?"
+    ]
+  }
+}

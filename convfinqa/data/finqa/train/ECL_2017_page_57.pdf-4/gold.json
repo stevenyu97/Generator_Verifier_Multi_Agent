@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of operating lease payments are due in less than one year?",
+      "answer": 0.21232,
+      "answer_raw": "0.21232",
+      "program": "divide(131, 617)"
+    }
+  ]
+}

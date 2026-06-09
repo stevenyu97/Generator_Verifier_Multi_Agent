@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total properties is related to outpatient medical?",
+      "answer": 0.19954,
+      "answer_raw": "0.19954",
+      "program": "divide(262, 1313)"
+    }
+  ]
+}

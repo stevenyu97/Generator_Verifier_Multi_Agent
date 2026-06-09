@@ -1,0 +1,94 @@
+{
+  "input": {
+    "id": "Single_TSCO/2018/page_31.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the following is a list of distribution locations including the approximate square footage and if the location is leased or owned: ."
+    ],
+    "post_text": [
+      "longview , texas ( c ) 63000 owned ( a ) the frankfort , new york , distribution center began receiving merchandise in fourth quarter of fiscal 2018 , and is expected to begin shipping merchandise to stores in the first quarter of fiscal 2019 .",
+      "( b ) the leased distribution center in hagerstown is treated as an extension of the existing owned hagerstown location and is not considered a separate distribution center .",
+      "( c ) this is a mixing center designed to process certain high-volume bulk products .",
+      "the company 2019s store support center occupies approximately 260000 square feet of owned building space in brentwood , tennessee , and the company 2019s merchandising innovation center occupies approximately 32000 square feet of leased building space in nashville , tennessee .",
+      "the company also leases approximately 8000 square feet of building space for the petsense corporate headquarters , located in scottsdale , arizona .",
+      "item 3 .",
+      "legal proceedings the company is involved in various litigation matters arising in the ordinary course of business .",
+      "the company believes that any estimated loss related to such matters has been adequately provided for in accrued liabilities to the extent probable and reasonably estimable .",
+      "accordingly , the company currently expects these matters will be resolved without material adverse effect on its consolidated financial position , results of operations or cash flows .",
+      "item 4 .",
+      "mine safety disclosures not applicable. ."
+    ],
+    "table": [
+      [
+        "distribution facility location",
+        "approximate square footage",
+        "owned/leased facility"
+      ],
+      [
+        "frankfort new york ( a )",
+        "924000",
+        "owned"
+      ],
+      [
+        "franklin kentucky",
+        "833000",
+        "owned"
+      ],
+      [
+        "pendleton indiana",
+        "764000",
+        "owned"
+      ],
+      [
+        "macon georgia",
+        "684000",
+        "owned"
+      ],
+      [
+        "waco texas",
+        "666000",
+        "owned"
+      ],
+      [
+        "casa grande arizona",
+        "650000",
+        "owned"
+      ],
+      [
+        "hagerstown maryland ( b )",
+        "482000",
+        "owned"
+      ],
+      [
+        "hagerstown maryland ( b )",
+        "309000",
+        "leased"
+      ],
+      [
+        "waverly nebraska",
+        "592000",
+        "owned"
+      ],
+      [
+        "seguin texas ( c )",
+        "71000",
+        "owned"
+      ],
+      [
+        "lakewood washington",
+        "64000",
+        "leased"
+      ],
+      [
+        "longview texas ( c )",
+        "63000",
+        "owned"
+      ]
+    ],
+    "questions": [
+      "what is the total combined square footage of the locations in seguin texas and longview texas?",
+      "and what is the square footage of the location in waco texas?",
+      "including, then, this location, what would be the total combined square footage of the three spots?"
+    ]
+  }
+}

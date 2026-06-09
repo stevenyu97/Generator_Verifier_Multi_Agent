@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "GS/2012/page_58.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis 2011 versus 2010 .",
+      "net revenues in investing & lending were $ 2.14 billion and $ 7.54 billion for 2011 and 2010 , respectively .",
+      "during 2011 , investing & lending results reflected an operating environment characterized by a significant decline in equity markets in europe and asia , and unfavorable credit markets that were negatively impacted by increased concerns regarding the weakened state of global economies , including heightened european sovereign debt risk .",
+      "results for 2011 included a loss of $ 517 million from our investment in the ordinary shares of icbc and net gains of $ 1.12 billion from other investments in equities , primarily in private equities , partially offset by losses from public equities .",
+      "in addition , investing & lending included net revenues of $ 96 million from debt securities and loans .",
+      "this amount includes approximately $ 1 billion of unrealized losses related to relationship lending activities , including the effect of hedges , offset by net interest income and net gains from other debt securities and loans .",
+      "results for 2011 also included other net revenues of $ 1.44 billion , principally related to our consolidated investment entities .",
+      "results for 2010 included a gain of $ 747 million from our investment in the ordinary shares of icbc , a net gain of $ 2.69 billion from other investments in equities , a net gain of $ 2.60 billion from debt securities and loans and other net revenues of $ 1.51 billion , principally related to our consolidated investment entities .",
+      "the net gain from other investments in equities was primarily driven by an increase in global equity markets , which resulted in appreciation of both our public and private equity positions and provided favorable conditions for initial public offerings .",
+      "the net gains and net interest from debt securities and loans primarily reflected the impact of tighter credit spreads and favorable credit markets during the year , which provided favorable conditions for borrowers to refinance .",
+      "operating expenses were $ 2.67 billion for 2011 , 20% ( 20 % ) lower than 2010 , due to decreased compensation and benefits expenses , primarily resulting from lower net revenues .",
+      "this decrease was partially offset by the impact of impairment charges related to consolidated investments during 2011 .",
+      "pre-tax loss was $ 531 million in 2011 , compared with pre-tax earnings of $ 4.18 billion in 2010 .",
+      "investment management investment management provides investment management services and offers investment products ( primarily through separately managed accounts and commingled vehicles , such as mutual funds and private investment funds ) across all major asset classes to a diverse set of institutional and individual clients .",
+      "investment management also offers wealth advisory services , including portfolio management and financial counseling , and brokerage and other transaction services to high-net-worth individuals and families .",
+      "assets under supervision include assets under management and other client assets .",
+      "assets under management include client assets where we earn a fee for managing assets on a discretionary basis .",
+      "this includes net assets in our mutual funds , hedge funds , credit funds and private equity funds ( including real estate funds ) , and separately managed accounts for institutional and individual investors .",
+      "other client assets include client assets invested with third-party managers , private bank deposits and assets related to advisory relationships where we earn a fee for advisory and other services , but do not have discretion over the assets .",
+      "assets under supervision do not include the self-directed brokerage accounts of our clients .",
+      "assets under management and other client assets typically generate fees as a percentage of net asset value , which vary by asset class and are affected by investment performance as well as asset inflows and redemptions .",
+      "in certain circumstances , we are also entitled to receive incentive fees based on a percentage of a fund 2019s return or when the return exceeds a specified benchmark or other performance targets .",
+      "incentive fees are recognized only when all material contingencies are resolved .",
+      "the table below presents the operating results of our investment management segment. ."
+    ],
+    "post_text": [
+      "56 goldman sachs 2012 annual report ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "year ended december 2012",
+        "year ended december 2011",
+        "year ended december 2010"
+      ],
+      [
+        "management and other fees",
+        "$ 4105",
+        "$ 4188",
+        "$ 3956"
+      ],
+      [
+        "incentive fees",
+        "701",
+        "323",
+        "527"
+      ],
+      [
+        "transaction revenues",
+        "416",
+        "523",
+        "531"
+      ],
+      [
+        "total net revenues",
+        "5222",
+        "5034",
+        "5014"
+      ],
+      [
+        "operating expenses",
+        "4294",
+        "4020",
+        "4082"
+      ],
+      [
+        "pre-tax earnings",
+        "$ 928",
+        "$ 1014",
+        "$ 932"
+      ]
+    ],
+    "questions": [
+      "what were average incentive fees in millions for the three year period?"
+    ]
+  }
+}

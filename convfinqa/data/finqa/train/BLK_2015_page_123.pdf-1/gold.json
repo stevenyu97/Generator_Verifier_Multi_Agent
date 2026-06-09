@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the fair value is in the carrying value?",
+      "answer": 0.9439,
+      "answer_raw": "0.9439",
+      "program": "divide(4930, 5223)"
+    }
+  ]
+}

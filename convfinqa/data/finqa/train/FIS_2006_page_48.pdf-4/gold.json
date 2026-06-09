@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in operating income from 2004 to 2005?",
+      "answer": 0.73426,
+      "answer_raw": "0.73426",
+      "program": "subtract(123715, 71336), divide(#0, 71336)"
+    }
+  ]
+}

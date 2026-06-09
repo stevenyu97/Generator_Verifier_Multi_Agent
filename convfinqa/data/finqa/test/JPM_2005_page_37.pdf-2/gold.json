@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "without the commercial banking segment , what would 2005 operating income have been reduced to , in us$ m?",
+      "answer": 9514.0,
+      "answer_raw": "9514.0",
+      "program": "subtract(10521, 1007)"
+    }
+  ]
+}

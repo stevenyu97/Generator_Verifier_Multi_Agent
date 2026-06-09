@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total amount of customer-related and network location intangibles?",
+      "answer": 147.7,
+      "answer_raw": "147.7",
+      "program": "add(75.0, 72.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "for how many years will they be amortized?",
+      "answer": 20.0,
+      "answer_raw": "20.0",
+      "program": "20"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what will the annual amortization expense be?",
+      "answer": 7.385,
+      "answer_raw": "7.385",
+      "program": "add(75.0, 72.7), divide(#0, 20)"
+    }
+  ]
+}

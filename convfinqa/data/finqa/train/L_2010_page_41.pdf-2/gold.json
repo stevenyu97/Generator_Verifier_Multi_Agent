@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the illinois properties relate to data centers?",
+      "answer": 0.05789,
+      "answer_raw": "0.05789",
+      "program": "add(46903, 763322), divide(46903, #0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions what was total residential mortgages balance for 2013 and 2012?",
+      "answer": 3576.0,
+      "answer_raw": "3576.0",
+      "program": "add(1356, 2220)"
+    }
+  ]
+}

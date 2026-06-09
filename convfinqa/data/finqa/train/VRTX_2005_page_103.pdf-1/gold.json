@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in net loss on disposal of assets between 2004 and 2005?",
+      "answer": 7.0,
+      "answer_raw": "7.0",
+      "program": "subtract(344000, 43000), divide(#0, 43000)"
+    }
+  ]
+}

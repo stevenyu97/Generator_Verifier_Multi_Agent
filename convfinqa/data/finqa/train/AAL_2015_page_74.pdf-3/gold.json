@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total reorganization items net consisted of labor-deemed claims in 2013?",
+      "answer": 0.65273,
+      "answer_raw": "0.65273",
+      "program": "divide(1733, 2655)"
+    }
+  ]
+}

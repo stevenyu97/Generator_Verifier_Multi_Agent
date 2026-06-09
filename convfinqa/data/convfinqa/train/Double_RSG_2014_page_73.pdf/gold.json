@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the cash provided by operating activities to the free cash flow in 2014?",
+      "answer": 2.1761,
+      "answer_raw": "2.1761",
+      "program": "divide(1529.8, 703.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the change in free cash flow in 2013?",
+      "answer": -856.9,
+      "answer_raw": "-856.9",
+      "program": "subtract(691.3, 1548.2)"
+    }
+  ]
+}

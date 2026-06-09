@@ -1,0 +1,117 @@
+{
+  "input": {
+    "id": "GS/2018/page_70.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the goldman sachs group , inc .",
+      "and subsidiaries management 2019s discussion and analysis 2018 versus 2017 .",
+      "provision for credit losses in the consolidated statements of earnings was $ 674 million for 2018 , compared with $ 657 million for 2017 , as the higher provision for credit losses primarily related to consumer loan growth in 2018 was partially offset by an impairment of approximately $ 130 million on a secured loan in 2017 .",
+      "2017 versus 2016 .",
+      "provision for credit losses in the consolidated statements of earnings was $ 657 million for 2017 , compared with $ 182 million for 2016 , reflecting an increase in impairments , which included an impairment of approximately $ 130 million on a secured loan in 2017 , and higher provision for credit losses primarily related to consumer loan growth .",
+      "operating expenses our operating expenses are primarily influenced by compensation , headcount and levels of business activity .",
+      "compensation and benefits includes salaries , discretionary compensation , amortization of equity awards and other items such as benefits .",
+      "discretionary compensation is significantly impacted by , among other factors , the level of net revenues , overall financial performance , prevailing labor markets , business mix , the structure of our share-based compensation programs and the external environment .",
+      "in addition , see 201cuse of estimates 201d for further information about expenses that may arise from litigation and regulatory proceedings .",
+      "the table below presents operating expenses by line item and headcount. ."
+    ],
+    "post_text": [
+      "in the table above , the following reclassifications have been made to previously reported amounts to conform to the current presentation : 2030 regulatory-related fees that are paid to exchanges are now reported in brokerage , clearing , exchange and distribution fees .",
+      "previously such amounts were reported in other expenses .",
+      "2030 headcount consists of our employees , and excludes consultants and temporary staff previously reported as part of total staff .",
+      "as a result , expenses related to these consultants and temporary staff are now reported in professional fees .",
+      "previously such amounts were reported in compensation and benefits expenses .",
+      "2018 versus 2017 .",
+      "operating expenses in the consolidated statements of earnings were $ 23.46 billion for 2018 , 12% ( 12 % ) higher than 2017 .",
+      "our efficiency ratio ( total operating expenses divided by total net revenues ) for 2018 was 64.1% ( 64.1 % ) , compared with 64.0% ( 64.0 % ) for 2017 .",
+      "the increase in operating expenses compared with 2017 was primarily due to higher compensation and benefits expenses , reflecting improved operating performance , and significantly higher net provisions for litigation and regulatory proceedings .",
+      "brokerage , clearing , exchange and distribution fees were also higher , reflecting an increase in activity levels , and technology expenses increased , reflecting higher expenses related to computing services .",
+      "in addition , expenses related to consolidated investments and our digital lending and deposit platform increased , with the increases primarily in depreciation and amortization expenses , market development expenses and other expenses .",
+      "the increase compared with 2017 also included $ 297 million related to the recently adopted revenue recognition standard .",
+      "see note 3 to the consolidated financial statements for further information about asu no .",
+      "2014-09 , 201crevenue from contracts with customers ( topic 606 ) . 201d net provisions for litigation and regulatory proceedings for 2018 were $ 844 million compared with $ 188 million for 2017 .",
+      "2018 included a $ 132 million charitable contribution to goldman sachs gives , our donor-advised fund .",
+      "compensation was reduced to fund this charitable contribution to goldman sachs gives .",
+      "we ask our participating managing directors to make recommendations regarding potential charitable recipients for this contribution .",
+      "as of december 2018 , headcount increased 9% ( 9 % ) compared with december 2017 , reflecting an increase in technology professionals and investments in new business initiatives .",
+      "2017 versus 2016 .",
+      "operating expenses in the consolidated statements of earnings were $ 20.94 billion for 2017 , 3% ( 3 % ) higher than 2016 .",
+      "our efficiency ratio for 2017 was 64.0% ( 64.0 % ) compared with 65.9% ( 65.9 % ) for 2016 .",
+      "the increase in operating expenses compared with 2016 was primarily driven by slightly higher compensation and benefits expenses and our investments to fund growth .",
+      "higher expenses related to consolidated investments and our digital lending and deposit platform were primarily included in depreciation and amortization expenses , market development expenses and other expenses .",
+      "in addition , technology expenses increased , reflecting higher expenses related to cloud-based services and software depreciation , and professional fees increased , primarily related to consulting costs .",
+      "these increases were partially offset by lower net provisions for litigation and regulatory proceedings , and lower occupancy expenses ( primarily related to exit costs in 2016 ) .",
+      "54 goldman sachs 2018 form 10-k ."
+    ],
+    "table": [
+      [
+        "$ in millions",
+        "year ended december 2018",
+        "year ended december 2017",
+        "year ended december 2016"
+      ],
+      [
+        "compensation and benefits",
+        "$ 12328",
+        "$ 11653",
+        "$ 11448"
+      ],
+      [
+        "brokerage clearing exchange and distribution fees",
+        "3200",
+        "2876",
+        "2823"
+      ],
+      [
+        "market development",
+        "740",
+        "588",
+        "457"
+      ],
+      [
+        "communications and technology",
+        "1023",
+        "897",
+        "809"
+      ],
+      [
+        "depreciation and amortization",
+        "1328",
+        "1152",
+        "998"
+      ],
+      [
+        "occupancy",
+        "809",
+        "733",
+        "788"
+      ],
+      [
+        "professional fees",
+        "1214",
+        "1165",
+        "1081"
+      ],
+      [
+        "other expenses",
+        "2819",
+        "1877",
+        "1900"
+      ],
+      [
+        "total operating expenses",
+        "$ 23461",
+        "$ 20941",
+        "$ 20304"
+      ],
+      [
+        "headcount atperiod-end",
+        "36600",
+        "33600",
+        "32400"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in operating expenses in 2018?"
+    ]
+  }
+}

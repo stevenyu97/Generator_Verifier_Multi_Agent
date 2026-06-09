@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage increase in service costs from 2017 to 2018?",
+      "answer": 0.23636,
+      "answer_raw": "0.23636",
+      "program": "subtract(136, 110), divide(#0, 110)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in research and development costs related to arcalyst ae from 2008 to 2009?",
+      "answer": 0.72704,
+      "answer_raw": "0.72704",
+      "program": "divide(28.5, 39.2)"
+    }
+  ]
+}

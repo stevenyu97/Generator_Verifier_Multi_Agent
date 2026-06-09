@@ -1,0 +1,85 @@
+{
+  "input": {
+    "id": "PNC/2014/page_92.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "table 32 : change in nonperforming assets ."
+    ],
+    "post_text": [
+      "( a ) new nonperforming assets in the 2013 period include $ 560 million of loans added in the first quarter of 2013 due to the alignment with interagency supervisory guidance on practices for loans and lines of credit related to consumer lending .",
+      "( b ) charge-offs and valuation adjustments in the 2013 period include $ 134 million of charge-offs due to the alignment with interagency supervisory guidance discussed in footnote ( a ) above .",
+      "the table above presents nonperforming asset activity during 2014 and 2013 , respectively .",
+      "nonperforming assets decreased $ 577 million from $ 3.5 billion at december 31 , 2013 to $ 2.9 billion at december 31 , 2014 , as a result of improvements in both consumer and commercial lending .",
+      "consumer lending nonperforming loans decreased $ 224 million , commercial real estate nonperforming loans declined $ 184 million and commercial nonperforming loans decreased $ 167 million .",
+      "as of december 31 , 2014 , approximately 90% ( 90 % ) of total nonperforming loans were secured by collateral which lessens reserve requirements and is expected to reduce credit losses in the event of default .",
+      "as of december 31 , 2014 , commercial lending nonperforming loans were carried at approximately 65% ( 65 % ) of their unpaid principal balance , due to charge-offs recorded to date , before consideration of the alll .",
+      "see note 3 asset quality in the notes to consolidated financial statements in item 8 of this report for additional information on these loans .",
+      "purchased impaired loans are considered performing , even if contractually past due ( or if we do not expect to receive payment in full based on the original contractual terms ) , as we accrete interest income over the expected life of the loans .",
+      "the accretable yield represents the excess of the expected cash flows on the loans at the measurement date over the carrying value .",
+      "generally decreases , other than interest rate decreases for variable rate notes , in the net present value of expected cash flows of individual commercial or pooled purchased impaired loans would result in an impairment charge to the provision for credit losses in the period in which the change is deemed probable .",
+      "generally increases in the net present value of expected cash flows of purchased impaired loans would first result in a recovery of previously recorded allowance for loan losses , to the extent applicable , and then an increase to accretable yield for the remaining life of the purchased impaired loans .",
+      "total nonperforming loans and assets in the tables above are significantly lower than they would have been due to this accounting treatment for purchased impaired loans .",
+      "this treatment also results in a lower ratio of nonperforming loans to total loans and a higher ratio of alll to nonperforming loans .",
+      "see note 4 purchased loans in the notes to consolidated financial statements in item 8 of this report for additional information on these loans .",
+      "loan delinquencies we regularly monitor the level of loan delinquencies and believe these levels may be a key indicator of loan portfolio asset quality .",
+      "measurement of delinquency status is based on the contractual terms of each loan .",
+      "loans that are 30 days or more past due in terms of payment are considered delinquent .",
+      "loan delinquencies exclude loans held for sale and purchased impaired loans , but include government insured or guaranteed loans and loans accounted for under the fair value option .",
+      "total early stage loan delinquencies ( accruing loans past due 30 to 89 days ) decreased from $ 1.0 billion at december 31 , 2013 to $ 0.8 billion at december 31 , 2014 .",
+      "the reduction in both consumer and commercial lending early stage delinquencies resulted from improved credit quality .",
+      "see note 1 accounting policies in the notes to consolidated financial statements of this report for additional information regarding our nonperforming loan and nonaccrual policies .",
+      "accruing loans past due 90 days or more are referred to as late stage delinquencies .",
+      "these loans are not included in nonperforming loans and continue to accrue interest because they are well secured by collateral , and/or are in the process of collection , are managed in homogenous portfolios with specified charge-off timeframes adhering to regulatory guidelines , or are certain government insured or guaranteed loans .",
+      "these loans decreased $ .4 billion , or 26% ( 26 % ) , from $ 1.5 billion at december 31 , 2013 to $ 1.1 billion at december 31 , 2014 , mainly due to a decline in government insured residential real estate loans of $ .3 billion , the majority of which we took possession of and conveyed the real estate , or are in the process of conveyance and claim resolution .",
+      "the following tables display the delinquency status of our loans at december 31 , 2014 and december 31 , 2013 .",
+      "additional information regarding accruing loans past due is included in note 3 asset quality in the notes to consolidated financial statements of this report .",
+      "74 the pnc financial services group , inc .",
+      "2013 form 10-k ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2014",
+        "2013"
+      ],
+      [
+        "january 1",
+        "$ 3457",
+        "$ 3794"
+      ],
+      [
+        "new nonperforming assets ( a )",
+        "2127",
+        "3343"
+      ],
+      [
+        "charge-offs and valuation adjustments ( b )",
+        "-585 ( 585 )",
+        "-1002 ( 1002 )"
+      ],
+      [
+        "principal activity including paydowns and payoffs",
+        "-1001 ( 1001 )",
+        "-1016 ( 1016 )"
+      ],
+      [
+        "asset sales and transfers to loans held for sale",
+        "-570 ( 570 )",
+        "-492 ( 492 )"
+      ],
+      [
+        "returned to performing status",
+        "-548 ( 548 )",
+        "-1170 ( 1170 )"
+      ],
+      [
+        "december 31",
+        "$ 2880",
+        "$ 3457"
+      ]
+    ],
+    "questions": [
+      "what is the percentage decrease of nonperforming assets from dec 31 2013 to dec 31 2014?"
+    ]
+  }
+}

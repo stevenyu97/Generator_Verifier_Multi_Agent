@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in total trade net receivables from 2015 to 2016?",
+      "answer": -92.0,
+      "answer_raw": "-92.0",
+      "program": "subtract(1639, 1731)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to the total trade net receivables in 2015, in percentage?",
+      "answer": -0.05315,
+      "answer_raw": "-0.05315",
+      "program": "subtract(1639, 1731), divide(#0, 1731)"
+    }
+  ]
+}

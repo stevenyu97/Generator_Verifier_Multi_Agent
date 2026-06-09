@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much does the total joint venture debt from 2012-2016 exceed the joint venture debt after 2016?",
+      "answer": 224311.0,
+      "answer_raw": "224311.0",
+      "program": "add(176457, 93683), add(#0, 123983), add(#1, 102476), add(#2, 527814), subtract(#3, 800102)"
+    }
+  ]
+}

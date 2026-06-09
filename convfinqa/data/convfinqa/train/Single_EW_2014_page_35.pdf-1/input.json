@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "Single_EW/2014/page_35.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "12feb201521095992 performance graph the following graph compares the performance of our common stock with that of the s&p 500 index and the s&p 500 healthcare equipment index .",
+      "the cumulative total return listed below assumes an initial investment of $ 100 on december 31 , 2009 and reinvestment of dividends .",
+      "comparison of 5 year cumulative total return rs $ 200 2009 2010 2011 201420132012 edwards lifesciences corporation s&p 500 s&p 500 healthcare equipment december 31 ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "total cumulative return",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      [
+        "edwards lifesciences",
+        "$ 186.16",
+        "$ 162.81",
+        "$ 207.65",
+        "$ 151.43",
+        "$ 293.33"
+      ],
+      [
+        "s&p 500",
+        "115.06",
+        "117.49",
+        "136.30",
+        "180.44",
+        "205.14"
+      ],
+      [
+        "s&p 500 healthcare equipment index",
+        "96.84",
+        "102.07",
+        "120.66",
+        "153.85",
+        "194.33"
+      ]
+    ],
+    "questions": [
+      "what is the value of an investment in edwards lifesciences in 2014?",
+      "what about the initial value?",
+      "what is the net change?",
+      "what is the initial value of the investment?",
+      "what rate of return does this represent?"
+    ]
+  }
+}

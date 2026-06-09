@@ -1,0 +1,57 @@
+{
+  "input": {
+    "id": "EMN/2004/page_82.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "guarantees in november 2002 , the fasb issued interpretation no .",
+      "45 ( 201cfin 45 201d ) , 201cguarantor 2019s accounting and disclosure requirements for guarantees , including indirect guarantees of indebtedness of others , 201d an interpretation of fasb statements no .",
+      "5 , 57 , and 107 and rescission of fasb interpretation no .",
+      "34 .",
+      "fin 45 clarifies the requirements of sfas no .",
+      "5 , 201caccounting for contingencies , 201d relating to the guarantor 2019s accounting for , and disclosure of , the issuance of certain types of guarantees .",
+      "disclosures about each group of similar guarantees are provided below and summarized in the following table: ."
+    ],
+    "post_text": [
+      "if certain operating leases are terminated by the company , it guarantees a portion of the residual value loss , if any , incurred by the lessors in disposing of the related assets .",
+      "under these operating leases , the residual value guarantees at december 31 , 2004 totaled $ 90 million and consisted primarily of leases for railcars , company aircraft , and other equipment .",
+      "the company believes , based on current facts and circumstances , that a material payment pursuant to such guarantees is remote .",
+      "guarantees and claims also arise during the ordinary course of business from relationships with suppliers , customers and non-consolidated affiliates when the company undertakes an obligation to guarantee the performance of others if specified triggering events occur .",
+      "non-performance under a contract could trigger an obligation of the company .",
+      "these potential claims include actions based upon alleged exposures to products , intellectual property and environmental matters , and other indemnifications .",
+      "the ultimate effect on future financial results is not subject to reasonable estimation because considerable uncertainty exists as to the final outcome of these claims .",
+      "however , while the ultimate liabilities resulting from such claims may be significant to results of operations in the period recognized , management does not anticipate they will have a material adverse effect on the company 2019s consolidated financial position or liquidity .",
+      "product warranty liability the company warrants to the original purchaser of its products that it will repair or replace without charge products if they fail due to a manufacturing defect .",
+      "however , the company 2019s historical claims experience has not been material .",
+      "the estimated product warranty liability for the company 2019s products as of december 31 , 2004 is approximately $ 1 million .",
+      "the company accrues for product warranties when it is probable that customers will make claims under warranties relating to products that have been sold and a reasonable estimate of the costs can be made .",
+      "variable interest entities the company has evaluated material relationships including the guarantees related to the third-party borrowings of joint ventures described above and has concluded that the entities are not variable interest entities ( 201cvies 201d ) or , in the case of primester , a joint venture that manufactures cellulose acetate at its kingsport , tennessee plant , the company is not the primary beneficiary of the vie .",
+      "as such , in accordance with fin 46r , the company is not required to consolidate these entities .",
+      "in addition , the company has evaluated long-term purchase obligations with two entities that may be vies at december 31 , 2004 .",
+      "these potential vies are joint ventures from which the company has purchased raw materials and utilities for several years and purchases approximately $ 40 million of raw materials and utilities on an annual basis .",
+      "the company has no equity interest in these entities and has confirmed that one party to each of these joint ventures does consolidate the potential vie .",
+      "however , due to competitive and other reasons , the company has not been able to obtain the necessary financial information to determine whether the entities are vies , and if one or both are vies , whether or not the company is the primary beneficiary .",
+      "notes to consolidated financial statements eastman chemical company and subsidiaries 2013 80 2013 ."
+    ],
+    "table": [
+      [
+        "( dollars in millions )",
+        "december 31 2004"
+      ],
+      [
+        "obligations of equity affiliates",
+        "$ 131"
+      ],
+      [
+        "residual value guarantees",
+        "90"
+      ],
+      [
+        "total",
+        "$ 221"
+      ]
+    ],
+    "questions": [
+      "in 2004 what was the ratio of the obligations of equity affiliates to residual value guarantees"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "MRO/2009/page_139.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "marathon oil corporation notes to consolidated financial statements of the $ 446 million present value of net minimum capital lease payments , $ 53 million was related to obligations assumed by united states steel under the financial matters agreement .",
+      "operating lease rental expense was : ( in millions ) 2009 2008 2007 minimum rental ( a ) $ 238 $ 245 $ 209 ."
+    ],
+    "post_text": [
+      "( a ) excludes $ 3 million , $ 5 million and $ 8 million paid by united states steel in 2009 , 2008 and 2007 on assumed leases .",
+      "26 .",
+      "commitments and contingencies we are the subject of , or party to , a number of pending or threatened legal actions , contingencies and commitments involving a variety of matters , including laws and regulations relating to the environment .",
+      "certain of these matters are discussed below .",
+      "the ultimate resolution of these contingencies could , individually or in the aggregate , be material to our consolidated financial statements .",
+      "however , management believes that we will remain a viable and competitive enterprise even though it is possible that these contingencies could be resolved unfavorably .",
+      "environmental matters 2013 we are subject to federal , state , local and foreign laws and regulations relating to the environment .",
+      "these laws generally provide for control of pollutants released into the environment and require responsible parties to undertake remediation of hazardous waste disposal sites .",
+      "penalties may be imposed for noncompliance .",
+      "at december 31 , 2009 and 2008 , accrued liabilities for remediation totaled $ 116 million and $ 111 million .",
+      "it is not presently possible to estimate the ultimate amount of all remediation costs that might be incurred or the penalties that may be imposed .",
+      "receivables for recoverable costs from certain states , under programs to assist companies in clean-up efforts related to underground storage tanks at retail marketing outlets , were $ 59 and $ 60 million at december 31 , 2009 and 2008 .",
+      "legal cases 2013 we , along with other refining companies , settled a number of lawsuits pertaining to methyl tertiary-butyl ether ( 201cmtbe 201d ) in 2008 .",
+      "presently , we are a defendant , along with other refining companies , in 27 cases arising in four states alleging damages for mtbe contamination .",
+      "like the cases that we settled in 2008 , 12 of the remaining cases are consolidated in a multi-district litigation ( 201cmdl 201d ) in the southern district of new york for pretrial proceedings .",
+      "the other 15 cases are in new york state courts ( nassau and suffolk counties ) .",
+      "plaintiffs in 26 of the 27 cases allege damages to water supply wells from contamination of groundwater by mtbe , similar to the damages claimed in the cases settled in 2008 .",
+      "in the remaining case , the new jersey department of environmental protection is seeking the cost of remediating mtbe contamination and natural resources damages allegedly resulting from contamination of groundwater by mtbe .",
+      "we are vigorously defending these cases .",
+      "we have engaged in settlement discussions related to the majority of these cases .",
+      "we do not expect our share of liability for these cases to significantly impact our consolidated results of operations , financial position or cash flows .",
+      "we voluntarily discontinued producing mtbe in 2002 .",
+      "we are currently a party to one qui tam case , which alleges that marathon and other defendants violated the false claims act with respect to the reporting and payment of royalties on natural gas and natural gas liquids for federal and indian leases .",
+      "a qui tam action is an action in which the relator files suit on behalf of himself as well as the federal government .",
+      "the case currently pending is u.s .",
+      "ex rel harrold e .",
+      "wright v .",
+      "agip petroleum co .",
+      "et al .",
+      "it is primarily a gas valuation case .",
+      "marathon has reached a settlement with the relator and the doj which will be finalized after the indian tribes review and approve the settlement terms .",
+      "such settlement is not expected to significantly impact our consolidated results of operations , financial position or cash flows .",
+      "guarantees 2013 we have provided certain guarantees , direct and indirect , of the indebtedness of other companies .",
+      "under the terms of most of these guarantee arrangements , we would be required to perform should the guaranteed party fail to fulfill its obligations under the specified arrangements .",
+      "in addition to these financial guarantees , we also have various performance guarantees related to specific agreements. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2009",
+        "2008",
+        "2007"
+      ],
+      [
+        "minimum rental ( a )",
+        "$ 238",
+        "$ 245",
+        "$ 209"
+      ],
+      [
+        "contingent rental",
+        "19",
+        "22",
+        "33"
+      ],
+      [
+        "net rental expense",
+        "$ 257",
+        "$ 267",
+        "$ 242"
+      ]
+    ],
+    "questions": [
+      "by how much did contingent rental liability decrease from 2007 to 2009?"
+    ]
+  }
+}

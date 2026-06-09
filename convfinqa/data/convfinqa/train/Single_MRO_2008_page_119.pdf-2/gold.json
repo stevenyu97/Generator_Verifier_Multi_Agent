@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total in current assets and noncurrent assets in 2008, in millions?",
+      "answer": 267.0,
+      "answer_raw": "267.0",
+      "program": "add(164, 103)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the average between them, also in millions?",
+      "answer": 133.5,
+      "answer_raw": "133.5",
+      "program": "add(164, 103), divide(#0, const_2)"
+    }
+  ]
+}

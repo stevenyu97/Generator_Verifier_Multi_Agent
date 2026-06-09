@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2015 what was the percent of the debt maturities scheduled to mature in 2016",
+      "answer": 0.07434,
+      "answer_raw": "0.07434",
+      "program": "divide(976, 13128)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total net sales where comprised of food and ingredients in 2006?",
+      "answer": 0.27774,
+      "answer_raw": "0.27774",
+      "program": "divide(3189, 11482)"
+    }
+  ]
+}

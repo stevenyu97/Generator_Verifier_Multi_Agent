@@ -1,0 +1,73 @@
+{
+  "input": {
+    "id": "APD/2014/page_71.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "3 .",
+      "discontinued operations during the second quarter of 2012 , the board of directors authorized the sale of our homecare business , which had previously been reported as part of the merchant gases operating segment .",
+      "this business has been accounted for as a discontinued operation .",
+      "in the third quarter of 2012 , we sold the majority of our homecare business to the linde group for sale proceeds of 20ac590 million ( $ 777 ) and recognized a gain of $ 207.4 ( $ 150.3 after-tax , or $ .70 per share ) .",
+      "the sale proceeds included 20ac110 million ( $ 144 ) that was contingent on the outcome of certain retender arrangements .",
+      "these proceeds were reflected in payables and accrued liabilities on our consolidated balance sheet as of 30 september 2013 .",
+      "based on the outcome of the retenders , we were contractually required to return proceeds to the linde group .",
+      "in the fourth quarter of 2014 , we made a payment to settle this liability and recognized a gain of $ 1.5 .",
+      "during the third quarter of 2012 , an impairment charge of $ 33.5 ( $ 29.5 after-tax , or $ .14 per share ) was recorded to write down the remaining business , which was primarily in the united kingdom and ireland , to its estimated net realizable value .",
+      "in the fourth quarter of 2013 , an additional charge of $ 18.7 ( $ 13.6 after-tax , or $ .06 per share ) was recorded to update our estimate of the net realizable value .",
+      "in the first quarter of 2014 , we sold the remaining portion of the homecare business for a36.1 million ( $ 9.8 ) and recorded a gain on sale of $ 2.4 .",
+      "we entered into an operations guarantee related to the obligations under certain homecare contracts assigned in connection with the transaction .",
+      "refer to note 16 , commitments and contingencies , for additional information .",
+      "the results of discontinued operations are summarized below: ."
+    ],
+    "post_text": [
+      "the assets and liabilities classified as discontinued operations for the homecare business at 30 september 2013 consisted of $ 2.5 in trade receivables , net , and $ 2.4 in payables and accrued liabilities .",
+      "as of 30 september 2014 , no assets or liabilities were classified as discontinued operations. ."
+    ],
+    "table": [
+      [
+        "",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      [
+        "sales",
+        "$ 8.5",
+        "$ 52.3",
+        "$ 258.0"
+      ],
+      [
+        "income before taxes",
+        "$ .7",
+        "$ 3.8",
+        "$ 68.1"
+      ],
+      [
+        "income tax provision",
+        "2014",
+        ".2",
+        "20.8"
+      ],
+      [
+        "income from operations of discontinued operations",
+        ".7",
+        "3.6",
+        "47.3"
+      ],
+      [
+        "gain ( loss ) on sale of business and impairment/write-down net of tax",
+        "3.9",
+        "-13.6 ( 13.6 )",
+        "120.8"
+      ],
+      [
+        "income ( loss ) from discontinued operations net of tax",
+        "$ 4.6",
+        "$ -10.0 ( 10.0 )",
+        "$ 168.1"
+      ]
+    ],
+    "questions": [
+      "considering the year 2014 , what is the percentage of income from operations of discontinued operations concerning income from discontinued operations net of tax?"
+    ]
+  }
+}

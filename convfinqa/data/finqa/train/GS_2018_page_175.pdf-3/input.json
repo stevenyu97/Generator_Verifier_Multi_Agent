@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "GS/2018/page_175.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "the goldman sachs group , inc .",
+      "and subsidiaries notes to consolidated financial statements lending commitments the firm 2019s lending commitments are agreements to lend with fixed termination dates and depend on the satisfaction of all contractual conditions to borrowing .",
+      "these commitments are presented net of amounts syndicated to third parties .",
+      "the total commitment amount does not necessarily reflect actual future cash flows because the firm may syndicate all or substantial additional portions of these commitments .",
+      "in addition , commitments can expire unused or be reduced or cancelled at the counterparty 2019s request .",
+      "the table below presents information about lending commitments. ."
+    ],
+    "post_text": [
+      "in the table above : 2030 held for investment lending commitments are accounted for on an accrual basis .",
+      "see note 9 for further information about such commitments .",
+      "2030 held for sale lending commitments are accounted for at the lower of cost or fair value .",
+      "2030 gains or losses related to lending commitments at fair value , if any , are generally recorded , net of any fees in other principal transactions .",
+      "2030 substantially all lending commitments relates to the firm 2019s investing & lending segment .",
+      "commercial lending .",
+      "the firm 2019s commercial lending commitments were primarily extended to investment-grade corporate borrowers .",
+      "such commitments included $ 93.99 billion as of december 2018 and $ 85.98 billion as of december 2017 , related to relationship lending activities ( principally used for operating and general corporate purposes ) and $ 27.92 billion as of december 2018 and $ 42.41 billion as of december 2017 , related to other investment banking activities ( generally extended for contingent acquisition financing and are often intended to be short-term in nature , as borrowers often seek to replace them with other funding sources ) .",
+      "the firm also extends lending commitments in connection with other types of corporate lending , as well as commercial real estate financing .",
+      "see note 9 for further information about funded loans .",
+      "sumitomo mitsui financial group , inc .",
+      "( smfg ) provides the firm with credit loss protection on certain approved loan commitments ( primarily investment-grade commercial lending commitments ) .",
+      "the notional amount of such loan commitments was $ 15.52 billion as of december 2018 and $ 25.70 billion as of december 2017 .",
+      "the credit loss protection on loan commitments provided by smfg is generally limited to 95% ( 95 % ) of the first loss the firm realizes on such commitments , up to a maximum of approximately $ 950 million .",
+      "in addition , subject to the satisfaction of certain conditions , upon the firm 2019s request , smfg will provide protection for 70% ( 70 % ) of additional losses on such commitments , up to a maximum of $ 1.0 billion , of which $ 550 million of protection had been provided as of both december 2018 and december 2017 .",
+      "the firm also uses other financial instruments to mitigate credit risks related to certain commitments not covered by smfg .",
+      "these instruments primarily include credit default swaps that reference the same or similar underlying instrument or entity , or credit default swaps that reference a market index .",
+      "warehouse financing .",
+      "the firm provides financing to clients who warehouse financial assets .",
+      "these arrangements are secured by the warehoused assets , primarily consisting of consumer and corporate loans .",
+      "contingent and forward starting collateralized agreements / forward starting collateralized financings forward starting collateralized agreements includes resale and securities borrowing agreements , and forward starting collateralized financings includes repurchase and secured lending agreements that settle at a future date , generally within three business days .",
+      "the firm also enters into commitments to provide contingent financing to its clients and counterparties through resale agreements .",
+      "the firm 2019s funding of these commitments depends on the satisfaction of all contractual conditions to the resale agreement and these commitments can expire unused .",
+      "letters of credit the firm has commitments under letters of credit issued by various banks which the firm provides to counterparties in lieu of securities or cash to satisfy various collateral and margin deposit requirements .",
+      "investment commitments investment commitments includes commitments to invest in private equity , real estate and other assets directly and through funds that the firm raises and manages .",
+      "investment commitments included $ 2.42 billion as of december 2018 and $ 2.09 billion as of december 2017 , related to commitments to invest in funds managed by the firm .",
+      "if these commitments are called , they would be funded at market value on the date of investment .",
+      "goldman sachs 2018 form 10-k 159 ."
+    ],
+    "table": [
+      [
+        "$ in millions",
+        "as of december 2018",
+        "as of december 2017"
+      ],
+      [
+        "held for investment",
+        "$ 120997",
+        "$ 124504"
+      ],
+      [
+        "held for sale",
+        "8602",
+        "9838"
+      ],
+      [
+        "at fair value",
+        "7983",
+        "9404"
+      ],
+      [
+        "total",
+        "$ 137582",
+        "$ 143746"
+      ]
+    ],
+    "questions": [
+      "in millions for 2018 and 2017 , what was the lowest balance in held for investment?"
+    ]
+  }
+}

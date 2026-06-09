@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net amount received from increasing and decreasing interest rates?",
+      "answer": 1.0,
+      "answer_raw": "1.0",
+      "program": "subtract(27.9, 26.9)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and including interest income?",
+      "answer": 25.7,
+      "answer_raw": "25.7",
+      "program": "subtract(27.9, 26.9), add(24.7, #0)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much would the interest income increase with a 100bp increase in interest rates?",
+      "answer": 41.1,
+      "answer_raw": "41.1",
+      "program": "add(24.7, 16.4)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and with a 100bp decrease?",
+      "answer": 8.3,
+      "answer_raw": "8.3",
+      "program": "add(24.7, 16.4), subtract(24.7, 16.4)"
+    }
+  ]
+}

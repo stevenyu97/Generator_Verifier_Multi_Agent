@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "ADBE/2009/page_81.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "adobe systems incorporated notes to consolidated financial statements ( continued ) foreign currency translation we translate assets and liabilities of foreign subsidiaries , whose functional currency is their local currency , at exchange rates in effect at the balance sheet date .",
+      "we translate revenue and expenses at the monthly average exchange rates .",
+      "we include accumulated net translation adjustments in stockholders 2019 equity as a component of accumulated other comprehensive income .",
+      "property and equipment we record property and equipment at cost less accumulated depreciation and amortization .",
+      "property and equipment are depreciated using the straight-line method over their estimated useful lives ranging from 1 to 5 years for computers and equipment , 1 to 6 years for furniture and fixtures and up to 35 years for buildings .",
+      "leasehold improvements are amortized using the straight-line method over the lesser of the remaining respective lease term or useful lives .",
+      "goodwill , purchased intangibles and other long-lived assets we review our goodwill for impairment annually , or more frequently , if facts and circumstances warrant a review .",
+      "we completed our annual impairment test in the second quarter of fiscal 2009 and determined that there was no impairment .",
+      "goodwill is assigned to one or more reporting segments on the date of acquisition .",
+      "we evaluate goodwill for impairment by comparing the fair value of each of our reporting segments to its carrying value , including the associated goodwill .",
+      "to determine the fair values , we use the market approach based on comparable publicly traded companies in similar lines of businesses and the income approach based on estimated discounted future cash flows .",
+      "our cash flow assumptions consider historical and forecasted revenue , operating costs and other relevant factors .",
+      "we amortize intangible assets with finite lives over their estimated useful lives and review them for impairment whenever an impairment indicator exists .",
+      "we continually monitor events and changes in circumstances that could indicate carrying amounts of our long-lived assets , including our intangible assets may not be recoverable .",
+      "when such events or changes in circumstances occur , we assess recoverability by determining whether the carrying value of such assets will be recovered through the undiscounted expected future cash flows .",
+      "if the future undiscounted cash flows are less than the carrying amount of these assets , we recognize an impairment loss based on the excess of the carrying amount over the fair value of the assets .",
+      "we did not recognize any intangible asset impairment charges in fiscal 2009 , 2008 or 2007 .",
+      "our intangible assets are amortized over their estimated useful lives of 1 to 13 years as shown in the table below .",
+      "amortization is based on the pattern in which the economic benefits of the intangible asset will be consumed .",
+      "weighted average useful life ( years ) ."
+    ],
+    "post_text": [
+      "software development costs capitalization of software development costs for software to be sold , leased , or otherwise marketed begins upon the establishment of technological feasibility , which is generally the completion of a working prototype that has been certified as having no critical bugs and is a release candidate .",
+      "amortization begins once the software is ready for its intended use , generally based on the pattern in which the economic benefits will be consumed .",
+      "to date , software development costs incurred between completion of a working prototype and general availability of the related product have not been material .",
+      "revenue recognition our revenue is derived from the licensing of software products , consulting , hosting services and maintenance and support .",
+      "primarily , we recognize revenue when persuasive evidence of an arrangement exists , we have delivered the product or performed the service , the fee is fixed or determinable and collection is probable. ."
+    ],
+    "table": [
+      [
+        "",
+        "weighted average useful life ( years )"
+      ],
+      [
+        "purchased technology",
+        "7"
+      ],
+      [
+        "localization",
+        "1"
+      ],
+      [
+        "trademarks",
+        "7"
+      ],
+      [
+        "customer contracts and relationships",
+        "10"
+      ],
+      [
+        "other intangibles",
+        "2"
+      ]
+    ],
+    "questions": [
+      "what is the average weighted average useful life ( years ) for trademarks and customer contracts and relationships?"
+    ]
+  }
+}

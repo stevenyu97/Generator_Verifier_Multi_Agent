@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "IPG/2007/page_97.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "future minimum lease commitments for office premises and equipment under non-cancelable leases , along with minimum sublease rental income to be received under non-cancelable subleases , are as follows : period rent obligations sublease rental income net rent ."
+    ],
+    "post_text": [
+      "guarantees we have certain contingent obligations under guarantees of certain of our subsidiaries ( 201cparent company guarantees 201d ) relating principally to credit facilities , guarantees of certain media payables and operating leases .",
+      "the amount of such parent company guarantees was $ 327.1 and $ 327.9 as of december 31 , 2007 and 2006 , respectively .",
+      "in the event of non-payment by the applicable subsidiary of the obligations covered by a guarantee , we would be obligated to pay the amounts covered by that guarantee .",
+      "as of december 31 , 2007 , there are no material assets pledged as security for such parent company guarantees .",
+      "contingent acquisition obligations we have structured certain acquisitions with additional contingent purchase price obligations in order to reduce the potential risk associated with negative future performance of the acquired entity .",
+      "in addition , we have entered into agreements that may require us to purchase additional equity interests in certain consolidated and unconsolidated subsidiaries .",
+      "the amounts relating to these transactions are based on estimates of the future financial performance of the acquired entity , the timing of the exercise of these rights , changes in foreign currency exchange rates and other factors .",
+      "we have not recorded a liability for these items since the definitive amounts payable are not determinable or distributable .",
+      "when the contingent acquisition obligations have been met and consideration is determinable and distributable , we record the fair value of this consideration as an additional cost of the acquired entity .",
+      "however , we recognize deferred payments and purchases of additional interests after the effective date of purchase that are contingent upon the future employment of owners as compensation expense .",
+      "compensation expense is determined based on the terms and conditions of the respective acquisition agreements and employment terms of the former owners of the acquired businesses .",
+      "this future expense will not be allocated to the assets and liabilities acquired and is amortized over the required employment terms of the former owners .",
+      "the following table details the estimated liability with respect to our contingent acquisition obligations and the estimated amount that would be paid under the options , in the event of exercise at the earliest exercise date .",
+      "all payments are contingent upon achieving projected operating performance targets and satisfying other notes to consolidated financial statements 2014 ( continued ) ( amounts in millions , except per share amounts ) ."
+    ],
+    "table": [
+      [
+        "period",
+        "rent obligations",
+        "sublease rental income",
+        "net rent"
+      ],
+      [
+        "2008",
+        "$ 323.9",
+        "$ -40.9 ( 40.9 )",
+        "$ 283.0"
+      ],
+      [
+        "2009",
+        "300.9",
+        "-37.5 ( 37.5 )",
+        "263.4"
+      ],
+      [
+        "2010",
+        "267.7",
+        "-31.0 ( 31.0 )",
+        "236.7"
+      ],
+      [
+        "2011",
+        "233.7",
+        "-25.7 ( 25.7 )",
+        "208.0"
+      ],
+      [
+        "2012",
+        "197.9",
+        "-20.2 ( 20.2 )",
+        "177.7"
+      ],
+      [
+        "2013 and thereafter",
+        "871.0",
+        "-33.1 ( 33.1 )",
+        "837.9"
+      ],
+      [
+        "total",
+        "$ 2195.1",
+        "$ -188.4 ( 188.4 )",
+        "$ 2006.7"
+      ]
+    ],
+    "questions": [
+      "what portion of total rent obligations will be paid-off through sublease rental income?"
+    ]
+  }
+}

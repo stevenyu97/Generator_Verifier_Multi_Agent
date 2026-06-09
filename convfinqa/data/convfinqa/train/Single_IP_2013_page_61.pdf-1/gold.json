@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of north american industrial packaging net sales in 2013?",
+      "answer": 12.5,
+      "answer_raw": "12.5",
+      "program": "12.5"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that value multiplied by 1000?",
+      "answer": 12500.0,
+      "answer_raw": "12500.0",
+      "program": "multiply(12.5, const_1000)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what were the sales in 2013?",
+      "answer": 14810.0,
+      "answer_raw": "14810.0",
+      "program": "14810"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the proportion of sales attributed to na industrial packaging?",
+      "answer": 0.84402,
+      "answer_raw": "0.84402",
+      "program": "multiply(12.5, const_1000), divide(#0, 14810)"
+    }
+  ]
+}

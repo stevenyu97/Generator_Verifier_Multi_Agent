@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did the grant date fair value per share increase from 2017 to 2018?",
+      "answer": 0.01112,
+      "answer_raw": "0.01112",
+      "program": "subtract(73.62, 72.81), divide(#0, 72.81)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total loan portfolio value based on the percentage of the portfolio made up by home equity loans?",
+      "answer": 2.04118,
+      "answer_raw": "2.04118",
+      "program": "divide(34.7, 17)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in billions?",
+      "answer": 204.11765,
+      "answer_raw": "204.11765",
+      "program": "divide(34.7, 17), multiply(#0, const_100)"
+    }
+  ]
+}

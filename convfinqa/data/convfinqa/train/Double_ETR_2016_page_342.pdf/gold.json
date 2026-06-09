@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in net revenue from 2015 to 2016 for entergy louisiana?",
+      "answer": 29.6,
+      "answer_raw": "29.6",
+      "program": "subtract(2438.4, 2408.8)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the net revenue in 2015?",
+      "answer": 2408.8,
+      "answer_raw": "2408.8",
+      "program": "2408.8"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what growth rate does this rerpesent?",
+      "answer": 0.01229,
+      "answer_raw": "0.01229",
+      "program": "subtract(2438.4, 2408.8), divide(#0, 2408.8)"
+    }
+  ]
+}

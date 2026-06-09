@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many ipo shares did the company sell in july 2013?",
+      "answer": 26737500.0,
+      "answer_raw": "26737500.0",
+      "program": "add(23250000, 3487500)"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "input": {
+    "id": "HII/2014/page_133.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "equity compensation plan information the following table presents the equity securities available for issuance under our equity compensation plans as of december 31 , 2014 .",
+      "equity compensation plan information plan category number of securities to be issued upon exercise of outstanding options , warrants and rights ( 1 ) weighted-average exercise price of outstanding options , warrants and rights ( 2 ) number of securities remaining available for future issuance under equity compensation plans ( excluding securities reflected in column ( a ) ) ( a ) ( b ) ( c ) equity compensation plans approved by security holders 1955024 $ 36.06 4078093 equity compensation plans not approved by security holders ( 3 ) 2014 2014 2014 ."
+    ],
+    "post_text": [
+      "( 1 ) includes grants made under the huntington ingalls industries , inc .",
+      "2012 long-term incentive stock plan ( the \"2012 plan\" ) , which was approved by our stockholders on may 2 , 2012 , and the huntington ingalls industries , inc .",
+      "2011 long-term incentive stock plan ( the \"2011 plan\" ) , which was approved by the sole stockholder of hii prior to its spin-off from northrop grumman corporation .",
+      "of these shares , 644321 were subject to stock options , 539742 were subject to outstanding restricted performance stock rights , and 63022 were stock rights granted under the 2011 plan .",
+      "in addition , this number includes 33571 stock rights , 11046 restricted stock rights and 663322 restricted performance stock rights granted under the 2012 plan , assuming target performance achievement .",
+      "( 2 ) this is the weighted average exercise price of the 644321 outstanding stock options only .",
+      "( 3 ) there are no awards made under plans not approved by security holders .",
+      "item 13 .",
+      "certain relationships and related transactions , and director independence information as to certain relationships and related transactions and director independence will be incorporated herein by reference to the proxy statement for our 2015 annual meeting of stockholders to be filed within 120 days after the end of the company 2019s fiscal year .",
+      "item 14 .",
+      "principal accountant fees and services information as to principal accountant fees and services will be incorporated herein by reference to the proxy statement for our 2015 annual meeting of stockholders to be filed within 120 days after the end of the company 2019s fiscal year .",
+      "this proof is printed at 96% ( 96 % ) of original size this line represents final trim and will not print ."
+    ],
+    "table": [
+      [
+        "plan category",
+        "number of securities to be issued upon exercise of outstanding options warrants and rights ( 1 ) ( a ) ( b )",
+        "weighted-average exercise price of outstanding optionswarrants and rights ( 2 )",
+        "number of securities remaining available for future issuance under equity compensation plans ( excluding securitiesreflected in column ( a ) ) ( c )"
+      ],
+      [
+        "equity compensation plans approved by security holders",
+        "1955024",
+        "$ 36.06",
+        "4078093"
+      ],
+      [
+        "equity compensation plans not approved by security holders ( 3 )",
+        "2014",
+        "2014",
+        "2014"
+      ],
+      [
+        "total",
+        "1955024",
+        "$ 36.06",
+        "4078093"
+      ]
+    ],
+    "questions": [
+      "what portion of equity compensation plan remains available for future issuance?"
+    ]
+  }
+}

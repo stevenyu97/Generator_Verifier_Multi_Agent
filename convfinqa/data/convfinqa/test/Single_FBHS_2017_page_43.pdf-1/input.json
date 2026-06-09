@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "Single_FBHS/2017/page_43.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "net sales increased $ 29.9 million , or 6.3% ( 6.3 % ) , due to higher sales volume driven primarily by continuing improvement in the u.s .",
+      "home products market and the benefit from new product introductions and price increases to help mitigate cumulative raw material cost increases .",
+      "operating income increased $ 12.6 million , or 20.4% ( 20.4 % ) , due to higher net sales , the benefits from productivity improvements and leveraging sales on our existing fixed cost base .",
+      "security net sales increased $ 12.8 million , or 2.2% ( 2.2 % ) , due to higher sales volume and price increases to help mitigate cumulative raw material cost increases .",
+      "these benefits were partially offset by the impact of our exiting of two product lines in our commercial distribution channel .",
+      "operating income increased $ 5.8 million , or 8.7% ( 8.7 % ) , primarily due to the higher net sales , the benefits from productivity improvements , lower restructuring and other charges ( approximately $ 6 million ) relating to the completion in 2016 of a manufacturing facility relocation , favorable foreign exchange and the related cost savings resulting from the facility relocation .",
+      "corporate corporate expenses increased by $ 5.7 million mainly due to the impairment of a long lived asset and recognition of an actuarial gain versus an actuarial loss in 2016 and higher defined benefit plan income during 2017 compared to 2016 .",
+      "( in millions ) 2017 2016 ."
+    ],
+    "post_text": [
+      "in future periods the company may record , in the corporate segment , material expense or income associated with actuarial gains and losses arising from periodic remeasurement of our liabilities for defined benefit plans .",
+      "at a minimum the company will remeasure its defined benefit plan liabilities in the fourth quarter of each year .",
+      "remeasurements due to plan amendments and settlements may also occur in interim periods during the year .",
+      "remeasurement of these liabilities attributable to updating our liability discount rates and expected return on assets may , in particular , result in material income or expense recognition .",
+      "2016 compared to 2015 total fortune brands net sales net sales increased $ 405.5 million , or 9% ( 9 % ) .",
+      "the increase was due to higher sales volume primarily from the continuing improvement in u.s .",
+      "market conditions for home products , the benefit from the acquisitions in our cabinets and plumbing segments and price increases to help mitigate cumulative raw material cost increases and the effect of unfavorable foreign exchange .",
+      "these benefits were partially offset by unfavorable foreign exchange of approximately $ 27 million and higher sales rebates .",
+      "cost of products sold cost of products sold increased $ 182.8 million , or 6% ( 6 % ) , due to higher net sales , including the impact of the acquisitions in our cabinets and plumbing segments , partially offset by the benefit of productivity improvements. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2017",
+        "2016"
+      ],
+      [
+        "general and administrative expense",
+        "$ -90.3 ( 90.3 )",
+        "$ -80.9 ( 80.9 )"
+      ],
+      [
+        "defined benefit plan income",
+        "4.2",
+        "2.9"
+      ],
+      [
+        "defined benefit plan recognition of actuarial gains ( losses )",
+        "0.5",
+        "-1.9 ( 1.9 )"
+      ],
+      [
+        "total corporate expenses",
+        "$ -85.6 ( 85.6 )",
+        "$ -79.9 ( 79.9 )"
+      ]
+    ],
+    "questions": [
+      "what was the change in the defined benefit plan income from 2016 to 2017?",
+      "and what was that income in 2016?",
+      "how much, then, does that change represent in relation to this 2016 defined benefit plan, in percentage?"
+    ]
+  }
+}

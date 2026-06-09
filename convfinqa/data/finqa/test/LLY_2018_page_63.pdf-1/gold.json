@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in inventories between 2017 and 2018?",
+      "answer": -0.07772,
+      "answer_raw": "-0.07772",
+      "program": "subtract(4111.8, 4458.3), divide(#0, 4458.3)"
+    }
+  ]
+}

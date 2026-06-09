@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total number , in mmboe , of 2014 proved developed reserves?",
+      "answer": 700.0,
+      "answer_raw": "700.0",
+      "program": "divide(const_100, 26), multiply(182, #0)"
+    }
+  ]
+}

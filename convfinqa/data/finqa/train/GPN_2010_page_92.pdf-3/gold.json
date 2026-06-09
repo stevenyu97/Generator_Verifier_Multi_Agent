@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 2010 what was the percent of the total future minimum lease payments for all noncancelable leases that was due in 2012",
+      "answer": 0.48954,
+      "answer_raw": "0.48954",
+      "program": "divide(9856, 20133)"
+    }
+  ]
+}

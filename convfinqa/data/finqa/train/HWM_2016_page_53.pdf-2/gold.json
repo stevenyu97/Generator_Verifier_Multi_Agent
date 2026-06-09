@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the years 2015-2016 , what was the variation observed in the growth of the atoi in the transportation and construction solutions engineered products and solutions segments?",
+      "answer": 0.02,
+      "answer_raw": "0.02",
+      "program": "subtract(8%, 6%)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the warranty reserve in 2017 in thousands",
+      "answer": 3517.0,
+      "answer_raw": "3517.0",
+      "program": "subtract(23151, 19634)"
+    }
+  ]
+}

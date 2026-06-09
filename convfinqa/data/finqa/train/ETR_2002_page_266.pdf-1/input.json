@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "ETR/2002/page_266.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "domestic utility companies and system energy notes to respective financial statements derived from another portion of the entity that continues to apply sfas 71 should not be written off ; rather , they should be considered regulatory assets of the segment that will continue to apply sfas 71 .",
+      "see note 2 to the domestic utility companies and system energy financial statements for discussion of transition to competition activity in the retail regulatory jurisdictions served by the domestic utility companies .",
+      "only texas currently has an enacted retail open access law , but entergy believes that significant issues remain to be addressed by regulators , and the enacted law does not provide sufficient detail to reasonably determine the impact on entergy gulf states' regulated operations .",
+      "cash and cash equivalents entergy considers all unrestricted highly liquid debt instruments purchased with an original maturity of three months or less to be cash equivalents .",
+      "investments with original maturities of more than three months are classified as other temporary investments on the balance sheet .",
+      "investments entergy applies the provisions of sfas 115 , 201caccounting for investments for certain debt and equity securities , 201d in accounting for investments in decommissioning trust funds .",
+      "as a result , entergy records the decommissioning trust funds at their fair value on the balance sheet .",
+      "as of december 31 , 2002 and 2001 , the fair value of the securities held in such funds differs from the amounts deposited plus the earnings on the deposits by the following ( in millions ) : ."
+    ],
+    "post_text": [
+      "in accordance with the regulatory treatment for decommissioning trust funds , entergy arkansas , entergy gulf states ( for the regulated portion of river bend ) , and entergy louisiana have recorded an offsetting amount of unrealized gains/ ( losses ) on investment securities in accumulated depreciation .",
+      "for the nonregulated portion of river bend , entergy gulf states has recorded an offsetting amount of unrealized gains/ ( losses ) in other deferred credits .",
+      "system energy's offsetting amount of unrealized gains/ ( losses ) on investment securities is in other regulatory liabilities .",
+      "derivatives and hedging entergy implemented sfas 133 , 201caccounting for derivative instruments and hedging activities 201d on january 1 , 2001 .",
+      "the statement requires that all derivatives be recognized in the balance sheet , either as assets or liabilities , at fair value .",
+      "the changes in the fair value of derivatives are recorded each period in current earnings or other comprehensive income , depending on whether a derivative is designated as part of a hedge transaction and , if it is , the type of hedge transaction .",
+      "for cash-flow hedge transactions in which entergy is hedging the variability of cash flows related to a variable-rate asset , liability , or forecasted transaction , changes in the fair value of the derivative instrument are reported in other comprehensive income .",
+      "the gains and losses on the derivative instrument that are reported in other comprehensive income are reclassified as earnings in the periods in which earnings are impacted by the variability of the cash flows of the hedged item .",
+      "the ineffective portions of all hedges are recognized in current- period earnings .",
+      "contracts for commodities that will be delivered in quantities expected to be used or sold in the ordinary course of business , including certain purchases and sales of power and fuel , are not classified as derivatives. ."
+    ],
+    "table": [
+      [
+        "",
+        "2002",
+        "2001"
+      ],
+      [
+        "entergy arkansas",
+        "$ 35.3",
+        "$ 69.8"
+      ],
+      [
+        "entergy gulf states",
+        "$ 1.4",
+        "$ 18.5"
+      ],
+      [
+        "entergy louisiana",
+        "( $ 0.3 )",
+        "$ 8.2"
+      ],
+      [
+        "system energy",
+        "( $ 14.5 )",
+        "( $ 1.6 )"
+      ]
+    ],
+    "questions": [
+      "what is the percent change in the difference in the fair value of the securities held in decommissioning trust funds and the amounts deposited plus the earnings on the deposits from 2001 to 2002 for entergy arkansas?"
+    ]
+  }
+}

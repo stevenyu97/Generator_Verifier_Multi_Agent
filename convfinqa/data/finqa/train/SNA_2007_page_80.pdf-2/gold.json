@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change amount in the balance of unrecognized tax benefits from 2006 to 2007?",
+      "answer": -2.6,
+      "answer_raw": "-2.6",
+      "program": "subtract(18.7, 21.3)"
+    }
+  ]
+}

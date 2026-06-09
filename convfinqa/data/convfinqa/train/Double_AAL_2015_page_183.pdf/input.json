@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "Double_AAL/2015/page_183.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "table of contents notes to consolidated financial statements of american airlines , inc .",
+      "certificate of incorporation ( the certificate of incorporation ) contains transfer restrictions applicable to certain substantial stockholders .",
+      "although the purpose of these transfer restrictions is to prevent an ownership change from occurring , there can be no assurance that an ownership change will not occur even with these transfer restrictions .",
+      "a copy of the certificate of incorporation was attached as exhibit 3.1 to a current report on form 8-k filed by aag with the sec on december 9 , 2013 .",
+      "reorganization items , net reorganization items refer to revenues , expenses ( including professional fees ) , realized gains and losses and provisions for losses that are realized or incurred in the chapter 11 cases .",
+      "the following table summarizes the components included in reorganization items , net on the consolidated statement of operations for the year ended december 31 , 2013 ( in millions ) : december 31 ."
+    ],
+    "post_text": [
+      "( 1 ) in exchange for employees 2019 contributions to the successful reorganization , including agreeing to reductions in pay and benefits , american agreed in the plan to provide each employee group a deemed claim , which was used to provide a distribution of a portion of the equity of the reorganized entity to those employees .",
+      "each employee group received a deemed claim amount based upon a portion of the value of cost savings provided by that group through reductions to pay and benefits as well as through certain work rule changes .",
+      "the total value of this deemed claim was approximately $ 1.7 billion .",
+      "( 2 ) amounts include allowed claims ( claims approved by the bankruptcy court ) and estimated allowed claims relating to ( i ) the rejection or modification of financings related to aircraft and ( ii ) entry of orders treated as unsecured claims with respect to facility agreements supporting certain issuances of special facility revenue bonds .",
+      "the debtors recorded an estimated claim associated with the rejection or modification of a financing or facility agreement when the applicable motion was filed with the bankruptcy court to reject or modify such financing or facility agreement and the debtors believed that it was probable the motion would be approved , and there was sufficient information to estimate the claim .",
+      "( 3 ) pursuant to the plan , the debtors agreed to allow certain post-petition unsecured claims on obligations .",
+      "as a result , during the year ended december 31 , 2013 , american recorded reorganization charges to adjust estimated allowed claim amounts previously recorded on rejected special facility revenue bonds of $ 180 million , allowed general unsecured claims related to the 1990 and 1994 series of special facility revenue bonds that financed certain improvements at john f .",
+      "kennedy international airport ( jfk ) , and rejected bonds that financed certain improvements at chicago o 2019hare international airport ( ord ) , which are included in the table above .",
+      "( 4 ) the plan allowed unsecured creditors receiving aag series a preferred stock a conversion discount of 3.5% ( 3.5 % ) .",
+      "accordingly , american recorded the fair value of such discount upon the confirmation of the plan by the bankruptcy court. ."
+    ],
+    "table": [
+      [
+        "",
+        "december 31 2013"
+      ],
+      [
+        "labor-related deemed claim ( 1 )",
+        "$ 1733"
+      ],
+      [
+        "aircraft and facility financing renegotiations and rejections ( 2 ) ( 3 )",
+        "320"
+      ],
+      [
+        "fair value of conversion discount ( 4 )",
+        "218"
+      ],
+      [
+        "professional fees",
+        "199"
+      ],
+      [
+        "other",
+        "170"
+      ],
+      [
+        "total reorganization items net",
+        "$ 2640"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the labor-related deemed claim to other fees?",
+      "and what percentage of the total net reorganization items are related to professional fees?"
+    ]
+  }
+}

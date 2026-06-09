@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "were total revisions of estimates greater than accretion of discounts?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "table_sum(revisions of previous quantity estimates, none), table_sum(accretion of discount, none), greater(#0, #1)"
+    }
+  ]
+}

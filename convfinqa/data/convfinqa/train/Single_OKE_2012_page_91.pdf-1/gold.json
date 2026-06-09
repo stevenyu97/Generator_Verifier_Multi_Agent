@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in value of natural gas marketing (bcf) between 2010 and 2011?",
+      "answer": -74.0,
+      "answer_raw": "-74.0",
+      "program": "subtract(845, 919)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the percent change?",
+      "answer": -0.08052,
+      "answer_raw": "-0.08052",
+      "program": "subtract(845, 919), divide(#0, 919)"
+    }
+  ]
+}

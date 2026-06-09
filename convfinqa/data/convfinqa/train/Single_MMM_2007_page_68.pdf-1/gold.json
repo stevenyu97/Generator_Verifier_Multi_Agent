@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the original par value of the auction rate securities, in millions?",
+      "answer": 34.0,
+      "answer_raw": "34.0",
+      "program": "34"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the estimated fair value to which they were written down, also in millions?",
+      "answer": 16.0,
+      "answer_raw": "16.0",
+      "program": "16"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change in the value?",
+      "answer": 18.0,
+      "answer_raw": "18.0",
+      "program": "subtract(34, 16)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation to the original value?",
+      "answer": 0.52941,
+      "answer_raw": "0.52941",
+      "program": "subtract(34, 16), divide(#0, 34)"
+    }
+  ]
+}

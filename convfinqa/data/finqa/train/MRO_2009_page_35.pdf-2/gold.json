@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of refined product sales consisted of distillates in 2008?",
+      "answer": 0.27737,
+      "answer_raw": "0.27737",
+      "program": "divide(375, 1352)"
+    }
+  ]
+}

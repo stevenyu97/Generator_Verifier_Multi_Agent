@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the operating margin for 2003?",
+      "answer": 0.05583,
+      "answer_raw": "0.05583",
+      "program": "divide(96.9, 1735.5)"
+    }
+  ]
+}

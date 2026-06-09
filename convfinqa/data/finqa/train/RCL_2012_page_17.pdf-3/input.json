@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "RCL/2012/page_17.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "result of the effects of the costa concordia incident and the continued instability in the european eco- nomic landscape .",
+      "however , we continue to believe in the long term growth potential of this market .",
+      "we estimate that europe was served by 102 ships with approximately 108000 berths at the beginning of 2008 and by 117 ships with approximately 156000 berths at the end of 2012 .",
+      "there are approximately 9 ships with an estimated 25000 berths that are expected to be placed in service in the european cruise market between 2013 and 2017 .",
+      "the following table details the growth in the global , north american and european cruise markets in terms of cruise guests and estimated weighted-average berths over the past five years : global cruise guests ( 1 ) weighted-average supply of berths marketed globally ( 1 ) north american cruise guests ( 2 ) weighted-average supply of berths marketed in north america ( 1 ) european cruise guests weighted-average supply of berths marketed in europe ( 1 ) ."
+    ],
+    "post_text": [
+      "( 1 ) source : our estimates of the number of global cruise guests , and the weighted-average supply of berths marketed globally , in north america and europe are based on a combination of data that we obtain from various publicly available cruise industry trade information sources including seatrade insider and cruise line international association ( 201cclia 201d ) .",
+      "in addition , our estimates incorporate our own statistical analysis utilizing the same publicly available cruise industry data as a base .",
+      "( 2 ) source : cruise line international association based on cruise guests carried for at least two consecutive nights for years 2008 through 2011 .",
+      "year 2012 amounts represent our estimates ( see number 1 above ) .",
+      "( 3 ) source : clia europe , formerly european cruise council , for years 2008 through 2011 .",
+      "year 2012 amounts represent our estimates ( see number 1 above ) .",
+      "other markets in addition to expected industry growth in north america and europe as discussed above , we expect the asia/pacific region to demonstrate an even higher growth rate in the near term , although it will continue to represent a relatively small sector compared to north america and europe .",
+      "competition we compete with a number of cruise lines .",
+      "our princi- pal competitors are carnival corporation & plc , which owns , among others , aida cruises , carnival cruise lines , costa cruises , cunard line , holland america line , iberocruceros , p&o cruises and princess cruises ; disney cruise line ; msc cruises ; norwegian cruise line and oceania cruises .",
+      "cruise lines compete with other vacation alternatives such as land-based resort hotels and sightseeing destinations for consumers 2019 leisure time .",
+      "demand for such activities is influenced by political and general economic conditions .",
+      "com- panies within the vacation market are dependent on consumer discretionary spending .",
+      "operating strategies our principal operating strategies are to : 2022 protect the health , safety and security of our guests and employees and protect the environment in which our vessels and organization operate , 2022 strengthen and support our human capital in order to better serve our global guest base and grow our business , 2022 further strengthen our consumer engagement in order to enhance our revenues , 2022 increase the awareness and market penetration of our brands globally , 2022 focus on cost efficiency , manage our operating expenditures and ensure adequate cash and liquid- ity , with the overall goal of maximizing our return on invested capital and long-term shareholder value , 2022 strategically invest in our fleet through the revit ad alization of existing ships and the transfer of key innovations across each brand , while prudently expanding our fleet with the new state-of-the-art cruise ships recently delivered and on order , 2022 capitalize on the portability and flexibility of our ships by deploying them into those markets and itineraries that provide opportunities to optimize returns , while continuing our focus on existing key markets , 2022 further enhance our technological capabilities to service customer preferences and expectations in an innovative manner , while supporting our strategic focus on profitability , and part i 0494.indd 13 3/27/13 12:52 pm ."
+    ],
+    "table": [
+      [
+        "year",
+        "global cruise guests ( 1 )",
+        "weighted-average supply of berths marketed globally ( 1 )",
+        "north american cruise guests ( 2 )",
+        "weighted-average supply of berths marketed in north america ( 1 )",
+        "european cruise guests",
+        "weighted-average supply of berths marketed in europe ( 1 )"
+      ],
+      [
+        "2008",
+        "17184000",
+        "347000",
+        "10093000",
+        "219000",
+        "4500000",
+        "120000"
+      ],
+      [
+        "2009",
+        "17340000",
+        "363000",
+        "10198000",
+        "222000",
+        "5000000",
+        "131000"
+      ],
+      [
+        "2010",
+        "18800000",
+        "391000",
+        "10781000",
+        "232000",
+        "5540000",
+        "143000"
+      ],
+      [
+        "2011",
+        "20227000",
+        "412000",
+        "11625000",
+        "245000",
+        "5894000",
+        "149000"
+      ],
+      [
+        "2012",
+        "20823000",
+        "425000",
+        "12044000",
+        "254000",
+        "6040000",
+        "152000"
+      ]
+    ],
+    "questions": [
+      "what was the percentage increase of global cruise guests from 2008-2012?"
+    ]
+  }
+}

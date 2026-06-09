@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was pre impairment goodwill in millions for surface mining & technology as of october 1 , 2016?",
+      "answer": 1224.0,
+      "answer_raw": "1224.0",
+      "program": "add(595, 629)"
+    }
+  ]
+}

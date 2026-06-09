@@ -1,0 +1,137 @@
+{
+  "input": {
+    "id": "INTC/2016/page_100.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "intel corporation notes to consolidated financial statements ( continued ) note 16 : other comprehensive income ( loss ) the changes in accumulated other comprehensive income ( loss ) by component and related tax effects for each period were as follows : ( in millions ) unrealized holding ( losses ) on available- for-sale investments deferred tax asset valuation allowance unrealized holding ( losses ) on derivatives service credits ( costs ) actuarial ( losses ) foreign currency translation adjustment total ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "unrealized holding gains ( losses ) on available-for-sale investments",
+        "deferred tax asset valuation allowance",
+        "unrealized holding gains ( losses ) on derivatives",
+        "prior service credits ( costs )",
+        "actuarial gains ( losses )",
+        "foreign currency translation adjustment",
+        "total"
+      ],
+      [
+        "december 27 2014",
+        "$ 2459",
+        "$ 26",
+        "$ -423 ( 423 )",
+        "$ -47 ( 47 )",
+        "$ -1004 ( 1004 )",
+        "$ -345 ( 345 )",
+        "$ 666"
+      ],
+      [
+        "other comprehensive income ( loss ) before reclassifications",
+        "-999 ( 999 )",
+        "2014",
+        "-298 ( 298 )",
+        "-2 ( 2 )",
+        "73",
+        "-187 ( 187 )",
+        "-1413 ( 1413 )"
+      ],
+      [
+        "amounts reclassified out of accumulated other comprehensive income ( loss )",
+        "-93 ( 93 )",
+        "2014",
+        "522",
+        "10",
+        "67",
+        "2014",
+        "506"
+      ],
+      [
+        "tax effects",
+        "382",
+        "-18 ( 18 )",
+        "-67 ( 67 )",
+        "-1 ( 1 )",
+        "-12 ( 12 )",
+        "17",
+        "301"
+      ],
+      [
+        "other comprehensive income ( loss )",
+        "-710 ( 710 )",
+        "-18 ( 18 )",
+        "157",
+        "7",
+        "128",
+        "-170 ( 170 )",
+        "-606 ( 606 )"
+      ],
+      [
+        "december 26 2015",
+        "1749",
+        "8",
+        "-266 ( 266 )",
+        "-40 ( 40 )",
+        "-876 ( 876 )",
+        "-515 ( 515 )",
+        "60"
+      ],
+      [
+        "other comprehensive income ( loss ) before reclassifications",
+        "1170",
+        "2014",
+        "-26 ( 26 )",
+        "2014",
+        "-680 ( 680 )",
+        "-4 ( 4 )",
+        "460"
+      ],
+      [
+        "amounts reclassified out of accumulated other comprehensive income ( loss )",
+        "-530 ( 530 )",
+        "2014",
+        "38",
+        "2014",
+        "170",
+        "2014",
+        "-322 ( 322 )"
+      ],
+      [
+        "tax effects",
+        "-225 ( 225 )",
+        "-8 ( 8 )",
+        "-5 ( 5 )",
+        "2014",
+        "146",
+        "2014",
+        "-92 ( 92 )"
+      ],
+      [
+        "other comprehensive income ( loss )",
+        "415",
+        "-8 ( 8 )",
+        "7",
+        "2014",
+        "-364 ( 364 )",
+        "-4 ( 4 )",
+        "46"
+      ],
+      [
+        "december 31 2016",
+        "$ 2164",
+        "$ 2014",
+        "$ -259 ( 259 )",
+        "$ -40 ( 40 )",
+        "$ -1240 ( 1240 )",
+        "$ -519 ( 519 )",
+        "$ 106"
+      ]
+    ],
+    "questions": [
+      "what is the net change in accumulated other comprehensive income during 2015?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in pre-tax earnings for the institutional client services segment between 2013 and 2014?",
+      "answer": 0.09875,
+      "answer_raw": "0.09875",
+      "program": "subtract(4317, 3929), divide(#0, 3929)"
+    }
+  ]
+}

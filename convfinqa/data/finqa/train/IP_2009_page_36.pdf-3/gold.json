@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the variation observed in the value of operating expenses and other costs concerning the activities during 2008 and 2009?",
+      "answer": 1747.0,
+      "answer_raw": "1747.0",
+      "program": "subtract(6810, 474), subtract(5680, 1091), subtract(#0, #1)"
+    }
+  ]
+}

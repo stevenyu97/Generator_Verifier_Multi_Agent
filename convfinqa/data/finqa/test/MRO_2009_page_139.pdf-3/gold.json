@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did contingent rental liability decrease from 2007 to 2009?",
+      "answer": -0.42424,
+      "answer_raw": "-0.42424",
+      "program": "subtract(19, 33), divide(#0, 33)"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "Single_K/2012/page_80.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "note 12 derivative instruments and fair value measurements the company is exposed to certain market risks such as changes in interest rates , foreign currency exchange rates , and commodity prices , which exist as a part of its ongoing business operations .",
+      "management uses derivative financial and commodity instruments , including futures , options , and swaps , where appropriate , to manage these risks .",
+      "instruments used as hedges must be effective at reducing the risk associated with the exposure being hedged and must be designated as a hedge at the inception of the contract .",
+      "the company designates derivatives as cash flow hedges , fair value hedges , net investment hedges , and uses other contracts to reduce volatility in interest rates , foreign currency and commodities .",
+      "as a matter of policy , the company does not engage in trading or speculative hedging transactions .",
+      "total notional amounts of the company 2019s derivative instruments as of december 29 , 2012 and december 31 , 2011 were as follows: ."
+    ],
+    "post_text": [
+      "following is a description of each category in the fair value hierarchy and the financial assets and liabilities of the company that were included in each category at december 29 , 2012 and december 31 , 2011 , measured on a recurring basis .",
+      "level 1 2014 financial assets and liabilities whose values are based on unadjusted quoted prices for identical assets or liabilities in an active market .",
+      "for the company , level 1 financial assets and liabilities consist primarily of commodity derivative contracts .",
+      "level 2 2014 financial assets and liabilities whose values are based on quoted prices in markets that are not active or model inputs that are observable either directly or indirectly for substantially the full term of the asset or liability .",
+      "for the company , level 2 financial assets and liabilities consist of interest rate swaps and over-the-counter commodity and currency contracts .",
+      "the company 2019s calculation of the fair value of interest rate swaps is derived from a discounted cash flow analysis based on the terms of the contract and the interest rate curve .",
+      "over-the-counter commodity derivatives are valued using an income approach based on the commodity index prices less the contract rate multiplied by the notional amount .",
+      "foreign currency contracts are valued using an income approach based on forward rates less the contract rate multiplied by the notional amount .",
+      "the company 2019s calculation of the fair value of level 2 financial assets and liabilities takes into consideration the risk of nonperformance , including counterparty credit risk .",
+      "level 3 2014 financial assets and liabilities whose values are based on prices or valuation techniques that require inputs that are both unobservable and significant to the overall fair value measurement .",
+      "these inputs reflect management 2019s own assumptions about the assumptions a market participant would use in pricing the asset or liability .",
+      "the company did not have any level 3 financial assets or liabilities as of december 29 , 2012 or december 31 , 2011 .",
+      "the following table presents assets and liabilities that were measured at fair value in the consolidated balance sheet on a recurring basis as of december 29 , 2012 and december 31 , 2011 : derivatives designated as hedging instruments : 2012 2011 ( millions ) level 1 level 2 total level 1 level 2 total assets : foreign currency exchange contracts : other current assets $ 2014 $ 4 $ 4 $ 2014 $ 11 $ 11 interest rate contracts ( a ) : other assets 2014 64 64 2014 23 23 commodity contracts : other current assets 2014 2014 2014 2 2014 2 total assets $ 2014 $ 68 $ 68 $ 2 $ 34 $ 36 liabilities : foreign currency exchange contracts : other current liabilities $ 2014 $ ( 3 ) $ ( 3 ) $ 2014 $ ( 18 ) $ ( 18 ) commodity contracts : other current liabilities 2014 ( 11 ) ( 11 ) ( 4 ) ( 12 ) ( 16 ) other liabilities 2014 ( 27 ) ( 27 ) 2014 ( 34 ) ( 34 ) total liabilities $ 2014 $ ( 41 ) $ ( 41 ) $ ( 4 ) $ ( 64 ) $ ( 68 ) ( a ) the fair value of the related hedged portion of the company 2019s long-term debt , a level 2 liability , was $ 2.3 billion as of december 29 , 2012 and $ 626 million as of december 31 , derivatives not designated as hedging instruments : 2012 2011 ( millions ) level 1 level 2 total level 1 level 2 total assets : commodity contracts : other current assets $ 5 $ 2014 $ 5 $ 2014 $ 2014 $ 2014 total assets $ 5 $ 2014 $ 5 $ 2014 $ 2014 $ 2014 liabilities : commodity contracts : other current liabilities $ ( 3 ) $ 2014 $ ( 3 ) $ 2014 $ 2014 $ 2014 total liabilities $ ( 3 ) $ 2014 $ ( 3 ) $ 2014 $ 2014 $ 2014 ."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "2012",
+        "2011"
+      ],
+      [
+        "foreign currency exchange contracts",
+        "$ 570",
+        "$ 1265"
+      ],
+      [
+        "interest rate contracts",
+        "2150",
+        "600"
+      ],
+      [
+        "commodity contracts",
+        "136",
+        "175"
+      ],
+      [
+        "total",
+        "$ 2856",
+        "$ 2040"
+      ]
+    ],
+    "questions": [
+      "what was the change in the total notional amount of the company's derivatives from 2011 to 2012?",
+      "and what was that amount in 2011?",
+      "how much, then, does that change represent in relation to this 2011 amount, in percentage?"
+    ]
+  }
+}

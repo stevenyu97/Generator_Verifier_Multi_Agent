@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the leased cutting rights to approximately 88000 acres of timberland , is the valdosta mill acreage greater than the counce mill acres?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(77000, 11000)"
+    }
+  ]
+}

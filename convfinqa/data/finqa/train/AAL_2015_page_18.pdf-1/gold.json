@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was total mainline operating expenses for 2015?",
+      "answer": 28824.07407,
+      "answer_raw": "28824.07407",
+      "program": "divide(6226, 21.6%)"
+    }
+  ]
+}

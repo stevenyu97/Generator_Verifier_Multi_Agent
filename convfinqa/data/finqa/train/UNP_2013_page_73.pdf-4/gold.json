@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in total expense for repairs and maintenance from 2012 to 2013?",
+      "answer": 0.09524,
+      "answer_raw": "0.09524",
+      "program": "subtract(2.3, 2.1), divide(#0, 2.1)"
+    }
+  ]
+}

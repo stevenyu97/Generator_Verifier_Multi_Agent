@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net valuation allowance as of december 31, 2013?",
+      "answer": 10576.0,
+      "answer_raw": "10576.0",
+      "program": "subtract(13555, 2979)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the value of decreases in current period tax positions in 2011?",
+      "answer": 3734.0,
+      "answer_raw": "3734.0",
+      "program": "3734"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what about in 2012?",
+      "answer": 2059.0,
+      "answer_raw": "2059.0",
+      "program": "2059"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total for these two years?",
+      "answer": 5793.0,
+      "answer_raw": "5793.0",
+      "program": "add(3734, 2059)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what about if 2013 is included?",
+      "answer": 11758.0,
+      "answer_raw": "11758.0",
+      "program": "add(3734, 2059), add(#0, 5965)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the average for three years?",
+      "answer": 3919.33333,
+      "answer_raw": "3919.33333",
+      "program": "add(3734, 2059), add(#0, 5965), divide(#1, const_3)"
+    }
+  ]
+}

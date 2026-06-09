@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the changes in assets and liabilities , net of effects from business acquisitions and divestitures in 2016 to 2015",
+      "answer": 0.64793,
+      "answer_raw": "0.64793",
+      "program": "divide(205.2, 316.7)"
+    }
+  ]
+}

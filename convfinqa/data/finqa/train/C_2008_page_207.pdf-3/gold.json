@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in billions of loans held-for-sale that are carried at locom in the level 2 category from 2007 to 2008?",
+      "answer": -4.3,
+      "answer_raw": "-4.3",
+      "program": "subtract(0.8, 5.1)"
+    }
+  ]
+}

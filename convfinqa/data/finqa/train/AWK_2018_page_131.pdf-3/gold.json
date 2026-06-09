@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was total allowance for borrowed funds used during construction in the table?",
+      "answer": 27.0,
+      "answer_raw": "27.0",
+      "program": "table_sum(allowance for borrowed funds used during construction, none)"
+    }
+  ]
+}

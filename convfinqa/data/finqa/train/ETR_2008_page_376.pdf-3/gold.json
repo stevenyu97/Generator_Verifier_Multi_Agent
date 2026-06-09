@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the net change in revenue between 2007 and 2008 was due to fuel recovery?",
+      "answer": -5.35714,
+      "answer_raw": "-5.35714",
+      "program": "subtract(440.9, 442.3), divide(7.5, #0)"
+    }
+  ]
+}

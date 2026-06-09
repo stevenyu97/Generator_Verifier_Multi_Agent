@@ -1,0 +1,46 @@
+{
+  "input": {
+    "id": "Single_DG/2006/page_58.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "consolidated 2005 results of operations was an estimated reduction of gross profit and a corresponding decrease to inventory , at cost , of $ 5.2 million .",
+      "store pre-opening costs pre-opening costs related to new store openings and the construction periods are expensed as incurred .",
+      "property and equipment property and equipment are recorded at cost .",
+      "the company provides for depreciation and amortization on a straight-line basis over the following estimated useful lives: ."
+    ],
+    "post_text": [
+      "improvements of leased properties are amortized over the shorter of the life of the applicable lease term or the estimated useful life of the asset .",
+      "impairment of long-lived assets when indicators of impairment are present , the company evaluates the carrying value of long-lived assets , other than goodwill , in relation to the operating performance and future cash flows or the appraised values of the underlying assets .",
+      "in accordance with sfas 144 , 201caccounting for the impairment or disposal of long-lived assets , 201d the company reviews for impairment stores open more than two years for which current cash flows from operations are negative .",
+      "impairment results when the carrying value of the assets exceeds the undiscounted future cash flows over the life of the lease .",
+      "the company 2019s estimate of undiscounted future cash flows over the lease term is based upon historical operations of the stores and estimates of future store profitability which encompasses many factors that are subject to variability and difficult to predict .",
+      "if a long-lived asset is found to be impaired , the amount recognized for impairment is equal to the difference between the carrying value and the asset 2019s fair value .",
+      "the fair value is estimated based primarily upon future cash flows ( discounted at the company 2019s credit adjusted risk-free rate ) or other reasonable estimates of fair market value .",
+      "assets to be disposed of are adjusted to the fair value less the cost to sell if less than the book value .",
+      "the company recorded impairment charges , included in sg&a expense , of approximately $ 9.4 million in 2006 , $ 0.6 million in 2005 and $ 0.2 million in 2004 to reduce the carrying value of certain of its stores 2019 assets as deemed necessary due to negative sales trends and cash flows at these locations .",
+      "the majority of the 2006 charges were recorded pursuant to certain strategic initiatives discussed in note 2 .",
+      "other assets other assets consist primarily of long-term investments , qualifying prepaid expenses , debt issuance costs which are amortized over the life of the related obligations , utility and security deposits , life insurance policies and goodwill. ."
+    ],
+    "table": [
+      [
+        "land improvements",
+        "20"
+      ],
+      [
+        "buildings",
+        "39-40"
+      ],
+      [
+        "furniture fixtures and equipment",
+        "3-10"
+      ]
+    ],
+    "questions": [
+      "what was the total amount in impairment charges recorded in the year of 2006, in millions?",
+      "and what was that of 2005, also in millions??",
+      "what was, then, the total impairment charges recorded in both of those years, in millions?",
+      "what was the the total amount in impairment charges recorded in the year of 2004, in millions?",
+      "including 2004, what would then be the total sum of impairment charges recorded in those three years?"
+    ]
+  }
+}

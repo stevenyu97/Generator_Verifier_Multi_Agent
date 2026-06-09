@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of finished goods in 2009, in thousands?",
+      "answer": 155596.0,
+      "answer_raw": "155596.0",
+      "program": "155596"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that in 2008, also in thousands?",
+      "answer": 187072.0,
+      "answer_raw": "187072.0",
+      "program": "187072"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change in the total of finished goods over the year?",
+      "answer": -31476.0,
+      "answer_raw": "-31476.0",
+      "program": "subtract(155596, 187072)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation to the 2008 total of finished goods, in percentage?",
+      "answer": -0.16826,
+      "answer_raw": "-0.16826",
+      "program": "subtract(155596, 187072), divide(#0, 187072)"
+    }
+  ]
+}

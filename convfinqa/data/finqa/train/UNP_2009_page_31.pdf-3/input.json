@@ -1,0 +1,98 @@
+{
+  "input": {
+    "id": "UNP/2009/page_31.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "intermodal 2013 decreased volumes and fuel surcharges reduced freight revenue from intermodal shipments in 2009 versus 2008 .",
+      "volume from international traffic decreased 24% ( 24 % ) in 2009 compared to 2008 , reflecting economic conditions , continued weak imports from asia , and diversions to non-uprr served ports .",
+      "additionally , continued weakness in the domestic housing and automotive sectors translated into weak demand in large sectors of the international intermodal market , which also contributed to the volume decline .",
+      "conversely , domestic traffic increased 8% ( 8 % ) in 2009 compared to 2008 .",
+      "a new contract with hub group , inc. , which included additional shipments , was executed in the second quarter of 2009 and more than offset the impact of weak market conditions in the second half of 2009 .",
+      "price increases and fuel surcharges generated higher revenue in 2008 , partially offset by lower volume levels .",
+      "international traffic declined 11% ( 11 % ) in 2008 , reflecting continued softening of imports from china and the loss of a customer contract .",
+      "notably , the peak intermodal shipping season , which usually starts in the third quarter , was particularly weak in 2008 .",
+      "additionally , continued weakness in domestic housing and automotive sectors translated into weak demand in large sectors of the international intermodal market , which also contributed to lower volumes .",
+      "domestic traffic declined 3% ( 3 % ) in 2008 due to the loss of a customer contract and lower volumes from less-than-truckload shippers .",
+      "additionally , the flood-related embargo on traffic in the midwest during the second quarter hindered intermodal volume levels in 2008 .",
+      "mexico business 2013 each of our commodity groups include revenue from shipments to and from mexico .",
+      "revenue from mexico business decreased 26% ( 26 % ) in 2009 versus 2008 to $ 1.2 billion .",
+      "volume declined in five of our six commodity groups , down 19% ( 19 % ) in 2009 , driven by 32% ( 32 % ) and 24% ( 24 % ) reductions in industrial products and automotive shipments , respectively .",
+      "conversely , energy shipments increased 9% ( 9 % ) in 2009 versus 2008 , partially offsetting these declines .",
+      "revenue from mexico business increased 13% ( 13 % ) to $ 1.6 billion in 2008 compared to 2007 .",
+      "price improvements and fuel surcharges contributed to these increases , partially offset by a 4% ( 4 % ) decline in volume in 2008 compared to 2007 .",
+      "operating expenses millions of dollars 2009 2008 2007 % (  % ) change 2009 v 2008 % (  % ) change 2008 v 2007 ."
+    ],
+    "post_text": [
+      "2009 intermodal revenue international domestic ."
+    ],
+    "table": [
+      [
+        "millions of dollars",
+        "2009",
+        "2008",
+        "2007",
+        "% (  % ) change 2009 v 2008",
+        "% (  % ) change 2008 v 2007"
+      ],
+      [
+        "compensation and benefits",
+        "$ 4063",
+        "$ 4457",
+        "$ 4526",
+        "( 9 ) % (  % )",
+        "( 2 ) % (  % )"
+      ],
+      [
+        "fuel",
+        "1763",
+        "3983",
+        "3104",
+        "-56 ( 56 )",
+        "28"
+      ],
+      [
+        "purchased services and materials",
+        "1614",
+        "1902",
+        "1856",
+        "-15 ( 15 )",
+        "2"
+      ],
+      [
+        "depreciation",
+        "1444",
+        "1387",
+        "1321",
+        "4",
+        "5"
+      ],
+      [
+        "equipment and other rents",
+        "1180",
+        "1326",
+        "1368",
+        "-11 ( 11 )",
+        "-3 ( 3 )"
+      ],
+      [
+        "other",
+        "687",
+        "840",
+        "733",
+        "-18 ( 18 )",
+        "15"
+      ],
+      [
+        "total",
+        "$ 10751",
+        "$ 13895",
+        "$ 12908",
+        "( 23 ) % (  % )",
+        "8% ( 8 % )"
+      ]
+    ],
+    "questions": [
+      "what was the change in millions of compensation and benefits from 2008 to 2009?"
+    ]
+  }
+}

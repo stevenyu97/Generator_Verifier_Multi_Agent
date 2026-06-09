@@ -1,0 +1,125 @@
+{
+  "input": {
+    "id": "Single_AMT/2014/page_88.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "."
+    ],
+    "post_text": [
+      "( 1 ) represents anticipated repayment date ; final legal maturity date is march 15 , 2043 .",
+      "( 2 ) represents anticipated repayment date ; final legal maturity date is march 15 , 2048 .",
+      "( 3 ) in connection with our acquisition of mipt on october 1 , 2013 , we assumed approximately $ 1.49 billion aggregate principal amount of secured notes , $ 250.0 million of which we repaid in august 2014 .",
+      "the gtp notes have anticipated repayment dates beginning june 15 , 2016 .",
+      "( 4 ) assumed in connection with our acquisition of br towers and denominated in brl .",
+      "the br towers debenture amortizes through october 2023 .",
+      "the br towers credit facility amortizes through january 15 , ( 5 ) assumed by us in connection with the unison acquisition , and have anticipated repayment dates of april 15 , 2017 , april 15 , 2020 and april 15 , 2020 , respectively , and a final maturity date of april 15 , 2040 .",
+      "( 6 ) denominated in mxn .",
+      "( 7 ) denominated in zar and amortizes through march 31 , 2020 .",
+      "( 8 ) denominated in cop and amortizes through april 24 , 2021 .",
+      "( 9 ) reflects balances owed to our joint venture partners in ghana and uganda .",
+      "the ghana loan is denominated in ghs and the uganda loan is denominated in usd .",
+      "( 10 ) on february 11 , 2015 , we redeemed all of the outstanding 4.625% ( 4.625 % ) notes in accordance with the terms thereof .",
+      "( 11 ) includes payments under non-cancellable initial terms , as well as payments for certain renewal periods at our option , which we expect to renew because failure to renew could result in a loss of the applicable communications sites and related revenues from tenant leases .",
+      "( 12 ) primarily represents our asset retirement obligations and excludes certain other non-current liabilities included in our consolidated balance sheet , primarily our straight-line rent liability for which cash payments are included in operating lease payments and unearned revenue that is not payable in cash .",
+      "( 13 ) excludes $ 26.6 million of liabilities for unrecognized tax positions and $ 24.9 million of accrued income tax related interest and penalties included in our consolidated balance sheet as we are uncertain as to when and if the amounts may be settled .",
+      "settlement of such amounts could require the use of cash flows generated from operations .",
+      "we expect the unrecognized tax benefits to change over the next 12 months if certain tax matters ultimately settle with the applicable taxing jurisdiction during this timeframe .",
+      "however , based on the status of these items and the amount of uncertainty associated with the outcome and timing of audit settlements , we are currently unable to estimate the impact of the amount of such changes , if any , to previously recorded uncertain tax positions .",
+      "off-balance sheet arrangements .",
+      "we have no material off-balance sheet arrangements as defined in item 303 ( a ) ( 4 ) ( ii ) of sec regulation s-k .",
+      "interest rate swap agreements .",
+      "we have entered into interest rate swap agreements to manage our exposure to variability in interest rates on debt in colombia and south africa .",
+      "all of our interest rate swap agreements have been designated as cash flow hedges and have an aggregate notional amount of $ 79.9 million , interest rates ranging from 5.74% ( 5.74 % ) to 7.83% ( 7.83 % ) and expiration dates through april 2021 .",
+      "in february 2014 , we repaid the costa rica loan and subsequently terminated the associated interest rate swap agreements .",
+      "additionally , in connection with entering into the colombian credit facility in october 2014 , we terminated our pre-existing interest rate ."
+    ],
+    "table": [
+      [
+        "contractual obligations",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "thereafter",
+        "total"
+      ],
+      [
+        "long-term obligations excluding capital leases",
+        "888810",
+        "753045",
+        "700608",
+        "1787451",
+        "3159286",
+        "7188751",
+        "14477951"
+      ],
+      [
+        "cash interest expense",
+        "550000",
+        "517000",
+        "485000",
+        "399000",
+        "315000",
+        "654000",
+        "2920000"
+      ],
+      [
+        "capital lease payments ( including interest )",
+        "15589",
+        "14049",
+        "12905",
+        "12456",
+        "10760",
+        "173313",
+        "239072"
+      ],
+      [
+        "total debt service obligations",
+        "1454399",
+        "1284094",
+        "1198513",
+        "2198907",
+        "3485046",
+        "8016064",
+        "17637023"
+      ],
+      [
+        "operating lease payments ( 11 )",
+        "574438",
+        "553864",
+        "538405",
+        "519034",
+        "502847",
+        "4214600",
+        "6903188"
+      ],
+      [
+        "other non-current liabilities ( 12 ) ( 13 )",
+        "11082",
+        "20480",
+        "5705",
+        "13911",
+        "4186",
+        "1860071",
+        "1915435"
+      ],
+      [
+        "total",
+        "$ 2039919",
+        "$ 1858438",
+        "$ 1742623",
+        "$ 2731852",
+        "$ 3992079",
+        "$ 14090735",
+        "$ 26455646"
+      ]
+    ],
+    "questions": [
+      "what was the sum of the minimum and the maximum interest rates?",
+      "and what is the average between those two interest rates?",
+      "how much is this average interest rate numerically, or as a portion of the number one?",
+      "what, then, is the amount from the aggregate notional amount that is represented by that average interest rate, in millions?"
+    ]
+  }
+}

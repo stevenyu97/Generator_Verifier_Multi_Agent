@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the principal amount of the 6.5% notes redeemed?",
+      "answer": 175.0,
+      "answer_raw": "175.0",
+      "program": "175"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the interest rate on these notes?",
+      "answer": 0.065,
+      "answer_raw": "0.065",
+      "program": "6.5%"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the interest amount?",
+      "answer": 11.375,
+      "answer_raw": "11.375",
+      "program": "multiply(175, 6.5%)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the early extinguishment charge?",
+      "answer": 16.0,
+      "answer_raw": "16.0",
+      "program": "16"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "was the interest larger than the extinguishment charge?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "multiply(175, 6.5%), greater(#0, 16)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the cross border outstandings for the united kingdom in 2008?",
+      "answer": 5836.0,
+      "answer_raw": "5836.0",
+      "program": "5836"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for 2006?",
+      "answer": 5531.0,
+      "answer_raw": "5531.0",
+      "program": "5531"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "by how much did this value change during this time?",
+      "answer": 305.0,
+      "answer_raw": "305.0",
+      "program": "subtract(5836, 5531)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage increase?",
+      "answer": 0.05514,
+      "answer_raw": "0.05514",
+      "program": "subtract(5836, 5531), divide(#0, 5531)"
+    }
+  ]
+}

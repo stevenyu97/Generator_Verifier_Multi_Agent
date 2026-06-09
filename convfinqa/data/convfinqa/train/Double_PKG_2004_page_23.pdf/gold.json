@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the pca 2019s effective tax rate throughout the year of 2004?",
+      "answer": 4.3,
+      "answer_raw": "4.3",
+      "program": "subtract(42.3, 38.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and throughout the precedent year, what was the decline in containerboard sales volume to external domestic and export customers, in tons?",
+      "answer": 32000.0,
+      "answer_raw": "32000.0",
+      "program": "subtract(477000, 445000)"
+    }
+  ]
+}

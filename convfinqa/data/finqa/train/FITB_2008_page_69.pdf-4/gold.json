@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in capital expenditures from 2007 to 2008?",
+      "answer": -0.2766,
+      "answer_raw": "-0.2766",
+      "program": "subtract(68, 94), divide(#0, 94)"
+    }
+  ]
+}

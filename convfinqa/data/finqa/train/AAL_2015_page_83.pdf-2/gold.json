@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total 2013 reorganization items consisted of professional fees?",
+      "answer": 0.07538,
+      "answer_raw": "0.07538",
+      "program": "divide(199, 2640)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was net earnings per diluted share in 2010?",
+      "answer": 2.36,
+      "answer_raw": "2.36",
+      "program": "2.36"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was net earnings per diluted share in 2009?",
+      "answer": 1.96,
+      "answer_raw": "1.96",
+      "program": "1.96"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net difference?",
+      "answer": 0.4,
+      "answer_raw": "0.4",
+      "program": "subtract(2.36, 1.96)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the percent change?",
+      "answer": 0.20408,
+      "answer_raw": "0.20408",
+      "program": "subtract(2.36, 1.96), divide(#0, 1.96)"
+    }
+  ]
+}

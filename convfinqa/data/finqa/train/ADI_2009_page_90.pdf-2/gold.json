@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the balance of total amounts of uncertain tax positions from 2007 to 2009?",
+      "answer": 8272.0,
+      "answer_raw": "8272.0",
+      "program": "subtract(18161, 9889)"
+    }
+  ]
+}

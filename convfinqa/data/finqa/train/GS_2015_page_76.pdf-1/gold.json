@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions for 2015 , 2014 , and 2013 , what was the lowest equity securities?\\\\n\\\\n",
+      "answer": 3781.0,
+      "answer_raw": "3781.0",
+      "program": "table_min(equity securities, none)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average potential anti-dilutive share conversions from 2008 to 2010",
+      "answer": 1063076.5,
+      "answer_raw": "1063076.5",
+      "program": "add(256868, 1230881), add(638401, #0), add(#1, const_3), divide(#2, const_2)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2009 what was the ratio of the gross derivative fair value recievables to the payables",
+      "answer": 1.0305,
+      "answer_raw": "1.0305",
+      "program": "divide(1565518, 1519183)"
+    }
+  ]
+}

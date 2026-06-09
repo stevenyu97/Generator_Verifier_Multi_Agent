@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate of earnings generated from joint ventures from 2013 to 2014?",
+      "answer": -0.09091,
+      "answer_raw": "-0.09091",
+      "program": "subtract(90, 99), divide(#0, 99)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2004 , what was the ratio of the the carrying amount to the fair value of long-term obligations",
+      "answer": 0.91667,
+      "answer_raw": "0.91667",
+      "program": "divide(3.3, 3.6)"
+    }
+  ]
+}

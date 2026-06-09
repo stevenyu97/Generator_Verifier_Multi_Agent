@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of total cash to total long-term debt?",
+      "answer": 0.02336,
+      "answer_raw": "0.02336",
+      "program": "add(104520, 125385), add(5474988, 4368874), divide(#0, #1)"
+    }
+  ]
+}

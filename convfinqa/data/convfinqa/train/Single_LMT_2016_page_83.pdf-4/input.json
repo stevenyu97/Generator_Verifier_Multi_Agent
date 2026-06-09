@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "Single_LMT/2016/page_83.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "benefits as an increase to earnings of $ 152 million ( $ 0.50 per share ) during the year ended december 31 , 2016 .",
+      "additionally , we recognized additional income tax benefits as an increase to operating cash flows of $ 152 million during the year ended december 31 , 2016 .",
+      "the new accounting standard did not impact any periods prior to january 1 , 2016 , as we applied the changes in the asu on a prospective basis .",
+      "in september 2015 , the fasb issued asu no .",
+      "2015-16 , business combinations ( topic 805 ) , which simplifies the accounting for adjustments made to preliminary amounts recognized in a business combination by eliminating the requirement to retrospectively account for those adjustments .",
+      "instead , adjustments will be recognized in the period in which the adjustments are determined , including the effect on earnings of any amounts that would have been recorded in previous periods if the accounting had been completed at the acquisition date .",
+      "we adopted the asu on january 1 , 2016 and are prospectively applying the asu to business combination adjustments identified after the date of adoption .",
+      "in november 2015 , the fasb issued asu no .",
+      "2015-17 , income taxes ( topic 740 ) , which simplifies the presentation of deferred income taxes and requires that deferred tax assets and liabilities , as well as any related valuation allowance , be classified as noncurrent in our consolidated balance sheets .",
+      "we applied the provisions of the asu retrospectively and reclassified approximately $ 1.6 billion from current to noncurrent assets and approximately $ 140 million from current to noncurrent liabilities in our consolidated balance sheet as of december 31 , 2015 .",
+      "note 2 2013 earnings per share the weighted average number of shares outstanding used to compute earnings per common share were as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "we compute basic and diluted earnings per common share by dividing net earnings by the respective weighted average number of common shares outstanding for the periods presented .",
+      "our calculation of diluted earnings per common share also includes the dilutive effects for the assumed vesting of outstanding restricted stock units and exercise of outstanding stock options based on the treasury stock method .",
+      "there were no anti-dilutive equity awards for the years ended december 31 , 2016 , 2015 and 2014 .",
+      "note 3 2013 acquisitions and divestitures acquisitions acquisition of sikorsky aircraft corporation on november 6 , 2015 , we completed the acquisition of sikorsky aircraft corporation and certain affiliated companies ( collectively 201csikorsky 201d ) from united technologies corporation ( utc ) and certain of utc 2019s subsidiaries .",
+      "the purchase price of the acquisition was $ 9.0 billion , net of cash acquired .",
+      "as a result of the acquisition , sikorsky became a wholly- owned subsidiary of ours .",
+      "sikorsky is a global company primarily engaged in the research , design , development , manufacture and support of military and commercial helicopters .",
+      "sikorsky 2019s products include military helicopters such as the black hawk , seahawk , ch-53k , h-92 ; and commercial helicopters such as the s-76 and s-92 .",
+      "the acquisition enables us to extend our core business into the military and commercial rotary wing markets , allowing us to strengthen our position in the aerospace and defense industry .",
+      "further , this acquisition will expand our presence in commercial and international markets .",
+      "sikorsky has been aligned under our rms business segment .",
+      "to fund the $ 9.0 billion acquisition price , we utilized $ 6.0 billion of proceeds borrowed under a temporary 364-day revolving credit facility ( the 364-day facility ) , $ 2.0 billion of cash on hand and $ 1.0 billion from the issuance of commercial paper .",
+      "in the fourth quarter of 2015 , we repaid all outstanding borrowings under the 364-day facility with the proceeds from the issuance of $ 7.0 billion of fixed interest-rate long-term notes in a public offering ( the november 2015 notes ) .",
+      "in the fourth quarter of 2015 , we also repaid the $ 1.0 billion in commercial paper borrowings ( see 201cnote 10 2013 debt 201d ) . ."
+    ],
+    "table": [
+      [
+        "",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "weighted average common shares outstanding for basic computations",
+        "299.3",
+        "310.3",
+        "316.8"
+      ],
+      [
+        "weighted average dilutive effect of equity awards",
+        "3.8",
+        "4.4",
+        "5.6"
+      ],
+      [
+        "weighted average common shares outstanding for dilutedcomputations",
+        "303.1",
+        "314.7",
+        "322.4"
+      ]
+    ],
+    "questions": [
+      "what was the weighted average common shares outstanding for basic computations in 2016?",
+      "and in 2015?",
+      "what is the difference between the two years?",
+      "and the specific value for 2015 again?",
+      "so what was the change as a percentage of the original value?"
+    ]
+  }
+}

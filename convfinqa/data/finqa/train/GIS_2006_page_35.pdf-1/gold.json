@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of repurchased stock was purchased in the open market?",
+      "answer": 0.86211,
+      "answer_raw": "0.86211",
+      "program": "divide(1499500, 1739338)"
+    }
+  ]
+}

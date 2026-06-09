@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were receivables in 2017?",
+      "answer": 11173.0,
+      "answer_raw": "11173.0",
+      "program": "11173"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were they in 2016?",
+      "answer": 22503.0,
+      "answer_raw": "22503.0",
+      "program": "22503"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum for 2016 and 2017?",
+      "answer": 33676.0,
+      "answer_raw": "33676.0",
+      "program": "add(11173, 22503)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the sum including 2015?",
+      "answer": 39830.0,
+      "answer_raw": "39830.0",
+      "program": "add(11173, 22503), add(#0, 6154)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total sum including 2014?",
+      "answer": 42645.0,
+      "answer_raw": "42645.0",
+      "program": "add(11173, 22503), add(#0, 6154), add(2815, #1)"
+    }
+  ]
+}

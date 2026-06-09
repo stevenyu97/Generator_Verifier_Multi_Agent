@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "MA/2010/page_107.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "mastercard incorporated notes to consolidated financial statements 2014continued the municipal bond portfolio is comprised of tax exempt bonds and is diversified across states and sectors .",
+      "the portfolio has an average credit quality of double-a .",
+      "the short-term bond funds invest in fixed income securities , including corporate bonds , mortgage-backed securities and asset-backed securities .",
+      "the company holds investments in ars .",
+      "interest on these securities is exempt from u.s .",
+      "federal income tax and the interest rate on the securities typically resets every 35 days .",
+      "the securities are fully collateralized by student loans with guarantees , ranging from approximately 95% ( 95 % ) to 98% ( 98 % ) of principal and interest , by the u.s .",
+      "government via the department of education .",
+      "beginning on february 11 , 2008 , the auction mechanism that normally provided liquidity to the ars investments began to fail .",
+      "since mid-february 2008 , all investment positions in the company 2019s ars investment portfolio have experienced failed auctions .",
+      "the securities for which auctions have failed have continued to pay interest in accordance with the contractual terms of such instruments and will continue to accrue interest and be auctioned at each respective reset date until the auction succeeds , the issuer redeems the securities or they mature .",
+      "during 2008 , ars were reclassified as level 3 from level 2 .",
+      "as of december 31 , 2010 , the ars market remained illiquid , but issuer call and redemption activity in the ars student loan sector has occurred periodically since the auctions began to fail .",
+      "during 2010 and 2009 , the company did not sell any ars in the auction market , but there were calls at par .",
+      "the table below includes a roll-forward of the company 2019s ars investments from january 1 , 2009 to december 31 , 2010 .",
+      "significant unobservable inputs ( level 3 ) ( in millions ) ."
+    ],
+    "post_text": [
+      "the company evaluated the estimated impairment of its ars portfolio to determine if it was other-than- temporary .",
+      "the company considered several factors including , but not limited to , the following : ( 1 ) the reasons for the decline in value ( changes in interest rates , credit event , or market fluctuations ) ; ( 2 ) assessments as to whether it is more likely than not that it will hold and not be required to sell the investments for a sufficient period of time to allow for recovery of the cost basis ; ( 3 ) whether the decline is substantial ; and ( 4 ) the historical and anticipated duration of the events causing the decline in value .",
+      "the evaluation for other-than-temporary impairments is a quantitative and qualitative process , which is subject to various risks and uncertainties .",
+      "the risks and uncertainties include changes in credit quality , market liquidity , timing and amounts of issuer calls and interest rates .",
+      "as of december 31 , 2010 , the company believed that the unrealized losses on the ars were not related to credit quality but rather due to the lack of liquidity in the market .",
+      "the company believes that it is more ."
+    ],
+    "table": [
+      [
+        "",
+        "significant unobservable inputs ( level 3 ) ( in millions )"
+      ],
+      [
+        "fair value december 31 2008",
+        "$ 192"
+      ],
+      [
+        "calls at par",
+        "-28 ( 28 )"
+      ],
+      [
+        "recovery of unrealized losses due to issuer calls",
+        "5"
+      ],
+      [
+        "increase in fair value",
+        "11"
+      ],
+      [
+        "fair value december 31 2009",
+        "180"
+      ],
+      [
+        "calls at par",
+        "-94 ( 94 )"
+      ],
+      [
+        "recovery of unrealized losses due to issuer calls",
+        "13"
+      ],
+      [
+        "increase in fair value",
+        "7"
+      ],
+      [
+        "fair value december 31 2010",
+        "$ 106"
+      ]
+    ],
+    "questions": [
+      "what is the decrease observed in the fair value of ars investments between 2009 and 2008?"
+    ]
+  }
+}

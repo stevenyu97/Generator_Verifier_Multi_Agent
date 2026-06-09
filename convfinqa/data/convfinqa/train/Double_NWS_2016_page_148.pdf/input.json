@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "Double_NWS/2016/page_148.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "news corporation notes to the consolidated financial statements as of june 30 , 2016 , the company had income tax net operating loss carryforwards ( nols ) ( gross , net of uncertain tax benefits ) , in various jurisdictions as follows : jurisdiction expiration amount ( in millions ) ."
+    ],
+    "post_text": [
+      "utilization of the nols is dependent on generating sufficient taxable income from our operations in each of the respective jurisdictions to which the nols relate , while taking into account limitations and/or restrictions on our ability to use them .",
+      "certain of our u.s .",
+      "federal nols were acquired as part of the acquisitions of move and harlequin and are subject to limitations as promulgated under section 382 of the code .",
+      "section 382 of the code limits the amount of acquired nols that we can use on an annual basis to offset future u.s .",
+      "consolidated taxable income .",
+      "the nols are also subject to review by relevant tax authorities in the jurisdictions to which they relate .",
+      "the company recorded a deferred tax asset of $ 580 million and $ 540 million ( net of approximately $ 53 million and $ 95 million , respectively , of unrecognized tax benefits ) associated with its nols as of june 30 , 2016 and 2015 , respectively .",
+      "significant judgment is applied in assessing our ability to realize our nols and other tax assets .",
+      "management assesses the available positive and negative evidence to estimate if sufficient future taxable income will be generated to utilize existing deferred tax assets within the applicable expiration period .",
+      "on the basis of this evaluation , valuation allowances of $ 97 million and $ 304 million have been established to reduce the deferred tax asset associated with the company 2019s nols to an amount that will more likely than not be realized as of june 30 , 2016 and 2015 , respectively .",
+      "the amount of the nol deferred tax asset considered realizable , however , could be adjusted if estimates of future taxable income during the carryforward period are reduced or if objective negative evidence in the form of cumulative losses occurs .",
+      "as of june 30 , 2016 , the company had approximately $ 1.6 billion and $ 1.7 billion of capital loss carryforwards in australia and the u.k. , respectively , which may be carried forward indefinitely and which are subject to tax authority review .",
+      "realization of our capital losses is dependent on generating capital gain taxable income and satisfying certain continuity of business requirements .",
+      "the company recorded a deferred tax asset of $ 803 million and $ 892 million as of june 30 , 2016 and 2015 , respectively for these capital loss carryforwards , however , it is more likely than not that the company will not generate capital gain income in the normal course of business in these jurisdictions .",
+      "accordingly , valuation allowances of $ 803 million and $ 892 million have been established to reduce the capital loss carryforward deferred tax asset to an amount that will more likely than not be realized as of june 30 , 2016 and 2015 , respectively .",
+      "as of june 30 , 2016 , the company had approximately $ 26 million of u.s .",
+      "federal tax credit carryforward which includes $ 22 million of foreign tax credits and $ 4 million of research & development credits which begin to expire in 2025 and 2036 , respectively .",
+      "as of june 30 , 2016 , the company had approximately $ 5 million of non-u.s .",
+      "tax credit carryforwards which expire in various amounts beginning in 2025 and $ 8 million of state tax credit carryforwards ( net of u.s .",
+      "federal benefit ) , of which the balance can be carried forward indefinitely .",
+      "in accordance with the company 2019s accounting policy , a valuation allowance of $ 5 million has been established to reduce the deferred tax asset associated with the company 2019s non-u.s .",
+      "and state credit carryforwards to an amount that will more likely than not be realized as of june 30 , 2016. ."
+    ],
+    "table": [
+      [
+        "jurisdiction",
+        "expiration",
+        "amount ( in millions )"
+      ],
+      [
+        "u.s . federal",
+        "2021 to 2036",
+        "$ 858"
+      ],
+      [
+        "u.s . states",
+        "various",
+        "581"
+      ],
+      [
+        "australia",
+        "indefinite",
+        "452"
+      ],
+      [
+        "u.k .",
+        "indefinite",
+        "134"
+      ],
+      [
+        "other foreign",
+        "various",
+        "346"
+      ]
+    ],
+    "questions": [
+      "what was the change in the company recorded deferred tax asset associated with its nols from 2015 to 2016?",
+      "and what is this change as a percent of that tax asset in 2015?",
+      "and as of june 30 of the last year of that period, how much did the u.s . federal net operating loss carry forwards represent in relation to the states one?"
+    ]
+  }
+}

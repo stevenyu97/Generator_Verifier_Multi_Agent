@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of loews common stock in 2012?",
+      "answer": 108.91,
+      "answer_raw": "108.91",
+      "program": "108.91"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that less 100?",
+      "answer": 8.91,
+      "answer_raw": "8.91",
+      "program": "subtract(108.91, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the change divided by 100?",
+      "answer": 0.0891,
+      "answer_raw": "0.0891",
+      "program": "subtract(108.91, const_100), divide(#0, const_100)"
+    }
+  ]
+}

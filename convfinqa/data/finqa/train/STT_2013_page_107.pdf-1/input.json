@@ -1,0 +1,79 @@
+{
+  "input": {
+    "id": "STT/2013/page_107.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis of financial condition and results of operations ( continued ) the npr is generally consistent with the basel committee 2019s lcr .",
+      "however , it includes certain more stringent requirements , including an accelerated implementation time line and modifications to the definition of high-quality liquid assets and expected outflow assumptions .",
+      "we continue to analyze the proposed rules and analyze their impact as well as develop strategies for compliance .",
+      "the principles of the lcr are consistent with our liquidity management framework ; however , the specific calibrations of various elements within the final lcr rule , such as the eligibility of assets as hqla , operational deposit requirements and net outflow requirements could have a material effect on our liquidity , funding and business activities , including the management and composition of our investment securities portfolio and our ability to extend committed contingent credit facilities to our clients .",
+      "in january 2014 , the basel committee released a revised proposal with respect to the net stable funding ratio , or nsfr , which will establish a one-year liquidity standard representing the proportion of long-term assets funded by long-term stable funding , scheduled for global implementation in 2018 .",
+      "the revised nsfr has made some favorable changes regarding the treatment of operationally linked deposits and a reduction in the funding required for certain securities .",
+      "however , we continue to review the specifics of the basel committee's release and will be evaluating the u.s .",
+      "implementation of this standard to analyze the impact and develop strategies for compliance .",
+      "u.s .",
+      "banking regulators have not yet issued a proposal to implement the nsfr .",
+      "contractual cash obligations and other commitments the following table presents our long-term contractual cash obligations , in total and by period due as of december 31 , 2013 .",
+      "these obligations were recorded in our consolidated statement of condition as of that date , except for operating leases and the interest portions of long-term debt and capital leases .",
+      "contractual cash obligations ."
+    ],
+    "post_text": [
+      "( 1 ) long-term debt excludes capital lease obligations ( presented as a separate line item ) and the effect of interest-rate swaps .",
+      "interest payments were calculated at the stated rate with the exception of floating-rate debt , for which payments were calculated using the indexed rate in effect as of december 31 , 2013 .",
+      "the table above does not include obligations which will be settled in cash , primarily in less than one year , such as client deposits , federal funds purchased , securities sold under repurchase agreements and other short-term borrowings .",
+      "additional information about deposits , federal funds purchased , securities sold under repurchase agreements and other short-term borrowings is provided in notes 8 and 9 to the consolidated financial statements included under item 8 of this form 10-k .",
+      "the table does not include obligations related to derivative instruments because the derivative-related amounts recorded in our consolidated statement of condition as of december 31 , 2013 did not represent the amounts that may ultimately be paid under the contracts upon settlement .",
+      "additional information about our derivative instruments is provided in note 16 to the consolidated financial statements included under item 8 of this form 10-k .",
+      "we have obligations under pension and other post-retirement benefit plans , more fully described in note 19 to the consolidated financial statements included under item 8 of this form 10-k , which are not included in the above table .",
+      "additional information about contractual cash obligations related to long-term debt and operating and capital leases is provided in notes 10 and 20 to the consolidated financial statements included under item 8 of this form 10-k .",
+      "our consolidated statement of cash flows , also included under item 8 of this form 10-k , provides additional liquidity information .",
+      "the following table presents our commitments , other than the contractual cash obligations presented above , in total and by duration as of december 31 , 2013 .",
+      "these commitments were not recorded in our consolidated statement of condition as of that date. ."
+    ],
+    "table": [
+      [
+        "as of december 31 2013 ( in millions )",
+        "payments due by period total",
+        "payments due by period less than 1year",
+        "payments due by period 1-3years",
+        "payments due by period 4-5years",
+        "payments due by period over 5years"
+      ],
+      [
+        "long-term debt ( 1 )",
+        "$ 10630",
+        "$ 1015",
+        "$ 2979",
+        "$ 2260",
+        "$ 4376"
+      ],
+      [
+        "operating leases",
+        "923",
+        "208",
+        "286",
+        "209",
+        "220"
+      ],
+      [
+        "capital lease obligations",
+        "1051",
+        "99",
+        "185",
+        "169",
+        "598"
+      ],
+      [
+        "total contractual cash obligations",
+        "$ 12604",
+        "$ 1322",
+        "$ 3450",
+        "$ 2638",
+        "$ 5194"
+      ]
+    ],
+    "questions": [
+      "what portion of the long-term debt is reported under the current liabilities section as of december 31 , 2013?"
+    ]
+  }
+}

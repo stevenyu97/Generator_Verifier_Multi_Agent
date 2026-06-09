@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are total minimum payments for operating leases?",
+      "answer": 4241.0,
+      "answer_raw": "4241.0",
+      "program": "4241"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total minimum payments for capital leases?",
+      "answer": 2441.0,
+      "answer_raw": "2441.0",
+      "program": "2441"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 6682.0,
+      "answer_raw": "6682.0",
+      "program": "add(4241, 2441)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the value for capital payments over the sum?",
+      "answer": 0.36531,
+      "answer_raw": "0.36531",
+      "program": "add(4241, 2441), divide(2441, #0)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of the value of debt in 2009 and 2010?",
+      "answer": 1279055.0,
+      "answer_raw": "1279055.0",
+      "program": "add(516019, 763036)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "now, what is the total sum of debt including 2011?",
+      "answer": 2176422.0,
+      "answer_raw": "2176422.0",
+      "program": "add(516019, 763036), add(#0, 897367)"
+    }
+  ]
+}

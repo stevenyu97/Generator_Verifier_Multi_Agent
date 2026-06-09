@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if you include the balance of standby letters of credit to other financial institutions as of december 31 , 2013 , what would be the balance in billions of net outstanding standby letters of credit ?",
+      "answer": 13.8,
+      "answer_raw": "13.8",
+      "program": "add(10.5, 3.3)"
+    }
+  ]
+}

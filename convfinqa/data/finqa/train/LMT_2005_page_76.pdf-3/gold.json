@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the change in the net earnings from 2004 to 2005",
+      "answer": 0.44155,
+      "answer_raw": "0.44155",
+      "program": "subtract(1825, 1266), divide(#0, 1266)"
+    }
+  ]
+}

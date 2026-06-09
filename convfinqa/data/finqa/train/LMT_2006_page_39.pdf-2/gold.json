@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average net earnings in millions from 2002 to 2006?",
+      "answer": 1434.6,
+      "answer_raw": "1434.6",
+      "program": "table_average(net earnings, none)"
+    }
+  ]
+}

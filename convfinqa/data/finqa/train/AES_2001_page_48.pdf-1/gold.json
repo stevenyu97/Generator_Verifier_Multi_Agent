@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "without foreign currency transaction losses , what would 2001 net income have been in millions?",
+      "answer": 483.0,
+      "answer_raw": "483.0",
+      "program": "add(210, 273)"
+    }
+  ]
+}

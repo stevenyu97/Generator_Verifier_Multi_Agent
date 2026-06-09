@@ -1,0 +1,90 @@
+{
+  "input": {
+    "id": "HII/2011/page_86.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "except for long-term debt , the carrying amounts of the company 2019s other financial instruments are measured at fair value or approximate fair value due to the short-term nature of these instruments .",
+      "asset retirement obligations 2014the company records all known asset retirement obligations within other current liabilities for which the liability 2019s fair value can be reasonably estimated , including certain asbestos removal , asset decommissioning and contractual lease restoration obligations .",
+      "the changes in the asset retirement obligation carrying amounts during 2011 , 2010 and 2009 were as follows : ( $ in millions ) retirement obligations ."
+    ],
+    "post_text": [
+      "the company also has known conditional asset retirement obligations related to assets currently in use , such as certain asbestos remediation and asset decommissioning activities to be performed in the future , that were not reasonably estimable as of december 31 , 2011 and 2010 , due to insufficient information about the timing and method of settlement of the obligation .",
+      "accordingly , the fair value of these obligations has not been recorded in the consolidated financial statements .",
+      "environmental remediation and/or asset decommissioning of the relevant facilities may be required when the company ceases to utilize these facilities .",
+      "in addition , there may be conditional environmental asset retirement obligations that the company has not yet discovered .",
+      "income taxes 2014income tax expense and other income tax related information contained in the financial statements for periods before the spin-off are presented as if the company filed its own tax returns on a stand-alone basis , while similar information for periods after the spin-off reflect the company 2019s positions to be filed in its own tax returns in the future .",
+      "income tax expense and other related information are based on the prevailing statutory rates for u.s .",
+      "federal income taxes and the composite state income tax rate for the company for each period presented .",
+      "state and local income and franchise tax provisions are allocable to contracts in process and , accordingly , are included in general and administrative expenses .",
+      "deferred income taxes are recorded when revenues and expenses are recognized in different periods for financial statement purposes than for tax return purposes .",
+      "deferred tax asset or liability account balances are calculated at the balance sheet date using current tax laws and rates in effect .",
+      "determinations of the expected realizability of deferred tax assets and the need for any valuation allowances against these deferred tax assets were evaluated based upon the stand-alone tax attributes of the company , and an $ 18 million valuation allowance was deemed necessary as of december 31 , 2011 .",
+      "no valuation allowance was deemed necessary as of december 31 , 2010 .",
+      "uncertain tax positions meeting the more-likely-than-not recognition threshold , based on the merits of the position , are recognized in the financial statements .",
+      "we recognize the amount of tax benefit that is greater than 50% ( 50 % ) likely to be realized upon ultimate settlement with the related tax authority .",
+      "if a tax position does not meet the minimum statutory threshold to avoid payment of penalties , we recognize an expense for the amount of the penalty in the period the tax position is claimed or expected to be claimed in our tax return .",
+      "penalties , if probable and reasonably estimable , are recognized as a component of income tax expense .",
+      "we also recognize accrued interest related to uncertain tax positions in income tax expense .",
+      "the timing and amount of accrued interest is determined by the applicable tax law associated with an underpayment of income taxes .",
+      "see note 12 : income taxes .",
+      "under existing gaap , changes in accruals associated with uncertainties are recorded in earnings in the period they are determined. ."
+    ],
+    "table": [
+      [
+        "( $ in millions )",
+        "asset retirement obligations"
+      ],
+      [
+        "balance at january 1 2009",
+        "$ 3"
+      ],
+      [
+        "accretion expense",
+        "0"
+      ],
+      [
+        "payment of asset retirement obligation",
+        "0"
+      ],
+      [
+        "balance at december 31 2009",
+        "3"
+      ],
+      [
+        "obligation relating to the future retirement of a facility",
+        "17"
+      ],
+      [
+        "accretion expense",
+        "0"
+      ],
+      [
+        "payment of asset retirement obligation",
+        "0"
+      ],
+      [
+        "balance at december 31 2010",
+        "20"
+      ],
+      [
+        "obligation relating to the future retirement of a facility",
+        "5"
+      ],
+      [
+        "accretion expense",
+        "0"
+      ],
+      [
+        "payment of asset retirement obligation",
+        "0"
+      ],
+      [
+        "balance at december 31 2011",
+        "$ 25"
+      ]
+    ],
+    "questions": [
+      "what was the net increase in aro during the period , in millions?"
+    ]
+  }
+}

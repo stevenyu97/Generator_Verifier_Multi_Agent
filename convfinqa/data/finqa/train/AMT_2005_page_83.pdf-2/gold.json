@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the balance of total property and equipment from 2004 to 2005?",
+      "answer": 0.44927,
+      "answer_raw": "0.44927",
+      "program": "subtract(4739575, 3270329), divide(#0, 3270329)"
+    }
+  ]
+}

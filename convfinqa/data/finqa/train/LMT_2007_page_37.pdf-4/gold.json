@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the quarter ended december 31 , 2007 what was the percent of the shared bought in october",
+      "answer": 0.04298,
+      "answer_raw": "0.04298",
+      "program": "divide(127100, 2957300)"
+    }
+  ]
+}

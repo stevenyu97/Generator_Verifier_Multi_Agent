@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the decrease of the cash perfomance bonds in the years of 2009 and 2010 in millions?",
+      "answer": -2117.6,
+      "answer_raw": "-2117.6",
+      "program": "subtract(3717.0, 5834.6)"
+    }
+  ]
+}

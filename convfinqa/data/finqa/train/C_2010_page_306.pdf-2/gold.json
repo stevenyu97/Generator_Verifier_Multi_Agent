@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2007 what was the ratio of the cumulative total return for citigroup to s&p 500 index",
+      "answer": 0.54114,
+      "answer_raw": "0.54114",
+      "program": "divide(66.10, 122.15)"
+    }
+  ]
+}

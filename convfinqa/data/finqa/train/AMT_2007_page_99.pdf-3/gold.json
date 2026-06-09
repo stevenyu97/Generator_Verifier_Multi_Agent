@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in he total amount of accrued income tax-related interest and penalties included in other long-term liabilities during 2007?",
+      "answer": -0.0753,
+      "answer_raw": "-0.0753",
+      "program": "subtract(30.7, 33.2), divide(#0, 33.2)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "not including letters from the uncommitted facility , what percent of the borrowings allowance do the letters of credits set to expire may 2018 amount to?",
+      "answer": 0.58571,
+      "answer_raw": "0.58571",
+      "program": "divide(102.5, 175)"
+    }
+  ]
+}

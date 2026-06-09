@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of state operating loss carryforwards expire between 2007 and 2011?",
+      "answer": 0.17224,
+      "answer_raw": "0.17224",
+      "program": "divide(438967, 2548612)"
+    }
+  ]
+}

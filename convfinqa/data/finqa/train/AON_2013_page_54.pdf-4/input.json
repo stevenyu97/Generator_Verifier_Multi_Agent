@@ -1,0 +1,73 @@
+{
+  "input": {
+    "id": "AON/2013/page_54.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "period .",
+      "the discount reflects our incremental borrowing rate , which matches the lifetime of the liability .",
+      "significant changes in the discount rate selected or the estimations of sublease income in the case of leases could impact the amounts recorded .",
+      "other associated costs with restructuring activities we recognize other costs associated with restructuring activities as they are incurred , including moving costs and consulting and legal fees .",
+      "pensions we sponsor defined benefit pension plans throughout the world .",
+      "our most significant plans are located in the u.s. , the u.k. , the netherlands and canada .",
+      "our significant u.s. , u.k .",
+      "and canadian pension plans are closed to new entrants .",
+      "we have ceased crediting future benefits relating to salary and service for our u.s. , u.k .",
+      "and canadian plans .",
+      "recognition of gains and losses and prior service certain changes in the value of the obligation and in the value of plan assets , which may occur due to various factors such as changes in the discount rate and actuarial assumptions , actual demographic experience and/or plan asset performance are not immediately recognized in net income .",
+      "such changes are recognized in other comprehensive income and are amortized into net income as part of the net periodic benefit cost .",
+      "unrecognized gains and losses that have been deferred in other comprehensive income , as previously described , are amortized into compensation and benefits expense as a component of periodic pension expense based on the average expected future service of active employees for our plans in the netherlands and canada , or the average life expectancy of the u.s .",
+      "and u.k .",
+      "plan members .",
+      "after the effective date of the plan amendments to cease crediting future benefits relating to service , unrecognized gains and losses are also be based on the average life expectancy of members in the canadian plans .",
+      "we amortize any prior service expense or credits that arise as a result of plan changes over a period consistent with the amortization of gains and losses .",
+      "as of december 31 , 2013 , our pension plans have deferred losses that have not yet been recognized through income in the consolidated financial statements .",
+      "we amortize unrecognized actuarial losses outside of a corridor , which is defined as 10% ( 10 % ) of the greater of market-related value of plan assets or projected benefit obligation .",
+      "to the extent not offset by future gains , incremental amortization as calculated above will continue to affect future pension expense similarly until fully amortized .",
+      "the following table discloses our combined experience loss , the number of years over which we are amortizing the experience loss , and the estimated 2014 amortization of loss by country ( amounts in millions ) : ."
+    ],
+    "post_text": [
+      "the unrecognized prior service cost at december 31 , 2013 was $ 27 million in the u.k .",
+      "and other plans .",
+      "for the u.s .",
+      "pension plans we use a market-related valuation of assets approach to determine the expected return on assets , which is a component of net periodic benefit cost recognized in the consolidated statements of income .",
+      "this approach recognizes 20% ( 20 % ) of any gains or losses in the current year's value of market-related assets , with the remaining 80% ( 80 % ) spread over the next four years .",
+      "as this approach recognizes gains or losses over a five-year period , the future value of assets and therefore , our net periodic benefit cost will be impacted as previously deferred gains or losses are recorded .",
+      "as of december 31 , 2013 , the market-related value of assets was $ 1.8 billion .",
+      "we do not use the market-related valuation approach to determine the funded status of the u.s .",
+      "plans recorded in the consolidated statements of financial position .",
+      "instead , we record and present the funded status in the consolidated statements of financial position based on the fair value of the plan assets .",
+      "as of december 31 , 2013 , the fair value of plan assets was $ 1.9 billion .",
+      "our non-u.s .",
+      "plans use fair value to determine expected return on assets. ."
+    ],
+    "table": [
+      [
+        "",
+        "u.k .",
+        "u.s .",
+        "other"
+      ],
+      [
+        "combined experience loss",
+        "$ 2012",
+        "$ 1219",
+        "$ 402"
+      ],
+      [
+        "amortization period ( in years )",
+        "29",
+        "26",
+        "11 - 23"
+      ],
+      [
+        "estimated 2014 amortization of loss",
+        "$ 53",
+        "$ 44",
+        "$ 10"
+      ]
+    ],
+    "questions": [
+      "in 2014 what was the combined total experience loss"
+    ]
+  }
+}

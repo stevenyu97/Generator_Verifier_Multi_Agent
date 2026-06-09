@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentual amount represented by cash performance bonds and cash guaranty fund contributions in the total figure of 2010 , in millions?",
+      "answer": 0.97779,
+      "answer_raw": "0.97779",
+      "program": "add(3717.0, 231.8), divide(#0, 4038.5)"
+    }
+  ]
+}

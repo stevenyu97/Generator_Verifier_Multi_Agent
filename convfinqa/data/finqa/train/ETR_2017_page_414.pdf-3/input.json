@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "ETR/2017/page_414.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy texas , inc .",
+      "and subsidiaries management 2019s financial discussion and analysis results of operations net income 2017 compared to 2016 net income decreased $ 31.4 million primarily due to lower net revenue , higher depreciation and amortization expenses , higher other operation and maintenance expenses , and higher taxes other than income taxes .",
+      "2016 compared to 2015 net income increased $ 37.9 million primarily due to lower other operation and maintenance expenses , the asset write-off of its receivable associated with the spindletop gas storage facility in 2015 , and higher net revenue .",
+      "net revenue 2017 compared to 2016 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory charges .",
+      "following is an analysis of the change in net revenue comparing 2017 to 2016 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the net wholesale revenue variance is primarily due to lower net capacity revenues resulting from the termination of the purchased power agreements between entergy louisiana and entergy texas in august 2016 .",
+      "the purchased power capacity variance is primarily due to increased expenses due to capacity cost changes for ongoing purchased power capacity contracts .",
+      "the transmission revenue variance is primarily due to a decrease in the amount of transmission revenues allocated by miso .",
+      "the reserve equalization variance is due to the absence of reserve equalization expenses in 2017 as a result of entergy texas 2019s exit from the system agreement in august 2016 .",
+      "see note 2 to the financial statements for a discussion of the system agreement. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2016 net revenue",
+        "$ 644.2"
+      ],
+      [
+        "net wholesale revenue",
+        "-35.1 ( 35.1 )"
+      ],
+      [
+        "purchased power capacity",
+        "-5.9 ( 5.9 )"
+      ],
+      [
+        "transmission revenue",
+        "-5.4 ( 5.4 )"
+      ],
+      [
+        "reserve equalization",
+        "5.6"
+      ],
+      [
+        "retail electric price",
+        "19.0"
+      ],
+      [
+        "other",
+        "4.4"
+      ],
+      [
+        "2017 net revenue",
+        "$ 626.8"
+      ]
+    ],
+    "questions": [
+      "what percent did net revenue decrease between 2016 and 2017?"
+    ]
+  }
+}

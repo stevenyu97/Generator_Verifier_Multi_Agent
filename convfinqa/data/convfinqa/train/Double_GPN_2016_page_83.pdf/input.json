@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "Double_GPN/2016/page_83.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "2000 non-employee director stock option plan ( the 201cdirector stock option plan 201d ) , and the global payments inc .",
+      "2011 incentive plan ( the 201c2011 plan 201d ) ( collectively , the 201cplans 201d ) .",
+      "we made no further grants under the 2000 plan after the 2005 plan was effective , and the director stock option plan expired by its terms on february 1 , 2011 .",
+      "we will make no future grants under the 2000 plan , the 2005 plan or the director stock option plan .",
+      "the 2011 plan permits grants of equity to employees , officers , directors and consultants .",
+      "a total of 14.0 million shares of our common stock was reserved and made available for issuance pursuant to awards granted under the 2011 plan .",
+      "the following table summarizes share-based compensation expense and the related income tax benefit recognized for our share-based awards and stock options ( in thousands ) : 2016 2015 2014 ( in thousands ) ."
+    ],
+    "post_text": [
+      "we grant various share-based awards pursuant to the plans under what we refer to as our 201clong-term incentive plan . 201d the awards are held in escrow and released upon the grantee 2019s satisfaction of conditions of the award certificate .",
+      "restricted stock restricted stock awards vest over a period of time , provided , however , that if the grantee is not employed by us on the vesting date , the shares are forfeited .",
+      "restricted shares cannot be sold or transferred until they have vested .",
+      "restricted stock granted before fiscal 2015 vests in equal installments on each of the first four anniversaries of the grant date .",
+      "restricted stock granted during fiscal 2015 and thereafter either vest in equal installments on each of the first three anniversaries of the grant date or cliff vest at the end of a three-year service period .",
+      "the grant date fair value of restricted stock , which is based on the quoted market value of our common stock at the closing of the award date , is recognized as share-based compensation expense on a straight-line basis over the vesting period .",
+      "performance units certain of our executives have been granted performance units under our long-term incentive plan .",
+      "performance units are performance-based restricted stock units that , after a performance period , convert into common shares , which may be restricted .",
+      "the number of shares is dependent upon the achievement of certain performance measures during the performance period .",
+      "the target number of performance units and any market-based performance measures ( 201cat threshold , 201d 201ctarget , 201d and 201cmaximum 201d ) are set by the compensation committee of our board of directors .",
+      "performance units are converted only after the compensation committee certifies performance based on pre-established goals .",
+      "the performance units granted to certain executives in fiscal 2014 were based on a one-year performance period .",
+      "after the compensation committee certified the performance results , 25% ( 25 % ) of the performance units converted to unrestricted shares .",
+      "the remaining 75% ( 75 % ) converted to restricted shares that vest in equal installments on each of the first three anniversaries of the conversion date .",
+      "the performance units granted to certain executives during fiscal 2015 and fiscal 2016 were based on a three-year performance period .",
+      "after the compensation committee certifies the performance results for the three-year period , performance units earned will convert into unrestricted common stock .",
+      "the compensation committee may set a range of possible performance-based outcomes for performance units .",
+      "depending on the achievement of the performance measures , the grantee may earn up to 200% ( 200 % ) of the target number of shares .",
+      "for awards with only performance conditions , we recognize compensation expense on a straight-line basis over the performance period using the grant date fair value of the award , which is based on the number of shares expected to be earned according to the level of achievement of performance goals .",
+      "if the number of shares expected to be earned were to change at any time during the performance period , we would make a cumulative adjustment to share-based compensation expense based on the revised number of shares expected to be earned .",
+      "global payments inc .",
+      "| 2016 form 10-k annual report 2013 83 ."
+    ],
+    "table": [
+      [
+        "",
+        "2016",
+        "2015 ( in thousands )",
+        "2014"
+      ],
+      [
+        "share-based compensation expense",
+        "$ 30809",
+        "$ 21056",
+        "$ 29793"
+      ],
+      [
+        "income tax benefit",
+        "$ 9879",
+        "$ 6907",
+        "$ 7126"
+      ]
+    ],
+    "questions": [
+      "in 2016, how much did the income tax benefit represent in relation to the share-based compensation expense?",
+      "and what was the change in that income tax benefit since 2014?",
+      "what is this change as a percentage of that benefit in 2014?"
+    ]
+  }
+}

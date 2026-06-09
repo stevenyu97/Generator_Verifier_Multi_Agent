@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference between the high and low share price for the period?",
+      "answer": 11.66,
+      "answer_raw": "11.66",
+      "program": "subtract(24.41, 12.75)"
+    }
+  ]
+}

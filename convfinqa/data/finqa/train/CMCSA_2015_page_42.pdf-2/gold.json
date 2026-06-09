@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the differencet in percentage 5 year cumulative total return for comcast class a stock and the s&p 500 stock index for the year ended 2015?",
+      "answer": 0.99,
+      "answer_raw": "0.99",
+      "program": "subtract(279, 100), divide(#0, 100), subtract(180, 100), divide(#2, 100), subtract(#1, #3)"
+    }
+  ]
+}

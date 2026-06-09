@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would the total payments on contractual obligations be in millions if the uncertain tax positions were considered , and they fell in the next five years?",
+      "answer": 10757.8,
+      "answer_raw": "10757.8",
+      "program": "add(10697.7, 60.1)"
+    }
+  ]
+}

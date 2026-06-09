@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the net change in net revenue during 2004 occurred due to the volume/weather?",
+      "answer": 0.27036,
+      "answer_raw": "0.27036",
+      "program": "subtract(239.0, 208.3), divide(8.3, #0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the issued shares is reported as treasury stock as of december 31 , 2016?",
+      "answer": 0.00203,
+      "answer_raw": "0.00203",
+      "program": "divide(2471, 1218947)"
+    }
+  ]
+}

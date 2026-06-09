@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the decline from 2002 to 2003 in interest income , in us$ b?",
+      "answer": 0.21011,
+      "answer_raw": "0.21011",
+      "program": "subtract(const_1, 11%), divide(1.7, #0), subtract(#1, 1.7)"
+    }
+  ]
+}

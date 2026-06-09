@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total debt is from long-term debt , from 2013-2014?",
+      "answer": 81.09151,
+      "answer_raw": "81.09151",
+      "program": "add(1623.5, 1129.8), add(1732.8, 1662.5), divide(#0, #1), multiply(#2, const_100)"
+    }
+  ]
+}

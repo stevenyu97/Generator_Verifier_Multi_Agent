@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of february 21 , 2018 what were the total number of shareholders of common stock?\\\\n",
+      "answer": 2797.0,
+      "answer_raw": "2797.0",
+      "program": "add(1308, 75), add(#0, 1414)"
+    }
+  ]
+}

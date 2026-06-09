@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in wti crude oil ( dollars per barrel ) between july 3 and december 19 , 2008?",
+      "answer": 111.42,
+      "answer_raw": "111.42",
+      "program": "subtract(145.29, 33.87)"
+    }
+  ]
+}

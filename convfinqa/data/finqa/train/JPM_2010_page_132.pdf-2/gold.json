@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "the nonaccretable difference for principal losses was how much of the 2010 lifetime loss estimates?",
+      "answer": 34.888,
+      "answer_raw": "34.888",
+      "program": "divide(34888, const_1000)"
+    }
+  ]
+}

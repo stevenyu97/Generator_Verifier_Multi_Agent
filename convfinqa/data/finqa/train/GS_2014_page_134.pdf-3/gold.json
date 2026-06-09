@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions between 2014 and 2013 , what was the change in net derivative liabilities under bilateral agreements?\\\\n",
+      "answer": 13588.0,
+      "answer_raw": "13588.0",
+      "program": "subtract(35764, 22176)"
+    }
+  ]
+}

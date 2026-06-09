@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total future minimum sponsorship and other payments are scheduled for 2018?",
+      "answer": 0.12316,
+      "answer_raw": "0.12316",
+      "program": "divide(166961, 1355605)"
+    }
+  ]
+}

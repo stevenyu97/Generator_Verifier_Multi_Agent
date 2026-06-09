@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of annual operating cash flow in 2012?",
+      "answer": 50856.0,
+      "answer_raw": "50856.0",
+      "program": "50856"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2011?",
+      "answer": 37529.0,
+      "answer_raw": "37529.0",
+      "program": "37529"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 13327.0,
+      "answer_raw": "13327.0",
+      "program": "subtract(50856, 37529)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the 2011 value?",
+      "answer": 37529.0,
+      "answer_raw": "37529.0",
+      "program": "37529"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the percent change?",
+      "answer": 0.35511,
+      "answer_raw": "0.35511",
+      "program": "subtract(50856, 37529), divide(#0, 37529)"
+    }
+  ]
+}

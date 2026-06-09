@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total identifiable net assets in cash?",
+      "answer": 0.7373,
+      "answer_raw": "0.7373",
+      "program": "divide(45826, 62154)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what portion of the total purchase consideration is allocated to goodwill?",
+      "answer": 0.76632,
+      "answer_raw": "0.76632",
+      "program": "divide(203828, 265982)"
+    }
+  ]
+}

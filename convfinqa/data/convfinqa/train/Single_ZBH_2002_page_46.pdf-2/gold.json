@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total debt for 2002?",
+      "answer": 156.7,
+      "answer_raw": "156.7",
+      "program": "156.7"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2001?",
+      "answer": 363.9,
+      "answer_raw": "363.9",
+      "program": "363.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combined, what was the total debt for these periods?",
+      "answer": 520.6,
+      "answer_raw": "520.6",
+      "program": "add(156.7, 363.9)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the specific value for 2002?",
+      "answer": 156.7,
+      "answer_raw": "156.7",
+      "program": "156.7"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what percent of the total debt is in the 2002 debt balance?",
+      "answer": 0.301,
+      "answer_raw": "0.301",
+      "program": "add(156.7, 363.9), divide(156.7, #0)"
+    }
+  ]
+}

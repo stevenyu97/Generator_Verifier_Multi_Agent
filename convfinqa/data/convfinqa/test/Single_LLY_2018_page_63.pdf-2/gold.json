@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total in raw materials and supplies in 2018?",
+      "answer": 506.5,
+      "answer_raw": "506.5",
+      "program": "506.5"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2017?",
+      "answer": 488.8,
+      "answer_raw": "488.8",
+      "program": "488.8"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 17.7,
+      "answer_raw": "17.7",
+      "program": "subtract(506.5, 488.8)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the total in raw materials and supplies in 2017?",
+      "answer": 488.8,
+      "answer_raw": "488.8",
+      "program": "488.8"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this 2017 total, in percentage?",
+      "answer": 0.03621,
+      "answer_raw": "0.03621",
+      "program": "subtract(506.5, 488.8), divide(#0, 488.8)"
+    }
+  ]
+}

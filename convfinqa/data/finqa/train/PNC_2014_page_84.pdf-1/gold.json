@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for pension expense , does a .5% ( .5 % ) decrease in expected long-term return on assets have a greater impact than a .5% ( .5 % ) increase in compensation rate?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(22, 2)"
+    }
+  ]
+}

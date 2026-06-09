@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total consolidated revenues is generated from fsg segment in 2018?",
+      "answer": 0.3868,
+      "answer_raw": "0.3868",
+      "program": "divide(2246.4, 5807.6)"
+    }
+  ]
+}

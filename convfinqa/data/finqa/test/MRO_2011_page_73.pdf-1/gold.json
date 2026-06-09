@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the sale of the 19 percent outside-operated interest in the corrib natural gas development offshore ireland , what is the total expected proceeds in millions?",
+      "answer": 235.0,
+      "answer_raw": "235.0",
+      "program": "add(const_100, 135)"
+    }
+  ]
+}

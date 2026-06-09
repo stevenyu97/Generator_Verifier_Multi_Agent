@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total future minimum lease payments is due in the next 24 months?",
+      "answer": 0.29081,
+      "answer_raw": "0.29081",
+      "program": "add(781, 776), divide(#0, 5354)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2012, what was the remaining amount under the share repurchase program for shares of schlumberger common stock?",
+      "answer": 0.88,
+      "answer_raw": "0.88",
+      "program": "subtract(const_8, 7.12)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in the year before, what was the average price paid per share?",
+      "answer": 81.15,
+      "answer_raw": "81.15",
+      "program": "81.15"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was it in 2010?",
+      "answer": 64.48,
+      "answer_raw": "64.48",
+      "program": "64.48"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "by how much, then, did it increase over the year?",
+      "answer": 16.67,
+      "answer_raw": "16.67",
+      "program": "subtract(81.15, 64.48)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much did that increase represent in relation to the 2010 price?",
+      "answer": 0.25853,
+      "answer_raw": "0.25853",
+      "program": "subtract(81.15, 64.48), divide(#0, 64.48)"
+    }
+  ]
+}

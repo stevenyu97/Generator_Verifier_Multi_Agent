@@ -1,0 +1,80 @@
+{
+  "input": {
+    "id": "Double_IPG/2018/page_104.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "notes to consolidated financial statements 2013 ( continued ) ( amounts in millions , except per share amounts ) guarantees we have guaranteed certain obligations of our subsidiaries relating principally to operating leases and uncommitted lines of credit of certain subsidiaries .",
+      "as of december 31 , 2018 and 2017 , the amount of parent company guarantees on lease obligations was $ 824.5 and $ 829.2 , respectively , the amount of parent company guarantees primarily relating to uncommitted lines of credit was $ 349.1 and $ 308.8 , respectively , and the amount of parent company guarantees related to daylight overdrafts , primarily utilized to manage intra-day overdrafts due to timing of transactions under cash pooling arrangements without resulting in incremental borrowings , was $ 207.8 and $ 182.2 , respectively .",
+      "in the event of non-payment by the applicable subsidiary of the obligations covered by a guarantee , we would be obligated to pay the amounts covered by that guarantee .",
+      "as of december 31 , 2018 , there were no material assets pledged as security for such parent company guarantees .",
+      "contingent acquisition obligations the following table details the estimated future contingent acquisition obligations payable in cash as of december 31 ."
+    ],
+    "post_text": [
+      "1 we have entered into certain acquisitions that contain both redeemable noncontrolling interests and call options with similar terms and conditions .",
+      "the estimated amounts listed would be paid in the event of exercise at the earliest exercise date .",
+      "we have certain redeemable noncontrolling interests that are exercisable at the discretion of the noncontrolling equity owners as of december 31 , 2018 .",
+      "these estimated payments of $ 24.9 are included within the total payments expected to be made in 2019 , and will continue to be carried forward into 2020 or beyond until exercised or expired .",
+      "redeemable noncontrolling interests are included in the table at current exercise price payable in cash , not at applicable redemption value , in accordance with the authoritative guidance for classification and measurement of redeemable securities .",
+      "the majority of these payments are contingent upon achieving projected operating performance targets and satisfying other conditions specified in the related agreements and are subject to revision in accordance with the terms of the respective agreements .",
+      "see note 5 for further information relating to the payment structure of our acquisitions .",
+      "legal matters we are involved in various legal proceedings , and subject to investigations , inspections , audits , inquiries and similar actions by governmental authorities arising in the normal course of business .",
+      "the types of allegations that arise in connection with such legal proceedings vary in nature , but can include claims related to contract , employment , tax and intellectual property matters .",
+      "we evaluate all cases each reporting period and record liabilities for losses from legal proceedings when we determine that it is probable that the outcome in a legal proceeding will be unfavorable and the amount , or potential range , of loss can be reasonably estimated .",
+      "in certain cases , we cannot reasonably estimate the potential loss because , for example , the litigation is in its early stages .",
+      "while any outcome related to litigation or such governmental proceedings in which we are involved cannot be predicted with certainty , management believes that the outcome of these matters , individually and in the aggregate , will not have a material adverse effect on our financial condition , results of operations or cash flows .",
+      "as previously disclosed , on april 10 , 2015 , a federal judge in brazil authorized the search of the records of an agency 2019s offices in s e3o paulo and brasilia , in connection with an ongoing investigation by brazilian authorities involving payments potentially connected to local government contracts .",
+      "the company had previously investigated the matter and taken a number of remedial and disciplinary actions .",
+      "the company has been in the process of concluding a settlement related to these matters with government agencies , and that settlement was fully executed in april 2018 .",
+      "the company has previously provided for such settlement in its consolidated financial statements. ."
+    ],
+    "table": [
+      [
+        "",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "thereafter",
+        "total"
+      ],
+      [
+        "deferred acquisition payments",
+        "$ 65.7",
+        "$ 20.0",
+        "$ 23.6",
+        "$ 4.7",
+        "$ 10.2",
+        "$ 2.7",
+        "$ 126.9"
+      ],
+      [
+        "redeemable noncontrolling interests and call options with affiliates1",
+        "30.1",
+        "30.6",
+        "42.9",
+        "5.7",
+        "3.5",
+        "2.5",
+        "115.3"
+      ],
+      [
+        "total contingent acquisition payments",
+        "$ 95.8",
+        "$ 50.6",
+        "$ 66.5",
+        "$ 10.4",
+        "$ 13.7",
+        "$ 5.2",
+        "$ 242.2"
+      ]
+    ],
+    "questions": [
+      "what was the amount of deferred acquisition payments made in 2019?",
+      "and what was the total of those payments for all years?",
+      "what portion, then, of this total did that amount represent?",
+      "and what is that in percentage?",
+      "what was the change in the amount of payments from that year to 2020?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the quarter ended december 312018 what was the percentage of shares acquired in december",
+      "answer": 0.33501,
+      "answer_raw": "0.33501",
+      "program": "divide(912360, 2723347)"
+    }
+  ]
+}

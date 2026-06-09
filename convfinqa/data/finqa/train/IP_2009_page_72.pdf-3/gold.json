@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the common shares whose exercise price exceeded the average market price of the company 2019s common stock for each respective reporting date in 2008 to 2007",
+      "answer": 1.43429,
+      "answer_raw": "1.43429",
+      "program": "divide(25.1, 17.5)"
+    }
+  ]
+}

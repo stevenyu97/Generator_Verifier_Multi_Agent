@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming that actual net rent expense will be the same as presented in the table , what would be the growth rate in the net rent expense from 2008 to 2009?",
+      "answer": -0.13249,
+      "answer_raw": "-0.13249",
+      "program": "subtract(275, 317), divide(#0, 317)"
+    }
+  ]
+}

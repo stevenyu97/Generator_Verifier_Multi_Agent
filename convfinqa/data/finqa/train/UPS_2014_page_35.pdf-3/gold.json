@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in percentage cumulative total shareowners 2019 returns for united parcel service inc . compared to the standard & poor's 500 index for the five years ended 12/31/2014?",
+      "answer": 0.1874,
+      "answer_raw": "0.1874",
+      "program": "subtract(223.79, const_100), divide(#0, const_100), subtract(205.05, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

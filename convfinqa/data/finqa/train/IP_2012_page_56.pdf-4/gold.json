@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the operating margin from printing papers in 2012",
+      "answer": 0.09615,
+      "answer_raw": "0.09615",
+      "program": "divide(599, 6230)"
+    }
+  ]
+}

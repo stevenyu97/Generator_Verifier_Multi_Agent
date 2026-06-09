@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the balance of reinsurance receivables and premium receivables from 2012 to 2013?",
+      "answer": -2106.0,
+      "answer_raw": "-2106.0",
+      "program": "subtract(29905, 32011)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage change does this represent?",
+      "answer": -0.06579,
+      "answer_raw": "-0.06579",
+      "program": "subtract(29905, 32011), divide(#0, 32011)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much did the pre-tax impact on equity of hypothetical 10 percent strengthening of the u.s . dollar in 2007 represent in relation to the one in 2008?",
+      "answer": 1.78571,
+      "answer_raw": "1.78571",
+      "program": "divide(150, 84)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "in this same period, what was the change in the fair value of net assets denominated in foreign currencies?",
+      "answer": -524.0,
+      "answer_raw": "-524.0",
+      "program": "subtract(1127, 1651)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what is this change as a percentage of that fair value in 2007?",
+      "answer": -0.31738,
+      "answer_raw": "-0.31738",
+      "program": "subtract(1127, 1651), divide(#0, 1651)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would be the gain/loss if all marketable securities are sold at fair value?",
+      "answer": 3.2,
+      "answer_raw": "3.2",
+      "program": "subtract(28.9, 25.7)"
+    }
+  ]
+}

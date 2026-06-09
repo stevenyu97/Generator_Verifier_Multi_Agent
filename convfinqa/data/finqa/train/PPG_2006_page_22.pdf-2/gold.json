@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "the 2005 charge for asset impairments in the optical and specialty materials segment represented what percent of pre-impairment earnings for the segment?",
+      "answer": 0.14595,
+      "answer_raw": "0.14595",
+      "program": "add(27, 158), divide(27, #0)"
+    }
+  ]
+}

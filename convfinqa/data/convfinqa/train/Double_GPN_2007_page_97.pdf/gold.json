@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total number of approved securities by the security holders as of may 31, 2007?",
+      "answer": 12950000.0,
+      "answer_raw": "12950000.0",
+      "program": "add(5171000, 7779000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what amount from this total number is from issued securities?",
+      "answer": 5171000.0,
+      "answer_raw": "5171000.0",
+      "program": "5171000"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, do these issued securities represent in relation to the total?",
+      "answer": 12950000.0,
+      "answer_raw": "12950000.0",
+      "program": "add(5171000, 7779000)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the net loss in 2016 to 2015",
+      "answer": 2.16814,
+      "answer_raw": "2.16814",
+      "program": "divide(24.5, 11.3)"
+    }
+  ]
+}

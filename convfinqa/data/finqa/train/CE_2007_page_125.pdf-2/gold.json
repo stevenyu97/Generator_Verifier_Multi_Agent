@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the balance of unrecognized tax benefits as of december 31 , 2007 would affect the effective tax rate if it is recognized?",
+      "answer": 0.28,
+      "answer_raw": "0.28",
+      "program": "divide(56, 200)"
+    }
+  ]
+}

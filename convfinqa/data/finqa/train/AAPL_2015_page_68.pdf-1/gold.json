@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of future minimum lease payments under noncancelable operating leases are due after 2020?",
+      "answer": 0.41333,
+      "answer_raw": "0.41333",
+      "program": "divide(2592, 6271)"
+    }
+  ]
+}

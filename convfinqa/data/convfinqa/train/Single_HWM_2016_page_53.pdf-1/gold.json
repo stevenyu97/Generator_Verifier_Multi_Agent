@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in third-party sales for engineered product between 2015 and 2016?",
+      "answer": -80.0,
+      "answer_raw": "-80.0",
+      "program": "subtract(1802, 1882)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and as a percentage of the original value?",
+      "answer": -0.04251,
+      "answer_raw": "-0.04251",
+      "program": "subtract(1802, 1882), divide(#0, 1882)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and by how much did the third-party sales for the transportation segment decrease in 2015?",
+      "answer": 0.07,
+      "answer_raw": "0.07",
+      "program": "7%"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the difference between the growth rates for the two segments?",
+      "answer": 0.11251,
+      "answer_raw": "0.11251",
+      "program": "subtract(1802, 1882), divide(#0, 1882), subtract(7%, #1)"
+    }
+  ]
+}

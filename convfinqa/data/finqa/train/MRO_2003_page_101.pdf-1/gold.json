@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are total asset retirement obligations as of december 31 2002 and 2003 , in millions?",
+      "answer": 729.0,
+      "answer_raw": "729.0",
+      "program": "add(390, 339)"
+    }
+  ]
+}

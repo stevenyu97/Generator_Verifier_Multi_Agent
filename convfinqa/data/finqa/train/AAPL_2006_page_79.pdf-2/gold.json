@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did asset retirement liability increase from 2005 to 2006?",
+      "answer": 0.25641,
+      "answer_raw": "0.25641",
+      "program": "subtract(14.7, 11.7), divide(#0, 11.7)"
+    }
+  ]
+}

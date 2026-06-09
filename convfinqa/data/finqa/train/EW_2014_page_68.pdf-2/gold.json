@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the affect of the change in accounting principles on differed income taxes in millions?",
+      "answer": 8.9,
+      "answer_raw": "8.9",
+      "program": "subtract(79.0, 70.1)"
+    }
+  ]
+}

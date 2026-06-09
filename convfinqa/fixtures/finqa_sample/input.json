@@ -1,0 +1,14 @@
+{
+  "input": {
+    "id": "finqa_smoke_0",
+    "dataset": "finqa",
+    "pre_text": ["Revenue was strong in 2020."],
+    "post_text": ["Operating income improved year over year."],
+    "table": [
+      ["", "2020", "2019"],
+      ["Revenue", "100", "80"],
+      ["Expenses", "40", "35"]
+    ],
+    "questions": ["what is the revenue in 2020?"]
+  }
+}

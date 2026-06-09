@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2015, how much did the depreciation and amortization in the large market same store represent in relation to the one for the secondary market same store?",
+      "answer": 1.98654,
+      "answer_raw": "1.98654",
+      "program": "divide(168872, 85008)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and between that year and the one before, what was the variation in the percentual decrease of those large market same-store and secondary market same-store?",
+      "answer": 2.3,
+      "answer_raw": "2.3",
+      "program": "subtract(3.5, 1.2)"
+    }
+  ]
+}

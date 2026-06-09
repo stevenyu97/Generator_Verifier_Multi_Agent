@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "on december 20 , 2005 what was the percent of the net tangible assets acquired to the purchase price",
+      "answer": 0.1107,
+      "answer_raw": "0.1107",
+      "program": "divide(const_6, 54.2)"
+    }
+  ]
+}

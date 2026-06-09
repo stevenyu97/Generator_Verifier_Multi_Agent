@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the segment net sales in 2008 to 2009",
+      "answer": 1.69312,
+      "answer_raw": "1.69312",
+      "program": "divide(12099, 7146)"
+    }
+  ]
+}

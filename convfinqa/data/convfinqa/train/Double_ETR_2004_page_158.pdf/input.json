@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "Double_ETR/2004/page_158.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "part i item 1 entergy corporation , domestic utility companies , and system energy employment litigation ( entergy corporation , entergy arkansas , entergy gulf states , entergy louisiana , entergy mississippi , entergy new orleans , and system energy ) entergy corporation and the domestic utility companies are defendants in numerous lawsuits that have been filed by former employees alleging that they were wrongfully terminated and/or discriminated against on the basis of age , race , sex , and/or other protected characteristics .",
+      "entergy corporation and the domestic utility companies are vigorously defending these suits and deny any liability to the plaintiffs .",
+      "however , no assurance can be given as to the outcome of these cases , and at this time management cannot estimate the total amount of damages sought .",
+      "included in the employment litigation are two cases filed in state court in claiborne county , mississippi in december 2002 .",
+      "the two cases were filed by former employees of entergy operations who were based at grand gulf .",
+      "entergy operations and entergy employees are named as defendants .",
+      "the cases make employment-related claims , and seek in total $ 53 million in alleged actual damages and $ 168 million in punitive damages .",
+      "entergy subsequently removed both proceedings to the federal district in jackson , mississippi .",
+      "entergy cannot predict the ultimate outcome of this proceeding .",
+      "research spending entergy is a member of the electric power research institute ( epri ) .",
+      "epri conducts a broad range of research in major technical fields related to the electric utility industry .",
+      "entergy participates in various epri projects based on entergy's needs and available resources .",
+      "the domestic utility companies contributed $ 1.6 million in 2004 , $ 1.5 million in 2003 , and $ 2.1 million in 2002 to epri .",
+      "the non-utility nuclear business contributed $ 3.2 million in 2004 and $ 3 million in both 2003 and 2002 to epri .",
+      "employees employees are an integral part of entergy's commitment to serving its customers .",
+      "as of december 31 , 2004 , entergy employed 14425 people .",
+      "u.s .",
+      "utility: ."
+    ],
+    "post_text": [
+      "approximately 4900 employees are represented by the international brotherhood of electrical workers union , the utility workers union of america , and the international brotherhood of teamsters union. ."
+    ],
+    "table": [
+      [
+        "entergy arkansas",
+        "1494"
+      ],
+      [
+        "entergy gulf states",
+        "1641"
+      ],
+      [
+        "entergy louisiana",
+        "943"
+      ],
+      [
+        "entergy mississippi",
+        "793"
+      ],
+      [
+        "entergy new orleans",
+        "403"
+      ],
+      [
+        "system energy",
+        "-"
+      ],
+      [
+        "entergy operations",
+        "2735"
+      ],
+      [
+        "entergy services",
+        "2704"
+      ],
+      [
+        "entergy nuclear operations",
+        "3245"
+      ],
+      [
+        "other subsidiaries",
+        "277"
+      ],
+      [
+        "total full-time",
+        "14235"
+      ],
+      [
+        "part-time",
+        "190"
+      ],
+      [
+        "total entergy",
+        "14425"
+      ]
+    ],
+    "questions": [
+      "what percentage of full-time employees are in entergy nuclear operations?",
+      "and what percentage are in entergy gulf states?"
+    ]
+  }
+}

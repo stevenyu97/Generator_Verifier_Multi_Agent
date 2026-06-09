@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "Single_ETR/2017/page_373.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "2016 compared to 2015 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory charges ( credits ) .",
+      "following is an analysis of the change in net revenue comparing 2016 to 2015 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the retail electric price variance is primarily due to a $ 19.4 million net annual increase in revenues , as approved by the mpsc , effective with the first billing cycle of july 2016 , and an increase in revenues collected through the storm damage rider . a0 see note 2 to the financial statements for more discussion of the formula rate plan and the storm damage rider .",
+      "the volume/weather variance is primarily due to an increase of 153 gwh , or 1% ( 1 % ) , in billed electricity usage , including an increase in industrial usage , partially offset by the effect of less favorable weather on residential and commercial sales .",
+      "the increase in industrial usage is primarily due to expansion projects in the pulp and paper industry , increased demand for existing customers , primarily in the metals industry , and new customers in the wood products industry .",
+      "the net wholesale revenue variance is primarily due to entergy mississippi 2019s exit from the system agreement in november 2015 .",
+      "the reserve equalization revenue variance is primarily due to the absence of reserve equalization revenue as compared to the same period in 2015 resulting from entergy mississippi 2019s exit from the system agreement in november other income statement variances 2017 compared to 2016 other operation and maintenance expenses decreased primarily due to : 2022 a decrease of $ 12 million in fossil-fueled generation expenses primarily due to lower long-term service agreement costs and a lower scope of work done during plant outages in 2017 as compared to the same period in 2016 ; and 2022 a decrease of $ 3.6 million in storm damage provisions .",
+      "see note 2 to the financial statements for a discussion on storm cost recovery .",
+      "the decrease was partially offset by an increase of $ 4.8 million in energy efficiency costs and an increase of $ 2.7 million in compensation and benefits costs primarily due to higher incentive-based compensation accruals in 2017 as compared to the prior year .",
+      "entergy mississippi , inc .",
+      "management 2019s financial discussion and analysis ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2015 net revenue",
+        "$ 696.3"
+      ],
+      [
+        "retail electric price",
+        "12.9"
+      ],
+      [
+        "volume/weather",
+        "4.7"
+      ],
+      [
+        "net wholesale revenue",
+        "-2.4 ( 2.4 )"
+      ],
+      [
+        "reserve equalization",
+        "-2.8 ( 2.8 )"
+      ],
+      [
+        "other",
+        "-3.3 ( 3.3 )"
+      ],
+      [
+        "2016 net revenue",
+        "$ 705.4"
+      ]
+    ],
+    "questions": [
+      "what was net revenue at the end of 2016?",
+      "what was net revenue at the end of 2015?",
+      "what was the change in net revenue?",
+      "what was the starting value, in 2015?",
+      "what is the percent change?"
+    ]
+  }
+}

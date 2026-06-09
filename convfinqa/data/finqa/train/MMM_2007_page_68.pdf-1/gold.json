@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the rate of the adjustment of the auction rate securities with an original par value of approximately $ 34 million were written-down to an estimated fair value of $ 16 million as of december 31 , 2007.\\\\n",
+      "answer": 0.52941,
+      "answer_raw": "0.52941",
+      "program": "subtract(34, 16), divide(#0, 34)"
+    }
+  ]
+}

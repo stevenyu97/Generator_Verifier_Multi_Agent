@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the aggregate maximum amount of future payments pnc could be required to make under outstanding standby letters of credit and risk participations in standby letters of credit and bankers 2019 acceptances was attributable to support remarketing programs?",
+      "answer": 0.5102,
+      "answer_raw": "0.5102",
+      "program": "divide(7.5, 14.7)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the total purchase consideration is comprised of goodwill and identifiable intangibles assets acquired?",
+      "answer": 0.85464,
+      "answer_raw": "0.85464",
+      "program": "add(247482, 108867), divide(#0, 416956)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "pca 2019s effective tax rate decreased by how many percentage points for the year ended december 31 , 2006 compared to the year ended december 31 , 2005?",
+      "answer": 4.4,
+      "answer_raw": "4.4",
+      "program": "subtract(40.2, 35.8)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming full exercise of the options and warrants assumed , what is the total millions of shares of class a common stock in the spectrasite deal?",
+      "answer": 186.2,
+      "answer_raw": "186.2",
+      "program": "add(169.5, 9.9), add(#0, 6.8)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in income before interest and taxes between 2003 and 2004?",
+      "answer": 0.44995,
+      "answer_raw": "0.44995",
+      "program": "divide(43.6, 96.9)"
+    }
+  ]
+}

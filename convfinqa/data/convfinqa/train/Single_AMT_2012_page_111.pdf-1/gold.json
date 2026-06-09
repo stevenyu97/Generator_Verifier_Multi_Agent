@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of prepaid income tax and value added tax and other consumption tax receivables in 2012?",
+      "answer": 80108.0,
+      "answer_raw": "80108.0",
+      "program": "add(57665, 22443)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that value divided by the total assets?",
+      "answer": 0.35947,
+      "answer_raw": "0.35947",
+      "program": "add(57665, 22443), divide(#0, 222851)"
+    }
+  ]
+}

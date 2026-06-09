@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in revenue between 2000 and 2001?",
+      "answer": -94.0,
+      "answer_raw": "-94.0",
+      "program": "subtract(6147, 6241)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the value for 2000 specifically?",
+      "answer": 6241.0,
+      "answer_raw": "6241.0",
+      "program": "6241"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the percentage change?",
+      "answer": -0.01506,
+      "answer_raw": "-0.01506",
+      "program": "subtract(6147, 6241), divide(#0, 6241)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total cash dividend declared from 2016 to 2018",
+      "answer": 1338.5,
+      "answer_raw": "1338.5",
+      "program": "add(468.4, 446.3), add(423.8, #0)"
+    }
+  ]
+}

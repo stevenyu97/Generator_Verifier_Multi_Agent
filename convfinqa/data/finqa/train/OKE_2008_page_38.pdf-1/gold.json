@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of january 31 , 2009 what percentage of employees were subject to collective bargaining contracts?",
+      "answer": 0.15584,
+      "answer_raw": "0.15584",
+      "program": "divide(739, 4742)"
+    }
+  ]
+}

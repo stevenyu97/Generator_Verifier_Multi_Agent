@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total debt is due after 2012?",
+      "answer": 0.61419,
+      "answer_raw": "0.61419",
+      "program": "divide(4717, 7680)"
+    }
+  ]
+}

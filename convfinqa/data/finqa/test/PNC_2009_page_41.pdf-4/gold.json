@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total commercial mortgages were at fair value?",
+      "answer": 0.71064,
+      "answer_raw": "0.71064",
+      "program": "add(1301, 2148), add(1050, 1401), divide(#1, #0)"
+    }
+  ]
+}

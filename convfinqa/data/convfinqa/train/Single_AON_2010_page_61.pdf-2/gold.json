@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in long-term rate of return on plan assets increase of us plans?",
+      "answer": 14.0,
+      "answer_raw": "14.0",
+      "program": "14"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it for the uk plans?",
+      "answer": 35.0,
+      "answer_raw": "35.0",
+      "program": "35"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the total long-term rate of return on plan assets increase for both of those countries?",
+      "answer": 49.0,
+      "answer_raw": "49.0",
+      "program": "add(14, 35)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was the long-term rate of return on plan assets increase for the netherlands plans?",
+      "answer": 5.0,
+      "answer_raw": "5.0",
+      "program": "5"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "including the netherlands, what would then be the total long-term rate of return on plan assets increase for the three countries?",
+      "answer": 54.0,
+      "answer_raw": "54.0",
+      "program": "add(14, 35), add(#0, 5)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and including the canada plans, what would then be the total?",
+      "answer": 56.0,
+      "answer_raw": "56.0",
+      "program": "add(14, 35), add(#0, 5), add(#1, 2)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of ending reserves were due to extensions discoveries and additions?",
+      "answer": 0.01546,
+      "answer_raw": "0.01546",
+      "program": "divide(const_6, 388)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2008, what would have been, in millions, the total undiscounted minimum capital lease obligations excluding the assets under construction?",
+      "answer": 322.0,
+      "answer_raw": "322.0",
+      "program": "subtract(657, 335)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what percentage of that construction is already completed?",
+      "answer": 0.37612,
+      "answer_raw": "0.37612",
+      "program": "divide(126, 335)"
+    }
+  ]
+}

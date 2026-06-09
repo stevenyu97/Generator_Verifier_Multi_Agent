@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "AES/2011/page_260.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the aes corporation notes to consolidated financial statements 2014 ( continued ) december 31 , 2011 , 2010 , and 2009 20 .",
+      "impairment expense asset impairment asset impairment expense for the year ended december 31 , 2011 consisted of : ( in millions ) ."
+    ],
+    "post_text": [
+      "wind turbines & deposits 2014during the third quarter of 2011 , the company evaluated the future use of certain wind turbines held in storage pending their installation .",
+      "due to reduced wind turbine market pricing and advances in turbine technology , the company determined it was more likely than not that the turbines would be sold significantly before the end of their previously estimated useful lives .",
+      "in addition , the company has concluded that more likely than not non-refundable deposits it had made in prior years to a turbine manufacturer for the purchase of wind turbines are not recoverable .",
+      "the company determined it was more likely than not that it would not proceed with the purchase of turbines due to the availability of more advanced and lower cost turbines in the market .",
+      "these developments were more likely than not as of september 30 , 2011 and as a result were considered impairment indicators and the company determined that an impairment had occurred as of september 30 , 2011 as the aggregate carrying amount of $ 161 million of these assets was not recoverable and was reduced to their estimated fair value of $ 45 million determined under the market approach .",
+      "this resulted in asset impairment expense of $ 116 million .",
+      "wind generation is reported in the corporate and other segment .",
+      "in january 2012 , the company forfeited the deposits for which a full impairment charge was recognized in the third quarter of 2011 , and there is no obligation for further payments under the related turbine supply agreement .",
+      "additionally , the company sold some of the turbines held in storage during the fourth quarter of 2011 and is continuing to evaluate the future use of the turbines held in storage .",
+      "the company determined it is more likely than not that they will be sold , however they are not being actively marketed for sale at this time as the company is reconsidering the potential use of the turbines in light of recent development activity at one of its advance stage development projects .",
+      "it is reasonably possible that the turbines could incur further loss in value due to changing market conditions and advances in technology .",
+      "tisza ii 2014during the fourth quarter of 2011 , tisza ii , a 900 mw gas and oil-fired generation plant in hungary entered into annual negotiations with its offtaker .",
+      "as a result of these negotiations , as well as the further deterioration of the economic environment in hungary , the company determined that an indicator of impairment existed at december 31 , 2011 .",
+      "thus , the company performed an asset impairment test and determined that based on the undiscounted cash flow analysis , the carrying amount of tisza ii asset group was not recoverable .",
+      "the fair value of the asset group was then determined using a discounted cash flow analysis .",
+      "the carrying value of the tisza ii asset group of $ 94 million exceeded the fair value of $ 42 million resulting in the recognition of asset impairment expense of $ 52 million during the three months ended december 31 , 2011 .",
+      "tisza ii is reported in the europe generation reportable segment .",
+      "kelanitissa 2014in 2011 , the company recognized asset impairment expense of $ 42 million for the long-lived assets of kelanitissa , our diesel-fired generation plant in sri lanka .",
+      "we have continued to evaluate the recoverability of our long-lived assets at kelanitissa as a result of both the existing government regulation which ."
+    ],
+    "table": [
+      [
+        "",
+        "2011 ( in millions )"
+      ],
+      [
+        "wind turbines & deposits",
+        "$ 116"
+      ],
+      [
+        "tisza ii",
+        "52"
+      ],
+      [
+        "kelanitissa",
+        "42"
+      ],
+      [
+        "other",
+        "15"
+      ],
+      [
+        "total",
+        "$ 225"
+      ]
+    ],
+    "questions": [
+      "what percentage of asset impairment expense for the year ended december 31 , 2011 was related to wind turbines & deposits?"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in research and development net between 2011 and 2012?",
+      "answer": 25.0,
+      "answer_raw": "25.0",
+      "program": "subtract(453, 428)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the specific value for 2011 again?",
+      "answer": 428.0,
+      "answer_raw": "428.0",
+      "program": "428"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "then what was the percentage change during this time?",
+      "answer": 0.05841,
+      "answer_raw": "0.05841",
+      "program": "subtract(453, 428), divide(#0, 428)"
+    }
+  ]
+}

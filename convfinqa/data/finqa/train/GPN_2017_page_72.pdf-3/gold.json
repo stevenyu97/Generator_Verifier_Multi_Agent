@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total purchase consideration is compensated with shares of global payments?",
+      "answer": 0.4883,
+      "answer_raw": "0.4883",
+      "program": "divide(572079, 1171576)"
+    }
+  ]
+}

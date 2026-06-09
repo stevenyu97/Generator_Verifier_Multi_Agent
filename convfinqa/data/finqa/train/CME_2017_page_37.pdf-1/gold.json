@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by what percentage will the space in one north endnew york new york decrease in 2019?",
+      "answer": -0.0625,
+      "answer_raw": "-0.0625",
+      "program": "subtract(225000, 240000), divide(#0, 240000)"
+    }
+  ]
+}

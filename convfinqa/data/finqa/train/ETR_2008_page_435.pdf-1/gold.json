@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between the highest and the lowest base salary in 2007?",
+      "answer": 1024996.0,
+      "answer_raw": "1024996.0",
+      "program": "subtract(1230000, 205004)"
+    }
+  ]
+}

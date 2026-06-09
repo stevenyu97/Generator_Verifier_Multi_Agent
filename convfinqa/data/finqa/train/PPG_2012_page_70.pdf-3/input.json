@@ -1,0 +1,90 @@
+{
+  "input": {
+    "id": "PPG/2012/page_70.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "68 2012 ppg annual report and form 10-k december 31 , 2012 , 2011 and 2010 was $ ( 30 ) million , $ 98 million and $ 65 million , respectively .",
+      "the cumulative tax benefit related to the adjustment for pension and other postretirement benefits at december 31 , 2012 and 2011 was approximately $ 960 million and $ 990 million , respectively .",
+      "there was no tax ( cost ) benefit related to the change in the unrealized gain ( loss ) on marketable securities for the year ended december 31 , 2012 .",
+      "the tax ( cost ) benefit related to the change in the unrealized gain ( loss ) on marketable securities for the years ended december 31 , 2011 and 2010 was $ ( 0.2 ) million and $ 0.6 million , respectively .",
+      "the tax benefit related to the change in the unrealized gain ( loss ) on derivatives for the years ended december 31 , 2012 , 2011 and 2010 was $ 4 million , $ 19 million and $ 1 million , respectively .",
+      "18 .",
+      "employee savings plan ppg 2019s employee savings plan ( 201csavings plan 201d ) covers substantially all u.s .",
+      "employees .",
+      "the company makes matching contributions to the savings plan , at management's discretion , based upon participants 2019 savings , subject to certain limitations .",
+      "for most participants not covered by a collective bargaining agreement , company-matching contributions are established each year at the discretion of the company and are applied to participant savings up to a maximum of 6% ( 6 % ) of eligible participant compensation .",
+      "for those participants whose employment is covered by a collective bargaining agreement , the level of company-matching contribution , if any , is determined by the relevant collective bargaining agreement .",
+      "the company-matching contribution was suspended from march 2009 through june 2010 as a cost savings measure in recognition of the adverse impact of the global recession .",
+      "effective july 1 , 2010 , the company match was reinstated at 50% ( 50 % ) on the first 6% ( 6 % ) of compensation contributed for most employees eligible for the company-matching contribution feature .",
+      "this included the union represented employees in accordance with their collective bargaining agreements .",
+      "on january 1 , 2011 , the company match was increased to 75% ( 75 % ) on the first 6% ( 6 % ) of compensation contributed by these eligible employees and this level was maintained throughout 2012 .",
+      "compensation expense and cash contributions related to the company match of participant contributions to the savings plan for 2012 , 2011 and 2010 totaled $ 28 million , $ 26 million and $ 9 million , respectively .",
+      "a portion of the savings plan qualifies under the internal revenue code as an employee stock ownership plan .",
+      "as a result , the dividends on ppg shares held by that portion of the savings plan totaling $ 18 million , $ 20 million and $ 24 million for 2012 , 2011 and 2010 , respectively , were tax deductible to the company for u.s .",
+      "federal tax purposes .",
+      "19 .",
+      "other earnings ."
+    ],
+    "post_text": [
+      "20 .",
+      "stock-based compensation the company 2019s stock-based compensation includes stock options , restricted stock units ( 201crsus 201d ) and grants of contingent shares that are earned based on achieving targeted levels of total shareholder return .",
+      "all current grants of stock options , rsus and contingent shares are made under the ppg industries , inc .",
+      "amended and restated omnibus incentive plan ( 201cppg amended omnibus plan 201d ) , which was amended and restated effective april 21 , 2011 .",
+      "shares available for future grants under the ppg amended omnibus plan were 8.5 million as of december 31 , 2012 .",
+      "total stock-based compensation cost was $ 73 million , $ 36 million and $ 52 million in 2012 , 2011 and 2010 , respectively .",
+      "stock-based compensation expense increased year over year due to the increase in the expected payout percentage of the 2010 performance-based rsu grants and ppg's total shareholder return performance in 2012 in comparison with the standard & poors ( s&p ) 500 index , which has increased the expense related to outstanding grants of contingent shares .",
+      "the total income tax benefit recognized in the accompanying consolidated statement of income related to the stock-based compensation was $ 25 million , $ 13 million and $ 18 million in 2012 , 2011 and 2010 , respectively .",
+      "stock options ppg has outstanding stock option awards that have been granted under two stock option plans : the ppg industries , inc .",
+      "stock plan ( 201cppg stock plan 201d ) and the ppg amended omnibus plan .",
+      "under the ppg amended omnibus plan and the ppg stock plan , certain employees of the company have been granted options to purchase shares of common stock at prices equal to the fair market value of the shares on the date the options were granted .",
+      "the options are generally exercisable beginning from six to 48 months after being granted and have a maximum term of 10 years .",
+      "upon exercise of a stock option , shares of company stock are issued from treasury stock .",
+      "the ppg stock plan includes a restored option provision for options originally granted prior to january 1 , 2003 that allows an optionee to exercise options and satisfy the option cost by certifying ownership of mature shares of ppg common stock with a market value equal to the option cost .",
+      "the fair value of stock options issued to employees is measured on the date of grant and is recognized as expense over the requisite service period .",
+      "ppg estimates the fair value of stock options using the black-scholes option pricing model .",
+      "the risk- free interest rate is determined by using the u.s .",
+      "treasury yield table of contents ."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "2012",
+        "2011",
+        "2010"
+      ],
+      [
+        "royalty income",
+        "$ 51",
+        "$ 55",
+        "$ 58"
+      ],
+      [
+        "share of net earnings of equity affiliates ( see note 5 )",
+        "11",
+        "37",
+        "45"
+      ],
+      [
+        "gain on sale of assets",
+        "4",
+        "12",
+        "8"
+      ],
+      [
+        "other",
+        "83",
+        "73",
+        "69"
+      ],
+      [
+        "total",
+        "$ 149",
+        "$ 177",
+        "$ 180"
+      ]
+    ],
+    "questions": [
+      "what was the change in millions of total stock-based compensation cost from 2011 to 2012?"
+    ]
+  }
+}

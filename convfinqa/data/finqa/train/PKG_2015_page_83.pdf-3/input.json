@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "PKG/2015/page_83.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "interest expense related to capital lease obligations was $ 1.6 million during the year ended december 31 , 2015 , and $ 1.6 million during both the years ended december 31 , 2014 and 2013 .",
+      "purchase commitments in the table below , we set forth our enforceable and legally binding purchase obligations as of december 31 , 2015 .",
+      "some of the amounts are based on management 2019s estimates and assumptions about these obligations , including their duration , the possibility of renewal , anticipated actions by third parties , and other factors .",
+      "because these estimates and assumptions are necessarily subjective , our actual payments may vary from those reflected in the table .",
+      "purchase orders made in the ordinary course of business are excluded below .",
+      "any amounts for which we are liable under purchase orders are reflected on the consolidated balance sheets as accounts payable and accrued liabilities .",
+      "these obligations relate to various purchase agreements for items such as minimum amounts of fiber and energy purchases over periods ranging from one year to 20 years .",
+      "total purchase commitments were as follows ( dollars in millions ) : ."
+    ],
+    "post_text": [
+      "the company purchased a total of $ 299.6 million , $ 265.9 million , and $ 61.7 million during the years ended december 31 , 2015 , 2014 , and 2013 , respectively , under these purchase agreements .",
+      "the increase in purchases the increase in purchases under these agreements in 2014 , compared with 2013 , relates to the acquisition of boise in fourth quarter 2013 .",
+      "environmental liabilities the potential costs for various environmental matters are uncertain due to such factors as the unknown magnitude of possible cleanup costs , the complexity and evolving nature of governmental laws and regulations and their interpretations , and the timing , varying costs and effectiveness of alternative cleanup technologies .",
+      "from 2006 through 2015 , there were no significant environmental remediation costs at pca 2019s mills and corrugated plants .",
+      "at december 31 , 2015 , the company had $ 24.3 million of environmental-related reserves recorded on its consolidated balance sheet .",
+      "of the $ 24.3 million , approximately $ 15.8 million related to environmental-related asset retirement obligations discussed in note 12 , asset retirement obligations , and $ 8.5 million related to our estimate of other environmental contingencies .",
+      "the company recorded $ 7.9 million in 201caccrued liabilities 201d and $ 16.4 million in 201cother long-term liabilities 201d on the consolidated balance sheet .",
+      "liabilities recorded for environmental contingencies are estimates of the probable costs based upon available information and assumptions .",
+      "because of these uncertainties , pca 2019s estimates may change .",
+      "the company believes that it is not reasonably possible that future environmental expenditures for remediation costs and asset retirement obligations above the $ 24.3 million accrued as of december 31 , 2015 , will have a material impact on its financial condition , results of operations , or cash flows .",
+      "guarantees and indemnifications we provide guarantees , indemnifications , and other assurances to third parties in the normal course of our business .",
+      "these include tort indemnifications , environmental assurances , and representations and warranties in commercial agreements .",
+      "at december 31 , 2015 , we are not aware of any material liabilities arising from any guarantee , indemnification , or financial assurance we have provided .",
+      "if we determined such a liability was probable and subject to reasonable determination , we would accrue for it at that time. ."
+    ],
+    "table": [
+      [
+        "2016",
+        "$ 95.3"
+      ],
+      [
+        "2017",
+        "60.3"
+      ],
+      [
+        "2018",
+        "28.0"
+      ],
+      [
+        "2019",
+        "28.0"
+      ],
+      [
+        "2020",
+        "23.4"
+      ],
+      [
+        "thereafter",
+        "77.0"
+      ],
+      [
+        "total",
+        "$ 312.0"
+      ]
+    ],
+    "questions": [
+      "at december 31 , 2015 , what percent of the environmental-related reserves related to environmental-related asset retirement obligations ?"
+    ]
+  }
+}

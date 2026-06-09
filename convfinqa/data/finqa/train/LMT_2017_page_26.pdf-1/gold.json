@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 31 , 2017 what was the percent of the total owned square feet applicable to aeronautics 5.0",
+      "answer": 0.14793,
+      "answer_raw": "0.14793",
+      "program": "divide(5.0, 33.8)"
+    }
+  ]
+}

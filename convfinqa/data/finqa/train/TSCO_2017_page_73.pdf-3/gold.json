@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the goodwill and other intangible assets for the company had approximately in 2017 to 2016",
+      "answer": 0.98729,
+      "answer_raw": "0.98729",
+      "program": "divide(93.2, 94.4)"
+    }
+  ]
+}

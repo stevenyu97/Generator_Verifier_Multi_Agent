@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "Single_MRO/2008/page_146.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "marathon oil corporation notes to consolidated financial statements operating lease rental expense was : ( in millions ) 2008 2007 2006 minimum rental ( a ) $ 245 $ 209 $ 172 ."
+    ],
+    "post_text": [
+      "( a ) excludes $ 5 million , $ 8 million and $ 9 million paid by united states steel in 2008 , 2007 and 2006 on assumed leases .",
+      "27 .",
+      "contingencies and commitments we are the subject of , or party to , a number of pending or threatened legal actions , contingencies and commitments involving a variety of matters , including laws and regulations relating to the environment .",
+      "certain of these matters are discussed below .",
+      "the ultimate resolution of these contingencies could , individually or in the aggregate , be material to our consolidated financial statements .",
+      "however , management believes that we will remain a viable and competitive enterprise even though it is possible that these contingencies could be resolved unfavorably .",
+      "environmental matters 2013 we are subject to federal , state , local and foreign laws and regulations relating to the environment .",
+      "these laws generally provide for control of pollutants released into the environment and require responsible parties to undertake remediation of hazardous waste disposal sites .",
+      "penalties may be imposed for noncompliance .",
+      "at december 31 , 2008 and 2007 , accrued liabilities for remediation totaled $ 111 million and $ 108 million .",
+      "it is not presently possible to estimate the ultimate amount of all remediation costs that might be incurred or the penalties that may be imposed .",
+      "receivables for recoverable costs from certain states , under programs to assist companies in clean-up efforts related to underground storage tanks at retail marketing outlets , were $ 60 and $ 66 million at december 31 , 2008 and 2007 .",
+      "we are a defendant , along with other refining companies , in 20 cases arising in three states alleging damages for methyl tertiary-butyl ether ( 201cmtbe 201d ) contamination .",
+      "we have also received seven toxic substances control act notice letters involving potential claims in two states .",
+      "such notice letters are often followed by litigation .",
+      "like the cases that were settled in 2008 , the remaining mtbe cases are consolidated in a multidistrict litigation in the southern district of new york for pretrial proceedings .",
+      "nineteen of the remaining cases allege damages to water supply wells , similar to the damages claimed in the settled cases .",
+      "in the other remaining case , the state of new jersey is seeking natural resources damages allegedly resulting from contamination of groundwater by mtbe .",
+      "this is the only mtbe contamination case in which we are a defendant and natural resources damages are sought .",
+      "we are vigorously defending these cases .",
+      "we , along with a number of other defendants , have engaged in settlement discussions related to the majority of the cases in which we are a defendant .",
+      "we do not expect our share of liability , if any , for the remaining cases to significantly impact our consolidated results of operations , financial position or cash flows .",
+      "a lawsuit filed in the united states district court for the southern district of west virginia alleges that our catlettsburg , kentucky , refinery distributed contaminated gasoline to wholesalers and retailers for a period prior to august , 2003 , causing permanent damage to storage tanks , dispensers and related equipment , resulting in lost profits , business disruption and personal and real property damages .",
+      "following the incident , we conducted remediation operations at affected facilities , and we deny that any permanent damages resulted from the incident .",
+      "class action certification was granted in august 2007 .",
+      "we have entered into a tentative settlement agreement in this case .",
+      "notice of the proposed settlement has been sent to the class members .",
+      "approval by the court after a fairness hearing is required before the settlement can be finalized .",
+      "the fairness hearing is scheduled in the first quarter of 2009 .",
+      "the proposed settlement will not significantly impact our consolidated results of operations , financial position or cash flows .",
+      "guarantees 2013 we have provided certain guarantees , direct and indirect , of the indebtedness of other companies .",
+      "under the terms of most of these guarantee arrangements , we would be required to perform should the guaranteed party fail to fulfill its obligations under the specified arrangements .",
+      "in addition to these financial guarantees , we also have various performance guarantees related to specific agreements. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2008",
+        "2007",
+        "2006"
+      ],
+      [
+        "minimum rental ( a )",
+        "$ 245",
+        "$ 209",
+        "$ 172"
+      ],
+      [
+        "contingent rental",
+        "22",
+        "33",
+        "28"
+      ],
+      [
+        "sublease rentals",
+        "2013",
+        "2013",
+        "-7 ( 7 )"
+      ],
+      [
+        "net rental expense",
+        "$ 267",
+        "$ 242",
+        "$ 193"
+      ]
+    ],
+    "questions": [
+      "what was the minimal rental value in 2008?",
+      "what was the minimal rental value in 2006?",
+      "what was the change in value?",
+      "what is the percent change?"
+    ]
+  }
+}

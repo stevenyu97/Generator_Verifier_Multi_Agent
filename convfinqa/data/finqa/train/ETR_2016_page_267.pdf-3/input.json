@@ -1,0 +1,99 @@
+{
+  "input": {
+    "id": "ETR/2016/page_267.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "part i item 1 entergy corporation , utility operating companies , and system energy including the continued effectiveness of the clean energy standards/zero emissions credit program ( ces/zec ) , the establishment of certain long-term agreements on acceptable terms with the energy research and development authority of the state of new york in connection with the ces/zec program , and nypsc approval of the transaction on acceptable terms , entergy refueled the fitzpatrick plant in january and february 2017 .",
+      "in october 2015 , entergy determined that it would close the pilgrim plant .",
+      "the decision came after management 2019s extensive analysis of the economics and operating life of the plant following the nrc 2019s decision in september 2015 to place the plant in its 201cmultiple/repetitive degraded cornerstone column 201d ( column 4 ) of its reactor oversight process action matrix .",
+      "the pilgrim plant is expected to cease operations on may 31 , 2019 , after refueling in the spring of 2017 and operating through the end of that fuel cycle .",
+      "in december 2015 , entergy wholesale commodities closed on the sale of its 583 mw rhode island state energy center ( risec ) , in johnston , rhode island .",
+      "the base sales price , excluding adjustments , was approximately $ 490 million .",
+      "entergy wholesale commodities purchased risec for $ 346 million in december 2011 .",
+      "in december 2016 , entergy announced that it reached an agreement with consumers energy to terminate the ppa for the palisades plant on may 31 , 2018 .",
+      "pursuant to the ppa termination agreement , consumers energy will pay entergy $ 172 million for the early termination of the ppa .",
+      "the ppa termination agreement is subject to regulatory approvals .",
+      "separately , and assuming regulatory approvals are obtained for the ppa termination agreement , entergy intends to shut down the palisades nuclear power plant permanently on october 1 , 2018 , after refueling in the spring of 2017 and operating through the end of that fuel cycle .",
+      "entergy expects to enter into a new ppa with consumers energy under which the plant would continue to operate through october 1 , 2018 .",
+      "in january 2017 , entergy announced that it reached a settlement with new york state to shut down indian point 2 by april 30 , 2020 and indian point 3 by april 30 , 2021 , and resolve all new york state-initiated legal challenges to indian point 2019s operating license renewal .",
+      "as part of the settlement , new york state has agreed to issue indian point 2019s water quality certification and coastal zone management act consistency certification and to withdraw its objection to license renewal before the nrc .",
+      "new york state also has agreed to issue a water discharge permit , which is required regardless of whether the plant is seeking a renewed nrc license .",
+      "the shutdowns are conditioned , among other things , upon such actions being taken by new york state .",
+      "even without opposition , the nrc license renewal process is expected to continue at least into 2018 .",
+      "with the settlement concerning indian point , entergy now has announced plans for the disposition of all of the entergy wholesale commodities nuclear power plants , including the sales of vermont yankee and fitzpatrick , and the earlier than previously expected shutdowns of pilgrim , palisades , indian point 2 , and indian point 3 .",
+      "see 201centergy wholesale commodities exit from the merchant power business 201d for further discussion .",
+      "property nuclear generating stations entergy wholesale commodities includes the ownership of the following nuclear power plants : power plant market service year acquired location capacity - reactor type license expiration ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "power plant",
+        "market",
+        "in service year",
+        "acquired",
+        "location",
+        "capacity - reactor type",
+        "license expiration date"
+      ],
+      [
+        "pilgrim ( a )",
+        "is0-ne",
+        "1972",
+        "july 1999",
+        "plymouth ma",
+        "688 mw - boiling water",
+        "2032 ( a )"
+      ],
+      [
+        "fitzpatrick ( b )",
+        "nyiso",
+        "1975",
+        "nov . 2000",
+        "oswego ny",
+        "838 mw - boiling water",
+        "2034 ( b )"
+      ],
+      [
+        "indian point 3 ( c )",
+        "nyiso",
+        "1976",
+        "nov . 2000",
+        "buchanan ny",
+        "1041 mw - pressurized water",
+        "2015 ( c )"
+      ],
+      [
+        "indian point 2 ( c )",
+        "nyiso",
+        "1974",
+        "sept . 2001",
+        "buchanan ny",
+        "1028 mw - pressurized water",
+        "2013 ( c )"
+      ],
+      [
+        "vermont yankee ( d )",
+        "is0-ne",
+        "1972",
+        "july 2002",
+        "vernon vt",
+        "605 mw - boiling water",
+        "2032 ( d )"
+      ],
+      [
+        "palisades ( e )",
+        "miso",
+        "1971",
+        "apr . 2007",
+        "covert mi",
+        "811 mw - pressurized water",
+        "2031 ( e )"
+      ]
+    ],
+    "questions": [
+      "for how many years will entergy corporation run the indian point 2 power plant?"
+    ]
+  }
+}

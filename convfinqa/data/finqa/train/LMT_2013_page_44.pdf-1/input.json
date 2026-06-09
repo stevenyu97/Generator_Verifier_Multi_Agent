@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "LMT/2013/page_44.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "aeronautics our aeronautics business segment is engaged in the research , design , development , manufacture , integration , sustainment , support , and upgrade of advanced military aircraft , including combat and air mobility aircraft , unmanned air vehicles , and related technologies .",
+      "aeronautics 2019 major programs include the f-35 lightning ii joint strike fighter , c-130 hercules , f-16 fighting falcon , f-22 raptor , and the c-5m super galaxy .",
+      "aeronautics 2019 operating results included the following ( in millions ) : ."
+    ],
+    "post_text": [
+      "2013 compared to 2012 aeronautics 2019 net sales for 2013 decreased $ 830 million , or 6% ( 6 % ) , compared to 2012 .",
+      "the decrease was primarily attributable to lower net sales of approximately $ 530 million for the f-16 program due to fewer aircraft deliveries ( 13 aircraft delivered in 2013 compared to 37 delivered in 2012 ) partially offset by aircraft configuration mix ; about $ 385 million for the c-130 program due to fewer aircraft deliveries ( 25 aircraft delivered in 2013 compared to 34 in 2012 ) partially offset by increased sustainment activities ; approximately $ 255 million for the f-22 program , which includes about $ 205 million due to decreased production volume as final aircraft deliveries were completed during the second quarter of 2012 and $ 50 million from the favorable resolution of a contractual matter during the second quarter of 2012 ; and about $ 270 million for various other programs ( primarily sustainment activities ) due to decreased volume .",
+      "the decreases were partially offset by higher net sales of about $ 295 million for f-35 production contracts due to increased production volume and risk retirements ; approximately $ 245 million for the c-5 program due to increased aircraft deliveries ( six aircraft delivered in 2013 compared to four in 2012 ) and other modernization activities ; and about $ 70 million for the f-35 development contract due to increased volume .",
+      "aeronautics 2019 operating profit for 2013 decreased $ 87 million , or 5% ( 5 % ) , compared to 2012 .",
+      "the decrease was primarily attributable to lower operating profit of about $ 85 million for the f-22 program , which includes approximately $ 50 million from the favorable resolution of a contractual matter in the second quarter of 2012 and about $ 35 million due to decreased risk retirements and production volume ; approximately $ 70 million for the c-130 program due to lower risk retirements and fewer deliveries partially offset by increased sustainment activities ; about $ 65 million for the c-5 program due to the inception-to-date effect of reducing the profit booking rate in the third quarter of 2013 and lower risk retirements ; approximately $ 35 million for the f-16 program due to fewer aircraft deliveries partially offset by increased sustainment activity and aircraft configuration mix .",
+      "the decreases were partially offset by higher operating profit of approximately $ 180 million for f-35 production contracts due to increased risk retirements and volume .",
+      "operating profit was comparable for the f-35 development contract and included adjustments of approximately $ 85 million to reflect the inception-to-date impacts of the downward revisions to the profit booking rate in both 2013 and 2012 .",
+      "adjustments not related to volume , including net profit booking rate adjustments and other matters , were approximately $ 75 million lower for 2013 compared to 2012 compared to 2011 aeronautics 2019 net sales for 2012 increased $ 591 million , or 4% ( 4 % ) , compared to 2011 .",
+      "the increase was attributable to higher net sales of approximately $ 745 million from f-35 production contracts principally due to increased production volume ; about $ 285 million from f-16 programs primarily due to higher aircraft deliveries ( 37 f-16 aircraft delivered in 2012 compared to 22 in 2011 ) partially offset by lower volume on sustainment activities due to the completion of modification programs for certain international customers ; and approximately $ 140 million from c-5 programs due to higher aircraft deliveries ( four c-5m aircraft delivered in 2012 compared to two in 2011 ) .",
+      "partially offsetting the increases were lower net sales of approximately $ 365 million from decreased production volume and lower risk retirements on the f-22 program as final aircraft deliveries were completed in the second quarter of 2012 ; approximately $ 110 million from the f-35 development contract primarily due to the inception-to-date effect of reducing the profit booking rate in the second quarter of 2012 and to a lesser extent lower volume ; and about $ 95 million from a decrease in volume on other sustainment activities partially offset by various other aeronautics programs due to higher volume .",
+      "net sales for c-130 programs were comparable to 2011 as a decline in sustainment activities largely was offset by increased aircraft deliveries. ."
+    ],
+    "table": [
+      [
+        "",
+        "2013",
+        "2012",
+        "2011"
+      ],
+      [
+        "net sales",
+        "$ 14123",
+        "$ 14953",
+        "$ 14362"
+      ],
+      [
+        "operating profit",
+        "1612",
+        "1699",
+        "1630"
+      ],
+      [
+        "operating margins",
+        "11.4% ( 11.4 % )",
+        "11.4% ( 11.4 % )",
+        "11.3% ( 11.3 % )"
+      ],
+      [
+        "backlog at year-end",
+        "28000",
+        "30100",
+        "30500"
+      ]
+    ],
+    "questions": [
+      "what was the average net sales in millions for aeronautics from 2001 to 2013?"
+    ]
+  }
+}

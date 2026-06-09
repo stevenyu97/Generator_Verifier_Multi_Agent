@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "VRTX/2006/page_112.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "vertex pharmaceuticals incorporated notes to consolidated financial statements ( continued ) i .",
+      "altus investment ( continued ) of the offering , held 450000 shares of redeemable preferred stock , which are not convertible into common stock and which are redeemable for $ 10.00 per share plus annual dividends of $ 0.50 per share , which have been accruing since the redeemable preferred stock was issued in 1999 , at vertex 2019s option on or after december 31 , 2010 , or by altus at any time .",
+      "the company was restricted from trading altus securities for a period of six months following the initial public offering .",
+      "when the altus securities trading restrictions expired , the company sold the 817749 shares of altus common stock for approximately $ 11.7 million , resulting in a realized gain of approximately $ 7.7 million in august 2006 .",
+      "additionally when the restrictions expired , the company began accounting for the altus warrants as derivative instruments under the financial accounting standards board statement no .",
+      "fas 133 , 201caccounting for derivative instruments and hedging activities 201d ( 201cfas 133 201d ) .",
+      "in accordance with fas 133 , in the third quarter of 2006 , the company recorded the altus warrants on its consolidated balance sheet at a fair market value of $ 19.1 million and recorded an unrealized gain on the fair market value of the altus warrants of $ 4.3 million .",
+      "in the fourth quarter of 2006 the company sold the altus warrants for approximately $ 18.3 million , resulting in a realized loss of $ 0.7 million .",
+      "as a result of the company 2019s sales of altus common stock and altus warrrants in 2006 , the company recorded a realized gain on a sale of investment of $ 11.2 million .",
+      "in accordance with the company 2019s policy , as outlined in note b , 201caccounting policies , 201d the company assessed its investment in altus , which it accounts for using the cost method , and determined that there had not been any adjustments to the fair values of that investment that would require the company to write down the investment basis of the asset , in 2005 and 2006 .",
+      "the company 2019s cost basis carrying value in its outstanding equity and warrants of altus was $ 18.9 million at december 31 , 2005 .",
+      "j .",
+      "accrued expenses and other current liabilities accrued expenses and other current liabilities consist of the following at december 31 ( in thousands ) : k .",
+      "commitments the company leases its facilities and certain equipment under non-cancelable operating leases .",
+      "the company 2019s leases have terms through april 2018 .",
+      "the term of the kendall square lease began january 1 , 2003 and lease payments commenced in may 2003 .",
+      "the company had an obligation under the kendall square lease , staged through 2006 , to build-out the space into finished laboratory and office space .",
+      "this lease will expire in 2018 , and the company has the option to extend the term for two consecutive terms of ten years each , ultimately expiring in 2038 .",
+      "the company occupies and uses for its operations approximately 120000 square feet of the kendall square facility .",
+      "the company has sublease arrangements in place for the remaining rentable square footage of the kendall square facility , with initial terms that expires in april 2011 and august 2012 .",
+      "see note e , 201crestructuring 201d for further information. ."
+    ],
+    "post_text": [
+      "research and development contract costs $ 57761 $ 20098 payroll and benefits 25115 15832 professional fees 3848 4816 4635 1315 $ 91359 $ 42061 ."
+    ],
+    "table": [
+      [
+        "",
+        "2006",
+        "2005"
+      ],
+      [
+        "research and development contract costs",
+        "$ 57761",
+        "$ 20098"
+      ],
+      [
+        "payroll and benefits",
+        "25115",
+        "15832"
+      ],
+      [
+        "professional fees",
+        "3848",
+        "4816"
+      ],
+      [
+        "other",
+        "4635",
+        "1315"
+      ],
+      [
+        "total",
+        "$ 91359",
+        "$ 42061"
+      ]
+    ],
+    "questions": [
+      "what is the percent change in research and development contract costs between 2005 and 2006?"
+    ]
+  }
+}

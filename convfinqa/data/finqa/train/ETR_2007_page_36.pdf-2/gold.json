@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate of debt to capital ratio from 2006 to 2007?",
+      "answer": 0.10134,
+      "answer_raw": "0.10134",
+      "program": "subtract(57.6, 52.3), divide(#0, 52.3)"
+    }
+  ]
+}

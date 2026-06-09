@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "AAPL/2004/page_36.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "net sales of the retail segment grew to $ 1.185 billion during 2004 from $ 621 million and $ 283 million , in 2003 and 2002 , respectively .",
+      "the increases in net sales during both 2004 and 2003 reflect the impact of new store openings for each fiscal year , including the opening of 21 new stores in 2004 and 25 new stores in 2003 .",
+      "an increase in average revenue per store also contributed to the segment 2019s strong sales in fiscal 2004 .",
+      "with an average of 76 stores open during 2004 , the retail segment achieved annualized revenue per store of approximately $ 15.6 million , as compared to $ 11.5 million in 2003 with a 54 store average and $ 10.2 million in 2002 with a 28 store average .",
+      "as measured by the company 2019s operating segment reporting , the retail segment reported profit of $ 39 million during fiscal 2004 as compared to losses of $ 5 million and $ 22 million during 2003 and 2002 , respectively .",
+      "this improvement is primarily attributable to the segment 2019s year-over-year increase in average quarterly revenue per store , the impact of opening new stores , and the segment 2019s year-over-year increase in net sales , which resulted in higher leverage on occupancy , depreciation and other fixed costs .",
+      "expansion of the retail segment has required and will continue to require a substantial investment in fixed assets and related infrastructure , operating lease commitments , personnel , and other operating expenses .",
+      "capital expenditures associated with the retail segment were $ 104 million in fiscal 2004 , bringing the total capital expenditures since inception of the retail segment to approximately $ 394 million .",
+      "as of september 25 , 2004 , the retail segment had approximately 2100 employees and had outstanding operating lease commitments associated with retail store space and related facilities of approximately $ 436 million .",
+      "the company would incur substantial costs should it choose to terminate its retail segment or close individual stores .",
+      "such costs could adversely affect the company 2019s results of operations and financial condition .",
+      "gross margin gross margin for the three fiscal years ended september 25 , 2004 are as follows ( in millions , except gross margin percentages ) : ."
+    ],
+    "post_text": [
+      "gross margin declined in fiscal 2004 to 27.3% ( 27.3 % ) of net sales from 27.5% ( 27.5 % ) of net sales in 2003 .",
+      "the company 2019s gross margin during fiscal 2004 declined due to an increase in mix towards lower margin ipod and ibook sales , pricing actions on certain power macintosh g5 models that were transitioned during the beginning of 2004 , higher warranty costs on certain portable macintosh products , and higher freight and duty costs during fiscal 2004 .",
+      "these unfavorable factors were partially offset by an increase in direct sales and a 39% ( 39 % ) year-over-year increase in higher margin software sales .",
+      "the company anticipates that its gross margin and the gross margin of the overall personal computer and consumer electronics industries will remain under pressure throughout fiscal 2005 in light of price competition , especially for the ipod product line .",
+      "the company also expects to continue to incur air freight charges , which negatively impact gross margins on the imac and other products during the first quarter of 2005 and possibly beyond .",
+      "the foregoing statements regarding the company 2019s expected gross margin during 2005 , general demand for personal computers , anticipated air freight charges , and future economic conditions are forward- looking .",
+      "there can be no assurance that current gross margins will be maintained or targeted gross margin levels will be achieved .",
+      "in general , gross margins and margins on individual products , including ipods , will remain under significant downward pressure due to a variety of factors , including continued industry wide ."
+    ],
+    "table": [
+      [
+        "",
+        "2004",
+        "2003",
+        "2002"
+      ],
+      [
+        "net sales",
+        "$ 8279",
+        "$ 6207",
+        "$ 5742"
+      ],
+      [
+        "cost of sales",
+        "6020",
+        "4499",
+        "4139"
+      ],
+      [
+        "gross margin",
+        "$ 2259",
+        "$ 1708",
+        "$ 1603"
+      ],
+      [
+        "gross margin percentage",
+        "27.3% ( 27.3 % )",
+        "27.5% ( 27.5 % )",
+        "27.9% ( 27.9 % )"
+      ]
+    ],
+    "questions": [
+      "what was the greatest gross margin in millions for the three year period?"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input": {
+    "id": "RCL/2008/page_19.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "royal caribbean cruises ltd .",
+      "3 part i the following table details the growth in the global and north american cruise markets in terms of cruise passengers and estimated weighted- average berths over the past five years : weighted-average weighted-average north american supply of berths global cruise supply of berths cruise marketed in year passengers ( 1 ) marketed globally ( 1 ) passengers ( 2 ) north america ( 1 ) ."
+    ],
+    "post_text": [
+      "( 1 ) source : our estimates .",
+      "( 2 ) source : cruise line international association based on cruise passengers carried for at least two consecutive nights .",
+      "in an effort to penetrate untapped markets and diversify our customer base , we have redeployed some of the ships in our royal caribbean international and celebrity cruises brands from the north american market to europe , latin america and asia .",
+      "this redeployment has contributed to an increase in the growth of our global cruise brands outside of the north american market .",
+      "although the global and north american cruise markets have grown steadily over the past several years , the recent weakening of the united states and other economies has significantly deteriorated consumer confidence and discretionary spending .",
+      "this has caused a global drop in demand for cruises and a resulting drop in cruise prices .",
+      "the long-term impact of these conditions on the continued growth of the cruise mar- ket will depend on the depth and duration of this worldwide economic downturn .",
+      "in addition , the projected increase in capacity within the cruise industry from new cruise ships currently on order could produce addi- tional pricing pressures within the industry .",
+      "see item 1a .",
+      "risk factors .",
+      "we compete with a number of cruise lines ; however , our principal competitors are carnival corporation & plc , which owns , among others , aida cruises , carnival cruise lines , costa cruises , cunard line , holland america line , p&o cruises and princess cruises and has a joint venture with orizonia corporation under which they operate iberocruceros ; disney cruise line ; msc cruises ; norwegian cruise line and oceania cruises .",
+      "cruise lines compete with other vacation alter- natives such as land-based resort hotels and sightseeing destinations for consumers 2019 leisure time .",
+      "demand for such activities is influenced by political and general economic conditions .",
+      "companies within the vacation market are dependent on consumer discretionary spending .",
+      "although vacation spending is likely to be curtailed significantly in the midst of the current worldwide economic downturn , we believe that cruising is perceived by consumers as a good value when compared to other vacation alternatives .",
+      "our ships operate worldwide and have itineraries that call on destina- tions in alaska , asia , australia , the bahamas , bermuda , california , canada , the caribbean , europe , the galapagos islands , hawaii , mexico , new england , new zealand , the panama canal and south america .",
+      "operating strategies our principal operating strategies are to : manage the efficiency of our operating expenditures and preserve cash and liquidity during the current worldwide economic downturn , increase the awareness and market penetration of our brands , expand our fleet with the new state-of-the-art cruise ships currently on order , expand into new markets and itineraries , continue to expand and diversify our passenger mix through passen- ger sourcing outside north america , protect the health , safety and security of our passengers and employees and protect the environment in which our vessels and organization operate , utilize sophisticated revenue management capabilities to optimize revenue based on demand for our products , further improve our technological capabilities , and maintain strong relationships with travel agencies , the principal indus- try distribution channel , while offering direct access for consumers .",
+      "manage operating expenditures and preserve cash and liquidity during the current worldwide economic downturn we are focused on maximizing the efficiency of our operating expenditures and preserving cash and liquidity .",
+      "during 2008 , we announced the reduction in our workforce of approximately 400 shoreside positions and implemented a number of cost-saving initiatives in an effort to reduce our operating costs .",
+      "to preserve liquidity , we have discontinued our quarterly dividend commencing in the fourth quarter of 2008 , curtailed our non-shipbuild capital expenditures , and currently do not have plans to place further newbuild orders .",
+      "we believe these strategies will enhance our ability to fund our capital spending obligations and improve our balance sheet. ."
+    ],
+    "table": [
+      [
+        "year",
+        "global cruise passengers ( 1 )",
+        "weighted-average supply of berths marketed globally ( 1 )",
+        "north american cruise passengers ( 2 )",
+        "weighted- average supply ofberths marketed in north america ( 1 )"
+      ],
+      [
+        "2004",
+        "13757000",
+        "265000",
+        "9108000",
+        "207000"
+      ],
+      [
+        "2005",
+        "14818000",
+        "282000",
+        "9909000",
+        "216000"
+      ],
+      [
+        "2006",
+        "15309000",
+        "299000",
+        "10080000",
+        "227000"
+      ],
+      [
+        "2007",
+        "16586000",
+        "323000",
+        "10330000",
+        "242000"
+      ],
+      [
+        "2008",
+        "17184000",
+        "345000",
+        "10815000",
+        "254000"
+      ]
+    ],
+    "questions": [
+      "in 2005 what was the percent of the weighted-average supply of berths marketed globally in marketed in north america"
+    ]
+  }
+}

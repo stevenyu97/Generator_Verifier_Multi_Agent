@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the total consolidated assets in 2006?",
+      "answer": 108288.88889,
+      "answer_raw": "108288.88889",
+      "program": "divide(9746, 9%)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total miles of track were switching and classification yard lines in 2012?",
+      "answer": 0.17824,
+      "answer_raw": "0.17824",
+      "program": "divide(9046, 50753)"
+    }
+  ]
+}

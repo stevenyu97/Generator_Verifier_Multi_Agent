@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the settlement was due to license agreements?",
+      "answer": 0.22243,
+      "answer_raw": "0.22243",
+      "program": "divide(238.0, 1070.0)"
+    }
+  ]
+}

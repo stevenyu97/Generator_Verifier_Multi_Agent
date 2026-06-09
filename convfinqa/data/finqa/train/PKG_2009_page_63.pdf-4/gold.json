@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2009 , what percentage of the $ 150.0 million authorization remained available for repurchase of the company 2019s common stock?",
+      "answer": 0.43333,
+      "answer_raw": "0.43333",
+      "program": "divide(65.0, 150.0)"
+    }
+  ]
+}

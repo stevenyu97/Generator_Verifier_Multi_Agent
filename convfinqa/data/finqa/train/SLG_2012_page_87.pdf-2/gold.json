@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the company's share of the value of the 521 fifth avenue acquisition based on the transaction cost?",
+      "answer": 122604300.0,
+      "answer_raw": "122604300.0",
+      "program": "multiply(245.7, 49.9%), multiply(#0, const_1000000)"
+    }
+  ]
+}

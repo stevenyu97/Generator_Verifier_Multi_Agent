@@ -1,0 +1,73 @@
+{
+  "input": {
+    "id": "ETR/2007/page_36.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "e nt e r g y c o r p o r a t i o n a n d s u b s i d i a r i e s 2 0 0 7 n an increase of $ 16 million in fossil operating costs due to the purchase of the attala plant in january 2006 and the perryville plant coming online in july 2005 ; n an increase of $ 12 million related to storm reserves .",
+      "this increase does not include costs associated with hurricanes katrina and rita ; and n an increase of $ 12 million due to a return to normal expense patterns in 2006 versus the deferral or capitalization of storm costs in 2005 .",
+      "other operation and maintenance expenses increased for non- utility nuclear from $ 588 million in 2005 to $ 637 million in 2006 primarily due to the timing of refueling outages , increased benefit and insurance costs , and increased nrc fees .",
+      "taxes other than income taxes taxes other than income taxes increased for the utility from $ 322 million in 2005 to $ 361 million in 2006 primarily due to an increase in city franchise taxes in arkansas due to a change in 2006 in the accounting for city franchise tax revenues as directed by the apsc .",
+      "the change results in an increase in taxes other than income taxes with a corresponding increase in rider revenue , resulting in no effect on net income .",
+      "also contributing to the increase was higher franchise tax expense at entergy gulf states , inc .",
+      "as a result of higher gross revenues in 2006 and a customer refund in 2005 .",
+      "other income other income increased for the utility from $ 111 million in 2005 to $ 156 million in 2006 primarily due to carrying charges recorded on storm restoration costs .",
+      "other income increased for non-utility nuclear primarily due to miscellaneous income of $ 27 million ( $ 16.6 million net-of-tax ) resulting from a reduction in the decommissioning liability for a plant as a result of a revised decommissioning cost study and changes in assumptions regarding the timing of when decommissioning of a plant will begin .",
+      "other income increased for parent & other primarily due to a gain related to its entergy-koch investment of approximately $ 55 million ( net-of-tax ) in the fourth quarter of 2006 .",
+      "in 2004 , entergy-koch sold its energy trading and pipeline businesses to third parties .",
+      "at that time , entergy received $ 862 million of the sales proceeds in the form of a cash distribution by entergy-koch .",
+      "due to the november 2006 expiration of contingencies on the sale of entergy-koch 2019s trading business , and the corresponding release to entergy-koch of sales proceeds held in escrow , entergy received additional cash distributions of approximately $ 163 million during the fourth quarter of 2006 and recorded a gain of approximately $ 55 million ( net-of-tax ) .",
+      "entergy expects future cash distributions upon liquidation of the partnership will be less than $ 35 million .",
+      "interest charges interest charges increased for the utility and parent & other primarily due to additional borrowing to fund the significant storm restoration costs associated with hurricanes katrina and rita .",
+      "discontinued operations in april 2006 , entergy sold the retail electric portion of the competitive retail services business operating in the electric reliability council of texas ( ercot ) region of texas , and now reports this portion of the business as a discontinued operation .",
+      "earnings for 2005 were negatively affected by $ 44.8 million ( net-of-tax ) of discontinued operations due to the planned sale .",
+      "this amount includes a net charge of $ 25.8 million ( net-of-tax ) related to the impairment reserve for the remaining net book value of the competitive retail services business 2019 information technology systems .",
+      "results for 2006 include an $ 11.1 million gain ( net-of-tax ) on the sale of the retail electric portion of the competitive retail services business operating in the ercot region of texas .",
+      "income taxes the effective income tax rates for 2006 and 2005 were 27.6% ( 27.6 % ) and 36.6% ( 36.6 % ) , respectively .",
+      "the lower effective income tax rate in 2006 is primarily due to tax benefits , net of reserves , resulting from the tax capital loss recognized in connection with the liquidation of entergy power international holdings , entergy 2019s holding company for entergy-koch .",
+      "also contributing to the lower rate for 2006 is an irs audit settlement that allowed entergy to release from its tax reserves all settled issues relating to 1996-1998 audit cycle .",
+      "see note 3 to the financial statements for a reconciliation of the federal statutory rate of 35.0% ( 35.0 % ) to the effective income tax rates , and for additional discussion regarding income taxes .",
+      "liquidity and capital resources this section discusses entergy 2019s capital structure , capital spending plans and other uses of capital , sources of capital , and the cash flow activity presented in the cash flow statement .",
+      "capital structure entergy 2019s capitalization is balanced between equity and debt , as shown in the following table .",
+      "the increase in the debt to capital percentage from 2006 to 2007 is primarily the result of additional borrowings under entergy corporation 2019s revolving credit facility , along with a decrease in shareholders 2019 equity primarily due to repurchases of common stock .",
+      "this increase in the debt to capital percentage is in line with entergy 2019s financial and risk management aspirations .",
+      "the decrease in the debt to capital percentage from 2005 to 2006 is the result of an increase in shareholders 2019 equity , primarily due to an increase in retained earnings , partially offset by repurchases of common stock. ."
+    ],
+    "post_text": [
+      "net debt consists of debt less cash and cash equivalents .",
+      "debt consists of notes payable , capital lease obligations , preferred stock with sinking fund , and long-term debt , including the currently maturing portion .",
+      "capital consists of debt , shareholders 2019 equity , and preferred stock without sinking fund .",
+      "net capital consists of capital less cash and cash equivalents .",
+      "entergy uses the net debt to net capital ratio in analyzing its financial condition and believes it provides useful information to its investors and creditors in evaluating entergy 2019s financial condition .",
+      "m an ag e ment 2019s f i n anc ial d i scuss ion an d an alys is co n t i n u e d ."
+    ],
+    "table": [
+      [
+        "",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "net debt to net capital at the end of the year",
+        "54.6% ( 54.6 % )",
+        "49.4% ( 49.4 % )",
+        "51.5% ( 51.5 % )"
+      ],
+      [
+        "effect of subtracting cash from debt",
+        "3.0% ( 3.0 % )",
+        "2.9% ( 2.9 % )",
+        "1.6% ( 1.6 % )"
+      ],
+      [
+        "debt to capital at the end of the year",
+        "57.6% ( 57.6 % )",
+        "52.3% ( 52.3 % )",
+        "53.1% ( 53.1 % )"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate of debt to capital ratio from 2006 to 2007?"
+    ]
+  }
+}

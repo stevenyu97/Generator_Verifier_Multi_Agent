@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the equipment rents payable in 2008?",
+      "answer": 93.0,
+      "answer_raw": "93.0",
+      "program": "93"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2007?",
+      "answer": 103.0,
+      "answer_raw": "103.0",
+      "program": "103"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between the two years?",
+      "answer": -10.0,
+      "answer_raw": "-10.0",
+      "program": "subtract(93, 103)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the value for 2007 again?",
+      "answer": 103.0,
+      "answer_raw": "103.0",
+      "program": "103"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage change during this time?",
+      "answer": -0.09709,
+      "answer_raw": "-0.09709",
+      "program": "subtract(93, 103), divide(#0, 103)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the purchasing price is dedicated to net tangible assets?",
+      "answer": 0.79233,
+      "answer_raw": "0.79233",
+      "program": "divide(24800, 31300)"
+    }
+  ]
+}

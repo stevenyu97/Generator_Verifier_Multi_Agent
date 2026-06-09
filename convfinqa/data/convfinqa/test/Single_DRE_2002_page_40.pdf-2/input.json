@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "Single_DRE/2002/page_40.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "market price and dividends d u k e r e a l t y c o r p o r a t i o n 3 8 2 0 0 2 a n n u a l r e p o r t the company 2019s common shares are listed for trading on the new york stock exchange , symbol dre .",
+      "the following table sets forth the high and low sales prices of the common stock for the periods indicated and the dividend paid per share during each such period .",
+      "comparable cash dividends are expected in the future .",
+      "on january 29 , 2003 , the company declared a quarterly cash dividend of $ .455 per share , payable on february 28 , 2003 , to common shareholders of record on february 14 , 2003. ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "quarter ended",
+        "2002 high",
+        "2002 low",
+        "2002 dividend",
+        "2002 high",
+        "2002 low",
+        "dividend"
+      ],
+      [
+        "december 31",
+        "$ 25.84",
+        "$ 21.50",
+        "$ .455",
+        "$ 24.80",
+        "$ 22.00",
+        "$ .45"
+      ],
+      [
+        "september 30",
+        "28.88",
+        "21.40",
+        ".455",
+        "26.17",
+        "21.60",
+        ".45"
+      ],
+      [
+        "june 30",
+        "28.95",
+        "25.46",
+        ".450",
+        "24.99",
+        "22.00",
+        ".43"
+      ],
+      [
+        "march 31",
+        "26.50",
+        "22.92",
+        ".450",
+        "25.44",
+        "21.85",
+        ".43"
+      ]
+    ],
+    "questions": [
+      "what was the cash dividend per share in the last quarter of 2002?",
+      "and what was it in the first quarter?",
+      "what was, then, the change in that cash dividend throughout 2002?",
+      "and how much does this change represent in relation in relation to that cash dividend in the first quarter?",
+      "how much is that in percentage?"
+    ]
+  }
+}

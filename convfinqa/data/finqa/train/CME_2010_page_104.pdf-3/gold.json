@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 31 , 2010 , what was the ratio of the anticipated benefit payments from the plan in future for 2015 to 2016-2020",
+      "answer": 6.28,
+      "answer_raw": "6.28",
+      "program": "divide(62.8, const_10)"
+    }
+  ]
+}

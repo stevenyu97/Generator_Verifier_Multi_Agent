@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total long-term debt in 2019?",
+      "answer": 3227.4,
+      "answer_raw": "3227.4",
+      "program": "add(2907.3, 320.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the short-term debt in that same year?",
+      "answer": 58.2,
+      "answer_raw": "58.2",
+      "program": "58.2"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does the short-term debt represent in relation to the long-term one in 2019, in percentage?",
+      "answer": 0.01803,
+      "answer_raw": "0.01803",
+      "program": "add(2907.3, 320.1), divide(58.2, #0)"
+    }
+  ]
+}

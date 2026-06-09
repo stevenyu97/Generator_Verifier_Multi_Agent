@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total return on delphi automotive plc for the five year period ending december 31 2015?",
+      "answer": 3.1867,
+      "answer_raw": "3.1867",
+      "program": "subtract(418.67, const_100), divide(#0, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of securities remaining to securities issued?",
+      "answer": 2.43178,
+      "answer_raw": "2.43178",
+      "program": "divide(3578241, 1471449)"
+    }
+  ]
+}

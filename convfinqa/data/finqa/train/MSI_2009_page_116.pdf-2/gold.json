@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in weighted-average estimated fair value of employee stock options between 2007 and 2008?",
+      "answer": -0.41681,
+      "answer_raw": "-0.41681",
+      "program": "subtract(3.47, 5.95), divide(#0, 5.95)"
+    }
+  ]
+}

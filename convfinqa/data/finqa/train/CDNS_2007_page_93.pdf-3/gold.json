@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the gross amount of unrecognized tax benefit during 2007?",
+      "answer": -0.09002,
+      "answer_raw": "-0.09002",
+      "program": "subtract(306870, 337226), divide(#0, 337226)"
+    }
+  ]
+}

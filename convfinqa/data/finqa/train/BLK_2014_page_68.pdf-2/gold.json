@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the increase in general and administration expense is driven by charitable contributions?",
+      "answer": 0.68508,
+      "answer_raw": "0.68508",
+      "program": "divide(124, 181)"
+    }
+  ]
+}

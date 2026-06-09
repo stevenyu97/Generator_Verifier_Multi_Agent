@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase for diesel fuel prices from 2009 to 2010?",
+      "answer": 0.30857,
+      "answer_raw": "0.30857",
+      "program": "subtract(2.29, 1.75), divide(#0, 1.75)"
+    }
+  ]
+}

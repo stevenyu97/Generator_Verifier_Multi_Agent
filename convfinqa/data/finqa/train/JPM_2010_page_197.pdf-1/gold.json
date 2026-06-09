@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2010 , how much in billions would the credit risk balance be reduced if the table considered all other collateral?",
+      "answer": 34.5,
+      "answer_raw": "34.5",
+      "program": "add(16.5, 18.0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2011 what was the percent of space not leased space in alpharetta , georgia .",
+      "answer": 0.63462,
+      "answer_raw": "0.63462",
+      "program": "divide(165000, 260000)"
+    }
+  ]
+}

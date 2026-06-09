@@ -1,0 +1,53 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the balance of unrecognized tax benefits in 2007?",
+      "answer": 20409.0,
+      "answer_raw": "20409.0",
+      "program": "20409"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2006?",
+      "answer": 16453.0,
+      "answer_raw": "16453.0",
+      "program": "16453"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 3956.0,
+      "answer_raw": "3956.0",
+      "program": "subtract(20409, 16453)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the average stock price for repurchases shares in 2007?",
+      "answer": 34.27,
+      "answer_raw": "34.27",
+      "program": "34.27"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what about the average for 2006 and 2005?",
+      "answer": 37.59,
+      "answer_raw": "37.59",
+      "program": "37.59"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the net change?",
+      "answer": -3.32,
+      "answer_raw": "-3.32",
+      "program": "subtract(34.27, 37.59)"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "what percentage change does this represent?",
+      "answer": -0.08832,
+      "answer_raw": "-0.08832",
+      "program": "subtract(34.27, 37.59), divide(#0, 37.59)"
+    }
+  ]
+}

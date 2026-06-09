@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2011 what as the percent of the number of securities to be issued upon exercise of outstanding options authorized by the shareholders",
+      "answer": 0.92577,
+      "answer_raw": "0.92577",
+      "program": "divide(9683058, 10459418)"
+    }
+  ]
+}

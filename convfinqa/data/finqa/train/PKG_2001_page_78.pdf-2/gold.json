@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "is the projected benefit obligation greater than the plan assets at fair value at september 30 1998?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(-108716, 146579)"
+    }
+  ]
+}

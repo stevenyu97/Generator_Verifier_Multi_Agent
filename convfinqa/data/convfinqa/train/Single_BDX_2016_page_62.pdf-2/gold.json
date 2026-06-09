@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the number of outstanding shares in 2016?",
+      "answer": 212702.0,
+      "answer_raw": "212702.0",
+      "program": "212702"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what are the number of shares in 2015?",
+      "answer": 202537.0,
+      "answer_raw": "202537.0",
+      "program": "202537"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 415239.0,
+      "answer_raw": "415239.0",
+      "program": "add(212702, 202537)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total sum including shares from 2014?",
+      "answer": 608538.0,
+      "answer_raw": "608538.0",
+      "program": "add(212702, 202537), add(#0, 193299)"
+    }
+  ]
+}

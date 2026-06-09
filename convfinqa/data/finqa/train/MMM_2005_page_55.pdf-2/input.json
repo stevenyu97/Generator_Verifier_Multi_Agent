@@ -1,0 +1,107 @@
+{
+  "input": {
+    "id": "MMM/2005/page_55.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "growth focused .",
+      "for example , in december 2005 , 3m announced its intention to build an lcd optical film manufacturing facility in poland to support the fast-growing lcd-tv market in europe and to better serve its customers .",
+      "the company expects 2006 capital expenditures to total approximately $ 1.1 billion , compared with $ 943 million in 2005 .",
+      "in the third quarter of 2005 , 3m completed the acquisition of cuno .",
+      "3m acquired cuno for approximately $ 1.36 billion , including assumption of debt .",
+      "this $ 1.36 billion included $ 1.27 billion of cash paid ( net of cash acquired ) and the assumption of $ 80 million of debt , most of which has been repaid .",
+      "in 2005 , the company also entered into two additional business combinations for a total purchase price of $ 27 million .",
+      "refer to note 2 to the consolidated financial statements for more information on these 2005 business combinations , and for information concerning 2004 and 2003 business combinations .",
+      "purchases of investments in 2005 include the purchase from ti&m beteiligungsgesellschaft mbh of 19 percent of i&t innovation technology ( discussed previously under the transportation business segment ) .",
+      "the purchase price of approximately $ 55 million is reported as 201cinvestments 201d in the consolidated balance sheet and as 201cpurchases of investments 201d in the consolidated statement of cash flows .",
+      "other 201cpurchases of investments 201d and 201cproceeds from sale of investments 201d in 2005 are primarily attributable to auction rate securities , which are classified as available-for-sale .",
+      "prior to 2005 , purchases of and proceeds from the sale of auction rate securities were classified as cash and cash equivalents .",
+      "at december 31 , 2004 , the amount of such securities taken as a whole was immaterial to cash and cash equivalents , and accordingly were not reclassified for 2004 and prior .",
+      "proceeds from the sale of investments in 2003 include $ 26 million of cash received related to the sale of 3m 2019s 50% ( 50 % ) ownership in durel corporation to rogers corporation .",
+      "additional purchases of investments totaled $ 5 million in 2005 , $ 10 million in 2004 and $ 16 million in 2003 .",
+      "these purchases include additional survivor benefit insurance and equity investments .",
+      "the company is actively considering additional acquisitions , investments and strategic alliances .",
+      "cash flows from financing activities : years ended december 31 ."
+    ],
+    "post_text": [
+      "total debt at december 31 , 2005 , was $ 2.381 billion , down from $ 2.821 billion at year-end 2004 , with the decrease primarily attributable to the retirement of $ 400 million in medium-term notes .",
+      "there were no new long- term debt issuances in 2005 .",
+      "in 2005 , the cash flow decrease in net short-term debt of $ 258 million includes the portion of short-term debt with original maturities of 90 days or less .",
+      "the repayment of debt of $ 656 million primarily related to the retirement of $ 400 million in medium-term notes and commercial paper retirements .",
+      "proceeds from debt of $ 429 million primarily related to commercial paper issuances .",
+      "total debt was 19% ( 19 % ) of total capital ( total capital is defined as debt plus equity ) , compared with 21% ( 21 % ) at year-end 2004 .",
+      "debt securities , including the company 2019s shelf registration , its medium-term notes program , dealer remarketable securities and convertible note , are all discussed in more detail in note 8 to the consolidated financial statements .",
+      "3m has a shelf registration and medium-term notes program through which $ 1.5 billion of medium- term notes may be offered .",
+      "in 2004 , the company issued approximately $ 62 million in debt securities under its medium-term notes program .",
+      "no debt was issued under this program in 2005 .",
+      "the medium-term notes program and shelf registration have remaining capacity of approximately $ 1.438 billion .",
+      "the company 2019s $ 350 million of dealer remarketable securities ( classified as current portion of long-term debt ) were remarketed for one year in december 2005 .",
+      "in addition , the company has convertible notes with a book value of $ 539 million at december 31 , 2005 .",
+      "the next put option date for these convertible notes is november 2007 , thus at year-end 2005 this debt ."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "2005",
+        "2004",
+        "2003"
+      ],
+      [
+        "change in short-term debt 2014 net",
+        "$ -258 ( 258 )",
+        "$ 399",
+        "$ -215 ( 215 )"
+      ],
+      [
+        "repayment of debt ( maturities greater than 90 days )",
+        "-656 ( 656 )",
+        "-868 ( 868 )",
+        "-719 ( 719 )"
+      ],
+      [
+        "proceeds from debt ( maturities greater than 90 days )",
+        "429",
+        "358",
+        "494"
+      ],
+      [
+        "total change in debt",
+        "$ -485 ( 485 )",
+        "$ -111 ( 111 )",
+        "$ -440 ( 440 )"
+      ],
+      [
+        "purchases of treasury stock",
+        "-2377 ( 2377 )",
+        "-1791 ( 1791 )",
+        "-685 ( 685 )"
+      ],
+      [
+        "reissuances of treasury stock",
+        "545",
+        "508",
+        "555"
+      ],
+      [
+        "dividends paid to stockholders",
+        "-1286 ( 1286 )",
+        "-1125 ( 1125 )",
+        "-1034 ( 1034 )"
+      ],
+      [
+        "distributions to minority interests and other 2014 net",
+        "-76 ( 76 )",
+        "-15 ( 15 )",
+        "-23 ( 23 )"
+      ],
+      [
+        "net cash used in financing activities",
+        "$ -3679 ( 3679 )",
+        "$ -2534 ( 2534 )",
+        "$ -1627 ( 1627 )"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in the net cash used in financing activities from 2004 to 2005"
+    ]
+  }
+}

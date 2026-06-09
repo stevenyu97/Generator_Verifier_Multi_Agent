@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total net operating cash flow provided by money pool for entergy new orleans for 2004 and 2003?",
+      "answer": 2.1,
+      "answer_raw": "2.1",
+      "program": "add(0.4, 1.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about for the year 2002?",
+      "answer": 5.7,
+      "answer_raw": "5.7",
+      "program": "5.7"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total for these three years?",
+      "answer": 7.8,
+      "answer_raw": "7.8",
+      "program": "add(0.4, 1.7), add(#0, 5.7)"
+    }
+  ]
+}

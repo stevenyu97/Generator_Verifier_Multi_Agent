@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the 2010 estimated amortization expense for finite-lived intangible assets as a percentage of the unsecured revolving credit facility?",
+      "answer": 0.0025,
+      "answer_raw": "0.0025",
+      "program": "divide(2.5, const_1000)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was net revenue in 2010?",
+      "answer": 5051.0,
+      "answer_raw": "5051.0",
+      "program": "5051"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was net revenue in 2009?",
+      "answer": 4694.0,
+      "answer_raw": "4694.0",
+      "program": "4694"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the difference in net revenues?",
+      "answer": 357.0,
+      "answer_raw": "357.0",
+      "program": "subtract(5051, 4694)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the value of retail elastic price to the difference in net revenue?",
+      "answer": 0.38375,
+      "answer_raw": "0.38375",
+      "program": "subtract(5051, 4694), divide(137, #0)"
+    }
+  ]
+}

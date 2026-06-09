@@ -1,0 +1,85 @@
+{
+  "input": {
+    "id": "GS/2013/page_54.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis net revenues in equities were $ 8.21 billion for 2012 , essentially unchanged compared with 2011 .",
+      "net revenues in securities services were significantly higher compared with 2011 , reflecting a gain of $ 494 million on the sale of our hedge fund administration business .",
+      "in addition , equities client execution net revenues were higher than 2011 , primarily reflecting significantly higher results in cash products , principally due to increased levels of client activity .",
+      "these increases were offset by lower commissions and fees , reflecting declines in the united states , europe and asia .",
+      "our average daily volumes during 2012 were lower in each of these regions compared with 2011 , consistent with listed cash equity market volumes .",
+      "during 2012 , equities operated in an environment generally characterized by an increase in global equity prices and lower volatility levels .",
+      "the net loss attributable to the impact of changes in our own credit spreads on borrowings for which the fair value option was elected was $ 714 million ( $ 433 million and $ 281 million related to fixed income , currency and commodities client execution and equities client execution , respectively ) for 2012 , compared with a net gain of $ 596 million ( $ 399 million and $ 197 million related to fixed income , currency and commodities client execution and equities client execution , respectively ) for 2011 .",
+      "during 2012 , institutional client services operated in an environment generally characterized by continued broad market concerns and uncertainties , although positive developments helped to improve market conditions .",
+      "these developments included certain central bank actions to ease monetary policy and address funding risks for european financial institutions .",
+      "in addition , the u.s .",
+      "economy posted stable to improving economic data , including favorable developments in unemployment and housing .",
+      "these improvements resulted in tighter credit spreads , higher global equity prices and lower levels of volatility .",
+      "however , concerns about the outlook for the global economy and continued political uncertainty , particularly the political debate in the united states surrounding the fiscal cliff , generally resulted in client risk aversion and lower activity levels .",
+      "also , uncertainty over financial regulatory reform persisted .",
+      "operating expenses were $ 12.48 billion for 2012 , 3% ( 3 % ) lower than 2011 , primarily due to lower brokerage , clearing , exchange and distribution fees , and lower impairment charges , partially offset by higher net provisions for litigation and regulatory proceedings .",
+      "pre- tax earnings were $ 5.64 billion in 2012 , 27% ( 27 % ) higher than 2011 .",
+      "investing & lending investing & lending includes our investing activities and the origination of loans to provide financing to clients .",
+      "these investments , some of which are consolidated , and loans are typically longer-term in nature .",
+      "we make investments , directly and indirectly through funds that we manage , in debt securities and loans , public and private equity securities , and real estate entities .",
+      "the table below presents the operating results of our investing & lending segment. ."
+    ],
+    "post_text": [
+      "2013 versus 2012 .",
+      "net revenues in investing & lending were $ 7.02 billion for 2013 , 19% ( 19 % ) higher than 2012 , reflecting a significant increase in net gains from investments in equity securities , driven by company-specific events and stronger corporate performance , as well as significantly higher global equity prices .",
+      "in addition , net gains and net interest income from debt securities and loans were slightly higher , while other net revenues , related to our consolidated investments , were lower compared with 2012 .",
+      "if equity markets decline or credit spreads widen , net revenues in investing & lending would likely be negatively impacted .",
+      "operating expenses were $ 2.68 billion for 2013 , essentially unchanged compared with 2012 .",
+      "operating expenses during 2013 included lower impairment charges and lower operating expenses related to consolidated investments , partially offset by increased compensation and benefits expenses due to higher net revenues compared with 2012 .",
+      "pre-tax earnings were $ 4.33 billion in 2013 , 34% ( 34 % ) higher than 2012 .",
+      "52 goldman sachs 2013 annual report ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "year ended december 2013",
+        "year ended december 2012",
+        "year ended december 2011"
+      ],
+      [
+        "equity securities",
+        "$ 3930",
+        "$ 2800",
+        "$ 603"
+      ],
+      [
+        "debt securities and loans",
+        "1947",
+        "1850",
+        "96"
+      ],
+      [
+        "other",
+        "1141",
+        "1241",
+        "1443"
+      ],
+      [
+        "total net revenues",
+        "7018",
+        "5891",
+        "2142"
+      ],
+      [
+        "operating expenses",
+        "2684",
+        "2666",
+        "2673"
+      ],
+      [
+        "pre-tax earnings/ ( loss )",
+        "$ 4334",
+        "$ 3225",
+        "$ -531 ( 531 )"
+      ]
+    ],
+    "questions": [
+      "pre-tax earnings were $ 4.33 billion in 2013 , what were they in billions in 2012?"
+    ]
+  }
+}

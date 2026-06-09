@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total estimated amortization of loss in 2014 for aon , ( in millions ) ?",
+      "answer": 107.0,
+      "answer_raw": "107.0",
+      "program": "add(53, 44), add(#0, 10)"
+    }
+  ]
+}

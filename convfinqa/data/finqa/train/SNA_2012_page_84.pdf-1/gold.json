@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion for the trade and other accounts receivable is classified as part of the allowances for doubtful accounts?",
+      "answer": 0.03676,
+      "answer_raw": "0.03676",
+      "program": "divide(19.0, 516.9)"
+    }
+  ]
+}

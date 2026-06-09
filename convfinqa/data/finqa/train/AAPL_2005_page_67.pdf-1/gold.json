@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in asset retirement liability between september 2004 and 2005 , in millions?",
+      "answer": 3.5,
+      "answer_raw": "3.5",
+      "program": "subtract(11.7, 8.2)"
+    }
+  ]
+}

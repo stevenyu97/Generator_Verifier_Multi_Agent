@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total facilities is owned by the company?",
+      "answer": 0.96386,
+      "answer_raw": "0.96386",
+      "program": "add(41, 2), add(#0, 11), add(#1, 26), divide(#2, 83)"
+    }
+  ]
+}

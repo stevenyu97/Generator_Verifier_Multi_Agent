@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total obligations are due by fiscal year 2007?",
+      "answer": 0.59582,
+      "answer_raw": "0.59582",
+      "program": "divide(4443, 7457)"
+    }
+  ]
+}

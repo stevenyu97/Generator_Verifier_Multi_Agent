@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "DISH/2002/page_94.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "echostar communications corporation notes to consolidated financial statements - continued closing price of the class a common stock on the last business day of each calendar quarter in which such shares of class a common stock are deemed sold to an employee under the espp .",
+      "the espp shall terminate upon the first to occur of ( i ) october 1 , 2007 or ( ii ) the date on which the espp is terminated by the board of directors .",
+      "during 2000 , 2001 and 2002 employees purchased approximately 58000 ; 80000 and 108000 shares of class a common stock through the espp , respectively .",
+      "401 ( k ) employee savings plan echostar sponsors a 401 ( k ) employee savings plan ( the 201c401 ( k ) plan 201d ) for eligible employees .",
+      "voluntary employee contributions to the 401 ( k ) plan may be matched 50% ( 50 % ) by echostar , subject to a maximum annual contribution by echostar of $ 1000 per employee .",
+      "matching 401 ( k ) contributions totaled approximately $ 1.6 million , $ 2.1 million and $ 2.4 million during the years ended december 31 , 2000 , 2001 and 2002 , respectively .",
+      "echostar also may make an annual discretionary contribution to the plan with approval by echostar 2019s board of directors , subject to the maximum deductible limit provided by the internal revenue code of 1986 , as amended .",
+      "these contributions may be made in cash or in echostar stock .",
+      "forfeitures of unvested participant balances which are retained by the 401 ( k ) plan may be used to fund matching and discretionary contributions .",
+      "expense recognized relating to discretionary contributions was approximately $ 7 million , $ 225 thousand and $ 17 million during the years ended december 31 , 2000 , 2001 and 2002 , respectively .",
+      "9 .",
+      "commitments and contingencies leases future minimum lease payments under noncancelable operating leases as of december 31 , 2002 , are as follows ( in thousands ) : year ending december 31 ."
+    ],
+    "post_text": [
+      "total rent expense for operating leases approximated $ 9 million , $ 14 million and $ 16 million in 2000 , 2001 and 2002 , respectively .",
+      "purchase commitments as of december 31 , 2002 , echostar 2019s purchase commitments totaled approximately $ 359 million .",
+      "the majority of these commitments relate to echostar receiver systems and related components .",
+      "all of the purchases related to these commitments are expected to be made during 2003 .",
+      "echostar expects to finance these purchases from existing unrestricted cash balances and future cash flows generated from operations .",
+      "patents and intellectual property many entities , including some of echostar 2019s competitors , now have and may in the future obtain patents and other intellectual property rights that cover or affect products or services directly or indirectly related to those that echostar offers .",
+      "echostar may not be aware of all patents and other intellectual property rights that its products may potentially infringe .",
+      "damages in patent infringement cases can include a tripling of actual damages in certain cases .",
+      "further , echostar cannot estimate the extent to which it may be required in the future to obtain licenses with respect to ."
+    ],
+    "table": [
+      [
+        "2003",
+        "$ 17274"
+      ],
+      [
+        "2004",
+        "14424"
+      ],
+      [
+        "2005",
+        "11285"
+      ],
+      [
+        "2006",
+        "7698"
+      ],
+      [
+        "2007",
+        "3668"
+      ],
+      [
+        "thereafter",
+        "1650"
+      ],
+      [
+        "total minimum lease payments",
+        "55999"
+      ]
+    ],
+    "questions": [
+      "are the commitments to acquire echostar receiver systems and related components greater than the commitments for future lease payments?"
+    ]
+  }
+}

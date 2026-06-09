@@ -1,0 +1,94 @@
+{
+  "input": {
+    "id": "UA/2007/page_42.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "year ended december 31 , 2006 compared to year ended december 31 , 2005 net revenues increased $ 149.6 million , or 53.2% ( 53.2 % ) , to $ 430.7 million in 2006 from $ 281.1 million in 2005 .",
+      "this increase was the result of increases in both our net sales and license revenues as noted in the product category table below. ."
+    ],
+    "post_text": [
+      "net sales increased $ 143.7 million , or 53.0% ( 53.0 % ) , to $ 415.0 million for the year ended december 31 , 2006 from $ 271.3 million during the same period in 2005 as noted in the table above .",
+      "the increase in net sales primarily reflects : 2022 $ 26.9 million of footwear product sales , primarily football cleats introduced in the second quarter of 2006 , and baseball cleats introduced in the fourth quarter of 2006 ; 2022 continued unit volume growth of our existing products , such as coldgear ae compression products , primarily sold to existing retail customers due to additional retail stores and expanded floor space ; 2022 growth in the average selling price of apparel products within all categories ; 2022 increased women 2019s and youth market penetration by leveraging current customer relationships ; and 2022 product introductions subsequent to december 31 , 2005 within all product categories , most significantly in our compression and training products .",
+      "license revenues increased $ 5.9 million , or 60.8% ( 60.8 % ) , to $ 15.7 million for the year ended december 31 , 2006 from $ 9.8 million during the same period in 2005 .",
+      "this increase in license revenues was a result of increased sales by our licensees due to increased distribution , continued unit volume growth , new product offerings and new licensing agreements , which included distribution of products to college bookstores and golf pro shops .",
+      "gross profit increased $ 79.7 million to $ 215.6 million in 2006 from $ 135.9 million in 2005 .",
+      "gross profit as a percentage of net revenues , or gross margin , increased approximately 180 basis points to 50.1% ( 50.1 % ) in 2006 from 48.3% ( 48.3 % ) in 2005 .",
+      "this increase in gross margin was primarily driven by the following : 2022 lower product costs as a result of variations in product mix and greater supplier discounts for increased volume and lower cost sourcing arrangements , accounting for an approximate 170 basis point increase ; 2022 decreased close-out sales in the 2006 period compared to the 2005 period , accounting for an approximate 70 basis point increase ; 2022 lower customer incentives as a percentage of net revenues , primarily driven by changes to certain customer agreements which decreased discounts while increasing certain customer marketing expenditures recorded in selling , general and administrative expenses , accounting for an approximate 70 basis point increase; ."
+    ],
+    "table": [
+      [
+        "( in thousands )",
+        "year ended december 31 , 2006",
+        "year ended december 31 , 2005",
+        "year ended december 31 , $ change",
+        "year ended december 31 , % (  % ) change"
+      ],
+      [
+        "men 2019s",
+        "$ 255681",
+        "$ 189596",
+        "$ 66085",
+        "34.9% ( 34.9 % )"
+      ],
+      [
+        "women 2019s",
+        "85695",
+        "53500",
+        "32195",
+        "60.2% ( 60.2 % )"
+      ],
+      [
+        "youth",
+        "31845",
+        "18784",
+        "13061",
+        "69.5% ( 69.5 % )"
+      ],
+      [
+        "apparel",
+        "373221",
+        "261880",
+        "111341",
+        "42.5% ( 42.5 % )"
+      ],
+      [
+        "footwear",
+        "26874",
+        "2014",
+        "26874",
+        "2014"
+      ],
+      [
+        "accessories",
+        "14897",
+        "9409",
+        "5488",
+        "58.3% ( 58.3 % )"
+      ],
+      [
+        "total net sales",
+        "414992",
+        "271289",
+        "143703",
+        "53.0% ( 53.0 % )"
+      ],
+      [
+        "license revenues",
+        "15697",
+        "9764",
+        "5933",
+        "60.8% ( 60.8 % )"
+      ],
+      [
+        "total net revenues",
+        "$ 430689",
+        "$ 281053",
+        "$ 149636",
+        "53.2% ( 53.2 % )"
+      ]
+    ],
+    "questions": [
+      "in 2006 what was the percent of the total net revenues by product category from men"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2011 what was the outstanding shares of the equity compensation plans approved by security holders to the shares not approved",
+      "answer": 12.47238,
+      "answer_raw": "12.47238",
+      "program": "divide(9683058, 776360)"
+    }
+  ]
+}

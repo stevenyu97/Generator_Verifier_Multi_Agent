@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "Single_AMT/2004/page_46.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "proceeds from the sale of equity securities .",
+      "from time to time , we raise funds through public offerings of our equity securities .",
+      "in addition , we receive proceeds from sales of our equity securities pursuant to our stock option and stock purchase plans .",
+      "for the year ended december 31 , 2004 , we received approximately $ 40.6 million in proceeds from sales of shares of our class a common stock and the common stock of atc mexico pursuant to our stock option and stock purchase plans .",
+      "financing activities during the year ended december 31 , 2004 , we took several actions to increase our financial flexibility and reduce our interest costs .",
+      "new credit facility .",
+      "in may 2004 , we refinanced our previous credit facility with a new $ 1.1 billion senior secured credit facility .",
+      "at closing , we received $ 685.5 million of net proceeds from the borrowings under the new facility , after deducting related expenses and fees , approximately $ 670.0 million of which we used to repay principal and interest under the previous credit facility .",
+      "we used the remaining net proceeds of $ 15.5 million for general corporate purposes , including the repurchase of other outstanding debt securities .",
+      "the new credit facility consists of the following : 2022 $ 400.0 million in undrawn revolving loan commitments , against which approximately $ 19.3 million of undrawn letters of credit were outstanding at december 31 , 2004 , maturing on february 28 , 2011 ; 2022 a $ 300.0 million term loan a , which is fully drawn , maturing on february 28 , 2011 ; and 2022 a $ 398.0 million term loan b , which is fully drawn , maturing on august 31 , 2011 .",
+      "the new credit facility extends the previous credit facility maturity dates from 2007 to 2011 for a majority of the borrowings outstanding , subject to earlier maturity upon the occurrence of certain events described below , and allows us to use credit facility borrowings and internally generated funds to repurchase other indebtedness without additional lender approval .",
+      "the new credit facility is guaranteed by us and is secured by a pledge of substantially all of our assets .",
+      "the maturity date for term loan a and any outstanding revolving loans will be accelerated to august 15 , 2008 , and the maturity date for term loan b will be accelerated to october 31 , 2008 , if ( 1 ) on or prior to august 1 , 2008 , our 93 20448% ( 20448 % ) senior notes have not been ( a ) refinanced with parent company indebtedness having a maturity date of february 28 , 2012 or later or with loans under the new credit facility , or ( b ) repaid , prepaid , redeemed , repurchased or otherwise retired , and ( 2 ) our consolidated leverage ratio ( total parent company debt to annualized operating cash flow ) at june 30 , 2008 is greater than 4.50 to 1.00 .",
+      "if this were to occur , the payments due in 2008 for term loan a and term loan b would be $ 225.0 million and $ 386.0 million , respectively .",
+      "note offerings .",
+      "during 2004 , we raised approximately $ 1.1 billion in net proceeds from the sale of debt securities through institutional private placements as follows ( in millions ) : debt security date of offering principal amount approximate net proceeds ."
+    ],
+    "post_text": [
+      "2022 7.50% ( 7.50 % ) senior notes offering .",
+      "in february 2004 , we sold $ 225.0 million principal amount of our 7.50% ( 7.50 % ) senior notes due 2012 through an institutional private placement .",
+      "the 7.50% ( 7.50 % ) senior notes mature on may 1 , 2012 , and interest is payable semiannually in arrears on may 1 and november 1 of each year. ."
+    ],
+    "table": [
+      [
+        "debt security",
+        "date of offering",
+        "principal amount",
+        "approximate net proceeds"
+      ],
+      [
+        "7.50% ( 7.50 % ) senior notes due 2012",
+        "february 2004",
+        "$ 225.0",
+        "$ 221.7"
+      ],
+      [
+        "3.00% ( 3.00 % ) convertible notes due august 15 2012",
+        "august 2004",
+        "345.0",
+        "335.9"
+      ],
+      [
+        "7.125% ( 7.125 % ) senior notes due 2012",
+        "october 2004",
+        "300.0",
+        "292.8"
+      ],
+      [
+        "7.125% ( 7.125 % ) senior notes due 2012",
+        "december 2004",
+        "200.0",
+        "199.8"
+      ],
+      [
+        "total",
+        "",
+        "$ 1070.0",
+        "$ 1050.2"
+      ]
+    ],
+    "questions": [
+      "what was the principal amount of the 7.5% senior notes issued february 2004?",
+      "what were the approximate net proceeds from that note?",
+      "what is the difference in values?",
+      "what was the net proceeds?",
+      "what is the difference in value divided by the net proceeds?"
+    ]
+  }
+}

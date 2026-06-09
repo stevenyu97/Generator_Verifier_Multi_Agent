@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of square feet of floor space by business segment at december 31 , 2017 are in the aeronautics segment?",
+      "answer": 0.30112,
+      "answer_raw": "0.30112",
+      "program": "divide(21.5, 71.4)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2011, how much did the the long-term debt included in the section of current liabilities on the balance sheet represent in relation to the total one?",
+      "answer": 0.0156,
+      "answer_raw": "0.0156",
+      "program": "divide(29, 1859)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in the subsequent year, what were the minimum contributions to their qualified plans as a portion of the discretionary ones?",
+      "answer": 2.35385,
+      "answer_raw": "2.35385",
+      "program": "divide(153, 65)"
+    }
+  ]
+}

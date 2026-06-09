@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2013 , operating expenses were what percent of pre-tax earnings?",
+      "answer": 2.99111,
+      "answer_raw": "2.99111",
+      "program": "divide(11782, 3939)"
+    }
+  ]
+}

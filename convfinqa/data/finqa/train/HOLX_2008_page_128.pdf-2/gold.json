@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in advertising costs from 2006 to 2007?",
+      "answer": 0.3358,
+      "answer_raw": "0.3358",
+      "program": "subtract(6683, 5003), divide(#0, 5003)"
+    }
+  ]
+}

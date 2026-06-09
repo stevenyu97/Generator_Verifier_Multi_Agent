@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the price of class a common stock as of 12/31/10?",
+      "answer": 66847.0,
+      "answer_raw": "66847.0",
+      "program": "66847"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2009?",
+      "answer": 66511.0,
+      "answer_raw": "66511.0",
+      "program": "66511"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the proportion of the price in 2010 to the previous price?",
+      "answer": 1.00505,
+      "answer_raw": "1.00505",
+      "program": "divide(66847, 66511)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "so what was the estimated percentage increase in class a common stock during these years?",
+      "answer": 0.00505,
+      "answer_raw": "0.00505",
+      "program": "divide(66847, 66511), subtract(#0, const_1)"
+    }
+  ]
+}

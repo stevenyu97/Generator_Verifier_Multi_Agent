@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if 2012 net periodic opeb cost increased at the same pace as the pension cost , what would the estimated 2013 cost be in millions?",
+      "answer": 14.83333,
+      "answer_raw": "14.83333",
+      "program": "divide(89, 78), multiply(#0, 13)"
+    }
+  ]
+}

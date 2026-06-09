@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "did the refineries in detroit michigan process more crude than those in canton ohio?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(106, 78)"
+    }
+  ]
+}

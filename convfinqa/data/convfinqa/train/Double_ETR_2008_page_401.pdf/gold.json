@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the balance of system energy's receivables from the money pool in 2007?",
+      "answer": 53620.0,
+      "answer_raw": "53620.0",
+      "program": "53620"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2008?",
+      "answer": 42915.0,
+      "answer_raw": "42915.0",
+      "program": "42915"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what impact does it have in the cash flow statement?",
+      "answer": 10705.0,
+      "answer_raw": "10705.0",
+      "program": "subtract(53620, 42915)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the percentage change in the balance from 2007 to 2008?",
+      "answer": 0.24945,
+      "answer_raw": "0.24945",
+      "program": "subtract(53620, 42915), divide(#0, 42915)"
+    }
+  ]
+}

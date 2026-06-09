@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of pre-tax earnings in 2011?",
+      "answer": 4443.0,
+      "answer_raw": "4443.0",
+      "program": "4443"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value of pre-tax earnings in 2010?",
+      "answer": 6802.0,
+      "answer_raw": "6802.0",
+      "program": "6802"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the net change in value?",
+      "answer": -2359.0,
+      "answer_raw": "-2359.0",
+      "program": "subtract(4443, 6802)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the percent change?",
+      "answer": -0.34681,
+      "answer_raw": "-0.34681",
+      "program": "subtract(4443, 6802), divide(#0, 6802)"
+    }
+  ]
+}

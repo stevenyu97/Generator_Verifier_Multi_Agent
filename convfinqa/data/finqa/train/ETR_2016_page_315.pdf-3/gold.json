@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average trailing two year net revenue amount in 2015?",
+      "answer": 1441.35,
+      "answer_raw": "1441.35",
+      "program": "add(1520.5, 1362.2), divide(#0, const_2)"
+    }
+  ]
+}

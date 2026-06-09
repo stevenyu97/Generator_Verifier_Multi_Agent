@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in restaurants percentage of sales from 2012 to 2013?",
+      "answer": -0.02,
+      "answer_raw": "-0.02",
+      "program": "subtract(61%, 63%)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in total debt to be repaid in the contractual obligations for future payments under existing debt and lease commitments and purchase obligations as of 12/31/05 between 2008 and 2009?",
+      "answer": 2022.0,
+      "answer_raw": "2022.0",
+      "program": "subtract(2330, 308)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and between 2007 and 2008?",
+      "answer": -262.0,
+      "answer_raw": "-262.0",
+      "program": "subtract(308, 570)"
+    }
+  ]
+}

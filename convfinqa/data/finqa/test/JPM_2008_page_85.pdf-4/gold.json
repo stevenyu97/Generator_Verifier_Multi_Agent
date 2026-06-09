@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming a 5% ( 5 % ) rate of return , what would the earnings be ( in millions ) on 2008 total adjusted average assets?",
+      "answer": 98344.75,
+      "answer_raw": "98344.75",
+      "program": "divide(5, const_100), multiply(#0, 1966895)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "2001 north american revenues were what in millions?",
+      "answer": 3648.0,
+      "answer_raw": "3648.0",
+      "program": "divide(912, 25%)"
+    }
+  ]
+}

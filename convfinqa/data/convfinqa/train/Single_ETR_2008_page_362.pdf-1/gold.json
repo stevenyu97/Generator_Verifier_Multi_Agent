@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the receivables in 2008?",
+      "answer": 60093.0,
+      "answer_raw": "60093.0",
+      "program": "60093"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2007?",
+      "answer": 47705.0,
+      "answer_raw": "47705.0",
+      "program": "47705"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference in these two values over these years?",
+      "answer": 12388.0,
+      "answer_raw": "12388.0",
+      "program": "subtract(60093, 47705)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage change during this time?",
+      "answer": 0.25968,
+      "answer_raw": "0.25968",
+      "program": "subtract(60093, 47705), divide(#0, 47705)"
+    }
+  ]
+}

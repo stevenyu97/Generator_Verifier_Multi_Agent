@@ -1,0 +1,100 @@
+{
+  "input": {
+    "id": "UNP/2010/page_27.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "average revenue per car 2010 2009 2008 % (  % ) change 2010 v 2009 % (  % ) change 2009 v 2008 ."
+    ],
+    "post_text": [
+      "agricultural products 2013 higher volume , fuel surcharges , and price improvements increased agricultural freight revenue in 2010 versus 2009 .",
+      "increased shipments from the midwest to export ports in the pacific northwest combined with heightened demand in mexico drove higher corn and feed grain shipments in 2010 .",
+      "increased corn and feed grain shipments into ethanol plants in california and idaho and continued growth in ethanol shipments also contributed to this increase .",
+      "in 2009 , some ethanol plants temporarily ceased operations due to lower ethanol margins , which contributed to the favorable year-over-year comparison .",
+      "in addition , strong export demand for u.s .",
+      "wheat via the gulf ports increased shipments of wheat and food grains compared to 2009 .",
+      "declines in domestic wheat and food shipments partially offset the growth in export shipments .",
+      "new business in feed and animal protein shipments also increased agricultural shipments in 2010 compared to 2009 .",
+      "lower volume and fuel surcharges decreased agricultural freight revenue in 2009 versus 2008 .",
+      "price improvements partially offset these declines .",
+      "lower demand in both export and domestic markets led to fewer shipments of corn and feed grains , down 11% ( 11 % ) in 2009 compared to 2008 .",
+      "weaker worldwide demand also reduced export shipments of wheat and food grains in 2009 versus 2008 .",
+      "automotive 2013 37% ( 37 % ) and 24% ( 24 % ) increases in shipments of finished vehicles and automotive parts in 2010 , respectively , combined with core pricing gains and fuel surcharges , improved automotive freight revenue from relatively weak 2009 levels .",
+      "economic conditions in 2009 led to poor auto sales and reduced vehicle production , which in turn reduced shipments of finished vehicles and parts during the declines in shipments of finished vehicles and auto parts and lower fuel surcharges reduced freight revenue in 2009 compared to 2008 .",
+      "vehicle shipments were down 35% ( 35 % ) and parts were down 24% ( 24 % ) .",
+      "core pricing gains partially offset these declines .",
+      "these volume declines resulted from economic conditions that reduced sales and vehicle production .",
+      "in addition , two major domestic automotive manufacturers declared bankruptcy in the second quarter of 2009 , affecting production levels .",
+      "although the federal car allowance rebate system ( the 201ccash for clunkers 201d program ) helped stimulate vehicle sales and shipments in the third quarter of 2009 , production cuts and soft demand throughout the year more than offset the program 2019s benefits .",
+      "2010 agricultural revenue 2010 automotive revenue ."
+    ],
+    "table": [
+      [
+        "average revenue per car",
+        "2010",
+        "2009",
+        "2008",
+        "% (  % ) change 2010 v 2009",
+        "% (  % ) change 2009 v 2008"
+      ],
+      [
+        "agricultural",
+        "$ 3286",
+        "$ 3080",
+        "$ 3352",
+        "7% ( 7 % )",
+        "( 8 ) % (  % )"
+      ],
+      [
+        "automotive",
+        "2082",
+        "1838",
+        "2017",
+        "13",
+        "-9 ( 9 )"
+      ],
+      [
+        "chemicals",
+        "2874",
+        "2761",
+        "2818",
+        "4",
+        "-2 ( 2 )"
+      ],
+      [
+        "energy",
+        "1697",
+        "1543",
+        "1622",
+        "10",
+        "-5 ( 5 )"
+      ],
+      [
+        "industrial products",
+        "2461",
+        "2388",
+        "2620",
+        "3",
+        "-9 ( 9 )"
+      ],
+      [
+        "intermodal",
+        "974",
+        "896",
+        "955",
+        "9",
+        "-6 ( 6 )"
+      ],
+      [
+        "average",
+        "$ 1823",
+        "$ 1718",
+        "$ 1848",
+        "6% ( 6 % )",
+        "( 7 ) % (  % )"
+      ]
+    ],
+    "questions": [
+      "what was the average revenue in agriculture , in millions , from 2008-2010?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "tier 2 capital is what percent of total capital for 2008?",
+      "answer": 0.26319,
+      "answer_raw": "0.26319",
+      "program": "divide(48616, 184720)"
+    }
+  ]
+}

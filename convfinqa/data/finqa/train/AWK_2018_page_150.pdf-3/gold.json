@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was average income tax benefit realized for the three year period?",
+      "answer": 3.66667,
+      "answer_raw": "3.66667",
+      "program": "table_average(income tax benefit realized, none)"
+    }
+  ]
+}

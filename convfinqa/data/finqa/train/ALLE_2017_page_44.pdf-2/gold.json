@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the annualized return for the investment in the allegion plc during 2013-2017?",
+      "answer": -0.96554,
+      "answer_raw": "-0.96554",
+      "program": "subtract(189.19, 100), divide(1, const_4), subtract(#1, 1), exp(#0, #2), subtract(#3, 1)"
+    }
+  ]
+}

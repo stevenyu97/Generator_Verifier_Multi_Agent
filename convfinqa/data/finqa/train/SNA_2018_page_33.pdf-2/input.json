@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "SNA/2018/page_33.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "2018 annual report 23 five-year stock performance graph the graph below illustrates the cumulative total shareholder return on snap-on common stock since december 31 , 2013 , of a $ 100 investment , assuming that dividends were reinvested quarterly .",
+      "the graph compares snap-on 2019s performance to that of the standard & poor 2019s 500 industrials index ( 201cs&p 500 industrials 201d ) and standard & poor 2019s 500 stock index ( 201cs&p 500 201d ) .",
+      "fiscal year ended ( 1 ) snap-on incorporated s&p 500 industrials s&p 500 ."
+    ],
+    "post_text": [
+      "( 1 ) the company 2019s fiscal year ends on the saturday that is on or nearest to december 31 of each year ; for ease of calculation , the fiscal year end is assumed to be december 31. ."
+    ],
+    "table": [
+      [
+        "fiscal year ended ( 1 )",
+        "snap-onincorporated",
+        "s&p 500industrials",
+        "s&p 500"
+      ],
+      [
+        "december 31 2013",
+        "$ 100.00",
+        "$ 100.00",
+        "$ 100.00"
+      ],
+      [
+        "december 31 2014",
+        "126.77",
+        "109.83",
+        "113.69"
+      ],
+      [
+        "december 31 2015",
+        "161.15",
+        "107.04",
+        "115.26"
+      ],
+      [
+        "december 31 2016",
+        "163.63",
+        "127.23",
+        "129.05"
+      ],
+      [
+        "december 31 2017",
+        "169.61",
+        "153.99",
+        "157.22"
+      ],
+      [
+        "december 31 2018",
+        "144.41",
+        "133.53",
+        "150.33"
+      ]
+    ],
+    "questions": [
+      "what is the average annual growth rate for snap from 2016 to 2018?"
+    ]
+  }
+}

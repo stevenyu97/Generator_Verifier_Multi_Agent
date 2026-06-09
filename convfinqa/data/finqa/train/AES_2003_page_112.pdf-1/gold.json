@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in operating income for entities in which the company has the ability to exercise significant influence but does not control and that are accounted for using the equity method between 2001 and 2002?",
+      "answer": -0.59522,
+      "answer_raw": "-0.59522",
+      "program": "subtract(695, 1717), divide(#0, 1717)"
+    }
+  ]
+}

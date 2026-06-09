@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in dollars of the high low sale price for the common stock in the third quarter of 2002?",
+      "answer": 3.05,
+      "answer_raw": "3.05",
+      "program": "subtract(4.61, 1.56)"
+    }
+  ]
+}

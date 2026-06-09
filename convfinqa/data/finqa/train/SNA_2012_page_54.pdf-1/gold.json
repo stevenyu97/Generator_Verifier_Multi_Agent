@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in working capital in 2012 relative to 2011?",
+      "answer": 0.14035,
+      "answer_raw": "0.14035",
+      "program": "divide(132.9, 946.9)"
+    }
+  ]
+}

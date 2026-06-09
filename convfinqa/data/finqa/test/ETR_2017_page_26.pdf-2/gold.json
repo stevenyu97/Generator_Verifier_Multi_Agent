@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the nuclear fuel expenses as a percentage of 2016 net revenue?",
+      "answer": 0.0441,
+      "answer_raw": "0.0441",
+      "program": "divide(68, 1542)"
+    }
+  ]
+}

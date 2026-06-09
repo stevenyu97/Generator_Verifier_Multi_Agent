@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the allowance for uncollectible accounts from year end 2004 to 2005?",
+      "answer": -119.0,
+      "answer_raw": "-119.0",
+      "program": "subtract(343, 462)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that allowance in the end of 2004?",
+      "answer": 462.0,
+      "answer_raw": "462.0",
+      "program": "462"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2004 allowance, in percentage?",
+      "answer": -0.25758,
+      "answer_raw": "-0.25758",
+      "program": "subtract(343, 462), divide(#0, 462)"
+    }
+  ]
+}

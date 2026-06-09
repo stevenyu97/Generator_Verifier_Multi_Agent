@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of owned facilities are in the us?",
+      "answer": 0.49383,
+      "answer_raw": "0.49383",
+      "program": "divide(40, 81)"
+    }
+  ]
+}

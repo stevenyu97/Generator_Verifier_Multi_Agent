@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the required additional collateral or termination payments for a two-notch downgrade and additional collateral or termination payments for a one-notch downgrade in millions in 2014?",
+      "answer": 1743.0,
+      "answer_raw": "1743.0",
+      "program": "subtract(2815, 1072)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2013?",
+      "answer": 2078.0,
+      "answer_raw": "2078.0",
+      "program": "subtract(2989, 911)"
+    }
+  ]
+}

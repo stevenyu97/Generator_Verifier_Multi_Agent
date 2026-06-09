@@ -1,0 +1,53 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the goodwill acquired as part of acquisition in 2016?",
+      "answer": 84159.0,
+      "answer_raw": "84159.0",
+      "program": "84159"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the balance of goodwill in 2016?",
+      "answer": 94417.0,
+      "answer_raw": "94417.0",
+      "program": "94417"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what portion of the goodwill balance in 2016 is related to acquisition?",
+      "answer": 0.89135,
+      "answer_raw": "0.89135",
+      "program": "divide(84159, 94417)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about the balance of goodwill at the end of 2017?",
+      "answer": 93192.0,
+      "answer_raw": "93192.0",
+      "program": "93192"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what about at the beginning of 2016?",
+      "answer": 10258.0,
+      "answer_raw": "10258.0",
+      "program": "10258"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the net change during this time?",
+      "answer": 82934.0,
+      "answer_raw": "82934.0",
+      "program": "subtract(93192, 10258)"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "what percentage change does this represent?",
+      "answer": 8.08481,
+      "answer_raw": "8.08481",
+      "program": "subtract(93192, 10258), divide(#0, 10258)"
+    }
+  ]
+}

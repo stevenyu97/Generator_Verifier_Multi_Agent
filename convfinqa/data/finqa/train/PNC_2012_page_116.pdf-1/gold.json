@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2012 what was the ratio of the decline in the provision for commercial lending credit losses to the consumers provision",
+      "answer": 0.30952,
+      "answer_raw": "0.30952",
+      "program": "divide(39, 126)"
+    }
+  ]
+}

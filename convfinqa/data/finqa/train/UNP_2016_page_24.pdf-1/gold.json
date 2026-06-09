@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase in the cash provided by operating activities from 2015 to 2016",
+      "answer": 0.02465,
+      "answer_raw": "0.02465",
+      "program": "subtract(7525, 7344), divide(#0, 7344)"
+    }
+  ]
+}

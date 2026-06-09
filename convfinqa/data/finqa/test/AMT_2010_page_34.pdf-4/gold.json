@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the quarter ended september 302010 what was the percentage change in the share price from the highest to the lowest",
+      "answer": 0.19245,
+      "answer_raw": "0.19245",
+      "program": "subtract(52.11, 43.70), divide(#0, 43.70)"
+    }
+  ]
+}

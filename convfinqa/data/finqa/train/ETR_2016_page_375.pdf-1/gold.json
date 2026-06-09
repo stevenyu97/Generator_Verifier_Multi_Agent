@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in net revenue in 2015 for entergy mississippi , inc.?",
+      "answer": -0.00699,
+      "answer_raw": "-0.00699",
+      "program": "subtract(696.3, 701.2), divide(#0, 701.2)"
+    }
+  ]
+}

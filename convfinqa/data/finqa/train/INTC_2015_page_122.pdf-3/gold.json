@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of stock option awards are vested as of december 26 , 2015?",
+      "answer": 0.82022,
+      "answer_raw": "0.82022",
+      "program": "divide(43.8, 53.4)"
+    }
+  ]
+}

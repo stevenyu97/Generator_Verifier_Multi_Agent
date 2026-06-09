@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the roi of an investment in abiomed inc from march 2006 to march 2009?",
+      "answer": -0.6202,
+      "answer_raw": "-0.6202",
+      "program": "subtract(37.98, 100), divide(#0, 100)"
+    }
+  ]
+}

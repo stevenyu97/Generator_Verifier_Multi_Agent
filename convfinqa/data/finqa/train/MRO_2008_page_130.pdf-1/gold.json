@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of end of the year 2008 total goodwill does rm&t consist of?",
+      "answer": 0.60746,
+      "answer_raw": "0.60746",
+      "program": "divide(879, 1447)"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "AES/2002/page_46.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "part ii item 5 2014market for registrant 2019s common equity and related stockholder matters market information .",
+      "the common stock of the company is currently traded on the new york stock exchange ( nyse ) under the symbol 2018 2018aes . 2019 2019 the following tables set forth the high and low sale prices for the common stock as reported by the nyse for the periods indicated .",
+      "price range of common stock ."
+    ],
+    "post_text": [
+      "holders .",
+      "as of march 3 , 2003 , there were 9663 record holders of the company 2019s common stock , par value $ 0.01 per share .",
+      "dividends .",
+      "under the terms of the company 2019s senior secured credit facilities entered into with a commercial bank syndicate , the company is not allowed to pay cash dividends .",
+      "in addition , the company is precluded from paying cash dividends on its common stock under the terms of a guaranty to the utility customer in connection with the aes thames project in the event certain net worth and liquidity tests of the company are not met .",
+      "the ability of the company 2019s project subsidiaries to declare and pay cash dividends to the company is subject to certain limitations in the project loans , governmental provisions and other agreements entered into by such project subsidiaries .",
+      "securities authorized for issuance under equity compensation plans .",
+      "see the information contained under the caption 2018 2018securities authorized for issuance under equity compensation plans 2019 2019 of the proxy statement for the annual meeting of stockholders of the registrant to be held on may 1 , 2003 , which information is incorporated herein by reference. ."
+    ],
+    "table": [
+      [
+        "2002 first quarter",
+        "high $ 17.84",
+        "low $ 4.11",
+        "2001 first quarter",
+        "high $ 60.15",
+        "low $ 41.30"
+      ],
+      [
+        "second quarter",
+        "9.17",
+        "3.55",
+        "second quarter",
+        "52.25",
+        "39.95"
+      ],
+      [
+        "third quarter",
+        "4.61",
+        "1.56",
+        "third quarter",
+        "44.50",
+        "12.00"
+      ],
+      [
+        "fourth quarter",
+        "3.57",
+        "0.95",
+        "fourth quarter",
+        "17.80",
+        "11.60"
+      ]
+    ],
+    "questions": [
+      "what was the average high and low stock price for the second quarter of 2002?"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "Double_ETR/2008/page_153.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries notes to financial statements computed on a rolling 12 month basis .",
+      "as of december 31 , 2008 , entergy louisiana was in compliance with these provisions .",
+      "as of december 31 , 2008 , entergy louisiana had future minimum lease payments ( reflecting an overall implicit rate of 7.45% ( 7.45 % ) ) in connection with the waterford 3 sale and leaseback transactions , which are recorded as long-term debt , as follows : amount ( in thousands ) ."
+    ],
+    "post_text": [
+      "grand gulf lease obligations in december 1988 , in two separate but substantially identical transactions , system energy sold and leased back undivided ownership interests in grand gulf for the aggregate sum of $ 500 million .",
+      "the interests represent approximately 11.5% ( 11.5 % ) of grand gulf .",
+      "the leases expire in 2015 .",
+      "under certain circumstances , system entergy may repurchase the leased interests prior to the end of the term of the leases .",
+      "at the end of the lease terms , system energy has the option to repurchase the leased interests in grand gulf at fair market value or to renew the leases for either fair market value or , under certain conditions , a fixed rate .",
+      "in may 2004 , system energy caused the grand gulf lessors to refinance the outstanding bonds that they had issued to finance the purchase of their undivided interest in grand gulf .",
+      "the refinancing is at a lower interest rate , and system energy's lease payments have been reduced to reflect the lower interest costs .",
+      "system energy is required to report the sale-leaseback as a financing transaction in its financial statements .",
+      "for financial reporting purposes , system energy expenses the interest portion of the lease obligation and the plant depreciation .",
+      "however , operating revenues include the recovery of the lease payments because the transactions are accounted for as a sale and leaseback for ratemaking purposes .",
+      "consistent with a recommendation contained in a ferc audit report , system energy initially recorded as a net regulatory asset the difference between the recovery of the lease payments and the amounts expensed for interest and depreciation and continues to record this difference as a regulatory asset or liability on an ongoing basis , resulting in a zero net balance for the regulatory asset at the end of the lease term .",
+      "the amount of this net regulatory asset was $ 19.2 million and $ 36.6 million as of december 31 , 2008 and 2007 , respectively. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in thousands )"
+      ],
+      [
+        "2009",
+        "$ 32452"
+      ],
+      [
+        "2010",
+        "35138"
+      ],
+      [
+        "2011",
+        "50421"
+      ],
+      [
+        "2012",
+        "39067"
+      ],
+      [
+        "2013",
+        "26301"
+      ],
+      [
+        "years thereafter",
+        "137858"
+      ],
+      [
+        "total",
+        "321237"
+      ],
+      [
+        "less : amount representing interest",
+        "73512"
+      ],
+      [
+        "present value of net minimum lease payments",
+        "$ 247725"
+      ]
+    ],
+    "questions": [
+      "as of december 31, 2008, what was the full amount representing interest?",
+      "and what was the total of future minimum lease payments?",
+      "what was, then, that amount as a portion of this total?",
+      "and between that year and the previous, what was the variation in the net regulatory asset?",
+      "and how much did this variation represent in relation to that net regulatory asset in 2007?"
+    ]
+  }
+}

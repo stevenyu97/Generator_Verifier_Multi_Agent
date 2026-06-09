@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the year 2006 , what is the percentual fluctuation of the return provided by s&p 500 and the one provided by old peer group?",
+      "answer": 39.78,
+      "answer_raw": "39.78",
+      "program": "divide(115.80, 100), subtract(115.80, 100), divide(155.58, 100), subtract(155.58, 100), subtract(#3, #1)"
+    }
+  ]
+}

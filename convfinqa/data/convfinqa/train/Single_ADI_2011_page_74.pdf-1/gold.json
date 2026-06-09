@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the total amount of proceeds received by the company from exercise of options from 2010 to 2011?",
+      "answer": 1.3,
+      "answer_raw": "1.3",
+      "program": "subtract(217.4, 216.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to that total amount in 2010?",
+      "answer": 0.00602,
+      "answer_raw": "0.00602",
+      "program": "subtract(217.4, 216.1), divide(#0, 216.1)"
+    }
+  ]
+}

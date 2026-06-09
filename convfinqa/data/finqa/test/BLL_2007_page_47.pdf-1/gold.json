@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "payments to participants in the unfunded german plans are expected to be total approximately how much , in millions , for the years 2008 through 2012?",
+      "answer": 104.0,
+      "answer_raw": "104.0",
+      "program": "subtract(2012, 2008), multiply(#0, 26)"
+    }
+  ]
+}

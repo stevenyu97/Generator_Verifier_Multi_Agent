@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what will be the change in rent expense from 2013 to 2014?",
+      "answer": 6.0,
+      "answer_raw": "6.0",
+      "program": "subtract(100, 94)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what will be that rent expense in 2013?",
+      "answer": 94.0,
+      "answer_raw": "94.0",
+      "program": "94"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, will that change represent in relation to this 2013 rent expense, in percentage?",
+      "answer": 0.06383,
+      "answer_raw": "0.06383",
+      "program": "subtract(100, 94), divide(#0, 94)"
+    }
+  ]
+}

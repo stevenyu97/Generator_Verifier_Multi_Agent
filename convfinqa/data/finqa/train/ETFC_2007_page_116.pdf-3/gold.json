@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the counterparty credit risk for bank of america to the total credit risk exposure",
+      "answer": 0.36182,
+      "answer_raw": "0.36182",
+      "program": "divide(48161, 133106)"
+    }
+  ]
+}

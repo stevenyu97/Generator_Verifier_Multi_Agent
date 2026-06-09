@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "AON/2007/page_180.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements the amortized cost and fair value of fixed maturities by contractual maturity as of december 31 , 2007 , are as follows : amortized fair ( millions ) cost value ."
+    ],
+    "post_text": [
+      "expected maturities may differ from contractual maturities because borrowers may have the right to call or prepay obligations with or without call or prepayment penalties .",
+      "for categorization purposes , aon considers any rating of baa or higher by moody 2019s investor services or equivalent rating agency to be investment grade .",
+      "aon 2019s continuing operations have no fixed maturities with an unrealized loss at december 31 , 2007 .",
+      "aon 2019s fixed-maturity portfolio is subject to interest rate , market and credit risks .",
+      "with a carrying value of approximately $ 150 million at december 31 , 2007 , aon 2019s total fixed-maturity portfolio is approximately 96% ( 96 % ) investment grade based on market value .",
+      "aon 2019s non publicly-traded fixed maturity portfolio had a carrying value of $ 9 million .",
+      "valuations of these securities primarily reflect the fundamental analysis of the issuer and current market price of comparable securities .",
+      "aon 2019s equity portfolio is comprised of a preferred stock not publicly traded .",
+      "this portfolio is subject to interest rate , market , credit , illiquidity , concentration and operational performance risks .",
+      "limited partnership securitization .",
+      "in 2001 , aon sold the vast majority of its limited partnership ( lp ) portfolio , valued at $ 450 million , to peps i , a qspe .",
+      "the common stock interest in peps i is held by a limited liability company which is owned by aon ( 49% ( 49 % ) ) and by a charitable trust , which is not controlled by aon , established for victims of september 11 ( 51% ( 51 % ) ) .",
+      "approximately $ 171 million of investment grade fixed-maturity securities were sold by peps i to unaffiliated third parties .",
+      "peps i then paid aon 2019s insurance underwriting subsidiaries the $ 171 million in cash and issued to them an additional $ 279 million in fixed-maturity and preferred stock securities .",
+      "as part of this transaction , aon is required to purchase from peps i additional fixed-maturity securities in an amount equal to the unfunded limited partnership commitments , as they are requested .",
+      "aon funded $ 2 million of commitments in both 2007 and 2006 .",
+      "as of december 31 , 2007 , these unfunded commitments amounted to $ 44 million .",
+      "these commitments have specific expiration dates and the general partners may decide not to draw on these commitments .",
+      "the carrying value of the peps i preferred stock was $ 168 million and $ 210 million at december 31 , 2007 and 2006 , respectively .",
+      "prior to 2007 , income distributions received from peps i were limited to interest payments on various peps i debt instruments .",
+      "beginning in 2007 , peps i had redeemed or collateralized all of its debt , and as a result , began to pay preferred income distributions .",
+      "in 2007 , the company received $ 61 million of income distributions from peps i , which are included in investment income .",
+      "aon corporation ."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "amortizedcost",
+        "fairvalue"
+      ],
+      [
+        "due in one year or less",
+        "$ 50",
+        "$ 50"
+      ],
+      [
+        "due after one year through five years",
+        "52",
+        "52"
+      ],
+      [
+        "due after five years through ten years",
+        "47",
+        "47"
+      ],
+      [
+        "due after ten years",
+        "1",
+        "1"
+      ],
+      [
+        "total fixed maturities",
+        "$ 150",
+        "$ 150"
+      ]
+    ],
+    "questions": [
+      "after selling the its lp portfolio to peps i , what is the value of lp is still owned by aon indirectly , ( in millions ) ?"
+    ]
+  }
+}

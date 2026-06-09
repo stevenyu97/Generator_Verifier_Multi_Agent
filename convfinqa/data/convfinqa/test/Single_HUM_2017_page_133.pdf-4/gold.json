@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of the payment amount per share, 2017 to 2016?",
+      "answer": 1.28448,
+      "answer_raw": "1.28448",
+      "program": "divide(1.49, 1.16)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that less 1?",
+      "answer": 0.28448,
+      "answer_raw": "0.28448",
+      "program": "divide(1.49, 1.16), subtract(#0, const_1)"
+    }
+  ]
+}

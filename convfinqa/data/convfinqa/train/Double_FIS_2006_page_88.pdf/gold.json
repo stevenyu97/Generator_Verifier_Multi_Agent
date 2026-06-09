@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the total of principal maturities due in 2007 due to the debt refinancing completed on january of that year?",
+      "answer": -34500.0,
+      "answer_raw": "-34500.0",
+      "program": "subtract(61661, 96161)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the amount of unsecured 4.75% ( 4.75 % ) fixed-rate notes due in the next year, that the company was obligated to service?",
+      "answer": 200.0,
+      "answer_raw": "200.0",
+      "program": "200"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is, then, the annual interest expense on those notes?",
+      "answer": 9.5,
+      "answer_raw": "9.5",
+      "program": "multiply(200, 4.75%)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2013 what was the percent of the capital lease payments related to locomotives in millions",
+      "answer": 2068.0,
+      "answer_raw": "2068.0",
+      "program": "multiply(2200, 94%)"
+    }
+  ]
+}

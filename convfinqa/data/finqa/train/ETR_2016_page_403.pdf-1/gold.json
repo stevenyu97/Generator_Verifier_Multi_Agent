@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the combined amount of receivables for 2013 through 2016 ( in thousands ) from the money pool?",
+      "answer": 35188.0,
+      "answer_raw": "35188.0",
+      "program": "add(14215, 15794), add(#0, 442), add(#1, 4737)"
+    }
+  ]
+}

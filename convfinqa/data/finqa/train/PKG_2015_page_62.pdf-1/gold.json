@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in millions of cash payments for federal , state , and foreign income taxes between 2014 and 2015?",
+      "answer": 48.8,
+      "answer_raw": "48.8",
+      "program": "subtract(238.3, 189.5)"
+    }
+  ]
+}

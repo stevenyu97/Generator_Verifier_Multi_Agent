@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what amount of long-term debt is due in the next 24 months for entergy corporation as of december 31 , 2016 , in millions?",
+      "answer": 1135.487,
+      "answer_raw": "1135.487",
+      "program": "add(307403, 828084), divide(#0, const_1000)"
+    }
+  ]
+}

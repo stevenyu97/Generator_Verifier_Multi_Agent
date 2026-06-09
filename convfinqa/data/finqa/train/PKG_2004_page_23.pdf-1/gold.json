@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage point change in pca 2019s effective tax rate in december 31 , 2004 from december 31 , 2003?",
+      "answer": 4.3,
+      "answer_raw": "4.3",
+      "program": "subtract(42.3, 38.0)"
+    }
+  ]
+}

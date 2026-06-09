@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the restricted stock was lost due to restrictions lapsed in the 2014 period?",
+      "answer": 0.36104,
+      "answer_raw": "0.36104",
+      "program": "divide(1151, 3188)"
+    }
+  ]
+}

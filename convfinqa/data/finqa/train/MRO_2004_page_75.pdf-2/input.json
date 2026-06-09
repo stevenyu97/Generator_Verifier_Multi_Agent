@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "MRO/2004/page_75.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "rm&t segment we do not attempt to qualify commodity derivative instruments used in our rm&t operations for hedge accounting .",
+      "as a result , we recognize all changes in the fair value of derivatives used in our rm&t operations in income , although most of these derivatives have an underlying physical commodity transaction .",
+      "generally , derivative losses occur when market prices increase , which are offset by gains on the underlying physical commodity transactions .",
+      "conversely , derivative gains occur when market prices decrease , which are offset by losses on the underlying physical commodity transactions .",
+      "derivative gains or losses included in rm&t segment income for each of the last three years are summarized in the following table : strategy ( in millions ) 2004 2003 2002 ."
+    ],
+    "post_text": [
+      "during 2004 , using derivative instruments map sold crack spreads forward through the fourth quarter 2005 at values higher than the company thought sustainable in the actual months these contracts expire .",
+      "included in the $ 76 million derivative loss for 2004 noted in the above table for the 2018 2018protect crack spread values 2019 2019 strategy was approximately an $ 8 million gain due to changes in the fair value of crack-spread derivatives that will expire throughout 2005 .",
+      "in addition , natural gas options are in place to manage the price risk associated with approximately 41 percent of the first quarter 2005 anticipated natural gas purchases for refinery use .",
+      "ig segment we have used derivative instruments to convert the fixed price of a long-term gas sales contract to market prices .",
+      "the underlying physical contract is for a specified annual quantity of gas and matures in 2008 .",
+      "similarly , we will use derivative instruments to convert shorter term ( typically less than a year ) fixed price contracts to market prices in our ongoing purchase for resale activity ; and to hedge purchased gas injected into storage for subsequent resale .",
+      "derivative gains included in ig segment income were $ 17 million in 2004 , compared to gains of $ 19 million in 2003 and losses of $ 8 million in 2002 .",
+      "trading activity in the ig segment resulted in losses of $ 2 million in 2004 , compared to losses of $ 7 million in 2003 and gains of $ 4 million in 2002 and have been included in the aforementioned amounts .",
+      "other commodity risk we are impacted by basis risk , caused by factors that affect the relationship between commodity futures prices reflected in derivative commodity instruments and the cash market price of the underlying commodity .",
+      "natural gas transaction prices are frequently based on industry reference prices that may vary from prices experienced in local markets .",
+      "for example , new york mercantile exchange ( 2018 2018nymex 2019 2019 ) contracts for natural gas are priced at louisiana 2019s henry hub , while the underlying quantities of natural gas may be produced and sold in the western united states at prices that do not move in strict correlation with nymex prices .",
+      "if commodity price changes in one region are not reflected in other regions , derivative commodity instruments may no longer provide the expected hedge , resulting in increased exposure to basis risk .",
+      "these regional price differences could yield favorable or unfavorable results .",
+      "otc transactions are being used to manage exposure to a portion of basis risk .",
+      "we are impacted by liquidity risk , caused by timing delays in liquidating contract positions due to a potential inability to identify a counterparty willing to accept an offsetting position .",
+      "due to the large number of active participants , liquidity risk exposure is relatively low for exchange-traded transactions. ."
+    ],
+    "table": [
+      [
+        "strategy ( in millions )",
+        "2004",
+        "2003",
+        "2002"
+      ],
+      [
+        "mitigate price risk",
+        "$ -106 ( 106 )",
+        "$ -112 ( 112 )",
+        "$ -95 ( 95 )"
+      ],
+      [
+        "protect carrying values of excess inventories",
+        "-98 ( 98 )",
+        "-57 ( 57 )",
+        "-41 ( 41 )"
+      ],
+      [
+        "protect margin on fixed price sales",
+        "8",
+        "5",
+        "11"
+      ],
+      [
+        "protect crack spread values",
+        "-76 ( 76 )",
+        "6",
+        "1"
+      ],
+      [
+        "trading activities",
+        "8",
+        "-4 ( 4 )",
+        "2013"
+      ],
+      [
+        "total net derivative losses",
+        "$ -264 ( 264 )",
+        "$ -162 ( 162 )",
+        "$ -124 ( 124 )"
+      ]
+    ],
+    "questions": [
+      "what was the change in derivative gains included in ig segment income from 2004 , compared to 2003 , in millions?"
+    ]
+  }
+}

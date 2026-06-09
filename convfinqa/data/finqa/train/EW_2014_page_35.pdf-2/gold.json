@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in percentage 5 year cumulative total return between edwards lifesciences corporation and the s&p 500?",
+      "answer": 0.8819,
+      "answer_raw": "0.8819",
+      "program": "subtract(293.33, 100), divide(#0, 100), subtract(205.14, 100), divide(#2, 100), subtract(#1, #3)"
+    }
+  ]
+}

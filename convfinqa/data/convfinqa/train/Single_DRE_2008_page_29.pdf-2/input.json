@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "Single_DRE/2008/page_29.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "customary conditions .",
+      "we will retain a 20% ( 20 % ) equity interest in the joint venture .",
+      "as of december 31 , 2008 , the joint venture has acquired seven properties from us and we received year-to-date net sale proceeds and financing distributions of approximately $ 251.6 million .",
+      "in january 2008 , we sold a tract of land to an unconsolidated joint venture in which we hold a 50% ( 50 % ) equity interest and received a distribution , commensurate to our partner 2019s 50% ( 50 % ) ownership interest , of approximately $ 38.3 million .",
+      "in november 2008 , that unconsolidated joint venture entered a loan agreement with a consortium of banks and distributed a portion of the loan proceeds to us and our partner , with our share of the distribution totaling $ 20.4 million .",
+      "uses of liquidity our principal uses of liquidity include the following : 2022 property investment ; 2022 recurring leasing/capital costs ; 2022 dividends and distributions to shareholders and unitholders ; 2022 long-term debt maturities ; 2022 opportunistic repurchases of outstanding debt ; and 2022 other contractual obligations .",
+      "property investment we evaluate development and acquisition opportunities based upon market outlook , supply and long-term growth potential .",
+      "our ability to make future property investments is dependent upon our continued access to our longer-term sources of liquidity including the issuances of debt or equity securities as well as disposing of selected properties .",
+      "in light of current economic conditions , management continues to evaluate our investment priorities and we are limiting new development expenditures .",
+      "recurring expenditures one of our principal uses of our liquidity is to fund the recurring leasing/capital expenditures of our real estate investments .",
+      "the following is a summary of our recurring capital expenditures for the years ended december 31 , 2008 , 2007 and 2006 , respectively ( in thousands ) : ."
+    ],
+    "post_text": [
+      "dividends and distributions in order to qualify as a reit for federal income tax purposes , we must currently distribute at least 90% ( 90 % ) of our taxable income to shareholders .",
+      "because depreciation is a non-cash expense , cash flow will typically be greater than operating income .",
+      "we paid dividends per share of $ 1.93 , $ 1.91 and $ 1.89 for the years ended december 31 , 2008 , 2007 and 2006 , respectively .",
+      "we expect to continue to distribute taxable earnings to meet the requirements to maintain our reit status .",
+      "however , distributions are declared at the discretion of our board of directors and are subject to actual cash available for distribution , our financial condition , capital requirements and such other factors as our board of directors deems relevant . in january 2009 , our board of directors resolved to decrease our annual dividend from $ 1.94 per share to $ 1.00 per share in order to retain additional cash to help meet our capital needs .",
+      "we anticipate retaining additional cash of approximately $ 145.2 million per year , when compared to an annual dividend of $ 1.94 per share , as the result of this action .",
+      "at december 31 , 2008 we had six series of preferred shares outstanding .",
+      "the annual dividend rates on our preferred shares range between 6.5% ( 6.5 % ) and 8.375% ( 8.375 % ) and are paid in arrears quarterly. ."
+    ],
+    "table": [
+      [
+        "",
+        "2008",
+        "2007",
+        "2006"
+      ],
+      [
+        "recurring tenant improvements",
+        "$ 36885",
+        "$ 45296",
+        "$ 41895"
+      ],
+      [
+        "recurring leasing costs",
+        "28205",
+        "32238",
+        "32983"
+      ],
+      [
+        "building improvements",
+        "9724",
+        "8402",
+        "8122"
+      ],
+      [
+        "totals",
+        "$ 74814",
+        "$ 85936",
+        "$ 83000"
+      ]
+    ],
+    "questions": [
+      "what was the dividend paid per share in 2008?",
+      "what was it in 2007?",
+      "what is the sum?",
+      "what is the total sum including 2006?",
+      "what is the total sum divided by 3?"
+    ]
+  }
+}

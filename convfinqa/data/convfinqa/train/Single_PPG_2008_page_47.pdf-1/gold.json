@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of rental expense for operating leases of 2008 to 2007?",
+      "answer": 1.42021,
+      "answer_raw": "1.42021",
+      "program": "divide(267, 188)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value of rental expense for operating leases in 2008?",
+      "answer": 267.0,
+      "answer_raw": "267.0",
+      "program": "267"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the ratio times the 2008 value?",
+      "answer": 379.19681,
+      "answer_raw": "379.19681",
+      "program": "divide(267, 188), multiply(#0, 267)"
+    }
+  ]
+}

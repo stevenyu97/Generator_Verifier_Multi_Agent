@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average crack spread for us gulf coast lls 6-3-2-1 in the first and second quarter of 2008?",
+      "answer": 1.69,
+      "answer_raw": "1.69",
+      "program": "add(1.39, 1.99), divide(#0, const_2)"
+    }
+  ]
+}

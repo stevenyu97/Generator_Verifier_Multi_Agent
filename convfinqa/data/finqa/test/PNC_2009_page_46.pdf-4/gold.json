@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average percentage for aaa rated facilities in 2008 and 2009?",
+      "answer": 16.5,
+      "answer_raw": "16.5",
+      "program": "add(14, 19), divide(#0, const_2)"
+    }
+  ]
+}

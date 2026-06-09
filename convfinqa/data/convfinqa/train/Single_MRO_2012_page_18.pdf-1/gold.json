@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "worldwide, what is the amount of net expiring acres in 2013?",
+      "answer": 1294.0,
+      "answer_raw": "1294.0",
+      "program": "1294"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the value specifically in the us?",
+      "answer": 436.0,
+      "answer_raw": "436.0",
+      "program": "436"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so how much of the acreage expiring this year is foreign?",
+      "answer": 858.0,
+      "answer_raw": "858.0",
+      "program": "subtract(1294, 436)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "so what percentage of the net expiring acreage during this time is foreign?",
+      "answer": 0.66306,
+      "answer_raw": "0.66306",
+      "program": "subtract(1294, 436), divide(#0, 1294)"
+    }
+  ]
+}

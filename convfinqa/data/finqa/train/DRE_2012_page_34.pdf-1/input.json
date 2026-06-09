@@ -1,0 +1,56 @@
+{
+  "input": {
+    "id": "DRE/2012/page_34.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "32| | duke realty corporation annual report 2012 2022 in 2010 , we sold approximately 60 acres of land , in two separate transactions , which resulted in impairment charges of $ 9.8 million .",
+      "these sales were opportunistic in nature and we had not identified or actively marketed this land for disposition , as it was previously intended to be held for development .",
+      "general and administrative expenses general and administrative expenses increased from $ 41.3 million in 2010 to $ 43.1 million in 2011 .",
+      "the following table sets forth the factors that led to the increase in general and administrative expenses from 2010 to 2011 ( in millions ) : ."
+    ],
+    "post_text": [
+      "interest expense interest expense from continuing operations increased from $ 186.4 million in 2010 to $ 220.5 million in 2011 .",
+      "the increase was primarily a result of increased average outstanding debt during 2011 compared to 2010 , which was driven by our acquisition activities as well as other uses of capital .",
+      "a $ 7.2 million decrease in the capitalization of interest costs , the result of developed properties no longer meeting the criteria for interest capitalization , also contributed to the increase in interest expense .",
+      "gain ( loss ) on debt transactions there were no gains or losses on debt transactions during 2011 .",
+      "during 2010 , through a cash tender offer and open market transactions , we repurchased certain of our outstanding series of unsecured notes scheduled to mature in 2011 and 2013 .",
+      "in total , we paid $ 292.2 million for unsecured notes that had a face value of $ 279.9 million .",
+      "we recognized a net loss on extinguishment of $ 16.3 million after considering the write-off of unamortized deferred financing costs , discounts and other accounting adjustments .",
+      "acquisition-related activity during 2011 , we recognized approximately $ 2.3 million in acquisition costs , compared to $ 1.9 million of such costs in 2010 .",
+      "during 2011 , we also recognized a $ 1.1 million gain related to the acquisition of a building from one of our 50%-owned unconsolidated joint ventures , compared to a $ 57.7 million gain in 2010 on the acquisition of our joint venture partner 2019s 50% ( 50 % ) interest in dugan .",
+      "critical accounting policies the preparation of our consolidated financial statements in conformity with gaap requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reported period .",
+      "our estimates , judgments and assumptions are inherently subjective and based on the existing business and market conditions , and are therefore continually evaluated based upon available information and experience .",
+      "note 2 to the consolidated financial statements includes further discussion of our significant accounting policies .",
+      "our management has assessed the accounting policies used in the preparation of our financial statements and discussed them with our audit committee and independent auditors .",
+      "the following accounting policies are considered critical based upon materiality to the financial statements , degree of judgment involved in estimating reported amounts and sensitivity to changes in industry and economic conditions : ( 1 ) the increase to our overall pool of overhead costs from 2010 is largely due to increased severance pay related to overhead reductions that took place near the end of 2011 .",
+      "( 2 ) our total leasing activity increased and we also increased wholly owned development activities from 2010 .",
+      "we capitalized $ 25.3 million and $ 10.4 million of our total overhead costs to leasing and development , respectively , for consolidated properties during 2011 , compared to capitalizing $ 23.5 million and $ 8.5 million of such costs , respectively , for 2010 .",
+      "combined overhead costs capitalized to leasing and development totaled 20.6% ( 20.6 % ) and 19.1% ( 19.1 % ) of our overall pool of overhead costs for 2011 and 2010 , respectively. ."
+    ],
+    "table": [
+      [
+        "general and administrative expenses - 2010",
+        "$ 41.3"
+      ],
+      [
+        "increase to overall pool of overhead costs ( 1 )",
+        "5.7"
+      ],
+      [
+        "increased absorption of costs by wholly-owned development and leasing activities ( 2 )",
+        "-3.7 ( 3.7 )"
+      ],
+      [
+        "increased allocation of costs to service operations and rental operations",
+        "-0.2 ( 0.2 )"
+      ],
+      [
+        "general and administrative expenses - 2011",
+        "$ 43.1"
+      ]
+    ],
+    "questions": [
+      "what was the percentage increase in the general and administrative expenses from 2010 to 2011.\\\\n"
+    ]
+  }
+}

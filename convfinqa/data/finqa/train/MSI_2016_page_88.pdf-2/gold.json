@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as part of the company completed the acquisition of several software and service-based providers in december 31 , 2016 what was the percent of the goodwill recognized to the purchase price",
+      "answer": 0.2,
+      "answer_raw": "0.2",
+      "program": "divide(6, 30)"
+    }
+  ]
+}

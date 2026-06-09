@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in cash provided by operating activities between 2013 and 2014?",
+      "answer": 562.0,
+      "answer_raw": "562.0",
+      "program": "subtract(7385, 6823)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the percentage change over this time?",
+      "answer": 0.08237,
+      "answer_raw": "0.08237",
+      "program": "subtract(7385, 6823), divide(#0, 6823)"
+    }
+  ]
+}

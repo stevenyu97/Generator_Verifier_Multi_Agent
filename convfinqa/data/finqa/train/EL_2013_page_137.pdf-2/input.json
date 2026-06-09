@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "EL/2013/page_137.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "currencies of major industrial countries .",
+      "we may also enter into foreign currency option contracts to hedge anticipated transactions where there is a high probability that anticipated exposures will materialize .",
+      "the foreign currency forward contracts entered into to hedge antici- pated transactions have been designated as foreign currency cash-flow hedges and have varying maturities through the end of march 2015 .",
+      "hedge effectiveness of foreign currency forward contracts is based on a hypo- thetical derivative methodology and excludes the portion of fair value attributable to the spot-forward difference which is recorded in current-period earnings .",
+      "hedge effectiveness of foreign currency option contracts is based on a dollar offset methodology .",
+      "the ineffective portion of both foreign currency forward and option con- tracts is recorded in current-period earnings .",
+      "for hedge contracts that are no longer deemed highly effective , hedge accounting is discontinued and gains and losses accumulated in other comprehensive income ( loss ) are reclassified to earnings when the underlying forecasted transaction occurs .",
+      "if it is probable that the forecasted transaction will no longer occur , then any gains or losses in accumulated other comprehensive income ( loss ) are reclassified to current-period earnings .",
+      "as of june 30 , 2013 , these foreign currency cash-flow hedges were highly effective in all material respects .",
+      "at june 30 , 2013 , we had foreign currency forward contracts in the amount of $ 1579.6 million .",
+      "the foreign currencies included in foreign currency forward contracts ( notional value stated in u.s .",
+      "dollars ) are principally the british pound ( $ 426.2 million ) , euro ( $ 268.8 million ) , canadian dollar ( $ 198.6 million ) , swiss franc ( $ 111.5 mil- lion ) , australian dollar ( $ 92.1 million ) , thailand baht ( $ 75.5 million ) and hong kong dollar ( $ 58.1 million ) .",
+      "credit risk as a matter of policy , we only enter into derivative con- tracts with counterparties that have a long-term credit rat- ing of at least a- or higher by at least two nationally recognized rating agencies .",
+      "the counterparties to these contracts are major financial institutions .",
+      "exposure to credit risk in the event of nonperformance by any of the counterparties is limited to the gross fair value of con- tracts in asset positions , which totaled $ 21.7 million at june 30 , 2013 .",
+      "to manage this risk , we have established counterparty credit guidelines that are continually moni- tored .",
+      "accordingly , management believes risk of loss under these hedging contracts is remote .",
+      "certain of our derivative financial instruments contain credit-risk-related contingent features .",
+      "at june 30 , 2013 , we were in a net asset position for certain derivative contracts that contain such features with two counter- parties .",
+      "the fair value of those contracts as of june 30 , 2013 was approximately $ 4.6 million .",
+      "as of june 30 , 2013 , we were in compliance with such credit-risk-related contingent features .",
+      "market risk we use a value-at-risk model to assess the market risk of our derivative financial instruments .",
+      "value-at-risk repre- sents the potential losses for an instrument or portfolio from adverse changes in market factors for a specified time period and confidence level .",
+      "we estimate value-at- risk across all of our derivative financial instruments using a model with historical volatilities and correlations calcu- lated over the past 250-day period .",
+      "the high , low and average measured value-at-risk during fiscal 2013 related to our foreign exchange contracts is as follows: ."
+    ],
+    "post_text": [
+      "foreign exchange contracts $ 24.5 $ 19.1 $ 21.9 the model estimates were made assuming normal market conditions and a 95 percent confidence level .",
+      "we used a statistical simulation model that valued our derivative financial instruments against one thousand randomly gen- erated market price paths .",
+      "our calculated value-at-risk exposure represents an estimate of reasonably possible net losses that would be recognized on our portfolio of derivative financial instruments assuming hypothetical movements in future market rates and is not necessarily indicative of actual results , which may or may not occur .",
+      "it does not represent the maximum possible loss or any expected loss that may occur , since actual future gains and losses will differ from those estimated , based upon actual fluctuations in market rates , operating exposures , and the timing thereof , and changes in our portfolio of derivative financial instruments during the year .",
+      "we believe , however , that any such loss incurred would be offset by the effects of market rate movements on the respective underlying transactions for which the deriva- tive financial instrument was intended .",
+      "off-balance sheet arrangements we do not maintain any off-balance sheet arrangements , transactions , obligations or other relationships with unconsolidated entities , other than operating leases , that would be expected to have a material current or future effect upon our financial condition or results of operations .",
+      "the est{e lauder companies inc .",
+      "135 ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "year ended june 30 2013 high",
+        "year ended june 30 2013 low",
+        "year ended june 30 2013 average"
+      ],
+      [
+        "foreign exchange contracts",
+        "$ 24.5",
+        "$ 19.1",
+        "$ 21.9"
+      ]
+    ],
+    "questions": [
+      "what is the percentage of the british pound among the total foreign currency forward contracts?"
+    ]
+  }
+}

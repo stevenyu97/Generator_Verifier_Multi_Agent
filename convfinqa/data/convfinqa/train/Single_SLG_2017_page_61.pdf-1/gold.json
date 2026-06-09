@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the capital lease payment in 2019?",
+      "answer": 2411.0,
+      "answer_raw": "2411.0",
+      "program": "2411"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2018?",
+      "answer": 2387.0,
+      "answer_raw": "2387.0",
+      "program": "2387"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference in this value between the two years?",
+      "answer": 24.0,
+      "answer_raw": "24.0",
+      "program": "subtract(2411, 2387)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the rate of increase during this time?",
+      "answer": 0.01005,
+      "answer_raw": "0.01005",
+      "program": "subtract(2411, 2387), divide(#0, 2387)"
+    }
+  ]
+}

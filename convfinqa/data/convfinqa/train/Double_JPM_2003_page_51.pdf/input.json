@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "Double_JPM/2003/page_51.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "j.p .",
+      "morgan chase & co .",
+      "/ 2003 annual report 49 off 2013balance sheet arrangements and contractual cash obligations special-purpose entities special-purpose entities ( 201cspes 201d ) , special-purpose vehicles ( 201cspvs 201d ) , or variable-interest entities ( 201cvies 201d ) , are an important part of the financial markets , providing market liquidity by facili- tating investors 2019 access to specific portfolios of assets and risks .",
+      "spes are not operating entities ; typically they are established for a single , discrete purpose , have a limited life and have no employees .",
+      "the basic spe structure involves a company selling assets to the spe .",
+      "the spe funds the asset purchase by selling securities to investors .",
+      "to insulate investors from creditors of other entities , including the seller of the assets , spes are often structured to be bankruptcy-remote .",
+      "spes are critical to the functioning of many investor markets , including , for example , the market for mortgage-backed securities , other asset-backed securities and commercial paper .",
+      "jpmorgan chase is involved with spes in three broad categories of transactions : loan securi- tizations ( through 201cqualifying 201d spes ) , multi-seller conduits , and client intermediation .",
+      "capital is held , as appropriate , against all spe-related transactions and related exposures such as deriva- tive transactions and lending-related commitments .",
+      "the firm has no commitments to issue its own stock to support any spe transaction , and its policies require that transactions with spes be conducted at arm 2019s length and reflect market pric- ing .",
+      "consistent with this policy , no jpmorgan chase employee is permitted to invest in spes with which the firm is involved where such investment would violate the firm 2019s worldwide rules of conduct .",
+      "these rules prohibit employees from self- dealing and prohibit employees from acting on behalf of the firm in transactions with which they or their family have any significant financial interest .",
+      "for certain liquidity commitments to spes , the firm could be required to provide funding if the credit rating of jpmorgan chase bank were downgraded below specific levels , primarily p-1 , a-1 and f1 for moody 2019s , standard & poor 2019s and fitch , respectively .",
+      "the amount of these liquidity commitments was $ 34.0 billion at december 31 , 2003 .",
+      "if jpmorgan chase bank were required to provide funding under these commitments , the firm could be replaced as liquidity provider .",
+      "additionally , with respect to the multi-seller conduits and structured commercial loan vehicles for which jpmorgan chase bank has extended liq- uidity commitments , the bank could facilitate the sale or refi- nancing of the assets in the spe in order to provide liquidity .",
+      "of these liquidity commitments to spes , $ 27.7 billion is included in the firm 2019s total other unfunded commitments to extend credit included in the table on the following page .",
+      "as a result of the consolidation of multi-seller conduits in accordance with fin 46 , $ 6.3 billion of these commitments are excluded from the table , as the underlying assets of the spe have been included on the firm 2019s consolidated balance sheet .",
+      "the following table summarizes certain revenue information related to vies with which the firm has significant involvement , and qualifying spes: ."
+    ],
+    "post_text": [
+      "( a ) includes consolidated and nonconsolidated asset-backed commercial paper conduits for a consistent presentation of 2003 results .",
+      "the revenue reported in the table above represents primarily servicing fee income .",
+      "the firm also has exposure to certain vie vehicles arising from derivative transactions with vies ; these transactions are recorded at fair value on the firm 2019s consolidated balance sheet with changes in fair value ( i.e. , mark-to-market gains and losses ) recorded in trading revenue .",
+      "such mtm gains and losses are not included in the revenue amounts reported in the table above .",
+      "for a further discussion of spes and the firm 2019s accounting for spes , see note 1 on pages 86 201387 , note 13 on pages 100 2013103 , and note 14 on pages 103 2013106 of this annual report .",
+      "contractual cash obligations in the normal course of business , the firm enters into various con- tractual obligations that may require future cash payments .",
+      "contractual obligations at december 31 , 2003 , include long-term debt , trust preferred capital securities , operating leases , contractual purchases and capital expenditures and certain other liabilities .",
+      "for a further discussion regarding long-term debt and trust preferred capital securities , see note 18 on pages 109 2013111 of this annual report .",
+      "for a further discussion regarding operating leases , see note 27 on page 115 of this annual report .",
+      "the accompanying table summarizes jpmorgan chase 2019s off 2013 balance sheet lending-related financial instruments and signifi- cant contractual cash obligations , by remaining maturity , at december 31 , 2003 .",
+      "contractual purchases include commit- ments for future cash expenditures , primarily for services and contracts involving certain forward purchases of securities and commodities .",
+      "capital expenditures primarily represent future cash payments for real estate 2013related obligations and equip- ment .",
+      "contractual purchases and capital expenditures at december 31 , 2003 , reflect the minimum contractual obligation under legally enforceable contracts with contract terms that are both fixed and determinable .",
+      "excluded from the following table are a number of obligations to be settled in cash , primarily in under one year .",
+      "these obligations are reflected on the firm 2019s consolidated balance sheet and include deposits ; federal funds purchased and securities sold under repurchase agreements ; other borrowed funds ; purchases of debt and equity instruments that settle within standard market timeframes ( e.g .",
+      "regular-way ) ; derivative payables that do not require physical delivery of the underlying instrument ; and certain purchases of instruments that resulted in settlement failures. ."
+    ],
+    "table": [
+      [
+        "year ended december 31 2003 ( in millions )",
+        "year ended december 31 2003 vies",
+        "year ended december 31 2003 ( a )",
+        "year ended december 31 2003 spes",
+        "total"
+      ],
+      [
+        "revenue",
+        "$ 79",
+        "",
+        "$ 979",
+        "$ 1058"
+      ]
+    ],
+    "questions": [
+      "in the year of 2003, what was the revenue from vies as a percentage of the total one?",
+      "and what was the special purpose entities provided revenue as a portion of it?"
+    ]
+  }
+}

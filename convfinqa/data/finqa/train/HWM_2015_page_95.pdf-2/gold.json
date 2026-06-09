@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the 2013-2014 period , what is the percentual improvement of net productivity and overall higher volumes concerning the atoi?",
+      "answer": 7.78443,
+      "answer_raw": "7.78443",
+      "program": "divide(13, 167), multiply(#0, const_100)"
+    }
+  ]
+}

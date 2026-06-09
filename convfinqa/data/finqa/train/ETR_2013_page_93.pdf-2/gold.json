@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the entergy arkansas payment goes to entergy texas?",
+      "answer": 0.27564,
+      "answer_raw": "0.27564",
+      "program": "divide(43, 156)"
+    }
+  ]
+}

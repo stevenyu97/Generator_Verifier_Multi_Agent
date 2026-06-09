@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "VNO/2011/page_85.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "part ii item 5 .",
+      "market for registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities vornado 2019s common shares are traded on the new york stock exchange under the symbol 201cvno . 201d quarterly high and low sales prices of the common shares and dividends paid per share for the years ended december 31 , 2011 and 2010 were as follows : year ended year ended december 31 , 2011 december 31 , 2010 ."
+    ],
+    "post_text": [
+      "as of february 1 , 2012 , there were 1230 holders of record of our common shares .",
+      "recent sales of unregistered securities during the fourth quarter of 2011 , we issued 20891 common shares upon the redemption of class a units of the operating partnership held by persons who received units , in private placements in earlier periods , in exchange for their interests in limited partnerships that owned real estate .",
+      "the common shares were issued without registration under the securities act of 1933 in reliance on section 4 ( 2 ) of that act .",
+      "information relating to compensation plans under which our equity securities are authorized for issuance is set forth under part iii , item 12 of this annual report on form 10-k and such information is incorporated by reference herein .",
+      "recent purchases of equity securities in december 2011 , we received 410783 vornado common shares at an average price of $ 76.36 per share as payment for the exercise of certain employee options. ."
+    ],
+    "table": [
+      [
+        "quarter",
+        "year ended december 31 2011 high",
+        "year ended december 31 2011 low",
+        "year ended december 31 2011 dividends",
+        "year ended december 31 2011 high",
+        "year ended december 31 2011 low",
+        "dividends"
+      ],
+      [
+        "1st",
+        "$ 93.53",
+        "$ 82.12",
+        "$ 0.69",
+        "$ 78.40",
+        "$ 61.25",
+        "$ 0.65"
+      ],
+      [
+        "2nd",
+        "98.42",
+        "86.85",
+        "0.69",
+        "86.79",
+        "70.06",
+        "0.65"
+      ],
+      [
+        "3rd",
+        "98.77",
+        "72.85",
+        "0.69",
+        "89.06",
+        "68.59",
+        "0.65"
+      ],
+      [
+        "4th",
+        "84.30",
+        "68.39",
+        "0.69",
+        "91.67",
+        "78.06",
+        "0.65"
+      ]
+    ],
+    "questions": [
+      "was the quarterly high sales prices of the common shares and dividends paid per share for the first quarter of the year ended december 31 , 2011 higher than the fourth quarter of that period?"
+    ]
+  }
+}

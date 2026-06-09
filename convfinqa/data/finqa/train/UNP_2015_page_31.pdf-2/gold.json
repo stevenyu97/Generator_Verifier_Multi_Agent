@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "without the gain of $ 113 million from a real estate sale in the second quarter of 2015 what would other income have been in millions?",
+      "answer": 113.0,
+      "answer_raw": "113.0",
+      "program": "subtract(226, 113)"
+    }
+  ]
+}

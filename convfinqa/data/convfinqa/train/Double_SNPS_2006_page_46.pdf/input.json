@@ -1,0 +1,53 @@
+{
+  "input": {
+    "id": "Double_SNPS/2006/page_46.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "accounts receivable , net october 31 , 2006 october 31 , 2005 dollar change change ."
+    ],
+    "post_text": [
+      "the increase in accounts receivable was primarily due to the increased billings during the fiscal year ended october 31 , 2006 .",
+      "days sales outstanding ( dso ) was 39 days at october 31 , 2006 and 36 days at october 31 , 2005 .",
+      "our accounts receivable and dso are primarily driven by our billing and collections activities .",
+      "net working capital working capital is comprised of current assets less current liabilities , as shown on our balance sheet .",
+      "as of october 31 , 2006 , our working capital was $ 23.4 million , compared to $ 130.6 million as of october 31 , 2005 .",
+      "the decrease in net working capital of $ 107.2 million was primarily due to ( 1 ) a decrease of $ 73.7 million in cash and cash equivalents ; ( 2 ) a decrease of current deferred tax assets of $ 83.2 million , primarily due to a tax accounting method change ; ( 3 ) a decrease in income taxes receivable of $ 5.8 million ; ( 4 ) an increase in income taxes payable of $ 21.5 million ; ( 5 ) an increase in deferred revenue of $ 29.9 million ; and ( 6 ) a net increase of $ 2.8 million in accounts payable and other liabilities which included a reclassification of debt of $ 7.5 million from long term to short term debt .",
+      "this decrease was partially offset by ( 1 ) an increase in short-term investments of $ 59.9 million ; ( 2 ) an increase in prepaid and other assets of $ 27.4 million , which includes land of $ 23.4 million reclassified from property plant and equipment to asset held for sale within prepaid expense and other assets on our consolidated balance sheet ; and ( 3 ) an increase in accounts receivable of $ 22.4 million .",
+      "other commitments 2014revolving credit facility on october 20 , 2006 , we entered into a five-year , $ 300.0 million senior unsecured revolving credit facility providing for loans to synopsys and certain of its foreign subsidiaries .",
+      "the facility replaces our previous $ 250.0 million senior unsecured credit facility , which was terminated effective october 20 , 2006 .",
+      "the amount of the facility may be increased by up to an additional $ 150.0 million through the fourth year of the facility .",
+      "the facility contains financial covenants requiring us to maintain a minimum leverage ratio and specified levels of cash , as well as other non-financial covenants .",
+      "the facility terminates on october 20 , 2011 .",
+      "borrowings under the facility bear interest at the greater of the administrative agent 2019s prime rate or the federal funds rate plus 0.50% ( 0.50 % ) ; however , we have the option to pay interest based on the outstanding amount at eurodollar rates plus a spread between 0.50% ( 0.50 % ) and 0.70% ( 0.70 % ) based on a pricing grid tied to a financial covenant .",
+      "in addition , commitment fees are payable on the facility at rates between 0.125% ( 0.125 % ) and 0.175% ( 0.175 % ) per year based on a pricing grid tied to a financial covenant .",
+      "as of october 31 , 2006 we had no outstanding borrowings under this credit facility and were in compliance with all the covenants .",
+      "we believe that our current cash , cash equivalents , short-term investments , cash generated from operations , and available credit under our credit facility will satisfy our business requirements for at least the next twelve months. ."
+    ],
+    "table": [
+      [
+        "october 31 2006",
+        "october 31 2005",
+        "dollar change",
+        "% (  % ) change"
+      ],
+      [
+        "( dollars in millions )",
+        "( dollars in millions )",
+        "",
+        ""
+      ],
+      [
+        "$ 122.6",
+        "$ 100.2",
+        "$ 22.4",
+        "22% ( 22 % )"
+      ]
+    ],
+    "questions": [
+      "what is the net change dso from 2005 to 2006?",
+      "what is the working capital in 2006?",
+      "what about the balance of accounts receivables in 2006?",
+      "what portion is working capital?"
+    ]
+  }
+}

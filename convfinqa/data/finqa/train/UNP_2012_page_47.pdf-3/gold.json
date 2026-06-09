@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the estimated growth rate in net periodic pension cost from 2012 to 2013?",
+      "answer": 0.24719,
+      "answer_raw": "0.24719",
+      "program": "subtract(111, 89), divide(#0, 89)"
+    }
+  ]
+}

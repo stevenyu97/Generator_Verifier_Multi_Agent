@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the total purchase price was comprised of developed product technology ( cialis ) ?",
+      "answer": 0.71526,
+      "answer_raw": "0.71526",
+      "program": "divide(1659.9, 2320.7)"
+    }
+  ]
+}

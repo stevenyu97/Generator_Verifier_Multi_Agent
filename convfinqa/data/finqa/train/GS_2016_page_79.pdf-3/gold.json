@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total long-term assets under supervision are comprised of fixed income in 2015?",
+      "answer": 0.57484,
+      "answer_raw": "0.57484",
+      "program": "divide(530, 922)"
+    }
+  ]
+}

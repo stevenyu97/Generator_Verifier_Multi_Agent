@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the sales proceeds from cilcorp/medina valley in january 2003?",
+      "answer": 495.0,
+      "answer_raw": "495.0",
+      "program": "495"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were the proceeds from aes ecogen/aes mt . stuart in january 2003?",
+      "answer": 59.0,
+      "answer_raw": "59.0",
+      "program": "59"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 554.0,
+      "answer_raw": "554.0",
+      "program": "add(495, 59)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the sum including mountainview proceeds?",
+      "answer": 584.0,
+      "answer_raw": "584.0",
+      "program": "add(495, 59), add(#0, 30)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the proceeds from kelvin?",
+      "answer": 29.0,
+      "answer_raw": "29.0",
+      "program": "29"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the total sum from the 4 projects?",
+      "answer": 613.0,
+      "answer_raw": "613.0",
+      "program": "add(495, 59), add(#0, 30), add(#1, 29)"
+    }
+  ]
+}

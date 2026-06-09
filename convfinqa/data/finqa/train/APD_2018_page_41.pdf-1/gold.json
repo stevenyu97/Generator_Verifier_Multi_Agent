@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the increase in the interest expenses during 2017 and 2018?",
+      "answer": 0.08209,
+      "answer_raw": "0.08209",
+      "program": "divide(130.5, 120.6), subtract(#0, const_1)"
+    }
+  ]
+}

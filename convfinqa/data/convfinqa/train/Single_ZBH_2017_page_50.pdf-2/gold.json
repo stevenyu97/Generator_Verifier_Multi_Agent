@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the allowance for doubtful accounts as of 12/31/17?",
+      "answer": 60.2,
+      "answer_raw": "60.2",
+      "program": "60.2"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2016?",
+      "answer": 51.6,
+      "answer_raw": "51.6",
+      "program": "51.6"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between these two values?",
+      "answer": 8.6,
+      "answer_raw": "8.6",
+      "program": "subtract(60.2, 51.6)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage change during this time?",
+      "answer": 0.16667,
+      "answer_raw": "0.16667",
+      "program": "subtract(60.2, 51.6), divide(#0, 51.6)"
+    }
+  ]
+}

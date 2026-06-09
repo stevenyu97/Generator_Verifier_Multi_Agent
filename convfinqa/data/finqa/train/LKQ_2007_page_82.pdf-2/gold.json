@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the review of the keystone acquisition expenses what was the percent of the total reserves established associated with severance related costs",
+      "answer": 0.77235,
+      "answer_raw": "0.77235",
+      "program": "divide(11233, 14544)"
+    }
+  ]
+}

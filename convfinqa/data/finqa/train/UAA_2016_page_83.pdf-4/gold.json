@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total future minimum sponsorship and other payments will be due in the next three years?",
+      "answer": 0.35857,
+      "answer_raw": "0.35857",
+      "program": "add(176138, 166961), add(#0, 142987), divide(#1, 1355605)"
+    }
+  ]
+}

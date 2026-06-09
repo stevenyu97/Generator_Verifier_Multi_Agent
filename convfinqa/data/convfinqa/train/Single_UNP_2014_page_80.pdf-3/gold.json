@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are minimum payments of operating leases?",
+      "answer": 3725.0,
+      "answer_raw": "3725.0",
+      "program": "3725"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what are minimum payments of capital leases?",
+      "answer": 1927.0,
+      "answer_raw": "1927.0",
+      "program": "1927"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 5652.0,
+      "answer_raw": "5652.0",
+      "program": "add(3725, 1927)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the value of capital leases?",
+      "answer": 1927.0,
+      "answer_raw": "1927.0",
+      "program": "1927"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is that divided by the sum of operating and capital leases?",
+      "answer": 0.34094,
+      "answer_raw": "0.34094",
+      "program": "add(3725, 1927), divide(1927, #0)"
+    }
+  ]
+}

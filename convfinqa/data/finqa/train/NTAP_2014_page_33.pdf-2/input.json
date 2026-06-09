@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "NTAP/2014/page_33.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "performance graph the following graph shows a five-year comparison of the cumulative total return on our common stock , the nasdaq composite index , the s&p 500 index and the s&p 500 information technology index from april 24 , 2009 through april 25 , 2014 .",
+      "the past performance of our common stock is not indicative of the future performance of our common stock .",
+      "comparison of 5 year cumulative total return* among netapp , inc. , the nasdaq composite index , the s&p 500 index and the s&p 500 information technology index ."
+    ],
+    "post_text": [
+      "we believe that a number of factors may cause the market price of our common stock to fluctuate significantly .",
+      "see 201citem 1a .",
+      "risk factors . 201d sale of unregistered securities ."
+    ],
+    "table": [
+      [
+        "",
+        "4/09",
+        "4/10",
+        "4/11",
+        "4/12",
+        "4/13",
+        "4/14"
+      ],
+      [
+        "netapp inc .",
+        "$ 100.00",
+        "$ 189.45",
+        "$ 284.75",
+        "$ 212.19",
+        "$ 190.66",
+        "$ 197.58"
+      ],
+      [
+        "nasdaq composite",
+        "100.00",
+        "144.63",
+        "170.44",
+        "182.57",
+        "202.25",
+        "253.22"
+      ],
+      [
+        "s&p 500",
+        "100.00",
+        "138.84",
+        "162.75",
+        "170.49",
+        "199.29",
+        "240.02"
+      ],
+      [
+        "s&p 500 information technology",
+        "100.00",
+        "143.49",
+        "162.37",
+        "186.06",
+        "189.18",
+        "236.12"
+      ]
+    ],
+    "questions": [
+      "what was the difference in percentage cumulative total return for the five year period ending 4/14 between netapp inc . and the s&p 500 information technology index?"
+    ]
+  }
+}

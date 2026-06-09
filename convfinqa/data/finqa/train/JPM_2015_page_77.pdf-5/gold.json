@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the 5 year return of the s&p 500 index?",
+      "answer": 0.8067,
+      "answer_raw": "0.8067",
+      "program": "subtract(180.67, const_100), divide(#0, const_100)"
+    }
+  ]
+}

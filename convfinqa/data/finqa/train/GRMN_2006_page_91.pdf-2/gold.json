@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the weighted average fair value of options , what was the decrease between shares that vested in 2006 and 2005?",
+      "answer": 399.73289,
+      "answer_raw": "399.73289",
+      "program": "divide(9413, 20.01), divide(8249, 9.48), subtract(#1, #0)"
+    }
+  ]
+}

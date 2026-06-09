@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "ETR/2016/page_175.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries notes to financial statements liability to $ 60 million , and recorded the $ 2.7 million difference as a credit to interest expense .",
+      "the $ 60 million remaining liability was eliminated upon payment of the cash portion of the purchase price .",
+      "as of december 31 , 2016 , entergy louisiana , in connection with the waterford 3 lease obligation , had a future minimum lease payment ( reflecting an interest rate of 8.09% ( 8.09 % ) ) of $ 57.5 million , including $ 2.3 million in interest , due january 2017 that is recorded as long-term debt .",
+      "in february 2017 the leases were terminated and the leased assets were conveyed to entergy louisiana .",
+      "grand gulf lease obligations in 1988 , in two separate but substantially identical transactions , system energy sold and leased back undivided ownership interests in grand gulf for the aggregate sum of $ 500 million .",
+      "the initial term of the leases expired in july 2015 .",
+      "system energy renewed the leases for fair market value with renewal terms expiring in july 2036 .",
+      "at the end of the new lease renewal terms , system energy has the option to repurchase the leased interests in grand gulf or renew the leases at fair market value .",
+      "in the event that system energy does not renew or purchase the interests , system energy would surrender such interests and their associated entitlement of grand gulf 2019s capacity and energy .",
+      "system energy is required to report the sale-leaseback as a financing transaction in its financial statements .",
+      "for financial reporting purposes , system energy expenses the interest portion of the lease obligation and the plant depreciation .",
+      "however , operating revenues include the recovery of the lease payments because the transactions are accounted for as a sale and leaseback for ratemaking purposes .",
+      "consistent with a recommendation contained in a ferc audit report , system energy initially recorded as a net regulatory asset the difference between the recovery of the lease payments and the amounts expensed for interest and depreciation and continues to record this difference as a regulatory asset or liability on an ongoing basis , resulting in a zero net balance for the regulatory asset at the end of the lease term .",
+      "the amount was a net regulatory liability of $ 55.6 million and $ 55.6 million as of december 31 , 2016 and 2015 , respectively .",
+      "as of december 31 , 2016 , system energy , in connection with the grand gulf sale and leaseback transactions , had future minimum lease payments ( reflecting an implicit rate of 5.13% ( 5.13 % ) ) that are recorded as long-term debt , as follows : amount ( in thousands ) ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in thousands )"
+      ],
+      [
+        "2017",
+        "$ 17188"
+      ],
+      [
+        "2018",
+        "17188"
+      ],
+      [
+        "2019",
+        "17188"
+      ],
+      [
+        "2020",
+        "17188"
+      ],
+      [
+        "2021",
+        "17188"
+      ],
+      [
+        "years thereafter",
+        "257812"
+      ],
+      [
+        "total",
+        "343752"
+      ],
+      [
+        "less : amount representing interest",
+        "309393"
+      ],
+      [
+        "present value of net minimum lease payments",
+        "$ 34359"
+      ]
+    ],
+    "questions": [
+      "what are the implicit interest costs for the lease payments due after 2021 , in thousands?"
+    ]
+  }
+}

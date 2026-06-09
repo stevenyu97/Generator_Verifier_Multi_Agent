@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the change in the company 2019s warranty liability from 2011 to 2012",
+      "answer": 0.15686,
+      "answer_raw": "0.15686",
+      "program": "subtract(118, 102), divide(#0, 102)"
+    }
+  ]
+}

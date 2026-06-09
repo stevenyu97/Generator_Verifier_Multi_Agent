@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2007 what was the ratio of the changes in loans to other assets",
+      "answer": 4.47205,
+      "answer_raw": "4.47205",
+      "program": "divide(720, 161)"
+    }
+  ]
+}

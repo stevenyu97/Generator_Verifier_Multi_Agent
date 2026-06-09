@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 31 , 2011 , what is the additional borrowing capacity in billions pursuant to the current debt coverage restrictions?",
+      "answer": 27.7,
+      "answer_raw": "27.7",
+      "program": "subtract(37.2, 9.5)"
+    }
+  ]
+}

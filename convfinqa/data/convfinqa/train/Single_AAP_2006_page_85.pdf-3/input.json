@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "Single_AAP/2006/page_85.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "advance auto parts , inc .",
+      "and subsidiaries notes to consolidated financial statements 2013 ( continued ) december 30 , 2006 , december 31 , 2005 and january 1 , 2005 ( in thousands , except per share data ) 8 .",
+      "inventories , net inventories are stated at the lower of cost or market , cost being determined using the last-in , first-out ( \"lifo\" ) method for approximately 93% ( 93 % ) of inventories at both december 30 , 2006 and december 31 , 2005 .",
+      "under the lifo method , the company 2019s cost of sales reflects the costs of the most currently purchased inventories while the inventory carrying balance represents the costs relating to prices paid in prior years .",
+      "the company 2019s costs to acquire inventory have been generally decreasing in recent years as a result of its significant growth .",
+      "accordingly , the cost to replace inventory is less than the lifo balances carried for similar product .",
+      "as a result of the lifo method and the ability to obtain lower product costs , the company recorded a reduction to cost of sales of $ 9978 for fiscal year ended 2006 , an increase in cost of sales of $ 526 for fiscal year ended 2005 and a reduction to cost of sales of $ 11212 for fiscal year ended 2004 .",
+      "the remaining inventories are comprised of product cores , which consist of the non-consumable portion of certain parts and batteries and are valued under the first-in , first-out ( \"fifo\" ) method .",
+      "core values are included as part of our merchandise costs and are either passed on to the customer or returned to the vendor .",
+      "additionally , these products are not subject to the frequent cost changes like our other merchandise inventory , thus , there is no material difference from applying either the lifo or fifo valuation methods .",
+      "the company capitalizes certain purchasing and warehousing costs into inventory .",
+      "purchasing and warehousing costs included in inventory , at fifo , at december 30 , 2006 and december 31 , 2005 , were $ 95576 and $ 92833 , respectively .",
+      "inventories consist of the following : december 30 , december 31 , 2006 2005 ."
+    ],
+    "post_text": [
+      "replacement cost approximated fifo cost at december 30 , 2006 and december 31 , 2005 .",
+      "inventory quantities are tracked through a perpetual inventory system .",
+      "the company uses a cycle counting program in all distribution centers , parts delivered quickly warehouses , or pdqs , local area warehouses , or laws , and retail stores to ensure the accuracy of the perpetual inventory quantities of both merchandise and core inventory .",
+      "the company establishes reserves for estimated shrink based on historical accuracy and effectiveness of the cycle counting program .",
+      "the company also establishes reserves for potentially excess and obsolete inventories based on current inventory levels and the historical analysis of product sales and current market conditions .",
+      "the nature of the company 2019s inventory is such that the risk of obsolescence is minimal and excess inventory has historically been returned to the company 2019s vendors for credit .",
+      "the company provides reserves when less than full credit is expected from a vendor or when liquidating product will result in retail prices below recorded costs .",
+      "the company 2019s reserves against inventory for these matters were $ 31376 and $ 22825 at december 30 , 2006 and december 31 , 2005 , respectively .",
+      "9 .",
+      "property and equipment : property and equipment are stated at cost , less accumulated depreciation .",
+      "expenditures for maintenance and repairs are charged directly to expense when incurred ; major improvements are capitalized .",
+      "when items are sold or retired , the related cost and accumulated depreciation are removed from the accounts , with any gain or loss reflected in the consolidated statements of operations .",
+      "depreciation of land improvements , buildings , furniture , fixtures and equipment , and vehicles is provided over the estimated useful lives , which range from 2 to 40 years , of the respective assets using the straight-line method. ."
+    ],
+    "table": [
+      [
+        "",
+        "december 30 2006",
+        "december 31 2005"
+      ],
+      [
+        "inventories at fifo net",
+        "$ 1380573",
+        "$ 1294310"
+      ],
+      [
+        "adjustments to state inventories at lifo",
+        "82767",
+        "72789"
+      ],
+      [
+        "inventories at lifo net",
+        "$ 1463340",
+        "$ 1367099"
+      ]
+    ],
+    "questions": [
+      "what was the reduction of sales in 2006?",
+      "what was the reduction in sales in 2004?",
+      "what is the sum of these values?",
+      "what is the increase in sales in 2005?",
+      "what is the sum of reduction values plus the 2005 value?"
+    ]
+  }
+}

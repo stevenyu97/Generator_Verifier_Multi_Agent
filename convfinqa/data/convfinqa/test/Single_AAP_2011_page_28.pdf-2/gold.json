@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of the s&p 500 index on january 3, 2009 less it at the end of 2006?",
+      "answer": -34.3,
+      "answer_raw": "-34.3",
+      "program": "subtract(65.70, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that divided by 100?",
+      "answer": -0.343,
+      "answer_raw": "-0.343",
+      "program": "subtract(65.70, const_100), divide(#0, const_100)"
+    }
+  ]
+}

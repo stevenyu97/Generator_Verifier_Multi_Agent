@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would the annual fee for the revolver be, assuming its undrawn?",
+      "answer": 2.25,
+      "answer_raw": "2.25",
+      "program": "multiply(900, 0.25%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and converted to the millions?",
+      "answer": 2250000.0,
+      "answer_raw": "2250000.0",
+      "program": "multiply(900, 0.25%), multiply(#0, const_1000000)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much of the 2013 amortization expense is due to the term c-2 loan facility conversion?",
+      "answer": 0.2,
+      "answer_raw": "0.2",
+      "program": "divide(1, 5)"
+    }
+  ]
+}

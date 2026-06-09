@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the cash provided by operating activities in 2013?",
+      "answer": 6823.0,
+      "answer_raw": "6823.0",
+      "program": "6823"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2012?",
+      "answer": 6161.0,
+      "answer_raw": "6161.0",
+      "program": "6161"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference in this value between the years?",
+      "answer": 662.0,
+      "answer_raw": "662.0",
+      "program": "subtract(6823, 6161)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the value for 2012 again?",
+      "answer": 6161.0,
+      "answer_raw": "6161.0",
+      "program": "6161"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage change during this time?",
+      "answer": 0.10745,
+      "answer_raw": "0.10745",
+      "program": "subtract(6823, 6161), divide(#0, 6161)"
+    }
+  ]
+}

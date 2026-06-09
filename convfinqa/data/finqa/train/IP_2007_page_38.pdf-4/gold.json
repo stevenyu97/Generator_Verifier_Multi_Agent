@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "during 2006 what was the initial debt balance prior to the issuance of additional international paper debt securities for cash",
+      "answer": 0.4,
+      "answer_raw": "0.4",
+      "program": "subtract(5.2, 4.8)"
+    }
+  ]
+}

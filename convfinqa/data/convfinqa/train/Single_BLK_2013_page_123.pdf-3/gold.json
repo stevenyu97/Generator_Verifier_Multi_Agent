@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the maximum aggregate amount that may be borrowed under the cp program from 2009 to 2011?",
+      "answer": 0.5,
+      "answer_raw": "0.5",
+      "program": "subtract(3.5, 3.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the change over the 2009 value?",
+      "answer": 0.16667,
+      "answer_raw": "0.16667",
+      "program": "subtract(3.5, 3.0), divide(#0, 3.0)"
+    }
+  ]
+}

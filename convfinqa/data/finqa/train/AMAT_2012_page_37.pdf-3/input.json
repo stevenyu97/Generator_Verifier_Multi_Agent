@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "AMAT/2012/page_37.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "performance graph the performance graph below shows the five-year cumulative total stockholder return on applied common stock during the period from october 28 , 2007 through october 28 , 2012 .",
+      "this is compared with the cumulative total return of the standard & poor 2019s 500 stock index and the rdg semiconductor composite index over the same period .",
+      "the comparison assumes $ 100 was invested on october 28 , 2007 in applied common stock and in each of the foregoing indices and assumes reinvestment of dividends , if any .",
+      "dollar amounts in the graph are rounded to the nearest whole dollar .",
+      "the performance shown in the graph represents past performance and should not be considered an indication of future performance .",
+      "comparison of 5 year cumulative total return* among applied materials , inc. , the s&p 500 index and the rdg semiconductor composite index * $ 100 invested on 10/28/07 in stock or 10/31/07 in index , including reinvestment of dividends .",
+      "indexes calculated on month-end basis .",
+      "copyright a9 2012 s&p , a division of the mcgraw-hill companies inc .",
+      "all rights reserved. ."
+    ],
+    "post_text": [
+      "dividends during fiscal 2012 , applied 2019s board of directors declared three quarterly cash dividends in the amount of $ 0.09 per share each and one quarterly cash dividend in the amount of $ 0.08 per share .",
+      "during fiscal 2011 , applied 2019s board of directors declared three quarterly cash dividends in the amount of $ 0.08 per share each and one quarterly cash dividend in the amount of $ 0.07 per share .",
+      "during fiscal 2010 , applied 2019s board of directors declared three quarterly cash dividends in the amount of $ 0.07 per share each and one quarterly cash dividend in the amount of $ 0.06 .",
+      "dividends declared during fiscal 2012 , 2011 and 2010 amounted to $ 438 million , $ 408 million and $ 361 million , respectively .",
+      "applied currently anticipates that it will continue to pay cash dividends on a quarterly basis in the future , although the declaration and amount of any future cash dividends are at the discretion of the board of directors and will depend on applied 2019s financial condition , results of operations , capital requirements , business conditions and other factors , as well as a determination that cash dividends are in the best interests of applied 2019s stockholders .",
+      "10/28/07 10/26/08 10/25/09 10/31/10 10/30/11 10/28/12 applied materials , inc .",
+      "s&p 500 rdg semiconductor composite ."
+    ],
+    "table": [
+      [
+        "",
+        "10/28/2007",
+        "10/26/2008",
+        "10/25/2009",
+        "10/31/2010",
+        "10/30/2011",
+        "10/28/2012"
+      ],
+      [
+        "applied materials",
+        "100.00",
+        "61.22",
+        "71.06",
+        "69.23",
+        "72.37",
+        "62.92"
+      ],
+      [
+        "s&p 500 index",
+        "100.00",
+        "63.90",
+        "70.17",
+        "81.76",
+        "88.37",
+        "101.81"
+      ],
+      [
+        "rdg semiconductor composite index",
+        "100.00",
+        "54.74",
+        "68.59",
+        "84.46",
+        "91.33",
+        "82.37"
+      ]
+    ],
+    "questions": [
+      "how much did the quarterly dividend yield change from 2010 to 2012 for applied materials?"
+    ]
+  }
+}

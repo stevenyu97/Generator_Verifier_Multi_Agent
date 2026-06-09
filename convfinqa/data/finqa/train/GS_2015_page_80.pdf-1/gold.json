@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how is cash flow from operating activities affected by the change in inventory from 2014 to 2015?",
+      "answer": 21831.0,
+      "answer_raw": "21831.0",
+      "program": "subtract(230667, 208836)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of september 28 , 2013 , the company had non-current deferred tax liabilities of $ 16.5 billion . what was the difference between this and the balance of gross unrecognized tax benefits , in billions?",
+      "answer": 13.8,
+      "answer_raw": "13.8",
+      "program": "subtract(16.5, 2.7)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average number of shares per registered holder as of march 18 , 2005?",
+      "answer": 310370.02961,
+      "answer_raw": "310370.02961",
+      "program": "divide(230604932, 743)"
+    }
+  ]
+}

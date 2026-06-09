@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the $ 227 million was associated with expected credit losses?",
+      "answer": 0.6652,
+      "answer_raw": "0.6652",
+      "program": "divide(151, 227)"
+    }
+  ]
+}

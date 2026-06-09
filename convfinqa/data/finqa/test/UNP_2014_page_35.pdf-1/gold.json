@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would 2014 capital expenditures have been without the early buyout of the operating lease of the headquarters , in millions?",
+      "answer": 4510.0,
+      "answer_raw": "4510.0",
+      "program": "add(4249, 261)"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "UAA/2016/page_80.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "amortization expense , which is included in selling , general and administrative expenses , was $ 13.0 million , $ 13.9 million and $ 8.5 million for the years ended december 31 , 2016 , 2015 and 2014 , respectively .",
+      "the following is the estimated amortization expense for the company 2019s intangible assets as of december 31 , 2016 : ( in thousands ) ."
+    ],
+    "post_text": [
+      "at december 31 , 2016 , 2015 and 2014 , the company determined that its goodwill and indefinite- lived intangible assets were not impaired .",
+      "5 .",
+      "credit facility and other long term debt credit facility the company is party to a credit agreement that provides revolving commitments for up to $ 1.25 billion of borrowings , as well as term loan commitments , in each case maturing in january 2021 .",
+      "as of december 31 , 2016 there was no outstanding balance under the revolving credit facility and $ 186.3 million of term loan borrowings remained outstanding .",
+      "at the company 2019s request and the lender 2019s consent , revolving and or term loan borrowings may be increased by up to $ 300.0 million in aggregate , subject to certain conditions as set forth in the credit agreement , as amended .",
+      "incremental borrowings are uncommitted and the availability thereof , will depend on market conditions at the time the company seeks to incur such borrowings .",
+      "the borrowings under the revolving credit facility have maturities of less than one year .",
+      "up to $ 50.0 million of the facility may be used for the issuance of letters of credit .",
+      "there were $ 2.6 million of letters of credit outstanding as of december 31 , 2016 .",
+      "the credit agreement contains negative covenants that , subject to significant exceptions , limit the ability of the company and its subsidiaries to , among other things , incur additional indebtedness , make restricted payments , pledge their assets as security , make investments , loans , advances , guarantees and acquisitions , undergo fundamental changes and enter into transactions with affiliates .",
+      "the company is also required to maintain a ratio of consolidated ebitda , as defined in the credit agreement , to consolidated interest expense of not less than 3.50 to 1.00 and is not permitted to allow the ratio of consolidated total indebtedness to consolidated ebitda to be greater than 3.25 to 1.00 ( 201cconsolidated leverage ratio 201d ) .",
+      "as of december 31 , 2016 , the company was in compliance with these ratios .",
+      "in addition , the credit agreement contains events of default that are customary for a facility of this nature , and includes a cross default provision whereby an event of default under other material indebtedness , as defined in the credit agreement , will be considered an event of default under the credit agreement .",
+      "borrowings under the credit agreement bear interest at a rate per annum equal to , at the company 2019s option , either ( a ) an alternate base rate , or ( b ) a rate based on the rates applicable for deposits in the interbank market for u.s .",
+      "dollars or the applicable currency in which the loans are made ( 201cadjusted libor 201d ) , plus in each case an applicable margin .",
+      "the applicable margin for loans will ."
+    ],
+    "table": [
+      [
+        "2017",
+        "$ 10509"
+      ],
+      [
+        "2018",
+        "9346"
+      ],
+      [
+        "2019",
+        "9240"
+      ],
+      [
+        "2020",
+        "7201"
+      ],
+      [
+        "2021",
+        "5318"
+      ],
+      [
+        "2022 and thereafter",
+        "16756"
+      ],
+      [
+        "amortization expense of intangible assets",
+        "$ 58370"
+      ]
+    ],
+    "questions": [
+      "what was the difference in millions of amortization expense between 2014 and 2015?"
+    ]
+  }
+}

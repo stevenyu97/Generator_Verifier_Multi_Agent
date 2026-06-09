@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "MRO/2008/page_69.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "crude oil , and political unrest in the middle east and elsewhere .",
+      "later in 2008 , crude oil prices dropped more rapidly than they had climbed as the u.s .",
+      "dollar rebounded and other countries entered recessions which decreased demand .",
+      "during 2008 , the average spot price per barrel for wti was $ 99.75 , up from an average of $ 72.41 in 2007 , but ended the year at $ 44.60 .",
+      "the average spot price per barrel for brent was $ 97.26 in 2008 , up from an average of $ 72.39 in 2007 , but ended the year at $ 36.55 .",
+      "the differential between wti and brent average prices widened to $ 2.49 in 2008 from $ 0.02 in 2007 .",
+      "our domestic crude oil production is on average heavier and higher in sulfur content than light sweet wti .",
+      "heavier and higher sulfur crude oil ( commonly referred to as heavy sour crude oil ) sells at a discount to light sweet crude oil .",
+      "our international crude oil production is relatively sweet and is generally sold in relation to the brent crude oil benchmark .",
+      "natural gas prices on average were higher in 2008 than in 2007 .",
+      "a significant portion of our u.s .",
+      "lower 48 states natural gas production is sold at bid-week prices or first-of-month indices relative to our specific producing areas .",
+      "the average henry hub first-of-month price index was $ 2.18 per thousand cubic feet ( 201cmcf 201d ) higher in 2008 than the 2007 average .",
+      "natural gas sales in alaska are subject to term contracts .",
+      "our other major natural gas-producing regions are europe and equatorial guinea , where large portions of our natural gas sales are subject to term contracts , making realized prices in these areas less volatile .",
+      "as we sell larger quantities of natural gas from these regions , to the extent that these fixed prices are lower than prevailing prices , our reported average natural gas prices realizations may decrease .",
+      "e&p segment income during 2008 was up 57 percent from 2007 , with revenue increases tied to these increases in average commodity prices accounting for almost half of the income improvement .",
+      "liquid hydrocarbon and natural gas sales volumes were also higher in 2008 than 2007 .",
+      "oil sands mining oil sands mining segment revenues correlate with prevailing market prices for the various qualities of synthetic crude oil and vacuum gas oil we produce .",
+      "roughly two-thirds of the normal output mix will track movements in wti and one-third will track movements in the canadian heavy sour crude oil marker , primarily western canadian select .",
+      "output mix can be impacted by operational problems or planned unit outages at the mine or upgrader .",
+      "during 2008 , our average realized price for synthetic crude oil and vacuum gas oil was $ 91.90 per barrel , up from 2007 , but ended the year at $ 24.97 per barrel impacted by a heavier yield in december and a seasonal decrease in the value of our heavy output .",
+      "the operating cost structure of the oil sands mining operations is predominantly fixed , and therefore many of the costs incurred in times of full operation continue during production downtime .",
+      "per unit costs are sensitive to production rates .",
+      "key variable costs are natural gas and diesel fuel , which track commodity markets such as the canadian aeco natural gas sales index and crude prices respectively .",
+      "the table below shows benchmark prices that impact both our revenues and variable costs , listing high and low spot prices during the year. ."
+    ],
+    "post_text": [
+      "wti crude oil ( dollars per barrel ) $ 145.29 july 3 $ 33.87 december 19 western canadian select ( dollars per barrel ) ( a ) $ 114.95 july $ 23.18 december aeco natural gas sales index ( canadian dollars per gigajoule ) ( b ) $ 11.34 july 1 $ 5.42 september 19 ( a ) monthly pricing based upon average wti adjusted for differentials unique to western canada .",
+      "( b ) alberta energy company day ahead index .",
+      "our osm segment reported income of $ 258 million for 2008 , reflecting synthetic crude oil and vacuum gas oil sales averaging 32 mboepd .",
+      "derivative instruments intended to hedge price risk on future sales have impacted revenues in the periods presented , with net gains of $ 48 million in 2008 and net losses of $ 53 million in 2007 .",
+      "in the first quarter of 2009 , we entered into derivative instruments which effectively offset certain of our open derivative positions .",
+      "refining , marketing and transportation rm&t segment income depends largely on our refining and wholesale marketing gross margin , refinery throughputs , retail marketing gross margins for gasoline , distillates and merchandise , and the profitability of our pipeline transportation operations. ."
+    ],
+    "table": [
+      [
+        "benchmark wti crude oil ( dollars per barrel )",
+        "high $ 145.29",
+        "date july 3",
+        "low $ 33.87",
+        "date december 19"
+      ],
+      [
+        "western canadian select ( dollars per barrel ) ( a )",
+        "$ 114.95",
+        "july",
+        "$ 23.18",
+        "december"
+      ],
+      [
+        "aeco natural gas sales index ( canadian dollars per gigajoule ) ( b )",
+        "$ 11.34",
+        "july 1",
+        "$ 5.42",
+        "september 19"
+      ]
+    ],
+    "questions": [
+      "what is the difference between the high wti crude oil and western canadian select prices?"
+    ]
+  }
+}

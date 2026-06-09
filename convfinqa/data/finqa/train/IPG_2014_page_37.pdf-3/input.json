@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "IPG/2014/page_37.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis of financial condition and results of operations 2013 ( continued ) ( amounts in millions , except per share amounts ) net cash used in investing activities during 2013 primarily related to payments for capital expenditures and acquisitions .",
+      "capital expenditures of $ 173.0 related primarily to computer hardware and software and leasehold improvements .",
+      "we made payments of $ 61.5 related to acquisitions completed during 2013 , net of cash acquired .",
+      "financing activities net cash used in financing activities during 2014 primarily related to the purchase of long-term debt , the repurchase of our common stock and payment of dividends .",
+      "during 2014 , we redeemed all $ 350.0 in aggregate principal amount of the 6.25% ( 6.25 % ) notes , repurchased 14.9 shares of our common stock for an aggregate cost of $ 275.1 , including fees , and made dividend payments of $ 159.0 on our common stock .",
+      "this was offset by the issuance of $ 500.0 in aggregate principal amount of our 4.20% ( 4.20 % ) notes .",
+      "net cash used in financing activities during 2013 primarily related to the purchase of long-term debt , the repurchase of our common stock and payment of dividends .",
+      "we redeemed all $ 600.0 in aggregate principal amount of our 10.00% ( 10.00 % ) notes .",
+      "in addition , we repurchased 31.8 shares of our common stock for an aggregate cost of $ 481.8 , including fees , and made dividend payments of $ 126.0 on our common stock .",
+      "foreign exchange rate changes the effect of foreign exchange rate changes on cash and cash equivalents included in the consolidated statements of cash flows resulted in a decrease of $ 101.0 in 2014 .",
+      "the decrease was primarily a result of the u.s .",
+      "dollar being stronger than several foreign currencies , including the canadian dollar , brazilian real , australian dollar and the euro as of december 31 , 2014 compared to december 31 , 2013 .",
+      "the effect of foreign exchange rate changes on cash and cash equivalents included in the consolidated statements of cash flows resulted in a decrease of $ 94.1 in 2013 .",
+      "the decrease was primarily a result of the u.s .",
+      "dollar being stronger than several foreign currencies , including the australian dollar , brazilian real , canadian dollar , japanese yen , and south african rand as of december 31 , 2013 compared to december 31 , 2012. ."
+    ],
+    "post_text": [
+      "liquidity outlook we expect our cash flow from operations , cash and cash equivalents to be sufficient to meet our anticipated operating requirements at a minimum for the next twelve months .",
+      "we also have a committed corporate credit facility as well as uncommitted facilities available to support our operating needs .",
+      "we continue to maintain a disciplined approach to managing liquidity , with flexibility over significant uses of cash , including our capital expenditures , cash used for new acquisitions , our common stock repurchase program and our common stock dividends .",
+      "from time to time , we evaluate market conditions and financing alternatives for opportunities to raise additional funds or otherwise improve our liquidity profile , enhance our financial flexibility and manage market risk .",
+      "our ability to access the capital markets depends on a number of factors , which include those specific to us , such as our credit rating , and those related to the financial markets , such as the amount or terms of available credit .",
+      "there can be no guarantee that we would be able to access new sources of liquidity on commercially reasonable terms , or at all. ."
+    ],
+    "table": [
+      [
+        "balance sheet data",
+        "december 31 , 2014",
+        "december 31 , 2013"
+      ],
+      [
+        "cash cash equivalents and marketable securities",
+        "$ 1667.2",
+        "$ 1642.1"
+      ],
+      [
+        "short-term borrowings",
+        "$ 107.2",
+        "$ 179.1"
+      ],
+      [
+        "current portion of long-term debt",
+        "2.1",
+        "353.6"
+      ],
+      [
+        "long-term debt",
+        "1623.5",
+        "1129.8"
+      ],
+      [
+        "total debt",
+        "$ 1732.8",
+        "$ 1662.5"
+      ]
+    ],
+    "questions": [
+      "what was the average of short-term borrowings in 2013-2014?"
+    ]
+  }
+}

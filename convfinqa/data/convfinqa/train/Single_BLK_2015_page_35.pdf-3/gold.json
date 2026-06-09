@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in the balance of asset allocation from 2014 to 2015?",
+      "answer": 2804.0,
+      "answer_raw": "2804.0",
+      "program": "subtract(185836, 183032)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that change over the 2014 value?",
+      "answer": 0.01532,
+      "answer_raw": "0.01532",
+      "program": "subtract(185836, 183032), divide(#0, 183032)"
+    }
+  ]
+}

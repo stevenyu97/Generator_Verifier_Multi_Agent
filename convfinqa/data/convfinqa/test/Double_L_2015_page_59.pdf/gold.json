@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "from 2010 to 2011, what was the change in the value of the loews common stock?",
+      "answer": -2.63,
+      "answer_raw": "-2.63",
+      "program": "subtract(97.37, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was this change as a portion of the 2010 value of that stock?",
+      "answer": -0.0263,
+      "answer_raw": "-0.0263",
+      "program": "subtract(97.37, const_100), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and from 2010 to 2012, what was the change in the value of that stock?",
+      "answer": 6.04,
+      "answer_raw": "6.04",
+      "program": "subtract(106.04, const_100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "how much did this change represent in relation to that 2010 value?",
+      "answer": 0.0604,
+      "answer_raw": "0.0604",
+      "program": "subtract(106.04, const_100), divide(#0, const_100)"
+    }
+  ]
+}

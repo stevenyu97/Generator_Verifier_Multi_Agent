@@ -1,0 +1,88 @@
+{
+  "input": {
+    "id": "Single_EOG/2018/page_98.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "eog resources , inc .",
+      "supplemental information to consolidated financial statements ( continued ) net proved undeveloped reserves .",
+      "the following table presents the changes in eog's total proved undeveloped reserves during 2018 , 2017 and 2016 ( in mboe ) : ."
+    ],
+    "post_text": [
+      "for the twelve-month period ended december 31 , 2018 , total puds increased by 217 mmboe to 1380 mmboe .",
+      "eog added approximately 31 mmboe of puds through drilling activities where the wells were drilled but significant expenditures remained for completion .",
+      "based on the technology employed by eog to identify and record puds ( see discussion of technology employed on pages f-36 and f-37 of this annual report on form 10-k ) , eog added 460 mmboe .",
+      "the pud additions were primarily in the permian basin , anadarko basin , the eagle ford and , to a lesser extent , the rocky mountain area , and 80% ( 80 % ) of the additions were crude oil and condensate and ngls .",
+      "during 2018 , eog drilled and transferred 266 mmboe of puds to proved developed reserves at a total capital cost of $ 2745 million .",
+      "all puds , including drilled but uncompleted wells ( ducs ) , are scheduled for completion within five years of the original reserve booking .",
+      "for the twelve-month period ended december 31 , 2017 , total puds increased by 110 mmboe to 1163 mmboe .",
+      "eog added approximately 38 mmboe of puds through drilling activities where the wells were drilled but significant expenditures remained for completion .",
+      "based on the technology employed by eog to identify and record puds , eog added 199 mmboe .",
+      "the pud additions were primarily in the permian basin and , to a lesser extent , the eagle ford and the rocky mountain area , and 74% ( 74 % ) of the additions were crude oil and condensate and ngls .",
+      "during 2017 , eog drilled and transferred 153 mmboe of puds to proved developed reserves at a total capital cost of $ 1440 million .",
+      "revisions of puds totaled positive 33 mmboe , primarily due to updated type curves resulting from improved performance of offsetting wells in the permian basin , the impact of increases in the average crude oil and natural gas prices used in the december 31 , 2017 , reserves estimation as compared to the prices used in the prior year estimate , and lower costs .",
+      "during 2017 , eog sold or exchanged 8 mmboe of puds primarily in the permian basin .",
+      "for the twelve-month period ended december 31 , 2016 , total puds increased by 7 mmboe to 1053 mmboe .",
+      "eog added approximately 21 mmboe of puds through drilling activities where the wells were drilled but significant expenditures remained for completion .",
+      "based on the technology employed by eog to identify and record puds , eog added 117 mmboe .",
+      "the pud additions were primarily in the permian basin and , to a lesser extent , the rocky mountain area , and 82% ( 82 % ) of the additions were crude oil and condensate and ngls .",
+      "during 2016 , eog drilled and transferred 149 mmboe of puds to proved developed reserves at a total capital cost of $ 1230 million .",
+      "revisions of puds totaled positive 64 mmboe , primarily due to improved well performance , primarily in the delaware basin , and lower production costs , partially offset by the impact of decreases in the average crude oil and natural gas prices used in the december 31 , 2016 , reserves estimation as compared to the prices used in the prior year estimate .",
+      "during 2016 , eog sold 46 mmboe of puds primarily in the haynesville play. ."
+    ],
+    "table": [
+      [
+        "",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "balance at january 1",
+        "1162635",
+        "1053027",
+        "1045640"
+      ],
+      [
+        "extensions and discoveries",
+        "490725",
+        "237378",
+        "138101"
+      ],
+      [
+        "revisions",
+        "-8244 ( 8244 )",
+        "33127",
+        "64413"
+      ],
+      [
+        "acquisition of reserves",
+        "311",
+        "2014",
+        "2014"
+      ],
+      [
+        "sale of reserves",
+        "2014",
+        "-8253 ( 8253 )",
+        "-45917 ( 45917 )"
+      ],
+      [
+        "conversion to proved developed reserves",
+        "-265718 ( 265718 )",
+        "-152644 ( 152644 )",
+        "-149210 ( 149210 )"
+      ],
+      [
+        "balance at december 31",
+        "1379709",
+        "1162635",
+        "1053027"
+      ]
+    ],
+    "questions": [
+      "how much does the initial balance of 2018 represents in relation to that of 2017?",
+      "which number represents 100% in base 1?",
+      "what is the difference between that division and 1?"
+    ]
+  }
+}

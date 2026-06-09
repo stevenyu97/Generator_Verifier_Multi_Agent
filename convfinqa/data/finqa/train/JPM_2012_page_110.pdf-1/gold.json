@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "is the three year average credit risk greater than the market risk",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "table_average(credit risk, none), table_average(market risk, none), greater(#0, #1)"
+    }
+  ]
+}

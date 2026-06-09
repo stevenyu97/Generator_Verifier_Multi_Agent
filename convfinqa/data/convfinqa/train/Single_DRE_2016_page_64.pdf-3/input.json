@@ -1,0 +1,121 @@
+{
+  "input": {
+    "id": "Single_DRE/2016/page_64.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "."
+    ],
+    "post_text": [
+      "( 1 ) our long-term debt consists of both secured and unsecured debt and includes both principal and interest .",
+      "interest payments for variable rate debt were calculated using the interest rates as of december 31 , 2016 .",
+      "repayment of our $ 250.0 million variable rate term note , which has a contractual maturity date in january 2019 , is reflected as a 2020 obligation in the table above based on the ability to exercise a one-year extension , which we may exercise at our discretion .",
+      "( 2 ) our unsecured line of credit has a contractual maturity date in january 2019 , but is reflected as a 2020 obligation in the table above based on the ability to exercise a one-year extension , which we may exercise at our discretion .",
+      "interest payments for our unsecured line of credit were calculated using the most recent stated interest rate that was in effect.ff ( 3 ) our share of unconsolidated joint venture debt includes both principal and interest .",
+      "interest expense for variable rate debt was calculated using the interest rate at december 31 , 2016 .",
+      "( 4 ) represents estimated remaining costs on the completion of owned development projects and third-party construction projects .",
+      "related party y transactionstt we provide property and asset management , leasing , construction and other tenant-related services to ww unconsolidated companies in which we have equity interests .",
+      "for the years ended december 31 , 2016 , 2015 and 2014 we earned management fees of $ 4.5 million , $ 6.8 million and $ 8.5 million , leasing fees of $ 2.4 million , $ 3.0 million and $ 3.4 million and construction and development fees of $ 8.0 million , $ 6.1 million and $ 5.8 million , respectively , from these companies , prior to elimination of our ownership percentage .",
+      "yy we recorded these fees based ww on contractual terms that approximate market rates for these types of services and have eliminated our ownership percentages of these fees in the consolidated financial statements .",
+      "commitments and contingenciesg the partnership has guaranteed the repayment of $ 32.9 million of economic development bonds issued by various municipalities in connection with certain commercial developments .",
+      "we will be required to make payments under ww our guarantees to the extent that incremental taxes from specified developments are not sufficient to pay the bond ff debt service .",
+      "management does not believe that it is probable that we will be required to make any significant payments in satisfaction of these guarantees .",
+      "the partnership also has guaranteed the repayment of an unsecured loan of one of our unconsolidated subsidiaries .",
+      "at december 31 , 2016 , the maximum guarantee exposure for this loan was approximately $ 52.1 million .",
+      "we lease certain land positions with terms extending toww march 2114 , with a total future payment obligation of $ 311.1 million .",
+      "the payments on these ground leases , which are classified as operating leases , are not material in any individual year .",
+      "in addition to ground leases , we are party to other operating leases as part of conducting our business , including leases of office space from third parties , with a total future payment obligation of ff $ 43.4 million at december 31 , 2016 .",
+      "no future payments on these leases are material in any individual year .",
+      "we are subject to various legal proceedings and claims that arise in the ordinary course of business .",
+      "in the opinion ww of management , the amount of any ultimate liability with respect to these actions is not expected to materially affect ff our consolidated financial statements or results of operations .",
+      "we own certain parcels of land that are subject to special property tax assessments levied by quasi municipalww entities .",
+      "to the extent that such special assessments are fixed and determinable , the discounted value of the fulltt ."
+    ],
+    "table": [
+      [
+        "contractual obligations",
+        "payments due by period ( in thousands ) total",
+        "payments due by period ( in thousands ) 2017",
+        "payments due by period ( in thousands ) 2018",
+        "payments due by period ( in thousands ) 2019",
+        "payments due by period ( in thousands ) 2020",
+        "payments due by period ( in thousands ) 2021",
+        "payments due by period ( in thousands ) thereafter"
+      ],
+      [
+        "long-term debt ( 1 )",
+        "$ 3508789",
+        "$ 203244",
+        "$ 409257",
+        "$ 366456",
+        "$ 461309",
+        "$ 329339",
+        "$ 1739184"
+      ],
+      [
+        "line of credit ( 2 )",
+        "56127",
+        "2650",
+        "2650",
+        "2650",
+        "48177",
+        "2014",
+        "2014"
+      ],
+      [
+        "share of unconsolidated joint ventures' debt ( 3 )",
+        "91235",
+        "2444",
+        "28466",
+        "5737",
+        "11598",
+        "1236",
+        "41754"
+      ],
+      [
+        "ground leases",
+        "311120",
+        "10745",
+        "5721",
+        "5758",
+        "5793",
+        "5822",
+        "277281"
+      ],
+      [
+        "development and construction backlog costs ( 4 )",
+        "344700",
+        "331553",
+        "13147",
+        "2014",
+        "2014",
+        "2014",
+        "2014"
+      ],
+      [
+        "other",
+        "43357",
+        "7502",
+        "7342",
+        "5801",
+        "4326",
+        "3906",
+        "14480"
+      ],
+      [
+        "total contractual obligations",
+        "$ 4355328",
+        "$ 558138",
+        "$ 466583",
+        "$ 386402",
+        "$ 531203",
+        "$ 340303",
+        "$ 2072699"
+      ]
+    ],
+    "questions": [
+      "what was the change in value of management fees earned from 2015 to 2016?",
+      "what is the change divided by the 2015 value?",
+      "what is that shown as a percent?"
+    ]
+  }
+}

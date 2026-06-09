@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for acquired customer-related and network location intangibles , what is the expected annual amortization expenses , in millions?",
+      "answer": 7.385,
+      "answer_raw": "7.385",
+      "program": "add(75.0, 72.7), divide(#0, 20)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the table , how much percent did the healthcare sector outperform the overall market in this 5 year period?",
+      "answer": 18.0,
+      "answer_raw": "18.0",
+      "program": "subtract(199, 100), subtract(181, 100), subtract(#0, #1)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the income expense allocable to continuing operations in 2012?",
+      "answer": 245.2,
+      "answer_raw": "245.2",
+      "program": "245.2"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the income expense allocable to continuing operations in 2011?",
+      "answer": 220.5,
+      "answer_raw": "220.5",
+      "program": "220.5"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the net change during the year?",
+      "answer": 24.7,
+      "answer_raw": "24.7",
+      "program": "subtract(245.2, 220.5)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the percent change?",
+      "answer": 0.11202,
+      "answer_raw": "0.11202",
+      "program": "subtract(245.2, 220.5), divide(#0, 220.5)"
+    }
+  ]
+}

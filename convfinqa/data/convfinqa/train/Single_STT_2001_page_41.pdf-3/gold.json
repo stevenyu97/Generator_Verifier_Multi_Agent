@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of employees in 2001?",
+      "answer": 19753.0,
+      "answer_raw": "19753.0",
+      "program": "19753"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2000?",
+      "answer": 17604.0,
+      "answer_raw": "17604.0",
+      "program": "17604"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the difference between these two years?",
+      "answer": 2149.0,
+      "answer_raw": "2149.0",
+      "program": "subtract(19753, 17604)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the number in 2000 again?",
+      "answer": 17604.0,
+      "answer_raw": "17604.0",
+      "program": "17604"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the growth rate between these two years?",
+      "answer": 0.12207,
+      "answer_raw": "0.12207",
+      "program": "subtract(19753, 17604), divide(#0, 17604)"
+    }
+  ]
+}

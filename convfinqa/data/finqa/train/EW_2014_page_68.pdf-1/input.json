@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "EW/2014/page_68.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "edwards lifesciences corporation notes to consolidated financial statements ( continued ) 2 .",
+      "summary of significant accounting policies ( continued ) interim periods therein .",
+      "the new guidance can be applied retrospectively to each prior reporting period presented or retrospectively with the cumulative effect of the change recognized at the date of the initial application .",
+      "the company is currently assessing the impact this guidance will have on its consolidated financial statements , and has not yet selected a transition method .",
+      "3 .",
+      "change in accounting principle effective january 1 , 2014 , the company changed its method of accounting for certain intellectual property litigation expenses related to the defense and enforcement of its issued patents .",
+      "previously , the company capitalized these legal costs if a favorable outcome in the patent defense was determined to be probable , and amortized the capitalized legal costs over the life of the related patent .",
+      "as of december 31 , 2013 , the company had remaining unamortized capitalized legal costs of $ 23.7 million , which , under the previous accounting method , would have been amortized through 2021 .",
+      "under the new method of accounting , these legal costs are expensed in the period they are incurred .",
+      "the company has retrospectively adjusted the comparative financial statements of prior periods to apply this new method of accounting .",
+      "the company believes this change in accounting principle is preferable because ( 1 ) as more competitors enter the company 2019s key product markets and the threat of complex intellectual property litigation across multiple jurisdictions increases , it will become more difficult for the company to accurately assess the probability of a favorable outcome in such litigation , and ( 2 ) it will enhance the comparability of the company 2019s financial results with those of its peer group because it is the predominant accounting practice in the company 2019s industry .",
+      "the accompanying consolidated financial statements and related notes have been adjusted to reflect the impact of this change retrospectively to all prior periods presented .",
+      "the cumulative effect of the change in accounting principle was a decrease in retained earnings of $ 10.5 million as of january 1 , 2012 .",
+      "the following tables present the effects of the retrospective application of the change in accounting principle ( in millions ) : ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "consolidated balance sheet",
+        "as of december 31 2013 as reported",
+        "as of december 31 2013 as adjusted"
+      ],
+      [
+        "other intangible assets net",
+        "$ 57.2",
+        "$ 33.5"
+      ],
+      [
+        "deferred income taxes",
+        "70.1",
+        "79.0"
+      ],
+      [
+        "total assets",
+        "2724.7",
+        "2709.9"
+      ],
+      [
+        "retained earnings",
+        "2045.6",
+        "2030.8"
+      ],
+      [
+        "total stockholders' equity",
+        "1559.2",
+        "1544.4"
+      ],
+      [
+        "total liabilities and stockholders' equity",
+        "2724.7",
+        "2709.9"
+      ]
+    ],
+    "questions": [
+      "what was the affect of the change in accounting principles on other intangible assets net in millions?"
+    ]
+  }
+}

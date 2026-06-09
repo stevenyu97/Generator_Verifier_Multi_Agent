@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the sum of propane production in 2006 and 2007?",
+      "answer": 46.0,
+      "answer_raw": "46.0",
+      "program": "add(23, 23)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the sum including 2005?",
+      "answer": 68.0,
+      "answer_raw": "68.0",
+      "program": "add(23, 23), add(#0, 22)"
+    }
+  ]
+}

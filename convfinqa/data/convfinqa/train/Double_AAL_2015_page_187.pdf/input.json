@@ -1,0 +1,51 @@
+{
+  "input": {
+    "id": "Double_AAL/2015/page_187.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "table of contents notes to consolidated financial statements of american airlines , inc .",
+      "the asset .",
+      "projected cash flows are discounted at a required market rate of return that reflects the relative risk of achieving the cash flows and the time value of money .",
+      "the cost approach , which estimates value by determining the current cost of replacing an asset with another of equivalent economic utility , was used , as appropriate , for certain assets for which the market and income approaches could not be applied due to the nature of the asset .",
+      "the cost to replace a given asset reflects the estimated reproduction or replacement cost for the asset , less an allowance for loss in value due to depreciation .",
+      "the fair value of us airways 2019 dividend miles loyalty program liability was determined based on the weighted average equivalent ticket value of outstanding miles which were expected to be redeemed for future travel at december 9 , 2013 .",
+      "the weighted average equivalent ticket value contemplates differing classes of service , domestic and international itineraries and the carrier providing the award travel .",
+      "pro-forma impact of the merger american 2019s unaudited pro-forma results presented below include the effects of the merger as if it had been consummated as of january 1 , 2012 .",
+      "the pro- forma results include the depreciation and amortization associated with the acquired tangible and intangible assets , lease and debt fair value adjustments , the elimination of any deferred gains or losses , adjustments relating to reflecting the fair value of the loyalty program liability and the impact of income changes on profit sharing expense , among others .",
+      "in addition , the pro-forma results below reflect the impact of higher wage rates related to memorandums of understanding with us airways 2019 pilots that became effective upon closing of the merger , as well as the elimination of american 2019s reorganization items , net and merger transition costs .",
+      "however , the pro-forma results do not include any anticipated synergies or other expected benefits of the merger .",
+      "accordingly , the unaudited pro-forma financial information below is not necessarily indicative of either future results of operations or results that might have been achieved had the acquisition been consummated as of january 1 , 2012 .",
+      "december 31 , ( in millions ) ."
+    ],
+    "post_text": [
+      "5 .",
+      "basis of presentation and summary of significant accounting policies ( a ) basis of presentation on december 30 , 2015 , us airways merged with and into american , which is reflected in american 2019s consolidated financial statements as though the transaction had occurred on december 9 , 2013 , when a subsidiary of amr merged with and into us airways group .",
+      "thus , the full years of 2015 and 2014 and the period from december 9 , 2013 to december 31 , 2013 are comprised of the consolidated financial data of american and us airways .",
+      "for the periods prior to december 9 , 2013 , the financial data reflects the results of american only .",
+      "for financial reporting purposes , the transaction constituted a transfer of assets between entities under common control and was accounted for in a manner similar to the pooling of interests method of accounting .",
+      "under this method , the carrying amount of net assets recognized in the balance sheets of each combining entity are carried forward to the balance sheet of the combined entity and no other assets or liabilities are recognized .",
+      "the preparation of financial statements in accordance with accounting principles generally accepted in the united states ( gaap ) requires management to make certain estimates and assumptions that affect the reported amounts of assets and liabilities , revenues and expenses , and the disclosure of contingent assets and liabilities at the date of the financial statements .",
+      "actual results could differ from those estimates .",
+      "the most significant areas of judgment relate to passenger revenue recognition , impairment of goodwill , impairment of long-lived and ."
+    ],
+    "table": [
+      [
+        "",
+        "december 31 2013 ( in millions )"
+      ],
+      [
+        "revenue",
+        "$ 40782"
+      ],
+      [
+        "net income",
+        "2707"
+      ]
+    ],
+    "questions": [
+      "what is the net income in 2013?",
+      "what is the total revenue?",
+      "what is the net income margin?"
+    ]
+  }
+}

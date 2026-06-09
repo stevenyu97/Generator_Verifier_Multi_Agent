@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the income from financial investments net in 2010?",
+      "answer": 9.0,
+      "answer_raw": "9.0",
+      "program": "9"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2009?",
+      "answer": 3.0,
+      "answer_raw": "3.0",
+      "program": "3"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between these two years?",
+      "answer": 6.0,
+      "answer_raw": "6.0",
+      "program": "subtract(9, 3)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the value for 2009 again?",
+      "answer": 3.0,
+      "answer_raw": "3.0",
+      "program": "3"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage increase during this time?",
+      "answer": 2.0,
+      "answer_raw": "2.0",
+      "program": "subtract(9, 3), divide(#0, 3)"
+    }
+  ]
+}

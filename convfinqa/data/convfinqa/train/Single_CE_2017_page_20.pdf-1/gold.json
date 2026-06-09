@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in r&d expense between 2016 and 2017?",
+      "answer": -6.0,
+      "answer_raw": "-6.0",
+      "program": "subtract(72, 78)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the value for 2016 again?",
+      "answer": 78.0,
+      "answer_raw": "78.0",
+      "program": "78"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the percentage change during this time?",
+      "answer": -0.07692,
+      "answer_raw": "-0.07692",
+      "program": "subtract(72, 78), divide(#0, 78)"
+    }
+  ]
+}

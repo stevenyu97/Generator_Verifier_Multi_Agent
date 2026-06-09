@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in net charge-offs relating to commercial banking between 2007 and 2008?",
+      "answer": 0.66726,
+      "answer_raw": "0.66726",
+      "program": "subtract(2826, 1695), divide(#0, 1695)"
+    }
+  ]
+}

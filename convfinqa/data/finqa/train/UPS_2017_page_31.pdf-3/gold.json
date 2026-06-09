@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in percentage cumulative total shareowners return for united parcel service inc . versus the dow jones transportation average for the five years ended 12/31/2017?",
+      "answer": -0.1774,
+      "answer_raw": "-0.1774",
+      "program": "subtract(195.75, const_100), divide(#0, const_100), subtract(213.49, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

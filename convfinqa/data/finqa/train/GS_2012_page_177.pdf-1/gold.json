@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in billions as of december 2012 and december 2011 , what was the average amount of commitments to invest in funds managed by the firm , which will be funded at market value on the date of investment?",
+      "answer": 7.295,
+      "answer_raw": "7.295",
+      "program": "add(6.21, 8.38), divide(#0, const_2)"
+    }
+  ]
+}

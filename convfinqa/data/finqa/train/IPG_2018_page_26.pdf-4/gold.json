@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the potential cash payment for the cash dividend announced that our board of directors in 2019",
+      "answer": 2350.0,
+      "answer_raw": "2350.0",
+      "program": "multiply(10000, 0.235)"
+    }
+  ]
+}

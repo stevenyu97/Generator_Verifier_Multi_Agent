@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was the 2012 ending balance under the receivables securitization facility sufficient to fund the 2013 payments due for operating leases?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(100, 525)"
+    }
+  ]
+}

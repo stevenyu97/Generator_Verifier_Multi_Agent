@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the accretable yield activity for the firm 2019s pci consumer loans in 2010",
+      "answer": -0.25239,
+      "answer_raw": "-0.25239",
+      "program": "subtract(19097, 25544), divide(#0, 25544)"
+    }
+  ]
+}

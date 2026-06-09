@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in carrying amount reported on the consolidated balance sheet from 2008 to 2009?",
+      "answer": -0.21882,
+      "answer_raw": "-0.21882",
+      "program": "subtract(3338, 4273), divide(#0, 4273)"
+    }
+  ]
+}

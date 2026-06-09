@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "Single_PNC/2011/page_183.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "there were no options granted in excess of market value in 2011 , 2010 or 2009 .",
+      "shares of common stock available during the next year for the granting of options and other awards under the incentive plans were 33775543 at december 31 , 2011 .",
+      "total shares of pnc common stock authorized for future issuance under equity compensation plans totaled 35304422 shares at december 31 , 2011 , which includes shares available for issuance under the incentive plans and the employee stock purchase plan ( espp ) as described below .",
+      "during 2011 , we issued 731336 shares from treasury stock in connection with stock option exercise activity .",
+      "as with past exercise activity , we currently intend to utilize primarily treasury stock for any future stock option exercises .",
+      "awards granted to non-employee directors in 2011 , 2010 and 2009 include 27090 , 29040 , and 39552 deferred stock units , respectively , awarded under the outside directors deferred stock unit plan .",
+      "a deferred stock unit is a phantom share of our common stock , which requires liability accounting treatment until such awards are paid to the participants as cash .",
+      "as there are no vesting or service requirements on these awards , total compensation expense is recognized in full on awarded deferred stock units on the date of grant .",
+      "incentive/performance unit share awards and restricted stock/unit awards the fair value of nonvested incentive/performance unit share awards and restricted stock/unit awards is initially determined based on prices not less than the market value of our common stock price on the date of grant .",
+      "the value of certain incentive/ performance unit share awards is subsequently remeasured based on the achievement of one or more financial and other performance goals generally over a three-year period .",
+      "the personnel and compensation committee of the board of directors approves the final award payout with respect to incentive/performance unit share awards .",
+      "restricted stock/unit awards have various vesting periods generally ranging from 36 months to 60 months .",
+      "beginning in 2011 , we incorporated two changes to certain awards under our existing long-term incentive compensation programs .",
+      "first , for certain grants of incentive performance units , the future payout amount will be subject to a negative annual adjustment if pnc fails to meet certain risk-related performance metrics .",
+      "this adjustment is in addition to the existing financial performance metrics relative to our peers .",
+      "these grants have a three-year performance period and are payable in either stock or a combination of stock and cash .",
+      "second , performance-based restricted share units ( performance rsus ) were granted in 2011 to certain of our executives in lieu of stock options .",
+      "these performance rsus ( which are payable solely in stock ) have a service condition , an internal risk-related performance condition , and an external market condition .",
+      "satisfaction of the performance condition is based on four independent one-year performance periods .",
+      "the weighted-average grant-date fair value of incentive/ performance unit share awards and restricted stock/unit awards granted in 2011 , 2010 and 2009 was $ 63.25 , $ 54.59 and $ 41.16 per share , respectively .",
+      "we recognize compensation expense for such awards ratably over the corresponding vesting and/or performance periods for each type of program .",
+      "nonvested incentive/performance unit share awards and restricted stock/unit awards 2013 rollforward shares in thousands nonvested incentive/ performance unit shares weighted- average date fair nonvested restricted stock/ shares weighted- average date fair ."
+    ],
+    "post_text": [
+      "in the chart above , the unit shares and related weighted- average grant-date fair value of the incentive/performance awards exclude the effect of dividends on the underlying shares , as those dividends will be paid in cash .",
+      "at december 31 , 2011 , there was $ 61 million of unrecognized deferred compensation expense related to nonvested share- based compensation arrangements granted under the incentive plans .",
+      "this cost is expected to be recognized as expense over a period of no longer than five years .",
+      "the total fair value of incentive/performance unit share and restricted stock/unit awards vested during 2011 , 2010 and 2009 was approximately $ 52 million , $ 39 million and $ 47 million , respectively .",
+      "liability awards we grant annually cash-payable restricted share units to certain executives .",
+      "the grants were made primarily as part of an annual bonus incentive deferral plan .",
+      "while there are time- based and service-related vesting criteria , there are no market or performance criteria associated with these awards .",
+      "compensation expense recognized related to these awards was recorded in prior periods as part of annual cash bonus criteria .",
+      "as of december 31 , 2011 , there were 753203 of these cash- payable restricted share units outstanding .",
+      "174 the pnc financial services group , inc .",
+      "2013 form 10-k ."
+    ],
+    "table": [
+      [
+        "shares in thousands december 31 2010",
+        "nonvested incentive/ performance unit shares 363",
+        "weighted- average grant date fair value $ 56.40",
+        "nonvested restricted stock/ unit shares 2250",
+        "weighted- average grant date fair value $ 49.95"
+      ],
+      [
+        "granted",
+        "623",
+        "64.21",
+        "1059",
+        "62.68"
+      ],
+      [
+        "vested",
+        "-156 ( 156 )",
+        "59.54",
+        "-706 ( 706 )",
+        "51.27"
+      ],
+      [
+        "forfeited",
+        "",
+        "",
+        "-91 ( 91 )",
+        "52.24"
+      ],
+      [
+        "december 31 2011",
+        "830",
+        "$ 61.68",
+        "2512",
+        "$ 54.87"
+      ]
+    ],
+    "questions": [
+      "what was the total fair value of incentive/performance unit share and restricted stock/unit awards in 2011?",
+      "and what was it in 2010?",
+      "what was, then, the change over the year?",
+      "what was the total fair value of incentive/performance unit share and restricted stock/unit awards in 2010?",
+      "and how much does that change represent in relation to this 2010 fair value, in percentage?"
+    ]
+  }
+}

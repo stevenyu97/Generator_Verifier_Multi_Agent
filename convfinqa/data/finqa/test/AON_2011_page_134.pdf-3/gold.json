@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the highest value for total operating segments during this period?",
+      "answer": 11287.0,
+      "answer_raw": "11287.0",
+      "program": "table_max(total operating segments, none)"
+    }
+  ]
+}

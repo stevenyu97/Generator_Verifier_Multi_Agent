@@ -1,0 +1,47 @@
+{
+  "input": {
+    "id": "Single_KMI/2010/page_2.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "kinder morgan , inc .",
+      "form 10-k indicate by check mark whether the registrant ( 1 ) has filed all reports required to be filed by section 13 or 15 ( d ) of the securities exchange act of 1934 during the preceding 12 months ( or for such shorter period that the registrant was required to file such reports ) , and ( 2 ) has been subject to such filing requirements for the past 90 days .",
+      "yes f06f no f0fe indicate by check mark whether the registrant has submitted electronically and posted on its corporate website , if any , every interactive data file required to be submitted and posted pursuant to rule 405 of regulation s-t during the preceding 12 months ( or for such shorter period that the registrant was required to submit and post such files ) .",
+      "yes f06f no f06f indicate by check mark if disclosure of delinquent filers pursuant to item 405 of regulation s-k is not contained herein , and will not be contained , to the best of registrant 2019s knowledge , in definitive proxy or information statements incorporated by reference in part iii of this form 10-k or any amendment to this form 10-k .",
+      "f0fe indicate by check mark whether the registrant is a large accelerated filer , an accelerated filer , a non-accelerated filer , or a smaller reporting company ( as defined in rule 12b-2 of the securities exchange act of 1934 ) .",
+      "large accelerated filer f06f accelerated filer f06f non-accelerated filer f0fe smaller reporting company f06f indicate by check mark whether the registrant is a shell company ( as defined in rule 12b-2 of the securities exchange act of 1934 ) .",
+      "yes f06f no f0fe as of june 30 , 2010 , the registrant was a privately held company , and therefore the market value of its common equity held by nonaffiliates was zero .",
+      "as of february 16 , 2011 , the registrant had the following number of shares of common stock outstanding: ."
+    ],
+    "post_text": [
+      "explanatory note prior to the consummation of its february 2011 initial public offering , kinder morgan , inc. , was a delaware limited liability company named kinder morgan holdco llc whose unitholders became stockholders of kinder morgan , inc .",
+      "upon the completion of its initial public offering .",
+      "except as disclosed in the accompanying report , the consolidated financial statements and selected historical consolidated financial data and other historical financial information included in this report are those of kinder morgan holdco llc or its predecessor and their respective subsidiaries and do not give effect to the conversion .",
+      "kinder morgan holdco llc 2019s wholly owned subsidiary , kinder morgan , inc. , who was not the registrant under our initial public offering , has changed its name to kinder morgan kansas , inc. ."
+    ],
+    "table": [
+      [
+        "class a common stock",
+        "597213410"
+      ],
+      [
+        "class b common stock",
+        "100000000"
+      ],
+      [
+        "class c common stock",
+        "2462927"
+      ],
+      [
+        "class p common stock",
+        "109786590"
+      ]
+    ],
+    "questions": [
+      "what is the number of class a common stock?",
+      "what is the number of class b stock?",
+      "what is the sum of class a and b stock?",
+      "what is the number including class c common stock?",
+      "what is the sum including a, b and c and p common stock?"
+    ]
+  }
+}

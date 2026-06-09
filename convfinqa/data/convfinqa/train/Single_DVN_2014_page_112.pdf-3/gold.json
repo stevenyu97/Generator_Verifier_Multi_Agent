@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total in proved undeveloped resources as of december 31, 2014?",
+      "answer": 862.0,
+      "answer_raw": "862.0",
+      "program": "add(701, 161)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much do the extensions and discoveries and the proved undeveloped resources as of december 31, 2013 represent in relation to this total, combined?",
+      "answer": 1.25109,
+      "answer_raw": "1.25109",
+      "program": "add(701, 161), divide(#0, 689)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and how much is that in percentage?",
+      "answer": 125.10885,
+      "answer_raw": "125.10885",
+      "program": "add(701, 161), divide(#0, 689), multiply(#1, const_100)"
+    }
+  ]
+}

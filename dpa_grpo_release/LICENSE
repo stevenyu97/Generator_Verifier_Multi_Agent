@@ -1,0 +1,125 @@
+MIT License
+
+Copyright (c) 2026 The DPA-GRPO Authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+================================================================================
+THIRD-PARTY NOTICES
+================================================================================
+
+This release uses the following third-party assets. Each is used in
+compliance with its license. Where applicable we cite the original
+publication; please consult the linked sources for the canonical license
+text.
+
+
+--------------------------------------------------------------------------------
+1. Qwen3 base language models (Qwen3-4B, Qwen3-8B)
+--------------------------------------------------------------------------------
+Source:    https://huggingface.co/Qwen/Qwen3-4B
+           https://huggingface.co/Qwen/Qwen3-8B
+License:   Apache License, Version 2.0
+Citation:  Yang et al., "Qwen3 Technical Report," 2025.
+
+We use the released weights as-is, without redistribution. Training in
+this release modifies the model only through LoRA adapters; the base
+weights are not modified or repackaged.
+
+
+--------------------------------------------------------------------------------
+2. TaxCalcBench (Tax Year 2024 split)
+--------------------------------------------------------------------------------
+Source:    https://github.com/column-tax/tax-calc-bench
+License:   MIT (per the upstream repository LICENSE file at the linked
+           source).
+Citation:  Bock et al., "TaxCalcBench: Evaluating Frontier Models on the
+           Tax Calculation Task," arXiv:2507.16126, 2025.
+
+We use the public TY24 split as the evaluation and training-cases
+source. We do not redistribute the dataset; users obtain it from the
+upstream repository directly.
+
+
+--------------------------------------------------------------------------------
+3. PyTorch
+--------------------------------------------------------------------------------
+Source:    https://pytorch.org/
+License:   BSD 3-Clause
+Used for:  Tensor operations, autograd, optimizer, mixed-precision
+           training.
+
+
+--------------------------------------------------------------------------------
+4. Hugging Face Transformers
+--------------------------------------------------------------------------------
+Source:    https://github.com/huggingface/transformers
+License:   Apache License, Version 2.0
+Used for:  Tokenizer + AutoModelForCausalLM loading and inference.
+
+
+--------------------------------------------------------------------------------
+5. Hugging Face PEFT (Parameter-Efficient Fine-Tuning, including LoRA)
+--------------------------------------------------------------------------------
+Source:    https://github.com/huggingface/peft
+License:   Apache License, Version 2.0
+Citations: Hu et al., "LoRA: Low-Rank Adaptation of Large Language
+           Models," 2022.
+Used for:  LoRA adapter wrapping for the generator and verifier
+           policies.
+
+
+--------------------------------------------------------------------------------
+6. Hugging Face Accelerate
+--------------------------------------------------------------------------------
+Source:    https://github.com/huggingface/accelerate
+License:   Apache License, Version 2.0
+Used for:  Device placement utilities (transitively, via Transformers).
+
+
+--------------------------------------------------------------------------------
+7. lxml
+--------------------------------------------------------------------------------
+Source:    https://lxml.de/
+License:   BSD 3-Clause (with bundled libxml2 / libxslt under MIT-style
+           licenses; see lxml's own LICENSES.txt)
+Used for:  Parsing TaxCalcBench reference XML returns.
+
+
+--------------------------------------------------------------------------------
+8. NumPy
+--------------------------------------------------------------------------------
+Source:    https://numpy.org/
+License:   BSD 3-Clause
+Used for:  Numerical utilities.
+
+
+================================================================================
+ALGORITHMIC ANTECEDENTS
+================================================================================
+
+The training method in this release (DPA-GRPO) builds on Group Relative
+Policy Optimization (GRPO):
+
+    Shao et al., "DeepSeekMath: Pushing the Limits of Mathematical
+    Reasoning in Open Language Models," 2024.
+
+We cite the original paper for the algorithmic idea; no code from the
+DeepSeekMath release is reused in this repository.

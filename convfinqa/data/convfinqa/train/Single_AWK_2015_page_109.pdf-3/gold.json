@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in operating profits from 2013 to 2014?",
+      "answer": -10.0,
+      "answer_raw": "-10.0",
+      "program": "subtract(13, 23)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what were the total operating profits in 2013?",
+      "answer": 23.0,
+      "answer_raw": "23.0",
+      "program": "23"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2013 total?",
+      "answer": -0.43478,
+      "answer_raw": "-0.43478",
+      "program": "subtract(13, 23), divide(#0, 23)"
+    }
+  ]
+}

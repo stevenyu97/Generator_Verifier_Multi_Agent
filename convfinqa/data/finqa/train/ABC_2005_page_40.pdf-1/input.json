@@ -1,0 +1,119 @@
+{
+  "input": {
+    "id": "ABC/2005/page_40.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "amerisourcebergen corporation 2005 during the fiscal year september 30 , 2005 , the company recorded an impairment charge of $ 5.3 million relating to certain intangible assets within its technology operations .",
+      "amortization expense for other intangible assets was $ 10.3 million , $ 10.0 million and $ 7.0 million in the fiscal years ended september 30 , 2005 , 2004 and 2003 , respectively .",
+      "amortization expense for other intangible assets is estimated to be $ 10.1 million in fiscal 2006 , $ 8.8 million in fiscal 2007 , $ 5.0 million in fiscal 2008 , $ 3.3 million in fiscal 2009 , $ 3.2 million in fiscal 2010 , and $ 15.9 million thereafter .",
+      "note 6 .",
+      "debt debt consisted of the following: ."
+    ],
+    "post_text": [
+      "long-term debt in september 2005 , the company issued $ 400 million of 5.625% ( 5.625 % ) senior notes due september 15 , 2012 ( the 201c2012 notes 201d ) and $ 500 million of 5.875% ( 5.875 % ) senior notes due september 15 , 2015 ( the 201c2015 notes 201d ) .",
+      "the 2012 notes and 2015 notes each were sold at 99.5% ( 99.5 % ) of principal amount and have an effective interest yield of 5.71% ( 5.71 % ) and 5.94% ( 5.94 % ) , respectively .",
+      "interest on the 2012 notes and the 2015 notes is payable semiannually in arrears , commencing on march 15 , 2006 .",
+      "both the 2012 notes and the 2015 notes are redeemable at the company 2019s option at a price equal to the greater of 100% ( 100 % ) of the principal amount thereof , or the sum of the discounted value of the remaining scheduled payments , as defined .",
+      "in addition , at any time before september 15 , 2008 , the company may redeem up to an aggregate of 35% ( 35 % ) of the principal amount of the 2012 notes or the 2015 notes at redemption prices equal to 105.625% ( 105.625 % ) and 105.875% ( 105.875 % ) , respectively , of the principal amounts thereof , plus accrued and unpaid interest and liquidated damages , if any , to the date of redemption , with the cash proceeds of one or more equity issuances .",
+      "in connection with the issuance of the 2012 notes and the 2015 notes , the company incurred approximately $ 6.3 million and $ 7.9 million of costs , respectively , which were deferred and are being amortized over the terms of the notes .",
+      "the gross proceeds from the sale of the 2012 notes and the 2015 notes were used to finance the early retirement of the $ 500 million of 81 20448% ( 20448 % ) senior notes due 2008 and $ 300 million of 71 20444% ( 20444 % ) senior notes due 2012 in september 2005 , including the payment of $ 102.3 million of premiums and other costs .",
+      "additionally , the company expensed $ 8.5 million of deferred financing costs related to the retirement of the 71 20444% ( 20444 % ) notes and the 81 20448% ( 20448 % ) notes .",
+      "in december 2004 , the company entered into a $ 700 million five-year senior unsecured revolving credit facility ( the 201csenior revolving credit facility 201d ) with a syndicate of lenders .",
+      "the senior revolving credit facility replaced the senior credit agreement , as defined below .",
+      "there were no borrowings outstanding under the senior revolving credit facility at september 30 , 2005 .",
+      "interest on borrowings under the senior revolving credit facility accrues at specific rates based on the company 2019s debt rating .",
+      "in april 2005 , the company 2019s debt rating was raised by one of the rating agencies and in accordance with the terms of the senior revolving credit facility , interest on borrow- ings accrue at either 80 basis points over libor or the prime rate at september 30 , 2005 .",
+      "availability under the senior revolving credit facility is reduced by the amount of outstanding letters of credit ( $ 12.0 million at september 30 , 2005 ) .",
+      "the company pays quarterly facility fees to maintain the availability under the senior revolving credit facility at specific rates based on the company 2019s debt rating .",
+      "in april 2005 , the rate payable to maintain the availability of the $ 700 million commitment was reduced to 20 basis points per annum resulting from the company 2019s improved debt rating .",
+      "in connection with entering into the senior revolving credit facility , the company incurred approximately $ 2.5 million of costs , which were deferred and are being amortized over the life of the facility .",
+      "the company may choose to repay or reduce its commitments under the senior revolving credit facility at any time .",
+      "the senior revolving credit facility contains covenants that impose limitations on , among other things , additional indebtedness , distributions and dividends to stockholders , and invest- ments .",
+      "additional covenants require compliance with financial tests , including leverage and minimum earnings to fixed charges ratios .",
+      "in august 2001 , the company had entered into a senior secured credit agreement ( the 201csenior credit agreement 201d ) with a syndicate of lenders .",
+      "the senior credit agreement consisted of a $ 1.0 billion revolving credit facility ( the 201crevolving facility 201d ) and a $ 300 million term loan facility ( the 201cterm facility 201d ) , both of which had been scheduled to mature in august 2006 .",
+      "the term facility had scheduled quarterly maturities , which began in december 2002 , totaling $ 60 million in each of fiscal 2003 and 2004 , $ 80 million in fiscal 2005 and $ 100 million in fiscal 2006 .",
+      "the company previously paid the scheduled quarterly maturities of $ 60 million in fiscal 2004 and 2003. ."
+    ],
+    "table": [
+      [
+        "dollars in thousands",
+        "september 30 , 2005",
+        "september 30 , 2004"
+      ],
+      [
+        "blanco revolving credit facility at 4.53% ( 4.53 % ) and 3.34% ( 3.34 % ) respectively due 2006",
+        "$ 55000",
+        "$ 55000"
+      ],
+      [
+        "amerisourcebergen securitization financing due 2007",
+        "2014",
+        "2014"
+      ],
+      [
+        "revolving credit facility due 2009",
+        "2014",
+        "2014"
+      ],
+      [
+        "$ 400000 55/8% ( 55/8 % ) senior notes due 2012",
+        "398010",
+        "2014"
+      ],
+      [
+        "$ 500000 57/8% ( 57/8 % ) senior notes due 2015",
+        "497508",
+        "2014"
+      ],
+      [
+        "term loan facility at 3.02% ( 3.02 % )",
+        "2014",
+        "180000"
+      ],
+      [
+        "bergen 71/4% ( 71/4 % ) senior notes due 2005",
+        "2014",
+        "99939"
+      ],
+      [
+        "81/8%senior notes due 2008",
+        "2014",
+        "500000"
+      ],
+      [
+        "71/4%senior notes due 2012",
+        "2014",
+        "300000"
+      ],
+      [
+        "amerisource 5% ( 5 % ) convertible subordinated notes due 2007",
+        "2014",
+        "300000"
+      ],
+      [
+        "other",
+        "2193",
+        "3532"
+      ],
+      [
+        "total debt",
+        "952711",
+        "1438471"
+      ],
+      [
+        "less current portion",
+        "1232",
+        "281360"
+      ],
+      [
+        "total net of current portion",
+        "$ 951479",
+        "$ 1157111"
+      ]
+    ],
+    "questions": [
+      "what was the change in total debt in thousands between 2004 and 2005?"
+    ]
+  }
+}

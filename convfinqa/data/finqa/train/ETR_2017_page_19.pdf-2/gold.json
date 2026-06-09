@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the reduction of income tax expense as a percentage of net revenue in 2016?",
+      "answer": 0.03852,
+      "answer_raw": "0.03852",
+      "program": "divide(238, 6179)"
+    }
+  ]
+}

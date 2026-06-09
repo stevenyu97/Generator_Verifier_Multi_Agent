@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the lowest inventory amount , in millions?",
+      "answer": 11.0,
+      "answer_raw": "11.0",
+      "program": "table_min(inventory, none)"
+    }
+  ]
+}

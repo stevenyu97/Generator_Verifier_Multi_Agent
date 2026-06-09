@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the variation of the effective tax rate considering the years 2018-2019?",
+      "answer": 0.05,
+      "answer_raw": "0.05",
+      "program": "subtract(26.0%, 21.0%)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total entergy's employees are part of entergy arkansas?",
+      "answer": 0.09243,
+      "answer_raw": "0.09243",
+      "program": "divide(1357, 14682)"
+    }
+  ]
+}

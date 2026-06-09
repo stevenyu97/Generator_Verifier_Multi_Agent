@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in value of rent expense for operating leases with terms exceeding one month from 2011 to 2012?",
+      "answer": -6.0,
+      "answer_raw": "-6.0",
+      "program": "subtract(631, 637)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that over the 2011 value?",
+      "answer": -0.00942,
+      "answer_raw": "-0.00942",
+      "program": "subtract(631, 637), divide(#0, 637)"
+    }
+  ]
+}

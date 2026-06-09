@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the total current assets of metropolitan?",
+      "answer": 117.0,
+      "answer_raw": "117.0",
+      "program": "add(49, 28), add(#0, 40)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total value of outstanding shares based on the eps in 2005, in millions?",
+      "answer": 838.0,
+      "answer_raw": "838.0",
+      "program": "838"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the value per share?",
+      "answer": 2.53,
+      "answer_raw": "2.53",
+      "program": "2.53"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what, then, can be concluded to have been the number of shares?",
+      "answer": 331.2253,
+      "answer_raw": "331.2253",
+      "program": "divide(838, 2.53)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what would be that number for diluted shares, considering their individual price?",
+      "answer": 335.2,
+      "answer_raw": "335.2",
+      "program": "divide(838, 2.50)"
+    }
+  ]
+}

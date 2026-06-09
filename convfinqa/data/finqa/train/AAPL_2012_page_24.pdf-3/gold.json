@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in the percentage 5 year cumulative total return between apple inc . and thes&p computer hardware for the the period ended september 30 , 2012?",
+      "answer": 2.23,
+      "answer_raw": "2.23",
+      "program": "subtract(437, 100), divide(#0, 100), subtract(214, 100), divide(#2, 100), subtract(#1, #3)"
+    }
+  ]
+}

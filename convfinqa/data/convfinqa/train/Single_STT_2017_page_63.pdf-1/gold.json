@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the price of state street corporation in 2017?",
+      "answer": 227.0,
+      "answer_raw": "227.0",
+      "program": "227"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the original investment?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the price change between these years?",
+      "answer": 127.0,
+      "answer_raw": "127.0",
+      "program": "subtract(227, 100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the original investment again?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the return on this investment?",
+      "answer": 1.27,
+      "answer_raw": "1.27",
+      "program": "subtract(227, 100), divide(#0, 100)"
+    }
+  ]
+}

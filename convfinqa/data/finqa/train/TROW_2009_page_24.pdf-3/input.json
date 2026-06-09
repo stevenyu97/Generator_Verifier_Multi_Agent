@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "TROW/2009/page_24.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "administrative fees , which increased $ 5.8 million to $ 353.9 million , are generally offset by related operating expenses that are incurred to provide services to the funds and their investors .",
+      "our largest expense , compensation and related costs , increased $ 18.4 million or 2.3% ( 2.3 % ) from 2007 .",
+      "this increase includes $ 37.2 million in salaries resulting from an 8.4% ( 8.4 % ) increase in our average staff count and an increase of our associates 2019 base salaries at the beginning of the year .",
+      "at december 31 , 2008 , we employed 5385 associates , up 6.0% ( 6.0 % ) from the end of 2007 , primarily to add capabilities and support increased volume-related activities and other growth over the past few years .",
+      "over the course of 2008 , we slowed the growth of our associate base from earlier plans and the prior year .",
+      "we also reduced our annual bonuses $ 27.6 million versus the 2007 year in response to unfavorable financial market conditions that negatively impacted our operating results .",
+      "the balance of the increase is attributable to higher employee benefits and employment-related expenses , including an increase of $ 5.7 million in stock-based compensation .",
+      "after higher spending during the first quarter of 2008 versus 2007 , investor sentiment in the uncertain and volatile market environment caused us to reduce advertising and promotion spending , which for the year was down $ 3.8 million from 2007 .",
+      "occupancy and facility costs together with depreciation expense increased $ 18 million , or 12% ( 12 % ) compared to 2007 .",
+      "we expanded and renovated our facilities in 2008 to accommodate the growth in our associates to meet business demands .",
+      "other operating expenses were up $ 3.3 million from 2007 .",
+      "we increased our spending $ 9.8 million , primarily for professional fees and information and other third-party services .",
+      "reductions in travel and charitable contributions partially offset these increases .",
+      "our non-operating investment activity resulted in a net loss of $ 52.3 million in 2008 as compared to a net gain of $ 80.4 million in 2007 .",
+      "this change of $ 132.7 million is primarily attributable to losses recognized in 2008 on our investments in sponsored mutual funds , which resulted from declines in financial market values during the year. ."
+    ],
+    "post_text": [
+      "we recognized other than temporary impairments of our investments in sponsored mutual funds because of declines in fair value below cost for an extended period .",
+      "the significant declines in fair value below cost that occurred in 2008 were generally attributable to adverse market conditions .",
+      "in addition , income from money market and bond fund holdings was $ 19.3 million lower than in 2007 due to the significantly lower interest rate environment of 2008 .",
+      "lower interest rates also led to substantial capital appreciation on our $ 40 million holding of u.s .",
+      "treasury notes that we sold in december 2008 at a $ 2.6 million gain .",
+      "the 2008 provision for income taxes as a percentage of pretax income is 38.4% ( 38.4 % ) , up from 37.7% ( 37.7 % ) in 2007 , primarily to reflect changes in state income tax rates and regulations and certain adjustments made prospectively based on our annual income tax return filings for 2007 .",
+      "c a p i t a l r e s o u r c e s a n d l i q u i d i t y .",
+      "during 2009 , stockholders 2019 equity increased from $ 2.5 billion to $ 2.9 billion .",
+      "we repurchased nearly 2.3 million common shares for $ 67 million in 2009 .",
+      "tangible book value is $ 2.2 billion at december 31 , 2009 , and our cash and cash equivalents and our mutual fund investment holdings total $ 1.4 billion .",
+      "given the availability of these financial resources , we do not maintain an available external source of liquidity .",
+      "on january 20 , 2010 , we purchased a 26% ( 26 % ) equity interest in uti asset management company and an affiliate for $ 142.4 million .",
+      "we funded the acquisition from our cash holdings .",
+      "in addition to the pending uti acquisition , we had outstanding commitments to fund other investments totaling $ 35.4 million at december 31 , 2009 .",
+      "we presently anticipate funding 2010 property and equipment expenditures of about $ 150 million from our cash balances and operating cash inflows .",
+      "22 t .",
+      "rowe price group annual report 2009 ."
+    ],
+    "table": [
+      [
+        "",
+        "2007",
+        "2008",
+        "change"
+      ],
+      [
+        "capital gain distributions received",
+        "$ 22.1",
+        "$ 5.6",
+        "$ -16.5 ( 16.5 )"
+      ],
+      [
+        "other than temporary impairments recognized",
+        "-.3 ( .3 )",
+        "-91.3 ( 91.3 )",
+        "-91.0 ( 91.0 )"
+      ],
+      [
+        "net gains ( losses ) realized onfund dispositions",
+        "5.5",
+        "-4.5 ( 4.5 )",
+        "-10.0 ( 10.0 )"
+      ],
+      [
+        "net gain ( loss ) recognized on fund holdings",
+        "$ 27.3",
+        "$ -90.2 ( 90.2 )",
+        "$ -117.5 ( 117.5 )"
+      ]
+    ],
+    "questions": [
+      "what was the change in capital gain distributions received between 2007 and 2008 as a percent of the capital gain distributions received in 2007?"
+    ]
+  }
+}

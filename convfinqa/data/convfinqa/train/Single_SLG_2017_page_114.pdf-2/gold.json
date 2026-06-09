@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the pension plan contributions in 2016?",
+      "answer": 249.5,
+      "answer_raw": "249.5",
+      "program": "249.5"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were they in 2015?",
+      "answer": 221.9,
+      "answer_raw": "221.9",
+      "program": "221.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net difference?",
+      "answer": 27.6,
+      "answer_raw": "27.6",
+      "program": "subtract(249.5, 221.9)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the percent change?",
+      "answer": 0.12438,
+      "answer_raw": "0.12438",
+      "program": "subtract(249.5, 221.9), divide(#0, 221.9)"
+    }
+  ]
+}

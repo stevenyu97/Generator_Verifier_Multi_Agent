@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much more money would jp morgan need to meet management 2019s plan to reach an estimated basel iii tier i common ratio of 9.5%?",
+      "answer": 12584.785,
+      "answer_raw": "12584.785",
+      "program": "multiply(1647903, 9.5%), subtract(#0, 143966)"
+    }
+  ]
+}

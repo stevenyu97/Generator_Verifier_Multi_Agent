@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total net revenues in the investment management segment in 2012 where due to transaction revenues?",
+      "answer": 0.07966,
+      "answer_raw": "0.07966",
+      "program": "divide(416, 5222)"
+    }
+  ]
+}

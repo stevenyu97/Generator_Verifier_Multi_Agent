@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the estimated purchase price is dedicated to goodwill?",
+      "answer": 0.1853,
+      "answer_raw": "0.1853",
+      "program": "divide(5800, 31300)"
+    }
+  ]
+}

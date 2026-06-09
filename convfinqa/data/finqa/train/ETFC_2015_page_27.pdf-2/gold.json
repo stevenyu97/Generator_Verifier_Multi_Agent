@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in percentage cumulative total return for e*trade financial corporation and the s&p 500 index for the five years ended 12/15?",
+      "answer": 0.045,
+      "answer_raw": "0.045",
+      "program": "subtract(185.25, const_100), divide(#0, const_100), subtract(180.75, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

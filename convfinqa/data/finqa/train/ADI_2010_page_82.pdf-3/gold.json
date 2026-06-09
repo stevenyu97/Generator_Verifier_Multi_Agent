@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average percentage that the lease expenses decreased from 2011 to 2013",
+      "answer": 0.34994,
+      "answer_raw": "0.34994",
+      "program": "subtract(21871, 12322), divide(#0, 21871), subtract(12322, 9078), divide(#2, 12322), add(#3, #1), divide(#4, const_2)"
+    }
+  ]
+}

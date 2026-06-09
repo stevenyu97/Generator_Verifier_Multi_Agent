@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference between total assets acquired and net assets acquired?",
+      "answer": 57.4,
+      "answer_raw": "57.4",
+      "program": "subtract(210.5, 153.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the percentage difference between these values?",
+      "answer": 0.37492,
+      "answer_raw": "0.37492",
+      "program": "subtract(210.5, 153.1), divide(#0, 153.1)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was goodwill as a percentage of net assets acquired?",
+      "answer": 0.39843,
+      "answer_raw": "0.39843",
+      "program": "divide(61.0, 153.1)"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "Double_ADI/2016/page_61.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "analog devices , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) depreciation expense for property , plant and equipment was $ 134.5 million , $ 130.1 million and $ 114.1 million in fiscal 2016 , 2015 and 2014 , respectively .",
+      "the company reviews property , plant and equipment for impairment whenever events or changes in circumstances indicate that the carrying amount of assets may not be recoverable .",
+      "recoverability of these assets is determined by comparison of their carrying amount to the future undiscounted cash flows the assets are expected to generate over their remaining economic lives .",
+      "if such assets are considered to be impaired , the impairment to be recognized in earnings equals the amount by which the carrying value of the assets exceeds their fair value determined by either a quoted market price , if any , or a value determined by utilizing a discounted cash flow technique .",
+      "if such assets are not impaired , but their useful lives have decreased , the remaining net book value is depreciated over the revised useful life .",
+      "we have not recorded any material impairment charges related to our property , plant and equipment in fiscal 2016 , fiscal 2015 or fiscal 2014 .",
+      "f .",
+      "goodwill and intangible assets goodwill the company evaluates goodwill for impairment annually , as well as whenever events or changes in circumstances suggest that the carrying value of goodwill may not be recoverable .",
+      "the company tests goodwill for impairment at the reporting unit level ( operating segment or one level below an operating segment ) on an annual basis on the first day of the fourth quarter ( on or about august 1 ) or more frequently if indicators of impairment exist .",
+      "for the company 2019s latest annual impairment assessment that occurred as of july 31 , 2016 , the company identified its reporting units to be its seven operating segments .",
+      "the performance of the test involves a two-step process .",
+      "the first step of the quantitative impairment test involves comparing the fair values of the applicable reporting units with their aggregate carrying values , including goodwill .",
+      "the company determines the fair value of its reporting units using a weighting of the income and market approaches .",
+      "under the income approach , the company uses a discounted cash flow methodology which requires management to make significant estimates and assumptions related to forecasted revenues , gross profit margins , operating income margins , working capital cash flow , perpetual growth rates , and long-term discount rates , among others .",
+      "for the market approach , the company uses the guideline public company method .",
+      "under this method the company utilizes information from comparable publicly traded companies with similar operating and investment characteristics as the reporting units , to create valuation multiples that are applied to the operating performance of the reporting unit being tested , in order to obtain their respective fair values .",
+      "in order to assess the reasonableness of the calculated reporting unit fair values , the company reconciles the aggregate fair values of its reporting units determined , as described above , to its current market capitalization , allowing for a reasonable control premium .",
+      "if the carrying amount of a reporting unit , calculated using the above approaches , exceeds the reporting unit 2019s fair value , the company performs the second step of the goodwill impairment test to determine the amount of impairment loss .",
+      "the second step of the goodwill impairment test involves comparing the implied fair value of the affected reporting unit 2019s goodwill with the carrying value of that reporting unit .",
+      "there was no impairment of goodwill in any of the fiscal years presented .",
+      "the company 2019s next annual impairment assessment will be performed as of the first day of the fourth quarter of the fiscal year ending october 28 , 2017 ( fiscal 2017 ) unless indicators arise that would require the company to reevaluate at an earlier date .",
+      "the following table presents the changes in goodwill during fiscal 2016 and fiscal 2015: ."
+    ],
+    "post_text": [
+      "( 1 ) amount in fiscal 2015 represents changes to goodwill as a result of finalizing the acquisition accounting related to the hittite acquisition .",
+      "( 2 ) represents goodwill related to other acquisitions that were not material to the company on either an individual or aggregate basis .",
+      "intangible assets the company reviews finite-lived intangible assets for impairment whenever events or changes in circumstances indicate that the carrying value of assets may not be recoverable .",
+      "recoverability of these assets is determined by comparison of their carrying value to the estimated future undiscounted cash flows the assets are expected to generate over their remaining ."
+    ],
+    "table": [
+      [
+        "",
+        "2016",
+        "2015"
+      ],
+      [
+        "balance at beginning of year",
+        "$ 1636526",
+        "$ 1642438"
+      ],
+      [
+        "acquisition of hittite ( note 6 ) ( 1 )",
+        "2014",
+        "-1105 ( 1105 )"
+      ],
+      [
+        "goodwill adjustment related to other acquisitions ( 2 )",
+        "44046",
+        "3663"
+      ],
+      [
+        "foreign currency translation adjustment",
+        "-1456 ( 1456 )",
+        "-8470 ( 8470 )"
+      ],
+      [
+        "balance at end of year",
+        "$ 1679116",
+        "$ 1636526"
+      ]
+    ],
+    "questions": [
+      "what was the change in the balance of goodwill from 2014 to 2015?",
+      "how much does this change represent, in percentage, in relation to to that balance in 2014?",
+      "and over the subsequent year, what was the change in that balance of goodwill?",
+      "and how much is this change as a percentage of the 2015 balance?"
+    ]
+  }
+}

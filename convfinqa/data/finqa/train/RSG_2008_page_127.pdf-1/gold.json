@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "\\\\nas of december 31 , 2008 , what was the percent of the proceeds form the issuance of the tax exempt and other tax exempt financing as part of the restricted cash\\\\n",
+      "answer": 0.47357,
+      "answer_raw": "0.47357",
+      "program": "divide(133.5, 281.9)"
+    }
+  ]
+}

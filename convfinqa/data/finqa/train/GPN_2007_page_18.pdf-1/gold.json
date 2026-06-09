@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total revenues was represented by merchant services in 2006?",
+      "answer": 0.86834,
+      "answer_raw": "0.86834",
+      "program": "divide(788500, 908056)"
+    }
+  ]
+}

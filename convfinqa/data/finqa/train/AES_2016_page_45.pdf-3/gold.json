@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the average spot rate between 2015 to 2016?",
+      "answer": -0.67247,
+      "answer_raw": "-0.67247",
+      "program": "subtract(94, 287), divide(#0, 287)"
+    }
+  ]
+}

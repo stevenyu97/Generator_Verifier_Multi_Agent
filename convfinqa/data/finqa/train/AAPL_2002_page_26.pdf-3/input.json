@@ -1,0 +1,91 @@
+{
+  "input": {
+    "id": "AAPL/2002/page_26.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "other income and expense for the three fiscal years ended september 28 , 2002 are as follows ( in millions ) : gains and losses on non-current investments investments categorized as non-current debt and equity investments on the consolidated balance sheet are in equity and debt instruments of public companies .",
+      "the company's non-current debt and equity investments , and certain investments in private companies carried in other assets , have been categorized as available-for-sale requiring that they be carried at fair value with unrealized gains and losses , net of taxes , reported in equity as a component of accumulated other comprehensive income .",
+      "however , the company recognizes an impairment charge to earnings in the event a decline in fair value below the cost basis of one of these investments is determined to be other-than-temporary .",
+      "the company includes recognized gains and losses resulting from the sale or from other-than-temporary declines in fair value associated with these investments in other income and expense .",
+      "further information related to the company's non-current debt and equity investments may be found in part ii , item 8 of this form 10-k at note 2 of notes to consolidated financial statements .",
+      "during 2002 , the company determined that declines in the fair value of certain of these investments were other-than-temporary .",
+      "as a result , the company recognized a $ 44 million charge to earnings to write-down the basis of its investment in earthlink , inc .",
+      "( earthlink ) , a $ 6 million charge to earnings to write-down the basis of its investment in akamai technologies , inc .",
+      "( akamai ) , and a $ 15 million charge to earnings to write-down the basis of its investment in a private company investment .",
+      "these losses in 2002 were partially offset by the sale of 117000 shares of earthlink stock for net proceeds of $ 2 million and a gain before taxes of $ 223000 , the sale of 250000 shares of akamai stock for net proceeds of $ 2 million and a gain before taxes of $ 710000 , and the sale of approximately 4.7 million shares of arm holdings plc ( arm ) stock for both net proceeds and a gain before taxes of $ 21 million .",
+      "during 2001 , the company sold a total of approximately 1 million shares of akamai stock for net proceeds of $ 39 million and recorded a gain before taxes of $ 36 million , and sold a total of approximately 29.8 million shares of arm stock for net proceeds of $ 176 million and recorded a gain before taxes of $ 174 million .",
+      "these gains during 2001 were partially offset by a $ 114 million charge to earnings that reflected an other- than-temporary decline in the fair value of the company's investment in earthlink and an $ 8 million charge that reflected an other-than- temporary decline in the fair value of certain private company investments .",
+      "during 2000 , the company sold a total of approximately 45.2 million shares of arm stock for net proceeds of $ 372 million and a gain before taxes of $ 367 million .",
+      "the combined carrying value of the company's investments in earthlink , akamai , and arm as of september 28 , 2002 , was $ 39 million .",
+      "the company believes it is likely there will continue to be significant fluctuations in the fair value of these investments in the future .",
+      "accounting for derivatives and cumulative effect of accounting change on october 1 , 2000 , the company adopted statement of financial accounting standard ( sfas ) no .",
+      "133 , accounting for derivative instruments and hedging activities .",
+      "sfas no .",
+      "133 established accounting and reporting standards for derivative instruments , hedging activities , and exposure definition .",
+      "net of the related income tax effect of approximately $ 5 million , adoption of sfas no .",
+      "133 resulted in a favorable cumulative-effect-type adjustment to net income of approximately $ 12 million for the first quarter of 2001 .",
+      "the $ 17 million gross transition adjustment was comprised of a $ 23 million favorable adjustment for the restatement to fair value of the derivative component of the company's investment in samsung electronics co. , ltd .",
+      "( samsung ) , partially offset by the unfavorable adjustments to certain foreign currency and interest rate derivatives .",
+      "sfas no .",
+      "133 also required the company to adjust the carrying value of the derivative component of its investment in samsung to earnings during the first quarter of 2001 , the before tax effect of which was an unrealized loss of approximately $ 13 million .",
+      "interest and other income , net net interest and other income was $ 112 million in fiscal 2002 , compared to $ 217 million in fiscal 2001 .",
+      "this $ 105 million or 48% ( 48 % ) decrease is ."
+    ],
+    "post_text": [
+      "total other income and expense ."
+    ],
+    "table": [
+      [
+        "",
+        "2002",
+        "2001",
+        "2000"
+      ],
+      [
+        "gains ( losses ) on non-current investments net",
+        "$ -42 ( 42 )",
+        "$ 88",
+        "$ 367"
+      ],
+      [
+        "unrealized loss on convertible securities",
+        "$ 2014",
+        "-13 ( 13 )",
+        "$ 2014"
+      ],
+      [
+        "interest income",
+        "$ 118",
+        "$ 218",
+        "$ 210"
+      ],
+      [
+        "interest expense",
+        "-11 ( 11 )",
+        "-16 ( 16 )",
+        "-21 ( 21 )"
+      ],
+      [
+        "miscellaneous other income and expense",
+        "5",
+        "15",
+        "14"
+      ],
+      [
+        "interest and other income net",
+        "$ 112",
+        "$ 217",
+        "$ 203"
+      ],
+      [
+        "total other income and expense",
+        "$ 70",
+        "$ 292",
+        "$ 570"
+      ]
+    ],
+    "questions": [
+      "what was the greatest amount of total other income and expense , in millions?"
+    ]
+  }
+}

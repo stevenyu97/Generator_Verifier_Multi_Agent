@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "PPG/2018/page_61.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "2018 ppg annual report and form 10-k 59 other acquisitions in 2018 , 2017 , and 2016 , the company completed several smaller business acquisitions .",
+      "the total consideration paid for these acquisitions , net of cash acquired , debt assumed and other post closing adjustments , was $ 108 million , $ 74 million and $ 43 million , respectively .",
+      "in january 2018 , ppg acquired procoatings , a leading architectural paint and coatings wholesaler located in the netherlands .",
+      "procoatings , established in 2001 , distributes a large portfolio of well-known professional paint brands through its network of 23 multi-brand stores .",
+      "the company employs nearly 100 people .",
+      "the results of this business since the date of acquisition have been reported within the architectural coatings americas and asia pacific business within the performance coatings reportable segment .",
+      "in january 2017 , ppg acquired certain assets of automotive refinish coatings company futian xinshi ( 201cfutian 201d ) , based in the guangdong province of china .",
+      "futian distributes its products in china through a network of more than 200 distributors .",
+      "in january 2017 , ppg completed the acquisition of deutek s.a. , a leading romanian paint and architectural coatings manufacturer , from the emerging europe accession fund .",
+      "deutek , established in 1993 , manufactures and markets a large portfolio of well-known professional and consumer paint brands , including oskar and danke! .",
+      "the company 2019s products are sold in more than 120 do-it-yourself stores and 3500 independent retail outlets in romania .",
+      "divestitures glass segment in 2017 , ppg completed a multi-year strategic shift in the company's business portfolio , resulting in the exit of all glass operations which consisted of the global fiber glass business , ppg's ownership interest in two asian fiber glass joint ventures and the flat glass business .",
+      "accordingly , the results of operations , including the gains on the divestitures , and cash flows have been recast as discontinued operations for all periods presented .",
+      "ppg now has two reportable business segments .",
+      "the net sales and income from discontinued operations related to the former glass segment for the three years ended december 31 , 2018 , 2017 , and 2016 were as follows: ."
+    ],
+    "post_text": [
+      "during 2018 , ppg released $ 13 million of previously recorded accruals and contingencies established in conjunction with the divestitures of businesses within the former glass segment as a result of completed actions , new information and updated estimates .",
+      "also during 2018 , ppg made a final payment of $ 20 million to vitro s.a.b .",
+      "de c.v related to the transfer of certain pension obligations upon the sale of the former flat glass business .",
+      "north american fiber glass business on september 1 , 2017 , ppg completed the sale of its north american fiber glass business to nippon electric glass co .",
+      "ltd .",
+      "( 201cneg 201d ) .",
+      "cash proceeds from the sale were $ 541 million , resulting in a pre-tax gain of $ 343 million , net of certain accruals and contingencies established in conjunction with the divestiture .",
+      "ppg 2019s fiber glass operations included manufacturing facilities in chester , south carolina , and lexington and shelby , north carolina ; and administrative and research-and-development operations in shelby and in harmar , pennsylvania , near pittsburgh .",
+      "the business , which employed more than 1000 people and had net sales of approximately $ 350 million in 2016 , supplies the transportation , energy , infrastructure and consumer markets .",
+      "flat glass business in october 2016 , ppg completed the sale of its flat glass manufacturing and glass coatings operations to vitro s.a.b .",
+      "de c.v .",
+      "ppg received approximately $ 740 million in cash proceeds and recorded a pre-tax gain of $ 421 million on the sale .",
+      "under the terms of the agreement , ppg divested its entire flat glass manufacturing and glass coatings operations , including production sites located in fresno , california ; salem , oregon ; carlisle , pennsylvania ; and wichita falls , texas ; four distribution/fabrication facilities located across canada ; and a research-and-development center located in harmar , pennsylvania .",
+      "ppg 2019s flat glass business included approximately 1200 employees .",
+      "the business manufactures glass that is fabricated into products used primarily in commercial and residential construction .",
+      "notes to the consolidated financial statements ."
+    ],
+    "table": [
+      [
+        "( $ in millions )",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "net sales",
+        "$ 2014",
+        "$ 217",
+        "$ 908"
+      ],
+      [
+        "income from operations",
+        "$ 21",
+        "$ 30",
+        "$ 111"
+      ],
+      [
+        "net gains on the divestitures of businesses",
+        "2014",
+        "343",
+        "421"
+      ],
+      [
+        "income tax expense",
+        "5",
+        "140",
+        "202"
+      ],
+      [
+        "income from discontinued operations net of tax",
+        "$ 16",
+        "$ 233",
+        "$ 330"
+      ]
+    ],
+    "questions": [
+      "what was operating income return on sales on the discontinued glass segment in 2017?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the weighted average discount rate for other post-retirement benefits from 2010 to 2011?",
+      "answer": -0.1147,
+      "answer_raw": "-0.1147",
+      "program": "subtract(4.94, 5.58), divide(#0, 5.58)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average amount in millions of long-term debt in the three year period?",
+      "answer": 5653.33333,
+      "answer_raw": "5653.33333",
+      "program": "add(16960, 0), add(#0, 0), divide(#1, const_3)"
+    }
+  ]
+}

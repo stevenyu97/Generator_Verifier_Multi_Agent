@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in free cash flow from 2016 to 2017?",
+      "answer": -91.0,
+      "answer_raw": "-91.0",
+      "program": "subtract(2162, 2253)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2016?",
+      "answer": 2253.0,
+      "answer_raw": "2253.0",
+      "program": "2253"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the percent change?",
+      "answer": -0.04039,
+      "answer_raw": "-0.04039",
+      "program": "subtract(2162, 2253), divide(#0, 2253)"
+    }
+  ]
+}

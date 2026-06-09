@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the total of current assets from 2006 to 2007?",
+      "answer": 74.2,
+      "answer_raw": "74.2",
+      "program": "subtract(1187.4, 1113.2)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this change as a percentage of that total in 2006?",
+      "answer": 0.06665,
+      "answer_raw": "0.06665",
+      "program": "subtract(1187.4, 1113.2), divide(#0, 1113.2)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "in that same period, what was the change in the total of current liabilities?",
+      "answer": -42.8,
+      "answer_raw": "-42.8",
+      "program": "subtract(639.2, 682.0)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was this total in 2006?",
+      "answer": 682.0,
+      "answer_raw": "682.0",
+      "program": "682.0"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what percentage, then, did that change represent in relation to this 2006 amount?",
+      "answer": -0.06276,
+      "answer_raw": "-0.06276",
+      "program": "subtract(639.2, 682.0), divide(#0, 682.0)"
+    }
+  ]
+}

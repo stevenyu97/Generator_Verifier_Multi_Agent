@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the debt to equity ratio in 2015",
+      "answer": 8.57627,
+      "answer_raw": "8.57627",
+      "program": "divide(50.6, 5.9)"
+    }
+  ]
+}

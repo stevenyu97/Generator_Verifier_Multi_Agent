@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the payments for entergy arkansas as a percentage of payments for entergy louisiana?",
+      "answer": 0.33333,
+      "answer_raw": "0.33333",
+      "program": "divide(2, 6)"
+    }
+  ]
+}

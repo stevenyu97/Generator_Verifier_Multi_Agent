@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "BLL/2007/page_35.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "page 19 of 94 responded to the request for information pursuant to section 104 ( e ) of cercla .",
+      "the usepa has initially estimated cleanup costs to be between $ 4 million and $ 5 million .",
+      "based on the information available to the company at the present time , the company does not believe that this matter will have a material adverse effect upon the liquidity , results of operations or financial condition of the company .",
+      "europe in january 2003 the german government passed legislation that imposed a mandatory deposit of 25 eurocents on all one-way packages containing beverages except milk , wine , fruit juices and certain alcoholic beverages .",
+      "ball packaging europe gmbh ( bpe ) , together with certain other plaintiffs , contested the enactment of the mandatory deposit for non-returnable containers based on the german packaging regulation ( verpackungsverordnung ) in federal and state administrative court .",
+      "all other proceedings have been terminated except for the determination of minimal court fees that are still outstanding in some cases , together with minimal ancillary legal fees .",
+      "the relevant industries , including bpe and its competitors , have successfully set up a germany-wide return system for one-way beverage containers , which has been operational since may 1 , 2006 , the date required under the deposit legislation .",
+      "item 4 .",
+      "submission of matters to a vote of security holders there were no matters submitted to the security holders during the fourth quarter of 2007 .",
+      "part ii item 5 .",
+      "market for the registrant 2019s common stock and related stockholder matters ball corporation common stock ( bll ) is traded on the new york stock exchange and the chicago stock exchange .",
+      "there were 5424 common shareholders of record on february 3 , 2008 .",
+      "common stock repurchases the following table summarizes the company 2019s repurchases of its common stock during the quarter ended december 31 , 2007 .",
+      "purchases of securities total number of shares purchased ( a ) average price paid per share total number of shares purchased as part of publicly announced plans or programs maximum number of shares that may yet be purchased under the plans or programs ( b ) ."
+    ],
+    "post_text": [
+      "( a ) includes open market purchases and/or shares retained by the company to settle employee withholding tax liabilities .",
+      "( b ) the company has an ongoing repurchase program for which shares are authorized for repurchase from time to time by ball 2019s board of directors .",
+      "on january 23 , 2008 , ball's board of directors authorized the repurchase by the company of up to a total of 12 million shares of its common stock .",
+      "this repurchase authorization replaces all previous authorizations .",
+      "( c ) does not include 675000 shares under a forward share repurchase agreement entered into in december 2007 and settled on january 7 , 2008 , for approximately $ 31 million .",
+      "also does not include shares to be acquired in 2008 under an accelerated share repurchase program entered into in december 2007 and funded on january 7 , 2008. ."
+    ],
+    "table": [
+      [
+        "",
+        "total number of shares purchased ( a )",
+        "average pricepaid per share",
+        "total number of shares purchased as part of publicly announced plans or programs",
+        "maximum number of shares that may yet be purchased under the plans or programs ( b )"
+      ],
+      [
+        "october 1 to october 28 2007",
+        "705292",
+        "$ 53.53",
+        "705292",
+        "4904824"
+      ],
+      [
+        "october 29 to november 25 2007",
+        "431170",
+        "$ 48.11",
+        "431170",
+        "4473654"
+      ],
+      [
+        "november 26 to december 31 2007",
+        "8310 ( c )",
+        "$ 44.99",
+        "8310",
+        "4465344"
+      ],
+      [
+        "total",
+        "1144772",
+        "$ 51.42",
+        "1144772",
+        ""
+      ]
+    ],
+    "questions": [
+      "what is the total amount of cash outflow used for shares repurchased during november 2007 , in millions?"
+    ]
+  }
+}

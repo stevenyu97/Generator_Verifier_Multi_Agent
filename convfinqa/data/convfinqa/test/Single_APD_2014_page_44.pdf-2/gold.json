@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the capital expenditures on a non-gaap basis in 2012?",
+      "answer": 2778.3,
+      "answer_raw": "2778.3",
+      "program": "2778.3"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what were the capital expenditures on a gaap basis in that same year?",
+      "answer": 2559.8,
+      "answer_raw": "2559.8",
+      "program": "2559.8"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, do the capital expenditures on a non-gaap basis represent in relation to the ones on a gaap basis, in 2012?",
+      "answer": 1.08536,
+      "answer_raw": "1.08536",
+      "program": "divide(2778.3, 2559.8)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is the difference between this value and the number one?",
+      "answer": 0.08536,
+      "answer_raw": "0.08536",
+      "program": "divide(2778.3, 2559.8), subtract(#0, const_1)"
+    }
+  ]
+}

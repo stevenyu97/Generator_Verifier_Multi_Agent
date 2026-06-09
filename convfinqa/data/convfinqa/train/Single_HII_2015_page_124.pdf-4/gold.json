@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total number of shares of equity compensation plans approved by security holders?",
+      "answer": 5706308.0,
+      "answer_raw": "5706308.0",
+      "program": "add(1424356, 4281952)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the number of securities remaining available for future issuance under equity compensation plans?",
+      "answer": 4281952.0,
+      "answer_raw": "4281952.0",
+      "program": "4281952"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what proportion does this represent?",
+      "answer": 0.75039,
+      "answer_raw": "0.75039",
+      "program": "add(1424356, 4281952), divide(4281952, #0)"
+    }
+  ]
+}

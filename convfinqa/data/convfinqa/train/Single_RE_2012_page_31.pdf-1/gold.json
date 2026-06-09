@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of gross reserves in 2012?",
+      "answer": 442.8,
+      "answer_raw": "442.8",
+      "program": "442.8"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value of gross reserves in 2011?",
+      "answer": 499.9,
+      "answer_raw": "499.9",
+      "program": "499.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the change in value?",
+      "answer": -57.1,
+      "answer_raw": "-57.1",
+      "program": "subtract(442.8, 499.9)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the value of gross reserves in 2011?",
+      "answer": 499.9,
+      "answer_raw": "499.9",
+      "program": "499.9"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the percent change?",
+      "answer": -0.11422,
+      "answer_raw": "-0.11422",
+      "program": "subtract(442.8, 499.9), divide(#0, 499.9)"
+    }
+  ]
+}

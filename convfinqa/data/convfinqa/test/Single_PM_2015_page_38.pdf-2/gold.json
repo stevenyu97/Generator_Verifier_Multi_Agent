@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the non-us pension plans rate from 2014 to 2015?",
+      "answer": -0.24,
+      "answer_raw": "-0.24",
+      "program": "subtract(1.68, 1.92)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the rate for 2014?",
+      "answer": 1.92,
+      "answer_raw": "1.92",
+      "program": "1.92"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference over the 2014 rate?",
+      "answer": -0.125,
+      "answer_raw": "-0.125",
+      "program": "subtract(1.68, 1.92), divide(#0, 1.92)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in proved bitumen reserves over the year of 2008?",
+      "answer": -33.0,
+      "answer_raw": "-33.0",
+      "program": "subtract(388, 421)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to the proved bitumen reserves in the beginning of the year?",
+      "answer": -0.07838,
+      "answer_raw": "-0.07838",
+      "program": "subtract(388, 421), divide(#0, 421)"
+    }
+  ]
+}

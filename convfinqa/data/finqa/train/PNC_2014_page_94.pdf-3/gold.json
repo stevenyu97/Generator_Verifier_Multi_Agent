@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for total interest only home equity lines of credit , what percentage of the total includes home equity lines of credit with balloon payments , including those where we have terminated borrowing privileges , with draw periods scheduled to end in 2015?",
+      "answer": 0.01488,
+      "answer_raw": "0.01488",
+      "program": "divide(154, 10349)"
+    }
+  ]
+}

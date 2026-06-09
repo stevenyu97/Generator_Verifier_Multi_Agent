@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "ETR/2008/page_272.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy arkansas , inc .",
+      "management's financial discussion and analysis financing alternatives for any such spending , and future spending estimates could change based on the results of this continuing analysis .",
+      "entergy's utility supply plan initiative will continue to seek to transform its generation portfolio with new or repowered generation resources .",
+      "opportunities resulting from the supply plan initiative , including new projects or the exploration of alternative financing sources , could result in increases or decreases in the capital expenditure estimates given above .",
+      "the estimated capital expenditures are subject to periodic review and modification and may vary based on the ongoing effects of regulatory constraints , market volatility , economic trends , environmental compliance , and the ability to access capital .",
+      "management provides more information on long-term debt and preferred stock maturities in notes 5 and 6 to the financial statements .",
+      "as a wholly-owned subsidiary , entergy arkansas pays dividends to entergy corporation from its earnings at a percentage determined monthly .",
+      "entergy arkansas' long-term debt indentures restrict the amount of retained earnings available for the payment of cash dividends or other distributions on its common and preferred stock .",
+      "as of december 31 , 2008 , entergy arkansas had restricted retained earnings unavailable for distribution to entergy corporation of $ 461.6 million .",
+      "sources of capital entergy arkansas' sources to meet its capital requirements include : internally generated funds ; cash on hand ; debt or preferred stock issuances ; and bank financing under new or existing facilities .",
+      "entergy arkansas may refinance or redeem debt and preferred stock prior to maturity , to the extent market conditions and interest and dividend rates are favorable .",
+      "all debt and common and preferred stock issuances by entergy arkansas require prior regulatory approval .",
+      "preferred stock and debt issuances are also subject to issuance tests set forth in entergy arkansas' corporate charters , bond indentures , and other agreements .",
+      "entergy arkansas has sufficient capacity under these tests to meet its foreseeable capital needs .",
+      "in april 2008 , entergy arkansas renewed its $ 100 million credit facility through april 2009 .",
+      "the credit facility requires that entergy arkansas maintain a debt ratio of 65% ( 65 % ) or less of it total capitalization .",
+      "there were no outstanding borrowings under the entergy arkansas credit facility as of december 31 , 2008 .",
+      "in july 2008 , entergy arkansas issued $ 300 million of 5.40% ( 5.40 % ) series first mortgage bonds due august 2013 .",
+      "entergy arkansas used a portion of the net proceeds to fund the purchase of the ouachita power plant on september 30 , 2008 , and the remaining net proceeds will be used to fund improvements relating to the ouachita power plant and for general corporate purposes .",
+      "entergy arkansas' receivables from or ( payables to ) the money pool were as follows as of december 31 for each of the following years: ."
+    ],
+    "post_text": [
+      "in may 2007 , $ 1.8 million of entergy arkansas' receivable from the money pool was replaced by a note receivable from entergy new orleans .",
+      "see note 4 to the financial statements for a description of the money pool. ."
+    ],
+    "table": [
+      [
+        "2008",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )"
+      ],
+      [
+        "$ 15991",
+        "( $ 77882 )",
+        "$ 16109",
+        "( $ 27346 )"
+      ]
+    ],
+    "questions": [
+      "what is the annual interest expense related to the series first mortgage bonds due august 2013 , in millions?"
+    ]
+  }
+}

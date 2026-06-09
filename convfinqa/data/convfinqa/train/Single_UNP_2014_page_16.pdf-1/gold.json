@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the expected capital plan for 2015 converted to thousands?",
+      "answer": 4300.0,
+      "answer_raw": "4300.0",
+      "program": "multiply(4.3, const_1000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the portion of ptc expenditures compared to this value?",
+      "answer": 0.10465,
+      "answer_raw": "0.10465",
+      "program": "multiply(4.3, const_1000), divide(450, #0)"
+    }
+  ]
+}

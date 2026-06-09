@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2012 what was the percentage change in the allowances",
+      "answer": -0.1641,
+      "answer_raw": "-0.1641",
+      "program": "subtract(20406, 24412), divide(#0, 24412)"
+    }
+  ]
+}

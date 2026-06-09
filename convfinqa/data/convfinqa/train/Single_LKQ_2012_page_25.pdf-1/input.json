@@ -1,0 +1,57 @@
+{
+  "input": {
+    "id": "Single_LKQ/2012/page_25.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "comparison of cumulative return among lkq corporation , the nasdaq stock market ( u.s. ) index and the peer group ."
+    ],
+    "post_text": [
+      "this stock performance information is \"furnished\" and shall not be deemed to be \"soliciting material\" or subject to rule 14a , shall not be deemed \"filed\" for purposes of section 18 of the securities exchange act of 1934 or otherwise subject to the liabilities of that section , and shall not be deemed incorporated by reference in any filing under the securities act of 1933 or the securities exchange act of 1934 , whether made before or after the date of this report and irrespective of any general incorporation by reference language in any such filing , except to the extent that it specifically incorporates the information by reference .",
+      "information about our common stock that may be issued under our equity compensation plans as of december 31 , 2012 included in part iii , item 12 of this annual report on form 10-k is incorporated herein by reference. ."
+    ],
+    "table": [
+      [
+        "",
+        "12/31/2007",
+        "12/31/2008",
+        "12/31/2009",
+        "12/31/2010",
+        "12/31/2011",
+        "12/31/2012"
+      ],
+      [
+        "lkq corporation",
+        "$ 100",
+        "$ 55",
+        "$ 93",
+        "$ 108",
+        "$ 143",
+        "$ 201"
+      ],
+      [
+        "nasdaq stock market ( u.s. ) index",
+        "$ 100",
+        "$ 59",
+        "$ 86",
+        "$ 100",
+        "$ 98",
+        "$ 114"
+      ],
+      [
+        "peer group",
+        "$ 100",
+        "$ 83",
+        "$ 100",
+        "$ 139",
+        "$ 187",
+        "$ 210"
+      ]
+    ],
+    "questions": [
+      "what was the value of lkq corp in 2012?",
+      "what was the value in 2007?",
+      "what is the change in value?",
+      "what is the percent change?"
+    ]
+  }
+}

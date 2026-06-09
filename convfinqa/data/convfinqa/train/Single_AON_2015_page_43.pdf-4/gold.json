@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total ebitda in 2015?",
+      "answer": 2505.0,
+      "answer_raw": "2505.0",
+      "program": "2505"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the amortization of intangible assets in that same year?",
+      "answer": 314.0,
+      "answer_raw": "314.0",
+      "program": "314"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is, then, the difference between the total ebitda and this amortization, in 2015?",
+      "answer": 2191.0,
+      "answer_raw": "2191.0",
+      "program": "subtract(2505, 314)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is the difference between this value and the depreciation of fixed assets of 2015?",
+      "answer": 1962.0,
+      "answer_raw": "1962.0",
+      "program": "subtract(2505, 314), subtract(#0, 229)"
+    }
+  ]
+}

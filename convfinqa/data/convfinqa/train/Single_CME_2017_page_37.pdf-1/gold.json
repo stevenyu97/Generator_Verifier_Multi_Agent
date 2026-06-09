@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what square footage will the one north end ny, ny premises be reduced to in 2019?",
+      "answer": 225000.0,
+      "answer_raw": "225000.0",
+      "program": "225000"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the starting square footage?",
+      "answer": 240000.0,
+      "answer_raw": "240000.0",
+      "program": "240000"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so by how much will the square footage decrease?",
+      "answer": -15000.0,
+      "answer_raw": "-15000.0",
+      "program": "subtract(225000, 240000)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "so what is the percentage decrease?",
+      "answer": -0.0625,
+      "answer_raw": "-0.0625",
+      "program": "subtract(225000, 240000), divide(#0, 240000)"
+    }
+  ]
+}

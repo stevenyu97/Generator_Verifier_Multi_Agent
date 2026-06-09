@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in millions between 2012 and 2013 in currency hedges?",
+      "answer": 383.0,
+      "answer_raw": "383.0",
+      "program": "subtract(150, -233)"
+    }
+  ]
+}

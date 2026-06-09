@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total future minimum rental receipts is expected to be collected in the next 12 months?",
+      "answer": 0.15325,
+      "answer_raw": "0.15325",
+      "program": "divide(1131677, 7384402)"
+    }
+  ]
+}

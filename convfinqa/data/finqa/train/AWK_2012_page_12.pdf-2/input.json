@@ -1,0 +1,125 @@
+{
+  "input": {
+    "id": "AWK/2012/page_12.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "as noted above , as a result of these sales , these regulated subsidiaries are presented as discontinued operations for all periods presented .",
+      "therefore , the amounts , statistics and tables presented in this section refer only to on-going operations , unless otherwise noted .",
+      "the following table sets forth our regulated businesses operating revenue for 2012 and number of customers from continuing operations as well as an estimate of population served as of december 31 , 2012 : operating revenues ( in millions ) % (  % ) of total number of customers % (  % ) of total estimated population served ( in millions ) % (  % ) of total ."
+    ],
+    "post_text": [
+      "( a ) includes illinois-american water company , which we refer to as ilawc and american lake water company , also a regulated subsidiary in illinois .",
+      "( b ) west virginia-american water company , which we refer to as wvawc , and its subsidiary bluefield valley water works company .",
+      "( c ) includes data from our operating subsidiaries in the following states : georgia , hawaii , iowa , kentucky , maryland , michigan , new york , tennessee , and virginia .",
+      "approximately 87.7% ( 87.7 % ) of operating revenue from our regulated businesses in 2012 was generated from approximately 2.7 million customers in our seven largest states , as measured by operating revenues .",
+      "in fiscal year 2012 , no single customer accounted for more than 10% ( 10 % ) of our annual operating revenue .",
+      "overview of networks , facilities and water supply our regulated businesses operate in approximately 1500 communities in 16 states in the united states .",
+      "our primary operating assets include approximately 80 surface water treatment plants , 500 groundwater treatment plants , 1000 groundwater wells , 100 wastewater treatment facilities , 1200 treated water storage facilities , 1300 pumping stations , 90 dams and 46000 miles of mains and collection pipes .",
+      "our regulated utilities own substantially all of the assets used by our regulated businesses .",
+      "we generally own the land and physical assets used to store , extract and treat source water .",
+      "typically , we do not own the water itself , which is held in public trust and is allocated to us through contracts and allocation rights granted by federal and state agencies or through the ownership of water rights pursuant to local law .",
+      "maintaining the reliability of our networks is a key activity of our regulated businesses .",
+      "we have ongoing infrastructure renewal programs in all states in which our regulated businesses operate .",
+      "these programs consist of both rehabilitation of existing mains and replacement of mains that have reached the end of their useful service lives .",
+      "our ability to meet the existing and future water demands of our customers depends on an adequate supply of water .",
+      "drought , governmental restrictions , overuse of sources of water , the protection of threatened species or habitats or other factors may limit the availability of ground and surface water .",
+      "we employ a variety of measures to ensure that we have adequate sources of water supply , both in the short-term and over the long-term .",
+      "the geographic diversity of our service areas tends to mitigate some of the economic effect of weather extremes we ."
+    ],
+    "table": [
+      [
+        "new jersey",
+        "operating revenues ( in millions ) $ 639.0",
+        "% (  % ) of total 24.9% ( 24.9 % )",
+        "number of customers 639838",
+        "% (  % ) of total 20.3% ( 20.3 % )",
+        "estimated population served ( in millions ) 2.5",
+        "% (  % ) of total 21.9% ( 21.9 % )"
+      ],
+      [
+        "pennsylvania",
+        "557.7",
+        "21.7% ( 21.7 % )",
+        "658153",
+        "20.8% ( 20.8 % )",
+        "2.2",
+        "19.3% ( 19.3 % )"
+      ],
+      [
+        "missouri",
+        "279.5",
+        "10.9% ( 10.9 % )",
+        "455730",
+        "14.4% ( 14.4 % )",
+        "1.5",
+        "13.2% ( 13.2 % )"
+      ],
+      [
+        "illinois ( a )",
+        "256.4",
+        "10.0% ( 10.0 % )",
+        "308014",
+        "9.8% ( 9.8 % )",
+        "1.2",
+        "10.5% ( 10.5 % )"
+      ],
+      [
+        "indiana",
+        "198.7",
+        "7.8% ( 7.8 % )",
+        "289068",
+        "9.2% ( 9.2 % )",
+        "1.2",
+        "10.5% ( 10.5 % )"
+      ],
+      [
+        "california",
+        "193.3",
+        "7.5% ( 7.5 % )",
+        "174188",
+        "5.5% ( 5.5 % )",
+        "0.6",
+        "5.3% ( 5.3 % )"
+      ],
+      [
+        "west virginia ( b )",
+        "125.0",
+        "4.9% ( 4.9 % )",
+        "172159",
+        "5.4% ( 5.4 % )",
+        "0.6",
+        "5.3% ( 5.3 % )"
+      ],
+      [
+        "subtotal ( top seven states )",
+        "2249.6",
+        "87.7% ( 87.7 % )",
+        "2697150",
+        "85.4% ( 85.4 % )",
+        "9.8",
+        "86.0% ( 86.0 % )"
+      ],
+      [
+        "other ( c )",
+        "314.8",
+        "12.3% ( 12.3 % )",
+        "461076",
+        "14.6% ( 14.6 % )",
+        "1.6",
+        "14.0% ( 14.0 % )"
+      ],
+      [
+        "total regulated businesses",
+        "$ 2564.4",
+        "100.0% ( 100.0 % )",
+        "3158226",
+        "100.0% ( 100.0 % )",
+        "11.4",
+        "100.0% ( 100.0 % )"
+      ]
+    ],
+    "questions": [
+      "what is the approximate customer penetration for the total regulated businesses?"
+    ]
+  }
+}

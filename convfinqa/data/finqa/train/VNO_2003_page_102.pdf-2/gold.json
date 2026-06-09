@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of 2003 , future noncancelable minimum rent amounts for 2004 and 2005 totaled what , in thousands?",
+      "answer": 2053096.0,
+      "answer_raw": "2053096.0",
+      "program": "add(1084934, 968162)"
+    }
+  ]
+}

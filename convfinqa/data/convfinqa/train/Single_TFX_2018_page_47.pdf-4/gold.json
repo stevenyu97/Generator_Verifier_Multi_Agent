@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in price of teleflex incorporated from 2014 to 2015?",
+      "answer": 19.0,
+      "answer_raw": "19.0",
+      "program": "subtract(143, 124)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": 0.15323,
+      "answer_raw": "0.15323",
+      "program": "subtract(143, 124), divide(#0, 124)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in net sales in millions in 2007 in billions",
+      "answer": 0.3,
+      "answer_raw": "0.3",
+      "program": "subtract(5.2, 4.9)"
+    }
+  ]
+}

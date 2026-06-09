@@ -1,0 +1,85 @@
+{
+  "input": {
+    "id": "TMUS/2017/page_52.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "adjusted ebitda increased $ 574 million , or 5% ( 5 % ) , in 2017 primarily from : 2022 an increase in branded postpaid and prepaid service revenues primarily due to strong customer response to our un- carrier initiatives , the ongoing success of our promotional activities , and the continued strength of our metropcs brand ; 2022 higher wholesale revenues ; and 2022 higher other revenues ; partially offset by 2022 higher selling , general and administrative expenses ; 2022 lower gains on disposal of spectrum licenses of $ 600 million ; gains on disposal were $ 235 million for the year ended december 31 , 2017 , compared to $ 835 million in the same period in 2016 ; 2022 higher cost of services expense ; 2022 higher net losses on equipment ; and 2022 the negative impact from hurricanes of approximately $ 201 million , net of insurance recoveries .",
+      "adjusted ebitda increased $ 2.8 billion , or 36% ( 36 % ) , in 2016 primarily from : 2022 increased branded postpaid and prepaid service revenues primarily due to strong customer response to our un-carrier initiatives and the ongoing success of our promotional activities ; 2022 higher gains on disposal of spectrum licenses of $ 672 million ; gains on disposal were $ 835 million in 2016 compared to $ 163 million in 2015 ; 2022 lower losses on equipment ; and 2022 focused cost control and synergies realized from the metropcs business combination , primarily in cost of services ; partially offset by 2022 higher selling , general and administrative .",
+      "effective january 1 , 2017 , the imputed discount on eip receivables , which was previously recognized within interest income in our consolidated statements of comprehensive income , is recognized within other revenues in our consolidated statements of comprehensive income .",
+      "due to this presentation , the imputed discount on eip receivables is included in adjusted ebitda .",
+      "see note 1 - summary of significant accounting policies of notes to the consolidated financial statements included in part ii , item 8 of this form 10-k for further information .",
+      "we have applied this change retrospectively and presented the effect on the years ended december 31 , 2016 and 2015 , in the table below. ."
+    ],
+    "post_text": [
+      "adjusted ebitda margin ( adjusted ebitda divided by service revenues ) 37% ( 37 % ) 1% ( 1 % ) 38% ( 38 % ) 30% ( 30 % ) 1% ( 1 % ) 31% ( 31 % ) liquidity and capital resources our principal sources of liquidity are our cash and cash equivalents and cash generated from operations , proceeds from issuance of long-term debt and common stock , capital leases , the sale of certain receivables , financing arrangements of vendor payables which effectively extend payment terms and secured and unsecured revolving credit facilities with dt. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "year ended december 31 2016 as filed",
+        "year ended december 31 2016 change in accounting principle",
+        "year ended december 31 2016 as adjusted",
+        "year ended december 31 2016 as filed",
+        "year ended december 31 2016 change in accounting principle",
+        "as adjusted"
+      ],
+      [
+        "operating income",
+        "$ 3802",
+        "$ 248",
+        "$ 4050",
+        "$ 2065",
+        "$ 414",
+        "$ 2479"
+      ],
+      [
+        "interest income",
+        "261",
+        "-248 ( 248 )",
+        "13",
+        "420",
+        "-414 ( 414 )",
+        "6"
+      ],
+      [
+        "net income",
+        "1460",
+        "2014",
+        "1460",
+        "733",
+        "2014",
+        "733"
+      ],
+      [
+        "net income as a percentage of service revenue",
+        "5% ( 5 % )",
+        "2014% ( 2014 % )",
+        "5% ( 5 % )",
+        "3% ( 3 % )",
+        "2014% ( 2014 % )",
+        "3% ( 3 % )"
+      ],
+      [
+        "adjusted ebitda",
+        "$ 10391",
+        "$ 248",
+        "$ 10639",
+        "$ 7393",
+        "$ 414",
+        "$ 7807"
+      ],
+      [
+        "adjusted ebitda margin ( adjusted ebitda divided by service revenues )",
+        "37% ( 37 % )",
+        "1% ( 1 % )",
+        "38% ( 38 % )",
+        "30% ( 30 % )",
+        "1% ( 1 % )",
+        "31% ( 31 % )"
+      ]
+    ],
+    "questions": [
+      "how much service revenue was generated in 2016?"
+    ]
+  }
+}

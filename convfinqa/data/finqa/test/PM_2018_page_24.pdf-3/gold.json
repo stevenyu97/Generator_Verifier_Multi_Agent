@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage return for pmi common stock for the five years ended 2018?",
+      "answer": -0.035,
+      "answer_raw": "-0.035",
+      "program": "subtract(96.50, const_100), divide(#0, const_100)"
+    }
+  ]
+}

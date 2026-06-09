@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the service revenue as of december 312016 in millions as filed?",
+      "answer": 29200.0,
+      "answer_raw": "29200.0",
+      "program": "divide(1460, 5%)"
+    }
+  ]
+}

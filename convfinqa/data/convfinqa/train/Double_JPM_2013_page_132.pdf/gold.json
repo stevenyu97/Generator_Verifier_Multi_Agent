@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much did the firm 2019s cra loan portfolio in 2013 represent in relation to the one in 2012?",
+      "answer": 1.125,
+      "answer_raw": "1.125",
+      "program": "divide(18, 16)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in that same year of 2013, what percentage of the total hedges of loans and lending-related commitments was from cva and hedges of cva?",
+      "answer": 0.47794,
+      "answer_raw": "0.47794",
+      "program": "divide(130, 272)"
+    }
+  ]
+}

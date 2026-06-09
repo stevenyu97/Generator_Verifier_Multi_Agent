@@ -1,0 +1,122 @@
+{
+  "input": {
+    "id": "GS/2012/page_64.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis business-specific limits .",
+      "the firmwide finance committee sets asset and liability limits for each business and aged inventory limits for certain financial instruments as a disincentive to hold inventory over longer periods of time .",
+      "these limits are set at levels which are close to actual operating levels in order to ensure prompt escalation and discussion among business managers and managers in our independent control and support functions on a routine basis .",
+      "the firmwide finance committee reviews and approves balance sheet limits on a quarterly basis and may also approve changes in limits on an ad hoc basis in response to changing business needs or market conditions .",
+      "monitoring of key metrics .",
+      "we monitor key balance sheet metrics daily both by business and on a consolidated basis , including asset and liability size and composition , aged inventory , limit utilization , risk measures and capital usage .",
+      "we allocate assets to businesses and review and analyze movements resulting from new business activity as well as market fluctuations .",
+      "scenario analyses .",
+      "we conduct scenario analyses to determine how we would manage the size and composition of our balance sheet and maintain appropriate funding , liquidity and capital positions in a variety of situations : 2030 these scenarios cover short-term and long-term time horizons using various macro-economic and firm-specific assumptions .",
+      "we use these analyses to assist us in developing longer-term funding plans , including the level of unsecured debt issuances , the size of our secured funding program and the amount and composition of our equity capital .",
+      "we also consider any potential future constraints , such as limits on our ability to grow our asset base in the absence of appropriate funding .",
+      "2030 through our internal capital adequacy assessment process ( icaap ) , ccar , the stress tests we are required to conduct under the dodd-frank act , and our resolution and recovery planning , we further analyze how we would manage our balance sheet and risks through the duration of a severe crisis and we develop plans to access funding , generate liquidity , and/or redeploy or issue equity capital , as appropriate .",
+      "balance sheet allocation in addition to preparing our consolidated statements of financial condition in accordance with u.s .",
+      "gaap , we prepare a balance sheet that generally allocates assets to our businesses , which is a non-gaap presentation and may not be comparable to similar non-gaap presentations used by other companies .",
+      "we believe that presenting our assets on this basis is meaningful because it is consistent with the way management views and manages risks associated with the firm 2019s assets and better enables investors to assess the liquidity of the firm 2019s assets .",
+      "the table below presents a summary of this balance sheet allocation. ."
+    ],
+    "post_text": [
+      "1 .",
+      "in january 2013 , we sold approximately 45% ( 45 % ) of our ordinary shares of icbc .",
+      "2 .",
+      "includes assets related to our reinsurance business classified as held for sale as of december 2012 .",
+      "see note 12 to the consolidated financial statements for further information .",
+      "62 goldman sachs 2012 annual report ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "as of december 2012",
+        "as of december 2011"
+      ],
+      [
+        "excess liquidity ( global core excess )",
+        "$ 174622",
+        "$ 171581"
+      ],
+      [
+        "other cash",
+        "6839",
+        "7888"
+      ],
+      [
+        "excess liquidity and cash",
+        "181461",
+        "179469"
+      ],
+      [
+        "secured client financing",
+        "229442",
+        "283707"
+      ],
+      [
+        "inventory",
+        "318323",
+        "273640"
+      ],
+      [
+        "secured financing agreements",
+        "76277",
+        "71103"
+      ],
+      [
+        "receivables",
+        "36273",
+        "35769"
+      ],
+      [
+        "institutional client services",
+        "430873",
+        "380512"
+      ],
+      [
+        "icbc1",
+        "2082",
+        "4713"
+      ],
+      [
+        "equity ( excluding icbc )",
+        "21267",
+        "23041"
+      ],
+      [
+        "debt",
+        "25386",
+        "23311"
+      ],
+      [
+        "receivables and other",
+        "8421",
+        "5320"
+      ],
+      [
+        "investing & lending",
+        "57156",
+        "56385"
+      ],
+      [
+        "total inventory and related assets",
+        "488029",
+        "436897"
+      ],
+      [
+        "otherassets2",
+        "39623",
+        "23152"
+      ],
+      [
+        "total assets",
+        "$ 938555",
+        "$ 923225"
+      ]
+    ],
+    "questions": [
+      "what is the debt-to-asset ratio in 2012?"
+    ]
+  }
+}

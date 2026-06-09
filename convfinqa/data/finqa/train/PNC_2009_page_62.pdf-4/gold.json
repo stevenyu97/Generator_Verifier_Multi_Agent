@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "the recognized increase in value as a pretax gain in the fourth quarter of 2009 equaled what percent of the total carrying value of pnc 2019s investment in blackrock?",
+      "answer": 0.2152,
+      "answer_raw": "0.2152",
+      "program": "divide(1.076, const_5)"
+    }
+  ]
+}

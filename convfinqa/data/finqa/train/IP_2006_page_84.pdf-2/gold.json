@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in net periodic pension expense between 2005 and 2006?",
+      "answer": 0.55144,
+      "answer_raw": "0.55144",
+      "program": "subtract(377, 243), divide(#0, 243)"
+    }
+  ]
+}

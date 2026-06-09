@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the december 14 , 2012 purchase , what was the average cost of the communications sites acquired?",
+      "answer": 341489.3617,
+      "answer_raw": "341489.3617",
+      "program": "multiply(64.2, const_1000000), divide(#0, 188)"
+    }
+  ]
+}

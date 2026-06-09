@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 2018 what was the ratio of the commercial units to multi family consolidated units",
+      "answer": 2.58462,
+      "answer_raw": "2.58462",
+      "program": "divide(260000, 100595)"
+    }
+  ]
+}

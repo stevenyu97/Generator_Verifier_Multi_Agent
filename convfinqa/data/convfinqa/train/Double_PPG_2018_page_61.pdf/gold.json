@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the operating income return on sales in 2016?",
+      "answer": 111.0,
+      "answer_raw": "111.0",
+      "program": "111"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this return as a portion of the total net sales in that year?",
+      "answer": 0.12225,
+      "answer_raw": "0.12225",
+      "program": "divide(111, 908)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and in the year of 2015, what was this portion representation of that return on sales?",
+      "answer": 0.13825,
+      "answer_raw": "0.13825",
+      "program": "divide(30, 217)"
+    }
+  ]
+}

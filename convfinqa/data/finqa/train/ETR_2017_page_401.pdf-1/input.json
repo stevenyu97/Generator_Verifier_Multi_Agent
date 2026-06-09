@@ -1,0 +1,52 @@
+{
+  "input": {
+    "id": "ETR/2017/page_401.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the city council 2019s advisors and entergy new orleans .",
+      "in february 2018 the city council approved the settlement , which deferred cost recovery to the 2018 entergy new orleans rate case , but also stated that an adjustment for 2018-2019 ami costs can be filed in the rate case and that , for all subsequent ami costs , the mechanism to be approved in the 2018 rate case will allow for the timely recovery of such costs .",
+      "sources of capital entergy new orleans 2019s sources to meet its capital requirements include : 2022 internally generated funds ; 2022 cash on hand ; 2022 debt and preferred membership interest issuances ; and 2022 bank financing under new or existing facilities .",
+      "entergy new orleans may refinance , redeem , or otherwise retire debt prior to maturity , to the extent market conditions and interest rates are favorable .",
+      "entergy new orleans 2019s receivables from the money pool were as follows as of december 31 for each of the following years. ."
+    ],
+    "post_text": [
+      "see note 4 to the financial statements for a description of the money pool .",
+      "entergy new orleans has a credit facility in the amount of $ 25 million scheduled to expire in november 2018 .",
+      "the credit facility allows entergy new orleans to issue letters of credit against $ 10 million of the borrowing capacity of the facility .",
+      "as of december 31 , 2017 , there were no cash borrowings and a $ 0.8 million letter of credit was outstanding under the facility .",
+      "in addition , entergy new orleans is a party to an uncommitted letter of credit facility as a means to post collateral to support its obligations to miso . a0 as of december 31 , 2017 , a $ 1.4 million letter of credit was outstanding under entergy new orleans 2019s letter of credit a0facility .",
+      "see note 4 to the financial statements for additional discussion of the credit facilities .",
+      "entergy new orleans obtained authorization from the ferc through october 2019 for short-term borrowings not to exceed an aggregate amount of $ 150 million at any time outstanding and long-term borrowings and securities issuances .",
+      "see note 4 to the financial statements for further discussion of entergy new orleans 2019s short-term borrowing limits .",
+      "the long-term securities issuances of entergy new orleans are limited to amounts authorized not only by the ferc , but also by the city council , and the current city council authorization extends through june 2018 .",
+      "entergy new orleans , llc and subsidiaries management 2019s financial discussion and analysis state and local rate regulation the rates that entergy new orleans charges for electricity and natural gas significantly influence its financial position , results of operations , and liquidity .",
+      "entergy new orleans is regulated and the rates charged to its customers are determined in regulatory proceedings .",
+      "a governmental agency , the city council , is primarily responsible for approval of the rates charged to customers .",
+      "retail rates see 201calgiers asset transfer 201d below for discussion of the algiers asset transfer .",
+      "as a provision of the settlement agreement approved by the city council in may 2015 providing for the algiers asset transfer , it was agreed that , with limited exceptions , no action may be taken with respect to entergy new orleans 2019s base rates until rates are implemented ."
+    ],
+    "table": [
+      [
+        "2017",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )"
+      ],
+      [
+        "$ 12723",
+        "$ 14215",
+        "$ 15794",
+        "$ 442"
+      ]
+    ],
+    "questions": [
+      "how much less than 2016 did entergy receive from the money pool in 2017 ? ( in thousand $ )"
+    ]
+  }
+}

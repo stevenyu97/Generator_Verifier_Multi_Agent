@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 312012 what was the percent of the total statutory surplus for the company 2019s insurance companies property and casualty insurance subsidiaries",
+      "answer": 0.54393,
+      "answer_raw": "0.54393",
+      "program": "divide(7645, 14055)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total net assets purchased was related to goodwill?",
+      "answer": 0.40351,
+      "answer_raw": "0.40351",
+      "program": "divide(115, 285)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the value of intangible assets purchased?",
+      "answer": 220.0,
+      "answer_raw": "220.0",
+      "program": "220"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what about the total value of net assets purchased?",
+      "answer": 285.0,
+      "answer_raw": "285.0",
+      "program": "285"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what portion is related to intangible assets?",
+      "answer": 0.77193,
+      "answer_raw": "0.77193",
+      "program": "divide(220, 285)"
+    }
+  ]
+}

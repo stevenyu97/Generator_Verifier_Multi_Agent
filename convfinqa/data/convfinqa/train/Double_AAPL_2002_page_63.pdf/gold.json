@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the minimum lease payments due in 2004?",
+      "answer": 78.0,
+      "answer_raw": "78.0",
+      "program": "78"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2003?",
+      "answer": 83.0,
+      "answer_raw": "83.0",
+      "program": "83"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference between 2003 and 2004?",
+      "answer": -5.0,
+      "answer_raw": "-5.0",
+      "program": "subtract(78, 83)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what portion of total minimum lease payments is due in 2004?",
+      "answer": 0.1681,
+      "answer_raw": "0.1681",
+      "program": "divide(78, 464)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of operating leases are due currently?",
+      "answer": 0.18152,
+      "answer_raw": "0.18152",
+      "program": "divide(165, 909)"
+    }
+  ]
+}

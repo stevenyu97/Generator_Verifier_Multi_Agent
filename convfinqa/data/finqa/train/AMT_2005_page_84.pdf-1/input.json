@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "AMT/2005/page_84.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements 2014 ( continued ) the company has selected december 1 as the date to perform its annual impairment test .",
+      "in performing its 2005 and 2004 testing , the company completed an internal appraisal and estimated the fair value of the rental and management reporting unit that contains goodwill utilizing future discounted cash flows and market information .",
+      "based on the appraisals performed , the company determined that goodwill in its rental and management segment was not impaired .",
+      "the company 2019s other intangible assets subject to amortization consist of the following as of december 31 , ( in thousands ) : ."
+    ],
+    "post_text": [
+      "the company amortizes its intangible assets over periods ranging from three to fifteen years .",
+      "amortization of intangible assets for the years ended december 31 , 2005 and 2004 aggregated approximately $ 136.0 million and $ 97.8 million , respectively ( excluding amortization of deferred financing costs , which is included in interest expense ) .",
+      "the company expects to record amortization expense of approximately $ 183.6 million , $ 178.3 million , $ 174.4 million , $ 172.7 million and $ 170.3 million , for the years ended december 31 , 2006 , 2007 , 2008 , 2009 and 2010 , respectively .",
+      "these amounts are subject to changes in estimates until the preliminary allocation of the spectrasite purchase price is finalized .",
+      "6 .",
+      "notes receivable in 2000 , the company loaned tv azteca , s.a .",
+      "de c.v .",
+      "( tv azteca ) , the owner of a major national television network in mexico , $ 119.8 million .",
+      "the loan , which initially bore interest at 12.87% ( 12.87 % ) , payable quarterly , was discounted by the company , as the fair value interest rate at the date of the loan was determined to be 14.25% ( 14.25 % ) .",
+      "the loan was amended effective january 1 , 2003 to increase the original interest rate to 13.11% ( 13.11 % ) .",
+      "as of december 31 , 2005 and 2004 , approximately $ 119.8 million undiscounted ( $ 108.2 million discounted ) under the loan was outstanding and included in notes receivable and other long-term assets in the accompanying consolidated balance sheets .",
+      "the term of the loan is seventy years ; however , the loan may be prepaid by tv azteca without penalty during the last fifty years of the agreement .",
+      "the discount on the loan is being amortized to interest income 2014tv azteca , net , using the effective interest method over the seventy-year term of the loan .",
+      "simultaneous with the signing of the loan agreement , the company also entered into a seventy year economic rights agreement with tv azteca regarding space not used by tv azteca on approximately 190 of its broadcast towers .",
+      "in exchange for the issuance of the below market interest rate loan discussed above and the annual payment of $ 1.5 million to tv azteca ( under the economic rights agreement ) , the company has the right to market and lease the unused tower space on the broadcast towers ( the economic rights ) .",
+      "tv azteca retains title to these towers and is responsible for their operation and maintenance .",
+      "the company is entitled to 100% ( 100 % ) of the revenues generated from leases with tenants on the unused space and is responsible for any incremental operating expenses associated with those tenants. ."
+    ],
+    "table": [
+      [
+        "",
+        "2005",
+        "2004"
+      ],
+      [
+        "acquired customer base and network location intangibles",
+        "$ 2606546",
+        "$ 1369607"
+      ],
+      [
+        "deferred financing costs",
+        "65623",
+        "89736"
+      ],
+      [
+        "acquired licenses and other intangibles",
+        "51703",
+        "43404"
+      ],
+      [
+        "total",
+        "2723872",
+        "1502747"
+      ],
+      [
+        "less accumulated amortization",
+        "-646560 ( 646560 )",
+        "-517444 ( 517444 )"
+      ],
+      [
+        "other intangible assets net",
+        "$ 2077312",
+        "$ 985303"
+      ]
+    ],
+    "questions": [
+      "assuming that intangible asset will be sold , what will be the accumulated deprecation at the end of 2006 , in millions?"
+    ]
+  }
+}

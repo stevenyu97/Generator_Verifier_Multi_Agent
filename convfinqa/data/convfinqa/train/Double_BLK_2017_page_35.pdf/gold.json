@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the balance of total multi-asset aum in 2017?",
+      "answer": 480278.0,
+      "answer_raw": "480278.0",
+      "program": "480278"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2016?",
+      "answer": 395007.0,
+      "answer_raw": "395007.0",
+      "program": "395007"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the fraction of 2017 balance to 2016 balance?",
+      "answer": 1.21587,
+      "answer_raw": "1.21587",
+      "program": "divide(480278, 395007)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage change does this represent?",
+      "answer": 0.21587,
+      "answer_raw": "0.21587",
+      "program": "divide(480278, 395007), subtract(#0, const_1)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the net effect of the total market change and fximpact in the balance of total multi-asset aum in 2017?",
+      "answer": 64941.0,
+      "answer_raw": "64941.0",
+      "program": "add(49560, 15381)"
+    }
+  ]
+}

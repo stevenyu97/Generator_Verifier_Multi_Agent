@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the leases was paid off in 2016?",
+      "answer": 0.36612,
+      "answer_raw": "0.36612",
+      "program": "divide(21780, 59488)"
+    }
+  ]
+}

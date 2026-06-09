@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "Single_ETR/2008/page_362.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "entergy new orleans , inc .",
+      "management's financial discussion and analysis ( 1 ) includes approximately $ 30 million annually for maintenance capital , which is planned spending on routine capital projects that are necessary to support reliability of service , equipment or systems and to support normal customer growth .",
+      "( 2 ) purchase obligations represent the minimum purchase obligation or cancellation charge for contractual obligations to purchase goods or services .",
+      "for entergy new orleans , almost all of the total consists of unconditional fuel and purchased power obligations , including its obligations under the unit power sales agreement , which is discussed in note 8 to the financial statements .",
+      "in addition to the contractual obligations given above , entergy new orleans expects to make payments of approximately $ 113 million for the years 2009-2011 related to hurricane katrina and hurricane gustav restoration work and its gas rebuild project , of which $ 32 million is expected to be incurred in 2009 .",
+      "also , entergy new orleans expects to contribute $ 1.7 million to its pension plan and $ 5.9 million to its other postretirement plans in 2009 .",
+      "guidance pursuant to the pension protection act of 2006 rules , effective for the 2008 plan year and beyond , may affect the level of entergy new orleans' pension contributions in the future .",
+      "also in addition to the contractual obligations , entergy new orleans has $ 26.1 million of unrecognized tax benefits and interest for which the timing of payments beyond 12 months cannot be reasonably estimated due to uncertainties in the timing of effective settlement of tax positions .",
+      "see note 3 to the financial statements for additional information regarding unrecognized tax benefits .",
+      "the planned capital investment estimate for entergy new orleans reflects capital required to support existing business .",
+      "the estimated capital expenditures are subject to periodic review and modification and may vary based on the ongoing effects of regulatory constraints , environmental compliance , market volatility , economic trends , and the ability to access capital .",
+      "management provides more information on long-term debt and preferred stock maturities in notes 5 and 6 and to the financial statements .",
+      "sources of capital entergy new orleans' sources to meet its capital requirements include : internally generated funds ; cash on hand ; and debt and preferred stock issuances .",
+      "entergy new orleans' receivables from or ( payables to ) the money pool were as follows as of december 31 for each of the following years: ."
+    ],
+    "post_text": [
+      "see note 4 to the financial statements for a description of the money pool .",
+      "as discussed above in \"bankruptcy proceedings\" , entergy new orleans issued notes due in three years in satisfaction of its affiliate prepetition accounts payable , including its indebtedness to the entergy system money pool of $ 37.2 million .",
+      "entergy new orleans has obtained short-term borrowing authorization from the ferc under which it may borrow through march 2010 , up to the aggregate amount , at any one time outstanding , of $ 100 million .",
+      "see note 4 to the financial statements for further discussion of entergy new orleans' short-term borrowing limits .",
+      "the long- term securities issuances of entergy new orleans are limited to amounts authorized by the city council , and the current authorization extends through august 2010. ."
+    ],
+    "table": [
+      [
+        "2008",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )"
+      ],
+      [
+        "$ 60093",
+        "$ 47705",
+        "( $ 37166 )",
+        "( $ 37166 )"
+      ]
+    ],
+    "questions": [
+      "what were the receivables in 2008?",
+      "and in 2007?",
+      "so what was the difference in these two values over these years?",
+      "and the percentage change during this time?"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "IP/2009/page_78.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the following unaudited pro forma information for the years ended december 31 , 2008 and 2007 pres- ents the results of operations of international paper as if the cbpr and central lewmar acquisitions , and the luiz antonio asset exchange , had occurred on january 1 , 2007 .",
+      "this pro forma information does not purport to represent international paper 2019s actual results of operations if the transactions described above would have occurred on january 1 , 2007 , nor is it necessarily indicative of future results .",
+      "in millions , except per share amounts 2008 2007 ."
+    ],
+    "post_text": [
+      "earnings ( loss ) from continuing operations per common share ( 3.20 ) 2.50 net earnings ( loss ) per common share ( 1 ) ( 3.23 ) 2.43 ( 1 ) attributable to international paper company common share- holders .",
+      "joint ventures in october 2007 , international paper and ilim holding s.a .",
+      "announced the completion of the formation of a 50:50 joint venture to operate in russia as ilim group .",
+      "to form the joint venture , international paper purchased 50% ( 50 % ) of ilim holding s.a .",
+      "( ilim ) for approx- imately $ 620 million , including $ 545 million in cash and $ 75 million of notes payable , and contributed an additional $ 21 million in 2008 .",
+      "the company 2019s investment in ilim totaled approximately $ 465 mil- lion at december 31 , 2009 , which is approximately $ 190 million higher than the company 2019s share of the underlying net assets of ilim .",
+      "this basis difference primarily consists of the estimated fair value write-up of ilim plant , property and equipment of $ 150 million that is being amortized as a reduction of reported net income over the estimated remaining useful lives of the related assets , goodwill of $ 90 million and other basis differences of $ 50 million , including deferred taxes .",
+      "a key element of the proposed joint venture strategy is a long-term investment program in which the joint venture will invest , through cash from operations and additional borrowings by the joint venture , approximately $ 1.5 billion in ilim 2019s three mills over approximately five years .",
+      "this planned investment in the russian pulp and paper industry will be used to upgrade equipment , increase production capacity and allow for new high-value uncoated paper , pulp and corrugated packaging product development .",
+      "this capital expansion strategy is expected to be ini- tiated in the second half of 2010 , subject to ilim obtaining financing sufficient to fund the project .",
+      "note 7 businesses held for sale , divestitures and impairments discontinued operations 2008 : during the fourth quarter of 2008 , the com- pany recorded pre-tax gains of $ 9 million ( $ 5 million after taxes ) for adjustments to reserves associated with the sale of discontinued operations .",
+      "during the first quarter of 2008 , the company recorded a pre-tax charge of $ 25 million ( $ 16 million after taxes ) related to the final settlement of a post- closing adjustment to the purchase price received by the company for the sale of its beverage packaging business , and a $ 3 million charge before taxes ( $ 2 million after taxes ) for 2008 operating losses related to certain wood products facilities .",
+      "2007 : during the fourth quarter of 2007 , the com- pany recorded a pre-tax charge of $ 9 million ( $ 6 mil- lion after taxes ) and a pre-tax credit of $ 4 million ( $ 3 million after taxes ) relating to adjustments to esti- mated losses on the sales of its beverage packaging and wood products businesses , respectively .",
+      "addi- tionally , during the fourth quarter , a $ 4 million pre-tax charge ( $ 3 million after taxes ) was recorded for additional taxes associated with the sale of the company 2019s former weldwood of canada limited business .",
+      "during the third quarter of 2007 , the company com- pleted the sale of the remainder of its non-u.s .",
+      "beverage packaging business .",
+      "during the second quarter of 2007 , the company recorded pre-tax charges of $ 6 million ( $ 4 million after taxes ) and $ 5 million ( $ 3 million after taxes ) relating to adjustments to estimated losses on the sales of its wood products and beverage packaging businesses , respectively .",
+      "during the first quarter of 2007 , the company recorded pre-tax credits of $ 21 million ( $ 9 million after taxes ) and $ 6 million ( $ 4 million after taxes ) relating to the sales of its wood products and kraft papers businesses , respectively .",
+      "in addition , a $ 15 million pre-tax charge ( $ 39 million after taxes ) was recorded for adjustments to the loss on the com- pletion of the sale of most of the beverage packaging business .",
+      "finally , a pre-tax credit of approximately $ 10 million ( $ 6 million after taxes ) was recorded for refunds received from the canadian government of ."
+    ],
+    "table": [
+      [
+        "in millions except per share amounts",
+        "2008",
+        "2007"
+      ],
+      [
+        "net sales",
+        "$ 27920",
+        "$ 27489"
+      ],
+      [
+        "earnings ( loss ) from continuingoperations",
+        "-1348 ( 1348 )",
+        "1083"
+      ],
+      [
+        "net earnings ( loss ) ( 1 )",
+        "-1361 ( 1361 )",
+        "1052"
+      ],
+      [
+        "earnings ( loss ) from continuingoperations per common share",
+        "-3.20 ( 3.20 )",
+        "2.50"
+      ],
+      [
+        "net earnings ( loss ) per common share ( 1 )",
+        "-3.23 ( 3.23 )",
+        "2.43"
+      ]
+    ],
+    "questions": [
+      "what was the change in the net sales from 2007 to 2008"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the interest expense in 2015 assuming that all the debt is interest bearing debt , ( in billions ) ?",
+      "answer": 0.855,
+      "answer_raw": "0.855",
+      "program": "multiply(28.5, 3.0%)"
+    }
+  ]
+}

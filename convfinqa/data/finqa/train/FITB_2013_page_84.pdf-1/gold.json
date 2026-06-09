@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the average price paid per share from 2012 to 2013?",
+      "answer": 0.26856,
+      "answer_raw": "0.26856",
+      "program": "subtract(18.80, 14.82), divide(#0, 14.82)"
+    }
+  ]
+}

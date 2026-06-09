@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "3 net income ( loss ) $ 132.8 \\\\n5 income tax expense ( benefit ) 62.7",
+      "answer": 0.32072,
+      "answer_raw": "0.32072",
+      "program": "add(62.7, 132.8), divide(62.7, #0)"
+    }
+  ]
+}

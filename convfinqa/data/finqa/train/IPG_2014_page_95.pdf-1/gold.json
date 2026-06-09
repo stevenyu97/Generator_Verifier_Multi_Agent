@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many combined shares are available under the 2014 incentive plan , the 2009 incentive plan and the 2006 employee stock purchase plan combined?",
+      "answer": 41661517.0,
+      "answer_raw": "41661517.0",
+      "program": "add(29045044, 12181214), add(#0, 435259)"
+    }
+  ]
+}

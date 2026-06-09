@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average company matching contribution to the 401k retirement contribution for the employees from 2000 to 2002",
+      "answer": 1370666.66667,
+      "answer_raw": "1370666.66667",
+      "program": "add(979000, 1540000), add(#0, 1593000), divide(#1, const_3)"
+    }
+  ]
+}

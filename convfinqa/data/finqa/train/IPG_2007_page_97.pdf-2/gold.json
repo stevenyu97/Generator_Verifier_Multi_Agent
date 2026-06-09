@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total rent obligations will be paid-off through sublease rental income?",
+      "answer": 0.08583,
+      "answer_raw": "0.08583",
+      "program": "divide(188.4, 2195.1)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was total interest expense in millions in 2005 and 2004?",
+      "answer": 57.7,
+      "answer_raw": "57.7",
+      "program": "add(28.1, 29.6)"
+    }
+  ]
+}

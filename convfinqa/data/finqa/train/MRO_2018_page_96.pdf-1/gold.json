@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in the initial health care trend rate and the ultimate trend rate in 2017?",
+      "answer": 0.033,
+      "answer_raw": "0.033",
+      "program": "subtract(8.00%, 4.70%)"
+    }
+  ]
+}

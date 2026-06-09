@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of april 2, 2016, what percentage of the total of doors in the wholesale segment were in europe?",
+      "answer": 0.4166,
+      "answer_raw": "0.4166",
+      "program": "divide(5625, 13502)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what percentage of them were in asia?",
+      "answer": 0.01007,
+      "answer_raw": "0.01007",
+      "program": "divide(136, 13502)"
+    }
+  ]
+}

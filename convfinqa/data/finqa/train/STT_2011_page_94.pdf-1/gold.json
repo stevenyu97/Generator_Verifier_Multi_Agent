@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2011 what was the percent of the total contractual obligations for long-term debt that was due in less than 1 year",
+      "answer": 0.2127,
+      "answer_raw": "0.2127",
+      "program": "divide(1973, 9276)"
+    }
+  ]
+}

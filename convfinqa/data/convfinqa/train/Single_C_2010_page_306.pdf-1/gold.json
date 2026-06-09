@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in value of the cititgroup's common stock from the year of 2005 to 2010?",
+      "answer": -88.78,
+      "answer_raw": "-88.78",
+      "program": "subtract(11.22, 100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the original value invested in that stock in 2005?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this invested value, in percentage?",
+      "answer": -0.8878,
+      "answer_raw": "-0.8878",
+      "program": "subtract(11.22, 100), divide(#0, 100)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total future minimum operating lease payments for leases with remaining terms greater than one year are due in 2009?",
+      "answer": 0.25321,
+      "answer_raw": "0.25321",
+      "program": "divide(63060, 249038)"
+    }
+  ]
+}

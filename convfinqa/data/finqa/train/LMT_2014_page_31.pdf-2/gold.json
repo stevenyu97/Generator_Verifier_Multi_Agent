@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the average price of the purchased shares from october to november 2014?",
+      "answer": 0.06092,
+      "answer_raw": "0.06092",
+      "program": "subtract(187.74, 176.96), divide(#0, 176.96)"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "CAG/2010/page_42.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "credits and deductions identified in fiscal 2010 that related to prior periods .",
+      "these benefits were offset , in part , by unfavorable tax consequences of the patient protection and affordable care act and the health care and education reconciliation act of 2010 .",
+      "the company expects its effective tax rate in fiscal 2011 , exclusive of any unusual transactions or tax events , to be approximately 34% ( 34 % ) .",
+      "equity method investment earnings we include our share of the earnings of certain affiliates based on our economic ownership interest in the affiliates .",
+      "significant affiliates produce and market potato products for retail and foodservice customers .",
+      "our share of earnings from our equity method investments was $ 22 million ( $ 2 million in the consumer foods segment and $ 20 million in the commercial foods segment ) and $ 24 million ( $ 3 million in the consumer foods segment and $ 21 million in the commercial foods segment ) in fiscal 2010 and 2009 , respectively .",
+      "equity method investment earnings in the commercial foods segment reflects continued difficult market conditions for our foreign and domestic potato ventures .",
+      "results of discontinued operations our discontinued operations generated an after-tax loss of $ 22 million in fiscal 2010 and earnings of $ 361 million in fiscal 2009 .",
+      "in fiscal 2010 , we decided to divest our dehydrated vegetable operations .",
+      "as a result of this decision , we recognized an after-tax impairment charge of $ 40 million in fiscal 2010 , representing a write- down of the carrying value of the related long-lived assets to fair value , based on the anticipated sales proceeds .",
+      "in fiscal 2009 , we completed the sale of the trading and merchandising operations and recognized an after-tax gain on the disposition of approximately $ 301 million .",
+      "in the fourth quarter of fiscal 2009 , we decided to sell certain small foodservice brands .",
+      "the sale of these brands was completed in june 2009 .",
+      "we recognized after-tax impairment charges of $ 6 million in fiscal 2009 , in anticipation of this divestiture .",
+      "earnings per share our diluted earnings per share in fiscal 2010 were $ 1.62 ( including earnings of $ 1.67 per diluted share from continuing operations and a loss of $ 0.05 per diluted share from discontinued operations ) .",
+      "our diluted earnings per share in fiscal 2009 were $ 2.15 ( including earnings of $ 1.36 per diluted share from continuing operations and $ 0.79 per diluted share from discontinued operations ) see 201citems impacting comparability 201d above as several other significant items affected the comparability of year-over-year results of operations .",
+      "2009 vs .",
+      "2008 net sales ( $ in millions ) reporting segment fiscal 2009 net sales fiscal 2008 net sales % (  % ) increase ."
+    ],
+    "post_text": [
+      "overall , our net sales increased $ 1.18 billion to $ 12.43 billion in fiscal 2009 , reflecting improved pricing and mix in the consumer foods segment and increased pricing in the milling and specialty potato operations of the commercial foods segment , as well as an additional week in fiscal 2009 .",
+      "consumer foods net sales for fiscal 2009 were $ 7.98 billion , an increase of 8% ( 8 % ) compared to fiscal 2008 .",
+      "results reflected an increase of 7% ( 7 % ) from improved net pricing and product mix and flat volume .",
+      "volume reflected a benefit of approximately 2% ( 2 % ) in fiscal 2009 due to the inclusion of an additional week of results .",
+      "the strengthening of the u.s .",
+      "dollar relative to foreign currencies resulted in a reduction of net sales of approximately 1% ( 1 % ) as compared to fiscal 2008. ."
+    ],
+    "table": [
+      [
+        "reporting segment",
+        "fiscal 2009 net sales",
+        "fiscal 2008 net sales",
+        "% (  % ) increase"
+      ],
+      [
+        "consumer foods",
+        "$ 7979",
+        "$ 7400",
+        "8% ( 8 % )"
+      ],
+      [
+        "commercial foods",
+        "4447",
+        "3848",
+        "16% ( 16 % )"
+      ],
+      [
+        "total",
+        "$ 12426",
+        "$ 11248",
+        "11% ( 11 % )"
+      ]
+    ],
+    "questions": [
+      "what percentage of fiscal 2009 total net sales was due to commercial foods?"
+    ]
+  }
+}

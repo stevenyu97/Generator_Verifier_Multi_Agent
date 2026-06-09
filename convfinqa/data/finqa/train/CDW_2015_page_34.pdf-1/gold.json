@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the 2015 rate of increase in adjusted ebitda?",
+      "answer": 0.12293,
+      "answer_raw": "0.12293",
+      "program": "subtract(1018.5, 907.0), divide(#0, 907.0)"
+    }
+  ]
+}

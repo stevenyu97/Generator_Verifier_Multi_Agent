@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "MRO/2017/page_111.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "supplementary information on oil and gas producing activities ( unaudited ) 2017 proved reserves decreased by 647 mmboe primarily due to the following : 2022 revisions of previous estimates : increased by 49 mmboe primarily due to the acceleration of higher economic wells in the bakken into the 5-year plan resulting in an increase of 44 mmboe , with the remainder being due to revisions across the business .",
+      "2022 extensions , discoveries , and other additions : increased by 116 mmboe primarily due to an increase of 97 mmboe associated with the expansion of proved areas and wells to sales from unproved categories in oklahoma .",
+      "2022 purchases of reserves in place : increased by 28 mmboe from acquisitions of assets in the northern delaware basin in new mexico .",
+      "2022 production : decreased by 145 mmboe .",
+      "2022 sales of reserves in place : decreased by 695 mmboe including 685 mmboe associated with the sale of our canadian business and 10 mmboe associated with divestitures of certain conventional assets in oklahoma and colorado .",
+      "see item 8 .",
+      "financial statements and supplementary data - note 5 to the consolidated financial statements for information regarding these dispositions .",
+      "2016 proved reserves decreased by 67 mmboe primarily due to the following : 2022 revisions of previous estimates : increased by 63 mmboe primarily due to an increase of 151 mmboe associated with the acceleration of higher economic wells in the u.s .",
+      "resource plays into the 5-year plan and a decrease of 64 mmboe due to u.s .",
+      "technical revisions .",
+      "2022 extensions , discoveries , and other additions : increased by 60 mmboe primarily associated with the expansion of proved areas and new wells to sales from unproven categories in oklahoma .",
+      "2022 purchases of reserves in place : increased by 34 mmboe from acquisition of stack assets in oklahoma .",
+      "2022 production : decreased by 144 mmboe .",
+      "2022 sales of reserves in place : decreased by 84 mmboe associated with the divestitures of certain wyoming and gulf of mexico assets .",
+      "2015 proved reserves decreased by 35 mmboe primarily due to the following : 2022 revisions of previous estimates : decreased by 2 mmboe primarily resulting from an increase of 105 mmboe associated with drilling programs in u.s .",
+      "resource plays and an increase of 67 mmboe in discontinued operations due to technical reevaluation and lower royalty percentages related to lower realized prices , offset by a decrease of 173 mmboe which was largely due to reductions to our capital development program and adherence to the sec 5-year rule .",
+      "2022 extensions , discoveries , and other additions : increased by140 mmboe as a result of drilling programs in our u.s .",
+      "resource plays .",
+      "2022 production : decreased by 157 mmboe .",
+      "2022 sales of reserves in place : u.s .",
+      "conventional assets sales contributed to a decrease of 18 mmboe .",
+      "changes in proved undeveloped reserves as of december 31 , 2017 , 546 mmboe of proved undeveloped reserves were reported , a decrease of 6 mmboe from december 31 , 2016 .",
+      "the following table shows changes in proved undeveloped reserves for 2017 : ( mmboe ) ."
+    ],
+    "post_text": [
+      "revisions of prior estimates .",
+      "revisions of prior estimates increased 5 mmboe during 2017 , primarily due to a 44 mmboe increase in the bakken from an acceleration of higher economic wells into the 5-year plan , offset by a decrease of 40 mmboe in oklahoma due to the removal of less economic wells from the 5-year plan .",
+      "extensions , discoveries and other additions .",
+      "increased 57 mmboe through expansion of proved areas in oklahoma. ."
+    ],
+    "table": [
+      [
+        "beginning of year",
+        "552"
+      ],
+      [
+        "revisions of previous estimates",
+        "5"
+      ],
+      [
+        "improved recovery",
+        "2014"
+      ],
+      [
+        "purchases of reserves in place",
+        "15"
+      ],
+      [
+        "extensions discoveries and other additions",
+        "57"
+      ],
+      [
+        "dispositions",
+        "2014"
+      ],
+      [
+        "transfers to proved developed",
+        "-83 ( 83 )"
+      ],
+      [
+        "end of year",
+        "546"
+      ]
+    ],
+    "questions": [
+      "what was purchases of reserves in place in 2016?"
+    ]
+  }
+}

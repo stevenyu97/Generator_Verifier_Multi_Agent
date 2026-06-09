@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "PPG/2003/page_45.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "decreased by one percentage point per year , such increases or decreases would have the following effects: ."
+    ],
+    "post_text": [
+      "increase ( decrease ) in the aggregate of service and interest cost components $ 10 $ ( 8 ) increase ( decrease ) in the benefit obligation $ 95 $ ( 82 ) the company also incurred costs for multi-employer pen- sion plans of $ 2 million in 2003 and $ 1 million for both 2002 and 2001 .",
+      "multi-employer healthcare costs totaled $ 1 million in each of the years 2003 , 2002 and 2001 .",
+      "the company has a deferred compensation plan for certain key managers which allows them to defer a portion of their compensation in a phantom ppg stock account or other phantom investment accounts .",
+      "the amount deferred earns a return based on the investment options selected by the participant .",
+      "the amount owed to participants is an unfunded and unsecured general obligation of the company .",
+      "upon retirement , death , disability or termination of employment , the compensation deferred and related accumulated earnings are distributed in cash or in ppg stock , based on the accounts selected by the participant .",
+      "the plan provides participants with investment alterna- tives and the ability to transfer amounts between the phan- tom non-ppg stock investment accounts .",
+      "to mitigate the impact on compensation expense of changes in the market value of the liability , the company purchased a portfolio of marketable securities that mirror the phantom non-ppg stock investment accounts selected by the participants except the money market accounts .",
+      "the changes in market value of these securities are also included in earnings .",
+      "trading will occur in this portfolio to align the securities held with the participant 2019s phantom non-ppg stock invest- ment accounts except the money market accounts .",
+      "the cost of the deferred compensation plan , comprised of dividend equivalents accrued on the phantom ppg stock account , investment income and the change in market value of the liability , was a loss in 2003 of $ 13 million , and income of $ 9 million and $ 6 million in 2002 and 2001 , respectively .",
+      "these amounts are included in 201cselling , gener- al and administrative 201d in the accompanying statement of income .",
+      "the change in market value of the investment portfolio in 2003 was income of $ 13 million , and a loss of $ 10 million and $ 7 million in 2002 and 2001 , respectively , and is also included in 201cselling , general and administrative . 201d the company 2019s obligations under this plan , which are included in 201cother liabilities 201d in the accompanying balance sheet , were $ 100 million and $ 84 million as of dec .",
+      "31 , 2003 and 2002 , respectively , and the investments in mar- ketable securities , which are included in 201cinvestments 201d in the accompanying balance sheet , were $ 68 million and $ 53 million as of dec .",
+      "31 , 2003 and 2002 , respectively .",
+      "13 .",
+      "commitments and contingent liabilities ppg is involved in a number of lawsuits and claims , both actual and potential , including some that it has asserted against others , in which substantial monetary damages are sought .",
+      "these lawsuits and claims , the most significant of which are described below , relate to product liability , con- tract , patent , environmental , antitrust and other matters arising out of the conduct of ppg 2019s business .",
+      "to the extent that these lawsuits and claims involve personal injury and property damage , ppg believes it has adequate insurance ; however , certain of ppg 2019s insurers are contesting coverage with respect to some of these claims , and other insurers , as they had prior to the asbestos settlement described below , may contest coverage with respect to some of the asbestos claims if the settlement is not implemented .",
+      "ppg 2019s lawsuits and claims against others include claims against insurers and other third parties with respect to actual and contin- gent losses related to environmental , asbestos and other matters .",
+      "the result of any future litigation of such lawsuits and claims is inherently unpredictable .",
+      "however , management believes that , in the aggregate , the outcome of all lawsuits and claims involving ppg , including asbestos-related claims in the event the settlement described below does not become effective , will not have a material effect on ppg 2019s consolidated financial position or liquidity ; however , any such outcome may be material to the results of operations of any particular period in which costs , if any , are recognized .",
+      "the company has been named as a defendant , along with various other co-defendants , in a number of antitrust lawsuits , including suits in various state and federal courts alleging that ppg acted with competitors to fix prices and allocate markets in the automotive refinish industry and a federal class action suit relating to certain glass products .",
+      "the federal automotive refinish cases have been consoli- dated in the u.s .",
+      "district court for the eastern district of pennsylvania located in philadelphia , pa. , but these proceed- ings are at an early stage .",
+      "the state automotive refinish cases have either been stayed pending resolution of the federal proceedings or have been dismissed .",
+      "all of the initial defendants in the glass class action antitrust case other than ppg have settled .",
+      "on may 29 , 2003 , the u.s .",
+      "district court for the western district of pennsylvania located in pittsburgh , pa .",
+      "granted ppg 2019s motion for summary judgment dismissing the claims against ppg in the glass class action antitrust case .",
+      "the plaintiffs in that case have appealed that 2003 annual report and form 10-k 25a0 ppg industries , inc .",
+      "43 ."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "one-percentage point increase",
+        "one-percentage point decrease"
+      ],
+      [
+        "increase ( decrease ) in the aggregate of service and interest cost components",
+        "$ 10",
+        "$ -8 ( 8 )"
+      ],
+      [
+        "increase ( decrease ) in the benefit obligation",
+        "$ 95",
+        "$ -82 ( 82 )"
+      ]
+    ],
+    "questions": [
+      "without the change in market value of the investment portfolio in 2003 , what would the company 2019s obligations be under the deferred comp plan , in millions?"
+    ]
+  }
+}

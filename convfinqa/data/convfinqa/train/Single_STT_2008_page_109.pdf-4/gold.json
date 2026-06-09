@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in value of commercial papers outstanding from 2007 to 2008?",
+      "answer": 0.23,
+      "answer_raw": "0.23",
+      "program": "subtract(2.59, 2.36)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value of outstanding commercial papers in 2007?",
+      "answer": 2.36,
+      "answer_raw": "2.36",
+      "program": "2.36"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the percent change?",
+      "answer": 0.09746,
+      "answer_raw": "0.09746",
+      "program": "subtract(2.59, 2.36), divide(#0, 2.36)"
+    }
+  ]
+}

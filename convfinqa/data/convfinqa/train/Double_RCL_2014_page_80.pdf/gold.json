@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the mathematical range between the foreign currency translation adjustments in the years of 2013 and 2014?",
+      "answer": 35320.0,
+      "answer_raw": "35320.0",
+      "program": "subtract(9246, -26074)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "in that same period, what was the total of intangible assets?",
+      "answer": 402150.0,
+      "answer_raw": "402150.0",
+      "program": "add(188038, 214112)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what amount from this total is from assets recorded in 2014?",
+      "answer": 188038.0,
+      "answer_raw": "188038.0",
+      "program": "188038"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what portion, then, of that total does this amount represent?",
+      "answer": 0.46758,
+      "answer_raw": "0.46758",
+      "program": "add(188038, 214112), divide(188038, #0)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much is that in percentage?",
+      "answer": 46.75817,
+      "answer_raw": "46.75817",
+      "program": "add(188038, 214112), divide(188038, #0), multiply(const_100, #1)"
+    }
+  ]
+}

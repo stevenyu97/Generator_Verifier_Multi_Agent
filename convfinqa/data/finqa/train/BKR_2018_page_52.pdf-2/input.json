@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "BKR/2018/page_52.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "32 | bhge 2018 form 10-k baker hughes rig count the baker hughes rig counts are an important business barometer for the drilling industry and its suppliers .",
+      "when drilling rigs are active they consume products and services produced by the oil service industry .",
+      "rig count trends are driven by the exploration and development spending by oil and natural gas companies , which in turn is influenced by current and future price expectations for oil and natural gas .",
+      "the counts may reflect the relative strength and stability of energy prices and overall market activity , however , these counts should not be solely relied on as other specific and pervasive conditions may exist that affect overall energy prices and market activity .",
+      "we have been providing rig counts to the public since 1944 .",
+      "we gather all relevant data through our field service personnel , who obtain the necessary data from routine visits to the various rigs , customers , contractors and other outside sources as necessary .",
+      "we base the classification of a well as either oil or natural gas primarily upon filings made by operators in the relevant jurisdiction .",
+      "this data is then compiled and distributed to various wire services and trade associations and is published on our website .",
+      "we believe the counting process and resulting data is reliable , however , it is subject to our ability to obtain accurate and timely information .",
+      "rig counts are compiled weekly for the u.s .",
+      "and canada and monthly for all international rigs .",
+      "published international rig counts do not include rigs drilling in certain locations , such as russia , the caspian region and onshore china because this information is not readily available .",
+      "rigs in the u.s .",
+      "and canada are counted as active if , on the day the count is taken , the well being drilled has been started but drilling has not been completed and the well is anticipated to be of sufficient depth to be a potential consumer of our drill bits .",
+      "in international areas , rigs are counted on a weekly basis and deemed active if drilling activities occurred during the majority of the week .",
+      "the weekly results are then averaged for the month and published accordingly .",
+      "the rig count does not include rigs that are in transit from one location to another , rigging up , being used in non-drilling activities including production testing , completion and workover , and are not expected to be significant consumers of drill bits .",
+      "the rig counts are summarized in the table below as averages for each of the periods indicated. ."
+    ],
+    "post_text": [
+      "2018 compared to 2017 overall the rig count was 2211 in 2018 , an increase of 9% ( 9 % ) as compared to 2017 due primarily to north american activity .",
+      "the rig count in north america increased 13% ( 13 % ) in 2018 compared to 2017 .",
+      "internationally , the rig count increased 4% ( 4 % ) in 2018 as compared to the same period last year .",
+      "within north america , the increase was primarily driven by the u.s .",
+      "rig count , which was up 18% ( 18 % ) on average versus 2017 , partially offset with a decrease in the canadian rig count , which was down 8% ( 8 % ) on average .",
+      "internationally , the improvement in the rig count was driven primarily by increases in the africa region of 18% ( 18 % ) , the asia-pacific region and latin america region , were also up by 9% ( 9 % ) and 3% ( 3 % ) , respectively , partially offset by the europe region , which was down 8% ( 8 % ) .",
+      "2017 compared to 2016 overall the rig count was 2030 in 2017 , an increase of 27% ( 27 % ) as compared to 2016 due primarily to north american activity .",
+      "the rig count in north america increased 69% ( 69 % ) in 2017 compared to 2016 .",
+      "internationally , the rig count decreased 1% ( 1 % ) in 2017 as compared to the same period last year .",
+      "within north america , the increase was primarily driven by the land rig count , which was up 72% ( 72 % ) , partially offset by a decrease in the offshore rig count of 16% ( 16 % ) .",
+      "internationally , the rig count decrease was driven primarily by decreases in latin america of 7% ( 7 % ) , the europe region and africa region , which were down by 4% ( 4 % ) and 2% ( 2 % ) , respectively , partially offset by the asia-pacific region , which was up 8%. ."
+    ],
+    "table": [
+      [
+        "",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "north america",
+        "1223",
+        "1082",
+        "642"
+      ],
+      [
+        "international",
+        "988",
+        "948",
+        "956"
+      ],
+      [
+        "worldwide",
+        "2211",
+        "2030",
+        "1598"
+      ]
+    ],
+    "questions": [
+      "what portion of total rig count is in north america in 2017?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent increase did inventories receive between 2002 and 2003?",
+      "answer": 1.04852,
+      "answer_raw": "1.04852",
+      "program": "divide(527.7, 257.6), subtract(#0, const_1)"
+    }
+  ]
+}

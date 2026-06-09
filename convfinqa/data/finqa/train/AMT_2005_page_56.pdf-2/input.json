@@ -1,0 +1,56 @@
+{
+  "input": {
+    "id": "AMT/2005/page_56.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "aggregate notional amounts associated with interest rate caps in place as of december 31 , 2004 and interest rate detail by contractual maturity dates ( in thousands , except percentages ) ."
+    ],
+    "post_text": [
+      "( a ) as of december 31 , 2005 , variable rate debt consists of the new american tower and spectrasite credit facilities ( $ 1493.0 million ) that were refinanced on october 27 , 2005 , which are included above based on their october 27 , 2010 maturity dates .",
+      "as of december 31 , 2005 , fixed rate debt consists of : the 2.25% ( 2.25 % ) convertible notes due 2009 ( 2.25% ( 2.25 % ) notes ) ( $ 0.1 million ) ; the 7.125% ( 7.125 % ) notes ( $ 500.0 million principal amount due at maturity ; the balance as of december 31 , 2005 is $ 501.9 million ) ; the 5.0% ( 5.0 % ) notes ( $ 275.7 million ) ; the 3.25% ( 3.25 % ) notes ( $ 152.9 million ) ; the 7.50% ( 7.50 % ) notes ( $ 225.0 million ) ; the ati 7.25% ( 7.25 % ) notes ( $ 400.0 million ) ; the ati 12.25% ( 12.25 % ) notes ( $ 227.7 million principal amount due at maturity ; the balance as of december 31 , 2005 is $ 160.3 million accreted value , net of the allocated fair value of the related warrants of $ 7.2 million ) ; the 3.00% ( 3.00 % ) notes ( $ 345.0 million principal amount due at maturity ; the balance as of december 31 , 2005 is $ 344.4 million accreted value ) and other debt of $ 60.4 million .",
+      "interest on our credit facilities is payable in accordance with the applicable london interbank offering rate ( libor ) agreement or quarterly and accrues at our option either at libor plus margin ( as defined ) or the base rate plus margin ( as defined ) .",
+      "the weighted average interest rate in effect at december 31 , 2005 for our credit facilities was 4.71% ( 4.71 % ) .",
+      "for the year ended december 31 , 2005 , the weighted average interest rate under our credit facilities was 5.03% ( 5.03 % ) .",
+      "as of december 31 , 2004 , variable rate debt consists of our previous credit facility ( $ 698.0 million ) and fixed rate debt consists of : the 2.25% ( 2.25 % ) notes ( $ 0.1 million ) ; the 7.125% ( 7.125 % ) notes ( $ 500.0 million principal amount due at maturity ; the balance as of december 31 , 2004 is $ 501.9 million ) ; the 5.0% ( 5.0 % ) notes ( $ 275.7 million ) ; the 3.25% ( 3.25 % ) notes ( $ 210.0 million ) ; the 7.50% ( 7.50 % ) notes ( $ 225.0 million ) ; the ati 7.25% ( 7.25 % ) notes ( $ 400.0 million ) ; the ati 12.25% ( 12.25 % ) notes ( $ 498.3 million principal amount due at maturity ; the balance as of december 31 , 2004 is $ 303.8 million accreted value , net of the allocated fair value of the related warrants of $ 21.6 million ) ; the 9 3 20448% ( 20448 % ) notes ( $ 274.9 million ) ; the 3.00% ( 3.00 % ) notes ( $ 345.0 million principal amount due at maturity ; the balance as of december 31 , 2004 is $ 344.3 million accreted value ) and other debt of $ 60.0 million .",
+      "interest on the credit facility was payable in accordance with the applicable london interbank offering rate ( libor ) agreement or quarterly and accrues at our option either at libor plus margin ( as defined ) or the base rate plus margin ( as defined ) .",
+      "the weighted average interest rate in effect at december 31 , 2004 for the credit facility was 4.35% ( 4.35 % ) .",
+      "for the year ended december 31 , 2004 , the weighted average interest rate under the credit facility was 3.81% ( 3.81 % ) .",
+      "( b ) includes notional amount of $ 175000 that expires in february 2006 .",
+      "( c ) includes notional amount of $ 25000 that expires in september 2007 .",
+      "( d ) includes notional amounts of $ 250000 and $ 100000 that expire in june and july 2006 , respectively .",
+      "( e ) represents the weighted-average fixed rate or range of interest based on contractual notional amount as a percentage of total notional amounts in a given year .",
+      "( f ) includes notional amounts of $ 75000 , $ 75000 and $ 150000 that expire in december 2009 .",
+      "( g ) includes notional amounts of $ 100000 , $ 50000 , $ 50000 , $ 50000 and $ 50000 that expire in october 2010 .",
+      "( h ) includes notional amounts of $ 50000 and $ 50000 that expire in october 2010 .",
+      "( i ) includes notional amount of $ 50000 that expires in october 2010 .",
+      "our foreign operations include rental and management segment divisions in mexico and brazil .",
+      "the remeasurement gain for the year ended december 31 , 2005 was $ 396000 , and the remeasurement losses for the years ended december 31 , 2004 , and 2003 approximated $ 146000 , and $ 1142000 , respectively .",
+      "changes in interest rates can cause interest charges to fluctuate on our variable rate debt , comprised of $ 1493.0 million under our credit facilities as of december 31 , 2005 .",
+      "a 10% ( 10 % ) increase , or approximately 47 basis points , in current interest rates would have caused an additional pre-tax charge our net loss and an increase in our cash outflows of $ 7.0 million for the year ended december 31 , 2005 .",
+      "item 8 .",
+      "financial statements and supplementary data see item 15 ( a ) .",
+      "item 9 .",
+      "changes in and disagreements with accountants on accounting and financial disclosure ."
+    ],
+    "table": [
+      [
+        "interest rate caps",
+        "2005",
+        "2006"
+      ],
+      [
+        "notional amount ( d )",
+        "$ 350000",
+        "$ 350000"
+      ],
+      [
+        "cap rate ( e )",
+        "6.00% ( 6.00 % )",
+        "6.00% ( 6.00 % )"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the re-measurement gain from 2005 to 2004"
+    ]
+  }
+}

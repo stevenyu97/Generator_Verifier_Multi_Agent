@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the years 2016 and 2017 , what is the average current portion?",
+      "answer": 18887.5,
+      "answer_raw": "18887.5",
+      "program": "table_average(current portion, none)"
+    }
+  ]
+}

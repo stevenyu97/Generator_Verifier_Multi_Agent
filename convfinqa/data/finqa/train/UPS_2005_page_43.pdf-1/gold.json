@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total of contractual obligations and commitments as of december 31 , 2005 , in millions?",
+      "answer": 11171.0,
+      "answer_raw": "11171.0",
+      "program": "table_sum(total, none)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the increase in the balance at end of the year from 2015 to 2016?",
+      "answer": 0.50271,
+      "answer_raw": "0.50271",
+      "program": "divide(1940, 1291), subtract(#0, const_1)"
+    }
+  ]
+}

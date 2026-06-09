@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average price of shares repurchased in 2010?",
+      "answer": 48.0,
+      "answer_raw": "48.0",
+      "program": "divide(240.0, const_5)"
+    }
+  ]
+}

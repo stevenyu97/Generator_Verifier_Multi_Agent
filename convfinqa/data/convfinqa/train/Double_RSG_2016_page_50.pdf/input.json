@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "Double_RSG/2016/page_50.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "we believe that the presentation of adjusted diluted earnings per share , which excludes withdrawal costs 2013 multiemployer pension funds , restructuring charges , loss on extinguishment of debt , and ( gain ) loss on business dispositions and impairments , net , provides an understanding of operational activities before the financial effect of certain items .",
+      "we use this measure , and believe investors will find it helpful , in understanding the ongoing performance of our operations separate from items that have a disproportionate effect on our results for a particular period .",
+      "we have incurred comparable charges and costs in prior periods , and similar types of adjustments can reasonably be expected to be recorded in future periods .",
+      "our definition of adjusted diluted earnings per share may not be comparable to similarly titled measures presented by other companies .",
+      "property and equipment , net in 2017 , we anticipate receiving approximately $ 975 million of property and equipment , net of proceeds from sales of property and equipment , as follows: ."
+    ],
+    "post_text": [
+      "results of operations revenue we generate revenue primarily from our solid waste collection operations .",
+      "our remaining revenue is from other services , including transfer station , landfill disposal , recycling , and energy services .",
+      "our residential and small- container commercial collection operations in some markets are based on long-term contracts with municipalities .",
+      "certain of our municipal contracts have annual price escalation clauses that are tied to changes in an underlying base index such as a consumer price index .",
+      "we generally provide small-container commercial and large-container industrial collection services to customers under contracts with terms up to three years .",
+      "our transfer stations , landfills and , to a lesser extent , our recycling facilities generate revenue from disposal or tipping fees charged to third parties .",
+      "in general , we integrate our recycling operations with our collection operations and obtain revenue from the sale of recycled commodities .",
+      "our revenue from energy services consists mainly of fees we charge for the treatment of liquid and solid waste derived from the production of oil and natural gas .",
+      "other revenue consists primarily of revenue from national accounts , which represents the portion of revenue generated from nationwide or regional contracts in markets outside our operating areas where the associated waste handling services are subcontracted to local operators .",
+      "consequently , substantially all of this revenue is offset with related subcontract costs , which are recorded in cost of operations. ."
+    ],
+    "table": [
+      [
+        "trucks and equipment",
+        "$ 350"
+      ],
+      [
+        "landfill",
+        "330"
+      ],
+      [
+        "containers",
+        "160"
+      ],
+      [
+        "facilities and other",
+        "150"
+      ],
+      [
+        "property and equipment received during 2017",
+        "990"
+      ],
+      [
+        "proceeds from sales of property and equipment",
+        "-15 ( 15 )"
+      ],
+      [
+        "property and equipment received net of proceeds during 2017",
+        "$ 975"
+      ]
+    ],
+    "questions": [
+      "what is the net of proceeds from sales of trucks and equipments?",
+      "what is the total net of proceeds from sales of total ppe?",
+      "what portion came from truck and equipments?",
+      "what about the net of proceeds from sales of containers?",
+      "what is the ratio of sales from trucks and equipment to sales from containers?"
+    ]
+  }
+}

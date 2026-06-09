@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in u.s . pharmaceutical sales return , rebate , and discount liability balances , including managed care , medicare , and medicaid between 2017 and 2018?",
+      "answer": 0.12133,
+      "answer_raw": "0.12133",
+      "program": "subtract(4678.2, 4172.0), divide(#0, 4172.0)"
+    }
+  ]
+}

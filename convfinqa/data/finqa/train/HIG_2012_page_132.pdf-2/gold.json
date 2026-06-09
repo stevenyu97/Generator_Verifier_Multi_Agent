@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the statutory capital and surplus for the property and casualty insurance subsidiaries?",
+      "answer": 233.0,
+      "answer_raw": "233.0",
+      "program": "subtract(7645, 7412)"
+    }
+  ]
+}

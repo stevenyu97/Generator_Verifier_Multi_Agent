@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in working capital in 2014",
+      "answer": 0.09518,
+      "answer_raw": "0.09518",
+      "program": "divide(77, 809)"
+    }
+  ]
+}

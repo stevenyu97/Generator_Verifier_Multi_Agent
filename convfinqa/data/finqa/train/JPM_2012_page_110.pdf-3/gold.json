@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much more operational risk , in billions , did the firm take on in 2010 and 2011 combined than in 2012?",
+      "answer": 0.0,
+      "answer_raw": "0.0",
+      "program": "add(8.5, 7.4), subtract(#0, #0)"
+    }
+  ]
+}

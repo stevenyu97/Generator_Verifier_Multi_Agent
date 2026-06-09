@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the private equity bussiness arm's 2011 efficiency ratio?",
+      "answer": 0.28469,
+      "answer_raw": "0.28469",
+      "program": "divide(238, 836)"
+    }
+  ]
+}

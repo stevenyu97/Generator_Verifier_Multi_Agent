@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total amortization expense for other intangible assets in 2008 and 2009?",
+      "answer": 33.7,
+      "answer_raw": "33.7",
+      "program": "add(19.3, 14.4)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and including the value for 2007?",
+      "answer": 42.2,
+      "answer_raw": "42.2",
+      "program": "add(19.3, 14.4), add(#0, 8.5)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the average value during this time?",
+      "answer": 14.06667,
+      "answer_raw": "14.06667",
+      "program": "add(19.3, 14.4), add(#0, 8.5), divide(#1, const_3)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "in 2007, what was the percentage of the investment impairments to the investment in auction rate securities?",
+      "answer": 0.464,
+      "answer_raw": "0.464",
+      "program": "divide(5.8, 12.5)"
+    }
+  ]
+}

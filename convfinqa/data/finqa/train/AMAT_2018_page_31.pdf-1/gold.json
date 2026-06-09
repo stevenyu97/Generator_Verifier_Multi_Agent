@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total company used area is company owned?",
+      "answer": 0.74499,
+      "answer_raw": "0.74499",
+      "program": "divide(6947, 9325)"
+    }
+  ]
+}

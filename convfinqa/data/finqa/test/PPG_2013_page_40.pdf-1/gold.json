@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "does the company spend more on advertising in 2013 than on research and development?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(345, 505)"
+    }
+  ]
+}

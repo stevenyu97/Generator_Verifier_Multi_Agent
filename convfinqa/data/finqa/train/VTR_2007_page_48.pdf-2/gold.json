@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the 5 year return on the nyse composite index?",
+      "answer": 1.17,
+      "answer_raw": "1.17",
+      "program": "subtract(217, 100), divide(#0, 100)"
+    }
+  ]
+}

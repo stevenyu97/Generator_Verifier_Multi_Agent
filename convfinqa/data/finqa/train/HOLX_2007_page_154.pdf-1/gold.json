@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would be the net profit margin in 2007 assuming that acquisitions of the company and cytyc at the beginning of fiscal 2007?",
+      "answer": 0.04252,
+      "answer_raw": "0.04252",
+      "program": "divide(62600, 1472400)"
+    }
+  ]
+}

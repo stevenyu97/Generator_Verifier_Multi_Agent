@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "CME/2010/page_71.pdf-5",
+    "dataset": "finqa",
+    "pre_text": [
+      "anticipated or possible short-term cash needs , prevailing interest rates , our investment policy and alternative investment choices .",
+      "a majority of our cash and cash equivalents balance is invested in money market mutual funds that invest only in u.s .",
+      "treasury securities or u.s .",
+      "government agency securities .",
+      "our exposure to risk is minimal given the nature of the investments .",
+      "our practice is to have our pension plan 100% ( 100 % ) funded at each year end on a projected benefit obligation basis , while also satisfying any minimum required contribution and obtaining the maximum tax deduction .",
+      "based on our actuarial projections , we estimate that a $ 14.1 million contribution in 2011 will allow us to meet our funding goal .",
+      "however , the amount of the actual contribution is contingent on the actual rate of return on our plan assets during 2011 and the december 31 , 2011 discount rate .",
+      "net current deferred tax assets of $ 18.3 million and $ 23.8 million are included in other current assets at december 31 , 2010 and 2009 , respectively .",
+      "total net current deferred tax assets include unrealized losses , stock- based compensation and accrued expenses .",
+      "net long-term deferred tax liabilities were $ 7.8 billion and $ 7.6 billion at december 31 , 2010 and 2009 , respectively .",
+      "net deferred tax liabilities are principally the result of purchase accounting for intangible assets in our various mergers including cbot holdings and nymex holdings .",
+      "we have a long-term deferred tax asset of $ 145.7 million included within our domestic long-term deferred tax liability .",
+      "this deferred tax asset is for an unrealized capital loss incurred in brazil related to our investment in bm&fbovespa .",
+      "as of december 31 , 2010 , we do not believe that we currently meet the more-likely-than-not threshold that would allow us to fully realize the value of the unrealized capital loss .",
+      "as a result , a partial valuation allowance of $ 64.4 million has been provided for the amount of the unrealized capital loss that exceeds potential capital gains that could be used to offset the capital loss in future periods .",
+      "we also have a long-term deferred tax asset related to brazilian taxes of $ 125.3 million for an unrealized capital loss incurred in brazil related to our investment in bm&fbovespa .",
+      "a full valuation allowance of $ 125.3 million has been provided because we do not believe that we currently meet the more-likely-than-not threshold that would allow us to realize the value of the unrealized capital loss in brazil in the future .",
+      "valuation allowances of $ 49.4 million have also been provided for additional unrealized capital losses on various other investments .",
+      "net long-term deferred tax assets also include a $ 19.3 million deferred tax asset for foreign net operating losses related to swapstream .",
+      "our assessment at december 31 , 2010 was that we did not currently meet the more-likely- than-not threshold that would allow us to realize the value of acquired and accumulated foreign net operating losses in the future .",
+      "as a result , the $ 19.3 million deferred tax assets arising from these net operating losses have been fully reserved .",
+      "each clearing firm is required to deposit and maintain specified performance bond collateral .",
+      "performance bond requirements are determined by parameters established by the risk management department of the clearing house and may fluctuate over time .",
+      "we accept a variety of collateral to satisfy performance bond requirements .",
+      "cash performance bonds and guaranty fund contributions are included in our consolidated balance sheets .",
+      "clearing firm deposits , other than those retained in the form of cash , are not included in our consolidated balance sheets .",
+      "the balances in cash performance bonds and guaranty fund contributions may fluctuate significantly over time .",
+      "cash performance bonds and guaranty fund contributions consisted of the following at december 31: ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2010",
+        "2009"
+      ],
+      [
+        "cash performance bonds",
+        "$ 3717.0",
+        "$ 5834.6"
+      ],
+      [
+        "cash guaranty fund contributions",
+        "231.8",
+        "102.6"
+      ],
+      [
+        "cross-margin arrangements",
+        "79.7",
+        "10.6"
+      ],
+      [
+        "performance collateral for delivery",
+        "10.0",
+        "34.1"
+      ],
+      [
+        "total",
+        "$ 4038.5",
+        "$ 5981.9"
+      ]
+    ],
+    "questions": [
+      "what is the percentual amount represented by cash performance bonds and cash guaranty fund contributions in the total figure of 2010 , in millions?"
+    ]
+  }
+}

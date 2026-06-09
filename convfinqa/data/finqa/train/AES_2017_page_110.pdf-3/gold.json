@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of debt obligations are long term?",
+      "answer": 0.88973,
+      "answer_raw": "0.88973",
+      "program": "subtract(20404, 2250), divide(#0, 20404)"
+    }
+  ]
+}

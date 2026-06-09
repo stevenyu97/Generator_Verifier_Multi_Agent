@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the valuation allowances against deferred tax assets throughout 2018?",
+      "answer": 10.3,
+      "answer_raw": "10.3",
+      "program": "subtract(229.4, 219.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to that balance in the beginning of 2018, in percentage?",
+      "answer": 0.04701,
+      "answer_raw": "0.04701",
+      "program": "subtract(229.4, 219.1), divide(#0, 219.1)"
+    }
+  ]
+}

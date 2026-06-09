@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total multi-asset is related to target date/risk as of december 31 , 2014?",
+      "answer": 0.48442,
+      "answer_raw": "0.48442",
+      "program": "divide(183032, 377837)"
+    }
+  ]
+}

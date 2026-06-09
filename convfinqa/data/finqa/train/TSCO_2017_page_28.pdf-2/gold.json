@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total square footage for the md facility?",
+      "answer": 791000.0,
+      "answer_raw": "791000.0",
+      "program": "add(482000, 309000)"
+    }
+  ]
+}

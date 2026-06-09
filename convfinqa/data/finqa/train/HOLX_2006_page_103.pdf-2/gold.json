@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the estimated purchase price is due to developed technology and know how?",
+      "answer": 0.18541,
+      "answer_raw": "0.18541",
+      "program": "divide(46000, 248100)"
+    }
+  ]
+}

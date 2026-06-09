@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of the reinsurance receivables and premium receivables for 2015 to 2014",
+      "answer": 0.7756,
+      "answer_raw": "0.7756",
+      "program": "divide(22878, 29497)"
+    }
+  ]
+}

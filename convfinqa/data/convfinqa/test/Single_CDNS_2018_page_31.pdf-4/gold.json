@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of cadence design stock in 2018?",
+      "answer": 311.13,
+      "answer_raw": "311.13",
+      "program": "311.13"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that less an initial $100 investment?",
+      "answer": 211.13,
+      "answer_raw": "211.13",
+      "program": "subtract(311.13, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is is that difference over 100?",
+      "answer": 2.1113,
+      "answer_raw": "2.1113",
+      "program": "subtract(311.13, const_100), divide(#0, const_100)"
+    }
+  ]
+}

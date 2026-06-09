@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "did jpmorgan chase outperform the s&p 500 over the five year period?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(167.48, 205.07)"
+    }
+  ]
+}

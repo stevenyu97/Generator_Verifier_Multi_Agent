@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "Single_HWM/2016/page_118.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "in 2016 , arconic also recognized discrete income tax benefits related to the release of valuation allowances on certain net deferred tax assets in russia and canada of $ 19 and $ 20 respectively .",
+      "after weighing all available evidence , management determined that it was more likely than not that the net income tax benefits associated with the underlying deferred tax assets would be realizable based on historic cumulative income and projected taxable income .",
+      "arconic also recorded additional valuation allowances in australia of $ 93 related to the separation transaction , in spain of $ 163 related to a tax law change and in luxembourg of $ 280 related to the separation transaction as well as a tax law change .",
+      "these valuation allowances fully offset current year changes in deferred tax asset balances of each respective jurisdiction , resulting in no net impact to tax expense .",
+      "the need for a valuation allowance will be reassessed on a continuous basis in future periods by each jurisdiction and , as a result , the allowances may increase or decrease based on changes in facts and circumstances .",
+      "in 2015 , arconic recognized an additional $ 141 discrete income tax charge for valuation allowances on certain deferred tax assets in iceland and suriname .",
+      "of this amount , an $ 85 valuation allowance was established on the full value of the deferred tax assets in suriname , which were related mostly to employee benefits and tax loss carryforwards .",
+      "these deferred tax assets have an expiration period ranging from 2016 to 2022 ( as of december 31 , 2015 ) .",
+      "the remaining $ 56 charge relates to a valuation allowance established on a portion of the deferred tax assets recorded in iceland .",
+      "these deferred tax assets have an expiration period ranging from 2017 to 2023 .",
+      "after weighing all available positive and negative evidence , as described above , management determined that it was no longer more likely than not that arconic will realize the tax benefit of either of these deferred tax assets .",
+      "this was mainly driven by a decline in the outlook of the primary metals business , combined with prior year cumulative losses and a short expiration period .",
+      "in december 2011 , one of arconic 2019s former subsidiaries in brazil applied for a tax holiday related to its expanded mining and refining operations .",
+      "during 2013 , the application was amended and re-filed and , separately , a similar application was filed for another one of arconic 2019s former subsidiaries in brazil .",
+      "the deadline for the brazilian government to deny the application was july 11 , 2014 .",
+      "since arconic did not receive notice that its applications were denied , the tax holiday took effect automatically on july 12 , 2014 .",
+      "as a result , the tax rate applicable to qualified holiday income for these subsidiaries decreased significantly ( from 34% ( 34 % ) to 15.25% ( 15.25 % ) ) , resulting in future cash tax savings over the 10-year holiday period ( retroactively effective as of january 1 , 2013 ) .",
+      "additionally , a portion of one of the subsidiaries net deferred tax assets that reverses within the holiday period was remeasured at the new tax rate ( the net deferred tax asset of the other subsidiary was not remeasured since it could still be utilized against the subsidiary 2019s future earnings not subject to the tax holiday ) .",
+      "this remeasurement resulted in a decrease to that subsidiary 2019s net deferred tax assets and a noncash charge to earnings of $ 52 ( $ 31 after noncontrolling interests ) .",
+      "the following table details the changes in the valuation allowance: ."
+    ],
+    "post_text": [
+      "the cumulative amount of arconic 2019s foreign undistributed net earnings for which no deferred taxes have been provided was approximately $ 450 at december 31 , 2016 .",
+      "arconic has a number of commitments and obligations related to the company 2019s growth strategy in foreign jurisdictions .",
+      "as such , management has no plans to distribute such earnings in the foreseeable future , and , therefore , has determined it is not practicable to determine the related deferred tax liability. ."
+    ],
+    "table": [
+      [
+        "december 31,",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "balance at beginning of year",
+        "$ 1291",
+        "$ 1151",
+        "$ 1252"
+      ],
+      [
+        "increase to allowance",
+        "772",
+        "180",
+        "102"
+      ],
+      [
+        "release of allowance",
+        "-209 ( 209 )",
+        "-42 ( 42 )",
+        "-70 ( 70 )"
+      ],
+      [
+        "acquisitions and divestitures ( f )",
+        "-1 ( 1 )",
+        "29",
+        "-36 ( 36 )"
+      ],
+      [
+        "tax apportionment tax rate and tax law changes",
+        "106",
+        "-15 ( 15 )",
+        "-67 ( 67 )"
+      ],
+      [
+        "foreign currency translation",
+        "-19 ( 19 )",
+        "-12 ( 12 )",
+        "-30 ( 30 )"
+      ],
+      [
+        "balance at end of year",
+        "$ 1940",
+        "$ 1291",
+        "$ 1151"
+      ]
+    ],
+    "questions": [
+      "what is the ratio of the end of year balance from 2016 to 2015?",
+      "what is that less 1?"
+    ]
+  }
+}

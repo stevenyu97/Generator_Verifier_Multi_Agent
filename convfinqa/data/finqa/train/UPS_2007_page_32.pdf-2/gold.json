@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the rate of return of an investment in ups from 2003 to 2004?",
+      "answer": 0.16398,
+      "answer_raw": "0.16398",
+      "program": "subtract(139.55, 119.89), divide(#0, 119.89)"
+    }
+  ]
+}

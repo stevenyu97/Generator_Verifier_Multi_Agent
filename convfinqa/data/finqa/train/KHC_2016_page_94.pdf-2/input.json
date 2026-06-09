@@ -1,0 +1,105 @@
+{
+  "input": {
+    "id": "KHC/2016/page_94.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "shares of common stock issued , in treasury , and outstanding were ( in thousands of shares ) : ."
+    ],
+    "post_text": [
+      "note 13 .",
+      "financing arrangements we routinely enter into accounts receivable securitization and factoring programs .",
+      "we account for transfers of receivables pursuant to these programs as a sale and remove them from our consolidated balance sheet .",
+      "at december 31 , 2016 , our most significant program in place was the u.s .",
+      "securitization program , which was amended in may 2016 and originally entered into in october of 2015 .",
+      "under the program , we are entitled to receive cash consideration of up to $ 800 million ( which we elected to reduce to $ 500 million , effective february 21 , 2017 ) and a receivable for the remainder of the purchase price ( the 201cdeferred purchase price 201d ) .",
+      "this securitization program utilizes a bankruptcy- remote special-purpose entity ( 201cspe 201d ) .",
+      "the spe is wholly-owned by a subsidiary of kraft heinz and its sole business consists of the purchase or acceptance , through capital contributions of receivables and related assets , from a kraft heinz subsidiary and subsequent transfer of such receivables and related assets to a bank .",
+      "although the spe is included in our consolidated financial statements , it is a separate legal entity with separate creditors who will be entitled , upon its liquidation , to be satisfied out of the spe's assets prior to any assets or value in the spe becoming available to kraft heinz or its subsidiaries .",
+      "the assets of the spe are not available to pay creditors of kraft heinz or its subsidiaries .",
+      "this program expires in may 2017 .",
+      "in addition to the u.s .",
+      "securitization program , we have accounts receivable factoring programs denominated in australian dollars , new zealand dollars , british pound sterling , euros , and japanese yen .",
+      "under these programs , we generally receive cash consideration up to a certain limit and a receivable for the deferred purchase price .",
+      "there is no deferred purchase price associated with the japanese yen contract .",
+      "related to these programs , our aggregate cash consideration limit , after applying applicable hold-backs , was $ 245 million u.s .",
+      "dollars at december 31 , 2016 .",
+      "generally , each of these programs automatically renews annually until terminated by either party .",
+      "the cash consideration and carrying amount of receivables removed from the consolidated balance sheets in connection with the above programs were $ 904 million at december 31 , 2016 and $ 267 million at january 3 , 2016 .",
+      "the fair value of the deferred purchase price for the programs was $ 129 million at december 31 , 2016 and $ 583 million at january 3 , 2016 .",
+      "the deferred purchase price is included in sold receivables on the consolidated balance sheets and had a carrying value which approximated its fair value at december 31 , 2016 and january 3 , 2016 .",
+      "the proceeds from these sales are recognized on the consolidated statements of cash flows as a component of operating activities .",
+      "we act as servicer for these arrangements and have not recorded any servicing assets or liabilities for these arrangements as of december 31 , 2016 and january 3 , 2016 because they were not material to the financial statements. ."
+    ],
+    "table": [
+      [
+        "",
+        "shares issued",
+        "treasury shares",
+        "shares outstanding"
+      ],
+      [
+        "balance at december 29 2013",
+        "376832",
+        "2014",
+        "376832"
+      ],
+      [
+        "exercise of stock options issuance of other stock awards and other",
+        "178",
+        "2014",
+        "178"
+      ],
+      [
+        "balance at december 28 2014",
+        "377010",
+        "2014",
+        "377010"
+      ],
+      [
+        "exercise of warrants",
+        "20480",
+        "2014",
+        "20480"
+      ],
+      [
+        "issuance of common stock to sponsors",
+        "221666",
+        "2014",
+        "221666"
+      ],
+      [
+        "acquisition of kraft foods group inc .",
+        "592898",
+        "2014",
+        "592898"
+      ],
+      [
+        "exercise of stock options issuance of other stock awards and other",
+        "2338",
+        "-413 ( 413 )",
+        "1925"
+      ],
+      [
+        "balance at january 3 2016",
+        "1214392",
+        "-413 ( 413 )",
+        "1213979"
+      ],
+      [
+        "exercise of stock options issuance of other stock awards and other",
+        "4555",
+        "-2058 ( 2058 )",
+        "2497"
+      ],
+      [
+        "balance at december 31 2016",
+        "1218947",
+        "-2471 ( 2471 )",
+        "1216476"
+      ]
+    ],
+    "questions": [
+      "how many total shares were issued from 2014 to 2016?"
+    ]
+  }
+}

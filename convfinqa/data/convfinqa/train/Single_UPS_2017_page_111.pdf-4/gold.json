@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of vehicles under capital lease in 2017?",
+      "answer": 70.0,
+      "answer_raw": "70.0",
+      "program": "70"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2016?",
+      "answer": 68.0,
+      "answer_raw": "68.0",
+      "program": "68"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change in that number over the year?",
+      "answer": 2.0,
+      "answer_raw": "2.0",
+      "program": "subtract(70, 68)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the number of vehicles under capital lease in 2016?",
+      "answer": 68.0,
+      "answer_raw": "68.0",
+      "program": "68"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this number, in percentage?",
+      "answer": 0.02941,
+      "answer_raw": "0.02941",
+      "program": "subtract(70, 68), divide(#0, 68)"
+    }
+  ]
+}

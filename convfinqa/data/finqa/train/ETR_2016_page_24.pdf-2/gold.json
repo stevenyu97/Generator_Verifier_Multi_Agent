@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in net revenue in 2015?",
+      "answer": -0.2509,
+      "answer_raw": "-0.2509",
+      "program": "subtract(1666, 2224), divide(#0, 2224)"
+    }
+  ]
+}

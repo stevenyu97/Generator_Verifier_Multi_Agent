@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "Single_C/2017/page_119.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "liquidity monitoring and measurement stress testing liquidity stress testing is performed for each of citi 2019s major entities , operating subsidiaries and/or countries .",
+      "stress testing and scenario analyses are intended to quantify the potential impact of an adverse liquidity event on the balance sheet and liquidity position , and to identify viable funding alternatives that can be utilized .",
+      "these scenarios include assumptions about significant changes in key funding sources , market triggers ( such as credit ratings ) , potential uses of funding and geopolitical and macroeconomic conditions .",
+      "these conditions include expected and stressed market conditions as well as company-specific events .",
+      "liquidity stress tests are conducted to ascertain potential mismatches between liquidity sources and uses over a variety of time horizons and over different stressed conditions .",
+      "liquidity limits are set accordingly .",
+      "to monitor the liquidity of an entity , these stress tests and potential mismatches are calculated with varying frequencies , with several tests performed daily .",
+      "given the range of potential stresses , citi maintains contingency funding plans on a consolidated basis and for individual entities .",
+      "these plans specify a wide range of readily available actions for a variety of adverse market conditions or idiosyncratic stresses .",
+      "short-term liquidity measurement : liquidity coverage ratio ( lcr ) in addition to internal liquidity stress metrics that citi has developed for a 30-day stress scenario , citi also monitors its liquidity by reference to the lcr , as calculated pursuant to the u.s .",
+      "lcr rules .",
+      "generally , the lcr is designed to ensure that banks maintain an adequate level of hqla to meet liquidity needs under an acute 30-day stress scenario .",
+      "the lcr is calculated by dividing hqla by estimated net outflows over a stressed 30-day period , with the net outflows determined by applying prescribed outflow factors to various categories of liabilities , such as deposits , unsecured and secured wholesale borrowings , unused lending commitments and derivatives- related exposures , partially offset by inflows from assets maturing within 30 days .",
+      "banks are required to calculate an add-on to address potential maturity mismatches between contractual cash outflows and inflows within the 30-day period in determining the total amount of net outflows .",
+      "the minimum lcr requirement is 100% ( 100 % ) , effective january 2017 .",
+      "pursuant to the federal reserve board 2019s final rule regarding lcr disclosures , effective april 1 , 2017 , citi began to disclose lcr in the prescribed format .",
+      "the table below sets forth the components of citi 2019s lcr calculation and hqla in excess of net outflows for the periods indicated : in billions of dollars dec .",
+      "31 , sept .",
+      "30 , dec .",
+      "31 ."
+    ],
+    "post_text": [
+      "note : amounts set forth in the table above are presented on an average basis .",
+      "as set forth in the table above , citi 2019s lcr increased year- over-year , as the increase in the hqla ( as discussed above ) more than offset an increase in modeled net outflows .",
+      "the increase in modeled net outflows was primarily driven by changes in assumptions , including changes in methodology to better align citi 2019s outflow assumptions with those embedded in its resolution planning .",
+      "sequentially , citi 2019s lcr remained unchanged .",
+      "long-term liquidity measurement : net stable funding ratio ( nsfr ) in 2016 , the federal reserve board , the fdic and the occ issued a proposed rule to implement the basel iii nsfr requirement .",
+      "the u.s.-proposed nsfr is largely consistent with the basel committee 2019s final nsfr rules .",
+      "in general , the nsfr assesses the availability of a bank 2019s stable funding against a required level .",
+      "a bank 2019s available stable funding would include portions of equity , deposits and long-term debt , while its required stable funding would be based on the liquidity characteristics of its assets , derivatives and commitments .",
+      "prescribed factors would be required to be applied to the various categories of asset and liabilities classes .",
+      "the ratio of available stable funding to required stable funding would be required to be greater than 100% ( 100 % ) .",
+      "while citi believes that it is compliant with the proposed u.s .",
+      "nsfr rules as of december 31 , 2017 , it will need to evaluate a final version of the rules , which are expected to be released during 2018 .",
+      "citi expects that the nsfr final rules implementation period will be communicated along with the final version of the rules. ."
+    ],
+    "table": [
+      [
+        "in billions of dollars",
+        "dec . 31 2017",
+        "sept . 30 2017",
+        "dec . 31 2016"
+      ],
+      [
+        "hqla",
+        "$ 446.4",
+        "$ 448.6",
+        "$ 403.7"
+      ],
+      [
+        "net outflows",
+        "364.3",
+        "365.1",
+        "332.5"
+      ],
+      [
+        "lcr",
+        "123% ( 123 % )",
+        "123% ( 123 % )",
+        "121% ( 121 % )"
+      ],
+      [
+        "hqla in excess of net outflows",
+        "$ 82.1",
+        "$ 83.5",
+        "$ 71.3"
+      ]
+    ],
+    "questions": [
+      "what was the hqla in excess of net outflows at the end of 2017?",
+      "what was the balance at the end of 2016?",
+      "what is the net difference?",
+      "what was the starting value?",
+      "what is the percent change?"
+    ]
+  }
+}

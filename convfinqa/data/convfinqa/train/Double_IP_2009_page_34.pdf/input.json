@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "Double_IP/2009/page_34.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "distribution xpedx , our north american merchant distribution business , distributes products and services to a number of customer markets including : commercial printers with printing papers and graphic pre-press , printing presses and post-press equipment ; building services and away-from-home markets with facility supplies ; manufacturers with packaging supplies and equipment ; and to a growing number of customers , we exclusively provide distribution capabilities including warehousing and delivery services .",
+      "xpedx is the leading wholesale distribution marketer in these customer and product segments in north america , operating 122 warehouse locations and 130 retail stores in the united states , mexico and cana- forest products international paper owns and manages approx- imately 200000 acres of forestlands and develop- ment properties in the united states , mostly in the south .",
+      "our remaining forestlands are managed as a portfolio to optimize the economic value to our shareholders .",
+      "most of our portfolio represents prop- erties that are likely to be sold to investors and other buyers for various purposes .",
+      "specialty businesses and other chemicals : this business was sold in the first quarter of 2007 .",
+      "ilim holding s.a .",
+      "in october 2007 , international paper and ilim holding s.a .",
+      "( ilim ) completed a 50:50 joint venture to operate a pulp and paper business located in russia .",
+      "ilim 2019s facilities include three paper mills located in bratsk , ust-ilimsk , and koryazhma , russia , with combined total pulp and paper capacity of over 2.5 million tons .",
+      "ilim has exclusive harvesting rights on timberland and forest areas exceeding 12.8 million acres ( 5.2 million hectares ) .",
+      "products and brand designations appearing in italics are trademarks of international paper or a related company .",
+      "industry segment results industrial packaging demand for industrial packaging products is closely correlated with non-durable industrial goods pro- duction , as well as with demand for processed foods , poultry , meat and agricultural products .",
+      "in addition to prices and volumes , major factors affecting the profitability of industrial packaging are raw material and energy costs , freight costs , manufacturing effi- ciency and product mix .",
+      "industrial packaging results for 2009 and 2008 include the cbpr business acquired in the 2008 third quarter .",
+      "net sales for 2009 increased 16% ( 16 % ) to $ 8.9 billion compared with $ 7.7 billion in 2008 , and 69% ( 69 % ) compared with $ 5.2 billion in 2007 .",
+      "operating profits were 95% ( 95 % ) higher in 2009 than in 2008 and more than double 2007 levels .",
+      "benefits from higher total year-over-year shipments , including the impact of the cbpr business , ( $ 11 million ) , favorable operating costs ( $ 294 million ) , and lower raw material and freight costs ( $ 295 million ) were parti- ally offset by the effects of lower price realizations ( $ 243 million ) , higher corporate overhead allocations ( $ 85 million ) , incremental integration costs asso- ciated with the acquisition of the cbpr business ( $ 3 million ) and higher other costs ( $ 7 million ) .",
+      "additionally , operating profits in 2009 included a gain of $ 849 million relating to alternative fuel mix- ture credits , u.s .",
+      "plant closure costs of $ 653 million , and costs associated with the shutdown of the eti- enne mill in france of $ 87 million .",
+      "industrial packaging in millions 2009 2008 2007 ."
+    ],
+    "post_text": [
+      "north american industrial packaging results include the net sales and operating profits of the cbpr business from the august 4 , 2008 acquis- ition date .",
+      "net sales were $ 7.6 billion in 2009 com- pared with $ 6.2 billion in 2008 and $ 3.9 billion in 2007 .",
+      "operating profits in 2009 were $ 791 million ( $ 682 million excluding alternative fuel mixture cred- its , mill closure costs and costs associated with the cbpr integration ) compared with $ 322 million ( $ 414 million excluding charges related to the write-up of cbpr inventory to fair value , cbpr integration costs and other facility closure costs ) in 2008 and $ 305 million in 2007 .",
+      "excluding the effect of the cbpr acquisition , con- tainerboard and box shipments were lower in 2009 compared with 2008 reflecting weaker customer demand .",
+      "average sales price realizations were sig- nificantly lower for both containerboard and boxes due to weaker world-wide economic conditions .",
+      "however , average sales margins for boxes ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2009",
+        "2008",
+        "2007"
+      ],
+      [
+        "sales",
+        "$ 8890",
+        "$ 7690",
+        "$ 5245"
+      ],
+      [
+        "operating profit",
+        "761",
+        "390",
+        "374"
+      ]
+    ],
+    "questions": [
+      "what was the total of industrial packaging sales in 2009?",
+      "and what was it in 2008?",
+      "by how much, then, did it increase over the year?",
+      "and over the previous year, from 2007 to 2008, what was that increase?"
+    ]
+  }
+}

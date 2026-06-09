@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the highest return for the second year of the investment?",
+      "answer": 114.0,
+      "answer_raw": "114.0",
+      "program": "subtract(214, 100)"
+    }
+  ]
+}

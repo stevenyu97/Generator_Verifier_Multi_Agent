@@ -1,0 +1,107 @@
+{
+  "input": {
+    "id": "MRO/2008/page_157.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "supplementary information on oil and gas producing activities ( unaudited ) c o n t i n u e d summary of changes in standardized measure of discounted future net cash flows relating to proved oil and gas reserves ( in millions ) 2008 2007 2006 sales and transfers of oil and gas produced , net of production , transportation and administrative costs $ ( 7141 ) $ ( 4887 ) $ ( 5312 ) net changes in prices and production , transportation and administrative costs related to future production ( 18290 ) 12845 ( 1342 ) ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2008",
+        "2007",
+        "2006"
+      ],
+      [
+        "sales and transfers of oil and gas produced net of production transportation and administrative costs",
+        "$ -7141 ( 7141 )",
+        "$ -4887 ( 4887 )",
+        "$ -5312 ( 5312 )"
+      ],
+      [
+        "net changes in prices and production transportation and administrative costs related to future production",
+        "-18290 ( 18290 )",
+        "12845",
+        "-1342 ( 1342 )"
+      ],
+      [
+        "extensions discoveries and improved recovery less related costs",
+        "663",
+        "1816",
+        "1290"
+      ],
+      [
+        "development costs incurred during the period",
+        "1916",
+        "1654",
+        "1251"
+      ],
+      [
+        "changes in estimated future development costs",
+        "-1584 ( 1584 )",
+        "-1727 ( 1727 )",
+        "-527 ( 527 )"
+      ],
+      [
+        "revisions of previous quantity estimates",
+        "53",
+        "290",
+        "1319"
+      ],
+      [
+        "net changes in purchases and sales of minerals in place",
+        "-13 ( 13 )",
+        "23",
+        "30"
+      ],
+      [
+        "accretion of discount",
+        "2796",
+        "1726",
+        "1882"
+      ],
+      [
+        "net change in income taxes",
+        "12805",
+        "-6751 ( 6751 )",
+        "-660 ( 660 )"
+      ],
+      [
+        "timing and other",
+        "-96 ( 96 )",
+        "-12 ( 12 )",
+        "-14 ( 14 )"
+      ],
+      [
+        "net change for the year",
+        "-8891 ( 8891 )",
+        "4977",
+        "-2083 ( 2083 )"
+      ],
+      [
+        "beginning of the year",
+        "13495",
+        "8518",
+        "10601"
+      ],
+      [
+        "end of year",
+        "$ 4604",
+        "$ 13495",
+        "$ 8518"
+      ],
+      [
+        "net change for the year from discontinued operations",
+        "$ 2013",
+        "$ 2013",
+        "$ -216 ( 216 )"
+      ]
+    ],
+    "questions": [
+      "what is the average discounted cash flow balance for the three year period , in millions?"
+    ]
+  }
+}

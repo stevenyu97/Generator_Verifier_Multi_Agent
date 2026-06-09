@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2016, what was the drawn amount from the credit facility that was set to expire in august 2021?",
+      "answer": 4.7,
+      "answer_raw": "4.7",
+      "program": "4.7"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that credit facility?",
+      "answer": 150.0,
+      "answer_raw": "150.0",
+      "program": "150"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage, then, did that amount represent?",
+      "answer": 0.03133,
+      "answer_raw": "0.03133",
+      "program": "divide(4.7, 150)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and under this same credit facility, what was the maximum amount of letters of credit that could be issued, in millions?",
+      "answer": 75.0,
+      "answer_raw": "75.0",
+      "program": "multiply(150, 50%)"
+    }
+  ]
+}

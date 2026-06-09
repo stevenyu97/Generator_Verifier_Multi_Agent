@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the profit margin in 2016",
+      "answer": 0.09592,
+      "answer_raw": "0.09592",
+      "program": "divide(586, 6109)"
+    }
+  ]
+}

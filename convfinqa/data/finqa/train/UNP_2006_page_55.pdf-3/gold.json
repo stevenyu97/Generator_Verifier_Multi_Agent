@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage difference of earnings per share 2013 basic pro forma compared to earnings per share 2013 diluted pro forma in 2005?",
+      "answer": 0.01067,
+      "answer_raw": "0.01067",
+      "program": "subtract(3.75, 3.71), divide(#0, 3.75)"
+    }
+  ]
+}

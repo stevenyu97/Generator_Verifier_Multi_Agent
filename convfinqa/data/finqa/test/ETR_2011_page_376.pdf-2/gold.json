@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of of the total variance in net revenue is attributed to the variance in volume/weather?",
+      "answer": 0.56649,
+      "answer_raw": "0.56649",
+      "program": "subtract(577.8, 540.2), divide(21.3, #0)"
+    }
+  ]
+}

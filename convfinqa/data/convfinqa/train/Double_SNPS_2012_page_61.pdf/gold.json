@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of cash and other assets acquired after liabilities are assumed?",
+      "answer": 60607.0,
+      "answer_raw": "60607.0",
+      "program": "subtract(137222, 76615)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total value of goodwill and identifiable intangibles assets acquired?",
+      "answer": 356349.0,
+      "answer_raw": "356349.0",
+      "program": "add(247482, 108867)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what about the total purchase consideration?",
+      "answer": 416956.0,
+      "answer_raw": "416956.0",
+      "program": "416956"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage does this represent?",
+      "answer": 0.85464,
+      "answer_raw": "0.85464",
+      "program": "add(247482, 108867), divide(#0, 416956)"
+    }
+  ]
+}

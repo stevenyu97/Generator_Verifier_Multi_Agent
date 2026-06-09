@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between firth rixson's goodwill and the rti's?",
+      "answer": 1503.0,
+      "answer_raw": "1503.0",
+      "program": "subtract(1801, 298)"
+    }
+  ]
+}

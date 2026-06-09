@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "Single_IP/2014/page_65.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "regions .",
+      "principal cost drivers include manufacturing efficiency , raw material and energy costs and freight costs .",
+      "printing papers net sales for 2014 decreased 8% ( 8 % ) to $ 5.7 billion compared with $ 6.2 billion in 2013 and 8% ( 8 % ) compared with $ 6.2 billion in 2012 .",
+      "operating profits in 2014 were 106% ( 106 % ) lower than in 2013 and 103% ( 103 % ) lower than in 2012 .",
+      "excluding facility closure costs , impairment costs and other special items , operating profits in 2014 were 7% ( 7 % ) higher than in 2013 and 8% ( 8 % ) lower than in 2012 .",
+      "benefits from higher average sales price realizations and a favorable mix ( $ 178 million ) , lower planned maintenance downtime costs ( $ 26 million ) , the absence of a provision for bad debt related to a large envelope customer that was booked in 2013 ( $ 28 million ) , and lower foreign exchange and other costs ( $ 25 million ) were offset by lower sales volumes ( $ 82 million ) , higher operating costs ( $ 49 million ) , higher input costs ( $ 47 million ) , and costs associated with the closure of our courtland , alabama mill ( $ 41 million ) .",
+      "in addition , operating profits in 2014 include special items costs of $ 554 million associated with the closure of our courtland , alabama mill .",
+      "during 2013 , the company accelerated depreciation for certain courtland assets , and evaluated certain other assets for possible alternative uses by one of our other businesses .",
+      "the net book value of these assets at december 31 , 2013 was approximately $ 470 million .",
+      "in the first quarter of 2014 , we completed our evaluation and concluded that there were no alternative uses for these assets .",
+      "we recognized approximately $ 464 million of accelerated depreciation related to these assets in 2014 .",
+      "operating profits in 2014 also include a charge of $ 32 million associated with a foreign tax amnesty program , and a gain of $ 20 million for the resolution of a legal contingency in india , while operating profits in 2013 included costs of $ 118 million associated with the announced closure of our courtland , alabama mill and a $ 123 million impairment charge associated with goodwill and a trade name intangible asset in our india papers business .",
+      "printing papers ."
+    ],
+    "post_text": [
+      "north american printing papers net sales were $ 2.1 billion in 2014 , $ 2.6 billion in 2013 and $ 2.7 billion in 2012 .",
+      "operating profits in 2014 were a loss of $ 398 million ( a gain of $ 156 million excluding costs associated with the shutdown of our courtland , alabama mill ) compared with gains of $ 36 million ( $ 154 million excluding costs associated with the courtland mill shutdown ) in 2013 and $ 331 million in 2012 .",
+      "sales volumes in 2014 decreased compared with 2013 due to lower market demand for uncoated freesheet paper and the closure our courtland mill .",
+      "average sales price realizations were higher , reflecting sales price increases in both domestic and export markets .",
+      "higher input costs for wood were offset by lower costs for chemicals , however freight costs were higher .",
+      "planned maintenance downtime costs were $ 14 million lower in 2014 .",
+      "operating profits in 2014 were negatively impacted by costs associated with the shutdown of our courtland , alabama mill but benefited from the absence of a provision for bad debt related to a large envelope customer that was recorded in 2013 .",
+      "entering the first quarter of 2015 , sales volumes are expected to be stable compared with the fourth quarter of 2014 .",
+      "average sales margins should improve reflecting a more favorable mix although average sales price realizations are expected to be flat .",
+      "input costs are expected to be stable .",
+      "planned maintenance downtime costs are expected to be about $ 16 million lower with an outage scheduled in the 2015 first quarter at our georgetown mill compared with outages at our eastover and riverdale mills in the 2014 fourth quarter .",
+      "brazilian papers net sales for 2014 were $ 1.1 billion compared with $ 1.1 billion in 2013 and $ 1.1 billion in 2012 .",
+      "operating profits for 2014 were $ 177 million ( $ 209 million excluding costs associated with a tax amnesty program ) compared with $ 210 million in 2013 and $ 163 million in 2012 .",
+      "sales volumes in 2014 were about flat compared with 2013 .",
+      "average sales price realizations improved for domestic uncoated freesheet paper due to the realization of price increases implemented in the second half of 2013 and in 2014 .",
+      "margins were favorably affected by an increased proportion of sales to the higher-margin domestic market .",
+      "raw material costs increased for wood and chemicals .",
+      "operating costs were higher than in 2013 and planned maintenance downtime costs were flat .",
+      "looking ahead to 2015 , sales volumes in the first quarter are expected to decrease due to seasonally weaker customer demand for uncoated freesheet paper .",
+      "average sales price improvements are expected to reflect the partial realization of announced sales price increases in the brazilian domestic market for uncoated freesheet paper .",
+      "input costs are expected to be flat .",
+      "planned maintenance outage costs should be $ 5 million lower with an outage scheduled at the luiz antonio mill in the first quarter .",
+      "european papers net sales in 2014 were $ 1.5 billion compared with $ 1.5 billion in 2013 and $ 1.4 billion in 2012 .",
+      "operating profits in 2014 were $ 140 million compared with $ 167 million in 2013 and $ 179 million in compared with 2013 , sales volumes for uncoated freesheet paper in 2014 were slightly higher in both ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      [
+        "sales",
+        "$ 5720",
+        "$ 6205",
+        "$ 6230"
+      ],
+      [
+        "operating profit ( loss )",
+        "-16 ( 16 )",
+        "271",
+        "599"
+      ]
+    ],
+    "questions": [
+      "what is the value of 2014 brazilian paper net sales by 1000?",
+      "what is that divided by total sales?"
+    ]
+  }
+}

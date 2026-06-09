@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of debt obligations are due in 2005?",
+      "answer": 0.04221,
+      "answer_raw": "0.04221",
+      "program": "divide(27.5, 651.5)"
+    }
+  ]
+}

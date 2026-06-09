@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2007, what was the amount of the maturities of long-term debt from the contractual obligations for future payments under existing debt and lease commitments and purchase obligations for 2008?",
+      "answer": 267.0,
+      "answer_raw": "267.0",
+      "program": "267"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total of those contractual obligations?",
+      "answer": 2356.0,
+      "answer_raw": "2356.0",
+      "program": "2356"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage, then, of this total did that amount represent?",
+      "answer": 0.11333,
+      "answer_raw": "0.11333",
+      "program": "divide(267, 2356)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was this percentage representation for the next year, of 2009?",
+      "answer": 0.76023,
+      "answer_raw": "0.76023",
+      "program": "divide(1300, 1710)"
+    }
+  ]
+}

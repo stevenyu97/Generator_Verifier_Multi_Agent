@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the lowest value of unamortized expense during this period?",
+      "answer": 4.0,
+      "answer_raw": "4.0",
+      "program": "table_min(unamortized expense based on current performance levels, none)"
+    }
+  ]
+}

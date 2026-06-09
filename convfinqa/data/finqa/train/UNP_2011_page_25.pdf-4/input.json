@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "UNP/2011/page_25.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "f0b7 positive train control 2013 in response to a legislative mandate to implement ptc by the end of 2015 , we expect to spend approximately $ 335 million during 2012 on developing and deploying ptc .",
+      "we currently estimate that ptc in accordance with implementing rules issued by the federal rail administration ( fra ) will cost us approximately $ 2 billion by the end of 2015 .",
+      "this includes costs for installing the new system along our tracks , upgrading locomotives to work with the new system , and adding digital data communication equipment so all the parts of the system can communicate with each other .",
+      "during 2012 , we plan to continue testing the technology to evaluate its effectiveness .",
+      "f0b7 financial expectations 2013 we are cautious about the economic environment but anticipate slow but steady volume growth that will exceed 2011 levels .",
+      "coupled with price , on-going network improvements and operational productivity initiatives , we expect earnings that exceed 2011 earnings .",
+      "results of operations operating revenues millions 2011 2010 2009 % (  % ) change 2011 v 2010 % (  % ) change 2010 v 2009 ."
+    ],
+    "post_text": [
+      "we generate freight revenues by transporting freight or other materials from our six commodity groups .",
+      "freight revenues vary with volume ( carloads ) and average revenue per car ( arc ) .",
+      "changes in price , traffic mix and fuel surcharges drive arc .",
+      "we provide some of our customers with contractual incentives for meeting or exceeding specified cumulative volumes or shipping to and from specific locations , which we record as reductions to freight revenues based on the actual or projected future shipments .",
+      "we recognize freight revenues as shipments move from origin to destination .",
+      "we allocate freight revenues between reporting periods based on the relative transit time in each reporting period and recognize expenses as we incur them .",
+      "other revenues include revenues earned by our subsidiaries , revenues from our commuter rail operations , and accessorial revenues , which we earn when customers retain equipment owned or controlled by us or when we perform additional services such as switching or storage .",
+      "we recognize other revenues as we perform services or meet contractual obligations .",
+      "freight revenues for all six commodity groups increased during 2011 compared to 2010 , while volume increased in all except intermodal .",
+      "increased demand in many market sectors , with particularly strong growth in chemical , industrial products , and automotive shipments for the year , generated the increases .",
+      "arc increased 12% ( 12 % ) , driven by higher fuel cost recoveries and core pricing gains .",
+      "fuel cost recoveries include fuel surcharge revenue and the impact of resetting the base fuel price for certain traffic , which is described below in more detail .",
+      "higher fuel prices , volume growth , and new fuel surcharge provisions in renegotiated contracts all combined to increase revenues from fuel surcharges .",
+      "freight revenues and volume levels for all six commodity groups increased during 2010 as a result of economic improvement in many market sectors .",
+      "we experienced particularly strong volume growth in automotive , intermodal , and industrial products shipments .",
+      "core pricing gains and higher fuel surcharges also increased freight revenues and drove a 6% ( 6 % ) improvement in arc .",
+      "our fuel surcharge programs ( excluding index-based contract escalators that contain some provision for fuel ) generated freight revenues of $ 2.2 billion , $ 1.2 billion , and $ 605 million in 2011 , 2010 , and 2009 , respectively .",
+      "higher fuel prices , volume growth , and new fuel surcharge provisions in contracts renegotiated during the year increased fuel surcharge amounts in 2011 and 2010 .",
+      "furthermore , for certain periods during 2009 , fuel prices dropped below the base at which our mileage-based fuel surcharge begins , which resulted in no fuel surcharge recovery for associated shipments during those periods .",
+      "additionally , fuel surcharge revenue is not entirely comparable to prior periods as we continue to convert portions of our non-regulated traffic to mileage-based fuel surcharge programs .",
+      "in 2011 , other revenues increased from 2010 due primarily to higher revenues at our subsidiaries that broker intermodal and automotive services. ."
+    ],
+    "table": [
+      [
+        "millions",
+        "2011",
+        "2010",
+        "2009",
+        "% (  % ) change 2011 v 2010",
+        "% (  % ) change 2010 v 2009"
+      ],
+      [
+        "freight revenues",
+        "$ 18508",
+        "$ 16069",
+        "$ 13373",
+        "15% ( 15 % )",
+        "20% ( 20 % )"
+      ],
+      [
+        "other revenues",
+        "1049",
+        "896",
+        "770",
+        "17",
+        "16"
+      ],
+      [
+        "total",
+        "$ 19557",
+        "$ 16965",
+        "$ 14143",
+        "15% ( 15 % )",
+        "20% ( 20 % )"
+      ]
+    ],
+    "questions": [
+      "what percentage of total revenue in 2011 was freight revenue?"
+    ]
+  }
+}

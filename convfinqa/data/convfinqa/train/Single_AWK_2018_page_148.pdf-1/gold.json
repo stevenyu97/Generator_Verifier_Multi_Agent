@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "during the year of 2018, how much did the company pay in cash dividends, in millions?",
+      "answer": 319.0,
+      "answer_raw": "319.0",
+      "program": "319"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much was that during 2017, also in millions?",
+      "answer": 289.0,
+      "answer_raw": "289.0",
+      "program": "289"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "then, how much did the company pay in cash dividends during the years of 2018 and 2017 combined, in millions?",
+      "answer": 608.0,
+      "answer_raw": "608.0",
+      "program": "add(319, 289)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "including the year of 2016, how much would then be the total of the payment in cash dividends during the three years?",
+      "answer": 869.0,
+      "answer_raw": "869.0",
+      "program": "add(319, 289), add(#0, 261)"
+    }
+  ]
+}

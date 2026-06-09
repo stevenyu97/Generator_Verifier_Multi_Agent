@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 31 , 2018 what was the percent of the total future minimum lease commitments under the leases that was due in 2020",
+      "answer": 0.1401,
+      "answer_raw": "0.1401",
+      "program": "divide(256172, 1828519)"
+    }
+  ]
+}

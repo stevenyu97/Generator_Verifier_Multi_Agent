@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total in other income for the years of 2013 and 2012, combined?",
+      "answer": 236.0,
+      "answer_raw": "236.0",
+      "program": "add(128, 108)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "including 2011, what then becomes this total?",
+      "answer": 348.0,
+      "answer_raw": "348.0",
+      "program": "add(128, 108), add(112, #0)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what was the average other income between these three years?",
+      "answer": 116.0,
+      "answer_raw": "116.0",
+      "program": "add(128, 108), add(112, #0), divide(#1, const_3)"
+    }
+  ]
+}

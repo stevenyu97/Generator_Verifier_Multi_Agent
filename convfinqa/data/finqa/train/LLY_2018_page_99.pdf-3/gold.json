@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in percentage return for lilly compared to the peer group for the five years ended dec-18?",
+      "answer": 1.2332,
+      "answer_raw": "1.2332",
+      "program": "subtract(259.88, const_100), divide(#0, const_100), subtract(136.56, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

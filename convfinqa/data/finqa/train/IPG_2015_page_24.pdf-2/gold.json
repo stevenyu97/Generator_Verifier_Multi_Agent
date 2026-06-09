@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total shares purchased was purchased in december?",
+      "answer": 36.55148,
+      "answer_raw": "36.55148",
+      "program": "divide(1881992, 5148881), multiply(#0, const_100)"
+    }
+  ]
+}

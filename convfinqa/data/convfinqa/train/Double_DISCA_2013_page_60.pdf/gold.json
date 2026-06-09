@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the performance price of the disca stock from 2008 to 2013?",
+      "answer": 538.56,
+      "answer_raw": "538.56",
+      "program": "subtract(638.56, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this change as a percentage of that performance price in 2008?",
+      "answer": 5.3856,
+      "answer_raw": "5.3856",
+      "program": "subtract(638.56, const_100), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "in that same period, what was the change in the performance price of the discb stock?",
+      "answer": 502.08,
+      "answer_raw": "502.08",
+      "program": "subtract(602.08, const_100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much did this change represent in relation to the performance price of that stock in 2008, in percentage?",
+      "answer": 5.0208,
+      "answer_raw": "5.0208",
+      "program": "subtract(602.08, const_100), divide(#0, const_100)"
+    }
+  ]
+}

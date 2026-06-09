@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in weighted average shares outstanding for diluted net earnings per share between 2005 and 2006 , in millions?",
+      "answer": -4.4,
+      "answer_raw": "-4.4",
+      "program": "subtract(245.4, 249.8)"
+    }
+  ]
+}

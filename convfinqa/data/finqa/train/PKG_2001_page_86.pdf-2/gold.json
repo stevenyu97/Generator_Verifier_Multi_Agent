@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of outstanding aggregate minimum rental commitments under noncancelable operating leases are due after 2003?",
+      "answer": 0.04579,
+      "answer_raw": "0.04579",
+      "program": "divide(1178, 25727)"
+    }
+  ]
+}

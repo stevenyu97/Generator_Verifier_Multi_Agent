@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 31 , 2006 what was the percent of the total company nol set to expire between 2017 and 2021",
+      "answer": 0.29471,
+      "answer_raw": "0.29471",
+      "program": "divide(617039, 2093683)"
+    }
+  ]
+}

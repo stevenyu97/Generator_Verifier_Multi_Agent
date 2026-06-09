@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in thousands in total outstandings under long term financing arrangements from 2007 to 2008?",
+      "answer": 47862.0,
+      "answer_raw": "47862.0",
+      "program": "subtract(4333146, 4285284)"
+    }
+  ]
+}

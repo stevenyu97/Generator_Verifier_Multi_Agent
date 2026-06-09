@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "Double_PNC/2015/page_159.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "during 2015 , $ 82 million of provision recapture was recorded for purchased impaired loans compared to $ 91 million of provision recapture during 2014 .",
+      "charge-offs ( which were specifically for commercial loans greater than a defined threshold ) during 2015 were $ 12 million compared to $ 42 million during 2014 .",
+      "at december 31 , 2015 and december 31 , 2014 , the alll on total purchased impaired loans was $ .3 billion and $ .9 billion , respectively .",
+      "the decline in alll was primarily due to the change in our derecognition policy .",
+      "for purchased impaired loan pools where an allowance has been recognized , subsequent increases in the net present value of cash flows will result in a provision recapture of any previously recorded alll to the extent applicable , and/or a reclassification from non-accretable difference to accretable yield , which will be recognized prospectively .",
+      "individual loan transactions where final dispositions have occurred ( as noted above ) result in removal of the loans from their applicable pools for cash flow estimation purposes .",
+      "the cash flow re- estimation process is completed quarterly to evaluate the appropriateness of the alll associated with the purchased impaired loans .",
+      "activity for the accretable yield during 2015 and 2014 follows : table 66 : purchased impaired loans 2013 accretable yield ."
+    ],
+    "post_text": [
+      "note 5 allowances for loan and lease losses and unfunded loan commitments and letters of credit allowance for loan and lease losses we maintain the alll at levels that we believe to be appropriate to absorb estimated probable credit losses incurred in the portfolios as of the balance sheet date .",
+      "we use the two main portfolio segments 2013 commercial lending and consumer lending 2013 and develop and document the alll under separate methodologies for each of these segments as discussed in note 1 accounting policies .",
+      "a rollforward of the alll and associated loan data follows .",
+      "the pnc financial services group , inc .",
+      "2013 form 10-k 141 ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2015",
+        "2014"
+      ],
+      [
+        "january 1",
+        "$ 1558",
+        "$ 2055"
+      ],
+      [
+        "accretion ( including excess cash recoveries )",
+        "-466 ( 466 )",
+        "-587 ( 587 )"
+      ],
+      [
+        "net reclassifications to accretable from non-accretable",
+        "226",
+        "208"
+      ],
+      [
+        "disposals",
+        "-68 ( 68 )",
+        "-118 ( 118 )"
+      ],
+      [
+        "december 31",
+        "$ 1250",
+        "$ 1558"
+      ]
+    ],
+    "questions": [
+      "what was the net change on all total purchased impaired loans between 12/31/15 and 12/31/14?",
+      "what was the total provision recapture for purchased impaired loans between 2014 and 2015?",
+      "so what was the average during this time?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "from 2013-2014 , what percentage of total intangible assets were recorded in 2014?",
+      "answer": 46.75817,
+      "answer_raw": "46.75817",
+      "program": "add(188038, 214112), divide(188038, #0), multiply(const_100, #1)"
+    }
+  ]
+}

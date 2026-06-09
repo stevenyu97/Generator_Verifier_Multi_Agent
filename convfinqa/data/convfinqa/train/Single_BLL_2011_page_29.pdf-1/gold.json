@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of ball corporation in 2008?",
+      "answer": 97.04,
+      "answer_raw": "97.04",
+      "program": "97.04"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the change in value from the initial $100 investment?",
+      "answer": -2.96,
+      "answer_raw": "-2.96",
+      "program": "subtract(97.04, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the percent change?",
+      "answer": -0.0296,
+      "answer_raw": "-0.0296",
+      "program": "subtract(97.04, const_100), divide(#0, const_100)"
+    }
+  ]
+}

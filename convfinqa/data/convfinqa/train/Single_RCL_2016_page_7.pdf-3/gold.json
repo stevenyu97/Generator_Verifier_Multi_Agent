@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in weighted-average supply of berths market ed globally from 2012 to 2016?",
+      "answer": 68000.0,
+      "answer_raw": "68000.0",
+      "program": "subtract(493000, 425000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage change does this represent?",
+      "answer": 0.16,
+      "answer_raw": "0.16",
+      "program": "subtract(493000, 425000), divide(#0, 425000)"
+    }
+  ]
+}

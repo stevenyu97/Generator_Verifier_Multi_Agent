@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in aggregate notional amount of outstanding interest rate swaps from 2011 to 2012?",
+      "answer": 0.11778,
+      "answer_raw": "0.11778",
+      "program": "subtract(503, 450), divide(#0, 450)"
+    }
+  ]
+}

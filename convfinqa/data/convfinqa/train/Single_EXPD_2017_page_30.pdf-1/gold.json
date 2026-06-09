@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the value of the expeditors international of washington inc . from 2012 to 2017?",
+      "answer": 76.08,
+      "answer_raw": "76.08",
+      "program": "subtract(176.08, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that change for standard and poor's 500 index during the same period?",
+      "answer": 108.14,
+      "answer_raw": "108.14",
+      "program": "subtract(176.08, const_100), subtract(208.14, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does the expeditors international of washington inc . change represent in relation to the the value of that stock in 2012, in percentage?",
+      "answer": 0.7608,
+      "answer_raw": "0.7608",
+      "program": "subtract(176.08, const_100), subtract(208.14, const_100), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does the standard and poor's 500 index change represent in relation to the the value of that stock in 2012, also in percentage?",
+      "answer": 1.0814,
+      "answer_raw": "1.0814",
+      "program": "subtract(176.08, const_100), subtract(208.14, const_100), divide(#0, const_100), divide(#1, const_100)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the difference between this percentage representation for expeditors international of washington inc . and for standard and poor's 500 index?",
+      "answer": -0.3206,
+      "answer_raw": "-0.3206",
+      "program": "subtract(176.08, const_100), subtract(208.14, const_100), divide(#0, const_100), divide(#1, const_100), subtract(#2, #3)"
+    }
+  ]
+}

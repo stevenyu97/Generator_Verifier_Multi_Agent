@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between u.s . gaap and adjusted effective income tax rate 2014non-gaap in 2015?",
+      "answer": -6.4,
+      "answer_raw": "-6.4",
+      "program": "subtract(25.9, 32.3)"
+    }
+  ]
+}

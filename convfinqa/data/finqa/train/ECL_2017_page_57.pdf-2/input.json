@@ -1,0 +1,112 @@
+{
+  "input": {
+    "id": "ECL/2017/page_57.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "liquidity and capital resources we currently expect to fund all of our cash requirements which are reasonably foreseeable for 2018 , including scheduled debt repayments , new investments in the business , share repurchases , dividend payments , possible business acquisitions and pension contributions , with cash from operating activities , and as needed , additional short-term and/or long-term borrowings .",
+      "we continue to expect our operating cash flow to remain strong .",
+      "as of december 31 , 2017 , we had $ 211 million of cash and cash equivalents on hand , of which $ 151 million was held outside of the as of december 31 , 2016 , we had $ 327 million of cash and cash equivalents on hand , of which $ 184 million was held outside of the u.s .",
+      "as of december 31 , 2015 , we had $ 26 million of deferred tax liabilities for pre-acquisition foreign earnings associated with the legacy nalco entities and legacy champion entities that we intended to repatriate .",
+      "these liabilities were recorded as part of the respective purchase price accounting of each transaction .",
+      "the remaining foreign earnings were repatriated in 2016 , reducing the deferred tax liabilities to zero at december 31 , 2016 .",
+      "as of december 31 , 2017 we had a $ 2.0 billion multi-year credit facility , which expires in november 2022 .",
+      "the credit facility has been established with a diverse syndicate of banks .",
+      "there were no borrowings under our credit facility as of december 31 , 2017 or 2016 .",
+      "the credit facility supports our $ 2.0 billion u.s .",
+      "commercial paper program and $ 2.0 billion european commercial paper program .",
+      "combined borrowing under these two commercial paper programs may not exceed $ 2.0 billion .",
+      "at year-end , we had no amount outstanding under the european commercial paper program and no amount outstanding under the u.s .",
+      "commercial paper program .",
+      "additionally , we have uncommitted credit lines of $ 660 million with major international banks and financial institutions to support our general global funding needs .",
+      "most of these lines are used to support global cash pooling structures .",
+      "approximately $ 643 million of these credit lines were available for use as of year-end 2017 .",
+      "bank supported letters of credit , surety bonds and guarantees total $ 198 million and represent commercial business transactions .",
+      "we do not have any other significant unconditional purchase obligations or commercial commitments .",
+      "as of december 31 , 2017 , our short-term borrowing program was rated a-2 by standard & poor 2019s and p-2 by moody 2019s .",
+      "as of december 31 , 2017 , standard & poor 2019s and moody 2019s rated our long-term credit at a- ( stable outlook ) and baa1 ( stable outlook ) , respectively .",
+      "a reduction in our credit ratings could limit or preclude our ability to issue commercial paper under our current programs , or could also adversely affect our ability to renew existing , or negotiate new , credit facilities in the future and could increase the cost of these facilities .",
+      "should this occur , we could seek additional sources of funding , including issuing additional term notes or bonds .",
+      "in addition , we have the ability , at our option , to draw upon our $ 2.0 billion of committed credit facility .",
+      "we are in compliance with our debt covenants and other requirements of our credit agreements and indentures .",
+      "a schedule of our various obligations as of december 31 , 2017 are summarized in the following table: ."
+    ],
+    "post_text": [
+      "* interest on variable rate debt was calculated using the interest rate at year-end 2017 .",
+      "during the fourth quarter of 2017 , we recorded a one-time transition tax related to enactment of the tax act .",
+      "the expense is primarily related to the one-time transition tax , which is payable over eight years .",
+      "as discussed further in note 12 , this balance is a provisional amount and is subject to adjustment during the measurement period of up to one year following the enactment of the tax act , as provided by recent sec guidance .",
+      "as of december 31 , 2017 , our gross liability for uncertain tax positions was $ 68 million .",
+      "we are not able to reasonably estimate the amount by which the liability will increase or decrease over an extended period of time or whether a cash settlement of the liability will be required .",
+      "therefore , these amounts have been excluded from the schedule of contractual obligations. ."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "total",
+        "payments due by period less than 1 year",
+        "payments due by period 2-3 years",
+        "payments due by period 4-5 years",
+        "payments due by period more than 5 years"
+      ],
+      [
+        "notes payable",
+        "$ 15",
+        "$ 15",
+        "$ -",
+        "$ -",
+        "$ -"
+      ],
+      [
+        "one-time transition tax",
+        "160",
+        "13",
+        "26",
+        "26",
+        "95"
+      ],
+      [
+        "long-term debt",
+        "7303",
+        "549",
+        "696",
+        "1513",
+        "4545"
+      ],
+      [
+        "capital lease obligations",
+        "5",
+        "1",
+        "1",
+        "1",
+        "2"
+      ],
+      [
+        "operating leases",
+        "617",
+        "131",
+        "211",
+        "160",
+        "115"
+      ],
+      [
+        "interest*",
+        "2753",
+        "242",
+        "436",
+        "375",
+        "1700"
+      ],
+      [
+        "total",
+        "$ 10853",
+        "$ 951",
+        "$ 1370",
+        "$ 2075",
+        "$ 6457"
+      ]
+    ],
+    "questions": [
+      "what portion of the balance of cash and cash equivalents on hand is held outside u.s . in 2017?"
+    ]
+  }
+}

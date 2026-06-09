@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "on june 23, 2008, what was the amount of the five year term loan to fund a portion of the acquisition?",
+      "answer": 200.0,
+      "answer_raw": "200.0",
+      "program": "200"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was its interest rate?",
+      "answer": 0.03605,
+      "answer_raw": "0.03605",
+      "program": "3.605%"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is, then, the value equivalent to this rate?",
+      "answer": 7.21,
+      "answer_raw": "7.21",
+      "program": "multiply(200, 3.605%)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "considering that the rate is annual, what is the value equivalent to the first quarter?",
+      "answer": 1.8025,
+      "answer_raw": "1.8025",
+      "program": "multiply(200, 3.605%), divide(#0, const_4)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and what was the total of amount of principle payment paid for that loan between 2008 and 2011?",
+      "answer": 30.0,
+      "answer_raw": "30.0",
+      "program": "add(5, 10), add(#0, #0)"
+    }
+  ]
+}

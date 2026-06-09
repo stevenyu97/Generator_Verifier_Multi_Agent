@@ -1,0 +1,53 @@
+{
+  "input": {
+    "id": "APD/2019/page_100.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "during the third quarter ended 30 june 2017 , we recognized a goodwill impairment charge of $ 145.3 and an intangible asset impairment charge of $ 16.8 associated with our lasa reporting unit .",
+      "refer to note 11 , goodwill , and note 12 , intangible assets , for more information related to these charges and the associated fair value measurement methods and significant inputs/assumptions , which were classified as level 3 since unobservable inputs were utilized in the fair value measurements .",
+      "16 .",
+      "debt the tables below summarize our outstanding debt at 30 september 2019 and 2018 : total debt ."
+    ],
+    "post_text": [
+      "( a ) fiscal year 2019 includes the current portion of long-term debt owed to a related party of $ 37.8 .",
+      "( b ) refer to note 7 , acquisitions , for additional information regarding related party debt .",
+      "short-term borrowings short-term borrowings consisted of bank obligations of $ 58.2 and $ 54.3 at 30 september 2019 and 2018 , respectively .",
+      "the weighted average interest rate of short-term borrowings outstanding at 30 september 2019 and 2018 was 3.7% ( 3.7 % ) and 5.0% ( 5.0 % ) , respectively. ."
+    ],
+    "table": [
+      [
+        "30 september",
+        "2019",
+        "2018"
+      ],
+      [
+        "short-term borrowings",
+        "$ 58.2",
+        "$ 54.3"
+      ],
+      [
+        "current portion of long-term debt ( a ) ( b )",
+        "40.4",
+        "406.6"
+      ],
+      [
+        "long-term debt",
+        "2907.3",
+        "2967.4"
+      ],
+      [
+        "long-term debt 2013 related party ( b )",
+        "320.1",
+        "384.3"
+      ],
+      [
+        "total debt",
+        "$ 3326.0",
+        "$ 3812.6"
+      ]
+    ],
+    "questions": [
+      "what is the short-term debt as a percent of total debt , in 2019?"
+    ]
+  }
+}

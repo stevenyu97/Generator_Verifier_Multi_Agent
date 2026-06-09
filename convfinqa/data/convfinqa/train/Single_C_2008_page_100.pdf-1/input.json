@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "Single_C/2008/page_100.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "capital resources and liquidity capital resources overview capital is generally generated via earnings from operating businesses .",
+      "this is augmented through issuance of common stock , convertible preferred stock , preferred stock , subordinated debt , and equity issued through awards under employee benefit plans .",
+      "capital is used primarily to support assets in the company 2019s businesses and to absorb unexpected market , credit or operational losses .",
+      "the company 2019s uses of capital , particularly to pay dividends and repurchase common stock , became severely restricted during the latter half of 2008 .",
+      "see 201cthe company , 201d 201cmanagement 2019s discussion and analysis 2013 events in 2008 , 201d 201ctarp and other regulatory programs , 201d 201crisk factors 201d and 201ccommon equity 201d on pages 2 , 9 , 44 , 47 and 95 , respectively .",
+      "citigroup 2019s capital management framework is designed to ensure that citigroup and its principal subsidiaries maintain sufficient capital consistent with the company 2019s risk profile , all applicable regulatory standards and guidelines , and external rating agency considerations .",
+      "the capital management process is centrally overseen by senior management and is reviewed at the consolidated , legal entity , and country level .",
+      "senior management oversees the capital management process of citigroup and its principal subsidiaries mainly through citigroup 2019s finance and asset and liability committee ( finalco ) .",
+      "the committee is composed of the senior-most management of citigroup for the purpose of engaging management in decision-making and related discussions on capital and liquidity items .",
+      "among other things , the committee 2019s responsibilities include : determining the financial structure of citigroup and its principal subsidiaries ; ensuring that citigroup and its regulated entities are adequately capitalized ; determining appropriate asset levels and return hurdles for citigroup and individual businesses ; reviewing the funding and capital markets plan for citigroup ; and monitoring interest-rate risk , corporate and bank liquidity , the impact of currency translation on non-u.s .",
+      "earnings and capital .",
+      "the finalco has established capital targets for citigroup and for significant subsidiaries .",
+      "at december 31 , 2008 , these targets exceeded the regulatory standards .",
+      "common and preferred stock issuances as discussed under 201cevents in 2008 201d on page 9 , during 2008 , the company issued $ 45 billion in preferred stock and warrants under tarp , $ 12.5 billion of convertible preferred stock in a private offering , $ 11.7 billion of non-convertible preferred stock in public offerings , $ 3.2 billion of convertible preferred stock in public offerings , and $ 4.9 billion of common stock in public offerings .",
+      "on january 23 , 2009 , pursuant to our prior agreement with the purchasers of the $ 12.5 billion convertible preferred stock issued in the private offering , the conversion price was reset from $ 31.62 per share to $ 26.35 per share .",
+      "the reset will result in citigroup 2019s issuing approximately 79 million additional common shares if converted .",
+      "there will be no impact to net income , total stockholders 2019 equity or capital ratios due to the reset .",
+      "however , the reset will result in a reclassification from retained earnings to additional paid-in capital of $ 1.2 billion to reflect the benefit of the reset to the preferred stockholders .",
+      "capital ratios citigroup is subject to risk-based capital ratio guidelines issued by the federal reserve board ( frb ) .",
+      "capital adequacy is measured via two risk- based ratios , tier 1 and total capital ( tier 1 + tier 2 capital ) .",
+      "tier 1 capital is considered core capital while total capital also includes other items such as subordinated debt and loan loss reserves .",
+      "both measures of capital are stated as a percentage of risk-weighted assets .",
+      "risk-weighted assets are measured primarily on their perceived credit risk and include certain off-balance-sheet exposures , such as unfunded loan commitments and letters of credit , and the notional amounts of derivative and foreign- exchange contracts .",
+      "citigroup is also subject to the leverage ratio requirement , a non-risk-based asset ratio , which is defined as tier 1 capital as a percentage of adjusted average assets .",
+      "to be 201cwell capitalized 201d under federal bank regulatory agency definitions , a bank holding company must have a tier 1 capital ratio of at least 6% ( 6 % ) , a total capital ratio of at least 10% ( 10 % ) , and a leverage ratio of at least 3% ( 3 % ) , and not be subject to an frb directive to maintain higher capital levels .",
+      "as noted in the following table , citigroup maintained a 201cwell capitalized 201d position during both 2008 and 2007 .",
+      "citigroup regulatory capital ratios at year end 2008 2007 ."
+    ],
+    "post_text": [
+      "leverage ( 1 ) 6.08 4.03 ( 1 ) tier 1 capital divided by adjusted average assets .",
+      "events occurring during 2008 , including the transactions with the u.s .",
+      "government , affected citigroup 2019s capital ratios , and any additional u.s .",
+      "government financial involvement with the company could further impact the company 2019s capital ratios .",
+      "in addition , future operations will affect capital levels , and changes that the fasb has proposed regarding off-balance-sheet assets , consolidation and sale treatment could also have an impact on capital ratios .",
+      "see also note 23 to the consolidated financial statements on page 175 , including 201cfunding liquidity facilities and subordinate interests . 201d ."
+    ],
+    "table": [
+      [
+        "at year end",
+        "2008",
+        "2007"
+      ],
+      [
+        "tier 1 capital",
+        "11.92% ( 11.92 % )",
+        "7.12% ( 7.12 % )"
+      ],
+      [
+        "total capital ( tier 1 and tier 2 )",
+        "15.70",
+        "10.70"
+      ],
+      [
+        "leverage ( 1 )",
+        "6.08",
+        "4.03"
+      ]
+    ],
+    "questions": [
+      "what was the conversion price before the reset of convertible preferred stock issued in the private offering?",
+      "and what became the conversion price with that reset?",
+      "what, then, was the change in the conversion price because of that reset?",
+      "and how much does this change represent in relation to the original conversion price, in percentage?"
+    ]
+  }
+}

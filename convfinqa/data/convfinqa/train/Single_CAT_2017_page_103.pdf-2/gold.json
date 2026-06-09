@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the proportion of the total amount of interest and penalties accrued in 2017 to 2016?",
+      "answer": 1.30833,
+      "answer_raw": "1.30833",
+      "program": "divide(157, 120)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and applying that same growth rate, what would that value be in 2018?",
+      "answer": 205.40833,
+      "answer_raw": "205.40833",
+      "program": "divide(157, 120), multiply(#0, 157)"
+    }
+  ]
+}

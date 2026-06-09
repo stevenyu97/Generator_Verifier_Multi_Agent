@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total goodwill value, in thousands?",
+      "answer": 120300.0,
+      "answer_raw": "120300.0",
+      "program": "multiply(120.3, const_1000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this value represent in relation to the total purchase price consideration, in percentage?",
+      "answer": 0.62395,
+      "answer_raw": "0.62395",
+      "program": "multiply(120.3, const_1000), divide(#0, 192803)"
+    }
+  ]
+}

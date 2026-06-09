@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much percentage has long-term debt gone down from 2004 to 2008?",
+      "answer": 0.99632,
+      "answer_raw": "0.99632",
+      "program": "subtract(244.5, 0.9), divide(#0, 244.5)"
+    }
+  ]
+}

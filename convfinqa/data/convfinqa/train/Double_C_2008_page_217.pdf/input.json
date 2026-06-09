@@ -1,0 +1,119 @@
+{
+  "input": {
+    "id": "Double_C/2008/page_217.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "billion at december 31 , 2008 and december 31 , 2007 , respectively .",
+      "securities and other marketable assets held as collateral amounted to $ 27 billion and $ 54 billion , the majority of which collateral is held to reimburse losses realized under securities lending indemnifications .",
+      "the decrease from the prior year is in line with the decrease in the notional amount of these indemnifications , which are collateralized .",
+      "additionally , letters of credit in favor of the company held as collateral amounted to $ 503 million and $ 370 million at december 31 , 2008 and december 31 , 2007 , respectively .",
+      "other property may also be available to the company to cover losses under certain guarantees and indemnifications ; however , the value of such property has not been determined .",
+      "performance risk citigroup evaluates the performance risk of its guarantees based on the assigned referenced counterparty internal or external ratings .",
+      "where external ratings are used , investment-grade ratings are considered to be baa/bbb and above , while anything below is considered non-investment grade .",
+      "the citigroup internal ratings are in line with the related external rating system .",
+      "on certain underlying referenced credits or entities , ratings are not available .",
+      "such referenced credits are included in the 201cnot-rated 201d category .",
+      "the maximum potential amount of the future payments related to guarantees and credit derivatives sold is determined to be the notional amount of these contracts , which is the par amount of the assets guaranteed .",
+      "presented in the table below is the maximum potential amount of future payments classified based upon internal and external credit ratings as of december 31 , 2008 .",
+      "as previously mentioned , the determination of the maximum potential future payments is based on the notional amount of the guarantees without consideration of possible recoveries under recourse provisions or from collateral held or pledged .",
+      "such amounts bear no relationship to the anticipated losses , if any , on these guarantees. ."
+    ],
+    "post_text": [
+      "credit derivatives a credit derivative is a bilateral contract between a buyer and a seller under which the seller sells protection against the credit risk of a particular entity ( 201creference entity 201d or 201creference credit 201d ) .",
+      "credit derivatives generally require that the seller of credit protection make payments to the buyer upon the occurrence of predefined credit events ( commonly referred to as 201csettlement triggers 201d ) .",
+      "these settlement triggers are defined by the form of the derivative and the reference credit and are generally limited to the market standard of failure to pay on indebtedness and bankruptcy of the reference credit and , in a more limited range of transactions , debt restructuring .",
+      "credit derivative transactions referring to emerging market reference credits will also typically include additional settlement triggers to cover the acceleration of indebtedness and the risk of repudiation or a payment moratorium .",
+      "in certain transactions , protection may be provided on a portfolio of referenced credits or asset-backed securities .",
+      "the seller of such protection may not be required to make payment until a specified amount of losses has occurred with respect to the portfolio and/or may only be required to pay for losses up to a specified amount .",
+      "the company makes markets in and trades a range of credit derivatives , both on behalf of clients as well as for its own account .",
+      "through these contracts , the company either purchases or writes protection on either a single name or a portfolio of reference credits .",
+      "the company uses credit derivatives to help mitigate credit risk in its corporate loan portfolio and other cash positions , to take proprietary trading positions , and to facilitate client transactions .",
+      "the range of credit derivatives sold includes credit default swaps , total return swaps and credit options .",
+      "a credit default swap is a contract in which , for a fee , a protection seller ( guarantor ) agrees to reimburse a protection buyer ( beneficiary ) for any losses that occur due to a credit event on a reference entity .",
+      "if there is no credit default event or settlement trigger , as defined by the specific derivative contract , then the guarantor makes no payments to the beneficiary and receives only the contractually specified fee .",
+      "however , if a credit event occurs and in accordance with the specific derivative contract sold , the guarantor will be required to make a payment to the beneficiary .",
+      "a total return swap transfers the total economic performance of a reference asset , which includes all associated cash flows , as well as capital appreciation or depreciation .",
+      "the protection buyer ( beneficiary ) receives a floating rate of interest and any depreciation on the reference asset from the protection seller ( guarantor ) , and in return the protection seller receives the cash flows associated with the reference asset , plus any appreciation .",
+      "thus , the beneficiary will be obligated to make a payment any time the floating interest rate payment according to the total return swap agreement and any depreciation of the reference asset exceed the cash flows associated with the underlying asset .",
+      "a total return swap may terminate upon a default of the reference asset subject to the provisions in the related total return swap agreement between the protection seller ( guarantor ) and the protection buyer ( beneficiary ) . ."
+    ],
+    "table": [
+      [
+        "in billions of dollars",
+        "maximum potential amount of future payments investment grade",
+        "maximum potential amount of future payments non-investment grade",
+        "maximum potential amount of future payments not rated",
+        "maximum potential amount of future payments total"
+      ],
+      [
+        "financial standby letters of credit",
+        "$ 49.2",
+        "$ 28.6",
+        "$ 16.4",
+        "$ 94.2"
+      ],
+      [
+        "performance guarantees",
+        "5.7",
+        "5.0",
+        "5.6",
+        "16.3"
+      ],
+      [
+        "derivative instruments deemed to be guarantees",
+        "2014",
+        "2014",
+        "67.9",
+        "67.9"
+      ],
+      [
+        "guarantees of collection of contractual cash flows",
+        "2014",
+        "2014",
+        "0.3",
+        "0.3"
+      ],
+      [
+        "loans sold with recourse",
+        "2014",
+        "2014",
+        "0.3",
+        "0.3"
+      ],
+      [
+        "securities lending indemnifications",
+        "2014",
+        "2014",
+        "47.6",
+        "47.6"
+      ],
+      [
+        "credit card merchant processing",
+        "2014",
+        "2014",
+        "56.7",
+        "56.7"
+      ],
+      [
+        "custody indemnifications and other",
+        "18.5",
+        "3.1",
+        "2014",
+        "21.6"
+      ],
+      [
+        "total",
+        "$ 73.4",
+        "$ 36.7",
+        "$ 194.8",
+        "$ 304.9"
+      ]
+    ],
+    "questions": [
+      "what portion of total maximum potential amount of future payments is related to financial standby letters of credit?",
+      "what about the total maximum potential amount of future payments for performance guarantees?",
+      "and the total maximum potential amount of future payments?",
+      "what portion us related to performance guarantees?"
+    ]
+  }
+}

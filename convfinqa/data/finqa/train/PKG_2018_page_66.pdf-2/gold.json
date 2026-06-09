@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the revised allocation of net assets acquired is property , plant and equipment?",
+      "answer": 0.09752,
+      "answer_raw": "0.09752",
+      "program": "divide(26.7, 273.8)"
+    }
+  ]
+}

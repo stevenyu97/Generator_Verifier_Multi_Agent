@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between the other net income of the years of 2018 and 2016?",
+      "answer": -3.0,
+      "answer_raw": "-3.0",
+      "program": "subtract(25, 28)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how much does that difference represent in relation to the other net income of 2016?",
+      "answer": -0.10714,
+      "answer_raw": "-0.10714",
+      "program": "subtract(25, 28), divide(#0, 28)"
+    }
+  ]
+}

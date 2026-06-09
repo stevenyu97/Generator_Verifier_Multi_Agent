@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage reduction in the share repurchase program , from 2005 to 2006?",
+      "answer": 0.87238,
+      "answer_raw": "0.87238",
+      "program": "subtract(358.1, 45.7), divide(#0, 358.1)"
+    }
+  ]
+}

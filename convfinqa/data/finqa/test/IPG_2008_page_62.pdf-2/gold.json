@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in the balance of liability for all restructuring from 2006 to 2008 , ( in millions ) ?",
+      "answer": -19.0,
+      "answer_raw": "-19.0",
+      "program": "subtract(12.8, 31.8)"
+    }
+  ]
+}

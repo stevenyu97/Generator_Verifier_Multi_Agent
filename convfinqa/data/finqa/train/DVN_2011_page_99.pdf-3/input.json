@@ -1,0 +1,83 @@
+{
+  "input": {
+    "id": "DVN/2011/page_99.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "devon energy corporation and subsidiaries notes to consolidated financial statements 2014 ( continued ) proved undeveloped reserves the following table presents the changes in our total proved undeveloped reserves during 2011 ( in mmboe ) . ."
+    ],
+    "post_text": [
+      "at december 31 , 2011 , devon had 782 mmboe of proved undeveloped reserves .",
+      "this represents a 6% ( 6 % ) decrease as compared to 2010 and represents 26% ( 26 % ) of its total proved reserves .",
+      "drilling activities increased devon 2019s proved undeveloped reserves 148 mmboe and resulted in the conversion of 130 mmboe , or 16% ( 16 % ) , of the 2010 proved undeveloped reserves to proved developed reserves .",
+      "additionally , revisions other than price decreased devon 2019s proved undeveloped reserves 51 mmboe primarily due to its evaluation of certain u.s .",
+      "onshore dry-gas areas , which it does not expect to develop in the next five years .",
+      "the largest revisions relate to the dry-gas areas at carthage in east texas and the barnett shale in north texas .",
+      "a significant amount of devon 2019s proved undeveloped reserves at the end of 2011 largely related to its jackfish operations .",
+      "at december 31 , 2011 and 2010 , devon 2019s jackfish proved undeveloped reserves were 367 mmboe and 396 mmboe , respectively .",
+      "development schedules for the jackfish reserves are primarily controlled by the need to keep the processing plants at their 35000 barrel daily facility capacity .",
+      "processing plant capacity is controlled by factors such as total steam processing capacity , steam-oil ratios and air quality discharge permits .",
+      "as a result , these reserves are classified as proved undeveloped for more than five years .",
+      "currently , the development schedule for these reserves extends though the year 2025 .",
+      "price revisions 2011 2014reserves decreased 21 mmboe due to lower gas prices and higher oil prices .",
+      "the higher oil prices increased devon 2019s canadian royalty burden , which reduced devon 2019s oil reserves .",
+      "2010 2014reserves increased 72 mmboe due to higher gas prices , partially offset by the effect of higher oil prices .",
+      "the higher oil prices increased devon 2019s canadian royalty burden , which reduced devon 2019s oil reserves .",
+      "of the 72 mmboe price revisions , 43 mmboe related to the barnett shale and 22 mmboe related to the rocky mountain area .",
+      "2009 2014reserves increased 177 mmboe due to higher oil prices , partially offset by lower gas prices .",
+      "the increase in oil reserves primarily related to devon 2019s jackfish thermal heavy oil reserves in canada .",
+      "at the end of 2008 , 331 mmboe of reserves related to jackfish were not considered proved .",
+      "however , due to higher prices , these reserves were considered proved as of december 31 , 2009 .",
+      "significantly lower gas prices caused devon 2019s reserves to decrease 116 mmboe , which primarily related to its u.s .",
+      "reserves .",
+      "revisions other than price total revisions other than price for 2011 primarily related to devon 2019s evaluation of certain dry gas regions noted in the proved undeveloped reserves discussion above .",
+      "total revisions other than price for 2010 and 2009 primarily related to devon 2019s drilling and development in the barnett shale. ."
+    ],
+    "table": [
+      [
+        "",
+        "u.s . onshore",
+        "canada",
+        "north america"
+      ],
+      [
+        "proved undeveloped reserves as of december 31 2010",
+        "411",
+        "420",
+        "831"
+      ],
+      [
+        "extensions and discoveries",
+        "118",
+        "30",
+        "148"
+      ],
+      [
+        "revisions due to prices",
+        "-2 ( 2 )",
+        "-14 ( 14 )",
+        "-16 ( 16 )"
+      ],
+      [
+        "revisions other than price",
+        "-56 ( 56 )",
+        "5",
+        "-51 ( 51 )"
+      ],
+      [
+        "conversion to proved developed reserves",
+        "-68 ( 68 )",
+        "-62 ( 62 )",
+        "-130 ( 130 )"
+      ],
+      [
+        "proved undeveloped reserves as of december 31 2011",
+        "403",
+        "379",
+        "782"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the proved undeveloped reserves in u.s . onshore as of december 31 2010 in north america"
+    ]
+  }
+}

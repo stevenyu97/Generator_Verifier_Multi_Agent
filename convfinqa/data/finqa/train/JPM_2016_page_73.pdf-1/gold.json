@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the 5 year return of jpmorgan chase's stock?",
+      "answer": 1.9831,
+      "answer_raw": "1.9831",
+      "program": "subtract(298.31, const_100), divide(#0, const_100)"
+    }
+  ]
+}

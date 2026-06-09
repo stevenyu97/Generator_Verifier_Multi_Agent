@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of unrecognized tax benefits in 2015?",
+      "answer": 373.0,
+      "answer_raw": "373.0",
+      "program": "373"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2014?",
+      "answer": 394.0,
+      "answer_raw": "394.0",
+      "program": "394"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "by how much, then, did it change over the year?",
+      "answer": -21.0,
+      "answer_raw": "-21.0",
+      "program": "subtract(373, 394)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much did this change represent in relation to the 2014 total, in percentage?",
+      "answer": -0.0533,
+      "answer_raw": "-0.0533",
+      "program": "subtract(373, 394), divide(#0, 394)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and throughout the subsequent year of this period, what was that change in this total?",
+      "answer": -4.0,
+      "answer_raw": "-4.0",
+      "program": "subtract(369, 373)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is this change as a percentage of the 2015 unrecognized tax benefits?",
+      "answer": -0.01072,
+      "answer_raw": "-0.01072",
+      "program": "subtract(369, 373), divide(#0, 373)"
+    }
+  ]
+}

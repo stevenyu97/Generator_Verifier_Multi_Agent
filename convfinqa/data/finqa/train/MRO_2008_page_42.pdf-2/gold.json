@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2006 , what was the increase in capacity of our garyville refinery by mbpd ?",
+      "answer": 256.0,
+      "answer_raw": "256.0",
+      "program": "subtract(436, 180)"
+    }
+  ]
+}

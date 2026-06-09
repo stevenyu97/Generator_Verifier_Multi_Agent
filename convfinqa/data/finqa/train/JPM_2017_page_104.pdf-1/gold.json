@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2017 what was the ratio of the afs investment securities at period-end to the average",
+      "answer": 0.91293,
+      "answer_raw": "0.91293",
+      "program": "divide(200247, 219345)"
+    }
+  ]
+}

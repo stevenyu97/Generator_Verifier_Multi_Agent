@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the increase in industrial packaging sales between 2008 and 2009?",
+      "answer": 1200.0,
+      "answer_raw": "1200.0",
+      "program": "subtract(8890, 7690)"
+    }
+  ]
+}

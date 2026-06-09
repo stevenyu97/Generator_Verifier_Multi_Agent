@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the pre-tax earnings at the end of 2014?",
+      "answer": 4317.0,
+      "answer_raw": "4317.0",
+      "program": "4317"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the pre-tax earnings at the end of 2013?",
+      "answer": 3929.0,
+      "answer_raw": "3929.0",
+      "program": "3929"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net difference?",
+      "answer": 388.0,
+      "answer_raw": "388.0",
+      "program": "subtract(4317, 3929)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the pre-tax earnings at the end of 2013?",
+      "answer": 3929.0,
+      "answer_raw": "3929.0",
+      "program": "3929"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what was the percent change year over year?",
+      "answer": 0.09875,
+      "answer_raw": "0.09875",
+      "program": "subtract(4317, 3929), divide(#0, 3929)"
+    }
+  ]
+}

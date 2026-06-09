@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the increase in the value of goodwill balances during 2008 and 2009?",
+      "answer": 0.08929,
+      "answer_raw": "0.08929",
+      "program": "divide(6.1, 5.6), subtract(#0, const_1)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the company 2019s cash and cash equivalents from june 302008 to 2009",
+      "answer": 0.80357,
+      "answer_raw": "0.80357",
+      "program": "subtract(118251, 65565), divide(#0, 65565)"
+    }
+  ]
+}

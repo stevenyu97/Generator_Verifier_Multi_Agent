@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "Single_CE/2005/page_167.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "celanese corporation and subsidiaries notes to consolidated financial statements ( continued ) 2022 amend certain material agreements governing bcp crystal 2019s indebtedness ; 2022 change the business conducted by celanese holdings and its subsidiaries ; and 2022 enter into hedging agreements that restrict dividends from subsidiaries .",
+      "in addition , the senior credit facilities require bcp crystal to maintain the following financial covenants : a maximum total leverage ratio , a maximum bank debt leverage ratio , a minimum interest coverage ratio and maximum capital expenditures limitation .",
+      "the maximum consolidated net bank debt to adjusted ebitda ratio , as defined , previously required under the senior credit facilities , was eliminated when the company amended the facilities in january 2005 .",
+      "as of december 31 , 2005 , the company was in compliance with all of the financial covenants related to its debt agreements .",
+      "the maturation of the company 2019s debt , including short term borrowings , is as follows : ( in $ millions ) ."
+    ],
+    "post_text": [
+      "( 1 ) includes $ 2 million purchase accounting adjustment to assumed debt .",
+      "17 .",
+      "benefit obligations pension obligations .",
+      "pension obligations are established for benefits payable in the form of retirement , disability and surviving dependent pensions .",
+      "the benefits offered vary according to the legal , fiscal and economic conditions of each country .",
+      "the commitments result from participation in defined contribution and defined benefit plans , primarily in the u.s .",
+      "benefits are dependent on years of service and the employee 2019s compensation .",
+      "supplemental retirement benefits provided to certain employees are non-qualified for u.s .",
+      "tax purposes .",
+      "separate trusts have been established for some non-qualified plans .",
+      "defined benefit pension plans exist at certain locations in north america and europe .",
+      "as of december 31 , 2005 , the company 2019s u.s .",
+      "qualified pension plan represented greater than 85% ( 85 % ) and 75% ( 75 % ) of celanese 2019s pension plan assets and liabilities , respectively .",
+      "independent trusts or insurance companies administer the majority of these plans .",
+      "actuarial valuations for these plans are prepared annually .",
+      "the company sponsors various defined contribution plans in europe and north america covering certain employees .",
+      "employees may contribute to these plans and the company will match these contributions in varying amounts .",
+      "contributions to the defined contribution plans are based on specified percentages of employee contributions and they aggregated $ 12 million for the year ended decem- ber 31 , 2005 , $ 8 million for the nine months ended december 31 , 2004 , $ 3 million for the three months ended march 31 , 2004 and $ 11 million for the year ended december 31 , 2003 .",
+      "in connection with the acquisition of cag , the purchaser agreed to pre-fund $ 463 million of certain pension obligations .",
+      "during the nine months ended december 31 , 2004 , $ 409 million was pre-funded to the company 2019s pension plans .",
+      "the company contributed an additional $ 54 million to the non-qualified pension plan 2019s rabbi trusts in february 2005 .",
+      "in connection with the company 2019s acquisition of vinamul and acetex , the company assumed certain assets and obligations related to the acquired pension plans .",
+      "the company recorded liabilities of $ 128 million for these pension plans .",
+      "total pension assets acquired amounted to $ 85 million. ."
+    ],
+    "table": [
+      [
+        "",
+        "total ( in$ millions )"
+      ],
+      [
+        "2006",
+        "155"
+      ],
+      [
+        "2007",
+        "29"
+      ],
+      [
+        "2008",
+        "22"
+      ],
+      [
+        "2009",
+        "40"
+      ],
+      [
+        "2010",
+        "28"
+      ],
+      [
+        "thereafter ( 1 )",
+        "3163"
+      ],
+      [
+        "total",
+        "3437"
+      ]
+    ],
+    "questions": [
+      "what was the total amount of debt maturities from 2006 to 2010?",
+      "what was the average amount per year?"
+    ]
+  }
+}

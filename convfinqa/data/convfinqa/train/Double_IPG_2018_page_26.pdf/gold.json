@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value spent on the purchase of shares in october 2018?",
+      "answer": 89099.2,
+      "answer_raw": "89099.2",
+      "program": "multiply(3824, 23.30)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in november 2018?",
+      "answer": 41597.5,
+      "answer_raw": "41597.5",
+      "program": "multiply(3824, 23.30), multiply(1750, 23.77)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the decline in that value over the month?",
+      "answer": 47501.7,
+      "answer_raw": "47501.7",
+      "program": "multiply(3824, 23.30), multiply(1750, 23.77), subtract(#0, #1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "throughout that same period, what was the decline in the number of shares purchased?",
+      "answer": 2074.0,
+      "answer_raw": "2074.0",
+      "program": "subtract(3824, 1750)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does this decline represent in relation to that number of shares in october?",
+      "answer": 0.54236,
+      "answer_raw": "0.54236",
+      "program": "subtract(3824, 1750), divide(#0, 3824)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "how much is that in percentage?",
+      "answer": 54.2364,
+      "answer_raw": "54.2364",
+      "program": "subtract(3824, 1750), divide(#0, 3824), multiply(#1, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the level 3 balance at the end of 2018?",
+      "answer": 230.0,
+      "answer_raw": "230.0",
+      "program": "230"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the level 3 balance at the start of 2018?",
+      "answer": 278.0,
+      "answer_raw": "278.0",
+      "program": "278"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the net change in 2018?",
+      "answer": -48.0,
+      "answer_raw": "-48.0",
+      "program": "subtract(230, 278)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the level 3 balance at the start of 2018?",
+      "answer": 278.0,
+      "answer_raw": "278.0",
+      "program": "278"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the percent change?",
+      "answer": -0.17266,
+      "answer_raw": "-0.17266",
+      "program": "subtract(230, 278), divide(#0, 278)"
+    }
+  ]
+}

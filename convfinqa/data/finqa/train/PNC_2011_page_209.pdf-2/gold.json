@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "home equity loans were what percent of the total indemnification and repurchase liability for asserted claims and unasserted claims as of december 31 2011?",
+      "answer": 0.36154,
+      "answer_raw": "0.36154",
+      "program": "divide(47, 130)"
+    }
+  ]
+}

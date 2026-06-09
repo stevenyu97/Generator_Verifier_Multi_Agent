@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change , in thousands , of principal maturities due in 2008 after the the debt refinancing completed on january 18 , 2007?",
+      "answer": -24500.0,
+      "answer_raw": "-24500.0",
+      "program": "subtract(257541, 282041)"
+    }
+  ]
+}

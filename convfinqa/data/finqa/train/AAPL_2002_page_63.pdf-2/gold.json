@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total minimum lease payments is due in 2004?",
+      "answer": 0.1681,
+      "answer_raw": "0.1681",
+      "program": "divide(78, 464)"
+    }
+  ]
+}

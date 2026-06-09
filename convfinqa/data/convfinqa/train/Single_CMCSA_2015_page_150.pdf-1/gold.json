@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in comprehensive income attributable to nbc universal between 2013 and 2014?",
+      "answer": 955.0,
+      "answer_raw": "955.0",
+      "program": "subtract(2972, 2017)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the percentage change?",
+      "answer": 0.47348,
+      "answer_raw": "0.47348",
+      "program": "subtract(2972, 2017), divide(#0, 2017)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total difference , in millions , in 2015 between a 10% ( 10 % ) increase and 10% ( 10 % ) decrease in interest rates?",
+      "answer": 68.4,
+      "answer_raw": "68.4",
+      "program": "add(34.7, 33.7)"
+    }
+  ]
+}

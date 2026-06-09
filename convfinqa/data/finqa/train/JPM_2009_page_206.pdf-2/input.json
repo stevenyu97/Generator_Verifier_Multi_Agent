@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "JPM/2009/page_206.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements jpmorgan chase & co./2009 annual report 204 on the amount of interest income recognized in the firm 2019s consolidated statements of income since that date .",
+      "( b ) other changes in expected cash flows include the net impact of changes in esti- mated prepayments and reclassifications to the nonaccretable difference .",
+      "on a quarterly basis , the firm updates the amount of loan principal and interest cash flows expected to be collected , incorporating assumptions regarding default rates , loss severities , the amounts and timing of prepayments and other factors that are reflective of current market conditions .",
+      "probable decreases in expected loan principal cash flows trigger the recognition of impairment , which is then measured as the present value of the expected principal loss plus any related foregone interest cash flows discounted at the pool 2019s effective interest rate .",
+      "impairments that occur after the acquisition date are recognized through the provision and allow- ance for loan losses .",
+      "probable and significant increases in expected principal cash flows would first reverse any previously recorded allowance for loan losses ; any remaining increases are recognized prospectively as interest income .",
+      "the impacts of ( i ) prepayments , ( ii ) changes in variable interest rates , and ( iii ) any other changes in the timing of expected cash flows are recognized prospectively as adjustments to interest income .",
+      "disposals of loans , which may include sales of loans , receipt of payments in full by the borrower , or foreclosure , result in removal of the loan from the purchased credit-impaired portfolio .",
+      "if the timing and/or amounts of expected cash flows on these purchased credit-impaired loans were determined not to be rea- sonably estimable , no interest would be accreted and the loans would be reported as nonperforming loans ; however , since the timing and amounts of expected cash flows for these purchased credit-impaired loans are reasonably estimable , interest is being accreted and the loans are being reported as performing loans .",
+      "charge-offs are not recorded on purchased credit-impaired loans until actual losses exceed the estimated losses that were recorded as purchase accounting adjustments at acquisition date .",
+      "to date , no charge-offs have been recorded for these loans .",
+      "purchased credit-impaired loans acquired in the washington mu- tual transaction are reported in loans on the firm 2019s consolidated balance sheets .",
+      "in 2009 , an allowance for loan losses of $ 1.6 billion was recorded for the prime mortgage and option arm pools of loans .",
+      "the net aggregate carrying amount of the pools that have an allowance for loan losses was $ 47.2 billion at december 31 , 2009 .",
+      "this allowance for loan losses is reported as a reduction of the carrying amount of the loans in the table below .",
+      "the table below provides additional information about these pur- chased credit-impaired consumer loans. ."
+    ],
+    "post_text": [
+      "( a ) represents the sum of contractual principal , interest and fees earned at the reporting date .",
+      "purchased credit-impaired loans are also being modified under the mha programs and the firm 2019s other loss mitigation programs .",
+      "for these loans , the impact of the modification is incorporated into the firm 2019s quarterly assessment of whether a probable and/or signifi- cant change in estimated future cash flows has occurred , and the loans continue to be accounted for as and reported as purchased credit-impaired loans .",
+      "foreclosed property the firm acquires property from borrowers through loan restructur- ings , workouts , and foreclosures , which is recorded in other assets on the consolidated balance sheets .",
+      "property acquired may include real property ( e.g. , land , buildings , and fixtures ) and commercial and personal property ( e.g. , aircraft , railcars , and ships ) .",
+      "acquired property is valued at fair value less costs to sell at acquisition .",
+      "each quarter the fair value of the acquired property is reviewed and adjusted , if necessary .",
+      "any adjustments to fair value in the first 90 days are charged to the allowance for loan losses and thereafter adjustments are charged/credited to noninterest revenue 2013other .",
+      "operating expense , such as real estate taxes and maintenance , are charged to other expense .",
+      "note 14 2013 allowance for credit losses the allowance for loan losses includes an asset-specific component , a formula-based component and a component related to purchased credit-impaired loans .",
+      "the asset-specific component relates to loans considered to be impaired , which includes any loans that have been modified in a troubled debt restructuring as well as risk-rated loans that have been placed on nonaccrual status .",
+      "an asset-specific allowance for impaired loans is established when the loan 2019s discounted cash flows ( or , when available , the loan 2019s observable market price ) is lower than the recorded investment in the loan .",
+      "to compute the asset-specific component of the allowance , larger loans are evaluated individually , while smaller loans are evaluated as pools using historical loss experience for the respective class of assets .",
+      "risk-rated loans ( primarily wholesale loans ) are pooled by risk rating , while scored loans ( i.e. , consumer loans ) are pooled by product type .",
+      "the firm generally measures the asset-specific allowance as the difference between the recorded investment in the loan and the present value of the cash flows expected to be collected , dis- counted at the loan 2019s original effective interest rate .",
+      "subsequent changes in measured impairment due to the impact of discounting are reported as an adjustment to the provision for loan losses , not as an adjustment to interest income .",
+      "an asset-specific allowance for an impaired loan with an observable market price is measured as the difference between the recorded investment in the loan and the loan 2019s fair value .",
+      "certain impaired loans that are determined to be collateral- dependent are charged-off to the fair value of the collateral less costs to sell .",
+      "when collateral-dependent commercial real-estate loans are determined to be impaired , updated appraisals are typi- cally obtained and updated every six to twelve months .",
+      "the firm also considers both borrower- and market-specific factors , which ."
+    ],
+    "table": [
+      [
+        "december 31 ( in millions )",
+        "2009",
+        "2008"
+      ],
+      [
+        "outstanding balance ( a )",
+        "$ 103369",
+        "$ 118180"
+      ],
+      [
+        "carrying amount",
+        "79664",
+        "88813"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the allowance for loan losses that was recorded for the prime mortgage to the net aggregate carrying amount of the pools"
+    ]
+  }
+}

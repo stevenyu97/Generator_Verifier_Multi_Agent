@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the gross profit from 2009 to 2010 \\\\n",
+      "answer": 3.40615,
+      "answer_raw": "3.40615",
+      "program": "subtract(530.5, 120.4), divide(#0, 120.4)"
+    }
+  ]
+}

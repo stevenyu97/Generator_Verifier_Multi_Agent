@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "PKG/2004/page_21.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "instruments at fair value and to recognize the effective and ineffective portions of the cash flow hedges .",
+      "( 2 ) for the year ended december 31 , 2000 , earnings available to common stockholders includes reductions of $ 2371 of preferred stock dividends and $ 16266 for the redemption of pca 2019s 123 20448% ( 20448 % ) preferred stock .",
+      "( 3 ) on october 13 , 2003 , pca announced its intention to begin paying a quarterly cash dividend of $ 0.15 per share , or $ 0.60 per share annually , on its common stock .",
+      "the first quarterly dividend of $ 0.15 per share was paid on january 15 , 2004 to shareholders of record as of december 15 , 2003 .",
+      "pca did not declare any dividends on its common stock in 2000 - 2002 .",
+      "( 4 ) total long-term obligations include long-term debt , short-term debt and the current maturities of long-term debt .",
+      "item 7 .",
+      "management 2019s discussion and analysis of financial condition and results of operations the following discussion of historical results of operations and financial condition should be read in conjunction with the audited financial statements and the notes thereto which appear elsewhere in this report .",
+      "overview on april 12 , 1999 , pca acquired the containerboard and corrugated products business of pactiv corporation ( the 201cgroup 201d ) , formerly known as tenneco packaging inc. , a wholly owned subsidiary of tenneco , inc .",
+      "the group operated prior to april 12 , 1999 as a division of pactiv , and not as a separate , stand-alone entity .",
+      "from its formation in january 1999 and through the closing of the acquisition on april 12 , 1999 , pca did not have any significant operations .",
+      "the april 12 , 1999 acquisition was accounted for using historical values for the contributed assets .",
+      "purchase accounting was not applied because , under the applicable accounting guidance , a change of control was deemed not to have occurred as a result of the participating veto rights held by pactiv after the closing of the transactions under the terms of the stockholders agreement entered into in connection with the transactions .",
+      "results of operations year ended december 31 , 2004 compared to year ended december 31 , 2003 the historical results of operations of pca for the years ended december , 31 2004 and 2003 are set forth the below : for the year ended december 31 , ( in millions ) 2004 2003 change ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2004",
+        "2003",
+        "change"
+      ],
+      [
+        "net sales",
+        "$ 1890.1",
+        "$ 1735.5",
+        "$ 154.6"
+      ],
+      [
+        "income before interest and taxes",
+        "$ 140.5",
+        "$ 96.9",
+        "$ 43.6"
+      ],
+      [
+        "interest expense net",
+        "-29.6 ( 29.6 )",
+        "-121.8 ( 121.8 )",
+        "92.2"
+      ],
+      [
+        "income ( loss ) before taxes",
+        "110.9",
+        "-24.9 ( 24.9 )",
+        "135.8"
+      ],
+      [
+        "( provision ) benefit for income taxes",
+        "-42.2 ( 42.2 )",
+        "10.5",
+        "-52.7 ( 52.7 )"
+      ],
+      [
+        "net income ( loss )",
+        "$ 68.7",
+        "$ -14.4 ( 14.4 )",
+        "$ 83.1"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in income before interest and taxes between 2003 and 2004?"
+    ]
+  }
+}

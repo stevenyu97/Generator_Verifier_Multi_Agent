@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were average operating profit for is&gs from 2011 to 2013 , in millions?",
+      "answer": 813.66667,
+      "answer_raw": "813.66667",
+      "program": "table_average(operating profit, none)"
+    }
+  ]
+}

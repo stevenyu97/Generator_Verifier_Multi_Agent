@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "TROW/2008/page_23.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "investment advisory revenues earned on the other investment portfolios that we manage decreased $ 3.6 million to $ 522.2 million .",
+      "average assets in these portfolios were $ 142.1 billion during 2008 , up slightly from $ 141.4 billion in 2007 .",
+      "these minor changes , each less than 1% ( 1 % ) , are attributable to the timing of declining equity market valuations and cash flows among our separate account and sub-advised portfolios .",
+      "net inflows , primarily from institutional investors , were $ 13.2 billion during 2008 , including the $ 1.3 billion transferred from the retirement funds to target-date trusts .",
+      "decreases in market valuations , net of income , lowered our assets under management in these portfolios by $ 55.3 billion during 2008 .",
+      "administrative fees increased $ 5.8 million to $ 353.9 million , primarily from increased costs of servicing activities for the mutual funds and their investors .",
+      "changes in administrative fees are generally offset by similar changes in related operating expenses that are incurred to provide services to the funds and their investors .",
+      "our largest expense , compensation and related costs , increased $ 18.4 million or 2.3% ( 2.3 % ) from 2007 .",
+      "this increase includes $ 37.2 million in salaries resulting from an 8.4% ( 8.4 % ) increase in our average staff count and an increase of our associates 2019 base salaries at the beginning of the year .",
+      "at december 31 , 2008 , we employed 5385 associates , up 6.0% ( 6.0 % ) from the end of 2007 , primarily to add capabilities and support increased volume-related activities and other growth over the past few years .",
+      "over the course of 2008 , we slowed the growth of our associate base from earlier plans and the prior year .",
+      "we do not expect the number of our associates to increase in 2009 .",
+      "we also reduced our annual bonuses $ 27.6 million versus the 2007 year in response to recent and ongoing unfavorable financial market conditions that negatively impacted our operating results .",
+      "the balance of the increase is attributable to higher employee benefits and employment- related expenses , including an increase of $ 5.7 million in stock-based compensation .",
+      "entering 2009 , we did not increase the salaries of our highest paid associates .",
+      "after higher spending during the first quarter of 2008 versus 2007 , investor sentiment in the uncertain and volatile market environment caused us to reduce advertising and promotion spending , which for the year was down $ 3.8 million from 2007 .",
+      "we expect to reduce these expenditures for 2009 versus 2008 , and estimate that spending in the first quarter of 2009 will be down about $ 5 million from the fourth quarter of 2008 .",
+      "we vary our level of spending based on market conditions and investor demand as well as our efforts to expand our investor base in the united states and abroad .",
+      "occupancy and facility costs together with depreciation expense increased $ 18 million , or 12% ( 12 % ) compared to 2007 .",
+      "we have been expanding and renovating our facilities to accommodate the growth in our associates to meet business demands .",
+      "other operating expenses were up $ 3.3 million from 2007 .",
+      "we increased our spending $ 9.8 million , primarily for professional fees and information and other third-party services .",
+      "reductions in travel and charitable contributions partially offset these increases .",
+      "our non-operating investment activity resulted in a net loss of $ 52.3 million in 2008 as compared to a net gain of $ 80.4 million in 2007 .",
+      "this change of $ 132.7 million is primarily attributable to losses recognized in 2008 on our investments in sponsored mutual funds , which resulted from declines in financial market values during the year. ."
+    ],
+    "post_text": [
+      "we recognized other than temporary impairments of our investments in sponsored mutual funds because of declines in fair value below cost for an extended period .",
+      "the significant declines in fair value below cost that occurred in 2008 were generally attributable to the adverse and ongoing market conditions discussed in the background section on page 18 of this report .",
+      "see also the discussion on page 24 of critical accounting policies for other than temporary impairments of available-for-sale securities .",
+      "in addition , income from money market and bond fund holdings was $ 19.3 million lower than in 2007 due to the significantly lower interest rate environment of 2008 .",
+      "lower interest rates also led to substantial capital appreciation on our $ 40 million holding of u.s .",
+      "treasury notes that we sold in december 2008 at a $ 2.6 million gain .",
+      "management 2019s discussion & analysis 21 ."
+    ],
+    "table": [
+      [
+        "",
+        "2007",
+        "2008",
+        "change"
+      ],
+      [
+        "capital gain distributions received",
+        "$ 22.1",
+        "$ 5.6",
+        "$ -16.5 ( 16.5 )"
+      ],
+      [
+        "other than temporary impairments recognized",
+        "-.3 ( .3 )",
+        "-91.3 ( 91.3 )",
+        "-91.0 ( 91.0 )"
+      ],
+      [
+        "net gains ( losses ) realized on funddispositions",
+        "5.5",
+        "-4.5 ( 4.5 )",
+        "-10.0 ( 10.0 )"
+      ],
+      [
+        "net gain ( loss ) recognized on fund holdings",
+        "$ 27.3",
+        "$ -90.2 ( 90.2 )",
+        "$ -117.5 ( 117.5 )"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in capital gain distributions received between 2007 and 2008?"
+    ]
+  }
+}

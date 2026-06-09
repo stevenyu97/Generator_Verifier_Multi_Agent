@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the roi of an investment in loews common stock from 2011 to 2012?",
+      "answer": 0.0891,
+      "answer_raw": "0.0891",
+      "program": "subtract(108.91, const_100), divide(#0, const_100)"
+    }
+  ]
+}

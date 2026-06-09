@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the balance of the goodwill for integrated agency networks at the end of 2009?",
+      "answer": 2885.6,
+      "answer_raw": "2885.6",
+      "program": "2885.6"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about at the end of 2008?",
+      "answer": 2790.0,
+      "answer_raw": "2790.0",
+      "program": "2790.0"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 95.6,
+      "answer_raw": "95.6",
+      "program": "subtract(2885.6, 2790.0)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage does this represent?",
+      "answer": 0.03427,
+      "answer_raw": "0.03427",
+      "program": "subtract(2885.6, 2790.0), divide(#0, 2790.0)"
+    }
+  ]
+}

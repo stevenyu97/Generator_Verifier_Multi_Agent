@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of shares purchased by employees in 2009?",
+      "answer": 77509.0,
+      "answer_raw": "77509.0",
+      "program": "77509"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the average price paid per share?",
+      "answer": 23.91,
+      "answer_raw": "23.91",
+      "program": "23.91"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total value of shares purchased by employees in 2009?",
+      "answer": 1853240.19,
+      "answer_raw": "1853240.19",
+      "program": "multiply(77509, 23.91)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is that value divided by 1,000,000?",
+      "answer": 1.85324,
+      "answer_raw": "1.85324",
+      "program": "multiply(77509, 23.91), divide(#0, const_1000000)"
+    }
+  ]
+}

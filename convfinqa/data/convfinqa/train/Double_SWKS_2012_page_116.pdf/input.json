@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "Double_SWKS/2012/page_116.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "skyworks solutions , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) maintained a valuation allowance of $ 47.0 million .",
+      "this valuation allowance is comprised of $ 33.6 million related to u.s .",
+      "state tax credits , of which $ 3.6 million are state tax credits acquired from aati in fiscal year 2012 , and $ 13.4 million related to foreign deferred tax assets .",
+      "if these benefits are recognized in a future period the valuation allowance on deferred tax assets will be reversed and up to a $ 46.6 million income tax benefit , and up to a $ 0.4 million reduction to goodwill may be recognized .",
+      "the company will need to generate $ 209.0 million of future united states federal taxable income to utilize our united states deferred tax assets as of september 28 , 2012 .",
+      "deferred tax assets are recognized for foreign operations when management believes it is more likely than not that the deferred tax assets will be recovered during the carry forward period .",
+      "the company will continue to assess its valuation allowance in future periods .",
+      "as of september 28 , 2012 , the company has united states federal net operating loss carry forwards of approximately $ 74.3 million , including $ 29.5 million related to the acquisition of sige , which will expire at various dates through 2030 and $ 28.1 million related to the acquisition of aati , which will expire at various dates through 2031 .",
+      "the utilization of these net operating losses is subject to certain annual limitations as required under internal revenue code section 382 and similar state income tax provisions .",
+      "the company also has united states federal income tax credit carry forwards of $ 37.8 million , of which $ 30.4 million of federal income tax credit carry forwards have not been recorded as a deferred tax asset .",
+      "the company also has state income tax credit carry forwards of $ 33.6 million , for which the company has provided a valuation allowance .",
+      "the united states federal tax credits expire at various dates through 2032 .",
+      "the state tax credits relate primarily to california research tax credits which can be carried forward indefinitely .",
+      "the company has continued to expand its operations and increase its investments in numerous international jurisdictions .",
+      "these activities will increase the company 2019s earnings attributable to foreign jurisdictions .",
+      "as of september 28 , 2012 , no provision has been made for united states federal , state , or additional foreign income taxes related to approximately $ 371.5 million of undistributed earnings of foreign subsidiaries which have been or are intended to be permanently reinvested .",
+      "it is not practicable to determine the united states federal income tax liability , if any , which would be payable if such earnings were not permanently reinvested .",
+      "the company 2019s gross unrecognized tax benefits totaled $ 52.4 million and $ 32.1 million as of september 28 , 2012 and september 30 , 2011 , respectively .",
+      "of the total unrecognized tax benefits at september 28 , 2012 , $ 38.8 million would impact the effective tax rate , if recognized .",
+      "the remaining unrecognized tax benefits would not impact the effective tax rate , if recognized , due to the company 2019s valuation allowance and certain positions which were required to be capitalized .",
+      "there are no positions which the company anticipates could change within the next twelve months .",
+      "a reconciliation of the beginning and ending amount of gross unrecognized tax benefits is as follows ( in thousands ) : unrecognized tax benefits ."
+    ],
+    "post_text": [
+      "page 114 annual report ."
+    ],
+    "table": [
+      [
+        "",
+        "unrecognized tax benefits"
+      ],
+      [
+        "balance at september 30 2011",
+        "$ 32136"
+      ],
+      [
+        "increases based on positions related to prior years",
+        "9004"
+      ],
+      [
+        "increases based on positions related to current year",
+        "11265"
+      ],
+      [
+        "decreases relating to settlements with taxing authorities",
+        "2014"
+      ],
+      [
+        "decreases relating to lapses of applicable statutes of limitations",
+        "-25 ( 25 )"
+      ],
+      [
+        "balance at september 28 2012",
+        "$ 52380"
+      ]
+    ],
+    "questions": [
+      "what was the net change in unrecognized tax benefits from 2011 to 2012, in millions?",
+      "and what percentage does this change represent in relation to those tax benefits in 2011?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the ninemile 6 mw to the cost of the construction",
+      "answer": 1.31091,
+      "answer_raw": "1.31091",
+      "program": "divide(721, 550)"
+    }
+  ]
+}

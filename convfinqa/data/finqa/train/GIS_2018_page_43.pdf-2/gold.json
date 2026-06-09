@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total long-term obligations is incurred by operating leases?",
+      "answer": 0.02848,
+      "answer_raw": "0.02848",
+      "program": "divide(559.3, 19637.5)"
+    }
+  ]
+}

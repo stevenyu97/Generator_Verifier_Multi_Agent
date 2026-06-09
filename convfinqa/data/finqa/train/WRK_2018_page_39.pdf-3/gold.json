@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much did net sales grow in a percentage from 2016 to 2018?",
+      "answer": 0.14912,
+      "answer_raw": "0.14912",
+      "program": "subtract(16285.1, 14171.8), divide(#0, 14171.8)"
+    }
+  ]
+}

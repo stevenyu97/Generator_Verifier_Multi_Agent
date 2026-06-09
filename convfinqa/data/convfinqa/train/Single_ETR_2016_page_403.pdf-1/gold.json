@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total amount of the receivables from 2015 and 2016, in thousands?",
+      "answer": 30009.0,
+      "answer_raw": "30009.0",
+      "program": "add(14215, 15794)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the amount of the receivables in 2014, also in thousands?",
+      "answer": 442.0,
+      "answer_raw": "442.0",
+      "program": "442"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "including, then, 2014, what would be, in thousands, the total amount of the receivables for the three years?",
+      "answer": 30451.0,
+      "answer_raw": "30451.0",
+      "program": "add(14215, 15794), add(#0, 442)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the amount of the receivables in 2013, in thousands?",
+      "answer": 4737.0,
+      "answer_raw": "4737.0",
+      "program": "4737"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "including now 2013, what would then be the total amount in receivables for those four years, also in thousands?",
+      "answer": 35188.0,
+      "answer_raw": "35188.0",
+      "program": "add(14215, 15794), add(#0, 442), add(#1, 4737)"
+    }
+  ]
+}

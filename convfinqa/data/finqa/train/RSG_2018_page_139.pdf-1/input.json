@@ -1,0 +1,52 @@
+{
+  "input": {
+    "id": "RSG/2018/page_139.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "republic services , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) 12 .",
+      "share repurchases and dividends share repurchases share repurchase activity during the years ended december 31 , 2018 and 2017 follows ( in millions except per share amounts ) : ."
+    ],
+    "post_text": [
+      "as of december 31 , 2018 , there were no repurchased shares pending settlement .",
+      "in october 2017 , our board of directors added $ 2.0 billion to the existing share repurchase authorization that now extends through december 31 , 2020 .",
+      "share repurchases under the program may be made through open market purchases or privately negotiated transactions in accordance with applicable federal securities laws .",
+      "while the board of directors has approved the program , the timing of any purchases , the prices and the number of shares of common stock to be purchased will be determined by our management , at its discretion , and will depend upon market conditions and other factors .",
+      "the share repurchase program may be extended , suspended or discontinued at any time .",
+      "as of december 31 , 2018 , the remaining authorized purchase capacity under our october 2017 repurchase program was $ 1.1 billion .",
+      "dividends in october 2018 , our board of directors approved a quarterly dividend of $ 0.375 per share .",
+      "cash dividends declared were $ 468.4 million , $ 446.3 million and $ 423.8 million for the years ended december 31 , 2018 , 2017 and 2016 , respectively .",
+      "as of december 31 , 2018 , we recorded a quarterly dividend payable of $ 121.0 million to shareholders of record at the close of business on january 2 , 2019 .",
+      "13 .",
+      "earnings per share basic earnings per share is computed by dividing net income attributable to republic services , inc .",
+      "by the weighted average number of common shares ( including vested but unissued rsus ) outstanding during the period .",
+      "diluted earnings per share is based on the combined weighted average number of common shares and common share equivalents outstanding , which include , where appropriate , the assumed exercise of employee stock options , unvested rsus and unvested psus at the expected attainment levels .",
+      "we use the treasury stock method in computing diluted earnings per share. ."
+    ],
+    "table": [
+      [
+        "",
+        "2018",
+        "2017"
+      ],
+      [
+        "number of shares repurchased",
+        "10.7",
+        "9.6"
+      ],
+      [
+        "amount paid",
+        "$ 736.9",
+        "$ 610.7"
+      ],
+      [
+        "weighted average cost per share",
+        "$ 69.06",
+        "$ 63.84"
+      ]
+    ],
+    "questions": [
+      "what was the total cash dividend declared from 2016 to 2018"
+    ]
+  }
+}

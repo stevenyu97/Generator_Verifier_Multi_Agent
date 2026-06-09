@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2019 , what percent of sales does segment income amount to?",
+      "answer": 0.09788,
+      "answer_raw": "0.09788",
+      "program": "divide(1790.2, 18289.0)"
+    }
+  ]
+}

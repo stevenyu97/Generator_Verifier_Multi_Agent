@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of cash provided by operations in 2013?",
+      "answer": 1807.0,
+      "answer_raw": "1807.0",
+      "program": "1807"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2011?",
+      "answer": 1595.0,
+      "answer_raw": "1595.0",
+      "program": "1595"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change in value?",
+      "answer": 212.0,
+      "answer_raw": "212.0",
+      "program": "subtract(1807, 1595)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the 2011 value?",
+      "answer": 1595.0,
+      "answer_raw": "1595.0",
+      "program": "1595"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the percent change?",
+      "answer": 0.13292,
+      "answer_raw": "0.13292",
+      "program": "subtract(1807, 1595), divide(#0, 1595)"
+    }
+  ]
+}

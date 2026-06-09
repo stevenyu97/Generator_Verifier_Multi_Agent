@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the rent expense in 2010?",
+      "answer": 32.8,
+      "answer_raw": "32.8",
+      "program": "32.8"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2009?",
+      "answer": 30.2,
+      "answer_raw": "30.2",
+      "program": "30.2"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total rent expense for these two years?",
+      "answer": 63.0,
+      "answer_raw": "63.0",
+      "program": "add(32.8, 30.2)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about the total rent expense for three years if 2008 is inlcluded?",
+      "answer": 93.4,
+      "answer_raw": "93.4",
+      "program": "add(32.8, 30.2), add(#0, 30.4)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the net change in rent expense from 2009 to 2010?",
+      "answer": 2.6,
+      "answer_raw": "2.6",
+      "program": "subtract(32.8, 30.2)"
+    }
+  ]
+}

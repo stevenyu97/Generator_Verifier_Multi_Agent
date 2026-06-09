@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2008 what was the average of current assets and \\\\nnoncurrent assets , in millions?",
+      "answer": 133.5,
+      "answer_raw": "133.5",
+      "program": "add(164, 103), divide(#0, const_2)"
+    }
+  ]
+}

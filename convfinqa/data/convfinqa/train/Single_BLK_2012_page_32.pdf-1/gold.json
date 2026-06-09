@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in alternative component changes in alternatives from 2011 to 2012?",
+      "answer": 4847.0,
+      "answer_raw": "4847.0",
+      "program": "subtract(109795, 104948)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how much does this change represent in relation to the alternative component changes in alternatives in 2011, in percentage?",
+      "answer": 0.04618,
+      "answer_raw": "0.04618",
+      "program": "subtract(109795, 104948), divide(#0, 104948)"
+    }
+  ]
+}

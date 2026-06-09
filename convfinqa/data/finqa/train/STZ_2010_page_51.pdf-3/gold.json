@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "did the bwe acquisition cost more than the svedka acquisition?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(877.3, 385.8)"
+    }
+  ]
+}

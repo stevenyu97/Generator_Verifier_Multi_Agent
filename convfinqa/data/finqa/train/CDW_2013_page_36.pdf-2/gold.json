@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the 2012 effective tax rate?",
+      "answer": 0.36056,
+      "answer_raw": "0.36056",
+      "program": "add(67.1, 119.0), divide(67.1, #0)"
+    }
+  ]
+}

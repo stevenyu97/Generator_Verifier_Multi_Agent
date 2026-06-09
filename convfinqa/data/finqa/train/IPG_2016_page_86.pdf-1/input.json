@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "IPG/2016/page_86.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements 2013 ( continued ) ( amounts in millions , except per share amounts ) guarantees we have guaranteed certain obligations of our subsidiaries relating principally to operating leases and credit facilities of certain subsidiaries .",
+      "the amount of parent company guarantees on lease obligations was $ 857.3 and $ 619.4 as of december 31 , 2016 and 2015 , respectively , and the amount of parent company guarantees primarily relating to credit facilities was $ 395.6 and $ 336.5 as of december 31 , 2016 and 2015 , respectively .",
+      "in the event of non-payment by the applicable subsidiary of the obligations covered by a guarantee , we would be obligated to pay the amounts covered by that guarantee .",
+      "as of december 31 , 2016 , there were no material assets pledged as security for such parent company guarantees .",
+      "contingent acquisition obligations the following table details the estimated future contingent acquisition obligations payable in cash as of december 31 ."
+    ],
+    "post_text": [
+      "1 we have entered into certain acquisitions that contain both redeemable noncontrolling interests and call options with similar terms and conditions .",
+      "the estimated amounts listed would be paid in the event of exercise at the earliest exercise date .",
+      "we have certain redeemable noncontrolling interests that are exercisable at the discretion of the noncontrolling equity owners as of december 31 , 2016 .",
+      "these estimated payments of $ 25.9 are included within the total payments expected to be made in 2017 , and will continue to be carried forward into 2018 or beyond until exercised or expired .",
+      "redeemable noncontrolling interests are included in the table at current exercise price payable in cash , not at applicable redemption value in accordance with the authoritative guidance for classification and measurement of redeemable securities .",
+      "the majority of these payments are contingent upon achieving projected operating performance targets and satisfying other conditions specified in the related agreements and are subject to revision in accordance with the terms of the respective agreements .",
+      "see note 4 for further information relating to the payment structure of our acquisitions .",
+      "legal matters in the normal course of business , we are involved in various legal proceedings , and subject to investigations , inspections , audits , inquiries and similar actions by governmental authorities .",
+      "the types of allegations that arise in connection with such legal proceedings vary in nature , but can include claims related to contract , employment , tax and intellectual property matters .",
+      "we evaluate all cases each reporting period and record liabilities for losses from legal proceedings when we determine that it is probable that the outcome in a legal proceeding will be unfavorable and the amount , or potential range , of loss can be reasonably estimated .",
+      "in certain cases , we cannot reasonably estimate the potential loss because , for example , the litigation is in its early stages .",
+      "while any outcome related to litigation or such governmental proceedings in which we are involved cannot be predicted with certainty , management believes that the outcome of these matters , individually and in the aggregate , will not have a material adverse effect on our financial condition , results of operations or cash flows .",
+      "as previously disclosed , on april 10 , 2015 , a federal judge in brazil authorized the search of the records of an agency 2019s offices in s e3o paulo and brasilia , in connection with an ongoing investigation by brazilian authorities involving payments potentially connected to local government contracts .",
+      "the company had previously investigated the matter and taken a number of remedial and disciplinary actions .",
+      "the company is in the process of concluding a settlement related to these matters with government agencies .",
+      "the company confirmed that one of its standalone domestic agencies has been contacted by the department of justice antitrust division for documents regarding video production practices and is cooperating with the government. ."
+    ],
+    "table": [
+      [
+        "",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "thereafter",
+        "total"
+      ],
+      [
+        "deferred acquisition payments",
+        "$ 76.9",
+        "$ 31.6",
+        "$ 25.1",
+        "$ 8.9",
+        "$ 26.9",
+        "$ 11.4",
+        "$ 180.8"
+      ],
+      [
+        "redeemable noncontrolling interests and call options with affiliates1",
+        "34.7",
+        "76.5",
+        "32.9",
+        "3.9",
+        "3.1",
+        "4.2",
+        "155.3"
+      ],
+      [
+        "total contingent acquisition payments",
+        "$ 111.6",
+        "$ 108.1",
+        "$ 58.0",
+        "$ 12.8",
+        "$ 30.0",
+        "$ 15.6",
+        "$ 336.1"
+      ]
+    ],
+    "questions": [
+      "what portion of total contingent acquisition payments is used for redeemable noncontrolling interests and call options?"
+    ]
+  }
+}

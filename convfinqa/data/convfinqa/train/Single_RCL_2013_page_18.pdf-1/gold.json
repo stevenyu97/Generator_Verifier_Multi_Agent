@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total global cruise guests are from north america or europe?",
+      "answer": 18215000.0,
+      "answer_raw": "18215000.0",
+      "program": "add(11816000, 6399000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the number of global cruise guests that are not from north america or europe?",
+      "answer": 3085000.0,
+      "answer_raw": "3085000.0",
+      "program": "add(11816000, 6399000), subtract(21300000, #0)"
+    }
+  ]
+}

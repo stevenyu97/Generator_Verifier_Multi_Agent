@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if there were 50 facilities being rated in 2009 , how many were bbb/baa?",
+      "answer": 1.0,
+      "answer_raw": "1.0",
+      "program": "divide(100, 50), divide(#0, #0)"
+    }
+  ]
+}

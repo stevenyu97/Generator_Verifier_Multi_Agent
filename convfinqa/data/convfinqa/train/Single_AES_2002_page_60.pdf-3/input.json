@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "Single_AES/2002/page_60.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "competitive supply aes 2019s competitive supply line of business consists of generating facilities that sell electricity directly to wholesale customers in competitive markets .",
+      "additionally , as compared to the contract generation segment discussed above , these generating facilities generally sell less than 75% ( 75 % ) of their output pursuant to long-term contracts with pre-determined pricing provisions and/or sell into power pools , under shorter-term contracts or into daily spot markets .",
+      "the prices paid for electricity under short-term contracts and in the spot markets are unpredictable and can be , and from time to time have been , volatile .",
+      "the results of operations of aes 2019s competitive supply business are also more sensitive to the impact of market fluctuations in the price of electricity , natural gas , coal and other raw materials .",
+      "in the united kingdom , txu europe entered administration in november 2002 and is no longer performing under its contracts with drax and barry .",
+      "as described in the footnotes and in other sections of the discussion and analysis of financial condition and results of operations , txu europe 2019s failure to perform under its contracts has had a material adverse effect on the results of operations of these businesses .",
+      "two aes competitive supply businesses , aes wolf hollow , l.p .",
+      "and granite ridge have fuel supply agreements with el paso merchant energy l.p .",
+      "an affiliate of el paso corp. , which has encountered financial difficulties .",
+      "the company does not believe the financial difficulties of el paso corp .",
+      "will have a material adverse effect on el paso merchant energy l.p . 2019s performance under the supply agreement ; however , there can be no assurance that a further deterioration in el paso corp 2019s financial condition will not have a material adverse effect on the ability of el paso merchant energy l.p .",
+      "to perform its obligations .",
+      "while el paso corp 2019s financial condition may not have a material adverse effect on el paso merchant energy , l.p .",
+      "at this time , it could lead to a default under the aes wolf hollow , l.p . 2019s fuel supply agreement , in which case aes wolf hollow , l.p . 2019s lenders may seek to declare a default under its credit agreements .",
+      "aes wolf hollow , l.p .",
+      "is working in concert with its lenders to explore options to avoid such a default .",
+      "the revenues from our facilities that distribute electricity to end-use customers are generally subject to regulation .",
+      "these businesses are generally required to obtain third party approval or confirmation of rate increases before they can be passed on to the customers through tariffs .",
+      "these businesses comprise the large utilities and growth distribution segments of the company .",
+      "revenues from contract generation and competitive supply are not regulated .",
+      "the distribution of revenues between the segments for the years ended december 31 , 2002 , 2001 and 2000 is as follows: ."
+    ],
+    "post_text": [
+      "development costs certain subsidiaries and affiliates of the company ( domestic and non-u.s. ) are in various stages of developing and constructing greenfield power plants , some but not all of which have signed long-term contracts or made similar arrangements for the sale of electricity .",
+      "successful completion depends upon overcoming substantial risks , including , but not limited to , risks relating to failures of siting , financing , construction , permitting , governmental approvals or the potential for termination of the power sales contract as a result of a failure to meet certain milestones .",
+      "as of december 31 , 2002 , capitalized costs for projects under development and in early stage construction were approximately $ 15 million and capitalized costs for projects under construction were approximately $ 3.2 billion .",
+      "the company believes ."
+    ],
+    "table": [
+      [
+        "",
+        "2002",
+        "2001",
+        "2000"
+      ],
+      [
+        "large utilities",
+        "36% ( 36 % )",
+        "21% ( 21 % )",
+        "22% ( 22 % )"
+      ],
+      [
+        "growth distribution",
+        "14% ( 14 % )",
+        "21% ( 21 % )",
+        "21% ( 21 % )"
+      ],
+      [
+        "contract generation",
+        "29% ( 29 % )",
+        "32% ( 32 % )",
+        "27% ( 27 % )"
+      ],
+      [
+        "competitive supply",
+        "21% ( 21 % )",
+        "26% ( 26 % )",
+        "30% ( 30 % )"
+      ]
+    ],
+    "questions": [
+      "what was the total distribution of revenue to the large utilities segment in the years of 2002 and 2001?",
+      "including the year of 2000, what would then be the total distribution of revenue to the large utilities segment in the three years?",
+      "and would be the average distribution of revenue to the large utilities segment between the three years?"
+    ]
+  }
+}

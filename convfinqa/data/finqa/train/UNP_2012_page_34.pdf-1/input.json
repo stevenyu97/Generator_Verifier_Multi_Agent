@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "UNP/2012/page_34.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "at december 31 , 2012 and 2011 , we had a working capital surplus .",
+      "this reflects a strong cash position , which provides enhanced liquidity in an uncertain economic environment .",
+      "in addition , we believe we have adequate access to capital markets to meet any foreseeable cash requirements , and we have sufficient financial capacity to satisfy our current liabilities .",
+      "cash flows millions 2012 2011 2010 ."
+    ],
+    "post_text": [
+      "operating activities higher net income in 2012 increased cash provided by operating activities compared to 2011 , partially offset by lower tax benefits from bonus depreciation ( as explained below ) and payments for past wages based on national labor negotiations settled earlier this year .",
+      "higher net income and lower cash income tax payments in 2011 increased cash provided by operating activities compared to 2010 .",
+      "the tax relief , unemployment insurance reauthorization , and job creation act of 2010 provided for 100% ( 100 % ) bonus depreciation for qualified investments made during 2011 , and 50% ( 50 % ) bonus depreciation for qualified investments made during 2012 .",
+      "as a result of the act , the company deferred a substantial portion of its 2011 income tax expense .",
+      "this deferral decreased 2011 income tax payments , thereby contributing to the positive operating cash flow .",
+      "in future years , however , additional cash will be used to pay income taxes that were previously deferred .",
+      "in addition , the adoption of a new accounting standard in january of 2010 changed the accounting treatment for our receivables securitization facility from a sale of undivided interests ( recorded as an operating activity ) to a secured borrowing ( recorded as a financing activity ) , which decreased cash provided by operating activities by $ 400 million in 2010 .",
+      "investing activities higher capital investments in 2012 drove the increase in cash used in investing activities compared to 2011 .",
+      "included in capital investments in 2012 was $ 75 million for the early buyout of 165 locomotives under long-term operating and capital leases during the first quarter of 2012 , which we exercised due to favorable economic terms and market conditions .",
+      "higher capital investments partially offset by higher proceeds from asset sales in 2011 drove the increase in cash used in investing activities compared to 2010. ."
+    ],
+    "table": [
+      [
+        "cash flowsmillions",
+        "2012",
+        "2011",
+        "2010"
+      ],
+      [
+        "cash provided by operating activities",
+        "$ 6161",
+        "$ 5873",
+        "$ 4105"
+      ],
+      [
+        "cash used in investing activities",
+        "-3633 ( 3633 )",
+        "-3119 ( 3119 )",
+        "-2488 ( 2488 )"
+      ],
+      [
+        "cash used in financing activities",
+        "-2682 ( 2682 )",
+        "-2623 ( 2623 )",
+        "-2381 ( 2381 )"
+      ],
+      [
+        "net change in cash and cashequivalents",
+        "$ -154 ( 154 )",
+        "$ 131",
+        "$ -764 ( 764 )"
+      ]
+    ],
+    "questions": [
+      "what would 2012 capital expenditures have been without the early buyout of locomotives , in millions?"
+    ]
+  }
+}

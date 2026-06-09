@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "long- term assets under supervision , in billions , were what excluding net market appreciation?",
+      "answer": 42.0,
+      "answer_raw": "42.0",
+      "program": "subtract(128, 86)"
+    }
+  ]
+}

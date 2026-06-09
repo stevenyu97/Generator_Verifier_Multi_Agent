@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the gross accrued interest from 2006 to 2007?",
+      "answer": -0.27204,
+      "answer_raw": "-0.27204",
+      "program": "subtract(47.9, 65.8), divide(#0, 65.8)"
+    }
+  ]
+}

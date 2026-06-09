@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the net assets acquired allocated to current assets",
+      "answer": 0.09412,
+      "answer_raw": "0.09412",
+      "program": "divide(1733, 18413)"
+    }
+  ]
+}

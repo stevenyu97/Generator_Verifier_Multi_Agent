@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the future minimum lease payments in 2014 as a percentage of the total future minimum lease payments?",
+      "answer": 0.13151,
+      "answer_raw": "0.13151",
+      "program": "divide(51637, 392640)"
+    }
+  ]
+}

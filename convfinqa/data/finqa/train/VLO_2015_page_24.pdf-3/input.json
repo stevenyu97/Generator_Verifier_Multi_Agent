@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "VLO/2015/page_24.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents the following table discloses purchases of shares of our common stock made by us or on our behalf during the fourth quarter of 2015 .",
+      "period total number of shares purchased average price paid per share total number of shares not purchased as part of publicly announced plans or programs ( a ) total number of shares purchased as part of publicly announced plans or programs approximate dollar value of shares that may yet be purchased under the plans or programs ( b ) ."
+    ],
+    "post_text": [
+      "( a ) the shares reported in this column represent purchases settled in the fourth quarter of 2015 relating to ( i ) our purchases of shares in open-market transactions to meet our obligations under stock-based compensation plans , and ( ii ) our purchases of shares from our employees and non-employee directors in connection with the exercise of stock options , the vesting of restricted stock , and other stock compensation transactions in accordance with the terms of our stock-based compensation plans .",
+      "( b ) on july 13 , 2015 , we announced that our board of directors approved our purchase of $ 2.5 billion of our outstanding common stock ( with no expiration date ) , which was in addition to the remaining amount available under our $ 3 billion program previously authorized .",
+      "during the third quarter of 2015 , we completed our purchases under the $ 3 billion program .",
+      "as of december 31 , 2015 , we had $ 1.3 billion remaining available for purchase under the $ 2.5 billion program. ."
+    ],
+    "table": [
+      [
+        "period",
+        "total numberof sharespurchased",
+        "averageprice paidper share",
+        "total number ofshares notpurchased as part ofpublicly announcedplans or programs ( a )",
+        "total number ofshares purchased aspart of publiclyannounced plans orprograms",
+        "approximate dollarvalue of shares thatmay yet be purchasedunder the plans orprograms ( b )"
+      ],
+      [
+        "october 2015",
+        "1658771",
+        "$ 62.12",
+        "842059",
+        "816712",
+        "$ 2.0 billion"
+      ],
+      [
+        "november 2015",
+        "2412467",
+        "$ 71.08",
+        "212878",
+        "2199589",
+        "$ 1.8 billion"
+      ],
+      [
+        "december 2015",
+        "7008414",
+        "$ 70.31",
+        "980",
+        "7007434",
+        "$ 1.3 billion"
+      ],
+      [
+        "total",
+        "11079652",
+        "$ 69.25",
+        "1055917",
+        "10023735",
+        "$ 1.3 billion"
+      ]
+    ],
+    "questions": [
+      "what was the percentage increase of shares purchased in november to december?"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total amount of long-term debt due in 24 months as of dec 31, 2004?",
+      "answer": 543194.0,
+      "answer_raw": "543194.0",
+      "program": "add(467298, 75896)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the amount due in 2007?",
+      "answer": 199539.0,
+      "answer_raw": "199539.0",
+      "program": "199539"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total amount due in 36 months?",
+      "answer": 742733.0,
+      "answer_raw": "742733.0",
+      "program": "add(467298, 75896), add(#0, 199539)"
+    }
+  ]
+}

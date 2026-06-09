@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was initial health care trend rate higher in 2017 than 2016?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(8.00, 8.25)"
+    }
+  ]
+}

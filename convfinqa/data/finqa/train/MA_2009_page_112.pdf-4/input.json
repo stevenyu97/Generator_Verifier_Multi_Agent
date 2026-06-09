@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "MA/2009/page_112.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "mastercard incorporated notes to consolidated financial statements 2014 ( continued ) ( in thousands , except percent and per share data ) the following table summarizes expected benefit payments through 2019 for the pension plans , including those payments expected to be paid from the company 2019s general assets .",
+      "since the majority of the benefit payments are made in the form of lump-sum distributions , actual benefit payments may differ from expected benefit payments. ."
+    ],
+    "post_text": [
+      "substantially all of the company 2019s u.s .",
+      "employees are eligible to participate in a defined contribution savings plan ( the 201csavings plan 201d ) sponsored by the company .",
+      "the savings plan allows employees to contribute a portion of their base compensation on a pre-tax and after-tax basis in accordance with specified guidelines .",
+      "the company matches a percentage of employees 2019 contributions up to certain limits .",
+      "in 2007 and prior years , the company could also contribute to the savings plan a discretionary profit sharing component linked to company performance during the prior year .",
+      "beginning in 2008 , the discretionary profit sharing amount related to prior year company performance was paid directly to employees as a short-term cash incentive bonus rather than as a contribution to the savings plan .",
+      "in addition , the company has several defined contribution plans outside of the united states .",
+      "the company 2019s contribution expense related to all of its defined contribution plans was $ 40627 , $ 35341 and $ 26996 for 2009 , 2008 and 2007 , respectively .",
+      "note 13 .",
+      "postemployment and postretirement benefits the company maintains a postretirement plan ( the 201cpostretirement plan 201d ) providing health coverage and life insurance benefits for substantially all of its u.s .",
+      "employees hired before july 1 , 2007 .",
+      "the company amended the life insurance benefits under the postretirement plan effective january 1 , 2007 .",
+      "the impact , net of taxes , of this amendment was an increase of $ 1715 to accumulated other comprehensive income in 2007 .",
+      "in 2009 , the company recorded a $ 3944 benefit expense as a result of enhanced postretirement medical benefits under the postretirement plan provided to employees that chose to participate in a voluntary transition program. ."
+    ],
+    "table": [
+      [
+        "2010",
+        "$ 18181"
+      ],
+      [
+        "2011",
+        "27090"
+      ],
+      [
+        "2012",
+        "21548"
+      ],
+      [
+        "2013",
+        "25513"
+      ],
+      [
+        "2014",
+        "24002"
+      ],
+      [
+        "2015-2019",
+        "128494"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the company 2019s contribution expense related to all of its defined contribution plans for 2009 to 2008"
+    ]
+  }
+}

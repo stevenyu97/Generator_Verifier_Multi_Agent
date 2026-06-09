@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of cash and cash equivalents in 2006?",
+      "answer": 104520.0,
+      "answer_raw": "104520.0",
+      "program": "104520"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2005?",
+      "answer": 125385.0,
+      "answer_raw": "125385.0",
+      "program": "125385"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the combined total of cash and cash equivalents for both of those years?",
+      "answer": 229905.0,
+      "answer_raw": "229905.0",
+      "program": "add(104520, 125385)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was the total of long-term debt in that same period?",
+      "answer": 9843862.0,
+      "answer_raw": "9843862.0",
+      "program": "add(104520, 125385), add(5474988, 4368874)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "how much, then, does the combined total of cash and cash equivalents represent in relation to this total of long-term debt?",
+      "answer": 0.02336,
+      "answer_raw": "0.02336",
+      "program": "add(104520, 125385), add(5474988, 4368874), divide(#0, #1)"
+    }
+  ]
+}

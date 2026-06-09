@@ -1,0 +1,57 @@
+{
+  "input": {
+    "id": "PPG/2012/page_76.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "74 2012 ppg annual report and form 10-k 25 .",
+      "separation and merger transaction on january , 28 , 2013 , the company completed the previously announced separation of its commodity chemicals business and merger of its wholly-owned subsidiary , eagle spinco inc. , with a subsidiary of georgia gulf corporation in a tax efficient reverse morris trust transaction ( the 201ctransaction 201d ) .",
+      "pursuant to the merger , eagle spinco , the entity holding ppg's former commodity chemicals business , is now a wholly-owned subsidiary of georgia gulf .",
+      "the closing of the merger followed the expiration of the related exchange offer and the satisfaction of certain other conditions .",
+      "the combined company formed by uniting georgia gulf with ppg's former commodity chemicals business is named axiall corporation ( 201caxiall 201d ) .",
+      "ppg holds no ownership interest in axiall .",
+      "ppg received the necessary ruling from the internal revenue service and as a result this transaction was generally tax free to ppg and its shareholders .",
+      "under the terms of the exchange offer , 35249104 shares of eagle spinco common stock were available for distribution in exchange for shares of ppg common stock accepted in the offer .",
+      "following the merger , each share of eagle spinco common stock automatically converted into the right to receive one share of axiall corporation common stock .",
+      "accordingly , ppg shareholders who tendered their shares of ppg common stock as part of this offer received 3.2562 shares of axiall common stock for each share of ppg common stock accepted for exchange .",
+      "ppg was able to accept the maximum of 10825227 shares of ppg common stock for exchange in the offer , and thereby , reduced its outstanding shares by approximately 7% ( 7 % ) .",
+      "under the terms of the transaction , ppg received $ 900 million of cash and 35.2 million shares of axiall common stock ( market value of $ 1.8 billion on january 25 , 2013 ) which was distributed to ppg shareholders by the exchange offer as described above .",
+      "the cash consideration is subject to customary post-closing adjustment , including a working capital adjustment .",
+      "in the transaction , ppg transferred environmental remediation liabilities , defined benefit pension plan assets and liabilities and other post-employment benefit liabilities related to the commodity chemicals business to axiall .",
+      "ppg will report a gain on the transaction reflecting the excess of the sum of the cash proceeds received and the cost ( closing stock price on january 25 , 2013 ) of the ppg shares tendered and accepted in the exchange for the 35.2 million shares of axiall common stock over the net book value of the net assets of ppg's former commodity chemicals business .",
+      "the transaction will also result in a net partial settlement loss associated with the spin out and termination of defined benefit pension liabilities and the transfer of other post-retirement benefit liabilities under the terms of the transaction .",
+      "during 2012 , the company incurred $ 21 million of pretax expense , primarily for professional services , related to the transaction .",
+      "additional transaction-related expenses will be incurred in 2013 .",
+      "ppg will report the results of its commodity chemicals business for january 2013 and a net gain on the transaction as results from discontinued operations when it reports its results for the quarter ending march 31 , 2013 .",
+      "in the ppg results for prior periods , presented for comparative purposes beginning with the first quarter 2013 , the results of its former commodity chemicals business will be reclassified from continuing operations and presented as the results from discontinued operations .",
+      "the net sales and income before income taxes of the commodity chemicals business that will be reclassified and reported as discontinued operations are presented in the table below for the years ended december 31 , 2012 , 2011 and 2010: ."
+    ],
+    "post_text": [
+      "income before income taxes for the year ended december 31 , 2012 , 2011 and 2010 is $ 4 million lower , $ 6 million higher and $ 2 million lower , respectively , than segment earnings for the ppg commodity chemicals segment reported for these periods .",
+      "these differences are due to the inclusion of certain gains , losses and expenses associated with the chlor-alkali and derivatives business that were not reported in the ppg commodity chemicals segment earnings in accordance with the accounting guidance on segment reporting .",
+      "table of contents notes to the consolidated financial statements ."
+    ],
+    "table": [
+      [
+        "millions",
+        "year-ended 2012",
+        "year-ended 2011",
+        "year-ended 2010"
+      ],
+      [
+        "net sales",
+        "$ 1700",
+        "$ 1741",
+        "$ 1441"
+      ],
+      [
+        "income before income taxes",
+        "$ 368",
+        "$ 376",
+        "$ 187"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in net sales of the commodity chemicals business that will be reclassified and reported as discontinued operations from 2010 to 2011?"
+    ]
+  }
+}

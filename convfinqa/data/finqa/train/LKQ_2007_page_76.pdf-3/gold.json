@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average rental expense from 2005 to 2007 in millions",
+      "answer": 30.6,
+      "answer_raw": "30.6",
+      "program": "add(27.4, 18.6), add(#0, 12.2), add(#1, const_3), divide(#2, const_2)"
+    }
+  ]
+}

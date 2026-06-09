@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total purchased shares presented in the table was purchased during october 2008?",
+      "answer": 0.77045,
+      "answer_raw": "0.77045",
+      "program": "divide(25394, 32960)"
+    }
+  ]
+}

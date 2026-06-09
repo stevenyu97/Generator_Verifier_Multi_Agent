@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the lowest amount of accounts receivable net , in millions?",
+      "answer": 565.0,
+      "answer_raw": "565.0",
+      "program": "table_min(accounts receivable net, none)"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "Single_DRE/2007/page_59.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "use of estimates the preparation of the financial statements requires management to make a number of estimates and assumptions that affect the reported amount of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the period .",
+      "actual results could differ from those estimates .",
+      "( 3 ) significant acquisitions and dispositions acquisitions we acquired total income producing real estate related assets of $ 219.9 million , $ 948.4 million and $ 295.6 million in 2007 , 2006 and 2005 , respectively .",
+      "in december 2007 , in order to further establish our property positions around strategic port locations , we purchased a portfolio of five industrial buildings , in seattle , virginia and houston , as well as approximately 161 acres of undeveloped land and a 12-acre container storage facility in houston .",
+      "the total price was $ 89.7 million and was financed in part through assumption of secured debt that had a fair value of $ 34.3 million .",
+      "of the total purchase price , $ 66.1 million was allocated to in-service real estate assets , $ 20.0 million was allocated to undeveloped land and the container storage facility , $ 3.3 million was allocated to lease related intangible assets , and the remaining amount was allocated to acquired working capital related assets and liabilities .",
+      "this allocation of purchase price based on the fair value of assets acquired is preliminary .",
+      "the results of operations for the acquired properties since the date of acquisition have been included in continuing rental operations in our consolidated financial statements .",
+      "in february 2007 , we completed the acquisition of bremner healthcare real estate ( 201cbremner 201d ) , a national health care development and management firm .",
+      "the primary reason for the acquisition was to expand our development capabilities within the health care real estate market .",
+      "the initial consideration paid to the sellers totaled $ 47.1 million , and the sellers may be eligible for further contingent payments over the next three years .",
+      "approximately $ 39.0 million of the total purchase price was allocated to goodwill , which is attributable to the value of bremner 2019s overall development capabilities and its in-place workforce .",
+      "the results of operations for bremner since the date of acquisition have been included in continuing operations in our consolidated financial statements .",
+      "in february 2006 , we acquired the majority of a washington , d.c .",
+      "metropolitan area portfolio of suburban office and light industrial properties ( the 201cmark winkler portfolio 201d ) .",
+      "the assets acquired for a purchase price of approximately $ 867.6 million are comprised of 32 in-service properties with approximately 2.9 million square feet for rental , 166 acres of undeveloped land , as well as certain related assets of the mark winkler company , a real estate management company .",
+      "the acquisition was financed primarily through assumed mortgage loans and new borrowings .",
+      "the assets acquired and liabilities assumed were recorded at their estimated fair value at the date of acquisition , as summarized below ( in thousands ) : ."
+    ],
+    "post_text": [
+      "purchase price , net of assumed liabilities $ 713202 ."
+    ],
+    "table": [
+      [
+        "operating rental properties",
+        "$ 602011"
+      ],
+      [
+        "land held for development",
+        "154300"
+      ],
+      [
+        "total real estate investments",
+        "756311"
+      ],
+      [
+        "other assets",
+        "10478"
+      ],
+      [
+        "lease related intangible assets",
+        "86047"
+      ],
+      [
+        "goodwill",
+        "14722"
+      ],
+      [
+        "total assets acquired",
+        "867558"
+      ],
+      [
+        "debt assumed",
+        "-148527 ( 148527 )"
+      ],
+      [
+        "other liabilities assumed",
+        "-5829 ( 5829 )"
+      ],
+      [
+        "purchase price net of assumed liabilities",
+        "$ 713202"
+      ]
+    ],
+    "questions": [
+      "what is the total goodwill?",
+      "what about total assets?",
+      "what fraction comes from goodwill?",
+      "what about in percentage?"
+    ]
+  }
+}

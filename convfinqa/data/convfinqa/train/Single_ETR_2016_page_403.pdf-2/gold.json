@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "of how many points was the basis point bandwidth for target authorized return on common equity under the formula rate plan?",
+      "answer": 40.0,
+      "answer_raw": "40.0",
+      "program": "40"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the percentage equivalent to those points?",
+      "answer": 0.4,
+      "answer_raw": "0.4",
+      "program": "divide(40, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the original percentage for the authorized return on common equity under the formula rate plan?",
+      "answer": 9.95,
+      "answer_raw": "9.95",
+      "program": "9.95"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was, then, the maximum target authorized return on common equity under that plan, including the basis points?",
+      "answer": 10.35,
+      "answer_raw": "10.35",
+      "program": "divide(40, const_100), add(#0, 9.95)"
+    }
+  ]
+}

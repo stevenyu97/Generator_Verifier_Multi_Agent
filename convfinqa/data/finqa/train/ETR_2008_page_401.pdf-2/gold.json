@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in receivables from the money pool between 2007 and 2008?",
+      "answer": 0.24945,
+      "answer_raw": "0.24945",
+      "program": "subtract(53620, 42915), divide(#0, 42915)"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "Double_ETR/2011/page_22.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries management's financial discussion and analysis refer to 201cselected financial data - five-year comparison of entergy corporation and subsidiaries 201d which accompanies entergy corporation 2019s financial statements in this report for further information with respect to operating statistics .",
+      "in november 2007 the board approved a plan to pursue a separation of entergy 2019s non-utility nuclear business from entergy through a spin-off of the business to entergy shareholders .",
+      "in april 2010 , entergy announced that it planned to unwind the business infrastructure associated with the proposed spin-off transaction .",
+      "as a result of the plan to unwind the business infrastructure , entergy recorded expenses in 2010 for the write-off of certain capitalized costs incurred in connection with the planned spin-off transaction .",
+      "these costs are discussed in more detail below and throughout this section .",
+      "net revenue utility following is an analysis of the change in net revenue comparing 2010 to 2009 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the volume/weather variance is primarily due to an increase of 8362 gwh , or 8% ( 8 % ) , in billed electricity usage in all retail sectors , including the effect on the residential sector of colder weather in the first quarter 2010 compared to 2009 and warmer weather in the second and third quarters 2010 compared to 2009 .",
+      "the industrial sector reflected strong sales growth on continuing signs of economic recovery .",
+      "the improvement in this sector was primarily driven by inventory restocking and strong exports with the chemicals , refining , and miscellaneous manufacturing sectors leading the improvement .",
+      "the retail electric price variance is primarily due to : increases in the formula rate plan riders at entergy gulf states louisiana effective november 2009 , january 2010 , and september 2010 , at entergy louisiana effective november 2009 , and at entergy mississippi effective july 2009 ; a base rate increase at entergy arkansas effective july 2010 ; rate actions at entergy texas , including base rate increases effective in may and august 2010 ; a formula rate plan provision of $ 16.6 million recorded in the third quarter 2009 for refunds that were made to customers in accordance with settlements approved by the lpsc ; and the recovery in 2009 by entergy arkansas of 2008 extraordinary storm costs , as approved by the apsc , which ceased in january 2010 .",
+      "the recovery of storm costs is offset in other operation and maintenance expenses .",
+      "see note 2 to the financial statements for further discussion of the proceedings referred to above. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2009 net revenue",
+        "$ 4694"
+      ],
+      [
+        "volume/weather",
+        "231"
+      ],
+      [
+        "retail electric price",
+        "137"
+      ],
+      [
+        "provision for regulatory proceedings",
+        "26"
+      ],
+      [
+        "rough production cost equalization",
+        "19"
+      ],
+      [
+        "ano decommissioning trust",
+        "-24 ( 24 )"
+      ],
+      [
+        "fuel recovery",
+        "-44 ( 44 )"
+      ],
+      [
+        "other",
+        "12"
+      ],
+      [
+        "2010 net revenue",
+        "$ 5051"
+      ]
+    ],
+    "questions": [
+      "what was the net change in the amount of net revenue from 2009 to 2010?",
+      "and what portion of this net change is due to the variation in the retail electric price?"
+    ]
+  }
+}

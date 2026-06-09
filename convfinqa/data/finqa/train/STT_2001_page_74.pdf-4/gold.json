@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the balance of the other unrealized comprehensive income in 2001?",
+      "answer": 71.0,
+      "answer_raw": "71.0",
+      "program": "subtract(70, -1)"
+    }
+  ]
+}

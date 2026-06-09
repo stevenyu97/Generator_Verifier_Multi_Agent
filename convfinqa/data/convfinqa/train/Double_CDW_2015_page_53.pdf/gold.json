@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the days of sales outstanding in 2015?",
+      "answer": 48.0,
+      "answer_raw": "48.0",
+      "program": "48"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2014?",
+      "answer": 42.0,
+      "answer_raw": "42.0",
+      "program": "42"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 6.0,
+      "answer_raw": "6.0",
+      "program": "subtract(48, 42)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage change does this represent?",
+      "answer": 0.14286,
+      "answer_raw": "0.14286",
+      "program": "subtract(48, 42), divide(#0, 42)"
+    }
+  ]
+}

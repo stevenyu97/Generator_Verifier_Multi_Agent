@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total home equity and residential real estate loans in 2013?",
+      "answer": 51512.0,
+      "answer_raw": "51512.0",
+      "program": "51512"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2012?",
+      "answer": 51160.0,
+      "answer_raw": "51160.0",
+      "program": "51160"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total for both years?",
+      "answer": 102672.0,
+      "answer_raw": "102672.0",
+      "program": "add(51512, 51160)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the average for these two years?",
+      "answer": 51336.0,
+      "answer_raw": "51336.0",
+      "program": "add(51512, 51160), divide(#0, const_2)"
+    }
+  ]
+}

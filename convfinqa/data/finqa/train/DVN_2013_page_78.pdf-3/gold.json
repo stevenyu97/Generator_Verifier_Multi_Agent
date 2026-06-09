@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total debt maturities are from 2016 and 2017?",
+      "answer": 10.38034,
+      "answer_raw": "10.38034",
+      "program": "add(500, 750), divide(#0, 12042), multiply(#1, const_100)"
+    }
+  ]
+}

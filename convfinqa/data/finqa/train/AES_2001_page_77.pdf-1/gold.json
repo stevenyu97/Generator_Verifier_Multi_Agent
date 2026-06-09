@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the purchase price was treasury stock?",
+      "answer": 0.19,
+      "answer_raw": "0.19",
+      "program": "divide(323, 1700)"
+    }
+  ]
+}

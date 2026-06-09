@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total other income was rental income in 2006?",
+      "answer": 0.70339,
+      "answer_raw": "0.70339",
+      "program": "divide(83, 118)"
+    }
+  ]
+}

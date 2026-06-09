@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the balance of valuation allowance during 2015?",
+      "answer": 3376.0,
+      "answer_raw": "3376.0",
+      "program": "add(3387, -11)"
+    }
+  ]
+}

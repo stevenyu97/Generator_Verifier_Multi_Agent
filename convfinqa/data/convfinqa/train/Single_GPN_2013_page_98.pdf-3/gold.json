@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of securities remaining available for future issuance under equity compensation plans?",
+      "answer": 7927210.0,
+      "answer_raw": "7927210.0",
+      "program": "7927210"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the weighted average exercise price of outstanding options?",
+      "answer": 34.92,
+      "answer_raw": "34.92",
+      "program": "34.92"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the value of the available securities for future issuance?",
+      "answer": 276818173.2,
+      "answer_raw": "276818173.2",
+      "program": "multiply(7927210, 34.92)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and converted to the hundreds?",
+      "answer": 276.81817,
+      "answer_raw": "276.81817",
+      "program": "multiply(7927210, 34.92), divide(#0, const_1000000)"
+    }
+  ]
+}

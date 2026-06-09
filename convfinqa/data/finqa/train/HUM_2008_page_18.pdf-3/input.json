@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "HUM/2008/page_18.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "va health care delivery system through our network of providers .",
+      "we are compensated by the va for the cost of our providers 2019 services at a specified contractual amount per service plus an additional administrative fee for each transaction .",
+      "the contract , under which we began providing services on january 1 , 2008 , is comprised of one base period and four one-year option periods subject to renewals at the federal government 2019s option .",
+      "we are currently in the first option period , which expires on september 30 , 2009 .",
+      "for the year ended december 31 , 2008 , revenues under this va contract were approximately $ 22.7 million , or less than 1% ( 1 % ) of our total premium and aso fees .",
+      "for the year ended december 31 , 2008 , military services premium revenues were approximately $ 3.2 billion , or 11.3% ( 11.3 % ) of our total premiums and aso fees , and military services aso fees totaled $ 76.8 million , or 0.3% ( 0.3 % ) of our total premiums and aso fees .",
+      "international and green ribbon health operations in august 2006 , we established our subsidiary humana europe in the united kingdom to provide commissioning support to primary care trusts , or pcts , in england .",
+      "under the contracts we are awarded , we work in partnership with local pcts , health care providers , and patients to strengthen health-service delivery and to implement strategies at a local level to help the national health service enhance patient experience , improve clinical outcomes , and reduce costs .",
+      "for the year ended december 31 , 2008 , revenues under these contracts were approximately $ 7.7 million , or less than 1% ( 1 % ) of our total premium and aso fees .",
+      "we participated in a medicare health support pilot program through green ribbon health , or grh , a joint- venture company with pfizer health solutions inc .",
+      "grh was designed to support cms assigned medicare beneficiaries living with diabetes and/or congestive heart failure in central florida .",
+      "grh used disease management initiatives , including evidence-based clinical guidelines , personal self-directed change strategies , and personal nurses to help participants navigate the health system .",
+      "revenues under the contract with cms over the period which began november 1 , 2005 and ended august 15 , 2008 are subject to refund unless savings , satisfaction , and clinical improvement targets are met .",
+      "under the terms of the contract , after a claims run-out period , cms is required to deliver a performance report during the third quarter of 2009 .",
+      "to date , all revenues have been deferred until reliable estimates are determinable , and revenues are not expected to be material when recognized .",
+      "our products marketed to commercial segment employers and members smart plans and other consumer products over the last several years , we have developed and offered various commercial products designed to provide options and choices to employers that are annually facing substantial premium increases driven by double-digit medical cost inflation .",
+      "these smart plans , discussed more fully below , and other consumer offerings , which can be offered on either a fully-insured or aso basis , provided coverage to approximately 670000 members at december 31 , 2008 , representing approximately 18.5% ( 18.5 % ) of our total commercial medical membership as detailed below .",
+      "smart plans and other consumer membership other commercial membership commercial medical membership ."
+    ],
+    "post_text": [
+      "these products are often offered to employer groups as 201cbundles 201d , where the subscribers are offered various hmo and ppo options , with various employer contribution strategies as determined by the employer. ."
+    ],
+    "table": [
+      [
+        "",
+        "smart plans and other consumer membership",
+        "other commercial membership",
+        "commercial medical membership"
+      ],
+      [
+        "fully-insured",
+        "392500",
+        "1586300",
+        "1978800"
+      ],
+      [
+        "aso",
+        "277500",
+        "1364500",
+        "1642000"
+      ],
+      [
+        "total commercial medical",
+        "670000",
+        "2950800",
+        "3620800"
+      ]
+    ],
+    "questions": [
+      "what is the percentage of fully-insured memberships among the total commercial medical membership?"
+    ]
+  }
+}

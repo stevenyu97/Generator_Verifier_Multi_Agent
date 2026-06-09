@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "LMT/2015/page_53.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "backlog backlog increased in 2015 compared to 2014 primarily due to higher orders on f-35 and c-130 programs .",
+      "backlog decreased slightly in 2014 compared to 2013 primarily due to lower orders on f-16 and f-22 programs .",
+      "trends we expect aeronautics 2019 2016 net sales to increase in the mid-single digit percentage range as compared to 2015 due to increased volume on the f-35 and c-130 programs , partially offset by decreased volume on the f-16 program .",
+      "operating profit is also expected to increase in the low single-digit percentage range , driven by increased volume on the f-35 program offset by contract mix that results in a slight decrease in operating margins between years .",
+      "information systems & global solutions our is&gs business segment provides advanced technology systems and expertise , integrated information technology solutions and management services across a broad spectrum of applications for civil , defense , intelligence and other government customers .",
+      "is&gs 2019 technical services business provides a comprehensive portfolio of technical and sustainment services .",
+      "is&gs has a portfolio of many smaller contracts as compared to our other business segments .",
+      "is&gs has been impacted by the continued downturn in certain federal agencies 2019 information technology budgets and increased re-competition on existing contracts coupled with the fragmentation of large contracts into multiple smaller contracts that are awarded primarily on the basis of price .",
+      "is&gs 2019 operating results included the following ( in millions ) : ."
+    ],
+    "post_text": [
+      "2015 compared to 2014 is&gs 2019 net sales decreased $ 58 million , or 1% ( 1 % ) , in 2015 as compared to 2014 .",
+      "the decrease was attributable to lower net sales of approximately $ 395 million as a result of key program completions , lower customer funding levels and increased competition , coupled with the fragmentation of existing large contracts into multiple smaller contracts that are awarded primarily on the basis of price when re-competed ( including cms-citic ) .",
+      "these decreases were partially offset by higher net sales of approximately $ 230 million for businesses acquired in 2014 ; and approximately $ 110 million due to the start-up of new programs and growth in recently awarded programs .",
+      "is&gs 2019 operating profit increased $ 36 million , or 8% ( 8 % ) , in 2015 as compared to 2014 .",
+      "the increase was attributable to improved program performance and risk retirements , offset by decreased operating profit resulting from the activities mentioned above for net sales .",
+      "adjustments not related to volume , including net profit booking rate adjustments and other matters , were approximately $ 70 million higher in 2015 compared to 2014 .",
+      "2014 compared to 2013 is&gs 2019 net sales decreased $ 461 million , or 8% ( 8 % ) , in 2014 as compared to 2013 .",
+      "the decrease was primarily attributable to lower net sales of about $ 475 million due to the wind-down or completion of certain programs , driven by reductions in direct warfighter support ( including jieddo ) ; and approximately $ 320 million due to decreased volume in technical services programs reflecting market pressures .",
+      "the decreases were offset by higher net sales of about $ 330 million due to the start-up of new programs , growth in recently awarded programs and integration of recently acquired companies .",
+      "is&gs 2019 operating profit decreased $ 26 million , or 5% ( 5 % ) , in 2014 as compared to 2013 .",
+      "the decrease was primarily attributable to the activities mentioned above for sales , partially offset by severance recoveries related to the restructuring announced in november 2013 of approximately $ 20 million in 2014 .",
+      "adjustments not related to volume , including net profit booking rate adjustments , were comparable in 2014 and 2013. ."
+    ],
+    "table": [
+      [
+        "",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "net sales",
+        "$ 5596",
+        "$ 5654",
+        "$ 6115"
+      ],
+      [
+        "operating profit",
+        "508",
+        "472",
+        "498"
+      ],
+      [
+        "operating margins",
+        "9.1% ( 9.1 % )",
+        "8.3% ( 8.3 % )",
+        "8.1% ( 8.1 % )"
+      ],
+      [
+        "backlog at year-end",
+        "$ 4800",
+        "$ 6000",
+        "$ 6300"
+      ]
+    ],
+    "questions": [
+      "what was the percentage of the change in the backlog at year-end \\\\n"
+    ]
+  }
+}

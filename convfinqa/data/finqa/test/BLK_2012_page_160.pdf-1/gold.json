@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent did the balance increase between the beginning of 2010 and the end of 2012?",
+      "answer": 0.41754,
+      "answer_raw": "0.41754",
+      "program": "divide(404, 285), subtract(#0, 1)"
+    }
+  ]
+}

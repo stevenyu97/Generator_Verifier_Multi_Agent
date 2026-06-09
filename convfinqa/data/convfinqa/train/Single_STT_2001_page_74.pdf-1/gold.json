@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of gains, counting the unrealized and the other ones?",
+      "answer": 97.0,
+      "answer_raw": "97.0",
+      "program": "add(96, 1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does the foreign currency translation represent in relation to this total, in percentage?",
+      "answer": 0.27835,
+      "answer_raw": "0.27835",
+      "program": "add(96, 1), divide(27, #0)"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "input": {
+    "id": "Double_PNC/2014/page_99.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "2022 timing of available information , including the performance of first lien positions , and 2022 limitations of available historical data .",
+      "pnc 2019s determination of the alll for non-impaired loans is sensitive to the risk grades assigned to commercial loans and loss rates for consumer loans .",
+      "there are several other qualitative and quantitative factors considered in determining the alll .",
+      "this sensitivity analysis does not necessarily reflect the nature and extent of future changes in the alll .",
+      "it is intended to provide insight into the impact of adverse changes to risk grades and loss rates only and does not imply any expectation of future deterioration in the risk ratings or loss rates .",
+      "given the current processes used , we believe the risk grades and loss rates currently assigned are appropriate .",
+      "in the hypothetical event that the aggregate weighted average commercial loan risk grades would experience a 1% ( 1 % ) deterioration , assuming all other variables remain constant , the allowance for commercial loans would increase by approximately $ 35 million as of december 31 , 2014 .",
+      "in the hypothetical event that consumer loss rates would increase by 10% ( 10 % ) , assuming all other variables remain constant , the allowance for consumer loans would increase by approximately $ 37 million at december 31 , 2014 .",
+      "purchased impaired loans are initially recorded at fair value and applicable accounting guidance prohibits the carry over or creation of valuation allowances at acquisition .",
+      "because the initial fair values of these loans already reflect a credit component , additional reserves are established when performance is expected to be worse than our expectations as of the acquisition date .",
+      "at december 31 , 2014 , we had established reserves of $ .9 billion for purchased impaired loans .",
+      "in addition , loans ( purchased impaired and non- impaired ) acquired after january 1 , 2009 were recorded at fair value .",
+      "no allowance for loan losses was carried over and no allowance was created at the date of acquisition .",
+      "see note 4 purchased loans in the notes to consolidated financial statements in item 8 of this report for additional information .",
+      "in determining the appropriateness of the alll , we make specific allocations to impaired loans and allocations to portfolios of commercial and consumer loans .",
+      "we also allocate reserves to provide coverage for probable losses incurred in the portfolio at the balance sheet date based upon current market conditions , which may not be reflected in historical loss data .",
+      "commercial lending is the largest category of credits and is sensitive to changes in assumptions and judgments underlying the determination of the alll .",
+      "we have allocated approximately $ 1.6 billion , or 47% ( 47 % ) , of the alll at december 31 , 2014 to the commercial lending category .",
+      "consumer lending allocations are made based on historical loss experience adjusted for recent activity .",
+      "approximately $ 1.7 billion , or 53% ( 53 % ) , of the alll at december 31 , 2014 has been allocated to these consumer lending categories .",
+      "in addition to the alll , we maintain an allowance for unfunded loan commitments and letters of credit .",
+      "we report this allowance as a liability on our consolidated balance sheet .",
+      "we maintain the allowance for unfunded loan commitments and letters of credit at a level we believe is appropriate to absorb estimated probable losses on these unfunded credit facilities .",
+      "we determine this amount using estimates of the probability of the ultimate funding and losses related to those credit exposures .",
+      "other than the estimation of the probability of funding , this methodology is very similar to the one we use for determining our alll .",
+      "we refer you to note 1 accounting policies and note 3 asset quality in the notes to consolidated financial statements in item 8 of this report for further information on certain key asset quality indicators that we use to evaluate our portfolios and establish the allowances .",
+      "table 41 : allowance for loan and lease losses ."
+    ],
+    "post_text": [
+      "( a ) includes charge-offs of $ 134 million taken pursuant to alignment with interagency guidance on practices for loans and lines of credit related to consumer lending in the first quarter of 2013 .",
+      "the provision for credit losses totaled $ 273 million for 2014 compared to $ 643 million for 2013 .",
+      "the primary drivers of the decrease to the provision were improved overall credit quality , including lower consumer loan delinquencies , and the increasing value of residential real estate which resulted in greater expected cash flows from our purchased impaired loans .",
+      "for 2014 , the provision for commercial lending credit losses increased by $ 64 million , or 178% ( 178 % ) , from 2013 primarily due to continued growth in the commercial book , paired with slowing of the reserve releases related to credit quality improvement .",
+      "the provision for consumer lending credit losses decreased $ 434 million , or 71% ( 71 % ) , from 2013 .",
+      "the pnc financial services group , inc .",
+      "2013 form 10-k 81 ."
+    ],
+    "table": [
+      [
+        "dollars in millions",
+        "2014",
+        "2013"
+      ],
+      [
+        "january 1",
+        "$ 3609",
+        "$ 4036"
+      ],
+      [
+        "total net charge-offs ( a )",
+        "-531 ( 531 )",
+        "-1077 ( 1077 )"
+      ],
+      [
+        "provision for credit losses",
+        "273",
+        "643"
+      ],
+      [
+        "net change in allowance for unfunded loan commitments and letters of credit",
+        "-17 ( 17 )",
+        "8"
+      ],
+      [
+        "other",
+        "-3 ( 3 )",
+        "-1 ( 1 )"
+      ],
+      [
+        "december 31",
+        "$ 3331",
+        "$ 3609"
+      ],
+      [
+        "net charge-offs to average loans ( for the year ended ) ( a )",
+        ".27% ( .27 % )",
+        ".57% ( .57 % )"
+      ],
+      [
+        "allowance for loan and lease losses to total loans",
+        "1.63",
+        "1.84"
+      ],
+      [
+        "commercial lending net charge-offs",
+        "$ -55 ( 55 )",
+        "$ -249 ( 249 )"
+      ],
+      [
+        "consumer lending net charge-offs ( a )",
+        "-476 ( 476 )",
+        "-828 ( 828 )"
+      ],
+      [
+        "total net charge-offs",
+        "$ -531 ( 531 )",
+        "$ -1077 ( 1077 )"
+      ],
+      [
+        "net charge-offs to average loans ( for the year ended )",
+        "",
+        ""
+      ],
+      [
+        "commercial lending",
+        ".04% ( .04 % )",
+        ".22% ( .22 % )"
+      ],
+      [
+        "consumer lending ( a )",
+        "0.62",
+        "1.07"
+      ]
+    ],
+    "questions": [
+      "what is the impact of total net charge-offs in the balance of allowance for loan and lease losses during 2014?",
+      "what about the balance of allowance for loan and lease losses as of december 31, 2014?",
+      "what proportion is related to total net charge-offs?",
+      "what is the ratio of provision for credit losses in 2014 to 2013?"
+    ]
+  }
+}

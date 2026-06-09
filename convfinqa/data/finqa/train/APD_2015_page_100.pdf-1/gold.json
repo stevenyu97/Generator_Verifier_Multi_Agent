@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the years 2021-2025 , what is the difference between the average projected benefit payments for the u.s . and international?",
+      "answer": 117.12,
+      "answer_raw": "117.12",
+      "program": "divide(917.9, const_5), divide(332.3, const_5), subtract(#0, #1)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in millions of qualified defined benefit pension plans expected payments from 2019 to 2020?",
+      "answer": 80.0,
+      "answer_raw": "80.0",
+      "program": "subtract(2560, 2480)"
+    }
+  ]
+}

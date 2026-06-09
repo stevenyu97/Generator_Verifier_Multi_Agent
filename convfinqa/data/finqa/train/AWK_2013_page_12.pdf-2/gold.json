@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average annual revenue per customer in california?",
+      "answer": 209500000.0,
+      "answer_raw": "209500000.0",
+      "program": "multiply(209.5, const_1000000)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in industry segment operating profits from 2004 to 2005?",
+      "answer": -81.0,
+      "answer_raw": "-81.0",
+      "program": "subtract(1622, 1703)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much did this change represent in relation to those profits in 2004, in percentage?",
+      "answer": -0.04756,
+      "answer_raw": "-0.04756",
+      "program": "subtract(1622, 1703), divide(#0, 1703)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and over the subsequent year, what was that change in the operating profits?",
+      "answer": 452.0,
+      "answer_raw": "452.0",
+      "program": "subtract(2074, 1622)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is this change as a percentage of the 2005 operating profits?",
+      "answer": 0.27867,
+      "answer_raw": "0.27867",
+      "program": "subtract(2074, 1622), divide(#0, 1622)"
+    }
+  ]
+}

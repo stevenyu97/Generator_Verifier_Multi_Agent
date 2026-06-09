@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "CNP/2010/page_31.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "system and to use that system to conduct its electric delivery business and for other purposes that the franchises permit .",
+      "the terms of the franchises , with various expiration dates , typically range from 30 to 50 years .",
+      "natural gas distribution cerc corp . 2019s natural gas distribution business ( gas operations ) engages in regulated intrastate natural gas sales to , and natural gas transportation for , approximately 3.3 million residential , commercial and industrial customers in arkansas , louisiana , minnesota , mississippi , oklahoma and texas .",
+      "the largest metropolitan areas served in each state by gas operations are houston , texas ; minneapolis , minnesota ; little rock , arkansas ; shreveport , louisiana ; biloxi , mississippi ; and lawton , oklahoma .",
+      "in 2010 , approximately 42% ( 42 % ) of gas operations 2019 total throughput was to residential customers and approximately 58% ( 58 % ) was to commercial and industrial customers .",
+      "the table below reflects the number of natural gas distribution customers by state as of december 31 , 2010 : residential commercial/ industrial total customers ."
+    ],
+    "post_text": [
+      "gas operations also provides unregulated services consisting of heating , ventilating and air conditioning ( hvac ) equipment and appliance repair , and sales of hvac , hearth and water heating equipment in minnesota .",
+      "the demand for intrastate natural gas sales to residential customers and natural gas sales and transportation for commercial and industrial customers is seasonal .",
+      "in 2010 , approximately 71% ( 71 % ) of the total throughput of gas operations 2019 business occurred in the first and fourth quarters .",
+      "these patterns reflect the higher demand for natural gas for heating purposes during those periods .",
+      "supply and transportation .",
+      "in 2010 , gas operations purchased virtually all of its natural gas supply pursuant to contracts with remaining terms varying from a few months to four years .",
+      "major suppliers in 2010 included bp canada energy marketing corp .",
+      "( 25.6% ( 25.6 % ) of supply volumes ) , conocophillips company ( 8.3% ( 8.3 % ) ) , tenaska marketing ventures ( 6.8% ( 6.8 % ) ) , kinder morgan ( 6.3% ( 6.3 % ) ) , oneok energy marketing company ( 4.7% ( 4.7 % ) ) , and cargill , inc .",
+      "( 4.6% ( 4.6 % ) ) .",
+      "numerous other suppliers provided the remaining 43.7% ( 43.7 % ) of gas operations 2019 natural gas supply requirements .",
+      "gas operations transports its natural gas supplies through various intrastate and interstate pipelines , including those owned by our other subsidiaries , under contracts with remaining terms , including extensions , varying from one to twelve years .",
+      "gas operations anticipates that these gas supply and transportation contracts will be renewed or replaced prior to their expiration .",
+      "gas operations actively engages in commodity price stabilization pursuant to annual gas supply plans presented to and/or filed with each of its state regulatory authorities .",
+      "these price stabilization activities include use of storage gas , contractually establishing fixed prices with our physical gas suppliers and utilizing financial derivative instruments to achieve a variety of pricing structures ( e.g. , fixed price , costless collars and caps ) .",
+      "its gas supply plans generally call for 25-50% ( 25-50 % ) of winter supplies to be hedged in some fashion .",
+      "generally , the regulations of the states in which gas operations operates allow it to pass through changes in the cost of natural gas , including gains and losses on financial derivatives associated with the index-priced physical supply , to its customers under purchased gas adjustment provisions in its tariffs .",
+      "depending upon the jurisdiction , the purchased gas adjustment factors are updated periodically , ranging from monthly to semi-annually , using estimated gas costs .",
+      "the changes in the cost of gas billed to customers are subject to review by the applicable regulatory bodies. ."
+    ],
+    "table": [
+      [
+        "",
+        "residential",
+        "commercial/industrial",
+        "total customers"
+      ],
+      [
+        "arkansas",
+        "390668",
+        "48033",
+        "438701"
+      ],
+      [
+        "louisiana",
+        "232135",
+        "17347",
+        "249482"
+      ],
+      [
+        "minnesota",
+        "738868",
+        "67489",
+        "806357"
+      ],
+      [
+        "mississippi",
+        "109608",
+        "12683",
+        "122291"
+      ],
+      [
+        "oklahoma",
+        "93388",
+        "10620",
+        "104008"
+      ],
+      [
+        "texas",
+        "1451666",
+        "90719",
+        "1542385"
+      ],
+      [
+        "total gas operations",
+        "3016333",
+        "246891",
+        "3263224"
+      ]
+    ],
+    "questions": [
+      "considering the state of minnesota , what is the percentage of commercial/industrial customers concerning the total customers?"
+    ]
+  }
+}

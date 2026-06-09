@@ -1,0 +1,54 @@
+{
+  "input": {
+    "id": "ETR/2008/page_321.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy louisiana , llc management's financial discussion and analysis entergy's utility supply plan initiative will continue to seek to transform its generation portfolio with new or repowered generation resources .",
+      "opportunities resulting from the supply plan initiative , including new projects or the exploration of alternative financing sources , could result in increases or decreases in the capital expenditure estimates given above .",
+      "the estimated capital expenditures are subject to periodic review and modification and may vary based on the ongoing effects of regulatory constraints , environmental compliance , market volatility , economic trends , business restructuring , and the ability to access capital .",
+      "management provides more information on long- term debt and preferred stock maturities in notes 5 and 6 to the financial statements .",
+      "sources of capital entergy louisiana's sources to meet its capital requirements include : internally generated funds ; cash on hand ; debt or preferred membership interest issuances ; and bank financing under new and existing facilities .",
+      "entergy louisiana may refinance or redeem debt and preferred membership interests prior to maturity , to the extent market conditions and interest and distribution rates are favorable .",
+      "all debt and common and preferred membership interest issuances by entergy louisiana require prior regulatory approval .",
+      "preferred membership interest and debt issuances are also subject to issuance tests set forth in corporate charters , bond indentures , and other agreements .",
+      "entergy louisiana has sufficient capacity under these tests to meet its foreseeable capital needs .",
+      "entergy louisiana's receivables from or ( payables to ) the money pool were as follows as of december 31 for each of the following years: ."
+    ],
+    "post_text": [
+      "see note 4 to the financial statements for a description of the money pool .",
+      "entergy louisiana has a credit facility in the amount of $ 200 million scheduled to expire in august 2012 .",
+      "no borrowings were outstanding under the credit facility as of december 31 , 2008 .",
+      "in april 2008 , entergy louisiana repurchased , prior to maturity , $ 60 million of auction rate governmental bonds , which are being held for possible remarketing at a later date .",
+      "in august 2008 , entergy louisiana issued $ 300 million of 6.50% ( 6.50 % ) series first mortgage bonds due september 2018 .",
+      "the net proceeds of the issuance will be used for capital expenditures , working capital needs , and general corporate purposes .",
+      "prior to their application , the remaining net proceeds may be invested in temporary cash investments or the entergy system money pool .",
+      "hurricane rita and hurricane katrina in august and september 2005 , hurricane katrina and hurricane rita , along with extensive flooding that resulted from levee breaks in and around entergy louisiana's service territory , caused catastrophic damage .",
+      "the storms and flooding resulted in widespread power outages ; significant damage to distribution , transmission , and generation infrastructure ; and the temporary loss of sales and customers due to mandatory evacuations and destruction of homes and businesses due to wind , rain , and extended periods of flooding .",
+      "entergy pursued a broad range of initiatives to recover storm restoration and business continuity costs and incremental losses .",
+      "initiatives included obtaining reimbursement of certain costs covered by insurance and pursuing recovery through existing or new rate mechanisms regulated by the ferc and local regulatory bodies , in combination with securitization. ."
+    ],
+    "table": [
+      [
+        "2008",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )"
+      ],
+      [
+        "$ 61236",
+        "( $ 2791 )",
+        "( $ 54041 )",
+        "( $ 68677 )"
+      ]
+    ],
+    "questions": [
+      "what is the annual interest expense for entergy louisiana incurred from the series first mortgage bonds due september 2018 , in millions?"
+    ]
+  }
+}

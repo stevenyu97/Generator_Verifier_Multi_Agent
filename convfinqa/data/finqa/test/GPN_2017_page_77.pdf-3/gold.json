@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the total amount of net tangible assets obtained through the acquisition?",
+      "answer": 62154.0,
+      "answer_raw": "62154.0",
+      "program": "subtract(265982, 203828)"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "input": {
+    "id": "ETR/2011/page_216.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "part i item 1 entergy corporation , utility operating companies , and system energy entergy new orleans provides electric and gas service in the city of new orleans pursuant to indeterminate permits set forth in city ordinances ( except electric service in algiers , which is provided by entergy louisiana ) .",
+      "these ordinances contain a continuing option for the city of new orleans to purchase entergy new orleans 2019s electric and gas utility properties .",
+      "entergy texas holds a certificate of convenience and necessity from the puct to provide electric service to areas within approximately 27 counties in eastern texas , and holds non-exclusive franchises to provide electric service in approximately 68 incorporated municipalities .",
+      "entergy texas was typically granted 50-year franchises , but recently has been receiving 25-year franchises .",
+      "entergy texas 2019s electric franchises expire during 2013-2058 .",
+      "the business of system energy is limited to wholesale power sales .",
+      "it has no distribution franchises .",
+      "property and other generation resources generating stations the total capability of the generating stations owned and leased by the utility operating companies and system energy as of december 31 , 2011 , is indicated below: ."
+    ],
+    "post_text": [
+      "( 1 ) 201cowned and leased capability 201d is the dependable load carrying capability as demonstrated under actual operating conditions based on the primary fuel ( assuming no curtailments ) that each station was designed to utilize .",
+      "the entergy system's load and capacity projections are reviewed periodically to assess the need and timing for additional generating capacity and interconnections .",
+      "these reviews consider existing and projected demand , the availability and price of power , the location of new load , and the economy .",
+      "summer peak load in the entergy system service territory has averaged 21246 mw from 2002-2011 .",
+      "in the 2002 time period , the entergy system's long-term capacity resources , allowing for an adequate reserve margin , were approximately 3000 mw less than the total capacity required for peak period demands .",
+      "in this time period the entergy system met its capacity shortages almost entirely through short-term power purchases in the wholesale spot market .",
+      "in the fall of 2002 , the entergy system began a program to add new resources to its existing generation portfolio and began a process of issuing requests for proposals ( rfp ) to procure supply-side resources from sources other than the spot market to meet the unique regional needs of the utility operating companies .",
+      "the entergy system has adopted a long-term resource strategy that calls for the bulk of capacity needs to be met through long-term resources , whether owned or contracted .",
+      "entergy refers to this strategy as the \"portfolio transformation strategy\" .",
+      "over the past nine years , portfolio transformation has resulted in the addition of about 4500 mw of new long-term resources .",
+      "these figures do not include transactions currently pending as a result of the summer 2009 rfp .",
+      "when the summer 2009 rfp transactions are included in the entergy system portfolio of long-term resources and adjusting for unit deactivations of older generation , the entergy system is approximately 500 mw short of its projected 2012 peak load plus reserve margin .",
+      "this remaining need is expected to be met through a nuclear uprate at grand gulf and limited-term resources .",
+      "the entergy system will continue to access the spot power market to economically ."
+    ],
+    "table": [
+      [
+        "company",
+        "owned and leased capability mw ( 1 ) total",
+        "owned and leased capability mw ( 1 ) gas/oil",
+        "owned and leased capability mw ( 1 ) nuclear",
+        "owned and leased capability mw ( 1 ) coal",
+        "owned and leased capability mw ( 1 ) hydro"
+      ],
+      [
+        "entergy arkansas",
+        "4774",
+        "1668",
+        "1823",
+        "1209",
+        "74"
+      ],
+      [
+        "entergy gulf states louisiana",
+        "3317",
+        "1980",
+        "974",
+        "363",
+        "-"
+      ],
+      [
+        "entergy louisiana",
+        "5424",
+        "4265",
+        "1159",
+        "-",
+        "-"
+      ],
+      [
+        "entergy mississippi",
+        "3229",
+        "2809",
+        "-",
+        "420",
+        "-"
+      ],
+      [
+        "entergy new orleans",
+        "764",
+        "764",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "entergy texas",
+        "2538",
+        "2269",
+        "-",
+        "269",
+        "-"
+      ],
+      [
+        "system energy",
+        "1071",
+        "-",
+        "1071",
+        "-",
+        "-"
+      ],
+      [
+        "total",
+        "21117",
+        "13755",
+        "5027",
+        "2261",
+        "74"
+      ]
+    ],
+    "questions": [
+      "in 2011 what was the percent of the entergy arkansas property and other generation resources generating capacity that was from coal"
+    ]
+  }
+}

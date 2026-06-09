@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "LMT/2015/page_55.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "$ 15 million for fire control programs due to increased deliveries ( primarily apache ) , partially offset by lower risk retirements ( primarily sniper ae ) .",
+      "adjustments not related to volume , including net profit booking rate adjustments and other matters , were approximately $ 95 million lower for 2014 compared to 2013 .",
+      "backlog backlog increased in 2015 compared to 2014 primarily due to higher orders on pac-3 , lantirn/sniper and certain tactical missile programs , partially offset by lower orders on thaad .",
+      "backlog decreased in 2014 compared to 2013 primarily due to lower orders on thaad and fire control systems programs , partially offset by higher orders on certain tactical missile programs and pac-3 .",
+      "trends we expect mfc 2019s net sales to be flat or experience a slight decline in 2016 as compared to 2015 .",
+      "operating profit is expected to decrease by approximately 20 percent , driven by contract mix and fewer risk retirements in 2016 compared to 2015 .",
+      "accordingly , operating profit margin is expected to decline from 2015 levels .",
+      "mission systems and training as previously described , on november 6 , 2015 , we acquired sikorsky and aligned the sikorsky business under our mst business segment .",
+      "the results of the acquired sikorsky business have been included in our financial results from the november 6 , 2015 acquisition date through december 31 , 2015 .",
+      "as a result , our consolidated operating results and mst business segment operating results for the year ended december 31 , 2015 do not reflect a full year of sikorsky operations .",
+      "our mst business segment provides design , manufacture , service and support for a variety of military and civil helicopters , ship and submarine mission and combat systems ; mission systems and sensors for rotary and fixed-wing aircraft ; sea and land-based missile defense systems ; radar systems ; the littoral combat ship ( lcs ) ; simulation and training services ; and unmanned systems and technologies .",
+      "in addition , mst supports the needs of customers in cybersecurity and delivers communication and command and control capabilities through complex mission solutions for defense applications .",
+      "mst 2019s major programs include black hawk and seahawk helicopters , aegis combat system ( aegis ) , lcs , space fence , advanced hawkeye radar system , and tpq-53 radar system .",
+      "mst 2019s operating results included the following ( in millions ) : ."
+    ],
+    "post_text": [
+      "2015 compared to 2014 mst 2019s net sales in 2015 increased $ 359 million , or 4% ( 4 % ) , compared to 2014 .",
+      "the increase was attributable to net sales of approximately $ 400 million from sikorsky , net of adjustments required to account for the acquisition of this business in the fourth quarter of 2015 ; and approximately $ 220 million for integrated warfare systems and sensors programs , primarily due to the ramp-up of recently awarded programs ( space fence ) .",
+      "these increases were partially offset by lower net sales of approximately $ 150 million for undersea systems programs due to decreased volume as a result of in-theater force reductions ( primarily persistent threat detection system ) ; and approximately $ 105 million for ship and aviation systems programs primarily due to decreased volume ( merlin capability sustainment program ) .",
+      "mst 2019s operating profit in 2015 decreased $ 92 million , or 10% ( 10 % ) , compared to 2014 .",
+      "operating profit decreased by approximately $ 75 million due to performance matters on an international program ; approximately $ 45 million for sikorsky due primarily to intangible amortization and adjustments required to account for the acquisition of this business in the fourth quarter of 2015 ; and approximately $ 15 million for integrated warfare systems and sensors programs , primarily due to investments made in connection with a recently awarded next generation radar technology program , partially offset by higher risk retirements ( including halifax class modernization ) .",
+      "these decreases were partially offset by approximately $ 20 million in increased operating profit for training and logistics services programs , primarily due to reserves recorded on certain programs in 2014 that were not repeated in 2015 .",
+      "adjustments not related to volume , including net profit booking rate adjustments and other matters , were approximately $ 100 million lower in 2015 compared to 2014. ."
+    ],
+    "table": [
+      [
+        "",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "net sales",
+        "$ 9091",
+        "$ 8732",
+        "$ 9037"
+      ],
+      [
+        "operating profit",
+        "844",
+        "936",
+        "1065"
+      ],
+      [
+        "operating margins",
+        "9.3% ( 9.3 % )",
+        "10.7% ( 10.7 % )",
+        "11.8% ( 11.8 % )"
+      ],
+      [
+        "backlog at year-end",
+        "$ 30100",
+        "$ 13300",
+        "$ 12600"
+      ]
+    ],
+    "questions": [
+      "what were average net sales for mst in millions from 2013 to 2015?"
+    ]
+  }
+}

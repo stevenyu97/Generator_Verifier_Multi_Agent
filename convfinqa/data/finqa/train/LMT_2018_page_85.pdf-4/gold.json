@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in weighted average common shares outstanding for basic computations from 2017 to 2018?",
+      "answer": -0.01147,
+      "answer_raw": "-0.01147",
+      "program": "subtract(284.5, 287.8), divide(#0, 287.8)"
+    }
+  ]
+}

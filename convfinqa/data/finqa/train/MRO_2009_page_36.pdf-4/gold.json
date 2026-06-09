@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total refined products trunk lines production in tbd for the three year period?",
+      "answer": 2962.0,
+      "answer_raw": "2962.0",
+      "program": "add(953, 960), add(#0, 1049)"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "input": {
+    "id": "JPM/2007/page_33.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "jpmorgan chase & co .",
+      "/ 2007 annual report 31 the following section provides a comparative discussion of jpmorgan chase 2019s consolidated results of operations on a reported basis for the three-year period ended december 31 , 2007 .",
+      "factors that relate primarily to a single business segment are discussed in more detail within that business segment than they are in this consolidated sec- tion .",
+      "for a discussion of the critical accounting estimates used by the firm that affect the consolidated results of operations , see pages 96 201398 of this annual report .",
+      "revenue ."
+    ],
+    "post_text": [
+      "2007 compared with 2006 total net revenue of $ 71.4 billion was up $ 9.4 billion , or 15% ( 15 % ) , from the prior year .",
+      "higher net interest income , very strong private equity gains , record asset management , administration and commissions revenue , higher mortgage fees and related income and record investment banking fees contributed to the revenue growth .",
+      "these increases were offset partially by lower trading revenue .",
+      "investment banking fees grew in 2007 to a level higher than the pre- vious record set in 2006 .",
+      "record advisory and equity underwriting fees drove the results , partially offset by lower debt underwriting fees .",
+      "for a further discussion of investment banking fees , which are primarily recorded in ib , see the ib segment results on pages 40 201342 of this annual report .",
+      "principal transactions revenue consists of trading revenue and private equity gains .",
+      "trading revenue declined significantly from the 2006 level , primarily due to markdowns in ib of $ 1.4 billion ( net of hedges ) on subprime positions , including subprime cdos , and $ 1.3 billion ( net of fees ) on leveraged lending funded loans and unfunded commitments .",
+      "also in ib , markdowns in securitized products on nonsubprime mortgages and weak credit trading performance more than offset record revenue in currencies and strong revenue in both rates and equities .",
+      "equities benefited from strong client activity and record trading results across all products .",
+      "ib 2019s credit portfolio results increased compared with the prior year , primarily driven by higher revenue from risk management activities .",
+      "the increase in private equity gains from 2006 reflected a significantly higher level of gains , the classification of certain private equity carried interest as compensation expense and a fair value adjustment in the first quarter of 2007 on nonpublic private equity investments resulting from the adoption of sfas 157 ( 201cfair value measurements 201d ) .",
+      "for a further discussion of principal transactions revenue , see the ib and corporate segment results on pages 40 201342 and 59 201360 , respectively , and note 6 on page 122 of this annual report .",
+      "lending & deposit-related fees rose from the 2006 level , driven pri- marily by higher deposit-related fees and the bank of new york transaction .",
+      "for a further discussion of lending & deposit-related fees , which are mostly recorded in rfs , tss and cb , see the rfs segment results on pages 43 201348 , the tss segment results on pages 54 201355 , and the cb segment results on pages 52 201353 of this annual report .",
+      "asset management , administration and commissions revenue reached a level higher than the previous record set in 2006 .",
+      "increased assets under management and higher performance and placement fees in am drove the record results .",
+      "the 18% ( 18 % ) growth in assets under management from year-end 2006 came from net asset inflows and market appreciation across all segments : institutional , retail , private bank and private client services .",
+      "tss also contributed to the rise in asset management , administration and commissions revenue , driven by increased product usage by new and existing clients and market appreciation on assets under custody .",
+      "finally , commissions revenue increased , due mainly to higher brokerage transaction volume ( primarily included within fixed income and equity markets revenue of ib ) , which more than offset the sale of the insurance business by rfs in the third quarter of 2006 and a charge in the first quarter of 2007 resulting from accelerated surrenders of customer annuities .",
+      "for additional information on these fees and commissions , see the segment discussions for ib on pages 40 201342 , rfs on pages 43 201348 , tss on pages 54 201355 , and am on pages 56 201358 , of this annual report .",
+      "the favorable variance resulting from securities gains in 2007 compared with securities losses in 2006 was primarily driven by improvements in the results of repositioning of the treasury invest- ment securities portfolio .",
+      "also contributing to the positive variance was a $ 234 million gain from the sale of mastercard shares .",
+      "for a fur- ther discussion of securities gains ( losses ) , which are mostly recorded in the firm 2019s treasury business , see the corporate segment discussion on pages 59 201360 of this annual report .",
+      "consol idated results of operat ions ."
+    ],
+    "table": [
+      [
+        "year ended december 31 ( in millions )",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "investment banking fees",
+        "$ 6635",
+        "$ 5520",
+        "$ 4088"
+      ],
+      [
+        "principal transactions",
+        "9015",
+        "10778",
+        "8072"
+      ],
+      [
+        "lending & deposit-related fees",
+        "3938",
+        "3468",
+        "3389"
+      ],
+      [
+        "asset management administration and commissions",
+        "14356",
+        "11855",
+        "9988"
+      ],
+      [
+        "securities gains ( losses )",
+        "164",
+        "-543 ( 543 )",
+        "-1336 ( 1336 )"
+      ],
+      [
+        "mortgage fees and related income",
+        "2118",
+        "591",
+        "1054"
+      ],
+      [
+        "credit card income",
+        "6911",
+        "6913",
+        "6754"
+      ],
+      [
+        "other income",
+        "1829",
+        "2175",
+        "2684"
+      ],
+      [
+        "noninterest revenue",
+        "44966",
+        "40757",
+        "34693"
+      ],
+      [
+        "net interest income",
+        "26406",
+        "21242",
+        "19555"
+      ],
+      [
+        "total net revenue",
+        "$ 71372",
+        "$ 61999",
+        "$ 54248"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in investment banking fees from 2005 to 2006?"
+    ]
+  }
+}

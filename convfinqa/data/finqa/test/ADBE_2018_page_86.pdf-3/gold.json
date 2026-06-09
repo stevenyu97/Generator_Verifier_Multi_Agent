@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in total gross amount of unrecognized tax benefits from 2016 to 2017?",
+      "answer": -0.03065,
+      "answer_raw": "-0.03065",
+      "program": "subtract(172945, 178413), divide(#0, 178413)"
+    }
+  ]
+}

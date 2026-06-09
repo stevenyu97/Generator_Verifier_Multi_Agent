@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the number of facilities located in the united states?",
+      "answer": 41.0,
+      "answer_raw": "41.0",
+      "program": "add(40, 1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does that number represent in relation to the total number of facilities?",
+      "answer": 0.4881,
+      "answer_raw": "0.4881",
+      "program": "add(40, 1), divide(#0, 84)"
+    }
+  ]
+}

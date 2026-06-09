@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in research and development costs between 2002 and 2003?",
+      "answer": 0.13816,
+      "answer_raw": "0.13816",
+      "program": "subtract(34.6, 30.4), divide(#0, 30.4)"
+    }
+  ]
+}

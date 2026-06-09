@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the roi of an investment in s&p500 from 2014 to 2016?",
+      "answer": 0.09028,
+      "answer_raw": "0.09028",
+      "program": "subtract(157, 144), divide(#0, 144)"
+    }
+  ]
+}

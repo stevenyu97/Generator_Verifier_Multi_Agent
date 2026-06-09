@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "PNC/2011/page_206.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "whether or not any claims asserted against us or others to whom we may have indemnification obligations , whether in the proceedings or other matters described above or otherwise , will have a material adverse effect on our results of operations in any future reporting period , which will depend on , among other things , the amount of the loss resulting from the claim and the amount of income otherwise reported for the reporting period .",
+      "see note 23 commitments and guarantees for additional information regarding the visa indemnification and our other obligations to provide indemnification , including to current and former officers , directors , employees and agents of pnc and companies we have acquired , including national city .",
+      "note 23 commitments and guarantees equity funding and other commitments our unfunded commitments at december 31 , 2011 included private equity investments of $ 247 million , and other investments of $ 3 million .",
+      "standby letters of credit we issue standby letters of credit and have risk participations in standby letters of credit and bankers 2019 acceptances issued by other financial institutions , in each case to support obligations of our customers to third parties , such as remarketing programs for customers 2019 variable rate demand notes .",
+      "net outstanding standby letters of credit and internal credit ratings were as follows : net outstanding standby letters of credit dollars in billions december 31 december 31 ."
+    ],
+    "post_text": [
+      "( a ) indicates that expected risk of loss is currently low .",
+      "( b ) indicates a higher degree of risk of default .",
+      "if the customer fails to meet its financial or performance obligation to the third party under the terms of the contract or there is a need to support a remarketing program , then upon the request of the guaranteed party , we would be obligated to make payment to them .",
+      "the standby letters of credit and risk participations in standby letters of credit and bankers 2019 acceptances outstanding on december 31 , 2011 had terms ranging from less than 1 year to 7 years .",
+      "the aggregate maximum amount of future payments pnc could be required to make under outstanding standby letters of credit and risk participations in standby letters of credit and bankers 2019 acceptances was $ 14.4 billion at december 31 , 2011 , of which $ 7.4 billion support remarketing programs .",
+      "as of december 31 , 2011 , assets of $ 2.0 billion secured certain specifically identified standby letters of credit .",
+      "recourse provisions from third parties of $ 3.6 billion were also available for this purpose as of december 31 , 2011 .",
+      "in addition , a portion of the remaining standby letters of credit and letter of credit risk participations issued on behalf of specific customers is also secured by collateral or guarantees that secure the customers 2019 other obligations to us .",
+      "the carrying amount of the liability for our obligations related to standby letters of credit and risk participations in standby letters of credit and bankers 2019 acceptances was $ 247 million at december 31 , 2011 .",
+      "standby bond purchase agreements and other liquidity facilities we enter into standby bond purchase agreements to support municipal bond obligations .",
+      "at december 31 , 2011 , the aggregate of our commitments under these facilities was $ 543 million .",
+      "we also enter into certain other liquidity facilities to support individual pools of receivables acquired by commercial paper conduits .",
+      "at december 31 , 2011 , our total commitments under these facilities were $ 199 million .",
+      "indemnifications we are a party to numerous acquisition or divestiture agreements under which we have purchased or sold , or agreed to purchase or sell , various types of assets .",
+      "these agreements can cover the purchase or sale of : 2022 entire businesses , 2022 loan portfolios , 2022 branch banks , 2022 partial interests in companies , or 2022 other types of assets .",
+      "these agreements generally include indemnification provisions under which we indemnify the third parties to these agreements against a variety of risks to the indemnified parties as a result of the transaction in question .",
+      "when pnc is the seller , the indemnification provisions will generally also provide the buyer with protection relating to the quality of the assets we are selling and the extent of any liabilities being assumed by the buyer .",
+      "due to the nature of these indemnification provisions , we cannot quantify the total potential exposure to us resulting from them .",
+      "we provide indemnification in connection with securities offering transactions in which we are involved .",
+      "when we are the issuer of the securities , we provide indemnification to the underwriters or placement agents analogous to the indemnification provided to the purchasers of businesses from us , as described above .",
+      "when we are an underwriter or placement agent , we provide a limited indemnification to the issuer related to our actions in connection with the offering and , if there are other underwriters , indemnification to the other underwriters intended to result in an appropriate sharing of the risk of participating in the offering .",
+      "due to the nature of these indemnification provisions , we cannot quantify the total potential exposure to us resulting from them .",
+      "in the ordinary course of business , we enter into certain types of agreements that include provisions for indemnifying third the pnc financial services group , inc .",
+      "2013 form 10-k 197 ."
+    ],
+    "table": [
+      [
+        "dollars in billions",
+        "december 31 2011",
+        "december 312010"
+      ],
+      [
+        "net outstanding standby letters of credit",
+        "$ 10.8",
+        "$ 10.1"
+      ],
+      [
+        "internal credit ratings ( as a percentage of portfolio ) :",
+        "",
+        ""
+      ],
+      [
+        "pass ( a )",
+        "94% ( 94 % )",
+        "90% ( 90 % )"
+      ],
+      [
+        "below pass ( b )",
+        "6% ( 6 % )",
+        "10% ( 10 % )"
+      ]
+    ],
+    "questions": [
+      "for the standby letters of credit , risk participations in standby letters of credit , and bankers 2019 acceptances outstanding on december 31 , 2011 , what was the difference between the minimum and maximum term in years?"
+    ]
+  }
+}

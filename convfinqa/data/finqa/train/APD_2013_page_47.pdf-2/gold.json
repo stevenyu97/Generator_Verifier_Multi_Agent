@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the depreciation expense with the production facilities within the electronics and performance materials segment accumulated in 10 years?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "multiply(10, 10)"
+    }
+  ]
+}

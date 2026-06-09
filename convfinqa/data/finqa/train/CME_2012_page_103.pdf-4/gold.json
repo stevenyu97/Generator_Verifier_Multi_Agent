@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the balance of non-controlling interests from 2010 to 2011?",
+      "answer": 0.03231,
+      "answer_raw": "0.03231",
+      "program": "subtract(70.3, 68.1), divide(#0, 68.1)"
+    }
+  ]
+}

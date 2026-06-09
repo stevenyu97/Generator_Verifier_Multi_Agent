@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the future future minimum payments under non-cancelable operating leases is due in the next 12 months?",
+      "answer": 0.17895,
+      "answer_raw": "0.17895",
+      "program": "divide(9127, 51004)"
+    }
+  ]
+}

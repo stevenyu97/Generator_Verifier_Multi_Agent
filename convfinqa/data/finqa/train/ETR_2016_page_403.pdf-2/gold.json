@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the maximum target authorized return on common equity under the formula rate plan?",
+      "answer": 10.35,
+      "answer_raw": "10.35",
+      "program": "divide(40, const_100), add(#0, 9.95)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2003 , what was the percent of the total cash obligations for aggregate principal payments of long-term debt maturities was due in 2005",
+      "answer": 0.03435,
+      "answer_raw": "0.03435",
+      "program": "divide(115444, 3361225)"
+    }
+  ]
+}

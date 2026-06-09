@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the rate of increase in 2007 shareholder dividends paid?",
+      "answer": 2.11282,
+      "answer_raw": "2.11282",
+      "program": "subtract(121.4, 39.0), divide(#0, 39.0)"
+    }
+  ]
+}

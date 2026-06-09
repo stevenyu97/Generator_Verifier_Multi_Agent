@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on a 365 day year and the average sales price per barrel listed above , what was the total refined product sales revenue for 2006?",
+      "answer": 40444920.0,
+      "answer_raw": "40444920.0",
+      "program": "multiply(1425, 77.76), multiply(#0, 365)"
+    }
+  ]
+}

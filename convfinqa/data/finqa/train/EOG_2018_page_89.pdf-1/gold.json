@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the increase observed in the liabilities incurred during 2017 and 2018?",
+      "answer": 0.44359,
+      "answer_raw": "0.44359",
+      "program": "divide(79057, 54764), subtract(#0, 1)"
+    }
+  ]
+}

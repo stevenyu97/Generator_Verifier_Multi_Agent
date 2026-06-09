@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the goodwill value from oneok partners?",
+      "answer": 431418.0,
+      "answer_raw": "431418.0",
+      "program": "431418"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the total goodwill?",
+      "answer": 600725.0,
+      "answer_raw": "600725.0",
+      "program": "600725"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what proportion of total goodwill is related to oneok partners?",
+      "answer": 0.71816,
+      "answer_raw": "0.71816",
+      "program": "divide(431418, 600725)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about the goodwill value from energy services?",
+      "answer": 10255.0,
+      "answer_raw": "10255.0",
+      "program": "10255"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what portion of total goodwill is related to energy services?",
+      "answer": 0.01707,
+      "answer_raw": "0.01707",
+      "program": "divide(10255, 600725)"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "input": {
+    "id": "Single_ADI/2019/page_71.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "expected durations of less than one year .",
+      "the company generally offers a twelve-month warranty for its products .",
+      "the company 2019s warranty policy provides for replacement of defective products .",
+      "specific accruals are recorded forff known product warranty issues .",
+      "transaction price : the transaction price reflects the company 2019s expectations about the consideration it will be entitled to receive from the customer and may include fixed or variable amounts .",
+      "fixed consideration primarily includes sales to direct customers and sales to distributors in which both the sale to the distributor and the sale to the end customer occur within the same reporting period .",
+      "variable consideration includes sales in which the amount of consideration that the company will receive is unknown as of the end of a reporting period .",
+      "such consideration primarily includes credits issued to the distributor due to price protection and sales made to distributors under agreements that allow certain rights of return , referred to as stock rotation .",
+      "price protection represents price discounts granted to certain distributors to allow the distributor to earn an appropriate margin on sales negotiated with certain customers and in the event of a price decrease subsequent to the date the product was shipped and billed to the distributor .",
+      "stock rotation allows distributors limited levels of returns in order to reduce the amounts of slow-moving , discontinued or obsolete product from their inventory .",
+      "a liability for distributor credits covering variable consideration is made based on the company's estimate of historical experience rates as well as considering economic conditions and contractual terms .",
+      "to date , actual distributor claims activity has been materially consistent with the provisions the company has made based on its historical estimates .",
+      "for the years ended november 2 , 2019 and november 3 , 2018 , sales to distributors were $ 3.4 billion in both periods , net of variable consideration for which the liability balances as of november 2 , 2019 and november 3 , 2018 were $ 227.0 million and $ 144.9 million , respectively .",
+      "contract balances : accounts receivable represents the company 2019s unconditional right to receive consideration from its customers .",
+      "payments are typically due within 30 to 45 days of invoicing and do not include a significant financing component .",
+      "to date , there have been no material impairment losses on accounts receivable .",
+      "there were no material contract assets or contract liabilities recorded on the consolidated balance sheets in any of the periods presented .",
+      "the company generally warrants that products will meet their published specifications and that the company will repair or replace defective products for twelve-months from the date title passes to the customer .",
+      "specific accruals are recorded for known product warranty issues .",
+      "product warranty expenses during fiscal 2019 , fiscal 2018 and fiscal 2017 were not material .",
+      "o .",
+      "accumulated other compcc rehensive ( loss ) income accumulated other comprehensive ( loss ) income ( aoci ) includes certain transactions that have generally been reported in the consolidated statement of shareholders 2019 equity .",
+      "the components of aoci at november 2 , 2019 and november 3 , 2018 consisted of the following , net of tax : foreign currency translation adjustment unrealized holding gains ( losses ) on available for sale securities unrealized holding ( losses ) on derivatives pension plans total ."
+    ],
+    "post_text": [
+      "november 2 , 2019 $ ( 30076 ) $ 2014 $ ( 118015 ) $ ( 39708 ) $ ( 187799 ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) analog devices , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) ."
+    ],
+    "table": [
+      [
+        "",
+        "foreign currency translation adjustment",
+        "unrealized holding gains ( losses ) on available for sale securities",
+        "unrealized holding gains ( losses ) on derivatives",
+        "pension plans",
+        "total"
+      ],
+      [
+        "november 3 2018",
+        "$ -28711 ( 28711 )",
+        "$ -10 ( 10 )",
+        "$ -14355 ( 14355 )",
+        "$ -15364 ( 15364 )",
+        "$ -58440 ( 58440 )"
+      ],
+      [
+        "other comprehensive ( loss ) income before reclassifications",
+        "-1365 ( 1365 )",
+        "10",
+        "-140728 ( 140728 )",
+        "-31082 ( 31082 )",
+        "-173165 ( 173165 )"
+      ],
+      [
+        "amounts reclassified out of other comprehensive loss",
+        "2014",
+        "2014",
+        "9185",
+        "1004",
+        "10189"
+      ],
+      [
+        "tax effects",
+        "2014",
+        "2014",
+        "27883",
+        "5734",
+        "33617"
+      ],
+      [
+        "other comprehensive ( loss ) income",
+        "-1365 ( 1365 )",
+        "10",
+        "-103660 ( 103660 )",
+        "-24344 ( 24344 )",
+        "-129359 ( 129359 )"
+      ],
+      [
+        "november 2 2019",
+        "$ -30076 ( 30076 )",
+        "$ 2014",
+        "$ -118015 ( 118015 )",
+        "$ -39708 ( 39708 )",
+        "$ -187799 ( 187799 )"
+      ]
+    ],
+    "questions": [
+      "what is the liability balance in 2019?",
+      "what about in 2018?",
+      "what is the net change?",
+      "what percentage change does this represent?"
+    ]
+  }
+}

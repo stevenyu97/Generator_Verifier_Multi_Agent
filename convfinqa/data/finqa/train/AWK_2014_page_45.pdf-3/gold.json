@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the growth rate in diluted earnings per share from 2013 to 2014?",
+      "answer": 0.29,
+      "answer_raw": "0.29",
+      "program": "subtract(2.35, 2.06)"
+    }
+  ]
+}

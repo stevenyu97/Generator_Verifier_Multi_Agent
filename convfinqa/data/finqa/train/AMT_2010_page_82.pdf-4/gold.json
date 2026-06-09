@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the balance of allowances from 2008 to 2009?",
+      "answer": 1.48389,
+      "answer_raw": "1.48389",
+      "program": "subtract(28520, 11482), divide(#0, 11482)"
+    }
+  ]
+}

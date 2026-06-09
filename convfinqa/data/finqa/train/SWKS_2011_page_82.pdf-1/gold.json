@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the total contractual payment obligations that was associated with operating lease obligations",
+      "answer": 0.2023,
+      "answer_raw": "0.2023",
+      "program": "divide(37788, 186792)"
+    }
+  ]
+}

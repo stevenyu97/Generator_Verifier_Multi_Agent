@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of the labor-related deemed claim to the other fees",
+      "answer": 10.19412,
+      "answer_raw": "10.19412",
+      "program": "divide(1733, 170)"
+    }
+  ]
+}

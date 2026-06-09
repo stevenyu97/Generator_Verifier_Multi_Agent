@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "SLG/2013/page_133.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "during the years ended december 31 , 2013 , 2012 , and 2011 , we recognized approximately $ 6.5 million , $ 5.1 million and $ 4.7 million of compensation expense , respectively , for these options .",
+      "as of december 31 , 2013 , there was approximately $ 20.3 million of total unrecognized compensation cost related to unvested stock options , which is expected to be recognized over a weighted average period of three years .",
+      "stock-based compensation effective january 1 , 1999 , we implemented a deferred compensation plan , or the deferred plan , covering certain of our employees , including our executives .",
+      "the shares issued under the deferred plan were granted to certain employees , including our executives and vesting will occur annually upon the completion of a service period or our meeting established financial performance criteria .",
+      "annual vesting occurs at rates ranging from 15% ( 15 % ) to 35% ( 35 % ) once performance criteria are reached .",
+      "a summary of our restricted stock as of december 31 , 2013 , 2012 and 2011 and charges during the years then ended are presented below: ."
+    ],
+    "post_text": [
+      "weighted average fair value of restricted stock granted during the year $ 17386949 $ 7023942 $ 21768084 the fair value of restricted stock that vested during the years ended december 31 , 2013 , 2012 and 2011 was $ 1.6 million , $ 22.4 million and $ 4.3 million , respectively .",
+      "as of december 31 , 2013 , there was $ 17.8 million of total unrecognized compensation cost related to unvested restricted stock , which is expected to be recognized over a weighted average period of approximately 2.7 years .",
+      "for the years ended december 31 , 2013 , 2012 and 2011 , approximately $ 4.5 million , $ 4.1 million and $ 3.4 million , respectively , was capitalized to assets associated with compensation expense related to our long-term compensation plans , restricted stock and stock options .",
+      "we granted ltip units , which include bonus , time-based and performance based awards , with a fair value of $ 27.1 million , zero and $ 8.5 million as of 2013 , 2012 and 2011 , respectively .",
+      "the grant date fair value of the ltip unit awards was calculated in accordance with asc 718 .",
+      "a third party consultant determined the fair value of the ltip units to have a discount from sl green's common stock price .",
+      "the discount was calculated by considering the inherent uncertainty that the ltip units will reach parity with other common partnership units and the illiquidity due to transfer restrictions .",
+      "as of december 31 , 2013 , there was $ 5.0 million of total unrecognized compensation expense related to the time-based and performance based awards , which is expected to be recognized over a weighted average period of approximately 1.5 years .",
+      "during the years ended december 31 , 2013 , 2012 and 2011 , we recorded compensation expense related to bonus , time-based and performance based awards of approximately $ 27.3 million , $ 12.6 million and $ 8.5 million , respectively .",
+      "2010 notional unit long-term compensation plan in december 2009 , the compensation committee of the company's board of directors approved the general terms of the sl green realty corp .",
+      "2010 notional unit long-term compensation program , or the 2010 long-term compensation plan .",
+      "the 2010 long-term compensation plan is a long-term incentive compensation plan pursuant to which award recipients could earn , in the aggregate , from approximately $ 15.0 million up to approximately $ 75.0 million of ltip units in the operating partnership based on our stock price appreciation over three years beginning on december 1 , 2009 ; provided that , if maximum performance had been achieved , approximately $ 25.0 million of awards could be earned at any time after the beginning of the second year and an additional approximately $ 25.0 million of awards could be earned at any time after the beginning of the third year .",
+      "in order to achieve maximum performance under the 2010 long-term compensation plan , our aggregate stock price appreciation during the performance period had to equal or exceed 50% ( 50 % ) .",
+      "the compensation committee determined that maximum performance had been achieved at or shortly after the beginning of each of the second and third years of the performance period and for the full performance period and , accordingly , 366815 ltip units , 385583 ltip units and 327416 ltip units were earned under the 2010 long-term compensation plan in december 2010 , 2011 and 2012 , respectively .",
+      "substantially in accordance with the original terms of the program , 50% ( 50 % ) of these ltip units vested on december 17 , 2012 ( accelerated from the original january 1 , 2013 vesting date ) , 25% ( 25 % ) of these ltip units vested on december 11 , 2013 ( accelerated from the original january 1 , 2014 vesting date ) and the remainder is scheduled to vest on january 1 , 2015 based on ."
+    ],
+    "table": [
+      [
+        "",
+        "2013",
+        "2012",
+        "2011"
+      ],
+      [
+        "balance at beginning of year",
+        "2804901",
+        "2912456",
+        "2728290"
+      ],
+      [
+        "granted",
+        "192563",
+        "92729",
+        "185333"
+      ],
+      [
+        "cancelled",
+        "-3267 ( 3267 )",
+        "-200284 ( 200284 )",
+        "-1167 ( 1167 )"
+      ],
+      [
+        "balance at end of year",
+        "2994197",
+        "2804901",
+        "2912456"
+      ],
+      [
+        "vested during the year",
+        "21074",
+        "408800",
+        "66299"
+      ],
+      [
+        "compensation expense recorded",
+        "$ 6713155",
+        "$ 6930381",
+        "$ 17365401"
+      ],
+      [
+        "weighted average fair value of restricted stock granted during the year",
+        "$ 17386949",
+        "$ 7023942",
+        "$ 21768084"
+      ]
+    ],
+    "questions": [
+      "what was the increase in the shares granted from 2012 to 2013"
+    ]
+  }
+}

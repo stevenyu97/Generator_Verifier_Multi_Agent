@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the performance shares granted as a percent of the total number of granted shares in 2010?",
+      "answer": 0.0076,
+      "answer_raw": "0.0076",
+      "program": "divide(1020, 134245)"
+    }
+  ]
+}

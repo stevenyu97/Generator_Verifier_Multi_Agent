@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the long-term debt is reported under the current liabilities section of the balance sheet as of 9/28/08?",
+      "answer": 0.01748,
+      "answer_raw": "0.01748",
+      "program": "divide(38480, 2200900)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what portion of the total contractual obligations are due within the next year?",
+      "answer": 0.05793,
+      "answer_raw": "0.05793",
+      "program": "divide(156571, 2702687)"
+    }
+  ]
+}

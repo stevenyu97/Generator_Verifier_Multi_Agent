@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the increase in value of an investment in delphi automotive plc from 2011 to 2013?",
+      "answer": 185.81,
+      "answer_raw": "185.81",
+      "program": "subtract(285.81, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what return rate does this represent?",
+      "answer": 1.8581,
+      "answer_raw": "1.8581",
+      "program": "subtract(285.81, const_100), divide(#0, const_100)"
+    }
+  ]
+}

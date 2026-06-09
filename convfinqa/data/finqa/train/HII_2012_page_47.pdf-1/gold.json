@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net increase in total assets during the 5 year period ?",
+      "answer": 1571000000.0,
+      "answer_raw": "1571000000.0",
+      "program": "subtract(6392, 4821), multiply(#0, const_1000000)"
+    }
+  ]
+}

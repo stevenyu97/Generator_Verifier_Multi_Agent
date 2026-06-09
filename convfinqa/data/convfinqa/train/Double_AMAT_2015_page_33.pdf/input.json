@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "Double_AMAT/2015/page_33.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "performance graph the performance graph below shows the five-year cumulative total stockholder return on applied common stock during the period from october 31 , 2010 through october 25 , 2015 .",
+      "this is compared with the cumulative total return of the standard & poor 2019s 500 stock index and the rdg semiconductor composite index over the same period .",
+      "the comparison assumes $ 100 was invested on october 31 , 2010 in applied common stock and in each of the foregoing indices and assumes reinvestment of dividends , if any .",
+      "dollar amounts in the graph are rounded to the nearest whole dollar .",
+      "the performance shown in the graph represents past performance and should not be considered an indication of future performance .",
+      "comparison of 5 year cumulative total return* among applied materials , inc. , the s&p 500 index and the rdg semiconductor composite index *assumes $ 100 invested on 10/31/10 in stock or index , including reinvestment of dividends .",
+      "indexes calculated on month-end basis .",
+      "201cs&p 201d is a registered trademark of standard & poor 2019s financial services llc , a subsidiary of the mcgraw-hill companies , inc. ."
+    ],
+    "post_text": [
+      "dividends during each of fiscal 2015 and 2014 , applied's board of directors declared four quarterly cash dividends of $ 0.10 per share .",
+      "during fiscal 2013 , applied 2019s board of directors declared three quarterly cash dividends of $ 0.10 per share and one quarterly cash dividend of $ 0.09 per share .",
+      "dividends paid during fiscal 2015 , 2014 and 2013 amounted to $ 487 million , $ 485 million and $ 456 million , respectively .",
+      "applied currently anticipates that cash dividends will continue to be paid on a quarterly basis , although the declaration of any future cash dividend is at the discretion of the board of directors and will depend on applied 2019s financial condition , results of operations , capital requirements , business conditions and other factors , as well as a determination by the board of directors that cash dividends are in the best interests of applied 2019s stockholders .",
+      "104 136 10/31/10 10/30/11 10/28/12 10/27/13 10/26/14 10/25/15 applied materials , inc .",
+      "s&p 500 rdg semiconductor composite ."
+    ],
+    "table": [
+      [
+        "",
+        "10/31/2010",
+        "10/30/2011",
+        "10/28/2012",
+        "10/27/2013",
+        "10/26/2014",
+        "10/25/2015"
+      ],
+      [
+        "applied materials",
+        "100.00",
+        "104.54",
+        "90.88",
+        "155.43",
+        "188.13",
+        "150.26"
+      ],
+      [
+        "s&p 500 index",
+        "100.00",
+        "108.09",
+        "124.52",
+        "158.36",
+        "185.71",
+        "195.37"
+      ],
+      [
+        "rdg semiconductor composite index",
+        "100.00",
+        "110.04",
+        "104.07",
+        "136.15",
+        "172.41",
+        "170.40"
+      ]
+    ],
+    "questions": [
+      "what is the net change in value of an investment in s&p500 from 2010 to 2011?",
+      "what is the initial value?",
+      "what rate of return does this represent?",
+      "what is the quarterly cash dividends for the first three quarters?",
+      "what about the fourth quarter?",
+      "what is the total dividends in 2013?",
+      "how many shares received this dividend in 2013?"
+    ]
+  }
+}

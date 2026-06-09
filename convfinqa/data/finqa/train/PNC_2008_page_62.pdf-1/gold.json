@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the expected long-term return on plan assets for determining net periodic pension cost in 2008 compared to 2007?",
+      "answer": 0.0,
+      "answer_raw": "0.0",
+      "program": "subtract(8.25, 8.25)"
+    }
+  ]
+}

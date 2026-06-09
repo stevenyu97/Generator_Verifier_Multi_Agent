@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the operating profit for the americas as a percentage of net sales in 2003?",
+      "answer": 51.2,
+      "answer_raw": "51.2",
+      "program": "51.2"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2001?",
+      "answer": 47.4,
+      "answer_raw": "47.4",
+      "program": "47.4"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "by what amount, then, did it change over the years?",
+      "answer": 3.8,
+      "answer_raw": "3.8",
+      "program": "subtract(51.2, 47.4)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was this change but for the operating profit for europe as a percentage of net sales, in the same period?",
+      "answer": 6.8,
+      "answer_raw": "6.8",
+      "program": "subtract(26.3, 19.5)"
+    }
+  ]
+}

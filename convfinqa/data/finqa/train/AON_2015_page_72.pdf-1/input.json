@@ -1,0 +1,132 @@
+{
+  "input": {
+    "id": "AON/2015/page_72.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "6 .",
+      "debt the following is a summary of outstanding debt ( in millions ) : ."
+    ],
+    "post_text": [
+      "revolving credit facilities as of december 31 , 2015 , aon plc had two committed credit facilities outstanding : its $ 400 million u.s .",
+      "credit facility expiring in march 2017 ( the \"2017 facility\" ) and $ 900 million multi-currency u.s .",
+      "credit facility expiring in february 2020 ( the \"2020 facility\" ) .",
+      "the 2020 facility was entered into on february 2 , 2015 and replaced the previous 20ac650 million european credit facility .",
+      "effective february 2 , 2016 , the 2020 facility terms were extended for 1 year and will expire in february 2021 .",
+      "each of these facilities included customary representations , warranties and covenants , including financial covenants that require aon plc to maintain specified ratios of adjusted consolidated ebitda to consolidated interest expense and consolidated debt to adjusted consolidated ebitda , in each case , tested quarterly .",
+      "at december 31 , 2015 , aon plc did not have borrowings under either the 2017 facility or the 2020 facility , and was in compliance with these financial covenants and all other covenants contained therein during the twelve months ended december 31 , 2015 .",
+      "on november 13 , 2015 , aon plc issued $ 400 million of 2.80% ( 2.80 % ) senior notes due march 2021 .",
+      "we used the proceeds of the issuance for general corporate purposes .",
+      "on september 30 , 2015 , $ 600 million of 3.50% ( 3.50 % ) senior notes issued by aon corporation matured and were repaid .",
+      "on may 20 , 2015 , the aon plc issued $ 600 million of 4.750% ( 4.750 % ) senior notes due may 2045 .",
+      "the company used the proceeds of the issuance for general corporate purposes .",
+      "on august 12 , 2014 , aon plc issued $ 350 million of 3.50% ( 3.50 % ) senior notes due june 2024 .",
+      "the 3.50% ( 3.50 % ) notes due 2024 constitute a further issuance of , and were consolidated to form a single series of debt securities with , the $ 250 million of 3.50% ( 3.50 % ) notes due june 2024 that was issued by aon plc on may 20 , 2014 concurrently with aon plc's issuance of $ 550 million of 4.60% ( 4.60 % ) notes due june 2044 .",
+      "aon plc used the proceeds from these issuances for working capital and general corporate purposes. ."
+    ],
+    "table": [
+      [
+        "as of december 31",
+        "2015",
+        "2014"
+      ],
+      [
+        "5.00% ( 5.00 % ) senior notes due september 2020",
+        "599",
+        "599"
+      ],
+      [
+        "4.75% ( 4.75 % ) senior notes due 2045",
+        "598",
+        "2014"
+      ],
+      [
+        "3.50% ( 3.50 % ) senior notes due june 2024",
+        "597",
+        "597"
+      ],
+      [
+        "4.60% ( 4.60 % ) senior notes due june 2044",
+        "549",
+        "549"
+      ],
+      [
+        "2.875% ( 2.875 % ) senior notes due may 2026 ( eur 500m )",
+        "545",
+        "605"
+      ],
+      [
+        "8.205% ( 8.205 % ) junior subordinated notes due january 2027",
+        "521",
+        "521"
+      ],
+      [
+        "3.125% ( 3.125 % ) senior notes due may 2016",
+        "500",
+        "500"
+      ],
+      [
+        "2.80% ( 2.80 % ) senior notes due 2021",
+        "399",
+        "2014"
+      ],
+      [
+        "4.00% ( 4.00 % ) senior notes due november 2023",
+        "349",
+        "349"
+      ],
+      [
+        "6.25% ( 6.25 % ) senior notes due september 2040",
+        "298",
+        "298"
+      ],
+      [
+        "4.76% ( 4.76 % ) senior notes due march 2018 ( cad 375m )",
+        "271",
+        "322"
+      ],
+      [
+        "4.45% ( 4.45 % ) senior notes due may 2043",
+        "249",
+        "248"
+      ],
+      [
+        "4.25% ( 4.25 % ) senior notes due december 2042",
+        "196",
+        "196"
+      ],
+      [
+        "3.50% ( 3.50 % ) senior notes due september 2015",
+        "2014",
+        "599"
+      ],
+      [
+        "commercial paper",
+        "50",
+        "168"
+      ],
+      [
+        "other",
+        "16",
+        "31"
+      ],
+      [
+        "total debt",
+        "5737",
+        "5582"
+      ],
+      [
+        "less short-term and current portion of long-term debt",
+        "562",
+        "783"
+      ],
+      [
+        "total long-term debt",
+        "$ 5175",
+        "$ 4799"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in total debt in 2015?"
+    ]
+  }
+}

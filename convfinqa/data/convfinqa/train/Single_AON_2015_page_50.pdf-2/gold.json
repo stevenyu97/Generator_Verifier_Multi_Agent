@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total unrecognized prior service cost ( income ) at december 31 , 2015 for both the us and the uk, combined?",
+      "answer": 55.0,
+      "answer_raw": "55.0",
+      "program": "add(9, 46)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does the unrecognized prior service cost ( income ) for other plans represent in relation to this total?",
+      "answer": 0.12727,
+      "answer_raw": "0.12727",
+      "program": "add(9, 46), divide(7, #0)"
+    }
+  ]
+}

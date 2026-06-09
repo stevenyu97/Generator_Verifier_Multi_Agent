@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total material obligations and commitments as of december 31 , 2012 are operating leases?",
+      "answer": 0.16462,
+      "answer_raw": "0.16462",
+      "program": "divide(4241, 25763)"
+    }
+  ]
+}

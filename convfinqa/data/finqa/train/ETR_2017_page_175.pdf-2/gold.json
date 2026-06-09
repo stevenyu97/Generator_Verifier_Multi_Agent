@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total future minimum lease payments is dedicated to interest payments?",
+      "answer": 0.8948,
+      "answer_raw": "0.8948",
+      "program": "divide(292209, 326565)"
+    }
+  ]
+}

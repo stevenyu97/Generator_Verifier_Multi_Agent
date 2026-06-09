@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "PNC/2009/page_31.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "consolidated income statement review net income for 2009 was $ 2.4 billion and for 2008 was $ 914 million .",
+      "amounts for 2009 include operating results of national city and the fourth quarter impact of a $ 687 million after-tax gain related to blackrock 2019s acquisition of bgi .",
+      "increases in income statement comparisons to 2008 , except as noted , are primarily due to the operating results of national city .",
+      "our consolidated income statement is presented in item 8 of this report .",
+      "net interest income and net interest margin year ended december 31 dollars in millions 2009 2008 ."
+    ],
+    "post_text": [
+      "changes in net interest income and margin result from the interaction of the volume and composition of interest-earning assets and related yields , interest-bearing liabilities and related rates paid , and noninterest-bearing sources of funding .",
+      "see statistical information 2013 analysis of year-to-year changes in net interest ( unaudited ) income and average consolidated balance sheet and net interest analysis in item 8 of this report for additional information .",
+      "higher net interest income for 2009 compared with 2008 reflected the increase in average interest-earning assets due to national city and the improvement in the net interest margin .",
+      "the net interest margin was 3.82% ( 3.82 % ) for 2009 and 3.37% ( 3.37 % ) for 2008 .",
+      "the following factors impacted the comparison : 2022 a decrease in the rate accrued on interest-bearing liabilities of 97 basis points .",
+      "the rate accrued on interest-bearing deposits , the largest component , decreased 107 basis points .",
+      "2022 these factors were partially offset by a 45 basis point decrease in the yield on interest-earning assets .",
+      "the yield on loans , which represented the largest portion of our earning assets in 2009 , decreased 30 basis points .",
+      "2022 in addition , the impact of noninterest-bearing sources of funding decreased 7 basis points .",
+      "for comparing to the broader market , the average federal funds rate was .16% ( .16 % ) for 2009 compared with 1.94% ( 1.94 % ) for 2008 .",
+      "we expect our net interest income for 2010 will likely be modestly lower as a result of cash recoveries on purchased impaired loans in 2009 and additional run-off of higher- yielding assets , which could be mitigated by rising interest rates .",
+      "this assumes our current expectations for interest rates and economic conditions 2013 we include our current economic assumptions underlying our forward-looking statements in the cautionary statement regarding forward-looking information section of this item 7 .",
+      "noninterest income summary noninterest income was $ 7.1 billion for 2009 and $ 2.4 billion for 2008 .",
+      "noninterest income for 2009 included the following : 2022 the gain on blackrock/bgi transaction of $ 1.076 billion , 2022 net credit-related other-than-temporary impairments ( otti ) on debt and equity securities of $ 577 million , 2022 net gains on sales of securities of $ 550 million , 2022 gains on hedging of residential mortgage servicing rights of $ 355 million , 2022 valuation and sale income related to our commercial mortgage loans held for sale , net of hedges , of $ 107 million , 2022 gains of $ 103 million related to our blackrock ltip shares adjustment in the first quarter , and net losses on private equity and alternative investments of $ 93 million .",
+      "noninterest income for 2008 included the following : 2022 net otti on debt and equity securities of $ 312 million , 2022 gains of $ 246 million related to our blackrock ltip shares adjustment , 2022 valuation and sale losses related to our commercial mortgage loans held for sale , net of hedges , of $ 197 million , 2022 impairment and other losses related to private equity and alternative investments of $ 180 million , 2022 income from hilliard lyons totaling $ 164 million , including the first quarter gain of $ 114 million from the sale of this business , 2022 net gains on sales of securities of $ 106 million , and 2022 a gain of $ 95 million related to the redemption of a portion of our visa class b common shares related to visa 2019s march 2008 initial public offering .",
+      "additional analysis asset management revenue increased $ 172 million to $ 858 million in 2009 , compared with $ 686 million in 2008 .",
+      "this increase reflected improving equity markets , new business generation and a shift in assets into higher yielding equity investments during the second half of 2009 .",
+      "assets managed totaled $ 103 billion at both december 31 , 2009 and 2008 , including the impact of national city .",
+      "the asset management group section of the business segments review section of this item 7 includes further discussion of assets under management .",
+      "consumer services fees totaled $ 1.290 billion in 2009 compared with $ 623 million in 2008 .",
+      "service charges on deposits totaled $ 950 million for 2009 and $ 372 million for 2008 .",
+      "both increases were primarily driven by the impact of the national city acquisition .",
+      "reduced consumer spending ."
+    ],
+    "table": [
+      [
+        "year ended december 31 dollars in millions",
+        "2009",
+        "2008"
+      ],
+      [
+        "net interest income",
+        "$ 9083",
+        "$ 3854"
+      ],
+      [
+        "net interest margin",
+        "3.82% ( 3.82 % )",
+        "3.37% ( 3.37 % )"
+      ]
+    ],
+    "questions": [
+      "in percentage points , what was the change in the average federal funds rate from 2009 compared with 2008?"
+    ]
+  }
+}

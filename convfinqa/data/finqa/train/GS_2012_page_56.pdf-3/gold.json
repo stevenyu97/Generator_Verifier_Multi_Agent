@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in pre-tax earnings in 2011?",
+      "answer": -0.34681,
+      "answer_raw": "-0.34681",
+      "program": "subtract(4443, 6802), divide(#0, 6802)"
+    }
+  ]
+}

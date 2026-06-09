@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average amounts amortized to revenue from 2010to 2014",
+      "answer": 74.0,
+      "answer_raw": "74.0",
+      "program": "add(46, 46), add(17, #0), add(18, #1), add(16, #2), add(#3, const_5), divide(#4, const_2)"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "LMT/2014/page_49.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "mission systems and training our mst business segment provides ship and submarine mission and combat systems ; mission systems and sensors for rotary and fixed-wing aircraft ; sea and land-based missile defense systems ; radar systems ; littoral combat ships ; simulation and training services ; and unmanned systems and technologies .",
+      "mst 2019s major programs include aegis combat system ( aegis ) , littoral combat ship ( lcs ) , mh-60 , tpq-53 radar system and mk-41 vertical launching system .",
+      "mst 2019s operating results included the following ( in millions ) : ."
+    ],
+    "post_text": [
+      "2014 compared to 2013 mst 2019s net sales for 2014 were comparable to 2013 .",
+      "net sales decreased by approximately $ 85 million for undersea systems programs due to decreased volume and deliveries ; and about $ 55 million related to the settlements of contract cost matters on certain programs ( including a portion of the terminated presidential helicopter program ) in 2013 that were not repeated in 2014 .",
+      "the decreases were offset by higher net sales of approximately $ 80 million for integrated warfare systems and sensors programs due to increased volume ( primarily space fence ) ; and approximately $ 40 million for training and logistics solutions programs due to increased deliveries ( primarily close combat tactical trainer ) .",
+      "mst 2019s operating profit for 2014 decreased $ 62 million , or 7% ( 7 % ) , compared to 2013 .",
+      "the decrease was primarily attributable to lower operating profit of approximately $ 120 million related to the settlements of contract cost matters on certain programs ( including a portion of the terminated presidential helicopter program ) in 2013 that were not repeated in 2014 ; and approximately $ 45 million due to higher reserves recorded on certain training and logistics solutions programs .",
+      "the decreases were partially offset by higher operating profit of approximately $ 45 million for performance matters and reserves recorded in 2013 that were not repeated in 2014 ; and about $ 60 million for various programs due to increased risk retirements ( including mh-60 and radar surveillance programs ) .",
+      "adjustments not related to volume , including net profit booking rate adjustments and other matters , were approximately $ 50 million lower for 2014 compared to 2013 .",
+      "2013 compared to 2012 mst 2019s net sales for 2013 decreased $ 426 million , or 6% ( 6 % ) , compared to 2012 .",
+      "the decrease was primarily attributable to lower net sales of approximately $ 275 million for various ship and aviation systems programs due to lower volume ( primarily ptds as final surveillance system deliveries occurred during the second quarter of 2012 ) ; about $ 195 million for various integrated warfare systems and sensors programs ( primarily naval systems ) due to lower volume ; approximately $ 65 million for various training and logistics programs due to lower volume ; and about $ 55 million for the aegis program due to lower volume .",
+      "the decreases were partially offset by higher net sales of about $ 155 million for the lcs program due to increased volume .",
+      "mst 2019s operating profit for 2013 increased $ 168 million , or 23% ( 23 % ) , compared to 2012 .",
+      "the increase was primarily attributable to higher operating profit of approximately $ 120 million related to the settlement of contract cost matters on certain programs ( including a portion of the terminated presidential helicopter program ) ; about $ 55 million for integrated warfare systems and sensors programs ( primarily radar and halifax class modernization programs ) due to increased risk retirements ; and approximately $ 30 million for undersea systems programs due to increased risk retirements .",
+      "the increases were partially offset by lower operating profit of about $ 55 million for training and logistics programs , primarily due to the recording of approximately $ 30 million of charges mostly related to lower-of-cost-or-market considerations ; and about $ 25 million for ship and aviation systems programs ( primarily ptds ) due to lower risk retirements and volume .",
+      "operating profit related to the lcs program was comparable .",
+      "adjustments not related to volume , including net profit booking rate adjustments and other matters , were approximately $ 170 million higher for 2013 compared to 2012 .",
+      "backlog backlog increased in 2014 compared to 2013 primarily due to higher orders on new program starts ( such as space fence ) .",
+      "backlog increased slightly in 2013 compared to 2012 mainly due to higher orders and lower sales on integrated warfare system and sensors programs ( primarily aegis ) and lower sales on various service programs , partially offset by lower orders on ship and aviation systems ( primarily mh-60 ) . ."
+    ],
+    "table": [
+      [
+        "",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      [
+        "net sales",
+        "$ 7147",
+        "$ 7153",
+        "$ 7579"
+      ],
+      [
+        "operating profit",
+        "843",
+        "905",
+        "737"
+      ],
+      [
+        "operating margins",
+        "11.8% ( 11.8 % )",
+        "12.7% ( 12.7 % )",
+        "9.7% ( 9.7 % )"
+      ],
+      [
+        "backlog at year-end",
+        "$ 11700",
+        "$ 10800",
+        "$ 10700"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the net sales decline in 2013 attributable to the in part to the various integrated warfare systems and sensors programs - for the naval system lower volume"
+    ]
+  }
+}

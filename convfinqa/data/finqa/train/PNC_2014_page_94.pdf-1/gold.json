@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of dec 31 , 2014 , how big is the total loan portfolio , in billions?",
+      "answer": 204.11765,
+      "answer_raw": "204.11765",
+      "program": "divide(34.7, 17), multiply(#0, const_100)"
+    }
+  ]
+}

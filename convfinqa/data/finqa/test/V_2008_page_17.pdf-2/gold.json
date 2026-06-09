@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average payment volume per transaction for jcb?",
+      "answer": 91.66667,
+      "answer_raw": "91.66667",
+      "program": "divide(55, 0.6)"
+    }
+  ]
+}

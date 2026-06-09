@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage increase of shares purchased as part of publicly announced plans from nov 2016 to dec 2016?",
+      "answer": 2.71786,
+      "answer_raw": "2.71786",
+      "program": "subtract(1558881, 419295), divide(#0, 419295)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the combined number of equity compensation plans approved by security holders",
+      "answer": 5743667.0,
+      "answer_raw": "5743667.0",
+      "program": "add(2956907, 2786760)"
+    }
+  ]
+}

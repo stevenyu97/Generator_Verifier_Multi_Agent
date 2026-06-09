@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the total contractual obligations associated with lines of credit that was due in 2011",
+      "answer": 0.02288,
+      "answer_raw": "0.02288",
+      "program": "divide(28046, 1225797)"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "GS/2012/page_95.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis sensitivity measures certain portfolios and individual positions are not included in var because var is not the most appropriate risk measure .",
+      "the market risk of these positions is determined by estimating the potential reduction in net revenues of a 10% ( 10 % ) decline in the underlying asset value .",
+      "the table below presents market risk for positions that are not included in var .",
+      "these measures do not reflect diversification benefits across asset categories and therefore have not been aggregated .",
+      "asset categories 10% ( 10 % ) sensitivity amount as of december in millions 2012 2011 ."
+    ],
+    "post_text": [
+      "equity ( excluding icbc ) 1 2263 2458 debt 2 1676 1521 1 .",
+      "relates to private and restricted public equity securities , including interests in firm-sponsored funds that invest in corporate equities and real estate and interests in firm-sponsored hedge funds .",
+      "2 .",
+      "primarily relates to interests in our firm-sponsored funds that invest in corporate mezzanine and senior debt instruments .",
+      "also includes loans backed by commercial and residential real estate , corporate bank loans and other corporate debt , including acquired portfolios of distressed loans .",
+      "var excludes the impact of changes in counterparty and our own credit spreads on derivatives as well as changes in our own credit spreads on unsecured borrowings for which the fair value option was elected .",
+      "the estimated sensitivity to a one basis point increase in credit spreads ( counterparty and our own ) on derivatives was a $ 3 million gain ( including hedges ) as of december 2012 .",
+      "in addition , the estimated sensitivity to a one basis point increase in our own credit spreads on unsecured borrowings for which the fair value option was elected was a $ 7 million gain ( including hedges ) as of december 2012 .",
+      "however , the actual net impact of a change in our own credit spreads is also affected by the liquidity , duration and convexity ( as the sensitivity is not linear to changes in yields ) of those unsecured borrowings for which the fair value option was elected , as well as the relative performance of any hedges undertaken .",
+      "the firm engages in insurance activities where we reinsure and purchase portfolios of insurance risk and pension liabilities .",
+      "the risks associated with these activities include , but are not limited to : equity price , interest rate , reinvestment and mortality risk .",
+      "the firm mitigates risks associated with insurance activities through the use of reinsurance and hedging .",
+      "certain of the assets associated with the firm 2019s insurance activities are included in var .",
+      "in addition to the positions included in var , we held $ 9.07 billion of securities accounted for as available-for- sale as of december 2012 , which support the firm 2019s reinsurance business .",
+      "as of december 2012 , our available- for-sale securities primarily consisted of $ 3.63 billion of corporate debt securities with an average yield of 4% ( 4 % ) , the majority of which will mature after five years , $ 3.38 billion of mortgage and other asset-backed loans and securities with an average yield of 6% ( 6 % ) , the majority of which will mature after ten years , and $ 856 million of u.s .",
+      "government and federal agency obligations with an average yield of 3% ( 3 % ) , the majority of which will mature after five years .",
+      "as of december 2012 , such assets were classified as held for sale and were included in 201cother assets . 201d see note 12 to the consolidated financial statements for further information about assets held for sale .",
+      "as of december 2011 , we held $ 4.86 billion of securities accounted for as available-for-sale , primarily consisting of $ 1.81 billion of corporate debt securities with an average yield of 5% ( 5 % ) , the majority of which will mature after five years , $ 1.42 billion of mortgage and other asset-backed loans and securities with an average yield of 10% ( 10 % ) , the majority of which will mature after ten years , and $ 662 million of u.s .",
+      "government and federal agency obligations with an average yield of 3% ( 3 % ) , the majority of which will mature after ten years .",
+      "in addition , as of december 2012 and december 2011 , we had commitments and held loans for which we have obtained credit loss protection from sumitomo mitsui financial group , inc .",
+      "see note 18 to the consolidated financial statements for further information about such lending commitments .",
+      "as of december 2012 , the firm also had $ 6.50 billion of loans held for investment which were accounted for at amortized cost and included in 201creceivables from customers and counterparties , 201d substantially all of which had floating interest rates .",
+      "the estimated sensitivity to a 100 basis point increase in interest rates on such loans was $ 62 million of additional interest income over a 12-month period , which does not take into account the potential impact of an increase in costs to fund such loans .",
+      "see note 8 to the consolidated financial statements for further information about loans held for investment .",
+      "additionally , we make investments accounted for under the equity method and we also make direct investments in real estate , both of which are included in 201cother assets 201d in the consolidated statements of financial condition .",
+      "direct investments in real estate are accounted for at cost less accumulated depreciation .",
+      "see note 12 to the consolidated financial statements for information on 201cother assets . 201d goldman sachs 2012 annual report 93 ."
+    ],
+    "table": [
+      [
+        "asset categories",
+        "asset categories",
+        ""
+      ],
+      [
+        "in millions",
+        "2012",
+        "2011"
+      ],
+      [
+        "icbc",
+        "$ 208",
+        "$ 212"
+      ],
+      [
+        "equity ( excluding icbc ) 1",
+        "2263",
+        "2458"
+      ],
+      [
+        "debt2",
+        "1676",
+        "1521"
+      ]
+    ],
+    "questions": [
+      "for asset categories 10% ( 10 % ) sensitivity amounts in millions for 2012 2011\\\\nwhat was the minimum icbc amount?"
+    ]
+  }
+}

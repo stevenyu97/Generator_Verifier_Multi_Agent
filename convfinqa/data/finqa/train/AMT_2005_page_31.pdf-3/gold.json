@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2005 for the quarter ended june 30 what was the percent of the change in the class a common stock on the new york stock exchange from highest to lowest price",
+      "answer": 0.29975,
+      "answer_raw": "0.29975",
+      "program": "subtract(21.16, 16.28), divide(#0, 16.28)"
+    }
+  ]
+}

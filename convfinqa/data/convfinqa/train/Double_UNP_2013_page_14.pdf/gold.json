@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage of the owned and operated part of the rail network route miles?",
+      "answer": 0.81692,
+      "answer_raw": "0.81692",
+      "program": "divide(26009, 31838)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the portion of total track miles that were route miles as of 12/31/13?",
+      "answer": 0.62598,
+      "answer_raw": "0.62598",
+      "program": "divide(31838, 50861)"
+    }
+  ]
+}

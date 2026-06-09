@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "containerboards net sales represented what percentage of industrial packaging sales in 2004?",
+      "answer": 0.19689,
+      "answer_raw": "0.19689",
+      "program": "divide(951, 4830)"
+    }
+  ]
+}

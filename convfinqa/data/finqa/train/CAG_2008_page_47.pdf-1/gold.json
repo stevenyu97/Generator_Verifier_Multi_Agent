@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total contractual obligations at the end of fiscal 2008 was due to long-term debt?",
+      "answer": 0.67317,
+      "answer_raw": "0.67317",
+      "program": "divide(3531.4, 5245.9)"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "input": {
+    "id": "Single_BLK/2017/page_87.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "when the likelihood of clawback is considered mathematically improbable .",
+      "the company records a deferred carried interest liability to the extent it receives cash or capital allocations related to carried interest prior to meeting the revenue recognition criteria .",
+      "at december 31 , 2017 and 2016 , the company had $ 219 million and $ 152 million , respectively , of deferred carried interest recorded in other liabilities/other liabilities of consolidated vies on the consolidated statements of financial condition .",
+      "a portion of the deferred carried interest liability will be paid to certain employees .",
+      "the ultimate timing of the recognition of performance fee revenue , if any , for these products is unknown .",
+      "the following table presents changes in the deferred carried interest liability ( including the portion related to consolidated vies ) for 2017 and 2016: ."
+    ],
+    "post_text": [
+      "for 2017 , 2016 and 2015 , performance fee revenue ( which included recognized carried interest ) totaled $ 594 million , $ 295 million and $ 621 million , respectively .",
+      "fees earned for technology and risk management revenue are recorded as services are performed and are generally determined using the value of positions on the aladdin platform or on a fixed-rate basis .",
+      "for 2017 , 2016 and 2016 , technology and risk management revenue totaled $ 677 million , $ 595 million and $ 528 million , respectively .",
+      "adjustments to revenue arising from initial estimates recorded historically have been immaterial since the majority of blackrock 2019s investment advisory and administration revenue is calculated based on aum and since the company does not record performance fee revenue until performance thresholds have been exceeded and the likelihood of clawback is mathematically improbable .",
+      "accounting developments recent accounting pronouncements not yet adopted .",
+      "revenue from contracts with customers .",
+      "in may 2014 , the financial accounting standards board ( 201cfasb 201d ) issued accounting standards update ( 201casu 201d ) 2014-09 , revenue from contracts with customers ( 201casu 2014-09 201d ) .",
+      "asu 2014-09 outlines a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers and supersedes most current revenue recognition guidance , including industry-specific guidance .",
+      "the guidance also changes the accounting for certain contract costs and revises the criteria for determining if an entity is acting as a principal or agent in certain arrangements .",
+      "the key changes in the standard that impact the company 2019s revenue recognition relate to the presentation of certain revenue contracts and associated contract costs .",
+      "the most significant of these changes relates to the presentation of certain distribution costs , which are currently presented net against revenues ( contra-revenue ) and will be presented as an expense on a gross basis .",
+      "the company adopted asu 2014-09 effective january 1 , 2018 on a full retrospective basis , which will require 2016 and 2017 to be restated in future filings .",
+      "the cumulative effect adjustment to the 2016 opening retained earnings was not material .",
+      "the company currently expects the net gross up to revenue to be approximately $ 1 billion with a corresponding gross up to expense for both 2016 and 2017 .",
+      "consequently , the company expects its gaap operating margin to decline upon adoption due to the gross up of revenue .",
+      "however , no material impact is expected on the company 2019s as adjusted operating margin .",
+      "for accounting pronouncements that the company adopted during the year ended december 31 , 2017 and for additional recent accounting pronouncements not yet adopted , see note 2 , significant accounting policies , in the consolidated financial statements contained in part ii , item 8 of this filing .",
+      "item 7a .",
+      "quantitative and qualitative disclosures about market risk aum market price risk .",
+      "blackrock 2019s investment advisory and administration fees are primarily comprised of fees based on a percentage of the value of aum and , in some cases , performance fees expressed as a percentage of the returns realized on aum .",
+      "at december 31 , 2017 , the majority of the company 2019s investment advisory and administration fees were based on average or period end aum of the applicable investment funds or separate accounts .",
+      "movements in equity market prices , interest rates/credit spreads , foreign exchange rates or all three could cause the value of aum to decline , which would result in lower investment advisory and administration fees .",
+      "corporate investments portfolio risks .",
+      "as a leading investment management firm , blackrock devotes significant resources across all of its operations to identifying , measuring , monitoring , managing and analyzing market and operating risks , including the management and oversight of its own investment portfolio .",
+      "the board of directors of the company has adopted guidelines for the review of investments to be made by the company , requiring , among other things , that investments be reviewed by certain senior officers of the company , and that certain investments may be referred to the audit committee or the board of directors , depending on the circumstances , for approval .",
+      "in the normal course of its business , blackrock is exposed to equity market price risk , interest rate/credit spread risk and foreign exchange rate risk associated with its corporate investments .",
+      "blackrock has investments primarily in sponsored investment products that invest in a variety of asset classes , including real assets , private equity and hedge funds .",
+      "investments generally are made for co-investment purposes , to establish a performance track record , to hedge exposure to certain deferred compensation plans or for regulatory purposes .",
+      "currently , the company has a seed capital hedging program in which it enters into swaps to hedge market and interest rate exposure to certain investments .",
+      "at december 31 , 2017 , the company had outstanding total return swaps with an aggregate notional value of approximately $ 587 million .",
+      "at december 31 , 2017 , there were no outstanding interest rate swaps. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2017",
+        "2016"
+      ],
+      [
+        "beginning balance",
+        "$ 152",
+        "$ 143"
+      ],
+      [
+        "net increase ( decrease ) in unrealized allocations",
+        "75",
+        "37"
+      ],
+      [
+        "performance fee revenue recognized",
+        "-21 ( 21 )",
+        "-28 ( 28 )"
+      ],
+      [
+        "acquisition",
+        "13",
+        "2014"
+      ],
+      [
+        "ending balance",
+        "$ 219",
+        "$ 152"
+      ]
+    ],
+    "questions": [
+      "what was the change in revenue related technology and risk management from 2016 to 2017?",
+      "what is that over the 2016 value?"
+    ]
+  }
+}

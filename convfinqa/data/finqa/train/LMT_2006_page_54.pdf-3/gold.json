@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were average operating profitfor space systems from 2004 to 2006 , in millions?",
+      "answer": 614.66667,
+      "answer_raw": "614.66667",
+      "program": "table_average(operating profit, none)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the years 2008 and 2009 , what is the variation observed in the operating profit , in millions?",
+      "answer": 416.0,
+      "answer_raw": "416.0",
+      "program": "subtract(433, 17)"
+    }
+  ]
+}

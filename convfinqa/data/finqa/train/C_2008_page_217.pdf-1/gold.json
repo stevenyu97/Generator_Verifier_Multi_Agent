@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total maximum potential amount of future payments are backed by letters of credit ? \\\\n",
+      "answer": 0.30895,
+      "answer_raw": "0.30895",
+      "program": "divide(94.2, 304.9)"
+    }
+  ]
+}

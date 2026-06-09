@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net difference in the maximum and minimum value of personal injury claims?",
+      "answer": 27.0,
+      "answer_raw": "27.0",
+      "program": "subtract(317, 290)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that over the minimum value?",
+      "answer": 0.08517,
+      "answer_raw": "0.08517",
+      "program": "subtract(317, 290), divide(#0, 317)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is that displayed as a percent?",
+      "answer": 8.51735,
+      "answer_raw": "8.51735",
+      "program": "subtract(317, 290), divide(#0, 317), multiply(#1, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "GS/2016/page_79.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the goldman sachs group , inc .",
+      "and subsidiaries management 2019s discussion and analysis 2030 total aus net inflows/ ( outflows ) for 2014 includes $ 19 billion of fixed income asset inflows in connection with our acquisition of deutsche asset & wealth management 2019s stable value business and $ 6 billion of liquidity products inflows in connection with our acquisition of rbs asset management 2019s money market funds .",
+      "the table below presents our average monthly assets under supervision by asset class .",
+      "average for the year ended december $ in billions 2016 2015 2014 ."
+    ],
+    "post_text": [
+      "operating environment .",
+      "following a challenging first quarter of 2016 , market conditions continued to improve with higher asset prices resulting in full year appreciation in our client assets in both equity and fixed income assets .",
+      "also , our assets under supervision increased during 2016 from net inflows , primarily in fixed income assets , and liquidity products .",
+      "the mix of our average assets under supervision shifted slightly compared with 2015 from long- term assets under supervision to liquidity products .",
+      "management fees have been impacted by many factors , including inflows to advisory services and outflows from actively-managed mutual funds .",
+      "in the future , if asset prices decline , or investors continue the trend of favoring assets that typically generate lower fees or investors withdraw their assets , net revenues in investment management would likely be negatively impacted .",
+      "during 2015 , investment management operated in an environment generally characterized by strong client net inflows , which more than offset the declines in equity and fixed income asset prices , which resulted in depreciation in the value of client assets , particularly in the third quarter of 2015 .",
+      "the mix of average assets under supervision shifted slightly from long-term assets under supervision to liquidity products compared with 2014 .",
+      "2016 versus 2015 .",
+      "net revenues in investment management were $ 5.79 billion for 2016 , 7% ( 7 % ) lower than 2015 .",
+      "this decrease primarily reflected significantly lower incentive fees compared with a strong 2015 .",
+      "in addition , management and other fees were slightly lower , reflecting shifts in the mix of client assets and strategies , partially offset by the impact of higher average assets under supervision .",
+      "during the year , total assets under supervision increased $ 127 billion to $ 1.38 trillion .",
+      "long-term assets under supervision increased $ 75 billion , including net inflows of $ 42 billion , primarily in fixed income assets , and net market appreciation of $ 33 billion , primarily in equity and fixed income assets .",
+      "in addition , liquidity products increased $ 52 billion .",
+      "operating expenses were $ 4.65 billion for 2016 , 4% ( 4 % ) lower than 2015 , due to decreased compensation and benefits expenses , reflecting lower net revenues .",
+      "pre-tax earnings were $ 1.13 billion in 2016 , 17% ( 17 % ) lower than 2015 .",
+      "2015 versus 2014 .",
+      "net revenues in investment management were $ 6.21 billion for 2015 , 3% ( 3 % ) higher than 2014 , due to slightly higher management and other fees , primarily reflecting higher average assets under supervision , and higher transaction revenues .",
+      "during 2015 , total assets under supervision increased $ 74 billion to $ 1.25 trillion .",
+      "long-term assets under supervision increased $ 51 billion , including net inflows of $ 71 billion ( which includes $ 18 billion of asset inflows in connection with our acquisition of pacific global advisors 2019 solutions business ) , and net market depreciation of $ 20 billion , both primarily in fixed income and equity assets .",
+      "in addition , liquidity products increased $ 23 billion .",
+      "operating expenses were $ 4.84 billion for 2015 , 4% ( 4 % ) higher than 2014 , due to increased compensation and benefits expenses , reflecting higher net revenues .",
+      "pre-tax earnings were $ 1.37 billion in 2015 , 2% ( 2 % ) lower than 2014 .",
+      "geographic data see note 25 to the consolidated financial statements for a summary of our total net revenues , pre-tax earnings and net earnings by geographic region .",
+      "goldman sachs 2016 form 10-k 65 ."
+    ],
+    "table": [
+      [
+        "$ in billions",
+        "average for theyear ended december 2016",
+        "average for theyear ended december 2015",
+        "average for theyear ended december 2014"
+      ],
+      [
+        "alternative investments",
+        "$ 149",
+        "$ 145",
+        "$ 145"
+      ],
+      [
+        "equity",
+        "256",
+        "247",
+        "225"
+      ],
+      [
+        "fixed income",
+        "578",
+        "530",
+        "499"
+      ],
+      [
+        "total long-term assets under supervision",
+        "983",
+        "922",
+        "869"
+      ],
+      [
+        "liquidity products",
+        "326",
+        "272",
+        "248"
+      ],
+      [
+        "total assets under supervision",
+        "$ 1309",
+        "$ 1194",
+        "$ 1117"
+      ]
+    ],
+    "questions": [
+      "what percentage of total long-term assets under supervision are comprised of fixed income in 2016?"
+    ]
+  }
+}

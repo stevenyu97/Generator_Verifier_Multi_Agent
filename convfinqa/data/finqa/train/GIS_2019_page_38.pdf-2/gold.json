@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much is the net income reduced due to the impairment charges?",
+      "answer": 192.6,
+      "answer_raw": "192.6",
+      "program": "add(132.1, 45.1), add(#0, 15.4)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total number of owned sites in united states and mexico, combined?",
+      "answer": 21900.0,
+      "answer_raw": "21900.0",
+      "program": "add(19400, 2500)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "including brazil, what would then be the total number of owned sites for the three countries?",
+      "answer": 23000.0,
+      "answer_raw": "23000.0",
+      "program": "add(19400, 2500), add(#0, 1100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and including india, what then becomes the total number of owned sites?",
+      "answer": 23200.0,
+      "answer_raw": "23200.0",
+      "program": "add(19400, 2500), add(#0, 1100), add(#1, 200)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is that number for the us?",
+      "answer": 19400.0,
+      "answer_raw": "19400.0",
+      "program": "19400"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "how much, then, does this us number represent in relation to the total number of owned sites in the four countries?",
+      "answer": 0.83621,
+      "answer_raw": "0.83621",
+      "program": "add(19400, 2500), add(#0, 1100), add(#1, 200), divide(19400, #2)"
+    }
+  ]
+}

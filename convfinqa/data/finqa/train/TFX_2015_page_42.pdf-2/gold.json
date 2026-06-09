@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total return of an investment of $ 1000000 in s&p 500 index in 2010 and sold in 2015?",
+      "answer": 810000.0,
+      "answer_raw": "810000.0",
+      "program": "subtract(181, 100), divide(1000000, 100), multiply(#1, #0)"
+    }
+  ]
+}

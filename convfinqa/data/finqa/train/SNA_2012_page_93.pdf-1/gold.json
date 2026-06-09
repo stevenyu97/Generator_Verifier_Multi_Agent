@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average unrecognized tax benefits at end of year from 2010 to 2012",
+      "answer": 9.63333,
+      "answer_raw": "9.63333",
+      "program": "add(6.8, 11.0), add(11.1, #0), divide(#1, const_3)"
+    }
+  ]
+}

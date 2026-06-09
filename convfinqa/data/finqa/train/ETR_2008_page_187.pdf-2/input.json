@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "ETR/2008/page_187.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries notes to financial statements ouachita in september 2008 , entergy arkansas purchased the ouachita plant , a 789 mw three-train gas-fired combined cycle generating turbine ( ccgt ) electric power plant located 20 miles south of the arkansas state line near sterlington , louisiana , for approximately $ 210 million from a subsidiary of cogentrix energy , inc .",
+      "entergy arkansas received the plant , materials and supplies , and related real estate in the transaction .",
+      "the ferc and the apsc approved the acquisition .",
+      "the apsc also approved the recovery of the acquisition and ownership costs through a rate rider and the planned sale of one-third of the capacity and energy to entergy gulf states louisiana .",
+      "the lpsc also approved the purchase of one-third of the capacity and energy by entergy gulf states louisiana , subject to certain conditions , including a study to determine the costs and benefits of entergy gulf states louisiana exercising an option to purchase one-third of the plant ( unit 3 ) from entergy arkansas .",
+      "entergy gulf states louisiana is scheduled to report the results of that study by march 30 , 2009 .",
+      "palisades in april 2007 , entergy's non-utility nuclear business purchased the 798 mw palisades nuclear energy plant located near south haven , michigan from consumers energy company for a net cash payment of $ 336 million .",
+      "entergy received the plant , nuclear fuel , inventories , and other assets .",
+      "the liability to decommission the plant , as well as related decommissioning trust funds , was also transferred to entergy's non-utility nuclear business .",
+      "entergy's non-utility nuclear business executed a unit-contingent , 15-year purchased power agreement ( ppa ) with consumers energy for 100% ( 100 % ) of the plant's output , excluding any future uprates .",
+      "prices under the ppa range from $ 43.50/mwh in 2007 to $ 61.50/mwh in 2022 , and the average price under the ppa is $ 51/mwh .",
+      "in the first quarter 2007 , the nrc renewed palisades' operating license until 2031 .",
+      "as part of the transaction , entergy's non- utility nuclear business assumed responsibility for spent fuel at the decommissioned big rock point nuclear plant , which is located near charlevoix , michigan .",
+      "palisades' financial results since april 2007 are included in entergy's non-utility nuclear business segment .",
+      "the following table summarizes the assets acquired and liabilities assumed at the date of acquisition .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "subsequent to the closing , entergy received approximately $ 6 million from consumers energy company as part of the post-closing adjustment defined in the asset sale agreement .",
+      "the post-closing adjustment amount resulted in an approximately $ 6 million reduction in plant and a corresponding reduction in other liabilities .",
+      "for the ppa , which was at below-market prices at the time of the acquisition , non-utility nuclear will amortize a liability to revenue over the life of the agreement .",
+      "the amount that will be amortized each period is based upon the difference between the present value calculated at the date of acquisition of each year's difference between revenue under the agreement and revenue based on estimated market prices .",
+      "amounts amortized to revenue were $ 76 ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "plant ( including nuclear fuel )",
+        "$ 727"
+      ],
+      [
+        "decommissioning trust funds",
+        "252"
+      ],
+      [
+        "other assets",
+        "41"
+      ],
+      [
+        "total assets acquired",
+        "1020"
+      ],
+      [
+        "purchased power agreement ( below market )",
+        "420"
+      ],
+      [
+        "decommissioning liability",
+        "220"
+      ],
+      [
+        "other liabilities",
+        "44"
+      ],
+      [
+        "total liabilities assumed",
+        "684"
+      ],
+      [
+        "net assets acquired",
+        "$ 336"
+      ]
+    ],
+    "questions": [
+      "what is the debt to asset ratio?"
+    ]
+  }
+}

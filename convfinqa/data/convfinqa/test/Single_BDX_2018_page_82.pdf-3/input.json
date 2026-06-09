@@ -1,0 +1,83 @@
+{
+  "input": {
+    "id": "Single_BDX/2018/page_82.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "note 8 2014 benefit plans the company has defined benefit pension plans covering certain employees in the united states and certain international locations .",
+      "postretirement healthcare and life insurance benefits provided to qualifying domestic retirees as well as other postretirement benefit plans in international countries are not material .",
+      "the measurement date used for the company 2019s employee benefit plans is september 30 .",
+      "effective january 1 , 2018 , the legacy u.s .",
+      "pension plan was frozen to limit the participation of employees who are hired or re-hired by the company , or who transfer employment to the company , on or after january 1 , net pension cost for the years ended september 30 included the following components: ."
+    ],
+    "post_text": [
+      "net pension cost included in the preceding table that is attributable to international plans $ 34 $ 43 $ 35 the amounts provided above for amortization of prior service credit and amortization of loss represent the reclassifications of prior service credits and net actuarial losses that were recognized in accumulated other comprehensive income ( loss ) in prior periods .",
+      "the settlement losses recorded in 2018 and 2016 primarily included lump sum benefit payments associated with the company 2019s u.s .",
+      "supplemental pension plan .",
+      "the company recognizes pension settlements when payments from the supplemental plan exceed the sum of service and interest cost components of net periodic pension cost associated with this plan for the fiscal year. ."
+    ],
+    "table": [
+      [
+        "( millions of dollars )",
+        "pension plans 2018",
+        "pension plans 2017",
+        "pension plans 2016"
+      ],
+      [
+        "service cost",
+        "$ 136",
+        "$ 110",
+        "$ 81"
+      ],
+      [
+        "interest cost",
+        "90",
+        "61",
+        "72"
+      ],
+      [
+        "expected return on plan assets",
+        "-154 ( 154 )",
+        "-112 ( 112 )",
+        "-109 ( 109 )"
+      ],
+      [
+        "amortization of prior service credit",
+        "-13 ( 13 )",
+        "-14 ( 14 )",
+        "-15 ( 15 )"
+      ],
+      [
+        "amortization of loss",
+        "78",
+        "92",
+        "77"
+      ],
+      [
+        "settlements",
+        "2",
+        "2014",
+        "7"
+      ],
+      [
+        "net pension cost",
+        "$ 137",
+        "$ 138",
+        "$ 113"
+      ],
+      [
+        "net pension cost included in the preceding table that is attributable to international plans",
+        "$ 34",
+        "$ 43",
+        "$ 35"
+      ]
+    ],
+    "questions": [
+      "what was the interest cost for 2018?",
+      "and in 2017?",
+      "combined, what was the total cost for the two years?",
+      "and in 2016?",
+      "so what was the total for the three years?",
+      "and what was the average during this period?"
+    ]
+  }
+}

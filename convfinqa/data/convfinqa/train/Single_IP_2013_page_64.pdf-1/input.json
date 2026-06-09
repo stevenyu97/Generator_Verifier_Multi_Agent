@@ -1,0 +1,73 @@
+{
+  "input": {
+    "id": "Single_IP/2013/page_64.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "sales volumes in 2013 increased from 2012 , primarily for fluff pulp , reflecting improved market demand and a change in our product mix with a full year of fluff pulp production at our franklin , virginia mill .",
+      "average sales price realizations were lower for fluff pulp while prices for market pulp increased .",
+      "input costs for wood , fuels and chemicals were higher .",
+      "mill operating costs were significantly lower largely due to the absence of costs associated with the start-up of the franklin mill in 2012 .",
+      "planned maintenance downtime costs were higher .",
+      "in the first quarter of 2014 , sales volumes are expected to be slightly lower compared with the fourth quarter of 2013 .",
+      "average sales price realizations are expected to improve , reflecting the further realization of previously announced sales price increases for softwood pulp and fluff pulp .",
+      "input costs should be flat .",
+      "planned maintenance downtime costs should be about $ 11 million higher than in the fourth quarter of 2013 .",
+      "operating profits will also be negatively impacted by the severe winter weather in the first quarter of 2014 .",
+      "consumer packaging demand and pricing for consumer packaging products correlate closely with consumer spending and general economic activity .",
+      "in addition to prices and volumes , major factors affecting the profitability of consumer packaging are raw material and energy costs , freight costs , manufacturing efficiency and product mix .",
+      "consumer packaging net sales in 2013 increased 8% ( 8 % ) from 2012 , but decreased 7% ( 7 % ) from 2011 .",
+      "operating profits decreased 40% ( 40 % ) from 2012 and 1% ( 1 % ) from 2011 .",
+      "net sales and operating profits include the shorewood business in 2011 .",
+      "excluding costs associated with the permanent shutdown of a paper machine at our augusta , georgia mill and costs associated with the sale of the shorewood business , 2013 operating profits were 22% ( 22 % ) lower than in 2012 , and 43% ( 43 % ) lower than in 2011 .",
+      "benefits from higher sales volumes ( $ 45 million ) were offset by lower average sales price realizations and an unfavorable mix ( $ 50 million ) , higher operating costs including incremental costs resulting from the shutdown of a paper machine at our augusta , georgia mill ( $ 46 million ) and higher input costs ( $ 6 million ) .",
+      "in addition , operating profits in 2013 included restructuring costs of $ 45 million related to the permanent shutdown of a paper machine at our augusta , georgia mill and $ 2 million of costs associated with the sale of the shorewood business .",
+      "operating profits in 2012 included a gain of $ 3 million related to the sale of the shorewood business , while operating profits in 2011 included a $ 129 million fixed asset impairment charge for the north american shorewood business and $ 72 million for other charges associated with the sale of the shorewood business .",
+      "consumer packaging ."
+    ],
+    "post_text": [
+      "north american consumer packaging net sales were $ 2.0 billion in 2013 compared with $ 2.0 billion in 2012 and $ 2.5 billion in 2011 .",
+      "operating profits were $ 63 million ( $ 110 million excluding paper machine shutdown costs and costs related to the sale of the shorewood business ) in 2013 compared with $ 165 million ( $ 162 million excluding charges associated with the sale of the shorewood business ) in 2012 and $ 35 million ( $ 236 million excluding asset impairment charges and other costs associated with the sale of the shorewood business ) in 2011 .",
+      "coated paperboard sales volumes in 2013 were higher than in 2012 reflecting stronger market demand .",
+      "average sales price realizations were lower year-over- year despite the realization of price increases in the second half of 2013 .",
+      "input costs for wood and energy increased , but were partially offset by lower costs for chemicals .",
+      "planned maintenance downtime costs were slightly lower .",
+      "market-related downtime was about 24000 tons in 2013 compared with about 113000 tons in 2012 .",
+      "the permanent shutdown of a paper machine at our augusta , georgia mill in the first quarter of 2013 reduced capacity by 140000 tons in 2013 compared with 2012 .",
+      "foodservice sales volumes increased slightly in 2013 compared with 2012 despite softer market demand .",
+      "average sales margins were higher reflecting lower input costs for board and resins and a more favorable product mix .",
+      "operating costs and distribution costs were both higher .",
+      "the u.s.shorewood business was sold december 31 , 2011 and the non-u.s .",
+      "business was sold in january looking ahead to the first quarter of 2014 , coated paperboard sales volumes are expected to be seasonally weaker than in the fourth quarter of 2013 .",
+      "average sales price realizations are expected to be slightly higher , and margins should also benefit from a more favorable product mix .",
+      "input costs are expected to be higher for energy , chemicals and wood .",
+      "planned maintenance downtime costs should be $ 8 million lower with a planned maintenance outage scheduled at the augusta mill in the first quarter .",
+      "the severe winter weather in the first quarter of 2014 will negatively impact operating profits .",
+      "foodservice sales volumes are expected to be seasonally lower .",
+      "average sales margins are expected to improve due to the realization of sales price increases effective with our january contract openers and a more favorable product mix. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2013",
+        "2012",
+        "2011"
+      ],
+      [
+        "sales",
+        "$ 3435",
+        "$ 3170",
+        "$ 3710"
+      ],
+      [
+        "operating profit",
+        "161",
+        "268",
+        "163"
+      ]
+    ],
+    "questions": [
+      "what is 2 times 1000?",
+      "what is that divided by 2013 sales?"
+    ]
+  }
+}

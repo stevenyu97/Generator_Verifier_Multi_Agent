@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "ETR/2013/page_136.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries notes to financial statements this difference as a regulatory asset or liability on an ongoing basis , resulting in a zero net balance for the regulatory asset at the end of the lease term .",
+      "the amount was a net regulatory liability of $ 61.6 million and $ 27.8 million as of december 31 , 2013 and 2012 , respectively .",
+      "as of december 31 , 2013 , system energy had future minimum lease payments ( reflecting an implicit rate of 5.13% ( 5.13 % ) ) , which are recorded as long-term debt , as follows : amount ( in thousands ) ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in thousands )"
+      ],
+      [
+        "2014",
+        "$ 51637"
+      ],
+      [
+        "2015",
+        "52253"
+      ],
+      [
+        "2016",
+        "13750"
+      ],
+      [
+        "2017",
+        "13750"
+      ],
+      [
+        "2018",
+        "13750"
+      ],
+      [
+        "years thereafter",
+        "247500"
+      ],
+      [
+        "total",
+        "392640"
+      ],
+      [
+        "less : amount representing interest",
+        "295226"
+      ],
+      [
+        "present value of net minimum lease payments",
+        "$ 97414"
+      ]
+    ],
+    "questions": [
+      "what are the future minimum lease payments in 2014 as a percentage of the total future minimum lease payments?"
+    ]
+  }
+}

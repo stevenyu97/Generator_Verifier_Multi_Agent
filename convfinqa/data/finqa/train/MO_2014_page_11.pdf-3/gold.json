@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how did the percentage of operating income related to smokeless product change from 2012 to 2013 relative the total operating income?",
+      "answer": -0.024,
+      "answer_raw": "-0.024",
+      "program": "subtract(12.2, 12.5), divide(#0, 12.5)"
+    }
+  ]
+}

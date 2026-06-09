@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "UNP/2013/page_24.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "increase in dividends paid .",
+      "free cash flow is defined as cash provided by operating activities less cash used in investing activities and dividends paid .",
+      "free cash flow is not considered a financial measure under accounting principles generally accepted in the u.s .",
+      "( gaap ) by sec regulation g and item 10 of sec regulation s-k and may not be defined and calculated by other companies in the same manner .",
+      "we believe free cash flow is important to management and investors in evaluating our financial performance and measures our ability to generate cash without additional external financings .",
+      "free cash flow should be considered in addition to , rather than as a substitute for , cash provided by operating activities .",
+      "the following table reconciles cash provided by operating activities ( gaap measure ) to free cash flow ( non-gaap measure ) : millions 2013 2012 2011 ."
+    ],
+    "post_text": [
+      "2014 outlook f0b7 safety 2013 operating a safe railroad benefits our employees , our customers , our shareholders , and the communities we serve .",
+      "we will continue using a multi-faceted approach to safety , utilizing technology , risk assessment , quality control , training and employee engagement , and targeted capital investments .",
+      "we will continue using and expanding the deployment of total safety culture and courage to care throughout our operations , which allows us to identify and implement best practices for employee and operational safety .",
+      "derailment prevention and the reduction of grade crossing incidents are also critical aspects of our safety programs .",
+      "we will continue our efforts to increase detection of rail defects ; improve or close crossings ; and educate the public and law enforcement agencies about crossing safety through a combination of our own programs ( including risk assessment strategies ) , various industry programs and local community activities across our network .",
+      "f0b7 network operations 2013 we believe the railroad is capable of handling growing volumes while providing high levels of customer service .",
+      "our track structure is in excellent condition , and certain sections of our network have surplus line and terminal capacity .",
+      "we are in a solid resource position , with sufficient supplies of locomotives , freight cars and crews to support growth .",
+      "f0b7 fuel prices 2013 uncertainty about the economy makes projections of fuel prices difficult .",
+      "we again could see volatile fuel prices during the year , as they are sensitive to global and u.s .",
+      "domestic demand , refining capacity , geopolitical events , weather conditions and other factors .",
+      "to reduce the impact of fuel price on earnings , we will continue seeking cost recovery from our customers through our fuel surcharge programs and expanding our fuel conservation efforts .",
+      "f0b7 capital plan 2013 in 2014 , we plan to make total capital investments of approximately $ 3.9 billion , including expenditures for positive train control ( ptc ) , which may be revised if business conditions warrant or if new laws or regulations affect our ability to generate sufficient returns on these investments .",
+      "( see further discussion in this item 7 under liquidity and capital resources 2013 capital plan. ) f0b7 positive train control 2013 in response to a legislative mandate to implement ptc by the end of 2015 , we have invested $ 1.2 billion in capital expenditures and plan to spend an additional $ 450 million during 2014 on developing and deploying ptc .",
+      "we currently estimate that ptc , in accordance with implementing rules issued by the federal rail administration ( fra ) , will cost us approximately $ 2 billion by the end of the project .",
+      "this includes costs for installing the new system along our tracks , upgrading locomotives to work with the new system , and adding digital data communication equipment to integrate the various components of the system and achieve interoperability for the industry .",
+      "although it is unlikely that the rail industry will meet the current mandatory 2015 deadline ( as the fra indicated in its 2012 report to congress ) , we are making a good faith effort to do so and we are working closely with regulators as we implement this new technology. ."
+    ],
+    "table": [
+      [
+        "millions",
+        "2013",
+        "2012",
+        "2011"
+      ],
+      [
+        "cash provided by operating activities",
+        "$ 6823",
+        "$ 6161",
+        "$ 5873"
+      ],
+      [
+        "cash used in investing activities",
+        "-3405 ( 3405 )",
+        "-3633 ( 3633 )",
+        "-3119 ( 3119 )"
+      ],
+      [
+        "dividends paid",
+        "-1333 ( 1333 )",
+        "-1146 ( 1146 )",
+        "-837 ( 837 )"
+      ],
+      [
+        "free cash flow",
+        "$ 2085",
+        "$ 1382",
+        "$ 1917"
+      ]
+    ],
+    "questions": [
+      "what was the average cash provided by operating activities from 2011 to 2013"
+    ]
+  }
+}

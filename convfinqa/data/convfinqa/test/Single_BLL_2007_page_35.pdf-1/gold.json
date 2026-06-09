@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total value spent on the repurchase of shares during october 2007?",
+      "answer": 37754280.76,
+      "answer_raw": "37754280.76",
+      "program": "multiply(705292, 53.53)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much is that in millions?",
+      "answer": 37.75428,
+      "answer_raw": "37.75428",
+      "program": "multiply(705292, 53.53), divide(#0, const_1000000)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of the cash dividend to the research and development in 2014",
+      "answer": 1.33721,
+      "answer_raw": "1.33721",
+      "program": "divide(115, 86)"
+    }
+  ]
+}

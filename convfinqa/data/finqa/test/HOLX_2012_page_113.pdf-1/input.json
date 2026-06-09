@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "HOLX/2012/page_113.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents intangibles 2014goodwill and other in december 2010 , the fasb issued asu 2010-28 , intangibles 2014goodwill and other ( topic 350 ) .",
+      "asu 2010-28 modifies step 1 of the goodwill impairment test for reporting units with zero or negative carrying amounts .",
+      "for those reporting units , an entity is required to perform step 2 of the goodwill impairment test if it is more likely than not that a goodwill impairment exists .",
+      "in determining whether it is more likely than not that a goodwill impairment exists , an entity should consider whether there are any adverse qualitative factors indicating that an impairment may exist .",
+      "asu 2010-28 is effective for the company in fiscal 2012 .",
+      "the adoption of asu 2010-28 is not expected to have a material impact on the company 2019s consolidated financial statements .",
+      "in september 2011 , the fasb issued asu no .",
+      "2011-08 , intangibles 2014goodwill and other ( topic 350 ) : testing goodwill for impairment .",
+      "asu 2011-08 allows entities to first assess qualitatively whether it is necessary to perform the two-step goodwill impairment test .",
+      "if an entity believes , as a result of its qualitative assessment , that it is more likely than not that the fair value of a reporting unit is less than its carrying amount , the quantitative two-step impairment test is required ; otherwise , no further testing is required .",
+      "asu 2011-08 is effective for the company beginning in fiscal 2013 , although early adoption is permitted .",
+      "the company does not believe that asu 2011-08 will have a material impact on its consolidated financial statements .",
+      "3 .",
+      "business combinations fiscal 2012 acquisition : gen-probe , inc .",
+      "on august 1 , 2012 , the company completed the acquisition of gen-probe and acquired all of the outstanding shares of gen-probe .",
+      "pursuant to the merger agreement , each share of common stock outstanding immediately prior to the effective time of the acquisition was cancelled and converted into the right to receive $ 82.75 in cash .",
+      "in addition , all outstanding restricted shares , restricted stock units , performance shares , and those stock options granted prior to february 8 , 2012 were cancelled and converted into the right to receive $ 82.75 per share in cash less the applicable exercise price , as applicable .",
+      "stock options granted after february 8 , 2012 were converted into stock options to acquire shares of hologic common stock determined by a conversion formula defined in the merger agreement .",
+      "the company paid the gen-probe shareholders $ 3.8 billion and $ 169.0 million to equity award holders .",
+      "the company funded the acquisition using available cash and financing consisting of senior secured credit facilities and senior notes ( see note 5 for further discussion ) resulting in aggregate proceeds of $ 3.48 billion , excluding financing fees to the underwriters .",
+      "the company incurred approximately $ 34.3 million of direct transaction costs recorded within general and administrative expenses .",
+      "gen-probe , headquartered in san diego , california , is a leader in molecular diagnostics products and services that are used primarily to diagnose human diseases , screen donated human blood , and test transplant compatibility .",
+      "the company expects this acquisition to enhance its molecular diagnostics franchise and to complement its existing portfolio of diagnostics products .",
+      "gen-probe 2019s results of operations are reported within the company 2019s diagnostics reportable segment from the date of acquisition .",
+      "the purchase price consideration was as follows: ."
+    ],
+    "post_text": [
+      "the fair value of stock options exchanged recorded as purchase price represents the fair value of the gen-probe options converted into the company 2019s stock options attributable to pre-combination services pursuant to asc 805 , business combinations .",
+      "the remainder of the fair value of these options of $ 23.2 million will be recognized as stock-based compensation expense over the remaining vesting period , which is approximately 3.5 years .",
+      "the company estimated the fair value of the stock options using a binomial valuation model with the following weighted average assumptions : risk free rate of 0.41% ( 0.41 % ) , expected volatility of 39.9% ( 39.9 % ) , expected life of 3.6 years and dividend of 0.0% ( 0.0 % ) .",
+      "the weighted average fair value of stock options granted is $ 7.07 per share .",
+      "source : hologic inc , 10-k , november 28 , 2012 powered by morningstar ae document research 2120 the information contained herein may not be copied , adapted or distributed and is not warranted to be accurate , complete or timely .",
+      "the user assumes all risks for any damages or losses arising from any use of this information , except to the extent such damages or losses cannot be limited or excluded by applicable law .",
+      "past financial performance is no guarantee of future results. ."
+    ],
+    "table": [
+      [
+        "cash paid",
+        "$ 3967866"
+      ],
+      [
+        "deferred payment",
+        "1655"
+      ],
+      [
+        "fair value of stock options exchanged",
+        "2655"
+      ],
+      [
+        "total purchase price",
+        "$ 3972176"
+      ]
+    ],
+    "questions": [
+      "what portion of the gen-probe's purchase price is paid in cash?"
+    ]
+  }
+}

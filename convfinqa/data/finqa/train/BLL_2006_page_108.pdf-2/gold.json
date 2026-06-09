@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total value of the shares already issued under the equity compensation plans for 2006?",
+      "answer": 129525982.82,
+      "answer_raw": "129525982.82",
+      "program": "multiply(4852978, 26.69)"
+    }
+  ]
+}

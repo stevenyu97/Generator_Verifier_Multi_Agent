@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of storage facilities are liquid terminals",
+      "answer": 0.5098,
+      "answer_raw": "0.5098",
+      "program": "add(52, 34), add(#0, 16), divide(52, #1)"
+    }
+  ]
+}

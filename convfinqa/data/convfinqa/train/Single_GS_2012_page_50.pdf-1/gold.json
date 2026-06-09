@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the total operating expenses in 2012, in millions?",
+      "answer": 22956.0,
+      "answer_raw": "22956.0",
+      "program": "22956"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what were they in 2011, also in millions?",
+      "answer": 22642.0,
+      "answer_raw": "22642.0",
+      "program": "22642"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, in millions, the change in operating expenses from 2011 to 2012?",
+      "answer": 314.0,
+      "answer_raw": "314.0",
+      "program": "subtract(22956, 22642)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does that change represent in relation to the 2011 total, in percentage?",
+      "answer": 0.01387,
+      "answer_raw": "0.01387",
+      "program": "subtract(22956, 22642), divide(#0, 22642)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the silicon systems revenue for 2015?",
+      "answer": 1720.0,
+      "answer_raw": "1720.0",
+      "program": "1720"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for 2014?",
+      "answer": 1400.0,
+      "answer_raw": "1400.0",
+      "program": "1400"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between these two years?",
+      "answer": 320.0,
+      "answer_raw": "320.0",
+      "program": "subtract(1720, 1400)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "so what was the growth rate for this segment during this time?",
+      "answer": 0.22857,
+      "answer_raw": "0.22857",
+      "program": "subtract(1720, 1400), divide(#0, 1400)"
+    }
+  ]
+}

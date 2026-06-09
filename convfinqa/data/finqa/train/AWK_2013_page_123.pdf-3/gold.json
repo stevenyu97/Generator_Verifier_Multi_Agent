@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did the company's valuation allowance change from 2012 to 2013?",
+      "answer": -0.30558,
+      "answer_raw": "-0.30558",
+      "program": "divide(-5965, 19520)"
+    }
+  ]
+}

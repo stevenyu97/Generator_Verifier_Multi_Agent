@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2008 what was the percentage of the total other income attributable to non-operating environmental costs",
+      "answer": 0.22819,
+      "answer_raw": "0.22819",
+      "program": "add(87, 41), add(21, #0), divide(34, #1)"
+    }
+  ]
+}

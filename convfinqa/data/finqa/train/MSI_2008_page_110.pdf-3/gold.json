@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in total balance of stockholder equity between january 2006 and 2007?",
+      "answer": 7.0,
+      "answer_raw": "7.0",
+      "program": "subtract(16, 2), divide(#0, 2)"
+    }
+  ]
+}

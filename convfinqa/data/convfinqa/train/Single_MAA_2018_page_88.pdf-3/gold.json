@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the dividend yield from 2017 to 2018?",
+      "answer": 0.311,
+      "answer_raw": "0.311",
+      "program": "subtract(3.884, 3.573)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that dividend yield in 2017?",
+      "answer": 3.573,
+      "answer_raw": "3.573",
+      "program": "3.573"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then does that change represent in relation to this 2017 dividend yield, in percentage?",
+      "answer": 0.08704,
+      "answer_raw": "0.08704",
+      "program": "subtract(3.884, 3.573), divide(#0, 3.573)"
+    }
+  ]
+}

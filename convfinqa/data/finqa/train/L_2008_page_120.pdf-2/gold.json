@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if 2009 gas production increases at the same rate as 2008 , what would the approximate 2009 product be , in bcf?",
+      "answer": 183.09441,
+      "answer_raw": "183.09441",
+      "program": "divide(78.9, 34.0), multiply(#0, 78.9)"
+    }
+  ]
+}

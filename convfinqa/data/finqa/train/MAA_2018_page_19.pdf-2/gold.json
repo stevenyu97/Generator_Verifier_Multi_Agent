@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of consolidated communities among the total communities?",
+      "answer": 0.99671,
+      "answer_raw": "0.99671",
+      "program": "divide(303, 304)"
+    }
+  ]
+}

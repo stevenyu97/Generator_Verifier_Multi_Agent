@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in value of fidelity national information systems common stock from 12/07 to 12/12?",
+      "answer": 57.38,
+      "answer_raw": "57.38",
+      "program": "subtract(157.38, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": 0.5738,
+      "answer_raw": "0.5738",
+      "program": "subtract(157.38, const_100), divide(#0, const_100)"
+    }
+  ]
+}

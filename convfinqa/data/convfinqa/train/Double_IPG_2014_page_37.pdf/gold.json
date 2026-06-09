@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the two year period ended in 2014, what was the full long-term debt?",
+      "answer": 2753.3,
+      "answer_raw": "2753.3",
+      "program": "add(1623.5, 1129.8)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total debt?",
+      "answer": 3395.3,
+      "answer_raw": "3395.3",
+      "program": "add(1623.5, 1129.8), add(1732.8, 1662.5)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, did the long-term debt represent as a portion of the total?",
+      "answer": 0.81092,
+      "answer_raw": "0.81092",
+      "program": "add(1623.5, 1129.8), add(1732.8, 1662.5), divide(#0, #1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is that in percentage?",
+      "answer": 81.09151,
+      "answer_raw": "81.09151",
+      "program": "add(1623.5, 1129.8), add(1732.8, 1662.5), divide(#0, #1), multiply(#2, const_100)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "for that same two year period, what was the change in that total debt?",
+      "answer": 70.3,
+      "answer_raw": "70.3",
+      "program": "subtract(1732.8, 1662.5)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and what percentage does this change represent in relation to the 2013 total debt?",
+      "answer": 0.04229,
+      "answer_raw": "0.04229",
+      "program": "subtract(1732.8, 1662.5), divide(#0, 1662.5)"
+    }
+  ]
+}

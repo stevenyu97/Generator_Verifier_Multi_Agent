@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total number of shares issued in the ipo including the sale of the additional shares of common stock to the underwriters of the ipo pursuant to the underwriters 2019 july 26 , 2013 exercise in full of the overallotment option grant?",
+      "answer": 26737500.0,
+      "answer_raw": "26737500.0",
+      "program": "add(23250000, 3487500)"
+    }
+  ]
+}

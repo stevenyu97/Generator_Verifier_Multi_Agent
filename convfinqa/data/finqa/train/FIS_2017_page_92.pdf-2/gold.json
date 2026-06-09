@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total long-term debt is due in 2021?",
+      "answer": 0.17582,
+      "answer_raw": "0.17582",
+      "program": "divide(1546, 8793)"
+    }
+  ]
+}

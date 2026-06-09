@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total combined crack spread for us gulf coast in the first and second quarters of 2008?",
+      "answer": 3.38,
+      "answer_raw": "3.38",
+      "program": "add(1.39, 1.99)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the average crack spread for us gulf coast lls 6-3-2-1 between those quarters?",
+      "answer": 1.69,
+      "answer_raw": "1.69",
+      "program": "add(1.39, 1.99), divide(#0, const_2)"
+    }
+  ]
+}

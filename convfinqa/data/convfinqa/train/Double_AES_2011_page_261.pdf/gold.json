@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2010, what percentage did the deepwater write-down represent in relation the total of impairments?",
+      "answer": 0.20308,
+      "answer_raw": "0.20308",
+      "program": "divide(79, 389)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and concerning the huntington beach facility in california, what was the recognized asset impairment expense as a percentage of the total carrying value?",
+      "answer": 0.69444,
+      "answer_raw": "0.69444",
+      "program": "divide(200, 288)"
+    }
+  ]
+}

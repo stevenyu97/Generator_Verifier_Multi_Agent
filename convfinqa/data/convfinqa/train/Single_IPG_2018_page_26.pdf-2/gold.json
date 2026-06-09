@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total number of shares purchased in november?",
+      "answer": 3824.0,
+      "answer_raw": "3824.0",
+      "program": "3824"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in october?",
+      "answer": 1750.0,
+      "answer_raw": "1750.0",
+      "program": "1750"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change in that number over the month?",
+      "answer": 2074.0,
+      "answer_raw": "2074.0",
+      "program": "subtract(3824, 1750)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the total number of shares purchased in october?",
+      "answer": 3824.0,
+      "answer_raw": "3824.0",
+      "program": "3824"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this october total number?",
+      "answer": 0.54236,
+      "answer_raw": "0.54236",
+      "program": "subtract(3824, 1750), divide(#0, 3824)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and how much is that in percentage?",
+      "answer": 54.2364,
+      "answer_raw": "54.2364",
+      "program": "subtract(3824, 1750), divide(#0, 3824), multiply(#1, const_100)"
+    }
+  ]
+}

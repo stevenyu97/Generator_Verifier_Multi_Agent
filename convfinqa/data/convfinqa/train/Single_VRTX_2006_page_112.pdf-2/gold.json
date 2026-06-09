@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in research and development contract costs between 2005 and 2006?",
+      "answer": 37663.0,
+      "answer_raw": "37663.0",
+      "program": "subtract(57761, 20098)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2005?",
+      "answer": 20098.0,
+      "answer_raw": "20098.0",
+      "program": "20098"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change over the 2005 value?",
+      "answer": 1.87397,
+      "answer_raw": "1.87397",
+      "program": "subtract(57761, 20098), divide(#0, 20098)"
+    }
+  ]
+}

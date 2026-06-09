@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of insurance recovery collected to incremental costs attributable to the bridgeton?",
+      "answer": 3.33333,
+      "answer_raw": "3.33333",
+      "program": "divide(40.0, 12.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the ratio of acquisitions / divestitures net to fuel recovery fees in 2009?",
+      "answer": 4.0,
+      "answer_raw": "4.0",
+      "program": "divide(1.0, 0.25)"
+    }
+  ]
+}

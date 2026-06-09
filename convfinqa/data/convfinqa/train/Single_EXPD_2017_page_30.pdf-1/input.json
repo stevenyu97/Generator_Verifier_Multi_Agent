@@ -1,0 +1,98 @@
+{
+  "input": {
+    "id": "Single_EXPD/2017/page_30.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the graph below compares expeditors international of washington , inc.'s cumulative 5-year total shareholder return on common stock with the cumulative total returns of the s&p 500 index , the nasdaq transportation index , and the nasdaq industrial transportation index ( nqusb2770t ) as a replacement for the nasdaq transportation index .",
+      "the company is making the modification to reference a specific transportation index and to source that data directly from nasdaq .",
+      "the graph assumes that the value of the investment in our common stock and in each of the indexes ( including reinvestment of dividends ) was $ 100 on 12/31/2012 and tracks it through 12/31/2017 .",
+      "total return assumes reinvestment of dividends in each of the indices indicated .",
+      "comparison of 5-year cumulative total return among expeditors international of washington , inc. , the s&p 500 index , the nasdaq industrial transportation index and the nasdaq transportation index. ."
+    ],
+    "post_text": [
+      "the stock price performance included in this graph is not necessarily indicative of future stock price performance .",
+      "item 6 2014 selected financial data financial highlights in thousands , except per share data 2017 2016 2015 2014 2013 revenues ..................................................................... .",
+      "$ 6920948 6098037 6616632 6564721 6080257 net revenues1 ............................................................... .",
+      "$ 2319189 2164036 2187777 1981427 1882853 net earnings attributable to shareholders ..................... .",
+      "$ 489345 430807 457223 376888 348526 diluted earnings attributable to shareholders per share $ 2.69 2.36 2.40 1.92 1.68 basic earnings attributable to shareholders per share.. .",
+      "$ 2.73 2.38 2.42 1.92 1.69 dividends declared and paid per common share.......... .",
+      "$ 0.84 0.80 0.72 0.64 0.60 cash used for dividends ............................................... .",
+      "$ 150495 145123 135673 124634 123292 cash used for share repurchases ................................. .",
+      "$ 478258 337658 629991 550781 261936 working capital ............................................................. .",
+      "$ 1448333 1288648 1115136 1285188 1526673 total assets .................................................................. .",
+      "$ 3117008 2790871 2565577 2870626 2996416 shareholders 2019 equity ..................................................... .",
+      "$ 1991858 1844638 1691993 1868408 2084783 weighted average diluted shares outstanding .............. .",
+      "181666 182704 190223 196768 206895 weighted average basic shares outstanding ................ .",
+      "179247 181282 188941 196147 205995 _______________________ 1non-gaap measure calculated as revenues less directly related operating expenses attributable to our principal services .",
+      "see management's discussion and analysis for a reconciliation of net revenues to revenues .",
+      "safe harbor for forward-looking statements under private securities litigation reform act of 1995 ; certain cautionary statements this annual report on form 10-k for the fiscal year ended december 31 , 2017 contains 201cforward-looking statements , 201d as defined in section 27a of the securities act of 1933 , as amended , and section 21e of the securities exchange act of 1934 , as amended .",
+      "from time to time , expeditors or its representatives have made or may make forward-looking statements , orally or in writing .",
+      "such forward-looking statements may be included in , but not limited to , press releases , presentations , oral statements made with the approval of an authorized executive officer or in various filings made by expeditors with the securities and exchange commission .",
+      "statements including those preceded by , followed by or that include the words or phrases 201cwill likely result 201d , 201care expected to 201d , \"would expect\" , \"would not expect\" , 201cwill continue 201d , 201cis anticipated 201d , 201cestimate 201d , 201cproject 201d , \"provisional\" , \"plan\" , \"believe\" , \"probable\" , \"reasonably possible\" , \"may\" , \"could\" , \"should\" , \"intends\" , \"foreseeable future\" or similar expressions are intended to identify 201cforward-looking statements 201d within the meaning of the private securities litigation reform act of 1995 .",
+      "such statements are qualified in their entirety by reference to and are accompanied by the discussion in item 1a of certain important factors that could cause actual results to differ materially from such forward-looking statements .",
+      "the risks included in item 1a are not exhaustive .",
+      "furthermore , reference is also made to other sections of this report , which include additional factors that could adversely impact expeditors' business and financial performance .",
+      "moreover , expeditors operates in a very competitive , complex and rapidly changing global environment .",
+      "new risk factors emerge from time to time and it is not possible for management to predict all of such risk factors , nor can it assess the impact of all of such risk factors on expeditors' business or the extent to which any factor , or combination of factors , may cause actual results to differ materially from those contained in any forward-looking statements .",
+      "accordingly , forward-looking statements cannot be relied upon as a guarantee of actual results .",
+      "shareholders should be aware that while expeditors does , from time to time , communicate with securities analysts , it is against expeditors' policy to disclose to such analysts any material non-public information or other confidential commercial information .",
+      "accordingly , shareholders should not assume that expeditors agrees with any statement or report issued by any analyst irrespective of the content of such statement or report .",
+      "furthermore , expeditors has a policy against issuing financial forecasts or projections or confirming the accuracy of forecasts or projections issued by others .",
+      "accordingly , to the extent that reports issued by securities analysts contain any projections , forecasts or opinions , such reports are not the responsibility of expeditors. ."
+    ],
+    "table": [
+      [
+        "",
+        "12/12",
+        "12/13",
+        "12/14",
+        "12/15",
+        "12/16",
+        "12/17"
+      ],
+      [
+        "expeditors international of washington inc .",
+        "$ 100.00",
+        "$ 113.52",
+        "$ 116.07",
+        "$ 119.12",
+        "$ 142.10",
+        "$ 176.08"
+      ],
+      [
+        "standard and poor's 500 index",
+        "100.00",
+        "132.39",
+        "150.51",
+        "152.59",
+        "170.84",
+        "208.14"
+      ],
+      [
+        "nasdaq transportation",
+        "100.00",
+        "133.76",
+        "187.65",
+        "162.30",
+        "193.79",
+        "248.92"
+      ],
+      [
+        "nasdaq industrial transportation ( nqusb2770t )",
+        "100.00",
+        "141.60",
+        "171.91",
+        "132.47",
+        "171.17",
+        "218.34"
+      ]
+    ],
+    "questions": [
+      "what was the change in the value of the expeditors international of washington inc . from 2012 to 2017?",
+      "and what was that change for standard and poor's 500 index during the same period?",
+      "how much does the expeditors international of washington inc . change represent in relation to the the value of that stock in 2012, in percentage?",
+      "and how much does the standard and poor's 500 index change represent in relation to the the value of that stock in 2012, also in percentage?",
+      "what is the difference between this percentage representation for expeditors international of washington inc . and for standard and poor's 500 index?"
+    ]
+  }
+}

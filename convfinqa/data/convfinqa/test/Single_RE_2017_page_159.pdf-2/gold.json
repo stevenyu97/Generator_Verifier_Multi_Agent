@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the balance in the unaffiliated life insurance company in 2017?",
+      "answer": 34444.0,
+      "answer_raw": "34444.0",
+      "program": "34444"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2016?",
+      "answer": 33860.0,
+      "answer_raw": "33860.0",
+      "program": "33860"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 584.0,
+      "answer_raw": "584.0",
+      "program": "subtract(34444, 33860)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the balance in the unaffiliated life insurance company in 2016?",
+      "answer": 33860.0,
+      "answer_raw": "33860.0",
+      "program": "33860"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what about the percentage change?",
+      "answer": 0.01725,
+      "answer_raw": "0.01725",
+      "program": "subtract(34444, 33860), divide(#0, 33860)"
+    }
+  ]
+}

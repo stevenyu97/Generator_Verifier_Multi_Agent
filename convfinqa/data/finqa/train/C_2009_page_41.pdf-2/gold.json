@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as a percent of total revenues net of interest expense what was non-interest revenue in 2007?",
+      "answer": 0.91481,
+      "answer_raw": "0.91481",
+      "program": "divide(9751, 10659)"
+    }
+  ]
+}

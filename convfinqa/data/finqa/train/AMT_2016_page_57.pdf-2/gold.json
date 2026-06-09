@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total number of new sites acquired and constructed during 2016?",
+      "answer": 45310.0,
+      "answer_raw": "45310.0",
+      "program": "add(65, 43865), add(#0, 665), add(#1, 715)"
+    }
+  ]
+}

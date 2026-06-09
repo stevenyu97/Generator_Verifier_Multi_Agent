@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2008 what was the percent of the number of securities to be issued upon exercise of outstanding options warrants and rights that did not have an exercise price",
+      "answer": 0.11092,
+      "answer_raw": "0.11092",
+      "program": "divide(1494925, 13477830)"
+    }
+  ]
+}

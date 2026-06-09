@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in mmboe what was the total of reserves transferred from proved undeveloped to proved developed reserves in the eagle ford and in the bakken shale plays?",
+      "answer": 44.0,
+      "answer_raw": "44.0",
+      "program": "add(30, 14)"
+    }
+  ]
+}

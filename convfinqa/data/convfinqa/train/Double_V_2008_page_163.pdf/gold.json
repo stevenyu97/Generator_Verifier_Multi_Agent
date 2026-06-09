@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amount gained with the issuance of the class a common stock in 2008?",
+      "answer": 19101082000.0,
+      "answer_raw": "19101082000.0",
+      "program": "multiply(446600000, 42.77)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and as of september of that year, what was the difference in the number of shares of the class usa common stock pre and after true-up?",
+      "answer": 26138609.0,
+      "answer_raw": "26138609.0",
+      "program": "subtract(426390481, 400251872)"
+    }
+  ]
+}

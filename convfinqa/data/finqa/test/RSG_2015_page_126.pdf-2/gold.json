@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "during 2013 , what was the ratio of the accrued interest $ 1.2 million to the recognized a interest liability interest of $ 17.0 million .",
+      "answer": 14.16667,
+      "answer_raw": "14.16667",
+      "program": "divide(17.0, 1.2)"
+    }
+  ]
+}

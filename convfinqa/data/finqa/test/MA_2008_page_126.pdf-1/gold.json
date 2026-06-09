@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in total liabilities for litigation settlements from 2006 to 2007?",
+      "answer": -0.15197,
+      "answer_raw": "-0.15197",
+      "program": "subtract(404436, 476915), divide(#0, 476915)"
+    }
+  ]
+}

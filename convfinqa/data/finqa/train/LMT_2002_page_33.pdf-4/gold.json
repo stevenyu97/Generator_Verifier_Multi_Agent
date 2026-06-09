@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the operating margin for space systems in 2001?",
+      "answer": 0.05266,
+      "answer_raw": "0.05266",
+      "program": "divide(360, 6836)"
+    }
+  ]
+}

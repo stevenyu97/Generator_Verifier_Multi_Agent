@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of january 29, 2007, what was the estimated fair value of the goodwill?",
+      "answer": 646.7,
+      "answer_raw": "646.7",
+      "program": "646.7"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total purchase price?",
+      "answer": 2320.7,
+      "answer_raw": "2320.7",
+      "program": "2320.7"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, did that estimated fair value represent in relation to this price, in percentage?",
+      "answer": 0.27867,
+      "answer_raw": "0.27867",
+      "program": "divide(646.7, 2320.7)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was the percentage of this price represented by the estimated fair value of tax benefit of net operating losses?",
+      "answer": 0.17413,
+      "answer_raw": "0.17413",
+      "program": "divide(404.1, 2320.7)"
+    }
+  ]
+}

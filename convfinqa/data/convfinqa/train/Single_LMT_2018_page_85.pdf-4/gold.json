@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of weighted average common shares outstanding for basic computations in 2018?",
+      "answer": 284.5,
+      "answer_raw": "284.5",
+      "program": "284.5"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2017?",
+      "answer": 287.8,
+      "answer_raw": "287.8",
+      "program": "287.8"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": -3.3,
+      "answer_raw": "-3.3",
+      "program": "subtract(284.5, 287.8)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the total of weighted average common shares outstanding for basic computations in 2017?",
+      "answer": 287.8,
+      "answer_raw": "287.8",
+      "program": "287.8"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this 2017 total, in percentage?",
+      "answer": -0.01147,
+      "answer_raw": "-0.01147",
+      "program": "subtract(284.5, 287.8), divide(#0, 287.8)"
+    }
+  ]
+}

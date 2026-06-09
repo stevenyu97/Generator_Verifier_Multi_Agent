@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the increase observed in the weighted average grant date fair value of the restricted stocks in 2006 and 2007?",
+      "answer": 0.16979,
+      "answer_raw": "0.16979",
+      "program": "divide(63.59, 54.36), subtract(#0, const_1)"
+    }
+  ]
+}

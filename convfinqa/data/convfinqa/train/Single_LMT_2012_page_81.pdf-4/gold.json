@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in value of total long-term debt from 2011 to 2012?",
+      "answer": 234.0,
+      "answer_raw": "234.0",
+      "program": "subtract(7200, 6966)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that divided by the 2011 value?",
+      "answer": 0.03359,
+      "answer_raw": "0.03359",
+      "program": "subtract(7200, 6966), divide(#0, 6966)"
+    }
+  ]
+}

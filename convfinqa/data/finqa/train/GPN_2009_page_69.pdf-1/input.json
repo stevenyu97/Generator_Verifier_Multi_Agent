@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "GPN/2009/page_69.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements 2014 ( continued ) owns the remaining 44% ( 44 % ) .",
+      "we purchased our share of gpap philippines for $ 10.9 million .",
+      "the purpose of this acquisition was to expand our presence in the asia-pacific market .",
+      "this business acquisition was not significant to our consolidated financial statements and accordingly , we have not provided pro forma information relating to this acquisition .",
+      "the following table summarizes the preliminary purchase price allocation ( in thousands ) : ."
+    ],
+    "post_text": [
+      "all of the goodwill associated with the acquisition is non-deductible for tax purposes .",
+      "the customer-related intangible assets have amortization periods of 11 years .",
+      "the contract-based intangible assets have amortization periods of 7 years .",
+      "the trademark has an amortization period of 5 years .",
+      "money transfer branch locations during 2009 , we completed the second and final series of money transfer branch location acquisitions in the united states as part of an assignment and asset purchase agreement with a privately held company .",
+      "the purpose of this acquisition was to increase the market presence of our dolex-branded money transfer offering .",
+      "the purchase price of these acquisitions was $ 787 thousand with $ 739 thousand allocated to goodwill and $ 48 thousand allocated to intangibles .",
+      "pursuant to our annual impairment test in fiscal 2009 , goodwill and other intangibles related to our money transfer business were deemed impaired .",
+      "please see note 3 2014impairment charges for further information .",
+      "this business acquisition was not significant to our consolidated financial statements and accordingly , we have not provided pro forma information relating to this acquisition .",
+      "fiscal 2008 discover during the year ended may 31 , 2008 , we acquired a portfolio of merchants that process discover transactions and the rights to process discover transactions for our existing and new merchants for $ 6.0 million .",
+      "the purchase of the portfolio was structured to occur in tranches .",
+      "during fiscal 2009 , additional tranches were purchased for $ 1.4 million .",
+      "as a result of this acquisition , we now process discover transactions similarly to how we currently process visa and mastercard transactions .",
+      "the purpose of this acquisition was to offer merchants a single point of contact for discover , visa and mastercard card processing .",
+      "the operating results of the acquired portfolio have been included in our consolidated financial statements from the dates of acquisition .",
+      "the customer-related intangible assets have amortization periods of 10 years .",
+      "these business acquisitions were not significant to our consolidated financial statements and accordingly , we have not provided pro forma information relating to these acquisitions. ."
+    ],
+    "table": [
+      [
+        "goodwill",
+        "$ 6286"
+      ],
+      [
+        "customer-related intangible assets",
+        "3248"
+      ],
+      [
+        "contract-based intangible assets",
+        "952"
+      ],
+      [
+        "trademark",
+        "224"
+      ],
+      [
+        "property and equipment",
+        "300"
+      ],
+      [
+        "total assets acquired",
+        "11010"
+      ],
+      [
+        "minority interest in equity of subsidiary ( at historical cost )",
+        "-132 ( 132 )"
+      ],
+      [
+        "net assets acquired",
+        "$ 10878"
+      ]
+    ],
+    "questions": [
+      "what is the yearly amortization expense related to trademark , ( in thousands ) ?"
+    ]
+  }
+}

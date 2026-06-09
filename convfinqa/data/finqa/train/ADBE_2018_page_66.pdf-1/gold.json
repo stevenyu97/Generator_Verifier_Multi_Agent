@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average yearly amortization expense related to trademarks?",
+      "answer": 11.11111,
+      "answer_raw": "11.11111",
+      "program": "divide(const_100, 9)"
+    }
+  ]
+}

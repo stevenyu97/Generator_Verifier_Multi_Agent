@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the number of shares repurchased from the company?",
+      "answer": 9021199.0,
+      "answer_raw": "9021199.0",
+      "program": "subtract(195407396, 186386197)"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "input": {
+    "id": "Single_RCL/2016/page_7.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the following table details the growth in global weighted average berths and the global , north american , european and asia/pacific cruise guests over the past five years ( in thousands , except berth data ) : weighted- average supply of berths marketed globally ( 1 ) caribbean cruises ltd .",
+      "total berths ( 2 ) global cruise guests ( 1 ) american cruise guests ( 1 ) ( 3 ) european cruise guests ( 1 ) ( 4 ) asia/pacific cruise guests ( 1 ) ( 5 ) ."
+    ],
+    "post_text": [
+      "_______________________________________________________________________________ ( 1 ) source : our estimates of the number of global cruise guests and the weighted-average supply of berths marketed globally are based on a combination of data that we obtain from various publicly available cruise industry trade information sources .",
+      "we use data obtained from seatrade insider , cruise industry news and company press releases to estimate weighted-average supply of berths and clia and g.p .",
+      "wild to estimate cruise guest information .",
+      "in addition , our estimates incorporate our own statistical analysis utilizing the same publicly available cruise industry data as a base .",
+      "( 2 ) total berths include our berths related to our global brands and partner brands .",
+      "( 3 ) our estimates include the united states and canada .",
+      "( 4 ) our estimates include european countries relevant to the industry ( e.g. , nordics , germany , france , italy , spain and the united kingdom ) .",
+      "( 5 ) our estimates include the southeast asia ( e.g. , singapore , thailand and the philippines ) , east asia ( e.g. , china and japan ) , south asia ( e.g. , india and pakistan ) and oceanian ( e.g. , australia and fiji islands ) regions .",
+      "north america the majority of industry cruise guests are sourced from north america , which represented approximately 52% ( 52 % ) of global cruise guests in 2016 .",
+      "the compound annual growth rate in cruise guests sourced from this market was approximately 2% ( 2 % ) from 2012 to 2016 .",
+      "europe industry cruise guests sourced from europe represented approximately 27% ( 27 % ) of global cruise guests in 2016 .",
+      "the compound annual growth rate in cruise guests sourced from this market was approximately 1% ( 1 % ) from 2012 to 2016 .",
+      "asia/pacific industry cruise guests sourced from the asia/pacific region represented approximately 15% ( 15 % ) of global cruise guests in 2016 .",
+      "the compound annual growth rate in cruise guests sourced from this market was approximately 25% ( 25 % ) from 2012 to 2016 .",
+      "the asia/pacific region is experiencing the highest growth rate of the major regions , although it will continue to represent a relatively small sector compared to north america .",
+      "competition we compete with a number of cruise lines .",
+      "our principal competitors are carnival corporation & plc , which owns , among others , aida cruises , carnival cruise line , costa cruises , cunard line , holland america line , p&o cruises , princess cruises and seabourn ; disney cruise line ; msc cruises ; and norwegian cruise line holdings ltd , which owns norwegian cruise line , oceania cruises and regent seven seas cruises .",
+      "cruise lines compete with ."
+    ],
+    "table": [
+      [
+        "year",
+        "weighted-averagesupply ofberthsmarketedglobally ( 1 )",
+        "royal caribbean cruises ltd . total berths ( 2 )",
+        "globalcruiseguests ( 1 )",
+        "north american cruise guests ( 1 ) ( 3 )",
+        "european cruise guests ( 1 ) ( 4 )",
+        "asia/pacific cruise guests ( 1 ) ( 5 )"
+      ],
+      [
+        "2012",
+        "425000",
+        "98650",
+        "20813",
+        "11641",
+        "6225",
+        "1474"
+      ],
+      [
+        "2013",
+        "432000",
+        "98750",
+        "21343",
+        "11710",
+        "6430",
+        "2045"
+      ],
+      [
+        "2014",
+        "448000",
+        "105750",
+        "22039",
+        "12269",
+        "6387",
+        "2382"
+      ],
+      [
+        "2015",
+        "469000",
+        "112700",
+        "23000",
+        "12004",
+        "6587",
+        "3129"
+      ],
+      [
+        "2016",
+        "493000",
+        "123270",
+        "24000",
+        "12581",
+        "6542",
+        "3636"
+      ]
+    ],
+    "questions": [
+      "what is the net change in weighted-average supply of berths market ed globally from 2012 to 2016?",
+      "what percentage change does this represent?"
+    ]
+  }
+}

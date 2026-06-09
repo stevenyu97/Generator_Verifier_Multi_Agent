@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2012 , what net exposure amounted to consolidated investment funds amounted to what percent of the investments held by consolidated sponsored investment funds?",
+      "answer": 0.82061,
+      "answer_raw": "0.82061",
+      "program": "divide(430, 524)"
+    }
+  ]
+}

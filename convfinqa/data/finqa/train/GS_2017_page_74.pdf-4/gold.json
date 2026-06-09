@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total net revenue in the investing & lending segment during 2017 was comprised of equity securities?",
+      "answer": 0.69564,
+      "answer_raw": "0.69564",
+      "program": "divide(4578, 6581)"
+    }
+  ]
+}

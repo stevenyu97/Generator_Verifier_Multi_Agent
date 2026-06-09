@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in shareholders 2019 equity in 2010 ( in millions ) ?",
+      "answer": 3307.0,
+      "answer_raw": "3307.0",
+      "program": "subtract(22974, 19667)"
+    }
+  ]
+}

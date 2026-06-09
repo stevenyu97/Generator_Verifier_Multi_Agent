@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what the difference of the held-to-maturity securities at cost and at fair value as of january 30 , 2009 , in millions?",
+      "answer": 2.5,
+      "answer_raw": "2.5",
+      "program": "subtract(31.4, 28.9)"
+    }
+  ]
+}

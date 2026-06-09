@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the implicit interest rate numerically, or not in percentage?",
+      "answer": 0.0513,
+      "answer_raw": "0.0513",
+      "program": "divide(5.13, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total in lease payments in 2018?",
+      "answer": 17188.0,
+      "answer_raw": "17188.0",
+      "program": "17188"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what amount, then, of this total, is due to that implicit interest rate?",
+      "answer": 881.7444,
+      "answer_raw": "881.7444",
+      "program": "divide(5.13, const_100), multiply(#0, 17188)"
+    }
+  ]
+}

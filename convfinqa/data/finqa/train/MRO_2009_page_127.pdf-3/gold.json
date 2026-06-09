@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by what percentage did asset retirement obligations decrease from 2007 to 2008?",
+      "answer": -0.14903,
+      "answer_raw": "-0.14903",
+      "program": "subtract(965, 1134), divide(#0, 1134)"
+    }
+  ]
+}

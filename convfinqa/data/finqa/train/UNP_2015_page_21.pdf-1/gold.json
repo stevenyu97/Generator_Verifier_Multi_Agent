@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the fourth quarter ended december 31 , 2015 what was the percent of the total number of shares purchased in november",
+      "answer": 0.34824,
+      "answer_raw": "0.34824",
+      "program": "divide(2325865, 6678985)"
+    }
+  ]
+}

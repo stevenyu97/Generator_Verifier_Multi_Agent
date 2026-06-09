@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in amortized cost between 2002 and 2003?",
+      "answer": -15777000.0,
+      "answer_raw": "-15777000.0",
+      "program": "subtract(9877000, 25654000)"
+    }
+  ]
+}

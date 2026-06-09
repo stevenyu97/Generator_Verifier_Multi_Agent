@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase in the stock performance of the royal caribbean cruises ltd . from 2012 to 2013",
+      "answer": 0.421,
+      "answer_raw": "0.421",
+      "program": "subtract(198.03, 139.36), divide(#0, 139.36)"
+    }
+  ]
+}

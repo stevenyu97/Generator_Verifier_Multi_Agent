@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the company aggregate principal payments due in 2006",
+      "answer": 0.14926,
+      "answer_raw": "0.14926",
+      "program": "divide(538479, 3607539)"
+    }
+  ]
+}

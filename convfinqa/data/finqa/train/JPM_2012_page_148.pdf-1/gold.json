@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of derivative receivables was junk rated in 2012?",
+      "answer": 14.0,
+      "answer_raw": "14.0",
+      "program": "subtract(16, 2)"
+    }
+  ]
+}

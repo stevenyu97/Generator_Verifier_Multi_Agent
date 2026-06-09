@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total facilities are in europe middle east& africa?",
+      "answer": 0.38889,
+      "answer_raw": "0.38889",
+      "program": "divide(49, 126)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in asia pacific?",
+      "answer": 0.2619,
+      "answer_raw": "0.2619",
+      "program": "divide(33, 126)"
+    }
+  ]
+}

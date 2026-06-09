@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total future minimum rental payments under non-cancellable was due in 2015?",
+      "answer": 0.06211,
+      "answer_raw": "0.06211",
+      "program": "divide(238035, 3832573)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total amount of future minimum rental payments in the next 24 months?",
+      "answer": 512546.0,
+      "answer_raw": "512546.0",
+      "program": "add(257971, 254575)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what portion does this make up out of the total future minimum rental payments?",
+      "answer": 0.13373,
+      "answer_raw": "0.13373",
+      "program": "add(257971, 254575), divide(#0, 3832573)"
+    }
+  ]
+}

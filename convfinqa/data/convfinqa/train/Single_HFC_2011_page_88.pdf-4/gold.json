@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of cash?",
+      "answer": 25.7,
+      "answer_raw": "25.7",
+      "program": "25.7"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the value of taxes?",
+      "answer": 4.2,
+      "answer_raw": "4.2",
+      "program": "4.2"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum of cash and taxes?",
+      "answer": 29.9,
+      "answer_raw": "29.9",
+      "program": "add(25.7, 4.2)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total fair value less the sum of cash and taxes?",
+      "answer": 23.6,
+      "answer_raw": "23.6",
+      "program": "add(25.7, 4.2), subtract(53.5, #0)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is that divided by hep?",
+      "answer": 2e-05,
+      "answer_raw": "2e-05",
+      "program": "add(25.7, 4.2), subtract(53.5, #0), divide(#1, 1373609)"
+    }
+  ]
+}

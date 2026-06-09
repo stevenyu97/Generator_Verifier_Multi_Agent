@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the years 2015-2016 , how bigger is the growth of the third-party sales for the engineered products and solutions segment in comparison with the transportation and construction solutions one?",
+      "answer": 0.11251,
+      "answer_raw": "0.11251",
+      "program": "subtract(1802, 1882), divide(#0, 1882), subtract(7%, #1)"
+    }
+  ]
+}

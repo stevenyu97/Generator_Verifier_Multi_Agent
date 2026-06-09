@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "SNA/2007/page_80.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements ( continued ) | 72 snap-on incorporated following is a reconciliation of the beginning and ending amount of unrecognized tax benefits : ( amounts in millions ) amount ."
+    ],
+    "post_text": [
+      "of the $ 18.7 million of unrecognized tax benefits at the end of 2007 , approximately $ 16.2 million would impact the effective income tax rate if recognized .",
+      "interest and penalties related to unrecognized tax benefits are recorded in income tax expense .",
+      "during the years ended december 29 , 2007 , december 30 , 2006 , and december 31 , 2005 , the company recognized approximately $ 1.2 million , $ 0.5 million and ( $ 0.5 ) million in net interest expense ( benefit ) , respectively .",
+      "the company has provided for approximately $ 3.4 million , $ 2.2 million , and $ 1.7 million of accrued interest related to unrecognized tax benefits at the end of fiscal year 2007 , 2006 and 2005 , respectively .",
+      "during the next 12 months , the company does not anticipate any significant changes to the total amount of unrecognized tax benefits , other than the accrual of additional interest expense in an amount similar to the prior year 2019s expense .",
+      "with few exceptions , snap-on is no longer subject to u.s .",
+      "federal and state/local income tax examinations by tax authorities for years prior to 2003 , and snap-on is no longer subject to non-u.s .",
+      "income tax examinations by tax authorities for years prior to 2001 .",
+      "the undistributed earnings of all non-u.s .",
+      "subsidiaries totaled $ 338.5 million , $ 247.4 million and $ 173.6 million at the end of fiscal 2007 , 2006 and 2005 , respectively .",
+      "snap-on has not provided any deferred taxes on these undistributed earnings as it considers the undistributed earnings to be permanently invested .",
+      "determination of the amount of unrecognized deferred income tax liability related to these earnings is not practicable .",
+      "the american jobs creation act of 2004 ( the 201cajca 201d ) created a one-time tax incentive for u.s .",
+      "corporations to repatriate accumulated foreign earnings by providing a tax deduction of 85% ( 85 % ) of qualifying dividends received from foreign affiliates .",
+      "under the provisions of the ajca , snap-on repatriated approximately $ 93 million of qualifying dividends in 2005 that resulted in additional income tax expense of $ 3.3 million for the year .",
+      "note 9 : short-term and long-term debt notes payable and long-term debt as of december 29 , 2007 , was $ 517.9 million ; no commercial paper was outstanding at december 29 , 2007 .",
+      "as of december 30 , 2006 , notes payable and long-term debt was $ 549.2 million , including $ 314.9 million of commercial paper .",
+      "snap-on presented $ 300 million of the december 30 , 2006 , outstanding commercial paper as 201clong-term debt 201d on the accompanying december 30 , 2006 , consolidated balance sheet .",
+      "on january 12 , 2007 , snap-on sold $ 300 million of unsecured notes consisting of $ 150 million of floating rate notes that mature on january 12 , 2010 , and $ 150 million of fixed rate notes that mature on january 15 , 2017 .",
+      "interest on the floating rate notes accrues at a rate equal to the three-month london interbank offer rate plus 0.13% ( 0.13 % ) per year and is payable quarterly .",
+      "interest on the fixed rate notes accrues at a rate of 5.50% ( 5.50 % ) per year and is payable semi-annually .",
+      "snap-on used the proceeds from the sale of the notes , net of $ 1.5 million of transaction costs , to repay commercial paper obligations issued to finance the acquisition of business solutions .",
+      "on january 12 , 2007 , the company also terminated a $ 250 million bridge credit agreement that snap-on established prior to its acquisition of business solutions. ."
+    ],
+    "table": [
+      [
+        "( amounts in millions )",
+        "amount"
+      ],
+      [
+        "unrecognized tax benefits as of december 31 2006",
+        "$ 21.3"
+      ],
+      [
+        "gross increases 2013 tax positions in prior periods",
+        "0.5"
+      ],
+      [
+        "gross decreases 2013 tax positions in prior periods",
+        "-0.4 ( 0.4 )"
+      ],
+      [
+        "gross increases 2013 tax positions in the current period",
+        "0.5"
+      ],
+      [
+        "settlements with taxing authorities",
+        "-3.0 ( 3.0 )"
+      ],
+      [
+        "lapsing of statutes of limitations",
+        "-0.2 ( 0.2 )"
+      ],
+      [
+        "unrecognized tax benefits as of december 29 2007",
+        "$ 18.7"
+      ]
+    ],
+    "questions": [
+      "what was the average undistributed earnings of all non-u.s.subsidiaries from 2005 to 2007"
+    ]
+  }
+}

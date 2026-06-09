@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "GS/2017/page_68.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the goldman sachs group , inc .",
+      "and subsidiaries management 2019s discussion and analysis as of december 2017 , total staff increased 6% ( 6 % ) compared with december 2016 , reflecting investments in technology and marcus , and support of our regulatory efforts .",
+      "2016 versus 2015 .",
+      "operating expenses in the consolidated statements of earnings were $ 20.30 billion for 2016 , 19% ( 19 % ) lower than 2015 .",
+      "compensation and benefits expenses in the consolidated statements of earnings were $ 11.65 billion for 2016 , 8% ( 8 % ) lower than 2015 , reflecting a decrease in net revenues and the impact of expense savings initiatives .",
+      "the ratio of compensation and benefits to net revenues for 2016 was 38.1% ( 38.1 % ) compared with 37.5% ( 37.5 % ) for 2015 .",
+      "non-compensation expenses in the consolidated statements of earnings were $ 8.66 billion for 2016 , 30% ( 30 % ) lower than 2015 , primarily due to significantly lower net provisions for mortgage-related litigation and regulatory matters , which are included in other expenses .",
+      "in addition , market development expenses and professional fees were lower compared with 2015 , reflecting expense savings initiatives .",
+      "net provisions for litigation and regulatory proceedings for 2016 were $ 396 million compared with $ 4.01 billion for 2015 ( 2015 primarily related to net provisions for mortgage-related matters ) .",
+      "2016 included a $ 114 million charitable contribution to goldman sachs gives .",
+      "compensation was reduced to fund this charitable contribution to goldman sachs gives .",
+      "we ask our participating managing directors to make recommendations regarding potential charitable recipients for this contribution .",
+      "as of december 2016 , total staff decreased 7% ( 7 % ) compared with december 2015 , due to expense savings initiatives .",
+      "provision for taxes the effective income tax rate for 2017 was 61.5% ( 61.5 % ) , up from 28.2% ( 28.2 % ) for 2016 .",
+      "the increase compared with 2016 reflected the estimated impact of tax legislation , which was enacted on december 22 , 2017 and , among other things , lowers u.s .",
+      "corporate income tax rates as of january 1 , 2018 , implements a territorial tax system and imposes a repatriation tax on deemed repatriated earnings of foreign subsidiaries .",
+      "the estimated impact of tax legislation was an increase in income tax expense of $ 4.40 billion , of which $ 3.32 billion was due to the repatriation tax and $ 1.08 billion was due to the effects of the implementation of the territorial tax system and the remeasurement of u.s .",
+      "deferred tax assets at lower enacted corporate tax rates .",
+      "the impact of tax legislation may differ from this estimate , possibly materially , due to , among other things , ( i ) refinement of our calculations based on updated information , ( ii ) changes in interpretations and assumptions , ( iii ) guidance that may be issued and ( iv ) actions we may take as a result of tax legislation .",
+      "excluding the estimated impact of tax legislation , the effective income tax rate for 2017 was 22.0% ( 22.0 % ) , down from 28.2% ( 28.2 % ) for 2016 .",
+      "this decrease was primarily due to tax benefits on the settlement of employee share-based awards in accordance with asu no .",
+      "2016-09 .",
+      "the impact of these settlements in 2017 was a reduction to our provision for taxes of $ 719 million and a reduction in our effective income tax rate of 6.4 percentage points .",
+      "see note 3 to the consolidated financial statements for further information about this asu .",
+      "the effective income tax rate , excluding the estimated impact of tax legislation , is a non-gaap measure and may not be comparable to similar non-gaap measures used by other companies .",
+      "we believe that presenting our effective income tax rate , excluding the estimated impact of tax legislation is meaningful , as excluding this item increases the comparability of period-to-period results .",
+      "the table below presents the calculation of the effective income tax rate , excluding the estimated impact of tax legislation. ."
+    ],
+    "post_text": [
+      "excluding the estimated impact of tax legislation $ 11132 $ 2446 22.0% ( 22.0 % ) the effective income tax rate for 2016 was 28.2% ( 28.2 % ) , down from 30.7% ( 30.7 % ) for 2015 .",
+      "the decline compared with 2015 was primarily due to the impact of non-deductible provisions for mortgage-related litigation and regulatory matters in 2015 , partially offset by the impact of changes in tax law on deferred tax assets , the mix of earnings and an increase related to higher enacted tax rates impacting certain of our u.k .",
+      "subsidiaries in 2016 .",
+      "effective january 1 , 2018 , tax legislation reduced the u.s .",
+      "corporate tax rate to 21 percent , eliminated tax deductions for certain expenses and enacted two new taxes , base erosion and anti-abuse tax ( beat ) and global intangible low taxed income ( gilti ) .",
+      "beat is an alternative minimum tax that applies to banks that pay more than 2 percent of total deductible expenses to certain foreign subsidiaries .",
+      "gilti is a 10.5 percent tax , before allowable credits for foreign taxes paid , on the annual earnings and profits of certain foreign subsidiaries .",
+      "based on our current understanding of these rules , the impact of beat and gilti is not expected to be material to our effective income tax rate .",
+      "goldman sachs 2017 form 10-k 55 ."
+    ],
+    "table": [
+      [
+        "$ in millions",
+        "year ended december 2017 pre-tax earnings",
+        "year ended december 2017 provision for taxes",
+        "year ended december 2017 effective income tax rate"
+      ],
+      [
+        "as reported",
+        "$ 11132",
+        "$ 6846",
+        "61.5% ( 61.5 % )"
+      ],
+      [
+        "estimated impact of tax legislation",
+        "2013",
+        "4400",
+        "2013"
+      ],
+      [
+        "excluding the estimated impact of taxlegislation",
+        "$ 11132",
+        "$ 2446",
+        "22.0% ( 22.0 % )"
+      ]
+    ],
+    "questions": [
+      "for 2017 , the estimated impact of tax legislation was what percent of the total as reported income tax provisions?"
+    ]
+  }
+}

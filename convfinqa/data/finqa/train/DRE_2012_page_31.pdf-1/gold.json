@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the general and administrative expenses in 2012",
+      "answer": 0.07657,
+      "answer_raw": "0.07657",
+      "program": "subtract(46.4, 43.1), divide(#0, 43.1)"
+    }
+  ]
+}

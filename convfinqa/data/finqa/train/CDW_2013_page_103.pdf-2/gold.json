@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was the weighted-average risk-free rate greater than the dividend yield?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(1.58, const_1)"
+    }
+  ]
+}

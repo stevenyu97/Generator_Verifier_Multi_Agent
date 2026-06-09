@@ -1,0 +1,53 @@
+{
+  "input": {
+    "id": "Double_ETFC/2013/page_155.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "note 9 2014goodwill and other intangibles , net goodwill the following table outlines the activity in the carrying value of the company 2019s goodwill , which is all assigned to the company 2019s trading and investing segment ( dollars in thousands ) : ."
+    ],
+    "post_text": [
+      "goodwill is evaluated for impairment on an annual basis and when events or changes indicate the carrying value of an asset exceeds its fair value and the loss may not be recoverable .",
+      "at december 31 , 2013 and 2012 , the company 2019s trading and investing segment had two reporting units ; market making and retail brokerage .",
+      "at the end of june 2013 , the company decided to exit its market making business .",
+      "based on this decision in the second quarter of 2013 , the company conducted an interim goodwill impairment test for the market making reporting unit , using the expected sale structure of the market making business .",
+      "this structure assumed a shorter period of cash flows related to an order flow arrangement , compared to prior estimates of fair value .",
+      "based on the results of the first step of the goodwill impairment test , the company determined that the carrying value of the market making reporting unit , including goodwill , exceeded the fair value for that reporting unit as of june 30 , 2013 .",
+      "the company proceeded to the second step of the goodwill impairment test to measure the amount of goodwill impairment .",
+      "as a result of the evaluation , it was determined that the entire carrying amount of goodwill allocated to the market making reporting unit was impaired , and the company recognized a $ 142.4 million impairment of goodwill during the second quarter of 2013 .",
+      "for the year ended december 31 , 2013 , the company performed its annual goodwill assessment for the retail brokerage reporting unit , electing to qualitatively assess whether it was more likely than not that the fair value was less than the carrying value .",
+      "as a result of this assessment , the company determined that the first step of the goodwill impairment test was not necessary , and concluded that goodwill was not impaired at december 31 , 2013 .",
+      "at december 31 , 2013 , goodwill is net of accumulated impairment losses of $ 142.4 million related to the trading and investing segment and $ 101.2 million in the balance sheet management segment .",
+      "at december 31 , 2012 , goodwill is net of accumulated impairment losses of $ 101.2 million in the balance sheet management segment. ."
+    ],
+    "table": [
+      [
+        "",
+        "trading & investing"
+      ],
+      [
+        "balance at december 31 2011",
+        "$ 1934232"
+      ],
+      [
+        "activity",
+        "2014"
+      ],
+      [
+        "balance at december 31 2012",
+        "1934232"
+      ],
+      [
+        "impairment of goodwill",
+        "-142423 ( 142423 )"
+      ],
+      [
+        "balance at december 31 2013",
+        "$ 1791809"
+      ]
+    ],
+    "questions": [
+      "as of december 31, 2013, what percentage did the impairment of goodwill represent in relation to the total goodwill balance?",
+      "and what was this impairment amount as a percentage of that balance as of december 31 of the previous year?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the beginning balance of accrual for fraud losses is regulated through adjustments?",
+      "answer": 0.47128,
+      "answer_raw": "0.47128",
+      "program": "divide(31781, 67436)"
+    }
+  ]
+}

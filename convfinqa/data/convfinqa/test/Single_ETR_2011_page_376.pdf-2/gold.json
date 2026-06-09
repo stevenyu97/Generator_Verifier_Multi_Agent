@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total variance in net revenue from 2010 to 2011?",
+      "answer": 37.6,
+      "answer_raw": "37.6",
+      "program": "subtract(577.8, 540.2)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the variance in volume/weather in that same period?",
+      "answer": 21.3,
+      "answer_raw": "21.3",
+      "program": "21.3"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does this volume/weather variance represent in relation to the net revenue one, in percentage?",
+      "answer": 0.56649,
+      "answer_raw": "0.56649",
+      "program": "subtract(577.8, 540.2), divide(21.3, #0)"
+    }
+  ]
+}

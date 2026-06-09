@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the income ( loss ) from discontinued operations net of tax in 2007?",
+      "answer": 80.8,
+      "answer_raw": "80.8",
+      "program": "80.8"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2005?",
+      "answer": 82.8,
+      "answer_raw": "82.8",
+      "program": "82.8"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the total income ( loss ) from discontinued operations net of tax for both years combined?",
+      "answer": 163.6,
+      "answer_raw": "163.6",
+      "program": "add(80.8, 82.8)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "including 2006, what then becomes that total for the three years combined?",
+      "answer": 108.1,
+      "answer_raw": "108.1",
+      "program": "add(80.8, 82.8), subtract(#0, 55.5)"
+    }
+  ]
+}

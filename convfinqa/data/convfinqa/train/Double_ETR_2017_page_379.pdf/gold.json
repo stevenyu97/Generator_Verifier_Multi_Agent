@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the entergy mississippi 2019s receivables from the money pool in 2017?",
+      "answer": 1633.0,
+      "answer_raw": "1633.0",
+      "program": "1633"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2016?",
+      "answer": 10595.0,
+      "answer_raw": "10595.0",
+      "program": "10595"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the fraction of 2017 to 2016?",
+      "answer": 0.15413,
+      "answer_raw": "0.15413",
+      "program": "divide(1633, 10595)"
+    }
+  ]
+}

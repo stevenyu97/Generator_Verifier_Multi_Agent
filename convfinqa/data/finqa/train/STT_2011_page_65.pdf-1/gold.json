@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in average other interest-earning assets in 2011 in millions",
+      "answer": 4.3,
+      "answer_raw": "4.3",
+      "program": "subtract(5.46, 1.16)"
+    }
+  ]
+}

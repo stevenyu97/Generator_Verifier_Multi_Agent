@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "AAL/2014/page_18.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents respect to the mainline american and the mainline us airways dispatchers , flight simulator engineers and flight crew training instructors , all of whom are now represented by the twu , a rival organization , the national association of airline professionals ( naap ) , filed single carrier applications seeking to represent those employees .",
+      "the nmb will have to determine that a single transportation system exists and will certify a post-merger representative of the combined employee groups before the process for negotiating new jcbas can begin .",
+      "the merger had no impact on the cbas that cover the employees of our wholly-owned subsidiary airlines which are not being merged ( envoy , piedmont and psa ) .",
+      "for those employees , the rla provides that cbas do not expire , but instead become amendable as of a stated date .",
+      "in 2014 , envoy pilots ratified a new 10 year collective bargaining agreement , piedmont pilots ratified a new 10 year collective bargaining agreement and piedmont flight attendants ratified a new five-year collective bargaining agreement .",
+      "with the exception of the passenger service employees who are now engaged in traditional rla negotiations that are expected to result in a jcba and the us airways flight simulator engineers and flight crew training instructors , other union-represented american mainline employees are covered by agreements that are not currently amendable .",
+      "until those agreements become amendable , negotiations for jcbas will be conducted outside the traditional rla bargaining process described above , and , in the meantime , no self-help will be permissible .",
+      "the piedmont mechanics and stock clerks and the psa and piedmont dispatchers also have agreements that are now amendable and are engaged in traditional rla negotiations .",
+      "none of the unions representing our employees presently may lawfully engage in concerted refusals to work , such as strikes , slow-downs , sick-outs or other similar activity , against us .",
+      "nonetheless , there is a risk that disgruntled employees , either with or without union involvement , could engage in one or more concerted refusals to work that could individually or collectively harm the operation of our airline and impair our financial performance .",
+      "for more discussion , see part i , item 1a .",
+      "risk factors 2013 201cunion disputes , employee strikes and other labor-related disruptions may adversely affect our operations . 201d aircraft fuel our operations and financial results are significantly affected by the availability and price of jet fuel .",
+      "based on our 2015 forecasted mainline and regional fuel consumption , we estimate that , as of december 31 , 2014 , a one cent per gallon increase in aviation fuel price would increase our 2015 annual fuel expense by $ 43 million .",
+      "the following table shows annual aircraft fuel consumption and costs , including taxes , for our mainline operations for 2012 through 2014 ( gallons and aircraft fuel expense in millions ) .",
+      "year gallons average price per gallon aircraft fuel expense percent of total mainline operating expenses ."
+    ],
+    "post_text": [
+      "( a ) represents 201ccombined 201d financial data , which includes the financial results of american and us airways group each on a standalone basis .",
+      "total combined fuel expenses for our wholly-owned and third-party regional carriers operating under capacity purchase agreements of american and us airways group , each on a standalone basis , were $ 2.0 billion , $ 2.1 billion and $ 2.1 billion for the years ended december 31 , 2014 , 2013 and 2012 , respectively. ."
+    ],
+    "table": [
+      [
+        "year",
+        "gallons",
+        "average price per gallon",
+        "aircraft fuel expense",
+        "percent of total mainline operating expenses"
+      ],
+      [
+        "2014",
+        "3644",
+        "$ 2.91",
+        "$ 10592",
+        "33.2% ( 33.2 % )"
+      ],
+      [
+        "2013 ( a )",
+        "3608",
+        "3.08",
+        "11109",
+        "35.4"
+      ],
+      [
+        "2012 ( a )",
+        "3512",
+        "3.19",
+        "11194",
+        "35.8"
+      ]
+    ],
+    "questions": [
+      "what were total mainline operating expenses in 2014?"
+    ]
+  }
+}

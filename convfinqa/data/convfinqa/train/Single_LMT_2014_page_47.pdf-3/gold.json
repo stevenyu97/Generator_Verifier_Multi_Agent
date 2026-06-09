@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the operating profit for mfc in 2014?",
+      "answer": 1358.0,
+      "answer_raw": "1358.0",
+      "program": "1358"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2013?",
+      "answer": 1431.0,
+      "answer_raw": "1431.0",
+      "program": "1431"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference in operating profit between 2013 and 2014?",
+      "answer": -73.0,
+      "answer_raw": "-73.0",
+      "program": "subtract(1358, 1431)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what growth rate does this represent?",
+      "answer": -0.05101,
+      "answer_raw": "-0.05101",
+      "program": "subtract(1358, 1431), divide(#0, 1431)"
+    }
+  ]
+}

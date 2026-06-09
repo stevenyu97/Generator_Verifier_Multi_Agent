@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is working capital for 2008?",
+      "answer": 102.0,
+      "answer_raw": "102.0",
+      "program": "subtract(164, 62)"
+    }
+  ]
+}

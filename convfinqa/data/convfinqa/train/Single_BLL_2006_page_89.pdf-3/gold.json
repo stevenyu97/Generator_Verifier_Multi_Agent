@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in repurchases between 2005 and 2006?",
+      "answer": 312.4,
+      "answer_raw": "312.4",
+      "program": "subtract(358.1, 45.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the value for 2005 specifically?",
+      "answer": 358.1,
+      "answer_raw": "358.1",
+      "program": "358.1"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and so what was the percentage reduction?",
+      "answer": 0.87238,
+      "answer_raw": "0.87238",
+      "program": "subtract(358.1, 45.7), divide(#0, 358.1)"
+    }
+  ]
+}

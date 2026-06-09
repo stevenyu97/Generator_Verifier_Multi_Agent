@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of long-term debt due in 2004 and 2005?",
+      "answer": 965635.0,
+      "answer_raw": "965635.0",
+      "program": "add(503215, 462420)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that divided by 1000?",
+      "answer": 965.635,
+      "answer_raw": "965.635",
+      "program": "add(503215, 462420), divide(#0, const_1000)"
+    }
+  ]
+}

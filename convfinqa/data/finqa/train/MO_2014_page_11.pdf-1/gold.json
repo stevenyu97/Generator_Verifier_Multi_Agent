@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in the relative percentages of operating companies income ( loss ) attributable to smokeable products from 2013 to 2014?",
+      "answer": 0.027,
+      "answer_raw": "0.027",
+      "program": "subtract(87.2%, 84.5%)"
+    }
+  ]
+}

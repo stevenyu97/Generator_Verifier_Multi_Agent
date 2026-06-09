@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in total net goodwill between 2010 and 2011?",
+      "answer": -492.0,
+      "answer_raw": "-492.0",
+      "program": "subtract(1891, 2383)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this change as a percent of that net goodwill in 2010?",
+      "answer": -0.20646,
+      "answer_raw": "-0.20646",
+      "program": "subtract(1891, 2383), divide(#0, 2383)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and in that last year of 2011, what percentage of that goodwill was due to cabinets and related products?",
+      "answer": 0.09572,
+      "answer_raw": "0.09572",
+      "program": "divide(181, 1891)"
+    }
+  ]
+}

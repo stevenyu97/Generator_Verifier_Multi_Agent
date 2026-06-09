@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the operating profit margin as adjusted in 2017?",
+      "answer": 0.157,
+      "answer_raw": "0.157",
+      "program": "15.7%"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2016?",
+      "answer": 0.151,
+      "answer_raw": "0.151",
+      "program": "15.1%"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 0.006,
+      "answer_raw": "0.006",
+      "program": "subtract(15.7%, 15.1%)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and over the subsequent year, what was this change?",
+      "answer": -0.006,
+      "answer_raw": "-0.006",
+      "program": "subtract(15.1%, 15.7%)"
+    }
+  ]
+}

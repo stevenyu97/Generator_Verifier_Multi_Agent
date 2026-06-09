@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the final amount of cash and cash equivalents in 2018?",
+      "answer": -454.2,
+      "answer_raw": "-454.2",
+      "program": "subtract(2554.7, 1649.1), subtract(#0, 1359.8)"
+    }
+  ]
+}

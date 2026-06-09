@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "Single_PNC/2016/page_155.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "at december 31 , 2015 and 2014 , options for 5 million and 6 million shares of common stock were exercisable at a weighted-average price of $ 55.42 and $ 56.21 , respectively .",
+      "the total intrinsic value of options exercised was approximately $ .1 billion during 2016 , 2015 and 2014 .",
+      "cash received from option exercises under all incentive plans for 2016 , 2015 and 2014 was approximately $ .1 billion , $ .1 billion and $ .2 billion , respectively .",
+      "the tax benefit realized from option exercises under all incentive plans was insignificant for 2016 , 2015 and 2014 .",
+      "shares of common stock available during the next year for the granting of options and other awards under the incentive plans were approximately 39 million shares at december 31 , 2016 .",
+      "total shares of pnc common stock authorized for future issuance under all equity compensation plans totaled approximately 40 million shares at december 31 , 2016 .",
+      "during 2016 , we issued approximately 2 million common shares from treasury stock in connection with stock option exercise activity .",
+      "as with past exercise activity , we currently intend to utilize primarily treasury stock for any future stock option exercises .",
+      "incentive/performance unit awards and restricted share/restricted share unit awards the fair value of nonvested incentive/performance unit awards and restricted share/restricted share unit awards is initially determined based on prices not less than the market value of our common stock on the date of grant with a reduction for estimated forfeitures .",
+      "the value of certain incentive/ performance unit awards is subsequently remeasured based on the achievement of one or more financial and other performance goals .",
+      "additionally , certain incentive/ performance unit awards require subsequent adjustment to their current market value due to certain discretionary risk review triggers .",
+      "the weighted-average grant date fair value of incentive/ performance unit awards and restricted share/restricted share unit awards granted in 2016 , 2015 and 2014 was $ 78.37 , $ 91.57 and $ 80.79 per share , respectively .",
+      "the total intrinsic value of incentive/performance unit and restricted share/ restricted share unit awards vested during 2016 , 2015 and 2014 was approximately $ .1 billion , $ .2 billion and $ .1 billion , respectively .",
+      "we recognize compensation expense for such awards ratably over the corresponding vesting and/or performance periods for each type of program .",
+      "table 78 : nonvested incentive/performance unit awards and restricted share/restricted share unit awards 2013 rollforward ( a ) shares in millions nonvested incentive/ performance units shares weighted- average date fair nonvested restricted share/ restricted weighted- average grant date fair value ."
+    ],
+    "post_text": [
+      "( a ) forfeited awards during 2016 were insignificant .",
+      "( b ) includes adjustments for achieving specific performance goals for incentive/ performance unit share awards granted in prior periods .",
+      "in table 78 , the units and related weighted-average grant date fair value of the incentive/performance unit share awards exclude the effect of dividends on the underlying shares , as those dividends will be paid in cash if and when the underlying shares are issued to the participants .",
+      "blackrock long-term incentive plans ( ltip ) blackrock adopted the 2002 ltip program to help attract and retain qualified professionals .",
+      "at that time , we agreed to transfer up to four million shares of blackrock common stock to fund a portion of the 2002 ltip program and future ltip programs approved by blackrock 2019s board of directors .",
+      "in 2009 , our obligation to deliver any remaining blackrock common shares was replaced with an obligation to deliver shares of blackrock 2019s series c preferred stock held by us .",
+      "in 2016 , we transferred .5 million shares of blackrock series c preferred stock to blackrock in connection with our obligation .",
+      "at december 31 , 2016 , we held approximately .8 million shares of blackrock series c preferred stock which were available to fund our obligations .",
+      "see note 23 subsequent events for information on our february 1 , 2017 transfer of .5 million shares of the series c preferred stock to blackrock to satisfy a portion of our ltip obligation .",
+      "we account for our blackrock series c preferred stock at fair value , which offsets the impact of marking-to-market the obligation to deliver these shares to blackrock .",
+      "see note 6 fair value for additional information regarding the valuation of the blackrock series c preferred stock .",
+      "the pnc financial services group , inc .",
+      "2013 form 10-k 139 ."
+    ],
+    "table": [
+      [
+        "shares in millions december 31 2015",
+        "nonvested incentive/ performance units shares 2",
+        "weighted- average grant date fair value $ 79.27",
+        "nonvested restricted share/ restricted share units 3",
+        "weighted- average grant date fair value $ 79.26"
+      ],
+      [
+        "granted ( b )",
+        "1",
+        "$ 77.77",
+        "1",
+        "$ 78.71"
+      ],
+      [
+        "vested/released ( b )",
+        "-1 ( 1 )",
+        "$ 71.59",
+        "-1 ( 1 )",
+        "$ 65.53"
+      ],
+      [
+        "december 31 2016",
+        "2",
+        "$ 81.42",
+        "3",
+        "$ 83.27"
+      ]
+    ],
+    "questions": [
+      "what was the intrinsic value of incentive/performance unit and restricted share/ restricted share unit awards vested during 2016, in billions?",
+      "what was the intrinsic value of incentive/performance unit and restricted share/ restricted share unit awards vested during 2015, in billions?",
+      "what is the sum for 2015 and 2016?",
+      "what is the total value including 2014?"
+    ]
+  }
+}

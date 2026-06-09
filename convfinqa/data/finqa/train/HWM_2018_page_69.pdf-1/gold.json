@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between the weighted average useful lives of software and other intangible assets in the transportation and construction solutions segment , in years?",
+      "answer": 11.0,
+      "answer_raw": "11.0",
+      "program": "subtract(16, 5)"
+    }
+  ]
+}

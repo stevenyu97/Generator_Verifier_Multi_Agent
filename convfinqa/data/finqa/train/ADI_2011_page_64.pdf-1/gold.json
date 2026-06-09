@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change the fair value of the long-term debt in 2011?",
+      "answer": -2.9,
+      "answer_raw": "-2.9",
+      "program": "subtract(413.4, 416.3)"
+    }
+  ]
+}

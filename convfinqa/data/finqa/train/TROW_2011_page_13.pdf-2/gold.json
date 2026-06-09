@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total other purchase commitments is made up of other purchase commitments?",
+      "answer": 0.46377,
+      "answer_raw": "0.46377",
+      "program": "divide(160, 345)"
+    }
+  ]
+}

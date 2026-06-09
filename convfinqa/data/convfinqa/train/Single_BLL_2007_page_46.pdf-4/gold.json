@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the cash flow from operations in 2007?",
+      "answer": 673.0,
+      "answer_raw": "673.0",
+      "program": "673.0"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the cash flow from operations in 2006?",
+      "answer": 401.4,
+      "answer_raw": "401.4",
+      "program": "401.4"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference?",
+      "answer": 271.6,
+      "answer_raw": "271.6",
+      "program": "subtract(673.0, 401.4)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the percent change?",
+      "answer": 0.67663,
+      "answer_raw": "0.67663",
+      "program": "subtract(673.0, 401.4), divide(#0, 401.4)"
+    }
+  ]
+}

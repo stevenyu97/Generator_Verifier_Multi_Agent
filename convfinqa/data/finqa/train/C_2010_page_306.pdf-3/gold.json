@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in percentage cumulative total return between cititgroup's common stock and the s&p 500 index for the five year period ending 2010?",
+      "answer": 42.1522,
+      "answer_raw": "42.1522",
+      "program": "subtract(11.22, 100), divide(#0, 100), subtract(56.96, 100), divide(#2, 100), subtract(#1, #2)"
+    }
+  ]
+}

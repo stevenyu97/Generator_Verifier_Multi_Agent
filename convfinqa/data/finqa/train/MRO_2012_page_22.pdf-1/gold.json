@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did undeveloped reserves increase during 2012?",
+      "answer": 0.44557,
+      "answer_raw": "0.44557",
+      "program": "subtract(571, 395), divide(#0, 395)"
+    }
+  ]
+}

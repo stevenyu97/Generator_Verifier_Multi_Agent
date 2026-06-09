@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of net expiring acres in 2013 are foreign?",
+      "answer": 0.66306,
+      "answer_raw": "0.66306",
+      "program": "subtract(1294, 436), divide(#0, 1294)"
+    }
+  ]
+}

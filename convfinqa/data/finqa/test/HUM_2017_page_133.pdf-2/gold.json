@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of shares of stockholders of record on december 29 , 2017 in millions",
+      "answer": 137.5,
+      "answer_raw": "137.5",
+      "program": "divide(55, 0.40)"
+    }
+  ]
+}

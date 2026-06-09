@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the cumulative total return on the s&p 500 between september 30 2007 and september 30 2012?",
+      "answer": 5.0,
+      "answer_raw": "5.0",
+      "program": "subtract(105, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "STT/2009/page_122.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "note 10 .",
+      "commitments and contingencies credit-related commitments and contingencies : credit-related financial instruments , which are off-balance sheet , include indemnified securities financing , unfunded commitments to extend credit or purchase assets , and standby letters of credit .",
+      "the potential loss associated with indemnified securities financing , unfunded commitments and standby letters of credit is equal to the total gross contractual amount , which does not consider the value of any collateral .",
+      "the following table summarizes the total gross contractual amounts of credit-related off-balance sheet financial instruments at december 31 .",
+      "amounts reported do not reflect participations to independent third parties. ."
+    ],
+    "post_text": [
+      "( 1 ) amount for 2009 excludes agreements related to the commercial paper conduits , which were consolidated in may 2009 ; see note 11 .",
+      "approximately 81% ( 81 % ) of the unfunded commitments to extend credit expire within one year from the date of issue .",
+      "since many of these commitments are expected to expire or renew without being drawn upon , the total commitment amount does not necessarily represent future cash requirements .",
+      "securities finance : on behalf of our customers , we lend their securities to creditworthy brokers and other institutions .",
+      "we generally indemnify our customers for the fair market value of those securities against a failure of the borrower to return such securities .",
+      "collateral funds received in connection with our securities finance services are held by us as agent and are not recorded in our consolidated statement of condition .",
+      "we require the borrowers to provide collateral in an amount equal to or in excess of 100% ( 100 % ) of the fair market value of the securities borrowed .",
+      "the borrowed securities are revalued daily to determine if additional collateral is necessary .",
+      "in this regard , we held , as agent , cash and u.s .",
+      "government securities with an aggregate fair value of $ 375.92 billion and $ 333.07 billion as collateral for indemnified securities on loan at december 31 , 2009 and 2008 , respectively , presented in the table above .",
+      "the collateral held by us is invested on behalf of our customers in accordance with their guidelines .",
+      "in certain cases , the collateral is invested in third-party repurchase agreements , for which we indemnify the customer against loss of the principal invested .",
+      "we require the repurchase agreement counterparty to provide collateral in an amount equal to or in excess of 100% ( 100 % ) of the amount of the repurchase agreement .",
+      "the indemnified repurchase agreements and the related collateral are not recorded in our consolidated statement of condition .",
+      "of the collateral of $ 375.92 billion at december 31 , 2009 and $ 333.07 billion at december 31 , 2008 referenced above , $ 77.73 billion at december 31 , 2009 and $ 68.37 billion at december 31 , 2008 was invested in indemnified repurchase agreements .",
+      "we held , as agent , cash and securities with an aggregate fair value of $ 82.62 billion and $ 71.87 billion as collateral for indemnified investments in repurchase agreements at december 31 , 2009 and december 31 , 2008 , respectively .",
+      "legal proceedings : in the ordinary course of business , we and our subsidiaries are involved in disputes , litigation and regulatory inquiries and investigations , both pending and threatened .",
+      "these matters , if resolved adversely against us , may result in monetary damages , fines and penalties or require changes in our business practices .",
+      "the resolution of these proceedings is inherently difficult to predict .",
+      "however , we do not believe that the amount of any judgment , settlement or other action arising from any pending proceeding will have a material adverse effect on our consolidated financial condition , although the outcome of certain of the matters described below may have a material adverse effect on our consolidated results of operations for the period in which such matter is resolved ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2009",
+        "2008"
+      ],
+      [
+        "indemnified securities financing",
+        "$ 365251",
+        "$ 324590"
+      ],
+      [
+        "asset purchase agreements ( 1 )",
+        "8211",
+        "31780"
+      ],
+      [
+        "unfunded commitments to extend credit",
+        "18078",
+        "20981"
+      ],
+      [
+        "standby letters of credit",
+        "4784",
+        "6061"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in the standby letters of credit from 2008 to 2009?"
+    ]
+  }
+}

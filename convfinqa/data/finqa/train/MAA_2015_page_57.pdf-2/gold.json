@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net income attributable to noncontrolling interests net income attributable to noncontrolling interests for the year ended december 31 , 2014 in million",
+      "answer": 8.3,
+      "answer_raw": "8.3",
+      "program": "subtract(18.5, 10.2)"
+    }
+  ]
+}

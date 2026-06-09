@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total number of international square ft owned?",
+      "answer": 7189652.0,
+      "answer_raw": "7189652.0",
+      "program": "7189652"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the number of square feet leased?",
+      "answer": 2223245.0,
+      "answer_raw": "2223245.0",
+      "program": "2223245"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 9412897.0,
+      "answer_raw": "9412897.0",
+      "program": "add(7189652, 2223245)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the ratio of owned to total?",
+      "answer": 0.76381,
+      "answer_raw": "0.76381",
+      "program": "add(7189652, 2223245), divide(7189652, #0)"
+    }
+  ]
+}

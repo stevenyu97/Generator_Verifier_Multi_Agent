@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the higher charges related to tobacco and health judgments as a percentage of the operating companies income increase?",
+      "answer": 0.73109,
+      "answer_raw": "0.73109",
+      "program": "divide(87, 119)"
+    }
+  ]
+}

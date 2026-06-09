@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "AES/2001/page_86.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "7 .",
+      "derivative instruments effective january 1 , 2001 , aes adopted sfas no .",
+      "133 , 2018 2018accounting for derivative instruments and hedging activities , 2019 2019 which , as amended , establishes accounting and reporting standards for derivative instruments and hedging activities .",
+      "the adoption of sfas no .",
+      "133 on january 1 , 2001 , resulted in a cumulative reduction to income of less than $ 1 million , net of deferred income tax effects , and a cumulative reduction of accumulated other comprehensive income in stockholders 2019 equity of $ 93 million , net of deferred income tax effects .",
+      "for the year ended december 31 , 2001 , the impact of changes in derivative fair value primarily related to derivatives that do not qualify for hedge accounting treatment was a charge of $ 36 million , after income taxes .",
+      "this amount includes a charge of $ 6 million , after income taxes , related to the ineffective portion of derivatives qualifying as cash flow and fair value hedges for the year ended december 31 , 2001 .",
+      "there was no net effect on results of operations for the year ended december 31 , 2001 , of derivative and non-derivative instruments that have been designated and qualified as hedging net investments in foreign operations .",
+      "approximately $ 35 million of other comprehensive loss related to derivative instruments as of december 31 , 2001 is expected to be recognized as a reduction to earnings over the next twelve months .",
+      "a portion of this amount is expected to be offset by the effects of hedge accounting .",
+      "the balance in accumulated other comprehensive loss related to derivative transactions will be reclassified into earnings as interest expense is recognized for hedges of interest rate risk , as foreign currency transaction and translation gains and losses are recognized for hedges of foreign currency exposure and as electric and gas sales and purchases are recognized for hedges of forecasted electric and gas transactions .",
+      "amounts recorded in accumulated other comprehensive income , net of tax , during the year-ended december 31 , 2001 , were as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "aes utilizes derivative financial instruments to hedge interest rate risk , foreign exchange risk and commodity price risk .",
+      "the company utilizes interest rate swap , cap and floor agreements to hedge interest rate risk on floating rate debt .",
+      "the majority of aes 2019s interest rate derivatives are designated and qualify as cash flow hedges .",
+      "currency forward and swap agreements are utilized to hedge foreign exchange risk which is a result of aes or one of its subsidiaries entering into monetary obligations in currencies other than its own functional currency .",
+      "the majority of aes 2019s foreign currency derivatives are designated and qualify as either fair value hedges or cash flow hedges .",
+      "certain derivative instruments and other non-derivative instruments are designated and qualify as hedges of the foreign currency exposure of a net investment in a foreign operation .",
+      "the company utilizes electric and gas derivative instruments , including swaps , options , forwards and futures , to hedge the risk related to electricity and gas sales and purchases .",
+      "the majority of aes 2019s electric and gas derivatives are designated and qualify as cash flow hedges .",
+      "the maximum length of time over which aes is hedging its exposure to variability in future cash flows for forecasted transactions , excluding forecasted transactions related to the payment of variable interest , is three years .",
+      "for the year ended december 31 , 2001 , a charge of $ 4 million , after income taxes , was recorded for two cash flow hedges that were discontinued because it is probable that the hedged forecasted transaction will not occur .",
+      "a portion of this charge has been classified as discontinued operations .",
+      "for the year ended december 31 , 2001 , no fair value hedges were de-recognized or discontinued. ."
+    ],
+    "table": [
+      [
+        "transition adjustment on january 1 2001",
+        "$ -93 ( 93 )"
+      ],
+      [
+        "reclassification to earnings",
+        "-32 ( 32 )"
+      ],
+      [
+        "change in fair value",
+        "4"
+      ],
+      [
+        "balance december 31 2001",
+        "$ -121 ( 121 )"
+      ]
+    ],
+    "questions": [
+      "without the adjustment for the change in fair value , what would the aoci balance have been in millions at december 31 2001?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 2016 what was the average long-term debt maturities that was due between 2017 and 2020 in millions",
+      "answer": 826.5,
+      "answer_raw": "826.5",
+      "program": "add(416, 320), add(413, #0), add(500, #1), add(#2, const_4), divide(#3, const_2)"
+    }
+  ]
+}

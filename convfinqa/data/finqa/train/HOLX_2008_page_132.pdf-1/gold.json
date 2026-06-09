@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the estimated purchase price is paid in cash?",
+      "answer": 0.97327,
+      "answer_raw": "0.97327",
+      "program": "divide(575400, 591200)"
+    }
+  ]
+}

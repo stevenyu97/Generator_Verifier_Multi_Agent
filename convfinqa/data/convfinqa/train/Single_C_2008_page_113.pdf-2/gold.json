@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in the expected return from 2007 to 2008?",
+      "answer": 10.0,
+      "answer_raw": "10.0",
+      "program": "subtract(487, 477)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the percent change?",
+      "answer": 0.02096,
+      "answer_raw": "0.02096",
+      "program": "subtract(487, 477), divide(#0, 477)"
+    }
+  ]
+}

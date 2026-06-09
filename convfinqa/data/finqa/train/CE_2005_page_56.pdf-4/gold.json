@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the estimated number of shares of series a common stock based on the approximate cash dividend in millions",
+      "answer": 156.25,
+      "answer_raw": "156.25",
+      "program": "divide(25, 0.16)"
+    }
+  ]
+}

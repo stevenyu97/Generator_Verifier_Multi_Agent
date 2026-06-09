@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage decline in pipeline barrels from 2007 to 2009?",
+      "answer": 0.1072,
+      "answer_raw": "0.1072",
+      "program": "subtract(2500, 2232), divide(#0, 2500)"
+    }
+  ]
+}

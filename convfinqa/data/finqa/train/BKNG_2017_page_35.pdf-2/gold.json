@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the growth in meausurement of the booking holdings inc.2016 to 2017",
+      "answer": 43.79,
+      "answer_raw": "43.79",
+      "program": "subtract(280.10, 236.31)"
+    }
+  ]
+}

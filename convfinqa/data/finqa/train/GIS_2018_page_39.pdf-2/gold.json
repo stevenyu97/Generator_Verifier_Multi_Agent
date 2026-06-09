@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the change in the cash provided by operations from 2017 to 2018\\\\n",
+      "answer": 0.16667,
+      "answer_raw": "0.16667",
+      "program": "subtract(2.8, 2.4), divide(#0, 2.4)"
+    }
+  ]
+}

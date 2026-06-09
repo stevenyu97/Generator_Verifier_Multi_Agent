@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "Single_ABMD/2018/page_112.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "note 11 .",
+      "commitments and contingencies commitments leases the company fffds corporate headquarters is located in danvers , massachusetts .",
+      "this facility encompasses most of the company fffds u.s .",
+      "operations , including research and development , manufacturing , sales and marketing and general and administrative departments .",
+      "in october 2017 , the acquired its corporate headquarters for approximately $ 16.5 million and terminated its existing lease arrangement ( see note 6 ) .",
+      "future minimum lease payments under non-cancelable leases as of march 31 , 2018 are approximately as follows : fiscal years ending march 31 , operating leases ( in $ 000s ) ."
+    ],
+    "post_text": [
+      "in february 2017 , the company entered into a lease agreement for an additional 21603 square feet of office space in danvers , massachusetts which expires on july 31 , 2022 .",
+      "in december 2017 , the company entered into an amendment to this lease to extend the term through august 31 , 2025 and to add an additional 6607 square feet of space in which rent would begin around june 1 , 2018 .",
+      "the amendment also allows the company a right of first offer to purchase the property from january 1 , 2018 through august 31 , 2035 , if the lessor decides to sell the building or receives an offer to purchase the building from a third-party buyer .",
+      "in march 2018 , the company entered into an amendment to the lease to add an additional 11269 square feet of space for which rent will begin on or around june 1 , 2018 through august 31 , 2025 .",
+      "the annual rent expense for this lease agreement is estimated to be $ 0.4 million .",
+      "in september 2016 , the company entered into a lease agreement in berlin , germany which commenced in may 2017 and expires in may 2024 .",
+      "the annual rent expense for the lease is estimated to be $ 0.3 million .",
+      "in october 2016 , the company entered into a lease agreement for an office in tokyokk japan and expires in september 2021 .",
+      "the office houses administrative , regulatory , and training personnel in connection with the company fffds commercial launch in japan .",
+      "the annual rent expense for the lease is estimated to be $ 0.9 million .",
+      "license agreements in april 2014 , the company entered into an exclusive license agreement for the rights to certain optical sensor technologies in the field of cardio-circulatory assist devices .",
+      "pursuant to the terms of the license agreement , the company agreed to make potential payments of $ 6.0 million .",
+      "through march 31 , 2018 , the company has made $ 3.5 million in milestones payments which included a $ 1.5 million upfront payment upon the execution of the agreement .",
+      "any potential future milestone payment amounts have not been included in the contractual obligations table above due to the uncertainty related to the successful achievement of these milestones .",
+      "contingencies from time to time , the company is involved in legal and administrative proceedings and claims of various types .",
+      "in some actions , the claimants seek damages , as well as other relief , which , if granted , would require significant expenditures .",
+      "the company records a liability in its consolidated financial statements for these matters when a loss is known or considered probable and the amount can be reasonably estimated .",
+      "the company reviews these estimates each accounting period as additional information is known and adjusts the loss provision when appropriate .",
+      "if a matter is both probable to result in liability and the amount of loss can be reasonably estimated , the company estimates and discloses the possible loss or range of loss .",
+      "if the loss is not probable or cannot be reasonably estimated , a liability is not recorded in its consolidated financial statements. ."
+    ],
+    "table": [
+      [
+        "fiscal years ending march 31,",
+        "operating leases ( in $ 000s )"
+      ],
+      [
+        "2019",
+        "$ 2078"
+      ],
+      [
+        "2020",
+        "1888"
+      ],
+      [
+        "2021",
+        "1901"
+      ],
+      [
+        "2022",
+        "1408"
+      ],
+      [
+        "2023",
+        "891"
+      ],
+      [
+        "thereafter",
+        "1923"
+      ],
+      [
+        "total minimum lease payments",
+        "$ 10089"
+      ]
+    ],
+    "questions": [
+      "what was the operating lease value for 2021?",
+      "what was the value in 2020?",
+      "what is the net change in value?",
+      "what was the 2020 value?",
+      "what is the percent change?"
+    ]
+  }
+}

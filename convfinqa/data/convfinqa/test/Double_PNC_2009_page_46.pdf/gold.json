@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in the year of 2009, considering the percentage of the total facilities the bbb/baa ones represented, if there had been 50 facilities, how many of them would have been bbb/baa?",
+      "answer": 1.0,
+      "answer_raw": "1.0",
+      "program": "divide(100, 50), divide(#0, #0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and between 2008 and 2009, what was the change in that percentage of the bbb/baa?",
+      "answer": -1.0,
+      "answer_raw": "-1.0",
+      "program": "subtract(2, 3)"
+    }
+  ]
+}

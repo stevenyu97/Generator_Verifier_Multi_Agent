@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of the network route miles that is owned by the company",
+      "answer": 0.81072,
+      "answer_raw": "0.81072",
+      "program": "divide(26042, 32122)"
+    }
+  ]
+}

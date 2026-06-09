@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in operating profit for aeronautics in 2013?",
+      "answer": -0.05121,
+      "answer_raw": "-0.05121",
+      "program": "subtract(1612, 1699), divide(#0, 1699)"
+    }
+  ]
+}

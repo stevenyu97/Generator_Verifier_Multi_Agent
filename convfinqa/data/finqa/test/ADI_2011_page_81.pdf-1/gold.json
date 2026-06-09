@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total investment is allocated to mutual funds in 2011?",
+      "answer": 0.65078,
+      "answer_raw": "0.65078",
+      "program": "divide(17187, 26410)"
+    }
+  ]
+}

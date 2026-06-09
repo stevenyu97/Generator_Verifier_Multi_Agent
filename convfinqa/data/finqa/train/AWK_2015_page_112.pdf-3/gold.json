@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the removal costs as a percent of total regulatory costs in 2015",
+      "answer": 0.77363,
+      "answer_raw": "0.77363",
+      "program": "divide(311, 402)"
+    }
+  ]
+}

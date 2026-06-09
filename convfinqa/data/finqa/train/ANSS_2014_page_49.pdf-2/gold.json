@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the company 2019s net income from 2012 to 2013 .",
+      "answer": 0.20541,
+      "answer_raw": "0.20541",
+      "program": "subtract(245.3, 203.5), divide(#0, 203.5)"
+    }
+  ]
+}

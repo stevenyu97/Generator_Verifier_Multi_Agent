@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the balance of other intangible assets net from 2003 to 2004?",
+      "answer": -34446.0,
+      "answer_raw": "-34446.0",
+      "program": "subtract(985303, 1019749)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage change does this represent?",
+      "answer": -0.03378,
+      "answer_raw": "-0.03378",
+      "program": "subtract(985303, 1019749), divide(#0, 1019749)"
+    }
+  ]
+}

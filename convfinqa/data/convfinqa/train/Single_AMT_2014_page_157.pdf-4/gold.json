@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the weighted average fair value per share of espp share purchase options from 2013 to 2014?",
+      "answer": 1.41,
+      "answer_raw": "1.41",
+      "program": "subtract(14.83, 13.42)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that weighted average fair value in 2013?",
+      "answer": 13.42,
+      "answer_raw": "13.42",
+      "program": "13.42"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2013 weighted average fair value?",
+      "answer": 0.10507,
+      "answer_raw": "0.10507",
+      "program": "subtract(14.83, 13.42), divide(#0, 13.42)"
+    }
+  ]
+}

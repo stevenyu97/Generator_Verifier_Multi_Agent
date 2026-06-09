@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the weighted average shares outstanding for diluted net earnings per share in 2013?",
+      "answer": 171.8,
+      "answer_raw": "171.8",
+      "program": "171.8"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the weighted average shares outstanding for basic net earnings per share for the same year?",
+      "answer": 169.6,
+      "answer_raw": "169.6",
+      "program": "169.6"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the proportion of weighted average shares outstanding for diluted net earnings to the weighted average shares outstanding for basic net earnings?",
+      "answer": 1.01297,
+      "answer_raw": "1.01297",
+      "program": "divide(171.8, 169.6)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and as a decimal?",
+      "answer": 0.01297,
+      "answer_raw": "0.01297",
+      "program": "divide(171.8, 169.6), subtract(#0, const_1)"
+    }
+  ]
+}

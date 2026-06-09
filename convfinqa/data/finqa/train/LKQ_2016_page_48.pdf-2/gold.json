@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in cash and equivalents from 2015 to 2016?",
+      "answer": 140003.0,
+      "answer_raw": "140003.0",
+      "program": "subtract(227400, 87397)"
+    }
+  ]
+}

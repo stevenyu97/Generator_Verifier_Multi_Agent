@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of 2015, what was the amount of the notes issued maturing in 2045?",
+      "answer": 850.0,
+      "answer_raw": "850.0",
+      "program": "850"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it for the ones maturing in 2025?",
+      "answer": 750.0,
+      "answer_raw": "750.0",
+      "program": "750"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, did the 2045 amount represent in relation to this 2025 one?",
+      "answer": 1.13333,
+      "answer_raw": "1.13333",
+      "program": "divide(850, 750)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and concerning the debt maturities, what was their maximum value between the year of 2018 to 2020?",
+      "answer": 1100.0,
+      "answer_raw": "1100.0",
+      "program": "1100"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and what was their minimum one?",
+      "answer": 414.0,
+      "answer_raw": "414.0",
+      "program": "414"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what was, then, their mathematical range for that period?",
+      "answer": 686.0,
+      "answer_raw": "686.0",
+      "program": "subtract(1100, 414)"
+    }
+  ]
+}

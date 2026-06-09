@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions , what was the average loss from foreign currency translation from 2015-2017?",
+      "answer": 98.93333,
+      "answer_raw": "98.93333",
+      "program": "add(96.1, 139.6), add(#0, 61.1), divide(#1, const_3)"
+    }
+  ]
+}

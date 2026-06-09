@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "together, what were the allowance for other funds and for borrowed funds used during construction in 2016?",
+      "answer": 21.0,
+      "answer_raw": "21.0",
+      "program": "add(15, 6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the percentage of this value that was borrowed?",
+      "answer": 0.28571,
+      "answer_raw": "0.28571",
+      "program": "add(15, 6), divide(6, #0)"
+    }
+  ]
+}

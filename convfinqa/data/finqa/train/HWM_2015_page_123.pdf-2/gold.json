@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the variation between the weighted- average useful lives of software and other intangible assets by primary metals segment , in years?",
+      "answer": 31.0,
+      "answer_raw": "31.0",
+      "program": "subtract(37, 6)"
+    }
+  ]
+}

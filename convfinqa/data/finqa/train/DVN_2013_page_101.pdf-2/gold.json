@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total revisions were not related to prices?",
+      "answer": 89.65517,
+      "answer_raw": "89.65517",
+      "program": "add(9, 78), divide(78, #0), multiply(#1, const_100)"
+    }
+  ]
+}

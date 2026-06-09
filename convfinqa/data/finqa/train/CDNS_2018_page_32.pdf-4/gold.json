@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total cash outflow for stock repurchase in the last three months of 2018 , ( in millions ) ?",
+      "answer": 108681175.5,
+      "answer_raw": "108681175.5",
+      "program": "multiply(2521605, 43.10)"
+    }
+  ]
+}

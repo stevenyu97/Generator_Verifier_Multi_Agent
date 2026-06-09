@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the benefit related to the effective settlement of tax audits recorded as part of the company recorded an income tax provision for 2007",
+      "answer": 0.0988,
+      "answer_raw": "0.0988",
+      "program": "divide(41, 415)"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "input": {
+    "id": "ETR/2002/page_86.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy corporation notes to consolidated financial statements ( d ) the bonds are subject to mandatory tender for purchase from the holders at 100% ( 100 % ) of the principal amount outstanding on october 1 , 2003 and will then be remarketed .",
+      "( e ) on june 1 , 2002 , entergy louisiana remarketed $ 55 million st .",
+      "charles parish pollution control revenue refunding bonds due 2030 , resetting the interest rate to 4.9% ( 4.9 % ) through may 2005 .",
+      "( f ) the bonds are subject to mandatory tender for purchase from the holders at 100% ( 100 % ) of the principal amount outstanding on june 1 , 2005 and will then be remarketed .",
+      "( g ) the fair value excludes lease obligations , long-term doe obligations , and other long-term debt and includes debt due within one year .",
+      "it is determined using bid prices reported by dealer markets and by nationally recognized investment banking firms .",
+      "the annual long-term debt maturities ( excluding lease obligations ) and annual cash sinking fund requirements for debt outstanding as of december 31 , 2002 , for the next five years are as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "not included are other sinking fund requirements of approximately $ 30.2 million annually , which may be satisfied by cash or by certification of property additions at the rate of 167% ( 167 % ) of such requirements .",
+      "in december 2002 , when the damhead creek project was sold , the buyer of the project assumed all obligations under the damhead creek credit facilities and the damhead creek interest rate swap agreements .",
+      "in november 2000 , entergy's non-utility nuclear business purchased the fitzpatrick and indian point 3 power plants in a seller-financed transaction .",
+      "entergy issued notes to nypa with seven annual installments of approximately $ 108 million commencing one year from the date of the closing , and eight annual installments of $ 20 million commencing eight years from the date of the closing .",
+      "these notes do not have a stated interest rate , but have an implicit interest rate of 4.8% ( 4.8 % ) .",
+      "in accordance with the purchase agreement with nypa , the purchase of indian point 2 resulted in entergy's non-utility nuclear business becoming liable to nypa for an additional $ 10 million per year for 10 years , beginning in september 2003 .",
+      "this liability was recorded upon the purchase of indian point 2 in september 2001 .",
+      "covenants in the entergy corporation 7.75% ( 7.75 % ) notes require it to maintain a consolidated debt ratio of 65% ( 65 % ) or less of its total capitalization .",
+      "if entergy's debt ratio exceeds this limit , or if entergy or certain of the domestic utility companies default on other credit facilities or are in bankruptcy or insolvency proceedings , an acceleration of the facility's maturity may occur .",
+      "in january 2003 , entergy paid in full , at maturity , the outstanding debt relating to the top of iowa wind project .",
+      "capital funds agreement pursuant to an agreement with certain creditors , entergy corporation has agreed to supply system energy with sufficient capital to : fffd maintain system energy's equity capital at a minimum of 35% ( 35 % ) of its total capitalization ( excluding short-term debt ) ; fffd permit the continued commercial operation of grand gulf 1 ; fffd pay in full all system energy indebtedness for borrowed money when due ; and fffd enable system energy to make payments on specific system energy debt , under supplements to the agreement assigning system energy's rights in the agreement as security for the specific debt. ."
+    ],
+    "table": [
+      [
+        "2003",
+        "$ 1150786"
+      ],
+      [
+        "2004",
+        "$ 925005"
+      ],
+      [
+        "2005",
+        "$ 540372"
+      ],
+      [
+        "2006",
+        "$ 139952"
+      ],
+      [
+        "2007",
+        "$ 475288"
+      ]
+    ],
+    "questions": [
+      "what was the sum of the notes entergy issued to nypa with seven and eight annual payment installments"
+    ]
+  }
+}

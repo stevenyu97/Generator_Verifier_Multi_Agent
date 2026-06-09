@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the total purchase price was comprised of goodwill?",
+      "answer": 0.27867,
+      "answer_raw": "0.27867",
+      "program": "divide(646.7, 2320.7)"
+    }
+  ]
+}

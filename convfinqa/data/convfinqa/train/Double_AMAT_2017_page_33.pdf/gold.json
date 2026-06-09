@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in value of an $100 investment in applied materials from 2012 to 2015?",
+      "answer": 65.34,
+      "answer_raw": "65.34",
+      "program": "subtract(165.34, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what roi does this represent?",
+      "answer": 0.6534,
+      "answer_raw": "0.6534",
+      "program": "subtract(165.34, const_100), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what about the net change in value in s&p500 for the same period?",
+      "answer": 56.89,
+      "answer_raw": "56.89",
+      "program": "subtract(156.89, const_100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the roi of s&p500?",
+      "answer": 0.5689,
+      "answer_raw": "0.5689",
+      "program": "subtract(156.89, const_100), divide(#0, const_100)"
+    }
+  ]
+}

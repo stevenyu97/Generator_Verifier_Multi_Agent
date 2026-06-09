@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in the total fair value of restricted stock and performance awards vested between 2016 and 2017?",
+      "answer": 13.7,
+      "answer_raw": "13.7",
+      "program": "subtract(33.7, 20.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "now as a percentage of the original value?",
+      "answer": 0.685,
+      "answer_raw": "0.685",
+      "program": "subtract(33.7, 20.0), divide(#0, 20.0)"
+    }
+  ]
+}

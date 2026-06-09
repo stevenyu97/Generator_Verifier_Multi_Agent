@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in thousands , what was the average number of shares of class a common stock outstanding?",
+      "answer": 66679.0,
+      "answer_raw": "66679.0",
+      "program": "table_average(class a common stock, none)"
+    }
+  ]
+}

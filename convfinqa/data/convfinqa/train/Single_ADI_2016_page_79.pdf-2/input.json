@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "Single_ADI/2016/page_79.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "analog devices , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) the total intrinsic value of options exercised ( i.e .",
+      "the difference between the market price at exercise and the price paid by the employee to exercise the options ) during fiscal 2016 , 2015 and 2014 was $ 46.6 million , $ 99.2 million and $ 130.6 million , respectively , and the total amount of proceeds received by the company from exercise of these options during fiscal 2016 , 2015 and 2014 was $ 61.5 million , $ 122.6 million and $ 200.1 million , respectively .",
+      "a summary of the company 2019s restricted stock unit award activity as of october 29 , 2016 and changes during the fiscal year then ended is presented below : restricted stock units outstanding ( in thousands ) weighted- average grant- date fair value per share ."
+    ],
+    "post_text": [
+      "as of october 29 , 2016 , there was $ 112.3 million of total unrecognized compensation cost related to unvested share- based awards comprised of stock options and restricted stock units .",
+      "that cost is expected to be recognized over a weighted- average period of 1.4 years .",
+      "the total grant-date fair value of shares that vested during fiscal 2016 , 2015 and 2014 was approximately $ 62.8 million , $ 65.6 million and $ 57.4 million , respectively .",
+      "common stock repurchases the company 2019s common stock repurchase program has been in place since august 2004 .",
+      "in the aggregate , the board of directors has authorized the company to repurchase $ 6.2 billion of the company 2019s common stock under the program .",
+      "the company may repurchase outstanding shares of its common stock from time to time in the open market and through privately negotiated transactions .",
+      "unless terminated earlier by resolution of the company 2019s board of directors , the repurchase program will expire when the company has repurchased all shares authorized under the program .",
+      "as of october 29 , 2016 , the company had repurchased a total of approximately 147.0 million shares of its common stock for approximately $ 5.4 billion under this program .",
+      "an additional $ 792.5 million remains available for repurchase of shares under the current authorized program .",
+      "the repurchased shares are held as authorized but unissued shares of common stock .",
+      "as a result of the company's planned acquisition of linear technology corporation , see note 6 , acquisitions , of these notes to consolidated financial statements , the company temporarily suspended the common stock repurchase plan in the third quarter of 2016 .",
+      "the company also , from time to time , repurchases shares in settlement of employee minimum tax withholding obligations due upon the vesting of restricted stock units or the exercise of stock options .",
+      "the withholding amount is based on the employees minimum statutory withholding requirement .",
+      "any future common stock repurchases will be dependent upon several factors , including the company's financial performance , outlook , liquidity and the amount of cash the company has available in the united states .",
+      "preferred stock the company has 471934 authorized shares of $ 1.00 par value preferred stock , none of which is issued or outstanding .",
+      "the board of directors is authorized to fix designations , relative rights , preferences and limitations on the preferred stock at the time of issuance. ."
+    ],
+    "table": [
+      [
+        "",
+        "restrictedstock unitsoutstanding ( in thousands )",
+        "weighted-average grant-date fair valueper share"
+      ],
+      [
+        "restricted stock units outstanding at october 31 2015",
+        "2698",
+        "$ 47.59"
+      ],
+      [
+        "units granted",
+        "1099",
+        "$ 51.59"
+      ],
+      [
+        "restrictions lapsed",
+        "-905 ( 905 )",
+        "$ 44.30"
+      ],
+      [
+        "forfeited",
+        "-202 ( 202 )",
+        "$ 50.34"
+      ],
+      [
+        "restricted stock units outstanding at october 29 2016",
+        "2690",
+        "$ 50.11"
+      ]
+    ],
+    "questions": [
+      "what was the change in the total grant-date fair value of shares vested from 2015 to 2016?",
+      "and how much does this change represent in relation to that fair value in 2015, in percentage?"
+    ]
+  }
+}

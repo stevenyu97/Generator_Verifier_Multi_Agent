@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of years for customer relationships and trademarks?",
+      "answer": 50.0,
+      "answer_raw": "50.0",
+      "program": "add(25, 25)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the number of years for other intangible assets?",
+      "answer": 25.0,
+      "answer_raw": "25.0",
+      "program": "25"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the number of years for completed technology/patents?",
+      "answer": 10.0,
+      "answer_raw": "10.0",
+      "program": "10"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the sum number of years?",
+      "answer": 35.0,
+      "answer_raw": "35.0",
+      "program": "add(25, 25), add(25, 10)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total sum number of years?",
+      "answer": 85.0,
+      "answer_raw": "85.0",
+      "program": "add(25, 25), add(25, 10), add(#0, #1)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the total sum divided by 4?",
+      "answer": 21.25,
+      "answer_raw": "21.25",
+      "program": "add(25, 25), add(25, 10), add(#0, #1), divide(#2, const_4)"
+    }
+  ]
+}

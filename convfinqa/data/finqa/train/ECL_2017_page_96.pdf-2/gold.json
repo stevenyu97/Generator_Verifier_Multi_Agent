@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "total rental expense under the company 2019s operating leases changed by how much in millions between 2017 and 2018?",
+      "answer": -108.0,
+      "answer_raw": "-108.0",
+      "program": "subtract(131, 239)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the number if doors is sold in europe?",
+      "answer": 0.19202,
+      "answer_raw": "0.19202",
+      "program": "divide(2075, 10806)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about solid in united states and canada?",
+      "answer": 0.79687,
+      "answer_raw": "0.79687",
+      "program": "divide(8611, 10806)"
+    }
+  ]
+}

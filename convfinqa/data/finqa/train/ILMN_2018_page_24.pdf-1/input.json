@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "ILMN/2018/page_24.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents our certificate of incorporation and bylaws include anti-takeover provisions that may make it difficult for another company to acquire control of us or limit the price investors might be willing to pay for our stock .",
+      "certain provisions of our certificate of incorporation and bylaws could delay the removal of incumbent directors and could make it more difficult to successfully complete a merger , tender offer , or proxy contest involving us .",
+      "our certificate of incorporation has provisions that give our board the ability to issue preferred stock and determine the rights and designations of the preferred stock at any time without stockholder approval .",
+      "the rights of the holders of our common stock will be subject to , and may be adversely affected by , the rights of the holders of any preferred stock that may be issued in the future .",
+      "the issuance of preferred stock , while providing flexibility in connection with possible acquisitions and other corporate purposes , could have the effect of making it more difficult for a third party to acquire , or of discouraging a third party from acquiring , a majority of our outstanding voting stock .",
+      "in addition , the staggered terms of our board of directors could have the effect of delaying or deferring a change in control .",
+      "in addition , certain provisions of the delaware general corporation law ( dgcl ) , including section 203 of the dgcl , may have the effect of delaying or preventing changes in the control or management of illumina .",
+      "section 203 of the dgcl provides , with certain exceptions , for waiting periods applicable to business combinations with stockholders owning at least 15% ( 15 % ) and less than 85% ( 85 % ) of the voting stock ( exclusive of stock held by directors , officers , and employee plans ) of a company .",
+      "the above factors may have the effect of deterring hostile takeovers or otherwise delaying or preventing changes in the control or management of illumina , including transactions in which our stockholders might otherwise receive a premium over the fair market value of our common stock .",
+      "item 1b .",
+      "unresolved staff comments .",
+      "item 2 .",
+      "properties .",
+      "the following table summarizes the facilities we leased as of december 30 , 2018 , including the location and size of each principal facility , and their designated use .",
+      "we believe our facilities are adequate for our current and near-term needs , and we will be able to locate additional facilities , as needed .",
+      "location approximate square feet operation expiration dates ."
+    ],
+    "post_text": [
+      "________________ *excludes approximately 48000 square feet for which the leases do not commence until 2019 and beyond .",
+      "item 3 .",
+      "legal proceedings .",
+      "see discussion of legal proceedings in note 201c7 .",
+      "legal proceedings 201d in part ii , item 8 of this report , which is incorporated by reference herein .",
+      "item 4 .",
+      "mine safety disclosures .",
+      "not applicable. ."
+    ],
+    "table": [
+      [
+        "location",
+        "approximate square feet",
+        "operation",
+        "leaseexpiration dates"
+      ],
+      [
+        "san diego ca",
+        "1195000",
+        "r&d manufacturing warehouse distribution and administrative",
+        "2019 2013 2031"
+      ],
+      [
+        "san francisco bay area ca",
+        "501000",
+        "r&d manufacturing warehouse and administrative",
+        "2020 2013 2033"
+      ],
+      [
+        "singapore",
+        "395000",
+        "r&d manufacturing warehouse distribution and administrative",
+        "2020 2013 2025"
+      ],
+      [
+        "cambridge united kingdom",
+        "263000",
+        "r&d manufacturing and administrative",
+        "2019 2013 2039"
+      ],
+      [
+        "madison wi",
+        "205000",
+        "r&d manufacturing warehouse distribution and administrative",
+        "2019 2013 2033"
+      ],
+      [
+        "eindhoven the netherlands",
+        "42000",
+        "distribution and administrative",
+        "2020"
+      ],
+      [
+        "other*",
+        "86000",
+        "administrative",
+        "2019 2013 2023"
+      ]
+    ],
+    "questions": [
+      "as of december 30 , 2018 what was the ratio of the approximate square feet operation leased in san francisco bay area ca to singapore"
+    ]
+  }
+}

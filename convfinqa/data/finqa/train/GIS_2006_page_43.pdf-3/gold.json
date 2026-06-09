@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average price per share for the repurchased shares during 2006?",
+      "answer": 46.94737,
+      "answer_raw": "46.94737",
+      "program": "divide(892, 19)"
+    }
+  ]
+}

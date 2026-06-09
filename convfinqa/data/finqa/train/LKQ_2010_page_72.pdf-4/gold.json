@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 31 , 2009 what was the difference between the fair value of our term loans to their carrying value in millions",
+      "answer": 26.0,
+      "answer_raw": "26.0",
+      "program": "subtract(596, 570)"
+    }
+  ]
+}

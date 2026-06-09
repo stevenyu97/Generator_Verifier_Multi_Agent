@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in the year of 2013, what what was the balance in the investment securities portfolio, in billions?",
+      "answer": 347.562,
+      "answer_raw": "347.562",
+      "program": "divide(347562, const_1000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what would be that balance without the htm securities?",
+      "answer": 323.562,
+      "answer_raw": "323.562",
+      "program": "divide(347562, const_1000), subtract(#0, 24.0)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and in the previous year, what was the total of litigation reserves?",
+      "answer": 3.7,
+      "answer_raw": "3.7",
+      "program": "3.7"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was it in 2011?",
+      "answer": 3.2,
+      "answer_raw": "3.2",
+      "program": "3.2"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "by how much, then, did it increase from 2011 to 2012?",
+      "answer": 0.5,
+      "answer_raw": "0.5",
+      "program": "subtract(3.7, 3.2)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and what is this increase as a percentage of the reserves?",
+      "answer": 0.15625,
+      "answer_raw": "0.15625",
+      "program": "subtract(3.7, 3.2), divide(#0, 3.2)"
+    }
+  ]
+}

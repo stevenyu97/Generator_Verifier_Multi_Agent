@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total number of votes affirmative to issue shares of republic common stock and other securities convertible?",
+      "answer": 141728743.0,
+      "answer_raw": "141728743.0",
+      "program": "141728743"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and against?",
+      "answer": 297976.0,
+      "answer_raw": "297976.0",
+      "program": "297976"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combined, what were the total affirmative and against votes?",
+      "answer": 142026719.0,
+      "answer_raw": "142026719.0",
+      "program": "add(141728743, 297976)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the number of abstentions?",
+      "answer": 156165.0,
+      "answer_raw": "156165.0",
+      "program": "156165"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what was the total of votes cast?",
+      "answer": 142182884.0,
+      "answer_raw": "142182884.0",
+      "program": "add(141728743, 297976), add(#0, 156165)"
+    }
+  ]
+}

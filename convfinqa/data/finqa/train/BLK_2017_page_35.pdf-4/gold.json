@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the balance of asset allocation from 2016 to 2017?",
+      "answer": 0.11247,
+      "answer_raw": "0.11247",
+      "program": "subtract(196545, 176675), divide(#0, 176675)"
+    }
+  ]
+}

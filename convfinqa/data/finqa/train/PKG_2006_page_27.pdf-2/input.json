@@ -1,0 +1,73 @@
+{
+  "input": {
+    "id": "PKG/2006/page_27.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "results of operations year ended december 31 , 2006 compared to year ended december 31 , 2005 the historical results of operations of pca for the years ended december 31 , 2006 and 2005 are set forth below : for the year ended december 31 , ( in millions ) 2006 2005 change ."
+    ],
+    "post_text": [
+      "net sales net sales increased by $ 193.4 million , or 9.7% ( 9.7 % ) , for the year ended december 31 , 2006 from the year ended december 31 , 2005 .",
+      "net sales increased primarily due to increased sales prices and volumes of corrugated products and containerboard compared to 2005 .",
+      "total corrugated products volume sold increased 0.4% ( 0.4 % ) to 31.3 billion square feet in 2006 compared to 31.2 billion square feet in 2005 .",
+      "on a comparable shipment-per-workday basis , corrugated products sales volume increased 0.8% ( 0.8 % ) in 2006 from 2005 .",
+      "shipments-per-workday is calculated by dividing our total corrugated products volume during the year by the number of workdays within the year .",
+      "the larger percentage increase on a shipment-per-workday basis was due to the fact that 2006 had one less workday ( 249 days ) , those days not falling on a weekend or holiday , than 2005 ( 250 days ) .",
+      "containerboard sales volume to external domestic and export customers increased 15.6% ( 15.6 % ) to 482000 tons for the year ended december 31 , 2006 from 417000 tons in 2005 .",
+      "income from operations income from operations increased by $ 109.8 million , or 94.6% ( 94.6 % ) , for the year ended december 31 , 2006 compared to 2005 .",
+      "included in income from operations for the year ended december 31 , 2005 is income of $ 14.0 million , net of expenses , consisting of two dividends paid to pca by southern timber venture , llc ( stv ) , the timberlands joint venture in which pca owns a 311 20443% ( 20443 % ) ownership interest .",
+      "excluding the dividends from stv , income from operations increased $ 123.8 million in 2006 compared to 2005 .",
+      "the $ 123.8 million increase in income from operations was primarily attributable to higher sales prices and volume as well as improved mix of business ( $ 195.6 million ) , partially offset by increased costs related to transportation ( $ 18.9 million ) , energy , primarily purchased fuels and electricity ( $ 18.3 million ) , wage increases for hourly and salaried personnel ( $ 16.9 million ) , medical , pension and other benefit costs ( $ 9.9 million ) , and incentive compensation ( $ 6.5 million ) .",
+      "gross profit increased $ 137.1 million , or 44.7% ( 44.7 % ) , for the year ended december 31 , 2006 from the year ended december 31 , 2005 .",
+      "gross profit as a percentage of net sales increased from 15.4% ( 15.4 % ) of net sales in 2005 to 20.3% ( 20.3 % ) of net sales in the current year primarily due to the increased sales prices described previously .",
+      "selling and administrative expenses increased $ 12.3 million , or 8.4% ( 8.4 % ) , for the year ended december 31 , 2006 from the comparable period in 2005 .",
+      "the increase was primarily the result of increased salary and ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "for the year ended december 31 , 2006",
+        "for the year ended december 31 , 2005",
+        "change"
+      ],
+      [
+        "net sales",
+        "$ 2187.1",
+        "$ 1993.7",
+        "$ 193.4"
+      ],
+      [
+        "income from operations",
+        "$ 225.9",
+        "$ 116.1",
+        "$ 109.8"
+      ],
+      [
+        "interest expense net",
+        "-31.2 ( 31.2 )",
+        "-28.1 ( 28.1 )",
+        "-3.1 ( 3.1 )"
+      ],
+      [
+        "income before taxes",
+        "194.7",
+        "88.0",
+        "106.7"
+      ],
+      [
+        "provision for income taxes",
+        "-69.7 ( 69.7 )",
+        "-35.4 ( 35.4 )",
+        "-34.3 ( 34.3 )"
+      ],
+      [
+        "net income",
+        "$ 125.0",
+        "$ 52.6",
+        "$ 72.4"
+      ]
+    ],
+    "questions": [
+      "net sales increased by what percent from 2005 to 2006?"
+    ]
+  }
+}

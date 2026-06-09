@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage increase of the s&p 500 from 2011 to 2016?",
+      "answer": 98.18,
+      "answer_raw": "98.18",
+      "program": "subtract(198.18, const_100), divide(#0, const_100), multiply(#1, const_100)"
+    }
+  ]
+}

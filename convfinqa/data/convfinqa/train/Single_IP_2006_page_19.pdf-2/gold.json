@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the industry segment operating profits in 2006?",
+      "answer": 2074.0,
+      "answer_raw": "2074.0",
+      "program": "2074"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2005?",
+      "answer": 1622.0,
+      "answer_raw": "1622.0",
+      "program": "1622"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 452.0,
+      "answer_raw": "452.0",
+      "program": "subtract(2074, 1622)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the industry segment operating profits in 2005?",
+      "answer": 1622.0,
+      "answer_raw": "1622.0",
+      "program": "1622"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what percentage change does this represent?",
+      "answer": 0.27867,
+      "answer_raw": "0.27867",
+      "program": "subtract(2074, 1622), divide(#0, 1622)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage decrease in average price per share from october to november?",
+      "answer": 8.91996,
+      "answer_raw": "8.91996",
+      "program": "subtract(20.74, 18.89), divide(#0, 20.74), multiply(#1, const_100)"
+    }
+  ]
+}

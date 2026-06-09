@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total net trade receivables for 2016?",
+      "answer": 1639.0,
+      "answer_raw": "1639.0",
+      "program": "1639"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for 2015?",
+      "answer": 1731.0,
+      "answer_raw": "1731.0",
+      "program": "1731"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the difference in value between these two years?",
+      "answer": -92.0,
+      "answer_raw": "-92.0",
+      "program": "subtract(1639, 1731)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage change?",
+      "answer": -0.05315,
+      "answer_raw": "-0.05315",
+      "program": "subtract(1639, 1731), divide(#0, 1731)"
+    }
+  ]
+}

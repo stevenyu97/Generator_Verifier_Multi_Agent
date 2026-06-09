@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "AON/2007/page_184.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements certain of aon 2019s european subsidiaries have a a650 million ( u.s .",
+      "$ 942 million ) multi-currency revolving loan credit facility .",
+      "this facility will mature in october 2010 , unless aon opts to extend the facility .",
+      "commitment fees of 8.75 basis points are payable on the unused portion of the facility .",
+      "at december 31 , 2007 , aon has borrowed a376 million and $ 250 million ( $ 795 million ) under this facility .",
+      "at december 31 , 2006 , a307 million was borrowed .",
+      "at december 31 , 2007 , $ 250 million of the euro facility is classified as short-term debt in the consolidated statements of financial position .",
+      "aon has guaranteed the obligations of its subsidiaries with respect to this facility .",
+      "aon maintains a $ 600 million , 5-year u.s .",
+      "committed bank credit facility to support commercial paper and other short-term borrowings , which expires in february 2010 .",
+      "this facility permits the issuance of up to $ 150 million in letters of credit .",
+      "at december 31 , 2007 and 2006 , aon had $ 20 million in letters of credit outstanding .",
+      "based on aon 2019s current credit ratings , commitment fees of 10 basis points are payable on the unused portion of the facility .",
+      "for both the u.s .",
+      "and euro facilities , aon is required to maintain consolidated net worth , as defined , of at least $ 2.5 billion , a ratio of consolidated ebitda ( earnings before interest , taxes , depreciation and amortization ) to consolidated interest expense of 4 to 1 and a ratio of consolidated debt to ebitda of not greater than 3 to 1 .",
+      "aon also has other foreign facilities available , which include a a337.5 million ( $ 74 million ) facility , a a25 million ( $ 36 million ) facility , and a a20 million ( $ 29 million ) facility .",
+      "outstanding debt securities , including aon capital a 2019s , are not redeemable by aon prior to maturity .",
+      "there are no sinking fund provisions .",
+      "interest is payable semi-annually on most debt securities .",
+      "repayments of long-term debt are $ 548 million , $ 382 million and $ 225 million in 2010 , 2011 and 2012 , respectively .",
+      "other information related to aon 2019s debt is as follows: ."
+    ],
+    "post_text": [
+      "lease commitments aon has noncancelable operating leases for certain office space , equipment and automobiles .",
+      "these leases expire at various dates and may contain renewal and expansion options .",
+      "in addition to base rental costs , occupancy lease agreements generally provide for rent escalations resulting from increased assessments for real estate taxes and other charges .",
+      "approximately 81% ( 81 % ) of aon 2019s lease obligations are for the use of office space .",
+      "rental expense for operating leases amounted to $ 368 million , $ 350 million and $ 337 million for 2007 , 2006 and 2005 , respectively , after deducting rentals from subleases ( $ 40 million , $ 33 million and $ 29 million for 2007 , 2006 and 2005 , respectively ) .",
+      "aon corporation ."
+    ],
+    "table": [
+      [
+        "years ended december 31",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "interest paid ( millions )",
+        "$ 147",
+        "$ 130",
+        "$ 130"
+      ],
+      [
+        "weighted-average interest rates 2014 short-term borrowings",
+        "5.1% ( 5.1 % )",
+        "4.4% ( 4.4 % )",
+        "3.5% ( 3.5 % )"
+      ]
+    ],
+    "questions": [
+      "what percentage of the letter of credit remains available as of december 31 , 2007?"
+    ]
+  }
+}

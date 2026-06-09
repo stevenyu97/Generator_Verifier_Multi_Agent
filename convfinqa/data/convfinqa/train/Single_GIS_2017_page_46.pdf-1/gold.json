@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the fair value impact of interest rate instruments?",
+      "answer": 26.5,
+      "answer_raw": "26.5",
+      "program": "26.5"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the value of foreign currency instruments?",
+      "answer": 22.9,
+      "answer_raw": "22.9",
+      "program": "22.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 49.4,
+      "answer_raw": "49.4",
+      "program": "add(26.5, 22.9)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the fair value of commodity instruments?",
+      "answer": 2.5,
+      "answer_raw": "2.5",
+      "program": "2.5"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the prior sum including commodity instruments?",
+      "answer": 51.9,
+      "answer_raw": "51.9",
+      "program": "add(26.5, 22.9), add(#0, 2.5)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the total sum including equity instruments?",
+      "answer": 53.3,
+      "answer_raw": "53.3",
+      "program": "add(26.5, 22.9), add(#0, 2.5), add(#1, 1.4)"
+    }
+  ]
+}

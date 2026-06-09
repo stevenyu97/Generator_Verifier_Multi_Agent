@@ -1,0 +1,80 @@
+{
+  "input": {
+    "id": "AMT/2006/page_31.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "part ii item 5 .",
+      "market for registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities the following table presents reported quarterly high and low per share sale prices of our class a common stock on the new york stock exchange ( nyse ) for the years 2006 and 2005. ."
+    ],
+    "post_text": [
+      "on february 22 , 2007 , the closing price of our class a common stock was $ 40.38 per share as reported on the nyse .",
+      "as of february 22 , 2007 , we had 419988395 outstanding shares of class a common stock and 623 registered holders .",
+      "in february 2004 , all outstanding shares of our class b common stock were converted into shares of our class a common stock on a one-for-one basis pursuant to the occurrence of the 201cdodge conversion event 201d as defined in our charter .",
+      "also in february 2004 , all outstanding shares of class c common stock were converted into shares of class a common stock on a one-for-one basis .",
+      "in august 2005 , we amended and restated our charter to , among other things , eliminate our class b common stock and class c common stock .",
+      "dividends we have never paid a dividend on any class of our common stock .",
+      "we anticipate that we may retain future earnings , if any , to fund the development and growth of our business .",
+      "the indentures governing our 7.50% ( 7.50 % ) senior notes due 2012 ( 7.50% ( 7.50 % ) notes ) and our 7.125% ( 7.125 % ) senior notes due 2012 ( 7.125% ( 7.125 % ) notes ) may prohibit us from paying dividends to our stockholders unless we satisfy certain financial covenants .",
+      "our credit facilities and the indentures governing the terms of our debt securities contain covenants that may restrict the ability of our subsidiaries from making to us any direct or indirect distribution , dividend or other payment on account of their limited liability company interests , partnership interests , capital stock or other equity interests .",
+      "under our credit facilities , the borrower subsidiaries may pay cash dividends or make other distributions to us in accordance with the applicable credit facility only if no default exists or would be created thereby .",
+      "the indenture governing the terms of the ati 7.25% ( 7.25 % ) notes prohibit ati and certain of our other subsidiaries that have guaranteed those notes ( sister guarantors ) from paying dividends and making other payments or distributions to us unless certain financial covenants are satisfied .",
+      "the indentures governing the terms of our 7.50% ( 7.50 % ) notes and 7.125% ( 7.125 % ) notes also contain certain restrictive covenants , which prohibit the restricted subsidiaries under these indentures from paying dividends and making other payments or distributions to us unless certain financial covenants are satisfied .",
+      "for more information about the restrictions under our credit facilities and our notes indentures , see item 7 of this annual report under the caption 201cmanagement 2019s discussion and analysis of financial condition and results of operations 2014liquidity and capital resources 2014factors affecting sources of liquidity 201d and note 7 to our consolidated financial statements included in this annual report. ."
+    ],
+    "table": [
+      [
+        "2006",
+        "high",
+        "low"
+      ],
+      [
+        "quarter ended march 31",
+        "$ 32.68",
+        "$ 26.66"
+      ],
+      [
+        "quarter ended june 30",
+        "35.75",
+        "27.35"
+      ],
+      [
+        "quarter ended september 30",
+        "36.92",
+        "29.98"
+      ],
+      [
+        "quarter ended december 31",
+        "38.74",
+        "35.21"
+      ],
+      [
+        "2005",
+        "high",
+        "low"
+      ],
+      [
+        "quarter ended march 31",
+        "$ 19.28",
+        "$ 17.30"
+      ],
+      [
+        "quarter ended june 30",
+        "21.16",
+        "16.28"
+      ],
+      [
+        "quarter ended september 30",
+        "25.20",
+        "20.70"
+      ],
+      [
+        "quarter ended december 31",
+        "28.33",
+        "22.73"
+      ]
+    ],
+    "questions": [
+      "what is the average number of shares per registered holder as of february 22 , 2007?"
+    ]
+  }
+}

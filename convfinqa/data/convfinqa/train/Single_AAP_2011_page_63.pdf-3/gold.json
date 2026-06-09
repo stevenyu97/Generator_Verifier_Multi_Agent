@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in the value of ne inventories at lifo during the year?",
+      "answer": 179288.0,
+      "answer_raw": "179288.0",
+      "program": "subtract(2043158, 1863870)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": 0.09619,
+      "answer_raw": "0.09619",
+      "program": "subtract(2043158, 1863870), divide(#0, 1863870)"
+    }
+  ]
+}

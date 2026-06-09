@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the pre-tax aggregate net unrealized loss in 2007?",
+      "answer": 5.2,
+      "answer_raw": "5.2",
+      "program": "add(3.2, 2.0)"
+    }
+  ]
+}

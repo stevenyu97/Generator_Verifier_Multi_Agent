@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total minimum lease payments are operating leases?",
+      "answer": 0.65906,
+      "answer_raw": "0.65906",
+      "program": "add(3725, 1927), divide(3725, #0)"
+    }
+  ]
+}

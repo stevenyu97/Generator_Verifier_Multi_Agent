@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in investment banking fees from 2005 to 2006?",
+      "answer": 1432.0,
+      "answer_raw": "1432.0",
+      "program": "subtract(5520, 4088)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to those fees in 2005, in percentage?",
+      "answer": 0.35029,
+      "answer_raw": "0.35029",
+      "program": "subtract(5520, 4088), divide(#0, 4088)"
+    }
+  ]
+}

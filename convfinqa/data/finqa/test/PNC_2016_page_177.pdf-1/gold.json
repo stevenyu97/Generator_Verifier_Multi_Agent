@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2016 what was the percent of the total commercial lending of the total commitments to extend credit and other commitments",
+      "answer": 0.66051,
+      "answer_raw": "0.66051",
+      "program": "divide(108256, 163897)"
+    }
+  ]
+}

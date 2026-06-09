@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the balance of goodwill from 2014 to 2015?",
+      "answer": -5912.0,
+      "answer_raw": "-5912.0",
+      "program": "subtract(1636526, 1642438)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how much does this change represent, in percentage, in relation to to that balance in 2014?",
+      "answer": -0.0036,
+      "answer_raw": "-0.0036",
+      "program": "subtract(1636526, 1642438), divide(#0, 1642438)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and over the subsequent year, what was the change in that balance of goodwill?",
+      "answer": 42590.0,
+      "answer_raw": "42590.0",
+      "program": "subtract(1679116, 1636526)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much is this change as a percentage of the 2015 balance?",
+      "answer": 0.02602,
+      "answer_raw": "0.02602",
+      "program": "subtract(1679116, 1636526), divide(#0, 1636526)"
+    }
+  ]
+}

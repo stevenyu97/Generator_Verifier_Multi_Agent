@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amount of notes maturing in june 2022?",
+      "answer": 750.0,
+      "answer_raw": "750.0",
+      "program": "750"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the maturity amount due in 2017?",
+      "answer": 700.0,
+      "answer_raw": "700.0",
+      "program": "700"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combined, what is the total of these two values?",
+      "answer": 1450.0,
+      "answer_raw": "1450.0",
+      "program": "add(750, 700)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the total long-term borrowings?",
+      "answer": 4950.0,
+      "answer_raw": "4950.0",
+      "program": "4950"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and the total portion due in the next 36 months?",
+      "answer": 0.29293,
+      "answer_raw": "0.29293",
+      "program": "add(750, 700), divide(#0, 4950)"
+    }
+  ]
+}

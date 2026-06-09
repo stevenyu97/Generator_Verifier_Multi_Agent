@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage of the shares purchase of the maximum number of shares that may yet be purchased under the plans",
+      "answer": 0.07178,
+      "answer_raw": "0.07178",
+      "program": "divide(250000, 3482713)"
+    }
+  ]
+}

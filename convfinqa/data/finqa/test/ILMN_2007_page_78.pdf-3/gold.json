@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in revenue on a pro forma basis between 2006 and 2007?",
+      "answer": 0.96071,
+      "answer_raw": "0.96071",
+      "program": "subtract(366854, 187103), divide(#0, 187103)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in the average price of wti crude oil and western canadian select during 2008??",
+      "answer": 20.16,
+      "answer_raw": "20.16",
+      "program": "subtract(99.75, 79.59)"
+    }
+  ]
+}

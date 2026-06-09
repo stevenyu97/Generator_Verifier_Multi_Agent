@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total future minimum payments for capital leases is due in 2011?",
+      "answer": 0.02447,
+      "answer_raw": "0.02447",
+      "program": "divide(1978, 80823)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total rent expense for 2007 and 2008?",
+      "answer": 78519.0,
+      "answer_raw": "78519.0",
+      "program": "add(42905, 35614)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what about the total rent expense for three years if 2006 is included?",
+      "answer": 109986.0,
+      "answer_raw": "109986.0",
+      "program": "add(42905, 35614), add(31467, #0)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the yearly average for this period?",
+      "answer": 109989.0,
+      "answer_raw": "109989.0",
+      "program": "add(42905, 35614), add(31467, #0), add(#1, const_3)"
+    }
+  ]
+}

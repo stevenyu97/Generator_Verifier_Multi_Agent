@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "Double_PPG/2012/page_47.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "2012 ppg annual report and form 10-k 45 costs related to these notes , which totaled $ 17 million , will be amortized to interest expense over the respective terms of the notes .",
+      "in august 2010 , ppg entered into a three-year credit agreement with several banks and financial institutions ( the \"2010 credit agreement\" ) which was subsequently terminated in july 2012 .",
+      "the 2010 credit agreement provided for a $ 1.2 billion unsecured revolving credit facility .",
+      "in connection with entering into the 2010 credit agreement , the company terminated its 20ac650 million and its $ 1 billion revolving credit facilities that were each set to expire in 2011 .",
+      "there were no outstanding amounts due under either revolving facility at the times of their termination .",
+      "the 2010 credit agreement was set to terminate on august 5 , 2013 .",
+      "ppg 2019s non-u.s .",
+      "operations have uncommitted lines of credit totaling $ 705 million of which $ 34 million was used as of december 31 , 2012 .",
+      "these uncommitted lines of credit are subject to cancellation at any time and are generally not subject to any commitment fees .",
+      "short-term debt outstanding as of december 31 , 2012 and 2011 , was as follows: ."
+    ],
+    "post_text": [
+      "ppg is in compliance with the restrictive covenants under its various credit agreements , loan agreements and indentures .",
+      "the company 2019s revolving credit agreements include a financial ratio covenant .",
+      "the covenant requires that the amount of total indebtedness not exceed 60% ( 60 % ) of the company 2019s total capitalization excluding the portion of accumulated other comprehensive income ( loss ) related to pensions and other postretirement benefit adjustments .",
+      "as of december 31 , 2012 , total indebtedness was 42% ( 42 % ) of the company 2019s total capitalization excluding the portion of accumulated other comprehensive income ( loss ) related to pensions and other postretirement benefit adjustments .",
+      "additionally , substantially all of the company 2019s debt agreements contain customary cross- default provisions .",
+      "those provisions generally provide that a default on a debt service payment of $ 10 million or more for longer than the grace period provided ( usually 10 days ) under one agreement may result in an event of default under other agreements .",
+      "none of the company 2019s primary debt obligations are secured or guaranteed by the company 2019s affiliates .",
+      "interest payments in 2012 , 2011 and 2010 totaled $ 219 million , $ 212 million and $ 189 million , respectively .",
+      "in october 2009 , the company entered into an agreement with a counterparty to repurchase up to 1.2 million shares of the company 2019s stock of which 1.1 million shares were purchased in the open market ( 465006 of these shares were purchased as of december 31 , 2009 at a weighted average price of $ 56.66 per share ) .",
+      "the counterparty held the shares until september of 2010 when the company paid $ 65 million and took possession of these shares .",
+      "rental expense for operating leases was $ 233 million , $ 249 million and $ 233 million in 2012 , 2011 and 2010 , respectively .",
+      "the primary leased assets include paint stores , transportation equipment , warehouses and other distribution facilities , and office space , including the company 2019s corporate headquarters located in pittsburgh , pa .",
+      "minimum lease commitments for operating leases that have initial or remaining lease terms in excess of one year as of december 31 , 2012 , are ( in millions ) $ 171 in 2013 , $ 135 in 2014 , $ 107 in 2015 , $ 83 in 2016 , $ 64 in 2017 and $ 135 thereafter .",
+      "the company had outstanding letters of credit and surety bonds of $ 119 million as of december 31 , 2012 .",
+      "the letters of credit secure the company 2019s performance to third parties under certain self-insurance programs and other commitments made in the ordinary course of business .",
+      "as of december 31 , 2012 and 2011 , guarantees outstanding were $ 96 million and $ 90 million , respectively .",
+      "the guarantees relate primarily to debt of certain entities in which ppg has an ownership interest and selected customers of certain of the company 2019s businesses .",
+      "a portion of such debt is secured by the assets of the related entities .",
+      "the carrying values of these guarantees were $ 11 million and $ 13 million as of december 31 , 2012 and 2011 , respectively , and the fair values were $ 11 million and $ 21 million , as of december 31 , 2012 and 2011 , respectively .",
+      "the fair value of each guarantee was estimated by comparing the net present value of two hypothetical cash flow streams , one based on ppg 2019s incremental borrowing rate and the other based on the borrower 2019s incremental borrowing rate , as of the effective date of the guarantee .",
+      "both streams were discounted at a risk free rate of return .",
+      "the company does not believe any loss related to these letters of credit , surety bonds or guarantees is likely .",
+      "9 .",
+      "fair value measurement the accounting guidance on fair value measurements establishes a hierarchy with three levels of inputs used to determine fair value .",
+      "level 1 inputs are quoted prices ( unadjusted ) in active markets for identical assets and liabilities , are considered to be the most reliable evidence of fair value , and should be used whenever available .",
+      "level 2 inputs are observable prices that are not quoted on active exchanges .",
+      "level 3 inputs are unobservable inputs employed for measuring the fair value of assets or liabilities .",
+      "table of contents notes to the consolidated financial statements ."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "2012",
+        "2011"
+      ],
+      [
+        "other weighted average 2.27% ( 2.27 % ) as of dec . 31 2012 and 3.72% ( 3.72 % ) as of december 31 2011",
+        "$ 39",
+        "$ 33"
+      ],
+      [
+        "total",
+        "$ 39",
+        "$ 33"
+      ]
+    ],
+    "questions": [
+      "as of december 31, 2012, what was the remaining amount the company had in its restrictive covenant regarding debt to total capitalization?",
+      "in this same year, what was the amount of the outstanding letters of credit and surety bonds, in millions?",
+      "and what was that for the guarantees outstanding?",
+      "what was, then, the full amount of both categories, in millions of dollars?",
+      "and how much is that in dollars?"
+    ]
+  }
+}

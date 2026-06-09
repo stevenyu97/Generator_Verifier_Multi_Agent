@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the non-operating income ( expense ) less net income ( loss ) attributable to nci as adjusted in 2010?",
+      "answer": 25.0,
+      "answer_raw": "25.0",
+      "program": "25"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2009?",
+      "answer": 46.0,
+      "answer_raw": "46.0",
+      "program": "46"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 71.0,
+      "answer_raw": "71.0",
+      "program": "add(25, 46)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation to the 2009 value, in percentage?",
+      "answer": 1.54348,
+      "answer_raw": "1.54348",
+      "program": "add(25, 46), divide(#0, 46)"
+    }
+  ]
+}

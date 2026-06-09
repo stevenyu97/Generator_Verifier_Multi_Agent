@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total net revenue investing & lending segment is due to equity securities in 2016?",
+      "answer": 0.63064,
+      "answer_raw": "0.63064",
+      "program": "divide(2573, 4080)"
+    }
+  ]
+}

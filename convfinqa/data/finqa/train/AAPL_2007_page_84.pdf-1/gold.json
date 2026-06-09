@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in accrued warranties and related costs from 2005 to 2006?",
+      "answer": 0.51064,
+      "answer_raw": "0.51064",
+      "program": "subtract(284, 188), divide(#0, 188)"
+    }
+  ]
+}

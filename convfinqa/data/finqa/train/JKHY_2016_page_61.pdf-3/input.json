@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "JKHY/2016/page_61.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "58 2016 annual report note 12 .",
+      "business acquisition bayside business solutions , inc .",
+      "effective july 1 , 2015 , the company acquired all of the equity interests of bayside business solutions , an alabama-based company that provides technology solutions and payment processing services primarily for the financial services industry , for $ 10000 paid in cash .",
+      "this acquisition was funded using existing operating cash .",
+      "the acquisition of bayside business solutions expanded the company 2019s presence in commercial lending within the industry .",
+      "management has completed a purchase price allocation of bayside business solutions and its assessment of the fair value of acquired assets and liabilities assumed .",
+      "the recognized amounts of identifiable assets acquired and liabilities assumed , based upon their fair values as of july 1 , 2015 are set forth below: ."
+    ],
+    "post_text": [
+      "the goodwill of $ 6099 arising from this acquisition consists largely of the growth potential , synergies and economies of scale expected from combining the operations of the company with those of bayside business solutions , together with the value of bayside business solutions 2019 assembled workforce .",
+      "goodwill from this acquisition has been allocated to our banking systems and services segment .",
+      "the goodwill is not expected to be deductible for income tax purposes .",
+      "identifiable intangible assets from this acquisition consist of customer relationships of $ 3402 , $ 659 of computer software and other intangible assets of $ 944 .",
+      "the weighted average amortization period for acquired customer relationships , acquired computer software , and other intangible assets is 15 years , 5 years , and 20 years , respectively .",
+      "current assets were inclusive of cash acquired of $ 1725 .",
+      "the fair value of current assets acquired included accounts receivable of $ 178 .",
+      "the gross amount of receivables was $ 178 , none of which was expected to be uncollectible .",
+      "during fiscal year 2016 , the company incurred $ 55 in costs related to the acquisition of bayside business solutions .",
+      "these costs included fees for legal , valuation and other fees .",
+      "these costs were included within general and administrative expenses .",
+      "the results of bayside business solutions 2019 operations included in the company 2019s consolidated statement of income for the twelve months ended june 30 , 2016 included revenue of $ 4273 and after-tax net income of $ 303 .",
+      "the accompanying consolidated statements of income for the fiscal year ended june 30 , 2016 do not include any revenues and expenses related to this acquisition prior to the acquisition date .",
+      "the impact of this acquisition was considered immaterial to both the current and prior periods of our consolidated financial statements and pro forma financial information has not been provided .",
+      "banno , llc effective march 1 , 2014 , the company acquired all of the equity interests of banno , an iowa-based company that provides web and transaction marketing services with a focus on the mobile medium , for $ 27910 paid in cash .",
+      "this acquisition was funded using existing operating cash .",
+      "the acquisition of banno expanded the company 2019s presence in online and mobile technologies within the industry .",
+      "during fiscal year 2014 , the company incurred $ 30 in costs related to the acquisition of banno .",
+      "these costs included fees for legal , valuation and other fees .",
+      "these costs were included within general and administrative expenses .",
+      "the results of banno's operations included in the company's consolidated statements of income for the year ended june 30 , 2016 included revenue of $ 6393 and after-tax net loss of $ 1289 .",
+      "for the year ended june 30 , 2015 , our consolidated statements of income included revenue of $ 4175 and after-tax net loss of $ 1784 attributable to banno .",
+      "the results of banno 2019s operations included in the company 2019s consolidated statement of operations from the acquisition date to june 30 , 2014 included revenue of $ 848 and after-tax net loss of $ 1121 .",
+      "the accompanying consolidated statements of income for the twelve month period ended june 30 , 2016 do not include any revenues and expenses related to this acquisition prior to the acquisition date .",
+      "the impact of this acquisition was considered immaterial to both the current and prior periods of our consolidated financial statements and pro forma financial information has not been provided. ."
+    ],
+    "table": [
+      [
+        "current assets",
+        "$ 1922"
+      ],
+      [
+        "long-term assets",
+        "253"
+      ],
+      [
+        "identifiable intangible assets",
+        "5005"
+      ],
+      [
+        "total liabilities assumed",
+        "-3279 ( 3279 )"
+      ],
+      [
+        "total identifiable net assets",
+        "3901"
+      ],
+      [
+        "goodwill",
+        "6099"
+      ],
+      [
+        "net assets acquired",
+        "$ 10000"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the make-up of the acquisition that was allocated to the goodwill in the net assets acquired"
+    ]
+  }
+}

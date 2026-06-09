@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "MSI/2009/page_67.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis of financial condition and results of operations in 2008 , asp was flat compared to 2007 .",
+      "by comparison , asp decreased approximately 9% ( 9 % ) in 2007 and decreased approximately 11% ( 11 % ) in 2006 .",
+      "the segment has several large customers located throughout the world .",
+      "in 2008 , aggregate net sales to the segment 2019s five largest customers accounted for approximately 41% ( 41 % ) of the segment 2019s net sales .",
+      "besides selling directly to carriers and operators , the segment also sells products through a variety of third-party distributors and retailers , which accounted for approximately 24% ( 24 % ) of the segment 2019s net sales in 2008 .",
+      "although the u.s .",
+      "market continued to be the segment 2019s largest individual market , many of our customers , and 56% ( 56 % ) of the segment 2019s 2008 net sales , were outside the u.s .",
+      "in 2008 , the largest of these international markets were brazil , china and mexico .",
+      "as the segment 2019s revenue transactions are largely denominated in local currencies , we are impacted by the weakening in the value of these local currencies against the u.s .",
+      "dollar .",
+      "a number of our more significant international markets , particularly in latin america , were impacted by this trend in late 2008 .",
+      "home and networks mobility segment the home and networks mobility segment designs , manufactures , sells , installs and services : ( i ) digital video , internet protocol video and broadcast network interactive set-tops , end-to-end video distribution systems , broadband access infrastructure platforms , and associated data and voice customer premise equipment to cable television and telecom service providers ( collectively , referred to as the 2018 2018home business 2019 2019 ) , and ( ii ) wireless access systems , including cellular infrastructure systems and wireless broadband systems , to wireless service providers ( collectively , referred to as the 2018 2018network business 2019 2019 ) .",
+      "in 2009 , the segment 2019s net sales represented 36% ( 36 % ) of the company 2019s consolidated net sales , compared to 33% ( 33 % ) in 2008 and 27% ( 27 % ) in 2007 .",
+      "years ended december 31 percent change ( dollars in millions ) 2009 2008 2007 2009 20142008 2008 20142007 ."
+    ],
+    "post_text": [
+      "segment results 20142009 compared to 2008 in 2009 , the segment 2019s net sales were $ 8.0 billion , a decrease of 21% ( 21 % ) compared to net sales of $ 10.1 billion in 2008 .",
+      "the 21% ( 21 % ) decrease in net sales reflects a 22% ( 22 % ) decrease in net sales in the networks business and a 21% ( 21 % ) decrease in net sales in the home business .",
+      "the 22% ( 22 % ) decrease in net sales in the networks business was primarily driven by lower net sales of gsm , cdma , umts and iden infrastructure equipment , partially offset by higher net sales of wimax products .",
+      "the 21% ( 21 % ) decrease in net sales in the home business was primarily driven by a 24% ( 24 % ) decrease in net sales of digital entertainment devices , reflecting : ( i ) an 18% ( 18 % ) decrease in shipments of digital entertainment devices , primarily due to lower shipments to large cable and telecommunications operators in north america as a result of macroeconomic conditions , and ( ii ) a lower asp due to an unfavorable shift in product mix .",
+      "the segment shipped 14.7 million digital entertainment devices in 2009 , compared to 18.0 million shipped in 2008 .",
+      "on a geographic basis , the 21% ( 21 % ) decrease in net sales was driven by lower net sales in all regions .",
+      "the decrease in net sales in north america was primarily due to : ( i ) lower net sales in the home business , and ( ii ) lower net sales of cdma and iden infrastructure equipment , partially offset by higher net sales of wimax products .",
+      "the decrease in net sales in emea was primarily due to lower net sales of gsm infrastructure equipment , partially offset by higher net sales of wimax products and higher net sales in the home business .",
+      "the decrease in net sales in asia was primarily driven by lower net sales of gsm , umts and cdma infrastructure equipment , partially offset by higher net sales in the home business .",
+      "the decrease in net sales in latin america was primarily due to : ( i ) lower net sales in the home business , and ( ii ) lower net sales of iden infrastructure equipment , partially offset by higher net sales of wimax products .",
+      "net sales in north america accounted for approximately 51% ( 51 % ) of the segment 2019s total net sales in 2009 , compared to approximately 50% ( 50 % ) of the segment 2019s total net sales in 2008. ."
+    ],
+    "table": [
+      [
+        "( dollars in millions )",
+        "years ended december 31 2009",
+        "years ended december 31 2008",
+        "years ended december 31 2007",
+        "years ended december 31 2009 20142008",
+        "2008 20142007"
+      ],
+      [
+        "segment net sales",
+        "$ 7963",
+        "$ 10086",
+        "$ 10014",
+        "( 21 ) % (  % )",
+        "1% ( 1 % )"
+      ],
+      [
+        "operating earnings",
+        "558",
+        "918",
+        "709",
+        "( 39 ) % (  % )",
+        "29% ( 29 % )"
+      ]
+    ],
+    "questions": [
+      "did consolidated net sales grow from 2007 to 2009 , and what was the growth , in a percentage , from 2007 to 2009?"
+    ]
+  }
+}

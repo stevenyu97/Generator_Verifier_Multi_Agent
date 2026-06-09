@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2016 what was the ratio of the amortizedcost u.s . treasury securities to the u.s . government agency securities",
+      "answer": 4.51754,
+      "answer_raw": "4.51754",
+      "program": "divide(5548.9, 1228.3)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in indemnified securities between 2008 and 2009?",
+      "answer": 40661.0,
+      "answer_raw": "40661.0",
+      "program": "subtract(365251, 324590)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the value for 2008 specifically?",
+      "answer": 324590.0,
+      "answer_raw": "324590.0",
+      "program": "324590"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the percentage change?",
+      "answer": 0.12527,
+      "answer_raw": "0.12527",
+      "program": "subtract(365251, 324590), divide(#0, 324590)"
+    }
+  ]
+}

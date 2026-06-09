@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the balance of total cash and investments as of december 28, 2013?",
+      "answer": 31561.0,
+      "answer_raw": "31561.0",
+      "program": "31561"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2012?",
+      "answer": 26302.0,
+      "answer_raw": "26302.0",
+      "program": "26302"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the change in balance?",
+      "answer": 5259.0,
+      "answer_raw": "5259.0",
+      "program": "subtract(31561, 26302)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the balance of total cash and investments as of december 28, 2012?",
+      "answer": 26302.0,
+      "answer_raw": "26302.0",
+      "program": "26302"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what percentage change does this represent?",
+      "answer": 0.19995,
+      "answer_raw": "0.19995",
+      "program": "subtract(31561, 26302), divide(#0, 26302)"
+    }
+  ]
+}

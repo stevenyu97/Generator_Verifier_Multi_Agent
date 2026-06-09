@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of increases in extensions , discoveries , and other additions was associated with the expansion of proved areas and wells to sales from unproved categories in oklahoma?",
+      "answer": 0.83621,
+      "answer_raw": "0.83621",
+      "program": "divide(97, 116)"
+    }
+  ]
+}

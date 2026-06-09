@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "\\\\nwhat was ratio of the estimates of the year-on-year derivative and other transaction gains and losses 2012 to 2013",
+      "answer": 4.08333,
+      "answer_raw": "4.08333",
+      "program": "divide(49, 12)"
+    }
+  ]
+}

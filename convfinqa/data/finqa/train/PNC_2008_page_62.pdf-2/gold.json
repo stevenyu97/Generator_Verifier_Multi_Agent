@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "is pretax pension expense in 2009 larger when compared with a pretax benefit in 2008?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(124, 32)"
+    }
+  ]
+}

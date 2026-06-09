@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the annual interest expense related to '2022 notes' , in millions?",
+      "answer": 25.3125,
+      "answer_raw": "25.3125",
+      "program": "multiply(750, 3.375%)"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "KIM/2010/page_103.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "kimco realty corporation and subsidiaries notes to consolidated financial statements , continued other 2014 in connection with the construction of its development projects and related infrastructure , certain public agencies require posting of performance and surety bonds to guarantee that the company 2019s obligations are satisfied .",
+      "these bonds expire upon the completion of the improvements and infrastructure .",
+      "as of december 31 , 2010 , there were approximately $ 45.3 million in performance and surety bonds outstanding .",
+      "as of december 31 , 2010 , the company had accrued $ 3.8 million in connection with a legal claim related to a previously sold ground-up development project .",
+      "the company is currently negotiating with the plaintiff to settle this claim and believes that the prob- able settlement amount will approximate the amount accrued .",
+      "the company is subject to various other legal proceedings and claims that arise in the ordinary course of business .",
+      "management believes that the final outcome of such matters will not have a material adverse effect on the financial position , results of operations or liquidity of the company .",
+      "23 .",
+      "incentive plans : the company maintains two equity participation plans , the second amended and restated 1998 equity participation plan ( the 201cprior plan 201d ) and the 2010 equity participation plan ( the 201c2010 plan 201d ) ( collectively , the 201cplans 201d ) .",
+      "the prior plan provides for a maxi- mum of 47000000 shares of the company 2019s common stock to be issued for qualified and non-qualified options and restricted stock grants .",
+      "the 2010 plan provides for a maximum of 5000000 shares of the company 2019s common stock to be issued for qualified and non-qualified options , restricted stock , performance awards and other awards , plus the number of shares of common stock which are or become available for issuance under the prior plan and which are not thereafter issued under the prior plan , subject to certain conditions .",
+      "unless otherwise determined by the board of directors at its sole discretion , options granted under the plans generally vest ratably over a range of three to five years , expire ten years from the date of grant and are exercisable at the market price on the date of grant .",
+      "restricted stock grants generally vest ( i ) 100% ( 100 % ) on the fourth or fifth anniversary of the grant , ( ii ) ratably over three or four years or ( iii ) over three years at 50% ( 50 % ) after two years and 50% ( 50 % ) after the third year .",
+      "performance share awards may provide a right to receive shares of restricted stock based on the company 2019s performance relative to its peers , as defined , or based on other performance criteria as determined by the board of directors .",
+      "in addition , the plans provide for the granting of certain options and restricted stock to each of the company 2019s non-employee directors ( the 201cindependent directors 201d ) and permits such independent directors to elect to receive deferred stock awards in lieu of directors 2019 fees .",
+      "the company accounts for stock options in accordance with fasb 2019s compensation 2014stock compensation guidance which requires that all share based payments to employees , including grants of employee stock options , be recognized in the statement of operations over the service period based on their fair values .",
+      "the fair value of each option award is estimated on the date of grant using the black-scholes option pricing formula .",
+      "the assump- tion for expected volatility has a significant affect on the grant date fair value .",
+      "volatility is determined based on the historical equity of common stock for the most recent historical period equal to the expected term of the options plus an implied volatility measure .",
+      "the more significant assumptions underlying the determination of fair values for options granted during 2010 , 2009 and 2008 were as follows : year ended december 31 , 2010 2009 2008 ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "2009",
+        "year ended december 31 2010 2009",
+        "year ended december 31 2010 2009",
+        "year ended december 31 2010"
+      ],
+      [
+        "weighted average fair value of options granted",
+        "$ 3.82",
+        "$ 3.16",
+        "$ 5.73"
+      ],
+      [
+        "weighted average risk-free interest rates",
+        "2.40% ( 2.40 % )",
+        "2.54% ( 2.54 % )",
+        "3.13% ( 3.13 % )"
+      ],
+      [
+        "weighted average expected option lives ( in years )",
+        "6.25",
+        "6.25",
+        "6.38"
+      ],
+      [
+        "weighted average expected volatility",
+        "37.98% ( 37.98 % )",
+        "45.81% ( 45.81 % )",
+        "26.16% ( 26.16 % )"
+      ],
+      [
+        "weighted average expected dividend yield",
+        "4.21% ( 4.21 % )",
+        "5.48% ( 5.48 % )",
+        "4.33% ( 4.33 % )"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in weighted average fair value of options granted in 2009?"
+    ]
+  }
+}

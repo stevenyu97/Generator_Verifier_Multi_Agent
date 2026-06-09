@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total value of intangible assets in 2012?",
+      "answer": 204866.0,
+      "answer_raw": "204866.0",
+      "program": "204866"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the total value of intangible assets in 2011?",
+      "answer": 218883.0,
+      "answer_raw": "218883.0",
+      "program": "218883"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum total?",
+      "answer": 423749.0,
+      "answer_raw": "423749.0",
+      "program": "add(204866, 218883)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the average value of intangible assets for 2011 and 2012?",
+      "answer": 211874.5,
+      "answer_raw": "211874.5",
+      "program": "add(204866, 218883), divide(#0, const_2)"
+    }
+  ]
+}

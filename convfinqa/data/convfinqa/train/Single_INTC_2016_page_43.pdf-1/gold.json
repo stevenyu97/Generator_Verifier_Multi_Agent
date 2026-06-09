@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ccg operating income in 2016?",
+      "answer": 10646.0,
+      "answer_raw": "10646.0",
+      "program": "10646"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2015?",
+      "answer": 8166.0,
+      "answer_raw": "8166.0",
+      "program": "8166"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 2480.0,
+      "answer_raw": "2480.0",
+      "program": "subtract(10646, 8166)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the ccg operating income in 2015?",
+      "answer": 8166.0,
+      "answer_raw": "8166.0",
+      "program": "8166"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this 2015 ccg operating income?",
+      "answer": 0.3037,
+      "answer_raw": "0.3037",
+      "program": "subtract(10646, 8166), divide(#0, 8166)"
+    }
+  ]
+}

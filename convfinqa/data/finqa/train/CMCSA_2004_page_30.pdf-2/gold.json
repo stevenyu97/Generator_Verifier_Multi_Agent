@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total cable segment capital expenditures in 2005 where due to upgrading of cable systems?",
+      "answer": 0.06667,
+      "answer_raw": "0.06667",
+      "program": "divide(200, 3000)"
+    }
+  ]
+}

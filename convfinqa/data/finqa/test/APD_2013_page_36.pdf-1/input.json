@@ -1,0 +1,52 @@
+{
+  "input": {
+    "id": "APD/2013/page_36.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "equipment and energy ."
+    ],
+    "post_text": [
+      "2013 vs .",
+      "2012 sales of $ 451.1 increased primarily from higher lng project activity .",
+      "operating income of $ 65.5 increased from the higher lng project activity .",
+      "the sales backlog for the equipment business at 30 september 2013 was $ 402 , compared to $ 450 at 30 september 2012 .",
+      "it is expected that approximately $ 250 of the backlog will be completed during 2014 .",
+      "2012 vs .",
+      "2011 sales of $ 420.1 increased 5% ( 5 % ) , or $ 19.5 , reflecting higher air separation unit ( asu ) activity .",
+      "operating income of $ 44.6 decreased 29% ( 29 % ) , or $ 18.2 , reflecting lower lng project activity .",
+      "the sales backlog for the equipment business at 30 september 2012 was $ 450 , compared to $ 334 at 30 september 2011 .",
+      "other operating income ( loss ) primarily includes other expense and income that cannot be directly associated with the business segments , including foreign exchange gains and losses .",
+      "also included are lifo inventory valuation adjustments , as the business segments use fifo , and the lifo pool valuation adjustments are not allocated to the business segments .",
+      "other also included stranded costs resulting from discontinued operations , as these costs were not reallocated to the businesses in 2012 .",
+      "2013 vs .",
+      "2012 other operating loss was $ 4.7 , compared to $ 6.6 in the prior year .",
+      "the current year includes an unfavorable lifo adjustment versus the prior year of $ 11 .",
+      "the prior year loss included stranded costs from discontinued operations of $ 10 .",
+      "2012 vs .",
+      "2011 other operating loss was $ 6.6 , compared to $ 39.3 in the prior year , primarily due to a reduction in stranded costs , a decrease in the lifo adjustment as a result of decreases in inventory values , and favorable foreign exchange , partially offset by gains on asset sales in the prior year. ."
+    ],
+    "table": [
+      [
+        "",
+        "2013",
+        "2012",
+        "2011"
+      ],
+      [
+        "sales",
+        "$ 451.1",
+        "$ 420.1",
+        "$ 400.6"
+      ],
+      [
+        "operating income",
+        "65.5",
+        "44.6",
+        "62.8"
+      ]
+    ],
+    "questions": [
+      "considering the year 2013 , what is the sales to operating income ratio?"
+    ]
+  }
+}

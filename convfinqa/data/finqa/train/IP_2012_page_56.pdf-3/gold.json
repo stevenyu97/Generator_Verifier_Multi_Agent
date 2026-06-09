@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in operating profits in 2012 in millions",
+      "answer": -6.0,
+      "answer_raw": "-6.0",
+      "program": "subtract(163, 169)"
+    }
+  ]
+}

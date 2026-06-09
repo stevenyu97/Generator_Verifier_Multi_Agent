@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions for 2013 , 2012 , and 2011 , what was the maximum interest rate hedge?",
+      "answer": 4679.0,
+      "answer_raw": "4679.0",
+      "program": "table_max(interest rate hedges, none)"
+    }
+  ]
+}

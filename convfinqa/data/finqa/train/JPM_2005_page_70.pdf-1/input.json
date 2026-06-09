@@ -1,0 +1,108 @@
+{
+  "input": {
+    "id": "JPM/2005/page_70.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "notional amounts and derivative receivables marked to market ( 201cmtm 201d ) notional amounts ( a ) derivative receivables mtm as of december 31 ."
+    ],
+    "post_text": [
+      "( a ) the notional amounts represent the gross sum of long and short third-party notional derivative contracts , excluding written options and foreign exchange spot contracts , which significantly exceed the possible credit losses that could arise from such transactions .",
+      "for most derivative transactions , the notional principal amount does not change hands ; it is used simply as a reference to calculate payments .",
+      "( b ) the firm held $ 33 billion of collateral against derivative receivables as of december 31 , 2005 , consisting of $ 27 billion in net cash received under credit support annexes to legally enforceable master netting agreements , and $ 6 billion of other liquid securities collateral .",
+      "the benefit of the $ 27 billion is reflected within the $ 50 billion of derivative receivables mtm .",
+      "excluded from the $ 33 billion of collateral is $ 10 billion of collateral delivered by clients at the initiation of transactions ; this collateral secures exposure that could arise in the derivatives portfolio should the mtm of the client 2019s transactions move in the firm 2019s favor .",
+      "also excluded are credit enhancements in the form of letters of credit and surety receivables .",
+      "( c ) the firm held $ 41 billion of collateral against derivative receivables as of december 31 , 2004 , consisting of $ 32 billion in net cash received under credit support annexes to legally enforceable master netting agreements , and $ 9 billion of other liquid securities collateral .",
+      "the benefit of the $ 32 billion is reflected within the $ 66 billion of derivative receivables mtm .",
+      "excluded from the $ 41 billion of collateral is $ 10 billion of collateral delivered by clients at the initiation of transactions ; this collateral secures exposure that could arise in the derivatives portfolio should the mtm of the client 2019s transactions move in the firm 2019s favor .",
+      "also excluded are credit enhancements in the form of letters of credit and surety receivables .",
+      "management 2019s discussion and analysis jpmorgan chase & co .",
+      "68 jpmorgan chase & co .",
+      "/ 2005 annual report 1 year 2 years 5 years 10 years mdp avgavgdredre exposure profile of derivatives measures december 31 , 2005 ( in billions ) the following table summarizes the aggregate notional amounts and the reported derivative receivables ( i.e. , the mtm or fair value of the derivative contracts after taking into account the effects of legally enforceable master netting agreements ) at each of the dates indicated : the mtm of derivative receivables contracts represents the cost to replace the contracts at current market rates should the counterparty default .",
+      "when jpmorgan chase has more than one transaction outstanding with a counter- party , and a legally enforceable master netting agreement exists with that counterparty , the netted mtm exposure , less collateral held , represents , in the firm 2019s view , the appropriate measure of current credit risk .",
+      "while useful as a current view of credit exposure , the net mtm value of the derivative receivables does not capture the potential future variability of that credit exposure .",
+      "to capture the potential future variability of credit exposure , the firm calculates , on a client-by-client basis , three measures of potential derivatives-related credit loss : peak , derivative risk equivalent ( 201cdre 201d ) and average exposure ( 201cavg 201d ) .",
+      "these measures all incorporate netting and collateral benefits , where applicable .",
+      "peak exposure to a counterparty is an extreme measure of exposure calculated at a 97.5% ( 97.5 % ) confidence level .",
+      "however , the total potential future credit risk embedded in the firm 2019s derivatives portfolio is not the simple sum of all peak client credit risks .",
+      "this is because , at the portfolio level , credit risk is reduced by the fact that when offsetting transactions are done with separate counter- parties , only one of the two trades can generate a credit loss , even if both counterparties were to default simultaneously .",
+      "the firm refers to this effect as market diversification , and the market-diversified peak ( 201cmdp 201d ) measure is a portfolio aggregation of counterparty peak measures , representing the maximum losses at the 97.5% ( 97.5 % ) confidence level that would occur if all coun- terparties defaulted under any one given market scenario and time frame .",
+      "derivative risk equivalent ( 201cdre 201d ) exposure is a measure that expresses the riskiness of derivative exposure on a basis intended to be equivalent to the riskiness of loan exposures .",
+      "the measurement is done by equating the unexpected loss in a derivative counterparty exposure ( which takes into consideration both the loss volatility and the credit rating of the counterparty ) with the unexpected loss in a loan exposure ( which takes into consideration only the credit rating of the counterparty ) .",
+      "dre is a less extreme measure of potential credit loss than peak and is the primary measure used by the firm for credit approval of derivative transactions .",
+      "finally , average exposure ( 201cavg 201d ) is a measure of the expected mtm value of the firm 2019s derivative receivables at future time periods , including the benefit of collateral .",
+      "avg exposure over the total life of the derivative contract is used as the primary metric for pricing purposes and is used to calculate credit capital and the credit valuation adjustment ( 201ccva 201d ) , as further described below .",
+      "average exposure was $ 36 billion and $ 38 billion at december 31 , 2005 and 2004 , respectively , compared with derivative receivables mtm net of other highly liquid collateral of $ 44 billion and $ 57 billion at december 31 , 2005 and 2004 , respectively .",
+      "the graph below shows exposure profiles to derivatives over the next 10 years as calculated by the mdp , dre and avg metrics .",
+      "all three measures generally show declining exposure after the first year , if no new trades were added to the portfolio. ."
+    ],
+    "table": [
+      [
+        "as of december 31 , ( in billions )",
+        "as of december 31 , 2005",
+        "as of december 31 , 2004",
+        "2005",
+        "2004"
+      ],
+      [
+        "interest rate",
+        "$ 38493",
+        "$ 37022",
+        "$ 30",
+        "$ 46"
+      ],
+      [
+        "foreign exchange",
+        "2136",
+        "1886",
+        "3",
+        "8"
+      ],
+      [
+        "equity",
+        "458",
+        "434",
+        "6",
+        "6"
+      ],
+      [
+        "credit derivatives",
+        "2241",
+        "1071",
+        "4",
+        "3"
+      ],
+      [
+        "commodity",
+        "265",
+        "101",
+        "7",
+        "3"
+      ],
+      [
+        "total",
+        "$ 43593",
+        "$ 40514",
+        "50",
+        "66"
+      ],
+      [
+        "collateral held againstderivative receivables",
+        "na",
+        "na",
+        "-6 ( 6 )",
+        "-9 ( 9 )"
+      ],
+      [
+        "exposure net of collateral",
+        "na",
+        "na",
+        "$ 44 ( b )",
+        "$ 57 ( c )"
+      ]
+    ],
+    "questions": [
+      "based on the notional amounts and derivative receivables marked to market what was percentage change in interest rate"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based o n the review of the simultaneous investments of the jpmorgan chase common stock in the various index what was the ratio of the performance in the kbw bank index to the s&p financial index in 2010",
+      "answer": 1.10015,
+      "answer_raw": "1.10015",
+      "program": "divide(123.36, 112.13)"
+    }
+  ]
+}

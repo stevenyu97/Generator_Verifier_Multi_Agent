@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2015 what was the percent of the north america to the total net revenues",
+      "answer": 0.87193,
+      "answer_raw": "0.87193",
+      "program": "divide(3455737, 3963313)"
+    }
+  ]
+}

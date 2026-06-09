@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if current development costs increased in 2008 as much as in 2007 , what would the 2008 total be , in millions?",
+      "answer": 2057.0,
+      "answer_raw": "2057.0",
+      "program": "subtract(1654, 1251), add(#0, 1654)"
+    }
+  ]
+}

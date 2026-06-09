@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "RL/2014/page_11.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "our wholesale segment our wholesale segment sells our products to leading upscale and certain mid-tier department stores , specialty stores , and golf and pro shops , both domestically and internationally .",
+      "we have continued to focus on elevating our brand by improving in- store product assortment and presentation , as well as full-price sell-throughs to consumers .",
+      "as of the end of fiscal 2014 , our ralph lauren-branded products were sold through over 11000 doors worldwide and we invested $ 53 million of capital in related shop- within-shops primarily in domestic and international department and specialty stores .",
+      "our products are also sold through the e- commerce sites of certain of our wholesale customers .",
+      "the primary product offerings sold through our wholesale channels of distribution include menswear , womenswear , childrenswear , accessories , and home furnishings .",
+      "our collection brands 2014 ralph lauren women's collection and black label and men's purple label and black label 2014 are distributed worldwide through a limited number of premier fashion retailers .",
+      "department stores are our major wholesale customers in north america .",
+      "in latin america , our wholesale products are sold in department stores and specialty stores .",
+      "in europe , our wholesale sales are a varying mix of sales to both department stores and specialty stores , depending on the country .",
+      "in japan , our wholesale products are distributed primarily through shop-within-shops at premier and top-tier department stores , and the mix of business is weighted to men's and women's blue label .",
+      "in the greater china and southeast asia region and australia , our wholesale products are sold mainly at mid and top-tier department stores , and the mix of business is primarily weighted to men's and women's blue label .",
+      "we also distribute product to certain licensed stores operated by our partners in latin america , europe , and asia .",
+      "in addition , our club monaco products are distributed through select department stores and specialty stores in europe .",
+      "we sell the majority of our excess and out-of-season products through secondary distribution channels worldwide , including our retail factory stores .",
+      "worldwide distribution channels the following table presents the number of doors by geographic location in which ralph lauren-branded products distributed by our wholesale segment were sold to consumers in our primary channels of distribution as of march 29 , 2014: ."
+    ],
+    "post_text": [
+      "( a ) includes the u.s. , canada , and latin america .",
+      "( b ) includes australia , china , japan , the philippines , and thailand .",
+      "in addition , chaps-branded products distributed by our wholesale segment were sold domestically through approximately 2800 doors as of march 29 , 2014 .",
+      "we have three key wholesale customers that generate significant sales volume .",
+      "for fiscal 2014 , these customers in the aggregate accounted for approximately 50% ( 50 % ) of our total wholesale revenues , with macy's , inc .",
+      "( \"macy's\" ) representing approximately 25% ( 25 % ) of our total wholesale revenues .",
+      "our products are sold primarily through our own sales forces .",
+      "our wholesale segment maintains its primary showrooms in new york city .",
+      "in addition , we maintain regional showrooms in milan , paris , london , munich , madrid , stockholm , and panama .",
+      "shop-within-shops .",
+      "as a critical element of our distribution to department stores , we and our licensing partners utilize shop-within-shops to enhance brand recognition , to permit more complete merchandising of our lines by the department stores , and to differentiate the presentation of our products .",
+      "as of march 29 , 2014 , we had approximately 22000 shop-within-shops in our primary channels of distribution dedicated to our ralph lauren-branded wholesale products worldwide .",
+      "the size of our shop-within-shops ranges from approximately 100 to 9200 square feet .",
+      "shop-within-shop fixed assets primarily include items such as customized freestanding fixtures , wall cases ."
+    ],
+    "table": [
+      [
+        "location",
+        "number of doors"
+      ],
+      [
+        "the americas ( a )",
+        "6459"
+      ],
+      [
+        "europe",
+        "4864"
+      ],
+      [
+        "asia ( b )",
+        "130"
+      ],
+      [
+        "total",
+        "11453"
+      ]
+    ],
+    "questions": [
+      "what percentage of doors in the wholesale segment as of march 29 , 2014 where in asia ?"
+    ]
+  }
+}

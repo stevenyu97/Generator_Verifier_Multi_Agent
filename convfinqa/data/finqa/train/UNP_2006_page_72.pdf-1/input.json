@@ -1,0 +1,73 @@
+{
+  "input": {
+    "id": "UNP/2006/page_72.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "consolidated results of operations , financial condition , or liquidity ; however , to the extent possible , where unasserted claims are considered probable and where such claims can be reasonably estimated , we have recorded a liability .",
+      "we do not expect that any known lawsuits , claims , environmental costs , commitments , contingent liabilities , or guarantees will have a material adverse effect on our consolidated results of operations , financial condition , or liquidity after taking into account liabilities previously recorded for these matters .",
+      "personal injury 2013 the cost of personal injuries to employees and others related to our activities is charged to expense based on estimates of the ultimate cost and number of incidents each year .",
+      "we use third-party actuaries to assist us in measuring the expense and liability , including unasserted claims .",
+      "compensation for work-related accidents is governed by the federal employers 2019 liability act ( fela ) .",
+      "under fela , damages are assessed based on a finding of fault through litigation or out-of-court settlements .",
+      "our personal injury liability activity was as follows : millions of dollars 2006 2005 2004 ."
+    ],
+    "post_text": [
+      "our personal injury liability is discounted to present value using applicable u.s .",
+      "treasury rates .",
+      "approximately 87% ( 87 % ) of the recorded liability related to asserted claims , and approximately 13% ( 13 % ) related to unasserted claims .",
+      "personal injury accruals were higher in 2004 due to a 1998 crossing accident verdict upheld in 2004 and a 2004 derailment near san antonio .",
+      "asbestos 2013 we are a defendant in a number of lawsuits in which current and former employees allege exposure to asbestos .",
+      "additionally , we have received claims for asbestos exposure that have not been litigated .",
+      "the claims and lawsuits ( collectively referred to as 201cclaims 201d ) allege occupational illness resulting from exposure to asbestos- containing products .",
+      "in most cases , the claimants do not have credible medical evidence of physical impairment resulting from the alleged exposures .",
+      "additionally , most claims filed against us do not specify an amount of alleged damages .",
+      "during 2004 , we engaged a third party with extensive experience in estimating resolution costs for asbestos- related claims to assist us in assessing the number and value of these unasserted claims through 2034 , based on our average claims experience over a multi-year period .",
+      "as a result , we increased our liability in 2004 for asbestos- related claims in the fourth quarter of 2004 .",
+      "the liability for resolving both asserted and unasserted claims was based on the following assumptions : 2022 the number of future claims received would be consistent with historical averages .",
+      "2022 the number of claims filed against us will decline each year .",
+      "2022 the average settlement values for asserted and unasserted claims will be equivalent to historical averages .",
+      "2022 the percentage of claims dismissed in the future will be equivalent to historical averages. ."
+    ],
+    "table": [
+      [
+        "millions of dollars",
+        "2006",
+        "2005",
+        "2004"
+      ],
+      [
+        "beginning balance",
+        "$ 619",
+        "$ 639",
+        "$ 619"
+      ],
+      [
+        "accruals",
+        "240",
+        "247",
+        "288"
+      ],
+      [
+        "payments",
+        "-228 ( 228 )",
+        "-267 ( 267 )",
+        "-268 ( 268 )"
+      ],
+      [
+        "ending balance at december 31",
+        "$ 631",
+        "$ 619",
+        "$ 639"
+      ],
+      [
+        "current portion ending balance at december 31",
+        "$ 233",
+        "$ 274",
+        "$ 274"
+      ]
+    ],
+    "questions": [
+      "in 2006 what was the percentage of the personal injury liability that was current as of december 31"
+    ]
+  }
+}

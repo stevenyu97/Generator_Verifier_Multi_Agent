@@ -1,0 +1,49 @@
+{
+  "input": {
+    "id": "AES/2011/page_269.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the aes corporation notes to consolidated financial statements 2014 ( continued ) december 31 , 2011 , 2010 , and 2009 company for an aggregate proceeds of approximately $ 234 million .",
+      "the company recognized a gain on disposal of $ 6 million , net of tax , during the year ended december 31 , 2010 .",
+      "ras laffan was previously reported in the asia generation segment .",
+      "23 .",
+      "acquisitions and dispositions acquisitions dpl 2014on november 28 , 2011 , aes completed its acquisition of 100% ( 100 % ) of the common stock of dpl for approximately $ 3.5 billion , pursuant to the terms and conditions of a definitive agreement ( the 201cmerger agreement 201d ) dated april 19 , 2011 .",
+      "dpl serves over 500000 customers , primarily west central ohio , through its operating subsidiaries dp&l and dpl energy resources ( 201cdpler 201d ) .",
+      "additionally , dpl operates over 3800 mw of power generation facilities and provides competitive retail energy services to residential , commercial , industrial and governmental customers .",
+      "the acquisition strengthens the company 2019s u.s .",
+      "utility operations by expanding in the midwest and pjm , a regional transmission organization serving several eastern states as part of the eastern interconnection .",
+      "the company expects to benefit from the regional scale provided by indianapolis power & light company , its nearby integrated utility business in indiana .",
+      "aes funded the aggregate purchase consideration through a combination of the following : 2022 the proceeds from a $ 1.05 billion term loan obtained in may 2011 ; 2022 the proceeds from a private offering of $ 1.0 billion notes in june 2011 ; 2022 temporary borrowings of $ 251 million under its revolving credit facility ; and 2022 the proceeds from private offerings of $ 450 million aggregate principal amount of 6.50% ( 6.50 % ) senior notes due 2016 and $ 800 million aggregate principal amount of 7.25% ( 7.25 % ) senior notes due 2021 ( collectively , the 201cnotes 201d ) in october 2011 by dolphin subsidiary ii , inc .",
+      "( 201cdolphin ii 201d ) , a wholly-owned special purpose indirect subsidiary of aes , which was merged into dpl upon the completion of acquisition .",
+      "the fair value of the consideration paid for dpl was as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "agreed enterprise value",
+        "$ 4719"
+      ],
+      [
+        "less : fair value of assumed long-term debt outstanding net",
+        "-1255 ( 1255 )"
+      ],
+      [
+        "cash consideration paid to dpl 2019s common stockholders",
+        "3464"
+      ],
+      [
+        "add : cash paid for outstanding stock-based awards",
+        "19"
+      ],
+      [
+        "total cash consideration paid",
+        "$ 3483"
+      ]
+    ],
+    "questions": [
+      "total cash consideration was what percent of the enterprise value of dpl?"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the statutory net income bermuda subsidiaries in 2010?",
+      "answer": 2430.0,
+      "answer_raw": "2430.0",
+      "program": "2430"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about 2009?",
+      "answer": 2369.0,
+      "answer_raw": "2369.0",
+      "program": "2369"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 61.0,
+      "answer_raw": "61.0",
+      "program": "subtract(2430, 2369)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what growth rate does this represent?",
+      "answer": 0.02575,
+      "answer_raw": "0.02575",
+      "program": "subtract(2430, 2369), divide(#0, 2369)"
+    }
+  ]
+}

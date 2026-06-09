@@ -1,0 +1,121 @@
+{
+  "input": {
+    "id": "Double_JPM/2005/page_37.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "segment results 2013 operating basis ( a ) ( b ) ( table continued from previous page ) year ended december 31 , operating earnings return on common equity 2013 goodwill ( c ) ."
+    ],
+    "post_text": [
+      "jpmorgan chase & co .",
+      "/ 2005 annual report 35 and are retained in corporate .",
+      "these retained expenses include parent company costs that would not be incurred if the segments were stand-alone businesses ; adjustments to align certain corporate staff , technology and operations allocations with market prices ; and other one-time items not aligned with the business segments .",
+      "during 2005 , the firm refined cost allocation methodologies related to certain corporate functions , technology and operations expenses in order to improve transparency , consistency and accountability with regard to costs allocated across business segments .",
+      "prior periods have not been revised to reflect these new cost allocation methodologies .",
+      "capital allocation each business segment is allocated capital by taking into consideration stand- alone peer comparisons , economic risk measures and regulatory capital requirements .",
+      "the amount of capital assigned to each business is referred to as equity .",
+      "at the time of the merger , goodwill , as well as the associated capital , was allocated solely to corporate .",
+      "effective january 2006 , the firm expects to refine its methodology for allocating capital to the business segments to include any goodwill associated with line of business-directed acquisitions since the merger .",
+      "u.s .",
+      "gaap requires the allocation of goodwill to the business segments for impairment testing ( see critical accounting estimates used by the firm and note 15 on pages 81 2013 83 and 114 2013116 , respectively , of this annual report ) .",
+      "see the capital management section on page 56 of this annual report for a discussion of the equity framework .",
+      "credit reimbursement tss reimburses the ib for credit portfolio exposures the ib manages on behalf of clients the segments share .",
+      "at the time of the merger , the reimbursement methodology was revised to be based upon pre-tax earnings , net of the cost of capital related to those exposures .",
+      "prior to the merger , the credit reimbursement was based upon pre-tax earnings , plus the allocated capital associated with the shared clients .",
+      "tax-equivalent adjustments segment and firm results reflect revenues on a tax-equivalent basis for segment reporting purposes .",
+      "refer to explanation and reconciliation of the firm 2019s non-gaap financial measures on page 31 of this annual report for additional details .",
+      "description of business segment reporting methodology results of the business segments are intended to reflect each segment as if it were essentially a stand-alone business .",
+      "the management reporting process that derives these results allocates income and expense using market-based methodologies .",
+      "effective with the merger on july 1 , 2004 , several of the allocation methodologies were revised , as noted below .",
+      "as prior periods have not been revised to reflect these new methodologies , they are not comparable to the presentation of periods beginning with the third quarter of 2004 .",
+      "further , the firm continues to assess the assumptions , methodologies and reporting reclassifications used for segment reporting , and further refinements may be implemented in future periods .",
+      "revenue sharing when business segments join efforts to sell products and services to the firm 2019s clients , the participating business segments agree to share revenues from those transactions .",
+      "these revenue-sharing agreements were revised on the merger date to provide consistency across the lines of business .",
+      "funds transfer pricing funds transfer pricing ( 201cftp 201d ) is used to allocate interest income and expense to each business and transfer the primary interest rate risk exposures to corporate .",
+      "the allocation process is unique to each business and considers the interest rate risk , liquidity risk and regulatory requirements of its stand- alone peers .",
+      "business segments may retain certain interest rate exposures , subject to management approval , that would be expected in the normal operation of a similar peer business .",
+      "in the third quarter of 2004 , ftp was revised to conform the policies of the combined firms .",
+      "expense allocation where business segments use services provided by support units within the firm , the costs of those support units are allocated to the business segments .",
+      "those expenses are allocated based upon their actual cost , or the lower of actual cost or market cost , as well as upon usage of the services provided .",
+      "effective with the third quarter of 2004 , the cost allocation methodologies of the heritage firms were aligned to provide consistency across the business segments .",
+      "in addition , expenses related to certain corporate functions , technology and operations ceased to be allocated to the business segments ."
+    ],
+    "table": [
+      [
+        "year ended december 31 , ( in millions except ratios )",
+        "year ended december 31 , 2005",
+        "year ended december 31 , 2004",
+        "year ended december 31 , change",
+        "2005",
+        "2004"
+      ],
+      [
+        "investment bank",
+        "$ 3658",
+        "$ 2948",
+        "24% ( 24 % )",
+        "18% ( 18 % )",
+        "17% ( 17 % )"
+      ],
+      [
+        "retail financial services",
+        "3427",
+        "2199",
+        "56",
+        "26",
+        "24"
+      ],
+      [
+        "card services",
+        "1907",
+        "1274",
+        "50",
+        "16",
+        "17"
+      ],
+      [
+        "commercial banking",
+        "1007",
+        "608",
+        "66",
+        "30",
+        "29"
+      ],
+      [
+        "treasury & securities services",
+        "1037",
+        "440",
+        "136",
+        "55",
+        "17"
+      ],
+      [
+        "asset & wealth management",
+        "1216",
+        "681",
+        "79",
+        "51",
+        "17"
+      ],
+      [
+        "corporate",
+        "-1731 ( 1731 )",
+        "61",
+        "nm",
+        "nm",
+        "nm"
+      ],
+      [
+        "total",
+        "$ 10521",
+        "$ 8211",
+        "28% ( 28 % )",
+        "17% ( 17 % )",
+        "16% ( 16 % )"
+      ]
+    ],
+    "questions": [
+      "what was the percentage of total segment operations that was made of investment banking in 2005?",
+      "what would 2005 operating income be without the commercial banking segment?"
+    ]
+  }
+}

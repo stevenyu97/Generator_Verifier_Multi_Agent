@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "BKR/2017/page_47.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "bhge 2017 form 10-k | 27 the short term .",
+      "we do , however , view the long term economics of the lng industry as positive given our outlook for supply and demand .",
+      "2022 refinery , petrochemical and industrial projects : in refining , we believe large , complex refineries should gain advantage in a more competitive , oversupplied landscape in 2018 as the industry globalizes and refiners position to meet local demand and secure export potential .",
+      "in petrochemicals , we continue to see healthy demand and cost-advantaged supply driving projects forward in 2018 .",
+      "the industrial market continues to grow as outdated infrastructure is replaced , policy changes come into effect and power is decentralized .",
+      "we continue to see growing demand across these markets in 2018 .",
+      "we have other segments in our portfolio that are more correlated with different industrial metrics such as our digital solutions business .",
+      "overall , we believe our portfolio is uniquely positioned to compete across the value chain , and deliver unique solutions for our customers .",
+      "we remain optimistic about the long-term economics of the industry , but are continuing to operate with flexibility given our expectations for volatility and changing assumptions in the near term .",
+      "in 2016 , solar and wind net additions exceeded coal and gas for the first time and it continued throughout 2017 .",
+      "governments may change or may not continue incentives for renewable energy additions .",
+      "in the long term , renewables' cost decline may accelerate to compete with new-built fossil capacity , however , we do not anticipate any significant impacts to our business in the foreseeable future .",
+      "despite the near-term volatility , the long-term outlook for our industry remains strong .",
+      "we believe the world 2019s demand for energy will continue to rise , and the supply of energy will continue to increase in complexity , requiring greater service intensity and more advanced technology from oilfield service companies .",
+      "as such , we remain focused on delivering innovative cost-efficient solutions that deliver step changes in operating and economic performance for our customers .",
+      "business environment the following discussion and analysis summarizes the significant factors affecting our results of operations , financial condition and liquidity position as of and for the year ended december 31 , 2017 , 2016 and 2015 , and should be read in conjunction with the consolidated and combined financial statements and related notes of the company .",
+      "amounts reported in millions in graphs within this report are computed based on the amounts in hundreds .",
+      "as a result , the sum of the components reported in millions may not equal the total amount reported in millions due to rounding .",
+      "we operate in more than 120 countries helping customers find , evaluate , drill , produce , transport and process hydrocarbon resources .",
+      "our revenue is predominately generated from the sale of products and services to major , national , and independent oil and natural gas companies worldwide , and is dependent on spending by our customers for oil and natural gas exploration , field development and production .",
+      "this spending is driven by a number of factors , including our customers' forecasts of future energy demand and supply , their access to resources to develop and produce oil and natural gas , their ability to fund their capital programs , the impact of new government regulations and most importantly , their expectations for oil and natural gas prices as a key driver of their cash flows .",
+      "oil and natural gas prices oil and natural gas prices are summarized in the table below as averages of the daily closing prices during each of the periods indicated. ."
+    ],
+    "post_text": [
+      "brent oil prices ( $ /bbl ) ( 1 ) $ 54.12 $ 43.64 $ 52.32 wti oil prices ( $ /bbl ) ( 2 ) 50.80 43.29 48.66 natural gas prices ( $ /mmbtu ) ( 3 ) 2.99 2.52 2.62 ( 1 ) energy information administration ( eia ) europe brent spot price per barrel ."
+    ],
+    "table": [
+      [
+        "",
+        "2017",
+        "2016",
+        "2015"
+      ],
+      [
+        "brent oil prices ( $ /bbl ) ( 1 )",
+        "$ 54.12",
+        "$ 43.64",
+        "$ 52.32"
+      ],
+      [
+        "wti oil prices ( $ /bbl ) ( 2 )",
+        "50.80",
+        "43.29",
+        "48.66"
+      ],
+      [
+        "natural gas prices ( $ /mmbtu ) ( 3 )",
+        "2.99",
+        "2.52",
+        "2.62"
+      ]
+    ],
+    "questions": [
+      "what are the natural gas prices as a percentage of wti oil prices in 2017?"
+    ]
+  }
+}

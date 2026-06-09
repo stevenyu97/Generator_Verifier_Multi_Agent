@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in december 2011 , what was the total dollar value of the vornado common shares rceived as payment for the exercise of certain employee options?",
+      "answer": 31367389.88,
+      "answer_raw": "31367389.88",
+      "program": "multiply(76.36, 410783)"
+    }
+  ]
+}

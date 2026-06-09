@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was total amounts written off for the three years?",
+      "answer": 93.0,
+      "answer_raw": "93.0",
+      "program": "table_sum(amounts written off, none)"
+    }
+  ]
+}

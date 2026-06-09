@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the accumulated other comprehensive income during 2017?",
+      "answer": 756.0,
+      "answer_raw": "756.0",
+      "program": "subtract(862, 106)"
+    }
+  ]
+}

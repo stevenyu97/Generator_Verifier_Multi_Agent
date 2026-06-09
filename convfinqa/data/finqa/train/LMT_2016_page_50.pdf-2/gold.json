@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were average operating profit for rms in millions between 2014 and 2016?",
+      "answer": 895.33333,
+      "answer_raw": "895.33333",
+      "program": "table_average(operating profit, none)"
+    }
+  ]
+}

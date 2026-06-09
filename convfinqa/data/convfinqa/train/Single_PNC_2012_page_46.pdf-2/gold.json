@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "combined, what was the total shares purchased on 11/1/2013 and 12/1/13?",
+      "answer": 1042.0,
+      "answer_raw": "1042.0",
+      "program": "add(750, 292)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and as a percentage of the total shares purchased?",
+      "answer": 0.98768,
+      "answer_raw": "0.98768",
+      "program": "add(750, 292), divide(#0, 1055)"
+    }
+  ]
+}

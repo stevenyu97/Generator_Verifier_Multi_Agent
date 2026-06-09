@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 2011 , what percentage of available- for-sale securities was comprised of mortgage and other asset-backed loans and securities?",
+      "answer": 0.36485,
+      "answer_raw": "0.36485",
+      "program": "add(1.81, 1.42), divide(662, const_1000), add(#0, #1), divide(1.42, #2)"
+    }
+  ]
+}

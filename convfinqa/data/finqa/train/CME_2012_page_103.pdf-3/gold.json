@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2012 what was the ratio of the eligibility limits for farmer and cooperative to individual participants in the family farmer and rancher protection fund",
+      "answer": 4.0,
+      "answer_raw": "4.0",
+      "program": "divide(100000, 25000)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amount of the amortization of the trademarks and trade names segment?",
+      "answer": 176000.0,
+      "answer_raw": "176000.0",
+      "program": "176000"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "considering the period of that amortization, what was the average yearly amortization expense?",
+      "answer": 25142.85714,
+      "answer_raw": "25142.85714",
+      "program": "divide(176000, const_7)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what was that same average yearly amortization expense but for the acquired technology segment?",
+      "answer": 91400.0,
+      "answer_raw": "91400.0",
+      "program": "divide(457000, const_5)"
+    }
+  ]
+}

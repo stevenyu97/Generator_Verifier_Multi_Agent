@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if overall freight revenues in 2014 grow as the same rate as agricultural arc growth , what would projected 2015 revenues be in millions?",
+      "answer": 22560.05,
+      "answer_raw": "22560.05",
+      "program": "add(22560, 5%)"
+    }
+  ]
+}

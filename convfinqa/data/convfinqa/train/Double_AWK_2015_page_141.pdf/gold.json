@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "from 2014 to 2015, what was the decline in the amortization expense for the operating leases for facility and equipment?",
+      "answer": 1.0,
+      "answer_raw": "1.0",
+      "program": "subtract(22, 21)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and from 2015 to 2016, what was that decline?",
+      "answer": 8.0,
+      "answer_raw": "8.0",
+      "program": "subtract(21, 13)"
+    }
+  ]
+}

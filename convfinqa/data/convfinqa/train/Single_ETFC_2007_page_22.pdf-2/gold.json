@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the value of the common stock for e*trade financial corporation from 2004 to 2005?",
+      "answer": 121.61,
+      "answer_raw": "121.61",
+      "program": "subtract(429.22, 307.61)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that value in 2004?",
+      "answer": 307.61,
+      "answer_raw": "307.61",
+      "program": "307.61"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2004 value, in percentage?",
+      "answer": 0.39534,
+      "answer_raw": "0.39534",
+      "program": "subtract(429.22, 307.61), divide(#0, 307.61)"
+    }
+  ]
+}

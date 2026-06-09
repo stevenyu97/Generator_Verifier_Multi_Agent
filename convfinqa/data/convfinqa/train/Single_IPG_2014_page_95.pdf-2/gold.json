@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the product of the shares of equity compensation plans approved by security holders by the average price?",
+      "answer": 150967560.2,
+      "answer_raw": "150967560.2",
+      "program": "multiply(15563666, 9.70)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "now, what is that product simplified?",
+      "answer": 150.96756,
+      "answer_raw": "150.96756",
+      "program": "multiply(15563666, 9.70), divide(#0, const_1000000)"
+    }
+  ]
+}

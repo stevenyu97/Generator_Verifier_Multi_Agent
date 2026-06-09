@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much would be 9,5% of the estimated risk-weighted assets under basel iii rules ( a )?",
+      "answer": 156550.785,
+      "answer_raw": "156550.785",
+      "program": "multiply(1647903, 9.5%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the total of estimated tier 1 common under basel iii rules?",
+      "answer": 143966.0,
+      "answer_raw": "143966.0",
+      "program": "143966"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "then, how much would it cost to meet, from the estimated tier 1 common under basel iii rules, the common ratio of 9,5% of the of the estimated risk-weighted assets?",
+      "answer": 12584.785,
+      "answer_raw": "12584.785",
+      "program": "multiply(1647903, 9.5%), subtract(#0, 143966)"
+    }
+  ]
+}

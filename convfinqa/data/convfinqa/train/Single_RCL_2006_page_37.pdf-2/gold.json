@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in cash and cash equivalents from 2005 to 2006?",
+      "answer": -20865.0,
+      "answer_raw": "-20865.0",
+      "program": "subtract(104520, 125385)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to the cash and cash equivalents in 2005, in percentage?",
+      "answer": -0.16641,
+      "answer_raw": "-0.16641",
+      "program": "subtract(104520, 125385), divide(#0, 125385)"
+    }
+  ]
+}

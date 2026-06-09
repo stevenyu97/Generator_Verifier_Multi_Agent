@@ -1,0 +1,90 @@
+{
+  "input": {
+    "id": "HWM/2015/page_172.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the remaining $ 135 recognized in 2013 relates to a valuation allowance established on a portion of available foreign tax credits in the united states .",
+      "these credits can be carried forward for 10 years , and have an expiration period ranging from 2016 to 2023 as of december 31 , 2013 ( 2016 to 2025 as of december 31 , 2015 ) .",
+      "after weighing all available positive and negative evidence , as described above , management determined that it was no longer more likely than not that alcoa will realize the full tax benefit of these foreign tax credits .",
+      "this was primarily due to lower foreign sourced taxable income after consideration of tax planning strategies and after the inclusion of earnings from foreign subsidiaries projected to be distributable as taxable foreign dividends .",
+      "this valuation allowance was reevaluated as of december 31 , 2015 , and due to reductions in foreign sourced taxable income , a $ 134 discrete income tax charge was recognized .",
+      "additionally , $ 15 of foreign tax credits expired at the end of 2015 resulting in a corresponding decrease to the valuation allowance .",
+      "at december 31 , 2015 , the amount of the valuation allowance was $ 254 .",
+      "the need for this valuation allowance will be assessed on a continuous basis in future periods and , as a result , an increase or decrease to this allowance may result based on changes in facts and circumstances .",
+      "in 2015 , alcoa recognized an additional $ 141 discrete income tax charge for valuation allowances on certain deferred tax assets in iceland and suriname .",
+      "of this amount , an $ 85 valuation allowance was established on the full value of the deferred tax assets in suriname , which were related mostly to employee benefits and tax loss carryforwards .",
+      "these deferred tax assets have an expiration period ranging from 2016 to 2022 .",
+      "the remaining $ 56 charge relates to a valuation allowance established on a portion of the deferred tax assets recorded in iceland .",
+      "these deferred tax assets have an expiration period ranging from 2017 to 2023 .",
+      "after weighing all available positive and negative evidence , as described above , management determined that it was no longer more likely than not that alcoa will realize the tax benefit of either of these deferred tax assets .",
+      "this was mainly driven by a decline in the outlook of the primary metals business , combined with prior year cumulative losses and a short expiration period .",
+      "the need for this valuation allowance will be assessed on a continuous basis in future periods and , as a result , a portion or all of the allowance may be reversed based on changes in facts and circumstances .",
+      "in december 2011 , one of alcoa 2019s subsidiaries in brazil applied for a tax holiday related to its expanded mining and refining operations .",
+      "during 2013 , the application was amended and re-filed and , separately , a similar application was filed for another one of the company 2019s subsidiaries in brazil .",
+      "the deadline for the brazilian government to deny the application was july 11 , 2014 .",
+      "since alcoa did not receive notice that its applications were denied , the tax holiday took effect automatically on july 12 , 2014 .",
+      "as a result , the tax rate applicable to qualified holiday income for these subsidiaries decreased significantly ( from 34% ( 34 % ) to 15.25% ( 15.25 % ) ) , resulting in future cash tax savings over the 10-year holiday period ( retroactively effective as of january 1 , 2013 ) .",
+      "additionally , a portion of one of the subsidiaries net deferred tax asset that reverses within the holiday period was remeasured at the new tax rate ( the net deferred tax asset of the other subsidiary was not remeasured since it could still be utilized against the subsidiary 2019s future earnings not subject to the tax holiday ) .",
+      "this remeasurement resulted in a decrease to that subsidiary 2019s net deferred tax asset and a noncash charge to earnings of $ 52 ( $ 31 after noncontrolling interest ) .",
+      "the following table details the changes in the valuation allowance: ."
+    ],
+    "post_text": [
+      "the cumulative amount of alcoa 2019s foreign undistributed net earnings for which no deferred taxes have been provided was approximately $ 4000 at december 31 , 2015 .",
+      "alcoa has a number of commitments and obligations related to the company 2019s growth strategy in foreign jurisdictions .",
+      "as such , management has no plans to distribute such earnings in the foreseeable future , and , therefore , has determined it is not practicable to determine the related deferred tax liability. ."
+    ],
+    "table": [
+      [
+        "december 31,",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "balance at beginning of year",
+        "$ 1668",
+        "$ 1804",
+        "$ 1400"
+      ],
+      [
+        "increase to allowance",
+        "472",
+        "117",
+        "471"
+      ],
+      [
+        "release of allowance",
+        "-42 ( 42 )",
+        "-77 ( 77 )",
+        "-41 ( 41 )"
+      ],
+      [
+        "acquisitions and divestitures ( f )",
+        "29",
+        "-37 ( 37 )",
+        "-"
+      ],
+      [
+        "u.s . state tax apportionment and tax rate changes",
+        "-45 ( 45 )",
+        "-80 ( 80 )",
+        "-32 ( 32 )"
+      ],
+      [
+        "foreign currency translation",
+        "-45 ( 45 )",
+        "-59 ( 59 )",
+        "6"
+      ],
+      [
+        "balance at end of year",
+        "$ 2037",
+        "$ 1668",
+        "$ 1804"
+      ]
+    ],
+    "questions": [
+      "considering the additional discrete income tax charge for valuation allowances in 2015 , what is the percentage of the valuation allowance of the deferred tax assets recorded in iceland?"
+    ]
+  }
+}

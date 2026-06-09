@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of net sales in fiscal 2013 where due to private brands?",
+      "answer": 0.13425,
+      "answer_raw": "0.13425",
+      "program": "divide(1808.2, 13469.3)"
+    }
+  ]
+}

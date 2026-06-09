@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of net sales attributable to the f-35 lrip contracts included in the 2012 sales",
+      "answer": 0.04982,
+      "answer_raw": "0.04982",
+      "program": "divide(745, 14953)"
+    }
+  ]
+}

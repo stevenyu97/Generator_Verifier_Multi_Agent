@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the cumulative change in value for apple inc . between 2008 and 2013?",
+      "answer": 331.0,
+      "answer_raw": "331.0",
+      "program": "subtract(431, const_100)"
+    }
+  ]
+}

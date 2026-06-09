@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in the value of the balance from 2007 to 2009?",
+      "answer": 8272.0,
+      "answer_raw": "8272.0",
+      "program": "subtract(18161, 9889)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the 2009 value?",
+      "answer": 9889.0,
+      "answer_raw": "9889.0",
+      "program": "9889"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the percent change?",
+      "answer": 0.83648,
+      "answer_raw": "0.83648",
+      "program": "subtract(18161, 9889), divide(#0, 9889)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "PNC/2007/page_93.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "net unfunded credit commitments ."
+    ],
+    "post_text": [
+      "commitments to extend credit represent arrangements to lend funds subject to specified contractual conditions .",
+      "at december 31 , 2007 , commercial commitments are reported net of $ 8.9 billion of participations , assignments and syndications , primarily to financial services companies .",
+      "the comparable amount at december 31 , 2006 was $ 8.3 billion .",
+      "commitments generally have fixed expiration dates , may require payment of a fee , and contain termination clauses in the event the customer 2019s credit quality deteriorates .",
+      "based on our historical experience , most commitments expire unfunded , and therefore cash requirements are substantially less than the total commitment .",
+      "consumer home equity lines of credit accounted for 80% ( 80 % ) of consumer unfunded credit commitments .",
+      "unfunded credit commitments related to market street totaled $ 8.8 billion at december 31 , 2007 and $ 5.6 billion at december 31 , 2006 and are included in the preceding table primarily within the 201ccommercial 201d and 201cconsumer 201d categories .",
+      "note 24 commitments and guarantees includes information regarding standby letters of credit and bankers 2019 acceptances .",
+      "at december 31 , 2007 , the largest industry concentration was for general medical and surgical hospitals , which accounted for approximately 5% ( 5 % ) of the total letters of credit and bankers 2019 acceptances .",
+      "at december 31 , 2007 , we pledged $ 1.6 billion of loans to the federal reserve bank ( 201cfrb 201d ) and $ 33.5 billion of loans to the federal home loan bank ( 201cfhlb 201d ) as collateral for the contingent ability to borrow , if necessary .",
+      "certain directors and executive officers of pnc and its subsidiaries , as well as certain affiliated companies of these directors and officers , were customers of and had loans with subsidiary banks in the ordinary course of business .",
+      "all such loans were on substantially the same terms , including interest rates and collateral , as those prevailing at the time for comparable transactions with other customers and did not involve more than a normal risk of collectibility or present other unfavorable features .",
+      "the aggregate principal amounts of these loans were $ 13 million at december 31 , 2007 and $ 18 million at december 31 , 2006 .",
+      "during 2007 , new loans of $ 48 million were funded and repayments totaled $ 53 million. ."
+    ],
+    "table": [
+      [
+        "december 31 - in millions",
+        "2007",
+        "2006"
+      ],
+      [
+        "commercial",
+        "$ 39171",
+        "$ 31009"
+      ],
+      [
+        "consumer",
+        "10875",
+        "10495"
+      ],
+      [
+        "commercial real estate",
+        "2734",
+        "2752"
+      ],
+      [
+        "other",
+        "567",
+        "579"
+      ],
+      [
+        "total",
+        "$ 53347",
+        "$ 44835"
+      ]
+    ],
+    "questions": [
+      "what was the change in commercial commitments net of participations , assignments and syndications , primarily to financial services companies in 2007 compared to 2006 in billions?"
+    ]
+  }
+}

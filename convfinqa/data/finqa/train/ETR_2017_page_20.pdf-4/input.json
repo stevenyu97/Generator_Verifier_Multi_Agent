@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "ETR/2017/page_20.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "the regulatory credit resulting from reduction of the federal corporate income tax rate variance is due to the reduction of the vidalia purchased power agreement regulatory liability by $ 30.5 million and the reduction of the louisiana act 55 financing savings obligation regulatory liabilities by $ 25 million as a result of the enactment of the tax cuts and jobs act , in december 2017 , which lowered the federal corporate income tax rate from 35% ( 35 % ) to 21% ( 21 % ) .",
+      "the effects of the tax cuts and jobs act are discussed further in note 3 to the financial statements .",
+      "the grand gulf recovery variance is primarily due to increased recovery of higher operating costs .",
+      "the louisiana act 55 financing savings obligation variance results from a regulatory charge in 2016 for tax savings to be shared with customers per an agreement approved by the lpsc .",
+      "the tax savings resulted from the 2010-2011 irs audit settlement on the treatment of the louisiana act 55 financing of storm costs for hurricane gustav and hurricane ike .",
+      "see note 3 to the financial statements for additional discussion of the settlement and benefit sharing .",
+      "the volume/weather variance is primarily due to the effect of less favorable weather on residential and commercial sales , partially offset by an increase in industrial usage .",
+      "the increase in industrial usage is primarily due to new customers in the primary metals industry and expansion projects and an increase in demand for existing customers in the chlor-alkali industry .",
+      "entergy wholesale commodities following is an analysis of the change in net revenue comparing 2017 to 2016 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "as shown in the table above , net revenue for entergy wholesale commodities decreased by approximately $ 73 million in 2017 primarily due to the absence of net revenue from the fitzpatrick plant after it was sold to exelon in march 2017 and lower volume in the entergy wholesale commodities nuclear fleet resulting from more outage days in 2017 as compared to 2016 .",
+      "the decrease was partially offset by an increase resulting from the reimbursement agreement with exelon pursuant to which exelon reimbursed entergy for specified out-of-pocket costs associated with preparing for the refueling and operation of fitzpatrick that otherwise would have been avoided had entergy shut down fitzpatrick in january 2017 and a decrease in nuclear fuel expenses primarily related to the impairments of the indian point 2 , indian point 3 , and palisades plants and related assets .",
+      "revenues received from exelon in 2017 under the reimbursement agreement are offset by other operation and maintenance expenses and taxes other than income taxes and had no effect on net income .",
+      "see note 14 to the financial statements for discussion of the sale of fitzpatrick , the reimbursement agreement with exelon , and the impairments and related charges .",
+      "entergy corporation and subsidiaries management 2019s financial discussion and analysis ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2016 net revenue",
+        "$ 1542"
+      ],
+      [
+        "fitzpatrick sale",
+        "-158 ( 158 )"
+      ],
+      [
+        "nuclear volume",
+        "-89 ( 89 )"
+      ],
+      [
+        "fitzpatrick reimbursement agreement",
+        "57"
+      ],
+      [
+        "nuclear fuel expenses",
+        "108"
+      ],
+      [
+        "other",
+        "9"
+      ],
+      [
+        "2017 net revenue",
+        "$ 1469"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in net revenue in 2017?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in total impact between 2014 and 2015 , in millions?",
+      "answer": -1.0,
+      "answer_raw": "-1.0",
+      "program": "subtract(106, 107)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2006 , was stock options expense greater than restricted stock expense?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(3273, 2789)"
+    }
+  ]
+}

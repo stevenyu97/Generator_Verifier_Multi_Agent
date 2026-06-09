@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the risk-free interest rate from 2004 to 2005?",
+      "answer": 0.38742,
+      "answer_raw": "0.38742",
+      "program": "subtract(4.19, 3.02), divide(#0, 3.02)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total contractual obligations are related to long-term debt?",
+      "answer": 0.71928,
+      "answer_raw": "0.71928",
+      "program": "divide(4385.5, 6097.1)"
+    }
+  ]
+}

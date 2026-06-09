@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "level 1 inputs are generally more accurate than level 2 . in 2012 , what percentage of long-term obligations , was not measured using level 1 inputs?",
+      "answer": 0.47872,
+      "answer_raw": "0.47872",
+      "program": "divide(4.5, 9.4)"
+    }
+  ]
+}

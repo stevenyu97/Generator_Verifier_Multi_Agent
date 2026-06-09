@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the income before tax in 2006?",
+      "answer": 4448.57143,
+      "answer_raw": "4448.57143",
+      "program": "divide(1557, 35%)"
+    }
+  ]
+}

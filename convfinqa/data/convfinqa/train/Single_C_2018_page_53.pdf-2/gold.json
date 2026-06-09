@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were total operating expenses in 2018?",
+      "answer": 2272.0,
+      "answer_raw": "2272.0",
+      "program": "2272"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were total operating expenses in 2016?",
+      "answer": 5042.0,
+      "answer_raw": "5042.0",
+      "program": "5042"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change in value?",
+      "answer": -2770.0,
+      "answer_raw": "-2770.0",
+      "program": "subtract(2272, 5042)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the percent change?",
+      "answer": -0.54939,
+      "answer_raw": "-0.54939",
+      "program": "subtract(2272, 5042), divide(#0, 5042)"
+    }
+  ]
+}

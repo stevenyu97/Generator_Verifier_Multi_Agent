@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "without the foreign currency translation gain , what would 2008 sales have been in the performance coatings segment , in millions?\\\\n",
+      "answer": 4639.78,
+      "answer_raw": "4639.78",
+      "program": "multiply(3811, 2%), subtract(4716, #0)"
+    }
+  ]
+}

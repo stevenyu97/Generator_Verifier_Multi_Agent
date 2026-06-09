@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in rental expense from 2006 to 2007?",
+      "answer": 0.47312,
+      "answer_raw": "0.47312",
+      "program": "subtract(27.4, 18.6), divide(#0, 18.6)"
+    }
+  ]
+}

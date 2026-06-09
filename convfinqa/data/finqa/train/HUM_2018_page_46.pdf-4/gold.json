@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the stock total return performance for hum to s&p 500 at 12/31/2016",
+      "answer": 1.56589,
+      "answer_raw": "1.56589",
+      "program": "divide(202, 129)"
+    }
+  ]
+}

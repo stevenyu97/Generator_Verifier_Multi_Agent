@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "AWK/2015/page_117.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "during 2012 , the company granted selected employees an aggregate of 139 thousand rsus with internal performance measures and , separately , certain market thresholds .",
+      "these awards vested in january 2015 .",
+      "the terms of the grants specified that to the extent certain performance goals , comprised of internal measures and , separately , market thresholds were achieved , the rsus would vest ; if performance goals were surpassed , up to 175% ( 175 % ) of the target awards would be distributed ; and if performance goals were not met , the awards would be forfeited .",
+      "in january 2015 , an additional 93 thousand rsus were granted and distributed because performance thresholds were exceeded .",
+      "in 2015 , 2014 and 2013 , the company granted rsus , both with and without performance conditions , to certain employees under the 2007 plan .",
+      "the rsus without performance conditions vest ratably over the three- year service period beginning january 1 of the year of the grant and the rsus with performance conditions vest ratably over the three-year performance period beginning january 1 of the year of the grant ( the 201cperformance period 201d ) .",
+      "distribution of the performance shares is contingent upon the achievement of internal performance measures and , separately , certain market thresholds over the performance period .",
+      "during 2015 , 2014 and 2013 , the company granted rsus to non-employee directors under the 2007 plan .",
+      "the rsus vested on the date of grant ; however , distribution of the shares will be made within 30 days of the earlier of : ( i ) 15 months after grant date , subject to any deferral election by the director ; or ( ii ) the participant 2019s separation from service .",
+      "because these rsus vested on the grant date , the total grant date fair value was recorded in operation and maintenance expense included in the expense table above on the grant date .",
+      "rsus generally vest over periods ranging from one to three years .",
+      "rsus granted with service-only conditions and those with internal performance measures are valued at the market value of the closing price of the company 2019s common stock on the date of grant .",
+      "rsus granted with market conditions are valued using a monte carlo model .",
+      "expected volatility is based on historical volatilities of traded common stock of the company and comparative companies using daily stock prices over the past three years .",
+      "the expected term is three years and the risk-free interest rate is based on the three-year u.s .",
+      "treasury rate in effect as of the measurement date .",
+      "the following table presents the weighted-average assumptions used in the monte carlo simulation and the weighted-average grant date fair values of rsus granted for the years ended december 31: ."
+    ],
+    "post_text": [
+      "the grant date fair value of restricted stock awards that vest ratably and have market and/or performance and service conditions are amortized through expense over the requisite service period using the graded-vesting method .",
+      "rsus that have no performance conditions are amortized through expense over the requisite service period using the straight-line method and are included in operations expense in the accompanying consolidated statements of operations .",
+      "as of december 31 , 2015 , $ 4 of total unrecognized compensation cost related to the nonvested restricted stock units is expected to be recognized over the weighted-average remaining life of 1.4 years .",
+      "the total grant date fair value of rsus vested was $ 12 , $ 11 and $ 9 for the years ended december 31 , 2015 , 2014 and 2013. ."
+    ],
+    "table": [
+      [
+        "",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "expected volatility",
+        "14.93% ( 14.93 % )",
+        "17.78% ( 17.78 % )",
+        "19.37% ( 19.37 % )"
+      ],
+      [
+        "risk-free interest rate",
+        "1.07% ( 1.07 % )",
+        "0.75% ( 0.75 % )",
+        "0.40% ( 0.40 % )"
+      ],
+      [
+        "expected life ( years )",
+        "3.0",
+        "3.0",
+        "3.0"
+      ],
+      [
+        "grant date fair value per share",
+        "$ 62.10",
+        "$ 45.45",
+        "$ 40.13"
+      ]
+    ],
+    "questions": [
+      "by what percentage did grant date fair value per share increase from 2014 to 2015?"
+    ]
+  }
+}

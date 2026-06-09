@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total value of expected decrease in gross unrecognized income tax benefits in the next 12 months , ( in millions ) ?",
+      "answer": 22.0,
+      "answer_raw": "22.0",
+      "program": "add(8, 14)"
+    }
+  ]
+}

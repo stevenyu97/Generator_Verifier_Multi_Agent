@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total future minimum lease payments are due in 2009?",
+      "answer": 0.21477,
+      "answer_raw": "0.21477",
+      "program": "divide(1035, 4819)"
+    }
+  ]
+}

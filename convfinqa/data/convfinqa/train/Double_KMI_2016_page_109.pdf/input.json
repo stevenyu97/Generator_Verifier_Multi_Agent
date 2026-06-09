@@ -1,0 +1,80 @@
+{
+  "input": {
+    "id": "Double_KMI/2016/page_109.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the intrinsic value of restricted stock awards vested during the years ended december 31 , 2016 , 2015 and 2014 was $ 25 million , $ 31 million and $ 17 million , respectively .",
+      "restricted stock awards made to employees have vesting periods ranging from 1 year with variable vesting dates to 10 years .",
+      "following is a summary of the future vesting of our outstanding restricted stock awards : vesting of restricted shares ."
+    ],
+    "post_text": [
+      "the related compensation costs less estimated forfeitures is generally recognized ratably over the vesting period of the restricted stock awards .",
+      "upon vesting , the grants will be paid in our class p common shares .",
+      "during 2016 , 2015 and 2014 , we recorded $ 66 million , $ 52 million and $ 51 million , respectively , in expense related to restricted stock awards and capitalized approximately $ 9 million , $ 15 million and $ 6 million , respectively .",
+      "at december 31 , 2016 and 2015 , unrecognized restricted stock awards compensation costs , less estimated forfeitures , was approximately $ 133 million and $ 154 million , respectively .",
+      "pension and other postretirement benefit plans savings plan we maintain a defined contribution plan covering eligible u.s .",
+      "employees .",
+      "we contribute 5% ( 5 % ) of eligible compensation for most of the plan participants .",
+      "certain plan participants 2019 contributions and company contributions are based on collective bargaining agreements .",
+      "the total expense for our savings plan was approximately $ 48 million , $ 46 million , and $ 42 million for the years ended december 31 , 2016 , 2015 and 2014 , respectively .",
+      "pension plans our u.s .",
+      "pension plan is a defined benefit plan that covers substantially all of our u.s .",
+      "employees and provides benefits under a cash balance formula .",
+      "a participant in the cash balance plan accrues benefits through contribution credits based on a combination of age and years of service , times eligible compensation .",
+      "interest is also credited to the participant 2019s plan account .",
+      "a participant becomes fully vested in the plan after three years , and may take a lump sum distribution upon termination of employment or retirement .",
+      "certain collectively bargained and grandfathered employees continue to accrue benefits through career pay or final pay formulas .",
+      "two of our subsidiaries , kinder morgan canada inc .",
+      "and trans mountain pipeline inc .",
+      "( as general partner of trans mountain pipeline l.p. ) , are sponsors of pension plans for eligible canadian and trans mountain pipeline employees .",
+      "the plans include registered defined benefit pension plans , supplemental unfunded arrangements ( which provide pension benefits in excess of statutory limits ) and defined contributory plans .",
+      "benefits under the defined benefit components accrue through career pay or final pay formulas .",
+      "the net periodic benefit costs , contributions and liability amounts associated with our canadian plans are not material to our consolidated income statements or balance sheets ; however , we began to include the activity and balances associated with our canadian plans ( including our canadian opeb plans discussed below ) in the following disclosures on a prospective basis beginning in 2016 .",
+      "the associated net periodic benefit costs for these combined canadian plans of $ 12 million and $ 10 million for the years ended december 31 , 2015 and 2014 , respectively , were reported separately in prior years .",
+      "other postretirement benefit plans we and certain of our u.s .",
+      "subsidiaries provide other postretirement benefits ( opeb ) , including medical benefits for closed groups of retired employees and certain grandfathered employees and their dependents , and limited postretirement life insurance benefits for retired employees .",
+      "our canadian subsidiaries also provide opeb benefits to current and future retirees and their dependents .",
+      "medical benefits under these opeb plans may be subject to deductibles , co-payment provisions , dollar ."
+    ],
+    "table": [
+      [
+        "year",
+        "vesting of restricted shares"
+      ],
+      [
+        "2017",
+        "1476832"
+      ],
+      [
+        "2018",
+        "2352443"
+      ],
+      [
+        "2019",
+        "4358728"
+      ],
+      [
+        "2020",
+        "539790"
+      ],
+      [
+        "2021",
+        "199850"
+      ],
+      [
+        "thereafter",
+        "110494"
+      ],
+      [
+        "total outstanding",
+        "9038137"
+      ]
+    ],
+    "questions": [
+      "what is the number of restricted shares that is supposed to vest after 2021?",
+      "and what is the total number of restricted shares?",
+      "what percentage, then, of this total number do those shares represent?",
+      "and what percentage do the restricted shares supposed to vest in 2018 represent?"
+    ]
+  }
+}

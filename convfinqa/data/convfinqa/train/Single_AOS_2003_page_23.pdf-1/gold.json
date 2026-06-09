@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were research and developments costs in 2002?",
+      "answer": 30.4,
+      "answer_raw": "30.4",
+      "program": "30.4"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were they in 2001?",
+      "answer": 27.6,
+      "answer_raw": "27.6",
+      "program": "27.6"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 2.8,
+      "answer_raw": "2.8",
+      "program": "subtract(30.4, 27.6)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the percent change?",
+      "answer": 0.10145,
+      "answer_raw": "0.10145",
+      "program": "subtract(30.4, 27.6), divide(#0, 27.6)"
+    }
+  ]
+}

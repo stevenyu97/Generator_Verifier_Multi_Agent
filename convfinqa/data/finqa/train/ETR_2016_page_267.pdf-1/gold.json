@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many years did it take to close the pilgrim plant after after its last refueling?",
+      "answer": 2.0,
+      "answer_raw": "2.0",
+      "program": "subtract(2019, 2017)"
+    }
+  ]
+}

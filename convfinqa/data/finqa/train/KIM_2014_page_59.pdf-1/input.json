@@ -1,0 +1,102 @@
+{
+  "input": {
+    "id": "KIM/2014/page_59.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "guaranteed by the company with guarantees from the joint venture partners for their proportionate amounts of any guaranty payment the company is obligated to make ( see guarantee table above ) .",
+      "non-recourse mortgage debt is generally defined as debt whereby the lenders 2019 sole recourse with respect to borrower defaults is limited to the value of the property collateralized by the mortgage .",
+      "the lender generally does not have recourse against any other assets owned by the borrower or any of the constituent members of the borrower , except for certain specified exceptions listed in the particular loan documents ( see footnote 7 of the notes to consolidated financial statements included in this form 10-k ) .",
+      "these investments include the following joint ventures : venture ownership interest number of properties total gla thousands ) recourse mortgage payable ( in millions ) number of encumbered properties average interest weighted average ( months ) ."
+    ],
+    "post_text": [
+      "( a ) represents the company 2019s joint ventures with prudential real estate investors .",
+      "( b ) represents the company 2019s joint ventures with riocan real estate investment trust .",
+      "( c ) represents the company 2019s joint ventures with certain institutional investors .",
+      "( d ) represents the company 2019s remaining joint venture with big shopping centers ( tlv:big ) , an israeli public company ( see footnote 7 of the notes to consolidated financial statements included in this form 10-k ) .",
+      "( e ) represents the company 2019s joint ventures with blackstone .",
+      "( f ) represents the company 2019s joint ventures with the canadian pension plan investment board ( cppib ) .",
+      "( g ) on february 2 , 2015 , the company purchased the remaining 66.7% ( 66.7 % ) interest in the 39-property kimstone portfolio for a gross purchase price of $ 1.4 billion , including the assumption of $ 638.0 million in mortgage debt ( see footnote 26 of the notes to consolidated financial statements included in this form 10-k ) .",
+      "the company has various other unconsolidated real estate joint ventures with varying structures .",
+      "as of december 31 , 2014 , these other unconsolidated joint ventures had individual non-recourse mortgage loans aggregating $ 1.2 billion .",
+      "the aggregate debt as of december 31 , 2014 , of all of the company 2019s unconsolidated real estate joint ventures is $ 4.6 billion , of which the company 2019s proportionate share of this debt is $ 1.8 billion .",
+      "as of december 31 , 2014 , these loans had scheduled maturities ranging from one month to 19 years and bear interest at rates ranging from 1.92% ( 1.92 % ) to 8.39% ( 8.39 % ) .",
+      "approximately $ 525.7 million of the aggregate outstanding loan balance matures in 2015 , of which the company 2019s proportionate share is $ 206.0 million .",
+      "these maturing loans are anticipated to be repaid with operating cash flows , debt refinancing and partner capital contributions , as deemed appropriate ( see footnote 7 of the notes to consolidated financial statements included in this form 10-k ) . ."
+    ],
+    "table": [
+      [
+        "venture",
+        "kimco ownership interest",
+        "number of properties",
+        "total gla ( in thousands )",
+        "non- recourse mortgage payable ( in millions )",
+        "number of encumbered properties",
+        "average interest rate",
+        "weighted average term ( months )"
+      ],
+      [
+        "kimpru ( a )",
+        "15.0% ( 15.0 % )",
+        "60",
+        "10573",
+        "$ 920.4",
+        "39",
+        "5.53% ( 5.53 % )",
+        "23.0"
+      ],
+      [
+        "riocan venture ( b )",
+        "50.0% ( 50.0 % )",
+        "45",
+        "9307",
+        "$ 642.6",
+        "28",
+        "4.29% ( 4.29 % )",
+        "39.9"
+      ],
+      [
+        "kir ( c )",
+        "48.6% ( 48.6 % )",
+        "54",
+        "11519",
+        "$ 866.4",
+        "46",
+        "5.04% ( 5.04 % )",
+        "61.9"
+      ],
+      [
+        "big shopping centers ( d )",
+        "50.1% ( 50.1 % )",
+        "6",
+        "1029",
+        "$ 144.6",
+        "6",
+        "5.52% ( 5.52 % )",
+        "22.0"
+      ],
+      [
+        "kimstone ( e ) ( g )",
+        "33.3% ( 33.3 % )",
+        "39",
+        "5595",
+        "$ 704.4",
+        "38",
+        "4.45% ( 4.45 % )",
+        "28.7"
+      ],
+      [
+        "cpp ( f )",
+        "55.0% ( 55.0 % )",
+        "7",
+        "2425",
+        "$ 112.1",
+        "2",
+        "5.05% ( 5.05 % )",
+        "10.1"
+      ]
+    ],
+    "questions": [
+      "as of december 31 , 2014 , what was the proportionate share of the company 2019s unconsolidated real estate joint ventures ."
+    ]
+  }
+}

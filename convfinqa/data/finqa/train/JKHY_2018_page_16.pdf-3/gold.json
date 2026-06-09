@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the cumulative total return for the peer group over the five years?",
+      "answer": 197.44,
+      "answer_raw": "197.44",
+      "program": "subtract(297.44, 100.00)"
+    }
+  ]
+}

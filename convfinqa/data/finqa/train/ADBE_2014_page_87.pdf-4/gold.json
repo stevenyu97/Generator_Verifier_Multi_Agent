@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in thousands , what was the change between years in gross increases in unrecognized tax benefits 2013 prior year tax positions?",
+      "answer": -20100.0,
+      "answer_raw": "-20100.0",
+      "program": "subtract(144, 20244)"
+    }
+  ]
+}

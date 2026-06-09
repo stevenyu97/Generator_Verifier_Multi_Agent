@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "AAPL/2010/page_73.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents the aggregate changes in the balance of gross unrecognized tax benefits , which excludes interest and penalties , for the three years ended september 25 , 2010 , is as follows ( in millions ) : the company includes interest and penalties related to unrecognized tax benefits within the provision for income taxes .",
+      "as of september 25 , 2010 and september 26 , 2009 , the total amount of gross interest and penalties accrued was $ 247 million and $ 291 million , respectively , which is classified as non-current liabilities in the consolidated balance sheets .",
+      "in 2010 and 2009 , the company recognized an interest benefit of $ 43 million and interest expense of $ 64 million , respectively , in connection with tax matters .",
+      "the company is subject to taxation and files income tax returns in the u.s .",
+      "federal jurisdiction and in many state and foreign jurisdictions .",
+      "for u.s .",
+      "federal income tax purposes , all years prior to 2004 are closed .",
+      "the internal revenue service ( the 201cirs 201d ) has completed its field audit of the company 2019s federal income tax returns for the years 2004 through 2006 and proposed certain adjustments .",
+      "the company has contested certain of these adjustments through the irs appeals office .",
+      "the irs is currently examining the years 2007 through 2009 .",
+      "during the third quarter of 2010 , the company reached a tax settlement with the irs for the years 2002 through 2003 .",
+      "in connection with the settlement , the company reduced its gross unrecognized tax benefits by $ 100 million and recognized a $ 52 million tax benefit in the third quarter of 2010 .",
+      "in addition , the company is also subject to audits by state , local and foreign tax authorities .",
+      "in major states and major foreign jurisdictions , the years subsequent to 1988 and 2001 , respectively , generally remain open and could be subject to examination by the taxing authorities .",
+      "management believes that an adequate provision has been made for any adjustments that may result from tax examinations .",
+      "however , the outcome of tax audits cannot be predicted with certainty .",
+      "if any issues addressed in the company 2019s tax audits are resolved in a manner not consistent with management 2019s expectations , the company could be required to adjust its provision for income tax in the period such resolution occurs .",
+      "although timing of the resolution and/or closure of audits is not certain , the company does not believe it is reasonably possible that its unrecognized tax benefits would materially change in the next 12 months .",
+      "note 7 2013 shareholders 2019 equity and stock-based compensation preferred stock the company has five million shares of authorized preferred stock , none of which is issued or outstanding .",
+      "under the terms of the company 2019s restated articles of incorporation , the board of directors is authorized to determine or alter the rights , preferences , privileges and restrictions of the company 2019s authorized but unissued shares of preferred stock .",
+      "comprehensive income comprehensive income consists of two components , net income and other comprehensive income .",
+      "other comprehensive income refers to revenue , expenses , gains and losses that under gaap are recorded as an element of shareholders 2019 equity but are excluded from net income .",
+      "the company 2019s other comprehensive income consists ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      [
+        "beginning balance",
+        "$ 971",
+        "506",
+        "$ 475"
+      ],
+      [
+        "increases related to tax positions taken during a prior year",
+        "61",
+        "341",
+        "27"
+      ],
+      [
+        "decreases related to tax positions taken during a prior year",
+        "-224 ( 224 )",
+        "-24 ( 24 )",
+        "-70 ( 70 )"
+      ],
+      [
+        "increases related to tax positions taken during the current year",
+        "240",
+        "151",
+        "85"
+      ],
+      [
+        "decreases related to settlements with taxing authorities",
+        "-102 ( 102 )",
+        "0",
+        "0"
+      ],
+      [
+        "decreases related to expiration of statute of limitations",
+        "-3 ( 3 )",
+        "-3 ( 3 )",
+        "-11 ( 11 )"
+      ],
+      [
+        "ending balance",
+        "$ 943",
+        "$ 971",
+        "$ 506"
+      ]
+    ],
+    "questions": [
+      "what was the smallest decrease related to expiration of statute of limitations for the three year period , in millions?"
+    ]
+  }
+}

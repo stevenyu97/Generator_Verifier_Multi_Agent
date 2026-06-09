@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "Double_OKE/2007/page_51.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "impairment of long-lived assets , goodwill and intangible assets - we assess our long-lived assets for impairment based on statement 144 , 201caccounting for the impairment or disposal of long-lived assets . 201d a long-lived asset is tested for impairment whenever events or changes in circumstances indicate that its carrying amount may exceed its fair value .",
+      "fair values are based on the sum of the undiscounted future cash flows expected to result from the use and eventual disposition of the assets .",
+      "we assess our goodwill and intangible assets for impairment at least annually based on statement 142 , 201cgoodwill and other intangible assets . 201d there were no impairment charges resulting from the july 1 , 2007 , impairment tests and no events indicating an impairment have occurred subsequent to that date .",
+      "an initial assessment is made by comparing the fair value of the operations with goodwill , as determined in accordance with statement 142 , to the book value of each reporting unit .",
+      "if the fair value is less than the book value , an impairment is indicated , and we must perform a second test to measure the amount of the impairment .",
+      "in the second test , we calculate the implied fair value of the goodwill by deducting the fair value of all tangible and intangible net assets of the operations with goodwill from the fair value determined in step one of the assessment .",
+      "if the carrying value of the goodwill exceeds this calculated implied fair value of the goodwill , we will record an impairment charge .",
+      "at december 31 , 2007 , we had $ 600.7 million of goodwill recorded on our consolidated balance sheet as shown below. ."
+    ],
+    "post_text": [
+      "( thousands of dollars ) intangible assets with a finite useful life are amortized over their estimated useful life , while intangible assets with an indefinite useful life are not amortized .",
+      "all intangible assets are subject to impairment testing .",
+      "our oneok partners segment had $ 443.0 million of intangible assets recorded on our consolidated balance sheet as of december 31 , 2007 , of which $ 287.5 million is being amortized over an aggregate weighted-average period of 40 years , while the remaining balance has an indefinite life .",
+      "during 2006 , we recorded a goodwill and asset impairment related to oneok partners 2019 black mesa pipeline of $ 8.4 million and $ 3.6 million , respectively , which were recorded as depreciation and amortization .",
+      "the reduction to our net income , net of minority interests and income taxes , was $ 3.0 million .",
+      "in the third quarter of 2005 , we made the decision to sell our spring creek power plant , located in oklahoma , and exit the power generation business .",
+      "in october 2005 , we concluded that our spring creek power plant had been impaired and recorded an impairment expense of $ 52.2 million .",
+      "this conclusion was based on our statement 144 impairment analysis of the results of operations for this plant through september 30 , 2005 , and also the net sales proceeds from the anticipated sale of the plant .",
+      "the sale was completed on october 31 , 2006 .",
+      "this component of our business is accounted for as discontinued operations in accordance with statement 144 .",
+      "see 201cdiscontinued operations 201d on page 46 for additional information .",
+      "our total unamortized excess cost over underlying fair value of net assets accounted for under the equity method was $ 185.6 million as of december 31 , 2007 and 2006 .",
+      "based on statement 142 , this amount , referred to as equity method goodwill , should continue to be recognized in accordance with apb opinion no .",
+      "18 , 201cthe equity method of accounting for investments in common stock . 201d accordingly , we included this amount in investment in unconsolidated affiliates on our accompanying consolidated balance sheets .",
+      "pension and postretirement employee benefits - we have defined benefit retirement plans covering certain full-time employees .",
+      "we sponsor welfare plans that provide postretirement medical and life insurance benefits to certain employees who retire with at least five years of service .",
+      "our actuarial consultant calculates the expense and liability related to these plans and uses statistical and other factors that attempt to anticipate future events .",
+      "these factors include assumptions about the discount rate , expected return on plan assets , rate of future compensation increases , age and employment periods .",
+      "in determining the projected benefit obligations and costs , assumptions can change from period to period and result in material changes in the costs and liabilities we recognize .",
+      "see note j of the notes to consolidated financial statements in this annual report on form 10-k for additional information. ."
+    ],
+    "table": [
+      [
+        "",
+        "( thousands of dollars )"
+      ],
+      [
+        "oneok partners",
+        "$ 431418"
+      ],
+      [
+        "distribution",
+        "157953"
+      ],
+      [
+        "energy services",
+        "10255"
+      ],
+      [
+        "other",
+        "1099"
+      ],
+      [
+        "total goodwill",
+        "$ 600725"
+      ]
+    ],
+    "questions": [
+      "what is the goodwill value from oneok partners?",
+      "what about the total goodwill?",
+      "what proportion of total goodwill is related to oneok partners?",
+      "what about the goodwill value from energy services?",
+      "what portion of total goodwill is related to energy services?"
+    ]
+  }
+}

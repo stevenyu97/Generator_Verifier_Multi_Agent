@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much did the net capitalized costs in 2018 represent in relation to the ones in 2017?",
+      "answer": 1.09807,
+      "answer_raw": "1.09807",
+      "program": "divide(25655931, 23364494)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this value without the portion equivalent to the 2017 costs?",
+      "answer": 0.09807,
+      "answer_raw": "0.09807",
+      "program": "divide(25655931, 23364494), subtract(#0, const_1)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "in that same period, what was the change in the accumulated depreciation depletion and amortization?",
+      "answer": 2482838.0,
+      "answer_raw": "2482838.0",
+      "program": "subtract(31674085, 29191247)"
+    }
+  ]
+}

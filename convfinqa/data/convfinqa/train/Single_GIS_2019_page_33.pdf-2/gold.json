@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the cash provided by operations from 2018 to 2019?",
+      "answer": -34.0,
+      "answer_raw": "-34.0",
+      "program": "subtract(2807, 2841)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that cash in 2018?",
+      "answer": 2841.0,
+      "answer_raw": "2841.0",
+      "program": "2841"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2018 cash provided by operations, in percentage?",
+      "answer": -0.01197,
+      "answer_raw": "-0.01197",
+      "program": "subtract(2807, 2841), divide(#0, 2841)"
+    }
+  ]
+}

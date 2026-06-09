@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of berths as of 2011?",
+      "answer": 34000.0,
+      "answer_raw": "34000.0",
+      "program": "34000"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the average number of those berths per ship?",
+      "answer": 3400.0,
+      "answer_raw": "3400.0",
+      "program": "divide(34000, const_10)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what would, then, be the annual average of berths per ship, considering that they are expected to be placed in service in the north american cruise market between the years of 2012 and 2016?",
+      "answer": 850.0,
+      "answer_raw": "850.0",
+      "program": "divide(34000, const_10), divide(#0, const_4)"
+    }
+  ]
+}

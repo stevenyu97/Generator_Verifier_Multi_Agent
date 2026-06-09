@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in net sales from 2012 to 2013?",
+      "answer": 300.0,
+      "answer_raw": "300.0",
+      "program": "subtract(7757, 7457)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were net sales in 2012?",
+      "answer": 7457.0,
+      "answer_raw": "7457.0",
+      "program": "7457"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change divided by the 2012 value?",
+      "answer": 0.04023,
+      "answer_raw": "0.04023",
+      "program": "subtract(7757, 7457), divide(#0, 7457)"
+    }
+  ]
+}

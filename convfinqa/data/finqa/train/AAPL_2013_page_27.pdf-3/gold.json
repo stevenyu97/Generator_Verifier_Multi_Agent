@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the 6 year total shareholder return on apple . inc.?",
+      "answer": 3.31,
+      "answer_raw": "3.31",
+      "program": "subtract(431, 100), divide(#0, 100)"
+    }
+  ]
+}

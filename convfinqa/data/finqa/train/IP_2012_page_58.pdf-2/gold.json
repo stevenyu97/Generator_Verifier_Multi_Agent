@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of distribution sales where attributable to printing papers and graphic arts supplies and equipment in 2011?",
+      "answer": 0.60332,
+      "answer_raw": "0.60332",
+      "program": "multiply(const_4, const_1000), divide(#0, 6630)"
+    }
+  ]
+}

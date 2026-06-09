@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did the effective income tax rate on continuing operations increase from 2011 to 2012?",
+      "answer": 0.13,
+      "answer_raw": "0.13",
+      "program": "subtract(74%, 61%)"
+    }
+  ]
+}

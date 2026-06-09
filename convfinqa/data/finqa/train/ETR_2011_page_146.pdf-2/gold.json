@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in how many years will is the company expected to pay off all its future minimum lease payments?",
+      "answer": 4.0,
+      "answer_raw": "4.0",
+      "program": "subtract(2015, 2011)"
+    }
+  ]
+}

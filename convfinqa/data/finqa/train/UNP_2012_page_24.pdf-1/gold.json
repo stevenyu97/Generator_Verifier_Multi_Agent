@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if freight revenues increase at the same rate as 2012 , what would expected 2013 revenues be , in millions?",
+      "answer": 19686.06,
+      "answer_raw": "19686.06",
+      "program": "add(19686, 6%)"
+    }
+  ]
+}

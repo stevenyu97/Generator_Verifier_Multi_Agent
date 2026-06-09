@@ -1,0 +1,93 @@
+{
+  "input": {
+    "id": "Double_STZ/2010/page_51.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "492010 annual report consolidation 2013 effective february 28 , 2010 , the company adopted the fasb amended guidance for con- solidation .",
+      "this guidance clarifies that the scope of the decrease in ownership provisions applies to the follow- ing : ( i ) a subsidiary or group of assets that is a business or nonprofit activity ; ( ii ) a subsidiary that is a business or nonprofit activity that is transferred to an equity method investee or joint venture ; and ( iii ) an exchange of a group of assets that constitutes a business or nonprofit activ- ity for a noncontrolling interest in an entity ( including an equity method investee or joint venture ) .",
+      "this guidance also expands the disclosures about the deconsolidation of a subsidiary or derecognition of a group of assets within the scope of the guidance .",
+      "the adoption of this guidance did not have a material impact on the company 2019s consolidated financial statements .",
+      "3 . acquisitions : acquisition of bwe 2013 on december 17 , 2007 , the company acquired all of the issued and outstanding capital stock of beam wine estates , inc .",
+      "( 201cbwe 201d ) , an indirect wholly-owned subsidiary of fortune brands , inc. , together with bwe 2019s subsidiaries : atlas peak vineyards , inc. , buena vista winery , inc. , clos du bois , inc. , gary farrell wines , inc .",
+      "and peak wines international , inc .",
+      "( the 201cbwe acquisition 201d ) .",
+      "as a result of the bwe acquisition , the company acquired the u.s .",
+      "wine portfolio of fortune brands , inc. , including certain wineries , vineyards or inter- ests therein in the state of california , as well as various super-premium and fine california wine brands including clos du bois and wild horse .",
+      "the bwe acquisition sup- ports the company 2019s strategy of strengthening its portfolio with fast-growing super-premium and above wines .",
+      "the bwe acquisition strengthens the company 2019s position as the leading wine company in the world and the leading premium wine company in the u.s .",
+      "total consideration paid in cash was $ 877.3 million .",
+      "in addition , the company incurred direct acquisition costs of $ 1.4 million .",
+      "the purchase price was financed with the net proceeds from the company 2019s december 2007 senior notes ( as defined in note 11 ) and revolver borrowings under the company 2019s june 2006 credit agreement , as amended in february 2007 and november 2007 ( as defined in note 11 ) .",
+      "in accordance with the purchase method of accounting , the acquired net assets are recorded at fair value at the date of acquisition .",
+      "the purchase price was based primarily on the estimated future operating results of the bwe business , including the factors described above .",
+      "in june 2008 , the company sold certain businesses consisting of several of the california wineries and wine brands acquired in the bwe acquisition , as well as certain wineries and wine brands from the states of washington and idaho ( collectively , the 201cpacific northwest business 201d ) ( see note 7 ) .",
+      "the results of operations of the bwe business are reported in the constellation wines segment and are included in the consolidated results of operations of the company from the date of acquisition .",
+      "the following table summarizes the fair values of the assets acquired and liabilities assumed in the bwe acquisition at the date of acquisition .",
+      "( in millions ) current assets $ 288.4 property , plant and equipment 232.8 ."
+    ],
+    "post_text": [
+      "other assets 30.2 total assets acquired 983.9 current liabilities 103.9 long-term liabilities 1.3 total liabilities assumed 105.2 net assets acquired $ 878.7 the trademarks are not subject to amortization .",
+      "all of the goodwill is expected to be deductible for tax purposes .",
+      "acquisition of svedka 2013 on march 19 , 2007 , the company acquired the svedka vodka brand ( 201csvedka 201d ) in connection with the acquisition of spirits marque one llc and related business ( the 201csvedka acquisition 201d ) .",
+      "svedka is a premium swedish vodka .",
+      "at the time of the acquisition , the svedka acquisition supported the company 2019s strategy of expanding the company 2019s premium spirits business and provided a foundation from which the company looked to leverage its existing and future premium spirits portfolio for growth .",
+      "in addition , svedka complemented the company 2019s then existing portfolio of super-premium and value vodka brands by adding a premium vodka brand .",
+      "total consideration paid in cash for the svedka acquisition was $ 385.8 million .",
+      "in addition , the company incurred direct acquisition costs of $ 1.3 million .",
+      "the pur- chase price was financed with revolver borrowings under the company 2019s june 2006 credit agreement , as amended in february 2007 .",
+      "in accordance with the purchase method of accounting , the acquired net assets are recorded at fair value at the date of acquisition .",
+      "the purchase price was based primarily on the estimated future operating results of the svedka business , including the factors described above .",
+      "the results of operations of the svedka business are reported in the constellation wines segment and are included in the consolidated results of operations of the company from the date of acquisition. ."
+    ],
+    "table": [
+      [
+        "current assets",
+        "$ 288.4"
+      ],
+      [
+        "property plant and equipment",
+        "232.8"
+      ],
+      [
+        "goodwill",
+        "334.6"
+      ],
+      [
+        "trademarks",
+        "97.9"
+      ],
+      [
+        "other assets",
+        "30.2"
+      ],
+      [
+        "total assets acquired",
+        "983.9"
+      ],
+      [
+        "current liabilities",
+        "103.9"
+      ],
+      [
+        "long-term liabilities",
+        "1.3"
+      ],
+      [
+        "total liabilities assumed",
+        "105.2"
+      ],
+      [
+        "net assets acquired",
+        "$ 878.7"
+      ]
+    ],
+    "questions": [
+      "what is the balance of current assets?",
+      "what about current liabilities?",
+      "what current ratio does this represent?",
+      "what is the goodwill related to this purchase?",
+      "what about the value of trademarks?",
+      "what is the total value of intangible assets?"
+    ]
+  }
+}

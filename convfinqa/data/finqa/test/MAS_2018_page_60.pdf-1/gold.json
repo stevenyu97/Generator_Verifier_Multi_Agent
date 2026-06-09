@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the total current assets of kichler included in the acquisition price with the revised version?",
+      "answer": 273.0,
+      "answer_raw": "273.0",
+      "program": "add(const_2, 100), add(#0, 166), add(#1, 5)"
+    }
+  ]
+}

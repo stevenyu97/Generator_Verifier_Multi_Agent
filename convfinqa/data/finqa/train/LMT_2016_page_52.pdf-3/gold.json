@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate of net sales from 2014 to 2015?",
+      "answer": -0.01054,
+      "answer_raw": "-0.01054",
+      "program": "subtract(9105, 9202), divide(#0, 9202)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of 2016, what percentage did the the cib markets net interest income represent in relation to the total net interest income 2013 managed basis?i",
+      "answer": 0.13393,
+      "answer_raw": "0.13393",
+      "program": "divide(6334, 47292)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "in that same year, what were the average interest-earning assets, in millions?",
+      "answer": 2101604.0,
+      "answer_raw": "2101604.0",
+      "program": "2101604"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what was the net interest yield of those assets?",
+      "answer": 0.0225,
+      "answer_raw": "0.0225",
+      "program": "2.25%"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is, then, the amount from those assets equivalent to this interest yield, in millions?",
+      "answer": 47286.09,
+      "answer_raw": "47286.09",
+      "program": "multiply(2101604, 2.25%)"
+    }
+  ]
+}

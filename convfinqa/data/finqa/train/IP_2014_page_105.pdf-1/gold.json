@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the fair value of the preliminary debt analysis of the acquisition date fair value of the borrowings for 2014 to 2013",
+      "answer": 0.86747,
+      "answer_raw": "0.86747",
+      "program": "divide(2.16, 2.49)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in revenue?",
+      "answer": -52.0,
+      "answer_raw": "-52.0",
+      "program": "subtract(1802, 1854)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the percent change?",
+      "answer": -0.02805,
+      "answer_raw": "-0.02805",
+      "program": "subtract(1802, 1854), divide(#0, 1854)"
+    }
+  ]
+}

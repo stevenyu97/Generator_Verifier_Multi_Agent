@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was operating revenue in 2001?",
+      "answer": 6144.0,
+      "answer_raw": "6144.0",
+      "program": "6144"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was it in 2000?",
+      "answer": 4894.0,
+      "answer_raw": "4894.0",
+      "program": "4894"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 1250.0,
+      "answer_raw": "1250.0",
+      "program": "subtract(6144, 4894)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the 2000 value?",
+      "answer": 4894.0,
+      "answer_raw": "4894.0",
+      "program": "4894"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the percent change?",
+      "answer": 0.25541,
+      "answer_raw": "0.25541",
+      "program": "subtract(6144, 4894), divide(#0, 4894)"
+    }
+  ]
+}

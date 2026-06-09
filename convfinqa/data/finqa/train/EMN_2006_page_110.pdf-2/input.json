@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "EMN/2006/page_110.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "eastman notes to the audited consolidated financial statements stock option awards option awards are granted to non-employee directors on an annual basis and to employees who meet certain eligibility requirements .",
+      "a single annual option grant is usually awarded to eligible employees in the fourth quarter of each year , if and when granted by the compensation and management development committee of the board of directors , and occasional individual grants are awarded to eligible employees throughout the year .",
+      "option awards have an exercise price equal to the closing price of the company's stock on the date of grant .",
+      "the term of options is ten years with vesting periods that vary up to three years .",
+      "vesting usually occurs ratably or at the end of the vesting period .",
+      "sfas no .",
+      "123 ( r ) requires that stock option awards be valued at fair value determined by market price , if actively traded in a public market or , if not , calculated using an option pricing financial model .",
+      "the fair value of the company's options cannot be determined by market value as they are not traded in an open market .",
+      "accordingly , a financial pricing model is utilized to determine fair value .",
+      "the company utilizes the black scholes merton ( \"bsm\" ) model which relies on certain assumptions to estimate an option's fair value .",
+      "the weighted average assumptions used in the determination of fair value for stock options awarded in 2006 , 2005 and 2004 are provided in the table below: ."
+    ],
+    "post_text": [
+      "prior to adoption of sfas no .",
+      "123 ( r ) , the company calculated the expected term of stock options of six years .",
+      "effective with the fourth quarter 2005 annual option award , the company analyzed historical annual grant transactions over a ten year period comprising exercises , post-vesting cancellations and expirations to determine the expected term .",
+      "the company expects to execute this analysis each year preceding the annual option grant to ensure that all assumptions based upon internal data reflect the most reasonable expectations for fair value determination .",
+      "the weighted average expected term of 4.4 years for 2006 reflects the impact of this annual analysis and the weighting of option swap and reload grants which may have much shorter expected terms than new option grants .",
+      "the volatility rate of grants is derived from historical company common stock volatility over the same time period as the expected term .",
+      "the company uses a weekly high closing stock price based upon daily closing prices in the week .",
+      "the volatility rate is derived by mathematical formula utilizing the weekly high closing price data .",
+      "for the periods presented above , the expected dividend yield is derived by mathematical formula which uses the expected company annual dividend amount over the expected term divided by the fair market value of the company's common stock at the grant date .",
+      "the average risk-free interest rate is derived from united states department of treasury published interest rates of daily yield curves for the same time period as the expected term .",
+      "prior to adoption of sfas no .",
+      "123 ( r ) , the company did not estimate forfeitures and recognized them as they occurred for proforma disclosure of share-based compensation expense .",
+      "with adoption of sfas no .",
+      "123 ( r ) , estimated forfeitures must be considered in recording share-based compensation expense .",
+      "estimated forfeiture rates vary with each type of award affected by several factors , one of which is the varying composition and characteristics of the award participants .",
+      "estimated forfeitures for the company's share-based awards historically range from 0.75 percent to 10.0 percent with the estimated forfeitures for options at 0.75 percent. ."
+    ],
+    "table": [
+      [
+        "assumptions",
+        "2006",
+        "2005",
+        "2004"
+      ],
+      [
+        "expected volatility rate",
+        "21.40% ( 21.40 % )",
+        "22.90% ( 22.90 % )",
+        "28.00% ( 28.00 % )"
+      ],
+      [
+        "expected dividend yield",
+        "3.24% ( 3.24 % )",
+        "3.29% ( 3.29 % )",
+        "3.80% ( 3.80 % )"
+      ],
+      [
+        "average risk-free interest rate",
+        "4.62% ( 4.62 % )",
+        "4.48% ( 4.48 % )",
+        "3.46% ( 3.46 % )"
+      ],
+      [
+        "expected forfeiture rate",
+        "0.75% ( 0.75 % )",
+        "actual",
+        "actual"
+      ],
+      [
+        "expected term years",
+        "4.40",
+        "5.00",
+        "6.00"
+      ]
+    ],
+    "questions": [
+      "what is the percent change in expected dividend yield between 2005 and 2006?"
+    ]
+  }
+}

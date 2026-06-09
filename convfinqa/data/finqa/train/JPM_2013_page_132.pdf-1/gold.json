@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the firm 2019s cra loan portfolio in 2013 compared to 2012",
+      "answer": 1.125,
+      "answer_raw": "1.125",
+      "program": "divide(18, 16)"
+    }
+  ]
+}

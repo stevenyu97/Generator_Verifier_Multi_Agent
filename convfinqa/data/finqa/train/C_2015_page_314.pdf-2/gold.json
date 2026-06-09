@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in percentage cumulative total return of citi common stock compared to the s&p financials for the five years ended 31-dec-2015?",
+      "answer": -0.5425,
+      "answer_raw": "-0.5425",
+      "program": "subtract(110.14, const_100), divide(#0, const_100), subtract(164.39, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

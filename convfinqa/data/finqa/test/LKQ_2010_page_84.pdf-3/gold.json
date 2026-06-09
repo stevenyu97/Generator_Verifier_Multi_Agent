@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2010 what was the sum of the future minimum lease commitments due in 2014",
+      "answer": 0.12123,
+      "answer_raw": "0.12123",
+      "program": "divide(37660, 310643)"
+    }
+  ]
+}

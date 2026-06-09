@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total fair value of restricted stock that vested in 2010, in dollars?",
+      "answer": 10300000.0,
+      "answer_raw": "10300000.0",
+      "program": "multiply(10.3, const_1000000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total number of shares in that process?",
+      "answer": 40077.82101,
+      "answer_raw": "40077.82101",
+      "program": "multiply(10.3, const_1000000), divide(#0, 257)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the number of shares that vested based on the average grant fair value in 2010?",
+      "answer": 34630.0,
+      "answer_raw": "34630.0",
+      "program": "34630"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is, then, the difference between the number of actual shares that vested in that year and the one of shares that vested based on the average grant fair value?",
+      "answer": 5447.82101,
+      "answer_raw": "5447.82101",
+      "program": "multiply(10.3, const_1000000), divide(#0, 257), subtract(#1, 34630)"
+    }
+  ]
+}

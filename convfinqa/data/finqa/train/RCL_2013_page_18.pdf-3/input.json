@@ -1,0 +1,85 @@
+{
+  "input": {
+    "id": "RCL/2013/page_18.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "part i the following table details the growth in global weighted average berths and the global , north american and european cruise guests over the past five years : weighted-average supply of berths marketed globally ( 1 ) royal caribbean cruises ltd .",
+      "total berths global cruise guests ( 1 ) north american cruise guests ( 2 ) european cruise guests ( 3 ) ."
+    ],
+    "post_text": [
+      "( 1 ) source : our estimates of the number of global cruise guests and the weighted-average supply of berths marketed globally are based on a com- bination of data that we obtain from various publicly available cruise industry trade information sources including seatrade insider , cruise industry news and cruise line international association ( 201cclia 201d ) .",
+      "in addition , our estimates incorporate our own statistical analysis utilizing the same publicly available cruise industry data as a base .",
+      "( 2 ) source : cruise line international association based on cruise guests carried for at least two consecutive nights for years 2009 through 2012 .",
+      "year 2013 amounts represent our estimates ( see number 1 above ) .",
+      "includes the united states of america and canada .",
+      "( 3 ) source : clia europe , formerly european cruise council , for years 2009 through 2012 .",
+      "year 2013 amounts represent our estimates ( see number 1 above ) .",
+      "north america the majority of cruise guests are sourced from north america , which represented approximately 56% ( 56 % ) of global cruise guests in 2013 .",
+      "the compound annual growth rate in cruise guests sourced from this market was approximately 3.2% ( 3.2 % ) from 2009 to 2013 .",
+      "europe cruise guests sourced from europe represented approximately 30% ( 30 % ) of global cruise guests in 2013 .",
+      "the compound annual growth rate in cruise guests sourced from this market was approximately 6.0% ( 6.0 % ) from 2009 to 2013 .",
+      "other markets in addition to expected industry growth in north america and europe , we expect the asia/pacific region to demonstrate an even higher growth rate in the near term , although it will continue to represent a relatively small sector compared to north america and europe .",
+      "based on industry data , cruise guests sourced from the asia/pacific region represented approximately 4.5% ( 4.5 % ) of global cruise guests in 2013 .",
+      "the compound annual growth rate in cruise guests sourced from this market was approximately 15% ( 15 % ) from 2011 to 2013 .",
+      "competition we compete with a number of cruise lines .",
+      "our princi- pal competitors are carnival corporation & plc , which owns , among others , aida cruises , carnival cruise lines , costa cruises , cunard line , holland america line , iberocruceros , p&o cruises and princess cruises ; disney cruise line ; msc cruises ; norwegian cruise line and oceania cruises .",
+      "cruise lines compete with other vacation alternatives such as land-based resort hotels and sightseeing destinations for consumers 2019 leisure time .",
+      "demand for such activities is influenced by political and general economic conditions .",
+      "com- panies within the vacation market are dependent on consumer discretionary spending .",
+      "operating strategies our principal operating strategies are to : and employees and protect the environment in which our vessels and organization operate , to better serve our global guest base and grow our business , order to enhance our revenues , our brands globally , expenditures and ensure adequate cash and liquid- ity , with the overall goal of maximizing our return on invested capital and long-term shareholder value , ization and maintenance of existing ships and the transfer of key innovations across each brand , while prudently expanding our fleet with new state-of- the-art cruise ships , ships by deploying them into those markets and itineraries that provide opportunities to optimize returns , while continuing our focus on existing key markets , service customer preferences and expectations in an innovative manner , while supporting our strategic focus on profitability , and ."
+    ],
+    "table": [
+      [
+        "year",
+        "weighted-averagesupply ofberthsmarketedglobally ( 1 )",
+        "royal caribbean cruises ltd . total berths",
+        "globalcruiseguests ( 1 )",
+        "north americancruiseguests ( 2 )",
+        "europeancruiseguests ( 3 )"
+      ],
+      [
+        "2009",
+        "363000",
+        "84050",
+        "17340000",
+        "10198000",
+        "5000000"
+      ],
+      [
+        "2010",
+        "391000",
+        "92300",
+        "18800000",
+        "10781000",
+        "5540000"
+      ],
+      [
+        "2011",
+        "412000",
+        "92650",
+        "20227000",
+        "11625000",
+        "5894000"
+      ],
+      [
+        "2012",
+        "425000",
+        "98650",
+        "20898000",
+        "11640000",
+        "6139000"
+      ],
+      [
+        "2013",
+        "432000",
+        "98750",
+        "21300000",
+        "11816000",
+        "6399000"
+      ]
+    ],
+    "questions": [
+      "in 2010 what was the percent of the global cruise guests on the european cruise"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "KIM/2010/page_94.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "kimco realty corporation and subsidiaries notes to consolidated financial statements , continued the units consisted of ( i ) approximately 81.8 million preferred a units par value $ 1.00 per unit , which pay the holder a return of 7.0% ( 7.0 % ) per annum on the preferred a par value and are redeemable for cash by the holder at any time after one year or callable by the company any time after six months and contain a promote feature based upon an increase in net operating income of the properties capped at a 10.0% ( 10.0 % ) increase , ( ii ) 2000 class a preferred units , par value $ 10000 per unit , which pay the holder a return equal to libor plus 2.0% ( 2.0 % ) per annum on the class a preferred par value and are redeemable for cash by the holder at any time after november 30 , 2010 , ( iii ) 2627 class b-1 preferred units , par value $ 10000 per unit , which pay the holder a return equal to 7.0% ( 7.0 % ) per annum on the class b-1 preferred par value and are redeemable by the holder at any time after november 30 , 2010 , for cash or at the company 2019s option , shares of the company 2019s common stock , equal to the cash redemption amount , as defined , ( iv ) 5673 class b-2 preferred units , par value $ 10000 per unit , which pay the holder a return equal to 7.0% ( 7.0 % ) per annum on the class b-2 preferred par value and are redeemable for cash by the holder at any time after november 30 , 2010 , and ( v ) 640001 class c downreit units , valued at an issuance price of $ 30.52 per unit which pay the holder a return at a rate equal to the company 2019s common stock dividend and are redeemable by the holder at any time after november 30 , 2010 , for cash or at the company 2019s option , shares of the company 2019s common stock equal to the class c cash amount , as defined .",
+      "the following units have been redeemed as of december 31 , 2010 : redeemed par value redeemed ( in millions ) redemption type ."
+    ],
+    "post_text": [
+      "noncontrolling interest relating to the remaining units was $ 110.4 million and $ 113.1 million as of december 31 , 2010 and 2009 , respectively .",
+      "during 2006 , the company acquired two shopping center properties located in bay shore and centereach , ny .",
+      "included in noncontrolling interests was approximately $ 41.6 million , including a discount of $ 0.3 million and a fair market value adjustment of $ 3.8 million , in redeemable units ( the 201credeemable units 201d ) , issued by the company in connection with these transactions .",
+      "the prop- erties were acquired through the issuance of $ 24.2 million of redeemable units , which are redeemable at the option of the holder ; approximately $ 14.0 million of fixed rate redeemable units and the assumption of approximately $ 23.4 million of non-recourse debt .",
+      "the redeemable units consist of ( i ) 13963 class a units , par value $ 1000 per unit , which pay the holder a return of 5% ( 5 % ) per annum of the class a par value and are redeemable for cash by the holder at any time after april 3 , 2011 , or callable by the company any time after april 3 , 2016 , and ( ii ) 647758 class b units , valued at an issuance price of $ 37.24 per unit , which pay the holder a return at a rate equal to the company 2019s common stock dividend and are redeemable by the holder at any time after april 3 , 2007 , for cash or at the option of the company for common stock at a ratio of 1:1 , or callable by the company any time after april 3 , 2026 .",
+      "the company is restricted from disposing of these assets , other than through a tax free transaction , until april 2016 and april 2026 for the centereach , ny , and bay shore , ny , assets , respectively .",
+      "during 2007 , 30000 units , or $ 1.1 million par value , of theclass bunits were redeemed by the holder in cash at the option of the company .",
+      "noncontrolling interest relating to the units was $ 40.4 million and $ 40.3 million as of december 31 , 2010 and 2009 , respectively .",
+      "noncontrolling interests also includes 138015 convertible units issued during 2006 , by the company , which were valued at approxi- mately $ 5.3 million , including a fair market value adjustment of $ 0.3 million , related to an interest acquired in an office building located in albany , ny .",
+      "these units are redeemable at the option of the holder after one year for cash or at the option of the company for the company 2019s common stock at a ratio of 1:1 .",
+      "the holder is entitled to a distribution equal to the dividend rate of the company 2019s common stock .",
+      "the company is restricted from disposing of these assets , other than through a tax free transaction , until january 2017. ."
+    ],
+    "table": [
+      [
+        "type",
+        "units redeemed",
+        "par value redeemed ( in millions )",
+        "redemption type"
+      ],
+      [
+        "preferred a units",
+        "2200000",
+        "$ 2.2",
+        "cash"
+      ],
+      [
+        "class a preferred units",
+        "2000",
+        "$ 20.0",
+        "cash"
+      ],
+      [
+        "class b-1 preferred units",
+        "2438",
+        "$ 24.4",
+        "cash"
+      ],
+      [
+        "class b-2 preferred units",
+        "5576",
+        "$ 55.8",
+        "cash/charitable contribution"
+      ],
+      [
+        "class c downreit units",
+        "61804",
+        "$ 1.9",
+        "cash"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in noncontrolling interest relating to the remaining units from 2009 to 2010?"
+    ]
+  }
+}

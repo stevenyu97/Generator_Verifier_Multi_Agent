@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the income from continuing operations in 2014?",
+      "answer": 2.39,
+      "answer_raw": "2.39",
+      "program": "2.39"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2012?",
+      "answer": 2.1,
+      "answer_raw": "2.1",
+      "program": "2.10"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the increase in income from continuing operations?",
+      "answer": 0.29,
+      "answer_raw": "0.29",
+      "program": "subtract(2.39, 2.10)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the income from continuing operations in 2012?",
+      "answer": 2.1,
+      "answer_raw": "2.1",
+      "program": "2.10"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what percentage change does this represent?",
+      "answer": 0.1381,
+      "answer_raw": "0.1381",
+      "program": "subtract(2.39, 2.10), divide(#0, 2.10)"
+    }
+  ]
+}

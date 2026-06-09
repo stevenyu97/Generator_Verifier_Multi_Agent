@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the year 2016 , what is the percentage of unproved properties among the total properties?",
+      "answer": 0.07743,
+      "answer_raw": "0.07743",
+      "program": "divide(3840126, 49592091)"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "input": {
+    "id": "AES/2003/page_156.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "( d ) securities authorized for issuance under equity compensation plans .",
+      "except for the information concerning equity compensation plans below , the information required by item 12 is incorporated by reference to the company 2019s 2004 proxy statement under the caption 2018 2018security ownership of certain beneficial owners and management . 2019 2019 the following table provides information about shares of aes common stock that may be issued under aes 2019s equity compensation plans , as of december 31 , 2003 : securities authorized for issuance under equity compensation plans ( as of december 31 , 2003 ) ( a ) ( b ) ( c ) number of securities remaining available for number of securities future issuance under to be issued upon weighted-average equity compensation exercise of exercise price plans ( excluding outstanding options , of outstanding options , securities reflected plan category warrants and rights warrants and rights in column ( a ) ) equity compensation plans approved by security holders .",
+      ".",
+      ".",
+      "29061549 13.80 16720238 equity compensation plans not approved by security holders ( 1 ) .",
+      "11754222 13.09 225609 ."
+    ],
+    "post_text": [
+      "( 1 ) the aes corporation 2001 non-officer stock option plan ( the 2018 2018plan 2019 2019 ) was adopted by our board of directors on october 18 , 2001 .",
+      "this plan did not require approval under either the sec or nyse rules and/or regulations .",
+      "eligible participants under the plan include all of our non-officer employees .",
+      "as of the end of december 31 , 2003 , approximately 13500 employees held options under the plan .",
+      "the exercise price of each option awarded under the plan is equal to the fair market value of our common stock on the grant date of the option .",
+      "options under the plan generally vest as to 50% ( 50 % ) of their underlying shares on each anniversary of the option grant date , however , grants dated october 25 , 2001 vest in one year .",
+      "the plan shall expire on october 25 , 2011 .",
+      "the board may amend , modify or terminate the plan at any time .",
+      "item 13 .",
+      "certain relationships and related transactions see the information contained under the caption 2018 2018related party transactions 2019 2019 of the proxy statement for the annual meeting of stockholders of the registrant to be held on april 28 , 2004 , which information is incorporated herein by reference .",
+      "item 14 .",
+      "principal accounting fees and services the information required by this item will be contained in our proxy statement for the annual meeting of shareholders to be held on april 28 , 2004 and is hereby incorporated by reference. ."
+    ],
+    "table": [
+      [
+        "plan category",
+        "( a ) number of securities to be issued upon exercise of outstanding options warrants and rights",
+        "( b ) weighted-average exercise price of outstanding options warrants and rights",
+        "( c ) number of securities remaining available for future issuance under equity compensation plans ( excluding securities reflected in column ( a ) )"
+      ],
+      [
+        "equity compensation plans approved by security holders",
+        "29061549",
+        "13.80",
+        "16720238"
+      ],
+      [
+        "equity compensation plans not approved by security holders ( 1 )",
+        "11754222",
+        "13.09",
+        "225609"
+      ],
+      [
+        "total",
+        "40815771",
+        "13.59",
+        "16945847"
+      ]
+    ],
+    "questions": [
+      "for the outstanding options warrants and rights , what percentage of these securities to be issued was from approved plans?"
+    ]
+  }
+}

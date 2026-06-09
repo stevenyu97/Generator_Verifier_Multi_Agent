@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the facility leases that have remaining terms through fiscal 2010 , assuming the annual rent is approximately that of 2003 , what is the remaining total obligation?",
+      "answer": 4926000.0,
+      "answer_raw": "4926000.0",
+      "program": "subtract(2010, 2004), multiply(821000, #0)"
+    }
+  ]
+}

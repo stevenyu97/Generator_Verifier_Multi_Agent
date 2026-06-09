@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the increase observed in the balance at the end of the year during 2005 and 2004?",
+      "answer": 0.11491,
+      "answer_raw": "0.11491",
+      "program": "divide(663750000, 595338000), subtract(#0, const_1)"
+    }
+  ]
+}

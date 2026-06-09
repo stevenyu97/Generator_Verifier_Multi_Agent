@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "STT/2011/page_48.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "in march 2011 , we announced a new program under which the purchase by us of up to $ 675 million of our common stock in 2011 was authorized by our board of directors .",
+      "during 2011 , we purchased approximately 16.3 million shares of our common stock under this program , and as of december 31 , 2011 , no purchase authority remained under the program .",
+      "the following table presents purchases of our common stock and related information for the three months ended december 31 , 2011 .",
+      "( dollars in millions , except per share amounts , shares in thousands ) period total number of shares purchased under publicly announced program average price paid per share approximate dollar value of shares purchased under publicly announced program approximate dollar value of shares yet to be purchased under publicly announced program ."
+    ],
+    "post_text": [
+      "additional information about our common stock , including board of directors authorization with respect to purchases by us of our common stock , is provided under 201ccapital-regulatory capital 201d in management 2019s discussion and analysis , included under item 7 , and in note 12 to the consolidated financial statements included under item 8 , and is incorporated herein by reference .",
+      "related stockholdermatters as a bank holding company , the parent company is a legal entity separate and distinct from its principal banking subsidiary , state street bank , and its non-banking subsidiaries .",
+      "the right of the parent company to participate as a shareholder in any distribution of assets of state street bank upon its liquidation , reorganization or otherwise is subject to the prior claims by creditors of state street bank , including obligations for federal funds purchased and securities sold under repurchase agreements and deposit liabilities .",
+      "payment of common stock dividends by state street bank is subject to the provisions of massachusetts banking law , which provide that dividends may be paid out of net profits provided ( i ) capital stock and surplus remain unimpaired , ( ii ) dividend and retirement fund requirements of any preferred stock have been met , ( iii ) surplus equals or exceeds capital stock , and ( iv ) losses and bad debts , as defined , in excess of reserves specifically established for such losses and bad debts , have been deducted from net profits .",
+      "under the federal reserve act and massachusetts state law , regulatory approval of the federal reserve and the massachusetts division of banks would be required if dividends declared by state street bank in any year exceeded the total of its net profits for that year combined with its retained net profits for the preceding two years , less any required transfers to surplus .",
+      "in 2011 , the parent company declared aggregate common stock dividends of $ 0.72 per share , or approximately $ 358 million .",
+      "in 2010 , the parent company declared aggregate common stock dividends of $ 0.04 per share , or $ 20 million .",
+      "the 2011 common stock dividends represented the first increase in our common stock dividend since we announced a reduction of such dividends in the first quarter of 2009 .",
+      "the prior approval of the federal reserve is required for us to pay future common stock dividends .",
+      "information about dividends from the parent company and from our subsidiary banks is provided under 201ccapital 2014regulatory capital 201d in management 2019s discussion and analysis , included under item 7 , and in note 15 to the consolidated financial statements included under item 8 , and is incorporated herein by reference .",
+      "future dividend payments of state street bank and other non-banking subsidiaries cannot be determined at this time .",
+      "as of december 31 , 2011 , the parent company had $ 500 million outstanding in aggregate liquidation preference of its series a preferred stock .",
+      "holders of shares of the preferred stock are entitled to receive non- cumulative cash dividends , only when , as and if declared by the parent company 2019s board of directors .",
+      "any dividends on the preferred stock are calculated at a rate per annum equal to the three-month libor for the relevant three-month period plus 4.99% ( 4.99 % ) , with such dividend rate applied to the outstanding liquidation preference ."
+    ],
+    "table": [
+      [
+        "( dollars in millions except per share amounts shares in thousands ) period",
+        "total number of shares purchased under publicly announced program",
+        "average price paid per share",
+        "approximate dollar value of shares purchased underpublicly announced program",
+        "approximate dollar value of shares yet to be purchased under publicly announced program"
+      ],
+      [
+        "october 1 - october 31 2011",
+        "1528",
+        "$ 40.15",
+        "$ 61",
+        "$ 164"
+      ],
+      [
+        "november 1 - november 30 2011",
+        "4086",
+        "40.05",
+        "164",
+        "2014"
+      ],
+      [
+        "december 1 - december 31 2011",
+        "2014",
+        "2014",
+        "2014",
+        "2014"
+      ],
+      [
+        "total",
+        "5614",
+        "$ 40.08",
+        "$ 225",
+        "2014"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the total number of shares purchased under publicly announced program in november"
+    ]
+  }
+}

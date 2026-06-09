@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "combined, what was the total net expense for 2008 and 2009?",
+      "answer": 4009.0,
+      "answer_raw": "4009.0",
+      "program": "add(1563, 2446)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the ratio of the company accrued and recognized a net benefit to expenses?",
+      "answer": 2.47892,
+      "answer_raw": "2.47892",
+      "program": "add(1563, 2446), divide(9938, #0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of future minimum rental payments is due in 2015?",
+      "answer": 0.10818,
+      "answer_raw": "0.10818",
+      "program": "divide(345, 3189)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average cash dividends paid per common share from 2011 to 2013",
+      "answer": 3.64,
+      "answer_raw": "3.64",
+      "program": "add(1.58, 1.40), add(1.30, #0), add(#1, const_3), divide(#2, const_2)"
+    }
+  ]
+}

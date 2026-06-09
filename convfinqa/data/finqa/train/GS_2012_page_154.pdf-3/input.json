@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "GS/2012/page_154.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements note 9 .",
+      "collateralized agreements and financings collateralized agreements are securities purchased under agreements to resell ( resale agreements or reverse repurchase agreements ) and securities borrowed .",
+      "collateralized financings are securities sold under agreements to repurchase ( repurchase agreements ) , securities loaned and other secured financings .",
+      "the firm enters into these transactions in order to , among other things , facilitate client activities , invest excess cash , acquire securities to cover short positions and finance certain firm activities .",
+      "collateralized agreements and financings are presented on a net-by-counterparty basis when a legal right of setoff exists .",
+      "interest on collateralized agreements and collateralized financings is recognized over the life of the transaction and included in 201cinterest income 201d and 201cinterest expense , 201d respectively .",
+      "see note 23 for further information about interest income and interest expense .",
+      "the table below presents the carrying value of resale and repurchase agreements and securities borrowed and loaned transactions. ."
+    ],
+    "post_text": [
+      "in millions 2012 2011 securities purchased under agreements to resell 1 $ 141334 $ 187789 securities borrowed 2 136893 153341 securities sold under agreements to repurchase 1 171807 164502 securities loaned 2 13765 7182 1 .",
+      "substantially all resale and repurchase agreements are carried at fair value under the fair value option .",
+      "see note 8 for further information about the valuation techniques and significant inputs used to determine fair value .",
+      "2 .",
+      "as of december 2012 and december 2011 , $ 38.40 billion and $ 47.62 billion of securities borrowed , and $ 1.56 billion and $ 107 million of securities loaned were at fair value , respectively .",
+      "resale and repurchase agreements a resale agreement is a transaction in which the firm purchases financial instruments from a seller , typically in exchange for cash , and simultaneously enters into an agreement to resell the same or substantially the same financial instruments to the seller at a stated price plus accrued interest at a future date .",
+      "a repurchase agreement is a transaction in which the firm sells financial instruments to a buyer , typically in exchange for cash , and simultaneously enters into an agreement to repurchase the same or substantially the same financial instruments from the buyer at a stated price plus accrued interest at a future date .",
+      "the financial instruments purchased or sold in resale and repurchase agreements typically include u.s .",
+      "government and federal agency , and investment-grade sovereign obligations .",
+      "the firm receives financial instruments purchased under resale agreements , makes delivery of financial instruments sold under repurchase agreements , monitors the market value of these financial instruments on a daily basis , and delivers or obtains additional collateral due to changes in the market value of the financial instruments , as appropriate .",
+      "for resale agreements , the firm typically requires delivery of collateral with a fair value approximately equal to the carrying value of the relevant assets in the consolidated statements of financial condition .",
+      "even though repurchase and resale agreements involve the legal transfer of ownership of financial instruments , they are accounted for as financing arrangements because they require the financial instruments to be repurchased or resold at the maturity of the agreement .",
+      "however , 201crepos to maturity 201d are accounted for as sales .",
+      "a repo to maturity is a transaction in which the firm transfers a security under an agreement to repurchase the security where the maturity date of the repurchase agreement matches the maturity date of the underlying security .",
+      "therefore , the firm effectively no longer has a repurchase obligation and has relinquished control over the underlying security and , accordingly , accounts for the transaction as a sale .",
+      "the firm had no repos to maturity outstanding as of december 2012 or december 2011 .",
+      "152 goldman sachs 2012 annual report ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "as of december 2012",
+        "as of december 2011"
+      ],
+      [
+        "securities purchased under agreements toresell1",
+        "$ 141334",
+        "$ 187789"
+      ],
+      [
+        "securities borrowed2",
+        "136893",
+        "153341"
+      ],
+      [
+        "securities sold under agreements torepurchase1",
+        "171807",
+        "164502"
+      ],
+      [
+        "securitiesloaned2",
+        "13765",
+        "7182"
+      ]
+    ],
+    "questions": [
+      "what was the change in millions of securities purchased under agreements to resell between 2011 and 2012?"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "APD/2016/page_39.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "other income ( expense ) , net items recorded to other income ( expense ) , net arise from transactions and events not directly related to our principal income earning activities .",
+      "the detail of other income ( expense ) , net is presented in note 24 , supplemental information , to the consolidated financial statements .",
+      "2016 vs .",
+      "2015 other income ( expense ) , net of $ 58.1 increased $ 10.8 primarily due to lower foreign exchange losses , favorable contract settlements , and receipt of a government subsidy .",
+      "the prior year included a gain of $ 33.6 ( $ 28.3 after-tax , or $ .13 per share ) resulting from the sale of two parcels of land .",
+      "no other individual items were significant in comparison to the prior year .",
+      "2015 vs .",
+      "2014 other income ( expense ) , net of $ 47.3 decreased $ 5.5 and included a gain of $ 33.6 ( $ 28.3 after-tax , or $ .13 per share ) resulting from the sale of two parcels of land .",
+      "the gain was partially offset by unfavorable foreign exchange impacts and lower gains on other sales of assets and emissions credits .",
+      "no other individual items were significant in comparison to fiscal year 2014 .",
+      "interest expense ."
+    ],
+    "post_text": [
+      "2016 vs .",
+      "2015 interest incurred decreased $ 4.2 .",
+      "the decrease primarily resulted from a stronger u.s .",
+      "dollar on the translation of foreign currency interest of $ 6 , partially offset by a higher average debt balance of $ 2 .",
+      "the change in capitalized interest was driven by a decrease in the carrying value of projects under construction , primarily as a result of our exit from the energy-from-waste business .",
+      "2015 vs .",
+      "2014 interest incurred decreased $ 5.5 .",
+      "the decrease was driven by the impact of a stronger u.s .",
+      "dollar on the translation of foreign currency interest of $ 12 , partially offset by a higher average debt balance of $ 7 .",
+      "the change in capitalized interest was driven by a higher carrying value in construction in progress .",
+      "loss on extinguishment of debt on 30 september 2016 , in anticipation of the versum spin-off , versum issued $ 425.0 of notes to air products , who then exchanged these notes with certain financial institutions for $ 418.3 of air products 2019 outstanding commercial paper .",
+      "the exchange resulted in a loss of $ 6.9 ( $ 4.3 after-tax , or $ .02 per share ) .",
+      "in september 2015 , we made a payment of $ 146.6 to redeem 3000000 unidades de fomento ( 201cuf 201d ) series e 6.30% ( 6.30 % ) bonds due 22 january 2030 that had a carrying value of $ 130.0 and resulted in a net loss of $ 16.6 ( $ 14.2 after-tax , or $ .07 per share ) .",
+      "effective tax rate the effective tax rate equals the income tax provision divided by income from continuing operations before taxes .",
+      "refer to note 23 , income taxes , to the consolidated financial statements for details on factors affecting the effective tax rate .",
+      "2016 vs .",
+      "2015 on a gaap basis , the effective tax rate was 27.5% ( 27.5 % ) and 24.0% ( 24.0 % ) in 2016 and 2015 , respectively .",
+      "the change included a 240 bp impact from tax costs associated with business separation , primarily resulting from a dividend declared in 2016 to repatriate cash from a foreign subsidiary , as discussed above in 201cbusiness separation costs . 201d the remaining 110 bp change was primarily due to the increase in mix of income in jurisdictions with a higher effective tax rate and the impact of business separation costs for which a tax benefit was not available .",
+      "on a non- gaap basis , the effective tax rate increased from 24.2% ( 24.2 % ) in 2015 to 24.8% ( 24.8 % ) in 2016 , primarily due to the increase in and mix of income in jurisdictions with a higher effective tax rate. ."
+    ],
+    "table": [
+      [
+        "",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "interest incurred",
+        "$ 148.4",
+        "$ 152.6",
+        "$ 158.1"
+      ],
+      [
+        "less : capitalized interest",
+        "32.9",
+        "49.1",
+        "33.0"
+      ],
+      [
+        "interest expense",
+        "$ 115.5",
+        "$ 103.5",
+        "$ 125.1"
+      ]
+    ],
+    "questions": [
+      "considering the years 2014-2016 , what is the lowest interest incurred observed?"
+    ]
+  }
+}

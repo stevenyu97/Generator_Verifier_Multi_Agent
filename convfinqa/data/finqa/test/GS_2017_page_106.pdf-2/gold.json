@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total market risk for positions , accounted for at fair value , that are not included in var is comprised of equity in 2017?",
+      "answer": 0.56618,
+      "answer_raw": "0.56618",
+      "program": "divide(2096, 3702)"
+    }
+  ]
+}

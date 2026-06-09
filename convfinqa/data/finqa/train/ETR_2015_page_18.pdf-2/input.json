@@ -1,0 +1,52 @@
+{
+  "input": {
+    "id": "ETR/2015/page_18.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries management 2019s financial discussion and analysis the miso deferral variance is primarily due to the deferral in 2014 of non-fuel miso-related charges , as approved by the lpsc and the mpsc .",
+      "the deferral of non-fuel miso-related charges is partially offset in other operation and maintenance expenses .",
+      "see note 2 to the financial statements for further discussion of the recovery of non-fuel miso-related charges .",
+      "the waterford 3 replacement steam generator provision is due to a regulatory charge of approximately $ 32 million recorded in 2015 related to the uncertainty associated with the resolution of the waterford 3 replacement steam generator project .",
+      "see note 2 to the financial statements for a discussion of the waterford 3 replacement steam generator prudence review proceeding .",
+      "entergy wholesale commodities following is an analysis of the change in net revenue comparing 2015 to 2014 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "as shown in the table above , net revenue for entergy wholesale commodities decreased by approximately $ 558 million in 2015 primarily due to : 2022 lower realized wholesale energy prices , primarily due to significantly higher northeast market power prices in 2014 , and lower capacity prices in 2015 ; and 2022 a decrease in net revenue as a result of vermont yankee ceasing power production in december 2014 .",
+      "the decrease was partially offset by higher volume in the entergy wholesale commodities nuclear fleet , excluding vermont yankee , resulting from fewer refueling outage days in 2015 as compared to 2014 , partially offset by more unplanned outage days in 2015 as compared to 2014. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2014 net revenue",
+        "$ 2224"
+      ],
+      [
+        "nuclear realized price changes",
+        "-310 ( 310 )"
+      ],
+      [
+        "vermont yankee shutdown in december 2014",
+        "-305 ( 305 )"
+      ],
+      [
+        "nuclear volume excluding vermont yankee effect",
+        "20"
+      ],
+      [
+        "other",
+        "37"
+      ],
+      [
+        "2015 net revenue",
+        "$ 1666"
+      ]
+    ],
+    "questions": [
+      "what percent of the decline in net revenue is attributed to the variance in nuclear realized price?"
+    ]
+  }
+}

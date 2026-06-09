@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in value of multi-asset aum during 2016?",
+      "answer": 18671.0,
+      "answer_raw": "18671.0",
+      "program": "subtract(395007, 376336)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the 2015 value?",
+      "answer": 376336.0,
+      "answer_raw": "376336.0",
+      "program": "376336"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change divided by the 2015 value?",
+      "answer": 0.04961,
+      "answer_raw": "0.04961",
+      "program": "subtract(395007, 376336), divide(#0, 376336)"
+    }
+  ]
+}

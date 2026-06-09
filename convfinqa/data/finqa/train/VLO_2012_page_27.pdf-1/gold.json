@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage growth of the s&p 500 common stock from 2007 to 2012",
+      "answer": 0.0859,
+      "answer_raw": "0.0859",
+      "program": "subtract(108.59, 100.00), divide(#0, 100.00)"
+    }
+  ]
+}

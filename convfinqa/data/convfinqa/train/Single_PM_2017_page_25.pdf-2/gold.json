@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the pmi's share price from 2014 to 2015?",
+      "answer": 14.2,
+      "answer_raw": "14.2",
+      "program": "subtract(120.40, 106.20)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that share price in 2014?",
+      "answer": 106.2,
+      "answer_raw": "106.2",
+      "program": "106.20"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2014 share price?",
+      "answer": 0.13371,
+      "answer_raw": "0.13371",
+      "program": "subtract(120.40, 106.20), divide(#0, 106.20)"
+    }
+  ]
+}

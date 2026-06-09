@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the average grant datefair value per share during the year as of september 30, 2018?",
+      "answer": 4.36,
+      "answer_raw": "4.36",
+      "program": "subtract(54.69, 50.33)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the value of the average grant datefair value per share as of september 30, 2017?",
+      "answer": 50.33,
+      "answer_raw": "50.33",
+      "program": "50.33"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage change does this represent?",
+      "answer": 0.08663,
+      "answer_raw": "0.08663",
+      "program": "subtract(54.69, 50.33), divide(#0, 50.33)"
+    }
+  ]
+}

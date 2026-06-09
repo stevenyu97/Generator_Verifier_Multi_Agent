@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in the balance of total regulatory liabilities from 2016 to 2017?",
+      "answer": 1261.0,
+      "answer_raw": "1261.0",
+      "program": "subtract(1664, 403)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the balance of total regulatory liabilities in 2017?",
+      "answer": 403.0,
+      "answer_raw": "403.0",
+      "program": "403"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what growth rate does this represent?",
+      "answer": 3.12903,
+      "answer_raw": "3.12903",
+      "program": "subtract(1664, 403), divide(#0, 403)"
+    }
+  ]
+}

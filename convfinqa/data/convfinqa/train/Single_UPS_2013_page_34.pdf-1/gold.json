@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of united parcel service inc. in 2013 less a $100 initial investment?",
+      "answer": 121.91,
+      "answer_raw": "121.91",
+      "program": "subtract(221.91, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that value over 100?",
+      "answer": 1.2191,
+      "answer_raw": "1.2191",
+      "program": "subtract(221.91, const_100), divide(#0, const_100)"
+    }
+  ]
+}

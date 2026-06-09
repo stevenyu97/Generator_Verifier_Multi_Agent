@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the operating income in 2011?",
+      "answer": 110.0,
+      "answer_raw": "110.0",
+      "program": "110"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the goodwill impairment for that year?",
+      "answer": 290.0,
+      "answer_raw": "290.0",
+      "program": "290"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combined, what is the total amount of these two values?",
+      "answer": 400.0,
+      "answer_raw": "400.0",
+      "program": "add(110, 290)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and converted to the millions?",
+      "answer": 400000000.0,
+      "answer_raw": "400000000.0",
+      "program": "add(110, 290), multiply(#0, const_1000000)"
+    }
+  ]
+}

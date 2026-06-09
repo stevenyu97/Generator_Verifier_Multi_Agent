@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the prepaid rent is used during 2009?",
+      "answer": -1281.0,
+      "answer_raw": "-1281.0",
+      "program": "subtract(1377, 2658)"
+    }
+  ]
+}

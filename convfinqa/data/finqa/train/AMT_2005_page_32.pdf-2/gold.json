@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total amount of cash used for stock repurchase during november 2005 , in millions?",
+      "answer": 22.95053,
+      "answer_raw": "22.95053",
+      "program": "multiply(874306, 26.25), divide(#0, const_1000000)"
+    }
+  ]
+}

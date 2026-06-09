@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of the total operating expenses year over year change to the change as a percent?",
+      "answer": 1360.0,
+      "answer_raw": "1360.0",
+      "program": "divide(54.4, 4%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total operating expenses year over year change?",
+      "answer": 54.4,
+      "answer_raw": "54.4",
+      "program": "54.4"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the quotient divided by the total operating expense year over year change?",
+      "answer": 1414.4,
+      "answer_raw": "1414.4",
+      "program": "divide(54.4, 4%), add(#0, 54.4)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average amortization amount , in millions , from 2015-2019?",
+      "answer": 44.8,
+      "answer_raw": "44.8",
+      "program": "multiply(45, const_4), add(#0, 44), divide(#1, const_5)"
+    }
+  ]
+}

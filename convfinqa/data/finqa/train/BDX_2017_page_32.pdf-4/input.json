@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "BDX/2017/page_32.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "( a ) excludes discontinued operations .",
+      "( b ) earnings before interest expense and taxes as a percent of average total assets .",
+      "( c ) total debt as a percent of the sum of total debt , shareholders 2019 equity and non-current deferred income tax liabilities .",
+      "the results above include the impact of the specified items detailed below .",
+      "additional discussion regarding the specified items in fiscal years 2017 , 2016 and 2015 are provided in item 7 .",
+      "management 2019s discussion and analysis of financial condition and results of operations. ."
+    ],
+    "post_text": [
+      "item 7 .",
+      "management 2019s discussion and analysis of financial condition and results of operations the following commentary should be read in conjunction with the consolidated financial statements and accompanying notes .",
+      "within the tables presented throughout this discussion , certain columns may not add due to the use of rounded numbers for disclosure purposes .",
+      "percentages and earnings per share amounts presented are calculated from the underlying amounts .",
+      "references to years throughout this discussion relate to our fiscal years , which end on september 30 .",
+      "company overview description of the company and business segments becton , dickinson and company ( 201cbd 201d ) is a global medical technology company engaged in the development , manufacture and sale of a broad range of medical supplies , devices , laboratory equipment and diagnostic products used by healthcare institutions , life science researchers , clinical laboratories , the pharmaceutical industry and the general public .",
+      "the company's organizational structure is based upon two principal business segments , bd medical ( 201cmedical 201d ) and bd life sciences ( 201clife sciences 201d ) .",
+      "bd 2019s products are manufactured and sold worldwide .",
+      "our products are marketed in the united states and internationally through independent distribution channels and directly to end-users by bd and independent sales representatives .",
+      "we organize our operations outside the united states as follows : europe ; ema ( which includes the commonwealth of independent states , the middle east and africa ) ; greater asia ( which includes japan and asia pacific ) ; latin america ( which includes mexico , central america , the caribbean , and south america ) ; and canada .",
+      "we continue to pursue growth opportunities in emerging markets , which include the following geographic regions : eastern europe , the middle east , africa , latin america and certain countries within asia pacific .",
+      "we are primarily focused on certain countries whose healthcare systems are expanding , in particular , china and india .",
+      "strategic objectives bd remains focused on delivering sustainable growth and shareholder value , while making appropriate investments for the future .",
+      "bd management operates the business consistent with the following core strategies : 2022 to increase revenue growth by focusing on our core products , services and solutions that deliver greater benefits to patients , healthcare workers and researchers; ."
+    ],
+    "table": [
+      [
+        "millions of dollars except per share amounts",
+        "years ended september 30 2017",
+        "years ended september 30 2016",
+        "years ended september 30 2015",
+        "years ended september 30 2014",
+        "years ended september 30 2013"
+      ],
+      [
+        "total specified items",
+        "$ 1466",
+        "$ 1261",
+        "$ 1186",
+        "$ 153",
+        "$ 442"
+      ],
+      [
+        "after-tax impact of specified items",
+        "$ 971",
+        "$ 892",
+        "$ 786",
+        "$ 101",
+        "$ 279"
+      ],
+      [
+        "impact of specified items on diluted earnings per share",
+        "$ -4.34 ( 4.34 )",
+        "$ -4.10 ( 4.10 )",
+        "$ -3.79 ( 3.79 )",
+        "$ -0.51 ( 0.51 )",
+        "$ -1.40 ( 1.40 )"
+      ],
+      [
+        "impact of dilution from share issuances",
+        "$ -0.54 ( 0.54 )",
+        "$ 2014",
+        "$ -0.02 ( 0.02 )",
+        "$ 2014",
+        "$ 2014"
+      ]
+    ],
+    "questions": [
+      "what is the percentage increase for total specified items from 2014-2015?"
+    ]
+  }
+}

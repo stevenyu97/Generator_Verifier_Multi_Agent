@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the weighted-average grant date fair value of stock options from 2009 to 2010?",
+      "answer": 0.57143,
+      "answer_raw": "0.57143",
+      "program": "subtract(11, 7), divide(#0, 7)"
+    }
+  ]
+}

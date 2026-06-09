@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at march 31 , 2006 , how much loss could be recognized if they sold the held-to-maturity investment portfolio?",
+      "answer": 99000.0,
+      "answer_raw": "99000.0",
+      "program": "subtract(29669000, 29570000)"
+    }
+  ]
+}

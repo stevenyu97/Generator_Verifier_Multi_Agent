@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent change did the drop in net wholesale revenue cause for 2017 net revenue?",
+      "answer": 0.05303,
+      "answer_raw": "0.05303",
+      "program": "add(626.8, 35.1), divide(35.1, #0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net debt to equity ratio",
+      "answer": 0.77273,
+      "answer_raw": "0.77273",
+      "program": "divide(85, 110)"
+    }
+  ]
+}

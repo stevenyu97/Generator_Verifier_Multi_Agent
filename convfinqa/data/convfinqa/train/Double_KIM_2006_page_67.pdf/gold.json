@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2006, how much did the cad amount of the outstanding balance on the credit facility represent in relation to its equivalent in usd?",
+      "answer": 1.16129,
+      "answer_raw": "1.16129",
+      "program": "divide(3.6, 3.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and during may of that year, what was the amount of the collateralized credit facility provided by the company, in millions of cad?",
+      "answer": 23.5,
+      "answer_raw": "23.5",
+      "program": "23.5"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what was its fixed rate per annum?",
+      "answer": 0.085,
+      "answer_raw": "0.085",
+      "program": "8.5%"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was, then, its yearly interest income, in millions of cad?",
+      "answer": 1.9975,
+      "answer_raw": "1.9975",
+      "program": "multiply(23.5, 8.5%)"
+    }
+  ]
+}

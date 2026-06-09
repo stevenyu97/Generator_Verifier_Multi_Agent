@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the net sales from 2008 to 2009?",
+      "answer": 0.05694,
+      "answer_raw": "0.05694",
+      "program": "subtract(13532, 12803), divide(#0, 12803)"
+    }
+  ]
+}

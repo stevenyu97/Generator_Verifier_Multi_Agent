@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in backlog from 2006 to 2007?",
+      "answer": 0.07614,
+      "answer_raw": "0.07614",
+      "program": "subtract(21200, 19700), divide(#0, 19700)"
+    }
+  ]
+}

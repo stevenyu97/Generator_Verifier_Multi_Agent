@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total return percentage for e*trade financial corporation for the five years ended 12/14?",
+      "answer": 0.3781,
+      "answer_raw": "0.3781",
+      "program": "subtract(137.81, const_100), divide(#0, const_100)"
+    }
+  ]
+}

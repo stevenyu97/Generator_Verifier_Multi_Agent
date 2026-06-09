@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "ADI/2012/page_65.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "analog devices , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) asu no .",
+      "2011-05 is effective for fiscal years , and interim periods within those years , beginning after december 15 , 2011 , which is the company 2019s fiscal year 2013 .",
+      "subsequently , in december 2011 , the fasb issued asu no .",
+      "2011-12 , deferral of the effective date for amendments to the presentation of reclassifications of items out of accumulated other comprehensive income in accounting standards update no .",
+      "2011-05 ( asu no .",
+      "2011-12 ) , which defers only those changes in asu no .",
+      "2011-05 that relate to the presentation of reclassification adjustments but does not affect all other requirements in asu no .",
+      "2011-05 .",
+      "the adoption of asu no .",
+      "2011-05 and asu no .",
+      "2011-12 will affect the presentation of comprehensive income but will not materially impact the company 2019s financial condition or results of operations .",
+      "u .",
+      "discontinued operations in november 2007 , the company entered into a purchase and sale agreement with certain subsidiaries of on semiconductor corporation to sell the company 2019s cpu voltage regulation and pc thermal monitoring business which consisted of core voltage regulator products for the central processing unit in computing and gaming applications and temperature sensors and fan-speed controllers for managing the temperature of the central processing unit .",
+      "during fiscal 2008 , the company completed the sale of this business .",
+      "in the first quarter of fiscal 2010 , proceeds of $ 1 million were released from escrow and $ 0.6 million net of tax was recorded as additional gain from the sale of discontinued operations .",
+      "the company does not expect any additional proceeds from this sale .",
+      "in september 2007 , the company entered into a definitive agreement to sell its baseband chipset business to mediatek inc .",
+      "the decision to sell the baseband chipset business was due to the company 2019s decision to focus its resources in areas where its signal processing expertise can provide unique capabilities and earn superior returns .",
+      "during fiscal 2008 , the company completed the sale of its baseband chipset business for net cash proceeds of $ 269 million .",
+      "the company made cash payments of $ 1.7 million during fiscal 2009 related to retention payments for employees who transferred to mediatek inc .",
+      "and for the reimbursement of intellectual property license fees incurred by mediatek .",
+      "during fiscal 2010 , the company received cash proceeds of $ 62 million as a result of the receipt of a refundable withholding tax and also recorded an additional gain on sale of $ 0.3 million , or $ 0.2 million net of tax , due to the settlement of certain items at less than the amounts accrued .",
+      "in fiscal 2011 , additional proceeds of $ 10 million were released from escrow and $ 6.5 million net of tax was recorded as additional gain from the sale of discontinued operations .",
+      "the company does not expect any additional proceeds from this sale .",
+      "the following amounts related to the cpu voltage regulation and pc thermal monitoring and baseband chipset businesses have been segregated from continuing operations and reported as discontinued operations. ."
+    ],
+    "post_text": [
+      "3 .",
+      "stock-based compensation and shareholders 2019 equity equity compensation plans the company grants , or has granted , stock options and other stock and stock-based awards under the 2006 stock incentive plan ( 2006 plan ) .",
+      "the 2006 plan was approved by the company 2019s board of directors on january 23 , 2006 and was approved by shareholders on march 14 , 2006 and subsequently amended in march 2006 , june 2009 , september 2009 , december 2009 , december 2010 and june 2011 .",
+      "the 2006 plan provides for the grant of up to 15 million shares of the company 2019s common stock , plus such number of additional shares that were subject to outstanding options under the company 2019s previous plans that are not issued because the applicable option award subsequently terminates or expires without being exercised .",
+      "the 2006 plan provides for the grant of incentive stock options intended to qualify under section 422 of the internal revenue code of 1986 , as amended , non-statutory stock options , stock appreciation rights , restricted stock , restricted stock units and other stock-based awards .",
+      "employees , officers , directors , consultants and advisors of the company and its subsidiaries are eligible to be granted awards under the 2006 plan .",
+      "no award may be made under the 2006 plan after march 13 , 2016 , but awards previously granted may extend beyond that date .",
+      "the company will not grant further options under any previous plans .",
+      "while the company may grant to employees options that become exercisable at different times or within different periods , the company has generally granted to employees options that vest over five years and become exercisable in annual installments of 20% ( 20 % ) on each of the first , second , third , fourth and fifth anniversaries of the date of grant ; 33.3% ( 33.3 % ) on each of the third , fourth , and fifth anniversaries of the date of grant ; or in annual installments of 25% ( 25 % ) on each of the second , third , fourth ."
+    ],
+    "table": [
+      [
+        "",
+        "2012",
+        "2011",
+        "2010"
+      ],
+      [
+        "gain on sale of discontinued operations before income taxes",
+        "$ 2014",
+        "$ 10000",
+        "$ 1316"
+      ],
+      [
+        "provision for income taxes",
+        "2014",
+        "3500",
+        "457"
+      ],
+      [
+        "gain on sale of discontinued operations net of tax",
+        "$ 2014",
+        "$ 6500",
+        "$ 859"
+      ]
+    ],
+    "questions": [
+      "for the years of 2011 and 2010 , what percentage of the gain on sale went towards income tax?"
+    ]
+  }
+}

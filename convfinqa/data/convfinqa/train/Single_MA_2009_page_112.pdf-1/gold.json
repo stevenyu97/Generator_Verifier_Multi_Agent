@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of benefit payments in 2013 to 2012?",
+      "answer": 1.18401,
+      "answer_raw": "1.18401",
+      "program": "divide(25513, 21548)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that less 1?",
+      "answer": 0.18401,
+      "answer_raw": "0.18401",
+      "program": "divide(25513, 21548), subtract(#0, const_1)"
+    }
+  ]
+}

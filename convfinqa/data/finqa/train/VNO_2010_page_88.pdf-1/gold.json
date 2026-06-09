@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage growth of the vornado realty trust from 2005 to 2006",
+      "answer": 51.0,
+      "answer_raw": "51.0",
+      "program": "subtract(151, 100)"
+    }
+  ]
+}

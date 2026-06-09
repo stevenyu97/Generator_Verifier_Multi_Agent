@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage cumulative total return for citi common stock for the five years ended december 31 , 2016?",
+      "answer": 1.293,
+      "answer_raw": "1.293",
+      "program": "subtract(229.3, const_100), divide(#0, const_100)"
+    }
+  ]
+}

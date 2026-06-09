@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were average net sales for aeronautics in millions from 2008 to 2010?",
+      "answer": 12303.0,
+      "answer_raw": "12303.0",
+      "program": "table_average(net sales, none)"
+    }
+  ]
+}

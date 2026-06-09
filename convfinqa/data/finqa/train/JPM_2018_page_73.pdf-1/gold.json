@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the review of the stock perfomance what was the ratio of the jpmorgan chase in 2017 to 3 kbw bank index",
+      "answer": 1.21243,
+      "answer_raw": "1.21243",
+      "program": "divide(203.07, 167.49)"
+    }
+  ]
+}

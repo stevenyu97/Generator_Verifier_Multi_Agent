@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total floor space is used by aeronautics?",
+      "answer": 0.30779,
+      "answer_raw": "0.30779",
+      "program": "divide(24.1, 78.3)"
+    }
+  ]
+}

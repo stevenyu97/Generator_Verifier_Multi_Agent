@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what wa the total spent on share repurchases during 2014?",
+      "answer": 3311448848.96,
+      "answer_raw": "3311448848.96",
+      "program": "multiply(33035204, 100.24)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of contractual obligations for future payments under existing debt and lease commitments and purchase obligations at december 31 , 2015 are due to maturities of long-term debt in 2017?",
+      "answer": 0.60977,
+      "answer_raw": "0.60977",
+      "program": "divide(811, 1330)"
+    }
+  ]
+}

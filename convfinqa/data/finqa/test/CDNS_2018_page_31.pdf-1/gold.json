@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total return is $ 100000 are invested in s&p500 on january 1st , 2015 and sold at the end of 2016?",
+      "answer": 18770.0,
+      "answer_raw": "18770.0",
+      "program": "subtract(129.05, 110.28), divide(100000, const_100), multiply(#1, #0)"
+    }
+  ]
+}

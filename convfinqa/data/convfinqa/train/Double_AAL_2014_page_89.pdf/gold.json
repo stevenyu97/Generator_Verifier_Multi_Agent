@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total amount in aircraft and facility financing renegotiations and rejections in 2013?",
+      "answer": 320.0,
+      "answer_raw": "320.0",
+      "program": "320"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the value of the total reorganization items net?",
+      "answer": 2640.0,
+      "answer_raw": "2640.0",
+      "program": "2640"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that amount represent in relation to this value, in percentage?",
+      "answer": 0.12121,
+      "answer_raw": "0.12121",
+      "program": "divide(320, 2640)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "in that same year, what was the total in professional fees?",
+      "answer": 199.0,
+      "answer_raw": "199.0",
+      "program": "199"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and what percentage does this total represent in relation to the 2013 total re-organization costs?",
+      "answer": 0.07538,
+      "answer_raw": "0.07538",
+      "program": "divide(199, 2640)"
+    }
+  ]
+}

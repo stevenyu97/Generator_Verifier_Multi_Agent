@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total revenue is generated in the asia-pacific region in 2008?",
+      "answer": 0.1269,
+      "answer_raw": "0.1269",
+      "program": "divide(72740, 573225)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the ratio of revenues generated in us to those in uk in 2008?",
+      "answer": 4.12022,
+      "answer_raw": "4.12022",
+      "program": "divide(280064, 67973)"
+    }
+  ]
+}

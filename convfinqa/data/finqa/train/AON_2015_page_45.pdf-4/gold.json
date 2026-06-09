@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net income margin for 2015?",
+      "answer": 0.18853,
+      "answer_raw": "0.18853",
+      "program": "multiply(1.4, const_1000), divide(#0, 7426)"
+    }
+  ]
+}

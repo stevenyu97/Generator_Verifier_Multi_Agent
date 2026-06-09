@@ -1,0 +1,89 @@
+{
+  "input": {
+    "id": "Double_GIS/2019/page_104.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "as of may 26 , 2019 , we expect to pay approximately $ 2.0 million of unrecognized tax benefit liabilities and accrued interest within the next 12 months .",
+      "we are not able to reasonably estimate the timing of future cash flows beyond 12 months due to uncertainties in the timing of tax audit outcomes .",
+      "the remaining amount of our unrecognized tax liability was classified in other liabilities .",
+      "we report accrued interest and penalties related to unrecognized tax benefit liabilities in income tax expense .",
+      "for fiscal 2019 , we recognized $ 0.5 million of tax-related net interest and penalties , and had $ 26.0 million of accrued interest and penalties as of may 26 , 2019 .",
+      "for fiscal 2018 , we recognized a net benefit of $ 3.1 million of tax-related net interest and penalties , and had $ 27.3 million of accrued interest and penalties as of may 27 , 2018 .",
+      "note 15 .",
+      "leases , other commitments , and contingencies our leases are generally for warehouse space and equipment .",
+      "rent expense under all operating leases from continuing operations was $ 184.9 million in fiscal 2019 , $ 189.4 million in fiscal 2018 , and $ 188.1 million in fiscal 2017 .",
+      "some operating leases require payment of property taxes , insurance , and maintenance costs in addition to the rent payments .",
+      "contingent and escalation rent in excess of minimum rent payments and sublease income netted in rent expense were insignificant .",
+      "noncancelable future lease commitments are : in millions operating leases capital leases ."
+    ],
+    "post_text": [
+      "depreciation on capital leases is recorded as depreciation expense in our results of operations .",
+      "as of may 26 , 2019 , we have issued guarantees and comfort letters of $ 681.6 million for the debt and other obligations of consolidated subsidiaries , and guarantees and comfort letters of $ 133.9 million for the debt and other obligations of non-consolidated affiliates , mainly cpw .",
+      "in addition , off-balance sheet arrangements are generally limited to the future payments under non-cancelable operating leases , which totaled $ 482.6 million as of may 26 , 2019 .",
+      "note 16 .",
+      "business segment and geographic information we operate in the packaged foods industry .",
+      "our operating segments are as follows : north america retail ; convenience stores & foodservice ; europe & australia ; asia & latin america ; and pet .",
+      "our north america retail operating segment reflects business with a wide variety of grocery stores , mass merchandisers , membership stores , natural food chains , drug , dollar and discount chains , and e-commerce grocery providers .",
+      "our product categories in this business segment are ready-to-eat cereals , refrigerated yogurt , soup , meal kits , refrigerated and frozen dough products , dessert and baking mixes , frozen pizza and pizza snacks , grain , fruit and savory snacks , and a wide variety of organic products including refrigerated yogurt , nutrition bars , meal kits , salty snacks , ready-to-eat cereal , and grain snacks. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "operating leases",
+        "capital leases"
+      ],
+      [
+        "fiscal 2020",
+        "$ 120.0",
+        "$ 0.2"
+      ],
+      [
+        "fiscal 2021",
+        "101.7",
+        "0.1"
+      ],
+      [
+        "fiscal 2022",
+        "85.0",
+        "-"
+      ],
+      [
+        "fiscal 2023",
+        "63.8",
+        "-"
+      ],
+      [
+        "fiscal 2024",
+        "49.1",
+        "-"
+      ],
+      [
+        "after fiscal 2024",
+        "63.0",
+        "-"
+      ],
+      [
+        "total noncancelable future lease commitments",
+        "$ 482.6",
+        "$ 0.3"
+      ],
+      [
+        "less : interest",
+        "",
+        "-"
+      ],
+      [
+        "present value of obligations under capitalleases",
+        "",
+        "$ 0.3"
+      ]
+    ],
+    "questions": [
+      "in 2019, what was the rent expense for all operating leases from continuing operations?",
+      "and what was it for 2018?",
+      "what was, then, the total rent expense in both years, combined?",
+      "and including the one from 2017, what becomes this total?",
+      "and in that same year of 2019, what percentage did the noncancelable future lease commitments due in 2021 represent in relation to the total?"
+    ]
+  }
+}

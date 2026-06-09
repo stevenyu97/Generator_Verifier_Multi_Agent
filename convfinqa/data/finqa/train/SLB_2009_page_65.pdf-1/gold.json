@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was cash and short-term investments as a percentage of total purchase price?",
+      "answer": 0.31742,
+      "answer_raw": "0.31742",
+      "program": "divide(266, 838)"
+    }
+  ]
+}

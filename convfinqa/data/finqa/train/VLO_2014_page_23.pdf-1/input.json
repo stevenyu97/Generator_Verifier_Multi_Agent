@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "VLO/2014/page_23.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the following table discloses purchases of shares of valero 2019s common stock made by us or on our behalf during the fourth quarter of period total number of shares purchased average price paid per share total number of shares not purchased as part of publicly announced plans or programs ( a ) total number of shares purchased as part of publicly announced plans or programs approximate dollar value of shares that may yet be purchased under the plans or programs ( b ) ."
+    ],
+    "post_text": [
+      "( a ) the shares reported in this column represent purchases settled in the fourth quarter of 2014 relating to ( i ) our purchases of shares in open-market transactions to meet our obligations under stock-based compensation plans , and ( ii ) our purchases of shares from our employees and non-employee directors in connection with the exercise of stock options , the vesting of restricted stock , and other stock compensation transactions in accordance with the terms of our stock-based compensation plans .",
+      "( b ) on february 28 , 2008 , we announced that our board of directors approved a $ 3 billion common stock purchase program .",
+      "this $ 3 billion program has no expiration date. ."
+    ],
+    "table": [
+      [
+        "period",
+        "total numberof sharespurchased",
+        "averageprice paidper share",
+        "total number ofshares notpurchased as part ofpublicly announcedplans or programs ( a )",
+        "total number ofshares purchased aspart of publiclyannounced plans orprograms",
+        "approximate dollarvalue of shares thatmay yet be purchasedunder the plans orprograms ( b )"
+      ],
+      [
+        "october 2014",
+        "3180678",
+        "$ 46.27",
+        "302005",
+        "2878673",
+        "$ 1.8 billion"
+      ],
+      [
+        "november 2014",
+        "2001273",
+        "$ 50.32",
+        "119047",
+        "1882226",
+        "$ 1.7 billion"
+      ],
+      [
+        "december 2014",
+        "5120398",
+        "$ 48.56",
+        "2624",
+        "5117774",
+        "$ 1.5 billion"
+      ],
+      [
+        "total",
+        "10302349",
+        "$ 48.20",
+        "423676",
+        "9878673",
+        "$ 1.5 billion"
+      ]
+    ],
+    "questions": [
+      "for the quarter ended december 2014 , what was the percent of the total number of shares purchased as part of publicly announced plans or programs in november"
+    ]
+  }
+}

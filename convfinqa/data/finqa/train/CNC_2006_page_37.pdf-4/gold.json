@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in year end allowance for uncollectible accounts between 2004 and 2005?",
+      "answer": -0.25758,
+      "answer_raw": "-0.25758",
+      "program": "subtract(343, 462), divide(#0, 462)"
+    }
+  ]
+}

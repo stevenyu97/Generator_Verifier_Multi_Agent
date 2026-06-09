@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "from the growth in revenue , what percentage is attributed to the change in net wholesale revenue?",
+      "answer": 0.50272,
+      "answer_raw": "0.50272",
+      "program": "subtract(540.2, 485.1), divide(27.7, #0)"
+    }
+  ]
+}

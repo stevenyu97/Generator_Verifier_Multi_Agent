@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the net change in net revenue is due to the retail electric price?",
+      "answer": 0.38375,
+      "answer_raw": "0.38375",
+      "program": "subtract(5051, 4694), divide(137, #0)"
+    }
+  ]
+}

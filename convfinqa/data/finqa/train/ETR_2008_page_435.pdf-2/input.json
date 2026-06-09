@@ -1,0 +1,111 @@
+{
+  "input": {
+    "id": "ETR/2008/page_435.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the committee's assessment of other elements of compensation provided to the named executive officer .",
+      "the corporate and business unit goals and objectives vary by individual officers and include , among other things , corporate and business unit financial performance , capital expenditures , cost containment , safety , reliability , customer service , business development and regulatory matters .",
+      "the use of \"internal pay equity\" in setting merit increases is limited to determining whether a change in an executive officer's role and responsibilities relative to other executive officers requires an adjustment in the officer's salary .",
+      "the committee has not established any predetermined formula against which the base salary of one named executive officer is measured against another officer or employee .",
+      "in 2008 , on the basis of the market data and other factors described above , merit-based salary increases for the named executive officers were approved in amounts ranging from 3.2 to 5.2 percent .",
+      "in general these merit-based increases were consistent with the merit increase percentages approved with respect to named executive officers in the last two years ( excluding adjustments in salaries related to market factors , promotions or other changes in job responsibilities ) .",
+      "the following table sets forth the 2007 base salaries for the named executive officers , the 2008 percentage increase and the resulting 2008 base salary .",
+      "except as described below , changes in base salaries were effective in april of each of the years shown .",
+      "named executive officer 2007 base salary percentage increase 2008 base salary ."
+    ],
+    "post_text": [
+      "in addition to the market-based and other factors described above , the following factors were considered by the committee with respect to the officers identified below : mr .",
+      "leonard's salary was increased due to the personnel committee's assessment of , among other things , his strong performance as chief executive officer of entergy corporation , entergy corporation's financial and operational performance in 2007 and comparative market data on base salaries for chief executive officers .",
+      "in may , 2008 , carolyn shanks resigned as ceo - entergy mississippi and accepted a conditional offer of employment at enexus energy corporation .",
+      "upon her resignation , mr .",
+      "fisackerly was promoted to president and ceo of entergy mississippi , and mr .",
+      "fisackerly's salary was increased to reflect the increased responsibilities of his new position and comparative market and internal data for officers holding similar positions and performing similar responsibilities .",
+      "in the third quarter of 2008 , mr .",
+      "bunting took on the role of principal financial officer for the subsidiaries replacing mr .",
+      "lewis in that position .",
+      "in the third quarter of 2008 , mr .",
+      "lewis assumed a position with enexus energy corporation .",
+      "mr .",
+      "west's salary was increased to reflect his performance as ceo - entergy new orleans , the strategic challenges facing entergy new orleans and the importance of retaining mr .",
+      "west to manage these challenges and to retain internal competitiveness of mr .",
+      "west's salary with officers in the company holding similar positions. ."
+    ],
+    "table": [
+      [
+        "named executive officer",
+        "2007 base salary",
+        "percentage increase",
+        "2008 base salary"
+      ],
+      [
+        "j . wayne leonard",
+        "$ 1230000",
+        "5.0% ( 5.0 % )",
+        "$ 1291500"
+      ],
+      [
+        "leo p . denault",
+        "$ 600000",
+        "5.0% ( 5.0 % )",
+        "$ 630000"
+      ],
+      [
+        "richard j . smith",
+        "$ 622400",
+        "3.5% ( 3.5 % )",
+        "$ 645000"
+      ],
+      [
+        "e . renae conley",
+        "$ 392000",
+        "4.0% ( 4.0 % )",
+        "$ 407680"
+      ],
+      [
+        "hugh t . mcdonald",
+        "$ 311992",
+        "3.2% ( 3.2 % )",
+        "$ 322132"
+      ],
+      [
+        "joseph f . domino",
+        "$ 307009",
+        "3.5% ( 3.5 % )",
+        "$ 317754"
+      ],
+      [
+        "roderick k . west",
+        "$ 276000",
+        "13.75% ( 13.75 % )",
+        "$ 315000"
+      ],
+      [
+        "theodore h . bunting jr .",
+        "$ 325000",
+        "5.2% ( 5.2 % )",
+        "$ 341900"
+      ],
+      [
+        "haley fisackerly",
+        "$ 205004",
+        "32.9% ( 32.9 % )",
+        "$ 275000"
+      ],
+      [
+        "carolyn shanks",
+        "$ 307009",
+        "3.3% ( 3.3 % )",
+        "$ 317140"
+      ],
+      [
+        "jay a . lewis",
+        "$ 207000",
+        "3.24% ( 3.24 % )",
+        "$ 213707"
+      ]
+    ],
+    "questions": [
+      "what is the difference between the highest and the lowest base salary in 2008?"
+    ]
+  }
+}

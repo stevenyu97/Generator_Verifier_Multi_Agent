@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "total americas segment revenues were how much ( in billions ) in 2001?",
+      "answer": 5.3,
+      "answer_raw": "5.3",
+      "program": "add(3.6, 1.7)"
+    }
+  ]
+}

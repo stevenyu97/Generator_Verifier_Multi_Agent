@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were net reserves in 2006?",
+      "answer": 511.4,
+      "answer_raw": "511.4",
+      "program": "511.4"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were net reserves in 2005?",
+      "answer": 450.5,
+      "answer_raw": "450.5",
+      "program": "450.5"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the net change in value?",
+      "answer": 60.9,
+      "answer_raw": "60.9",
+      "program": "subtract(511.4, 450.5)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the 2004 value?",
+      "answer": 450.5,
+      "answer_raw": "450.5",
+      "program": "450.5"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the percent change?",
+      "answer": 0.13518,
+      "answer_raw": "0.13518",
+      "program": "subtract(511.4, 450.5), divide(#0, 450.5)"
+    }
+  ]
+}

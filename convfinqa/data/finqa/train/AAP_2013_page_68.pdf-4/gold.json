@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase of inventories at lifo net from the beginning of 2012 to the end of 2013?",
+      "answer": 2556557.0,
+      "answer_raw": "2556557.0",
+      "program": "multiply(2556557, 2182419), divide(#0, 2182419)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was royalty income as a percentage of total other income in 2009?",
+      "answer": 0.3,
+      "answer_raw": "0.3",
+      "program": "divide(45, 150)"
+    }
+  ]
+}

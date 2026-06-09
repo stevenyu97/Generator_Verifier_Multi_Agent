@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the 2017 growth rate in the amount of the unused commitments and lines of credit for dealers?",
+      "answer": -0.13949,
+      "answer_raw": "-0.13949",
+      "program": "subtract(10993, 12775), divide(#0, 12775)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the interest income from 2012 to 2011",
+      "answer": 0.78042,
+      "answer_raw": "0.78042",
+      "program": "divide(29.5, 37.8)"
+    }
+  ]
+}

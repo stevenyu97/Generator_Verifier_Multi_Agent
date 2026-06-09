@@ -1,3 +1,4 @@
+import argparse
 import json
 import sys
 from dataclasses import asdict
@@ -43,9 +44,10 @@ def run_gpt5_multiagent_showcase(
     if case_dir is None:
         case_dir = Path(
             "/home/ubuntu/LLM/Dataset/taxcalcbench_dataset/test_data/single-retirement-1099r-alaska-dividend"
+            #"/home/ubuntu/LLM/Dataset/taxcalcbench_dataset/test_data/mfj-multiple-schedule-c-loss-multi-home-office"
         )
     if output_path is None:
-        output_path = Path(__file__).parent / "gpt5_showcase_output.md"
+        output_path = Path(__file__).parent / f"gpt5_showcase_output_{case_dir.name}.md"
 
     input_path = case_dir / "input.json"
     output_xml_path = case_dir / "output.xml"
@@ -303,11 +305,23 @@ def run_gpt5_multiagent_showcase(
 
 
 def main() -> None:
-    if len(sys.argv) == 2:
-        case_dir = Path(sys.argv[1]).resolve()
-    else:
-        case_dir = None
-    run_gpt5_multiagent_showcase(case_dir=case_dir)
+    parser = argparse.ArgumentParser(description="Run GPT-5 multi-agent (Filer → Verifier → Approver) showcase.")
+    parser.add_argument(
+        "case_dir",
+        nargs="?",
+        default=None,
+        help="TaxCalcBench case directory (input.json + output.xml). Default: single-retirement-1099r-alaska-dividend",
+    )
+    parser.add_argument(
+        "--max-rounds",
+        type=int,
+        default=3,
+        metavar="N",
+        help="Max Verifier/Approver rounds (default: 3). Use 1 for a single round.",
+    )
+    args = parser.parse_args()
+    case_dir = Path(args.case_dir).resolve() if args.case_dir else None
+    run_gpt5_multiagent_showcase(case_dir=case_dir, max_rounds=args.max_rounds)
 
 
 if __name__ == "__main__":

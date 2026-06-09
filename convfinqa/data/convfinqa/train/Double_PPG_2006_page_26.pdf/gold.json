@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2005, how much did the income represent in relation to the net sales for the industrial coatings segment?",
+      "answer": 0.09723,
+      "answer_raw": "0.09723",
+      "program": "divide(284, 2921)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much did it represent for the performance and applied coatings segment?",
+      "answer": 0.17391,
+      "answer_raw": "0.17391",
+      "program": "divide(464, 2668)"
+    }
+  ]
+}

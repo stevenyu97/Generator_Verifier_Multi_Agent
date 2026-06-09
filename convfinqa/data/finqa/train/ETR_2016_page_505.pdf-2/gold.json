@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "baaed on the table , how many shares does in the plan does mr . may have based of the closing stock price of $ 73.47 as of december 30 , 2016?",
+      "answer": 23.83286,
+      "answer_raw": "23.83286",
+      "program": "divide(1751, 73.47)"
+    }
+  ]
+}

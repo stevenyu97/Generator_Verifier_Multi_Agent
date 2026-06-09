@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming an average interest rate of 7% ( 7 % ) , what is the implied composite debt level for 2014 , in millions?",
+      "answer": 8014.28571,
+      "answer_raw": "8014.28571",
+      "program": "divide(561, 7%)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in entergy mississippi 2019s receivables from the money pool from 2014 to 2015?",
+      "answer": 25286.0,
+      "answer_raw": "25286.0",
+      "program": "subtract(25930, 644)"
+    }
+  ]
+}

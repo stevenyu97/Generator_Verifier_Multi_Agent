@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the length of the lease for fitzpatrick , ( in years ) ?",
+      "answer": 34.0,
+      "answer_raw": "34.0",
+      "program": "subtract(2034, 2000)"
+    }
+  ]
+}

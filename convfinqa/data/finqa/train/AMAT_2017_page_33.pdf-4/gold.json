@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much percent did the investor make on applied materials from the first 5 years compared to the 2016 to 2017 time period ? ( not including compound interest )",
+      "answer": 192.64126,
+      "answer_raw": "192.64126",
+      "program": "subtract(293.64, const_100), subtract(586.91, 293.64), divide(#1, 293.64), subtract(#0, #2)"
+    }
+  ]
+}

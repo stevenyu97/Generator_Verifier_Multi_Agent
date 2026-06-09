@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the 2013 charge , what is the impact of the merchant gases segment on the total charge?",
+      "answer": 0.26339,
+      "answer_raw": "0.26339",
+      "program": "divide(61.0, 231.6)"
+    }
+  ]
+}

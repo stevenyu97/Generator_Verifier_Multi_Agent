@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the netting adjustment of the additional collateral in 2009 , in millions of dollars?",
+      "answer": 11.1,
+      "answer_raw": "11.1",
+      "program": "subtract(16.9, 5.8)"
+    }
+  ]
+}

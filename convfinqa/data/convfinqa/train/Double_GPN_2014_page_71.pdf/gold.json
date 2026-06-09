@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the acquired technology segment, what was the expected annual amortization expense, in thousands?",
+      "answer": 1528.57143,
+      "answer_raw": "1528.57143",
+      "program": "divide(10700, 7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the sum of this segment and the contract-based intangible assets one?",
+      "answer": 41700.0,
+      "answer_raw": "41700.0",
+      "program": "add(10700, 31000)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "including the customer-related intangible assets, what becomes this sum?",
+      "answer": 189200.0,
+      "answer_raw": "189200.0",
+      "program": "add(10700, 31000), add(147500, #0)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this final sum represent in relation to the total assets acquired segment, in percentage?",
+      "answer": 0.40541,
+      "answer_raw": "0.40541",
+      "program": "add(10700, 31000), add(147500, #0), divide(#1, 466687)"
+    }
+  ]
+}

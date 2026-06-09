@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in rental expense for operating leases from 2009 to 2010?",
+      "answer": 9.7,
+      "answer_raw": "9.7",
+      "program": "subtract(66.9, 57.2)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage change does this represent?",
+      "answer": 0.16958,
+      "answer_raw": "0.16958",
+      "program": "subtract(66.9, 57.2), divide(#0, 57.2)"
+    }
+  ]
+}

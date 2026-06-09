@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many more shares were purchased as part of publicly announced plans in december 2014 than october 2014?",
+      "answer": 2239101.0,
+      "answer_raw": "2239101.0",
+      "program": "subtract(5117774, 2878673)"
+    }
+  ]
+}

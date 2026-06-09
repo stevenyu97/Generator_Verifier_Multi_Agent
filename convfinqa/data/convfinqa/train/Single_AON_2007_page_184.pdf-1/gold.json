@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference of credit outstanding and used at the end of 2007?",
+      "answer": 130.0,
+      "answer_raw": "130.0",
+      "program": "subtract(150, 20)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent of credit used?",
+      "answer": 0.86667,
+      "answer_raw": "0.86667",
+      "program": "subtract(150, 20), divide(#0, 150)"
+    }
+  ]
+}

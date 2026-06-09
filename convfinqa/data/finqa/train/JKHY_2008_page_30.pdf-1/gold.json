@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the cash and cash equivalents at june 30 , 2008 from 2007 .",
+      "answer": -0.26013,
+      "answer_raw": "-0.26013",
+      "program": "subtract(65565, 88617), divide(#0, 88617)"
+    }
+  ]
+}

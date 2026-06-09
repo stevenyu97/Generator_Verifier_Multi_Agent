@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "KHC/2017/page_21.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "while we have remediated the previously-identified material weakness in our internal control over financial reporting , we may identify other material weaknesses in the future .",
+      "in november 2017 , we restated our consolidated financial statements for the quarters ended april 1 , 2017 and july 1 , 2017 in order to correctly classify cash receipts from the payments on sold receivables ( which are cash receipts on the underlying trade receivables that have already been securitized ) to cash provided by investing activities ( from cash provided by operating activities ) within our condensed consolidated statements of cash flows .",
+      "in connection with these restatements , management identified a material weakness in our internal control over financial reporting related to the misapplication of accounting standards update 2016-15 .",
+      "specifically , we did not maintain effective controls over the adoption of new accounting standards , including communication with the appropriate individuals in coming to our conclusions on the application of new accounting standards .",
+      "as a result of this material weakness , our management concluded that we did not maintain effective internal control over financial reporting as of april 1 , 2017 and july 1 , 2017 .",
+      "while we have remediated the material weakness and our management has determined that our disclosure controls and procedures were effective as of december 30 , 2017 , there can be no assurance that our controls will remain adequate .",
+      "the effectiveness of our internal control over financial reporting is subject to various inherent limitations , including judgments used in decision-making , the nature and complexity of the transactions we undertake , assumptions about the likelihood of future events , the soundness of our systems , cost limitations , and other limitations .",
+      "if other material weaknesses or significant deficiencies in our internal control are discovered or occur in the future or we otherwise must restate our financial statements , it could materially and adversely affect our business and results of operations or financial condition , restrict our ability to access the capital markets , require us to expend significant resources to correct the weaknesses or deficiencies , subject us to fines , penalties , investigations or judgments , harm our reputation , or otherwise cause a decline in investor confidence .",
+      "item 1b .",
+      "unresolved staff comments .",
+      "item 2 .",
+      "properties .",
+      "our corporate co-headquarters are located in pittsburgh , pennsylvania and chicago , illinois .",
+      "our co-headquarters are leased and house certain executive offices , our u.s .",
+      "business units , and our administrative , finance , legal , and human resource functions .",
+      "we maintain additional owned and leased offices throughout the regions in which we operate .",
+      "we manufacture our products in our network of manufacturing and processing facilities located throughout the world .",
+      "as of december 30 , 2017 , we operated 83 manufacturing and processing facilities .",
+      "we own 80 and lease three of these facilities .",
+      "our manufacturing and processing facilities count by segment as of december 30 , 2017 was: ."
+    ],
+    "post_text": [
+      "we maintain all of our manufacturing and processing facilities in good condition and believe they are suitable and are adequate for our present needs .",
+      "we also enter into co-manufacturing arrangements with third parties if we determine it is advantageous to outsource the production of any of our products .",
+      "item 3 .",
+      "legal proceedings .",
+      "we are routinely involved in legal proceedings , claims , and governmental inquiries , inspections or investigations ( 201clegal matters 201d ) arising in the ordinary course of our business .",
+      "while we cannot predict with certainty the results of legal matters in which we are currently involved or may in the future be involved , we do not expect that the ultimate costs to resolve any of the legal matters that are currently pending will have a material adverse effect on our financial condition or results of operations .",
+      "item 4 .",
+      "mine safety disclosures .",
+      "not applicable. ."
+    ],
+    "table": [
+      [
+        "",
+        "owned",
+        "leased"
+      ],
+      [
+        "united states",
+        "41",
+        "1"
+      ],
+      [
+        "canada",
+        "2",
+        "2014"
+      ],
+      [
+        "europe",
+        "11",
+        "2014"
+      ],
+      [
+        "rest of world",
+        "26",
+        "2"
+      ]
+    ],
+    "questions": [
+      "what percent of owned facilities are in the us?"
+    ]
+  }
+}

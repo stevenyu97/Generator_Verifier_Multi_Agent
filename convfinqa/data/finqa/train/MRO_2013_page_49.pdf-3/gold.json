@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were total adjustments to valuation allowances in millions?",
+      "answer": 35.0,
+      "answer_raw": "35.0",
+      "program": "add(21, 14)"
+    }
+  ]
+}

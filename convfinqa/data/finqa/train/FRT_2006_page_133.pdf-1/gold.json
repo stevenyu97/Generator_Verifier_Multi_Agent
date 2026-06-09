@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentual increase in the additions during 2004 and 2005?",
+      "answer": 0.01339,
+      "answer_raw": "0.01339",
+      "program": "divide(83656, 82551), subtract(#0, const_1)"
+    }
+  ]
+}

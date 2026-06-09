@@ -1,0 +1,94 @@
+{
+  "input": {
+    "id": "MSI/2005/page_64.pdf-6",
+    "dataset": "finqa",
+    "pre_text": [
+      "57management's discussion and analysis of financial condition and results of operations facility include covenants relating to net interest coverage and total debt-to-book capitalization ratios .",
+      "the company was in compliance with the terms of the 3-year credit facility at december 31 , 2005 .",
+      "the company has never borrowed under its domestic revolving credit facilities .",
+      "utilization of the non-u.s .",
+      "credit facilities may also be dependent on the company's ability to meet certain conditions at the time a borrowing is requested .",
+      "contractual obligations , guarantees , and other purchase commitments contractual obligations summarized in the table below are the company's obligations and commitments to make future payments under debt obligations ( assuming earliest possible exercise of put rights by holders ) , lease payment obligations , and purchase obligations as of december 31 , 2005 .",
+      "payments due by period ( 1 ) ( in millions ) total 2006 2007 2008 2009 2010 thereafter ."
+    ],
+    "post_text": [
+      "( 1 ) amounts included represent firm , non-cancelable commitments .",
+      "debt obligations : at december 31 , 2005 , the company's long-term debt obligations , including current maturities and unamortized discount and issue costs , totaled $ 4.0 billion , as compared to $ 5.0 billion at december 31 , 2004 .",
+      "a table of all outstanding long-term debt securities can be found in note 4 , \"\"debt and credit facilities'' to the company's consolidated financial statements .",
+      "as previously discussed , the decrease in the long- term debt obligations as compared to december 31 , 2004 , was due to the redemptions and repurchases of $ 1.0 billion principal amount of outstanding securities during 2005 .",
+      "also , as previously discussed , the remaining $ 118 million of 7.6% ( 7.6 % ) notes due january 1 , 2007 were reclassified to current maturities of long-term debt .",
+      "lease obligations : the company owns most of its major facilities , but does lease certain office , factory and warehouse space , land , and information technology and other equipment under principally non-cancelable operating leases .",
+      "at december 31 , 2005 , future minimum lease obligations , net of minimum sublease rentals , totaled $ 1.2 billion .",
+      "rental expense , net of sublease income , was $ 254 million in 2005 , $ 217 million in 2004 and $ 223 million in 2003 .",
+      "purchase obligations : the company has entered into agreements for the purchase of inventory , license of software , promotional agreements , and research and development agreements which are firm commitments and are not cancelable .",
+      "the longest of these agreements extends through 2015 .",
+      "total payments expected to be made under these agreements total $ 992 million .",
+      "commitments under other long-term agreements : the company has entered into certain long-term agreements to purchase software , components , supplies and materials from suppliers .",
+      "most of the agreements extend for periods of one to three years ( three to five years for software ) .",
+      "however , generally these agreements do not obligate the company to make any purchases , and many permit the company to terminate the agreement with advance notice ( usually ranging from 60 to 180 days ) .",
+      "if the company were to terminate these agreements , it generally would be liable for certain termination charges , typically based on work performed and supplier on-hand inventory and raw materials attributable to canceled orders .",
+      "the company's liability would only arise in the event it terminates the agreements for reasons other than \"\"cause.'' in 2003 , the company entered into outsourcing contracts for certain corporate functions , such as benefit administration and information technology related services .",
+      "these contracts generally extend for 10 years and are expected to expire in 2013 .",
+      "the total payments under these contracts are approximately $ 3 billion over 10 years ; however , these contracts can be terminated .",
+      "termination would result in a penalty substantially less than the annual contract payments .",
+      "the company would also be required to find another source for these services , including the possibility of performing them in-house .",
+      "as is customary in bidding for and completing network infrastructure projects and pursuant to a practice the company has followed for many years , the company has a number of performance/bid bonds and standby letters of credit outstanding , primarily relating to projects of government and enterprise mobility solutions segment and the networks segment .",
+      "these instruments normally have maturities of up to three years and are standard in the ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "payments due by period ( 1 ) total",
+        "payments due by period ( 1 ) 2006",
+        "payments due by period ( 1 ) 2007",
+        "payments due by period ( 1 ) 2008",
+        "payments due by period ( 1 ) 2009",
+        "payments due by period ( 1 ) 2010",
+        "payments due by period ( 1 ) thereafter"
+      ],
+      [
+        "long-term debt obligations",
+        "$ 4033",
+        "$ 119",
+        "$ 1222",
+        "$ 200",
+        "$ 2",
+        "$ 529",
+        "$ 1961"
+      ],
+      [
+        "lease obligations",
+        "1150",
+        "438",
+        "190",
+        "134",
+        "109",
+        "84",
+        "195"
+      ],
+      [
+        "purchase obligations",
+        "992",
+        "418",
+        "28",
+        "3",
+        "2",
+        "2",
+        "539"
+      ],
+      [
+        "total contractual obligations",
+        "$ 6175",
+        "$ 975",
+        "$ 1440",
+        "$ 337",
+        "$ 113",
+        "$ 615",
+        "$ 2695"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the rental expense , net of sublease income in 2005 compared to 2004"
+    ]
+  }
+}

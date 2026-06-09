@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in net revenue between 2009 and 2010?",
+      "answer": 55.1,
+      "answer_raw": "55.1",
+      "program": "subtract(540.2, 485.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the net wholesale revenue ?",
+      "answer": 27.7,
+      "answer_raw": "27.7",
+      "program": "27.7"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the percentage of this value to the difference in net revenue?",
+      "answer": 0.50272,
+      "answer_raw": "0.50272",
+      "program": "subtract(540.2, 485.1), divide(27.7, #0)"
+    }
+  ]
+}

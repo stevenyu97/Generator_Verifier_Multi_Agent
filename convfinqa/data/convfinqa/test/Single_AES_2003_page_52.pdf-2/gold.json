@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total, in millions, of sales proceeds for subsidiaries assets in the months of december and august of 2003, combined, in the locations of bangladesh and republic of georgia?",
+      "answer": 168.0,
+      "answer_raw": "168.0",
+      "program": "add(145, 23)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "including november of that year, what then becomes that total?",
+      "answer": 246.0,
+      "answer_raw": "246.0",
+      "program": "add(145, 23), add(#0, 78)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what were the total sales proceeds for subsidiaries assets in december 2003 in pakistan/oman, in millions?",
+      "answer": 150.0,
+      "answer_raw": "150.0",
+      "program": "150"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "including these total sales, what then becomes that total, also in millions?",
+      "answer": 396.0,
+      "answer_raw": "396.0",
+      "program": "add(145, 23), add(#0, 78), add(#1, 150)"
+    }
+  ]
+}

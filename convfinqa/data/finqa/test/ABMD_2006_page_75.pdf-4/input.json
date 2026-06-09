@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "ABMD/2006/page_75.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "abiomed , inc .",
+      "and subsidiaries notes to consolidated financial statements 2014 ( continued ) ( 7 ) commitments and contingencies the company applies the disclosure provisions of fin no .",
+      "45 , guarantor 2019s accounting and disclosure requirements for guarantees , including guarantees of indebtedness of others , and interpretation of fasb statements no .",
+      "5 , 57 and 107 and rescission of fasb interpretation no .",
+      "34 ( fin no .",
+      "45 ) to its agreements that contain guarantee or indemnification clauses .",
+      "these disclosure provisions expand those required by sfas no .",
+      "5 accounting for contingencies , by requiring that guarantors disclose certain types of guarantees , even if the likelihood of requiring the guarantor 2019s performance is remote .",
+      "the following is a description of arrangements in which the company is a guarantor .",
+      "product warranties 2014the company routinely accrues for estimated future warranty costs on its product sales at the time of sale .",
+      "the ab5000 and bvs products are subject to rigorous regulation and quality standards .",
+      "operating results could be adversely effected if the actual cost of product failures exceeds the estimated warranty provision .",
+      "patent indemnifications 2014in many sales transactions , the company indemnifies customers against possible claims of patent infringement caused by the company 2019s products .",
+      "the indemnifications contained within sales contracts usually do not include limits on the claims .",
+      "the company has never incurred any material costs to defend lawsuits or settle patent infringement claims related to sales transactions .",
+      "under the provisions of fin no .",
+      "45 , intellectual property indemnifications require disclosure only .",
+      "as of march 31 , 2006 , the company had entered into leases for its facilities , including its primary operating facility in danvers , massachusetts , with terms through fiscal 2010 .",
+      "the danvers lease may be extended , at the company 2019s option , for two successive additional periods of five years each with monthly rent charges to be determined based on then current fair rental values .",
+      "the company 2019s lease for its aachen location expires in august 2008 unless an option to extend for an additional four years is exercised by the company .",
+      "in december 2005 we closed our office facility in the netherlands , recording a charge of approximately $ 58000 for the remaining lease term .",
+      "total rent expense under these leases , included in the accompanying consolidated statements of operations approximated $ 821000 , $ 824000 and $ 1262000 for the fiscal years ended march 31 , 2004 , 2005 and 2006 , respectively .",
+      "future minimum lease payments under all significant non-cancelable operating leases as of march 31 , 2006 are approximately as follows ( in thousands ) : fiscal year ending march 31 , operating leases ."
+    ],
+    "post_text": [
+      "from time-to-time , the company is involved in legal and administrative proceedings and claims of various types .",
+      "while any litigation contains an element of uncertainty , management , in consultation with the company 2019s general counsel , presently believes that the outcome of each such other proceedings or claims which are pending or known to be threatened , or all of them combined , is not expected to have a material adverse effect on the company 2019s financial position , cash flow and results .",
+      "on may 15 , 2006 richard a .",
+      "nazarian , as selling stockholder representative , filed a demand for arbitration ( subsequently amended ) with the boston office of the american arbitration association ."
+    ],
+    "table": [
+      [
+        "fiscal year ending march 31,",
+        "operating leases"
+      ],
+      [
+        "2007",
+        "1703"
+      ],
+      [
+        "2008",
+        "1371"
+      ],
+      [
+        "2009",
+        "1035"
+      ],
+      [
+        "2010",
+        "710"
+      ],
+      [
+        "total future minimum lease payments",
+        "$ 4819"
+      ]
+    ],
+    "questions": [
+      "what percentage of total future minimum lease payments are due in 2009?"
+    ]
+  }
+}

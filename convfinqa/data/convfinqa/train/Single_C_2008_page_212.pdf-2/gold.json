@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the fair value of the msr in 2008?",
+      "answer": 4273.0,
+      "answer_raw": "4273.0",
+      "program": "4273"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2007?",
+      "answer": 6392.0,
+      "answer_raw": "6392.0",
+      "program": "6392"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": -2119.0,
+      "answer_raw": "-2119.0",
+      "program": "subtract(4273, 6392)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the fair value of the msr in 2007?",
+      "answer": 6392.0,
+      "answer_raw": "6392.0",
+      "program": "6392"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this 2007 fair value, in percentage?",
+      "answer": -0.33151,
+      "answer_raw": "-0.33151",
+      "program": "subtract(4273, 6392), divide(#0, 6392)"
+    }
+  ]
+}

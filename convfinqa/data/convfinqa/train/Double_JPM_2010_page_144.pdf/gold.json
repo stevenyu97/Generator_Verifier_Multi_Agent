@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the basis point increase in 2010?",
+      "answer": 35.0,
+      "answer_raw": "35.0",
+      "program": "35"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2009?",
+      "answer": 39.0,
+      "answer_raw": "39.0",
+      "program": "39"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does the 2010 basis point increase represent in relation to this 2009 one?",
+      "answer": 0.89744,
+      "answer_raw": "0.89744",
+      "program": "divide(35, 39)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "in that same year of 2010, on what percentage of the full amount of trading days were there market gains above $ 210 million?",
+      "answer": 0.04598,
+      "answer_raw": "0.04598",
+      "program": "divide(12, 261)"
+    }
+  ]
+}

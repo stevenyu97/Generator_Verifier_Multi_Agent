@@ -1,0 +1,89 @@
+{
+  "input": {
+    "id": "Single_AMT/2002/page_74.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements 2014 ( continued ) the following table illustrates the effect on net loss and net loss per share if the company had applied the fair value recognition provisions of sfas no .",
+      "123 to stock-based compensation .",
+      "the estimated fair value of each option is calculated using the black-scholes option-pricing model ( in thousands , except per share amounts ) : ."
+    ],
+    "post_text": [
+      "fair value of financial instruments 2014as of december 31 , 2002 , the carrying amounts of the company 2019s 5.0% ( 5.0 % ) convertible notes , the 2.25% ( 2.25 % ) convertible notes , the 6.25% ( 6.25 % ) convertible notes and the senior notes were approximately $ 450.0 million , $ 210.9 million , $ 212.7 million and $ 1.0 billion , respectively , and the fair values of such notes were $ 291.4 million , $ 187.2 million , $ 144.4 million and $ 780.0 million , respectively .",
+      "as of december 31 , 2001 , the carrying amount of the company 2019s 5.0% ( 5.0 % ) convertible notes , the 2.25% ( 2.25 % ) convertible notes , the 6.25% ( 6.25 % ) convertible notes and the senior notes were approximately $ 450.0 million , $ 204.1 million , $ 212.8 million and $ 1.0 billion , respectively , and the fair values of such notes were $ 268.3 million , $ 173.1 million , $ 158.2 million and $ 805.0 million , respectively .",
+      "fair values were determined based on quoted market prices .",
+      "the carrying values of all other financial instruments reasonably approximate the related fair values as of december 31 , 2002 and 2001 .",
+      "retirement plan 2014the company has a 401 ( k ) plan covering substantially all employees who meet certain age and employment requirements .",
+      "under the plan , the company matches 35% ( 35 % ) of participants 2019 contributions up to a maximum 5% ( 5 % ) of a participant 2019s compensation .",
+      "the company contributed approximately $ 979000 , $ 1540000 and $ 1593000 to the plan for the years ended december 31 , 2002 , 2001 and 2000 , respectively .",
+      "recent accounting pronouncements 2014in june 2001 , the fasb issued sfas no .",
+      "143 , 201caccounting for asset retirement obligations . 201d this statement establishes accounting standards for the recognition and measurement of liabilities associated with the retirement of tangible long-lived assets and the related asset retirement costs .",
+      "the requirements of sfas no .",
+      "143 are effective for the company as of january 1 , 2003 .",
+      "the company will adopt this statement in the first quarter of 2003 and does not expect the impact of adopting this statement to have a material impact on its consolidated financial position or results of operations .",
+      "in august 2001 , the fasb issued sfas no .",
+      "144 , 201caccounting for the impairment or disposal of long-lived assets . 201d sfas no .",
+      "144 supersedes sfas no .",
+      "121 , 201caccounting for the impairment of long-lived assets and for long-lived assets to be disposed of , 201d but retains many of its fundamental provisions .",
+      "sfas no .",
+      "144 also clarifies certain measurement and classification issues from sfas no .",
+      "121 .",
+      "in addition , sfas no .",
+      "144 supersedes the accounting and reporting provisions for the disposal of a business segment as found in apb no .",
+      "30 , 201creporting the results of operations 2014reporting the effects of disposal of a segment of a business and extraordinary , unusual and infrequently occurring events and transactions 201d .",
+      "however , sfas no .",
+      "144 retains the requirement in apb no .",
+      "30 to separately report discontinued operations , and broadens the scope of such requirement to include more types of disposal transactions .",
+      "the scope of sfas no .",
+      "144 excludes goodwill and other intangible assets that are not to be amortized , as the accounting for such items is prescribed by sfas no .",
+      "142 .",
+      "the company implemented sfas no .",
+      "144 on january 1 , 2002 .",
+      "accordingly , all relevant impairment assessments and decisions concerning discontinued operations have been made under this standard in 2002. ."
+    ],
+    "table": [
+      [
+        "",
+        "2002",
+        "2001",
+        "2000"
+      ],
+      [
+        "net loss as reported",
+        "$ -1141879 ( 1141879 )",
+        "$ -450094 ( 450094 )",
+        "$ -194628 ( 194628 )"
+      ],
+      [
+        "less : total stock-based employee compensation expense determined under fair value basedmethod for all awards net of related tax effect",
+        "-38126 ( 38126 )",
+        "-50540 ( 50540 )",
+        "-51186 ( 51186 )"
+      ],
+      [
+        "pro-forma net loss",
+        "$ -1180005 ( 1180005 )",
+        "$ -500634 ( 500634 )",
+        "$ -245814 ( 245814 )"
+      ],
+      [
+        "basic and diluted net loss per share 2014as reported",
+        "$ -5.84 ( 5.84 )",
+        "$ -2.35 ( 2.35 )",
+        "$ -1.15 ( 1.15 )"
+      ],
+      [
+        "basic and diluted net loss per share 2014pro-forma",
+        "$ -6.04 ( 6.04 )",
+        "$ -2.61 ( 2.61 )",
+        "$ -1.46 ( 1.46 )"
+      ]
+    ],
+    "questions": [
+      "what was the value for 401k contributions in 2002?",
+      "what was the value for 401k contributions in 2001?",
+      "what is the sum value for 2001 and 2002?",
+      "now, what is the sum of years 2001, 2002 and 2003?",
+      "what is the average value per year?"
+    ]
+  }
+}

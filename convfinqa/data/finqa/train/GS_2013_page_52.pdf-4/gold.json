@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions , for 2013 , 2012 and 2011 , what was maximum fixed income currency and commodities client execution?",
+      "answer": 9914.0,
+      "answer_raw": "9914.0",
+      "program": "table_max(fixed income currency and commodities client execution, none)"
+    }
+  ]
+}

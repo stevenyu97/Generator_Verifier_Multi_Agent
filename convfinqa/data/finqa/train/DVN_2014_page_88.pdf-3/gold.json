@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of the floating rate due december 2015 compared to 2016",
+      "answer": 1.42857,
+      "answer_raw": "1.42857",
+      "program": "divide(500, 350)"
+    }
+  ]
+}

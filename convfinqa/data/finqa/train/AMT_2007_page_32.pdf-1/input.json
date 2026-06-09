@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "AMT/2007/page_32.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "part ii item 5 .",
+      "market for registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities the following table presents reported quarterly high and low per share sale prices of our class a common stock on the new york stock exchange ( 201cnyse 201d ) for the years 2007 and 2006. ."
+    ],
+    "post_text": [
+      "on february 29 , 2008 , the closing price of our class a common stock was $ 38.44 per share as reported on the nyse .",
+      "as of february 29 , 2008 , we had 395748826 outstanding shares of class a common stock and 528 registered holders .",
+      "dividends we have never paid a dividend on any class of our common stock .",
+      "we anticipate that we may retain future earnings , if any , to fund the development and growth of our business .",
+      "the indentures governing our 7.50% ( 7.50 % ) senior notes due 2012 ( 201c7.50% ( 201c7.50 % ) notes 201d ) and our 7.125% ( 7.125 % ) senior notes due 2012 ( 201c7.125% ( 201c7.125 % ) notes 201d ) may prohibit us from paying dividends to our stockholders unless we satisfy certain financial covenants .",
+      "the loan agreement for our revolving credit facility and the indentures governing the terms of our 7.50% ( 7.50 % ) notes and 7.125% ( 7.125 % ) notes contain covenants that restrict our ability to pay dividends unless certain financial covenants are satisfied .",
+      "in addition , while spectrasite and its subsidiaries are classified as unrestricted subsidiaries under the indentures for our 7.50% ( 7.50 % ) notes and 7.125% ( 7.125 % ) notes , certain of spectrasite 2019s subsidiaries are subject to restrictions on the amount of cash that they can distribute to us under the loan agreement related to our securitization .",
+      "for more information about the restrictions under the loan agreement for the revolving credit facility , our notes indentures and the loan agreement related to the securitization , see item 7 of this annual report under the caption 201cmanagement 2019s discussion and analysis of financial condition and results of operations 2014liquidity and capital resources 2014factors affecting sources of liquidity 201d and note 3 to our consolidated financial statements included in this annual report. ."
+    ],
+    "table": [
+      [
+        "2007",
+        "high",
+        "low"
+      ],
+      [
+        "quarter ended march 31",
+        "$ 41.31",
+        "$ 36.63"
+      ],
+      [
+        "quarter ended june 30",
+        "43.84",
+        "37.64"
+      ],
+      [
+        "quarter ended september 30",
+        "45.45",
+        "36.34"
+      ],
+      [
+        "quarter ended december 31",
+        "46.53",
+        "40.08"
+      ],
+      [
+        "2006",
+        "high",
+        "low"
+      ],
+      [
+        "quarter ended march 31",
+        "$ 32.68",
+        "$ 26.66"
+      ],
+      [
+        "quarter ended june 30",
+        "35.75",
+        "27.35"
+      ],
+      [
+        "quarter ended september 30",
+        "36.92",
+        "29.98"
+      ],
+      [
+        "quarter ended december 31",
+        "38.74",
+        "35.21"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in the price of shares from the highest value during the quarter ended december 31 , 2007 and the closing price on february 29 , 2008?"
+    ]
+  }
+}

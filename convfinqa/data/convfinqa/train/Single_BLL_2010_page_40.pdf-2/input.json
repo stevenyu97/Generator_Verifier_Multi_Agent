@@ -1,0 +1,92 @@
+{
+  "input": {
+    "id": "Single_BLL/2010/page_40.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "page 27 of 100 other liquidity items cash payments required for long-term debt maturities , rental payments under noncancellable operating leases , purchase obligations and other commitments in effect at december 31 , 2010 , are summarized in the following table: ."
+    ],
+    "post_text": [
+      "total payments on contractual obligations $ 10697.7 $ 2935.6 $ 4321.2 $ 785.9 $ 2655.0 ( a ) amounts reported in local currencies have been translated at the year-end 2010 exchange rates .",
+      "( b ) for variable rate facilities , amounts are based on interest rates in effect at year end and do not contemplate the effects of hedging instruments .",
+      "( c ) the company 2019s purchase obligations include contracted amounts for aluminum , steel and other direct materials .",
+      "also included are commitments for purchases of natural gas and electricity , aerospace and technologies contracts and other less significant items .",
+      "in cases where variable prices and/or usage are involved , management 2019s best estimates have been used .",
+      "depending on the circumstances , early termination of the contracts may or may not result in penalties and , therefore , actual payments could vary significantly .",
+      "the table above does not include $ 60.1 million of uncertain tax positions , the timing of which is uncertain .",
+      "contributions to the company 2019s defined benefit pension plans , not including the unfunded german plans , are expected to be in the range of $ 30 million in 2011 .",
+      "this estimate may change based on changes in the pension protection act and actual plan asset performance , among other factors .",
+      "benefit payments related to these plans are expected to be $ 71.4 million , $ 74.0 million , $ 77.1 million , $ 80.3 million and $ 84.9 million for the years ending december 31 , 2011 through 2015 , respectively , and a total of $ 483.1 million for the years 2016 through 2020 .",
+      "payments to participants in the unfunded german plans are expected to be between $ 21.8 million ( 20ac16.5 million ) to $ 23.2 million ( 20ac17.5 million ) in each of the years 2011 through 2015 and a total of $ 102.7 million ( 20ac77.5 million ) for the years 2016 through 2020 .",
+      "for the u.s .",
+      "pension plans in 2011 , we changed our return on asset assumption to 8.00 percent ( from 8.25 percent in 2010 ) and our discount rate assumption to an average of 5.55 percent ( from 6.00 percent in 2010 ) .",
+      "based on the changes in assumptions , pension expense in 2011 is anticipated to be relatively flat compared to 2010 .",
+      "a reduction of the expected return on pension assets assumption by a quarter of a percentage point would result in an estimated $ 2.9 million increase in the 2011 global pension expense , while a quarter of a percentage point reduction in the discount rate applied to the pension liability would result in an estimated $ 3.5 million of additional pension expense in 2011 .",
+      "additional information regarding the company 2019s pension plans is provided in note 14 accompanying the consolidated financial statements within item 8 of this report .",
+      "annual cash dividends paid on common stock were 20 cents per share in 2010 , 2009 and 2008 .",
+      "total dividends paid were $ 35.8 million in 2010 , $ 37.4 million in 2009 and $ 37.5 million in 2008 .",
+      "on january 26 , 2011 , the company 2019s board of directors approved an increase in the quarterly dividends to 7 cents per share .",
+      "share repurchases our share repurchases , net of issuances , totaled $ 506.7 million in 2010 , $ 5.1 million in 2009 and $ 299.6 million in 2008 .",
+      "on november 2 , 2010 , we acquired 2775408 shares of our publicly held common stock in a private transaction for $ 88.8 million .",
+      "on february 17 , 2010 , we entered into an accelerated share repurchase agreement to buy $ 125.0 million of our common shares using cash on hand and available borrowings .",
+      "we advanced the $ 125.0 million on february 22 , 2010 , and received 4323598 shares , which represented 90 percent of the total shares as calculated using the previous day 2019s closing price .",
+      "the agreement was settled on may 20 , 2010 , and the company received an additional 398206 shares .",
+      "net repurchases in 2008 included a $ 31 million settlement on january 7 , 2008 , of a forward contract entered into in december 2007 for the repurchase of 1350000 shares .",
+      "from january 1 through february 24 , 2011 , ball repurchased an additional $ 143.3 million of its common stock. ."
+    ],
+    "table": [
+      [
+        "( $ in millions )",
+        "payments due by period ( a ) total",
+        "payments due by period ( a ) less than1 year",
+        "payments due by period ( a ) 1-3 years",
+        "payments due by period ( a ) 3-5 years",
+        "payments due by period ( a ) more than5 years"
+      ],
+      [
+        "long-term debt including capital leases",
+        "$ 2750.1",
+        "$ 34.5",
+        "$ 188.3",
+        "$ 367.1",
+        "$ 2160.2"
+      ],
+      [
+        "interest payments on long-term debt ( b )",
+        "1267.5",
+        "160.5",
+        "316.4",
+        "304.2",
+        "486.4"
+      ],
+      [
+        "operating leases",
+        "93.2",
+        "31.1",
+        "37.1",
+        "16.6",
+        "8.4"
+      ],
+      [
+        "purchase obligations ( c )",
+        "6586.9",
+        "2709.5",
+        "3779.4",
+        "98.0",
+        "2212"
+      ],
+      [
+        "total payments on contractual obligations",
+        "$ 10697.7",
+        "$ 2935.6",
+        "$ 4321.2",
+        "$ 785.9",
+        "$ 2655.0"
+      ]
+    ],
+    "questions": [
+      "what is the value of the settlement times 10000000?",
+      "what were the number of shares under the repurchase settlement contract?",
+      "what is the value divided by the number of shares?"
+    ]
+  }
+}

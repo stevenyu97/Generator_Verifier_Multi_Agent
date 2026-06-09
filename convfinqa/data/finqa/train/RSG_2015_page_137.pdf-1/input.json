@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "RSG/2015/page_137.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "republic services , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) charges or other amounts due that are probable at settlement .",
+      "the aggregate cash surrender value of these life insurance policies was $ 90.5 million and $ 77.1 million as of december 31 , 2015 and 2014 , respectively , and is classified in other assets in our consolidated balance sheets .",
+      "the dcp liability was $ 83.3 million and $ 76.3 million as of december 31 , 2015 and 2014 , respectively , and is classified in other long-term liabilities in our consolidated balance sheets .",
+      "employee stock purchase plan republic employees are eligible to participate in an employee stock purchase plan .",
+      "the plan allows participants to purchase our common stock for 95% ( 95 % ) of its quoted market price on the last day of each calendar quarter .",
+      "for the years ended december 31 , 2015 , 2014 and 2013 , issuances under this plan totaled 141055 shares , 139941 shares and 142217 shares , respectively .",
+      "as of december 31 , 2015 , shares reserved for issuance to employees under this plan totaled 0.6 million and republic held employee contributions of approximately $ 1.4 million for the purchase of common stock .",
+      "12 .",
+      "stock repurchases and dividends stock repurchases stock repurchase activity during the years ended december 31 , 2015 and 2014 follows ( in millions except per share amounts ) : ."
+    ],
+    "post_text": [
+      "as of december 31 , 2015 , 0.1 million repurchased shares were pending settlement and $ 3.7 million were unpaid and included within our accrued liabilities .",
+      "in october 2015 , our board of directors added $ 900.0 million to the existing share repurchase authorization , which now extends through december 31 , 2017 .",
+      "share repurchases under the program may be made through open market purchases or privately negotiated transactions in accordance with applicable federal securities laws .",
+      "while the board of directors has approved the program , the timing of any purchases , the prices and the number of shares of common stock to be purchased will be determined by our management , at its discretion , and will depend upon market conditions and other factors .",
+      "the share repurchase program may be extended , suspended or discontinued at any time .",
+      "as of december 31 , 2015 , the october 2015 repurchase program had remaining authorized purchase capacity of $ 855.5 million .",
+      "in december 2015 , our board of directors changed the status of 71272964 treasury shares to authorized and unissued .",
+      "in doing so , the number of our issued shares was reduced by the stated amount .",
+      "our accounting policy is to deduct the par value from common stock and to reflect the excess of cost over par value as a deduction from additional paid-in capital .",
+      "the change in unissued shares resulted in a reduction of $ 2295.3 million in treasury stock , $ 0.6 million in common stock , and $ 2294.7 million in additional paid-in capital .",
+      "there was no effect on our total stockholders 2019 equity position as a result of the change .",
+      "dividends in october 2015 , our board of directors approved a quarterly dividend of $ 0.30 per share .",
+      "cash dividends declared were $ 404.3 million , $ 383.6 million and $ 357.3 million for the years ended december 31 , 2015 , 2014 and 2013 , respectively .",
+      "as of december 31 , 2015 , we recorded a quarterly dividend payable of $ 103.7 million to shareholders of record at the close of business on january 4 , 2016. ."
+    ],
+    "table": [
+      [
+        "",
+        "2015",
+        "2014"
+      ],
+      [
+        "number of shares repurchased",
+        "9.8",
+        "11.1"
+      ],
+      [
+        "amount paid",
+        "$ 404.7",
+        "$ 400.4"
+      ],
+      [
+        "weighted average cost per share",
+        "$ 41.39",
+        "$ 35.92"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in the weighted average cost per share from 2014 to 2015"
+    ]
+  }
+}

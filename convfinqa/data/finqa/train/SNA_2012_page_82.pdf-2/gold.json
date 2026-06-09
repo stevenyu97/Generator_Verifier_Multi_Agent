@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the total other accrued liabilities from 2011 to 2012?",
+      "answer": -0.03126,
+      "answer_raw": "-0.03126",
+      "program": "subtract(247.9, 255.9), divide(#0, 255.9)"
+    }
+  ]
+}

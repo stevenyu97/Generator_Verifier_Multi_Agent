@@ -1,0 +1,16 @@
+{
+  "input": {
+    "id": "convfinqa_smoke_0",
+    "dataset": "convfinqa",
+    "pre_text": ["Net sales increased."],
+    "post_text": ["Margins expanded."],
+    "table": {
+      "2020": {"revenue": "200", "cost": "50"},
+      "2019": {"revenue": "150", "cost": "40"}
+    },
+    "questions": [
+      "what is revenue in 2020?",
+      "what is the change in revenue from 2019 to 2020?"
+    ]
+  }
+}

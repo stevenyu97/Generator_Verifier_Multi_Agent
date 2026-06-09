@@ -1,0 +1,117 @@
+{
+  "input": {
+    "id": "OKE/2007/page_56.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "."
+    ],
+    "post_text": [
+      "operating results - we began consolidating our investment in oneok partners as of january 1 , 2006 , in accordance with eitf 04-5 .",
+      "we elected to use the prospective method , which results in our consolidated financial results and operating information including data for the legacy oneok partners operations beginning january 1 , 2006 .",
+      "for additional information , see 201csignificant accounting policies 201d in note a of the notes to consolidated financial statements in this annual report on form 10-k .",
+      "net margin increased by $ 52.3 million in 2007 , compared with 2006 , primarily due to the following : 2022 increased performance of oneok partners 2019 natural gas liquids businesses , which benefited primarily from new supply connections that increased volumes gathered , transported , fractionated and sold , 2022 higher ngl product price spreads and higher isomerization price spreads in oneok partners 2019 natural gas liquids gathering and fractionation business , 2022 the incremental net margin related to the acquisition of assets from kinder morgan in october 2007 in oneok partners 2019 natural gas liquids pipelines business , and 2022 increased storage margins in oneok partners 2019 natural gas pipelines business , that was partially offset by 2022 decreased natural gas processing and transportation margins in oneok partners 2019 natural gas businesses resulting primarily from lower throughput , higher fuel costs and lower natural gas volumes processed as a result of various contract terminations .",
+      "operating costs increased by $ 11.6 million during 2007 , compared with 2006 , primarily due to higher employee-related costs and the incremental operating expenses associated with the assets acquired from kinder morgan , partially offset by lower litigation costs .",
+      "depreciation and amortization decreased by $ 8.3 million during 2007 , compared with 2006 , primarily due to a goodwill and asset impairment charge of $ 12.0 million recorded in the second quarter of 2006 related to black mesa pipeline .",
+      "gain on sale of assets decreased by $ 113.5 million during 2007 , compared with 2006 , primarily due to the $ 113.9 million gain on the sale of a 20 percent partnership interest in northern border pipeline recorded in the second quarter of 2006 .",
+      "equity earnings from investments for 2007 and 2006 primarily include earnings from oneok partners 2019 interest in northern border pipeline .",
+      "the decrease of $ 6.0 million during 2007 , compared with 2006 , is primarily due to the decrease in oneok partners 2019 share of northern border pipeline 2019s earnings from 70 percent in the first quarter of 2006 to 50 percent beginning in the second quarter of 2006 .",
+      "see page 75 for discussion of the disposition of the 20 percent partnership interest in northern border pipeline .",
+      "allowance for equity funds used during construction increased for 2007 , compared with 2006 , due to oneok partners 2019 capital projects , which are discussed beginning on page 31. ."
+    ],
+    "table": [
+      [
+        "operating information",
+        "years ended december 31 , 2007",
+        "years ended december 31 , 2006",
+        "years ended december 31 , 2005"
+      ],
+      [
+        "natural gas gathered ( bbtu/d )",
+        "1171",
+        "1168",
+        "1077"
+      ],
+      [
+        "natural gas processed ( bbtu/d )",
+        "621",
+        "988",
+        "1117"
+      ],
+      [
+        "natural gas transported ( mmcf/d )",
+        "3579",
+        "3634",
+        "1333"
+      ],
+      [
+        "natural gas sales ( bbtu/d )",
+        "281",
+        "302",
+        "334"
+      ],
+      [
+        "natural gas liquids gathered ( mbbl/d )",
+        "228",
+        "206",
+        "191 ( a )"
+      ],
+      [
+        "natural gas liquids sales ( mbbl/d )",
+        "231",
+        "207",
+        "207"
+      ],
+      [
+        "natural gas liquids fractionated ( mbbl/d )",
+        "356",
+        "313",
+        "292 ( a )"
+      ],
+      [
+        "natural gas liquids transported ( mbbl/d )",
+        "299",
+        "200",
+        "187 ( a )"
+      ],
+      [
+        "capital expenditures ( thousands of dollars )",
+        "$ 709858",
+        "$ 201746",
+        "$ 56255"
+      ],
+      [
+        "conway-to-mount belvieu opis average spread ethane/propane mixture ( $ /gallon )",
+        "$ 0.06",
+        "$ 0.05",
+        "$ 0.05"
+      ],
+      [
+        "realized composite ngl sales prices ( $ /gallon ) ( b )",
+        "$ 1.06",
+        "$ 0.93",
+        "$ 0.89"
+      ],
+      [
+        "realized condensate sales price ( $ /bbl ) ( b )",
+        "$ 67.35",
+        "$ 57.84",
+        "$ 52.69"
+      ],
+      [
+        "realized natural gas sales price ( $ /mmbtu ) ( b )",
+        "$ 6.21",
+        "$ 6.31",
+        "$ 7.30"
+      ],
+      [
+        "realized gross processing spread ( $ /mmbtu ) ( b )",
+        "$ 5.21",
+        "$ 5.05",
+        "$ 2.77"
+      ]
+    ],
+    "questions": [
+      "what were the increased one time benefits from non-cash charges from 2006 to 2007?"
+    ]
+  }
+}

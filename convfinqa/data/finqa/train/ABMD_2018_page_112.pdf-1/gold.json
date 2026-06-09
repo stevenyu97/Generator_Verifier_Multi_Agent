@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of non-cancelable future minimum lease payments are current?",
+      "answer": 0.20597,
+      "answer_raw": "0.20597",
+      "program": "divide(2078, 10089)"
+    }
+  ]
+}

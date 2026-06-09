@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was pnc's total carrying value from 2008-09 from its investment in blackrock , in billions?",
+      "answer": 10.0,
+      "answer_raw": "10.0",
+      "program": "add(5.8, 4.2)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average , in millions , home equity line of credit with balloon payments with draw periods from 2012 to 2016?",
+      "answer": 151.2,
+      "answer_raw": "151.2",
+      "program": "add(306, 44), add(#0, 60), add(#1, 100), add(#2, 246), divide(#3, const_5)"
+    }
+  ]
+}

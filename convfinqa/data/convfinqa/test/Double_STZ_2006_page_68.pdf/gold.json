@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the current ratio of robert mondavi?",
+      "answer": 1.65246,
+      "answer_raw": "1.65246",
+      "program": "divide(513782, 310919)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were the remaining mondovi net assets acquired following the sale of certain excess assets from the deal?",
+      "answer": 1042490.2,
+      "answer_raw": "1042490.2",
+      "program": "subtract(1042661, 170.8)"
+    }
+  ]
+}

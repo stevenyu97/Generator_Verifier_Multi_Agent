@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum between the non-current assets and the property and equipment?",
+      "answer": 163419.0,
+      "answer_raw": "163419.0",
+      "program": "add(24460, 138959)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the intangible assets (1)?",
+      "answer": 117990.0,
+      "answer_raw": "117990.0",
+      "program": "117990"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what is that sum result if we also include that intangible assets (1)?",
+      "answer": 281409.0,
+      "answer_raw": "281409.0",
+      "program": "add(24460, 138959), add(#0, 117990)"
+    }
+  ]
+}

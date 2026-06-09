@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "Single_C/2017/page_328.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "performance graph comparison of five-year cumulative total return the following graph and table compare the cumulative total return on citi 2019s common stock , which is listed on the nyse under the ticker symbol 201cc 201d and held by 65691 common stockholders of record as of january 31 , 2018 , with the cumulative total return of the s&p 500 index and the s&p financial index over the five-year period through december 31 , 2017 .",
+      "the graph and table assume that $ 100 was invested on december 31 , 2012 in citi 2019s common stock , the s&p 500 index and the s&p financial index , and that all dividends were reinvested .",
+      "comparison of five-year cumulative total return for the years ended date citi s&p 500 financials ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "date",
+        "citi",
+        "s&p 500",
+        "s&p financials"
+      ],
+      [
+        "31-dec-2012",
+        "100.0",
+        "100.0",
+        "100.0"
+      ],
+      [
+        "31-dec-2013",
+        "131.8",
+        "132.4",
+        "135.6"
+      ],
+      [
+        "31-dec-2014",
+        "137.0",
+        "150.5",
+        "156.2"
+      ],
+      [
+        "31-dec-2015",
+        "131.4",
+        "152.6",
+        "153.9"
+      ],
+      [
+        "31-dec-2016",
+        "152.3",
+        "170.8",
+        "188.9"
+      ],
+      [
+        "31-dec-2017",
+        "193.5",
+        "208.1",
+        "230.9"
+      ]
+    ],
+    "questions": [
+      "what is the value of citi common stock in 2017 less an initial $100 investment?",
+      "what is that divided by 100?"
+    ]
+  }
+}

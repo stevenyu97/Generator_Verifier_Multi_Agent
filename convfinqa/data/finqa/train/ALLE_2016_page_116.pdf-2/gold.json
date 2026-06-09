@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the years 2014-2016 , what is the average number of shares issuable under incentive stock plans , in millions?",
+      "answer": 1.06667,
+      "answer_raw": "1.06667",
+      "program": "table_average(shares issuable under incentive stock plans, none)"
+    }
+  ]
+}

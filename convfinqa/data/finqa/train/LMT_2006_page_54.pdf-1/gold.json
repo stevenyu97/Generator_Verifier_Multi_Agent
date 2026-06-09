@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were average net sales for space systems from 2004 to 2006 , in millions?",
+      "answer": 7034.0,
+      "answer_raw": "7034.0",
+      "program": "table_average(net sales, none)"
+    }
+  ]
+}

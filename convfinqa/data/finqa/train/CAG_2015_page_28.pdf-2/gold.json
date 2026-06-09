@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of net sales in fiscal 2014 where due to private brands?",
+      "answer": 0.26482,
+      "answer_raw": "0.26482",
+      "program": "divide(4195.7, 15843.6)"
+    }
+  ]
+}

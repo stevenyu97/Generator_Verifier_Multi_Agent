@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the new sites acquired or constructed during 2010 is located outside united states?",
+      "answer": 0.87878,
+      "answer_raw": "0.87878",
+      "program": "add(947, 6865), divide(6865, #0)"
+    }
+  ]
+}

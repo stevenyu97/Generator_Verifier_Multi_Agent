@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the range of market performance for the s&p 500 index from 2013-2018?",
+      "answer": 57.0,
+      "answer_raw": "57.0",
+      "program": "subtract(157, 100)"
+    }
+  ]
+}

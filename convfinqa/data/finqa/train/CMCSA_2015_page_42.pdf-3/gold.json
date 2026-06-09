@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the 5 year cumulative return in 2015 for the performance of comcast class a compared to the s&p 500 stock index",
+      "answer": 1.55,
+      "answer_raw": "1.55",
+      "program": "divide(279, 180)"
+    }
+  ]
+}

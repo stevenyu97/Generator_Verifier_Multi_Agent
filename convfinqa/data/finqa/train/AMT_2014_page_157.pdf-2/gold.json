@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the weighted average fair value per share of espp share purchase options from 2012 to 2013?",
+      "answer": -0.01613,
+      "answer_raw": "-0.01613",
+      "program": "subtract(13.42, 13.64), divide(#0, 13.64)"
+    }
+  ]
+}

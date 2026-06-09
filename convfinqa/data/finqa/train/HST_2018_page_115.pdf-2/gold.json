@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2018what was the percent of the hotels in our consolidated portfolio in the us",
+      "answer": 0.94624,
+      "answer_raw": "0.94624",
+      "program": "divide(88, 93)"
+    }
+  ]
+}

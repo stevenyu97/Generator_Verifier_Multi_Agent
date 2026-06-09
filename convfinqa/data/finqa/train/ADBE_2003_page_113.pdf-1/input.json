@@ -1,0 +1,96 @@
+{
+  "input": {
+    "id": "ADBE/2003/page_113.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "2003 and for hedging relationships designated after june 30 , 2003 .",
+      "the adoption of sfas 149 did not have a material impact on our consolidated financial position , results of operations or cash flows .",
+      "in may 2003 , the fasb issued statement of financial accounting standards no .",
+      "150 ( 201csfas 150 201d ) , 201caccounting for certain financial instruments with characteristics of both liabilities and equity . 201d sfas 150 requires that certain financial instruments , which under previous guidance were accounted for as equity , must now be accounted for as liabilities .",
+      "the financial instruments affected include mandatory redeemable stock , certain financial instruments that require or may require the issuer to buy back some of its shares in exchange for cash or other assets and certain obligations that can be settled with shares of stock .",
+      "sfas 150 is effective for all financial instruments entered into or modified after may 31 , 2003 , and otherwise is effective at the beginning of the first interim period beginning after june 15 , 2003 .",
+      "the adoption of sfas 150 did not have a material impact on our consolidated financial position , results of operations or cash flows .",
+      "note 2 .",
+      "acquisitions on may 19 , 2003 , we purchased the technology assets of syntrillium , a privately held company , for $ 16.5 million cash .",
+      "syntrillium developed , published and marketed digital audio tools including its recording application , cool edit pro ( renamed adobe audition ) , all of which have been added to our existing line of professional digital imaging and video products .",
+      "by adding adobe audition and the other tools to our existing line of products , we have improved the adobe video workflow and expanded the products and tools available to videographers , dvd authors and independent filmmakers .",
+      "in connection with the purchase , we allocated $ 13.7 million to goodwill , $ 2.7 million to purchased technology and $ 0.1 million to tangible assets .",
+      "we also accrued $ 0.1 million in acquisition-related legal and accounting fees .",
+      "goodwill has been allocated to our digital imaging and video segment .",
+      "purchased technology is being amortized to cost of product revenue over its estimated useful life of three years .",
+      "the consolidated financial statements include the operating results of the purchased technology assets from the date of purchase .",
+      "pro forma results of operations have not been presented because the effect of this acquisition was not material .",
+      "in april 2002 , we acquired all of the outstanding common stock of accelio .",
+      "accelio was a provider of web-enabled solutions that helped customers manage business processes driven by electronic forms .",
+      "the acquisition of accelio broadened our epaper solution business .",
+      "at the date of acquisition , the aggregate purchase price was $ 70.2 million , which included the issuance of 1.8 million shares of common stock of adobe , valued at $ 68.4 million , and cash of $ 1.8 million .",
+      "the following table summarizes the purchase price allocation: ."
+    ],
+    "post_text": [
+      "we allocated $ 2.7 million to purchased technology and $ 0.4 million to in-process research and development .",
+      "the amount allocated to purchased technology represented the fair market value of the technology for each of the existing products , as of the date of the acquisition .",
+      "the purchased technology was assigned a useful life of three years and is being amortized to cost of product revenue .",
+      "the amount allocated to in-process research and development was expensed at the time of acquisition due to the state of the development of certain products and the uncertainty of the technology .",
+      "the remaining purchase price was allocated to goodwill and was assigned to our epaper segment ( which was renamed intelligent documents beginning in fiscal 2004 ) .",
+      "in accordance with sfas no .",
+      "142 ."
+    ],
+    "table": [
+      [
+        "cash and cash equivalents",
+        "$ 9117"
+      ],
+      [
+        "accounts receivable net",
+        "11906"
+      ],
+      [
+        "other current assets",
+        "4735"
+      ],
+      [
+        "purchased technology",
+        "2710"
+      ],
+      [
+        "goodwill",
+        "77009"
+      ],
+      [
+        "in-process research and development",
+        "410"
+      ],
+      [
+        "trademarks and other intangible assets",
+        "1029"
+      ],
+      [
+        "total assets acquired",
+        "106916"
+      ],
+      [
+        "current liabilities",
+        "-18176 ( 18176 )"
+      ],
+      [
+        "liabilities recognized in connection with the business combination",
+        "-16196 ( 16196 )"
+      ],
+      [
+        "deferred revenue",
+        "-2360 ( 2360 )"
+      ],
+      [
+        "total liabilities assumed",
+        "-36732 ( 36732 )"
+      ],
+      [
+        "net assets acquired",
+        "$ 70184"
+      ]
+    ],
+    "questions": [
+      "what portion of total liability assumed from accelio was reported as current liabilities?"
+    ]
+  }
+}

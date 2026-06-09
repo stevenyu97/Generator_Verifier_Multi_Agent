@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the purchase price was spent on acquired technology?",
+      "answer": 0.14615,
+      "answer_raw": "0.14615",
+      "program": "divide(3.8, 26.0)"
+    }
+  ]
+}

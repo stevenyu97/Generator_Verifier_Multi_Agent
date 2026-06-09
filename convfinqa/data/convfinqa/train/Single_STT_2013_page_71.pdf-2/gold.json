@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average total short-duration advances in 2012?",
+      "answer": 3365.0,
+      "answer_raw": "3365.0",
+      "program": "3365"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for 2011?",
+      "answer": 3579.0,
+      "answer_raw": "3579.0",
+      "program": "3579"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between the two years?",
+      "answer": -214.0,
+      "answer_raw": "-214.0",
+      "program": "subtract(3365, 3579)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the specific value for 2011 again?",
+      "answer": 3579.0,
+      "answer_raw": "3579.0",
+      "program": "3579"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the growth rate during this time?",
+      "answer": -0.05979,
+      "answer_raw": "-0.05979",
+      "program": "subtract(3365, 3579), divide(#0, 3579)"
+    }
+  ]
+}

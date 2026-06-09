@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total number of securities approved by the security holders remains available for future issuance?",
+      "answer": 0.79897,
+      "answer_raw": "0.79897",
+      "program": "add(1233672, 4903018), divide(4903018, #0)"
+    }
+  ]
+}

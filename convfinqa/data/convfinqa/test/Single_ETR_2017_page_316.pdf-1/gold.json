@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of net revenues from 2016 and 2017?",
+      "answer": 3043.1,
+      "answer_raw": "3043.1",
+      "program": "add(1520.5, 1522.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that divided by 2?",
+      "answer": 1521.55,
+      "answer_raw": "1521.55",
+      "program": "add(1520.5, 1522.6), divide(#0, const_2)"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "Single_UNP/2008/page_34.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "compared to 2007 .",
+      "we reduced personal injury expense by $ 80 million in 2007 as a result of fewer than expected claims and lower than expected average settlement costs .",
+      "in 2008 , we reduced personal injury expense and asbestos-related costs $ 82 million based on the results of updated personal injury actuarial studies and a reassessment of our potential liability for resolution of current and future asbestos claims .",
+      "in addition , environmental and toxic tort expenses were $ 7 million lower in 2008 compared to 2007 .",
+      "other costs were lower in 2007 compared to 2006 driven primarily by a reduction in personal injury expense .",
+      "actuarial studies completed during 2007 resulted in a reduction in personal injury expense of $ 80 million , which was partially offset by an adverse development with respect to one claim .",
+      "settlement of insurance claims in 2007 related to hurricane rita , and higher equity income also drove expenses lower in 2007 versus 2006 .",
+      "conversely , the year-over-year comparison was affected by the settlement of insurance claims totaling $ 23 million in 2006 related to the january 2005 west coast storm and a $ 9 million gain in 2006 from the sale of two company-owned airplanes .",
+      "non-operating items millions of dollars 2008 2007 2006 % (  % ) change 2008 v 2007 % (  % ) change 2007 v 2006 ."
+    ],
+    "post_text": [
+      "other income 2013 other income decreased in 2008 compared to 2007 due to lower gains from real estate sales and decreased returns on cash investments reflecting lower interest rates .",
+      "higher rental and licensing income and lower interest expense on our sale of receivables program partially offset the decreases .",
+      "lower net gains from non-operating asset sales ( primarily real estate ) drove the reduction in other income in 2007 .",
+      "recognition of rental income in 2006 from the settlement of a rent dispute also contributed to the year-over-year decrease in other income .",
+      "cash investment returns increased $ 21 million due to larger cash balances and higher interest rates .",
+      "interest expense 2013 interest expense increased in 2008 versus 2007 due to a higher weighted-average debt level of $ 8.3 billion , compared to $ 7.3 billion in 2007 .",
+      "a lower effective interest rate of 6.1% ( 6.1 % ) in 2008 , compared to 6.6% ( 6.6 % ) in 2007 , partially offset the effects of the higher weighted-average debt level .",
+      "an increase in the weighted-average debt levels to $ 7.3 billion from $ 7.1 billion in 2006 generated higher interest expense in 2007 .",
+      "a lower effective interest rate of 6.6% ( 6.6 % ) in 2007 , compared to 6.7% ( 6.7 % ) in 2006 , partially offset the effects of the higher debt level .",
+      "income taxes 2013 income taxes were higher in 2008 compared to 2007 , driven by higher pre-tax income .",
+      "our effective tax rates were 36.1% ( 36.1 % ) and 38.4% ( 38.4 % ) in 2008 and 2007 , respectively .",
+      "the lower effective tax rate in 2008 resulted from several reductions in tax expense related to federal audits and state tax law changes .",
+      "in addition , the effective tax rate in 2007 was increased by illinois legislation that increased deferred tax expense in the third quarter of 2007 .",
+      "income taxes were $ 235 million higher in 2007 compared to 2006 , due primarily to higher pre-tax income and the effect of new tax legislation in the state of illinois that changed how we determine the amount of our income subject to illinois tax .",
+      "the illinois legislation increased our deferred tax expense by $ 27 million in 2007 .",
+      "our effective tax rates were 38.4% ( 38.4 % ) and 36.4% ( 36.4 % ) in 2007 and 2006 , respectively. ."
+    ],
+    "table": [
+      [
+        "millions of dollars",
+        "2008",
+        "2007",
+        "2006",
+        "% (  % ) change 2008 v 2007",
+        "% (  % ) change 2007 v 2006"
+      ],
+      [
+        "other income",
+        "$ 92",
+        "$ 116",
+        "$ 118",
+        "( 21 ) % (  % )",
+        "( 2 ) % (  % )"
+      ],
+      [
+        "interest expense",
+        "-511 ( 511 )",
+        "-482 ( 482 )",
+        "-477 ( 477 )",
+        "6",
+        "1"
+      ],
+      [
+        "income taxes",
+        "-1318 ( 1318 )",
+        "-1154 ( 1154 )",
+        "-919 ( 919 )",
+        "14 % (  % )",
+        "26 % (  % )"
+      ]
+    ],
+    "questions": [
+      "what was the sum of other income in 2007 and 2008?",
+      "what is the total sum including 2006?",
+      "what is that divided by 3?"
+    ]
+  }
+}

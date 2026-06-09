@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "AMT/2012/page_146.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements related contingent consideration , and any subsequent changes in fair value using a discounted probability- weighted approach .",
+      "this approach takes into consideration level 3 unobservable inputs including probability assessments of expected future cash flows over the period in which the obligation is expected to be settled and applies a discount factor that captures the uncertainties associated with the obligation .",
+      "changes in these unobservable inputs could significantly impact the fair value of the liabilities recorded in the accompanying consolidated balance sheets and operating expenses in the consolidated statements of operations .",
+      "as of december 31 , 2012 , the company estimates the value of all potential acquisition-related contingent consideration required payments to be between zero and $ 43.6 million .",
+      "during the years ended december 31 , 2012 and 2011 , the fair value of the contingent consideration changed as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "items measured at fair value on a nonrecurring basis 2014during the year ended december 31 , 2012 , certain long-lived assets held and used with a carrying value of $ 5379.2 million were written down to their net realizable value of $ 5357.7 million as a result of an asset impairment charge of $ 21.5 million , which was recorded in other operating expenses in the accompanying consolidated statements of operations .",
+      "during the year ended december 31 , 2011 , long-lived assets held and used with a carrying value of $ 4280.8 million were written down to their net realizable value of $ 4271.8 million , resulting in an asset impairment charge of $ 9.0 million .",
+      "these adjustments were determined by comparing the estimated proceeds from sale of assets or the projected future discounted cash flows to be provided from the long-lived assets ( calculated using level 3 inputs ) to the asset 2019s carrying value .",
+      "there were no other items measured at fair value on a nonrecurring basis during the year ended december 31 , 2012 .",
+      "fair value of financial instruments 2014the carrying value of the company 2019s financial instruments , with the exception of long-term obligations , including the current portion , reasonably approximate the related fair value as of december 31 , 2012 and 2011 .",
+      "the company 2019s estimates of fair value of its long-term obligations , including the current portion , are based primarily upon reported market values .",
+      "for long-term debt not actively traded , fair value was estimated using a discounted cash flow analysis using rates for debt with similar terms and maturities .",
+      "as of december 31 , 2012 , the carrying value and fair value of long-term obligations , including the current portion , were $ 8.8 billion and $ 9.4 billion , respectively , of which $ 4.9 billion was measured using level 1 inputs and $ 4.5 billion was measured using level 2 inputs .",
+      "as of december 31 , 2011 , the carrying value and fair value of long-term obligations , including the current portion , were $ 7.2 billion and $ 7.5 billion , respectively , of which $ 3.8 billion was measured using level 1 inputs and $ 3.7 billion was measured using level 2 inputs .",
+      "13 .",
+      "income taxes the company has filed , for prior taxable years through its taxable year ended december 31 , 2011 , a consolidated u.s .",
+      "federal tax return , which includes all of its wholly owned domestic subsidiaries .",
+      "for its taxable year commencing january 1 , 2012 , the company intends to file as a reit , and its domestic trss intend to file as c corporations .",
+      "the company also files tax returns in various states and countries .",
+      "the company 2019s state tax returns reflect different combinations of the company 2019s subsidiaries and are dependent on the connection each subsidiary has with a particular state .",
+      "the following information pertains to the company 2019s income taxes on a consolidated basis. ."
+    ],
+    "table": [
+      [
+        "",
+        "2012",
+        "2011"
+      ],
+      [
+        "balance as of january 1",
+        "$ 25617",
+        "$ 5809"
+      ],
+      [
+        "additions",
+        "6653",
+        "19853"
+      ],
+      [
+        "payments",
+        "-15716 ( 15716 )",
+        "-5742 ( 5742 )"
+      ],
+      [
+        "change in fair value",
+        "6329",
+        "5634"
+      ],
+      [
+        "foreign currency translation adjustment",
+        "828",
+        "63"
+      ],
+      [
+        "balance as of december 31",
+        "$ 23711",
+        "$ 25617"
+      ]
+    ],
+    "questions": [
+      "level 1 inputs are generally more accurate than level 2 . in 2012 , what percentage of long-term obligations , was not measured using level 1 inputs?"
+    ]
+  }
+}

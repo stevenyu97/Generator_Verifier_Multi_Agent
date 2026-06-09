@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2016 , what percentage of manufacturing and processing facilities are owned?",
+      "answer": 0.95402,
+      "answer_raw": "0.95402",
+      "program": "divide(83, 87)"
+    }
+  ]
+}

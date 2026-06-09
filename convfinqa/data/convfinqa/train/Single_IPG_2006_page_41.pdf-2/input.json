@@ -1,0 +1,93 @@
+{
+  "input": {
+    "id": "Single_IPG/2006/page_41.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "credit agency ratings our long-term debt credit ratings as of february 16 , 2007 were ba3 with negative outlook , b creditwatch negative and b with negative outlook , as reported by moody 2019s investors service , standard & poor 2019s and fitch ratings , respectively .",
+      "a downgrade in our credit ratings could adversely affect our ability to access capital and could result in more stringent covenants and higher interest rates under the terms of any new indebtedness .",
+      "contractual obligations the following summarizes our estimated contractual obligations at december 31 , 2006 , and their effect on our liquidity and cash flow in future periods: ."
+    ],
+    "post_text": [
+      "contingent acquisition payments 2 47.2 34.2 20.8 2.5 2.0 3.1 109.8 1 holders of our $ 400.0 4.50% ( 4.50 % ) notes may require us to repurchase their notes for cash at par in march 2008 .",
+      "these notes will mature in 2023 if not converted or repurchased .",
+      "2 we have structured certain acquisitions with additional contingent purchase price obligations in order to reduce the potential risk associated with negative future performance of the acquired entity .",
+      "all payments are contingent upon achieving projected operating performance targets and satisfying other conditions specified in the related agreements and are subject to revisions as the earn-out periods progress .",
+      "see note 18 to the consolidated financial statements for further information .",
+      "we have not included obligations under our pension and postretirement benefit plans in the contractual obligations table .",
+      "our funding policy regarding our funded pension plan is to contribute amounts necessary to satisfy minimum pension funding requirements plus such additional amounts from time to time as are determined to be appropriate to improve the plans 2019 funded status .",
+      "the funded status of our pension plans is dependent upon many factors , including returns on invested assets , level of market interest rates and levels of voluntary contributions to the plans .",
+      "declines in long-term interest rates have had a negative impact on the funded status of the plans .",
+      "for 2007 , we do not expect to contribute to our domestic pension plans , and expect to contribute $ 20.6 to our foreign pension plans .",
+      "we have not included our deferred tax obligations in the contractual obligations table as the timing of any future payments in relation to these obligations is uncertain .",
+      "derivatives and hedging activities we periodically enter into interest rate swap agreements and forward contracts to manage exposure to interest rate fluctuations and to mitigate foreign exchange volatility .",
+      "in may of 2005 , we terminated all of our long-term interest rate swap agreements covering the $ 350.0 6.25% ( 6.25 % ) senior unsecured notes and $ 150.0 of the $ 500.0 7.25% ( 7.25 % ) senior unsecured notes .",
+      "in connection with the interest rate swap termination , our net cash receipts were $ 1.1 , which is recorded as an offset to interest expense over the remaining life of the related debt .",
+      "we have entered into foreign currency transactions in which various foreign currencies are bought or sold forward .",
+      "these contracts were entered into to meet currency requirements arising from specific transactions .",
+      "the changes in value of these forward contracts have been recorded in other income or expense .",
+      "as of december 31 , 2006 and 2005 , we had contracts covering $ 0.2 and $ 6.2 , respectively , of notional amount of currency and the fair value of the forward contracts was negligible .",
+      "the terms of the 4.50% ( 4.50 % ) notes include two embedded derivative instruments and the terms of our 4.25% ( 4.25 % ) notes and our series b preferred stock each include one embedded derivative instrument .",
+      "the fair value of these derivatives on december 31 , 2006 was negligible .",
+      "the interpublic group of companies , inc .",
+      "and subsidiaries management 2019s discussion and analysis of financial condition and results of operations 2014 ( continued ) ( amounts in millions , except per share amounts ) %%transmsg*** transmitting job : y31000 pcn : 036000000 ***%%pcmsg|36 |00005|yes|no|02/28/2007 01:12|0|0|page is valid , no graphics -- color : d| ."
+    ],
+    "table": [
+      [
+        "",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "thereafter",
+        "total"
+      ],
+      [
+        "long-term debt1",
+        "$ 2.6",
+        "$ 2.8",
+        "$ 257.0",
+        "$ 240.9",
+        "$ 500.0",
+        "$ 1247.9",
+        "$ 2251.2"
+      ],
+      [
+        "interest payments",
+        "122.0",
+        "116.1",
+        "107.1",
+        "93.6",
+        "75.1",
+        "74.1",
+        "588.0"
+      ],
+      [
+        "non-cancelable operating lease obligations",
+        "292.3",
+        "265.2",
+        "237.4",
+        "207.9",
+        "181.9",
+        "861.2",
+        "2045.9"
+      ],
+      [
+        "contingent acquisition payments2",
+        "47.2",
+        "34.2",
+        "20.8",
+        "2.5",
+        "2.0",
+        "3.1",
+        "109.8"
+      ]
+    ],
+    "questions": [
+      "what was the total in long-term debt and interest payments, combined, in 2007?",
+      "and what was the amount in non-cancelable operating lease obligations in that same year?",
+      "including this amount, what then becomes that total?",
+      "and including the contingent acquisition payments in 2007, what then becomes the total?"
+    ]
+  }
+}

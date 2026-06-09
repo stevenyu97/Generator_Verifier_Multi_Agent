@@ -1,0 +1,45 @@
+{
+  "input": {
+    "id": "JPM/2009/page_132.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis jpmorgan chase & co./2009 annual report 130 the following histogram illustrates the daily market risk 2013related gains and losses for ib and consumer/cio positions for 2009 .",
+      "the chart shows that the firm posted market risk 2013related gains on 227 out of 261 days in this period , with 69 days exceeding $ 160 million .",
+      "the inset graph looks at those days on which the firm experienced losses and depicts the amount by which the 95% ( 95 % ) confidence level var exceeded the actual loss on each of those days .",
+      "losses were sustained on 34 days during 2009 and exceeded the var measure on one day due to high market volatility in the first quarter of 2009 .",
+      "under the 95% ( 95 % ) confidence interval , the firm would expect to incur daily losses greater than that pre- dicted by var estimates about twelve times a year .",
+      "the following table provides information about the gross sensitivity of dva to a one-basis-point increase in jpmorgan chase 2019s credit spreads .",
+      "this sensitivity represents the impact from a one-basis-point parallel shift in jpmorgan chase 2019s entire credit curve .",
+      "as credit curves do not typically move in a parallel fashion , the sensitivity multiplied by the change in spreads at a single maturity point may not be representative of the actual revenue recognized .",
+      "debit valuation adjustment sensitivity 1 basis point increase in ( in millions ) jpmorgan chase credit spread ."
+    ],
+    "post_text": [
+      "loss advisories and drawdowns loss advisories and drawdowns are tools used to highlight to senior management trading losses above certain levels and initiate discus- sion of remedies .",
+      "economic value stress testing while var reflects the risk of loss due to adverse changes in normal markets , stress testing captures the firm 2019s exposure to unlikely but plausible events in abnormal markets .",
+      "the firm conducts economic- value stress tests using multiple scenarios that assume credit spreads widen significantly , equity prices decline and significant changes in interest rates across the major currencies .",
+      "other scenar- ios focus on the risks predominant in individual business segments and include scenarios that focus on the potential for adverse movements in complex portfolios .",
+      "scenarios were updated more frequently in 2009 and , in some cases , redefined to reflect the signifi- cant market volatility which began in late 2008 .",
+      "along with var , stress testing is important in measuring and controlling risk .",
+      "stress testing enhances the understanding of the firm 2019s risk profile and loss potential , and stress losses are monitored against limits .",
+      "stress testing is also utilized in one-off approvals and cross-business risk measurement , as well as an input to economic capital allocation .",
+      "stress-test results , trends and explanations based on current market risk positions are reported to the firm 2019s senior management and to the lines of business to help them better measure and manage risks and to understand event risk 2013sensitive positions. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "1 basis point increase in jpmorgan chase credit spread"
+      ],
+      [
+        "december 31 2009",
+        "$ 39"
+      ],
+      [
+        "december 31 2008",
+        "$ 37"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the basis point increase in jpmorgan chase credit spread from 2008 \\\\n to 2009"
+    ]
+  }
+}

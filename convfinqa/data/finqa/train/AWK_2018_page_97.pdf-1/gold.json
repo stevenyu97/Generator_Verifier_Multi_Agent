@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were total net capital expenditures in millions for the three year period\\\\n?",
+      "answer": -4331.0,
+      "answer_raw": "-4331.0",
+      "program": "table_sum(net capital expenditures, none)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions for 2017 , 2016 , and 2015 , what was the minimum amount of equity securities?",
+      "answer": 2573.0,
+      "answer_raw": "2573.0",
+      "program": "table_min(equity securities, none)"
+    }
+  ]
+}

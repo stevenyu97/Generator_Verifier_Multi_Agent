@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "Single_PM/2014/page_112.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "note 17 .",
+      "accumulated other comprehensive losses : pmi's accumulated other comprehensive losses , net of taxes , consisted of the following: ."
+    ],
+    "post_text": [
+      "reclassifications from other comprehensive earnings the movements in accumulated other comprehensive losses and the related tax impact , for each of the components above , that are due to current period activity and reclassifications to the income statement are shown on the consolidated statements of comprehensive earnings for the years ended december 31 , 2014 , 2013 , and 2012 .",
+      "the movement in currency translation adjustments for the year ended december 31 , 2013 , was also impacted by the purchase of the remaining shares of the mexican tobacco business .",
+      "in addition , $ 5 million and $ 12 million of net currency translation adjustment gains were transferred from other comprehensive earnings to marketing , administration and research costs in the consolidated statements of earnings for the years ended december 31 , 2014 and 2013 , respectively , upon liquidation of a subsidiary .",
+      "for additional information , see note 13 .",
+      "benefit plans and note 15 .",
+      "financial instruments for disclosures related to pmi's pension and other benefits and derivative financial instruments .",
+      "note 18 .",
+      "colombian investment and cooperation agreement : on june 19 , 2009 , pmi announced that it had signed an agreement with the republic of colombia , together with the departments of colombia and the capital district of bogota , to promote investment and cooperation with respect to the colombian tobacco market and to fight counterfeit and contraband tobacco products .",
+      "the investment and cooperation agreement provides $ 200 million in funding to the colombian governments over a 20-year period to address issues of mutual interest , such as combating the illegal cigarette trade , including the threat of counterfeit tobacco products , and increasing the quality and quantity of locally grown tobacco .",
+      "as a result of the investment and cooperation agreement , pmi recorded a pre-tax charge of $ 135 million in the operating results of the latin america & canada segment during the second quarter of 2009 .",
+      "at december 31 , 2014 and 2013 , pmi had $ 71 million and $ 74 million , respectively , of discounted liabilities associated with the colombian investment and cooperation agreement .",
+      "these discounted liabilities are primarily reflected in other long-term liabilities on the consolidated balance sheets and are expected to be paid through 2028 .",
+      "note 19 .",
+      "rbh legal settlement : on july 31 , 2008 , rothmans inc .",
+      "( \"rothmans\" ) announced the finalization of a cad 550 million settlement ( or approximately $ 540 million , based on the prevailing exchange rate at that time ) between itself and rothmans , benson & hedges inc .",
+      "( \"rbh\" ) , on the one hand , and the government of canada and all 10 provinces , on the other hand .",
+      "the settlement resolved the royal canadian mounted police's investigation relating to products exported from canada by rbh during the 1989-1996 period .",
+      "rothmans' sole holding was a 60% ( 60 % ) interest in rbh .",
+      "the remaining 40% ( 40 % ) interest in rbh was owned by pmi. ."
+    ],
+    "table": [
+      [
+        "( losses ) earnings ( in millions )",
+        "( losses ) earnings 2014",
+        "( losses ) earnings 2013",
+        "2012"
+      ],
+      [
+        "currency translation adjustments",
+        "$ -3929 ( 3929 )",
+        "$ -2207 ( 2207 )",
+        "$ -331 ( 331 )"
+      ],
+      [
+        "pension and other benefits",
+        "-3020 ( 3020 )",
+        "-2046 ( 2046 )",
+        "-3365 ( 3365 )"
+      ],
+      [
+        "derivatives accounted for as hedges",
+        "123",
+        "63",
+        "92"
+      ],
+      [
+        "total accumulated other comprehensive losses",
+        "$ -6826 ( 6826 )",
+        "$ -4190 ( 4190 )",
+        "$ -3604 ( 3604 )"
+      ]
+    ],
+    "questions": [
+      "what was the difference pmi between 2013 and 2014?",
+      "so what was the percentage change during this time?"
+    ]
+  }
+}

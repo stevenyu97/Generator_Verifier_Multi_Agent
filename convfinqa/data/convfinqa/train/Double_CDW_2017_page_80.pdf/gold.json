@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage of corporate goodwill balances from the small business segment as of 12/31/17?",
+      "answer": 0.17308,
+      "answer_raw": "0.17308",
+      "program": "divide(185.9, 1074.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the percent of total goodwill balance that was public as of 12/31/14?",
+      "answer": 0.41094,
+      "answer_raw": "0.41094",
+      "program": "divide(911.3, 2217.6)"
+    }
+  ]
+}

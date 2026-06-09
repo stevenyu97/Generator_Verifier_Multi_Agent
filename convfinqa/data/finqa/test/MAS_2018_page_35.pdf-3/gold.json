@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage growth in the operating profit as reported from 2017 to 2018",
+      "answer": 0.01424,
+      "answer_raw": "0.01424",
+      "program": "subtract(1211, 1194), divide(#0, 1194)"
+    }
+  ]
+}

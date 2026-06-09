@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "ETR/2009/page_107.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries notes to financial statements in november 2000 , entergy's non-utility nuclear business purchased the fitzpatrick and indian point 3 power plants in a seller-financed transaction .",
+      "entergy issued notes to nypa with seven annual installments of approximately $ 108 million commencing one year from the date of the closing , and eight annual installments of $ 20 million commencing eight years from the date of the closing .",
+      "these notes do not have a stated interest rate , but have an implicit interest rate of 4.8% ( 4.8 % ) .",
+      "in accordance with the purchase agreement with nypa , the purchase of indian point 2 in 2001 resulted in entergy's non-utility nuclear business becoming liable to nypa for an additional $ 10 million per year for 10 years , beginning in september 2003 .",
+      "this liability was recorded upon the purchase of indian point 2 in september 2001 , and is included in the note payable to nypa balance above .",
+      "in july 2003 , a payment of $ 102 million was made prior to maturity on the note payable to nypa .",
+      "under a provision in a letter of credit supporting these notes , if certain of the utility operating companies or system energy were to default on other indebtedness , entergy could be required to post collateral to support the letter of credit .",
+      "covenants in the entergy corporation notes require it to maintain a consolidated debt ratio of 65% ( 65 % ) or less of its total capitalization .",
+      "if entergy's debt ratio exceeds this limit , or if entergy corporation or certain of the utility operating companies default on other indebtedness or are in bankruptcy or insolvency proceedings , an acceleration of the notes' maturity dates may occur .",
+      "entergy gulf states louisiana , entergy louisiana , entergy mississippi , entergy texas , and system energy have received ferc long-term financing orders authorizing long-term securities issuances .",
+      "entergy arkansas has received an apsc long-term financing order authorizing long-term securities issuances .",
+      "the long-term securities issuances of entergy new orleans are limited to amounts authorized by the city council , and the current authorization extends through august 2010 .",
+      "capital funds agreement pursuant to an agreement with certain creditors , entergy corporation has agreed to supply system energy with sufficient capital to : maintain system energy's equity capital at a minimum of 35% ( 35 % ) of its total capitalization ( excluding short- term debt ) ; permit the continued commercial operation of grand gulf ; pay in full all system energy indebtedness for borrowed money when due ; and enable system energy to make payments on specific system energy debt , under supplements to the agreement assigning system energy's rights in the agreement as security for the specific debt .",
+      "entergy texas securitization bonds - hurricane rita in april 2007 , the puct issued a financing order authorizing the issuance of securitization bonds to recover $ 353 million of entergy texas' hurricane rita reconstruction costs and up to $ 6 million of transaction costs , offset by $ 32 million of related deferred income tax benefits .",
+      "in june 2007 , entergy gulf states reconstruction funding i , llc , a company wholly-owned and consolidated by entergy texas , issued $ 329.5 million of senior secured transition bonds ( securitization bonds ) , as follows : amount ( in thousands ) ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in thousands )"
+      ],
+      [
+        "senior secured transition bonds series a:",
+        ""
+      ],
+      [
+        "tranche a-1 ( 5.51% ( 5.51 % ) ) due october 2013",
+        "$ 93500"
+      ],
+      [
+        "tranche a-2 ( 5.79% ( 5.79 % ) ) due october 2018",
+        "121600"
+      ],
+      [
+        "tranche a-3 ( 5.93% ( 5.93 % ) ) due june 2022",
+        "114400"
+      ],
+      [
+        "total senior secured transition bonds",
+        "$ 329500"
+      ]
+    ],
+    "questions": [
+      "what was the sum of the notes issued by entergy to nypa"
+    ]
+  }
+}

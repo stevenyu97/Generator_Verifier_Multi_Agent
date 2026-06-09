@@ -1,0 +1,115 @@
+{
+  "input": {
+    "id": "GS/2016/page_70.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the goldman sachs group , inc .",
+      "and subsidiaries management 2019s discussion and analysis non-interest revenues .",
+      "investment banking revenues in the consolidated statements of earnings were $ 7.03 billion for 2015 , 9% ( 9 % ) higher than 2014 , due to significantly higher revenues in financial advisory , reflecting strong client activity , particularly in the u.s .",
+      "industry-wide completed mergers and acquisitions increased significantly compared with the prior year .",
+      "revenues in underwriting were lower compared with a strong 2014 .",
+      "revenues in debt underwriting were lower compared with 2014 , reflecting significantly lower leveraged finance activity .",
+      "revenues in equity underwriting were also lower , reflecting significantly lower revenues from initial public offerings and convertible offerings , partially offset by significantly higher revenues from secondary offerings .",
+      "investment management revenues in the consolidated statements of earnings were $ 5.87 billion for 2015 , 2% ( 2 % ) higher than 2014 , due to slightly higher management and other fees , primarily reflecting higher average assets under supervision , and higher transaction revenues .",
+      "commissions and fees in the consolidated statements of earnings were $ 3.32 billion for 2015 , essentially unchanged compared with 2014 .",
+      "market-making revenues in the consolidated statements of earnings were $ 9.52 billion for 2015 , 14% ( 14 % ) higher than 2014 .",
+      "excluding a gain of $ 289 million in 2014 related to the extinguishment of certain of our junior subordinated debt , market-making revenues were 18% ( 18 % ) higher than 2014 , reflecting significantly higher revenues in interest rate products , currencies , equity cash products and equity derivatives .",
+      "these increases were partially offset by significantly lower revenues in mortgages , commodities and credit products .",
+      "other principal transactions revenues in the consolidated statements of earnings were $ 5.02 billion for 2015 , 24% ( 24 % ) lower than 2014 .",
+      "this decrease was primarily due to lower revenues from investments in equities , principally reflecting the sale of metro international trade services ( metro ) in the fourth quarter of 2014 and lower net gains from investments in private equities , driven by corporate performance .",
+      "in addition , revenues in debt securities and loans were significantly lower , reflecting lower net gains from investments .",
+      "net interest income .",
+      "net interest income in the consolidated statements of earnings was $ 3.06 billion for 2015 , 24% ( 24 % ) lower than 2014 .",
+      "the decrease compared with 2014 was due to lower interest income resulting from a reduction in interest income related to financial instruments owned , at fair value , partially offset by the impact of an increase in total average loans receivable .",
+      "the decrease in interest income was partially offset by a decrease in interest expense , which primarily reflected lower interest expense related to financial instruments sold , but not yet purchased , at fair value and other interest-bearing liabilities , partially offset by higher interest expense related to long-term borrowings .",
+      "see 201csupplemental financial information 2014 statistical disclosures 2014 distribution of assets , liabilities and shareholders 2019 equity 201d for further information about our sources of net interest income .",
+      "operating expenses our operating expenses are primarily influenced by compensation , headcount and levels of business activity .",
+      "compensation and benefits includes salaries , discretionary compensation , amortization of equity awards and other items such as benefits .",
+      "discretionary compensation is significantly impacted by , among other factors , the level of net revenues , overall financial performance , prevailing labor markets , business mix , the structure of our share- based compensation programs and the external environment .",
+      "in addition , see 201cuse of estimates 201d for additional information about expenses that may arise from litigation and regulatory proceedings .",
+      "in the context of the challenging environment during the first half of 2016 , we completed an initiative that identified areas where we can operate more efficiently , resulting in a reduction of approximately $ 900 million in annual run rate compensation .",
+      "for 2016 , net savings from this initiative , after severance and other related costs , were approximately $ 500 million .",
+      "the table below presents our operating expenses and total staff ( which includes employees , consultants and temporary staff ) . ."
+    ],
+    "post_text": [
+      "56 goldman sachs 2016 form 10-k ."
+    ],
+    "table": [
+      [
+        "$ in millions",
+        "year ended december 2016",
+        "year ended december 2015",
+        "year ended december 2014"
+      ],
+      [
+        "compensation and benefits",
+        "$ 11647",
+        "$ 12678",
+        "$ 12691"
+      ],
+      [
+        "brokerage clearing exchange anddistribution fees",
+        "2555",
+        "2576",
+        "2501"
+      ],
+      [
+        "market development",
+        "457",
+        "557",
+        "549"
+      ],
+      [
+        "communications and technology",
+        "809",
+        "806",
+        "779"
+      ],
+      [
+        "depreciation and amortization",
+        "998",
+        "991",
+        "1337"
+      ],
+      [
+        "occupancy",
+        "788",
+        "772",
+        "827"
+      ],
+      [
+        "professional fees",
+        "882",
+        "963",
+        "902"
+      ],
+      [
+        "other expenses",
+        "2168",
+        "5699",
+        "2585"
+      ],
+      [
+        "total non-compensation expenses",
+        "8657",
+        "12364",
+        "9480"
+      ],
+      [
+        "total operating expenses",
+        "$ 20304",
+        "$ 25042",
+        "$ 22171"
+      ],
+      [
+        "total staff at period-end",
+        "34400",
+        "36800",
+        "34000"
+      ]
+    ],
+    "questions": [
+      "what is the net change in the number of staff in 2016?"
+    ]
+  }
+}

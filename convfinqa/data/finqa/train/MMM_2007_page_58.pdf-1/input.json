@@ -1,0 +1,100 @@
+{
+  "input": {
+    "id": "MMM/2007/page_58.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the 2006 impact on the consolidated balance sheet of the purchase price allocations related to the 2006 acquisitions and adjustments relative to other acquisitions within the allocation period were provided in the preceding table .",
+      "year 2005 acquisitions : the company acquired cuno on august 2 , 2005 .",
+      "the operating results of cuno are included in the industrial and transportation business segment .",
+      "cuno is engaged in the design , manufacture and marketing of a comprehensive line of filtration products for the separation , clarification and purification of fluids and gases .",
+      "3m and cuno have complementary sets of filtration technologies , creating an opportunity to bring an even wider range of filtration solutions to customers around the world .",
+      "3m acquired cuno for approximately $ 1.36 billion , comprised of $ 1.27 billion of cash paid ( net of cash acquired ) and the acquisition of $ 80 million of debt , most of which has been repaid .",
+      "purchased identifiable intangible assets of $ 268 million for the cuno acquisition will be amortized on a straight-line basis over lives ranging from 5 to 20 years ( weighted-average life of 15 years ) .",
+      "in-process research and development charges from the cuno acquisition were not material .",
+      "pro forma information related to this acquisition is not included because its impact on the company 2019s consolidated results of operations is not considered to be material .",
+      "the allocation of the purchase price is presented in the table that follows .",
+      "2005 cuno acquisition asset ( liability ) ( millions ) ."
+    ],
+    "post_text": [
+      "during the year ended december 31 , 2005 , 3m entered into two immaterial additional business combinations for a total purchase price of $ 27 million , net of cash acquired .",
+      "1 ) 3m ( electro and communications business ) purchased certain assets of siemens ultrasound division 2019s flexible circuit manufacturing line , a u.s .",
+      "operation .",
+      "the acquired operation produces flexible interconnect circuits that provide electrical connections between components in electronics systems used primarily in the transducers of ultrasound machines .",
+      "2 ) 3m ( display and graphics business ) purchased certain assets of mercury online solutions inc. , a u.s .",
+      "operation .",
+      "the acquired operation provides hardware and software technologies and network management services for digital signage and interactive kiosk networks .",
+      "note 3 .",
+      "goodwill and intangible assets as discussed in note 16 to the consolidated financial statements , effective in the first quarter of 2007 , 3m made certain product moves between its business segments , which resulted in changes in the goodwill balances by business segment as presented below .",
+      "for those changes that resulted in reporting unit changes , the company applied the relative fair value method to determine the impact to reporting units .",
+      "sfas no .",
+      "142 , 201cgoodwill and other intangible assets , 201d requires that goodwill be tested for impairment at least annually and when reporting units are changed .",
+      "purchased goodwill from acquisitions totaled $ 326 million in 2007 , $ 55 million of which is deductible for tax purposes .",
+      "purchased goodwill from acquisitions totaled $ 536 million in 2006 , $ 41 million of which is deductible for tax purposes. ."
+    ],
+    "table": [
+      [
+        "accounts receivable",
+        "$ 96"
+      ],
+      [
+        "inventory",
+        "61"
+      ],
+      [
+        "property plant and equipment 2014 net",
+        "121"
+      ],
+      [
+        "purchased intangible assets",
+        "268"
+      ],
+      [
+        "purchased goodwill",
+        "992"
+      ],
+      [
+        "other assets",
+        "30"
+      ],
+      [
+        "deferred tax liability",
+        "-102 ( 102 )"
+      ],
+      [
+        "accounts payable and other current liabilities",
+        "-104 ( 104 )"
+      ],
+      [
+        "interest bearing debt",
+        "-80 ( 80 )"
+      ],
+      [
+        "other long-term liabilities",
+        "-16 ( 16 )"
+      ],
+      [
+        "net assets acquired",
+        "$ 1266"
+      ],
+      [
+        "supplemental information:",
+        ""
+      ],
+      [
+        "cash paid",
+        "$ 1294"
+      ],
+      [
+        "less : cash acquired",
+        "28"
+      ],
+      [
+        "cash paid net of cash acquired",
+        "$ 1266"
+      ]
+    ],
+    "questions": [
+      "what was the percentage of the cash bought to total cash paid"
+    ]
+  }
+}

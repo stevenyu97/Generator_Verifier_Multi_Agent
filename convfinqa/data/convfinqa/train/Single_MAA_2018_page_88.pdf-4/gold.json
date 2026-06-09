@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the weighted average grant date fair value per share of restricted stock in 2017?",
+      "answer": 84.53,
+      "answer_raw": "84.53",
+      "program": "84.53"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2016?",
+      "answer": 73.2,
+      "answer_raw": "73.2",
+      "program": "73.20"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 11.33,
+      "answer_raw": "11.33",
+      "program": "subtract(84.53, 73.20)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage change does this represent?",
+      "answer": 0.15478,
+      "answer_raw": "0.15478",
+      "program": "subtract(84.53, 73.20), divide(#0, 73.20)"
+    }
+  ]
+}

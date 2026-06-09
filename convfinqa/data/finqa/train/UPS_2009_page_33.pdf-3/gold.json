@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the roi of an investment in s&p500 in 2004 and sold in 2006?",
+      "answer": 0.2148,
+      "answer_raw": "0.2148",
+      "program": "subtract(121.48, const_100), divide(#0, const_100)"
+    }
+  ]
+}

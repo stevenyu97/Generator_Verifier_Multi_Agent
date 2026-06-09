@@ -1,0 +1,79 @@
+{
+  "input": {
+    "id": "V/2013/page_116.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "visa inc .",
+      "notes to consolidated financial statements 2014 ( continued ) september 30 , 2013 market condition is based on the company 2019s total shareholder return ranked against that of other companies that are included in the standard & poor 2019s 500 index .",
+      "the fair value of the performance- based shares , incorporating the market condition , is estimated on the grant date using a monte carlo simulation model .",
+      "the grant-date fair value of performance-based shares in fiscal 2013 , 2012 and 2011 was $ 164.14 , $ 97.84 and $ 85.05 per share , respectively .",
+      "earned performance shares granted in fiscal 2013 and 2012 vest approximately three years from the initial grant date .",
+      "earned performance shares granted in fiscal 2011 vest in two equal installments approximately two and three years from their respective grant dates .",
+      "all performance awards are subject to earlier vesting in full under certain conditions .",
+      "compensation cost for performance-based shares is initially estimated based on target performance .",
+      "it is recorded net of estimated forfeitures and adjusted as appropriate throughout the performance period .",
+      "at september 30 , 2013 , there was $ 15 million of total unrecognized compensation cost related to unvested performance-based shares , which is expected to be recognized over a weighted-average period of approximately 1.0 years .",
+      "note 17 2014commitments and contingencies commitments .",
+      "the company leases certain premises and equipment throughout the world with varying expiration dates .",
+      "the company incurred total rent expense of $ 94 million , $ 89 million and $ 76 million in fiscal 2013 , 2012 and 2011 , respectively .",
+      "future minimum payments on leases , and marketing and sponsorship agreements per fiscal year , at september 30 , 2013 , are as follows: ."
+    ],
+    "post_text": [
+      "select sponsorship agreements require the company to spend certain minimum amounts for advertising and marketing promotion over the life of the contract .",
+      "for commitments where the individual years of spend are not specified in the contract , the company has estimated the timing of when these amounts will be spent .",
+      "in addition to the fixed payments stated above , select sponsorship agreements require the company to undertake marketing , promotional or other activities up to stated monetary values to support events which the company is sponsoring .",
+      "the stated monetary value of these activities typically represents the value in the marketplace , which may be significantly in excess of the actual costs incurred by the company .",
+      "client incentives .",
+      "the company has agreements with financial institution clients and other business partners for various programs designed to build payments volume , increase visa-branded card and product acceptance and win merchant routing transactions .",
+      "these agreements , with original terms ranging from one to thirteen years , can provide card issuance and/or conversion support , volume/growth targets and marketing and program support based on specific performance requirements .",
+      "these agreements are designed to encourage client business and to increase overall visa-branded payment and transaction volume , thereby reducing per-unit transaction processing costs and increasing brand awareness for all visa clients .",
+      "payments made that qualify for capitalization , and obligations incurred under these programs are reflected on the consolidated balance sheet .",
+      "client incentives are recognized primarily as a reduction ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "thereafter",
+        "total"
+      ],
+      [
+        "operating leases",
+        "$ 100",
+        "$ 77",
+        "$ 43",
+        "$ 35",
+        "$ 20",
+        "$ 82",
+        "$ 357"
+      ],
+      [
+        "marketing and sponsorships",
+        "116",
+        "117",
+        "61",
+        "54",
+        "54",
+        "178",
+        "580"
+      ],
+      [
+        "total",
+        "$ 216",
+        "$ 194",
+        "$ 104",
+        "$ 89",
+        "$ 74",
+        "$ 260",
+        "$ 937"
+      ]
+    ],
+    "questions": [
+      "in 2013 what was the percent of the future minimum payments on leases , and marketing and sponsorship for operating leases that was due in"
+    ]
+  }
+}

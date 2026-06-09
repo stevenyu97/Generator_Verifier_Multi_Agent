@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of deferred taxes, current, after the application times -1?",
+      "answer": -28.0,
+      "answer_raw": "-28.0",
+      "program": "multiply(28, const_m1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that value plus the value of deferred taxes, long-term?",
+      "answer": 199.0,
+      "answer_raw": "199.0",
+      "program": "multiply(28, const_m1), add(#0, 227)"
+    }
+  ]
+}

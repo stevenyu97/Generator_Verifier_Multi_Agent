@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total fair value impact of all instruments as of may 28 , 2006?",
+      "answer": 13.0,
+      "answer_raw": "13.0",
+      "program": "add(8, 2), add(#0, 2), add(#1, 1)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what year does the initial lease expire for the chicago headquarters?",
+      "answer": 2022.0,
+      "answer_raw": "2022.0",
+      "program": "2022"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that plus 9?",
+      "answer": 2031.0,
+      "answer_raw": "2031.0",
+      "program": "add(2022, const_9)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is that value plus 10?",
+      "answer": 2041.0,
+      "answer_raw": "2041.0",
+      "program": "add(2022, const_9), add(#0, const_10)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the company's goodwill balance between the beginning of 2016 and the end of 2017?",
+      "answer": 82934.0,
+      "answer_raw": "82934.0",
+      "program": "subtract(93192, 10258)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total value of the company's goodwill balance in the beginning of 2016?",
+      "answer": 10258.0,
+      "answer_raw": "10258.0",
+      "program": "10258"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this total value, in percentage?",
+      "answer": 8.08481,
+      "answer_raw": "8.08481",
+      "program": "subtract(93192, 10258), divide(#0, 10258)"
+    }
+  ]
+}

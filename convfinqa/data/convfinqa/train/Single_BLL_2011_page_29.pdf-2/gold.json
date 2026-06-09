@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the performance value of the dj us containers & packaging from 2006 to 2008?",
+      "answer": -33.09,
+      "answer_raw": "-33.09",
+      "program": "subtract(66.91, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to that performance value in 2006?",
+      "answer": -0.3309,
+      "answer_raw": "-0.3309",
+      "program": "subtract(66.91, const_100), divide(#0, const_100)"
+    }
+  ]
+}

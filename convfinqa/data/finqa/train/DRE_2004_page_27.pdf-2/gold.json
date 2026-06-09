@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in rental income from continuing operations from 2002 to 2003?",
+      "answer": 5.59352,
+      "answer_raw": "5.59352",
+      "program": "subtract(689343, 652827), divide(#0, 652827), multiply(#1, const_100)"
+    }
+  ]
+}

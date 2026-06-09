@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was total pretax income from discontinued operations for the three year period?",
+      "answer": 582.0,
+      "answer_raw": "582.0",
+      "program": "table_sum(pretax income from discontinued operations, none)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total value of federal operating loss carryforwards?",
+      "answer": 1197607.0,
+      "answer_raw": "1197607.0",
+      "program": "1197607"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the total value of state operating loss carryforwards?",
+      "answer": 1188003.0,
+      "answer_raw": "1188003.0",
+      "program": "1188003"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum of federal and state operating loss carryforwards?",
+      "answer": 2385610.0,
+      "answer_raw": "2385610.0",
+      "program": "add(1197607, 1188003)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the sum of federal, state, and foreign operating loss carryforwards?",
+      "answer": 2484034.0,
+      "answer_raw": "2484034.0",
+      "program": "add(1197607, 1188003), add(#0, 98424)"
+    }
+  ]
+}

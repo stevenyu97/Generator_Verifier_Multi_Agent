@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2017 , the estimated impact of tax legislation was what percent of the total as reported income tax provisions?",
+      "answer": 0.64271,
+      "answer_raw": "0.64271",
+      "program": "divide(4400, 6846)"
+    }
+  ]
+}

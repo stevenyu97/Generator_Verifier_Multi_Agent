@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the year 2012 , what is the sales to operating income ratio?",
+      "answer": 9.41928,
+      "answer_raw": "9.41928",
+      "program": "divide(420.1, 44.6)"
+    }
+  ]
+}

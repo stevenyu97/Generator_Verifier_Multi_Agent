@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "SNPS/2012/page_62.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "synopsys , inc .",
+      "notes to consolidated financial statements 2014continued acquisition of magma design automation , inc .",
+      "( magma ) on february 22 , 2012 , the company acquired all outstanding shares of magma , a chip design software provider , at a per-share price of $ 7.35 .",
+      "additionally , the company assumed unvested restricted stock units ( rsus ) and stock options , collectively called 201cequity awards . 201d the aggregate purchase price was approximately $ 550.2 million .",
+      "this acquisition enables the company to more rapidly meet the needs of leading-edge semiconductor designers for more sophisticated design tools .",
+      "as of october 31 , 2012 , the total purchase consideration and the preliminary purchase price allocation were as follows: ."
+    ],
+    "post_text": [
+      "goodwill of $ 316.3 million , which is not deductible for tax purposes , primarily resulted from the company 2019s expectation of sales growth and cost synergies from the integration of magma 2019s technology and operations with the company 2019s technology and operations .",
+      "identifiable intangible assets , consisting primarily of technology , customer relationships , backlog and trademarks , were valued using the income method , and are being amortized over three to ten years .",
+      "acquisition-related costs directly attributable to the business combination totaling $ 33.5 million for fiscal 2012 were expensed as incurred in the consolidated statements of operations and consist primarily of employee separation costs , contract terminations , professional services , and facilities closure costs .",
+      "fair value of equity awards assumed .",
+      "the company assumed unvested restricted stock units ( rsus ) and stock options with a fair value of $ 22.2 million .",
+      "the black-scholes option-pricing model was used to determine the fair value of these stock options , whereas the fair value of the rsus was based on the market price on the grant date of the instruments .",
+      "the black-scholes option-pricing model incorporates various subjective assumptions including expected volatility , expected term and risk-free interest rates .",
+      "the expected volatility was estimated by a combination of implied and historical stock price volatility of the options .",
+      "of the total fair value of the equity awards assumed , $ 6.8 million was allocated to the purchase consideration and $ 15.4 million was allocated to future services to be expensed over their remaining service periods on a straight-line basis .",
+      "supplemental pro forma information ( unaudited ) .",
+      "the financial information in the table below summarizes the combined results of operations of the company and magma , on a pro forma basis , as though the companies had been combined as of the beginning of fiscal 2011. ."
+    ],
+    "table": [
+      [
+        "",
+        "( in thousands )"
+      ],
+      [
+        "cash paid",
+        "$ 543437"
+      ],
+      [
+        "fair value of assumed equity awards allocated to purchase consideration",
+        "6797"
+      ],
+      [
+        "total purchase consideration",
+        "$ 550234"
+      ],
+      [
+        "goodwill",
+        "316263"
+      ],
+      [
+        "identifiable intangibles assets acquired",
+        "184300"
+      ],
+      [
+        "cash and other assets acquired",
+        "116265"
+      ],
+      [
+        "debt and liabilities assumed",
+        "-66594 ( 66594 )"
+      ],
+      [
+        "total purchase allocation",
+        "$ 550234"
+      ]
+    ],
+    "questions": [
+      "what percentage of total purchase allocation was ?"
+    ]
+  }
+}

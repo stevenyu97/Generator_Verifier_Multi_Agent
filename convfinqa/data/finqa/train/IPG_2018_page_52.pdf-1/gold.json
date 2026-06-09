@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2018 what was the ratio of the impact to the fair market value of the 10% ( 10 % ) increase in interest rates to the 10% ( 10 % ) decrease in interest rates 3 2018",
+      "answer": -1.10667,
+      "answer_raw": "-1.10667",
+      "program": "divide(-91.3, 82.5)"
+    }
+  ]
+}

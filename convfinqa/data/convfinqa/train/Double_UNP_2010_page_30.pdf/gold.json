@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the operating expenses for compensation and benefits in 2008?",
+      "answer": 4457.0,
+      "answer_raw": "4457.0",
+      "program": "4457"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the total operating expenses in 2008?",
+      "answer": 13900.0,
+      "answer_raw": "13900.0",
+      "program": "13900"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what portion of is related to compensation and benefits?",
+      "answer": 0.32065,
+      "answer_raw": "0.32065",
+      "program": "divide(4457, 13900)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the sum of total operating expenses for 2009 and 2010?",
+      "answer": 22748.0,
+      "answer_raw": "22748.0",
+      "program": "add(11984, 10764)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what about the sum for three years if 2008 is inlcuded?",
+      "answer": 36648.0,
+      "answer_raw": "36648.0",
+      "program": "add(11984, 10764), add(#0, 13900)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the yearly average for this period?",
+      "answer": 12216.0,
+      "answer_raw": "12216.0",
+      "program": "add(11984, 10764), add(#0, 13900), divide(#1, const_3)"
+    }
+  ]
+}

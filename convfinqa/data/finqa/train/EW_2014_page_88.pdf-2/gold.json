@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average purchase price of company repurchased shares in 2013?",
+      "answer": 73.08824,
+      "answer_raw": "73.08824",
+      "program": "divide(497.0, 6.8)"
+    }
+  ]
+}

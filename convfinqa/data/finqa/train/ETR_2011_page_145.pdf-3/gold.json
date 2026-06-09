@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2011 , what was the percent of the entergy louisiana future minimum lease payments that was due in 2014",
+      "answer": 0.12489,
+      "answer_raw": "0.12489",
+      "program": "divide(31036, 248504)"
+    }
+  ]
+}

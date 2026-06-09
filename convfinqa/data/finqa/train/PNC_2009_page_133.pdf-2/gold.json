@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2009 what was the ratio of the credit cards assets to liabilities",
+      "answer": 1.45993,
+      "answer_raw": "1.45993",
+      "program": "divide(2368, 1622)"
+    }
+  ]
+}

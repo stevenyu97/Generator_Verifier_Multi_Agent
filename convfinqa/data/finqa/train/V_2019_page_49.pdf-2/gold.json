@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the quarter ended september 302013 what was the percent of the total number of shares purchased in august",
+      "answer": 0.33252,
+      "answer_raw": "0.33252",
+      "program": "divide(4064795, 12224395)"
+    }
+  ]
+}

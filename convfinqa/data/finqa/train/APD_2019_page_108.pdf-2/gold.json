@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the international projected benefit payments , what is the average yearly projection of the 2025-2029 period?",
+      "answer": 61.66,
+      "answer_raw": "61.66",
+      "program": "divide(308.3, const_5)"
+    }
+  ]
+}

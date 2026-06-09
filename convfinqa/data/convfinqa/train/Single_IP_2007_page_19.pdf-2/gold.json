@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in industry segment operating profits from 2006 to 2007, in millions?",
+      "answer": 349.0,
+      "answer_raw": "349.0",
+      "program": "subtract(2423, 2074)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what were the total industry segment operating profits in 2006, also in millions?",
+      "answer": 2074.0,
+      "answer_raw": "2074.0",
+      "program": "2074"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does that change represent in relation to this 2006 total, in percentage?",
+      "answer": 0.16827,
+      "answer_raw": "0.16827",
+      "program": "subtract(2423, 2074), divide(#0, 2074)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "of how many years is the period of the lease for pilgrim?",
+      "answer": 13.0,
+      "answer_raw": "13.0",
+      "program": "subtract(2012, 1999)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and of how many years is the one for fitzpatrick?",
+      "answer": 34.0,
+      "answer_raw": "34.0",
+      "program": "subtract(2034, 2000)"
+    }
+  ]
+}

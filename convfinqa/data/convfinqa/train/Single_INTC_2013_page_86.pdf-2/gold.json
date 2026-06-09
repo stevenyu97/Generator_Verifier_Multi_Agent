@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the combined value of drafts payable and notes payable for 2013?",
+      "answer": 281.0,
+      "answer_raw": "281.0",
+      "program": "add(257, 24)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the drafts payable for 2012?",
+      "answer": 264.0,
+      "answer_raw": "264.0",
+      "program": "264"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and notes payable for 2012?",
+      "answer": 48.0,
+      "answer_raw": "48.0",
+      "program": "48"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "combined, what was the total value for 2012?",
+      "answer": 312.0,
+      "answer_raw": "312.0",
+      "program": "add(257, 24), add(264, 48)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and the net cash flow from short-term debt in 2013?",
+      "answer": -31.0,
+      "answer_raw": "-31.0",
+      "program": "add(257, 24), add(264, 48), subtract(#0, #1)"
+    }
+  ]
+}

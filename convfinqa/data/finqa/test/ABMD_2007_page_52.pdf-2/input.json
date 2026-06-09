@@ -1,0 +1,81 @@
+{
+  "input": {
+    "id": "ABMD/2007/page_52.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "contractual obligations and commercial commitments the following table ( in thousands ) summarizes our contractual obligations at march 31 , 2007 and the effects such obligations are expected to have on our liquidity and cash flows in future periods. ."
+    ],
+    "post_text": [
+      "we have no long-term debt , capital leases or material commitments at march 31 , 2007 other than those shown in the table above .",
+      "in may 2005 , we acquired all the shares of outstanding capital stock of impella cardiosystems ag , a company headquartered in aachen , germany .",
+      "the aggregate purchase price excluding a contingent payment in the amount of $ 5.6 million made on january 30 , 2007 in the form of common stock , was approximately $ 45.1 million , which consisted of $ 42.2 million of our common stock , $ 1.6 million of cash paid to certain former shareholders of impella , and $ 1.3 million of transaction costs , consisting primarily of fees paid for financial advisory and legal services .",
+      "we may make additional contingent payments to impella 2019s former shareholders based on additional milestone payments related to fda approvals in the amount of up to $ 11.2 million .",
+      "these contingent payments may be made in a combination of cash or stock under circumstances described in the purchase agreement .",
+      "if any contingent payments are made , they will result in an increase to the carrying value of goodwill .",
+      "we apply the disclosure provisions of fin no .",
+      "45 , guarantor 2019s accounting and disclosure requirements for guarantees , including guarantees of indebtedness of others , and interpretation of fasb statements no .",
+      "5 , 57 and 107 and rescission of fasb interpretation no .",
+      "34 ( fin no .",
+      "45 ) to our agreements that contain guarantee or indemnification clauses .",
+      "these disclosure provisions expand those required by sfas no .",
+      "5 by requiring that guarantors disclose certain types of guarantees , even if the likelihood of requiring the guarantor 2019s performance is remote .",
+      "the following is a description of arrangements in which we are a guarantor .",
+      "we enter into agreements with other companies in the ordinary course of business , typically with underwriters , contractors , clinical sites and customers that include indemnification provisions .",
+      "under these provisions we generally indemnify and hold harmless the indemnified party for losses suffered or incurred by the indemnified party as a result of our activities .",
+      "these indemnification provisions generally survive termination of the underlying agreement .",
+      "the maximum potential amount of future payments we could be required to make under these indemnification provisions is unlimited .",
+      "we have never incurred any material costs to defend lawsuits or settle claims related to these indemnification agreements .",
+      "as a result , the estimated fair value of these agreements is minimal .",
+      "accordingly , we have no liabilities recorded for these agreements as of march 31 , 2007 .",
+      "clinical study agreements 2013 in our clinical study agreements , we have agreed to indemnify the participating institutions against losses incurred by them for claims related to any personal injury of subjects taking part in the study to the extent they relate to use of our devices in accordance with the clinical study agreement , the protocol for the device and our instructions .",
+      "the indemnification provisions contained within our clinical study agreements do not generally include limits on the claims .",
+      "we have never incurred any material costs related to the indemnification provisions contained in our clinical study agreements .",
+      "product warranties 2014we routinely accrue for estimated future warranty costs on our product sales at the time of shipment .",
+      "all of our products are subject to rigorous regulation and quality standards .",
+      "while we engage in extensive product quality programs and processes , including monitoring and evaluating the quality of our component suppliers , our warranty obligations are affected by product failure rates .",
+      "our operating results could be adversely affected if the actual cost of product failures exceeds the estimated warranty provision .",
+      "patent indemnifications 2014in many sales transactions , we indemnify customers against possible claims of patent infringement caused by our products .",
+      "the indemnifications contained within sales contracts usually do not include limits on the claims .",
+      "we have never incurred any material costs to defend lawsuits or settle patent infringement claims related to sales transactions .",
+      "under the provisions of fin no .",
+      "45 , intellectual property indemnifications require disclosure only. ."
+    ],
+    "table": [
+      [
+        "contractual obligations",
+        "payments due by fiscal year total",
+        "payments due by fiscal year less than 1 year",
+        "payments due by fiscal year 1-3 years",
+        "payments due by fiscal year 3-5 years",
+        "payments due by fiscal year more than 5 years"
+      ],
+      [
+        "operating lease obligations",
+        "$ 7669",
+        "$ 1960",
+        "$ 3441",
+        "$ 1652",
+        "$ 616"
+      ],
+      [
+        "purchase obligations",
+        "6421",
+        "6421",
+        "2014",
+        "2014",
+        "2014"
+      ],
+      [
+        "total obligations",
+        "$ 14090",
+        "$ 8381",
+        "$ 3441",
+        "$ 1652",
+        "$ 616"
+      ]
+    ],
+    "questions": [
+      "how much of the total contractual commitments are current?"
+    ]
+  }
+}

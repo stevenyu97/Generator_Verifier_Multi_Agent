@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in value of sales from 2006 to 2007?",
+      "answer": 4691.0,
+      "answer_raw": "4691.0",
+      "program": "subtract(24006, 19315)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": 0.24287,
+      "answer_raw": "0.24287",
+      "program": "subtract(24006, 19315), divide(#0, 19315)"
+    }
+  ]
+}

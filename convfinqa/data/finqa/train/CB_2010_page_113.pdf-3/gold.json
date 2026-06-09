@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the total assets reported in 2010?",
+      "answer": 27632.0,
+      "answer_raw": "27632.0",
+      "program": "add(4658, 22974)"
+    }
+  ]
+}

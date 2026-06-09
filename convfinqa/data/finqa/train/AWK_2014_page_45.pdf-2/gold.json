@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did diluted earnings per share increase from 2012 to 2014?",
+      "answer": 0.16915,
+      "answer_raw": "0.16915",
+      "program": "subtract(2.35, 2.01), divide(#0, 2.01)"
+    }
+  ]
+}

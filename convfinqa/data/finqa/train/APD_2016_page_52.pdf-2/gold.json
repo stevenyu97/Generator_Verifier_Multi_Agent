@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the 2015's capital expenditures on a gaap basis , what is the percentage of the investments in and advances to unconsolidated affiliates in the total value?",
+      "answer": 0.0033,
+      "answer_raw": "0.0033",
+      "program": "divide(4.3, 1304.4)"
+    }
+  ]
+}

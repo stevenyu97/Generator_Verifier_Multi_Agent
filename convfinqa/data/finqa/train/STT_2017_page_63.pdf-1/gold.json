@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent returns did shareholders of state street corporation",
+      "answer": 1.27,
+      "answer_raw": "1.27",
+      "program": "subtract(227, 100), divide(#0, 100)"
+    }
+  ]
+}

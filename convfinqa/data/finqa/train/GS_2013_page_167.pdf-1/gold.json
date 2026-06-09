@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions for 2013 , 2012 , and 2011 , what was total commercial mortgages?",
+      "answer": 8400.0,
+      "answer_raw": "8400.0",
+      "program": "table_sum(commercial mortgages, none)"
+    }
+  ]
+}

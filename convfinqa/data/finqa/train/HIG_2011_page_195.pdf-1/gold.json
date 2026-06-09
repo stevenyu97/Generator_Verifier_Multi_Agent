@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average sales inducements deferred from 2009 to 2011 in millions",
+      "answer": 36.66667,
+      "answer_raw": "36.66667",
+      "program": "add(20, 31), add(59, #0), divide(#1, const_3)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much more was the residential mortgage foreclosures in 2011 than in 2010?",
+      "answer": 253.0,
+      "answer_raw": "253.0",
+      "program": "subtract(324, 71)"
+    }
+  ]
+}

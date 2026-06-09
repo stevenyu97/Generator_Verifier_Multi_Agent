@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in personal injury liability from 2004 to 2005?",
+      "answer": -0.0313,
+      "answer_raw": "-0.0313",
+      "program": "subtract(619, 639), divide(#0, 639)"
+    }
+  ]
+}

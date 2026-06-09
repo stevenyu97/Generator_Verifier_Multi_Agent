@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the years 2015-2016 , what is the decrease observed in the cash contributions to funded plans and benefit payments for unfunded plans?",
+      "answer": -0.42327,
+      "answer_raw": "-0.42327",
+      "program": "subtract(79.3, 137.5), divide(#0, 137.5)"
+    }
+  ]
+}

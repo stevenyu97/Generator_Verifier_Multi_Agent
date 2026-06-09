@@ -1,0 +1,86 @@
+{
+  "input": {
+    "id": "Double_C/2016/page_120.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "liquidity monitoring and measurement stress testing liquidity stress testing is performed for each of citi 2019s major entities , operating subsidiaries and/or countries .",
+      "stress testing and scenario analyses are intended to quantify the potential impact of a liquidity event on the balance sheet and liquidity position , and to identify viable funding alternatives that can be utilized .",
+      "these scenarios include assumptions about significant changes in key funding sources , market triggers ( such as credit ratings ) , potential uses of funding and political and economic conditions in certain countries .",
+      "these conditions include expected and stressed market conditions as well as company- specific events .",
+      "liquidity stress tests are conducted to ascertain potential mismatches between liquidity sources and uses over a variety of time horizons ( overnight , one week , two weeks , one month , three months , one year ) and over a variety of stressed conditions .",
+      "liquidity limits are set accordingly .",
+      "to monitor the liquidity of an entity , these stress tests and potential mismatches are calculated with varying frequencies , with several tests performed daily .",
+      "given the range of potential stresses , citi maintains a series of contingency funding plans on a consolidated basis and for individual entities .",
+      "these plans specify a wide range of readily available actions for a variety of adverse market conditions or idiosyncratic stresses .",
+      "short-term liquidity measurement : liquidity coverage ratio ( lcr ) in addition to internal measures that citi has developed for a 30-day stress scenario , citi also monitors its liquidity by reference to the lcr , as calculated pursuant to the u.s .",
+      "lcr rules .",
+      "generally , the lcr is designed to ensure that banks maintain an adequate level of hqla to meet liquidity needs under an acute 30-day stress scenario .",
+      "the lcr is calculated by dividing hqla by estimated net outflows over a stressed 30-day period , with the net outflows determined by applying prescribed outflow factors to various categories of liabilities , such as deposits , unsecured and secured wholesale borrowings , unused lending commitments and derivatives- related exposures , partially offset by inflows from assets maturing within 30 days .",
+      "banks are required to calculate an add-on to address potential maturity mismatches between contractual cash outflows and inflows within the 30-day period in determining the total amount of net outflows .",
+      "the minimum lcr requirement is 100% ( 100 % ) , effective january 2017 .",
+      "in december 2016 , the federal reserve board adopted final rules which require additional disclosures relating to the lcr of large financial institutions , including citi .",
+      "among other things , the final rules require citi to disclose components of its average hqla , lcr and inflows and outflows each quarter .",
+      "in addition , the final rules require disclosure of citi 2019s calculation of the maturity mismatch add-on as well as other qualitative disclosures .",
+      "the effective date for these disclosures is april 1 , 2017 .",
+      "the table below sets forth the components of citi 2019s lcr calculation and hqla in excess of net outflows for the periods indicated : in billions of dollars dec .",
+      "31 , sept .",
+      "30 , dec .",
+      "31 ."
+    ],
+    "post_text": [
+      "note : amounts set forth in the table above are presented on an average basis .",
+      "as set forth in the table above , citi 2019s lcr increased both year-over-year and sequentially .",
+      "the increase year-over-year was driven by both an increase in hqla and a reduction in net outflows .",
+      "sequentially , the increase was driven by a slight reduction in net outflows , as hqla remained largely unchanged .",
+      "long-term liquidity measurement : net stable funding ratio ( nsfr ) in the second quarter of 2016 , the federal reserve board , the fdic and the occ issued a proposed rule to implement the basel iii nsfr requirement .",
+      "the u.s.-proposed nsfr is largely consistent with the basel committee 2019s final nsfr rules .",
+      "in general , the nsfr assesses the availability of a bank 2019s stable funding against a required level .",
+      "a bank 2019s available stable funding would include portions of equity , deposits and long-term debt , while its required stable funding would be based on the liquidity characteristics of its assets , derivatives and commitments .",
+      "standardized weightings would be required to be applied to the various asset and liabilities classes .",
+      "the ratio of available stable funding to required stable funding would be required to be greater than 100% ( 100 % ) .",
+      "while citi believes that it is compliant with the proposed u.s .",
+      "nsfr rules as of december 31 , 2016 , it will need to evaluate any final version of the rules , which are expected to be released during 2017 .",
+      "the proposed rules would require full implementation of the u.s .",
+      "nsfr beginning january 1 , 2018. ."
+    ],
+    "table": [
+      [
+        "in billions of dollars",
+        "dec . 31 2016",
+        "sept . 30 2016",
+        "dec . 31 2015"
+      ],
+      [
+        "hqla",
+        "$ 403.7",
+        "$ 403.8",
+        "$ 389.2"
+      ],
+      [
+        "net outflows",
+        "332.5",
+        "335.3",
+        "344.4"
+      ],
+      [
+        "lcr",
+        "121% ( 121 % )",
+        "120% ( 120 % )",
+        "113% ( 113 % )"
+      ],
+      [
+        "hqla in excess of net outflows",
+        "$ 71.3",
+        "$ 68.5",
+        "$ 44.8"
+      ]
+    ],
+    "questions": [
+      "what is the net change in the lcr from 2014 to 2016?",
+      "what percentage change does this represent?",
+      "what is the net outflows\tin 2016?",
+      "what about in 2015?",
+      "what is the net change in net outflows?"
+    ]
+  }
+}

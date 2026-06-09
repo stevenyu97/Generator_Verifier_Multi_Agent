@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change dso from 2005 to 2006?",
+      "answer": 3.0,
+      "answer_raw": "3.0",
+      "program": "subtract(39, 36)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the working capital in 2006?",
+      "answer": 23.4,
+      "answer_raw": "23.4",
+      "program": "23.4"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what about the balance of accounts receivables in 2006?",
+      "answer": 122.6,
+      "answer_raw": "122.6",
+      "program": "122.6"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what portion is working capital?",
+      "answer": 0.19086,
+      "answer_raw": "0.19086",
+      "program": "divide(23.4, 122.6)"
+    }
+  ]
+}

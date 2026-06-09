@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the roi of global payments from 2003 to 2004?",
+      "answer": 0.3775,
+      "answer_raw": "0.3775",
+      "program": "subtract(137.75, const_100), divide(#0, const_100)"
+    }
+  ]
+}

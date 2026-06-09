@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the reduction in average price per share for repurchases from the period november 1 2013 30 to december 1 2013 31?",
+      "answer": 14.36,
+      "answer_raw": "14.36",
+      "program": "subtract(133.79, 119.43)"
+    }
+  ]
+}

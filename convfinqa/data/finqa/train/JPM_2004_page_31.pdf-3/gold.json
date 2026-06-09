@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2004 , what percent of operating earnings were allocated to commercial banking?",
+      "answer": 0.07405,
+      "answer_raw": "0.07405",
+      "program": "divide(608, 8211)"
+    }
+  ]
+}

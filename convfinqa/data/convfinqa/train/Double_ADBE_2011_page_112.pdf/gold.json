@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the average price of repurchased shares from 2010 to 2011?",
+      "answer": 2.62,
+      "answer_raw": "2.62",
+      "program": "subtract(31.81, 29.19)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much did this change represent in relation to that average price in 2010?",
+      "answer": 0.08976,
+      "answer_raw": "0.08976",
+      "program": "subtract(31.81, 29.19), divide(#0, 29.19)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "in the last year of that period, what was impact of foreign currency translation adjustments?",
+      "answer": 5156.0,
+      "answer_raw": "5156.0",
+      "program": "5156"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was the income tax effect relating to translation adjustments for undistributed foreign earnings?",
+      "answer": -2208.0,
+      "answer_raw": "-2208.0",
+      "program": "-2208"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "which one, then, was greater in that year?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(5156, -2208)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the long-term debt is reported under the current liabilities section as of december 31 , 2013?",
+      "answer": 0.09548,
+      "answer_raw": "0.09548",
+      "program": "divide(1015, 10630)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the depreciation expense with the production facilities within the merchant gases segment accumulated in 15 years?",
+      "answer": 300.0,
+      "answer_raw": "300.0",
+      "program": "multiply(15, 20)"
+    }
+  ]
+}

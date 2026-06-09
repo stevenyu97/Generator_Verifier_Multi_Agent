@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming a similar change in warranty expense as in 2006 , what would the 2007 expense provision ( 000 ) ?",
+      "answer": 302.0,
+      "answer_raw": "302.0",
+      "program": "subtract(257, 212), add(257, #0)"
+    }
+  ]
+}

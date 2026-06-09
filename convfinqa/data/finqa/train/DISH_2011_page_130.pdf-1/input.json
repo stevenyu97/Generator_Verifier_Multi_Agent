@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "DISH/2011/page_130.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "dish network corporation notes to consolidated financial statements - continued ciel ii .",
+      "ciel ii , a canadian dbs satellite , was launched in december 2008 and commenced commercial operation during february 2009 .",
+      "this satellite is accounted for as a capital lease and depreciated over the term of the satellite service agreement .",
+      "we have leased 100% ( 100 % ) of the capacity on ciel ii for an initial 10 year term .",
+      "as of december 31 , 2011 and 2010 , we had $ 500 million capitalized for the estimated fair value of satellites acquired under capital leases included in 201cproperty and equipment , net , 201d with related accumulated depreciation of $ 151 million and $ 109 million , respectively .",
+      "in our consolidated statements of operations and comprehensive income ( loss ) , we recognized $ 43 million , $ 43 million and $ 40 million in depreciation expense on satellites acquired under capital lease agreements during the years ended december 31 , 2011 , 2010 and 2009 , respectively .",
+      "future minimum lease payments under the capital lease obligation , together with the present value of the net minimum lease payments as of december 31 , 2011 are as follows ( in thousands ) : for the years ended december 31 ."
+    ],
+    "post_text": [
+      "the summary of future maturities of our outstanding long-term debt as of december 31 , 2011 is included in the commitments table in note 16 .",
+      "12 .",
+      "income taxes and accounting for uncertainty in income taxes income taxes our income tax policy is to record the estimated future tax effects of temporary differences between the tax bases of assets and liabilities and amounts reported on our consolidated balance sheets , as well as probable operating loss , tax credit and other carryforwards .",
+      "deferred tax assets are offset by valuation allowances when we believe it is more likely than not that net deferred tax assets will not be realized .",
+      "we periodically evaluate our need for a valuation allowance .",
+      "determining necessary valuation allowances requires us to make assessments about historical financial information as well as the timing of future events , including the probability of expected future taxable income and available tax planning opportunities .",
+      "we file consolidated tax returns in the u.s .",
+      "the income taxes of domestic and foreign subsidiaries not included in the u.s .",
+      "tax group are presented in our consolidated financial statements based on a separate return basis for each tax paying entity .",
+      "as of december 31 , 2011 , we had no net operating loss carryforwards ( 201cnols 201d ) for federal income tax purposes and $ 13 million of nol benefit for state income tax purposes .",
+      "the state nols begin to expire in the year 2020 .",
+      "in addition , there are $ 5 million of tax benefits related to credit carryforwards which are partially offset by a valuation allowance and $ 14 million benefit of capital loss carryforwards which are fully offset by a valuation allowance .",
+      "the credit carryforwards begin to expire in the year 2012. ."
+    ],
+    "table": [
+      [
+        "2012",
+        "$ 84715"
+      ],
+      [
+        "2013",
+        "77893"
+      ],
+      [
+        "2014",
+        "76296"
+      ],
+      [
+        "2015",
+        "75970"
+      ],
+      [
+        "2016",
+        "75970"
+      ],
+      [
+        "thereafter",
+        "314269"
+      ],
+      [
+        "total minimum lease payments",
+        "705113"
+      ],
+      [
+        "less : amount representing lease of the orbital location and estimated executory costs ( primarily insurance and maintenance ) including profit thereon included in total minimum lease payments",
+        "-323382 ( 323382 )"
+      ],
+      [
+        "net minimum lease payments",
+        "381731"
+      ],
+      [
+        "less : amount representing interest",
+        "-109823 ( 109823 )"
+      ],
+      [
+        "present value of net minimum lease payments",
+        "271908"
+      ],
+      [
+        "less : current portion",
+        "-29202 ( 29202 )"
+      ],
+      [
+        "long-term portion of capital lease obligations",
+        "$ 242706"
+      ]
+    ],
+    "questions": [
+      "what percentage of total future minimum lease payments under the capital lease obligation is due after 2016?"
+    ]
+  }
+}

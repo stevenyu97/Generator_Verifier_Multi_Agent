@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net value of liabilities and investments related to these plans that are reported in the balance sheet at the end of 2017?",
+      "answer": -19.0,
+      "answer_raw": "-19.0",
+      "program": "subtract(236, 255)"
+    }
+  ]
+}

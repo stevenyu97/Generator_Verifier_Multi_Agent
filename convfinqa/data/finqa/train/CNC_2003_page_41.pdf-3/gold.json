@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the annual impact on pre tax net income from the goodwill in the hmo blue texas acquisition?\\\\n",
+      "answer": 209.0,
+      "answer_raw": "209.0",
+      "program": "divide(1045, const_5)"
+    }
+  ]
+}

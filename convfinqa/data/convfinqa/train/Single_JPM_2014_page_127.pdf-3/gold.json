@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total balance of liquid securities and other cash collateral held against derivative receivables in 2014 and 2013?",
+      "answer": 34039.0,
+      "answer_raw": "34039.0",
+      "program": "add(19604, 14435)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the average for these two years?",
+      "answer": 17019.5,
+      "answer_raw": "17019.5",
+      "program": "add(19604, 14435), divide(#0, const_2)"
+    }
+  ]
+}

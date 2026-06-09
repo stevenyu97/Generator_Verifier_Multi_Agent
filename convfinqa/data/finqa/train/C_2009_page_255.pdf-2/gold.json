@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of one- to four-family residential mortgages as of december 31 , 2009 are outside the u.s.?",
+      "answer": 0.26355,
+      "answer_raw": "0.26355",
+      "program": "divide(282, 1070)"
+    }
+  ]
+}

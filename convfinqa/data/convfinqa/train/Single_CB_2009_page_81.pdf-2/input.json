@@ -1,0 +1,94 @@
+{
+  "input": {
+    "id": "Single_CB/2009/page_81.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "critical accounting estimates our consolidated financial statements include amounts that , either by their nature or due to requirements of accounting princi- ples generally accepted in the u.s .",
+      "( gaap ) , are determined using best estimates and assumptions .",
+      "while we believe that the amounts included in our consolidated financial statements reflect our best judgment , actual amounts could ultimately materi- ally differ from those currently presented .",
+      "we believe the items that require the most subjective and complex estimates are : 2022 unpaid loss and loss expense reserves , including long-tail asbestos and environmental ( a&e ) reserves ; 2022 future policy benefits reserves ; 2022 valuation of value of business acquired ( voba ) and amortization of deferred policy acquisition costs and voba ; 2022 the assessment of risk transfer for certain structured insurance and reinsurance contracts ; 2022 reinsurance recoverable , including a provision for uncollectible reinsurance ; 2022 the valuation of our investment portfolio and assessment of other-than-temporary impairments ( otti ) ; 2022 the valuation of deferred tax assets ; 2022 the valuation of derivative instruments related to guaranteed minimum income benefits ( gmib ) ; and 2022 the valuation of goodwill .",
+      "we believe our accounting policies for these items are of critical importance to our consolidated financial statements .",
+      "the following discussion provides more information regarding the estimates and assumptions required to arrive at these amounts and should be read in conjunction with the sections entitled : prior period development , asbestos and environmental and other run-off liabilities , reinsurance recoverable on ceded reinsurance , investments , net realized gains ( losses ) , and other income and expense items .",
+      "unpaid losses and loss expenses overview and key data as an insurance and reinsurance company , we are required , by applicable laws and regulations and gaap , to establish loss and loss expense reserves for the estimated unpaid portion of the ultimate liability for losses and loss expenses under the terms of our policies and agreements with our insured and reinsured customers .",
+      "the estimate of the liabilities includes provisions for claims that have been reported but are unpaid at the balance sheet date ( case reserves ) and for future obligations on claims that have been incurred but not reported ( ibnr ) at the balance sheet date ( ibnr may also include a provision for additional development on reported claims in instances where the case reserve is viewed to be potentially insufficient ) .",
+      "loss reserves also include an estimate of expenses associated with processing and settling unpaid claims ( loss expenses ) .",
+      "at december 31 , 2009 , our gross unpaid loss and loss expense reserves were $ 37.8 billion and our net unpaid loss and loss expense reserves were $ 25 billion .",
+      "with the exception of certain structured settlements , for which the timing and amount of future claim pay- ments are reliably determinable , our loss reserves are not discounted for the time value of money .",
+      "in connection with such structured settlements , we carry net reserves of $ 76 million , net of discount .",
+      "the table below presents a roll-forward of our unpaid losses and loss expenses for the years ended december 31 , 2009 and 2008. ."
+    ],
+    "post_text": [
+      "( 1 ) net of provision for uncollectible reinsurance ."
+    ],
+    "table": [
+      [
+        "( in millions of u.s . dollars )",
+        "2009 gross losses",
+        "2009 reinsurance recoverable ( 1 )",
+        "2009 net losses",
+        "2009 gross losses",
+        "2009 reinsurance recoverable ( 1 )",
+        "net losses"
+      ],
+      [
+        "balance beginning of year",
+        "$ 37176",
+        "$ 12935",
+        "$ 24241",
+        "$ 37112",
+        "$ 13520",
+        "$ 23592"
+      ],
+      [
+        "losses and loss expenses incurred",
+        "11141",
+        "3719",
+        "7422",
+        "10944",
+        "3341",
+        "7603"
+      ],
+      [
+        "losses and loss expenses paid",
+        "-11093 ( 11093 )",
+        "-4145 ( 4145 )",
+        "-6948 ( 6948 )",
+        "-9899 ( 9899 )",
+        "-3572 ( 3572 )",
+        "-6327 ( 6327 )"
+      ],
+      [
+        "other ( including foreign exchange revaluation )",
+        "559",
+        "236",
+        "323",
+        "-1367 ( 1367 )",
+        "-387 ( 387 )",
+        "-980 ( 980 )"
+      ],
+      [
+        "losses and loss expenses acquired",
+        "2013",
+        "2013",
+        "2013",
+        "386",
+        "33",
+        "353"
+      ],
+      [
+        "balance end of year",
+        "$ 37783",
+        "$ 12745",
+        "$ 25038",
+        "$ 37176",
+        "$ 12935",
+        "$ 24241"
+      ]
+    ],
+    "questions": [
+      "what was the net change in value of net unpaid losses from 2008 to 2009?",
+      "what was the value in 2008?",
+      "what is the percent change?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions for 2014 2013 and 2012 , what was the total balance of debt securities and loans?\\\\n",
+      "answer": 5962.0,
+      "answer_raw": "5962.0",
+      "program": "table_sum(debt securities and loans, none)"
+    }
+  ]
+}

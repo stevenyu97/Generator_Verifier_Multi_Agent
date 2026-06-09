@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in diluted earnings per common share december 29 2012 and december 28 2013?",
+      "answer": -0.11268,
+      "answer_raw": "-0.11268",
+      "program": "subtract(1.89, 2.13), divide(#0, 2.13)"
+    }
+  ]
+}

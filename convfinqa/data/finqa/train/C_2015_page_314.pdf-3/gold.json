@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the growth of the cumulative total return for citi compared to s&p 500 in 2013",
+      "answer": 0.18462,
+      "answer_raw": "0.18462",
+      "program": "subtract(110.49, const_100), subtract(156.82, const_100), divide(#0, #1)"
+    }
+  ]
+}

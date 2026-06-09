@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "K/2013/page_27.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "general market conditions affecting trust asset performance , future discount rates based on average yields of high quality corporate bonds and our decisions regarding certain elective provisions of the we currently project that we will make total u.s .",
+      "and foreign benefit plan contributions in 2014 of approximately $ 57 million .",
+      "actual 2014 contributions could be different from our current projections , as influenced by our decision to undertake discretionary funding of our benefit trusts versus other competing investment priorities , future changes in government requirements , trust asset performance , renewals of union contracts , or higher-than-expected health care claims cost experience .",
+      "we measure cash flow as net cash provided by operating activities reduced by expenditures for property additions .",
+      "we use this non-gaap financial measure of cash flow to focus management and investors on the amount of cash available for debt repayment , dividend distributions , acquisition opportunities , and share repurchases .",
+      "our cash flow metric is reconciled to the most comparable gaap measure , as follows: ."
+    ],
+    "post_text": [
+      "year-over-year change ( 4.5 ) % (  % ) 22.4% ( 22.4 % ) the decrease in cash flow ( as defined ) in 2013 compared to 2012 was due primarily to higher capital expenditures .",
+      "the increase in cash flow in 2012 compared to 2011 was driven by improved performance in working capital resulting from the one-time benefit derived from the pringles acquisition , as well as changes in the level of capital expenditures during the three-year period .",
+      "investing activities our net cash used in investing activities for 2013 amounted to $ 641 million , a decrease of $ 2604 million compared with 2012 primarily attributable to the $ 2668 million acquisition of pringles in 2012 .",
+      "capital spending in 2013 included investments in our supply chain infrastructure , and to support capacity requirements in certain markets , including pringles .",
+      "in addition , we continued the investment in our information technology infrastructure related to the reimplementation and upgrade of our sap platform .",
+      "net cash used in investing activities of $ 3245 million in 2012 increased by $ 2658 million compared with 2011 , due to the acquisition of pringles in 2012 .",
+      "cash paid for additions to properties as a percentage of net sales has increased to 4.3% ( 4.3 % ) in 2013 , from 3.8% ( 3.8 % ) in 2012 , which was a decrease from 4.5% ( 4.5 % ) in financing activities our net cash used by financing activities was $ 1141 million for 2013 , compared to net cash provided by financing activities of $ 1317 million for 2012 and net cash used in financing activities of $ 957 million for 2011 .",
+      "the increase in cash provided from financing activities in 2012 compared to 2013 and 2011 , was primarily due to the issuance of debt related to the acquisition of pringles .",
+      "total debt was $ 7.4 billion at year-end 2013 and $ 7.9 billion at year-end 2012 .",
+      "in february 2013 , we issued $ 250 million of two-year floating-rate u.s .",
+      "dollar notes , and $ 400 million of ten-year 2.75% ( 2.75 % ) u.s .",
+      "dollar notes , resulting in aggregate net proceeds after debt discount of $ 645 million .",
+      "the proceeds from these notes were used for general corporate purposes , including , together with cash on hand , repayment of the $ 750 million aggregate principal amount of our 4.25% ( 4.25 % ) u.s .",
+      "dollar notes due march 2013 .",
+      "in may 2012 , we issued $ 350 million of three-year 1.125% ( 1.125 % ) u.s .",
+      "dollar notes , $ 400 million of five-year 1.75% ( 1.75 % ) u.s .",
+      "dollar notes and $ 700 million of ten-year 3.125% ( 3.125 % ) u.s .",
+      "dollar notes , resulting in aggregate net proceeds after debt discount of $ 1.442 billion .",
+      "the proceeds of these notes were used for general corporate purposes , including financing a portion of the acquisition of pringles .",
+      "in may 2012 , we issued cdn .",
+      "$ 300 million of two-year 2.10% ( 2.10 % ) fixed rate canadian dollar notes , using the proceeds from these notes for general corporate purposes , which included repayment of intercompany debt .",
+      "this repayment resulted in cash available to be used for a portion of the acquisition of pringles .",
+      "in december 2012 , we repaid $ 750 million five-year 5.125% ( 5.125 % ) u.s .",
+      "dollar notes at maturity with commercial paper .",
+      "in april 2011 , we repaid $ 945 million ten-year 6.60% ( 6.60 % ) u.s .",
+      "dollar notes at maturity with commercial paper .",
+      "in may 2011 , we issued $ 400 million of seven-year 3.25% ( 3.25 % ) fixed rate u.s .",
+      "dollar notes , using the proceeds of $ 397 million for general corporate purposes and repayment of commercial paper .",
+      "in november 2011 , we issued $ 500 million of five-year 1.875% ( 1.875 % ) fixed rate u .",
+      "s .",
+      "dollar notes , using the proceeds of $ 498 million for general corporate purposes and repayment of commercial paper. ."
+    ],
+    "table": [
+      [
+        "( dollars in millions )",
+        "2013",
+        "2012",
+        "2011"
+      ],
+      [
+        "net cash provided by operating activities",
+        "$ 1807",
+        "$ 1758",
+        "$ 1595"
+      ],
+      [
+        "additions to properties",
+        "-637 ( 637 )",
+        "-533 ( 533 )",
+        "-594 ( 594 )"
+      ],
+      [
+        "cash flow",
+        "$ 1170",
+        "$ 1225",
+        "$ 1001"
+      ],
+      [
+        "year-over-year change",
+        "( 4.5 ) % (  % )",
+        "22.4% ( 22.4 % )",
+        ""
+      ]
+    ],
+    "questions": [
+      "what was the net cash used by investing activities in 2011 in millions"
+    ]
+  }
+}

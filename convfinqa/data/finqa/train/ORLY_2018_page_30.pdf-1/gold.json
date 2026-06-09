@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the roi of an investment in o 2019reilly automotive inc . from 2013 to 2017?",
+      "answer": 0.87,
+      "answer_raw": "0.87",
+      "program": "subtract(187, 100), divide(#0, 100)"
+    }
+  ]
+}

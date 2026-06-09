@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was total net undeveloped acres expiring for the three year period , in thousands?",
+      "answer": 5808.0,
+      "answer_raw": "5808.0",
+      "program": "table_sum(total, none)"
+    }
+  ]
+}

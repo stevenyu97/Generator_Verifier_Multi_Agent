@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of the nasdaq composite index in 2016?",
+      "answer": 133.19,
+      "answer_raw": "133.19",
+      "program": "133.19"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2015?",
+      "answer": 122.81,
+      "answer_raw": "122.81",
+      "program": "122.81"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 10.38,
+      "answer_raw": "10.38",
+      "program": "subtract(133.19, 122.81)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation to the 2015 value, in percentage?",
+      "answer": 0.08452,
+      "answer_raw": "0.08452",
+      "program": "subtract(133.19, 122.81), divide(#0, 122.81)"
+    }
+  ]
+}

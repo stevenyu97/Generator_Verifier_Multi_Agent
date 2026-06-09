@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "UNP/2015/page_35.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "at december 31 , 2015 and 2014 , we had a modest working capital surplus .",
+      "this reflects a strong cash position that provides enhanced liquidity in an uncertain economic environment .",
+      "in addition , we believe we have adequate access to capital markets to meet any foreseeable cash requirements , and we have sufficient financial capacity to satisfy our current liabilities .",
+      "cash flows ."
+    ],
+    "post_text": [
+      "operating activities cash provided by operating activities decreased in 2015 compared to 2014 due to lower net income and changes in working capital , partially offset by the timing of tax payments .",
+      "federal tax law provided for 100% ( 100 % ) bonus depreciation for qualified investments made during 2011 and 50% ( 50 % ) bonus depreciation for qualified investments made during 2012-2013 .",
+      "as a result , the company deferred a substantial portion of its 2011-2013 income tax expense , contributing to the positive operating cash flow in those years .",
+      "congress extended 50% ( 50 % ) bonus depreciation for 2014 , but this extension occurred in december , and the related benefit was realized in 2015 , rather than 2014 .",
+      "similarly , in december of 2015 , congress extended bonus depreciation through 2019 , which delayed the benefit of 2015 bonus depreciation into 2016 .",
+      "bonus depreciation will be at a rate of 50% ( 50 % ) for 2015 , 2016 and 2017 , 40% ( 40 % ) for 2018 and 30% ( 30 % ) for 2019 .",
+      "higher net income in 2014 increased cash provided by operating activities compared to 2013 , despite higher income tax payments .",
+      "2014 income tax payments were higher than 2013 primarily due to higher income , but also because we paid taxes previously deferred by bonus depreciation .",
+      "investing activities higher capital investments in locomotives and freight cars , including $ 327 million in early lease buyouts , which we exercised due to favorable economic terms and market conditions , drove the increase in cash used in investing activities in 2015 compared to 2014 .",
+      "higher capital investments , including the early buyout of the long-term operating lease of our headquarters building for approximately $ 261 million , drove the increase in cash used in investing activities in 2014 compared to 2013 .",
+      "significant investments also were made for new locomotives , freight cars and containers , and capacity and commercial facility projects .",
+      "capital investments in 2014 also included $ 99 million for the early buyout of locomotives and freight cars under long-term operating leases , which we exercised due to favorable economic terms and market conditions. ."
+    ],
+    "table": [
+      [
+        "millions",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "cash provided by operating activities",
+        "$ 7344",
+        "$ 7385",
+        "$ 6823"
+      ],
+      [
+        "cash used in investing activities",
+        "-4476 ( 4476 )",
+        "-4249 ( 4249 )",
+        "-3405 ( 3405 )"
+      ],
+      [
+        "cash used in financing activities",
+        "-3063 ( 3063 )",
+        "-2982 ( 2982 )",
+        "-3049 ( 3049 )"
+      ],
+      [
+        "net change in cash and cash equivalents",
+        "$ -195 ( 195 )",
+        "$ 154",
+        "$ 369"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in cash provided by operating activities from 2014 to 2015?"
+    ]
+  }
+}

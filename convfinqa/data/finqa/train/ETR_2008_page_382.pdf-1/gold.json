@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the annual expense for entergy texas incurred from the series mortgage bonds due february 2019 , in millions?",
+      "answer": 35.625,
+      "answer_raw": "35.625",
+      "program": "multiply(500, 7.125%)"
+    }
+  ]
+}

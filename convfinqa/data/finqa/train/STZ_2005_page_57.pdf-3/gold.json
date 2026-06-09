@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the hardy acquisition was paid in cash?",
+      "answer": 0.37729,
+      "answer_raw": "0.37729",
+      "program": "divide(400.0, 1060.2)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the cash used in investing activities in 2005?",
+      "answer": 2047.0,
+      "answer_raw": "2047.0",
+      "program": "2047"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the one used in financing activities?",
+      "answer": 752.0,
+      "answer_raw": "752.0",
+      "program": "752"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, did the investing cash represent in relation to this financing one?",
+      "answer": 2.72207,
+      "answer_raw": "2.72207",
+      "program": "divide(2047, 752)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "in that same year, what was the total debt?",
+      "answer": 745.0,
+      "answer_raw": "745.0",
+      "program": "745"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and what was it in the previous year?",
+      "answer": 699.0,
+      "answer_raw": "699.0",
+      "program": "699"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what was, then the 2005 amount as a portion of the 2004 one?",
+      "answer": 1.06581,
+      "answer_raw": "1.06581",
+      "program": "divide(745, 699)"
+    }
+  ]
+}

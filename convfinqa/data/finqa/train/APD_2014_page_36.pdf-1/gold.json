@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the increase observed in the interest expense during 2012 and 2013?",
+      "answer": 0.14632,
+      "answer_raw": "0.14632",
+      "program": "divide(141.8, 123.7), subtract(#0, const_1)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of outstanding amounts under the company 2019s long-term financing arrangements is current as of december 31 , 2006?",
+      "answer": 0.07166,
+      "answer_raw": "0.07166",
+      "program": "divide(253907, 3543016)"
+    }
+  ]
+}

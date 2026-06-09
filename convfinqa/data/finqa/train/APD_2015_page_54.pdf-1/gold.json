@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the decrease observed in the fair market value of plan assets of the benefit pension plans during 2014 and 2015?",
+      "answer": -0.04817,
+      "answer_raw": "-0.04817",
+      "program": "subtract(3916.4, 4114.6), divide(#0, 4114.6)"
+    }
+  ]
+}

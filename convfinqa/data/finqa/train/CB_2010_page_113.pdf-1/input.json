@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "CB/2010/page_113.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "our consolidated net cash flows used for investing activities were $ 4.2 billion in 2010 , compared with $ 3.2 billion in 2009 .",
+      "net investing activities for the indicated periods were related primarily to net purchases of fixed maturities and for 2010 included the acquisitions of rain and hail and jerneh insurance berhad .",
+      "our consolidated net cash flows from financing activities were $ 732 million in 2010 , compared with net cash flows used for financing activities of $ 321 million in 2009 .",
+      "net cash flows from/used for financing activities in 2010 and 2009 , included dividends paid on our common shares of $ 435 million and $ 388 million , respectively .",
+      "net cash flows from financing activ- ities in 2010 , included net proceeds of $ 699 million from the issuance of long-term debt , $ 1 billion in reverse repurchase agreements , and $ 300 million in credit facility borrowings .",
+      "this was partially offset by repayment of $ 659 million in debt and share repurchases settled in 2010 of $ 235 million .",
+      "for 2009 , net cash flows used for financing activities included net pro- ceeds from the issuance of $ 500 million in long-term debt and the net repayment of debt and reverse repurchase agreements of $ 466 million .",
+      "both internal and external forces influence our financial condition , results of operations , and cash flows .",
+      "claim settle- ments , premium levels , and investment returns may be impacted by changing rates of inflation and other economic conditions .",
+      "in many cases , significant periods of time , ranging up to several years or more , may lapse between the occurrence of an insured loss , the reporting of the loss to us , and the settlement of the liability for that loss .",
+      "from time to time , we utilize reverse repurchase agreements as a low-cost alternative for short-term funding needs .",
+      "we use these instruments on a limited basis to address short-term cash timing differences without disrupting our investment portfolio holdings and settle the transactions with future operating cash flows .",
+      "at december 31 , 2010 , there were $ 1 billion in reverse repurchase agreements outstanding ( refer to short-term debt ) .",
+      "in addition to cash from operations , routine sales of investments , and financing arrangements , we have agreements with a bank provider which implemented two international multi-currency notional cash pooling programs to enhance cash management efficiency during periods of short-term timing mismatches between expected inflows and outflows of cash by currency .",
+      "in each program , participating ace entities establish deposit accounts in different currencies with the bank provider and each day the credit or debit balances in every account are notionally translated into a single currency ( u.s .",
+      "dollars ) and then notionally pooled .",
+      "the bank extends overdraft credit to any participating ace entity as needed , provided that the overall notionally-pooled balance of all accounts in each pool at the end of each day is at least zero .",
+      "actual cash balances are not physically converted and are not co-mingled between legal entities .",
+      "ace entities may incur overdraft balances as a means to address short-term timing mismatches , and any overdraft balances incurred under this program by an ace entity would be guaranteed by ace limited ( up to $ 150 million in the aggregate ) .",
+      "our revolving credit facility allows for same day drawings to fund a net pool overdraft should participating ace entities withdraw contributed funds from the pool .",
+      "capital resources capital resources consist of funds deployed or available to be deployed to support our business operations .",
+      "the following table summarizes the components of our capital resources at december 31 , 2010 , and 2009. ."
+    ],
+    "post_text": [
+      "our ratios of debt to total capitalization and debt plus trust preferred securities to total capitalization have increased temporarily due to the increase in short-term debt , as discussed below .",
+      "we expect that these ratios will decline over the next six to nine months as we repay the short-term debt .",
+      "we believe our financial strength provides us with the flexibility and capacity to obtain available funds externally through debt or equity financing on both a short-term and long-term basis .",
+      "our ability to access the capital markets is dependent on , among other things , market conditions and our perceived financial strength .",
+      "we have accessed both the debt and equity markets from time to time. ."
+    ],
+    "table": [
+      [
+        "( in millions of u.s . dollars except for percentages )",
+        "2010",
+        "2009"
+      ],
+      [
+        "short-term debt",
+        "$ 1300",
+        "$ 161"
+      ],
+      [
+        "long-term debt",
+        "3358",
+        "3158"
+      ],
+      [
+        "total debt",
+        "4658",
+        "3319"
+      ],
+      [
+        "trust preferred securities",
+        "309",
+        "309"
+      ],
+      [
+        "total shareholders 2019 equity",
+        "22974",
+        "19667"
+      ],
+      [
+        "total capitalization",
+        "$ 27941",
+        "$ 23295"
+      ],
+      [
+        "ratio of debt to total capitalization",
+        "16.7% ( 16.7 % )",
+        "14.2% ( 14.2 % )"
+      ],
+      [
+        "ratio of debt plus trust preferred securities to total capitalization",
+        "17.8% ( 17.8 % )",
+        "15.6% ( 15.6 % )"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in the consolidated net cash flows used for investing activities \\\\n from 2009 to 2010"
+    ]
+  }
+}

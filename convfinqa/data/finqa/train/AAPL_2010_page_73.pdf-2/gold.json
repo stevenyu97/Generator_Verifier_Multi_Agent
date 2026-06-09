@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the smallest decrease related to expiration of statute of limitations for the three year period , in millions?",
+      "answer": -11.0,
+      "answer_raw": "-11.0",
+      "program": "table_min(decreases related to expiration of statute of limitations, none)"
+    }
+  ]
+}

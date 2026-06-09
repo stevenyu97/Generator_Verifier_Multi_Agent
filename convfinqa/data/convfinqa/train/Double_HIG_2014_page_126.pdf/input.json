@@ -1,0 +1,47 @@
+{
+  "input": {
+    "id": "Double_HIG/2014/page_126.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the agencies consider many factors in determining the final rating of an insurance company .",
+      "one consideration is the relative level of statutory surplus necessary to support the business written .",
+      "statutory surplus represents the capital of the insurance company reported in accordance with accounting practices prescribed by the applicable state insurance department .",
+      "see part i , item 1a .",
+      "risk factors 2014 201cdowngrades in our financial strength or credit ratings , which may make our products less attractive , could increase our cost of capital and inhibit our ability to refinance our debt , which would have a material adverse effect on our business , financial condition , results of operations and liquidity . 201d statutory surplus the table below sets forth statutory surplus for the company 2019s insurance companies as of december 31 , 2014 and 2013: ."
+    ],
+    "post_text": [
+      "statutory capital and surplus for the u.s .",
+      "life insurance subsidiaries , including domestic captive insurance subsidiaries in 2013 , increased by $ 518 , primarily due to variable annuity surplus impacts of $ 788 , net income from non-variable annuity business of $ 187 , increases in unrealized gains from other invested assets carrying values of $ 138 , partially offset by returns of capital of $ 500 , and changes in reserves on account of change in valuation basis of $ 100 .",
+      "effective april 30 , 2014 the last domestic captive ceased operations .",
+      "statutory capital and surplus for the property and casualty insurance increased by $ 47 , primarily due to statutory net income of $ 1.1 billion , and unrealized gains on investments of $ 1.4 billion , largely offset by dividends to the hfsg holding company of $ 2.5 billion .",
+      "the company also held regulatory capital and surplus for its former operations in japan until the sale of those operations on june 30 , 2014 .",
+      "under the accounting practices and procedures governed by japanese regulatory authorities , the company 2019s statutory capital and surplus was $ 1.2 billion as of december 31 , 2013. ."
+    ],
+    "table": [
+      [
+        "",
+        "2014",
+        "2013"
+      ],
+      [
+        "u.s . life insurance subsidiaries includes domestic captive insurance subsidiaries in 2013",
+        "$ 7157",
+        "$ 6639"
+      ],
+      [
+        "property and casualty insurance subsidiaries",
+        "8069",
+        "8022"
+      ],
+      [
+        "total",
+        "$ 15226",
+        "$ 14661"
+      ]
+    ],
+    "questions": [
+      "what is the sum of u.s . life insurance subsidiaries includes domestic captive insurance subsidiaries in 2013 and 2014?",
+      "what is the average for these years?"
+    ]
+  }
+}

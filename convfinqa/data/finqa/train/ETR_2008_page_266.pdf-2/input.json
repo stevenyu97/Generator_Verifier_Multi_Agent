@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "ETR/2008/page_266.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy arkansas , inc .",
+      "management's financial discussion and analysis results of operations net income 2008 compared to 2007 net income decreased $ 92.0 million primarily due to higher other operation and maintenance expenses , higher depreciation and amortization expenses , and a higher effective income tax rate , partially offset by higher net revenue .",
+      "the higher other operation and maintenance expenses resulted primarily from the write-off of approximately $ 70.8 million of costs as a result of the december 2008 arkansas court of appeals decision in entergy arkansas' base rate case .",
+      "the base rate case is discussed in more detail in note 2 to the financial statements .",
+      "2007 compared to 2006 net income decreased $ 34.0 million primarily due to higher other operation and maintenance expenses , higher depreciation and amortization expenses , and a higher effective income tax rate .",
+      "the decrease was partially offset by higher net revenue .",
+      "net revenue 2008 compared to 2007 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory credits .",
+      "following is an analysis of the change in net revenue comparing 2008 to 2007 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the rider revenue variance is primarily due to an energy efficiency rider which became effective in november 2007 .",
+      "the establishment of the rider results in an increase in rider revenue and a corresponding increase in other operation and maintenance expense with no effect on net income .",
+      "also contributing to the variance was an increase in franchise tax rider revenue as a result of higher retail revenues .",
+      "the corresponding increase is in taxes other than income taxes , resulting in no effect on net income .",
+      "the purchased power capacity variance is primarily due to lower reserve equalization expenses .",
+      "the volume/weather variance is primarily due to the effect of less favorable weather on residential and commercial sales during the billed and unbilled sales periods compared to 2007 and a 2.9% ( 2.9 % ) volume decrease in industrial sales , primarily in the wood industry and the small customer class .",
+      "billed electricity usage decreased 333 gwh in all sectors .",
+      "see \"critical accounting estimates\" below and note 1 to the financial statements for further discussion of the accounting for unbilled revenues. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2007 net revenue",
+        "$ 1110.6"
+      ],
+      [
+        "rider revenue",
+        "13.6"
+      ],
+      [
+        "purchased power capacity",
+        "4.8"
+      ],
+      [
+        "volume/weather",
+        "-14.6 ( 14.6 )"
+      ],
+      [
+        "other",
+        "3.5"
+      ],
+      [
+        "2008 net revenue",
+        "$ 1117.9"
+      ]
+    ],
+    "questions": [
+      "what is the net change in net revenue during 2008 for entergy arkansas?"
+    ]
+  }
+}

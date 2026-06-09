@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the implied value of nigen based on the 2000 acquisition?",
+      "answer": 81.66667,
+      "answer_raw": "81.66667",
+      "program": "divide(4.9, 6%)"
+    }
+  ]
+}

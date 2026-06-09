@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of the alexion pharmaceuticals inc . in march?",
+      "answer": 108.38,
+      "answer_raw": "108.38",
+      "program": "108.38"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in february?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 8.38,
+      "answer_raw": "8.38",
+      "program": "subtract(108.38, 100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation to that value in february, in percentage?",
+      "answer": 0.0838,
+      "answer_raw": "0.0838",
+      "program": "subtract(108.38, 100), divide(#0, 100)"
+    }
+  ]
+}

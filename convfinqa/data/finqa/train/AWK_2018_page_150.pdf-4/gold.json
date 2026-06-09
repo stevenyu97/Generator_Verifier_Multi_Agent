@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the lowest intrinsic value per share for the calculation in the table?",
+      "answer": 9.0,
+      "answer_raw": "9.0",
+      "program": "table_min(intrinsic value, none)"
+    }
+  ]
+}

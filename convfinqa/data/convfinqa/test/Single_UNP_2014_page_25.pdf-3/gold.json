@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in fuel surcharge program freight revenue between 2012 and 2013?",
+      "answer": 0.0,
+      "answer_raw": "0.0",
+      "program": "subtract(2.6, 2.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the percentage change during this time?",
+      "answer": 0.0,
+      "answer_raw": "0.0",
+      "program": "subtract(2.6, 2.6), divide(#0, 2.6)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much did the net debt represent in relation to the net equity?",
+      "answer": 0.77273,
+      "answer_raw": "0.77273",
+      "program": "divide(85, 110)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what percentage did the real estate investments represent in relation to the total assets?",
+      "answer": 0.83077,
+      "answer_raw": "0.83077",
+      "program": "divide(162, 195)"
+    }
+  ]
+}

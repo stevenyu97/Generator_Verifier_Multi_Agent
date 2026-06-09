@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the return of the lkq corporation from 2011 to 2016?",
+      "answer": 104.0,
+      "answer_raw": "104.0",
+      "program": "subtract(204, 100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to the return of that stock in 2011, in percentage?",
+      "answer": 1.04,
+      "answer_raw": "1.04",
+      "program": "subtract(204, 100), divide(#0, 100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the change in the return of the s&p 500 index from 2011 to 2016?",
+      "answer": 78.0,
+      "answer_raw": "78.0",
+      "program": "subtract(204, 100), divide(#0, 100), subtract(178, 100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was that return in 2011?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "how much, then, does that change represent in relation to this 2011 return, in percentage?",
+      "answer": 0.78,
+      "answer_raw": "0.78",
+      "program": "subtract(204, 100), divide(#0, 100), subtract(178, 100), divide(#2, 100)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and what is the difference between the lkq corporation percentage and this s&p 500 index one?",
+      "answer": 0.26,
+      "answer_raw": "0.26",
+      "program": "subtract(204, 100), divide(#0, 100), subtract(178, 100), divide(#2, 100), subtract(#1, #3)"
+    }
+  ]
+}

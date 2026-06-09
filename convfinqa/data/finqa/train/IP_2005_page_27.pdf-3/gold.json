@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the increase in the sales of uncoated papers from 2004 to 2005 in billions",
+      "answer": -0.2,
+      "answer_raw": "-0.2",
+      "program": "subtract(4.8, 5.0)"
+    }
+  ]
+}

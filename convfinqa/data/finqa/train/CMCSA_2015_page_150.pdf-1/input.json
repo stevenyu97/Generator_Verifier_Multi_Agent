@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "CMCSA/2015/page_150.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "nbcuniversal media , llc consolidated statement of comprehensive income ."
+    ],
+    "post_text": [
+      "see accompanying notes to consolidated financial statements .",
+      "147 comcast 2015 annual report on form 10-k ."
+    ],
+    "table": [
+      [
+        "year ended december 31 ( in millions )",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "net income",
+        "$ 3624",
+        "$ 3297",
+        "$ 2122"
+      ],
+      [
+        "deferred gains ( losses ) on cash flow hedges net",
+        "-21 ( 21 )",
+        "25",
+        "-5 ( 5 )"
+      ],
+      [
+        "employee benefit obligations net",
+        "60",
+        "-106 ( 106 )",
+        "95"
+      ],
+      [
+        "currency translation adjustments net",
+        "-121 ( 121 )",
+        "-62 ( 62 )",
+        "-41 ( 41 )"
+      ],
+      [
+        "comprehensive income",
+        "3542",
+        "3154",
+        "2171"
+      ],
+      [
+        "net ( income ) loss attributable to noncontrolling interests",
+        "-210 ( 210 )",
+        "-182 ( 182 )",
+        "-154 ( 154 )"
+      ],
+      [
+        "other comprehensive ( income ) loss attributable to noncontrolling interests",
+        "29",
+        "2014",
+        "2014"
+      ],
+      [
+        "comprehensive income attributable to nbcuniversal",
+        "$ 3361",
+        "$ 2972",
+        "$ 2017"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in comprehensive income attributable to nbcuniversal from 2013 to 2014?"
+    ]
+  }
+}

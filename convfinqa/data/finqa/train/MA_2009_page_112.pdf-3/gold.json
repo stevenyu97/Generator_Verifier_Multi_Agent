@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the benefit payments for 2010 to 2011",
+      "answer": 0.67113,
+      "answer_raw": "0.67113",
+      "program": "divide(18181, 27090)"
+    }
+  ]
+}

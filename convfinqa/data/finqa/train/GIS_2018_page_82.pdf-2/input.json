@@ -1,0 +1,54 @@
+{
+  "input": {
+    "id": "GIS/2018/page_82.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "scheduled maturities of our marketable securities are as follows: ."
+    ],
+    "post_text": [
+      "as of may 27 , 2018 , we did not any have cash and cash equivalents pledged as collateral for derivative contracts .",
+      "as of may 27 , 2018 , $ 0.9 million of certain accounts receivable were pledged as collateral against a foreign uncommitted line of credit .",
+      "the fair value and carrying amounts of long-term debt , including the current portion , were $ 14169.7 million and $ 14268.8 million , respectively , as of may 27 , 2018 .",
+      "the fair value of long-term debt was estimated using market quotations and discounted cash flows based on our current incremental borrowing rates for similar types of instruments .",
+      "long-term debt is a level 2 liability in the fair value hierarchy .",
+      "risk management activities as a part of our ongoing operations , we are exposed to market risks such as changes in interest and foreign currency exchange rates and commodity and equity prices .",
+      "to manage these risks , we may enter into various derivative transactions ( e.g. , futures , options , and swaps ) pursuant to our established policies .",
+      "commodity price risk many commodities we use in the production and distribution of our products are exposed to market price risks .",
+      "we utilize derivatives to manage price risk for our principal ingredients and energy costs , including grains ( oats , wheat , and corn ) , oils ( principally soybean ) , dairy products , natural gas , and diesel fuel .",
+      "our primary objective when entering into these derivative contracts is to achieve certainty with regard to the future price of commodities purchased for use in our supply chain .",
+      "we manage our exposures through a combination of purchase orders , long-term contracts with suppliers , exchange-traded futures and options , and over-the-counter options and swaps .",
+      "we offset our exposures based on current and projected market conditions and generally seek to acquire the inputs at as close to our planned cost as possible .",
+      "we use derivatives to manage our exposure to changes in commodity prices .",
+      "we do not perform the assessments required to achieve hedge accounting for commodity derivative positions .",
+      "accordingly , the changes in the values of these derivatives are recorded currently in cost of sales in our consolidated statements of earnings .",
+      "although we do not meet the criteria for cash flow hedge accounting , we believe that these instruments are effective in achieving our objective of providing certainty in the future price of commodities purchased for use in our supply chain .",
+      "accordingly , for purposes of measuring segment operating performance these gains and losses are reported in unallocated corporate items outside of segment operating results until such time that the exposure we are managing affects earnings .",
+      "at that time we reclassify the gain or loss from unallocated corporate items to segment operating profit , allowing our operating segments to realize the economic effects of the derivative without experiencing any resulting mark-to-market volatility , which remains in unallocated corporate items. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "available for sale cost",
+        "available for sale fair value"
+      ],
+      [
+        "under 1 year ( current )",
+        "$ 25.4",
+        "$ 25.4"
+      ],
+      [
+        "equity securities",
+        "0.3",
+        "3.5"
+      ],
+      [
+        "total",
+        "$ 25.7",
+        "$ 28.9"
+      ]
+    ],
+    "questions": [
+      "what is the difference between carrying amounts of long-term debt and fair value?"
+    ]
+  }
+}

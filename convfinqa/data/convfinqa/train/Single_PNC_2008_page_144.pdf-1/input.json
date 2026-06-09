@@ -1,0 +1,122 @@
+{
+  "input": {
+    "id": "Single_PNC/2008/page_144.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "amount of unrecognized tax benefit related to permanent differences because a portion of those unrecognized benefits relate to state tax matters .",
+      "it is reasonably possible that the liability for uncertain tax positions could increase or decrease in the next twelve months due to completion of tax authorities 2019 exams or the expiration of statutes of limitations .",
+      "management estimates that the liability for uncertain tax positions could decrease by $ 5 million within the next twelve months .",
+      "the consolidated federal income tax returns of the pnc financial services group , inc .",
+      "and subsidiaries through 2003 have been audited by the internal revenue service and we have resolved all disputed matters through the irs appeals division .",
+      "the internal revenue service is currently examining the 2004 through 2006 consolidated federal income tax returns of the pnc financial services group , inc .",
+      "and subsidiaries .",
+      "the consolidated federal income tax returns of national city corporation and subsidiaries through 2004 have been audited by the internal revenue service and we have reached agreement in principle on resolution of all disputed matters through the irs appeals division .",
+      "however , because the agreement is still subject to execution of a closing agreement we have not treated it as effectively settled .",
+      "the internal revenue service is currently examining the 2005 through 2007 consolidated federal income tax returns of national city corporation and subsidiaries , and we expect the 2008 federal income tax return to begin being audited as soon as it is filed .",
+      "new york , new jersey , maryland and new york city are principally where we were subject to state and local income tax prior to our acquisition of national city .",
+      "the state of new york is currently in the process of closing the 2002 to 2004 audit and will begin auditing the years 2005 and 2006 .",
+      "new york city is currently auditing 2004 and 2005 .",
+      "however , years 2002 and 2003 remain subject to examination by new york city pending completion of the new york state audit .",
+      "through 2006 , blackrock is included in our new york and new york city combined tax filings and constituted most of the tax liability .",
+      "years subsequent to 2004 remain subject to examination by new jersey and years subsequent to 2005 remain subject to examination by maryland .",
+      "national city was principally subject to state and local income tax in california , florida , illinois , indiana , and missouri .",
+      "audits currently in process for these states include : california ( 2003-2004 ) , illinois ( 2004-2006 ) and missouri ( 2003-2005 ) .",
+      "we will now also be principally subject to tax in those states .",
+      "in the ordinary course of business we are routinely subject to audit by the taxing authorities of these states and at any given time a number of audits will be in process .",
+      "our policy is to classify interest and penalties associated with income taxes as income taxes .",
+      "at january 1 , 2008 , we had accrued $ 91 million of interest related to tax positions , most of which related to our cross-border leasing transactions .",
+      "the total accrued interest and penalties at december 31 , 2008 was $ 164 million .",
+      "while the leasing related interest decreased with a payment to the irs , the $ 73 million net increase primarily resulted from our acquisition of national city .",
+      "note 22 summarized financial information of blackrock as required by sec regulation s-x , summarized consolidated financial information of blackrock follows ( in millions ) . ."
+    ],
+    "post_text": [
+      "note 23 regulatory matters we are subject to the regulations of certain federal and state agencies and undergo periodic examinations by such regulatory authorities .",
+      "the access to and cost of funding new business initiatives including acquisitions , the ability to pay dividends , the level of deposit insurance costs , and the level and nature of regulatory oversight depend , in large part , on a financial institution 2019s capital strength .",
+      "the minimum us regulatory capital ratios are 4% ( 4 % ) for tier 1 risk-based , 8% ( 8 % ) for total risk- based and 4% ( 4 % ) for leverage .",
+      "however , regulators may require higher capital levels when particular circumstances warrant .",
+      "to qualify as 201cwell capitalized , 201d regulators require banks to maintain capital ratios of at least 6% ( 6 % ) for tier 1 risk-based , 10% ( 10 % ) for total risk-based and 5% ( 5 % ) for leverage .",
+      "at december 31 , 2008 and december 31 , 2007 , each of our domestic bank subsidiaries met the 201cwell capitalized 201d capital ratio requirements. ."
+    ],
+    "table": [
+      [
+        "december 31",
+        "2008",
+        "2007"
+      ],
+      [
+        "total assets",
+        "$ 19924",
+        "$ 22561"
+      ],
+      [
+        "total liabilities",
+        "$ 7367",
+        "$ 10387"
+      ],
+      [
+        "non-controlling interest",
+        "491",
+        "578"
+      ],
+      [
+        "stockholders 2019 equity",
+        "12066",
+        "11596"
+      ],
+      [
+        "total liabilities non-controlling interest and stockholders 2019 equity",
+        "$ 19924",
+        "$ 22561"
+      ],
+      [
+        "year ended december 31",
+        "2008",
+        "2007"
+      ],
+      [
+        "total revenue",
+        "$ 5064",
+        "$ 4845"
+      ],
+      [
+        "total expenses",
+        "3471",
+        "3551"
+      ],
+      [
+        "operating income",
+        "1593",
+        "1294"
+      ],
+      [
+        "non-operating income ( expense )",
+        "-574 ( 574 )",
+        "529"
+      ],
+      [
+        "income before income taxes and non-controlling interest",
+        "1019",
+        "1823"
+      ],
+      [
+        "income taxes",
+        "388",
+        "464"
+      ],
+      [
+        "non-controlling interest",
+        "-155 ( 155 )",
+        "364"
+      ],
+      [
+        "net income",
+        "$ 786",
+        "$ 995"
+      ]
+    ],
+    "questions": [
+      "in 2008, what was the difference between the total assets and the total liabilities?",
+      "and how much does this difference represent in relation to the total liabilities?"
+    ]
+  }
+}

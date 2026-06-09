@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average segment net sales from 2006 to 2008",
+      "answer": 10062.0,
+      "answer_raw": "10062.0",
+      "program": "add(10086, 10014), add(10086, #0), divide(#1, const_3)"
+    }
+  ]
+}

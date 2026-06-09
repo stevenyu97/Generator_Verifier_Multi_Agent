@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what compensation expense was attributable to directors in 2016 and 2017?",
+      "answer": 4.9,
+      "answer_raw": "4.9",
+      "program": "add(2.4, 2.5)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about including 2015?",
+      "answer": 7.4,
+      "answer_raw": "7.4",
+      "program": "add(2.4, 2.5), add(#0, 2.5)"
+    }
+  ]
+}

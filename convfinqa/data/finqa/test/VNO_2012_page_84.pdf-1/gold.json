@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total five year change in the nareit all equity index?",
+      "answer": 32.0,
+      "answer_raw": "32.0",
+      "program": "subtract(132, 100)"
+    }
+  ]
+}

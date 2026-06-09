@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate of operating income for technical solutions segment from 2017 to 2018?",
+      "answer": 0.52381,
+      "answer_raw": "0.52381",
+      "program": "subtract(32, 21), divide(#0, 21)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of the expected benefit payments for 2009 to 2010",
+      "answer": 1.08712,
+      "answer_raw": "1.08712",
+      "program": "divide(19766, 18182)"
+    }
+  ]
+}

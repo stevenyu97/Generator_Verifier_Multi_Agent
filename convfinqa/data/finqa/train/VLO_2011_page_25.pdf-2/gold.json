@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the range for valero stock from 2007-2011?",
+      "answer": 103.31,
+      "answer_raw": "103.31",
+      "program": "subtract(137.91, 34.60)"
+    }
+  ]
+}

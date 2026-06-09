@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the securities borrowed to the securities loaned in 2008",
+      "answer": 20.40481,
+      "answer_raw": "20.40481",
+      "program": "divide(124000, 6077)"
+    }
+  ]
+}

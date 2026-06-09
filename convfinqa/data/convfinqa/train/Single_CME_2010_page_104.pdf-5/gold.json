@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the expense for the supplemental plan in 2010?",
+      "answer": 0.9,
+      "answer_raw": "0.9",
+      "program": "0.9"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the expense for the supplemental plan in 2009?",
+      "answer": 0.7,
+      "answer_raw": "0.7",
+      "program": "0.7"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum of those values?",
+      "answer": 1.6,
+      "answer_raw": "1.6",
+      "program": "add(0.9, 0.7)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the sum including 2008?",
+      "answer": 2.9,
+      "answer_raw": "2.9",
+      "program": "add(0.9, 0.7), add(#0, 1.3)"
+    }
+  ]
+}

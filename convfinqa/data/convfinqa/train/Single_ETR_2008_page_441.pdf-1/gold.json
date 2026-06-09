@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of stock options for leo p. denault by the exercise price?",
+      "answer": 5410000.0,
+      "answer_raw": "5410000.0",
+      "program": "multiply(50000, 108.20)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that value simplified?",
+      "answer": 5.41,
+      "answer_raw": "5.41",
+      "program": "multiply(50000, 108.20), divide(#0, const_1000000)"
+    }
+  ]
+}

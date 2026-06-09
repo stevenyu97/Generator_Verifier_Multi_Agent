@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average value of operating leases during 2010-2014?",
+      "answer": 16759.5,
+      "answer_raw": "16759.5",
+      "program": "divide(100557, const_6)"
+    }
+  ]
+}

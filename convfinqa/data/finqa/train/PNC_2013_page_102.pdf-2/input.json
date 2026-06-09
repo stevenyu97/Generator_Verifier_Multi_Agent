@@ -1,0 +1,116 @@
+{
+  "input": {
+    "id": "PNC/2013/page_102.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "table 46 : allowance for loan and lease losses ."
+    ],
+    "post_text": [
+      "( a ) includes charge-offs of $ 134 million taken pursuant to alignment with interagency guidance on practices for loans and lines of credit related to consumer lending in the first quarter of 2013 .",
+      "the provision for credit losses totaled $ 643 million for 2013 compared to $ 987 million for 2012 .",
+      "the primary driver of the decrease to the provision was improved overall credit quality , including improved commercial loan risk factors , lower consumer loan delinquencies and improvements in expected cash flows for our purchased impaired loans .",
+      "for 2013 , the provision for commercial lending credit losses decreased by $ 102 million , or 74% ( 74 % ) , from 2012 .",
+      "the provision for consumer lending credit losses decreased $ 242 million , or 29% ( 29 % ) , from 2012 .",
+      "at december 31 , 2013 , total alll to total nonperforming loans was 117% ( 117 % ) .",
+      "the comparable amount for december 31 , 2012 was 124% ( 124 % ) .",
+      "these ratios are 72% ( 72 % ) and 79% ( 79 % ) , respectively , when excluding the $ 1.4 billion and $ 1.5 billion , respectively , of alll at december 31 , 2013 and december 31 , 2012 allocated to consumer loans and lines of credit not secured by residential real estate and purchased impaired loans .",
+      "we have excluded consumer loans and lines of credit not secured by real estate as they are charged off after 120 to 180 days past due and not placed on nonperforming status .",
+      "additionally , we have excluded purchased impaired loans as they are considered performing regardless of their delinquency status as interest is accreted based on our estimate of expected cash flows and additional allowance is recorded when these cash flows are below recorded investment .",
+      "see table 35 within this credit risk management section for additional information .",
+      "the alll balance increases or decreases across periods in relation to fluctuating risk factors , including asset quality trends , charge-offs and changes in aggregate portfolio balances .",
+      "during 2013 , improving asset quality trends , including , but not limited to , delinquency status and improving economic conditions , realization of previously estimated losses through charge-offs , including the impact of alignment with interagency guidance and overall portfolio growth , combined to result in the alll balance declining $ .4 billion , or 11% ( 11 % ) to $ 3.6 billion as of december 31 , 2013 compared to december 31 , 2012 .",
+      "see note 7 allowances for loan and lease losses and unfunded loan commitments and letters of credit and note 6 purchased loans in the notes to consolidated financial statements in item 8 of this report regarding changes in the alll and in the allowance for unfunded loan commitments and letters of credit .",
+      "operational risk management operational risk is the risk of loss resulting from inadequate or failed internal processes or systems , human factors , or external events .",
+      "this includes losses that may arise as a result of non- compliance with laws or regulations , failure to fulfill fiduciary responsibilities , as well as litigation or other legal actions .",
+      "operational risk may occur in any of our business activities and manifests itself in various ways , including but not limited to : 2022 transaction processing errors , 2022 unauthorized transactions and fraud by employees or third parties , 2022 material disruption in business activities , 2022 system breaches and misuse of sensitive information , 2022 regulatory or governmental actions , fines or penalties , and 2022 significant legal expenses , judgments or settlements .",
+      "pnc 2019s operational risk management is inclusive of technology risk management , compliance and business continuity risk .",
+      "operational risk management focuses on balancing business needs , regulatory expectations and risk management priorities through an adaptive and proactive program that is designed to provide a strong governance model , sound and consistent risk management processes and transparent operational risk reporting across the enterprise .",
+      "the pnc board determines the strategic approach to operational risk via establishment of the operational risk appetite and appropriate risk management structure .",
+      "this includes establishment of risk metrics and limits and a reporting structure to identify , understand and manage operational risks .",
+      "executive management has responsibility for operational risk management .",
+      "the executive management team is responsible for monitoring significant risks , key controls and related issues through management reporting and a governance structure of risk committees and sub-committees .",
+      "within risk management , operational risk management functions are responsible for developing and maintaining the 84 the pnc financial services group , inc .",
+      "2013 form 10-k ."
+    ],
+    "table": [
+      [
+        "dollars in millions",
+        "2013",
+        "2012"
+      ],
+      [
+        "january 1",
+        "$ 4036",
+        "$ 4347"
+      ],
+      [
+        "total net charge-offs",
+        "-1077 ( 1077 )",
+        "-1289 ( 1289 )"
+      ],
+      [
+        "provision for credit losses",
+        "643",
+        "987"
+      ],
+      [
+        "net change in allowance for unfunded loan commitments and letters of credit",
+        "8",
+        "-10 ( 10 )"
+      ],
+      [
+        "other",
+        "-1 ( 1 )",
+        "1"
+      ],
+      [
+        "december 31",
+        "$ 3609",
+        "$ 4036"
+      ],
+      [
+        "net charge-offs to average loans ( for the year ended ) ( a )",
+        ".57% ( .57 % )",
+        ".73% ( .73 % )"
+      ],
+      [
+        "allowance for loan and lease losses to total loans",
+        "1.84",
+        "2.17"
+      ],
+      [
+        "commercial lending net charge-offs",
+        "$ -249 ( 249 )",
+        "$ -359 ( 359 )"
+      ],
+      [
+        "consumer lending net charge-offs",
+        "-828 ( 828 )",
+        "-930 ( 930 )"
+      ],
+      [
+        "total net charge-offs",
+        "$ -1077 ( 1077 )",
+        "$ -1289 ( 1289 )"
+      ],
+      [
+        "net charge-offs to average loans ( for the year ended )",
+        "",
+        ""
+      ],
+      [
+        "commercial lending",
+        ".22% ( .22 % )",
+        ".35% ( .35 % )"
+      ],
+      [
+        "consumer lending ( a )",
+        "1.07",
+        "1.24"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in the provision for credit losses from 2012 to 2013"
+    ]
+  }
+}

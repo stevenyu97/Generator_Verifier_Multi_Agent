@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of gross unrecognized tax benefits at the end of 2015?",
+      "answer": 47.0,
+      "answer_raw": "47.0",
+      "program": "47.0"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the value at the end of 2014?",
+      "answer": 70.1,
+      "answer_raw": "70.1",
+      "program": "70.1"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the 2015 value less the 2014?",
+      "answer": -23.1,
+      "answer_raw": "-23.1",
+      "program": "subtract(47.0, 70.1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the net change over the 2014 value?",
+      "answer": -0.32953,
+      "answer_raw": "-0.32953",
+      "program": "subtract(47.0, 70.1), divide(#0, 70.1)"
+    }
+  ]
+}

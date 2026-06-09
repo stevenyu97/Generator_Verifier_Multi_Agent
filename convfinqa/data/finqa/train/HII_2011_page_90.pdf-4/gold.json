@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage reduction in the shut down related costs as presented to the dod",
+      "answer": -0.12581,
+      "answer_raw": "-0.12581",
+      "program": "subtract(271, 310), divide(#0, 310)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of operating leases in 2007?",
+      "answer": 1703.0,
+      "answer_raw": "1703.0",
+      "program": "1703"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2008?",
+      "answer": 1371.0,
+      "answer_raw": "1371.0",
+      "program": "1371"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the decline over the year?",
+      "answer": 332.0,
+      "answer_raw": "332.0",
+      "program": "subtract(1703, 1371)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is this decline as a portion of the 2007 total?",
+      "answer": 0.19495,
+      "answer_raw": "0.19495",
+      "program": "subtract(1703, 1371), divide(#0, 1703)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and in the year before, what was the lease expense?",
+      "answer": 1262000.0,
+      "answer_raw": "1262000.0",
+      "program": "1262000"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and what percentage of it was due to the non-recurring charge for the office facility closing?",
+      "answer": 0.04596,
+      "answer_raw": "0.04596",
+      "program": "divide(58000, 1262000)"
+    }
+  ]
+}

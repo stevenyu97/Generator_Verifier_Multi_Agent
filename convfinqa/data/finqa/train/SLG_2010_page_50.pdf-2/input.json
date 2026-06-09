@@ -1,0 +1,140 @@
+{
+  "input": {
+    "id": "SLG/2010/page_50.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "off-balance-sheet arrangements we have a number of off-balance-sheet investments , including joint ven- tures and debt and preferred equity investments .",
+      "these investments all have varying ownership structures .",
+      "substantially all of our joint venture arrangements are accounted for under the equity method of accounting as we have the ability to exercise significant influence , but not control over the operating and financial decisions of these joint venture arrange- ments .",
+      "our off-balance-sheet arrangements are discussed in note a0 5 , 201cdebt and preferred equity investments 201d and note a0 6 , 201cinvestments in unconsolidated joint ventures 201d in the accompanying consolidated finan- cial statements .",
+      "additional information about the debt of our unconsoli- dated joint ventures is included in 201ccontractual obligations 201d below .",
+      "capital expenditures we estimate that , for the year ending december a031 , 2011 , we will incur approximately $ 120.5 a0 million of capital expenditures , which are net of loan reserves ( including tenant improvements and leasing commis- sions ) , on existing wholly-owned properties , and that our share of capital expenditures at our joint venture properties , net of loan reserves , will be approximately $ 23.4 a0million .",
+      "we expect to fund these capital expen- ditures with operating cash flow , additional property level mortgage financings and cash on hand .",
+      "future property acquisitions may require substantial capital investments for refurbishment and leasing costs .",
+      "we expect that these financing requirements will be met in a similar fashion .",
+      "we believe that we will have sufficient resources to satisfy our capital needs during the next 12-month period .",
+      "thereafter , we expect our capital needs will be met through a combination of cash on hand , net cash provided by operations , borrowings , potential asset sales or addi- tional equity or debt issuances .",
+      "above provides that , except to enable us to continue to qualify as a reit for federal income tax purposes , we will not during any four consecu- tive fiscal quarters make distributions with respect to common stock or other equity interests in an aggregate amount in excess of 95% ( 95 % ) of funds from operations for such period , subject to certain other adjustments .",
+      "as of december a0 31 , 2010 and 2009 , we were in compliance with all such covenants .",
+      "market rate risk we are exposed to changes in interest rates primarily from our floating rate borrowing arrangements .",
+      "we use interest rate derivative instruments to manage exposure to interest rate changes .",
+      "a hypothetical 100 basis point increase in interest rates along the entire interest rate curve for 2010 and 2009 , would increase our annual interest cost by approximately $ 11.0 a0mil- lion and $ 15.2 a0million and would increase our share of joint venture annual interest cost by approximately $ 6.7 a0million and $ 6.4 a0million , respectively .",
+      "we recognize all derivatives on the balance sheet at fair value .",
+      "derivatives that are not hedges must be adjusted to fair value through income .",
+      "if a derivative is a hedge , depending on the nature of the hedge , changes in the fair value of the derivative will either be offset against the change in fair value of the hedged asset , liability , or firm commitment through earnings , or recognized in other comprehensive income until the hedged item is recognized in earnings .",
+      "the ineffective portion of a deriva- tive 2019s change in fair value is recognized immediately in earnings .",
+      "approximately $ 4.1 a0billion of our long-term debt bore interest at fixed rates , and therefore the fair value of these instruments is affected by changes in the market interest rates .",
+      "the interest rate on our variable rate debt and joint venture debt as of december a031 , 2010 ranged from libor plus 75 basis points to libor plus 400 basis points .",
+      "contractual obligations combined aggregate principal maturities of mortgages and other loans payable , our 2007 unsecured revolving credit facility , senior unsecured notes ( net of discount ) , trust preferred securities , our share of joint venture debt , including as-of-right extension options , estimated interest expense ( based on weighted average interest rates for the quarter ) , and our obligations under our capital and ground leases , as of december a031 , 2010 , are as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "48 sl green realty corp .",
+      "2010 annual report management 2019s discussion and analysis of financial condition and results of operations ."
+    ],
+    "table": [
+      [
+        "",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "thereafter",
+        "total"
+      ],
+      [
+        "property mortgages",
+        "$ 246615",
+        "$ 143646",
+        "$ 656863",
+        "$ 208025",
+        "$ 260433",
+        "$ 1884885",
+        "$ 3400467"
+      ],
+      [
+        "revolving credit facility",
+        "2014",
+        "650000",
+        "2014",
+        "2014",
+        "2014",
+        "2014",
+        "650000"
+      ],
+      [
+        "trust preferred securities",
+        "2014",
+        "2014",
+        "2014",
+        "2014",
+        "2014",
+        "100000",
+        "100000"
+      ],
+      [
+        "senior unsecured notes",
+        "84823",
+        "123171",
+        "2014",
+        "98578",
+        "657",
+        "793316",
+        "1100545"
+      ],
+      [
+        "capital lease",
+        "1555",
+        "1555",
+        "1555",
+        "1555",
+        "1593",
+        "44056",
+        "51869"
+      ],
+      [
+        "ground leases",
+        "28929",
+        "28179",
+        "28179",
+        "28179",
+        "28179",
+        "552421",
+        "694066"
+      ],
+      [
+        "estimated interest expense",
+        "265242",
+        "245545",
+        "221161",
+        "197128",
+        "177565",
+        "355143",
+        "1461784"
+      ],
+      [
+        "joint venture debt",
+        "207738",
+        "61491",
+        "41415",
+        "339184",
+        "96786",
+        "857305",
+        "1603919"
+      ],
+      [
+        "total",
+        "$ 834902",
+        "$ 1253587",
+        "$ 949173",
+        "$ 872649",
+        "$ 565213",
+        "$ 4587126",
+        "$ 9062650"
+      ]
+    ],
+    "questions": [
+      "in 2011 what was the percent of the total contractual obligations associated with property mortgages"
+    ]
+  }
+}

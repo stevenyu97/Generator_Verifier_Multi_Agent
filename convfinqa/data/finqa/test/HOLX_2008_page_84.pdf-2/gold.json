@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total contractual obligations are due within the next 12 months?",
+      "answer": 0.05793,
+      "answer_raw": "0.05793",
+      "program": "divide(156571, 2702687)"
+    }
+  ]
+}

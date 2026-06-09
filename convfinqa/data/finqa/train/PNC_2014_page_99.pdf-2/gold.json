@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the provision for credit losses in 2014 compared 2013 .",
+      "answer": 0.42457,
+      "answer_raw": "0.42457",
+      "program": "divide(273, 643)"
+    }
+  ]
+}

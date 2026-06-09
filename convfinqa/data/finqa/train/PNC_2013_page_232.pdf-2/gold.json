@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions for 2013 , what was the net change in commercial mortgage recourse obligations?",
+      "answer": 10.0,
+      "answer_raw": "10.0",
+      "program": "subtract(43, 33)"
+    }
+  ]
+}

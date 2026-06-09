@@ -1,0 +1,81 @@
+{
+  "input": {
+    "id": "LMT/2005/page_40.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "page 38 five years .",
+      "the amounts ultimately applied against our offset agreements are based on negotiations with the customer and generally require cash outlays that represent only a fraction of the original amount in the offset agreement .",
+      "at december 31 , 2005 , we had outstanding offset agreements totaling $ 8.4 bil- lion , primarily related to our aeronautics segment , that extend through 2015 .",
+      "to the extent we have entered into purchase obligations at december 31 , 2005 that also satisfy offset agree- ments , those amounts are included in the preceding table .",
+      "we have entered into standby letter of credit agreements and other arrangements with financial institutions and custom- ers mainly relating to advances received from customers and/or the guarantee of future performance on some of our contracts .",
+      "at december 31 , 2005 , we had outstanding letters of credit , surety bonds and guarantees , as follows : commitment expiration by period ( in millions ) commitment 1 year ( a ) years ( a ) standby letters of credit $ 2630 $ 2425 $ 171 $ 18 $ 16 ."
+    ],
+    "post_text": [
+      "( a ) approximately $ 2262 million and $ 49 million of standby letters of credit in the 201cless than 1 year 201d and 201c1-3 year 201d periods , respectively , and approximately $ 38 million of surety bonds in the 201cless than 1 year 201d period are expected to renew for additional periods until completion of the contractual obligation .",
+      "included in the table above is approximately $ 200 million representing letter of credit and surety bond amounts for which related obligations or liabilities are also recorded in the bal- ance sheet , either as reductions of inventories , as customer advances and amounts in excess of costs incurred , or as other liabilities .",
+      "approximately $ 2 billion of the standby letters of credit in the table above were to secure advance payments received under an f-16 contract from an international cus- tomer .",
+      "these letters of credit are available for draw down in the event of our nonperformance , and the amount available will be reduced as certain events occur throughout the period of performance in accordance with the contract terms .",
+      "similar to the letters of credit for the f-16 contract , other letters of credit and surety bonds are available for draw down in the event of our nonperformance .",
+      "at december 31 , 2005 , we had no material off-balance sheet arrangements as those arrangements are defined by the securities and exchange commission ( sec ) .",
+      "quantitative and qualitative disclosure of market risk our main exposure to market risk relates to interest rates and foreign currency exchange rates .",
+      "our financial instruments that are subject to interest rate risk principally include fixed- rate and floating rate long-term debt .",
+      "if interest rates were to change by plus or minus 1% ( 1 % ) , interest expense would increase or decrease by approximately $ 10 million related to our float- ing rate debt .",
+      "the estimated fair values of the corporation 2019s long-term debt instruments at december 31 , 2005 aggregated approximately $ 6.2 billion , compared with a carrying amount of approximately $ 5.0 billion .",
+      "the majority of our long-term debt obligations are not callable until maturity .",
+      "we have used interest rate swaps in the past to manage our exposure to fixed and variable interest rates ; however , at year-end 2005 , we had no such agreements in place .",
+      "we use forward foreign exchange contracts to manage our exposure to fluctuations in foreign currency exchange rates , and do so in ways that qualify for hedge accounting treatment .",
+      "these exchange contracts hedge the fluctuations in cash flows associated with firm commitments or specific anticipated transactions contracted in foreign currencies , or hedge the exposure to rate changes affecting foreign currency denomi- nated assets or liabilities .",
+      "related gains and losses on these contracts , to the extent they are effective hedges , are recog- nized in income at the same time the hedged transaction is recognized or when the hedged asset or liability is adjusted .",
+      "to the extent the hedges are ineffective , gains and losses on the contracts are recognized in the current period .",
+      "at december 31 , 2005 , the fair value of forward exchange con- tracts outstanding , as well as the amounts of gains and losses recorded during the year then ended , were not material .",
+      "we do not hold or issue derivative financial instruments for trad- ing or speculative purposes .",
+      "recent accounting pronouncements in december 2004 , the fasb issued fas 123 ( r ) , share- based payments , which will impact our net earnings and earn- ings per share and change the classification of certain elements of the statement of cash flows .",
+      "fas 123 ( r ) requires stock options and other share-based payments made to employees to be accounted for as compensation expense and recorded at fair lockheed martin corporation management 2019s discussion and analysis of financial condition and results of operations december 31 , 2005 ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "commitment expiration by period total commitment",
+        "commitment expiration by period less than 1 year ( a )",
+        "commitment expiration by period 1-3 years ( a )",
+        "commitment expiration by period 3-5 years",
+        "commitment expiration by period after 5 years"
+      ],
+      [
+        "standby letters of credit",
+        "$ 2630",
+        "$ 2425",
+        "$ 171",
+        "$ 18",
+        "$ 16"
+      ],
+      [
+        "surety bonds",
+        "434",
+        "79",
+        "352",
+        "3",
+        "2014"
+      ],
+      [
+        "guarantees",
+        "2",
+        "1",
+        "1",
+        "2014",
+        "2014"
+      ],
+      [
+        "total commitments",
+        "$ 3066",
+        "$ 2505",
+        "$ 524",
+        "$ 21",
+        "$ 16"
+      ]
+    ],
+    "questions": [
+      "at december 31 , 2005 what was the percent of the total commitment applicable to the standby letters of credit"
+    ]
+  }
+}

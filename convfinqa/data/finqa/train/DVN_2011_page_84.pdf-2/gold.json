@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in devon 2019s level 3 plan assets from 2010 to 2011",
+      "answer": 0.55172,
+      "answer_raw": "0.55172",
+      "program": "subtract(90, 58), divide(#0, 58)"
+    }
+  ]
+}

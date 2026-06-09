@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the approximate average , in millions , for the tax benefit realized from option exercises under all incentive plans for 2014 , 2013 and 2012?",
+      "answer": 26.0,
+      "answer_raw": "26.0",
+      "program": "add(33, 31), add(#0, 14), divide(#1, const_3)"
+    }
+  ]
+}

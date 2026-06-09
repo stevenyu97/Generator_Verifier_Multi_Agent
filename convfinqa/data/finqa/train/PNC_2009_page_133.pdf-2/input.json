@@ -1,0 +1,73 @@
+{
+  "input": {
+    "id": "PNC/2009/page_133.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "note 10 loan sales and securitizations loan sales we sell residential and commercial mortgage loans in loan securitization transactions sponsored by government national mortgage association ( gnma ) , fnma , and fhlmc and in certain instances to other third-party investors .",
+      "gnma , fnma , and the fhlmc securitize our transferred loans into mortgage-backed securities for sale into the secondary market .",
+      "generally , we do not retain any interest in the transferred loans other than mortgage servicing rights .",
+      "refer to note 9 goodwill and other intangible assets for further discussion on our residential and commercial mortgage servicing rights assets .",
+      "during 2009 , residential and commercial mortgage loans sold totaled $ 19.8 billion and $ 5.7 billion , respectively .",
+      "during 2008 , commercial mortgage loans sold totaled $ 3.1 billion .",
+      "there were no residential mortgage loans sales in 2008 as these activities were obtained through our acquisition of national city .",
+      "our continuing involvement in these loan sales consists primarily of servicing and limited repurchase obligations for loan and servicer breaches in representations and warranties .",
+      "generally , we hold a cleanup call repurchase option for loans sold with servicing retained to the other third-party investors .",
+      "in certain circumstances as servicer , we advance principal and interest payments to the gses and other third-party investors and also may make collateral protection advances .",
+      "our risk of loss in these servicing advances has historically been minimal .",
+      "we maintain a liability for estimated losses on loans expected to be repurchased as a result of breaches in loan and servicer representations and warranties .",
+      "we have also entered into recourse arrangements associated with commercial mortgage loans sold to fnma and fhlmc .",
+      "refer to note 25 commitments and guarantees for further discussion on our repurchase liability and recourse arrangements .",
+      "our maximum exposure to loss in our loan sale activities is limited to these repurchase and recourse obligations .",
+      "in addition , for certain loans transferred in the gnma and fnma transactions , we hold an option to repurchase individual delinquent loans that meet certain criteria .",
+      "without prior authorization from these gses , this option gives pnc the ability to repurchase the delinquent loan at par .",
+      "under gaap , once we have the unilateral ability to repurchase the delinquent loan , effective control over the loan has been regained and we are required to recognize the loan and a corresponding repurchase liability on the balance sheet regardless of our intent to repurchase the loan .",
+      "at december 31 , 2009 and december 31 , 2008 , the balance of our repurchase option asset and liability totaled $ 577 million and $ 476 million , respectively .",
+      "securitizations in securitizations , loans are typically transferred to a qualifying special purpose entity ( qspe ) that is demonstrably distinct from the transferor to transfer the risk from our consolidated balance sheet .",
+      "a qspe is a bankruptcy-remote trust allowed to perform only certain passive activities .",
+      "in addition , these entities are self-liquidating and in certain instances are structured as real estate mortgage investment conduits ( remics ) for tax purposes .",
+      "the qspes are generally financed by issuing certificates for various levels of senior and subordinated tranches .",
+      "qspes are exempt from consolidation provided certain conditions are met .",
+      "our securitization activities were primarily obtained through our acquisition of national city .",
+      "credit card receivables , automobile , and residential mortgage loans were securitized through qspes sponsored by ncb .",
+      "these qspes were financed primarily through the issuance and sale of beneficial interests to independent third parties and were not consolidated on our balance sheet at december 31 , 2009 or december 31 , 2008 .",
+      "however , see note 1 accounting policies regarding accounting guidance that impacts the accounting for these qspes effective january 1 , 2010 .",
+      "qualitative and quantitative information about the securitization qspes and our retained interests in these transactions follow .",
+      "the following summarizes the assets and liabilities of the securitization qspes associated with securitization transactions that were outstanding at december 31 , 2009. ."
+    ],
+    "post_text": [
+      "( a ) represents period-end outstanding principal balances of loans transferred to the securitization qspes .",
+      "credit card loans at december 31 , 2009 , the credit card securitization series 2005-1 , 2006-1 , 2007-1 , and 2008-3 were outstanding .",
+      "during the fourth quarter of 2009 , the 2008-1 and 2008-2 credit card securitization series matured .",
+      "our continuing involvement in the securitized credit card receivables consists primarily of servicing and our holding of certain retained interests .",
+      "servicing fees earned approximate current market rates for servicing fees ; therefore , no servicing asset or liability is recognized .",
+      "we hold a clean-up call repurchase option to the extent a securitization series extends past its scheduled note principal payoff date .",
+      "to the extent this occurs , the clean-up call option is triggered when the principal balance of the asset- backed notes of any series reaches 5% ( 5 % ) of the initial principal balance of the asset-backed notes issued at the securitization ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "december 31 2009 credit card",
+        "december 31 2009 mortgage",
+        "december 31 2009 credit card",
+        "mortgage"
+      ],
+      [
+        "assets ( a )",
+        "$ 2368",
+        "$ 232",
+        "$ 2129",
+        "$ 319"
+      ],
+      [
+        "liabilities",
+        "1622",
+        "232",
+        "1824",
+        "319"
+      ]
+    ],
+    "questions": [
+      "in 2009 what was the ratio of the credit cards assets to liabilities"
+    ]
+  }
+}

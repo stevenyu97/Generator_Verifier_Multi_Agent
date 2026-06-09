@@ -1,0 +1,85 @@
+{
+  "input": {
+    "id": "GIS/2008/page_83.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "contributions and future benefit payments we expect to make contributions of $ 28.1 million to our defined benefit , other postretirement , and postemployment benefits plans in fiscal 2009 .",
+      "actual 2009 contributions could exceed our current projections , as influenced by our decision to undertake discretionary funding of our benefit trusts versus other competing investment priorities and future changes in government requirements .",
+      "estimated benefit payments , which reflect expected future service , as appropriate , are expected to be paid from fiscal 2009-2018 as follows : in millions defined benefit pension postretirement benefit plans gross payments medicare subsidy receipts postemployment benefit ......................................................................................................................................................................................... ."
+    ],
+    "post_text": [
+      "defined contribution plans the general mills savings plan is a defined contribution plan that covers salaried and nonunion employees .",
+      "it had net assets of $ 2309.9 million as of may 25 , 2008 and $ 2303.0 million as of may 27 , 2007.this plan is a 401 ( k ) savings plan that includes a number of investment funds and an employee stock ownership plan ( esop ) .",
+      "we sponsor another savings plan for certain hourly employees with net assets of $ 16.0 million as of may 25 , 2008 .",
+      "our total recognized expense related to defined contribution plans was $ 61.9 million in fiscal 2008 , $ 48.3 million in fiscal 2007 , and $ 45.5 million in fiscal 2006 .",
+      "the esop originally purchased our common stock principally with funds borrowed from third parties and guaranteed by us.the esop shares are included in net shares outstanding for the purposes of calculating eps .",
+      "the esop 2019s third-party debt was repaid on june 30 , 2007 .",
+      "the esop 2019s only assets are our common stock and temporary cash balances.the esop 2019s share of the total defined contribution expense was $ 52.3 million in fiscal 2008 , $ 40.1 million in fiscal 2007 , and $ 37.6 million in fiscal 2006 .",
+      "the esop 2019s expensewas calculated by the 201cshares allocated 201dmethod .",
+      "the esop used our common stock to convey benefits to employees and , through increased stock ownership , to further align employee interests with those of stockholders.wematched a percentage of employee contributions to the general mills savings plan with a base match plus a variable year end match that depended on annual results .",
+      "employees received our match in the form of common stock .",
+      "our cash contribution to the esop was calculated so as to pay off enough debt to release sufficient shares to make our match .",
+      "the esop used our cash contributions to the plan , plus the dividends received on the esop 2019s leveraged shares , to make principal and interest payments on the esop 2019s debt .",
+      "as loan payments were made , shares became unencumbered by debt and were committed to be allocated .",
+      "the esop allocated shares to individual employee accounts on the basis of the match of employee payroll savings ( contributions ) , plus reinvested dividends received on previously allocated shares .",
+      "the esop incurred net interest of less than $ 1.0 million in each of fiscal 2007 and 2006 .",
+      "the esop used dividends of $ 2.5 million in fiscal 2007 and $ 3.9 million in 2006 , along with our contributions of less than $ 1.0 million in each of fiscal 2007 and 2006 to make interest and principal payments .",
+      "the number of shares of our common stock allocated to participants in the esop was 5.2 million as of may 25 , 2008 , and 5.4 million as of may 27 , 2007 .",
+      "annual report 2008 81 ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "defined benefit pension plans",
+        "other postretirement benefit plans gross payments",
+        "medicare subsidy receipts",
+        "postemployment benefit plans"
+      ],
+      [
+        "2009",
+        "$ 176.3",
+        "$ 56.0",
+        "$ -6.1 ( 6.1 )",
+        "$ 16.6"
+      ],
+      [
+        "2010",
+        "182.5",
+        "59.9",
+        "-6.7 ( 6.7 )",
+        "17.5"
+      ],
+      [
+        "2011",
+        "189.8",
+        "63.3",
+        "-7.3 ( 7.3 )",
+        "18.1"
+      ],
+      [
+        "2012",
+        "197.5",
+        "67.0",
+        "-8.0 ( 8.0 )",
+        "18.8"
+      ],
+      [
+        "2013",
+        "206.6",
+        "71.7",
+        "-8.7 ( 8.7 )",
+        "19.4"
+      ],
+      [
+        "2014 2013 2018",
+        "1187.3",
+        "406.8",
+        "-55.3 ( 55.3 )",
+        "106.3"
+      ]
+    ],
+    "questions": [
+      "what was the average total recognized expense related to defined contribution plans from 2006 to 2008"
+    ]
+  }
+}

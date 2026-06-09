@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amount of statutory capital and surplus for bermuda subsidiaries in 2010?",
+      "answer": 11798.0,
+      "answer_raw": "11798.0",
+      "program": "11798"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2009?",
+      "answer": 9164.0,
+      "answer_raw": "9164.0",
+      "program": "9164"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "by how much, then, did it increase over the year?",
+      "answer": 2634.0,
+      "answer_raw": "2634.0",
+      "program": "subtract(11798, 9164)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "in that same period, what was the change in the net income for those same bermuda subsidiaries?",
+      "answer": 61.0,
+      "answer_raw": "61.0",
+      "program": "subtract(2430, 2369)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and what is this change as a portion of that income in 2009?",
+      "answer": 0.02575,
+      "answer_raw": "0.02575",
+      "program": "subtract(2430, 2369), divide(#0, 2369)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amount of long-term debt maturities in 2018?",
+      "answer": 822690.0,
+      "answer_raw": "822690.0",
+      "program": "822690"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2019?",
+      "answer": 768588.0,
+      "answer_raw": "768588.0",
+      "program": "768588"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between these two years?",
+      "answer": 54102.0,
+      "answer_raw": "54102.0",
+      "program": "subtract(822690, 768588)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the value for 2019 specifically?",
+      "answer": 768588.0,
+      "answer_raw": "768588.0",
+      "program": "768588"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and the percentage change during this time?",
+      "answer": 0.07039,
+      "answer_raw": "0.07039",
+      "program": "subtract(822690, 768588), divide(#0, 768588)"
+    }
+  ]
+}

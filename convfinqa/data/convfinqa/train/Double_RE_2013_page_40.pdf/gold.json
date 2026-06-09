@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the total pre-tax catastrophe losses in 2013 and 2012?",
+      "answer": 605.0,
+      "answer_raw": "605.0",
+      "program": "add(195.0, 410.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and including 2011?",
+      "answer": 1905.4,
+      "answer_raw": "1905.4",
+      "program": "add(195.0, 410.0), add(#0, 1300.4)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the change in pre-tax catastrophe losses between 2010 and 2011?",
+      "answer": 729.3,
+      "answer_raw": "729.3",
+      "program": "subtract(1300.4, 571.1)"
+    }
+  ]
+}

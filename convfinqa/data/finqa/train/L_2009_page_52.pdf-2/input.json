@@ -1,0 +1,128 @@
+{
+  "input": {
+    "id": "L/2009/page_52.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "item 1 .",
+      "business loews hotels holding corporation the subsidiaries of loews hotels holding corporation ( 201cloews hotels 201d ) , our wholly owned subsidiary , presently operate the following 18 hotels .",
+      "loews hotels accounted for 2.0% ( 2.0 % ) , 2.9% ( 2.9 % ) and 2.7% ( 2.7 % ) of our consolidated total revenue for the years ended december 31 , 2009 , 2008 and 2007 .",
+      "number of name and location rooms owned , leased or managed loews annapolis hotel 220 owned annapolis , maryland loews coronado bay 440 land lease expiring 2034 san diego , california loews denver hotel 185 owned denver , colorado the don cesar , a loews hotel 347 management contract ( a ) ( b ) st .",
+      "pete beach , florida hard rock hotel , 650 management contract ( c ) at universal orlando orlando , florida loews lake las vegas 493 management contract ( a ) henderson , nevada loews le concorde hotel 405 land lease expiring 2069 quebec city , canada the madison , a loews hotel 353 management contract expiring 2021 ( a ) washington , d.c .",
+      "loews miami beach hotel 790 owned miami beach , florida loews new orleans hotel 285 management contract expiring 2018 ( a ) new orleans , louisiana loews philadelphia hotel 585 owned philadelphia , pennsylvania loews portofino bay hotel , 750 management contract ( c ) at universal orlando orlando , florida loews regency hotel 350 land lease expiring 2013 , with renewal option new york , new york for 47 years loews royal pacific resort 1000 management contract ( c ) at universal orlando orlando , florida loews santa monica beach hotel 340 management contract expiring 2018 , with santa monica , california renewal option for 5 years ( a ) loews vanderbilt hotel 340 owned nashville , tennessee loews ventana canyon 400 management contract expiring 2019 ( a ) tucson , arizona loews hotel vogue 140 owned montreal , canada ( a ) these management contracts are subject to termination rights .",
+      "( b ) a loews hotels subsidiary is a 20% ( 20 % ) owner of the hotel , which is being operated by loews hotels pursuant to a management contract .",
+      "( c ) a loews hotels subsidiary is a 50% ( 50 % ) owner of these hotels located at the universal orlando theme park , through a joint venture with universal studios and the rank group .",
+      "the hotels are on land leased by the joint venture and are operated by loews hotels pursuant to a management contract. ."
+    ],
+    "post_text": [
+      "item 1 .",
+      "business loews hotels holding corporation the subsidiaries of loews hotels holding corporation ( 201cloews hotels 201d ) , our wholly owned subsidiary , presently operate the following 18 hotels .",
+      "loews hotels accounted for 2.0% ( 2.0 % ) , 2.9% ( 2.9 % ) and 2.7% ( 2.7 % ) of our consolidated total revenue for the years ended december 31 , 2009 , 2008 and 2007 .",
+      "number of name and location rooms owned , leased or managed loews annapolis hotel 220 owned annapolis , maryland loews coronado bay 440 land lease expiring 2034 san diego , california loews denver hotel 185 owned denver , colorado the don cesar , a loews hotel 347 management contract ( a ) ( b ) st .",
+      "pete beach , florida hard rock hotel , 650 management contract ( c ) at universal orlando orlando , florida loews lake las vegas 493 management contract ( a ) henderson , nevada loews le concorde hotel 405 land lease expiring 2069 quebec city , canada the madison , a loews hotel 353 management contract expiring 2021 ( a ) washington , d.c .",
+      "loews miami beach hotel 790 owned miami beach , florida loews new orleans hotel 285 management contract expiring 2018 ( a ) new orleans , louisiana loews philadelphia hotel 585 owned philadelphia , pennsylvania loews portofino bay hotel , 750 management contract ( c ) at universal orlando orlando , florida loews regency hotel 350 land lease expiring 2013 , with renewal option new york , new york for 47 years loews royal pacific resort 1000 management contract ( c ) at universal orlando orlando , florida loews santa monica beach hotel 340 management contract expiring 2018 , with santa monica , california renewal option for 5 years ( a ) loews vanderbilt hotel 340 owned nashville , tennessee loews ventana canyon 400 management contract expiring 2019 ( a ) tucson , arizona loews hotel vogue 140 owned montreal , canada ( a ) these management contracts are subject to termination rights .",
+      "( b ) a loews hotels subsidiary is a 20% ( 20 % ) owner of the hotel , which is being operated by loews hotels pursuant to a management contract .",
+      "( c ) a loews hotels subsidiary is a 50% ( 50 % ) owner of these hotels located at the universal orlando theme park , through a joint venture with universal studios and the rank group .",
+      "the hotels are on land leased by the joint venture and are operated by loews hotels pursuant to a management contract. ."
+    ],
+    "table": [
+      [
+        "name and location",
+        "number of rooms",
+        "owned leased or managed"
+      ],
+      [
+        "loews annapolis hotel annapolis maryland",
+        "220",
+        "owned"
+      ],
+      [
+        "loews coronado bay san diego california",
+        "440",
+        "land lease expiring 2034"
+      ],
+      [
+        "loews denver hotel denver colorado",
+        "185",
+        "owned"
+      ],
+      [
+        "the don cesar a loews hotel st . pete beach florida",
+        "347",
+        "management contract ( a ) ( b )"
+      ],
+      [
+        "hard rock hotel at universal orlando orlando florida",
+        "650",
+        "management contract ( c )"
+      ],
+      [
+        "loews lake las vegas henderson nevada",
+        "493",
+        "management contract ( a )"
+      ],
+      [
+        "loews le concorde hotel quebec city canada",
+        "405",
+        "land lease expiring 2069"
+      ],
+      [
+        "the madison a loews hotel washington d.c .",
+        "353",
+        "management contract expiring 2021 ( a )"
+      ],
+      [
+        "loews miami beach hotel miami beach florida",
+        "790",
+        "owned"
+      ],
+      [
+        "loews new orleans hotel new orleans louisiana",
+        "285",
+        "management contract expiring 2018 ( a )"
+      ],
+      [
+        "loews philadelphia hotel philadelphia pennsylvania",
+        "585",
+        "owned"
+      ],
+      [
+        "loews portofino bay hotel at universal orlando orlando florida",
+        "750",
+        "management contract ( c )"
+      ],
+      [
+        "loews regency hotel new york new york",
+        "350",
+        "land lease expiring 2013 with renewal option for 47 years"
+      ],
+      [
+        "loews royal pacific resort at universal orlando orlando florida",
+        "1000",
+        "management contract ( c )"
+      ],
+      [
+        "loews santa monica beach hotel santa monica california",
+        "340",
+        "management contract expiring 2018 with renewal option for5 years ( a )"
+      ],
+      [
+        "loews vanderbilt hotel nashville tennessee",
+        "340",
+        "owned"
+      ],
+      [
+        "loews ventana canyon tucson arizona",
+        "400",
+        "management contract expiring 2019 ( a )"
+      ],
+      [
+        "loews hotel vogue montreal canada",
+        "140",
+        "owned"
+      ]
+    ],
+    "questions": [
+      "for the loews santa monica beach hotel , what is the final year of the management contract including renewals?"
+    ]
+  }
+}

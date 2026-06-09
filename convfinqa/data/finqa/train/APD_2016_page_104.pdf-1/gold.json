@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the year 2019 , what is the highest projected benefit payment value?",
+      "answer": 157.2,
+      "answer_raw": "157.2",
+      "program": "table_max(2019, none)"
+    }
+  ]
+}

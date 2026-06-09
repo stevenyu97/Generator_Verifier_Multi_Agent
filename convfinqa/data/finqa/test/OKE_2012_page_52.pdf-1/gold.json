@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of employees are subject to collective bargaining agreements?",
+      "answer": 0.14509,
+      "answer_raw": "0.14509",
+      "program": "divide(705, 4859)"
+    }
+  ]
+}

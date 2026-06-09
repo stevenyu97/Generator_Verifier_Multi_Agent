@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent of the total aeronautics that is owned",
+      "answer": 0.25551,
+      "answer_raw": "0.25551",
+      "program": "divide(5.8, 22.7)"
+    }
+  ]
+}

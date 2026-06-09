@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total cash used for stock repurchase during the fourth quarter of 2008 , in millions?",
+      "answer": 79.43383,
+      "answer_raw": "79.43383",
+      "program": "multiply(2784221, 28.53), divide(#0, const_1000000)"
+    }
+  ]
+}

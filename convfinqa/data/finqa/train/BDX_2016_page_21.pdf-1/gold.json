@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the total international facilities square feet of owned by bd",
+      "answer": 0.76381,
+      "answer_raw": "0.76381",
+      "program": "add(7189652, 2223245), divide(7189652, #0)"
+    }
+  ]
+}

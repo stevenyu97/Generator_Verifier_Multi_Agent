@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage of the total investments amount attributable to the track in 2006?",
+      "answer": 0.66325,
+      "answer_raw": "0.66325",
+      "program": "divide(1487, 2242)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the anticipated change in the capital investment between 2006 and 2007?",
+      "answer": -2238.8,
+      "answer_raw": "-2238.8",
+      "program": "subtract(3.2, 2242)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the anticipated percentage increase?",
+      "answer": -0.99857,
+      "answer_raw": "-0.99857",
+      "program": "subtract(3.2, 2242), divide(#0, 2242)"
+    }
+  ]
+}

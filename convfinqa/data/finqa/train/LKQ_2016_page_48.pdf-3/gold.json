@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage decline in the liquidity in 2016 from 2015",
+      "answer": 0.99305,
+      "answer_raw": "0.99305",
+      "program": "add(1.25, 178.5), divide(178.5, #0)"
+    }
+  ]
+}

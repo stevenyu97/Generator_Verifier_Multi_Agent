@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of acquisition-related costs recorded in 201cselling, general, and administrative expenses 201d in 2017?",
+      "answer": 0.6,
+      "answer_raw": "0.6",
+      "program": "0.6"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that in 2016?",
+      "answer": 4.1,
+      "answer_raw": "4.1",
+      "program": "4.1"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the combined total of acquisition-related costs recorded in 201cselling, general, and administrative expenses 201d for the two years?",
+      "answer": 4.7,
+      "answer_raw": "4.7",
+      "program": "add(0.6, 4.1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this combined total represent in relation to the total of current assets, in percentage?",
+      "answer": 0.20705,
+      "answer_raw": "0.20705",
+      "program": "add(0.6, 4.1), divide(#0, 22.7)"
+    }
+  ]
+}

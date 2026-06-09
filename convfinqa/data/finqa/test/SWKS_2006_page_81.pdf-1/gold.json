@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the total pension liability adjustment from 2004 to 2006?",
+      "answer": 187.0,
+      "answer_raw": "187.0",
+      "program": "multiply(351, const_m1), add(#0, 538)"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "input": {
+    "id": "GIS/2006/page_43.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "during fiscal 2006 , we repurchased 19 million shares of common stock for an aggregate purchase price of $ 892 million , of which $ 7 million settled after the end of our fiscal year .",
+      "in fiscal 2005 , we repurchased 17 million shares of common stock for an aggregate purchase price of $ 771 million .",
+      "a total of 146 million shares were held in treasury at may 28 , 2006 .",
+      "we also used cash from operations to repay $ 189 million in outstanding debt in fiscal 2006 .",
+      "in fiscal 2005 , we repaid nearly $ 2.2 billion of debt , including the purchase of $ 760 million principal amount of our 6 percent notes due in 2012 .",
+      "fiscal 2005 debt repurchase costs were $ 137 million , consisting of $ 73 million of noncash interest rate swap losses reclassified from accumulated other comprehen- sive income , $ 59 million of purchase premium and $ 5 million of noncash unamortized cost of issuance expense .",
+      "capital structure in millions may 28 , may 29 ."
+    ],
+    "post_text": [
+      "we have $ 2.1 billion of long-term debt maturing in the next 12 months and classified as current , including $ 131 million that may mature in fiscal 2007 based on the put rights of those note holders .",
+      "we believe that cash flows from operations , together with available short- and long- term debt financing , will be adequate to meet our liquidity and capital needs for at least the next 12 months .",
+      "on october 28 , 2005 , we repurchased a significant portion of our zero coupon convertible debentures pursuant to put rights of the holders for an aggregate purchase price of $ 1.33 billion , including $ 77 million of accreted original issue discount .",
+      "these debentures had an aggregate prin- cipal amount at maturity of $ 1.86 billion .",
+      "we incurred no gain or loss from this repurchase .",
+      "as of may 28 , 2006 , there were $ 371 million in aggregate principal amount at matu- rity of the debentures outstanding , or $ 268 million of accreted value .",
+      "we used proceeds from the issuance of commercial paper to fund the purchase price of the deben- tures .",
+      "we also have reclassified the remaining zero coupon convertible debentures to long-term debt based on the october 2008 put rights of the holders .",
+      "on march 23 , 2005 , we commenced a cash tender offer for our outstanding 6 percent notes due in 2012 .",
+      "the tender offer resulted in the purchase of $ 500 million principal amount of the notes .",
+      "subsequent to the expiration of the tender offer , we purchased an additional $ 260 million prin- cipal amount of the notes in the open market .",
+      "the aggregate purchases resulted in the debt repurchase costs as discussed above .",
+      "our minority interests consist of interests in certain of our subsidiaries that are held by third parties .",
+      "general mills cereals , llc ( gmc ) , our subsidiary , holds the manufac- turing assets and intellectual property associated with the production and retail sale of big g ready-to-eat cereals , progresso soups and old el paso products .",
+      "in may 2002 , one of our wholly owned subsidiaries sold 150000 class a preferred membership interests in gmc to an unrelated third-party investor in exchange for $ 150 million , and in october 2004 , another of our wholly owned subsidiaries sold 835000 series b-1 preferred membership interests in gmc in exchange for $ 835 million .",
+      "all interests in gmc , other than the 150000 class a interests and 835000 series b-1 interests , but including all managing member inter- ests , are held by our wholly owned subsidiaries .",
+      "in fiscal 2003 , general mills capital , inc .",
+      "( gm capital ) , a subsidiary formed for the purpose of purchasing and collecting our receivables , sold $ 150 million of its series a preferred stock to an unrelated third-party investor .",
+      "the class a interests of gmc receive quarterly preferred distributions at a floating rate equal to ( i ) the sum of three- month libor plus 90 basis points , divided by ( ii ) 0.965 .",
+      "this rate will be adjusted by agreement between the third- party investor holding the class a interests and gmc every five years , beginning in june 2007 .",
+      "under certain circum- stances , gmc also may be required to be dissolved and liquidated , including , without limitation , the bankruptcy of gmc or its subsidiaries , failure to deliver the preferred distributions , failure to comply with portfolio requirements , breaches of certain covenants , lowering of our senior debt rating below either baa3 by moody 2019s or bbb by standard & poor 2019s , and a failed attempt to remarket the class a inter- ests as a result of a breach of gmc 2019s obligations to assist in such remarketing .",
+      "in the event of a liquidation of gmc , each member of gmc would receive the amount of its then current capital account balance .",
+      "the managing member may avoid liquidation in most circumstances by exercising an option to purchase the class a interests .",
+      "the series b-1 interests of gmc are entitled to receive quarterly preferred distributions at a fixed rate of 4.5 percent per year , which is scheduled to be reset to a new fixed rate through a remarketing in october 2007 .",
+      "beginning in october 2007 , the managing member of gmc may elect to repurchase the series b-1 interests for an amount equal to the holder 2019s then current capital account balance plus any applicable make-whole amount .",
+      "gmc is not required to purchase the series b-1 interests nor may these investors put these interests to us .",
+      "the series b-1 interests will be exchanged for shares of our perpetual preferred stock upon the occurrence of any of the following events : our senior unsecured debt rating falling below either ba3 as rated by moody 2019s or bb- as rated by standard & poor 2019s or fitch , inc. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "may 282006",
+        "may 292005"
+      ],
+      [
+        "notes payable",
+        "$ 1503",
+        "$ 299"
+      ],
+      [
+        "current portion of long-term debt",
+        "2131",
+        "1638"
+      ],
+      [
+        "long-term debt",
+        "2415",
+        "4255"
+      ],
+      [
+        "total debt",
+        "6049",
+        "6192"
+      ],
+      [
+        "minority interests",
+        "1136",
+        "1133"
+      ],
+      [
+        "stockholders 2019 equity",
+        "5772",
+        "5676"
+      ],
+      [
+        "total capital",
+        "$ 12957",
+        "$ 13001"
+      ]
+    ],
+    "questions": [
+      "in fiscal 2005 debt repurchase costs what was the of noncash interest rate swap losses reclassified from accumulated other comprehen- sive income involved in the transaction"
+    ]
+  }
+}

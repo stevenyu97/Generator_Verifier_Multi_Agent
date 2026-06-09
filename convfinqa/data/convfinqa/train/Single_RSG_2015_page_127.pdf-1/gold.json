@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in expected volatility between 2013 and 2014?",
+      "answer": -1.4,
+      "answer_raw": "-1.4",
+      "program": "subtract(27.5, 28.9)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the value for 2013 specifically?",
+      "answer": 28.9,
+      "answer_raw": "28.9",
+      "program": "28.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the percentage decline during this time?",
+      "answer": -0.04844,
+      "answer_raw": "-0.04844",
+      "program": "subtract(27.5, 28.9), divide(#0, 28.9)"
+    }
+  ]
+}

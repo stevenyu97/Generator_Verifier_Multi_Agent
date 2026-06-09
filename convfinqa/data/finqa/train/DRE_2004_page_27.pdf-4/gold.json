@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "inn 2003 what was the percent of the total rental income by reportable segment that was sourced from retail",
+      "answer": 0.00851,
+      "answer_raw": "0.00851",
+      "program": "divide(5863, 689343)"
+    }
+  ]
+}

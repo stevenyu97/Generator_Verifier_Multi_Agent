@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the sentinelle medical's purchase price was paid in cash?",
+      "answer": 0.7418,
+      "answer_raw": "0.7418",
+      "program": "divide(84751, 114251)"
+    }
+  ]
+}

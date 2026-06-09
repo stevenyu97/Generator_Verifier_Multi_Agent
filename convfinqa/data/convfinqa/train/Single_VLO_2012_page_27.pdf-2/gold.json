@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the lowest price group in 2008 and at what price?",
+      "answer": 31.45,
+      "answer_raw": "31.45",
+      "program": "31.45"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is 100 less that price?",
+      "answer": 68.55,
+      "answer_raw": "68.55",
+      "program": "subtract(const_100, 31.45)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is that difference divided by 100?",
+      "answer": 0.6855,
+      "answer_raw": "0.6855",
+      "program": "subtract(const_100, 31.45), divide(#0, const_100)"
+    }
+  ]
+}

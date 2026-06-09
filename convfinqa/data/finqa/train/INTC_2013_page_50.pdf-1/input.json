@@ -1,0 +1,94 @@
+{
+  "input": {
+    "id": "INTC/2013/page_50.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "contractual obligations the following table summarizes our significant contractual obligations as of december 28 , 2013: ."
+    ],
+    "post_text": [
+      "capital purchase obligations1 5503 5375 125 2014 3 other purchase obligations and commitments2 1859 772 744 307 36 long-term debt obligations3 22372 429 2360 3761 15822 other long-term liabilities4 , 5 1496 569 663 144 120 total6 $ 32100 $ 7353 $ 4190 $ 4378 $ 16179 1 capital purchase obligations represent commitments for the construction or purchase of property , plant and equipment .",
+      "they were not recorded as liabilities on our consolidated balance sheets as of december 28 , 2013 , as we had not yet received the related goods or taken title to the property .",
+      "2 other purchase obligations and commitments include payments due under various types of licenses and agreements to purchase goods or services , as well as payments due under non-contingent funding obligations .",
+      "funding obligations include agreements to fund various projects with other companies .",
+      "3 amounts represent principal and interest cash payments over the life of the debt obligations , including anticipated interest payments that are not recorded on our consolidated balance sheets .",
+      "any future settlement of convertible debt would impact our cash payments .",
+      "4 we are unable to reliably estimate the timing of future payments related to uncertain tax positions ; therefore , $ 188 million of long-term income taxes payable has been excluded from the preceding table .",
+      "however , long- term income taxes payable , recorded on our consolidated balance sheets , included these uncertain tax positions , reduced by the associated federal deduction for state taxes and u.s .",
+      "tax credits arising from non- u.s .",
+      "income taxes .",
+      "5 amounts represent future cash payments to satisfy other long-term liabilities recorded on our consolidated balance sheets , including the short-term portion of these long-term liabilities .",
+      "expected required contributions to our u.s .",
+      "and non-u.s .",
+      "pension plans and other postretirement benefit plans of $ 62 million to be made during 2014 are also included ; however , funding projections beyond 2014 are not practicable to estimate .",
+      "6 total excludes contractual obligations already recorded on our consolidated balance sheets as current liabilities except for the short-term portions of long-term debt obligations and other long-term liabilities .",
+      "contractual obligations for purchases of goods or services , included in other purchase obligations and commitments in the preceding table , include agreements that are enforceable and legally binding on intel and that specify all significant terms , including fixed or minimum quantities to be purchased ; fixed , minimum , or variable price provisions ; and the approximate timing of the transaction .",
+      "for obligations with cancellation provisions , the amounts included in the preceding table were limited to the non-cancelable portion of the agreement terms or the minimum cancellation fee .",
+      "we have entered into certain agreements for the purchase of raw materials that specify minimum prices and quantities based on a percentage of the total available market or based on a percentage of our future purchasing requirements .",
+      "due to the uncertainty of the future market and our future purchasing requirements , as well as the non-binding nature of these agreements , obligations under these agreements are not included in the preceding table .",
+      "our purchase orders for other products are based on our current manufacturing needs and are fulfilled by our vendors within short time horizons .",
+      "in addition , some of our purchase orders represent authorizations to purchase rather than binding agreements .",
+      "table of contents management 2019s discussion and analysis of financial condition and results of operations ( continued ) ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "payments due by period total",
+        "payments due by period less than1 year",
+        "payments due by period 1 20133 years",
+        "payments due by period 3 20135 years",
+        "payments due by period more than5 years"
+      ],
+      [
+        "operating lease obligations",
+        "$ 870",
+        "$ 208",
+        "$ 298",
+        "$ 166",
+        "$ 198"
+      ],
+      [
+        "capital purchase obligations1",
+        "5503",
+        "5375",
+        "125",
+        "2014",
+        "3"
+      ],
+      [
+        "other purchase obligations and commitments2",
+        "1859",
+        "772",
+        "744",
+        "307",
+        "36"
+      ],
+      [
+        "long-term debt obligations3",
+        "22372",
+        "429",
+        "2360",
+        "3761",
+        "15822"
+      ],
+      [
+        "other long-term liabilities4 5",
+        "1496",
+        "569",
+        "663",
+        "144",
+        "120"
+      ],
+      [
+        "total6",
+        "$ 32100",
+        "$ 7353",
+        "$ 4190",
+        "$ 4378",
+        "$ 16179"
+      ]
+    ],
+    "questions": [
+      "what percentage of total contractual obligations as of december 28 , 2013 is made up of long-term debt obligations?"
+    ]
+  }
+}

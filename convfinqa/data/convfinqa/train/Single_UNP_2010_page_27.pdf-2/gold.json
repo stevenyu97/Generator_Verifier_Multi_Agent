@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of revenue in agriculture in 2009 and 2010?",
+      "answer": 6366.0,
+      "answer_raw": "6366.0",
+      "program": "add(3286, 3080)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the revenue in 2008?",
+      "answer": 3352.0,
+      "answer_raw": "3352.0",
+      "program": "3352"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total sum?",
+      "answer": 9718.0,
+      "answer_raw": "9718.0",
+      "program": "add(3286, 3080), add(#0, 3352)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the average value per year?",
+      "answer": 3239.33333,
+      "answer_raw": "3239.33333",
+      "program": "add(3286, 3080), add(#0, 3352), divide(#1, const_3)"
+    }
+  ]
+}

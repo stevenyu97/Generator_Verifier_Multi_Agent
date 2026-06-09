@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did the fair value of stock-based performance units outstanding decrease from 2016 to 2018?",
+      "answer": -0.0888,
+      "answer_raw": "-0.0888",
+      "program": "subtract(19.60, 21.51), divide(#0, 21.51)"
+    }
+  ]
+}

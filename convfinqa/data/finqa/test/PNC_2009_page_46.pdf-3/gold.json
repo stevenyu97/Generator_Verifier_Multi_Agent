@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "did the share of securities rated aaa/aaa increase between 2008 and 2009?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(14, 19)"
+    }
+  ]
+}

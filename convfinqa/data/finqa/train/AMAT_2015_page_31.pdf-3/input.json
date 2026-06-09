@@ -1,0 +1,51 @@
+{
+  "input": {
+    "id": "AMAT/2015/page_31.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "item 2 : properties information concerning applied's properties at october 25 , 2015 is set forth below: ."
+    ],
+    "post_text": [
+      "because of the interrelation of applied's operations , properties within a country may be shared by the segments operating within that country .",
+      "the company's headquarters offices are in santa clara , california .",
+      "products in silicon systems are manufactured in austin , texas ; gloucester , massachusetts ; rehovot , israel ; and singapore .",
+      "remanufactured equipment products in the applied global services segment are produced primarily in austin , texas .",
+      "products in the display segment are manufactured in tainan , taiwan and santa clara , california .",
+      "products in the energy and environmental solutions segment are primarily manufactured in alzenau , germany and treviso , italy .",
+      "applied also owns and leases offices , plants and warehouse locations in many locations throughout the world , including in europe , japan , north america ( principally the united states ) , israel , china , india , korea , southeast asia and taiwan .",
+      "these facilities are principally used for manufacturing ; research , development and engineering ; and marketing , sales and customer support .",
+      "applied also owns a total of approximately 139 acres of buildable land in texas , california , israel and italy that could accommodate additional building space .",
+      "applied considers the properties that it owns or leases as adequate to meet its current and future requirements .",
+      "applied regularly assesses the size , capability and location of its global infrastructure and periodically makes adjustments based on these assessments. ."
+    ],
+    "table": [
+      [
+        "( square feet in thousands )",
+        "united states",
+        "other countries",
+        "total"
+      ],
+      [
+        "owned",
+        "3748",
+        "1624",
+        "5372"
+      ],
+      [
+        "leased",
+        "556",
+        "1107",
+        "1663"
+      ],
+      [
+        "total",
+        "4304",
+        "2731",
+        "7035"
+      ]
+    ],
+    "questions": [
+      "what percentage of company's property are leased and located in united states?"
+    ]
+  }
+}

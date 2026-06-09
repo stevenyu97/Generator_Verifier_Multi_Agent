@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average change in unrealized gains on derivative instruments?",
+      "answer": 5.0,
+      "answer_raw": "5.0",
+      "program": "table_average(change in unrealized gains on derivative instruments, none)"
+    }
+  ]
+}

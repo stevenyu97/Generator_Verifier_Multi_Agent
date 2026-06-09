@@ -1,0 +1,79 @@
+{
+  "input": {
+    "id": "APD/2015/page_54.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "unconditional purchase obligations approximately $ 390 of our long-term unconditional purchase obligations relate to feedstock supply for numerous hyco ( hydrogen , carbon monoxide , and syngas ) facilities .",
+      "the price of feedstock supply is principally related to the price of natural gas .",
+      "however , long-term take-or-pay sales contracts to hyco customers are generally matched to the term of the feedstock supply obligations and provide recovery of price increases in the feedstock supply .",
+      "due to the matching of most long-term feedstock supply obligations to customer sales contracts , we do not believe these purchase obligations would have a material effect on our financial condition or results of operations .",
+      "refer to note 17 , commitments and contingencies , to the consolidated financial statements for additional information on our unconditional purchase obligations .",
+      "the unconditional purchase obligations also include other product supply and purchase commitments and electric power and natural gas supply purchase obligations , which are primarily pass-through contracts with our customers .",
+      "in addition , purchase commitments to spend approximately $ 540 for additional plant and equipment are included in the unconditional purchase obligations in 2016 .",
+      "we also purchase materials , energy , capital equipment , supplies , and services as part of the ordinary course of business under arrangements that are not unconditional purchase obligations .",
+      "the majority of such purchases are for raw materials and energy , which are obtained under requirements-type contracts at market prices .",
+      "obligation for future contribution to an equity affiliate on 19 april 2015 , a joint venture between air products and acwa holding entered into a 20-year oxygen and nitrogen supply agreement to supply saudi aramco 2019s oil refinery and power plant being built in jazan , saudi arabia .",
+      "air products owns 25% ( 25 % ) of the joint venture and guarantees the repayment of its share of an equity bridge loan .",
+      "in total , we expect to invest approximately $ 100 in this joint venture .",
+      "as of 30 september 2015 , we recorded a noncurrent liability of $ 67.5 for our obligation to make future equity contributions based on advances received by the joint venture under the loan .",
+      "income tax liabilities noncurrent deferred income tax liabilities as of 30 september 2015 were $ 903.3 .",
+      "tax liabilities related to unrecognized tax benefits as of 30 september 2015 were $ 97.5 .",
+      "these tax liabilities were excluded from the contractual obligations table , as it is impractical to determine a cash impact by year given that payments will vary according to changes in tax laws , tax rates , and our operating results .",
+      "in addition , there are uncertainties in timing of the effective settlement of our uncertain tax positions with respective taxing authorities .",
+      "refer to note 23 , income taxes , to the consolidated financial statements for additional information .",
+      "pension benefits the company sponsors defined benefit pension plans and defined contribution plans that cover a substantial portion of its worldwide employees .",
+      "the principal defined benefit pension plans 2014the u.s .",
+      "salaried pension plan and the u.k .",
+      "pension plan 2014were closed to new participants in 2005 and were replaced with defined contribution plans .",
+      "over the long run , the shift to defined contribution plans is expected to reduce volatility of both plan expense and contributions .",
+      "the fair market value of plan assets for our defined benefit pension plans as of the 30 september 2015 measurement date decreased to $ 3916.4 from $ 4114.6 at the end of fiscal year 2014 .",
+      "the projected benefit obligation for these plans was $ 4787.8 and $ 4738.6 at the end of the fiscal years 2015 and 2014 , respectively .",
+      "refer to note 16 , retirement benefits , to the consolidated financial statements for comprehensive and detailed disclosures on our postretirement benefits .",
+      "pension expense ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "pension expense",
+        "$ 135.6",
+        "$ 135.9",
+        "$ 169.7"
+      ],
+      [
+        "special terminations settlements and curtailments ( included above )",
+        "35.2",
+        "5.8",
+        "19.8"
+      ],
+      [
+        "weighted average discount rate",
+        "4.0% ( 4.0 % )",
+        "4.6% ( 4.6 % )",
+        "4.0% ( 4.0 % )"
+      ],
+      [
+        "weighted average expected rate of return on plan assets",
+        "7.4% ( 7.4 % )",
+        "7.7% ( 7.7 % )",
+        "7.7% ( 7.7 % )"
+      ],
+      [
+        "weighted average expected rate of compensation increase",
+        "3.5% ( 3.5 % )",
+        "3.9% ( 3.9 % )",
+        "3.8% ( 3.8 % )"
+      ]
+    ],
+    "questions": [
+      "what are the average pension expenses for those three years?"
+    ]
+  }
+}

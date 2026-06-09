@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent has short duration advances in the us increased between 2011 and 2013?",
+      "answer": 0.18154,
+      "answer_raw": "0.18154",
+      "program": "subtract(2356, 1994), divide(#0, 1994)"
+    }
+  ]
+}

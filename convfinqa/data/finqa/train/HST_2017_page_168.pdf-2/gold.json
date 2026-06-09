@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in millions in the accumulated depreciation and amortization of real estate assets from 2015 to 2016?",
+      "answer": 283.0,
+      "answer_raw": "283.0",
+      "program": "subtract(5949, 5666)"
+    }
+  ]
+}

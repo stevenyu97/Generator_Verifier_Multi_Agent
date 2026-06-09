@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the income tax benefit in the years of 2015 to 2017?",
+      "answer": -4.0,
+      "answer_raw": "-4.0",
+      "program": "-4"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the stock-based compensation in that period?",
+      "answer": 11.0,
+      "answer_raw": "11.0",
+      "program": "11"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what portion, then, did that benefit represent in relation to this compensation?",
+      "answer": -0.36364,
+      "answer_raw": "-0.36364",
+      "program": "divide(-4, 11)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was that in percentage?",
+      "answer": 0.36364,
+      "answer_raw": "0.36364",
+      "program": "divide(const_4, 11)"
+    }
+  ]
+}

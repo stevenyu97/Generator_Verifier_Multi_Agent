@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage growth in operating expenses from 2013 to 2014",
+      "answer": -0.26923,
+      "answer_raw": "-0.26923",
+      "program": "subtract(19, 26), divide(#0, 26)"
+    }
+  ]
+}

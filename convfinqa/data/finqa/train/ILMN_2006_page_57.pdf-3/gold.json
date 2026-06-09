@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total contractual obligations are due in less than one year?",
+      "answer": 0.14037,
+      "answer_raw": "0.14037",
+      "program": "divide(5320, 37899)"
+    }
+  ]
+}

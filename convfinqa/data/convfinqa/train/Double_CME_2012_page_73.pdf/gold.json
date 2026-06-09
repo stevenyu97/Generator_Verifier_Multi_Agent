@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2012, what was the total combined amount of the fair value and the cost basis for the the bm&fbovespa s.a .?",
+      "answer": 953.5,
+      "answer_raw": "953.5",
+      "program": "add(690.6, 262.9)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the difference between that fair value and the cost basis for the bolsa mexicana de valores s.a.b . de c.v .?",
+      "answer": 12.0,
+      "answer_raw": "12.0",
+      "program": "subtract(29.3, 17.3)"
+    }
+  ]
+}

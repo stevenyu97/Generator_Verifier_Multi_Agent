@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in value of the balance of asset allocation from 2016 to 2017?",
+      "answer": 19870.0,
+      "answer_raw": "19870.0",
+      "program": "subtract(196545, 176675)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the 2016 value?",
+      "answer": 176675.0,
+      "answer_raw": "176675.0",
+      "program": "176675"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the percent change?",
+      "answer": 0.11247,
+      "answer_raw": "0.11247",
+      "program": "subtract(196545, 176675), divide(#0, 176675)"
+    }
+  ]
+}

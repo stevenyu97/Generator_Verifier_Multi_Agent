@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "Single_C/2010/page_306.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "dividends for a summary of the cash dividends paid on citi 2019s outstanding common stock during 2009 and 2010 , see note 33 to the consolidated financial statements .",
+      "for so long as the u.s .",
+      "government holds any citigroup trust preferred securities acquired pursuant to the exchange offers consummated in 2009 , citigroup has agreed not to pay a quarterly common stock dividend exceeding $ 0.01 per quarter , subject to certain customary exceptions .",
+      "further , any dividend on citi 2019s outstanding common stock would need to be made in compliance with citi 2019s obligations to any remaining outstanding citigroup preferred stock .",
+      "performance graph comparison of five-year cumulative total return the following graph and table compare the cumulative total return on citigroup 2019s common stock with the cumulative total return of the s&p 500 index and the s&p financial index over the five-year period extending through december 31 , 2010 .",
+      "the graph and table assume that $ 100 was invested on december 31 , 2005 in citigroup 2019s common stock , the s&p 500 index and the s&p financial index and that all dividends were reinvested .",
+      "citigroup s&p 500 index s&p financial index comparison of five-year cumulative total return for the years ended 2006 2007 2008 2009 2010 ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "december 31,",
+        "citigroup",
+        "s&p 500 index",
+        "s&p financial index"
+      ],
+      [
+        "2006",
+        "119.55",
+        "115.79",
+        "119.19"
+      ],
+      [
+        "2007",
+        "66.10",
+        "122.15",
+        "96.98"
+      ],
+      [
+        "2008",
+        "15.88",
+        "76.96",
+        "43.34"
+      ],
+      [
+        "2009",
+        "7.85",
+        "97.33",
+        "50.80"
+      ],
+      [
+        "2010",
+        "11.22",
+        "111.99",
+        "56.96"
+      ]
+    ],
+    "questions": [
+      "what was the change in value of the cititgroup's common stock from the year of 2005 to 2010?",
+      "and what was the original value invested in that stock in 2005?",
+      "how much, then, does that change represent in relation to this invested value, in percentage?"
+    ]
+  }
+}

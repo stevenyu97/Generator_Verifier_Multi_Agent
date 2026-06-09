@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the number of shares not purchased as part of publicly announced programs as of october 31, 2013?",
+      "answer": 15.0,
+      "answer_raw": "15.0",
+      "program": "subtract(1204, 1189)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total number of shares purchased as of october 31, 2013?",
+      "answer": 1204.0,
+      "answer_raw": "1204.0",
+      "program": "1204"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what proportion does this represent?",
+      "answer": 0.01246,
+      "answer_raw": "0.01246",
+      "program": "subtract(1204, 1189), divide(#0, 1204)"
+    }
+  ]
+}

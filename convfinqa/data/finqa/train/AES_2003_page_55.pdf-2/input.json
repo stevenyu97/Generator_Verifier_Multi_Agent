@@ -1,0 +1,96 @@
+{
+  "input": {
+    "id": "AES/2003/page_55.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "we cannot assure you that the gener restructuring will be completed or that the terms thereof will not be changed materially .",
+      "in addition , gener is in the process of restructuring the debt of its subsidiaries , termoandes s.a .",
+      "( 2018 2018termoandes 2019 2019 ) and interandes , s.a .",
+      "( 2018 2018interandes 2019 2019 ) , and expects that the maturities of these obligations will be extended .",
+      "under-performing businesses during 2003 we sold or discontinued under-performing businesses and construction projects that did not meet our investment criteria or did not provide reasonable opportunities to restructure .",
+      "it is anticipated that there will be less ongoing activity related to write-offs of development or construction projects and impairment charges in the future .",
+      "the businesses , which were affected in 2003 , are listed below .",
+      "impairment project name project type date location ( in millions ) ."
+    ],
+    "post_text": [
+      "( 1 ) see note 4 2014discontinued operations .",
+      "improving credit quality our de-leveraging efforts reduced parent level debt by $ 1.2 billion in 2003 ( including the secured equity-linked loan previously issued by aes new york funding l.l.c. ) .",
+      "we refinanced and paid down near-term maturities by $ 3.5 billion and enhanced our year-end liquidity to over $ 1 billion .",
+      "our average debt maturity was extended from 2009 to 2012 .",
+      "at the subsidiary level we continue to pursue limited recourse financing to reduce parent credit risk .",
+      "these factors resulted in an overall reduced cost of capital , improved credit statistics and expanded access to credit at both aes and our subsidiaries .",
+      "liquidity at the aes parent level is an important factor for the rating agencies in determining whether the company 2019s credit quality should improve .",
+      "currency and political risk tend to be biggest variables to sustaining predictable cash flow .",
+      "the nature of our large contractual and concession-based cash flow from these businesses serves to mitigate these variables .",
+      "in 2003 , over 81% ( 81 % ) of cash distributions to the parent company were from u.s .",
+      "large utilities and worldwide contract generation .",
+      "on february 4 , 2004 , we called for redemption of $ 155049000 aggregate principal amount of outstanding 8% ( 8 % ) senior notes due 2008 , which represents the entire outstanding principal amount of the 8% ( 8 % ) senior notes due 2008 , and $ 34174000 aggregate principal amount of outstanding 10% ( 10 % ) secured senior notes due 2005 .",
+      "the 8% ( 8 % ) senior notes due 2008 and the 10% ( 10 % ) secured senior notes due 2005 were redeemed on march 8 , 2004 at a redemption price equal to 100% ( 100 % ) of the principal amount plus accrued and unpaid interest to the redemption date .",
+      "the mandatory redemption of the 10% ( 10 % ) secured senior notes due 2005 was being made with a portion of our 2018 2018adjusted free cash flow 2019 2019 ( as defined in the indenture pursuant to which the notes were issued ) for the fiscal year ended december 31 , 2003 as required by the indenture and was made on a pro rata basis .",
+      "on february 13 , 2004 we issued $ 500 million of unsecured senior notes .",
+      "the unsecured senior notes mature on march 1 , 2014 and are callable at our option at any time at a redemption price equal to 100% ( 100 % ) of the principal amount of the unsecured senior notes plus a make-whole premium .",
+      "the unsecured senior notes were issued at a price of 98.288% ( 98.288 % ) and pay interest semi-annually at an annual ."
+    ],
+    "table": [
+      [
+        "project name",
+        "project type",
+        "date",
+        "location",
+        "impairment ( in millions )"
+      ],
+      [
+        "ede este ( 1 )",
+        "operating",
+        "december 2003",
+        "dominican republic",
+        "$ 60"
+      ],
+      [
+        "wolf hollow",
+        "operating",
+        "december 2003",
+        "united states",
+        "$ 120"
+      ],
+      [
+        "granite ridge",
+        "operating",
+        "december 2003",
+        "united states",
+        "$ 201"
+      ],
+      [
+        "colombia i",
+        "operating",
+        "november 2003",
+        "colombia",
+        "$ 19"
+      ],
+      [
+        "zeg",
+        "construction",
+        "december 2003",
+        "poland",
+        "$ 23"
+      ],
+      [
+        "bujagali",
+        "construction",
+        "august 2003",
+        "uganda",
+        "$ 76"
+      ],
+      [
+        "el faro",
+        "construction",
+        "april 2003",
+        "honduras",
+        "$ 20"
+      ]
+    ],
+    "questions": [
+      "what was the total in millions of impairment projects in the construction category in 2003?"
+    ]
+  }
+}

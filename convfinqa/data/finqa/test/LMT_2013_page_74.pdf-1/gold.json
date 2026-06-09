@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average number of weighted average common shares outstanding for diluted computations from 2011 to 2013",
+      "answer": 498.9,
+      "answer_raw": "498.9",
+      "program": "add(326.5, 328.4), add(#0, 339.9), add(#1, const_3), divide(#2, const_2)"
+    }
+  ]
+}

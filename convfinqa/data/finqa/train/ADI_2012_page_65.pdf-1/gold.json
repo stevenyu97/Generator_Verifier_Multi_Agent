@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the effective income tax rate in 2011 based on the information about the gains on sales of discontinued operations?",
+      "answer": 0.035,
+      "answer_raw": "0.035",
+      "program": "divide(3500, const_100000)"
+    }
+  ]
+}

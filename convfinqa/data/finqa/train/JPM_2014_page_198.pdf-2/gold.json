@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 31 , 2014 what was the structured notes fva balance in billions?",
+      "answer": -0.248,
+      "answer_raw": "-0.248",
+      "program": "divide(1152, const_1000), subtract(#0, 1.4)"
+    }
+  ]
+}

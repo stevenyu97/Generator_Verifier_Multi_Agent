@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in price for apple inc. between 9/30/11 and 9/30/06?",
+      "answer": 395.0,
+      "answer_raw": "395.0",
+      "program": "subtract(495, 100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the cumulative percentage return during this time?",
+      "answer": 3.95,
+      "answer_raw": "3.95",
+      "program": "subtract(495, 100), divide(#0, 100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "did apple inc. have a better return for the year 9/30/09 than the s&p 500?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(241, 85)"
+    }
+  ]
+}

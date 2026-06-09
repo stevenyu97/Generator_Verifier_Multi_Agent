@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in leasehold improvements between 2014 and 2015?",
+      "answer": 750.0,
+      "answer_raw": "750.0",
+      "program": "subtract(5263, 4513)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the change in total property plant and equipment net between 2014 and 2015?",
+      "answer": 1847.0,
+      "answer_raw": "1847.0",
+      "program": "subtract(22471, 20624)"
+    }
+  ]
+}

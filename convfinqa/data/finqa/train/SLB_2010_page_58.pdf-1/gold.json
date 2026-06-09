@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average beginning and ending balance of shares in millions outstanding during 2010?",
+      "answer": 1278.0,
+      "answer_raw": "1278.0",
+      "program": "add(1361, 1195), divide(#0, const_2)"
+    }
+  ]
+}

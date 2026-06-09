@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in value of the amortization expense from 2016 to 2017?",
+      "answer": -11.4,
+      "answer_raw": "-11.4",
+      "program": "subtract(365.6, 377.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2016?",
+      "answer": 377.0,
+      "answer_raw": "377.0",
+      "program": "377.0"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the percent change?",
+      "answer": -0.03024,
+      "answer_raw": "-0.03024",
+      "program": "subtract(365.6, 377.0), divide(#0, 377.0)"
+    }
+  ]
+}

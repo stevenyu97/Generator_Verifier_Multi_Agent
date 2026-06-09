@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the performance value of the s&p 500 from 2012 to 2017?",
+      "answer": 111.67,
+      "answer_raw": "111.67",
+      "program": "subtract(211.67, 100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to that performance value in 2012, in percentage?",
+      "answer": 1.1167,
+      "answer_raw": "1.1167",
+      "program": "subtract(211.67, 100), divide(#0, 100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the change in the performance value of the s&p 500 retail index from 2012 to 2017?",
+      "answer": 186.13,
+      "answer_raw": "186.13",
+      "program": "subtract(211.67, 100), divide(#0, 100), subtract(286.13, 100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation to that performance value in 2012, in percentage?",
+      "answer": 1.8613,
+      "answer_raw": "1.8613",
+      "program": "subtract(211.67, 100), divide(#0, 100), subtract(286.13, 100), divide(#2, 100)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is, then, the difference between the s&p 500 percentage change and the s&p 500 retail index one?",
+      "answer": 0.7446,
+      "answer_raw": "0.7446",
+      "program": "subtract(211.67, 100), divide(#0, 100), subtract(286.13, 100), divide(#2, 100), subtract(#3, #1)"
+    }
+  ]
+}

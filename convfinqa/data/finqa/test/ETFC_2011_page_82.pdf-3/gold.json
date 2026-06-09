@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , what was percent of the capital markets goodwill to the total",
+      "answer": 0.07362,
+      "answer_raw": "0.07362",
+      "program": "divide(142.4, 1934.2)"
+    }
+  ]
+}

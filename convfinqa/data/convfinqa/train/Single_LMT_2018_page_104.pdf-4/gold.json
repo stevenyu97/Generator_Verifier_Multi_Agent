@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in 401k contributions from 2017 to 2018?",
+      "answer": 45.0,
+      "answer_raw": "45.0",
+      "program": "subtract(658, 613)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage change does this represent?",
+      "answer": 0.07341,
+      "answer_raw": "0.07341",
+      "program": "subtract(658, 613), divide(#0, 613)"
+    }
+  ]
+}

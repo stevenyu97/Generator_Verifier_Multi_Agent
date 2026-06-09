@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of the percentages of the total standby letters of credit in 2007 and 2008?",
+      "answer": 1.36,
+      "answer_raw": "1.36",
+      "program": "add(66%, 70%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the average value?",
+      "answer": 0.68,
+      "answer_raw": "0.68",
+      "program": "add(66%, 70%), divide(#0, const_2)"
+    }
+  ]
+}

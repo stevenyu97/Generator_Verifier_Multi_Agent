@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between the net sales and the operating profit in 2010?",
+      "answer": 7274.0,
+      "answer_raw": "7274.0",
+      "program": "subtract(8246, 972)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what were the net sales in 2009?",
+      "answer": 8654.0,
+      "answer_raw": "8654.0",
+      "program": "8654"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what was the operating profit in that year?",
+      "answer": 972.0,
+      "answer_raw": "972.0",
+      "program": "972"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is, then, the difference between the net sales and the operating profit in that year?",
+      "answer": 7682.0,
+      "answer_raw": "7682.0",
+      "program": "subtract(8246, 972), subtract(8654, 972)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and what is the change in that difference from 2009 to 2010?",
+      "answer": -408.0,
+      "answer_raw": "-408.0",
+      "program": "subtract(8246, 972), subtract(8654, 972), subtract(#0, #1)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "how much does this change represent in relation to the 2009 difference?",
+      "answer": -0.05311,
+      "answer_raw": "-0.05311",
+      "program": "subtract(8246, 972), subtract(8654, 972), subtract(#0, #1), divide(#2, #1)"
+    }
+  ]
+}

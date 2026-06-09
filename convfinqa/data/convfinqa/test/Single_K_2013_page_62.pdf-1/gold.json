@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the accrued value of tax related interest and penalties in 2011?",
+      "answer": 16.0,
+      "answer_raw": "16.0",
+      "program": "16"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value decrease during the year?",
+      "answer": 3.0,
+      "answer_raw": "3.0",
+      "program": "3"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 19.0,
+      "answer_raw": "19.0",
+      "program": "add(16, 3)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the value decrease during the year?",
+      "answer": 3.0,
+      "answer_raw": "3.0",
+      "program": "3"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the decreased value divided by the prior sum?",
+      "answer": 0.15789,
+      "answer_raw": "0.15789",
+      "program": "add(16, 3), divide(3, #0)"
+    }
+  ]
+}

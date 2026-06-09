@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "DISCA/2016/page_30.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "december 31 , december 31 , december 31 , december 31 , december 31 , december 31 ."
+    ],
+    "post_text": [
+      "equity compensation plan information information regarding securities authorized for issuance under equity compensation plans will be set forth in our definitive proxy statement for our 2017 annual meeting of stockholders under the caption 201csecurities authorized for issuance under equity compensation plans , 201d which is incorporated herein by reference .",
+      "item 6 .",
+      "selected financial data .",
+      "the table set forth below presents our selected financial information for each of the past five years ( in millions , except per share amounts ) .",
+      "the selected statement of operations information for each of the three years ended december 31 , 2016 and the selected balance sheet information as of december 31 , 2016 and 2015 have been derived from and should be read in conjunction with the information in item 7 , 201cmanagement 2019s discussion and analysis of financial condition and results of operations , 201d the audited consolidated financial statements included in item 8 , 201cfinancial statements and supplementary data , 201d and other financial information included elsewhere in this annual report on form 10-k .",
+      "the selected statement of operations information for each of the two years ended december 31 , 2013 and 2012 and the selected balance sheet information as of december 31 , 2014 , 2013 and 2012 have been derived from financial statements not included in this annual report on form 10-k .",
+      "2016 2015 2014 2013 2012 selected statement of operations information : revenues $ 6497 $ 6394 $ 6265 $ 5535 $ 4487 operating income 2058 1985 2061 1975 1859 income from continuing operations , net of taxes 1218 1048 1137 1077 956 loss from discontinued operations , net of taxes 2014 2014 2014 2014 ( 11 ) net income 1218 1048 1137 1077 945 net income available to discovery communications , inc .",
+      "1194 1034 1139 1075 943 basic earnings per share available to discovery communications , inc .",
+      "series a , b and c common stockholders : continuing operations $ 1.97 $ 1.59 $ 1.67 $ 1.50 $ 1.27 discontinued operations 2014 2014 2014 2014 ( 0.01 ) net income 1.97 1.59 1.67 1.50 1.25 diluted earnings per share available to discovery communications , inc .",
+      "series a , b and c common stockholders : continuing operations $ 1.96 $ 1.58 $ 1.66 $ 1.49 $ 1.26 discontinued operations 2014 2014 2014 2014 ( 0.01 ) net income 1.96 1.58 1.66 1.49 1.24 weighted average shares outstanding : basic 401 432 454 484 498 diluted 610 656 687 722 759 selected balance sheet information : cash and cash equivalents $ 300 $ 390 $ 367 $ 408 $ 1201 total assets 15758 15864 15970 14934 12892 long-term debt : current portion 82 119 1107 17 31 long-term portion 7841 7616 6002 6437 5174 total liabilities 10348 10172 9619 8701 6599 redeemable noncontrolling interests 243 241 747 36 2014 equity attributable to discovery communications , inc .",
+      "5167 5451 5602 6196 6291 total equity $ 5167 $ 5451 $ 5604 $ 6197 $ 6293 2022 income per share amounts may not sum since each is calculated independently .",
+      "2022 on september 30 , 2016 , the company recorded an other-than-temporary impairment of $ 62 million related to its investment in lionsgate .",
+      "on december 2 , 2016 , the company acquired a 39% ( 39 % ) minority interest in group nine media , a newly formed media holding company , in exchange for contributions of $ 100 million and the company's digital network businesses seeker and sourcefed , resulting in a gain of $ 50 million upon deconsolidation of the businesses .",
+      "( see note 4 to the accompanying consolidated financial statements. ) ."
+    ],
+    "table": [
+      [
+        "",
+        "december 312011",
+        "december 312012",
+        "december 312013",
+        "december 312014",
+        "december 312015",
+        "december 312016"
+      ],
+      [
+        "disca",
+        "$ 100.00",
+        "$ 154.94",
+        "$ 220.70",
+        "$ 168.17",
+        "$ 130.24",
+        "$ 133.81"
+      ],
+      [
+        "discb",
+        "$ 100.00",
+        "$ 150.40",
+        "$ 217.35",
+        "$ 175.04",
+        "$ 127.80",
+        "$ 137.83"
+      ],
+      [
+        "disck",
+        "$ 100.00",
+        "$ 155.17",
+        "$ 222.44",
+        "$ 178.89",
+        "$ 133.79",
+        "$ 142.07"
+      ],
+      [
+        "s&p 500",
+        "$ 100.00",
+        "$ 113.41",
+        "$ 146.98",
+        "$ 163.72",
+        "$ 162.53",
+        "$ 178.02"
+      ],
+      [
+        "peer group",
+        "$ 100.00",
+        "$ 134.98",
+        "$ 220.77",
+        "$ 253.19",
+        "$ 243.93",
+        "$ 271.11"
+      ]
+    ],
+    "questions": [
+      "what was the percentage cumulative total shareholder return on disca for the five year period ended december 31 , 2016?"
+    ]
+  }
+}

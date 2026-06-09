@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in net revenues in investing & lending in billions between 2012 and 2011?",
+      "answer": 3.75,
+      "answer_raw": "3.75",
+      "program": "subtract(5.89, 2.14)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the amount of gas supplied from us onshore?",
+      "answer": 736.0,
+      "answer_raw": "736.0",
+      "program": "736"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total amount of gas that comes from north america onshore?",
+      "answer": 935.0,
+      "answer_raw": "935.0",
+      "program": "935"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the ratio of gas from us onshore?",
+      "answer": 0.78717,
+      "answer_raw": "0.78717",
+      "program": "divide(736, 935)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is that displayed as a percentage?",
+      "answer": 78.71658,
+      "answer_raw": "78.71658",
+      "program": "divide(736, 935), multiply(#0, const_100)"
+    }
+  ]
+}

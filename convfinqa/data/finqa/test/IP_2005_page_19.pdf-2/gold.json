@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in industry segment operating profits between 2003 and 2004?",
+      "answer": 306.0,
+      "answer_raw": "306.0",
+      "program": "subtract(2040, 1734)"
+    }
+  ]
+}

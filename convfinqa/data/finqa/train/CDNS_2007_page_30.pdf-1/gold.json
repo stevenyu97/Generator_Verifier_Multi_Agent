@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the roi of an investment in cadence design system from 2006 to 2007?",
+      "answer": -0.0491,
+      "answer_raw": "-0.0491",
+      "program": "subtract(139.82, 147.04), divide(#0, 147.04)"
+    }
+  ]
+}

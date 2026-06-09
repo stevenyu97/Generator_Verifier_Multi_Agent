@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of restricted cash as of july 2 , 2005 was in funds deposited in insurance trusts?",
+      "answer": 0.79042,
+      "answer_raw": "0.79042",
+      "program": "divide(80410000, 101731000)"
+    }
+  ]
+}

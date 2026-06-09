@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentual return for s&p 500 in the first year?",
+      "answer": 15.8,
+      "answer_raw": "15.8",
+      "program": "divide(115.80, 100), subtract(115.80, 100)"
+    }
+  ]
+}

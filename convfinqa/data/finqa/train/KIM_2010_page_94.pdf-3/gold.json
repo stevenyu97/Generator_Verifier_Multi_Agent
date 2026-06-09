@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average , in millions , of noncontrolling interest relating to the remaining units in 2009-2010?",
+      "answer": 111.75,
+      "answer_raw": "111.75",
+      "program": "add(110.4, 113.1), divide(#0, const_2)"
+    }
+  ]
+}

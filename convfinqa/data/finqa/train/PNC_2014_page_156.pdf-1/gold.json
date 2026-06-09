@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were total specific reserves in the alll in billions at december 31 , 2014 and december 31 , 2013 for the total tdr portfolio?",
+      "answer": 0.9,
+      "answer_raw": "0.9",
+      "program": "add(.5, .4)"
+    }
+  ]
+}

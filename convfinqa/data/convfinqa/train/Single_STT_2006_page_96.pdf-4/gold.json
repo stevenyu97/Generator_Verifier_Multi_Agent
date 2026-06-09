@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the risk-free interest rate in 2005?",
+      "answer": 4.19,
+      "answer_raw": "4.19",
+      "program": "4.19"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2004?",
+      "answer": 3.02,
+      "answer_raw": "3.02",
+      "program": "3.02"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between these two years?",
+      "answer": 1.17,
+      "answer_raw": "1.17",
+      "program": "subtract(4.19, 3.02)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the value for 2004 again?",
+      "answer": 3.02,
+      "answer_raw": "3.02",
+      "program": "3.02"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage change in this value over the year?",
+      "answer": 0.38742,
+      "answer_raw": "0.38742",
+      "program": "subtract(4.19, 3.02), divide(#0, 3.02)"
+    }
+  ]
+}

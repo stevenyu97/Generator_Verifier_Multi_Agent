@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions , for 2013 , 2012 , and 2011 , what was average currency hedges?",
+      "answer": 25.66667,
+      "answer_raw": "25.66667",
+      "program": "table_average(currency hedges, none)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total liabilities is due in less than 1 year?",
+      "answer": 0.65829,
+      "answer_raw": "0.65829",
+      "program": "divide(122963, 186792)"
+    }
+  ]
+}

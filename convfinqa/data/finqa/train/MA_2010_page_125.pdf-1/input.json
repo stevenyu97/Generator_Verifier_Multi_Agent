@@ -1,0 +1,79 @@
+{
+  "input": {
+    "id": "MA/2010/page_125.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "mastercard incorporated notes to consolidated financial statements 2014continued in september 2010 , the company 2019s board of directors authorized a plan for the company to repurchase up to $ 1 billion of its class a common stock in open market transactions .",
+      "the company did not repurchase any shares under this plan during 2010 .",
+      "as of february 16 , 2011 , the company had completed the repurchase of approximately 0.3 million shares of its class a common stock at a cost of approximately $ 75 million .",
+      "note 18 .",
+      "share based payment and other benefits in may 2006 , the company implemented the mastercard incorporated 2006 long-term incentive plan , which was amended and restated as of october 13 , 2008 ( the 201cltip 201d ) .",
+      "the ltip is a shareholder-approved omnibus plan that permits the grant of various types of equity awards to employees .",
+      "the company has granted restricted stock units ( 201crsus 201d ) , non-qualified stock options ( 201coptions 201d ) and performance stock units ( 201cpsus 201d ) under the ltip .",
+      "the rsus generally vest after three to four years .",
+      "the options , which expire ten years from the date of grant , generally vest ratably over four years from the date of grant .",
+      "the psus generally vest after three years .",
+      "additionally , the company made a one-time grant to all non-executive management employees upon the ipo for a total of approximately 440 thousand rsus ( the 201cfounders 2019 grant 201d ) .",
+      "the founders 2019 grant rsus vested three years from the date of grant .",
+      "the company uses the straight-line method of attribution for expensing equity awards .",
+      "compensation expense is recorded net of estimated forfeitures .",
+      "estimates are adjusted as appropriate .",
+      "upon termination of employment , excluding retirement , all of a participant 2019s unvested awards are forfeited .",
+      "however , when a participant terminates employment due to retirement , the participant generally retains all of their awards without providing additional service to the company .",
+      "eligible retirement is dependent upon age and years of service , as follows : age 55 with ten years of service , age 60 with five years of service and age 65 with two years of service .",
+      "compensation expense is recognized over the shorter of the vesting periods stated in the ltip , or the date the individual becomes eligible to retire .",
+      "there are 11550000 shares of class a common stock reserved for equity awards under the ltip .",
+      "although the ltip permits the issuance of shares of class b common stock , no such shares have been reserved for issuance .",
+      "shares issued as a result of option exercises and the conversions of rsus and psus are expected to be funded primarily with the issuance of new shares of class a common stock .",
+      "stock options the fair value of each option is estimated on the date of grant using a black-scholes option pricing model .",
+      "the following table presents the weighted-average assumptions used in the valuation and the resulting weighted- average fair value per option granted for the years ended december 31: ."
+    ],
+    "post_text": [
+      "the risk-free rate of return was based on the u.s .",
+      "treasury yield curve in effect on the date of grant .",
+      "the company utilizes the simplified method for calculating the expected term of the option based on the vesting terms and the contractual life of the option .",
+      "the expected volatility for options granted during 2010 and 2009 was based on the average of the implied volatility of mastercard and a blend of the historical volatility of mastercard and the historical volatility of a group of companies that management believes is generally comparable to ."
+    ],
+    "table": [
+      [
+        "",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      [
+        "risk-free rate of return",
+        "2.7% ( 2.7 % )",
+        "2.5% ( 2.5 % )",
+        "3.2% ( 3.2 % )"
+      ],
+      [
+        "expected term ( in years )",
+        "6.25",
+        "6.17",
+        "6.25"
+      ],
+      [
+        "expected volatility",
+        "32.7% ( 32.7 % )",
+        "41.7% ( 41.7 % )",
+        "37.9% ( 37.9 % )"
+      ],
+      [
+        "expected dividend yield",
+        "0.3% ( 0.3 % )",
+        "0.4% ( 0.4 % )",
+        "0.3% ( 0.3 % )"
+      ],
+      [
+        "weighted-average fair value per option granted",
+        "$ 84.62",
+        "$ 71.03",
+        "$ 78.54"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in the risk-free rate of return from 2009 to 2010"
+    ]
+  }
+}

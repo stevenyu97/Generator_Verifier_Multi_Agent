@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the weighted average useful life for trademarks?",
+      "answer": 9.0,
+      "answer_raw": "9.0",
+      "program": "9"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was, then, the average annual amortization expense for that segment?",
+      "answer": 11.11111,
+      "answer_raw": "11.11111",
+      "program": "divide(const_100, 9)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what was it for the purchased technology one?",
+      "answer": 16.66667,
+      "answer_raw": "16.66667",
+      "program": "divide(const_100, 6)"
+    }
+  ]
+}

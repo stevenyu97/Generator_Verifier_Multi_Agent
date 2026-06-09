@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the adjusted consolidated cash flow for the twelve months ended december 31 , 2008 is related to non-tower cash flow?",
+      "answer": -0.01977,
+      "answer_raw": "-0.01977",
+      "program": "divide(-14611, 739187)"
+    }
+  ]
+}

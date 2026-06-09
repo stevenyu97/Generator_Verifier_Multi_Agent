@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in total lease expense , including base rent on all leases and executory costs , such as insurance , taxes , and maintenance from 2004 to 2005?",
+      "answer": 0.08485,
+      "answer_raw": "0.08485",
+      "program": "subtract(35.8, 33.0), divide(#0, 33.0)"
+    }
+  ]
+}

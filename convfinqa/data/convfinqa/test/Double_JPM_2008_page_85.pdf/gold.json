@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2008, what percentage did the tier 2 capital represent in relation to the total one?",
+      "answer": 0.26319,
+      "answer_raw": "0.26319",
+      "program": "divide(48616, 184720)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much did it represent in relation to the total of risk-weighted assets?",
+      "answer": 0.03906,
+      "answer_raw": "0.03906",
+      "program": "divide(48616, 1244659)"
+    }
+  ]
+}

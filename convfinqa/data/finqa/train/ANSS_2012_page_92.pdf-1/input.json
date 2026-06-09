@@ -1,0 +1,83 @@
+{
+  "input": {
+    "id": "ANSS/2012/page_92.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "under the terms of the ansys , inc .",
+      "long-term incentive plan , in the first quarter of 2012 , 2011 and 2010 , the company granted 100000 , 92500 and 80500 performance-based restricted stock units , respectively .",
+      "vesting of the full award or a portion thereof is based on the company 2019s performance as measured by total shareholder return relative to the median percentage appreciation of the nasdaq composite index over a specified measurement period , subject to each participant 2019s continued employment with the company through the conclusion of the measurement period .",
+      "the measurement period for the restricted stock units granted pursuant to the long-term incentive plan is a three-year period beginning january 1 of the year of the grant .",
+      "each restricted stock unit relates to one share of the company 2019s common stock .",
+      "the value of each restricted stock unit granted in 2012 , 2011 and 2010 was estimated on the grant date to be $ 33.16 , $ 32.05 and $ 25.00 , respectively .",
+      "the estimate of the grant-date value of the restricted stock units was made using a monte carlo simulation model .",
+      "the determination of the fair value of the awards was affected by the grant date and a number of variables , each of which has been identified in the chart below .",
+      "share-based compensation expense based on the fair value of the award is being recorded from the grant date through the conclusion of the three-year measurement period .",
+      "on december 31 , 2012 , employees earned 76500 restricted stock units , which will be issued in the first quarter of 2013 .",
+      "total compensation expense associated with the awards recorded for the years ended december 31 , 2012 , 2011 and 2010 was $ 2.6 million , $ 1.6 million and $ 590000 , respectively .",
+      "total compensation expense associated with the awards granted for the years ending december 31 , 2013 and 2014 is expected to be $ 2.2 million and $ 1.2 million , respectively. ."
+    ],
+    "post_text": [
+      "in accordance with the merger agreement , the company granted performance-based restricted stock units to key members of apache management and employees , with a maximum value of $ 13.0 million to be earned annually over a three-fiscal-year period beginning january 1 , 2012 .",
+      "additional details regarding these awards are provided within note 3 .",
+      "14 .",
+      "stock repurchase program in february 2012 , ansys announced that its board of directors approved an increase to its authorized stock repurchase program .",
+      "under the company 2019s stock repurchase program , ansys repurchased 1.5 million shares during the year ended december 31 , 2012 at an average price per share of $ 63.65 , for a total cost of $ 95.5 million .",
+      "during the year ended december 31 , 2011 , the company repurchased 247443 shares at an average price per share of $ 51.34 , for a total cost of $ 12.7 million .",
+      "as of december 31 , 2012 , 1.5 million shares remained authorized for repurchase under the program .",
+      "15 .",
+      "employee stock purchase plan the company 2019s 1996 employee stock purchase plan ( the 201cpurchase plan 201d ) was adopted by the board of directors on april 19 , 1996 and was subsequently approved by the company 2019s stockholders .",
+      "the stockholders approved an amendment to the purchase plan on may 6 , 2004 to increase the number of shares available for offerings to 1.6 million shares .",
+      "the purchase plan was amended and restated in 2007 .",
+      "the purchase plan is administered by the compensation committee .",
+      "offerings under the purchase plan commence on each february 1 and august 1 , and have a duration of six months .",
+      "an employee who owns or is deemed to own shares of stock representing in excess of 5% ( 5 % ) of the combined voting power of all classes of stock of the company may not participate in the purchase plan .",
+      "during each offering , an eligible employee may purchase shares under the purchase plan by authorizing payroll deductions of up to 10% ( 10 % ) of his or her cash compensation during the offering period .",
+      "the maximum number of shares that may be purchased by any participating employee during any offering period is limited to 3840 shares ( as adjusted by the compensation committee from time to time ) .",
+      "unless the employee has previously withdrawn from the offering , his accumulated payroll deductions will be used to purchase common stock on the last business day of the period at a price equal to 90% ( 90 % ) of the fair market value of the common stock on the first or last day of the offering period , whichever is lower .",
+      "under applicable tax rules , an employee may purchase no more than $ 25000 worth of common stock in any calendar year .",
+      "at december 31 , 2012 , 1233385 shares of common stock had been issued under the purchase plan , of which 1184082 were issued as of december 31 , 2011 .",
+      "the total compensation expense recorded under the purchase plan during the years ended december 31 , 2012 , 2011 and 2010 was $ 710000 , $ 650000 and $ 500000 , respectively .",
+      "table of contents ."
+    ],
+    "table": [
+      [
+        "assumption used in monte carlo lattice pricing model",
+        "year ended december 31 , 2012",
+        "year ended december 31 , 2011 and 2010"
+      ],
+      [
+        "risk-free interest rate",
+        "0.16% ( 0.16 % )",
+        "1.35% ( 1.35 % )"
+      ],
+      [
+        "expected dividend yield",
+        "0% ( 0 % )",
+        "0% ( 0 % )"
+      ],
+      [
+        "expected volatility 2014ansys stock price",
+        "28% ( 28 % )",
+        "40% ( 40 % )"
+      ],
+      [
+        "expected volatility 2014nasdaq composite index",
+        "20% ( 20 % )",
+        "25% ( 25 % )"
+      ],
+      [
+        "expected term",
+        "2.80",
+        "2.90"
+      ],
+      [
+        "correlation factor",
+        "0.75",
+        "0.70"
+      ]
+    ],
+    "questions": [
+      "what was the average shares granted as part of the long-term incentive plan , in the first quarter of 2012 , 2011 and 2010\\\\n"
+    ]
+  }
+}

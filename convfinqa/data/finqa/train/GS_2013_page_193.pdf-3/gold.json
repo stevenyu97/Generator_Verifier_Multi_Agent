@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in tier 2 capital between 2012 and 2013?",
+      "answer": 0.01512,
+      "answer_raw": "0.01512",
+      "program": "subtract(13632, 13429), divide(#0, 13429)"
+    }
+  ]
+}

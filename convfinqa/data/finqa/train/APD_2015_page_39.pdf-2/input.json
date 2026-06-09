@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "APD/2015/page_39.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "business separation costs on 16 september 2015 , the company announced that it intends to separate its materials technologies business via a spin-off .",
+      "during the fourth quarter , we incurred legal and other advisory fees of $ 7.5 ( $ .03 per share ) .",
+      "gain on previously held equity interest on 30 december 2014 , we acquired our partner 2019s equity ownership interest in a liquefied atmospheric industrial gases production joint venture in north america for $ 22.6 which increased our ownership from 50% ( 50 % ) to 100% ( 100 % ) .",
+      "the transaction was accounted for as a business combination , and subsequent to the acquisition , the results are consolidated within our industrial gases 2013 americas segment .",
+      "the assets acquired , primarily plant and equipment , were recorded at their fair value as of the acquisition date .",
+      "the acquisition date fair value of the previously held equity interest was determined using a discounted cash flow analysis under the income approach .",
+      "during the first quarter of 2015 , we recorded a gain of $ 17.9 ( $ 11.2 after-tax , or $ .05 per share ) as a result of revaluing our previously held equity interest to fair value as of the acquisition date .",
+      "advisory costs during the fourth quarter of 2013 , we incurred legal and other advisory fees of $ 10.1 ( $ 6.4 after-tax , or $ .03 per share ) in connection with our response to the rapid acquisition of a large position in shares of our common stock by pershing square capital management llc and its affiliates .",
+      "other income ( expense ) , net items recorded to other income ( expense ) , net arise from transactions and events not directly related to our principal income earning activities .",
+      "the detail of other income ( expense ) , net is presented in note 24 , supplemental information , to the consolidated financial statements .",
+      "2015 vs .",
+      "2014 other income ( expense ) , net of $ 47.3 decreased $ 5.5 .",
+      "the current year includes a gain of $ 33.6 ( $ 28.3 after-tax , or $ .13 per share ) resulting from the sale of two parcels of land .",
+      "the gain was partially offset by unfavorable foreign exchange impacts and lower gains on other sales of assets and emissions credits .",
+      "no other individual items were significant in comparison to the prior year .",
+      "2014 vs .",
+      "2013 other income ( expense ) , net of $ 52.8 decreased $ 17.4 , primarily due to higher gains from the sale of a number of small assets and investments , higher government grants , and a favorable commercial contract settlement in 2013 .",
+      "otherwise , no individual items were significant in comparison to 2013 .",
+      "interest expense ."
+    ],
+    "post_text": [
+      "2015 vs .",
+      "2014 interest incurred decreased $ 5.5 .",
+      "the decrease was driven by the impact of a stronger u.s .",
+      "dollar on the translation of foreign currency interest of $ 12 , partially offset by a higher average debt balance of $ 7 .",
+      "the change in capitalized interest was driven by a higher carrying value in construction in progress .",
+      "2014 vs .",
+      "2013 interest incurred decreased $ 9.5 .",
+      "the decrease was primarily due to a lower average interest rate on the debt portfolio which reduced interest by $ 13 , partially offset by a higher average debt balance which increased interest by $ 6 .",
+      "the change in capitalized interest was driven by a higher carrying value in construction in progress .",
+      "loss on early retirement of debt in september 2015 , we made a payment of $ 146.6 to redeem 3000000 unidades de fomento ( 201cuf 201d ) series e 6.30% ( 6.30 % ) bonds due 22 january 2030 that had a carrying value of $ 130.0 and resulted in a net loss of $ 16.6 ( $ 14.2 after-tax , or $ .07 per share ) . ."
+    ],
+    "table": [
+      [
+        "",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "interest incurred",
+        "$ 152.6",
+        "$ 158.1",
+        "$ 167.6"
+      ],
+      [
+        "less : capitalized interest",
+        "49.1",
+        "33.0",
+        "25.8"
+      ],
+      [
+        "interest expense",
+        "$ 103.5",
+        "$ 125.1",
+        "$ 141.8"
+      ]
+    ],
+    "questions": [
+      "considering the years 2013-2015 , what is the highest value of interest incurred?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions for 2014 and 2013 , what was total amount of net derivative liabilities under bilateral agreements?\\\\n",
+      "answer": 57940.0,
+      "answer_raw": "57940.0",
+      "program": "table_sum(net derivative liabilities under bilateral agreements, none)"
+    }
+  ]
+}

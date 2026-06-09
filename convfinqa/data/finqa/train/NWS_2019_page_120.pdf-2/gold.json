@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total net assets acquired was intangible assets?",
+      "answer": 0.77193,
+      "answer_raw": "0.77193",
+      "program": "divide(220, 285)"
+    }
+  ]
+}

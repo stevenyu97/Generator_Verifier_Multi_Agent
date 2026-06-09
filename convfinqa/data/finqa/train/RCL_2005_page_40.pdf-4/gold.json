@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of debt maturity was there in 2010 , relative to 2006?",
+      "answer": 114.39432,
+      "answer_raw": "114.39432",
+      "program": "divide(687376, 600883), multiply(const_100, #0)"
+    }
+  ]
+}

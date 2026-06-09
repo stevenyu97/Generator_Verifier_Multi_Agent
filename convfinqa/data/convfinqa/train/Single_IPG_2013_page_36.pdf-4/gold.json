@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of cash, cash equivalents and marketable securities in 2013?",
+      "answer": 1642.1,
+      "answer_raw": "1642.1",
+      "program": "1642.1"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value of cash, cash equivalents and marketable securities in 2012?",
+      "answer": 2590.8,
+      "answer_raw": "2590.8",
+      "program": "2590.8"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the net difference?",
+      "answer": -948.7,
+      "answer_raw": "-948.7",
+      "program": "subtract(1642.1, 2590.8)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the percent change?",
+      "answer": -0.36618,
+      "answer_raw": "-0.36618",
+      "program": "subtract(1642.1, 2590.8), divide(#0, 2590.8)"
+    }
+  ]
+}

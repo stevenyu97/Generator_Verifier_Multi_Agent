@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "DRE/2010/page_59.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "57 annual report 2010 duke realty corporation | | level 2 inputs are inputs other than quoted prices included in level 1 that are observable for the asset or liability , either directly or indirectly .",
+      "level 2 inputs may include quoted prices for similar assets and liabilities in active markets , as well as inputs that are observable for the asset or liability ( other than quoted prices ) , such as interest rates and yield curves that are observable at commonly quoted intervals .",
+      "level 3 inputs are unobservable inputs for the asset or liability , which are typically based on an entity 2019s own assumptions , as there is little , if any , related market activity .",
+      "in instances where the determination of the fair value measurement is based on inputs from different levels of the fair value hierarchy , the level in the fair value hierarchy within which the entire fair value measurement falls is based on the lowest level input that is significant to the fair value measurement in its entirety .",
+      "our assessment of the significance of a particular input to the fair value measurement in its entirety requires judgment and considers factors specific to the asset or liability .",
+      "use of estimates the preparation of the financial statements requires management to make a number of estimates and assumptions that affect the reported amount of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the period .",
+      "the most significant estimates , as discussed within our summary of significant accounting policies , pertain to the critical assumptions utilized in testing real estate assets for impairment as well as in estimating the fair value of real estate assets when an impairment event has taken place .",
+      "actual results could differ from those estimates .",
+      "( 3 ) significant acquisitions and dispositions 2010 acquisition of remaining interest in dugan realty , l.l.c .",
+      "on july 1 , 2010 , we acquired our joint venture partner 2019s 50% ( 50 % ) interest in dugan realty , l.l.c .",
+      "( 201cdugan 201d ) , a real estate joint venture that we had previously accounted for using the equity method , for a payment of $ 166.7 million .",
+      "dugan held $ 28.1 million of cash at the time of acquisition , which resulted in a net cash outlay of $ 138.6 million .",
+      "as the result of this transaction we obtained 100% ( 100 % ) of dugan 2019s membership interests .",
+      "at the date of acquisition , dugan owned 106 industrial buildings totaling 20.8 million square feet and 63 net acres of undeveloped land located in midwest and southeast markets .",
+      "dugan had a secured loan with a face value of $ 195.4 million due in october 2010 , which was repaid at its scheduled maturity date , and a secured loan with a face value of $ 87.6 million due in october 2012 ( see note 8 ) .",
+      "the acquisition was completed in order to pursue our strategy to increase our overall allocation to industrial real estate assets .",
+      "the following table summarizes our allocation of the fair value of amounts recognized for each major class of assets and liabilities ( in thousands ) : ."
+    ],
+    "post_text": [
+      "fair value of acquired net assets ( represents 100% ( 100 % ) interest ) $ 332612 we previously managed and performed other ancillary services for dugan 2019s properties and , as a result , dugan had no employees of its own and no ."
+    ],
+    "table": [
+      [
+        "real estate assets",
+        "$ 502418"
+      ],
+      [
+        "lease related intangible assets",
+        "107155"
+      ],
+      [
+        "other assets",
+        "28658"
+      ],
+      [
+        "total acquired assets",
+        "$ 638231"
+      ],
+      [
+        "secured debt",
+        "$ 285376"
+      ],
+      [
+        "other liabilities",
+        "20243"
+      ],
+      [
+        "total assumed liabilities",
+        "$ 305619"
+      ],
+      [
+        "fair value of acquired net assets ( represents 100% ( 100 % ) interest )",
+        "$ 332612"
+      ]
+    ],
+    "questions": [
+      "what was the debt to equity ratio in the assets acquired"
+    ]
+  }
+}

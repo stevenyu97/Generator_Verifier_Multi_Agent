@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "LKQ/2007/page_76.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "lkq corporation and subsidiaries notes to consolidated financial statements ( continued ) note 5 .",
+      "long-term obligations ( continued ) as part of the consideration for business acquisitions completed during 2007 , 2006 and 2005 , we issued promissory notes totaling approximately $ 1.7 million , $ 7.2 million and $ 6.4 million , respectively .",
+      "the notes bear interest at annual rates of 3.0% ( 3.0 % ) to 6.0% ( 6.0 % ) , and interest is payable at maturity or in monthly installments .",
+      "we also assumed certain liabilities in connection with a business acquisition during the second quarter of 2005 , including a promissory note with a remaining principle balance of approximately $ 0.2 million .",
+      "the annual interest rate on the note , which was retired during 2006 , was note 6 .",
+      "commitments and contingencies operating leases we are obligated under noncancelable operating leases for corporate office space , warehouse and distribution facilities , trucks and certain equipment .",
+      "the future minimum lease commitments under these leases at december 31 , 2007 are as follows ( in thousands ) : years ending december 31: ."
+    ],
+    "post_text": [
+      "rental expense for operating leases was approximately $ 27.4 million , $ 18.6 million and $ 12.2 million during the years ended december 31 , 2007 , 2006 and 2005 , respectively .",
+      "we guaranty the residual values of the majority of our truck and equipment operating leases .",
+      "the residual values decline over the lease terms to a defined percentage of original cost .",
+      "in the event the lessor does not realize the residual value when a piece of equipment is sold , we would be responsible for a portion of the shortfall .",
+      "similarly , if the lessor realizes more than the residual value when a piece of equipment is sold , we would be paid the amount realized over the residual value .",
+      "had we terminated all of our operating leases subject to these guaranties at december 31 , 2007 , the guarantied residual value would have totaled approximately $ 24.0 million .",
+      "litigation and related contingencies on december 2 , 2005 , ford global technologies , llc ( 2018 2018ford 2019 2019 ) filed a complaint with the united states international trade commission ( 2018 2018usitc 2019 2019 ) against keystone and five other named respondents , including four taiwan-based manufacturers .",
+      "on december 12 , 2005 , ford filed an amended complaint .",
+      "both the complaint and the amended complaint contended that keystone and the other respondents infringed 14 design patents that ford alleges cover eight parts on the 2004-2005 ."
+    ],
+    "table": [
+      [
+        "2008",
+        "$ 42335"
+      ],
+      [
+        "2009",
+        "33249"
+      ],
+      [
+        "2010",
+        "25149"
+      ],
+      [
+        "2011",
+        "17425"
+      ],
+      [
+        "2012",
+        "11750"
+      ],
+      [
+        "thereafter",
+        "28581"
+      ],
+      [
+        "future minimum lease payments",
+        "$ 158489"
+      ]
+    ],
+    "questions": [
+      "what was the average rental expense from 2005 to 2007 in millions"
+    ]
+  }
+}

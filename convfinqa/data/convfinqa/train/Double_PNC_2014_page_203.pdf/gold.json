@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "combined, what was the value of tax benefits realized from option exercises under all incentive plans for 2014 and 2013?",
+      "answer": 64.0,
+      "answer_raw": "64.0",
+      "program": "add(33, 31)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and including the value for",
+      "answer": 78.0,
+      "answer_raw": "78.0",
+      "program": "add(33, 31), add(#0, 14)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the average value during this time?",
+      "answer": 26.0,
+      "answer_raw": "26.0",
+      "program": "add(33, 31), add(#0, 14), divide(#1, const_3)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "regarding non-vested incentive/performance unit shares, what was the change in the balance between 12/31/13 and 12/31/14?",
+      "answer": 190.0,
+      "answer_raw": "190.0",
+      "program": "subtract(1837, 1647)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of worldwide distribution channels doors were located in japan?",
+      "answer": 0.01968,
+      "answer_raw": "0.01968",
+      "program": "divide(120, 6097)"
+    }
+  ]
+}

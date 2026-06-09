@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the unrealized loss in marketable securities at march 31 , 2003?",
+      "answer": -19000.0,
+      "answer_raw": "-19000.0",
+      "program": "subtract(9858000, 9877000)"
+    }
+  ]
+}

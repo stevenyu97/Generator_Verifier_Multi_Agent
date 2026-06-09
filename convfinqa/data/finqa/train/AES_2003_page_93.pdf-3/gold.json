@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in asset retirement obligations between 2002 and 2003?\\\\n",
+      "answer": 14000000.0,
+      "answer_raw": "14000000.0",
+      "program": "subtract(29, 15), multiply(#0, const_1000000)"
+    }
+  ]
+}

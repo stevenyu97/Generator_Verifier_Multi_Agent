@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "AAP/2012/page_61.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "in june 2011 , the fasb issued asu no .",
+      "2011-05 201ccomprehensive income 2013 presentation of comprehensive income . 201d asu 2011-05 requires comprehensive income , the components of net income , and the components of other comprehensive income either in a single continuous statement of comprehensive income or in two separate but consecutive statements .",
+      "in both choices , an entity is required to present each component of net income along with total net income , each component of other comprehensive income along with a total for other comprehensive income , and a total amount for comprehensive income .",
+      "this update eliminates the option to present the components of other comprehensive income as part of the statement of changes in stockholders' equity .",
+      "the amendments in this update do not change the items that must be reported in other comprehensive income or when an item of other comprehensive income must be reclassified to net income .",
+      "the amendments in this update should be applied retrospectively and is effective for interim and annual reporting periods beginning after december 15 , 2011 .",
+      "the company adopted this guidance in the first quarter of 2012 .",
+      "the adoption of asu 2011-05 is for presentation purposes only and had no material impact on the company 2019s consolidated financial statements .",
+      "3 .",
+      "inventories , net : merchandise inventory the company used the lifo method of accounting for approximately 95% ( 95 % ) of inventories at both december 29 , 2012 and december 31 , 2011 .",
+      "under lifo , the company 2019s cost of sales reflects the costs of the most recently purchased inventories , while the inventory carrying balance represents the costs for inventories purchased in fiscal 2012 and prior years .",
+      "the company recorded a reduction to cost of sales of $ 24087 and $ 29554 in fiscal 2012 and fiscal 2010 , respectively .",
+      "as a result of utilizing lifo , the company recorded an increase to cost of sales of $ 24708 for fiscal 2011 , due to an increase in supply chain costs and inflationary pressures affecting certain product categories .",
+      "the company 2019s overall costs to acquire inventory for the same or similar products have generally decreased historically as the company has been able to leverage its continued growth , execution of merchandise strategies and realization of supply chain efficiencies .",
+      "product cores the remaining inventories are comprised of product cores , the non-consumable portion of certain parts and batteries , which are valued under the first-in , first-out ( \"fifo\" ) method .",
+      "product cores are included as part of the company's merchandise costs and are either passed on to the customer or returned to the vendor .",
+      "because product cores are not subject to frequent cost changes like the company's other merchandise inventory , there is no material difference when applying either the lifo or fifo valuation method .",
+      "inventory overhead costs purchasing and warehousing costs included in inventory at december 29 , 2012 and december 31 , 2011 , were $ 134258 and $ 126840 , respectively .",
+      "inventory balance and inventory reserves inventory balances at the end of fiscal 2012 and 2011 were as follows : december 29 , december 31 ."
+    ],
+    "post_text": [
+      "inventory quantities are tracked through a perpetual inventory system .",
+      "the company completes physical inventories and other targeted inventory counts in its store locations to ensure the accuracy of the perpetual inventory quantities of both merchandise and core inventory in these locations .",
+      "in its distribution centers and pdq aes , the company uses a cycle counting program to ensure the accuracy of the perpetual inventory quantities of both merchandise and product core inventory .",
+      "reserves advance auto parts , inc .",
+      "and subsidiaries notes to the consolidated financial statements december 29 , 2012 , december 31 , 2011 and january 1 , 2011 ( in thousands , except per share data ) ."
+    ],
+    "table": [
+      [
+        "",
+        "december 292012",
+        "december 312011"
+      ],
+      [
+        "inventories at fifo net",
+        "$ 2182419",
+        "$ 1941055"
+      ],
+      [
+        "adjustments to state inventories at lifo",
+        "126190",
+        "102103"
+      ],
+      [
+        "inventories at lifo net",
+        "$ 2308609",
+        "$ 2043158"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in inventories at lifo net during 2012?"
+    ]
+  }
+}

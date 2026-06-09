@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "LKQ/2007/page_82.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "lkq corporation and subsidiaries notes to consolidated financial statements ( continued ) note 8 .",
+      "restructuring and integration costs ( continued ) levels and the closure of excess facilities .",
+      "to the extent these restructuring activities are associated with keystone operations , they are being accounted for in accordance with eitf issue no .",
+      "95-3 , 2018 2018recognition of liabilities in connection with a purchase business combination . 2019 2019 restructuring activities associated with our existing operations are being accounted for in accordance with sfas no .",
+      "146 , 2018 2018accounting for costs associated with exit or disposal activities . 2019 2019 in connection with the keystone restructuring activities , as part of the cost of the acquisition , we established reserves as detailed below .",
+      "in accordance with eitf issue no .",
+      "95-3 , we intend to finalize our restructuring plans no later than one year from the date of our acquisition of keystone .",
+      "upon finalization of restructuring plans or settlement of obligations for less than the expected amount , any excess reserves will be reversed with a corresponding decrease in goodwill .",
+      "accrued acquisition expenses are included in other accrued expenses in the accompanying consolidated balance sheets .",
+      "the changes in accrued acquisition expenses directly related to the keystone acquisition during 2007 are as follows ( in thousands ) : severance excess related costs facility costs other total ."
+    ],
+    "post_text": [
+      "restructuring and integration costs associated with our existing operations are included in restructuring expenses on the accompanying consolidated statements of income .",
+      "note 9 .",
+      "related party transactions we sublease a portion of our corporate office space to an entity owned by the son of one of our principal stockholders for a pro rata percentage of the rent that we are charged .",
+      "the total amounts received from this entity were approximately $ 54000 , $ 70000 and $ 49000 during the years ended december 31 , 2007 , 2006 and 2005 , respectively .",
+      "we also paid this entity approximately $ 0.4 million during 2007 for consulting fees incurred in connection with our new secured debt facility .",
+      "a corporation owned by our chairman of the board , who is also one of our principal stockholders , owns private aircraft that we use from time to time for business trips .",
+      "we reimburse this corporation for out-of-pocket and other related flight expenses , as well as for other direct expenses incurred .",
+      "the total amounts paid to this corporation were approximately $ 102000 , $ 6400 and $ 122000 during each of the years ended december 31 , 2007 , 2006 and 2005 , respectively .",
+      "in connection with the acquisitions of several businesses , we entered into agreements with several sellers of those businesses , who became stockholders as a result of those acquisitions , for the lease of certain properties used in our operations .",
+      "typical lease terms include an initial term of five years , with three five-year renewal options and purchase options at various times throughout the lease periods .",
+      "we also maintain the right of first refusal concerning the sale of the leased property .",
+      "lease payments to a principal stockholder who became an officer of the company after the acquisition of his business were approximately $ 0.8 million during each of the years ended december 31 , 2007 , 2006 and 2005 , respectively. ."
+    ],
+    "table": [
+      [
+        "",
+        "severance related costs",
+        "excess facility costs",
+        "other",
+        "total"
+      ],
+      [
+        "reserves established",
+        "$ 11233",
+        "$ 2823",
+        "$ 488",
+        "$ 14544"
+      ],
+      [
+        "payments",
+        "-1727 ( 1727 )",
+        "-85 ( 85 )",
+        "-488 ( 488 )",
+        "-2300 ( 2300 )"
+      ],
+      [
+        "balance at december 31 2007",
+        "$ 9506",
+        "$ 2738",
+        "$ 2014",
+        "$ 12244"
+      ]
+    ],
+    "questions": [
+      "based on the review of the keystone acquisition expenses what was the percent of the total reserves established associated with severance related costs"
+    ]
+  }
+}

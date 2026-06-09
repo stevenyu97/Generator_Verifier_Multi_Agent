@@ -1,0 +1,98 @@
+{
+  "input": {
+    "id": "Single_RSG/2010/page_132.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "approximately $ 32 million of federal tax payments were deferred and paid in 2009 as a result of the allied acquisition .",
+      "the following table summarizes the activity in our gross unrecognized tax benefits for the years ended december 31: ."
+    ],
+    "post_text": [
+      "new accounting guidance for business combinations became effective for our 2009 financial statements .",
+      "this new guidance changed the treatment of acquired uncertain tax liabilities .",
+      "under previous guidance , changes in acquired uncertain tax liabilities were recognized through goodwill .",
+      "under the new guidance , subsequent changes in acquired unrecognized tax liabilities are recognized through the income tax provision .",
+      "as of december 31 , 2010 , $ 206.5 million of the $ 222.8 million of unrecognized tax benefits related to tax positions taken by allied prior to the 2008 acquisition .",
+      "included in the balance at december 31 , 2010 and 2009 are approximately $ 209.1 million and $ 217.6 million of unrecognized tax benefits ( net of the federal benefit on state issues ) that , if recognized , would affect the effective income tax rate in future periods .",
+      "during 2010 , the irs concluded its examination of our 2005 and 2007 tax years .",
+      "the conclusion of this examination reduced our gross unrecognized tax benefits by approximately $ 1.9 million .",
+      "we also resolved various state matters during 2010 that , in the aggregate , reduced our gross unrecognized tax benefits by approximately $ 10.0 million .",
+      "during 2009 , we settled our outstanding tax dispute related to allied 2019s risk management companies ( see 2013 risk management companies ) with both the department of justice ( doj ) and the internal revenue service ( irs ) .",
+      "this settlement reduced our gross unrecognized tax benefits by approximately $ 299.6 million .",
+      "during 2009 , we also settled with the irs , through an accounting method change , our outstanding tax dispute related to intercompany insurance premiums paid to allied 2019s captive insurance company .",
+      "this settlement reduced our gross unrecognized tax benefits by approximately $ 62.6 million .",
+      "in addition to these federal matters , we also resolved various state matters that , in the aggregate , reduced our gross unrecognized tax benefits during 2009 by approximately $ 5.8 million .",
+      "we recognize interest and penalties as incurred within the provision for income taxes in our consolidated statements of income .",
+      "related to the unrecognized tax benefits previously noted , we accrued interest of $ 19.2 million during 2010 and , in total as of december 31 , 2010 , have recognized a liability for penalties of $ 1.2 million and interest of $ 99.9 million .",
+      "during 2009 , we accrued interest of $ 24.5 million and , in total at december 31 , 2009 , had recognized a liability for penalties of $ 1.5 million and interest of $ 92.3 million .",
+      "during 2008 , we accrued penalties of $ 0.2 million and interest of $ 5.2 million and , in total at december 31 , 2008 , had recognized a liability for penalties of $ 88.1 million and interest of $ 180.0 million .",
+      "republic services , inc .",
+      "notes to consolidated financial statements , continued ."
+    ],
+    "table": [
+      [
+        "",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      [
+        "balance at beginning of year",
+        "$ 242.2",
+        "$ 611.9",
+        "$ 23.2"
+      ],
+      [
+        "additions due to the allied acquisition",
+        "-",
+        "13.3",
+        "582.9"
+      ],
+      [
+        "additions based on tax positions related to current year",
+        "2.8",
+        "3.9",
+        "10.6"
+      ],
+      [
+        "reductions for tax positions related to the current year",
+        "-",
+        "-",
+        "-5.1 ( 5.1 )"
+      ],
+      [
+        "additions for tax positions of prior years",
+        "7.5",
+        "5.6",
+        "2.0"
+      ],
+      [
+        "reductions for tax positions of prior years",
+        "-7.4 ( 7.4 )",
+        "-24.1 ( 24.1 )",
+        "-1.3 ( 1.3 )"
+      ],
+      [
+        "reductions for tax positions resulting from lapse of statute of limitations",
+        "-10.4 ( 10.4 )",
+        "-0.5 ( 0.5 )",
+        "-0.4 ( 0.4 )"
+      ],
+      [
+        "settlements",
+        "-11.9 ( 11.9 )",
+        "-367.9 ( 367.9 )",
+        "-"
+      ],
+      [
+        "balance at end of year",
+        "$ 222.8",
+        "$ 242.2",
+        "$ 611.9"
+      ]
+    ],
+    "questions": [
+      "what was the change in gross unrecognized tax benefits from 2009 to 2010?",
+      "and how much does this change represent in relation to the gross unrecognized tax benefits in 2009, in percentage?"
+    ]
+  }
+}

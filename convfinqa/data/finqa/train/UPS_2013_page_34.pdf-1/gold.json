@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage total cumulative return on investment for united parcel service inc . for the five years ended 12/31/2013?",
+      "answer": 1.2191,
+      "answer_raw": "1.2191",
+      "program": "subtract(221.91, const_100), divide(#0, const_100)"
+    }
+  ]
+}

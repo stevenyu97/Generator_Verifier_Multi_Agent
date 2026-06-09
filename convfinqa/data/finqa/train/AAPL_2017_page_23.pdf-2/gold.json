@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the apple stock return between 2016 and 2017?",
+      "answer": 50.0,
+      "answer_raw": "50.0",
+      "program": "subtract(179, 129)"
+    }
+  ]
+}

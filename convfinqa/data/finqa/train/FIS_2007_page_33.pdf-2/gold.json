@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total leased locations are located in united states?",
+      "answer": 0.47059,
+      "answer_raw": "0.47059",
+      "program": "add(72, 64), divide(64, #0)"
+    }
+  ]
+}

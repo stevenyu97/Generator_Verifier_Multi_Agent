@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net earnings in 2005?",
+      "answer": 1825.0,
+      "answer_raw": "1825.0",
+      "program": "1825"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2004?",
+      "answer": 1266.0,
+      "answer_raw": "1266.0",
+      "program": "1266"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the increase in net earnings?",
+      "answer": 559.0,
+      "answer_raw": "559.0",
+      "program": "subtract(1825, 1266)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the net earnings in 2006?",
+      "answer": 1266.0,
+      "answer_raw": "1266.0",
+      "program": "1266"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what percentage increase does this represent?",
+      "answer": 0.44155,
+      "answer_raw": "0.44155",
+      "program": "subtract(1825, 1266), divide(#0, 1266)"
+    }
+  ]
+}

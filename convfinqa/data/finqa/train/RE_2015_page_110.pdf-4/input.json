@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "RE/2015/page_110.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "certain reclassifications and format changes have been made to prior years 2019 amounts to conform to the 2015 presentation .",
+      "b .",
+      "investments .",
+      "fixed maturity and equity security investments available for sale , at market value , reflect unrealized appreciation and depreciation , as a result of temporary changes in market value during the period , in shareholders 2019 equity , net of income taxes in 201caccumulated other comprehensive income ( loss ) 201d in the consolidated balance sheets .",
+      "fixed maturity and equity securities carried at fair value reflect fair value re- measurements as net realized capital gains and losses in the consolidated statements of operations and comprehensive income ( loss ) .",
+      "the company records changes in fair value for its fixed maturities available for sale , at market value through shareholders 2019 equity , net of taxes in accumulated other comprehensive income ( loss ) since cash flows from these investments will be primarily used to settle its reserve for losses and loss adjustment expense liabilities .",
+      "the company anticipates holding these investments for an extended period as the cash flow from interest and maturities will fund the projected payout of these liabilities .",
+      "fixed maturities carried at fair value represent a portfolio of convertible bond securities , which have characteristics similar to equity securities and at times , designated foreign denominated fixed maturity securities , which will be used to settle loss and loss adjustment reserves in the same currency .",
+      "the company carries all of its equity securities at fair value except for mutual fund investments whose underlying investments are comprised of fixed maturity securities .",
+      "for equity securities , available for sale , at fair value , the company reflects changes in value as net realized capital gains and losses since these securities may be sold in the near term depending on financial market conditions .",
+      "interest income on all fixed maturities and dividend income on all equity securities are included as part of net investment income in the consolidated statements of operations and comprehensive income ( loss ) .",
+      "unrealized losses on fixed maturities , which are deemed other-than-temporary and related to the credit quality of a security , are charged to net income ( loss ) as net realized capital losses .",
+      "short-term investments are stated at cost , which approximates market value .",
+      "realized gains or losses on sales of investments are determined on the basis of identified cost .",
+      "for non- publicly traded securities , market prices are determined through the use of pricing models that evaluate securities relative to the u.s .",
+      "treasury yield curve , taking into account the issue type , credit quality , and cash flow characteristics of each security .",
+      "for publicly traded securities , market value is based on quoted market prices or valuation models that use observable market inputs .",
+      "when a sector of the financial markets is inactive or illiquid , the company may use its own assumptions about future cash flows and risk-adjusted discount rates to determine fair value .",
+      "retrospective adjustments are employed to recalculate the values of asset-backed securities .",
+      "each acquisition lot is reviewed to recalculate the effective yield .",
+      "the recalculated effective yield is used to derive a book value as if the new yield were applied at the time of acquisition .",
+      "outstanding principal factors from the time of acquisition to the adjustment date are used to calculate the prepayment history for all applicable securities .",
+      "conditional prepayment rates , computed with life to date factor histories and weighted average maturities , are used to effect the calculation of projected and prepayments for pass-through security types .",
+      "other invested assets include limited partnerships and rabbi trusts .",
+      "limited partnerships are accounted for under the equity method of accounting , which can be recorded on a monthly or quarterly lag .",
+      "c .",
+      "uncollectible receivable balances .",
+      "the company provides reserves for uncollectible reinsurance recoverable and premium receivable balances based on management 2019s assessment of the collectability of the outstanding balances .",
+      "such reserves are presented in the table below for the periods indicated. ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "( dollars in thousands )",
+        "years ended december 31 , 2015",
+        "years ended december 31 , 2014"
+      ],
+      [
+        "reinsurance receivables and premium receivables",
+        "$ 22878",
+        "$ 29497"
+      ]
+    ],
+    "questions": [
+      "what is the change in the reinsurance receivables and premium receivables from 2014 to 2015 in thousands"
+    ]
+  }
+}

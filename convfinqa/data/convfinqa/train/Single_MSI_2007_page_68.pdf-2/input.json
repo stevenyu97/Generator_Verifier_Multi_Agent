@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "Single_MSI/2007/page_68.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "unit shipments increased 49% ( 49 % ) to 217.4 million units in 2006 , compared to 146.0 million units in 2005 .",
+      "the overall increase was driven by increased unit shipments of products for gsm , cdma and 3g technologies , partially offset by decreased unit shipments of products for iden technology .",
+      "for the full year 2006 , unit shipments by the segment increased in all regions .",
+      "due to the segment 2019s increase in unit shipments outpacing overall growth in the worldwide handset market , which grew approximately 20% ( 20 % ) in 2006 , the segment believes that it expanded its global handset market share to an estimated 22% ( 22 % ) for the full year 2006 .",
+      "in 2006 , asp decreased approximately 11% ( 11 % ) compared to 2005 .",
+      "the overall decrease in asp was driven primarily by changes in the geographic and product-tier mix of sales .",
+      "by comparison , asp decreased approximately 10% ( 10 % ) in 2005 and increased approximately 15% ( 15 % ) in 2004 .",
+      "asp is impacted by numerous factors , including product mix , market conditions and competitive product offerings , and asp trends often vary over time .",
+      "in 2006 , the largest of the segment 2019s end customers ( including sales through distributors ) were china mobile , verizon , sprint nextel , cingular , and t-mobile .",
+      "these five largest customers accounted for approximately 39% ( 39 % ) of the segment 2019s net sales in 2006 .",
+      "besides selling directly to carriers and operators , the segment also sold products through a variety of third-party distributors and retailers , which accounted for approximately 38% ( 38 % ) of the segment 2019s net sales .",
+      "the largest of these distributors was brightstar corporation .",
+      "although the u.s .",
+      "market continued to be the segment 2019s largest individual market , many of our customers , and more than 65% ( 65 % ) of the segment 2019s 2006 net sales , were outside the u.s .",
+      "the largest of these international markets were china , brazil , the united kingdom and mexico .",
+      "home and networks mobility segment the home and networks mobility segment designs , manufactures , sells , installs and services : ( i ) digital video , internet protocol ( 201cip 201d ) video and broadcast network interactive set-tops ( 201cdigital entertainment devices 201d ) , end-to- end video delivery solutions , broadband access infrastructure systems , and associated data and voice customer premise equipment ( 201cbroadband gateways 201d ) to cable television and telecom service providers ( collectively , referred to as the 201chome business 201d ) , and ( ii ) wireless access systems ( 201cwireless networks 201d ) , including cellular infrastructure systems and wireless broadband systems , to wireless service providers .",
+      "in 2007 , the segment 2019s net sales represented 27% ( 27 % ) of the company 2019s consolidated net sales , compared to 21% ( 21 % ) in 2006 and 26% ( 26 % ) in 2005 .",
+      "( dollars in millions ) 2007 2006 2005 2007 20142006 2006 20142005 years ended december 31 percent change ."
+    ],
+    "post_text": [
+      "segment results 20142007 compared to 2006 in 2007 , the segment 2019s net sales increased 9% ( 9 % ) to $ 10.0 billion , compared to $ 9.2 billion in 2006 .",
+      "the 9% ( 9 % ) increase in net sales reflects a 27% ( 27 % ) increase in net sales in the home business , partially offset by a 1% ( 1 % ) decrease in net sales of wireless networks .",
+      "net sales of digital entertainment devices increased approximately 43% ( 43 % ) , reflecting increased demand for digital set-tops , including hd/dvr set-tops and ip set-tops , partially offset by a decline in asp due to a product mix shift towards all-digital set-tops .",
+      "unit shipments of digital entertainment devices increased 51% ( 51 % ) to 15.2 million units .",
+      "net sales of broadband gateways increased approximately 6% ( 6 % ) , primarily due to higher net sales of data modems , driven by net sales from the netopia business acquired in february 2007 .",
+      "net sales of wireless networks decreased 1% ( 1 % ) , primarily driven by lower net sales of iden and cdma infrastructure equipment , partially offset by higher net sales of gsm infrastructure equipment , despite competitive pricing pressure .",
+      "on a geographic basis , the 9% ( 9 % ) increase in net sales reflects higher net sales in all geographic regions .",
+      "the increase in net sales in north america was driven primarily by higher sales of digital entertainment devices , partially offset by lower net sales of iden and cdma infrastructure equipment .",
+      "the increase in net sales in asia was primarily due to higher net sales of gsm infrastructure equipment , partially offset by lower net sales of cdma infrastructure equipment .",
+      "the increase in net sales in emea was , primarily due to higher net sales of gsm infrastructure equipment , partially offset by lower demand for iden and cdma infrastructure equipment .",
+      "net sales in north america continue to comprise a significant portion of the segment 2019s business , accounting for 52% ( 52 % ) of the segment 2019s total net sales in 2007 , compared to 56% ( 56 % ) of the segment 2019s total net sales in 2006 .",
+      "60 management 2019s discussion and analysis of financial condition and results of operations ."
+    ],
+    "table": [
+      [
+        "( dollars in millions )",
+        "years ended december 31 2007",
+        "years ended december 31 2006",
+        "years ended december 31 2005",
+        "years ended december 31 2007 20142006",
+        "2006 20142005"
+      ],
+      [
+        "segment net sales",
+        "$ 10014",
+        "$ 9164",
+        "$ 9037",
+        "9% ( 9 % )",
+        "1% ( 1 % )"
+      ],
+      [
+        "operating earnings",
+        "709",
+        "787",
+        "1232",
+        "( 10 ) % (  % )",
+        "( 36 ) % (  % )"
+      ]
+    ],
+    "questions": [
+      "what was the change in the operating earnings from 2005 to 2007?",
+      "and how much does this change represent in relation to those operating earnings in 2005, in percentage?"
+    ]
+  }
+}

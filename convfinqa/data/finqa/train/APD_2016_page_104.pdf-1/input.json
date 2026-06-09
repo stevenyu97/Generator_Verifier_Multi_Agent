@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "APD/2016/page_104.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "corporate and government bonds corporate and government bonds are classified as level 2 assets , as they are either valued at quoted market prices from observable pricing sources at the reporting date or valued based upon comparable securities with similar yields and credit ratings .",
+      "real estate pooled funds real estate pooled funds are classified as level 3 assets , as they are carried at the estimated fair value of the underlying properties .",
+      "estimated fair value is calculated utilizing a combination of key inputs , such as revenue and expense growth rates , terminal capitalization rates , and discount rates .",
+      "these key inputs are consistent with practices prevailing within the real estate investment management industry .",
+      "other pooled funds other pooled funds classified as level 2 assets are valued at the nav of the shares held at year end , which is based on the fair value of the underlying investments .",
+      "securities and interests classified as level 3 are carried at the estimated fair value .",
+      "the estimated fair value is based on the fair value of the underlying investment values , which includes estimated bids from brokers or other third-party vendor sources that utilize expected cash flow streams and other uncorroborated data including counterparty credit quality , default risk , discount rates , and the overall capital market liquidity .",
+      "insurance contracts insurance contracts are classified as level 3 assets , as they are carried at contract value , which approximates the estimated fair value .",
+      "the estimated fair value is based on the fair value of the underlying investment of the insurance company .",
+      "contributions and projected benefit payments pension contributions to funded plans and benefit payments for unfunded plans for fiscal year 2016 were $ 79.3 .",
+      "contributions for funded plans resulted primarily from contractual and regulatory requirements .",
+      "benefit payments to unfunded plans were due primarily to the timing of retirements and cost reduction actions .",
+      "we anticipate contributing $ 65 to $ 85 to the defined benefit pension plans in 2017 .",
+      "these contributions are anticipated to be driven primarily by contractual and regulatory requirements for funded plans and benefit payments for unfunded plans , which are dependent upon timing of retirements and actions to reorganize the business .",
+      "projected benefit payments , which reflect expected future service , are as follows: ."
+    ],
+    "post_text": [
+      "these estimated benefit payments are based on assumptions about future events .",
+      "actual benefit payments may vary significantly from these estimates .",
+      "defined contribution plans we maintain a nonleveraged employee stock ownership plan ( esop ) which forms part of the air products and chemicals , inc .",
+      "retirement savings plan ( rsp ) .",
+      "the esop was established in may of 2002 .",
+      "the balance of the rsp is a qualified defined contribution plan including a 401 ( k ) elective deferral component .",
+      "a substantial portion of u.s .",
+      "employees are eligible and participate .",
+      "we treat dividends paid on esop shares as ordinary dividends .",
+      "under existing tax law , we may deduct dividends which are paid with respect to shares held by the plan .",
+      "shares of the company 2019s common stock in the esop totaled 3031534 as of 30 september 2016 .",
+      "our contributions to the rsp include a company core contribution for certain eligible employees who do not receive their primary retirement benefit from the defined benefit pension plans , with the core contribution based ."
+    ],
+    "table": [
+      [
+        "",
+        "u.s .",
+        "international"
+      ],
+      [
+        "2017",
+        "$ 150.3",
+        "$ 45.7"
+      ],
+      [
+        "2018",
+        "152.7",
+        "48.3"
+      ],
+      [
+        "2019",
+        "157.2",
+        "50.2"
+      ],
+      [
+        "2020",
+        "161.8",
+        "51.1"
+      ],
+      [
+        "2021",
+        "166.7",
+        "54.3"
+      ],
+      [
+        "2022 20132026",
+        "909.6",
+        "306.9"
+      ]
+    ],
+    "questions": [
+      "considering the year 2019 , what is the highest projected benefit payment value?"
+    ]
+  }
+}

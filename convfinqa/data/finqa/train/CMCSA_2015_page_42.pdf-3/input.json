@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "CMCSA/2015/page_42.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "stock performance graph comcast the graph below compares the yearly percentage change in the cumulative total shareholder return on comcast 2019s class a common stock during the five years ended december 31 , 2015 with the cumulative total returns on the standard & poor 2019s 500 stock index and with a select peer group consisting of us and other companies engaged in the cable , communications and media industries .",
+      "this peer group consists of us , as well as cablevision systems corporation ( class a ) , dish network corporation ( class a ) , directv inc .",
+      "( included through july 24 , 2015 , the date of acquisition by at&t corp. ) and time warner cable inc .",
+      "( the 201ccable subgroup 201d ) , and time warner inc. , walt disney company , viacom inc .",
+      "( class b ) , twenty-first century fox , inc .",
+      "( class a ) , and cbs corporation ( class b ) ( the 201cmedia subgroup 201d ) .",
+      "the peer group was constructed as a composite peer group in which the cable subgroup is weighted 63% ( 63 % ) and the media subgroup is weighted 37% ( 37 % ) based on the respective revenue of our cable communications and nbcuniversal segments .",
+      "the graph assumes $ 100 was invested on december 31 , 2010 in our class a common stock and in each of the following indices and assumes the reinvestment of dividends .",
+      "comparison of 5 year cumulative total return 12/1412/1312/1212/10 12/15 comcast class a s&p 500 peer group index ."
+    ],
+    "post_text": [
+      "nbcuniversal nbcuniversal is a wholly owned subsidiary of nbcuniversal holdings and there is no market for its equity securities .",
+      "39 comcast 2015 annual report on form 10-k ."
+    ],
+    "table": [
+      [
+        "",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      [
+        "comcast class a",
+        "$ 110",
+        "$ 177",
+        "$ 250",
+        "$ 282",
+        "$ 279"
+      ],
+      [
+        "s&p 500 stock index",
+        "$ 102",
+        "$ 118",
+        "$ 156",
+        "$ 177",
+        "$ 180"
+      ],
+      [
+        "peer group index",
+        "$ 110",
+        "$ 157",
+        "$ 231",
+        "$ 267",
+        "$ 265"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the 5 year cumulative return in 2015 for the performance of comcast class a compared to the s&p 500 stock index"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in operating profit for the americas as a percentage of net sales between 2001 and 2003?",
+      "answer": 3.8,
+      "answer_raw": "3.8",
+      "program": "subtract(51.2, 47.4)"
+    }
+  ]
+}

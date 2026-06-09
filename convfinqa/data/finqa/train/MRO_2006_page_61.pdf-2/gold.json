@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did the effective income tax rate for continuing operations increase from 2005 to 2006?",
+      "answer": 0.085,
+      "answer_raw": "0.085",
+      "program": "subtract(44.8%, 36.3%)"
+    }
+  ]
+}

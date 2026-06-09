@@ -1,0 +1,104 @@
+{
+  "input": {
+    "id": "Double_PPG/2008/page_19.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "management 2019s discussion and analysis results of reportable business segments net sales segment income ( millions ) 2008 2007 2008 2007 ."
+    ],
+    "post_text": [
+      "performance coatings sales increased $ 905 million or 24% ( 24 % ) in 2008 .",
+      "sales increased 21% ( 21 % ) due to acquisitions , largely due to the impact of the sigmakalon protective and marine coatings business .",
+      "sales also grew by 3% ( 3 % ) due to higher selling prices and 2% ( 2 % ) due to the positive impact of foreign currency translation .",
+      "sales volumes declined 2% ( 2 % ) as reduced volumes in architectural coatings 2013 americas and asia pacific and automotive refinish were not fully offset by improved volumes in the aerospace and protective and marine businesses .",
+      "volume growth in the aerospace businesses occurred throughout the world , while the volume growth in protective and marine coatings occurred primarily in asia .",
+      "segment income increased $ 19 million in 2008 .",
+      "factors increasing segment income were the positive impact of acquisitions , lower overhead costs and the positive impact of foreign currency translation .",
+      "the benefit of higher selling prices more than offset the negative impact of inflation , including higher raw materials and benefit costs .",
+      "segment income was reduced by the impact of the lower sales volumes in architectural coatings and automotive refinish , which more than offset the benefit of volume gains in the aerospace and protective and marine coatings businesses .",
+      "industrial coatings sales increased $ 353 million or 10% ( 10 % ) in 2008 .",
+      "sales increased 11% ( 11 % ) due to acquisitions , including the impact of the sigmakalon industrial coatings business .",
+      "sales also grew 3% ( 3 % ) due to the positive impact of foreign currency translation , and 1% ( 1 % ) from higher selling prices .",
+      "sales volumes declined 5% ( 5 % ) as reduced volumes were experienced in all three businesses , reflecting the substantial declines in global demand .",
+      "volume declines in the automotive and industrial businesses were primarily in the u.s .",
+      "and canada .",
+      "additional volume declines in the european and asian regions were experienced by the industrial coatings business .",
+      "in packaging coatings , volume declines in europe were only partially offset by gains in asia and north america .",
+      "segment income declined $ 158 million in 2008 due to the lower volumes and inflation , including higher raw material and freight costs , the impact of which was only partially mitigated by the increased selling prices .",
+      "segment income also declined due to higher selling and distribution costs , including higher bad debt expense .",
+      "factors increasing segment income were the earnings of acquired businesses , the positive impact of foreign currency translation and lower manufacturing costs .",
+      "architectural coatings - emea sales for the year were $ 2249 million .",
+      "this business was acquired in the sigmakalon acquisition .",
+      "segment income was $ 141 million , which included amortization expense of $ 63 million related to acquired intangible assets and depreciation expense of $ 58 million .",
+      "optical and specialty materials sales increased $ 105 million or 10% ( 10 % ) in 2008 .",
+      "sales increased 5% ( 5 % ) due to higher volumes in our optical products business resulting from the launch of transitions optical 2019s next generation lens product , 3% ( 3 % ) due to the positive impact of foreign currency translation and 2% ( 2 % ) due to increased selling prices .",
+      "segment income increased $ 9 million in 2008 .",
+      "the increase in segment income was the result of increased sales volumes and the favorable impact of currency partially offset by increased selling and marketing costs in the optical products business related to the transitions optical product launch mentioned above .",
+      "increased selling prices only partially offset higher raw material costs , primarily in our silicas business .",
+      "commodity chemicals sales increased $ 298 million or 19% ( 19 % ) in 2008 .",
+      "sales increased 18% ( 18 % ) due to higher selling prices and 1% ( 1 % ) due to improved sales volumes .",
+      "segment income increased $ 97 million in 2008 .",
+      "segment income increased in large part due to higher selling prices , which more than offset the negative impact of inflation , primarily higher raw material and energy costs .",
+      "segment income also improved due to lower manufacturing costs , while lower margin mix and equity earnings reduced segment income .",
+      "glass sales decreased $ 281 million or 13% ( 13 % ) in 2008 .",
+      "sales decreased 11% ( 11 % ) due to the divestiture of the automotive glass and services business in september 2008 and 4% ( 4 % ) due to lower sales volumes .",
+      "sales increased 2% ( 2 % ) due to higher selling prices .",
+      "segment income decreased $ 68 million in 2008 .",
+      "segment income decreased due to the divestiture of the automotive glass and services business , lower volumes , the negative impact of inflation and lower equity earnings from our asian fiber glass joint ventures .",
+      "factors increasing segment income were lower manufacturing costs , higher selling prices and stronger foreign currency .",
+      "outlook overall global economic activity was volatile in 2008 with an overall downward trend .",
+      "the north american economy continued a slowing trend which began during the second half of 2006 and continued all of 2007 .",
+      "the impact of the weakening u.s .",
+      "economy was particularly 2008 ppg annual report and form 10-k 17 ."
+    ],
+    "table": [
+      [
+        "( millions ) performance coatings",
+        "net sales 2008 $ 4716",
+        "2007 $ 3811",
+        "segment income 2008 $ 582",
+        "2007 $ 563"
+      ],
+      [
+        "industrial coatings",
+        "3999",
+        "3646",
+        "212",
+        "370"
+      ],
+      [
+        "architectural coatings 2013 emea",
+        "2249",
+        "2014",
+        "141",
+        "2014"
+      ],
+      [
+        "optical and specialty materials",
+        "1134",
+        "1029",
+        "244",
+        "235"
+      ],
+      [
+        "commodity chemicals",
+        "1837",
+        "1539",
+        "340",
+        "243"
+      ],
+      [
+        "glass",
+        "1914",
+        "2195",
+        "70",
+        "138"
+      ]
+    ],
+    "questions": [
+      "what was the foreign currency translation gain in 2008?",
+      "without this gain, what would have been, in millions, the total of sales in the performance coatings segment in that year?",
+      "and in this same year, what was the change in the revenue of the glass segment caused by higher selling prices, in millions of dollars?",
+      "how much is that in dollars?"
+    ]
+  }
+}

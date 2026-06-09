@@ -1,0 +1,73 @@
+{
+  "input": {
+    "id": "Single_UNP/2013/page_30.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "supplies .",
+      "expenses for purchased services increased 10% ( 10 % ) compared to 2012 due to logistics management fees , an increase in locomotive overhauls and repairs on jointly owned property .",
+      "expenses for contract services increased $ 103 million in 2012 versus 2011 , primarily due to increased demand for transportation services purchased by our logistics subsidiaries for their customers and additional costs for repair and maintenance of locomotives and freight cars .",
+      "depreciation 2013 the majority of depreciation relates to road property , including rail , ties , ballast , and other track material .",
+      "depreciation was up 1% ( 1 % ) compared to 2012 .",
+      "recent depreciation studies allowed us to use longer estimated service lives for certain equipment , which partially offset the impact of a higher depreciable asset base resulting from larger capital spending in recent years .",
+      "a higher depreciable asset base , reflecting ongoing capital spending , increased depreciation expense in 2012 compared to 2011 .",
+      "equipment and other rents 2013 equipment and other rents expense primarily includes rental expense that the railroad pays for freight cars owned by other railroads or private companies ; freight car , intermodal , and locomotive leases ; and office and other rent expenses .",
+      "additional container costs resulting from the logistics management arrangement , and increased automotive shipments , partially offset by lower cycle times drove a $ 51 million increase in our short-term freight car rental expense versus 2012 .",
+      "conversely , lower locomotive and freight car lease expenses partially offset the higher freight car rental expense .",
+      "increased automotive and intermodal shipments , partially offset by improved car-cycle times , drove an increase in our short-term freight car rental expense in 2012 compared to 2011 .",
+      "conversely , lower locomotive lease expense partially offset the higher freight car rental expense .",
+      "other 2013 other expenses include state and local taxes , freight , equipment and property damage , utilities , insurance , personal injury , environmental , employee travel , telephone and cellular , computer software , bad debt , and other general expenses .",
+      "higher property taxes and costs associated with damaged freight and property increased other costs in 2013 compared to 2012 .",
+      "continued improvement in our safety performance and lower estimated liability for personal injury , which reduced our personal injury expense year-over-year , partially offset increases in other costs .",
+      "other costs in 2012 were slightly higher than 2011 primarily due to higher property taxes .",
+      "despite continual improvement in our safety experience and lower estimated annual costs , personal injury expense increased in 2012 compared to 2011 , as the liability reduction resulting from historical claim experience was less than the reduction in 2011 .",
+      "non-operating items millions 2013 2012 2011 % (  % ) change 2013 v 2012 % (  % ) change 2012 v 2011 ."
+    ],
+    "post_text": [
+      "other income 2013 other income increased in 2013 versus 2012 due to higher gains from real estate sales and increased lease income , including the favorable impact from the $ 17 million settlement of a land lease contract .",
+      "these increases were partially offset by interest received from a tax refund in 2012 .",
+      "other income decreased in 2012 versus 2011 due to lower gains from real estate sales and higher environmental costs associated with non-operating properties , partially offset by interest received from a tax refund .",
+      "interest expense 2013 interest expense decreased in 2013 versus 2012 due to a lower effective interest rate of 5.7% ( 5.7 % ) in 2013 versus 6.0% ( 6.0 % ) in 2012 .",
+      "the increase in the weighted-average debt level to $ 9.6 billion in 2013 from $ 9.1 billion in 2012 partially offset the impact of the lower effective interest rate .",
+      "interest expense decreased in 2012 versus 2011 reflecting a lower effective interest rate in 2012 of 6.0% ( 6.0 % ) versus 6.2% ( 6.2 % ) in 2011 as the debt level did not materially change from 2011 to 2012. ."
+    ],
+    "table": [
+      [
+        "millions",
+        "2013",
+        "2012",
+        "2011",
+        "% (  % ) change 2013 v 2012",
+        "% (  % ) change 2012 v 2011"
+      ],
+      [
+        "other income",
+        "$ 128",
+        "$ 108",
+        "$ 112",
+        "19 % (  % )",
+        "( 4 ) % (  % )"
+      ],
+      [
+        "interest expense",
+        "-526 ( 526 )",
+        "-535 ( 535 )",
+        "-572 ( 572 )",
+        "-2 ( 2 )",
+        "-6 ( 6 )"
+      ],
+      [
+        "income taxes",
+        "-2660 ( 2660 )",
+        "-2375 ( 2375 )",
+        "-1972 ( 1972 )",
+        "12 % (  % )",
+        "20 % (  % )"
+      ]
+    ],
+    "questions": [
+      "what was the total in other income for the years of 2013 and 2012, combined?",
+      "including 2011, what then becomes this total?",
+      "and what was the average other income between these three years?"
+    ]
+  }
+}

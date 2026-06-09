@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between the tier 2 capital of december 2013 and that of december 2012?",
+      "answer": 203.0,
+      "answer_raw": "203.0",
+      "program": "subtract(13632, 13429)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the tier 2 capital of december 2012?",
+      "answer": 13429.0,
+      "answer_raw": "13429.0",
+      "program": "13429"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does that difference represents in relation to the tier 2 capital of december 2012?",
+      "answer": 0.01512,
+      "answer_raw": "0.01512",
+      "program": "subtract(13632, 13429), divide(#0, 13429)"
+    }
+  ]
+}

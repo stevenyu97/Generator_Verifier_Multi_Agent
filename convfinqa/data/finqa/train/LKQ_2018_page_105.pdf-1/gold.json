@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the review of the weighted-average assumptions used to calculate the net periodic benefit cost what was the ratio of the expected long-term return on plan assets ( 1 ) to the discount rate used to determine service cost in 2017",
+      "answer": 3.33333,
+      "answer_raw": "3.33333",
+      "program": "divide(5.0, 1.5)"
+    }
+  ]
+}

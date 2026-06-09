@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the after-tax loss on deconsolidation hit ordinary income?",
+      "answer": 0.39771,
+      "answer_raw": "0.39771",
+      "program": "divide(243, 611)"
+    }
+  ]
+}

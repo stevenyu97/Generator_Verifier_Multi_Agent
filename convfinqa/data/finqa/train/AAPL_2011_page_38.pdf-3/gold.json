@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what year had the greatest amount of accounts receivable net?",
+      "answer": 5510.0,
+      "answer_raw": "5510.0",
+      "program": "table_max(accounts receivable net, none)"
+    }
+  ]
+}

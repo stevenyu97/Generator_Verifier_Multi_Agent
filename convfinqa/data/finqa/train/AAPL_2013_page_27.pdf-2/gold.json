@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did apple inc . outperform the s&p computer hardware index over the above mentioned 6 year period?",
+      "answer": 2.34,
+      "answer_raw": "2.34",
+      "program": "subtract(431, 100), divide(#0, 100), subtract(197, 100), divide(#2, 100), subtract(#1, #3)"
+    }
+  ]
+}

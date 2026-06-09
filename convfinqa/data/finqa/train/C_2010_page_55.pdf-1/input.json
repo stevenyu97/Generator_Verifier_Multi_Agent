@@ -1,0 +1,107 @@
+{
+  "input": {
+    "id": "C/2010/page_55.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "corporate/other corporate/other includes global staff functions ( including finance , risk , human resources , legal and compliance ) and other corporate expense , global operations and technology , residual corporate treasury and corporate items .",
+      "at december 31 , 2010 , this segment had approximately $ 272 billion of assets , consisting primarily of citi 2019s liquidity portfolio , including $ 87 billion of cash and deposits with banks. ."
+    ],
+    "post_text": [
+      "2010 vs .",
+      "2009 revenues , net of interest expense increased primarily due to the absence of the loss on debt extinguishment related to the repayment of the $ 20 billion of tarp trust preferred securities and the exit from the loss-sharing agreement with the u.s .",
+      "government , each in the fourth quarter of 2009 .",
+      "revenues also increased due to gains on sales of afs securities , benefits from lower short- term interest rates and other improved treasury results during the current year .",
+      "these increases were partially offset by the absence of the pretax gain related to citi 2019s public and private exchange offers in 2009 .",
+      "operating expenses increased primarily due to various legal and related expenses , as well as other non-compensation expenses .",
+      "2009 vs .",
+      "2008 revenues , net of interest expense declined primarily due to the pretax loss on debt extinguishment related to the repayment of tarp and the exit from the loss-sharing agreement with the u.s .",
+      "government .",
+      "revenues also declined due to the absence of the 2008 sale of citigroup global services limited recorded in operations and technology .",
+      "these declines were partially offset by a pretax gain related to the exchange offers , revenues and higher intersegment eliminations .",
+      "operating expenses increased primarily due to intersegment eliminations and increases in compensation , partially offset by lower repositioning reserves. ."
+    ],
+    "table": [
+      [
+        "in millions of dollars",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      [
+        "net interest revenue",
+        "$ 1059",
+        "$ -1657 ( 1657 )",
+        "$ -2671 ( 2671 )"
+      ],
+      [
+        "non-interest revenue",
+        "695",
+        "-8898 ( 8898 )",
+        "413"
+      ],
+      [
+        "total revenues net of interest expense",
+        "$ 1754",
+        "$ -10555 ( 10555 )",
+        "$ -2258 ( 2258 )"
+      ],
+      [
+        "total operating expenses",
+        "$ 1953",
+        "$ 1418",
+        "$ 511"
+      ],
+      [
+        "provisions for loan losses and for benefits and claims",
+        "2014",
+        "2014",
+        "2014"
+      ],
+      [
+        "( loss ) from continuing operations before taxes",
+        "$ -199 ( 199 )",
+        "$ -11973 ( 11973 )",
+        "$ -2769 ( 2769 )"
+      ],
+      [
+        "benefits for income taxes",
+        "-153 ( 153 )",
+        "-4356 ( 4356 )",
+        "-585 ( 585 )"
+      ],
+      [
+        "( loss ) from continuing operations",
+        "$ -46 ( 46 )",
+        "$ -7617 ( 7617 )",
+        "$ -2184 ( 2184 )"
+      ],
+      [
+        "income ( loss ) from discontinued operations net of taxes",
+        "-68 ( 68 )",
+        "-445 ( 445 )",
+        "4002"
+      ],
+      [
+        "net income ( loss ) before attribution of noncontrolling interests",
+        "$ -114 ( 114 )",
+        "$ -8062 ( 8062 )",
+        "$ 1818"
+      ],
+      [
+        "net ( loss ) attributable to noncontrolling interests",
+        "-48 ( 48 )",
+        "-2 ( 2 )",
+        "2014"
+      ],
+      [
+        "net income ( loss )",
+        "$ -66 ( 66 )",
+        "$ -8060 ( 8060 )",
+        "$ 1818"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of total operating expenses to net interest income in 2010?"
+    ]
+  }
+}

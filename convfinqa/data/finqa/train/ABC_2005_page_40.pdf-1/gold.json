@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in total debt in thousands between 2004 and 2005?",
+      "answer": -485760.0,
+      "answer_raw": "-485760.0",
+      "program": "subtract(952711, 1438471)"
+    }
+  ]
+}

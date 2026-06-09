@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the short-term liability of $ 33.4 million related to biomet metal-on-metal hip implant claims as a percentage of the long-term receivable of $ 95.3 million remaining for future expected reimbursements from our insurance carriers?",
+      "answer": 0.35047,
+      "answer_raw": "0.35047",
+      "program": "divide(33.4, 95.3)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in net revenue that was due the net gas revenue adjustment and the volume/weather adjustment, combined, in millions?",
+      "answer": -7.6,
+      "answer_raw": "-7.6",
+      "program": "add(-2.5, -5.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total in other adjustments, also in millions?",
+      "answer": -8.1,
+      "answer_raw": "-8.1",
+      "program": "-8.1"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "including this total to that change, what then becomes that change value, in millions?",
+      "answer": -15.7,
+      "answer_raw": "-15.7",
+      "program": "add(-2.5, -5.1), add(#0, -8.1)"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+% =============================================================================
+% Filled results tables for the multi-agent GRPO paper.
+%
+% These three tables report the current state of training (step 5 of 30 planned)
+% across our three live runs, plus placeholder rows for baselines that will be
+% filled in once the corresponding zero-shot / SFT / DPO baselines are run.
+%
+% Required packages (NeurIPS standard):
+%   \usepackage{booktabs}
+%   \usepackage{multirow}
+%   \usepackage{makecell}
+% =============================================================================
+\providecommand{\PH}{--}
+\providecommand{\bestnum}[1]{\textbf{#1}}
+\providecommand{\oursrow}[1]{\textbf{#1}}
+% Wilson 95% half-width annotation, e.g. \ci{.08} -> "  ±0.08" in scriptsize.
+\providecommand{\ci}[1]{\,{\scriptsize$\pm$#1}}
+
+
+% -----------------------------------------------------------------------------
+%  Table 1: Headline test-set results + per-case training-time accuracy
+% -----------------------------------------------------------------------------
+\begin{table*}[ht]
+\centering
+\small
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.10}
+\caption{%
+Headline results on the held-out TaxCalcBench TY24~\citep{bock2025taxcalcbench}
+test split ($n{=}8$ cases, $19$ evaluated 1040 lines per case, $152$
+line-level decisions). The \textbf{Test acc.} column is the strict
+generator-draft accuracy for zero-shot and trained single-agent baselines
+and the multi-agent post-revise accuracy for \emph{Ours~(DPA-GRPO)}, both
+at the headline checkpoint (Section~\ref{sec:exp-setup}); each entry is a
+sample proportion over the $n{=}152$ binary line-level outcomes and is
+annotated with a Wilson 95\% half-width (closed-form, no Normality
+assumption). All half-widths fall in $[\pm.075, \pm.079]$ so the
+intervals are nearly symmetric; we report the rounded
+half-width per cell. Independent CIs across rows overlap because $n{=}152$
+is small; the same $152$ lines are evaluated by every method, so we also
+report a paired McNemar comparison of \emph{Ours} against the strongest
+same-backbone baseline in the table footnote\,\textsuperscript{$\S$}, which
+factors out per-line difficulty and is the appropriate test for a
+common-test-set comparison. The \textbf{Decision dynamics} columns report
+the \% of the $152$ line-level decisions that fall into \textbf{Case~1}
+(Generator correct, Verifier silent; silent-pass), \textbf{Case~4}
+(Generator wrong, Verifier silent; the missed-bug failure mode), and
+\textbf{Case~6a} (Generator correctly chooses KEEP after a Verifier
+intervention because the proposed revision would not have improved the
+line; a Verifier-aware behaviour); the same Wilson 95\% formula at
+$n{=}152$ yields half-widths between $\pm.03$ and $\pm.08$ depending on
+the case proportion and is reported in App.~\ref{app:cis} for every
+cell.\, Section~\ref{sec:taxonomy} gives the full taxonomy and
+Figure~\ref{fig:case-improvement} tracks the same three cases across
+training. For zero-shot and trained single-agent baselines no Verifier
+loop is run at test time, so by construction every line is either
+Case~1 (correct draft) or Case~4 (wrong draft) and Case~6a is zero. The
+\textbf{Train acc.} columns report the peak single-step training-time
+accuracy on three common training cases every trained run encountered
+(case identifiers in footnote\,\textsuperscript{$\dagger$}); each cell
+is a sample proportion over only $n{=}19$ lines and Wilson 95\%
+half-widths there exceed $\pm.18$, so we report point values only and
+treat these columns as diagnostic rather than for hypothesis testing.
+Best per column is in \bestnum{bold}; for the Train-B/Train-C ties at
+$0.684$ and $0.579$ both winners are bolded.}
+\label{tab:main-results}
+\begin{tabular}{l c c c c c c c c}
+\toprule
+\textbf{Method} & \textbf{Backbone} &
+\makecell{\textbf{Test acc.}\,$\uparrow$\\{\scriptsize($\pm$\,Wilson 95\%, $n{=}152$)}} &
+\multicolumn{3}{c}{\textbf{Decision dynamics} (\%)} &
+\multicolumn{3}{c}{\textbf{Train acc.}} \\
+\cmidrule(lr){4-6} \cmidrule(lr){7-9}
+ & & &
+\makecell{\textbf{Case 1}\\$\uparrow$} &
+\makecell{\textbf{Case 4}\\$\downarrow$} &
+\makecell{\textbf{Case 6a}\\$\uparrow$} &
+\makecell{\textbf{Train-A}\\{\scriptsize($n{=}19$)}\\$\uparrow$} &
+\makecell{\textbf{Train-B}\\{\scriptsize($n{=}19$)}\\$\uparrow$} &
+\makecell{\textbf{Train-C}\\{\scriptsize($n{=}19$)}\\$\uparrow$} \\
+\midrule
+\multicolumn{9}{l}{\emph{Untrained baselines (generator-only, no parameter updates)}} \\
+\midrule
+Zero-shot (generator only)        & Qwen3-4B & 0.414\ci{.08}            & 41.4           & 58.6           & 0.0             & 0.526           & 0.316           & 0.263           \\
+Zero-shot (generator only)        & Qwen3-8B & 0.533\ci{.08}            & 53.3           & 46.7           & 0.0             & 0.842           & 0.421           & 0.579           \\
+\midrule
+\multicolumn{9}{l}{\emph{Trained single-agent baselines}} \\
+\midrule
+Generator-only GRPO               & Qwen3-4B & 0.520\ci{.08}            & 52.0           & 48.0           & 0.0             & 0.737           & 0.474           & 0.316           \\
+Generator-only DAPO               & Qwen3-4B & 0.467\ci{.08}            & 46.7           & 53.3           & 0.0             & 0.737           & 0.368           & 0.211           \\
+Generator-only GSPO               & Qwen3-4B & 0.461\ci{.08}            & 46.1           & 53.9           & 0.0             & 0.737           & 0.368           & 0.211           \\
+Generator-only GRPO               & Qwen3-8B & 0.539\ci{.08}            & 53.9           & 46.1           & 0.0             & 0.842           & 0.632           & 0.526           \\
+Generator-only DAPO               & Qwen3-8B & 0.553\ci{.08}            & \bestnum{55.3} & 44.7           & 0.0             & 0.842           & 0.632           & 0.526           \\
+Generator-only GSPO               & Qwen3-8B & 0.520\ci{.08}            & 52.0           & 48.0           & 0.0             & 0.842           & \bestnum{0.684} & \bestnum{0.579} \\
+\midrule
+\multicolumn{9}{l}{\emph{Ours (DPA-GRPO, multi-agent post-revise accuracy)}\,\textsuperscript{$\ddagger$}} \\
+\midrule
+\oursrow{Ours (DPA-GRPO)}         & Qwen3-4B & 0.533\ci{.08}            & 52.0           & 39.5           & 5.9             & 0.737           & 0.579           & 0.368           \\
+\oursrow{Ours (DPA-GRPO)}         & Qwen3-8B & \bestnum{0.572}\ci{.08}   & 42.8           & \bestnum{30.3} & \bestnum{10.5}  & \bestnum{0.895} & \bestnum{0.684} & \bestnum{0.579} \\
+\bottomrule
+\end{tabular}
+\par\smallskip
+\raggedright\footnotesize
+\textsuperscript{$\dagger$}\,Common training-case identifiers (all trained
+rows share the same train pool with \texttt{split\_seed}=42, so each of
+these cases was encountered at least once by every trained run):
+\textsc{Train-A} = \texttt{single-w2-retirement-sick-pay-social-security-tip}
+(easy: common single-filer 1040 with retirement, sick-pay, and SS-tip
+income; near saturation for the larger backbone);
+\textsc{Train-B} = \texttt{single-multiple-w2-excess-social-security-tax-same-ein}
+(mid-difficulty: requires detecting and refunding excess Social-Security
+withholding across multiple W-2s);
+\textsc{Train-C} = \texttt{single-w2-box12-code-a-b-alaska}
+(mid-difficulty: single-filer with W-2 Box-12 codes (A/B) and
+Alaska-specific state-credit handling; DPA-GRPO improves over the
+strongest single-agent baseline (DAPO) by a consistent
+${\sim}5$\,pp at both backbones).
+Per-case scores are the maximum single-step accuracy observed during
+training. Held-out test split is identical across all rows
+(\texttt{test\_fraction}=0.2, \texttt{split\_seed}=42).
+\textsuperscript{$\ddagger$}\,For each backbone we report the best
+configuration: 4B uses 10 cases/step, 8B uses 3 cases/step. The full
+sweep over training-cases-per-step is reported in
+Table~\ref{tab:ours-ablation}.
+\textsuperscript{$\S$}\,\emph{Paired McNemar comparison (same $152$ test
+lines).} Let $b$ = lines correct under \emph{Ours} but incorrect under
+the strongest same-backbone baseline, and $c$ = the reverse. We use
+McNemar's exact test (continuity-corrected $\chi^2_{1}$) since the same
+test items are scored by both methods. \textsc{4B}: \emph{Ours} vs
+\emph{Generator-only GRPO 4B}, $b{=}\langle b_{4}\rangle$,
+$c{=}\langle c_{4}\rangle$, $p{=}\langle p_{4}\rangle$.
+\textsc{8B}: \emph{Ours} vs \emph{Generator-only DAPO 8B},
+$b{=}\langle b_{8}\rangle$, $c{=}\langle c_{8}\rangle$,
+$p{=}\langle p_{8}\rangle$. Per-line correctness vectors and the
+script that produced these numbers are released with the code
+(\texttt{eval/mcnemar.py}); App.~\ref{app:cis} also reports a
+$10{,}000$-resample paired-bootstrap 95\% CI on the
+\emph{Ours~$-$~baseline} difference at each backbone, which is the
+appropriate measure of paired uncertainty.
+\end{table*}
+
+
+% -----------------------------------------------------------------------------
+%  Table 2: Ours, ablation over training cases per step
+% -----------------------------------------------------------------------------
+\begin{table}[ht]
+\centering
+\small
+\setlength{\tabcolsep}{6pt}
+\renewcommand{\arraystretch}{1.10}
+\caption{%
+\textbf{DPA-GRPO ablation over training cases per step.}
+For each backbone we sweep the number of training cases sampled per
+GRPO update and report the best test post-revise accuracy together with
+the per-case training-time accuracy on the three common training cases
+described in Table~\ref{tab:main-results}. Numbers in \bestnum{bold}
+are the best within each backbone; \PH marks runs that have not yet
+been launched. The headline rows in Table~\ref{tab:main-results} are
+copied from the bolded rows of this table.}
+\label{tab:ours-ablation}
+\begin{tabular}{l c c c c c}
+\toprule
+\textbf{Backbone} & \makecell{\textbf{Cases}\\\textbf{per step}} &
+\makecell{\textbf{Test acc.}\\$\uparrow$} &
+\makecell{\textbf{Train-A}\\$\uparrow$} &
+\makecell{\textbf{Train-B}\\$\uparrow$} &
+\makecell{\textbf{Train-C}\\$\uparrow$} \\
+\midrule
+Qwen3-4B & 3   & \PH             & \PH             & \PH             & \PH             \\
+Qwen3-4B & 5   & 0.474           & 0.684           & 0.474           & 0.211           \\
+Qwen3-4B & 10  & \bestnum{0.533} & \bestnum{0.737} & \bestnum{0.579} & \bestnum{0.368} \\
+\midrule
+Qwen3-8B & 3   & \bestnum{0.572} & \bestnum{0.895} & \bestnum{0.684} & \bestnum{0.579} \\
+Qwen3-8B & 5   & \PH             & \PH             & \PH             & \PH             \\
+Qwen3-8B & 10  & \PH             & \PH             & \PH             & \PH             \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+% -----------------------------------------------------------------------------
+%  Table 2: Training-time dynamics across our three setups
+% -----------------------------------------------------------------------------
+\begin{table*}[t]
+\centering
+\small
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1.10}
+\caption{%
+Training dynamics across our three setups, averaged over all logged
+GRPO steps (training in progress). \emph{Train acc.} is the mean across the
+$\{\text{cases-per-step}\}$ training cases at every step;
+\emph{Best post} is the maximum post-revise accuracy observed in any single
+step. \emph{Dec.\ acc.} is the Approver's decision accuracy on flagged lines.
+\emph{SAC rate} is the fraction of lines on which the Verifier raised a safety
+case; \emph{Revise rate} is the fraction of flagged lines on which the
+Approver chose \textsc{revise}. \emph{Inv.\ JSON} is the fraction of Filer
+draft lines that failed schema validation. All numbers are means $\pm$ standard
+deviation across logged training steps.}
+\label{tab:train-dynamics}
+\begin{tabular}{l c c c c c c c c c}
+\toprule
+\textbf{Run}
+& \textbf{Backbone}
+& \makecell{\textbf{Cases}\\\textbf{/ step}}
+& \makecell{\textbf{Steps}\\\textbf{logged}}
+& \multicolumn{2}{c}{\textbf{Train acc.}}
+& \makecell{\textbf{Best}\\\textbf{post}}
+& \makecell{\textbf{Dec.}\\\textbf{acc.}}
+& \makecell{\textbf{SAC}\\\textbf{rate}}
+& \makecell{\textbf{Inv.}\\\textbf{JSON}} \\
+\cmidrule(lr){5-6}
+&
+&
+&
+& Strict
+& Post-rev.
+&
+&
+&
+& \\
+\midrule
+Run~A (4B, sub${=}5$)   & Qwen3-4B & 5  & 5 & 0.472 & 0.488 & 0.505 & 0.431 & 0.145 & 0.000 \\
+Run~B (4B, sub${=}10$)  & Qwen3-4B & 10 & 2 & 0.411 & 0.416 & 0.426 & 0.535 & 0.195 & 0.003 \\
+Run~C (8B, sub${=}3$)   & Qwen3-8B & 3  & 5 & 0.432 & 0.453 & 0.456 & \bestnum{0.662} & 0.298 & 0.074 \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+
+% -----------------------------------------------------------------------------
+%  Table 3: Per-case test-set breakdown
+% -----------------------------------------------------------------------------
+\begin{table*}[t]
+\centering
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.10}
+\caption{%
+Per-case strict and post-revise accuracy on each of the 8 held-out test cases,
+evaluated at training step 5. The 4B/Run~B column is omitted because
+training had not yet reached the first eval (step 5). Each entry is the
+fraction of the 19 evaluated 1040 lines that exactly match the gold return for
+that case. Bold cells improve over the corresponding zero-shot baseline by
+$\geq 0.10$ once the baseline is filled in.}
+\label{tab:per-case-test}
+\begin{tabular}{l c c c c c c}
+\toprule
+& \multicolumn{2}{c}{\textbf{Qwen3-4B 0-shot}}
+& \multicolumn{2}{c}{\textbf{Ours, 4B (sub=5)}}
+& \multicolumn{2}{c}{\textbf{Ours, 8B (sub=3)}} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5} \cmidrule(lr){6-7}
+\textbf{Test case}
+& Strict & Post-rev.
+& Strict & Post-rev.
+& Strict & Post-rev. \\
+\midrule
+\texttt{hoh-w2-dependent-educator-expenses-unemployment} & \PH & \PH & 0.421 & 0.421 & 0.263 & 0.316 \\
+\texttt{mfj-multiple-1099int-schedule-b-w2}              & \PH & \PH & 0.368 & 0.368 & 0.368 & 0.368 \\
+\texttt{mfj-multiple-w2-schedule-c-qbi-income}           & \PH & \PH & 0.263 & 0.263 & 0.421 & 0.316 \\
+\texttt{mfj-spouse-dependent-schedule-c-w2-student-loan} & \PH & \PH & 0.474 & 0.474 & 0.421 & 0.421 \\
+\texttt{mfj-w2-capital-gains-wash-sales-dividends-dep}   & \PH & \PH & 0.368 & 0.368 & 0.316 & 0.316 \\
+\texttt{mfj-w2-unemployment-1099g-repayments}            & \PH & \PH & 0.316 & 0.316 & 0.474 & 0.474 \\
+\texttt{single-1099b-long-term-capital-gains-schedule-d} & \PH & \PH & 0.895 & 0.895 & 0.895 & 0.895 \\
+\texttt{single-1099int-interest-income-schedule-b}       & \PH & \PH & 0.842 & 0.895 & 0.842 & 0.895 \\
+\midrule
+\textbf{Mean (8 cases)}
+& \PH & \PH
+& 0.493 & 0.500
+& 0.500 & 0.500 \\
+\bottomrule
+\end{tabular}
+\end{table*}

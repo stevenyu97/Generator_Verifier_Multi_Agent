@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the 2014 draw period balances of interest only products , what percent were home equity lines of credit with balloon payments , including those where we have terminated borrowing privileges?",
+      "answer": 0.10464,
+      "answer_raw": "0.10464",
+      "program": "divide(185, 1768)"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "input": {
+    "id": "ECL/2016/page_31.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "location approximate size ( sq .",
+      "ft. ) segment majority owned or leased ."
+    ],
+    "post_text": [
+      "generally , our manufacturing facilities are adequate to meet our existing in-house production needs .",
+      "we continue to invest in our plant sites to maintain viable operations and to add capacity as necessary to meet business imperatives .",
+      "most of our manufacturing plants also serve as distribution centers .",
+      "in addition , we operate distribution centers around the world , most of which are leased , and utilize third party logistics service providers to facilitate the distribution of our products and services .",
+      "at year end 2016 ecolab 2019s corporate headquarters was comprised of three adjacent multi-storied buildings located in downtown st .",
+      "paul , minnesota .",
+      "the main 19-story building was constructed to our specifications and is leased through june 30 , 2018 .",
+      "the second building is leased through 2019 .",
+      "the company intends to vacate the current leased buildings in 2018 .",
+      "the third building is owned .",
+      "ecolab acquired the 17-story north tower from the travelers indemnity company in downtown st .",
+      "paul , minnesota on august 4 , 2015 .",
+      "this building became the corporate headquarters in 2017 .",
+      "a 90 acre campus in eagan , minnesota is owned and provides for future growth .",
+      "the eagan facility houses a significant research and development center , a data center and training facilities as well as several of our administrative functions .",
+      "we also have a significant business presence in naperville , illinois , where our water and paper operating segment maintain their principal administrative offices and research center .",
+      "as discussed in part ii , item 8 , note 6 , 201cdebt and interest 201d of this form 10-k , the company acquired the beneficial interest in the trust owning these facilities during 2015 .",
+      "our energy operating segment maintains administrative and research facilities in sugar land , texas and additional research facilities in fresno , texas .",
+      "in december 2013 , we announced the construction of a new 133000 square-foot headquarters building adjacent to the existing sugar land operations which was completed in early 2016 and renovation of the existing 45000 square-foot research facilities in sugar land .",
+      "significant regional administrative and/or research facilities are located in leiden , netherlands , campinas , brazil , and pune , india , which we own , and in monheim , germany , singapore , shanghai , china , and zurich , switzerland , which we lease .",
+      "we also have a network of small leased sales offices in the united states and , to a lesser extent , in other parts of the world .",
+      "item 3 .",
+      "legal proceedings .",
+      "discussion of legal proceedings is incorporated by reference from part ii , item 8 , note 15 , 201ccommitments and contingencies , 201d of this form 10-k and should be considered an integral part of part i , item 3 , 201clegal proceedings . 201d other environmental-related legal proceedings are discussed at part i , item 1 ( c ) above , under the heading 201cenvironmental and regulatory considerations 201d and is incorporated herein by reference .",
+      "item 4 .",
+      "mine safety disclosures .",
+      "not applicable. ."
+    ],
+    "table": [
+      [
+        "location",
+        "approximatesize ( sq . ft. )",
+        "segment",
+        "majorityowned orleased"
+      ],
+      [
+        "hamilton new zealand",
+        "96000",
+        "global institutional global industrial",
+        "owned"
+      ],
+      [
+        "calgary alberta canada",
+        "94000",
+        "global energy",
+        "owned"
+      ],
+      [
+        "kwinana australia",
+        "87000",
+        "global institutional global industrial",
+        "owned"
+      ],
+      [
+        "revesby australia",
+        "87000",
+        "global institutional global industrial",
+        "owned"
+      ],
+      [
+        "yangsan korea",
+        "85000",
+        "global energy global industrial",
+        "owned"
+      ],
+      [
+        "cisterna italy",
+        "80000",
+        "global industrial",
+        "owned"
+      ],
+      [
+        "rovigo italy",
+        "77000",
+        "global institutional",
+        "owned"
+      ],
+      [
+        "cuautitlan mexico",
+        "76000",
+        "global institutional global industrial",
+        "owned"
+      ],
+      [
+        "barueri brazil",
+        "75000",
+        "global institutional global industrial",
+        "leased"
+      ],
+      [
+        "mullingar ireland",
+        "74000",
+        "global institutional global industrial",
+        "leased"
+      ],
+      [
+        "mosta malta",
+        "73000",
+        "global institutional",
+        "leased"
+      ]
+    ],
+    "questions": [
+      "how many square feet are leased by the company?"
+    ]
+  }
+}

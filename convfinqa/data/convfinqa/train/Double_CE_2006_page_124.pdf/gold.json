@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total principal payments is due after 2011?",
+      "answer": 0.45455,
+      "answer_raw": "0.45455",
+      "program": "divide(1590, 3498)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total principal payments as of march 31,2006?",
+      "answer": 3498.0,
+      "answer_raw": "3498.0",
+      "program": "3498"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the amount of principal payments due after 2011?",
+      "answer": 1590.0,
+      "answer_raw": "1590.0",
+      "program": "1590"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about the amount due from 2007 to 2011?",
+      "answer": 1908.0,
+      "answer_raw": "1908.0",
+      "program": "subtract(3498, 1590)"
+    }
+  ]
+}

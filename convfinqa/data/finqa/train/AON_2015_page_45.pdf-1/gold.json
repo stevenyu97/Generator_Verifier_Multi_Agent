@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the working capital turnover in 2015?",
+      "answer": 8.76224,
+      "answer_raw": "8.76224",
+      "program": "add(809, 886), divide(#0, const_2), divide(7426, #1)"
+    }
+  ]
+}

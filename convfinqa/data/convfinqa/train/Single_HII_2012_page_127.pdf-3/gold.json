@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total number of securities to be issued upon exercise of outstanding options warrants and rights that is approved by security holders?",
+      "answer": 3946111.0,
+      "answer_raw": "3946111.0",
+      "program": "3946111"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the number of shares that remain available for future issuance?",
+      "answer": 3608527.0,
+      "answer_raw": "3608527.0",
+      "program": "3608527"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total number approved by security holders?",
+      "answer": 7554638.0,
+      "answer_raw": "7554638.0",
+      "program": "add(3946111, 3608527)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage change does this represent?",
+      "answer": 0.52234,
+      "answer_raw": "0.52234",
+      "program": "add(3946111, 3608527), divide(3946111, #0)"
+    }
+  ]
+}

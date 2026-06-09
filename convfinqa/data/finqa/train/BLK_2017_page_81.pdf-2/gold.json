@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much more cash was held in 2017 than 2016 ? in million$ .",
+      "answer": 803.0,
+      "answer_raw": "803.0",
+      "program": "subtract(6894, 6091)"
+    }
+  ]
+}

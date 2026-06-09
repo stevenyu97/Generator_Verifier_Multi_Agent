@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were operating profits in 2012?",
+      "answer": 1083.0,
+      "answer_raw": "1083.0",
+      "program": "1083"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were they in 2011?",
+      "answer": 1063.0,
+      "answer_raw": "1063.0",
+      "program": "1063"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 20.0,
+      "answer_raw": "20.0",
+      "program": "subtract(1083, 1063)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the 2011 value?",
+      "answer": 1063.0,
+      "answer_raw": "1063.0",
+      "program": "1063"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the net change over the 2011 value?",
+      "answer": 0.01881,
+      "answer_raw": "0.01881",
+      "program": "subtract(1083, 1063), divide(#0, 1063)"
+    }
+  ]
+}

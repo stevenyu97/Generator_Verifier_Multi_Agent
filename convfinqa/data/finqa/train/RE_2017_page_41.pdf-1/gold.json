@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average pre-tax catastrophe losses from 2013 to 2017",
+      "answer": 1041.45,
+      "answer_raw": "1041.45",
+      "program": "add(194.0, 56.3), add(#0, 53.8), add(#1, 301.2), add(#2, 1472.6), add(#3, const_5), divide(#4, const_2)"
+    }
+  ]
+}

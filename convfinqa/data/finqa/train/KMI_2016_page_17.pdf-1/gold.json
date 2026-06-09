@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average capacity in mmbbl of liquids terminals?",
+      "answer": 1.67059,
+      "answer_raw": "1.67059",
+      "program": "divide(85.2, 51)"
+    }
+  ]
+}

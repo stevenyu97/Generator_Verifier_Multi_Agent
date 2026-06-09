@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in information technology integration from 2006 to 2007?",
+      "answer": 0.15385,
+      "answer_raw": "0.15385",
+      "program": "subtract(3.0, 2.6), divide(#0, 2.6)"
+    }
+  ]
+}

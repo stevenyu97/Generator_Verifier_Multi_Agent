@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "without the receivables securitization facility in 2012 , what would total commitments have been , in millions?\\\\n",
+      "answer": 2632.0,
+      "answer_raw": "2632.0",
+      "program": "subtract(2732, 100)"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "ETR/2008/page_33.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries management's financial discussion and analysis the retail electric price variance resulted from rate increases primarily at entergy louisiana effective september 2006 for the 2005 formula rate plan filing to recover lpsc-approved incremental deferred and ongoing purchased power capacity costs .",
+      "the formula rate plan filing is discussed in note 2 to the financial statements .",
+      "the volume/weather variance resulted primarily from increased electricity usage in the residential and commercial sectors , including increased usage during the unbilled sales period .",
+      "billed retail electricity usage increased by a total of 1591 gwh , an increase of 1.6% ( 1.6 % ) .",
+      "see \"critical accounting estimates\" herein and note 1 to the financial statements for a discussion of the accounting for unbilled revenues .",
+      "the fuel recovery variance is primarily due to the inclusion of grand gulf costs in entergy new orleans' fuel recoveries effective july 1 , 2006 .",
+      "in june 2006 , the city council approved the recovery of grand gulf costs through the fuel adjustment clause , without a corresponding change in base rates ( a significant portion of grand gulf costs was previously recovered through base rates ) .",
+      "the increase is also due to purchased power costs deferred at entergy louisiana and entergy new orleans as a result of the re-pricing , retroactive to 2003 , of purchased power agreements among entergy system companies as directed by the ferc .",
+      "the transmission revenue variance is due to higher rates and the addition of new transmission customers in late-2006 .",
+      "the purchased power capacity variance is due to higher capacity charges and new purchased power contracts that began in mid-2006 .",
+      "a portion of the variance is due to the amortization of deferred capacity costs and is offset in base revenues due to base rate increases implemented to recover incremental deferred and ongoing purchased power capacity charges at entergy louisiana , as discussed above .",
+      "the net wholesale revenue variance is due primarily to 1 ) more energy available for resale at entergy new orleans in 2006 due to the decrease in retail usage caused by customer losses following hurricane katrina and 2 ) the inclusion in 2006 revenue of sales into the wholesale market of entergy new orleans' share of the output of grand gulf , pursuant to city council approval of measures proposed by entergy new orleans to address the reduction in entergy new orleans' retail customer usage caused by hurricane katrina and to provide revenue support for the costs of entergy new orleans' share of grand gulf .",
+      "the net wholesale revenue variance is partially offset by the effect of lower wholesale revenues in the third quarter 2006 due to an october 2006 ferc order requiring entergy arkansas to make a refund to a coal plant co-owner resulting from a contract dispute .",
+      "non-utility nuclear following is an analysis of the change in net revenue comparing 2007 to 2006 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "as shown in the table above , net revenue increased for non-utility nuclear by $ 451 million , or 33% ( 33 % ) , for 2007 compared to 2006 primarily due to higher pricing in its contracts to sell power and additional production available resulting from the acquisition of the palisades plant in april 2007 .",
+      "included in the palisades net revenue is $ 50 million of amortization of the palisades purchased power agreement in 2007 , which is non-cash revenue and is discussed in note 15 to the financial statements .",
+      "the increase was partially offset by the effect on revenues of four ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2006 net revenue",
+        "$ 1388"
+      ],
+      [
+        "realized price changes",
+        "264"
+      ],
+      [
+        "palisades acquisition",
+        "209"
+      ],
+      [
+        "volume variance ( other than palisades )",
+        "-56 ( 56 )"
+      ],
+      [
+        "other",
+        "34"
+      ],
+      [
+        "2007 net revenue",
+        "$ 1839"
+      ]
+    ],
+    "questions": [
+      "what percent of 2017 net revenue did realized price changes account for?"
+    ]
+  }
+}

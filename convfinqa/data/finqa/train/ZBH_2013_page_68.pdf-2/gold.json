@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in millions of weighted average shares outstanding for diluted net earnings per share between 2012 and 2013?",
+      "answer": -4.2,
+      "answer_raw": "-4.2",
+      "program": "subtract(171.8, 176.0)"
+    }
+  ]
+}

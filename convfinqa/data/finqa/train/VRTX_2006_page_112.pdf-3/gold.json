@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as part of the restructuring additional information what was the percent of the 2 research and development contract costs to the total cost in 2006",
+      "answer": 0.63224,
+      "answer_raw": "0.63224",
+      "program": "divide(57761, 91359)"
+    }
+  ]
+}

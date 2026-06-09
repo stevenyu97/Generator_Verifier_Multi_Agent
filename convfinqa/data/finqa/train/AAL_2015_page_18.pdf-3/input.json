@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "AAL/2015/page_18.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents certain union-represented american mainline employees are covered by agreements that are not currently amendable .",
+      "until those agreements become amendable , negotiations for jcbas will be conducted outside the traditional rla bargaining process described above , and , in the meantime , no self-help will be permissible .",
+      "the piedmont mechanics and stock clerks and the psa dispatchers have agreements that are now amendable and are engaged in traditional rla negotiations .",
+      "none of the unions representing our employees presently may lawfully engage in concerted refusals to work , such as strikes , slow-downs , sick-outs or other similar activity , against us .",
+      "nonetheless , there is a risk that disgruntled employees , either with or without union involvement , could engage in one or more concerted refusals to work that could individually or collectively harm the operation of our airline and impair our financial performance .",
+      "for more discussion , see part i , item 1a .",
+      "risk factors 2013 201cunion disputes , employee strikes and other labor-related disruptions may adversely affect our operations . 201d aircraft fuel our operations and financial results are significantly affected by the availability and price of jet fuel .",
+      "based on our 2016 forecasted mainline and regional fuel consumption , we estimate that , as of december 31 , 2015 , a one cent per gallon increase in aviation fuel price would increase our 2016 annual fuel expense by $ 44 million .",
+      "the following table shows annual aircraft fuel consumption and costs , including taxes , for our mainline operations for 2015 and 2014 ( gallons and aircraft fuel expense in millions ) .",
+      "year gallons average price per gallon aircraft fuel expense percent of total mainline operating expenses ."
+    ],
+    "post_text": [
+      "total fuel expenses for our wholly-owned and third-party regional carriers operating under capacity purchase agreements of american were $ 1.2 billion and $ 2.0 billion for the years ended december 31 , 2015 and 2014 , respectively .",
+      "as of december 31 , 2015 , we did not have any fuel hedging contracts outstanding to hedge our fuel consumption .",
+      "as such , and assuming we do not enter into any future transactions to hedge our fuel consumption , we will continue to be fully exposed to fluctuations in fuel prices .",
+      "our current policy is not to enter into transactions to hedge our fuel consumption , although we review that policy from time to time based on market conditions and other factors .",
+      "fuel prices have fluctuated substantially over the past several years .",
+      "we cannot predict the future availability , price volatility or cost of aircraft fuel .",
+      "natural disasters , political disruptions or wars involving oil-producing countries , changes in fuel-related governmental policy , the strength of the u.s .",
+      "dollar against foreign currencies , changes in access to petroleum product pipelines and terminals , speculation in the energy futures markets , changes in aircraft fuel production capacity , environmental concerns and other unpredictable events may result in fuel supply shortages , additional fuel price volatility and cost increases in the future .",
+      "see part i , item 1a .",
+      "risk factors 2013 201cour business is dependent on the price and availability of aircraft fuel .",
+      "continued periods of high volatility in fuel costs , increased fuel prices and significant disruptions in the supply of aircraft fuel could have a significant negative impact on our operating results and liquidity . 201d insurance we maintain insurance of the types that we believe are customary in the airline industry , including insurance for public liability , passenger liability , property damage , and all-risk coverage for damage to our aircraft .",
+      "principal coverage includes liability for injury to members of the public , including passengers , damage to ."
+    ],
+    "table": [
+      [
+        "year",
+        "gallons",
+        "average price pergallon",
+        "aircraft fuel expense",
+        "percent of total mainline operating expenses"
+      ],
+      [
+        "2015",
+        "3611",
+        "$ 1.72",
+        "$ 6226",
+        "21.6% ( 21.6 % )"
+      ],
+      [
+        "2014",
+        "3644",
+        "2.91",
+        "10592",
+        "33.2% ( 33.2 % )"
+      ]
+    ],
+    "questions": [
+      "in 2016 what is the anticipated percentage increase in the aircraft fuel expense"
+    ]
+  }
+}

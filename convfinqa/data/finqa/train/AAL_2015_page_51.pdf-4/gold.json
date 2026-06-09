@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the 4 year return of american airlines group inc . common stock?",
+      "answer": 0.75,
+      "answer_raw": "0.75",
+      "program": "subtract(175, 100), divide(#0, 100)"
+    }
+  ]
+}

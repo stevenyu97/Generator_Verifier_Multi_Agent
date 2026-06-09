@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the unrecognized tax benefits as of 2012 would impact the effective income tax rate if recognized?",
+      "answer": 0.60294,
+      "answer_raw": "0.60294",
+      "program": "divide(4.1, 6.8)"
+    }
+  ]
+}

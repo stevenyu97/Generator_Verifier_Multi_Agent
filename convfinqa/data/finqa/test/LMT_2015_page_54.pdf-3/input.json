@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "LMT/2015/page_54.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "backlog backlog decreased in 2015 compared to 2014 primarily due to sales being recognized on several multi-year programs ( such as hmsc , nisc iii , ciog and nsf asc ) related to prior year awards and a limited number of large new business awards .",
+      "backlog decreased in 2014 compared to 2013 primarily due to lower customer funding levels and declining activities on direct warfighter support programs impacted by defense budget reductions .",
+      "trends we expect is&gs 2019 2016 net sales to decline in the high-single digit percentage range as compared to 2015 , primarily driven by key loss contracts in an increasingly competitive environment , along with volume contraction on the segment 2019s major contracts .",
+      "operating profit is expected to decline at a higher percentage range in 2016 , as compared to net sales percentage declines , driven by higher margin program losses and re-compete programs awarded at lower margins .",
+      "accordingly , 2016 margins are expected to be lower than 2015 results .",
+      "missiles and fire control our mfc business segment provides air and missile defense systems ; tactical missiles and air-to-ground precision strike weapon systems ; logistics ; fire control systems ; mission operations support , readiness , engineering support and integration services ; manned and unmanned ground vehicles ; and energy management solutions .",
+      "mfc 2019s major programs include pac-3 , thaad , multiple launch rocket system , hellfire , jassm , javelin , apache , sniper ae , low altitude navigation and targeting infrared for night ( lantirn ae ) and sof clss .",
+      "mfc 2019s operating results included the following ( in millions ) : ."
+    ],
+    "post_text": [
+      "2015 compared to 2014 mfc 2019s net sales in 2015 decreased $ 322 million , or 5% ( 5 % ) , compared to the same period in 2014 .",
+      "the decrease was attributable to lower net sales of approximately $ 345 million for air and missile defense programs due to fewer deliveries ( primarily pac-3 ) and lower volume ( primarily thaad ) ; and approximately $ 85 million for tactical missile programs due to fewer deliveries ( primarily guided multiple launch rocket system ( gmlrs ) ) and joint air-to-surface standoff missile , partially offset by increased deliveries for hellfire .",
+      "these decreases were partially offset by higher net sales of approximately $ 55 million for energy solutions programs due to increased volume .",
+      "mfc 2019s operating profit in 2015 decreased $ 62 million , or 5% ( 5 % ) , compared to 2014 .",
+      "the decrease was attributable to lower operating profit of approximately $ 100 million for fire control programs due primarily to lower risk retirements ( primarily lantirn and sniper ) ; and approximately $ 65 million for tactical missile programs due to lower risk retirements ( primarily hellfire and gmlrs ) and fewer deliveries .",
+      "these decreases were partially offset by higher operating profit of approximately $ 75 million for air and missile defense programs due to increased risk retirements ( primarily thaad ) .",
+      "adjustments not related to volume , including net profit booking rate adjustments and other matters , were approximately $ 60 million lower in 2015 compared to 2014 .",
+      "2014 compared to 2013 mfc 2019s net sales increased $ 297 million , or 4% ( 4 % ) , in 2014 as compared to 2013 .",
+      "the increase was primarily attributable to higher net sales of approximately $ 180 million for air and missile defense programs primarily due to increased volume for thaad ; about $ 115 million for fire control programs due to increased deliveries ( including apache ) ; and about $ 125 million for various other programs due to increased volume .",
+      "these increases were partially offset by lower net sales of approximately $ 115 million for tactical missile programs due to fewer deliveries ( primarily high mobility artillery rocket system and army tactical missile system ) .",
+      "mfc 2019s operating profit decreased $ 35 million , or 3% ( 3 % ) , in 2014 as compared to 2013 .",
+      "the decrease was primarily attributable to lower operating profit of about $ 20 million for tactical missile programs due to net warranty reserve adjustments for various programs ( including jassm and gmlrs ) and fewer deliveries ; and approximately $ 45 million for various other programs due to lower risk retirements .",
+      "the decreases were offset by higher operating profit of approximately $ 20 million for air and missile defense programs due to increased volume ( primarily thaad and pac-3 ) ; and about ."
+    ],
+    "table": [
+      [
+        "",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "net sales",
+        "$ 6770",
+        "$ 7092",
+        "$ 6795"
+      ],
+      [
+        "operating profit",
+        "1282",
+        "1344",
+        "1379"
+      ],
+      [
+        "operating margins",
+        "18.9% ( 18.9 % )",
+        "19.0% ( 19.0 % )",
+        "20.3% ( 20.3 % )"
+      ],
+      [
+        "backlog at year-end",
+        "$ 15500",
+        "$ 13300",
+        "$ 14300"
+      ]
+    ],
+    "questions": [
+      "in 2015 what was the ratio of the net sales to the backlog"
+    ]
+  }
+}

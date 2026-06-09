@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2013 , in millions , what was the total of other intangibles and all other adjustments?",
+      "answer": 591.0,
+      "answer_raw": "591.0",
+      "program": "add(381, 210)"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "SNA/2013/page_111.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "the fair value of performance awards is calculated using the market value of a share of snap-on 2019s common stock on the date of grant .",
+      "the weighted-average grant date fair value of performance awards granted during 2013 , 2012 and 2011 was $ 77.33 , $ 60.00 and $ 55.97 , respectively .",
+      "vested performance share units approximated 148000 shares as of 2013 year end , 213000 shares as of 2012 year end and 54208 shares as of 2011 year end .",
+      "performance share units of 213459 shares were paid out in 2013 and 53990 shares were paid out in 2012 ; no performance share units were paid out in 2011 .",
+      "earned performance share units are generally paid out following the conclusion of the applicable performance period upon approval by the organization and executive compensation committee of the company 2019s board of directors ( the 201cboard 201d ) .",
+      "based on the company 2019s 2013 performance , 84413 rsus granted in 2013 were earned ; assuming continued employment , these rsus will vest at the end of fiscal 2015 .",
+      "based on the company 2019s 2012 performance , 95047 rsus granted in 2012 were earned ; assuming continued employment , these rsus will vest at the end of fiscal 2014 .",
+      "based on the company 2019s 2011 performance , 159970 rsus granted in 2011 were earned ; these rsus vested as of fiscal 2013 year end and were paid out shortly thereafter .",
+      "as a result of employee retirements , a total of 1614 of the rsus earned in 2012 and 2011 vested pursuant to the terms of the related award agreements and the underlying shares were paid out in the third quarter of 2013 .",
+      "the changes to the company 2019s non-vested performance awards in 2013 are as follows : shares ( in thousands ) fair value price per share* ."
+    ],
+    "post_text": [
+      "* weighted-average as of 2013 year end there was approximately $ 12.9 million of unrecognized compensation cost related to non-vested performance awards that is expected to be recognized as a charge to earnings over a weighted-average period of 1.6 years .",
+      "stock appreciation rights ( 201csars 201d ) the company also issues cash-settled and stock-settled sars to certain key non-u.s .",
+      "employees .",
+      "sars have a contractual term of ten years and vest ratably on the first , second and third anniversaries of the date of grant .",
+      "sars are granted with an exercise price equal to the market value of a share of snap-on 2019s common stock on the date of grant .",
+      "cash-settled sars provide for the cash payment of the excess of the fair market value of snap-on 2019s common stock price on the date of exercise over the grant price .",
+      "cash-settled sars have no effect on dilutive shares or shares outstanding as any appreciation of snap-on 2019s common stock value over the grant price is paid in cash and not in common stock .",
+      "in 2013 , the company began issuing stock-settled sars that are accounted for as equity instruments and provide for the issuance of snap-on common stock equal to the amount by which the company 2019s stock has appreciated over the exercise price .",
+      "stock-settled sars have an effect on dilutive shares and shares outstanding as any appreciation of snap-on 2019s common stock value over the exercise price will be settled in shares of common stock .",
+      "2013 annual report 101 ."
+    ],
+    "table": [
+      [
+        "",
+        "shares ( in thousands )",
+        "fair valueprice pershare*"
+      ],
+      [
+        "non-vested performance awards at beginning of year",
+        "509",
+        "$ 59.36"
+      ],
+      [
+        "granted",
+        "180",
+        "77.33"
+      ],
+      [
+        "vested",
+        "-306 ( 306 )",
+        "58.94"
+      ],
+      [
+        "cancellations",
+        "-2 ( 2 )",
+        "69.23"
+      ],
+      [
+        "non-vested performance awards at end of year",
+        "381",
+        "68.13"
+      ]
+    ],
+    "questions": [
+      "what is the total value of non-vested performance awards at end of year , ( in millions ) ?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 292018 what was the percent of the operating lease obligations due 1 20133 years to the total operating lease obligations",
+      "answer": 0.37605,
+      "answer_raw": "0.37605",
+      "program": "divide(314, 835)"
+    }
+  ]
+}

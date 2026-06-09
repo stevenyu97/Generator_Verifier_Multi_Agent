@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the debt reduction to the stock repurchase",
+      "answer": 4.42857,
+      "answer_raw": "4.42857",
+      "program": "divide(6.2, 1.4)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in total contribution expense under the plan between 2006 and 2007?",
+      "answer": 0.0,
+      "answer_raw": "0.0",
+      "program": "subtract(5.7, 5.7), divide(#0, 5.7)"
+    }
+  ]
+}

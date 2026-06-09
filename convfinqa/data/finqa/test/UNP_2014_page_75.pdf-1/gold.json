@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage growth from 2013 to 2014 in the total accounts payable and other current liabilities",
+      "answer": 0.07032,
+      "answer_raw": "0.07032",
+      "program": "subtract(3303, 3086), divide(#0, 3086)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the change in the in the dividend yield from 2017 to 2018",
+      "answer": 0.08704,
+      "answer_raw": "0.08704",
+      "program": "subtract(3.884, 3.573), divide(#0, 3.573)"
+    }
+  ]
+}

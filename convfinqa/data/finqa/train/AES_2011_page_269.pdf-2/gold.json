@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "total cash consideration was what percent of the enterprise value of dpl?",
+      "answer": 0.73808,
+      "answer_raw": "0.73808",
+      "program": "divide(3483, 4719)"
+    }
+  ]
+}

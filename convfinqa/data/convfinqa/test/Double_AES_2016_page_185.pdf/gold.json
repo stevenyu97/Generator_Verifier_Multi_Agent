@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the total annual dividend requirements in the end of the 2015 and 2016?",
+      "answer": 3.0,
+      "answer_raw": "3.0",
+      "program": "3"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the amount of the ipl preferred stock?",
+      "answer": 60.0,
+      "answer_raw": "60.0",
+      "program": "60"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, did those requirements represent in relation to this amount?",
+      "answer": 0.05,
+      "answer_raw": "0.05",
+      "program": "divide(3, 60)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and between those two years, what was the variation of ipalco common stock, in millions?",
+      "answer": 158.0,
+      "answer_raw": "158.0",
+      "program": "subtract(618, 460)"
+    }
+  ]
+}

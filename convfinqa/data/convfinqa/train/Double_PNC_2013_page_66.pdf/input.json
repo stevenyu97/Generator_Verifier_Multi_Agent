@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "Double_PNC/2013/page_66.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "table 20 : pro forma transitional basel iii tier 1 common capital ratio dollars in millions december 31 ."
+    ],
+    "post_text": [
+      "estimated basel iii transitional tier 1 common capital ( with 2014 phase-ins ) $ 28886 basel i risk-weighted assets calculated as applicable for 2014 272321 pro forma basel iii transitional tier 1 common capital ratio ( with 2014 phase-ins ) 10.6% ( 10.6 % ) ( a ) represents net adjustments related to accumulated other comprehensive income for available for sale securities and pension and other postretirement benefit plans .",
+      "pnc utilizes these fully implemented and transitional basel iii capital ratios to assess its capital position , including comparison to similar estimates made by other financial institutions .",
+      "these basel iii capital estimates are likely to be impacted by any additional regulatory guidance , continued analysis by pnc as to the application of the rules to pnc , and in the case of ratios calculated using the advanced approaches , the ongoing evolution , validation and regulatory approval of pnc 2019s models integral to the calculation of advanced approaches risk-weighted assets .",
+      "the access to and cost of funding for new business initiatives , the ability to undertake new business initiatives including acquisitions , the ability to engage in expanded business activities , the ability to pay dividends or repurchase shares or other capital instruments , the level of deposit insurance costs , and the level and nature of regulatory oversight depend , in large part , on a financial institution 2019s capital strength .",
+      "we provide additional information regarding enhanced capital requirements and some of their potential impacts on pnc in item 1 business 2013 supervision and regulation , item 1a risk factors and note 22 regulatory matters in the notes to consolidated financial statements in item 8 of this report .",
+      "off-balance sheet arrangements and variable interest entities we engage in a variety of activities that involve unconsolidated entities or that are otherwise not reflected in our consolidated balance sheet that are generally referred to as 201coff-balance sheet arrangements . 201d additional information on these types of activities is included in the following sections of this report : 2022 commitments , including contractual obligations and other commitments , included within the risk management section of this item 7 , 2022 note 3 loan sale and servicing activities and variable interest entities in the notes to consolidated financial statements included in item 8 of this report , 2022 note 14 capital securities of subsidiary trusts and perpetual trust securities in the notes to consolidated financial statements included in item 8 of this report , and 2022 note 24 commitments and guarantees in the notes to consolidated financial statements included in item 8 of this report .",
+      "pnc consolidates variable interest entities ( vies ) when we are deemed to be the primary beneficiary .",
+      "the primary beneficiary of a vie is determined to be the party that meets both of the following criteria : ( i ) has the power to make decisions that most significantly affect the economic performance of the vie ; and ( ii ) has the obligation to absorb losses or the right to receive benefits that in either case could potentially be significant to the vie .",
+      "a summary of vies , including those that we have consolidated and those in which we hold variable interests but have not consolidated into our financial statements , as of december 31 , 2013 and december 31 , 2012 is included in note 3 in the notes to consolidated financial statements included in item 8 of this report .",
+      "trust preferred securities and reit preferred securities we are subject to certain restrictions , including restrictions on dividend payments , in connection with $ 206 million in principal amount of an outstanding junior subordinated debenture associated with $ 200 million of trust preferred securities ( both amounts as of december 31 , 2013 ) that were issued by pnc capital trust c , a subsidiary statutory trust .",
+      "generally , if there is ( i ) an event of default under the debenture , ( ii ) pnc elects to defer interest on the debenture , ( iii ) pnc exercises its right to defer payments on the related trust preferred security issued by the statutory trust , or ( iv ) there is a default under pnc 2019s guarantee of such payment obligations , as specified in the applicable governing documents , then pnc would be subject during the period of such default or deferral to restrictions on dividends and other provisions protecting the status of the debenture holders similar to or in some ways more restrictive than those potentially imposed under the exchange agreement with pnc preferred funding trust ii .",
+      "see note 14 capital securities of subsidiary trusts and perpetual trust securities in the notes to consolidated financial statements in item 8 of this report for additional information on contractual limitations on dividend payments resulting from securities issued by pnc preferred funding trust i and pnc preferred funding trust ii .",
+      "see the liquidity risk management portion of the risk management section of this item 7 for additional information regarding our first quarter 2013 redemption of the reit preferred securities issued by pnc preferred funding trust iii and additional discussion of redemptions of trust preferred securities .",
+      "48 the pnc financial services group , inc .",
+      "2013 form 10-k ."
+    ],
+    "table": [
+      [
+        "dollars in millions",
+        "december 31 2013"
+      ],
+      [
+        "basel i tier 1 common capital",
+        "$ 28484"
+      ],
+      [
+        "less phased-in regulatory capital adjustments:",
+        ""
+      ],
+      [
+        "basel iii quantitative limits",
+        "-228 ( 228 )"
+      ],
+      [
+        "accumulated other comprehensive income ( a )",
+        "39"
+      ],
+      [
+        "other intangibles",
+        "381"
+      ],
+      [
+        "all other adjustments",
+        "210"
+      ],
+      [
+        "estimated basel iii transitional tier 1 common capital ( with 2014 phase-ins )",
+        "$ 28886"
+      ],
+      [
+        "basel i risk-weighted assets calculated as applicable for 2014",
+        "272321"
+      ],
+      [
+        "pro forma basel iii transitional tier 1 common capital ratio ( with 2014phase-ins )",
+        "10.6% ( 10.6 % )"
+      ]
+    ],
+    "questions": [
+      "what was the total of other intangibles and all other adjustments in 2013?",
+      "was the basel i tier 1 common capital without phased-in regulatory capital adjustments greater than estimated basel iii transitional tier 1 common capital with 2014 phase-ins for 2013?"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total value of the notes issued by kilimanjaro in 2014?",
+      "answer": 950000.0,
+      "answer_raw": "950000.0",
+      "program": "add(450000, 500000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "including the notes issued in 2015, what becomes this total for the two years?",
+      "answer": 1575000.0,
+      "answer_raw": "1575000.0",
+      "program": "add(450000, 500000), add(#0, 625000)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and concerning the redeemed amount of junior subordinated debt, what was its annual interest expense?",
+      "answer": 20453.614,
+      "answer_raw": "20453.614",
+      "program": "multiply(329897, 6.2%)"
+    }
+  ]
+}

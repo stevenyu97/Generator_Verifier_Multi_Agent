@@ -1,0 +1,104 @@
+{
+  "input": {
+    "id": "JPM/2012/page_110.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis 120 jpmorgan chase & co./2012 annual report $ 12.0 billion , and jpmorgan clearing 2019s net capital was $ 6.6 billion , exceeding the minimum requirement by $ 5.0 billion .",
+      "in addition to its minimum net capital requirement , jpmorgan securities is required to hold tentative net capital in excess of $ 1.0 billion and is also required to notify the sec in the event that tentative net capital is less than $ 5.0 billion , in accordance with the market and credit risk standards of appendix e of the net capital rule .",
+      "as of december 31 , 2012 , jpmorgan securities had tentative net capital in excess of the minimum and notification requirements .",
+      "j.p .",
+      "morgan securities plc ( formerly j.p .",
+      "morgan securities ltd. ) is a wholly-owned subsidiary of jpmorgan chase bank , n.a .",
+      "and is the firm 2019s principal operating subsidiary in the u.k .",
+      "it has authority to engage in banking , investment banking and broker-dealer activities .",
+      "j.p .",
+      "morgan securities plc is regulated by the u.k .",
+      "financial services authority ( 201cfsa 201d ) .",
+      "at december 31 , 2012 , it had total capital of $ 20.8 billion , or a total capital ratio of 15.5% ( 15.5 % ) which exceeded the 8% ( 8 % ) well-capitalized standard applicable to it under basel 2.5 .",
+      "economic risk capital jpmorgan chase assesses its capital adequacy relative to the risks underlying its business activities using internal risk-assessment methodologies .",
+      "the firm measures economic capital primarily based on four risk factors : credit , market , operational and private equity risk. ."
+    ],
+    "post_text": [
+      "( a ) reflects additional capital required , in the firm 2019s view , to meet its regulatory and debt rating objectives .",
+      "credit risk capital credit risk capital is estimated separately for the wholesale businesses ( cib , cb and am ) and consumer business ( ccb ) .",
+      "credit risk capital for the wholesale credit portfolio is defined in terms of unexpected credit losses , both from defaults and from declines in the value of the portfolio due to credit deterioration , measured over a one-year period at a confidence level consistent with an 201caa 201d credit rating standard .",
+      "unexpected losses are losses in excess of those for which the allowance for credit losses is maintained .",
+      "the capital methodology is based on several principal drivers of credit risk : exposure at default ( or loan-equivalent amount ) , default likelihood , credit spreads , loss severity and portfolio correlation .",
+      "credit risk capital for the consumer portfolio is based on product and other relevant risk segmentation .",
+      "actual segment-level default and severity experience are used to estimate unexpected losses for a one-year horizon at a confidence level consistent with an 201caa 201d credit rating standard .",
+      "the decrease in credit risk capital in 2012 was driven by consumer portfolio runoff and continued model enhancements to better estimate future stress credit losses in the consumer portfolio .",
+      "see credit risk management on pages 134 2013135 of this annual report for more information about these credit risk measures .",
+      "market risk capital the firm calculates market risk capital guided by the principle that capital should reflect the risk of loss in the value of the portfolios and financial instruments caused by adverse movements in market variables , such as interest and foreign exchange rates , credit spreads , and securities and commodities prices , taking into account the liquidity of the financial instruments .",
+      "results from daily var , weekly stress tests , issuer credit spreads and default risk calculations , as well as other factors , are used to determine appropriate capital levels .",
+      "market risk capital is allocated to each business segment based on its risk assessment .",
+      "the increase in market risk capital in 2012 was driven by increased risk in the synthetic credit portfolio .",
+      "see market risk management on pages 163 2013169 of this annual report for more information about these market risk measures .",
+      "operational risk capital operational risk is the risk of loss resulting from inadequate or failed processes or systems , human factors or external events .",
+      "the operational risk capital model is based on actual losses and potential scenario-based losses , with adjustments to the capital calculation to reflect changes in the quality of the control environment .",
+      "the increase in operational risk capital in 2012 was primarily due to continued model enhancements to better capture large historical loss events , including mortgage-related litigation costs .",
+      "the increases that occurred during 2012 will be fully reflected in average operational risk capital in 2013 .",
+      "see operational risk management on pages 175 2013176 of this annual report for more information about operational risk .",
+      "private equity risk capital capital is allocated to privately- and publicly-held securities , third-party fund investments , and commitments in the private equity portfolio , within the corporate/private equity segment , to cover the potential loss associated with a decline in equity markets and related asset devaluations .",
+      "in addition to negative market fluctuations , potential losses in private equity investment portfolios can be magnified by liquidity risk. ."
+    ],
+    "table": [
+      [
+        "year ended december 31 ( in billions )",
+        "yearly average 2012",
+        "yearly average 2011",
+        "yearly average 2010"
+      ],
+      [
+        "credit risk",
+        "$ 46.6",
+        "$ 48.2",
+        "$ 49.7"
+      ],
+      [
+        "market risk",
+        "17.5",
+        "14.5",
+        "15.1"
+      ],
+      [
+        "operational risk",
+        "15.9",
+        "8.5",
+        "7.4"
+      ],
+      [
+        "private equity risk",
+        "6.0",
+        "6.9",
+        "6.2"
+      ],
+      [
+        "economic risk capital",
+        "86.0",
+        "78.1",
+        "78.4"
+      ],
+      [
+        "goodwill",
+        "48.2",
+        "48.6",
+        "48.6"
+      ],
+      [
+        "other ( a )",
+        "50.2",
+        "46.6",
+        "34.5"
+      ],
+      [
+        "total common stockholders 2019equity",
+        "$ 184.4",
+        "$ 173.3",
+        "$ 161.5"
+      ]
+    ],
+    "questions": [
+      "is the three year average credit risk greater than the market risk"
+    ]
+  }
+}

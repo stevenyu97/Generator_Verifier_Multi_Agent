@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "AMT/2005/page_77.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements 2014 ( continued ) sfas no .",
+      "148 .",
+      "in accordance with apb no .",
+      "25 , the company recognizes compensation expense based on the excess , if any , of the quoted stock price at the grant date of the award or other measurement date over the amount an employee must pay to acquire the stock .",
+      "the company 2019s stock option plans are more fully described in note 14 .",
+      "in december 2004 , the fasb issued sfas no .",
+      "123 ( revised 2004 ) , 201cshare-based payment 201d ( sfas 123r ) , as further described below .",
+      "during the year ended december 31 , 2005 , the company reevaluated the assumptions used to estimate the fair value of stock options issued to employees .",
+      "as a result , the company lowered its expected volatility assumption for options granted after july 1 , 2005 to approximately 30% ( 30 % ) and increased the expected life of option grants to 6.25 years using the simplified method permitted by sec sab no .",
+      "107 , 201dshare-based payment 201d ( sab no .",
+      "107 ) .",
+      "the company made this change based on a number of factors , including the company 2019s execution of its strategic plans to sell non-core businesses , reduce leverage and refinance its debt , and its recent merger with spectrasite , inc .",
+      "( see note 2. ) management had previously based its volatility assumptions on historical volatility since inception , which included periods when the company 2019s capital structure was more highly leveraged than current levels and expected levels for the foreseeable future .",
+      "management 2019s estimate of future volatility is based on its consideration of all available information , including historical volatility , implied volatility of publicly traded options , the company 2019s current capital structure and its publicly announced future business plans .",
+      "for comparative purposes , a 10% ( 10 % ) change in the volatility assumption would change pro forma stock option expense and pro forma net loss by approximately $ 0.1 million for the year ended december 31 , 2005 .",
+      "( see note 14. ) the following table illustrates the effect on net loss and net loss per common share if the company had applied the fair value recognition provisions of sfas no .",
+      "123 ( as amended ) to stock-based compensation .",
+      "the estimated fair value of each option is calculated using the black-scholes option-pricing model ( in thousands , except per share amounts ) : ."
+    ],
+    "post_text": [
+      "the company has modified certain option awards to revise vesting and exercise terms for certain terminated employees and recognized charges of $ 7.0 million , $ 3.0 million and $ 2.3 million for the years ended december 31 , 2005 , 2004 and 2003 , respectively .",
+      "in addition , the stock-based employee compensation amounts above for the year ended december 31 , 2005 , include approximately $ 2.4 million of unearned compensation amortization related to unvested stock options assumed in the merger with spectrasite , inc .",
+      "such charges are reflected in impairments , net loss on sale of long-lived assets , restructuring and merger related expense with corresponding adjustments to additional paid-in capital and unearned compensation in the accompanying consolidated financial statements .",
+      "recent accounting pronouncements 2014in december 2004 , the fasb issued sfas 123r , which supersedes apb no .",
+      "25 , and amends sfas no .",
+      "95 , 201cstatement of cash flows . 201d this statement addressed the accounting for share-based payments to employees , including grants of employee stock options .",
+      "under the new standard ."
+    ],
+    "table": [
+      [
+        "",
+        "2005",
+        "2004",
+        "2003"
+      ],
+      [
+        "net loss as reported",
+        "$ -171590 ( 171590 )",
+        "$ -247587 ( 247587 )",
+        "$ -325321 ( 325321 )"
+      ],
+      [
+        "add : stock-based employee compensation expense net of related tax effect included in net loss as reported",
+        "7104",
+        "2297",
+        "2077"
+      ],
+      [
+        "less : total stock-based employee compensation expense determined under fair value based method for all awards net of related taxeffect",
+        "-22238 ( 22238 )",
+        "-23906 ( 23906 )",
+        "-31156 ( 31156 )"
+      ],
+      [
+        "pro-forma net loss",
+        "$ -186724 ( 186724 )",
+        "$ -269196 ( 269196 )",
+        "$ -354400 ( 354400 )"
+      ],
+      [
+        "basic and diluted net loss per share as reported",
+        "$ -0.57 ( 0.57 )",
+        "$ -1.10 ( 1.10 )",
+        "$ -1.56 ( 1.56 )"
+      ],
+      [
+        "basic and diluted net loss per share pro-forma",
+        "$ -0.62 ( 0.62 )",
+        "$ -1.20 ( 1.20 )",
+        "$ -1.70 ( 1.70 )"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the recognized charges based on the modification of vesting and exercise terms for certain terminated for the year 2005 and 2004"
+    ]
+  }
+}

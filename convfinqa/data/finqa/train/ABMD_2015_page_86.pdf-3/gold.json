@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total consideration transferred for acquisition of ecp and ais is cash consideration?",
+      "answer": 0.72414,
+      "answer_raw": "0.72414",
+      "program": "divide(15750, 21750)"
+    }
+  ]
+}

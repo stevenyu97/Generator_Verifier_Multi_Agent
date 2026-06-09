@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the cash in the fair value of the assets acquired",
+      "answer": 0.7907,
+      "answer_raw": "0.7907",
+      "program": "divide(256.9, 324.9)"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "Single_CAG/2007/page_73.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "notes to consolidated financial statements 2014 ( continued ) fiscal years ended may 27 , 2007 , may 28 , 2006 , and may 29 , 2005 columnar amounts in millions except per share amounts due to the purchase price of the cattle feeding business being entirely financed by the company , the legal divestiture of the cattle feeding operation was not recognized as a divestiture for accounting purposes , and the assets , liabilities and results of operations of the cattle feeding business were reflected in continuing operations in the company 2019s financial statements prior to october 15 , 2004 .",
+      "on september 24 , 2004 , the company reached an agreement with affiliates of swift foods by which the company took control and ownership of approximately $ 300 million of the net assets of the cattle feeding business , including feedlots and live cattle .",
+      "on october 15 , 2004 , the company sold the feedlots to smithfield foods for approximately $ 70 million .",
+      "these transactions resulted in a gain of approximately $ 19 million ( net of taxes of $ 11.6 million ) .",
+      "the company retained live cattle inventory and related derivative instruments and liquidated those assets in an orderly manner over the succeeding several months .",
+      "beginning september 24 , 2004 , the assets , liabilities and results of operations , including the gain on sale , of the cattle feeding business are classified as discontinued operations .",
+      "culturelle business during the first quarter of fiscal 2007 , the company completed its divestiture of its nutritional supplement business for proceeds of approximately $ 8.2 million , resulting in a pre-tax gain of approximately $ 6.2 million ( $ 3.5 million after tax ) .",
+      "the company reflects this gain within discontinued operations .",
+      "the results of the aforementioned businesses which have been divested are included within discontinued operations .",
+      "the summary comparative financial results of discontinued operations were as follows: ."
+    ],
+    "post_text": [
+      "the effective tax rate for discontinued operations is significantly higher than the statutory rate due to the nondeductibility of certain goodwill of divested businesses .",
+      "other assets held for sale during the third quarter of fiscal 2006 , the company initiated a plan to dispose of a refrigerated pizza business with annual revenues of less than $ 70 million .",
+      "during the second quarter of fiscal 2007 , the company disposed of this business for proceeds of approximately $ 22.0 million , resulting in no significant gain or loss .",
+      "due to the company 2019s expected significant continuing cash flows associated with this business , the results of operations of this business are included in continuing operations for all periods presented .",
+      "the assets and liabilities of this business are classified as assets and liabilities held for sale in the consolidated balance sheets for all periods prior to the sale .",
+      "during the second quarter of fiscal 2007 , the company completed the disposal of an oat milling business for proceeds of approximately $ 35.8 million , after final working capital adjustments made during the third quarter ."
+    ],
+    "table": [
+      [
+        "",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "net sales",
+        "$ 727.6",
+        "$ 2690.0",
+        "$ 4131.7"
+      ],
+      [
+        "long-lived asset impairment charge",
+        "-21.1 ( 21.1 )",
+        "-240.9 ( 240.9 )",
+        "-59.4 ( 59.4 )"
+      ],
+      [
+        "income from operations of discontinued operations before income taxes",
+        "92.5",
+        "179.7",
+        "157.7"
+      ],
+      [
+        "net gain from disposal of businesses",
+        "64.3",
+        "115.5",
+        "26.3"
+      ],
+      [
+        "income before income taxes",
+        "135.7",
+        "54.3",
+        "124.6"
+      ],
+      [
+        "income tax expense",
+        "-54.9 ( 54.9 )",
+        "-109.8 ( 109.8 )",
+        "-41.8 ( 41.8 )"
+      ],
+      [
+        "income ( loss ) from discontinued operations net of tax",
+        "$ 80.8",
+        "$ -55.5 ( 55.5 )",
+        "$ 82.8"
+      ]
+    ],
+    "questions": [
+      "what was the income ( loss ) from discontinued operations net of tax in 2007?",
+      "and what was it in 2005?",
+      "what was, then, the total income ( loss ) from discontinued operations net of tax for both years combined?",
+      "including 2006, what then becomes that total for the three years combined?"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "between the years of 2008 and 2009, what was the change in the rental expense?",
+      "answer": 8.2,
+      "answer_raw": "8.2",
+      "program": "subtract(57.2, 49.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this change as a percentage of that expense in 2008?",
+      "answer": 0.16735,
+      "answer_raw": "0.16735",
+      "program": "subtract(57.2, 49.0), divide(#0, 49.0)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and over the subsequent year, from 2009 to 2010, what was that change?",
+      "answer": 9.7,
+      "answer_raw": "9.7",
+      "program": "subtract(66.9, 57.2)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage does this 2009-2010 change represent in relation to the 2009 rental expense?",
+      "answer": 0.16958,
+      "answer_raw": "0.16958",
+      "program": "subtract(66.9, 57.2), divide(#0, 57.2)"
+    }
+  ]
+}

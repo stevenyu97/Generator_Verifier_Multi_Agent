@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of net cash from operating activities was derived from non-cash operating activities in 2012?",
+      "answer": 1.01344,
+      "answer_raw": "1.01344",
+      "program": "divide(7313, 7216)"
+    }
+  ]
+}

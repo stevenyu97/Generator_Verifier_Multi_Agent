@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2006 what was the ratio of the accrued liabilities to the actual expenses",
+      "answer": 2.62917,
+      "answer_raw": "2.62917",
+      "program": "divide(631, 240)"
+    }
+  ]
+}

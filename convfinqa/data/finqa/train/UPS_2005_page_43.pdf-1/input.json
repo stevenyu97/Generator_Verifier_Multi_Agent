@@ -1,0 +1,103 @@
+{
+  "input": {
+    "id": "UPS/2005/page_43.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "dividends is subject to the discretion of the board of directors and will depend on various factors , including our net income , financial condition , cash requirements , future prospects , and other relevant factors .",
+      "we expect to continue the practice of paying regular cash dividends .",
+      "during 2005 , we repaid $ 589 million in debt , primarily consisting of paydowns of commercial paper , scheduled principal payments on capital lease obligations , and repayments of debt that was previously assumed with the acquisitions of lynx express ltd .",
+      "and overnite corp .",
+      "issuances of debt were $ 128 million in 2005 , and consisted primarily of loans related to our investment in certain equity-method real estate partnerships .",
+      "we consider the overall fixed and floating interest rate mix of our portfolio and the related overall cost of borrowing when planning for future issuances and non-scheduled repayments of debt .",
+      "sources of credit we maintain two commercial paper programs under which we are authorized to borrow up to $ 7.0 billion in the united states .",
+      "we had $ 739 million outstanding under these programs as of december 31 , 2005 , with an average interest rate of 4.01% ( 4.01 % ) .",
+      "the entire balance outstanding has been classified as a current liability in our balance sheet .",
+      "we also maintain a european commercial paper program under which we are authorized to borrow up to 20ac1.0 billion in a variety of currencies .",
+      "there were no amounts outstanding under this program as of december 31 , 2005 .",
+      "we maintain two credit agreements with a consortium of banks .",
+      "these agreements provide revolving credit facilities of $ 1.0 billion each , with one expiring on april 20 , 2006 and the other on april 21 , 2010 .",
+      "interest on any amounts we borrow under these facilities would be charged at 90-day libor plus 15 basis points .",
+      "there were no borrowings under either of these agreements as of december 31 , 2005 .",
+      "in august 2003 , we filed a $ 2.0 billion shelf registration statement under which we may issue debt securities in the united states .",
+      "there was approximately $ 126 million issued under this shelf registration statement at december 31 , 2005 , all of which consists of issuances under our ups notes program .",
+      "our existing debt instruments and credit facilities do not have cross-default or ratings triggers , however these debt instruments and credit facilities do subject us to certain financial covenants .",
+      "these covenants generally require us to maintain a $ 3.0 billion minimum net worth and limit the amount of secured indebtedness available to the company .",
+      "these covenants are not considered material to the overall financial condition of the company , and all covenant tests were satisfied as of december 31 , 2005 .",
+      "commitments we have contractual obligations and commitments in the form of operating leases , capital leases , debt obligations , purchase commitments , and certain other liabilities .",
+      "we intend to satisfy these obligations through the use of cash flow from operations .",
+      "the following table summarizes our contractual obligations and commitments as of december 31 , 2005 ( in millions ) : capitalized leases operating leases principal purchase commitments liabilities ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "year",
+        "capitalized leases",
+        "operating leases",
+        "debt principal",
+        "purchase commitments",
+        "other liabilities"
+      ],
+      [
+        "2006",
+        "$ 64",
+        "$ 403",
+        "$ 774",
+        "$ 1280",
+        "$ 48"
+      ],
+      [
+        "2007",
+        "107",
+        "348",
+        "70",
+        "826",
+        "68"
+      ],
+      [
+        "2008",
+        "115",
+        "248",
+        "37",
+        "738",
+        "69"
+      ],
+      [
+        "2009",
+        "66",
+        "176",
+        "104",
+        "652",
+        "65"
+      ],
+      [
+        "2010",
+        "61",
+        "126",
+        "30",
+        "478",
+        "62"
+      ],
+      [
+        "after 2010",
+        "1",
+        "544",
+        "2637",
+        "689",
+        "285"
+      ],
+      [
+        "total",
+        "$ 414",
+        "$ 1845",
+        "$ 3652",
+        "$ 4663",
+        "$ 597"
+      ]
+    ],
+    "questions": [
+      "what is the total of contractual obligations and commitments as of december 31 , 2005 , in millions?"
+    ]
+  }
+}

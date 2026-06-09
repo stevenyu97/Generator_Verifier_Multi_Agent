@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "Double_VNO/2003/page_102.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "vornado realty trust 77 cash flows the company expects to contribute $ 959000 to the plans in 2004 .",
+      "11 .",
+      "leases as lessor : the company leases space to tenants under operating leases .",
+      "most of the leases provide for the payment of fixed base rentals payable monthly in advance .",
+      "shopping center leases provide for the pass-through to tenants of real estate taxes , insurance and maintenance .",
+      "office building leases generally require the tenants to reimburse the company for operating costs and real estate taxes above their base year costs .",
+      "shopping center leases also provide for the payment by the lessee of additional rent based on a percentage of the tenants 2019 sales .",
+      "as of december 31 , 2003 , future base rental revenue under non-cancelable operating leases , excluding rents for leases with an original term of less than one year and rents resulting from the exercise of renewal options , is as follows : ( amounts in thousands ) year ending december 31: ."
+    ],
+    "post_text": [
+      "these amounts do not include rentals based on tenants 2019 sales .",
+      "these percentage rents approximated $ 3662000 , $ 1832000 , and $ 2157000 , for the years ended december 31 , 2003 , 2002 , and 2001 .",
+      "except for the u.s .",
+      "government , which accounted for 12.7% ( 12.7 % ) of the company 2019s revenue , none of the company 2019s tenants represented more than 10% ( 10 % ) of total revenues for the year ended december 31 , 2003 .",
+      "former bradlees locations property rentals for the year ended december 31 , 2003 , include $ 5000000 of additional rent which , effective december 31 , 2002 , was re-allocated to the former bradlees locations in marlton , turnersville , bensalem and broomall and is payable by stop & shop , pursuant to the master agreement and guaranty , dated may 1 , 1992 .",
+      "this amount is in addition to all other rent guaranteed by stop & shop for the former bradlees locations .",
+      "on january 8 , 2003 , stop & shop filed a complaint with the united states district court claiming the company has no right to reallocate and therefore continue to collect the $ 5000000 of annual rent from stop & shop because of the expiration of the east brunswick , jersey city , middletown , union and woodbridge leases to which the $ 5000000 of additional rent was previously allocated .",
+      "the company believes the additional rent provision of the guaranty expires at the earliest in 2012 and will vigorously oppose stop & shop 2019s complaint .",
+      "in february 2003 , koninklijke ahold nv , parent of stop & shop , announced that it overstated its 2002 and 2001 earnings by at least $ 500 million and is under investigation by the u.s .",
+      "justice department and securities and exchange commission .",
+      "the company cannot predict what effect , if any , this situation may have on stop & shop 2019s ability to satisfy its obligation under the bradlees guarantees and rent for existing stop & shop leases aggregating approximately $ 10.5 million per annum .",
+      "notes to consolidated financial statements sr-176_fin_l02p53_82v1.qxd 4/8/04 2:42 pm page 77 ."
+    ],
+    "table": [
+      [
+        "2004",
+        "$ 1084934"
+      ],
+      [
+        "2005",
+        "968162"
+      ],
+      [
+        "2006",
+        "846345"
+      ],
+      [
+        "2007",
+        "770228"
+      ],
+      [
+        "2008",
+        "608267"
+      ],
+      [
+        "thereafter",
+        "3423083"
+      ]
+    ],
+    "questions": [
+      "what was the percentage rent in 2002, in thousands?",
+      "and what was it in 2001?",
+      "what was, then, the total percentage rent in both years combined, in thousands?",
+      "and in the subsequent year of 2002, what was the total of future noncancelable minimum rent amounts for 2004 and 2005, also in thousands?"
+    ]
+  }
+}

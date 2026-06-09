@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net reserves as of 12/31/12?",
+      "answer": 425.7,
+      "answer_raw": "425.7",
+      "program": "425.7"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for the period ended 12/31/11?",
+      "answer": 480.2,
+      "answer_raw": "480.2",
+      "program": "480.2"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the difference between these two balances?",
+      "answer": -54.5,
+      "answer_raw": "-54.5",
+      "program": "subtract(425.7, 480.2)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the balance as of 12/31/11 again?",
+      "answer": 480.2,
+      "answer_raw": "480.2",
+      "program": "480.2"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage change?",
+      "answer": -0.11349,
+      "answer_raw": "-0.11349",
+      "program": "subtract(425.7, 480.2), divide(#0, 480.2)"
+    }
+  ]
+}

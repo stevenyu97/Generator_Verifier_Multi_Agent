@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "on july 17, 2011, what was the aggregate purchase price of the communications sites acquired from colombia movil?",
+      "answer": 182.0,
+      "answer_raw": "182.0",
+      "program": "182.0"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the number of those sites?",
+      "answer": 2126.0,
+      "answer_raw": "2126.0",
+      "program": "2126"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the average purchase price per site?",
+      "answer": 0.08561,
+      "answer_raw": "0.08561",
+      "program": "divide(182.0, 2126)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in the next year, concerning the total fair value of the net assets acquired, what percentage did the hard assets represent?",
+      "answer": 0.78676,
+      "answer_raw": "0.78676",
+      "program": "divide(3590, 4563)"
+    }
+  ]
+}

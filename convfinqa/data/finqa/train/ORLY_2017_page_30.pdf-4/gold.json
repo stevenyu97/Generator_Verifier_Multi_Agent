@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in the five year total return for o 2019reilly automotive inc . vs the s&p 500 retail index?",
+      "answer": 4.0,
+      "answer_raw": "4.0",
+      "program": "subtract(269, 265)"
+    }
+  ]
+}

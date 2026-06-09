@@ -1,0 +1,92 @@
+{
+  "input": {
+    "id": "Single_BLL/2006/page_89.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "page 73 of 98 notes to consolidated financial statements ball corporation and subsidiaries 15 .",
+      "shareholders 2019 equity at december 31 , 2006 , the company had 550 million shares of common stock and 15 million shares of preferred stock authorized , both without par value .",
+      "preferred stock includes 120000 authorized but unissued shares designated as series a junior participating preferred stock .",
+      "under the company 2019s shareholder rights agreement dated july 26 , 2006 , one preferred stock purchase right ( right ) is attached to each outstanding share of ball corporation common stock .",
+      "subject to adjustment , each right entitles the registered holder to purchase from the company one one-thousandth of a share of series a junior participating preferred stock at an exercise price of $ 185 per right .",
+      "if a person or group acquires 10 percent or more of the company 2019s outstanding common stock ( or upon occurrence of certain other events ) , the rights ( other than those held by the acquiring person ) become exercisable and generally entitle the holder to purchase shares of ball corporation common stock at a 50 percent discount .",
+      "the rights , which expire in 2016 , are redeemable by the company at a redemption price of $ 0.001 per right and trade with the common stock .",
+      "exercise of such rights would cause substantial dilution to a person or group attempting to acquire control of the company without the approval of ball 2019s board of directors .",
+      "the rights would not interfere with any merger or other business combinations approved by the board of directors .",
+      "the company reduced its share repurchase program in 2006 to $ 45.7 million , net of issuances , compared to $ 358.1 million net repurchases in 2005 and $ 50 million in 2004 .",
+      "the net repurchases in 2006 did not include a forward contract entered into in december 2006 for the repurchase of 1200000 shares .",
+      "the contract was settled on january 5 , 2007 , for $ 51.9 million in cash .",
+      "in connection with the employee stock purchase plan , the company contributes 20 percent of up to $ 500 of each participating employee 2019s monthly payroll deduction toward the purchase of ball corporation common stock .",
+      "company contributions for this plan were $ 3.2 million in 2006 , $ 3.2 million in 2005 and $ 2.7 million in 2004 .",
+      "accumulated other comprehensive earnings ( loss ) the activity related to accumulated other comprehensive earnings ( loss ) was as follows : ( $ in millions ) foreign currency translation pension and postretirement items , net of tax effective financial derivatives , net of tax accumulated comprehensive earnings ( loss ) ."
+    ],
+    "post_text": [
+      "notwithstanding the 2005 distribution pursuant to the jobs act , management 2019s intention is to indefinitely reinvest foreign earnings .",
+      "therefore , no taxes have been provided on the foreign currency translation component for any period .",
+      "the change in the minimum pension liability is presented net of related tax expense of $ 2.9 million for 2006 and related tax benefits of $ 27.3 million and $ 20.8 million for 2005 and 2004 , respectively .",
+      "the change in the effective financial derivatives is presented net of related tax expense of $ 5.7 million for 2006 , related tax benefit of $ 10.7 million for 2005 and related tax benefit of $ 0.2 million for 2004. ."
+    ],
+    "table": [
+      [
+        "( $ in millions )",
+        "foreign currency translation",
+        "pension and other postretirement items net of tax",
+        "effective financial derivatives net of tax",
+        "accumulated other comprehensive earnings ( loss )"
+      ],
+      [
+        "december 31 2003",
+        "$ 80.7",
+        "$ -93.1 ( 93.1 )",
+        "$ 11.0",
+        "$ -1.4 ( 1.4 )"
+      ],
+      [
+        "2004 change",
+        "68.2",
+        "-33.2 ( 33.2 )",
+        "-0.4 ( 0.4 )",
+        "34.6"
+      ],
+      [
+        "december 31 2004",
+        "148.9",
+        "-126.3 ( 126.3 )",
+        "10.6",
+        "33.2"
+      ],
+      [
+        "2005 change",
+        "-74.3 ( 74.3 )",
+        "-43.6 ( 43.6 )",
+        "-16.0 ( 16.0 )",
+        "-133.9 ( 133.9 )"
+      ],
+      [
+        "december 31 2005",
+        "74.6",
+        "-169.9 ( 169.9 )",
+        "-5.4 ( 5.4 )",
+        "-100.7 ( 100.7 )"
+      ],
+      [
+        "2006 change",
+        "57.2",
+        "8.0",
+        "6.0",
+        "71.2"
+      ],
+      [
+        "december 31 2006",
+        "$ 131.8",
+        "$ -161.9 ( 161.9 )",
+        "$ 0.6",
+        "$ -29.5 ( 29.5 )"
+      ]
+    ],
+    "questions": [
+      "what was the difference in repurchases between 2005 and 2006?",
+      "and the value for 2005 specifically?",
+      "and so what was the percentage reduction?"
+    ]
+  }
+}

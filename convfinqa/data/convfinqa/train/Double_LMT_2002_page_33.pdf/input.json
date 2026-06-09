@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "Double_LMT/2002/page_33.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "lockheed martin corporation management 2019s discussion and analysis of financial condition and results of operations december 31 , 2002 space systems space systems 2019 operating results included the following : ( in millions ) 2002 2001 2000 ."
+    ],
+    "post_text": [
+      "net sales for space systems increased by 8% ( 8 % ) in 2002 compared to 2001 .",
+      "the increase in sales for 2002 resulted from higher volume in government space of $ 370 million and commercial space of $ 180 million .",
+      "in government space , increases of $ 470 million in government satellite programs and $ 130 million in ground systems activities more than offset volume declines of $ 175 million on government launch vehi- cles and $ 55 million on strategic missile programs .",
+      "the increase in commercial space sales is primarily attributable to an increase in launch vehicle activities , with nine commercial launches during 2002 compared to six in 2001 .",
+      "net sales for the segment decreased by 7% ( 7 % ) in 2001 com- pared to 2000 .",
+      "the decrease in sales for 2001 resulted from volume declines in commercial space of $ 560 million , which more than offset increases in government space of $ 60 million .",
+      "in commercial space , sales declined due to volume reductions of $ 480 million in commercial launch vehicle activities and $ 80 million in satellite programs .",
+      "there were six launches in 2001 compared to 14 launches in 2000 .",
+      "the increase in gov- ernment space resulted from a combined increase of $ 230 mil- lion related to higher volume on government satellite programs and ground systems activities .",
+      "these increases were partially offset by a $ 110 million decrease related to volume declines in government launch vehicle activity , primarily due to program maturities , and by $ 50 million due to the absence in 2001 of favorable adjustments recorded on the titan iv pro- gram in 2000 .",
+      "operating profit for the segment increased 23% ( 23 % ) in 2002 as compared to 2001 , mainly driven by the commercial space business .",
+      "reduced losses in commercial space during 2002 resulted in increased operating profit of $ 90 million when compared to 2001 .",
+      "commercial satellite manufacturing losses declined $ 100 million in 2002 as operating performance improved and satellite deliveries increased .",
+      "in the first quarter of 2001 , a $ 40 million loss provision was recorded on certain commercial satellite manufacturing contracts .",
+      "due to the industry-wide oversupply and deterioration of pricing in the commercial launch market , financial results on commercial launch vehicles continue to be challenging .",
+      "during 2002 , this trend led to a decline in operating profit of $ 10 million on commercial launch vehicles when compared to 2001 .",
+      "this decrease was primarily due to lower profitability of $ 55 mil- lion on the three additional launches in the current year , addi- tional charges of $ 60 million ( net of a favorable contract adjustment of $ 20 million ) for market and pricing pressures and included the adverse effect of a $ 35 million adjustment for commercial launch vehicle contract settlement costs .",
+      "the 2001 results also included charges for market and pricing pressures , which reduced that year 2019s operating profit by $ 145 million .",
+      "the $ 10 million decrease in government space 2019s operating profit for the year is primarily due to the reduced volume on government launch vehicles and strategic missile programs , which combined to decrease operating profit by $ 80 million , partially offset by increases of $ 40 million in government satellite programs and $ 30 million in ground systems activities .",
+      "operating profit for the segment increased by 4% ( 4 % ) in 2001 compared to 2000 .",
+      "operating profit increased in 2001 due to a $ 35 million increase in government space partially offset by higher year-over-year losses of $ 20 million in commercial space .",
+      "in government space , operating profit increased due to the impact of higher volume and improved performance in ground systems and government satellite programs .",
+      "the year- to-year comparison of operating profit was not affected by the $ 50 million favorable titan iv adjustment recorded in 2000 discussed above , due to a $ 55 million charge related to a more conservative assessment of government launch vehi- cle programs that was recorded in the fourth quarter of 2000 .",
+      "in commercial space , decreased operating profit of $ 15 mil- lion on launch vehicles more than offset lower losses on satel- lite manufacturing activities .",
+      "the commercial launch vehicle operating results included $ 60 million in higher charges for market and pricing pressures when compared to 2000 .",
+      "these negative adjustments were partially offset by $ 50 million of favorable contract adjustments on certain launch vehicle con- tracts .",
+      "commercial satellite manufacturing losses decreased slightly from 2000 and included the adverse impact of a $ 40 million loss provision recorded in the first quarter of 2001 for certain commercial satellite contracts related to schedule and technical issues. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2002",
+        "2001",
+        "2000"
+      ],
+      [
+        "net sales",
+        "$ 7384",
+        "$ 6836",
+        "$ 7339"
+      ],
+      [
+        "operating profit",
+        "443",
+        "360",
+        "345"
+      ]
+    ],
+    "questions": [
+      "what was the profit margin for lockheed martin in 2002?",
+      "what was the total operating profit in 2002 and 2001?",
+      "and including the value for 2003?",
+      "so what was the average value during this time?"
+    ]
+  }
+}

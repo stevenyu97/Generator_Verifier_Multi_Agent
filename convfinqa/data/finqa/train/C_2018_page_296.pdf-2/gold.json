@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total credit commitments as of december 31 , 2017 are credit card lines?",
+      "answer": 0.68851,
+      "answer_raw": "0.68851",
+      "program": "divide(678300, 985174)"
+    }
+  ]
+}

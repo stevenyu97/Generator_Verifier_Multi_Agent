@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the sum of pre-tax catastrophe loss in 2016 and 2017?",
+      "answer": 1773.8,
+      "answer_raw": "1773.8",
+      "program": "add(1472.6, 301.2)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the sum including 2015?",
+      "answer": 1827.6,
+      "answer_raw": "1827.6",
+      "program": "add(1472.6, 301.2), add(#0, 53.8)"
+    }
+  ]
+}

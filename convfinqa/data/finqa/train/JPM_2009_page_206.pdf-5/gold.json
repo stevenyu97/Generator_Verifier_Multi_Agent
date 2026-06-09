@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2009 , what was the net reserve allowance on the prime mortgage and option arm pools of loans , in millions?\\\\n",
+      "answer": 23705.0,
+      "answer_raw": "23705.0",
+      "program": "subtract(103369, 79664)"
+    }
+  ]
+}

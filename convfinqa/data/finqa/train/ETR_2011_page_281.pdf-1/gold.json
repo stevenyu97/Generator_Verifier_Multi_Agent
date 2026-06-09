@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average receivables for entergy arkansas from 2008 to 2011",
+      "answer": 103679.0,
+      "answer_raw": "103679.0",
+      "program": "add(17362, 41463), add(28859, #0), add(15991, #1), add(#2, const_4)"
+    }
+  ]
+}

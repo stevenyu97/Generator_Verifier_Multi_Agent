@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of lease payments are due after 2013?",
+      "answer": 0.29669,
+      "answer_raw": "0.29669",
+      "program": "divide(103890, 350161)"
+    }
+  ]
+}

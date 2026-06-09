@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average share price that the shares were repurchased in 2011?",
+      "answer": 34.228,
+      "answer_raw": "34.228",
+      "program": "divide(4278.5, 125.0)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the sum of total intangible assets in 2013 and 2014?",
+      "answer": 402150.0,
+      "answer_raw": "402150.0",
+      "program": "add(188038, 214112)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value of intangible assets in 2014?",
+      "answer": 188038.0,
+      "answer_raw": "188038.0",
+      "program": "188038"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the 2014 value divided by the total value?",
+      "answer": 0.46758,
+      "answer_raw": "0.46758",
+      "program": "add(188038, 214112), divide(188038, #0)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is that value times 100?",
+      "answer": 46.75817,
+      "answer_raw": "46.75817",
+      "program": "add(188038, 214112), divide(188038, #0), multiply(const_100, #1)"
+    }
+  ]
+}

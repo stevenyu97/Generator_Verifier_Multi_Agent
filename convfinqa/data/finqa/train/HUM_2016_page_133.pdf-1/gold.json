@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2014 what was the number of shares issued a dividend in millions",
+      "answer": 154.54545,
+      "answer_raw": "154.54545",
+      "program": "divide(170, 1.10)"
+    }
+  ]
+}

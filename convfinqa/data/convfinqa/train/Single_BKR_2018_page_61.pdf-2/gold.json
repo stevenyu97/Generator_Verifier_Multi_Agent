@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total combined amount of the operating leases and purchase obligations that were due by period total?",
+      "answer": 2353.0,
+      "answer_raw": "2353.0",
+      "program": "add(846, 1507)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total of payments due by period total?",
+      "answer": 13058.0,
+      "answer_raw": "13058.0",
+      "program": "13058"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that combined amount represent in relation to this total, in percentage?",
+      "answer": 0.1802,
+      "answer_raw": "0.1802",
+      "program": "add(846, 1507), divide(#0, 13058)"
+    }
+  ]
+}

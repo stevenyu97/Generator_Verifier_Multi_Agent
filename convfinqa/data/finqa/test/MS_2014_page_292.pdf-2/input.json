@@ -1,0 +1,99 @@
+{
+  "input": {
+    "id": "MS/2014/page_292.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "morgan stanley notes to consolidated financial statements 2014 ( continued ) the total amount of unrecognized tax benefits was approximately $ 2.2 billion , $ 4.1 billion , and $ 4.1 billion at december 31 , 2014 , december 31 , 2013 , and december 31 , 2012 , respectively .",
+      "of this total , approximately $ 1.0 billion , $ 1.4 billion , and $ 1.6 billion , respectively ( net of federal benefit of state issues , competent authority and foreign tax credit offsets ) represent the amount of unrecognized tax benefits that , if recognized , would favorably affect the effective tax rate in future periods .",
+      "interest and penalties related to unrecognized tax benefits are classified as provision for income taxes .",
+      "the company recognized $ ( 35 ) million , $ 50 million , and $ ( 10 ) million of interest expense ( benefit ) ( net of federal and state income tax benefits ) in the company 2019s consolidated statements of income for 2014 , 2013 , and 2012 , respectively .",
+      "interest expense accrued at december 31 , 2014 , december 31 , 2013 , and december 31 , 2012 was approximately $ 258 million , $ 293 million , and $ 243 million , respectively , net of federal and state income tax benefits .",
+      "penalties related to unrecognized tax benefits for the years mentioned above were immaterial .",
+      "the following table presents a reconciliation of the beginning and ending amount of unrecognized tax benefits for 2014 , 2013 and 2012 ( dollars in millions ) : unrecognized tax benefits ."
+    ],
+    "post_text": [
+      "the company is under continuous examination by the irs and other tax authorities in certain countries , such as japan and the u.k. , and in states in which the company has significant business operations , such as new york .",
+      "the company is currently under review by the irs appeals office for the remaining issues covering tax years 1999 2013 2005 and has substantially completed the irs field examination for the audit of tax years 2006 2013 2008 .",
+      "also , the company is currently at various levels of field examination with respect to audits by new york state and new york city for tax years 2007 2013 2009 .",
+      "during 2015 , the company expects to reach a conclusion with the u.k .",
+      "tax authorities on substantially all issues through tax year 2010 , the resolution of which is not expected to have a material impact on the effective tax rate on the company 2019s consolidated financial statements. ."
+    ],
+    "table": [
+      [
+        "balance at december 31 2011",
+        "$ 4045"
+      ],
+      [
+        "increase based on tax positions related to the current period",
+        "299"
+      ],
+      [
+        "increase based on tax positions related to prior periods",
+        "127"
+      ],
+      [
+        "decreases based on tax positions related to prior periods",
+        "-21 ( 21 )"
+      ],
+      [
+        "decreases related to settlements with taxing authorities",
+        "-260 ( 260 )"
+      ],
+      [
+        "decreases related to a lapse of applicable statute of limitations",
+        "-125 ( 125 )"
+      ],
+      [
+        "balance at december 31 2012",
+        "$ 4065"
+      ],
+      [
+        "increase based on tax positions related to the current period",
+        "$ 51"
+      ],
+      [
+        "increase based on tax positions related to prior periods",
+        "267"
+      ],
+      [
+        "decreases based on tax positions related to prior periods",
+        "-141 ( 141 )"
+      ],
+      [
+        "decreases related to settlements with taxing authorities",
+        "-146 ( 146 )"
+      ],
+      [
+        "balance at december 31 2013",
+        "$ 4096"
+      ],
+      [
+        "increase based on tax positions related to the current period",
+        "$ 135"
+      ],
+      [
+        "increase based on tax positions related to prior periods",
+        "100"
+      ],
+      [
+        "decreases based on tax positions related to prior periods",
+        "-2080 ( 2080 )"
+      ],
+      [
+        "decreases related to settlements with taxing authorities",
+        "-19 ( 19 )"
+      ],
+      [
+        "decreases related to a lapse of applicable statute of limitations",
+        "-4 ( 4 )"
+      ],
+      [
+        "balance at december 31 2014",
+        "$ 2228"
+      ]
+    ],
+    "questions": [
+      "accrued interest represented how much of the ending balance in uncertain tax benefits as of december 31 , 2014?"
+    ]
+  }
+}

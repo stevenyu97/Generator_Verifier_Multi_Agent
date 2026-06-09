@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of growth in total net revenues from 2003 to 2004",
+      "answer": 0.77771,
+      "answer_raw": "0.77771",
+      "program": "subtract(205181, 115419), divide(#0, 115419)"
+    }
+  ]
+}

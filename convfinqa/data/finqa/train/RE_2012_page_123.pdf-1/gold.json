@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in reserve for future policy benefits during 2012?",
+      "answer": -1080.0,
+      "answer_raw": "-1080.0",
+      "program": "subtract(66107, 67187)"
+    }
+  ]
+}

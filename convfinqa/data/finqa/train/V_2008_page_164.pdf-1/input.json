@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "V/2008/page_164.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "visa inc .",
+      "notes to consolidated financial statements 2014 ( continued ) september 30 , 2008 ( in millions , except as noted ) the following table sets forth the use of net proceeds of $ 19.1 billion received in connection with the company 2019s ipo in march 2008: ."
+    ],
+    "post_text": [
+      "redemptions class b common stock and class c common stock other than class c ( series ii ) common stock 2014march 2008 in march 2008 , the company completed the required redemption of a portion of the class b common stock and class c ( series i ) common stock .",
+      "the company used $ 13.4 billion of net proceeds from the ipo to redeem 154738487 shares of class b common stock and 159657751 shares of class c ( series i ) common stock at a redemption price of $ 42.77 per share .",
+      "after the redemptions and subject to the restrictions set forth in the company 2019s amended and restated certificate of incorporation ( the 201ccharter 201d ) and the conversion and transfer restrictions below , all outstanding shares of class b common stock are convertible into 175367482 shares of class a common stock and 152009651 shares of class c ( series i , iii and iv ) common stock are convertible into shares of class a common stock on a one-to-one basis .",
+      "as a result of the initial funding of the litigation escrow account , the conversion rate applicable to class b common stock was reduced to approximately 0.71 shares of class a common stock for each share of class b common stock , and the 245513385 shares of class b common stock were convertible into 175367482 shares of class a common stock .",
+      "the number of shares of class c ( series i , iii and iv ) common stock convertible into shares of class a common stock excludes those class c ( series iii ) common shares that were redeemed in october 2008 , as further described below .",
+      "class c ( series iii ) common stock and class c ( series ii ) common stock 2014october 2008 as anticipated , in october 2008 , the company used $ 1.508 billion of net proceeds from the ipo for the required redemption of 35263585 shares of class c ( series iii ) common stock at a redemption price of $ 42.77 per share as required by the charter .",
+      "following the october 2008 redemption , the remaining 27499203 shares of class c ( series iii ) and class c ( series iv ) common stock outstanding automatically converted into shares of class c ( series i ) common stock on a one-to-one basis .",
+      "the company also used $ 1.146 billion of the net proceeds from the ipo to fund the redemption of all class c ( series ii ) common stock in october 2008 .",
+      "the redemption price of $ 1.146 billion was adjusted for dividends paid and related interest , par value of related shares redeemed , and the return to visa europe of the class c ( series ii ) common stock subscription receivable outstanding , resulting in a cash payment of $ 1.136 billion .",
+      "as a result of the execution of the ipo , visa europe had the option to ."
+    ],
+    "table": [
+      [
+        "",
+        "( in billions )"
+      ],
+      [
+        "net ipo proceeds",
+        "$ 19.1"
+      ],
+      [
+        "march 2008 redemptions of class b and class c ( series i ) common stock",
+        "-13.4 ( 13.4 )"
+      ],
+      [
+        "funding of escrow account",
+        "-3.0 ( 3.0 )"
+      ],
+      [
+        "balance at september 30 2008",
+        "2.7"
+      ],
+      [
+        "october 2008 redemptions of class c ( series ii ) and class c ( series iii ) common stock",
+        "-2.7 ( 2.7 )"
+      ],
+      [
+        "balance of proceeds following october redemptions",
+        "$ 2014"
+      ]
+    ],
+    "questions": [
+      "what portion of the ipo net proceeds was used for redemptions of class b and class c ( series i ) common stock on march 2008?"
+    ]
+  }
+}

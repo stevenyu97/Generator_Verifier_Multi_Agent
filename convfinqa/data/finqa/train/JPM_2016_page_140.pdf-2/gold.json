@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the avg exposure compared with derivative receivables , net of all collateral in 2016",
+      "answer": 0.75121,
+      "answer_raw": "0.75121",
+      "program": "divide(31.1, 41.4)"
+    }
+  ]
+}

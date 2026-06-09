@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total payments on contractual obligations are due to long-term debt at december 301 , 2006?",
+      "answer": 0.21367,
+      "answer_raw": "0.21367",
+      "program": "divide(2301.6, 10772.0)"
+    }
+  ]
+}

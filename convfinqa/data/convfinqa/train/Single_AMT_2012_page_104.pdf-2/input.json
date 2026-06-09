@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "Single_AMT/2012/page_104.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements when they are determined uncollectible .",
+      "such determination includes analysis and consideration of the particular conditions of the account .",
+      "changes in the allowances were as follows for the years ended december 31 , ( in thousands ) : ."
+    ],
+    "post_text": [
+      "functional currency 2014as a result of changes to the organizational structure of the company 2019s subsidiaries in latin america in 2010 , the company determined that effective january 1 , 2010 , the functional currency of its foreign subsidiary in brazil is the brazilian real .",
+      "from that point forward , all assets and liabilities held by the subsidiary in brazil are translated into u.s .",
+      "dollars at the exchange rate in effect at the end of the applicable reporting period .",
+      "revenues and expenses are translated at the average monthly exchange rates and the cumulative translation effect is included in equity .",
+      "the change in functional currency from u.s .",
+      "dollars to brazilian real gave rise to an increase in the net value of certain non-monetary assets and liabilities .",
+      "the aggregate impact on such assets and liabilities was $ 39.8 million with an offsetting increase in accumulated other comprehensive income during the year ended december 31 , 2010 .",
+      "as a result of the renegotiation of the company 2019s agreements with grupo iusacell , s.a .",
+      "de c.v .",
+      "( 201ciusacell 201d ) , which included , among other changes , converting iusacell 2019s contractual obligations to the company from u.s .",
+      "dollars to mexican pesos , the company determined that effective april 1 , 2010 , the functional currency of certain of its foreign subsidiaries in mexico is the mexican peso .",
+      "from that point forward , all assets and liabilities held by those subsidiaries in mexico are translated into u.s .",
+      "dollars at the exchange rate in effect at the end of the applicable reporting period .",
+      "revenues and expenses are translated at the average monthly exchange rates and the cumulative translation effect is included in equity .",
+      "the change in functional currency from u.s .",
+      "dollars to mexican pesos gave rise to a decrease in the net value of certain non-monetary assets and liabilities .",
+      "the aggregate impact on such assets and liabilities was $ 33.6 million with an offsetting decrease in accumulated other comprehensive income .",
+      "the functional currency of the company 2019s other foreign operating subsidiaries is also the respective local currency .",
+      "all assets and liabilities held by the subsidiaries are translated into u.s .",
+      "dollars at the exchange rate in effect at the end of the applicable fiscal reporting period .",
+      "revenues and expenses are translated at the average monthly exchange rates .",
+      "the cumulative translation effect is included in equity as a component of accumulated other comprehensive income .",
+      "foreign currency transaction gains and losses are recognized in the consolidated statements of operations and are the result of transactions of a subsidiary being denominated in a currency other than its functional currency .",
+      "cash and cash equivalents 2014cash and cash equivalents include cash on hand , demand deposits and short-term investments , including money market funds , with remaining maturities of three months or less when acquired , whose cost approximates fair value .",
+      "restricted cash 2014the company classifies as restricted cash all cash pledged as collateral to secure obligations and all cash whose use is otherwise limited by contractual provisions , including cash on deposit in reserve accounts relating to the commercial mortgage pass-through certificates , series 2007-1 issued in the company 2019s securitization transaction and the secured cellular site revenue notes , series 2010-1 class c , series 2010-2 class c and series 2010-2 class f , assumed by the company as a result of the acquisition of certain legal entities from unison holdings , llc and unison site management ii , l.l.c .",
+      "( collectively , 201cunison 201d ) . ."
+    ],
+    "table": [
+      [
+        "",
+        "2012",
+        "2011",
+        "2010"
+      ],
+      [
+        "balance as of january 1",
+        "$ 24412",
+        "$ 22505",
+        "$ 28520"
+      ],
+      [
+        "current year increases",
+        "8028",
+        "17008",
+        "16219"
+      ],
+      [
+        "write-offs net of recoveries and other",
+        "-12034 ( 12034 )",
+        "-15101 ( 15101 )",
+        "-22234 ( 22234 )"
+      ],
+      [
+        "balance as of december 31",
+        "$ 20406",
+        "$ 24412",
+        "$ 22505"
+      ]
+    ],
+    "questions": [
+      "what was the balance as of 12/31/12?",
+      "and as of 12/31/11?",
+      "and what was the difference between these two values?",
+      "and the value for 2011 specifically?",
+      "and the percentage change during this time?"
+    ]
+  }
+}

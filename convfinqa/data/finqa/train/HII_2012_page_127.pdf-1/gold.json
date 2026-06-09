@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total value of issued securities that are approved by security holders , in billions?",
+      "answer": 0.13681,
+      "answer_raw": "0.13681",
+      "program": "multiply(3946111, 34.67), divide(#0, const_1000000000)"
+    }
+  ]
+}

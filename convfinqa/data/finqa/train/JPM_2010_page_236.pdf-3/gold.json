@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the highest three year accretable yield percentage?",
+      "answer": 0.0581,
+      "answer_raw": "0.0581",
+      "program": "table_max(accretable yield percentage, none)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average purchase price of company repurchased shares in 2014?",
+      "answer": 68.38636,
+      "answer_raw": "68.38636",
+      "program": "divide(300.9, 4.4)"
+    }
+  ]
+}

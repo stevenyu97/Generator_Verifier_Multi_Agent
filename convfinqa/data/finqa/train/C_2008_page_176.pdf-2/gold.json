@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent decrease in the total aggregate annual maturities of long-term debt obligations from 2011 to 2012",
+      "answer": -0.33513,
+      "answer_raw": "-0.33513",
+      "program": "subtract(27999, 42112), divide(#0, 42112)"
+    }
+  ]
+}

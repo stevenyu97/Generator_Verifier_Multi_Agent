@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "Single_GPN/2008/page_39.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "stock performance graph the following line-graph presentation compares our cumulative shareholder returns with the standard & poor 2019s information technology index and the standard & poor 2019s 500 stock index for the past five years .",
+      "the line graph assumes the investment of $ 100 in our common stock , the standard & poor 2019s information technology index , and the standard & poor 2019s 500 stock index on may 31 , 2003 and assumes reinvestment of all dividends .",
+      "comparison of 5 year cumulative total return* among global payments inc. , the s&p 500 index and the s&p information technology index 5/03 5/04 5/05 5/06 5/07 5/08 global payments inc .",
+      "s&p 500 s&p information technology * $ 100 invested on 5/31/03 in stock or index-including reinvestment of dividends .",
+      "fiscal year ending may 31 .",
+      "global payments s&p 500 information technology ."
+    ],
+    "post_text": [
+      "issuer purchases of equity securities in fiscal 2007 , our board of directors approved a share repurchase program that authorized the purchase of up to $ 100 million of global payments 2019 stock in the open market or as otherwise may be determined by us , subject to market conditions , business opportunities , and other factors .",
+      "under this authorization , we have repurchased 2.3 million shares of our common stock .",
+      "this authorization has no expiration date and may be suspended or terminated at any time .",
+      "repurchased shares will be retired but will be available for future issuance. ."
+    ],
+    "table": [
+      [
+        "",
+        "global payments",
+        "s&p 500",
+        "s&p information technology"
+      ],
+      [
+        "may 31 2003",
+        "$ 100.00",
+        "$ 100.00",
+        "$ 100.00"
+      ],
+      [
+        "may 31 2004",
+        "137.75",
+        "118.33",
+        "121.98"
+      ],
+      [
+        "may 31 2005",
+        "205.20",
+        "128.07",
+        "123.08"
+      ],
+      [
+        "may 31 2006",
+        "276.37",
+        "139.14",
+        "123.99"
+      ],
+      [
+        "may 31 2007",
+        "238.04",
+        "170.85",
+        "152.54"
+      ],
+      [
+        "may 31 2008",
+        "281.27",
+        "159.41",
+        "156.43"
+      ]
+    ],
+    "questions": [
+      "what is value of an investment in global payments in 2005?",
+      "what about in 2004?",
+      "what is the change in value of this investment?",
+      "what roi does this represent?"
+    ]
+  }
+}

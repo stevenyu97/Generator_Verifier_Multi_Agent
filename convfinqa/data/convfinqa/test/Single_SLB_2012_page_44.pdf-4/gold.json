@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the cash flows from operations from 2011 to 2012?",
+      "answer": 0.7,
+      "answer_raw": "0.7",
+      "program": "subtract(6.8, 6.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the cash flow from operations in 2011?",
+      "answer": 6.1,
+      "answer_raw": "6.1",
+      "program": "6.1"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage change does this represent?",
+      "answer": 0.11475,
+      "answer_raw": "0.11475",
+      "program": "subtract(6.8, 6.1), divide(#0, 6.1)"
+    }
+  ]
+}

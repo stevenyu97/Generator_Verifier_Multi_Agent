@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in value of rental income from 2005 to 2006?",
+      "answer": 24.0,
+      "answer_raw": "24.0",
+      "program": "subtract(83, 59)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": 0.40678,
+      "answer_raw": "0.40678",
+      "program": "subtract(83, 59), divide(#0, 59)"
+    }
+  ]
+}

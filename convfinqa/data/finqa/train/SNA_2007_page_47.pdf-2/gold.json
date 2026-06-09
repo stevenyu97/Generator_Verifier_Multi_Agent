@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in total current liabilities from 2006 to 2007?",
+      "answer": -0.06276,
+      "answer_raw": "-0.06276",
+      "program": "subtract(639.2, 682.0), divide(#0, 682.0)"
+    }
+  ]
+}

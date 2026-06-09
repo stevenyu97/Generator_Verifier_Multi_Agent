@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the year 2014 , how bigger were the number of dollars received from sales generated from firth rixson in comparison with tital?",
+      "answer": 870.0,
+      "answer_raw": "870.0",
+      "program": "divide(970, 100), multiply(#0, 100), subtract(#1, 100)"
+    }
+  ]
+}

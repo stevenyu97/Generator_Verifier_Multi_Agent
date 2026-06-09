@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the federal operating loss carryforwards expires between 2004 and 2008?",
+      "answer": 0.00157,
+      "answer_raw": "0.00157",
+      "program": "divide(1451, 926886)"
+    }
+  ]
+}

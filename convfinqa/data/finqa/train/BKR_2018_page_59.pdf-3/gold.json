@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in cash during 2017?",
+      "answer": 5997.0,
+      "answer_raw": "5997.0",
+      "program": "add(-799, -4123), add(#0, 10919)"
+    }
+  ]
+}

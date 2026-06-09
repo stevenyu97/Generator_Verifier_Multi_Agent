@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the average price per gallon of aircraft fuel from 2016 to 2017?",
+      "answer": 0.21831,
+      "answer_raw": "0.21831",
+      "program": "subtract(1.73, 1.42), divide(#0, 1.42)"
+    }
+  ]
+}

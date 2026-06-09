@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average currency translation adjustments from 2013 to 2015 in millions?",
+      "answer": -4088.33333,
+      "answer_raw": "-4088.33333",
+      "program": "table_average(currency translation adjustments, none)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of securities approved by security holders?",
+      "answer": 85388124.0,
+      "answer_raw": "85388124.0",
+      "program": "add(17176475, 68211649)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what amount from that total remains available for future issuance?",
+      "answer": 68211649.0,
+      "answer_raw": "68211649.0",
+      "program": "68211649"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does this amount represent in relation to the total of securities?",
+      "answer": 0.79884,
+      "answer_raw": "0.79884",
+      "program": "add(17176475, 68211649), divide(68211649, #0)"
+    }
+  ]
+}

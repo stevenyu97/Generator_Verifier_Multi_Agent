@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in free cash flow from 2012 to 2013?",
+      "answer": 0.50868,
+      "answer_raw": "0.50868",
+      "program": "subtract(2085, 1382), divide(#0, 1382)"
+    }
+  ]
+}

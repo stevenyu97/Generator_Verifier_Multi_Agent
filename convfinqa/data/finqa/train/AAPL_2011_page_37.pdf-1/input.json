@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "AAPL/2011/page_37.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "r&d expense increased 36% ( 36 % ) during 2011 compared to 2010 , it declined slightly as a percentage of net sales , due to the 66% ( 66 % ) year-over-year growth in the company 2019s net sales during 2011 .",
+      "r&d expense increased 34% ( 34 % ) or $ 449 million to $ 1.8 billion in 2010 compared to 2009 .",
+      "this increase was due primarily to an increase in headcount and related expenses in the current year to support expanded r&d activities .",
+      "also contributing to this increase in r&d expense in 2010 was the capitalization in 2009 of software development costs of $ 71 million related to mac os x snow leopard .",
+      "although total r&d expense increased 34% ( 34 % ) during 2010 , it declined as a percentage of net sales given the 52% ( 52 % ) year-over-year increase in net sales in the company continues to believe that focused investments in r&d are critical to its future growth and competitive position in the marketplace and are directly related to timely development of new and enhanced products that are central to the company 2019s core business strategy .",
+      "as such , the company expects to make further investments in r&d to remain competitive .",
+      "selling , general and administrative expense ( 201csg&a 201d ) sg&a expense increased $ 2.1 billion or 38% ( 38 % ) to $ 7.6 billion during 2011 compared to 2010 .",
+      "this increase was due primarily to the company 2019s continued expansion of its retail segment , increased headcount and related costs , higher spending on professional services and marketing and advertising programs , and increased variable costs associated with the overall growth of the company 2019s net sales .",
+      "sg&a expense increased $ 1.4 billion or 33% ( 33 % ) to $ 5.5 billion in 2010 compared to 2009 .",
+      "this increase was due primarily to the company 2019s continued expansion of its retail segment , higher spending on marketing and advertising programs , increased share-based compensation expenses and variable costs associated with the overall growth of the company 2019s net sales .",
+      "other income and expense other income and expense for the three years ended september 24 , 2011 , are as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "total other income and expense increased $ 260 million or 168% ( 168 % ) to $ 415 million during 2011 compared to $ 155 million and $ 326 million in 2010 and 2009 , respectively .",
+      "the year-over-year increase in other income and expense during 2011 was due primarily to higher interest income and net realized gains on sales of marketable securities .",
+      "the overall decrease in other income and expense in 2010 compared to 2009 was attributable to the significant declines in interest rates on a year-over-year basis , partially offset by the company 2019s higher cash , cash equivalents and marketable securities balances .",
+      "additionally the company incurred higher premium expenses on its foreign exchange option contracts , which further reduced the total other income and expense .",
+      "the weighted average interest rate earned by the company on its cash , cash equivalents and marketable securities was 0.77% ( 0.77 % ) , 0.75% ( 0.75 % ) and 1.43% ( 1.43 % ) during 2011 , 2010 and 2009 , respectively .",
+      "during 2011 , 2010 and 2009 , the company had no debt outstanding and accordingly did not incur any related interest expense .",
+      "provision for income taxes the company 2019s effective tax rates were approximately 24.2% ( 24.2 % ) , 24.4% ( 24.4 % ) and 31.8% ( 31.8 % ) for 2011 , 2010 and 2009 , respectively .",
+      "the company 2019s effective rates for these periods differ from the statutory federal income tax rate of ."
+    ],
+    "table": [
+      [
+        "",
+        "2011",
+        "2010",
+        "2009"
+      ],
+      [
+        "interest and dividend income",
+        "$ 519",
+        "$ 311",
+        "$ 407"
+      ],
+      [
+        "other expense net",
+        "-104 ( 104 )",
+        "-156 ( 156 )",
+        "-81 ( 81 )"
+      ],
+      [
+        "total other income and expense",
+        "$ 415",
+        "$ 155",
+        "$ 326"
+      ]
+    ],
+    "questions": [
+      "interest and dividend income was what percent of total other income in 2011?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the company owned facilities are located in europe?",
+      "answer": 0.13253,
+      "answer_raw": "0.13253",
+      "program": "divide(11, 83)"
+    }
+  ]
+}

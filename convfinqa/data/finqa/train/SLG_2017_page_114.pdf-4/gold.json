@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the range of the amount , in millions , the plan received from employers for the pension plan in 2015 , 2016 and 2017?",
+      "answer": 35.9,
+      "answer_raw": "35.9",
+      "program": "subtract(257.8, 221.9)"
+    }
+  ]
+}

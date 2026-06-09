@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the increase in the net income in 2011 compared to 2010",
+      "answer": 3.9,
+      "answer_raw": "3.9",
+      "program": "divide(23.4, const_6)"
+    }
+  ]
+}

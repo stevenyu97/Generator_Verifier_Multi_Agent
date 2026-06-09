@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate of operating expenses from 2009 to 2010?",
+      "answer": -0.05311,
+      "answer_raw": "-0.05311",
+      "program": "subtract(8246, 972), subtract(8654, 972), subtract(#0, #1), divide(#2, #1)"
+    }
+  ]
+}

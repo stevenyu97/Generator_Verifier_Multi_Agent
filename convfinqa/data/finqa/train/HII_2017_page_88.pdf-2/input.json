@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "HII/2017/page_88.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "cash and cash equivalents - the carrying amounts of cash and cash equivalents approximate fair value due to the short-term nature of these assets , which have original maturity dates of 90 days or less .",
+      "concentration risk - the company 2019s assets that are exposed to concentrations of credit risk consist primarily of cash and cash equivalents .",
+      "the company places its cash and cash equivalents with reputable financial institutions and limits the amount of credit exposure with any one of them .",
+      "the company regularly evaluates the creditworthiness of these financial institutions and minimizes this credit risk by entering into transactions with high- quality counterparties , limiting the exposure to each counterparty , and monitoring the financial condition of its counterparties .",
+      "in connection with its u.s .",
+      "government contracts , the company is required to procure certain raw materials , components , and parts from supply sources approved by the u.s .",
+      "government .",
+      "only one supplier may exist for certain components and parts required to manufacture the company's products .",
+      "accounts receivable - accounts receivable include amounts billed and currently due from customers , amounts currently due but unbilled , certain estimated contract change amounts , claims or requests for equitable adjustment in negotiation that are probable of recovery , and amounts retained by the customer pending contract completion .",
+      "inventoried costs - inventoried costs primarily relate to production costs of contracts in process and company owned raw materials , which are stated at the lower of cost or net realizable value , generally using the average cost method .",
+      "under the company's u.s .",
+      "government contracts , the customer asserts title to , or a security interest in , inventories related to such contracts as a result of contract advances , performance-based payments , and progress payments .",
+      "in accordance with industry practice , inventoried costs are classified as a current asset and include amounts related to contracts having production cycles longer than one year .",
+      "inventoried costs also include work in process under contracts that recognize revenues using labor dollars as the basis of the percentage-of-completion calculation .",
+      "these costs represent accumulated contract costs less cost of sales as calculated using the percentage-of-completion method , not in excess of recoverable value .",
+      "advance payments and billings in excess of revenues - payments received in excess of inventoried costs and revenues are recorded as advance payment liabilities .",
+      "property , plant , and equipment - depreciable properties owned by the company are recorded at cost and depreciated over the estimated useful lives of individual assets .",
+      "major improvements are capitalized while expenditures for maintenance , repairs , and minor improvements are expensed .",
+      "costs incurred for computer software developed or obtained for internal use are capitalized and amortized over the expected useful life of the software , not to exceed nine years .",
+      "leasehold improvements are amortized over the shorter of their useful lives or the term of the lease .",
+      "the remaining assets are depreciated using the straight-line method , with the following lives: ."
+    ],
+    "post_text": [
+      "the company evaluates the recoverability of its property , plant , and equipment when there are changes in economic circumstances or business objectives that indicate the carrying value may not be recoverable .",
+      "the company's evaluations include estimated future cash flows , profitability , and other factors affecting fair value .",
+      "as these assumptions and estimates may change over time , it may or may not be necessary to record impairment charges .",
+      "leases - the company uses its incremental borrowing rate in the assessment of lease classification as capital or operating and defines the initial lease term to include renewal options determined to be reasonably assured .",
+      "the company conducts operations primarily under operating leases. ."
+    ],
+    "table": [
+      [
+        "land improvements",
+        "years 2",
+        "years -",
+        "years 40"
+      ],
+      [
+        "buildings and improvements",
+        "2",
+        "-",
+        "60"
+      ],
+      [
+        "capitalized software costs",
+        "2",
+        "-",
+        "9"
+      ],
+      [
+        "machinery and other equipment",
+        "2",
+        "-",
+        "45"
+      ]
+    ],
+    "questions": [
+      "what is the minimum yearly depreciation rate for capitalized software costs?"
+    ]
+  }
+}

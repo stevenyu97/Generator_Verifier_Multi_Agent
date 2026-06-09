@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2011 what was the ratio of square footage in menlo park california to sandy utah",
+      "answer": 1.37879,
+      "answer_raw": "1.37879",
+      "program": "divide(91000, 66000)"
+    }
+  ]
+}

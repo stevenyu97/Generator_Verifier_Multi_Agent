@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total number of shares of common stock outstanding?",
+      "answer": 809462927.0,
+      "answer_raw": "809462927.0",
+      "program": "add(597213410, 100000000), add(#0, 2462927), add(#1, 109786590)"
+    }
+  ]
+}

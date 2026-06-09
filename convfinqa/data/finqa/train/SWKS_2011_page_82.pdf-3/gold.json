@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total value of operating lease obligations that are due within the next 5 years?",
+      "answer": 31846.0,
+      "answer_raw": "31846.0",
+      "program": "subtract(37788, 5942)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "Single_CE/2014/page_16.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "fortron industries llc .",
+      "fortron is a leading global producer of pps , sold under the fortron ae brand , which is used in a wide variety of automotive and other applications , especially those requiring heat and/or chemical resistance .",
+      "fortron's facility is located in wilmington , north carolina .",
+      "this venture combines the sales , marketing , distribution , compounding and manufacturing expertise of celanese with the pps polymer technology expertise of kureha america inc .",
+      "cellulose derivatives strategic ventures .",
+      "our cellulose derivatives ventures generally fund their operations using operating cash flow and pay dividends based on each ventures' performance in the preceding year .",
+      "in 2014 , 2013 and 2012 , we received cash dividends of $ 115 million , $ 92 million and $ 83 million , respectively .",
+      "although our ownership interest in each of our cellulose derivatives ventures exceeds 20% ( 20 % ) , we account for these investments using the cost method of accounting because we determined that we cannot exercise significant influence over these entities due to local government investment in and influence over these entities , limitations on our involvement in the day-to-day operations and the present inability of the entities to provide timely financial information prepared in accordance with generally accepted accounting principles in the united states of america ( \"us gaap\" ) .",
+      "2022 other equity method investments infraservs .",
+      "we hold indirect ownership interests in several german infraserv groups that own and develop industrial parks and provide on-site general and administrative support to tenants .",
+      "our ownership interest in the equity investments in infraserv affiliates are as follows : as of december 31 , 2014 ( in percentages ) ."
+    ],
+    "post_text": [
+      "research and development our businesses are innovation-oriented and conduct research and development activities to develop new , and optimize existing , production technologies , as well as to develop commercially viable new products and applications .",
+      "research and development expense was $ 86 million , $ 85 million and $ 104 million for the years ended december 31 , 2014 , 2013 and 2012 , respectively .",
+      "we consider the amounts spent during each of the last three fiscal years on research and development activities to be sufficient to execute our current strategic initiatives .",
+      "intellectual property we attach importance to protecting our intellectual property , including safeguarding our confidential information and through our patents , trademarks and copyrights , in order to preserve our investment in research and development , manufacturing and marketing .",
+      "patents may cover processes , equipment , products , intermediate products and product uses .",
+      "we also seek to register trademarks as a means of protecting the brand names of our company and products .",
+      "patents .",
+      "in most industrial countries , patent protection exists for new substances and formulations , as well as for certain unique applications and production processes .",
+      "however , we do business in regions of the world where intellectual property protection may be limited and difficult to enforce .",
+      "confidential information .",
+      "we maintain stringent information security policies and procedures wherever we do business .",
+      "such information security policies and procedures include data encryption , controls over the disclosure and safekeeping of confidential information and trade secrets , as well as employee awareness training .",
+      "trademarks .",
+      "aoplus ae , aoplus ae2 , aoplus ae3 , ateva ae , avicor ae , britecoat ae , celanese ae , celanex ae , celcon ae , celfx 2122 , celstran ae , celvolit ae , clarifoil ae , duroset ae , ecovae ae , factor ae , fortron ae , gur ae , hostaform ae , impet ae , mowilith ae , nutrinova ae , qorus 2122 , riteflex ae , sunett ae , tcx 2122 , thermx ae , tufcor ae , vantage ae , vantageplus 2122 , vantage ae2 , vectra ae , vinamul ae , vitaldose ae , zenite ae and certain other branded products and services named in this document are registered or reserved trademarks or service marks owned or licensed by celanese .",
+      "the foregoing is not intended to be an exhaustive or comprehensive list of all registered or reserved trademarks and service marks owned or licensed by celanese .",
+      "fortron ae is a registered trademark of fortron industries llc. ."
+    ],
+    "table": [
+      [
+        "",
+        "as of december 31 2014 ( in percentages )"
+      ],
+      [
+        "infraserv gmbh & co . gendorf kg",
+        "39"
+      ],
+      [
+        "infraserv gmbh & co . hoechst kg",
+        "32"
+      ],
+      [
+        "infraserv gmbh & co . knapsack kg",
+        "27"
+      ]
+    ],
+    "questions": [
+      "what was the change in cash dividends from 2012 to 2014?",
+      "and what was the total of those cash dividends in 2012?",
+      "how much, then, does that change represent in relation to this 2012 total, in percentage?"
+    ]
+  }
+}

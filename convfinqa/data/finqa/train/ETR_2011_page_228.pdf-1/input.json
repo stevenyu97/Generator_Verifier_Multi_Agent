@@ -1,0 +1,99 @@
+{
+  "input": {
+    "id": "ETR/2011/page_228.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "part i item 1 entergy corporation , utility operating companies , and system energy entergy wholesale commodities during 2010 entergy integrated its non-utility nuclear and its non-nuclear wholesale assets businesses into a new organization called entergy wholesale commodities .",
+      "entergy wholesale commodities includes the ownership and operation of six nuclear power plants , five of which are located in the northeast united states , with the sixth located in michigan , and is primarily focused on selling electric power produced by those plants to wholesale customers .",
+      "entergy wholesale commodities 2019 revenues are primarily derived from sales of energy and generation capacity from these plants .",
+      "entergy wholesale commodities also provides operations and management services , including decommissioning services , to nuclear power plants owned by other utilities in the united states .",
+      "entergy wholesale commodities also includes the ownership of , or participation in joint ventures that own , non-nuclear power plants and the sale to wholesale customers of the electric power produced by these plants .",
+      "property nuclear generating stations entergy wholesale commodities includes the ownership of the following nuclear power plants : power plant market service acquired location capacity- reactor type license expiration ."
+    ],
+    "post_text": [
+      "entergy wholesale commodities also includes the ownership of two non-operating nuclear facilities , big rock point in michigan and indian point 1 in new york that were acquired when entergy purchased the palisades and indian point 2 nuclear plants , respectively .",
+      "these facilities are in various stages of the decommissioning process .",
+      "the nrc operating license for vermont yankee was to expire in march 2012 .",
+      "in march 2011 the nrc renewed vermont yankee 2019s operating license for an additional 20 years , as a result of which the license now expires in 2032 .",
+      "for additional discussion regarding the continued operation of the vermont yankee plant , see 201cimpairment of long-lived assets 201d in note 1 to the financial statements .",
+      "the operating licenses for pilgrim , indian point 2 , and indian point 3 expire between 2012 and 2015 .",
+      "under federal law , nuclear power plants may continue to operate beyond their license expiration dates while their renewal applications are pending nrc approval .",
+      "various parties have expressed opposition to renewal of the licenses .",
+      "with respect to the pilgrim license renewal , the atomic safety and licensing board ( aslb ) of the nrc , after issuing an order denying a new hearing request , terminated its proceeding on pilgrim 2019s license renewal application .",
+      "with the aslb process concluded the proceeding , including appeals of certain aslb decisions , is now before the nrc .",
+      "in april 2007 , entergy submitted an application to the nrc to renew the operating licenses for indian point 2 and 3 for an additional 20 years .",
+      "the aslb has admitted 21 contentions raised by the state of new york or other parties , which were combined into 16 discrete issues .",
+      "two of the issues have been resolved , leaving 14 issues that are currently subject to aslb hearings .",
+      "in july 2011 , the aslb granted the state of new york 2019s motion for summary disposition of an admitted contention challenging the adequacy of a section of indian point 2019s environmental analysis as incorporated in the fseis ( discussed below ) .",
+      "that section provided cost estimates for severe accident mitigation alternatives ( samas ) , which are hardware and procedural changes that could be ."
+    ],
+    "table": [
+      [
+        "power plant",
+        "market",
+        "inserviceyear",
+        "acquired",
+        "location",
+        "capacity-reactor type",
+        "licenseexpirationdate"
+      ],
+      [
+        "pilgrim",
+        "is0-ne",
+        "1972",
+        "july 1999",
+        "plymouth ma",
+        "688 mw - boiling water",
+        "2012"
+      ],
+      [
+        "fitzpatrick",
+        "nyiso",
+        "1975",
+        "nov . 2000",
+        "oswego ny",
+        "838 mw - boiling water",
+        "2034"
+      ],
+      [
+        "indian point 3",
+        "nyiso",
+        "1976",
+        "nov . 2000",
+        "buchanan ny",
+        "1041 mw - pressurized water",
+        "2015"
+      ],
+      [
+        "indian point 2",
+        "nyiso",
+        "1974",
+        "sept . 2001",
+        "buchanan ny",
+        "1028 mw - pressurized water",
+        "2013"
+      ],
+      [
+        "vermont yankee",
+        "is0-ne",
+        "1972",
+        "july 2002",
+        "vernon vt",
+        "605 mw - boiling water",
+        "2032"
+      ],
+      [
+        "palisades",
+        "miso",
+        "1971",
+        "apr . 2007",
+        "south haven mi",
+        "811 mw - pressurized water",
+        "2031"
+      ]
+    ],
+    "questions": [
+      "what is the length of the lease for pilgrim , ( in years ) ?"
+    ]
+  }
+}

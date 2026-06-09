@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "of the short-term investments and fixed income securities at november 30 , 2018 , what percentage are due after three years?",
+      "answer": 0.08051,
+      "answer_raw": "0.08051",
+      "program": "divide(127.7, 1586.2)"
+    }
+  ]
+}

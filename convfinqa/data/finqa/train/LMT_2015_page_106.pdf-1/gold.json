@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 2015 what was the ratio of the estimated future benefit payments due in 2016 compared to after 2021",
+      "answer": 0.15801,
+      "answer_raw": "0.15801",
+      "program": "divide(2160, 13670)"
+    }
+  ]
+}

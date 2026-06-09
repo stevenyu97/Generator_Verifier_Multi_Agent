@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the conversion price before the reset of convertible preferred stock issued in the private offering?",
+      "answer": 31.62,
+      "answer_raw": "31.62",
+      "program": "31.62"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what became the conversion price with that reset?",
+      "answer": 26.35,
+      "answer_raw": "26.35",
+      "program": "26.35"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what, then, was the change in the conversion price because of that reset?",
+      "answer": 5.27,
+      "answer_raw": "5.27",
+      "program": "subtract(31.62, 26.35)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation to the original conversion price, in percentage?",
+      "answer": 0.16667,
+      "answer_raw": "0.16667",
+      "program": "subtract(31.62, 26.35), divide(#0, 31.62)"
+    }
+  ]
+}

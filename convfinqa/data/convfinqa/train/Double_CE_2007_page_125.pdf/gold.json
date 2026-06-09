@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the balance of unrecognized tax benefits at the end of 2007?",
+      "answer": 200.0,
+      "answer_raw": "200.0",
+      "program": "200"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about at the beginning of 2007?",
+      "answer": 193.0,
+      "answer_raw": "193.0",
+      "program": "193"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 7.0,
+      "answer_raw": "7.0",
+      "program": "subtract(200, 193)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage change does this represent?",
+      "answer": 0.03627,
+      "answer_raw": "0.03627",
+      "program": "subtract(200, 193), divide(#0, 193)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what amount of tax benefit would affect the effective tax rate if it is recognized?",
+      "answer": 56.0,
+      "answer_raw": "56.0",
+      "program": "56"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what portion of the end year balance does this represent?",
+      "answer": 0.28,
+      "answer_raw": "0.28",
+      "program": "divide(56, 200)"
+    }
+  ]
+}

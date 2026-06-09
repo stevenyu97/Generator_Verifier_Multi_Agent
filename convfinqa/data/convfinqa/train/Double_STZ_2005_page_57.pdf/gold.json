@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "between the two acquisitions, was the purchase price for hardy greater than for mondavi?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(1137.4, 1030.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what portion of the net asset acquired is from goodwill?",
+      "answer": 0.56673,
+      "answer_raw": "0.56673",
+      "program": "divide(590459, 1041861)"
+    }
+  ]
+}

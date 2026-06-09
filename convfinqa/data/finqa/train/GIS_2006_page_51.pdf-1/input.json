@@ -1,0 +1,81 @@
+{
+  "input": {
+    "id": "GIS/2006/page_51.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "item 7a quantitative and qualitative disclosures about market risk we are exposed to market risk stemming from changes in interest rates , foreign exchange rates , commodity prices and equity prices .",
+      "changes in these factors could cause fluctuations in our earnings and cash flows .",
+      "in the normal course of business , we actively manage our exposure to these market risks by entering into various hedging trans- actions , authorized under our policies that place clear controls on these activities .",
+      "the counterparties in these transactions are generally highly rated institutions .",
+      "we establish credit limits for each counterparty .",
+      "our hedging transactions include but are not limited to a variety of deriv- ative financial instruments .",
+      "interest rates we manage our debt structure and our interest rate risk through the use of fixed- and floating-rate debt and derivatives .",
+      "we use interest rate swaps and forward-starting interest rate swaps to hedge our exposure to interest rate changes and to reduce volatility of our financing costs .",
+      "generally under these swaps , we agree with a counterparty to exchange the difference between fixed- rate and floating-rate interest amounts based on an agreed notional principal amount .",
+      "our primary exposure is to u.s .",
+      "interest rates .",
+      "as of may 28 , 2006 , we had $ 7.0 billion of aggregate notional principal amount ( the principal amount on which the fixed or floating interest rate is calculated ) outstanding .",
+      "this includes notional amounts of offsetting swaps that neutralize our exposure to interest rates on other interest rate swaps .",
+      "see note six to the consolidated finan- cial statements on pages 40 through 42 in item eight of this report .",
+      "foreign currency rates foreign currency fluctuations can affect our net investments and earnings denominated in foreign currencies .",
+      "we primarily use foreign currency forward contracts and option contracts to selectively hedge our cash flow exposure to changes in exchange rates .",
+      "these contracts function as hedges , since they change in value inversely to the change created in the underlying exposure as foreign exchange rates fluctuate .",
+      "our primary u.s .",
+      "dollar exchange rate exposures are with the canadian dollar , the euro , the australian dollar , the mexican peso and the british pound .",
+      "commodities many commodities we use in the produc- tion and distribution of our products are exposed to market price risks .",
+      "we manage this market risk through an inte- grated set of financial instruments , including purchase orders , noncancelable contracts , futures contracts , options and swaps .",
+      "our primary commodity price exposures are to cereal grains , sugar , dairy products , vegetables , fruits , meats , vegetable oils , and other agricultural products , as well as paper and plastic packaging materials , operating supplies and energy .",
+      "equity instruments equity price movements affect our compensation expense as certain investments owned by our employees are revalued .",
+      "we use equity swaps to manage this market risk .",
+      "value at risk these estimates are intended to measure the maximum potential fair value we could lose in one day from adverse changes in market interest rates , foreign exchange rates , commodity prices , or equity prices under normal market conditions .",
+      "a monte carlo ( var ) method- ology was used to quantify the market risk for our exposures .",
+      "the models assumed normal market conditions and used a 95 percent confidence level .",
+      "the var calculation used historical interest rates , foreign exchange rates and commodity and equity prices from the past year to estimate the potential volatility and correlation of these rates in the future .",
+      "the market data were drawn from the riskmetricstm data set .",
+      "the calculations are not intended to represent actual losses in fair value that we expect to incur .",
+      "further , since the hedging instrument ( the derivative ) inversely correlates with the underlying expo- sure , we would expect that any loss or gain in the fair value of our derivatives would be generally offset by an increase or decrease in the fair value of the underlying exposures .",
+      "the positions included in the calculations were : debt ; invest- ments ; interest rate swaps ; foreign exchange forwards ; commodity swaps , futures and options ; and equity instru- ments .",
+      "the calculations do not include the underlying foreign exchange and commodities-related positions that are hedged by these market-risk-sensitive instruments .",
+      "the table below presents the estimated maximum poten- tial one-day loss in fair value for our interest rate , foreign currency , commodity and equity market-risk-sensitive instruments outstanding on may 28 , 2006 and may 29 , 2005 , and the average amount outstanding during the year ended may 28 , 2006 .",
+      "the amounts were calculated using the var methodology described above. ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "in millions",
+        "fair value impact may 282006",
+        "fair value impact averageduring2006",
+        "fair value impact may 292005"
+      ],
+      [
+        "interest rate instruments",
+        "$ 8",
+        "$ 10",
+        "$ 18"
+      ],
+      [
+        "foreign currency instruments",
+        "2",
+        "1",
+        "1"
+      ],
+      [
+        "commodity instruments",
+        "2",
+        "2",
+        "1"
+      ],
+      [
+        "equity instruments",
+        "1",
+        "1",
+        "2013"
+      ]
+    ],
+    "questions": [
+      "what is the total fair value impact of all instruments as of may 28 , 2006?"
+    ]
+  }
+}

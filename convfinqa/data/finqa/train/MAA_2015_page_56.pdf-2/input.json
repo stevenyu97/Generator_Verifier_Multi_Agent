@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "MAA/2015/page_56.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the increase in property operating expenses from our large market same store group is primarily the result of increases in real estate taxes of $ 3.2 million , personnel expenses of $ 1.9 million , water expenses of approximately $ 1.0 million , cable expenses of $ 0.5 million , and waste removal expenses of $ 0.2 million .",
+      "the increase in property operating expenses from our secondary market same store group is primarily a result of increases in other operating expenses of $ 1.5 million , real estate taxes of $ 1.1 million , and personnel expenses of $ 1.2 million .",
+      "the decrease in property operating expenses from our non-same store and other group is primarily the result of decreases in personnel expenses of $ 2.4 million and utility expenses of $ 1.7 million .",
+      "depreciation and amortization the following table shows our depreciation and amortization expense by segment for the years ended december 31 , 2015 and december 31 , 2014 ( dollars in thousands ) : year ended december 31 , 2015 year ended december 31 , 2014 increase percentage increase ."
+    ],
+    "post_text": [
+      "the decrease in depreciation and amortization expense is primarily due to a decrease of $ 19.4 million related to the amortization of the fair value of in-place leases and resident relationships acquired as a result of the merger from the year ended december 31 , 2014 to the year ended december 31 , 2015 .",
+      "this decrease was partially offset by an increase in depreciation expense of $ 11.7 million driven by an increase in gross real estate assets from the year ended december 31 , 2014 to the year ended december 31 , 2015 .",
+      "property management expenses property management expenses for the year ended december 31 , 2015 were approximately $ 31.0 million , a decrease of $ 1.1 million from the year ended december 31 , 2014 .",
+      "the majority of the decrease was related to a decrease in state franchise taxes of $ 2.1 million , partially offset by an increase in insurance expense of $ 0.6 million , an increase in payroll expense of $ 0.3 million , and an increase in incentive expense $ 0.3 million .",
+      "general and administrative expenses general and administrative expenses for the year ended december 31 , 2015 were approximately $ 25.7 million , an increase of $ 4.8 million from the year ended december 31 , 2014 .",
+      "the majority of the increase was related to increases in legal fees of $ 2.7 million and stock option expenses of $ 1.6 million .",
+      "merger and integration related expenses there were no merger or integration related expenses for the year ended december 31 , 2015 , as these expenses related primarily to severance , legal , professional , temporary systems , staffing , and facilities costs incurred for the acquisition and integration of colonial .",
+      "for the year ended december 31 , 2014 , merger and integration related expenses were approximately $ 3.2 million and $ 8.4 million , respectively .",
+      "interest expense interest expense for the year ended december 31 , 2015 was approximately $ 122.3 million , a decrease of $ 1.6 million from the year ended december 31 , 2014 .",
+      "the decrease was primarily the result of a decrease in amortization of deferred financing cost from the year ended december 31 , 2014 to the year ended december 31 , 2015 of approximately $ 0.9 million .",
+      "also , the overall debt balance decreased from $ 3.5 billion to $ 3.4 billion , a decrease of $ 85.1 million .",
+      "the average effective interest rate remained at 3.7% ( 3.7 % ) and the average years to rate maturity increased from 4.4 years to 4.8 years .",
+      "job title mid-america apartment 10-k revision 1 serial <12345678> date sunday , march 20 , 2016 job number 304352-1 type page no .",
+      "50 operator abigaels ."
+    ],
+    "table": [
+      [
+        "",
+        "year ended december 31 2015",
+        "year ended december 31 2014",
+        "increase",
+        "percentage increase"
+      ],
+      [
+        "large market same store",
+        "$ 168872",
+        "$ 174957",
+        "$ -6085 ( 6085 )",
+        "( 3.5 ) % (  % )"
+      ],
+      [
+        "secondary market same store",
+        "85008",
+        "86058",
+        "-1050 ( 1050 )",
+        "( 1.2 ) % (  % )"
+      ],
+      [
+        "same store portfolio",
+        "253880",
+        "261015",
+        "-7135 ( 7135 )",
+        "( 2.7 ) % (  % )"
+      ],
+      [
+        "non-same store and other",
+        "40640",
+        "40797",
+        "-157 ( 157 )",
+        "( 0.4 ) % (  % )"
+      ],
+      [
+        "total",
+        "$ 294520",
+        "$ 301812",
+        "$ -7292 ( 7292 )",
+        "( 2.4 ) % (  % )"
+      ]
+    ],
+    "questions": [
+      "what is the variation observed in the percentual decrease of the large market same-store and the secondary market same-store during 2014 and 2015?"
+    ]
+  }
+}

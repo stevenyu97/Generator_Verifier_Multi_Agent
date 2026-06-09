@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the backlog from 2014 to 2015?",
+      "answer": 225.0,
+      "answer_raw": "225.0",
+      "program": "subtract(3142, 2917)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that backlog in 2014?",
+      "answer": 2917.0,
+      "answer_raw": "2917.0",
+      "program": "2917"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2014 backlog, in percentage?",
+      "answer": 0.07713,
+      "answer_raw": "0.07713",
+      "program": "subtract(3142, 2917), divide(#0, 2917)"
+    }
+  ]
+}

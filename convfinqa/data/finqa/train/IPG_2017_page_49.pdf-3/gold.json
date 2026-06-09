@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the mathematical range in 2017 for 10% ( 10 % ) increase and 10% ( 10 % ) decrease in interest rate?",
+      "answer": 40.8,
+      "answer_raw": "40.8",
+      "program": "add(20.2, 20.6)"
+    }
+  ]
+}

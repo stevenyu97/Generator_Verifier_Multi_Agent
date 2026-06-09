@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2005 and 2004 , what were net gains and losses from all hedges ( us$ m? )",
+      "answer": 140.0,
+      "answer_raw": "140.0",
+      "program": "add(-58, 199), add(#0, -2), add(#1, 1)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the expected growth rate in rental expense under operating leases in 2008?",
+      "answer": -0.28433,
+      "answer_raw": "-0.28433",
+      "program": "divide(30774, const_1000), subtract(#0, 43), divide(#1, 43)"
+    }
+  ]
+}

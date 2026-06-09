@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by number of properties , outpatient medical was what percent of the total?",
+      "answer": 0.19954,
+      "answer_raw": "0.19954",
+      "program": "divide(262, 1313)"
+    }
+  ]
+}

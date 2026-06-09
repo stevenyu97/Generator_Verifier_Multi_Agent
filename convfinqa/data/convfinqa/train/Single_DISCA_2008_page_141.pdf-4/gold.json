@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in value of an investment in disca from sep 18 to dec 31, 2008?",
+      "answer": 2.53,
+      "answer_raw": "2.53",
+      "program": "subtract(102.53, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what return does this represent?",
+      "answer": 0.0253,
+      "answer_raw": "0.0253",
+      "program": "subtract(102.53, const_100), divide(#0, const_100)"
+    }
+  ]
+}

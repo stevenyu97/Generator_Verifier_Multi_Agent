@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2008, what amount from the rent obligations will be paid-off through sublease rental income?",
+      "answer": 40.9,
+      "answer_raw": "40.9",
+      "program": "40.9"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the total of those rent obligations?",
+      "answer": 323.9,
+      "answer_raw": "323.9",
+      "program": "323.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what portion, then, of this total does that amount represent?",
+      "answer": 0.12627,
+      "answer_raw": "0.12627",
+      "program": "divide(40.9, 323.9)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and considering the values for all years, what becomes this ratio, or portion?",
+      "answer": 0.08583,
+      "answer_raw": "0.08583",
+      "program": "divide(188.4, 2195.1)"
+    }
+  ]
+}

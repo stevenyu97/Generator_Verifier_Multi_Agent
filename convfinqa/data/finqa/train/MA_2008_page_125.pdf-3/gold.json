@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2009 what was the percent of the operating lease to the total",
+      "answer": 0.10831,
+      "answer_raw": "0.10831",
+      "program": "divide(40327, 372320)"
+    }
+  ]
+}

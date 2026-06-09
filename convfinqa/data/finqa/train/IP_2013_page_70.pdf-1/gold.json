@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2014 what percentage of contractual obligations for future payments under existing debt and lease commitments and purchase obligations at december 31 , 2013 was attributable to maturities of long-term debt?",
+      "answer": 0.16517,
+      "answer_raw": "0.16517",
+      "program": "divide(661, 4002)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did the average price per share decrease from 2007 to 2009?",
+      "answer": -0.22954,
+      "answer_raw": "-0.22954",
+      "program": "subtract(63.91, 82.95), divide(#0, 82.95)"
+    }
+  ]
+}

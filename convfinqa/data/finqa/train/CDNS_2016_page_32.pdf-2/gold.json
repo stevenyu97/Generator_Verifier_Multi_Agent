@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in percentage cumulative 5-year total stockholder return on cadence design systems inc . common stock and the s&p 400 information technology for the period ended 12/31/2016?",
+      "answer": 0.2285,
+      "answer_raw": "0.2285",
+      "program": "subtract(242.50, const_100), divide(#0, const_100), subtract(219.65, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

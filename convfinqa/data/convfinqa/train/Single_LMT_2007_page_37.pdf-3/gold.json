@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amount of approved share purchases in 2007?",
+      "answer": 128.0,
+      "answer_raw": "128.0",
+      "program": "128"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the number repurchased from the program?",
+      "answer": 95.3,
+      "answer_raw": "95.3",
+      "program": "95.3"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the amount not purchased?",
+      "answer": 32.7,
+      "answer_raw": "32.7",
+      "program": "subtract(128, 95.3)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the number of shares approved again?",
+      "answer": 128.0,
+      "answer_raw": "128.0",
+      "program": "128"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage of shares remaining for purchase?",
+      "answer": 0.25547,
+      "answer_raw": "0.25547",
+      "program": "subtract(128, 95.3), divide(#0, 128)"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "input": {
+    "id": "Single_ALXN/2016/page_89.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "risks related to our common stock our stock price is extremely volatile .",
+      "the trading price of our common stock has been extremely volatile and may continue to be volatile in the future .",
+      "many factors could have an impact on our stock price , including fluctuations in our or our competitors 2019 operating results , clinical trial results or adverse events associated with our products , product development by us or our competitors , changes in laws , including healthcare , tax or intellectual property laws , intellectual property developments , changes in reimbursement or drug pricing , the existence or outcome of litigation or government proceedings , including the sec/doj investigation , failure to resolve , delays in resolving or other developments with respect to the issues raised in the warning letter , acquisitions or other strategic transactions , and the perceptions of our investors that we are not performing or meeting expectations .",
+      "the trading price of the common stock of many biopharmaceutical companies , including ours , has experienced extreme price and volume fluctuations , which have at times been unrelated to the operating performance of the companies whose stocks were affected .",
+      "anti-takeover provisions in our charter and bylaws and under delaware law could make a third-party acquisition of us difficult and may frustrate any attempt to remove or replace our current management .",
+      "our corporate charter and by-law provisions may discourage certain types of transactions involving an actual or potential change of control that might be beneficial to us or our stockholders .",
+      "our bylaws provide that special meetings of our stockholders may be called only by the chairman of the board , the president , the secretary , or a majority of the board of directors , or upon the written request of stockholders who together own of record 25% ( 25 % ) of the outstanding stock of all classes entitled to vote at such meeting .",
+      "our bylaws also specify that the authorized number of directors may be changed only by resolution of the board of directors .",
+      "our charter does not include a provision for cumulative voting for directors , which may have enabled a minority stockholder holding a sufficient percentage of a class of shares to elect one or more directors .",
+      "under our charter , our board of directors has the authority , without further action by stockholders , to designate up to 5 shares of preferred stock in one or more series .",
+      "the rights of the holders of common stock will be subject to , and may be adversely affected by , the rights of the holders of any class or series of preferred stock that may be issued in the future .",
+      "because we are a delaware corporation , the anti-takeover provisions of delaware law could make it more difficult for a third party to acquire control of us , even if the change in control would be beneficial to stockholders .",
+      "we are subject to the provisions of section 203 of the delaware general laws , which prohibits a person who owns in excess of 15% ( 15 % ) of our outstanding voting stock from merging or combining with us for a period of three years after the date of the transaction in which the person acquired in excess of 15% ( 15 % ) of our outstanding voting stock , unless the merger or combination is approved in a prescribed manner .",
+      "item 1b .",
+      "unresolved staff comments .",
+      "item 2 .",
+      "properties .",
+      "we conduct our primary operations at the owned and leased facilities described below .",
+      "location operations conducted approximate square feet expiration new haven , connecticut corporate headquarters and executive , sales , research and development offices 514000 2030 dublin , ireland global supply chain , distribution , and administration offices 160000 owned ."
+    ],
+    "post_text": [
+      "we believe that our administrative office space is adequate to meet our needs for the foreseeable future .",
+      "we also believe that our research and development facilities and our manufacturing facilities , together with third party manufacturing facilities , will be adequate for our on-going activities .",
+      "in addition to the locations above , we also lease space in other u.s .",
+      "locations and in foreign countries to support our operations as a global organization. ."
+    ],
+    "table": [
+      [
+        "location",
+        "operations conducted",
+        "approximatesquare feet",
+        "leaseexpirationdates"
+      ],
+      [
+        "new haven connecticut",
+        "corporate headquarters and executive sales research and development offices",
+        "514000",
+        "2030"
+      ],
+      [
+        "dublin ireland",
+        "global supply chain distribution and administration offices",
+        "160000",
+        "owned"
+      ],
+      [
+        "athlone ireland",
+        "commercial research and development manufacturing",
+        "80000",
+        "owned"
+      ],
+      [
+        "lexington massachusetts",
+        "research and development offices",
+        "81000",
+        "2019"
+      ],
+      [
+        "bogart georgia",
+        "commercial research and development manufacturing",
+        "70000",
+        "owned"
+      ],
+      [
+        "smithfield rhode island",
+        "commercial research and development manufacturing",
+        "67000",
+        "owned"
+      ],
+      [
+        "zurich switzerland",
+        "regional executive and sales offices",
+        "69000",
+        "2025"
+      ]
+    ],
+    "questions": [
+      "what is the square feet of the owned global supply chain distribution and administration offices?",
+      "what is the square feet of the owned commercial research and development manufacturing?",
+      "what is the sum of those values?",
+      "what is the total sum including square feet of commercial research and development manufacturing in bogart, georgia?",
+      "what is the total sum including square feet of commercial research and development manufacturing in smithfield, rhode island?",
+      "what is the total sum of square feet owned?"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in value of cash provided by operating activities from 2007 to 2008?",
+      "answer": 793.0,
+      "answer_raw": "793.0",
+      "program": "subtract(4070, 3277)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that change divided by the 2007 value?",
+      "answer": 0.24199,
+      "answer_raw": "0.24199",
+      "program": "subtract(4070, 3277), divide(#0, 3277)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if 2012 total revenue increases at the same pace as arc in the chemicals , industrial products , and automotive businesses , what would 2013 revenue be in millions?",
+      "answer": 20926.12,
+      "answer_raw": "20926.12",
+      "program": "add(20926, 12%)"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "input": {
+    "id": "GS/2013/page_195.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements under the regulatory framework for prompt corrective action applicable to gs bank usa , in order to meet the quantitative requirements for being a 201cwell-capitalized 201d depository institution , gs bank usa is required to maintain a tier 1 capital ratio of at least 6% ( 6 % ) , a total capital ratio of at least 10% ( 10 % ) and a tier 1 leverage ratio of at least 5% ( 5 % ) .",
+      "gs bank usa agreed with the federal reserve board to maintain minimum capital ratios in excess of these 201cwell- capitalized 201d levels .",
+      "accordingly , for a period of time , gs bank usa is expected to maintain a tier 1 capital ratio of at least 8% ( 8 % ) , a total capital ratio of at least 11% ( 11 % ) and a tier 1 leverage ratio of at least 6% ( 6 % ) .",
+      "as noted in the table below , gs bank usa was in compliance with these minimum capital requirements as of december 2013 and december 2012 .",
+      "the table below presents information regarding gs bank usa 2019s regulatory capital ratios under basel i , as implemented by the federal reserve board .",
+      "the information as of december 2013 reflects the revised market risk regulatory capital requirements , which became effective on january 1 , 2013 .",
+      "these changes resulted in increased regulatory capital requirements for market risk .",
+      "the information as of december 2012 is prior to the implementation of these revised market risk regulatory capital requirements. ."
+    ],
+    "post_text": [
+      "the revised capital framework described above is also applicable to gs bank usa , which is an advanced approach banking organization under this framework .",
+      "gs bank usa has also been informed by the federal reserve board that it has completed a satisfactory parallel run , as required of advanced approach banking organizations under the revised capital framework , and therefore changes to its calculations of rwas will take effect beginning with the second quarter of 2014 .",
+      "under the revised capital framework , as of january 1 , 2014 , gs bank usa became subject to a new minimum cet1 ratio requirement of 4% ( 4 % ) , increasing to 4.5% ( 4.5 % ) in 2015 .",
+      "in addition , the revised capital framework changes the standards for 201cwell-capitalized 201d status under prompt corrective action regulations beginning january 1 , 2015 by , among other things , introducing a cet1 ratio requirement of 6.5% ( 6.5 % ) and increasing the tier 1 capital ratio requirement from 6% ( 6 % ) to 8% ( 8 % ) .",
+      "in addition , commencing january 1 , 2018 , advanced approach banking organizations must have a supplementary leverage ratio of 3% ( 3 % ) or greater .",
+      "the basel committee published its final guidelines for calculating incremental capital requirements for domestic systemically important banking institutions ( d-sibs ) .",
+      "these guidelines are complementary to the framework outlined above for g-sibs .",
+      "the impact of these guidelines on the regulatory capital requirements of gs bank usa will depend on how they are implemented by the banking regulators in the united states .",
+      "the deposits of gs bank usa are insured by the fdic to the extent provided by law .",
+      "the federal reserve board requires depository institutions to maintain cash reserves with a federal reserve bank .",
+      "the amount deposited by the firm 2019s depository institution held at the federal reserve bank was approximately $ 50.39 billion and $ 58.67 billion as of december 2013 and december 2012 , respectively , which exceeded required reserve amounts by $ 50.29 billion and $ 58.59 billion as of december 2013 and december 2012 , respectively .",
+      "transactions between gs bank usa and its subsidiaries and group inc .",
+      "and its subsidiaries and affiliates ( other than , generally , subsidiaries of gs bank usa ) are regulated by the federal reserve board .",
+      "these regulations generally limit the types and amounts of transactions ( including credit extensions from gs bank usa ) that may take place and generally require those transactions to be on market terms or better to gs bank usa .",
+      "the firm 2019s principal non-u.s .",
+      "bank subsidiary , gsib , is a wholly-owned credit institution , regulated by the prudential regulation authority ( pra ) and the financial conduct authority ( fca ) and is subject to minimum capital requirements .",
+      "as of december 2013 and december 2012 , gsib was in compliance with all regulatory capital requirements .",
+      "goldman sachs 2013 annual report 193 ."
+    ],
+    "table": [
+      [
+        "$ in millions",
+        "as of december 2013",
+        "as of december 2012"
+      ],
+      [
+        "tier 1 capital",
+        "$ 20086",
+        "$ 20704"
+      ],
+      [
+        "tier 2 capital",
+        "$ 116",
+        "$ 39"
+      ],
+      [
+        "total capital",
+        "$ 20202",
+        "$ 20743"
+      ],
+      [
+        "risk-weighted assets",
+        "$ 134935",
+        "$ 109669"
+      ],
+      [
+        "tier 1 capital ratio",
+        "14.9% ( 14.9 % )",
+        "18.9% ( 18.9 % )"
+      ],
+      [
+        "total capital ratio",
+        "15.0% ( 15.0 % )",
+        "18.9% ( 18.9 % )"
+      ],
+      [
+        "tier 1 leverage ratio",
+        "16.9% ( 16.9 % )",
+        "17.6% ( 17.6 % )"
+      ]
+    ],
+    "questions": [
+      "what was the change in millions in tier 1 capital between 2012 and 2013?"
+    ]
+  }
+}

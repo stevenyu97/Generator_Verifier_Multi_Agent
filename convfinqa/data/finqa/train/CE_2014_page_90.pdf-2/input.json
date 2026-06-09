@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "CE/2014/page_90.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "facility continue to have a maturity date of october 2016 .",
+      "in addition , the maturity date of the company's revolving credit facility was extended to october 2018 and the facility was increased to $ 900 million from $ 600 million .",
+      "accordingly , the amended credit agreement consists of the term c-2 loan facility , the term c-3 loan facility and a $ 900 million revolving credit facility .",
+      "net deferred financing costs are as follows : net deferred financing costs ( in $ millions ) ."
+    ],
+    "post_text": [
+      "____________________________ ( 1 ) relates to the issuance of the 4.625% ( 4.625 % ) notes .",
+      "( 2 ) relates to the $ 400 million prepayment of the term c loan facility with proceeds from the 4.625% ( 4.625 % ) notes .",
+      "( 3 ) relates to the september 2013 amendment to the celanese us existing senior secured credit facilities to reduce the interest rates payable in connection with certain borrowings thereby creating the term c-2 loan facility due 2016 .",
+      "( 4 ) includes $ 6 million related to the issuance of the 3.250% ( 3.250 % ) notes and $ 4 million related to the september 24 , 2014 amendment to the celanese us existing senior secured credit facilities .",
+      "( 5 ) includes $ 4 million related to the 6.625% ( 6.625 % ) notes redemption and $ 1 million related to the term c-2 loan facility conversion .",
+      "as of december 31 , 2014 , the margin for borrowings under the term c-2 loan facility was 2.0% ( 2.0 % ) above the euro interbank offered rate ( \"euribor\" ) and the margin for borrowings under the term c-3 loan facility was 2.25% ( 2.25 % ) above libor ( for us dollars ) and 2.25% ( 2.25 % ) above euribor ( for euros ) , as applicable .",
+      "as of december 31 , 2014 , the margin for borrowings under the revolving credit facility was 1.5% ( 1.5 % ) above libor .",
+      "the margin for borrowings under the revolving credit facility is subject to increase or decrease in certain circumstances based on changes in the corporate credit ratings of celanese or celanese us .",
+      "term loan borrowings under the amended credit agreement are subject to amortization at 1% ( 1 % ) of the initial principal amount per annum , payable quarterly .",
+      "in addition , the company pays quarterly commitment fees on the unused portion of the revolving credit facility of 0.25% ( 0.25 % ) per annum .",
+      "the amended credit agreement is guaranteed by celanese and certain domestic subsidiaries of celanese us and is secured by a lien on substantially all assets of celanese us and such guarantors , subject to certain agreed exceptions ( including for certain real property and certain shares of foreign subsidiaries ) , pursuant to the guarantee and collateral agreement , dated april 2 , as a condition to borrowing funds or requesting letters of credit be issued under the revolving credit facility , the company's first lien senior secured leverage ratio ( as calculated as of the last day of the most recent fiscal quarter for which financial statements have been delivered under the revolving facility ) cannot exceed the threshold as specified below .",
+      "further , the company's first lien senior secured leverage ratio must be maintained at or below that threshold while any amounts are outstanding under the revolving credit facility. ."
+    ],
+    "table": [
+      [
+        "",
+        "net deferred financing costs ( in $ millions )"
+      ],
+      [
+        "as of december 31 2011",
+        "28"
+      ],
+      [
+        "financing costs deferred ( 1 )",
+        "8"
+      ],
+      [
+        "accelerated amortization due to refinancing activity ( 2 )",
+        "-1 ( 1 )"
+      ],
+      [
+        "amortization",
+        "-5 ( 5 )"
+      ],
+      [
+        "as of december 31 2012",
+        "30"
+      ],
+      [
+        "financing costs deferred ( 3 )",
+        "2"
+      ],
+      [
+        "accelerated amortization due to refinancing activity",
+        "2014"
+      ],
+      [
+        "amortization",
+        "-5 ( 5 )"
+      ],
+      [
+        "as of december 31 2013",
+        "27"
+      ],
+      [
+        "financing costs deferred ( 4 )",
+        "10"
+      ],
+      [
+        "accelerated amortization due to refinancing activity ( 5 )",
+        "-5 ( 5 )"
+      ],
+      [
+        "amortization",
+        "-5 ( 5 )"
+      ],
+      [
+        "as of december 31 2014",
+        "27"
+      ]
+    ],
+    "questions": [
+      "how much of the 2013 amortization expense is due to the term c-2 loan facility conversion?"
+    ]
+  }
+}

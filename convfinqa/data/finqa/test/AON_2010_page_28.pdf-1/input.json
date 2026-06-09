@@ -1,0 +1,108 @@
+{
+  "input": {
+    "id": "AON/2010/page_28.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "performance and revenue growth depends , in part , on the reliability and functionality of this infrastructure as a means of delivering human resources services .",
+      "the internet is a key mechanism for delivering our human resources services to our hr solutions clients efficiently and cost effectively .",
+      "our clients may not be receptive to human resource services delivered over the internet due to concerns regarding transaction security , user privacy , the reliability and quality of internet service and other reasons .",
+      "our clients 2019 concerns may be heightened by the fact we use the internet to transmit extremely confidential information about our clients and their employees , such as compensation , medical information and other personally identifiable information .",
+      "in order to maintain the level of security , service and reliability that our clients require , we may be required to make significant investments in our online methods of delivering human resources services .",
+      "in addition , websites and proprietary online services have experienced service interruptions and other delays occurring throughout their infrastructure .",
+      "the adoption of additional laws or regulations with respect to the internet may impede the efficiency of the internet as a medium of exchange of information and decrease the demand for our services .",
+      "if we cannot use the internet effectively to deliver our services , our revenue growth and results of operation may be impaired .",
+      "we may lose client data as a result of major catastrophes and other similar problems that may materially adversely impact our operations .",
+      "we have multiple processing centers around the world that use various commercial methods for disaster recovery capabilities .",
+      "our main data processing center is located near the aon hewitt headquarters in lincolnshire , illinois .",
+      "in the event of a disaster , our business continuity may not be sufficient , and the data recovered may not be sufficient for the administration of our clients 2019 human resources programs and processes .",
+      "item 1b .",
+      "unresolved staff comments .",
+      "item 2 .",
+      "properties .",
+      "we have offices in various locations throughout the world .",
+      "substantially all of our offices are located in leased premises .",
+      "we maintain our corporate headquarters at 200 e .",
+      "randolph street in chicago , illinois , where we occupy approximately 327000 square feet of space under an operating lease agreement that expires in 2013 .",
+      "there are two five-year renewal options at current market rates .",
+      "we own one building at pallbergweg 2-4 , amsterdam , the netherlands ( 150000 square feet ) .",
+      "the following are additional significant leased properties , along with the occupied square footage and expiration. ."
+    ],
+    "post_text": [
+      "7201 hewitt associates drive , charlotte , north carolina .",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "218000 2015 the locations in lincolnshire , illinois , the woodlands , texas , orlando , florida , and charlotte north carolina , each of which were acquired as part of the hewitt acquisition , are primarily dedicated to our hr solutions business .",
+      "the other locations listed above house personnel from each of our business segments. ."
+    ],
+    "table": [
+      [
+        "property:",
+        "occupied square footage",
+        "lease expiration dates"
+      ],
+      [
+        "4 overlook point and other locations lincolnshire illinois",
+        "1279000",
+        "2014 - 2019"
+      ],
+      [
+        "2601 research forest drive the woodlands texas",
+        "414000",
+        "2020"
+      ],
+      [
+        "2300 discovery drive orlando florida",
+        "364000",
+        "2020"
+      ],
+      [
+        "devonshire square and other locations london uk",
+        "339000",
+        "2018 - 2028"
+      ],
+      [
+        "199 water street new york new york",
+        "337000",
+        "2018"
+      ],
+      [
+        "1000 n . milwaukee avenue glenview illinois",
+        "233000",
+        "2017"
+      ],
+      [
+        "7201 hewitt associates drive charlotte north carolina",
+        "218000",
+        "2015"
+      ]
+    ],
+    "questions": [
+      "from the data given , how many square feet have an expiry date in 2020?"
+    ]
+  }
+}

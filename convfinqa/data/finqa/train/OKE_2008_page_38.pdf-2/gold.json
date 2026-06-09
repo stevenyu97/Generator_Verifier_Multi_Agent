@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of january 31 , 2009 what percentage of employees are members of international brotherhood of electrical workers?",
+      "answer": 0.0658,
+      "answer_raw": "0.0658",
+      "program": "divide(312, 4742)"
+    }
+  ]
+}

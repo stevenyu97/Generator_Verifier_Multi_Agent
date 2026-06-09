@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the company 2019s gross unrecognized tax benefits from 2011 to 2012",
+      "answer": -11.8,
+      "answer_raw": "-11.8",
+      "program": "subtract(52.4, 32.1), subtract(#0, 32.1)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in thousands of bbl per day , what was average gasoline production during the three year period?",
+      "answer": 792.33333,
+      "answer_raw": "792.33333",
+      "program": "table_average(gasoline, none)"
+    }
+  ]
+}

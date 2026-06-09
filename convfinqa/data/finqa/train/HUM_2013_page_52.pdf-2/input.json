@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "HUM/2013/page_52.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "issuer purchases of equity securities the following table provides information about purchases by us during the three months ended december 31 , 2013 of equity securities that are registered by us pursuant to section 12 of the exchange act : period total number of shares purchased ( 1 ) average price paid per share total number of shares purchased as part of publicly announced plans or programs ( 1 ) ( 2 ) dollar value of shares that may yet be purchased under the plans or programs ( 1 ) ."
+    ],
+    "post_text": [
+      "( 1 ) as announced on may 1 , 2013 , in april 2013 , the board of directors replaced its previously approved share repurchase authorization of up to $ 1 billion with a current authorization for repurchases of up to $ 1 billion of our common shares exclusive of shares repurchased in connection with employee stock plans , expiring on june 30 , 2015 .",
+      "under the current share repurchase authorization , shares may be purchased from time to time at prevailing prices in the open market , by block purchases , or in privately-negotiated transactions , subject to certain regulatory restrictions on volume , pricing , and timing .",
+      "as of february 1 , 2014 , the remaining authorized amount under the current authorization totaled approximately $ 580 million .",
+      "( 2 ) excludes 0.1 million shares repurchased in connection with employee stock plans. ."
+    ],
+    "table": [
+      [
+        "period",
+        "total number of shares purchased ( 1 )",
+        "average price paid per share",
+        "total number of shares purchased as part of publicly announcedplans or programs ( 1 ) ( 2 )",
+        "dollar value of shares that may yet be purchased under the plans orprograms ( 1 )"
+      ],
+      [
+        "october 2013",
+        "0",
+        "$ 0",
+        "0",
+        "$ 781118739"
+      ],
+      [
+        "november 2013",
+        "1191867",
+        "98.18",
+        "1191867",
+        "664123417"
+      ],
+      [
+        "december 2013",
+        "802930",
+        "104.10",
+        "802930",
+        "580555202"
+      ],
+      [
+        "total",
+        "1994797",
+        "$ 100.56",
+        "1994797",
+        ""
+      ]
+    ],
+    "questions": [
+      "what is the percentage of shares purchased in november concerning the whole 2013 year?"
+    ]
+  }
+}

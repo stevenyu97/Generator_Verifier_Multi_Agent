@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "RSG/2013/page_16.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "fleet automation approximately 66% ( 66 % ) of our residential routes have been converted to automated single driver trucks .",
+      "by converting our residential routes to automated service , we reduce labor costs , improve driver productivity and create a safer work environment for our employees .",
+      "additionally , communities using automated vehicles have higher participation rates in recycling programs , thereby complementing our initiative to expand our recycling capabilities .",
+      "fleet conversion to compressed natural gas ( cng ) approximately 12% ( 12 % ) of our fleet operates on natural gas .",
+      "we expect to continue our gradual fleet conversion to cng , our preferred alternative fuel technology , as part of our ordinary annual fleet replacement process .",
+      "we believe a gradual fleet conversion is most prudent to realize the full value of our previous fleet investments .",
+      "approximately 50% ( 50 % ) of our replacement vehicle purchases during 2013 were cng vehicles .",
+      "we believe using cng vehicles provides us a competitive advantage in communities with strict clean emission objectives or initiatives that focus on protecting the environment .",
+      "although upfront costs are higher , we expect that using natural gas will reduce our overall fleet operating costs through lower fuel expenses .",
+      "standardized maintenance based on an industry trade publication , we operate the eighth largest vocational fleet in the united states .",
+      "as of december 31 , 2013 , our average fleet age in years , by line of business , was as follows : approximate number of vehicles average age ."
+    ],
+    "post_text": [
+      "through standardization of core functions , we believe we can minimize variability in our maintenance processes resulting in higher vehicle quality while extending the service life of our fleet .",
+      "we believe operating a more reliable , safer and efficient fleet will lower our operating costs .",
+      "we have completed implementation of standardized maintenance programs for approximately 45% ( 45 % ) of our fleet maintenance operations as of december 31 , 2013 .",
+      "cash utilization strategy key components of our cash utilization strategy include increasing free cash flow and improving our return on invested capital .",
+      "our definition of free cash flow , which is not a measure determined in accordance with united states generally accepted accounting principles ( u.s .",
+      "gaap ) , is cash provided by operating activities less purchases of property and equipment , plus proceeds from sales of property and equipment as presented in our consolidated statements of cash flows .",
+      "for a discussion and reconciliation of free cash flow , you should read the 201cfree cash flow 201d section of our management 2019s discussion and analysis of financial condition and results of operations contained in item 7 of this form 10-k .",
+      "we believe free cash flow drives shareholder value and provides useful information regarding the recurring cash provided by our operations .",
+      "free cash flow also demonstrates our ability to execute our cash utilization strategy , which includes investments in acquisitions and returning a majority of free cash flow to our shareholders through dividends and share repurchases .",
+      "we are committed to an efficient capital structure and maintaining our investment grade rating .",
+      "we manage our free cash flow by ensuring that capital expenditures and operating asset levels are appropriate in light of our existing business and growth opportunities , as well as by closely managing our working capital , which consists primarily of accounts receivable , accounts payable , and accrued landfill and environmental costs. ."
+    ],
+    "table": [
+      [
+        "",
+        "approximate number of vehicles",
+        "average age"
+      ],
+      [
+        "residential",
+        "7600",
+        "7"
+      ],
+      [
+        "commercial",
+        "4300",
+        "6"
+      ],
+      [
+        "industrial",
+        "3600",
+        "9"
+      ],
+      [
+        "total",
+        "15500",
+        "7"
+      ]
+    ],
+    "questions": [
+      "as of december 31 , 2013 what was the ratio of the number of vehicles for the residential to the industrial"
+    ]
+  }
+}

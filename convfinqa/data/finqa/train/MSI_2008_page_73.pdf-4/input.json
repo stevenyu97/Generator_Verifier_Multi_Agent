@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "MSI/2008/page_73.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "the segment had operating earnings of $ 709 million in 2007 , compared to operating earnings of $ 787 million in 2006 .",
+      "the decrease in operating earnings was primarily due to a decrease in gross margin , driven by : ( i ) lower net sales of iden infrastructure equipment , and ( ii ) continued competitive pricing pressure in the market for gsm infrastructure equipment , partially offset by : ( i ) increased net sales of digital entertainment devices , and ( ii ) the reversal of reorganization of business accruals recorded in 2006 relating to employee severance which were no longer needed .",
+      "sg&a expenses increased primarily due to the expenses from recently acquired businesses , partially offset by savings from cost-reduction initiatives .",
+      "r&d expenditures decreased primarily due to savings from cost- reduction initiatives , partially offset by expenditures by recently acquired businesses and continued investment in digital entertainment devices and wimax .",
+      "as a percentage of net sales in 2007 as compared to 2006 , gross margin , sg&a expenses , r&d expenditures and operating margin all decreased .",
+      "in 2007 , sales to the segment 2019s top five customers represented approximately 43% ( 43 % ) of the segment 2019s net sales .",
+      "the segment 2019s backlog was $ 2.6 billion at december 31 , 2007 , compared to $ 3.2 billion at december 31 , 2006 .",
+      "in the home business , demand for the segment 2019s products depends primarily on the level of capital spending by broadband operators for constructing , rebuilding or upgrading their communications systems , and for offering advanced services .",
+      "during the second quarter of 2007 , the segment began shipping digital set-tops that support the federal communications commission ( 201cfcc 201d ) 2014 mandated separable security requirement .",
+      "fcc regulations mandating the separation of security functionality from set-tops went into effect on july 1 , 2007 .",
+      "as a result of these regulations , many cable service providers accelerated their purchases of set-tops in the first half of 2007 .",
+      "additionally , in 2007 , our digital video customers significantly increased their purchases of the segment 2019s products and services , primarily due to increased demand for digital entertainment devices , particularly hd/dvr devices .",
+      "during 2007 , the segment completed the acquisitions of : ( i ) netopia , inc. , a broadband equipment provider for dsl customers , which allows for phone , tv and fast internet connections , ( ii ) tut systems , inc. , a leading developer of edge routing and video encoders , ( iii ) modulus video , inc. , a provider of mpeg-4 advanced coding compression systems designed for delivery of high-value video content in ip set-top devices for the digital video , broadcast and satellite marketplaces , ( iv ) terayon communication systems , inc. , a provider of real-time digital video networking applications to cable , satellite and telecommunication service providers worldwide , and ( v ) leapstone systems , inc. , a provider of intelligent multimedia service delivery and content management applications to networks operators .",
+      "these acquisitions enhance our ability to provide complete end-to-end systems for the delivery of advanced video , voice and data services .",
+      "in december 2007 , motorola completed the sale of ecc to emerson for $ 346 million in cash .",
+      "enterprise mobility solutions segment the enterprise mobility solutions segment designs , manufactures , sells , installs and services analog and digital two-way radio , voice and data communications products and systems for private networks , wireless broadband systems and end-to-end enterprise mobility solutions to a wide range of enterprise markets , including government and public safety agencies ( which , together with all sales to distributors of two-way communication products , are referred to as the 201cgovernment and public safety market 201d ) , as well as retail , energy and utilities , transportation , manufacturing , healthcare and other commercial customers ( which , collectively , are referred to as the 201ccommercial enterprise market 201d ) .",
+      "in 2008 , the segment 2019s net sales represented 27% ( 27 % ) of the company 2019s consolidated net sales , compared to 21% ( 21 % ) in 2007 and 13% ( 13 % ) in 2006 .",
+      "( dollars in millions ) 2008 2007 2006 2008 20142007 2007 20142006 years ended december 31 percent change ."
+    ],
+    "post_text": [
+      "segment results 20142008 compared to 2007 in 2008 , the segment 2019s net sales increased 5% ( 5 % ) to $ 8.1 billion , compared to $ 7.7 billion in 2007 .",
+      "the 5% ( 5 % ) increase in net sales reflects an 8% ( 8 % ) increase in net sales to the government and public safety market , partially offset by a 2% ( 2 % ) decrease in net sales to the commercial enterprise market .",
+      "the increase in net sales to the government and public safety market was primarily driven by : ( i ) increased net sales outside of north america , and ( ii ) the net sales generated by vertex standard co. , ltd. , a business the company acquired a controlling interest of in january 2008 , partially offset by lower net sales in north america .",
+      "on a geographic basis , the segment 2019s net sales were higher in emea , asia and latin america and lower in north america .",
+      "65management 2019s discussion and analysis of financial condition and results of operations %%transmsg*** transmitting job : c49054 pcn : 068000000 ***%%pcmsg|65 |00024|yes|no|02/24/2009 12:31|0|0|page is valid , no graphics -- color : n| ."
+    ],
+    "table": [
+      [
+        "( dollars in millions )",
+        "years ended december 31 2008",
+        "years ended december 31 2007",
+        "years ended december 31 2006",
+        "years ended december 31 2008 20142007",
+        "2007 20142006"
+      ],
+      [
+        "segment net sales",
+        "$ 8093",
+        "$ 7729",
+        "$ 5400",
+        "5% ( 5 % )",
+        "43% ( 43 % )"
+      ],
+      [
+        "operating earnings",
+        "1496",
+        "1213",
+        "958",
+        "23% ( 23 % )",
+        "27% ( 27 % )"
+      ]
+    ],
+    "questions": [
+      "what was the percentage of consolidated net sales from 2006 to 2008?"
+    ]
+  }
+}

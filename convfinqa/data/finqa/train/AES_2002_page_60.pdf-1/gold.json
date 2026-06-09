@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the large utilities percentage of revenues from 2001 to 2002?",
+      "answer": 0.15,
+      "answer_raw": "0.15",
+      "program": "subtract(36%, 21%)"
+    }
+  ]
+}

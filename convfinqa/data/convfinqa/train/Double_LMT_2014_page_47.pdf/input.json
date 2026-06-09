@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "Double_LMT/2014/page_47.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "is&gs 2019 operating profit decreased $ 60 million , or 8% ( 8 % ) , for 2014 compared to 2013 .",
+      "the decrease was primarily attributable to the activities mentioned above for sales , lower risk retirements and reserves recorded on an international program , partially offset by severance recoveries related to the restructuring announced in november 2013 of approximately $ 20 million for 2014 .",
+      "adjustments not related to volume , including net profit booking rate adjustments , were approximately $ 30 million lower for 2014 compared to 2013 .",
+      "2013 compared to 2012 is&gs 2019 net sales decreased $ 479 million , or 5% ( 5 % ) , for 2013 compared to 2012 .",
+      "the decrease was attributable to lower net sales of about $ 495 million due to decreased volume on various programs ( command and control programs for classified customers , ngi and eram programs ) ; and approximately $ 320 million due to the completion of certain programs ( such as total information processing support services , the transportation worker identification credential and the outsourcing desktop initiative for nasa ) .",
+      "the decrease was partially offset by higher net sales of about $ 340 million due to the start-up of certain programs ( such as the disa gsm-o and the national science foundation antarctic support ) .",
+      "is&gs 2019 operating profit decreased $ 49 million , or 6% ( 6 % ) , for 2013 compared to 2012 .",
+      "the decrease was primarily attributable to lower operating profit of about $ 55 million due to certain programs nearing the end of their life cycles , partially offset by higher operating profit of approximately $ 15 million due to the start-up of certain programs .",
+      "adjustments not related to volume , including net profit booking rate adjustments and other matters , were comparable for 2013 compared to 2012 .",
+      "backlog backlog increased in 2014 compared to 2013 primarily due to several multi-year international awards and various u.s .",
+      "multi-year extensions .",
+      "this increase was partially offset by declining activities on various direct warfighter support and command and control programs impacted by defense budget reductions .",
+      "backlog decreased in 2013 compared to 2012 primarily due to lower orders on several programs ( such as eram and ngi ) , higher sales on certain programs ( the national science foundation antarctic support and the disa gsm-o ) and declining activities on several smaller programs primarily due to the continued downturn in federal information technology budgets .",
+      "trends we expect is&gs 2019 net sales to decline in 2015 in the low to mid single digit percentage range as compared to 2014 , primarily driven by the continued downturn in federal information technology budgets , an increasingly competitive environment , including the disaggregation of existing contracts , and new contract award delays , partially offset by increased sales resulting from acquisitions that occurred during the year .",
+      "operating profit is expected to decline in the low double digit percentage range in 2015 primarily driven by volume and an increase in intangible amortization from 2014 acquisition activity , resulting in 2015 margins that are lower than 2014 results .",
+      "missiles and fire control our mfc business segment provides air and missile defense systems ; tactical missiles and air-to-ground precision strike weapon systems ; logistics and other technical services ; fire control systems ; mission operations support , readiness , engineering support and integration services ; and manned and unmanned ground vehicles .",
+      "mfc 2019s major programs include pac-3 , thaad , multiple launch rocket system , hellfire , jassm , javelin , apache , sniper ae , low altitude navigation and targeting infrared for night ( lantirn ae ) and sof clss .",
+      "mfc 2019s operating results included the following ( in millions ) : ."
+    ],
+    "post_text": [
+      "2014 compared to 2013 mfc 2019s net sales for 2014 decreased $ 77 million , or 1% ( 1 % ) , compared to 2013 .",
+      "the decrease was primarily attributable to lower net sales of approximately $ 385 million for technical services programs due to decreased volume reflecting market pressures ; and about $ 115 million for tactical missile programs due to fewer deliveries ( primarily high mobility artillery ."
+    ],
+    "table": [
+      [
+        "",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      [
+        "net sales",
+        "$ 7680",
+        "$ 7757",
+        "$ 7457"
+      ],
+      [
+        "operating profit",
+        "1358",
+        "1431",
+        "1256"
+      ],
+      [
+        "operating margins",
+        "17.7% ( 17.7 % )",
+        "18.4% ( 18.4 % )",
+        "16.8% ( 16.8 % )"
+      ],
+      [
+        "backlog at year-end",
+        "$ 13600",
+        "$ 15000",
+        "$ 14700"
+      ]
+    ],
+    "questions": [
+      "what is the net change in net sales from 2012 to 2013?",
+      "what is the net sales in 2012?",
+      "what growth rate does this represent?",
+      "what is the net change in operating profit from 2012 to 2013?",
+      "what growth rate in operating profit does this represent?"
+    ]
+  }
+}

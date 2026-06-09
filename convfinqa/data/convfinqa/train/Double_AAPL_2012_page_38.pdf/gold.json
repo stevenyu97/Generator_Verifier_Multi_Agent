@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the annual operating cash flow in 2012?",
+      "answer": 50856.0,
+      "answer_raw": "50856.0",
+      "program": "50856"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2010?",
+      "answer": 18595.0,
+      "answer_raw": "18595.0",
+      "program": "18595"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the increase over the years?",
+      "answer": 32261.0,
+      "answer_raw": "32261.0",
+      "program": "subtract(50856, 18595)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and only from 2011 to 2012, what was the change in the company 2019s cash, cash equivalents and marketable securities held by foreign subsidiaries?",
+      "answer": 28.3,
+      "answer_raw": "28.3",
+      "program": "subtract(82.6, 54.3)"
+    }
+  ]
+}

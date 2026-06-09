@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the system energy 2019s receivables from the money pool from 2015 and 2016?",
+      "answer": -6117.0,
+      "answer_raw": "-6117.0",
+      "program": "subtract(33809, 39926)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the percentage change during this time?",
+      "answer": -0.15321,
+      "answer_raw": "-0.15321",
+      "program": "subtract(33809, 39926), divide(#0, 39926)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the change in the system energy 2019s receivables form the money pool between 2014 and 2015?",
+      "answer": 37553.0,
+      "answer_raw": "37553.0",
+      "program": "subtract(39926, 2373)"
+    }
+  ]
+}

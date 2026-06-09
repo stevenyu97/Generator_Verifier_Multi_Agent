@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "MRO/2008/page_70.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "our refining and wholesale marketing gross margin is the difference between the prices of refined products sold and the costs of crude oil and other charge and blendstocks refined , including the costs to transport these inputs to our refineries , the costs of purchased products and manufacturing expenses , including depreciation .",
+      "the crack spread is a measure of the difference between market prices for refined products and crude oil , commonly used by the industry as an indicator of the impact of price on the refining margin .",
+      "crack spreads can fluctuate significantly , particularly when prices of refined products do not move in the same relationship as the cost of crude oil .",
+      "as a performance benchmark and a comparison with other industry participants , we calculate midwest ( chicago ) and u.s .",
+      "gulf coast crack spreads that we feel most closely track our operations and slate of products .",
+      "posted light louisiana sweet ( 201clls 201d ) prices and a 6-3-2-1 ratio of products ( 6 barrels of crude oil producing 3 barrels of gasoline , 2 barrels of distillate and 1 barrel of residual fuel ) are used for the crack spread calculation .",
+      "the following table lists calculated average crack spreads by quarter for the midwest ( chicago ) and gulf coast markets in 2008 .",
+      "crack spreads ( dollars per barrel ) 1st qtr 2nd qtr 3rd qtr 4th qtr 2008 ."
+    ],
+    "post_text": [
+      "in addition to the market changes indicated by the crack spreads , our refining and wholesale marketing gross margin is impacted by factors such as the types of crude oil and other charge and blendstocks processed , the selling prices realized for refined products , the impact of commodity derivative instruments used to mitigate price risk and the cost of purchased products for resale .",
+      "we process significant amounts of sour crude oil which can enhance our profitability compared to certain of our competitors , as sour crude oil typically can be purchased at a discount to sweet crude oil .",
+      "finally , our refining and wholesale marketing gross margin is impacted by changes in manufacturing costs , which are primarily driven by the level of maintenance activities at the refineries and the price of purchased natural gas used for plant fuel .",
+      "our 2008 refining and wholesale marketing gross margin was the key driver of the 43 percent decrease in rm&t segment income when compared to 2007 .",
+      "our average refining and wholesale marketing gross margin per gallon decreased 37 percent , to 11.66 cents in 2008 from 18.48 cents in 2007 , primarily due to the significant and rapid increases in crude oil prices early in 2008 and lagging wholesale price realizations .",
+      "our retail marketing gross margin for gasoline and distillates , which is the difference between the ultimate price paid by consumers and the cost of refined products , including secondary transportation and consumer excise taxes , also impacts rm&t segment profitability .",
+      "while on average demand has been increasing for several years , there are numerous factors including local competition , seasonal demand fluctuations , the available wholesale supply , the level of economic activity in our marketing areas and weather conditions that impact gasoline and distillate demand throughout the year .",
+      "in 2008 , demand began to drop due to the combination of significant increases in retail petroleum prices and a broad slowdown in general activity .",
+      "the gross margin on merchandise sold at retail outlets has historically been more constant .",
+      "the profitability of our pipeline transportation operations is primarily dependent on the volumes shipped through our crude oil and refined products pipelines .",
+      "the volume of crude oil that we transport is directly affected by the supply of , and refiner demand for , crude oil in the markets served directly by our crude oil pipelines .",
+      "key factors in this supply and demand balance are the production levels of crude oil by producers , the availability and cost of alternative modes of transportation , and refinery and transportation system maintenance levels .",
+      "the volume of refined products that we transport is directly affected by the production levels of , and user demand for , refined products in the markets served by our refined product pipelines .",
+      "in most of our markets , demand for gasoline peaks during the summer and declines during the fall and winter months , whereas distillate demand is more ratable throughout the year .",
+      "as with crude oil , other transportation alternatives and system maintenance levels influence refined product movements .",
+      "integrated gas our integrated gas strategy is to link stranded natural gas resources with areas where a supply gap is emerging due to declining production and growing demand .",
+      "our integrated gas operations include marketing and transportation of products manufactured from natural gas , such as lng and methanol , primarily in the u.s. , europe and west africa .",
+      "our most significant lng investment is our 60 percent ownership in a production facility in equatorial guinea , which sells lng under a long-term contract at prices tied to henry hub natural gas prices .",
+      "in 2008 , its ."
+    ],
+    "table": [
+      [
+        "crack spreads ( dollars per barrel )",
+        "1st qtr",
+        "2nd qtr",
+        "3rd qtr",
+        "4th qtr",
+        "2008"
+      ],
+      [
+        "chicago lls 6-3-2-1",
+        "$ 0.07",
+        "$ 2.71",
+        "$ 7.81",
+        "$ 2.31",
+        "$ 3.27"
+      ],
+      [
+        "us gulf coast lls 6-3-2-1",
+        "$ 1.39",
+        "$ 1.99",
+        "$ 6.32",
+        "( $ 0.01 )",
+        "$ 2.45"
+      ]
+    ],
+    "questions": [
+      "how much higher was the u.s gulf coast crack spread than the chicago crack spread in the first quarter of 2008?"
+    ]
+  }
+}

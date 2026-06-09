@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in interest paid between 2012 and 2013 in millions?",
+      "answer": 0.3,
+      "answer_raw": "0.3",
+      "program": "subtract(68.1, 67.8)"
+    }
+  ]
+}

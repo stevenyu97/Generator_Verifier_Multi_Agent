@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of consumer packaging sales cam from european consumer packaging net sales in 2006?",
+      "answer": 0.08566,
+      "answer_raw": "0.08566",
+      "program": "divide(230, 2685)"
+    }
+  ]
+}

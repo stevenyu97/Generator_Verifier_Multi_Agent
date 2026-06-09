@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "during the year ended december 31 , 2017 , what was the ratio of the units disposed to the units acquired",
+      "answer": 2.93823,
+      "answer_raw": "2.93823",
+      "program": "add(279, 320), divide(1760, #0)"
+    }
+  ]
+}

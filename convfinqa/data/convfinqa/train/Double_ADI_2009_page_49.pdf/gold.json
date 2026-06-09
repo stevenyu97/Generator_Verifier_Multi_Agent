@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much would the change in libor basis points represent in relation to the current basis points in 2009?",
+      "answer": 1.0,
+      "answer_raw": "1.0",
+      "program": "divide(100, 100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what would have been the increase in interest expense due to this change?",
+      "answer": 3.8,
+      "answer_raw": "3.8",
+      "program": "3.8"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "considering, then, this increase and how much, in basis points, it represented in relation to the current interest expense, what can be concluded to have been this current interest expense?",
+      "answer": 3.8,
+      "answer_raw": "3.8",
+      "program": "divide(100, 100), divide(3.8, #0)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "in that same year, what was the final libor rate?",
+      "answer": 0.0234,
+      "answer_raw": "0.0234",
+      "program": "2.34%"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and what amount from this rate was of the original three-month libor rate?",
+      "answer": 0.0029,
+      "answer_raw": "0.0029",
+      "program": "subtract(2.34%, 2.05%)"
+    }
+  ]
+}

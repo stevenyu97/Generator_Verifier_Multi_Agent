@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase in the number of common shares authorized to be issued under the 2004 ltip",
+      "answer": 0.26667,
+      "answer_raw": "0.26667",
+      "program": "subtract(19000000, 15000000), divide(#0, 15000000)"
+    }
+  ]
+}

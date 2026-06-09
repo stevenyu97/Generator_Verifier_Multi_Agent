@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in rent expense and certain office equipment expense in 2013 compare to 2012?",
+      "answer": 0.03008,
+      "answer_raw": "0.03008",
+      "program": "subtract(137, 133), divide(#0, 133)"
+    }
+  ]
+}

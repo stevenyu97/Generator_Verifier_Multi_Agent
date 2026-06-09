@@ -1,0 +1,54 @@
+{
+  "input": {
+    "id": "Double_HWM/2016/page_53.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "third-party sales for the engineered products and solutions segment improved 7% ( 7 % ) in 2016 compared with 2015 , primarily attributable to higher third-party sales of the two acquired businesses ( $ 457 ) , primarily related to the aerospace end market , and increased demand from the industrial gas turbine end market , partially offset by lower volumes in the oil and gas end market and commercial transportation end market as well as pricing pressures in aerospace .",
+      "third-party sales for this segment improved 27% ( 27 % ) in 2015 compared with 2014 , largely attributable to the third-party sales ( $ 1310 ) of the three acquired businesses ( see above ) , and higher volumes in this segment 2019s legacy businesses , both of which were primarily related to the aerospace end market .",
+      "these positive impacts were slightly offset by unfavorable foreign currency movements , principally driven by a weaker euro .",
+      "atoi for the engineered products and solutions segment increased $ 47 , or 8% ( 8 % ) , in 2016 compared with 2015 , primarily related to net productivity improvements across all businesses as well as the volume increase from both the rti acquisition and organic revenue growth , partially offset by a lower margin product mix and pricing pressures in the aerospace end market .",
+      "atoi for this segment increased $ 16 , or 3% ( 3 % ) , in 2015 compared with 2014 , principally the result of net productivity improvements across most businesses , a positive contribution from acquisitions , and overall higher volumes in this segment 2019s legacy businesses .",
+      "these positive impacts were partially offset by unfavorable price and product mix , higher costs related to growth projects , and net unfavorable foreign currency movements , primarily related to a weaker euro .",
+      "in 2017 , demand in the commercial aerospace end market is expected to remain strong , driven by the ramp up of new aerospace engine platforms , somewhat offset by continued customer destocking and engine ramp-up challenges .",
+      "demand in the defense end market is expected to grow due to the continuing ramp-up of certain aerospace programs .",
+      "additionally , net productivity improvements are anticipated while pricing pressure across all markets is likely to continue .",
+      "transportation and construction solutions ."
+    ],
+    "post_text": [
+      "the transportation and construction solutions segment produces products that are used mostly in the nonresidential building and construction and commercial transportation end markets .",
+      "such products include integrated aluminum structural systems , architectural extrusions , and forged aluminum commercial vehicle wheels , which are sold both directly to customers and through distributors .",
+      "a small part of this segment also produces aluminum products for the industrial products end market .",
+      "generally , the sales and costs and expenses of this segment are transacted in the local currency of the respective operations , which are primarily the u.s .",
+      "dollar , the euro , and the brazilian real .",
+      "third-party sales for the transportation and construction solutions segment decreased 4% ( 4 % ) in 2016 compared with 2015 , primarily driven by lower demand from the north american commercial transportation end market , which was partially offset by rising demand from the building and construction end market .",
+      "third-party sales for this segment decreased 7% ( 7 % ) in 2015 compared with 2014 , primarily driven by unfavorable foreign currency movements , principally caused by a weaker euro and brazilian real , and lower volume related to the building and construction end market , somewhat offset by higher volume related to the commercial transportation end market .",
+      "atoi for the transportation and construction solutions segment increased $ 10 , or 6% ( 6 % ) , in 2016 compared with 2015 , principally driven by net productivity improvements across all businesses and growth in the building and construction segment , partially offset by lower demand in the north american heavy duty truck and brazilian markets. ."
+    ],
+    "table": [
+      [
+        "",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "third-party sales",
+        "$ 1802",
+        "$ 1882",
+        "$ 2021"
+      ],
+      [
+        "atoi",
+        "$ 176",
+        "$ 166",
+        "$ 180"
+      ]
+    ],
+    "questions": [
+      "what was the change in the sales for the transportation and construction solutions segment from 2016 to 2017?",
+      "and what percentage does this change represent in relation to those sales in 2016?",
+      "what is the difference between that percentage change for the engineered products and solutions segment, in that same period, and this one?",
+      "and what was the difference between the percentage changes of the atoi for those same segments, in the same period?"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference between the total number of shares purchased and the total number of shares purchased as part of publicly announced plans or programs?",
+      "answer": 783486.0,
+      "answer_raw": "783486.0",
+      "program": "subtract(39756386, 38972900)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the total number of shares purchased as part of publicly announced plans or programs?",
+      "answer": 38972900.0,
+      "answer_raw": "38972900.0",
+      "program": "38972900"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and how much does that difference represent percentually in relation to this total?",
+      "answer": 0.0201,
+      "answer_raw": "0.0201",
+      "program": "subtract(39756386, 38972900), divide(#0, 38972900)"
+    }
+  ]
+}

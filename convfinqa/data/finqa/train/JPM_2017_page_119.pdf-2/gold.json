@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the annual cash flow cost of the cc series preferred stock , in m?",
+      "answer": 60.125,
+      "answer_raw": "60.125",
+      "program": "multiply(1.3, 4.625%), multiply(#0, const_1000)"
+    }
+  ]
+}

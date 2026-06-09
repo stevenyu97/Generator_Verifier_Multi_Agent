@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the total long-term debt net from 2014 to 2015 in millions",
+      "answer": 9119.0,
+      "answer_raw": "9119.0",
+      "program": "subtract(15261, 6142)"
+    }
+  ]
+}

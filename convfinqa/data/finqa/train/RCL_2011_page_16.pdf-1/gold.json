@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the anticipated increased in the berths capacity to service european cruise market between 2012 and 2016",
+      "answer": 0.18065,
+      "answer_raw": "0.18065",
+      "program": "divide(28000, 155000)"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "input": {
+    "id": "Double_UNP/2008/page_77.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "when we purchase an asset , we capitalize all costs necessary to make the asset ready for its intended use .",
+      "however , many of our assets are self-constructed .",
+      "a large portion of our capital expenditures is for track structure expansion ( capacity projects ) and replacement ( program projects ) , which is typically performed by our employees .",
+      "approximately 13% ( 13 % ) of our full-time equivalent employees are dedicated to the construction of capital assets .",
+      "costs that are directly attributable or overhead costs that relate directly to capital projects are capitalized .",
+      "direct costs that are capitalized as part of self-constructed assets include material , labor , and work equipment .",
+      "indirect costs are capitalized if they clearly relate to the construction of the asset .",
+      "these costs are allocated using appropriate statistical bases .",
+      "the capitalization of indirect costs is consistent with fasb statement no .",
+      "67 , accounting for costs and initial rental operations of real estate projects .",
+      "general and administrative expenditures are expensed as incurred .",
+      "normal repairs and maintenance are also expensed as incurred , while costs incurred that extend the useful life of an asset , improve the safety of our operations or improve operating efficiency are capitalized .",
+      "assets held under capital leases are recorded at the lower of the net present value of the minimum lease payments or the fair value of the leased asset at the inception of the lease .",
+      "amortization expense is computed using the straight-line method over the shorter of the estimated useful lives of the assets or the period of the related lease .",
+      "10 .",
+      "accounts payable and other current liabilities dec .",
+      "31 , dec .",
+      "31 , millions of dollars 2008 2007 ."
+    ],
+    "post_text": [
+      "11 .",
+      "fair value measurements during the first quarter of 2008 , we fully adopted fasb statement no .",
+      "157 , fair value measurements ( fas 157 ) .",
+      "fas 157 established a framework for measuring fair value and expanded disclosures about fair value measurements .",
+      "the adoption of fas 157 had no impact on our financial position or results of operations .",
+      "fas 157 applies to all assets and liabilities that are measured and reported on a fair value basis .",
+      "this enables the reader of the financial statements to assess the inputs used to develop those measurements by establishing a hierarchy for ranking the quality and reliability of the information used to determine fair values .",
+      "the statement requires that each asset and liability carried at fair value be classified into one of the following categories : level 1 : quoted market prices in active markets for identical assets or liabilities .",
+      "level 2 : observable market based inputs or unobservable inputs that are corroborated by market data .",
+      "level 3 : unobservable inputs that are not corroborated by market data. ."
+    ],
+    "table": [
+      [
+        "millions of dollars",
+        "dec . 31 2008",
+        "dec . 31 2007"
+      ],
+      [
+        "accounts payable",
+        "$ 629",
+        "$ 732"
+      ],
+      [
+        "accrued wages and vacation",
+        "367",
+        "394"
+      ],
+      [
+        "accrued casualty costs",
+        "390",
+        "371"
+      ],
+      [
+        "income and other taxes",
+        "207",
+        "343"
+      ],
+      [
+        "dividends and interest",
+        "328",
+        "284"
+      ],
+      [
+        "equipment rents payable",
+        "93",
+        "103"
+      ],
+      [
+        "other",
+        "546",
+        "675"
+      ],
+      [
+        "total accounts payable and other current liabilities",
+        "$ 2560",
+        "$ 2902"
+      ]
+    ],
+    "questions": [
+      "as of december 31, 2008, what was the amount of the accrued wages and vacation?",
+      "and what was the total of accounts payable and other current liabilities?",
+      "what percentage, then, did that amount represent in relation to this total?",
+      "and from 2007 to that year, what was the change in the total of equipment rents payable?",
+      "what is this change as a percentage of that total in 2007?"
+    ]
+  }
+}

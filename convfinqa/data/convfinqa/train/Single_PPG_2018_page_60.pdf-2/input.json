@@ -1,0 +1,86 @@
+{
+  "input": {
+    "id": "Single_PPG/2018/page_60.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "58 2018 ppg annual report and 10-k the crown group on october 2 , 2017 , ppg acquired the crown group ( 201ccrown 201d ) , a u.s.-based coatings application services business , which is reported as part of ppg's industrial coatings reportable segment .",
+      "crown is one of the leading component and product finishers in north america .",
+      "crown applies coatings to customers 2019 manufactured parts and assembled products at 11 u.s .",
+      "sites .",
+      "most of crown 2019s facilities , which also provide assembly , warehousing and sequencing services , are located at customer facilities or positioned near customer manufacturing sites .",
+      "the company serves manufacturers in the automotive , agriculture , construction , heavy truck and alternative energy industries .",
+      "the pro-forma impact on ppg's sales and results of operations , including the pro forma effect of events that are directly attributable to the acquisition , was not significant .",
+      "the results of this business since the date of acquisition have been reported within the industrial coatings business within the industrial coatings reportable segment .",
+      "taiwan chlorine industries taiwan chlorine industries ( 201ctci 201d ) was established in 1986 as a joint venture between ppg and china petrochemical development corporation ( 201ccpdc 201d ) to produce chlorine-based products in taiwan , at which time ppg owned 60 percent of the venture .",
+      "in conjunction with the 2013 separation of its commodity chemicals business , ppg conveyed to axiall corporation ( \"axiall\" ) its 60% ( 60 % ) ownership interest in tci .",
+      "under ppg 2019s agreement with cpdc , if certain post-closing conditions were not met following the three year anniversary of the separation , cpdc had the option to sell its 40% ( 40 % ) ownership interest in tci to axiall for $ 100 million .",
+      "in turn , axiall had a right to designate ppg as its designee to purchase the 40% ( 40 % ) ownership interest of cpdc .",
+      "in april 2016 , axiall announced that cpdc had decided to sell its ownership interest in tci to axiall .",
+      "in june 2016 , axiall formally designated ppg to purchase the 40% ( 40 % ) ownership interest in tci .",
+      "in august 2016 , westlake chemical corporation acquired axiall , which became a wholly-owned subsidiary of westlake .",
+      "in april 2017 , ppg finalized its purchase of cpdc 2019s 40% ( 40 % ) ownership interest in tci .",
+      "the difference between the acquisition date fair value and the purchase price of ppg 2019s 40% ( 40 % ) ownership interest in tci has been recorded as a loss in discontinued operations during the year-ended december 31 , 2017 .",
+      "ppg 2019s ownership in tci is accounted for as an equity method investment and the related equity earnings are reported within other income in the consolidated statement of income and in legacy in note 20 , 201creportable business segment information . 201d metokote corporation in july 2016 , ppg completed the acquisition of metokote corporation ( \"metokote\" ) , a u.s.-based coatings application services business .",
+      "metokote applies coatings to customers' manufactured parts and assembled products .",
+      "it operates on- site coatings services within several customer manufacturing locations , as well as at regional service centers , located throughout the u.s. , canada , mexico , the united kingdom , germany , hungary and the czech republic .",
+      "customers ship parts to metokote ae service centers where they are treated to enhance paint adhesion and painted with electrocoat , powder or liquid coatings technologies .",
+      "coated parts are then shipped to the customer 2019s next stage of assembly .",
+      "metokote coats an average of more than 1.5 million parts per day .",
+      "the following table summarizes the estimated fair value of assets acquired and liabilities assumed as reflected in the final purchase price allocation for metokote .",
+      "( $ in millions ) ."
+    ],
+    "post_text": [
+      "( a ) the net deferred income tax liability is included in assets due to the company's tax jurisdictional netting .",
+      "the pro-forma impact on ppg's sales and results of operations , including the pro forma effect of events that are directly attributable to the acquisition , was not significant .",
+      "while calculating this impact , no cost savings or operating synergies that may result from the acquisition were included .",
+      "the results of this business since the date of acquisition have been reported within the industrial coatings business within the industrial coatings reportable segment .",
+      "notes to the consolidated financial statements ."
+    ],
+    "table": [
+      [
+        "current assets",
+        "$ 38"
+      ],
+      [
+        "property plant and equipment",
+        "73"
+      ],
+      [
+        "identifiable intangible assets with finite lives",
+        "86"
+      ],
+      [
+        "goodwill",
+        "166"
+      ],
+      [
+        "deferred income taxes ( a )",
+        "-12 ( 12 )"
+      ],
+      [
+        "total assets",
+        "$ 351"
+      ],
+      [
+        "current liabilities",
+        "-23 ( 23 )"
+      ],
+      [
+        "other long-term liabilities",
+        "-22 ( 22 )"
+      ],
+      [
+        "total liabilities",
+        "( $ 45 )"
+      ],
+      [
+        "total purchase price net of cash acquired",
+        "$ 306"
+      ]
+    ],
+    "questions": [
+      "what is the sum of identifiable intangible assets with finite lives and goodwill?",
+      "what is that sum divided by total purchase price net of cash acquired?"
+    ]
+  }
+}

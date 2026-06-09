@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total multi-assets is related to asset allocation as of december 31 , 2011?",
+      "answer": 0.55987,
+      "answer_raw": "0.55987",
+      "program": "divide(126067, 225170)"
+    }
+  ]
+}

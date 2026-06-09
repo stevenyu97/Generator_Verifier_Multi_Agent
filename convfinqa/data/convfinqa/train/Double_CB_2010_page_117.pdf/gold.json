@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in the year of 2010, what percentage did the usage represent in relation to the total creditline?",
+      "answer": 0.74333,
+      "answer_raw": "0.74333",
+      "program": "divide(1784, 2400)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what portion of this creditline did the syndicated letter of credit facility represent?",
+      "answer": 0.41667,
+      "answer_raw": "0.41667",
+      "program": "divide(1000, 2400)"
+    }
+  ]
+}

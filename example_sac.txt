@@ -1,0 +1,53 @@
+
+{
+  "claim_id": "linewise-claim",
+  "overall_verdict": "reject",
+  "overall_confidence": 0.9,
+  "line_findings": [
+    {
+      "form": "1040",
+      "line": "15",
+      "claim": "Taxable income calculated as AGI minus standard deduction",
+      "verdict": "wrong",
+      "confidence": 0.9,
+      "arguments": ["The taxable income should be calculated as AGI minus the standard deduction. 
+      The AGI is $161,697, and the standard deduction is $14,600. 
+      The correct taxable income is $161,697 - $14,600 = $147,097, not $146,000."],
+      "evidence": [
+        { "type": "input_field", "location": "return_data.w2[0].wages.value", "value": 116022 },
+        { "type": "input_field", "location": "return_data.w2[1].wages.value", "value": 45675 },
+        { "type": "input_field", "location": "context_so_far[0].amount", "value": 161697.0 },
+        { "type": "input_field", "location": "context_so_far[2].amount", "value": 14600.0 }
+      ]
+    }
+  ]
+}
+
+
+{
+  "claim_id": "linewise-claim",
+  "overall_verdict": "accept",
+  "overall_confidence": 1.0,
+  "line_findings": [
+    {
+      "form": "1040",
+      "line": "9",
+      "claim": "Earned Income Credit (EIC)",
+      "verdict": "wrong",
+      "confidence": 1.0,
+      "arguments": [
+        "The draft line for EIC is set to $0.00, but the input indicates that the taxpayer elects to claim 
+        the dependent credit (tp_elects_to_claim_dependent_credit: true). The EIC is not automatically 
+        zero when the dependent credit is claimed; it depends on income, filing status, and number of qualifying children, 
+        which are not specified in the input. The amount should be recalculated based on the provided information."
+      ],
+      "evidence": [
+        {
+          "type": "input_field",
+          "location": "return_data.irs1040.tp_elects_to_claim_dependent_credit",
+          "value": true
+        }
+      ]
+    }
+  ]
+}

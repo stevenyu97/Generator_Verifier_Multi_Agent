@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the tax associated with the acquisition of the controlling effect in awe in 2016",
+      "answer": 0.1811,
+      "answer_raw": "0.1811",
+      "program": "divide(23, 127)"
+    }
+  ]
+}

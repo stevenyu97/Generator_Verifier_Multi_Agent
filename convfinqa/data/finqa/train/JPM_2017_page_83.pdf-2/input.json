@@ -1,0 +1,103 @@
+{
+  "input": {
+    "id": "JPM/2017/page_83.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "jpmorgan chase & co./2017 annual report 53 net interest income excluding cib 2019s markets businesses in addition to reviewing net interest income on a managed basis , management also reviews net interest income excluding net interest income arising from cib 2019s markets businesses to assess the performance of the firm 2019s lending , investing ( including asset-liability management ) and deposit-raising activities .",
+      "this net interest income is referred to as non-markets related net interest income .",
+      "cib 2019s markets businesses are fixed income markets and equity markets .",
+      "management believes that disclosure of non-markets related net interest income provides investors and analysts with another measure by which to analyze the non-markets-related business trends of the firm and provides a comparable measure to other financial institutions that are primarily focused on lending , investing and deposit-raising activities .",
+      "the data presented below are non-gaap financial measures due to the exclusion of markets related net interest income arising from cib .",
+      "year ended december 31 , ( in millions , except rates ) 2017 2016 2015 net interest income 2013 managed basis ( a ) ( b ) $ 51410 $ 47292 $ 44620 less : cib markets net interest income ( c ) 4630 6334 5298 net interest income excluding cib markets ( a ) $ 46780 $ 40958 $ 39322 average interest-earning assets $ 2180592 $ 2101604 $ 2088242 less : average cib markets interest-earning assets ( c ) 540835 520307 510292 average interest-earning assets excluding cib markets $ 1639757 $ 1581297 $ 1577950 net interest yield on average interest-earning assets 2013 managed basis 2.36% ( 2.36 % ) 2.25% ( 2.25 % ) 2.14% ( 2.14 % ) net interest yield on average cib markets interest-earning assets ( c ) 0.86 1.22 1.04 net interest yield on average interest-earning assets excluding cib markets 2.85% ( 2.85 % ) 2.59% ( 2.59 % ) 2.49% ( 2.49 % ) ( a ) interest includes the effect of related hedges .",
+      "taxable-equivalent amounts are used where applicable .",
+      "( b ) for a reconciliation of net interest income on a reported and managed basis , see reconciliation from the firm 2019s reported u.s .",
+      "gaap results to managed basis on page 52 .",
+      "( c ) the amounts in this table differ from the prior-period presentation to align with cib 2019s markets businesses .",
+      "for further information on cib 2019s markets businesses , see page 65 .",
+      "calculation of certain u.s .",
+      "gaap and non-gaap financial measures certain u.s .",
+      "gaap and non-gaap financial measures are calculated as follows : book value per share ( 201cbvps 201d ) common stockholders 2019 equity at period-end / common shares at period-end overhead ratio total noninterest expense / total net revenue return on assets ( 201croa 201d ) reported net income / total average assets return on common equity ( 201croe 201d ) net income* / average common stockholders 2019 equity return on tangible common equity ( 201crotce 201d ) net income* / average tangible common equity tangible book value per share ( 201ctbvps 201d ) tangible common equity at period-end / common shares at period-end * represents net income applicable to common equity ."
+    ],
+    "post_text": [
+      "jpmorgan chase & co./2017 annual report 53 net interest income excluding cib 2019s markets businesses in addition to reviewing net interest income on a managed basis , management also reviews net interest income excluding net interest income arising from cib 2019s markets businesses to assess the performance of the firm 2019s lending , investing ( including asset-liability management ) and deposit-raising activities .",
+      "this net interest income is referred to as non-markets related net interest income .",
+      "cib 2019s markets businesses are fixed income markets and equity markets .",
+      "management believes that disclosure of non-markets related net interest income provides investors and analysts with another measure by which to analyze the non-markets-related business trends of the firm and provides a comparable measure to other financial institutions that are primarily focused on lending , investing and deposit-raising activities .",
+      "the data presented below are non-gaap financial measures due to the exclusion of markets related net interest income arising from cib .",
+      "year ended december 31 , ( in millions , except rates ) 2017 2016 2015 net interest income 2013 managed basis ( a ) ( b ) $ 51410 $ 47292 $ 44620 less : cib markets net interest income ( c ) 4630 6334 5298 net interest income excluding cib markets ( a ) $ 46780 $ 40958 $ 39322 average interest-earning assets $ 2180592 $ 2101604 $ 2088242 less : average cib markets interest-earning assets ( c ) 540835 520307 510292 average interest-earning assets excluding cib markets $ 1639757 $ 1581297 $ 1577950 net interest yield on average interest-earning assets 2013 managed basis 2.36% ( 2.36 % ) 2.25% ( 2.25 % ) 2.14% ( 2.14 % ) net interest yield on average cib markets interest-earning assets ( c ) 0.86 1.22 1.04 net interest yield on average interest-earning assets excluding cib markets 2.85% ( 2.85 % ) 2.59% ( 2.59 % ) 2.49% ( 2.49 % ) ( a ) interest includes the effect of related hedges .",
+      "taxable-equivalent amounts are used where applicable .",
+      "( b ) for a reconciliation of net interest income on a reported and managed basis , see reconciliation from the firm 2019s reported u.s .",
+      "gaap results to managed basis on page 52 .",
+      "( c ) the amounts in this table differ from the prior-period presentation to align with cib 2019s markets businesses .",
+      "for further information on cib 2019s markets businesses , see page 65 .",
+      "calculation of certain u.s .",
+      "gaap and non-gaap financial measures certain u.s .",
+      "gaap and non-gaap financial measures are calculated as follows : book value per share ( 201cbvps 201d ) common stockholders 2019 equity at period-end / common shares at period-end overhead ratio total noninterest expense / total net revenue return on assets ( 201croa 201d ) reported net income / total average assets return on common equity ( 201croe 201d ) net income* / average common stockholders 2019 equity return on tangible common equity ( 201crotce 201d ) net income* / average tangible common equity tangible book value per share ( 201ctbvps 201d ) tangible common equity at period-end / common shares at period-end * represents net income applicable to common equity ."
+    ],
+    "table": [
+      [
+        "year ended december 31 ( in millions except rates )",
+        "2017",
+        "2016",
+        "2015"
+      ],
+      [
+        "net interest income 2013 managed basis ( a ) ( b )",
+        "$ 51410",
+        "$ 47292",
+        "$ 44620"
+      ],
+      [
+        "less : cib markets net interest income ( c )",
+        "4630",
+        "6334",
+        "5298"
+      ],
+      [
+        "net interest income excluding cib markets ( a )",
+        "$ 46780",
+        "$ 40958",
+        "$ 39322"
+      ],
+      [
+        "average interest-earning assets",
+        "$ 2180592",
+        "$ 2101604",
+        "$ 2088242"
+      ],
+      [
+        "less : average cib markets interest-earning assets ( c )",
+        "540835",
+        "520307",
+        "510292"
+      ],
+      [
+        "average interest-earning assets excluding cib markets",
+        "$ 1639757",
+        "$ 1581297",
+        "$ 1577950"
+      ],
+      [
+        "net interest yield on average interest-earning assets 2013 managed basis",
+        "2.36% ( 2.36 % )",
+        "2.25% ( 2.25 % )",
+        "2.14% ( 2.14 % )"
+      ],
+      [
+        "net interest yield on average cib markets interest-earning assets ( c )",
+        "0.86",
+        "1.22",
+        "1.04"
+      ],
+      [
+        "net interest yield on average interest-earning assets excluding cib markets",
+        "2.85% ( 2.85 % )",
+        "2.59% ( 2.59 % )",
+        "2.49% ( 2.49 % )"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in the average interest-earning assets excluding cib markets in 2017"
+    ]
+  }
+}

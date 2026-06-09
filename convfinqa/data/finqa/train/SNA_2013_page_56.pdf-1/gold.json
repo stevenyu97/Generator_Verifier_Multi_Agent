@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the balance of cash and cash equivalents from 2012 to 2013?",
+      "answer": 0.01445,
+      "answer_raw": "0.01445",
+      "program": "subtract(217.6, 214.5), divide(#0, 214.5)"
+    }
+  ]
+}

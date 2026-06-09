@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of cash dividends paid in 2013?",
+      "answer": 92.0,
+      "answer_raw": "92.0",
+      "program": "92.0"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that value times 1000000?",
+      "answer": 92000000.0,
+      "answer_raw": "92000000.0",
+      "program": "multiply(92.0, const_1000000)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the amount paid per common share?",
+      "answer": 1.58,
+      "answer_raw": "1.58",
+      "program": "1.58"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total value divided by the amount per share?",
+      "answer": 58227848.10127,
+      "answer_raw": "58227848.10127",
+      "program": "multiply(92.0, const_1000000), divide(#0, 1.58)"
+    }
+  ]
+}

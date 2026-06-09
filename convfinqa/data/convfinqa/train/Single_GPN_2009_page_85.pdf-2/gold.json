@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of non-vested shares as of 5/31/08?",
+      "answer": 20202.0,
+      "answer_raw": "20202.0",
+      "program": "multiply(518, 39)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and converted to the tens place?",
+      "answer": 20.202,
+      "answer_raw": "20.202",
+      "program": "multiply(518, 39), divide(#0, const_1000)"
+    }
+  ]
+}

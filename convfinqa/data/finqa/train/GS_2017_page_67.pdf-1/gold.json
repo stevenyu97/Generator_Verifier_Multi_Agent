@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total operating expenses is related to compensation and benefits in 2017?",
+      "answer": 0.56602,
+      "answer_raw": "0.56602",
+      "program": "divide(11853, 20941)"
+    }
+  ]
+}

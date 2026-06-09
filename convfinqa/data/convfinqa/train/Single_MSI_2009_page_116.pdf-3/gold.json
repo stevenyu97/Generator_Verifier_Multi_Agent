@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in the number of shares purchased by employees between 2008 and 2009?",
+      "answer": 10.5,
+      "answer_raw": "10.5",
+      "program": "subtract(29.4, 18.9)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the number of shares purchased by employees in 2008?",
+      "answer": 18.9,
+      "answer_raw": "18.9",
+      "program": "18.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the percent change?",
+      "answer": 0.55556,
+      "answer_raw": "0.55556",
+      "program": "subtract(29.4, 18.9), divide(#0, 18.9)"
+    }
+  ]
+}

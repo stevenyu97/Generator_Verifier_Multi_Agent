@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of fully-insured memberships among the total commercial medical membership?",
+      "answer": 0.54651,
+      "answer_raw": "0.54651",
+      "program": "divide(1978800, 3620800)"
+    }
+  ]
+}

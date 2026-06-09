@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in operating profit for mfc in 2014?",
+      "answer": -0.05101,
+      "answer_raw": "-0.05101",
+      "program": "subtract(1358, 1431), divide(#0, 1431)"
+    }
+  ]
+}

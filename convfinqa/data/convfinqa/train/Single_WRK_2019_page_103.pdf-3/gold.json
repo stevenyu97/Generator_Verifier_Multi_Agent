@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of gross unrecognized tax benefits at the end of 2018?",
+      "answer": 127.1,
+      "answer_raw": "127.1",
+      "program": "127.1"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value at the end of 2017?",
+      "answer": 148.9,
+      "answer_raw": "148.9",
+      "program": "148.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net difference?",
+      "answer": -21.8,
+      "answer_raw": "-21.8",
+      "program": "subtract(127.1, 148.9)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the 2017 value?",
+      "answer": 148.9,
+      "answer_raw": "148.9",
+      "program": "148.9"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the percent change?",
+      "answer": -0.14641,
+      "answer_raw": "-0.14641",
+      "program": "subtract(127.1, 148.9), divide(#0, 148.9)"
+    }
+  ]
+}

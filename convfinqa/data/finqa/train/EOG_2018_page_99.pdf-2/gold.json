@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the variation observed in the accumulated depreciation depletion and amortization between 2017 and 2018?",
+      "answer": 2482838.0,
+      "answer_raw": "2482838.0",
+      "program": "subtract(31674085, 29191247)"
+    }
+  ]
+}

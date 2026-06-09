@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2013, as part of the company's noncollectable amounts, how much did those amounts written off represent in relation to the recovered ones?",
+      "answer": 6.14286,
+      "answer_raw": "6.14286",
+      "program": "divide(43, const_7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and from that year to 2015, what was the increase in the property, plant and equipment depreciation expense?",
+      "answer": 31.0,
+      "answer_raw": "31.0",
+      "program": "subtract(405, 374)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is this increase as a portion of that depreciation expense in 2013?",
+      "answer": 0.08289,
+      "answer_raw": "0.08289",
+      "program": "subtract(405, 374), divide(#0, 374)"
+    }
+  ]
+}

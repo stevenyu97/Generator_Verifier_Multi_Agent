@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the balance of cash and cash equivalents in 2017?",
+      "answer": 0.13183,
+      "answer_raw": "0.13183",
+      "program": "subtract(6894, 6091), divide(#0, 6091)"
+    }
+  ]
+}

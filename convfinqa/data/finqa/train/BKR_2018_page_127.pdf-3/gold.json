@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total value of the number of securities approved by stockholders , in millions?",
+      "answer": 97.497,
+      "answer_raw": "97.497",
+      "program": "multiply(2.7, 36.11)"
+    }
+  ]
+}

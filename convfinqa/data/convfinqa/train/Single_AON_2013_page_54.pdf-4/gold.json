@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total combined experience loss for both the us and the uk?",
+      "answer": 3231.0,
+      "answer_raw": "3231.0",
+      "program": "add(2012, 1219)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "including other countries, what then becomes that total?",
+      "answer": 3633.0,
+      "answer_raw": "3633.0",
+      "program": "add(2012, 1219), add(#0, 402)"
+    }
+  ]
+}

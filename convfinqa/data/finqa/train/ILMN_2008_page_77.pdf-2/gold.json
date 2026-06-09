@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the reserve for product warranties from december 30 2007 to december 28 2008?",
+      "answer": 1.20748,
+      "answer_raw": "1.20748",
+      "program": "subtract(8203, 3716), divide(#0, 3716)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between high and low share price for the quarter ending on march 31?",
+      "answer": 8.67,
+      "answer_raw": "8.67",
+      "program": "subtract(101.88, 93.21)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage change does this represent?",
+      "answer": 0.09302,
+      "answer_raw": "0.09302",
+      "program": "subtract(101.88, 93.21), divide(#0, 93.21)"
+    }
+  ]
+}

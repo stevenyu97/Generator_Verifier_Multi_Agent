@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "Single_PM/2017/page_38.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "net revenues include $ 3.8 billion in 2017 and $ 739 million in 2016 related to the sale of rrps , mainly driven by japan .",
+      "these net revenue amounts include excise taxes billed to customers .",
+      "excluding excise taxes , net revenues for rrps were $ 3.6 billion in 2017 and $ 733 million in 2016 .",
+      "in some jurisdictions , including japan , we are not responsible for collecting excise taxes .",
+      "in 2017 , approximately $ 0.9 billion of our $ 3.6 billion in rrp net revenues , excluding excise taxes , were from iqos devices and accessories .",
+      "excise taxes on products increased by $ 1.1 billion , due to : 2022 higher excise taxes resulting from changes in retail prices and tax rates ( $ 4.6 billion ) , partially offset by 2022 favorable currency ( $ 1.9 billion ) and 2022 lower excise taxes resulting from volume/mix ( $ 1.6 billion ) .",
+      "our cost of sales ; marketing , administration and research costs ; and operating income were as follows : for the years ended december 31 , variance ."
+    ],
+    "post_text": [
+      "cost of sales increased by $ 1.0 billion , due to : 2022 higher cost of sales resulting from volume/mix ( $ 1.1 billion ) , partly offset by 2022 lower manufacturing costs ( $ 36 million ) and 2022 favorable currency ( $ 30 million ) .",
+      "marketing , administration and research costs increased by $ 320 million , due to : 2022 higher expenses ( $ 570 million , largely reflecting increased investment behind reduced-risk products , predominately in the european union and asia ) , partly offset by 2022 favorable currency ( $ 250 million ) .",
+      "operating income increased by $ 688 million , due primarily to : 2022 price increases ( $ 1.4 billion ) , partly offset by 2022 higher marketing , administration and research costs ( $ 570 million ) and 2022 unfavorable currency ( $ 157 million ) .",
+      "interest expense , net , of $ 914 million increased by $ 23 million , due primarily to unfavorably currency and higher average debt levels , partly offset by higher interest income .",
+      "our effective tax rate increased by 12.8 percentage points to 40.7% ( 40.7 % ) .",
+      "the 2017 effective tax rate was unfavorably impacted by $ 1.6 billion due to the tax cuts and jobs act .",
+      "for further details , see item 8 , note 11 .",
+      "income taxes to our consolidated financial statements .",
+      "we are continuing to evaluate the impact that the tax cuts and jobs act will have on our tax liability .",
+      "based upon our current interpretation of the tax cuts and jobs act , we estimate that our 2018 effective tax rate will be approximately 28% ( 28 % ) , subject to future regulatory developments and earnings mix by taxing jurisdiction .",
+      "we are regularly examined by tax authorities around the world , and we are currently under examination in a number of jurisdictions .",
+      "it is reasonably possible that within the next 12 months certain tax examinations will close , which could result in a change in unrecognized tax benefits along with related interest and penalties .",
+      "an estimate of any possible change cannot be made at this time .",
+      "net earnings attributable to pmi of $ 6.0 billion decreased by $ 932 million ( 13.4% ( 13.4 % ) ) .",
+      "this decrease was due primarily to a higher effective tax rate as discussed above , partly offset by higher operating income .",
+      "diluted and basic eps of $ 3.88 decreased by 13.4% ( 13.4 % ) .",
+      "excluding ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "for the years ended december 31 , 2017",
+        "for the years ended december 31 , 2016",
+        "for the years ended december 31 , $",
+        "% (  % )"
+      ],
+      [
+        "cost of sales",
+        "$ 10432",
+        "$ 9391",
+        "$ 1041",
+        "11.1% ( 11.1 % )"
+      ],
+      [
+        "marketing administration and research costs",
+        "6725",
+        "6405",
+        "320",
+        "5.0% ( 5.0 % )"
+      ],
+      [
+        "operating income",
+        "11503",
+        "10815",
+        "688",
+        "6.4% ( 6.4 % )"
+      ]
+    ],
+    "questions": [
+      "by what amount did the net earnings attributable to pmi decrease over the year, in millions?",
+      "and what percentage of those net earnings in the previous year is represented by this amount?",
+      "considering, then, this decrease amount and the percentage of the net earnings it represents, what was the total of those net earnings in the previous year, in millions?",
+      "and how much is that in billions?"
+    ]
+  }
+}

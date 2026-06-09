@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "GPN/2013/page_71.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "our initial estimate of fraud losses , fines and other charges on our understanding of the rules and operating regulations published by the networks and preliminary communications with the networks .",
+      "we have now reached resolution with and made payments to the networks , resulting in charges that were less than our initial estimates .",
+      "the primary difference between our initial estimates and the final charges relates to lower fraud related costs attributed to this event than previously expected .",
+      "the following table reflects the activity in our accrual for fraud losses , fines and other charges for the twelve months ended may 31 , 2013 ( in thousands ) : ."
+    ],
+    "post_text": [
+      "we were insured under policies that provided coverage of certain costs associated with this event .",
+      "the policies provided a total of $ 30.0 million in policy limits and contained various sub-limits of liability and other terms , conditions and limitations , including a $ 1.0 million deductible per claim .",
+      "as of fiscal year 2013 , we received assessments from certain networks and submitted additional claims to the insurers and recorded $ 20.0 million in additional insurance recoveries based on our negotiations with our insurers .",
+      "we will record receivables for any additional recoveries in the periods in which we determine such recovery is probable and the amount can be reasonably estimated .",
+      "a class action arising out of the processing system intrusion was filed against us on april 4 , 2012 by natalie willingham ( individually and on behalf of a putative nationwide class ) ( the 201cplaintiff 201d ) .",
+      "specifically , ms .",
+      "willingham alleged that we failed to maintain reasonable and adequate procedures to protect her personally identifiable information ( 201cpii 201d ) which she claims resulted in two fraudulent charges on her credit card in march 2012 .",
+      "further , ms .",
+      "willingham asserted that we failed to timely notify the public of the data breach .",
+      "based on these allegations , ms .",
+      "willingham asserted claims for negligence , violation of the federal stored communications act , willful violation of the fair credit reporting act , negligent violation of the fair credit reporting act , violation of georgia 2019s unfair and deceptive trade practices act , negligence per se , breach of third-party beneficiary contract , and breach of implied contract .",
+      "ms .",
+      "willingham sought an unspecified amount of damages and injunctive relief .",
+      "the lawsuit was filed in the united states district court for the northern district of georgia .",
+      "on may 14 , 2012 , we filed a motion to dismiss .",
+      "on july 11 , 2012 , plaintiff filed a motion for leave to amend her complaint , and on july 16 , 2012 , the court granted that motion .",
+      "she then filed an amended complaint on july 16 , 2012 .",
+      "the amended complaint did not add any new causes of action .",
+      "instead , it added two new named plaintiffs ( nadine and robert hielscher ) ( together with plaintiff , the 201cplaintiffs 201d ) and dropped plaintiff 2019s claim for negligence per se .",
+      "on august 16 , 2012 , we filed a motion to dismiss the plaintiffs 2019 amended complaint .",
+      "the plaintiffs filed their response in opposition to our motion to dismiss on october 5 , 2012 , and we subsequently filed our reply brief on october 22 , 2012 .",
+      "the magistrate judge issued a report and recommendation recommending dismissal of all of plaintiffs 2019 claims with prejudice .",
+      "the plaintiffs subsequently agreed to voluntarily dismiss the lawsuit with prejudice , with each party bearing its own fees and costs .",
+      "this was the only consideration exchanged by the parties in connection with plaintiffs 2019 voluntary dismissal with prejudice of the lawsuit .",
+      "the lawsuit was dismissed with prejudice on march 6 , 2013 .",
+      "note 3 2014settlement processing assets and obligations we are designated as a merchant service provider by mastercard and an independent sales organization by visa .",
+      "these designations are dependent upon member clearing banks ( 201cmember 201d ) sponsoring us and our adherence to the standards of the networks .",
+      "we have primary financial institution sponsors in the various markets where we facilitate payment transactions with whom we have sponsorship or depository and clearing agreements .",
+      "these agreements allow us to route transactions under the member banks 2019 control and identification numbers to clear credit card transactions through mastercard and visa .",
+      "in certain markets , we are members in various payment networks , allowing us to process and fund transactions without third-party sponsorship. ."
+    ],
+    "table": [
+      [
+        "balance at may 31 2012",
+        "$ 67436"
+      ],
+      [
+        "adjustments",
+        "-31781 ( 31781 )"
+      ],
+      [
+        "subtotal",
+        "35655"
+      ],
+      [
+        "payments",
+        "-35655 ( 35655 )"
+      ],
+      [
+        "balance at may 31 2013",
+        "$ 2014"
+      ]
+    ],
+    "questions": [
+      "what percent of the balance was used on payments ."
+    ]
+  }
+}

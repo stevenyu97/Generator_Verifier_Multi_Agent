@@ -1,0 +1,60 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total compensation expense under the stock plan in the year of 2016?",
+      "answer": 12.2,
+      "answer_raw": "12.2",
+      "program": "12.2"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "ad what was it for 2015?",
+      "answer": 6.9,
+      "answer_raw": "6.9",
+      "program": "6.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, did the 2016 amount represent in relation to the 2015 one?",
+      "answer": 1.76812,
+      "answer_raw": "1.76812",
+      "program": "divide(12.2, 6.9)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is this value without the portion equivalent to the 2015 expense?",
+      "answer": 0.76812,
+      "answer_raw": "0.76812",
+      "program": "divide(12.2, 6.9), subtract(#0, const_1)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and in the subsequent year of this period, what was the weighted average grant date fair value per share of restricted stock?",
+      "answer": 84.53,
+      "answer_raw": "84.53",
+      "program": "84.53"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what was it in 2016?",
+      "answer": 73.2,
+      "answer_raw": "73.2",
+      "program": "73.20"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "by how much, then, did it increase over the year?",
+      "answer": 11.33,
+      "answer_raw": "11.33",
+      "program": "subtract(84.53, 73.20)"
+    },
+    {
+      "line_id": "turn_7",
+      "question": "and what is this increase as a percentage of the 2016 fair value?",
+      "answer": 0.15478,
+      "answer_raw": "0.15478",
+      "program": "subtract(84.53, 73.20), divide(#0, 73.20)"
+    }
+  ]
+}

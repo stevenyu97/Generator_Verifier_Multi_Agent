@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the growth in the sales from 2011 to 2012",
+      "answer": 0.04115,
+      "answer_raw": "0.04115",
+      "program": "subtract(14953, 14362), divide(#0, 14362)"
+    }
+  ]
+}

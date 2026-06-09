@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in total operating expenses between 2007 and 2008?",
+      "answer": -0.7187,
+      "answer_raw": "-0.7187",
+      "program": "subtract(510, 1813), divide(#0, 1813)"
+    }
+  ]
+}

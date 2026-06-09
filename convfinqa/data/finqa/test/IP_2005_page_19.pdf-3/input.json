@@ -1,0 +1,100 @@
+{
+  "input": {
+    "id": "IP/2005/page_19.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "item 7 .",
+      "management 2019s discussion and analysis of financial condition and results of operations executive summary international paper 2019s operating results in 2005 were strongly impacted by significantly higher costs for en- ergy , wood , caustic soda and other raw materials which reduced operating profits compared with 2004 by $ 586 million .",
+      "lower sales volumes were also a negative factor versus 2004 as we took a significant amount of lack-of-order downtime in our u.s .",
+      "uncoated paper and containerboard mills , and downtime in our eastern european operations to rebuild paper machines in po- land and russia to add needed uncoated paper and pa- perboard capacity .",
+      "we were able to partially offset some of these negative impacts through operational improvements in our manufacturing operations , im- proved average pricing for our paper and packaging grades , a more favorable product mix , and higher earn- ings from forestland and real estate sales .",
+      "looking forward to 2006 , we expect operating prof- its for the first quarter to be flat with the 2005 fourth quarter .",
+      "sales volumes should be seasonally slow in the quarter , but should show some improvement as the quarter progresses .",
+      "price realizations should also improve as previously announced price increases are im- plemented .",
+      "while energy , wood and raw material price movements are mixed , their impact for the quarter is expected to be flat .",
+      "however , we see favorable signs of positive mo- mentum for the remainder of 2006 .",
+      "we anticipate that demand in north america for both uncoated paper and industrial packaging products will be stronger , and that we will realize 2005 fourth-quarter and 2006 first-quarter announced price increases .",
+      "additionally , operating rates should improve in 2006 reflecting announced industry capacity reductions in uncoated papers and container- board .",
+      "we are also starting to see some reductions in natural gas and southern wood costs that , if the trend continues , should benefit operations as the year pro- gresses .",
+      "in connection with our overall strategic direction , we are evaluating options for the possible sale or spin-off of certain of our businesses as previously announced in our transformation plan , with decisions on certain businesses anticipated during 2006 .",
+      "we also will con- tinue to improve our key operations in north america by realigning our uncoated and packaging mill oper- ations to reduce costs , improve our products and im- prove our overall profitability .",
+      "results of operations industry segment operating profits are used by international paper 2019s management to measure the earn- ings performance of its businesses .",
+      "management believes that this measure allows a better understanding of trends in costs , operating efficiencies , prices and volumes .",
+      "in- dustry segment operating profits are defined as earnings before taxes and minority interest , interest expense , corporate items and corporate special items .",
+      "industry segment operating profits are defined by the securities and exchange commission as a non-gaap financial measure , and are not gaap alternatives to net income or any other operating measure prescribed by accounting principles generally accepted in the united states .",
+      "international paper operates in six segments : print- ing papers , industrial packaging , consumer packaging , distribution , forest products , and specialty businesses and other .",
+      "the following table shows the components of net earnings ( loss ) for each of the last three years : in millions 2005 2004 2003 ."
+    ],
+    "post_text": [
+      "* special items include restructuring and other charges , net losses on sales and impair- ments of businesses held for sale , insurance recoveries and reversals of reserves no lon- ger required .",
+      "industry segment operating profits were $ 117 mil- lion lower in 2005 due principally to the impact of higher energy and raw material costs ( $ 586 million ) , lower sales volume ( $ 251 million ) , and unfavorable for- eign currency translation rates ( $ 27 million ) which more than offset the benefits from higher average prices ( $ 478 million ) , cost reduction initiatives , improved operating performance and a more favorable product mix ( $ 235 million ) , and higher earnings from land sales ( $ 158 million ) .",
+      "the impact of divestitures ( $ 32 million ) , principally the fine papers and industrial pa- pers businesses , and other items ( $ 36 million ) also had a negative impact in 2005 .",
+      "segment operating profit ( in millions ) ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2005",
+        "2004",
+        "2003"
+      ],
+      [
+        "industry segment operating profits",
+        "$ 1923",
+        "$ 2040",
+        "$ 1734"
+      ],
+      [
+        "corporate items",
+        "-597 ( 597 )",
+        "-469 ( 469 )",
+        "-466 ( 466 )"
+      ],
+      [
+        "corporate special items*",
+        "-147 ( 147 )",
+        "-142 ( 142 )",
+        "-281 ( 281 )"
+      ],
+      [
+        "interest expense net",
+        "-593 ( 593 )",
+        "-710 ( 710 )",
+        "-705 ( 705 )"
+      ],
+      [
+        "minority interest",
+        "-12 ( 12 )",
+        "-21 ( 21 )",
+        "-80 ( 80 )"
+      ],
+      [
+        "income tax benefit ( provision )",
+        "285",
+        "-242 ( 242 )",
+        "56"
+      ],
+      [
+        "discontinued operations",
+        "241",
+        "-491 ( 491 )",
+        "57"
+      ],
+      [
+        "accounting changes",
+        "2013",
+        "2013",
+        "-13 ( 13 )"
+      ],
+      [
+        "net earnings ( loss )",
+        "$ 1100",
+        "$ -35 ( 35 )",
+        "$ 302"
+      ]
+    ],
+    "questions": [
+      "what was the average industry segment operating profits from 2003 to 2005"
+    ]
+  }
+}

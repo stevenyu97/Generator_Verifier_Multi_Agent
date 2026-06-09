@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the beginning number of stores in 2012?",
+      "answer": 3576.0,
+      "answer_raw": "3576.0",
+      "program": "3576"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the number of stores in the end of that year?",
+      "answer": 3460.0,
+      "answer_raw": "3460.0",
+      "program": "3460"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change in that number throughout the year?",
+      "answer": 116.0,
+      "answer_raw": "116.0",
+      "program": "subtract(3576, 3460)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the ending number of stores in 2012?",
+      "answer": 3460.0,
+      "answer_raw": "3460.0",
+      "program": "3460"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this number?",
+      "answer": 0.03353,
+      "answer_raw": "0.03353",
+      "program": "subtract(3576, 3460), divide(#0, 3460)"
+    }
+  ]
+}

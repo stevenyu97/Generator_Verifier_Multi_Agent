@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent higher would accumulated other comprehensive income be without unrecognized losses/costs?",
+      "answer": 0.46292,
+      "answer_raw": "0.46292",
+      "program": "add(111.1, 240.0), divide(#0, 240.0), subtract(#1, const_1)"
+    }
+  ]
+}

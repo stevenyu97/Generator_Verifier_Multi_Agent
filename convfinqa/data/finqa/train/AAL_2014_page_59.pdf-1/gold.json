@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the 3 year return of american airlines group inc.?",
+      "answer": 1.19,
+      "answer_raw": "1.19",
+      "program": "subtract(219, 100), divide(#0, 100)"
+    }
+  ]
+}

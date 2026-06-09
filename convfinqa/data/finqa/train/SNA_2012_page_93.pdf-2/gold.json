@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average undistributed earnings of all non-u.s . subsidiaries from 2010 to 2012 in millions",
+      "answer": 649.05,
+      "answer_raw": "649.05",
+      "program": "add(492.2, 416.4), add(#0, 386.5), add(#1, const_3), divide(#2, const_2)"
+    }
+  ]
+}

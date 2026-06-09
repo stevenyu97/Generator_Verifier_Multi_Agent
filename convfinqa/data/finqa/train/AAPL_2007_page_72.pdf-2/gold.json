@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the largest amount of other current assets?",
+      "answer": 996.0,
+      "answer_raw": "996.0",
+      "program": "table_max(other current assets, none)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2004 what was the ratio of the investment bank to the retail financial services operations operating earnings",
+      "answer": 1.34061,
+      "answer_raw": "1.34061",
+      "program": "divide(2948, 2199)"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "input": {
+    "id": "JPM/2010/page_59.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "jpmorgan chase & co./2010 annual report 59 consolidated results of operations this following section provides a comparative discussion of jpmorgan chase 2019s consolidated results of operations on a reported basis for the three-year period ended december 31 , 2010 .",
+      "factors that related primarily to a single business segment are discussed in more detail within that business segment .",
+      "for a discussion of the critical accounting estimates used by the firm that affect the consolidated results of operations , see pages 149 2013 154 of this annual report .",
+      "revenue year ended december 31 , ( in millions ) 2010 2009 2008 ."
+    ],
+    "post_text": [
+      "2010 compared with 2009 total net revenue for 2010 was $ 102.7 billion , up by $ 2.3 billion , or 2% ( 2 % ) , from 2009 .",
+      "results for 2010 were driven by a higher level of securities gains and private equity gains in corporate/private equity , higher asset management fees in am and administration fees in tss , and higher other income in several businesses , partially offset by lower credit card income .",
+      "investment banking fees decreased from 2009 due to lower equity underwriting and advisory fees , partially offset by higher debt underwriting fees .",
+      "competitive markets combined with flat industry-wide equity underwriting and completed m&a volumes , resulted in lower equity underwriting and advisory fees ; while strong industry-wide loan syndication and high-yield bond volumes drove record debt underwriting fees in ib .",
+      "for additional information on investment banking fees , which are primarily recorded in ib , see ib segment results on pages 69 201371 of this annual report .",
+      "principal transactions revenue , which consists of revenue from the firm 2019s trading and private equity investing activities , increased compared with 2009 .",
+      "this was driven by the private equity business , which had significant private equity gains in 2010 , compared with a small loss in 2009 , reflecting improvements in market conditions .",
+      "trading revenue decreased , reflecting lower results in corporate , offset by higher revenue in ib primarily reflecting gains from the widening of the firm 2019s credit spread on certain structured and derivative liabilities .",
+      "for additional information on principal transactions revenue , see ib and corporate/private equity segment results on pages 69 201371 and 89 2013 90 , respectively , and note 7 on pages 199 2013200 of this annual report .",
+      "lending- and deposit-related fees decreased in 2010 from 2009 levels , reflecting lower deposit-related fees in rfs associated , in part , with newly-enacted legislation related to non-sufficient funds and overdraft fees ; this was partially offset by higher lending- related service fees in ib , primarily from growth in business volume , and in cb , primarily from higher commitment and letter-of-credit fees .",
+      "for additional information on lending- and deposit-related fees , which are mostly recorded in ib , rfs , cb and tss , see segment results for ib on pages 69 201371 , rfs on pages 72 201378 , cb on pages 82 201383 and tss on pages 84 201385 of this annual report .",
+      "asset management , administration and commissions revenue increased from 2009 .",
+      "the increase largely reflected higher asset management fees in am , driven by the effect of higher market levels , net inflows to products with higher margins and higher performance fees ; and higher administration fees in tss , reflecting the effects of higher market levels and net inflows of assets under custody .",
+      "this increase was partially offset by lower brokerage commissions in ib , as a result of lower market volumes .",
+      "for additional information on these fees and commissions , see the segment discussions for am on pages 86 201388 and tss on pages 84 201385 of this annual report .",
+      "securities gains were significantly higher in 2010 compared with 2009 , resulting primarily from the repositioning of the portfolio in response to changes in the interest rate environment and to rebalance exposure .",
+      "for additional information on securities gains , which are mostly recorded in the firm 2019s corporate segment , see the corporate/private equity segment discussion on pages 89 201390 of this annual report .",
+      "mortgage fees and related income increased in 2010 compared with 2009 , driven by higher mortgage production revenue , reflecting increased mortgage origination volumes in rfs and am , and wider margins , particularly in rfs .",
+      "this increase was largely offset by higher repurchase losses in rfs ( recorded as contra- revenue ) , which were attributable to higher estimated losses related to repurchase demands , predominantly from gses .",
+      "for additional information on mortgage fees and related income , which is recorded primarily in rfs , see rfs 2019s mortgage banking , auto & other consumer lending discussion on pages 74 201377 of this annual report .",
+      "for additional information on repurchase losses , see the repurchase liability discussion on pages 98 2013101 and note 30 on pages 275 2013280 of this annual report .",
+      "credit card income decreased during 2010 , predominantly due to the impact of the accounting guidance related to vies , effective january 1 , 2010 , that required the firm to consolidate the assets and liabilities of its firm-sponsored credit card securitization trusts .",
+      "adoption of the new guidance resulted in the elimination of all servicing fees received from firm-sponsored credit card securitization trusts ( which was offset by related increases in net ."
+    ],
+    "table": [
+      [
+        "year ended december 31 ( in millions )",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      [
+        "investment banking fees",
+        "$ 6190",
+        "$ 7087",
+        "$ 5526"
+      ],
+      [
+        "principal transactions",
+        "10894",
+        "9796",
+        "-10699 ( 10699 )"
+      ],
+      [
+        "lending- and deposit-related fees",
+        "6340",
+        "7045",
+        "5088"
+      ],
+      [
+        "asset management administrationand commissions",
+        "13499",
+        "12540",
+        "13943"
+      ],
+      [
+        "securities gains",
+        "2965",
+        "1110",
+        "1560"
+      ],
+      [
+        "mortgage fees and related income",
+        "3870",
+        "3678",
+        "3467"
+      ],
+      [
+        "credit card income",
+        "5891",
+        "7110",
+        "7419"
+      ],
+      [
+        "other income",
+        "2044",
+        "916",
+        "2169"
+      ],
+      [
+        "noninterest revenue",
+        "51693",
+        "49282",
+        "28473"
+      ],
+      [
+        "net interest income",
+        "51001",
+        "51152",
+        "38779"
+      ],
+      [
+        "total net revenue",
+        "$ 102694",
+        "$ 100434",
+        "$ 67252"
+      ]
+    ],
+    "questions": [
+      "what was noninterest revenue as a percent of total net revenue in 2009?"
+    ]
+  }
+}

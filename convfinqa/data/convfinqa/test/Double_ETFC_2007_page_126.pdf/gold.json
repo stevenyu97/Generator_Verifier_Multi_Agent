@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2007, what percentage did the future principal payments of corporate debt due in 2011 represent in relation to the total ones?",
+      "answer": 0.13153,
+      "answer_raw": "0.13153",
+      "program": "divide(453815, 3450152)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much did they represent in relation to the payments due after 2012?",
+      "answer": 0.15146,
+      "answer_raw": "0.15146",
+      "program": "divide(453815, 2996337)"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "AMT/2005/page_83.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements 2014 ( continued ) operations , net , in the accompanying consolidated statements of operations for the year ended december 31 , 2003 .",
+      "( see note 9. ) other transactions 2014in august 2003 , the company consummated the sale of galaxy engineering ( galaxy ) , a radio frequency engineering , network design and tower-related consulting business ( previously included in the company 2019s network development services segment ) .",
+      "the purchase price of approximately $ 3.5 million included $ 2.0 million in cash , which the company received at closing , and an additional $ 1.5 million payable on january 15 , 2008 , or at an earlier date based on the future revenues of galaxy .",
+      "the company received $ 0.5 million of this amount in january 2005 .",
+      "pursuant to this transaction , the company recorded a net loss on disposal of approximately $ 2.4 million in the accompanying consolidated statement of operations for the year ended december 31 , 2003 .",
+      "in may 2003 , the company consummated the sale of an office building in westwood , massachusetts ( previously held primarily as rental property and included in the company 2019s rental and management segment ) for a purchase price of approximately $ 18.5 million , including $ 2.4 million of cash proceeds and the buyer 2019s assumption of $ 16.1 million of related mortgage notes .",
+      "pursuant to this transaction , the company recorded a net loss on disposal of approximately $ 3.6 million in the accompanying consolidated statement of operations for the year ended december 31 , 2003 .",
+      "in january 2003 , the company consummated the sale of flash technologies , its remaining components business ( previously included in the company 2019s network development services segment ) for approximately $ 35.5 million in cash and has recorded a net gain on disposal of approximately $ 0.1 million in the accompanying consolidated statement of operations for the year ended december 31 , 2003 .",
+      "in march 2003 , the company consummated the sale of an office building in schaumburg , illinois ( previously held primarily as rental property and included in the company 2019s rental and management segment ) for net proceeds of approximately $ 10.3 million in cash and recorded a net loss on disposal of $ 0.1 million in the accompanying consolidated statement of operations for the year ended december 31 , 2003 .",
+      "4 .",
+      "property and equipment property and equipment ( including assets held under capital leases ) consist of the following as of december 31 , ( in thousands ) : ."
+    ],
+    "post_text": [
+      "5 .",
+      "goodwill and other intangible assets the company 2019s net carrying amount of goodwill was approximately $ 2.1 billion as of december 312005 and $ 592.7 million as of december 31 , 2004 , all of which related to its rental and management segment .",
+      "the increase in the carrying value was as a result of the goodwill of $ 1.5 billion acquired in the merger with spectrasite , inc .",
+      "( see note 2. ) ."
+    ],
+    "table": [
+      [
+        "",
+        "2005",
+        "2004"
+      ],
+      [
+        "towers",
+        "$ 4134155",
+        "$ 2788162"
+      ],
+      [
+        "equipment",
+        "167504",
+        "115244"
+      ],
+      [
+        "buildings and improvements",
+        "184951",
+        "162120"
+      ],
+      [
+        "land and improvements",
+        "215974",
+        "176937"
+      ],
+      [
+        "construction-in-progress",
+        "36991",
+        "27866"
+      ],
+      [
+        "total",
+        "4739575",
+        "3270329"
+      ],
+      [
+        "less accumulated depreciation and amortization",
+        "-1279049 ( 1279049 )",
+        "-996973 ( 996973 )"
+      ],
+      [
+        "property and equipment net",
+        "$ 3460526",
+        "$ 2273356"
+      ]
+    ],
+    "questions": [
+      "what was the percentage increase in the property and equipment net from 2004 to 2005"
+    ]
+  }
+}

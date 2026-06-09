@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of euro notes issued in 2014 , in millions of dollars approximately?",
+      "answer": 3098.0,
+      "answer_raw": "3098.0",
+      "program": "add(1029, 1372), add(#0, 697)"
+    }
+  ]
+}

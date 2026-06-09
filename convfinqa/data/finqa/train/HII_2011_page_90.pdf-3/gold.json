@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net adjustments as recorded in 2011 in millions",
+      "answer": 23.0,
+      "answer_raw": "23.0",
+      "program": "multiply(24, const_m1), add(#0, 47)"
+    }
+  ]
+}

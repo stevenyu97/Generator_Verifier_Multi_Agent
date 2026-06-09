@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the effective tax rate for pca in 2005?",
+      "answer": 0.40227,
+      "answer_raw": "0.40227",
+      "program": "divide(35.4, 88.0)"
+    }
+  ]
+}

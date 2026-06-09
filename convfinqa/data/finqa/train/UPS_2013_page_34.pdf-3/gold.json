@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in performance for the five years ended 12/21/2013 between united parcel service inc . and the standard & poor's 500 index?",
+      "answer": -6.18,
+      "answer_raw": "-6.18",
+      "program": "subtract(221.91, const_100), subtract(228.09, const_100), subtract(#0, #1)"
+    }
+  ]
+}

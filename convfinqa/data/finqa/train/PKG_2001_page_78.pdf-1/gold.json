@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "unrecognized prior service cost is what percent of prepaid pension cost as of december 31 1998?",
+      "answer": 0.37792,
+      "answer_raw": "0.37792",
+      "program": "divide(13455, 35603)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average interest income for 2013 and 2014 , in millions?",
+      "answer": 26.05,
+      "answer_raw": "26.05",
+      "program": "add(27.4, 24.7), divide(#0, const_2)"
+    }
+  ]
+}

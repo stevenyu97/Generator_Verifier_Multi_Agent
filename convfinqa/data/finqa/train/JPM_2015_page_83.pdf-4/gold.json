@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the information of the firm 2019s average interest-earning assets were $ 2.0 trillion , and the net interest yield on these assets , on a fte basis , of 2.18% ( 2.18 % ) what was the approximate interest income in billions",
+      "answer": 4.18,
+      "answer_raw": "4.18",
+      "program": "add(const_2, 2.18)"
+    }
+  ]
+}

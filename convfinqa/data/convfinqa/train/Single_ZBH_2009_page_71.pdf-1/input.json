@@ -1,0 +1,133 @@
+{
+  "input": {
+    "id": "Single_ZBH/2009/page_71.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "realignment and other 201d expenses .",
+      "acquisition , integration , realignment and other expenses for the years ended december 31 , 2009 , 2008 and 2007 , included ( in millions ) : ."
+    ],
+    "post_text": [
+      "adjustment or impairment of acquired assets and obligations relates to impairment on assets that were acquired in business combinations or adjustments to certain liabilities of acquired companies due to changes in circumstances surrounding those liabilities subsequent to the related measurement period .",
+      "consulting and professional fees relate to third-party integration consulting performed in a variety of areas such as tax , compliance , logistics and human resources and include third-party fees related to severance and termination benefits matters .",
+      "these fees also include legal fees related to litigation matters involving acquired businesses that existed prior to our acquisition or resulted from our acquisition .",
+      "during 2009 , we commenced a global realignment initiative to focus on business opportunities that best support our strategic priorities .",
+      "as part of this realignment , we initiated changes in our work force , eliminating positions in some areas and increasing others .",
+      "approximately 300 employees from across the globe were affected by these actions .",
+      "as a result of these changes in our work force and headcount reductions from acquisitions , we recorded expense of $ 19.0 million related to severance and other employee termination-related costs .",
+      "these termination benefits were provided in accordance with our existing or local government policies and are considered ongoing benefits .",
+      "these costs were accrued when they became probable and estimable and were recorded as part of other current liabilities .",
+      "the majority of these costs were paid during 2009 .",
+      "information technology integration relates to the non- capitalizable costs associated with integrating the information systems of acquired businesses .",
+      "in-process research and development charges for 2008 relate to the acquisition of abbott spine .",
+      "in-process research and development charges for 2007 relate to the acquisitions of endius and orthosoft .",
+      "in 2009 , we ceased using certain leased facilities and , accordingly , recorded expense for the remaining lease payments , less estimated sublease recoveries , and wrote-off any assets being used in those facilities .",
+      "facility and employee relocation relates to costs associated with relocating certain facilities .",
+      "most notably , we consolidated our legacy european distribution centers into a new distribution center in eschbach , germany .",
+      "over the past three years we have acquired a number of u.s .",
+      "and foreign-based distributors .",
+      "we have incurred various costs related to the acquisition and integration of those businesses .",
+      "certain litigation matters relate to costs recognized during the year for the estimated or actual settlement of various legal matters , including patent litigation matters , commercial litigation matters and matters arising from our acquisitions of certain competitive distributorships in prior years .",
+      "we recognize expense for the potential settlement of a legal matter when we believe it is probable that a loss has been incurred and we can reasonably estimate the loss .",
+      "in 2009 , we made a concerted effort to settle many of these matters to avoid further litigation costs .",
+      "contract termination costs relate to terminated agreements in connection with the integration of acquired companies .",
+      "the terminated contracts primarily relate to sales agents and distribution agreements .",
+      "cash and cash equivalents 2013 we consider all highly liquid investments with an original maturity of three months or less to be cash equivalents .",
+      "the carrying amounts reported in the balance sheet for cash and cash equivalents are valued at cost , which approximates their fair value .",
+      "certificates of deposit 2013 we invest in cash deposits with original maturities greater than three months and classify these investments as certificates of deposit on our consolidated balance sheet .",
+      "the carrying amounts reported in the balance sheet for certificates of deposit are valued at cost , which approximates their fair value .",
+      "inventories 2013 inventories , net of allowances for obsolete and slow-moving goods , are stated at the lower of cost or market , with cost determined on a first-in first-out basis .",
+      "property , plant and equipment 2013 property , plant and equipment is carried at cost less accumulated depreciation .",
+      "depreciation is computed using the straight-line method based on estimated useful lives of ten to forty years for buildings and improvements and three to eight years for machinery and equipment .",
+      "maintenance and repairs are expensed as incurred .",
+      "we review property , plant and equipment for impairment whenever events or changes in circumstances indicate that the carrying value of an asset may not be recoverable .",
+      "an impairment loss would be recognized when estimated future undiscounted cash flows relating to the asset are less than its carrying amount .",
+      "an impairment loss is measured as the amount by which the carrying amount of an asset exceeds its fair value .",
+      "z i m m e r h o l d i n g s , i n c .",
+      "2 0 0 9 f o r m 1 0 - k a n n u a l r e p o r t notes to consolidated financial statements ( continued ) %%transmsg*** transmitting job : c55340 pcn : 043000000 ***%%pcmsg|43 |00008|yes|no|02/24/2010 01:32|0|0|page is valid , no graphics -- color : d| ."
+    ],
+    "table": [
+      [
+        "",
+        "2009",
+        "2008",
+        "2007"
+      ],
+      [
+        "adjustment or impairment of acquired assets and obligations net",
+        "$ -1.5 ( 1.5 )",
+        "$ -10.4 ( 10.4 )",
+        "$ -1.2 ( 1.2 )"
+      ],
+      [
+        "consulting and professional fees",
+        "11.7",
+        "13.2",
+        "1.0"
+      ],
+      [
+        "employee severance and retention including share-based compensation acceleration",
+        "19.0",
+        "0.2",
+        "1.6"
+      ],
+      [
+        "information technology integration",
+        "1.1",
+        "0.7",
+        "2.6"
+      ],
+      [
+        "in-process research & development",
+        "2013",
+        "38.5",
+        "6.5"
+      ],
+      [
+        "vacated facilities",
+        "1.4",
+        "2013",
+        "2013"
+      ],
+      [
+        "facility and employee relocation",
+        "5.4",
+        "7.5",
+        "2013"
+      ],
+      [
+        "distributor acquisitions",
+        "1.1",
+        "6.9",
+        "4.1"
+      ],
+      [
+        "certain litigation matters",
+        "23.4",
+        "2013",
+        "2013"
+      ],
+      [
+        "contract terminations",
+        "9.4",
+        "5.7",
+        "5.4"
+      ],
+      [
+        "other",
+        "4.3",
+        "6.2",
+        "5.2"
+      ],
+      [
+        "acquisition integration realignment and other",
+        "$ 75.3",
+        "$ 68.5",
+        "$ 25.2"
+      ]
+    ],
+    "questions": [
+      "what is the net change in consulting and professional fees from 2008 to 2009?",
+      "what percentage change does this represent?"
+    ]
+  }
+}

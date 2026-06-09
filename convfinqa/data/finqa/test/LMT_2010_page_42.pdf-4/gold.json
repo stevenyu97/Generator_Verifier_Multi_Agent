@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in capital expenditures for property , plant and equipment from 2008 to 2009?",
+      "answer": -0.07991,
+      "answer_raw": "-0.07991",
+      "program": "subtract(852, 926), divide(#0, 926)"
+    }
+  ]
+}

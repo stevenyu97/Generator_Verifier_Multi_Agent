@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of non-cash impairment charges came from real estate under development?",
+      "answer": 0.01199,
+      "answer_raw": "0.01199",
+      "program": "divide(2.1, 175.1)"
+    }
+  ]
+}

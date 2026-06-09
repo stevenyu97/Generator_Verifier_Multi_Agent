@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "MRO/2008/page_41.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "proved reserves can be added as expansions are permitted , funding is approved and certain stipulations of the joint venture agreement are satisfied .",
+      "the following table sets forth changes in estimated quantities of net proved bitumen reserves for the year 2008 .",
+      "estimated quantities of proved bitumen reserves ( millions of barrels ) 2008 ."
+    ],
+    "post_text": [
+      "( a ) revisions were driven primarily by price and the impact of the new royalty regime discussed below .",
+      "the above estimated quantity of net proved bitumen reserves is a forward-looking statement and is based on a number of assumptions , including ( among others ) commodity prices , volumes in-place , presently known physical data , recoverability of bitumen , industry economic conditions , levels of cash flow from operations , and other operating considerations .",
+      "to the extent these assumptions prove inaccurate , actual recoveries could be different than current estimates .",
+      "for a discussion of the proved bitumen reserves estimation process , see item 7 .",
+      "management 2019s discussion and analysis of financial condition and results of operations 2013 critical accounting estimates 2013 estimated net recoverable reserve quantities 2013 proved bitumen reserves .",
+      "operations at the aosp are not within the scope of statement of financial accounting standards ( 201csfas 201d ) no .",
+      "25 , 201csuspension of certain accounting requirements for oil and gas producing companies ( an amendment of financial accounting standards board ( 201cfasb 201d ) statement no .",
+      "19 ) , 201d sfas no .",
+      "69 , 201cdisclosures about oil and gas producing activities ( an amendment of fasb statements 19 , 25 , 33 and 39 ) , 201d and securities and exchange commission ( 201csec 201d ) rule 4-10 of regulation s-x ; therefore , bitumen production and reserves are not included in our supplementary information on oil and gas producing activities .",
+      "the sec has recently issued a release amending these disclosure requirements effective for annual reports on form 10-k for fiscal years ending on or after december 31 , 2009 , see item 7 .",
+      "management 2019s discussion and analysis of financial condition and results of operations 2013 accounting standards not yet adopted for additional information .",
+      "prior to our acquisition of western , the first fully-integrated expansion of the existing aosp facilities was approved in 2006 .",
+      "expansion 1 , which includes construction of mining and extraction facilities at the jackpine mine , expansion of treatment facilities at the existing muskeg river mine , expansion of the scotford upgrader and development of related infrastructure , is anticipated to begin operations in late 2010 or 2011 .",
+      "when expansion 1 is complete , we will have more than 50000 bpd of net production and upgrading capacity in the canadian oil sands .",
+      "the timing and scope of future expansions and debottlenecking opportunities on existing operations remain under review .",
+      "during 2008 , the alberta government accepted the project 2019s application to have a portion of the expansion 1 capital costs form part of the muskeg river mine 2019s allowable cost recovery pool .",
+      "due to commodity price declines in the year , royalties for 2008 were one percent of the gross mine revenue .",
+      "commencing january 1 , 2009 , the alberta royalty regime has been amended such that royalty rates will be based on the canadian dollar ( 201ccad 201d ) equivalent monthly average west texas intermediate ( 201cwti 201d ) price .",
+      "royalty rates will rise from a minimum of one percent to a maximum of nine percent under the gross revenue method and from a minimum of 25 percent to a maximum of 40 percent under the net revenue method .",
+      "under both methods , the minimum royalty is based on a wti price of $ 55.00 cad per barrel and below while the maximum royalty is reached at a wti price of $ 120.00 cad per barrel and above , with a linear increase in royalty between the aforementioned prices .",
+      "the above discussion of the oil sands mining segment includes forward-looking statements concerning the anticipated completion of aosp expansion 1 .",
+      "factors which could affect the expansion project include transportation logistics , availability of materials and labor , unforeseen hazards such as weather conditions , delays in obtaining or conditions imposed by necessary government and third-party approvals and other risks customarily associated with construction projects .",
+      "refining , marketing and transportation refining we own and operate seven refineries in the gulf coast , midwest and upper great plains regions of the united states with an aggregate refining capacity of 1.016 million barrels per day ( 201cmmbpd 201d ) of crude oil .",
+      "during 2008 ."
+    ],
+    "table": [
+      [
+        "( millions of barrels )",
+        "2008"
+      ],
+      [
+        "beginning of year",
+        "421"
+      ],
+      [
+        "revisions ( a )",
+        "-30 ( 30 )"
+      ],
+      [
+        "extensions discoveries and additions",
+        "6"
+      ],
+      [
+        "production",
+        "-9 ( 9 )"
+      ],
+      [
+        "end of year",
+        "388"
+      ]
+    ],
+    "questions": [
+      "of the ending 2008 balance of proved bitumen reserves what percentage makes up extensions discoveries and additions?"
+    ]
+  }
+}

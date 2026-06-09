@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the corrugated packaging number of facilities owned to those leased",
+      "answer": 1.83607,
+      "answer_raw": "1.83607",
+      "program": "divide(112, 61)"
+    }
+  ]
+}

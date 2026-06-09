@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of 2016 , what was the average size of data centers?",
+      "answer": 75000.0,
+      "answer_raw": "75000.0",
+      "program": "divide(600000, 8)"
+    }
+  ]
+}

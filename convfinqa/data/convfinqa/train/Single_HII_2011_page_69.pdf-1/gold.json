@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in net cash provided by operating activities between 2010 and 2011?",
+      "answer": 169.0,
+      "answer_raw": "169.0",
+      "program": "subtract(528, 359)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the value specifically in 2010?",
+      "answer": 359.0,
+      "answer_raw": "359.0",
+      "program": "359"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the percentage change during this time?",
+      "answer": 0.47075,
+      "answer_raw": "0.47075",
+      "program": "subtract(528, 359), divide(#0, 359)"
+    }
+  ]
+}

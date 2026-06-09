@@ -1,0 +1,92 @@
+{
+  "input": {
+    "id": "EMR/2017/page_54.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "it can issue debt securities , preferred stock , common stock , warrants , share purchase contracts or share purchase units without a predetermined limit .",
+      "securities can be sold in one or more separate offerings with the size , price and terms to be determined at the time of sale .",
+      "emerson 2019s financial structure provides the flexibility necessary to achieve its strategic objectives .",
+      "the company has been successful in efficiently deploying cash where needed worldwide to fund operations , complete acquisitions and sustain long-term growth .",
+      "at september 30 , 2017 , $ 3.1 billion of the company 2019s cash was held outside the u.s .",
+      "( primarily in europe and asia ) , $ 1.4 billion of which income taxes have been provided for , and was generally available for repatriation to the u.s .",
+      "under current tax law , repatriated cash may be subject to u.s .",
+      "federal income taxes , net of available foreign tax credits .",
+      "the company routinely repatriates a portion of its non-u.s .",
+      "cash from earnings each year , or otherwise when it can be accomplished tax efficiently , and provides for u.s .",
+      "income taxes as appropriate .",
+      "the company has been able to readily meet all its funding requirements and currently believes that sufficient funds will be available to meet the company 2019s needs in the foreseeable future through operating cash flow , existing resources , short- and long-term debt capacity or backup credit lines .",
+      "contractual obligations at september 30 , 2017 , the company 2019s contractual obligations , including estimated payments , are as follows : amounts due by period less more than 1 2013 3 3 2013 5 than ( dollars in millions ) total 1 year years years 5 years long-term debt ( including interest ) $ 5342 428 1434 966 2514 ."
+    ],
+    "post_text": [
+      "purchase obligations consist primarily of inventory purchases made in the normal course of business to meet operational requirements .",
+      "the table above does not include $ 2.0 billion of other noncurrent liabilities recorded in the balance sheet and summarized in note 19 , which consist primarily of pension and postretirement plan liabilities , deferred income taxes and unrecognized tax benefits , because it is not certain when these amounts will become due .",
+      "see notes 11 and 12 for estimated future benefit payments and note 14 for additional information on deferred income taxes .",
+      "financial instruments the company is exposed to market risk related to changes in interest rates , foreign currency exchange rates and commodity prices , and selectively uses derivative financial instruments , including forwards , swaps and purchased options to manage these risks .",
+      "the company does not hold derivatives for trading or speculative purposes .",
+      "the value of derivatives and other financial instruments is subject to change as a result of market movements in rates and prices .",
+      "sensitivity analysis is one technique used to forecast the impact of these movements .",
+      "based on a hypothetical 10 percent increase in interest rates , a 10 percent decrease in commodity prices or a 10 percent weakening in the u.s .",
+      "dollar across all currencies , the potential losses in future earnings , fair value or cash flows are not material .",
+      "sensitivity analysis has limitations ; for example , a weaker u.s .",
+      "dollar would benefit future earnings through favorable translation of non-u.s .",
+      "operating results , and lower commodity prices would benefit future earnings through lower cost of sales .",
+      "see notes 1 , and 8 through 10 .",
+      "critical accounting policies preparation of the company 2019s financial statements requires management to make judgments , assumptions and estimates regarding uncertainties that could affect reported revenue , expenses , assets , liabilities and equity .",
+      "note 1 describes the significant accounting policies used in preparation of the consolidated financial statements .",
+      "the most significant areas where management judgments and estimates impact the primary financial statements are described below .",
+      "actual results in these areas could differ materially from management 2019s estimates under different assumptions or conditions .",
+      "revenue recognition the company recognizes a large majority of its revenue through the sale of manufactured products and records the sale when products are shipped or delivered , title and risk of loss pass to the customer , and collection is reasonably assured .",
+      "in certain circumstances , revenue is recognized using the percentage-of- completion method , as performance occurs , or in accordance with asc 985-605 related to software .",
+      "sales arrangements sometimes involve delivering multiple elements , which requires management judgment that affects the amount and timing of revenue recognized .",
+      "in these instances , the revenue assigned to each element is based on vendor-specific objective evidence , third-party evidence or a management estimate of the relative selling price .",
+      "revenue is recognized for delivered elements if they have value to the customer on a stand-alone basis and performance related to the undelivered items is probable and substantially in the company 2019s control , or the undelivered elements are inconsequential or perfunctory and there are no unsatisfied contingencies related to payment .",
+      "the vast majority of deliverables are tangible products , with a smaller portion attributable to installation , service or maintenance .",
+      "management believes that all relevant criteria and conditions are considered when recognizing revenue. ."
+    ],
+    "table": [
+      [
+        "( dollars in millions )",
+        "amounts due by period total",
+        "amounts due by period less than 1 year",
+        "amounts due by period 1 - 3years",
+        "amounts due by period 3 - 5years",
+        "amounts due by period more than5 years"
+      ],
+      [
+        "long-term debt ( including interest )",
+        "$ 5342",
+        "428",
+        "1434",
+        "966",
+        "2514"
+      ],
+      [
+        "operating leases",
+        "536",
+        "171",
+        "206",
+        "80",
+        "79"
+      ],
+      [
+        "purchase obligations",
+        "746",
+        "655",
+        "71",
+        "14",
+        "6"
+      ],
+      [
+        "total",
+        "$ 6624",
+        "1254",
+        "1711",
+        "1060",
+        "2599"
+      ]
+    ],
+    "questions": [
+      "what percent of total contractual obligations is due to long-term debt ( including interest ) ?"
+    ]
+  }
+}

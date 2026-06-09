@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the long-term debt in 2011?",
+      "answer": 1340.0,
+      "answer_raw": "1340.0",
+      "program": "1340"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2007?",
+      "answer": 607.0,
+      "answer_raw": "607.0",
+      "program": "607"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "by how much, then, did it vary over the years?",
+      "answer": 733.0,
+      "answer_raw": "733.0",
+      "program": "subtract(1340, 607)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is this variation as a percentage of the 2007 amount?",
+      "answer": 0.54701,
+      "answer_raw": "0.54701",
+      "program": "subtract(1340, 607), divide(#0, 1340)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and from four years before, in 2004, to 2011, what was the decline in the lease obligations?",
+      "answer": 85.0,
+      "answer_raw": "85.0",
+      "program": "subtract(205, 120)"
+    }
+  ]
+}

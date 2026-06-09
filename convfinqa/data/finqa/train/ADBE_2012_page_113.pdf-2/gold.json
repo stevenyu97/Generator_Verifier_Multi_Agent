@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the average price of repurchased shares from 2011 to 2012?",
+      "answer": 0.01509,
+      "answer_raw": "0.01509",
+      "program": "subtract(32.29, 31.81), divide(#0, 31.81)"
+    }
+  ]
+}

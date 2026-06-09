@@ -1,0 +1,53 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the natural gas marketed from 2010 to 2011?",
+      "answer": -74.0,
+      "answer_raw": "-74.0",
+      "program": "subtract(845, 919)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the natural gas marketed in 2010?",
+      "answer": 919.0,
+      "answer_raw": "919.0",
+      "program": "919"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage change does this represent?",
+      "answer": -0.08052,
+      "answer_raw": "-0.08052",
+      "program": "subtract(845, 919), divide(#0, 919)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is the natural gas marketed in 2012?",
+      "answer": 709.0,
+      "answer_raw": "709.0",
+      "program": "709"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and in 2011?",
+      "answer": 845.0,
+      "answer_raw": "845.0",
+      "program": "845"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the net change?",
+      "answer": -136.0,
+      "answer_raw": "-136.0",
+      "program": "subtract(709, 845)"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "what about about the percentage change from 2011 to 2012?",
+      "answer": -0.16095,
+      "answer_raw": "-0.16095",
+      "program": "subtract(709, 845), divide(#0, 845)"
+    }
+  ]
+}

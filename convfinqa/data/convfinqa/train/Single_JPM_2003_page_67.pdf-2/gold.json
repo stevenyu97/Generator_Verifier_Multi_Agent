@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much, in percentage, is the consumer expected loss allowance in 2003 in relation to the consumer expected loss allowance in 2002, considering the percentage decrease over the year?",
+      "answer": 96.0,
+      "answer_raw": "96.0",
+      "program": "subtract(const_100, 4)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the numerical representation of that percentage?",
+      "answer": 0.96,
+      "answer_raw": "0.96",
+      "program": "subtract(const_100, 4), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "considering the consumer expected loss allowance in 2003 and its value as a part of the 2002 one, what can be concluded to be the 2002 consumer expected loss allowance, in billions?",
+      "answer": 2.39583,
+      "answer_raw": "2.39583",
+      "program": "subtract(const_100, 4), divide(#0, const_100), divide(2.3, #1)"
+    }
+  ]
+}

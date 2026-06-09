@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the increase of trading during non u.s hours between 2009 and 2010?",
+      "answer": 0.04,
+      "answer_raw": "0.04",
+      "program": "subtract(13%, 9%)"
+    }
+  ]
+}

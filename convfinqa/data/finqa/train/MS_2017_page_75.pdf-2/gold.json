@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total payments due in 2019-2020 are time deposits?",
+      "answer": 0.04047,
+      "answer_raw": "0.04047",
+      "program": "divide(2481, 61306)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much of the 2008 planned capital spending will impact top line revenue?",
+      "answer": 0.51429,
+      "answer_raw": "0.51429",
+      "program": "divide(180, 350)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total purchase commitments are due in 2013?",
+      "answer": 0.03334,
+      "answer_raw": "0.03334",
+      "program": "divide(1486, 44572)"
+    }
+  ]
+}

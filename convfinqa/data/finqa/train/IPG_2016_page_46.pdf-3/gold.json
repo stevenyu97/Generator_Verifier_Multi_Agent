@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent cash and equivalents did the interest income generated during 2015?",
+      "answer": 0.02072,
+      "answer_raw": "0.02072",
+      "program": "subtract(1100.6, 22.8), divide(#0, 1100.6), subtract(const_1, #1)"
+    }
+  ]
+}

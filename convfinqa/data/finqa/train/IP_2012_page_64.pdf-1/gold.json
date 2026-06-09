@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of contractual obligations for future payments under existing debt and lease commitments and purchase obligations at december 31 , 2012 is short term for the year 2013?",
+      "answer": 0.88482,
+      "answer_raw": "0.88482",
+      "program": "add(198, 3213), divide(#0, 3855)"
+    }
+  ]
+}

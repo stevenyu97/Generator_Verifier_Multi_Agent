@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is 100 divided by the percent of proved reserves?",
+      "answer": 3.57143,
+      "answer_raw": "3.57143",
+      "program": "divide(const_100, 28)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the number of mmboe of proved undeveloped reserves?",
+      "answer": 840.0,
+      "answer_raw": "840.0",
+      "program": "840"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the product of the two values?",
+      "answer": 3000.0,
+      "answer_raw": "3000.0",
+      "program": "divide(const_100, 28), multiply(#0, 840)"
+    }
+  ]
+}

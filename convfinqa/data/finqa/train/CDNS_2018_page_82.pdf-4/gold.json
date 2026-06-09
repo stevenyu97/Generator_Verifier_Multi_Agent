@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage increase in the balance of goodwill from 2016 to 2017?",
+      "answer": 0.1628,
+      "answer_raw": "0.1628",
+      "program": "subtract(666009, 572764), divide(#0, 572764)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of customer relationships?",
+      "answer": 1800.0,
+      "answer_raw": "1800.0",
+      "program": "1800"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value of trademarks?",
+      "answer": 890.0,
+      "answer_raw": "890.0",
+      "program": "890"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum value?",
+      "answer": 2690.0,
+      "answer_raw": "2690.0",
+      "program": "add(1800, 890)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the value of technology?",
+      "answer": 215.0,
+      "answer_raw": "215.0",
+      "program": "215"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total sum?",
+      "answer": 2905.0,
+      "answer_raw": "2905.0",
+      "program": "add(1800, 890), add(#0, 215)"
+    }
+  ]
+}

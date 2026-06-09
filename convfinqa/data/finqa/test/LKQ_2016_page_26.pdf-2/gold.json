@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in percentage cumulative return for lkq corporation and the s&p 500 index for the five years ended 12/31/2016?",
+      "answer": 0.26,
+      "answer_raw": "0.26",
+      "program": "subtract(204, 100), divide(#0, 100), subtract(178, 100), divide(#2, 100), subtract(#1, #3)"
+    }
+  ]
+}

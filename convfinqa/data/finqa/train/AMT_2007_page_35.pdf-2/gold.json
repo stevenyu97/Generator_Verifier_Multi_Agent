@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total amount spent for stock repurchase during november 2007 , in millions?",
+      "answer": 127.69831,
+      "answer_raw": "127.69831",
+      "program": "multiply(2891719, 44.16), divide(#0, const_1000000)"
+    }
+  ]
+}

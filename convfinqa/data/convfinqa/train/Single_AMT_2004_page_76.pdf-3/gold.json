@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were employee contributions in 2003?",
+      "answer": 825000.0,
+      "answer_raw": "825000.0",
+      "program": "825000"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were they in 2002?",
+      "answer": 979000.0,
+      "answer_raw": "979000.0",
+      "program": "979000"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": -154000.0,
+      "answer_raw": "-154000.0",
+      "program": "subtract(825000, 979000)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the percent change?",
+      "answer": -0.1573,
+      "answer_raw": "-0.1573",
+      "program": "subtract(825000, 979000), divide(#0, 979000)"
+    }
+  ]
+}

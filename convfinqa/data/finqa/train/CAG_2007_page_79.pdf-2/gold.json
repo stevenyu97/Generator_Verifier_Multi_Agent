@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total inventories was comprised of raw materials and packaging in 2007?",
+      "answer": 0.49146,
+      "answer_raw": "0.49146",
+      "program": "divide(1154.2, 2348.5)"
+    }
+  ]
+}

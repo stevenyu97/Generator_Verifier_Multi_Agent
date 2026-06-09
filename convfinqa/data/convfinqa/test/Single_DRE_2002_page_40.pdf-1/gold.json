@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the cash dividend for the period ended march 31, 2002 to the period ended march 31, 2003?",
+      "answer": 0.005,
+      "answer_raw": "0.005",
+      "program": "subtract(.455, .450)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that divided by the dividend payment in 2002?",
+      "answer": 0.01111,
+      "answer_raw": "0.01111",
+      "program": "subtract(.455, .450), divide(#0, .450)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is that by 100?",
+      "answer": 1.11111,
+      "answer_raw": "1.11111",
+      "program": "subtract(.455, .450), divide(#0, .450), multiply(#1, const_100)"
+    }
+  ]
+}

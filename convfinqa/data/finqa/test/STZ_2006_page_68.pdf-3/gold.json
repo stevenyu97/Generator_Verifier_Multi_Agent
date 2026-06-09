@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the robert mondavi's total assets acquired is related to goodwill?",
+      "answer": 0.34308,
+      "answer_raw": "0.34308",
+      "program": "divide(634203, 1848575)"
+    }
+  ]
+}

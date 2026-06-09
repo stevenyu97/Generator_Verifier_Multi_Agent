@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of net carrying amount of notes to equity net of taxes?",
+      "answer": 5.10176,
+      "answer_raw": "5.10176",
+      "program": "divide(1447053, 283638)"
+    }
+  ]
+}

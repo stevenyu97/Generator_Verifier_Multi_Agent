@@ -1,0 +1,107 @@
+{
+  "input": {
+    "id": "GIS/2019/page_33.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "liquidity the primary source of our liquidity is cash flow from operations .",
+      "over the most recent two-year period , our operations have generated $ 5.6 billion in cash .",
+      "a substantial portion of this operating cash flow has been returned to shareholders through share repurchases and dividends .",
+      "we also use cash from operations to fund our capital expenditures and acquisitions .",
+      "we typically use a combination of cash , notes payable , and long-term debt , and occasionally issue shares of stock , to finance significant acquisitions .",
+      "as of may 26 , 2019 , we had $ 399 million of cash and cash equivalents held in foreign jurisdictions .",
+      "as a result of the tcja , the historic undistributed earnings of our foreign subsidiaries were taxed in the u.s .",
+      "via the one-time repatriation tax in fiscal 2018 .",
+      "we have re-evaluated our assertion and have concluded that although earnings prior to fiscal 2018 will remain permanently reinvested , we will no longer make a permanent reinvestment assertion beginning with our fiscal 2018 earnings .",
+      "as part of the accounting for the tcja , we recorded local country withholding taxes related to certain entities from which we began repatriating undistributed earnings and will continue to record local country withholding taxes on all future earnings .",
+      "as a result of the transition tax , we may repatriate our cash and cash equivalents held by our foreign subsidiaries without such funds being subject to further u.s .",
+      "income tax liability ( please see note 14 to the consolidated financial statements in item 8 of this report for additional information ) .",
+      "cash flows from operations ."
+    ],
+    "post_text": [
+      "during fiscal 2019 , cash provided by operations was $ 2807 million compared to $ 2841 million in the same period last year .",
+      "the $ 34 million decrease was primarily driven by a $ 377 million decrease in net earnings and a $ 550 million change in current assets and liabilities , partially offset by a $ 598 million change in deferred income taxes .",
+      "the $ 550 million change in current assets and liabilities was primarily driven by a $ 413 million change in the timing of accounts payable , including the impact of longer payment terms implemented in prior fiscal years .",
+      "the change in deferred income taxes was primarily related to the $ 638 million provisional benefit from revaluing our net u.s .",
+      "deferred tax liabilities to reflect the new u.s .",
+      "corporate tax rate as a result of the tcja in fiscal we strive to grow core working capital at or below the rate of growth in our net sales .",
+      "for fiscal 2019 , core working capital decreased 34 percent , compared to a net sales increase of 7 percent .",
+      "as of may 26 , 2019 , our core working capital balance totaled $ 385 million , down 34 percent versus last year , this is primarily driven by continued benefits from our payment terms extension program and lower inventory balances .",
+      "in fiscal 2018 , core working capital decreased 27 percent , compared to a net sales increase of 1 percent. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "fiscal year 2019",
+        "fiscal year 2018"
+      ],
+      [
+        "net earnings including earnings attributable to redeemable and noncontrollinginterests",
+        "$ 1786.2",
+        "$ 2163.0"
+      ],
+      [
+        "depreciation and amortization",
+        "620.1",
+        "618.8"
+      ],
+      [
+        "after-taxearnings from joint ventures",
+        "-72.0 ( 72.0 )",
+        "-84.7 ( 84.7 )"
+      ],
+      [
+        "distributions of earnings from joint ventures",
+        "86.7",
+        "113.2"
+      ],
+      [
+        "stock-based compensation",
+        "84.9",
+        "77.0"
+      ],
+      [
+        "deferred income taxes",
+        "93.5",
+        "-504.3 ( 504.3 )"
+      ],
+      [
+        "pension and other postretirement benefit plan contributions",
+        "-28.8 ( 28.8 )",
+        "-31.8 ( 31.8 )"
+      ],
+      [
+        "pension and other postretirement benefit plan costs",
+        "6.1",
+        "4.6"
+      ],
+      [
+        "divestitures loss",
+        "30.0",
+        "-"
+      ],
+      [
+        "restructuring impairment and other exit costs",
+        "235.7",
+        "126.0"
+      ],
+      [
+        "changes in current assets and liabilities excluding the effects of acquisitions anddivestitures",
+        "-7.5 ( 7.5 )",
+        "542.1"
+      ],
+      [
+        "other net",
+        "-27.9 ( 27.9 )",
+        "-182.9 ( 182.9 )"
+      ],
+      [
+        "net cash provided by operating activities",
+        "$ 2807.0",
+        "$ 2841.0"
+      ]
+    ],
+    "questions": [
+      "what was the change in the net earnings from 2018 to 2019 in million"
+    ]
+  }
+}

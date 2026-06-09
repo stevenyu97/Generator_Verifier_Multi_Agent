@@ -1,0 +1,101 @@
+{
+  "input": {
+    "id": "JPM/2016/page_87.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "jpmorgan chase & co./2016 annual report 49 net interest income excluding cib 2019s markets businesses in addition to reviewing net interest income on a managed basis , management also reviews net interest income excluding net interest income arising from cib 2019s markets businesses to assess the performance of the firm 2019s lending , investing ( including asset-liability management ) and deposit-raising activities .",
+      "cib 2019s markets businesses represent both fixed income markets and equity markets .",
+      "the data presented below are non-gaap financial measures due to the exclusion of net interest income from cib 2019s markets businesses ( 201ccib markets 201d ) .",
+      "management believes this exclusion provides investors and analysts with another measure by which to analyze the non- markets-related business trends of the firm and provides a comparable measure to other financial institutions that are primarily focused on lending , investing and deposit-raising activities .",
+      "year ended december 31 , ( in millions , except rates ) 2016 2015 2014 net interest income 2013 managed basis ( a ) ( b ) $ 47292 $ 44620 $ 44619 less : cib markets net interest income ( c ) 6334 5298 6032 net interest income excluding cib markets ( a ) $ 40958 $ 39322 $ 38587 average interest-earning assets $ 2101604 $ 2088242 $ 2049093 less : average cib markets interest-earning assets ( c ) 520307 510292 522989 average interest-earning assets excluding cib markets $ 1581297 $ 1577950 $ 1526104 net interest yield on average interest-earning assets 2013 managed basis 2.25% ( 2.25 % ) 2.14% ( 2.14 % ) 2.18% ( 2.18 % ) net interest yield on average cib markets interest- earning assets ( c ) 1.22 1.04 1.15 net interest yield on average interest-earning assets excluding cib markets 2.59% ( 2.59 % ) 2.49% ( 2.49 % ) 2.53% ( 2.53 % ) ( a ) interest includes the effect of related hedges .",
+      "taxable-equivalent amounts are used where applicable .",
+      "( b ) for a reconciliation of net interest income on a reported and managed basis , see reconciliation from the firm 2019s reported u.s .",
+      "gaap results to managed basis on page 48 .",
+      "( c ) prior period amounts were revised to align with cib 2019s markets businesses .",
+      "for further information on cib 2019s markets businesses , see page 61 .",
+      "calculation of certain u.s .",
+      "gaap and non-gaap financial measures certain u.s .",
+      "gaap and non-gaap financial measures are calculated as follows : book value per share ( 201cbvps 201d ) common stockholders 2019 equity at period-end / common shares at period-end overhead ratio total noninterest expense / total net revenue return on assets ( 201croa 201d ) reported net income / total average assets return on common equity ( 201croe 201d ) net income* / average common stockholders 2019 equity return on tangible common equity ( 201crotce 201d ) net income* / average tangible common equity tangible book value per share ( 201ctbvps 201d ) tangible common equity at period-end / common shares at period-end * represents net income applicable to common equity ."
+    ],
+    "post_text": [
+      "jpmorgan chase & co./2016 annual report 49 net interest income excluding cib 2019s markets businesses in addition to reviewing net interest income on a managed basis , management also reviews net interest income excluding net interest income arising from cib 2019s markets businesses to assess the performance of the firm 2019s lending , investing ( including asset-liability management ) and deposit-raising activities .",
+      "cib 2019s markets businesses represent both fixed income markets and equity markets .",
+      "the data presented below are non-gaap financial measures due to the exclusion of net interest income from cib 2019s markets businesses ( 201ccib markets 201d ) .",
+      "management believes this exclusion provides investors and analysts with another measure by which to analyze the non- markets-related business trends of the firm and provides a comparable measure to other financial institutions that are primarily focused on lending , investing and deposit-raising activities .",
+      "year ended december 31 , ( in millions , except rates ) 2016 2015 2014 net interest income 2013 managed basis ( a ) ( b ) $ 47292 $ 44620 $ 44619 less : cib markets net interest income ( c ) 6334 5298 6032 net interest income excluding cib markets ( a ) $ 40958 $ 39322 $ 38587 average interest-earning assets $ 2101604 $ 2088242 $ 2049093 less : average cib markets interest-earning assets ( c ) 520307 510292 522989 average interest-earning assets excluding cib markets $ 1581297 $ 1577950 $ 1526104 net interest yield on average interest-earning assets 2013 managed basis 2.25% ( 2.25 % ) 2.14% ( 2.14 % ) 2.18% ( 2.18 % ) net interest yield on average cib markets interest- earning assets ( c ) 1.22 1.04 1.15 net interest yield on average interest-earning assets excluding cib markets 2.59% ( 2.59 % ) 2.49% ( 2.49 % ) 2.53% ( 2.53 % ) ( a ) interest includes the effect of related hedges .",
+      "taxable-equivalent amounts are used where applicable .",
+      "( b ) for a reconciliation of net interest income on a reported and managed basis , see reconciliation from the firm 2019s reported u.s .",
+      "gaap results to managed basis on page 48 .",
+      "( c ) prior period amounts were revised to align with cib 2019s markets businesses .",
+      "for further information on cib 2019s markets businesses , see page 61 .",
+      "calculation of certain u.s .",
+      "gaap and non-gaap financial measures certain u.s .",
+      "gaap and non-gaap financial measures are calculated as follows : book value per share ( 201cbvps 201d ) common stockholders 2019 equity at period-end / common shares at period-end overhead ratio total noninterest expense / total net revenue return on assets ( 201croa 201d ) reported net income / total average assets return on common equity ( 201croe 201d ) net income* / average common stockholders 2019 equity return on tangible common equity ( 201crotce 201d ) net income* / average tangible common equity tangible book value per share ( 201ctbvps 201d ) tangible common equity at period-end / common shares at period-end * represents net income applicable to common equity ."
+    ],
+    "table": [
+      [
+        "year ended december 31 ( in millions except rates )",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "net interest income 2013 managed basis ( a ) ( b )",
+        "$ 47292",
+        "$ 44620",
+        "$ 44619"
+      ],
+      [
+        "less : cib markets net interest income ( c )",
+        "6334",
+        "5298",
+        "6032"
+      ],
+      [
+        "net interest income excluding cib markets ( a )",
+        "$ 40958",
+        "$ 39322",
+        "$ 38587"
+      ],
+      [
+        "average interest-earning assets",
+        "$ 2101604",
+        "$ 2088242",
+        "$ 2049093"
+      ],
+      [
+        "less : average cib markets interest-earning assets ( c )",
+        "520307",
+        "510292",
+        "522989"
+      ],
+      [
+        "average interest-earning assets excluding cib markets",
+        "$ 1581297",
+        "$ 1577950",
+        "$ 1526104"
+      ],
+      [
+        "net interest yield on average interest-earning assets 2013 managed basis",
+        "2.25% ( 2.25 % )",
+        "2.14% ( 2.14 % )",
+        "2.18% ( 2.18 % )"
+      ],
+      [
+        "net interest yield on average cib markets interest-earning assets ( c )",
+        "1.22",
+        "1.04",
+        "1.15"
+      ],
+      [
+        "net interest yield on average interest-earning assets excluding cib markets",
+        "2.59% ( 2.59 % )",
+        "2.49% ( 2.49 % )",
+        "2.53% ( 2.53 % )"
+      ]
+    ],
+    "questions": [
+      "in 2016 what was the percent of the cib markets net interest income as part of the net interest income 2013 managed basis"
+    ]
+  }
+}

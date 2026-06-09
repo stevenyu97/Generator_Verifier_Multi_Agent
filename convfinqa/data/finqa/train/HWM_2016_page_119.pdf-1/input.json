@@ -1,0 +1,94 @@
+{
+  "input": {
+    "id": "HWM/2016/page_119.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "arconic and its subsidiaries file income tax returns in the u.s .",
+      "federal jurisdiction and various states and foreign jurisdictions .",
+      "with a few minor exceptions , arconic is no longer subject to income tax examinations by tax authorities for years prior to 2006 .",
+      "all u.s .",
+      "tax years prior to 2016 have been audited by the internal revenue service .",
+      "various state and foreign jurisdiction tax authorities are in the process of examining arconic 2019s income tax returns for various tax years through 2015 .",
+      "a reconciliation of the beginning and ending amount of unrecognized tax benefits ( excluding interest and penalties ) was as follows: ."
+    ],
+    "post_text": [
+      "for all periods presented , a portion of the balance at end of year pertains to state tax liabilities , which are presented before any offset for federal tax benefits .",
+      "the effect of unrecognized tax benefits , if recorded , that would impact the annual effective tax rate for 2016 , 2015 , and 2014 would be approximately 6% ( 6 % ) , 7% ( 7 % ) , and 4% ( 4 % ) , respectively , of pretax book income .",
+      "arconic does not anticipate that changes in its unrecognized tax benefits will have a material impact on the statement of consolidated operations during 2017 ( see tax in note l for a matter for which no reserve has been recognized ) .",
+      "it is arconic 2019s policy to recognize interest and penalties related to income taxes as a component of the provision for income taxes on the accompanying statement of consolidated operations .",
+      "in 2016 , 2015 , and 2014 , arconic did not recognize any interest or penalties .",
+      "due to the expiration of the statute of limitations , settlements with tax authorities , and refunded overpayments , arconic recognized interest income of $ 1 in 2015 but did not recognize any interest income in 2016 or 2014 .",
+      "as of december 31 , 2016 and 2015 , the amount accrued for the payment of interest and penalties was $ 2 and $ 1 , respectively .",
+      "s .",
+      "receivables sale of receivables programs arconic has an arrangement with three financial institutions to sell certain customer receivables without recourse on a revolving basis .",
+      "the sale of such receivables is completed through the use of a bankruptcy remote special purpose entity , which is a consolidated subsidiary of arconic .",
+      "this arrangement provides for minimum funding of $ 200 up to a maximum of $ 400 for receivables sold .",
+      "on march 30 , 2012 , arconic initially sold $ 304 of customer receivables in exchange for $ 50 in cash and $ 254 of deferred purchase price under this arrangement .",
+      "arconic has received additional net cash funding of $ 300 for receivables sold ( $ 1758 in draws and $ 1458 in repayments ) since the program 2019s inception , including $ 100 ( $ 500 in draws and $ 400 in repayments ) in 2016 .",
+      "no draws or repayments occurred in 2015 .",
+      "as of december 31 , 2016 and 2015 , the deferred purchase price receivable was $ 83 and $ 249 , respectively , which was included in other receivables on the accompanying consolidated balance sheet .",
+      "the deferred purchase price receivable is reduced as collections of the underlying receivables occur ; however , as this is a revolving program , the sale of new receivables will result in an increase in the deferred purchase price receivable .",
+      "the net change in the deferred purchase price receivable was reflected in the ( increase ) decrease in receivables line item on the accompanying statement of consolidated cash flows .",
+      "this activity is reflected as an operating cash flow because the related customer receivables are the result of an operating activity with an insignificant , short-term interest rate risk. ."
+    ],
+    "table": [
+      [
+        "december 31,",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "balance at beginning of year",
+        "$ 18",
+        "$ 7",
+        "$ 8"
+      ],
+      [
+        "additions for tax positions of the current year",
+        "12",
+        "-",
+        "-"
+      ],
+      [
+        "additions for tax positions of prior years",
+        "-",
+        "14",
+        "4"
+      ],
+      [
+        "reductions for tax positions of prior years",
+        "-",
+        "-2 ( 2 )",
+        "-3 ( 3 )"
+      ],
+      [
+        "settlements with tax authorities",
+        "-1 ( 1 )",
+        "-",
+        "-1 ( 1 )"
+      ],
+      [
+        "expiration of the statute of limitations",
+        "-1 ( 1 )",
+        "-1 ( 1 )",
+        "-"
+      ],
+      [
+        "foreign currency translation",
+        "-",
+        "-",
+        "-1 ( 1 )"
+      ],
+      [
+        "balance at end of year",
+        "$ 28",
+        "$ 18",
+        "$ 7"
+      ]
+    ],
+    "questions": [
+      "what was the decrease observed in the deferred purchase price receivable during 2015 and 2016?"
+    ]
+  }
+}

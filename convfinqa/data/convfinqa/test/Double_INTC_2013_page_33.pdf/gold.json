@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in net revenues between 12/28/12 and 12/29/13?",
+      "answer": -633.0,
+      "answer_raw": "-633.0",
+      "program": "subtract(52708, 53341)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the percentage change during this time?",
+      "answer": -0.01187,
+      "answer_raw": "-0.01187",
+      "program": "subtract(52708, 53341), divide(#0, 53341)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the percentage of impairment charges to net revenue in 2013?",
+      "answer": 0.00455,
+      "answer_raw": "0.00455",
+      "program": "divide(240, 52708)"
+    }
+  ]
+}

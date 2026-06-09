@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ending balance of ipr&d assets as of 12/31/15?",
+      "answer": 14711.0,
+      "answer_raw": "14711.0",
+      "program": "14711"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the foreign currency translation impact?",
+      "answer": 3789.0,
+      "answer_raw": "3789.0",
+      "program": "3789"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "considering this impact, what was the value of assets?",
+      "answer": 10922.0,
+      "answer_raw": "10922.0",
+      "program": "subtract(14711, 3789)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and converted into the millions?",
+      "answer": 10922000.0,
+      "answer_raw": "10922000.0",
+      "program": "subtract(14711, 3789), multiply(#0, const_1000)"
+    }
+  ]
+}

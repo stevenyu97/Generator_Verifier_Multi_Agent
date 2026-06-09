@@ -1,0 +1,94 @@
+{
+  "input": {
+    "id": "V/2008/page_165.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "visa inc .",
+      "notes to consolidated financial statements 2014 ( continued ) september 30 , 2008 ( in millions , except as noted ) require the company to redeem all class c ( series ii ) common stock at any time after december 4 , 2008 .",
+      "therefore , in march 2008 , the company reclassified all class c ( series ii ) common stock at its then fair value of $ 1.125 billion to temporary equity on the company 2019s consolidated balance sheet with a corresponding reduction in additional paid-in-capital of $ 1.104 billion and accumulated income ( deficit ) of $ 21 million .",
+      "the company accreted this stock to its redemption price of $ 1.146 billion , adjusted for dividends and certain other adjustments , on a straight-line basis , from march 2008 to october 2008 through accumulated income .",
+      "see note 4 2014visa europe for a roll-forward of the balance of class c ( series ii ) common stock .",
+      "the following table sets forth the number of shares of common stock issued and outstanding by class at september 30 , 2008 and the impact of the october 2008 redemptions and subsequent conversion of the remaining outstanding shares of class c ( series iii and series iv ) to class c ( series i ) shares and the number of shares of common stock issued and outstanding after the october 2008 redemptions in total and on as converted basis : shares issued and outstanding september 30 , october 2008 redemptions conversion to class c ( series i ) following immediate conversion to class c ( series i ) converted post october redemptions ."
+    ],
+    "post_text": [
+      "( 1 ) all voting and dividend payment rights are based on the number of shares held multiplied by the applicable conversion rate in effect on the record date , as discussed below .",
+      "subsequent to the ipo and as a result of the initial funding of the litigation escrow account , the conversion rate applicable to class b common stock was approximately 0.71 shares of class a common stock for each share of class b common stock .",
+      "special ipo cash and stock dividends received from cost method investees , net of tax several of the company 2019s cost method investees are also holders of class c ( series i ) common stock and therefore participated in the initial share redemption in march 2008 .",
+      "certain of these investees elected to declare a special cash dividend to return to their owners on a pro rata basis , the proceeds received as a result of the redemption of a portion of their class c ( series i ) common stock .",
+      "the dividends represent the return of redemption proceeds .",
+      "as a result of the company 2019s ownership interest in these cost method investees , the company received approximately $ 21 million of special dividends from these investees during the third fiscal quarter and recorded a receivable of $ 8 million in prepaid and other assets on its consolidated balance sheet at september 30 , 2008 for a dividend declared by these investees during the fourth fiscal quarter .",
+      "in addition , another investee elected to distribute its entire ownership in the company 2019s class c ( series i ) common stock through the distribution of these shares to its investors on a pro rata basis .",
+      "as a result , the company received 525443 shares of its own class c ( series i ) common stock during the fourth fiscal quarter and recorded $ 35 million in treasury stock .",
+      "the value of the treasury stock was calculated based on sales prices of other recent class c ( series i ) stock transactions by other class c ."
+    ],
+    "table": [
+      [
+        "shares issued and outstanding",
+        "at september 30 2008",
+        "october 2008 redemptions",
+        "conversion to class c ( series i )",
+        "following immediate conversion to class c ( series i )",
+        "as converted post october 2008 redemptions"
+      ],
+      [
+        "class a common stock",
+        "447746261",
+        "2014",
+        "2014",
+        "447746261",
+        "447746261"
+      ],
+      [
+        "class b common stock ( 1 )",
+        "245513385",
+        "2014",
+        "2014",
+        "245513385",
+        "175367482"
+      ],
+      [
+        "class c ( series i ) common stock",
+        "124097105",
+        "2014",
+        "27499203",
+        "151596308",
+        "151596308"
+      ],
+      [
+        "class c ( series ii ) common stock",
+        "79748857",
+        "-79748857 ( 79748857 )",
+        "2014",
+        "2014",
+        "2014"
+      ],
+      [
+        "class c ( series iii ) common stock",
+        "62213201",
+        "-35263585 ( 35263585 )",
+        "-26949616 ( 26949616 )",
+        "2014",
+        "2014"
+      ],
+      [
+        "class c ( series iv ) common stock",
+        "549587",
+        "2014",
+        "-549587 ( 549587 )",
+        "2014",
+        "2014"
+      ],
+      [
+        "total shares issued and outstanding",
+        "959868396",
+        "-115012442 ( 115012442 )",
+        "2014",
+        "844855954",
+        "774710051"
+      ]
+    ],
+    "questions": [
+      "what portion of the total shares issued and outstanding are class a common stock?"
+    ]
+  }
+}

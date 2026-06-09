@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the year 2008 , what is the variation between the high of foreign exchange contracts and the high of the interest rate contracts?",
+      "answer": 5.9,
+      "answer_raw": "5.9",
+      "program": "subtract(34.3, 28.4)"
+    }
+  ]
+}

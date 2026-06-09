@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "on december 312013 what was the net profit margin",
+      "answer": 0.0621,
+      "answer_raw": "0.0621",
+      "program": "divide(2526, 40678)"
+    }
+  ]
+}

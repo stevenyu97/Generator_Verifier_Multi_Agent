@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in net revenue in 2016 for entergy texas , inc.?",
+      "answer": 0.01099,
+      "answer_raw": "0.01099",
+      "program": "subtract(644.2, 637.2), divide(#0, 637.2)"
+    }
+  ]
+}

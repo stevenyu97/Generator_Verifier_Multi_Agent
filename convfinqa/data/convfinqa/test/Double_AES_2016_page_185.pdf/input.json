@@ -1,0 +1,79 @@
+{
+  "input": {
+    "id": "Double_AES/2016/page_185.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the aes corporation notes to consolidated financial statements december 31 , 2016 , 2015 , and 2014 the following table summarizes the company's redeemable stock of subsidiaries balances as of the periods indicated ( in millions ) : ."
+    ],
+    "post_text": [
+      "_____________________________ ( 1 ) characteristics of quotas are similar to common stock .",
+      "colon 2014 during the year ended december 31 , 2016 , our partner in colon increased their ownership from 25% ( 25 % ) to 49.9% ( 49.9 % ) and made capital contributions of $ 106 million .",
+      "any subsequent adjustments to allocate earnings and dividends to our partner , or measure the investment at fair value , will be classified as temporary equity each reporting period as it is probable that the shares will become redeemable .",
+      "ipl 2014 ipl had $ 60 million of cumulative preferred stock outstanding at december 31 , 2016 and 2015 , which represented five series of preferred stock .",
+      "the total annual dividend requirements were approximately $ 3 million at december 31 , 2016 and 2015 .",
+      "certain series of the preferred stock were redeemable solely at the option of the issuer at prices between $ 100 and $ 118 per share .",
+      "holders of the preferred stock are entitled to elect a majority of ipl's board of directors if ipl has not paid dividends to its preferred stockholders for four consecutive quarters .",
+      "based on the preferred stockholders' ability to elect a majority of ipl's board of directors in this circumstance , the redemption of the preferred shares is considered to be not solely within the control of the issuer and the preferred stock is considered temporary equity .",
+      "dpl 2014 dpl had $ 18 million of cumulative preferred stock outstanding as of december 31 , 2015 , which represented three series of preferred stock issued by dp&l , a wholly-owned subsidiary of dpl .",
+      "the dp&l preferred stock was redeemable at dp&l's option as determined by its board of directors at per-share redemption prices between $ 101 and $ 103 per share , plus cumulative preferred dividends .",
+      "in addition , dp&l's amended articles of incorporation contained provisions that permitted preferred stockholders to elect members of the dp&l board of directors in the event that cumulative dividends on the preferred stock are in arrears in an aggregate amount equivalent to at least four full quarterly dividends .",
+      "based on the preferred stockholders' ability to elect members of dp&l's board of directors in this circumstance , the redemption of the preferred shares was considered to be not solely within the control of the issuer and the preferred stock was considered temporary equity .",
+      "in september 2016 , it became probable that the preferred shares would become redeemable .",
+      "as such , the company recorded an adjustment of $ 5 million to retained earnings to adjust the preferred shares to their redemption value of $ 23 million .",
+      "in october 2016 , dp&l redeemed all of its preferred shares .",
+      "upon redemption , the preferred shares were no longer outstanding and all rights of the holders thereof as shareholders of dp&l ceased to exist .",
+      "ipalco 2014 in february 2015 , cdpq purchased 15% ( 15 % ) of aes us investment , inc. , a wholly-owned subsidiary that owns 100% ( 100 % ) of ipalco , for $ 247 million , with an option to invest an additional $ 349 million in ipalco through 2016 in exchange for a 17.65% ( 17.65 % ) equity stake .",
+      "in april 2015 , cdpq invested an additional $ 214 million in ipalco , which resulted in cdpq's combined direct and indirect interest in ipalco of 24.90% ( 24.90 % ) .",
+      "as a result of these transactions , $ 84 million in taxes and transaction costs were recognized as a net decrease to equity .",
+      "the company also recognized an increase to additional paid-in capital and a reduction to retained earnings of 377 million for the excess of the fair value of the shares over their book value .",
+      "no gain or loss was recognized in net income as the transaction was not considered to be a sale of in-substance real estate .",
+      "in march 2016 , cdpq exercised its remaining option by investing $ 134 million in ipalco , which resulted in cdpq's combined direct and indirect interest in ipalco of 30% ( 30 % ) .",
+      "the company also recognized an increase to additional paid-in capital and a reduction to retained earnings of $ 84 million for the excess of the fair value of the shares over their book value .",
+      "in june 2016 , cdpq contributed an additional $ 24 million to ipalco , with no impact to the ownership structure of the investment .",
+      "any subsequent adjustments to allocate earnings and dividends to cdpq will be classified as nci within permanent equity as it is not probable that the shares will become redeemable. ."
+    ],
+    "table": [
+      [
+        "december 31,",
+        "2016",
+        "2015"
+      ],
+      [
+        "ipalco common stock",
+        "$ 618",
+        "$ 460"
+      ],
+      [
+        "colon quotas ( 1 )",
+        "100",
+        "2014"
+      ],
+      [
+        "ipl preferred stock",
+        "60",
+        "60"
+      ],
+      [
+        "other common stock",
+        "4",
+        "2014"
+      ],
+      [
+        "dpl preferred stock",
+        "2014",
+        "18"
+      ],
+      [
+        "total redeemable stock of subsidiaries",
+        "$ 782",
+        "$ 538"
+      ]
+    ],
+    "questions": [
+      "what were the total annual dividend requirements in the end of the 2015 and 2016?",
+      "and what was the amount of the ipl preferred stock?",
+      "how much, then, did those requirements represent in relation to this amount?",
+      "and between those two years, what was the variation of ipalco common stock, in millions?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amount of change in pre-tax catastrophe losses from 2010 to 2011 in millions",
+      "answer": 729.3,
+      "answer_raw": "729.3",
+      "program": "subtract(1300.4, 571.1)"
+    }
+  ]
+}

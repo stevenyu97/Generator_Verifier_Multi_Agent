@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage growth of the stock price performance from 2013 to 2014 for the tractor supply company",
+      "answer": 0.0411,
+      "answer_raw": "0.0411",
+      "program": "subtract(104.11, 100.00), divide(#0, 100.00)"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "GPN/2017/page_30.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "stock performance graph the following graph compares our cumulative shareholder returns with the standard & poor 2019s information technology index and the standard & poor 2019s 500 index for the year ended december 31 , 2017 , the 2016 fiscal transition period , and the years ended may 31 , 2016 , 2015 , 2014 and 2013 .",
+      "the line graph assumes the investment of $ 100 in our common stock , the standard & poor 2019s 500 index and the standard & poor 2019s information technology index on may 31 , 2012 and assumes reinvestment of all dividends .",
+      "5/12 5/165/155/145/13 global payments inc .",
+      "s&p 500 s&p information technology 12/16 12/17 comparison of 5 year cumulative total return* among global payments inc. , the s&p 500 index and the s&p information technology index * $ 100 invested on may 31 , 2012 in stock or index , including reinvestment of dividends .",
+      "copyright a9 2018 standard & poor 2019s , a division of s&p global .",
+      "all rights reserved .",
+      "global payments 500 index information technology ."
+    ],
+    "post_text": [
+      "30 2013 global payments inc .",
+      "| 2017 form 10-k annual report ."
+    ],
+    "table": [
+      [
+        "",
+        "globalpayments",
+        "s&p500 index",
+        "s&pinformationtechnology index"
+      ],
+      [
+        "may 31 2012",
+        "$ 100.00",
+        "$ 100.00",
+        "$ 100.00"
+      ],
+      [
+        "may 31 2013",
+        "113.10",
+        "127.28",
+        "115.12"
+      ],
+      [
+        "may 31 2014",
+        "161.90",
+        "153.30",
+        "142.63"
+      ],
+      [
+        "may 31 2015",
+        "246.72",
+        "171.40",
+        "169.46"
+      ],
+      [
+        "may 31 2016",
+        "367.50",
+        "174.34",
+        "174.75"
+      ],
+      [
+        "december 31 2016",
+        "328.42",
+        "188.47",
+        "194.08"
+      ],
+      [
+        "december 31 2017",
+        "474.52",
+        "229.61",
+        "269.45"
+      ]
+    ],
+    "questions": [
+      "what is the total return if 1000000 is invested in s&p500 in may 31 , 2012 and liquidated in may 31 , 2015?"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "ETR/2016/page_17.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries management 2019s financial discussion and analysis palisades plants and related assets to their fair values .",
+      "see note 14 to the financial statements for further discussion of the impairment and related charges .",
+      "as a result of the entergy louisiana and entergy gulf states louisiana business combination , results of operations for 2015 also include two items that occurred in october 2015 : 1 ) a deferred tax asset and resulting net increase in tax basis of approximately $ 334 million and 2 ) a regulatory liability of $ 107 million ( $ 66 million net-of-tax ) as a result of customer credits to be realized by electric customers of entergy louisiana , consistent with the terms of the stipulated settlement in the business combination proceeding .",
+      "see note 2 to the financial statements for further discussion of the business combination and customer credits .",
+      "results of operations for 2015 also include the sale in december 2015 of the 583 mw rhode island state energy center for a realized gain of $ 154 million ( $ 100 million net-of-tax ) on the sale and the $ 77 million ( $ 47 million net-of-tax ) write-off and regulatory charges to recognize that a portion of the assets associated with the waterford 3 replacement steam generator project is no longer probable of recovery .",
+      "see note 14 to the financial statements for further discussion of the rhode island state energy center sale .",
+      "see note 2 to the financial statements for further discussion of the waterford 3 write-off .",
+      "net revenue utility following is an analysis of the change in net revenue comparing 2016 to 2015 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the retail electric price variance is primarily due to : 2022 an increase in base rates at entergy arkansas , as approved by the apsc .",
+      "the new rates were effective february 24 , 2016 and began billing with the first billing cycle of april 2016 .",
+      "the increase includes an interim base rate adjustment surcharge , effective with the first billing cycle of april 2016 , to recover the incremental revenue requirement for the period february 24 , 2016 through march 31 , 2016 .",
+      "a significant portion of the increase is related to the purchase of power block 2 of the union power station ; 2022 an increase in the purchased power and capacity acquisition cost recovery rider for entergy new orleans , as approved by the city council , effective with the first billing cycle of march 2016 , primarily related to the purchase of power block 1 of the union power station ; 2022 an increase in formula rate plan revenues for entergy louisiana , implemented with the first billing cycle of march 2016 , to collect the estimated first-year revenue requirement related to the purchase of power blocks 3 and 4 of the union power station ; and 2022 an increase in revenues at entergy mississippi , as approved by the mpsc , effective with the first billing cycle of july 2016 , and an increase in revenues collected through the storm damage rider .",
+      "see note 2 to the financial statements for further discussion of the rate proceedings .",
+      "see note 14 to the financial statements for discussion of the union power station purchase .",
+      "the louisiana business combination customer credits variance is due to a regulatory liability of $ 107 million recorded by entergy in october 2015 as a result of the entergy gulf states louisiana and entergy louisiana business ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2015 net revenue",
+        "$ 5829"
+      ],
+      [
+        "retail electric price",
+        "289"
+      ],
+      [
+        "louisiana business combination customer credits",
+        "107"
+      ],
+      [
+        "volume/weather",
+        "14"
+      ],
+      [
+        "louisiana act 55 financing savings obligation",
+        "-17 ( 17 )"
+      ],
+      [
+        "other",
+        "-43 ( 43 )"
+      ],
+      [
+        "2016 net revenue",
+        "$ 6179"
+      ]
+    ],
+    "questions": [
+      "what portion of the net change in net revenue is due to retail electric price?"
+    ]
+  }
+}

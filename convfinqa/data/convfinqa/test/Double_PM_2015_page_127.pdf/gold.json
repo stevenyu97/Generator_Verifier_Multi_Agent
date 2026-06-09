@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the total accumulated other comprehensive losses in 2015?",
+      "answer": 9402.0,
+      "answer_raw": "9402.0",
+      "program": "9402"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what were they in 2014?",
+      "answer": 6826.0,
+      "answer_raw": "6826.0",
+      "program": "6826"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "by what amount, then, did they increase over the year?",
+      "answer": 2576.0,
+      "answer_raw": "2576.0",
+      "program": "subtract(9402, 6826)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is this increase as a percent of the 2014 losses?",
+      "answer": 0.37738,
+      "answer_raw": "0.37738",
+      "program": "subtract(9402, 6826), divide(#0, 6826)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and over the precedent year, from 2013 to 2014, what was that increase in those losses?",
+      "answer": 2636.0,
+      "answer_raw": "2636.0",
+      "program": "subtract(6826, 4190)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and what is this precedent year increase as a percent of the 2013 losses?",
+      "answer": 0.62912,
+      "answer_raw": "0.62912",
+      "program": "subtract(6826, 4190), divide(#0, 4190)"
+    }
+  ]
+}

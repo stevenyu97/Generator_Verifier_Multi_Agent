@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the account balance of unrecognized tax benefits as of 12/31/07?",
+      "answer": 2000.0,
+      "answer_raw": "2000.0",
+      "program": "2000"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and as of 1/1/07?",
+      "answer": 193.0,
+      "answer_raw": "193.0",
+      "program": "193"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference in the balance between these two dates?",
+      "answer": 1807.0,
+      "answer_raw": "1807.0",
+      "program": "subtract(2000, 193)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the specific value for 1/1/07 again?",
+      "answer": 193.0,
+      "answer_raw": "193.0",
+      "program": "193"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage change during this time?",
+      "answer": 9.36269,
+      "answer_raw": "9.36269",
+      "program": "subtract(2000, 193), divide(#0, 193)"
+    }
+  ]
+}

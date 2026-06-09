@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how long is the weighted- average useful lives of other assets , as a percent of software in the engineered products and solutions segment?",
+      "answer": 560.0,
+      "answer_raw": "560.0",
+      "program": "divide(33, 5), multiply(#0, const_100), subtract(#1, const_100)"
+    }
+  ]
+}

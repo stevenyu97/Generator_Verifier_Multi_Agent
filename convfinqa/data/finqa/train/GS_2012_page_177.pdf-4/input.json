@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "GS/2012/page_177.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements sumitomo mitsui financial group , inc .",
+      "( smfg ) provides the firm with credit loss protection on certain approved loan commitments ( primarily investment-grade commercial lending commitments ) .",
+      "the notional amount of such loan commitments was $ 32.41 billion and $ 31.94 billion as of december 2012 and december 2011 , respectively .",
+      "the credit loss protection on loan commitments provided by smfg is generally limited to 95% ( 95 % ) of the first loss the firm realizes on such commitments , up to a maximum of approximately $ 950 million .",
+      "in addition , subject to the satisfaction of certain conditions , upon the firm 2019s request , smfg will provide protection for 70% ( 70 % ) of additional losses on such commitments , up to a maximum of $ 1.13 billion , of which $ 300 million of protection had been provided as of both december 2012 and december 2011 .",
+      "the firm also uses other financial instruments to mitigate credit risks related to certain commitments not covered by smfg .",
+      "these instruments primarily include credit default swaps that reference the same or similar underlying instrument or entity or credit default swaps that reference a market index .",
+      "warehouse financing .",
+      "the firm provides financing to clients who warehouse financial assets .",
+      "these arrangements are secured by the warehoused assets , primarily consisting of commercial mortgage loans .",
+      "contingent and forward starting resale and securities borrowing agreements/forward starting repurchase and secured lending agreements the firm enters into resale and securities borrowing agreements and repurchase and secured lending agreements that settle at a future date .",
+      "the firm also enters into commitments to provide contingent financing to its clients and counterparties through resale agreements .",
+      "the firm 2019s funding of these commitments depends on the satisfaction of all contractual conditions to the resale agreement and these commitments can expire unused .",
+      "investment commitments the firm 2019s investment commitments consist of commitments to invest in private equity , real estate and other assets directly and through funds that the firm raises and manages .",
+      "these commitments include $ 872 million and $ 1.62 billion as of december 2012 and december 2011 , respectively , related to real estate private investments and $ 6.47 billion and $ 7.50 billion as of december 2012 and december 2011 , respectively , related to corporate and other private investments .",
+      "of these amounts , $ 6.21 billion and $ 8.38 billion as of december 2012 and december 2011 , respectively , relate to commitments to invest in funds managed by the firm , which will be funded at market value on the date of investment .",
+      "leases the firm has contractual obligations under long-term noncancelable lease agreements , principally for office space , expiring on various dates through 2069 .",
+      "certain agreements are subject to periodic escalation provisions for increases in real estate taxes and other charges .",
+      "the table below presents future minimum rental payments , net of minimum sublease rentals .",
+      "in millions december 2012 ."
+    ],
+    "post_text": [
+      "rent charged to operating expense for the years ended december 2012 , december 2011 and december 2010 was $ 374 million , $ 475 million and $ 508 million , respectively .",
+      "operating leases include office space held in excess of current requirements .",
+      "rent expense relating to space held for growth is included in 201coccupancy . 201d the firm records a liability , based on the fair value of the remaining lease rentals reduced by any potential or existing sublease rentals , for leases where the firm has ceased using the space and management has concluded that the firm will not derive any future economic benefits .",
+      "costs to terminate a lease before the end of its term are recognized and measured at fair value on termination .",
+      "goldman sachs 2012 annual report 175 ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "as of december 2012"
+      ],
+      [
+        "2013",
+        "$ 439"
+      ],
+      [
+        "2014",
+        "407"
+      ],
+      [
+        "2015",
+        "345"
+      ],
+      [
+        "2016",
+        "317"
+      ],
+      [
+        "2017",
+        "306"
+      ],
+      [
+        "2018 - thereafter",
+        "1375"
+      ],
+      [
+        "total",
+        "$ 3189"
+      ]
+    ],
+    "questions": [
+      "what percentage of future minimum rental payments is due after 2017?"
+    ]
+  }
+}

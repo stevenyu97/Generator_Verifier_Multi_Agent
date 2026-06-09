@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total value of notes issued by kilimanjaro in 2014 in thousands",
+      "answer": 950000.0,
+      "answer_raw": "950000.0",
+      "program": "add(500000, 450000)"
+    }
+  ]
+}

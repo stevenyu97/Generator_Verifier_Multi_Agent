@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "JKHY/2018/page_16.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "14 2018 annual report performance graph the following chart presents a comparison for the five-year period ended june 30 , 2018 , of the market performance of the company 2019s common stock with the s&p 500 index and an index of peer companies selected by the company .",
+      "historic stock price performance is not necessarily indicative of future stock price performance .",
+      "comparison of 5 year cumulative total return among jack henry & associates , inc. , the s&p 500 index , and a peer group the following information depicts a line graph with the following values: ."
+    ],
+    "post_text": [
+      "this comparison assumes $ 100 was invested on june 30 , 2013 , and assumes reinvestments of dividends .",
+      "total returns are calculated according to market capitalization of peer group members at the beginning of each period .",
+      "peer companies selected are in the business of providing specialized computer software , hardware and related services to financial institutions and other businesses .",
+      "companies in the peer group are aci worldwide , inc. ; bottomline technology , inc. ; broadridge financial solutions ; cardtronics , inc. ; convergys corp. ; corelogic , inc. ; euronet worldwide , inc. ; fair isaac corp. ; fidelity national information services , inc. ; fiserv , inc. ; global payments , inc. ; moneygram international , inc. ; ss&c technologies holdings , inc. ; total systems services , inc. ; tyler technologies , inc. ; verifone systems , inc. ; and wex , inc .",
+      "dst systems , inc. , which had previously been part of the peer group , was acquired in 2018 and is no longer a public company .",
+      "as a result , dst systems , inc .",
+      "has been removed from the peer group and stock performance graph .",
+      "the stock performance graph shall not be deemed 201cfiled 201d for purposes of section 18 of the exchange act , or incorporated by reference into any filing of the company under the securities act of 1933 , as amended , or the exchange act , except as shall be expressly set forth by specific reference in such filing. ."
+    ],
+    "table": [
+      [
+        "",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      [
+        "jkhy",
+        "100.00",
+        "128.02",
+        "141.48",
+        "193.46",
+        "233.19",
+        "296.19"
+      ],
+      [
+        "peer group",
+        "100.00",
+        "137.07",
+        "171.80",
+        "198.44",
+        "231.11",
+        "297.44"
+      ],
+      [
+        "s&p 500",
+        "100.00",
+        "124.61",
+        "133.86",
+        "139.20",
+        "164.11",
+        "187.70"
+      ]
+    ],
+    "questions": [
+      "what was the cumulative total return for the peer group over the five years?"
+    ]
+  }
+}

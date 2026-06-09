@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average upward revisions of cash flow of previous quantity estimates during the three year period , in millions?",
+      "answer": 1029.0,
+      "answer_raw": "1029.0",
+      "program": "table_average(revisions of previous quantity estimates, none)"
+    }
+  ]
+}

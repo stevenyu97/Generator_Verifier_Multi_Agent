@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the beginning balance in the gross amount of unrecognized tax benefits in 2018?",
+      "answer": 172945.0,
+      "answer_raw": "172945.0",
+      "program": "172945"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the beginning balance in 2017?",
+      "answer": 178413.0,
+      "answer_raw": "178413.0",
+      "program": "178413"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change from 2017 to 2018?",
+      "answer": -5468.0,
+      "answer_raw": "-5468.0",
+      "program": "subtract(172945, 178413)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the 2017 value?",
+      "answer": 178413.0,
+      "answer_raw": "178413.0",
+      "program": "178413"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the net change over the 2017 value?",
+      "answer": -0.03065,
+      "answer_raw": "-0.03065",
+      "program": "subtract(172945, 178413), divide(#0, 178413)"
+    }
+  ]
+}

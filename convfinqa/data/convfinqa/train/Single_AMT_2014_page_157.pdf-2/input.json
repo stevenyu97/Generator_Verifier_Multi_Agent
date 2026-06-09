@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "Single_AMT/2014/page_157.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements six-month offering period .",
+      "the weighted average fair value per share of espp share purchase options during the year ended december 31 , 2014 , 2013 and 2012 was $ 14.83 , $ 13.42 and $ 13.64 , respectively .",
+      "at december 31 , 2014 , 3.4 million shares remain reserved for future issuance under the plan .",
+      "key assumptions used to apply the black-scholes pricing model for shares purchased through the espp for the years ended december 31 , are as follows: ."
+    ],
+    "post_text": [
+      "16 .",
+      "equity mandatory convertible preferred stock offering 2014on may 12 , 2014 , the company completed a registered public offering of 6000000 shares of its 5.25% ( 5.25 % ) mandatory convertible preferred stock , series a , par value $ 0.01 per share ( the 201cmandatory convertible preferred stock 201d ) .",
+      "the net proceeds of the offering were $ 582.9 million after deducting commissions and estimated expenses .",
+      "the company used the net proceeds from this offering to fund acquisitions , including the acquisition from richland , initially funded by indebtedness incurred under the 2013 credit facility .",
+      "unless converted earlier , each share of the mandatory convertible preferred stock will automatically convert on may 15 , 2017 , into between 0.9174 and 1.1468 shares of common stock , depending on the applicable market value of the common stock and subject to anti-dilution adjustments .",
+      "subject to certain restrictions , at any time prior to may 15 , 2017 , holders of the mandatory convertible preferred stock may elect to convert all or a portion of their shares into common stock at the minimum conversion rate then in effect .",
+      "dividends on shares of mandatory convertible preferred stock are payable on a cumulative basis when , as and if declared by the company 2019s board of directors ( or an authorized committee thereof ) at an annual rate of 5.25% ( 5.25 % ) on the liquidation preference of $ 100.00 per share , on february 15 , may 15 , august 15 and november 15 of each year , commencing on august 15 , 2014 to , and including , may 15 , 2017 .",
+      "the company may pay dividends in cash or , subject to certain limitations , in shares of common stock or any combination of cash and shares of common stock .",
+      "the terms of the mandatory convertible preferred stock provide that , unless full cumulative dividends have been paid or set aside for payment on all outstanding mandatory convertible preferred stock for all prior dividend periods , no dividends may be declared or paid on common stock .",
+      "stock repurchase program 2014in march 2011 , the board of directors approved a stock repurchase program , pursuant to which the company is authorized to purchase up to $ 1.5 billion of common stock ( 201c2011 buyback 201d ) .",
+      "in september 2013 , the company temporarily suspended repurchases in connection with its acquisition of mipt .",
+      "under the 2011 buyback , the company is authorized to purchase shares from time to time through open market purchases or privately negotiated transactions at prevailing prices in accordance with securities laws and other legal requirements , and subject to market conditions and other factors .",
+      "to facilitate repurchases , the company ."
+    ],
+    "table": [
+      [
+        "",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      [
+        "range of risk-free interest rate",
+        "0.06% ( 0.06 % ) 2013 0.11% ( 0.11 % )",
+        "0.07% ( 0.07 % ) 2013 0.13% ( 0.13 % )",
+        "0.05% ( 0.05 % ) 2013 0.12% ( 0.12 % )"
+      ],
+      [
+        "weighted average risk-free interest rate",
+        "0.09% ( 0.09 % )",
+        "0.10% ( 0.10 % )",
+        "0.08% ( 0.08 % )"
+      ],
+      [
+        "expected life of shares",
+        "6 months",
+        "6 months",
+        "6 months"
+      ],
+      [
+        "range of expected volatility of underlying stock price over the option period",
+        "11.29% ( 11.29 % ) 2013 16.59% ( 16.59 % )",
+        "12.21% ( 12.21 % ) 2013 13.57% ( 13.57 % )",
+        "33.16% ( 33.16 % ) 2013 33.86% ( 33.86 % )"
+      ],
+      [
+        "weighted average expected volatility of underlying stock price",
+        "14.14% ( 14.14 % )",
+        "12.88% ( 12.88 % )",
+        "33.54% ( 33.54 % )"
+      ],
+      [
+        "expected annual dividend yield",
+        "1.50% ( 1.50 % )",
+        "1.50% ( 1.50 % )",
+        "1.50% ( 1.50 % )"
+      ]
+    ],
+    "questions": [
+      "what was the weighted average fair value per share of espp share purchase options in 2013?",
+      "what was the value in 2012?",
+      "what was the change in value?",
+      "what was the value in 2012?",
+      "what is the percent change?"
+    ]
+  }
+}

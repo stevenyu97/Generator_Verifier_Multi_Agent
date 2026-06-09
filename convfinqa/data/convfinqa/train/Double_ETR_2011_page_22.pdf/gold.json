@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in the amount of net revenue from 2009 to 2010?",
+      "answer": 357.0,
+      "answer_raw": "357.0",
+      "program": "subtract(5051, 4694)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what portion of this net change is due to the variation in the retail electric price?",
+      "answer": 0.38375,
+      "answer_raw": "0.38375",
+      "program": "subtract(5051, 4694), divide(137, #0)"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "Double_AWK/2018/page_152.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "condition are valued using a monte carlo model .",
+      "expected volatility is based on historical volatilities of traded common stock of the company and comparative companies using daily stock prices over the past three years .",
+      "the expected term is three years and the risk-free interest rate is based on the three-year u.s .",
+      "treasury rate in effect as of the measurement date .",
+      "the following table provides the weighted average assumptions used in the monte carlo simulation and the weighted average grant date fair values of psus granted for the years ended december 31: ."
+    ],
+    "post_text": [
+      "the grant date fair value of psus that vest ratably and have market and/or performance conditions are amortized through expense over the requisite service period using the graded-vesting method .",
+      "if dividends are paid with respect to shares of the company 2019s common stock before the rsus and psus are distributed , the company credits a liability for the value of the dividends that would have been paid if the rsus and psus were shares of company common stock .",
+      "when the rsus and psus are distributed , the company pays the participant a lump sum cash payment equal to the value of the dividend equivalents accrued .",
+      "the company accrued dividend equivalents totaling $ 1 million , less than $ 1 million and $ 1 million to accumulated deficit in the accompanying consolidated statements of changes in shareholders 2019 equity for the years ended december 31 , 2018 , 2017 and 2016 , respectively .",
+      "employee stock purchase plan the company maintains a nonqualified employee stock purchase plan ( the 201cespp 201d ) through which employee participants may use payroll deductions to acquire company common stock at a discount .",
+      "prior to february 5 , 2019 , the purchase price of common stock acquired under the espp was the lesser of 90% ( 90 % ) of the fair market value of the common stock at either the beginning or the end of a three -month purchase period .",
+      "on july 27 , 2018 , the espp was amended , effective february 5 , 2019 , to permit employee participants to acquire company common stock at 85% ( 85 % ) of the fair market value of the common stock at the end of the purchase period .",
+      "as of december 31 , 2018 , there were 1.9 million shares of common stock reserved for issuance under the espp .",
+      "the espp is considered compensatory .",
+      "during the years ended december 31 , 2018 , 2017 and 2016 , the company issued 95 thousand , 93 thousand and 93 thousand shares , respectively , under the espp. ."
+    ],
+    "table": [
+      [
+        "",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "expected volatility",
+        "17.23% ( 17.23 % )",
+        "17.40% ( 17.40 % )",
+        "15.90% ( 15.90 % )"
+      ],
+      [
+        "risk-free interest rate",
+        "2.36% ( 2.36 % )",
+        "1.53% ( 1.53 % )",
+        "0.91% ( 0.91 % )"
+      ],
+      [
+        "expected life ( years )",
+        "3.0",
+        "3.0",
+        "3.0"
+      ],
+      [
+        "grant date fair value per share",
+        "$ 73.62",
+        "$ 72.81",
+        "$ 77.16"
+      ]
+    ],
+    "questions": [
+      "in 2018, what was the total purchase price of the common stock acquired under the espp?",
+      "and between that year and the previous one, what was the variation in the grant date fair value per share?",
+      "what was that fair value in 2017?",
+      "how much, then, did that change represent in relation to this 2017 value?"
+    ]
+  }
+}

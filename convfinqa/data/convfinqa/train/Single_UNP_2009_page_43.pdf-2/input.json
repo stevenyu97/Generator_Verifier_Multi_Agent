@@ -1,0 +1,103 @@
+{
+  "input": {
+    "id": "Single_UNP/2009/page_43.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "amount of commitment expiration per period other commercial commitments after millions of dollars total 2010 2011 2012 2013 2014 2014 ."
+    ],
+    "post_text": [
+      "[a] none of the credit facility was used as of december 31 , 2009 .",
+      "[b] $ 400 million of the sale of receivables program was utilized at december 31 , 2009 .",
+      "[c] includes guaranteed obligations related to our headquarters building , equipment financings , and affiliated operations .",
+      "[d] none of the letters of credit were drawn upon as of december 31 , 2009 .",
+      "off-balance sheet arrangements sale of receivables 2013 the railroad transfers most of its accounts receivable to union pacific receivables , inc .",
+      "( upri ) , a bankruptcy-remote subsidiary , as part of a sale of receivables facility .",
+      "upri sells , without recourse on a 364-day revolving basis , an undivided interest in such accounts receivable to investors .",
+      "the total capacity to sell undivided interests to investors under the facility was $ 600 million and $ 700 million at december 31 , 2009 and 2008 , respectively .",
+      "the value of the outstanding undivided interest held by investors under the facility was $ 400 million and $ 584 million at december 31 , 2009 and 2008 , respectively .",
+      "during 2009 , upri reduced the outstanding undivided interest held by investors due to a decrease in available receivables .",
+      "the value of the undivided interest held by investors is not included in our consolidated financial statements .",
+      "the value of the undivided interest held by investors was supported by $ 817 million and $ 1015 million of accounts receivable held by upri at december 31 , 2009 and 2008 , respectively .",
+      "at december 31 , 2009 and 2008 , the value of the interest retained by upri was $ 417 million and $ 431 million , respectively .",
+      "this retained interest is included in accounts receivable in our consolidated financial statements .",
+      "the interest sold to investors is sold at carrying value , which approximates fair value , and there is no gain or loss recognized from the transaction .",
+      "the value of the outstanding undivided interest held by investors could fluctuate based upon the availability of eligible receivables and is directly affected by changing business volumes and credit risks , including default and dilution .",
+      "if default or dilution ratios increase one percent , the value of the outstanding undivided interest held by investors would not change as of december 31 , 2009 .",
+      "should our credit rating fall below investment grade , the value of the outstanding undivided interest held by investors would be reduced , and , in certain cases , the investors would have the right to discontinue the facility .",
+      "the railroad services the sold receivables ; however , the railroad does not recognize any servicing asset or liability , as the servicing fees adequately compensate us for these responsibilities .",
+      "the railroad collected approximately $ 13.8 billion and $ 17.8 billion during the years ended december 31 , 2009 and 2008 , respectively .",
+      "upri used certain of these proceeds to purchase new receivables under the facility .",
+      "the costs of the sale of receivables program are included in other income and were $ 9 million , $ 23 million , and $ 35 million for 2009 , 2008 , and 2007 , respectively .",
+      "the costs include interest , which will vary based on prevailing commercial paper rates , program fees paid to banks , commercial paper issuing costs , and fees for unused commitment availability .",
+      "the decrease in the 2009 costs was primarily attributable to lower commercial paper rates and a decrease in the outstanding interest held by investors. ."
+    ],
+    "table": [
+      [
+        "other commercial commitmentsmillions of dollars",
+        "total",
+        "amount of commitment expiration per period 2010",
+        "amount of commitment expiration per period 2011",
+        "amount of commitment expiration per period 2012",
+        "amount of commitment expiration per period 2013",
+        "amount of commitment expiration per period 2014",
+        "amount of commitment expiration per period after 2014"
+      ],
+      [
+        "credit facilities [a]",
+        "$ 1900",
+        "$ -",
+        "$ -",
+        "$ 1900",
+        "$ -",
+        "$ -",
+        "$ -"
+      ],
+      [
+        "sale of receivables [b]",
+        "600",
+        "600",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "guarantees [c]",
+        "416",
+        "29",
+        "76",
+        "24",
+        "8",
+        "214",
+        "65"
+      ],
+      [
+        "standby letters of credit [d]",
+        "22",
+        "22",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "total commercial commitments",
+        "$ 2938",
+        "$ 651",
+        "$ 76",
+        "$ 1924",
+        "$ 8",
+        "$ 214",
+        "$ 65"
+      ]
+    ],
+    "questions": [
+      "what is the sum of the value of the interest retained by upri in 2008 and the value of the undivided interest held by investors?",
+      "how much did the railroad collect in servicing fees in 2009?",
+      "what is that times 1000?",
+      "what is the ratio of the collected fees to the total sum?"
+    ]
+  }
+}

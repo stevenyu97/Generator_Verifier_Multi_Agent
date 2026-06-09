@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of other sinking fund requirements times 1000?",
+      "answer": 30200.0,
+      "answer_raw": "30200.0",
+      "program": "multiply(30.2, const_1000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that divided by the annual long-term debt maturities ( excluding lease obligations ) and annual cash sinking fund requirements for debt outstanding in 2007?",
+      "answer": 0.06354,
+      "answer_raw": "0.06354",
+      "program": "multiply(30.2, const_1000), divide(#0, 475288)"
+    }
+  ]
+}

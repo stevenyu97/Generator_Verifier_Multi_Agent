@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the anticipated growth rate of the unrecognized tax benefits in 2008",
+      "answer": 0.28723,
+      "answer_raw": "0.28723",
+      "program": "divide(2.7, 9.4)"
+    }
+  ]
+}

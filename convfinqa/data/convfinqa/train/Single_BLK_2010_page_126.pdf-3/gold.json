@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net difference in expenses related to personal pension plans from 2008 to 2009?",
+      "answer": -3.0,
+      "answer_raw": "-3.0",
+      "program": "subtract(13, 16)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that change divided by the 2008 value?",
+      "answer": -0.1875,
+      "answer_raw": "-0.1875",
+      "program": "subtract(13, 16), divide(#0, 16)"
+    }
+  ]
+}

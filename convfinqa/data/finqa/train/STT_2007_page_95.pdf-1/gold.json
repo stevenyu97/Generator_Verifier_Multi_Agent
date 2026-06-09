@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the number of outstanding shares based on the eps , ( in millions ) ?",
+      "answer": 331.2253,
+      "answer_raw": "331.2253",
+      "program": "divide(838, 2.53)"
+    }
+  ]
+}

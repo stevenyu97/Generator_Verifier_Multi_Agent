@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage does rental expense make up of gross cost of facilities funded in 2014?",
+      "answer": 0.14013,
+      "answer_raw": "0.14013",
+      "program": "divide(22, 157)"
+    }
+  ]
+}

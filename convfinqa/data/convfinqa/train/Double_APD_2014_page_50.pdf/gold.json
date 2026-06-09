@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the 15 years worth of contract terms in which the depreciation for the merchant gases segment will occur, what will be its total expense?",
+      "answer": 360.0,
+      "answer_raw": "360.0",
+      "program": "multiply(24, 15)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what will be that depreciation expense for the electronics and performance materials segment, considering their 10 years of contract terms?",
+      "answer": 110.0,
+      "answer_raw": "110.0",
+      "program": "multiply(10, 11)"
+    }
+  ]
+}

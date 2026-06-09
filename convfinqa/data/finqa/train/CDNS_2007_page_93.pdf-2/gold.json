@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the aggregate purchase price for the company in 2006 is goodwill?",
+      "answer": 0.67442,
+      "answer_raw": "0.67442",
+      "program": "divide(17.4, 25.8)"
+    }
+  ]
+}

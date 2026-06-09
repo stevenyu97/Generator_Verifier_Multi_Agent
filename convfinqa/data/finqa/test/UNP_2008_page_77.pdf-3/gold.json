@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in accrued wages and vacation from 2007 to 2008?",
+      "answer": -0.06853,
+      "answer_raw": "-0.06853",
+      "program": "subtract(367, 394), divide(#0, 394)"
+    }
+  ]
+}

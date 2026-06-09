@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in december of 2011, what was the full value of the vornado common shares received as payment for the exercise of certain employee options?",
+      "answer": 31367389.88,
+      "answer_raw": "31367389.88",
+      "program": "multiply(76.36, 410783)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in this same year, what was the high price of common shares and dividends per share for the first quarter?",
+      "answer": 93.53,
+      "answer_raw": "93.53",
+      "program": "93.53"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was it for the fourth quarter?",
+      "answer": 84.3,
+      "answer_raw": "84.3",
+      "program": "84.30"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "which one, then, was greater?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(93.53, 84.30)"
+    }
+  ]
+}

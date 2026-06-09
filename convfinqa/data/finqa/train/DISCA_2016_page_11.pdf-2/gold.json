@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of eurosport viewing subscribers reached were due to eurosport 2 network?",
+      "answer": 0.64251,
+      "answer_raw": "0.64251",
+      "program": "add(133, 65), add(#0, const_9), divide(133, #1)"
+    }
+  ]
+}

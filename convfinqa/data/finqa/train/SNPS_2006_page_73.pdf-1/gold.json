@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentual increase observed in the balance between 2004 and 2005?\\\\n",
+      "answer": 0.22785,
+      "answer_raw": "0.22785",
+      "program": "divide(728979, 593706), subtract(#0, const_1)"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "input": {
+    "id": "V/2012/page_28.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "as the payments landscape evolves , we may increasingly face competition from emerging players in the payment space , many of which are non-financial institution networks that have departed from the more traditional 201cbank-centric 201d business model .",
+      "the emergence of these potentially competitive networks has primarily been via the online channel with a focus on ecommerce and/or mobile technologies .",
+      "paypal , google and isis are examples .",
+      "these providers compete with visa directly in some cases , yet may also be significant partners and customers of visa .",
+      "based on payments volume , total volume and number of transactions , visa is the largest retail electronic payments network in the world .",
+      "the following chart compares our network with those of our major general purpose payment network competitors for calendar year 2011 : company payments volume volume transactions cards ( billions ) ( billions ) ( billions ) ( millions ) visa inc. ( 1 ) .",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "$ 3768 $ 6029 77.6 2011 ."
+    ],
+    "post_text": [
+      "( 1 ) visa inc .",
+      "figures as reported on form 8-k filed with the sec on february 8 and may 2 , 2012 , respectively .",
+      "visa figures represent total volume , payments volume and cash volume , and the number of payments transactions , cash transactions , accounts and cards for products carrying the visa , visa electron and interlink brands .",
+      "card counts include plus proprietary cards .",
+      "payments volume represents the aggregate dollar amount of purchases made with cards carrying the visa , visa electron and interlink brands for the relevant period .",
+      "total volume represents payments volume plus cash volume .",
+      "the data presented is reported quarterly by visa 2019s clients on their operating certificates and is subject to verification by visa .",
+      "on occasion , clients may update previously submitted information .",
+      "sources : mastercard , american express , jcb and diners club data sourced from the nilson report issue 992 ( april 2012 ) .",
+      "includes all consumer and commercial credit , debit and prepaid cards .",
+      "some prior year figures have been restated .",
+      "currency figures are in u.s .",
+      "dollars .",
+      "mastercard excludes maestro and cirrus figures .",
+      "american express includes figures for third-party issuers .",
+      "jcb figures include third-party issuers and other payment-related products .",
+      "some figures are estimates .",
+      "diners club figures are for the 12 months ended november 30 , 2011 .",
+      "discover data sourced from the nilson report issue 986 ( january 2012 ) 2014u.s .",
+      "data only and includes business from third-party issuers .",
+      "for more information on the concentration of our operating revenues and other financial information , see item 8 2014financial statements and supplementary data 2014note 14 2014enterprise-wide disclosures and concentration of business included elsewhere in this report .",
+      "working capital requirements payments settlement due from and due to issuing and acquiring clients represents a substantial daily working capital requirement .",
+      "u.s .",
+      "dollar settlements are typically settled within the same day and do not result in a receivable or payable balance , while settlement currencies other than the u.s .",
+      "dollar generally remain outstanding for one to two business days , consistent with industry practice for such transactions. ."
+    ],
+    "table": [
+      [
+        "company",
+        "paymentsvolume ( billions )",
+        "totalvolume ( billions )",
+        "totaltransactions ( billions )",
+        "cards ( millions )"
+      ],
+      [
+        "visa inc. ( 1 )",
+        "$ 3768",
+        "$ 6029",
+        "77.6",
+        "2011"
+      ],
+      [
+        "mastercard",
+        "2430",
+        "3249",
+        "39.8",
+        "1059"
+      ],
+      [
+        "american express",
+        "808",
+        "822",
+        "5.3",
+        "97"
+      ],
+      [
+        "discover",
+        "114",
+        "122",
+        "1.9",
+        "59"
+      ],
+      [
+        "jcb",
+        "160",
+        "166",
+        "1.4",
+        "77"
+      ],
+      [
+        "diners club",
+        "28",
+        "29",
+        "0.2",
+        "6"
+      ]
+    ],
+    "questions": [
+      "what is the average payment per transaction of discover holders?"
+    ]
+  }
+}

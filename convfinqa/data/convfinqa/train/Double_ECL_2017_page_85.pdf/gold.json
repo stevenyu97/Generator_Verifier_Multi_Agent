@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of january 2016, what was the amount equivalent to an annual interest rate of to the 3.25% ( 3.25 % ) note issued, in millions?",
+      "answer": 13.0,
+      "answer_raw": "13.0",
+      "program": "multiply(400, 3.25%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that amount for the 2.00% ( 2.00 % ) note issued?",
+      "answer": 8.0,
+      "answer_raw": "8.0",
+      "program": "multiply(400, 3.25%), multiply(400, 2.00%)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, in millions, the total annual interest expense combining both notes?",
+      "answer": 21.0,
+      "answer_raw": "21.0",
+      "program": "multiply(400, 3.25%), multiply(400, 2.00%), add(#1, #0)"
+    }
+  ]
+}

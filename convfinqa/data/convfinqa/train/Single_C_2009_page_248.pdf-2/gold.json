@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the aggregate fair value in excess of unpaid principal balance for the loans accounted for with the fair value option in 2009?",
+      "answer": 55.0,
+      "answer_raw": "55.0",
+      "program": "55"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2008?",
+      "answer": 138.0,
+      "answer_raw": "138.0",
+      "program": "138"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": -83.0,
+      "answer_raw": "-83.0",
+      "program": "subtract(55, 138)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation to the 2008 aggregate fair value, in percentage?",
+      "answer": -0.60145,
+      "answer_raw": "-0.60145",
+      "program": "subtract(55, 138), divide(#0, 138)"
+    }
+  ]
+}

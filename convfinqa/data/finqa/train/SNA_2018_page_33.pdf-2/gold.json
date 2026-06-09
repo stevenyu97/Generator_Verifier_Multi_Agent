@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average annual growth rate for snap from 2016 to 2018?",
+      "answer": -12.58173,
+      "answer_raw": "-12.58173",
+      "program": "subtract(169.61, 163.63), divide(#0, 163.63), subtract(144.41, 169.61), add(#1, #2), divide(#3, const_2)"
+    }
+  ]
+}

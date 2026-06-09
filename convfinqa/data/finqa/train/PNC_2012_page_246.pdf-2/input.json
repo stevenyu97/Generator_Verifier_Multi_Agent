@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "PNC/2012/page_246.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "table 153 : net outstanding standby letters of credit dollars in billions december 31 december 31 ."
+    ],
+    "post_text": [
+      "( a ) indicates that expected risk of loss is currently low .",
+      "( b ) indicates a higher degree of risk of default .",
+      "if the customer fails to meet its financial or performance obligation to the third party under the terms of the contract or there is a need to support a remarketing program , then upon the request of the guaranteed party , subject to the terms of the letter of credit , we would be obligated to make payment to them .",
+      "the standby letters of credit and risk participations in standby letters of credit and bankers 2019 acceptances outstanding on december 31 , 2012 had terms ranging from less than 1 year to 7 years .",
+      "the aggregate maximum amount of future payments pnc could be required to make under outstanding standby letters of credit and risk participations in standby letters of credit and bankers 2019 acceptances was $ 14.7 billion at december 31 , 2012 , of which $ 7.5 billion support remarketing programs .",
+      "as of december 31 , 2012 , assets of $ 1.8 billion secured certain specifically identified standby letters of credit .",
+      "recourse provisions from third parties of $ 3.2 billion were also available for this purpose as of december 31 , 2012 .",
+      "in addition , a portion of the remaining standby letters of credit and letter of credit risk participations issued on behalf of specific customers is also secured by collateral or guarantees that secure the customers 2019 other obligations to us .",
+      "the carrying amount of the liability for our obligations related to standby letters of credit and risk participations in standby letters of credit and bankers 2019 acceptances was $ 247 million at december 31 , 2012 .",
+      "standby bond purchase agreements and other liquidity facilities we enter into standby bond purchase agreements to support municipal bond obligations .",
+      "at december 31 , 2012 , the aggregate of our commitments under these facilities was $ 587 million .",
+      "we also enter into certain other liquidity facilities to support individual pools of receivables acquired by commercial paper conduits .",
+      "at december 31 , 2012 , our total commitments under these facilities were $ 145 million .",
+      "indemnifications we are a party to numerous acquisition or divestiture agreements under which we have purchased or sold , or agreed to purchase or sell , various types of assets .",
+      "these agreements can cover the purchase or sale of : 2022 entire businesses , 2022 loan portfolios , 2022 branch banks , 2022 partial interests in companies , or 2022 other types of assets .",
+      "these agreements generally include indemnification provisions under which we indemnify the third parties to these agreements against a variety of risks to the indemnified parties as a result of the transaction in question .",
+      "when pnc is the seller , the indemnification provisions will generally also provide the buyer with protection relating to the quality of the assets we are selling and the extent of any liabilities being assumed by the buyer .",
+      "due to the nature of these indemnification provisions , we cannot quantify the total potential exposure to us resulting from them .",
+      "we provide indemnification in connection with securities offering transactions in which we are involved .",
+      "when we are the issuer of the securities , we provide indemnification to the underwriters or placement agents analogous to the indemnification provided to the purchasers of businesses from us , as described above .",
+      "when we are an underwriter or placement agent , we provide a limited indemnification to the issuer related to our actions in connection with the offering and , if there are other underwriters , indemnification to the other underwriters intended to result in an appropriate sharing of the risk of participating in the offering .",
+      "due to the nature of these indemnification provisions , we cannot quantify the total potential exposure to us resulting from them .",
+      "in the ordinary course of business , we enter into certain types of agreements that include provisions for indemnifying third parties .",
+      "we also enter into certain types of agreements , including leases , assignments of leases , and subleases , in which we agree to indemnify third parties for acts by our agents , assignees and/or sublessees , and employees .",
+      "we also enter into contracts for the delivery of technology service in which we indemnify the other party against claims of patent and copyright infringement by third parties .",
+      "due to the nature of these indemnification provisions , we cannot calculate our aggregate potential exposure under them .",
+      "in the ordinary course of business , we enter into contracts with third parties under which the third parties provide services on behalf of pnc .",
+      "in many of these contracts , we agree to indemnify the third party service provider under certain circumstances .",
+      "the terms of the indemnity vary from contract to contract and the amount of the indemnification liability , if any , cannot be determined .",
+      "we are a general or limited partner in certain asset management and investment limited partnerships , many of which contain indemnification provisions that would require us to make payments in excess of our remaining unfunded commitments .",
+      "while in certain of these partnerships the maximum liability to us is limited to the sum of our unfunded commitments and partnership distributions received by us , in the others the indemnification liability is unlimited .",
+      "as a result , we cannot determine our aggregate potential exposure for these indemnifications .",
+      "the pnc financial services group , inc .",
+      "2013 form 10-k 227 ."
+    ],
+    "table": [
+      [
+        "dollars in billions",
+        "december 31 2012",
+        "december 312011"
+      ],
+      [
+        "net outstanding standby letters of credit",
+        "$ 11.5",
+        "$ 10.8"
+      ],
+      [
+        "internal credit ratings ( as a percentage of portfolio ) :",
+        "",
+        ""
+      ],
+      [
+        "pass ( a )",
+        "95% ( 95 % )",
+        "94% ( 94 % )"
+      ],
+      [
+        "below pass ( b )",
+        "5% ( 5 % )",
+        "6% ( 6 % )"
+      ]
+    ],
+    "questions": [
+      "in billions , what was the change between 2011 and 2012 in net outstanding standby letters of credit?"
+    ]
+  }
+}

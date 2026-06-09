@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "between the years of 2008 and 2009, what was the variation in the capital gain distributions?",
+      "answer": -2.7,
+      "answer_raw": "-2.7",
+      "program": "subtract(2.9, 5.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this variation as a percent of those distributions in 2008?",
+      "answer": -0.48214,
+      "answer_raw": "-0.48214",
+      "program": "subtract(2.9, 5.6), divide(#0, 5.6)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and in the subsequent year of this period, in 2010, what was the average price for which the shares were repurchased?",
+      "answer": 48.0,
+      "answer_raw": "48.0",
+      "program": "divide(240.0, const_5)"
+    }
+  ]
+}

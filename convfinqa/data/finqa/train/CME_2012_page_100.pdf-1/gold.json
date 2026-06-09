@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the future minimum payments are due in 2013?",
+      "answer": 0.09637,
+      "answer_raw": "0.09637",
+      "program": "divide(28.7, 297.8)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total revenue for 2011?",
+      "answer": 14663.0,
+      "answer_raw": "14663.0",
+      "program": "14663"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for 2010?",
+      "answer": 11690.0,
+      "answer_raw": "11690.0",
+      "program": "11690"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between the two years?",
+      "answer": 2973.0,
+      "answer_raw": "2973.0",
+      "program": "subtract(14663, 11690)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the specific value for 2010 again?",
+      "answer": 11690.0,
+      "answer_raw": "11690.0",
+      "program": "11690"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage change during this time?",
+      "answer": 0.25432,
+      "answer_raw": "0.25432",
+      "program": "subtract(14663, 11690), divide(#0, 11690)"
+    }
+  ]
+}

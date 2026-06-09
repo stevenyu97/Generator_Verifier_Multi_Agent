@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "GIS/2018/page_53.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "free cash flow conversion rate and total cash returned to shareholders as a percentage of free cash we believe these measures provide useful information to investors because they are important for assessing our efficiency in converting earnings to cash and returning cash to shareholders .",
+      "the calculation of free cash flow conversion rate and net cash provided by operating activities conversion rate , its equivalent gaap measure , follows: ."
+    ],
+    "post_text": [
+      "( a ) see note 14 to the consolidated financial statements in item 8 of this report .",
+      "( b ) see note 7 to the consolidated financial statements in item 8 of this report .",
+      "( c ) see note 3 to the consolidated financial statements in item 8 of this report .",
+      "( d ) see note 4 to the consolidated financial statements in item 8 of this report .",
+      "( e ) see note 6 to the consolidated financial statements in item 8 of this report .",
+      "see our reconciliation below of the effective income tax rate as reported to the effective income tax rate excluding certain items affecting comparability for the tax impact of each item affecting comparability. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "fiscal 2018"
+      ],
+      [
+        "net earnings including earnings attributable to redeemable and noncontrolling interests asreported",
+        "$ 2163.0"
+      ],
+      [
+        "provisional net tax benefit ( a )",
+        "$ -523.5 ( 523.5 )"
+      ],
+      [
+        "mark-to-marketeffects net of tax ( b )",
+        "-22.1 ( 22.1 )"
+      ],
+      [
+        "acquisition transaction and integration costs net of tax ( c )",
+        "58.5"
+      ],
+      [
+        "restructuring costs net of tax ( d )",
+        "61.4"
+      ],
+      [
+        "project-related costs net of tax ( d )",
+        "8.0"
+      ],
+      [
+        "intangible asset impairments net of tax ( e )",
+        "64.9"
+      ],
+      [
+        "tax adjustment ( a )",
+        "40.9"
+      ],
+      [
+        "cpw restructuring costs net of tax",
+        "1.8"
+      ],
+      [
+        "adjusted net earnings including earnings attributable to redeemable and noncontrollinginterests",
+        "1852.9"
+      ],
+      [
+        "net cash provided by operating activities",
+        "2841.0"
+      ],
+      [
+        "purchases of land buildings and equipment",
+        "-622.7 ( 622.7 )"
+      ],
+      [
+        "free cash flow",
+        "$ 2218.3"
+      ],
+      [
+        "net cash provided by operating activities conversion rate",
+        "131% ( 131 % )"
+      ],
+      [
+        "free cash flow conversion rate",
+        "120% ( 120 % )"
+      ]
+    ],
+    "questions": [
+      "in 2018 what was the ratio of the net earnings to the net cash provided by operating activities"
+    ]
+  }
+}

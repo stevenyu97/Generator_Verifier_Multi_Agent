@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of the entergy arkansas 2019s payables in 2017, in millions?",
+      "answer": 166137.0,
+      "answer_raw": "166137.0",
+      "program": "166137"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it for 2016?",
+      "answer": 51232.0,
+      "answer_raw": "51232.0",
+      "program": "51232"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the total of payables for both years?",
+      "answer": 217369.0,
+      "answer_raw": "217369.0",
+      "program": "add(166137, 51232)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "including 2015, what becomes this total?",
+      "answer": 270111.0,
+      "answer_raw": "270111.0",
+      "program": "add(166137, 51232), add(#0, 52742)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and as of the last year of this period, what percentage of the aggregate borrowing capacity was set to expire in 2019?",
+      "answer": 0.32,
+      "answer_raw": "0.32",
+      "program": "divide(80, 250)"
+    }
+  ]
+}

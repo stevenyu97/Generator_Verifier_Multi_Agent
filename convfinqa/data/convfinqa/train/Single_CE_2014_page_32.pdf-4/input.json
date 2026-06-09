@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "Single_CE/2014/page_32.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "celanese purchases of its equity securities information regarding repurchases of our common stock during the three months ended december 31 , 2014 is as follows : period number of shares purchased ( 1 ) average price paid per share total number of shares purchased as part of publicly announced program approximate dollar value of shares remaining that may be purchased under the program ( 2 ) ."
+    ],
+    "post_text": [
+      "___________________________ ( 1 ) includes 27780 and 9537 for october and december 2014 , respectively , related to shares withheld from employees to cover their statutory minimum withholding requirements for personal income taxes related to the vesting of restricted stock units .",
+      "( 2 ) our board of directors has authorized the aggregate repurchase of $ 1.4 billion of our common stock since february 2008 .",
+      "see note 17 - stockholders' equity in the accompanying consolidated financial statements for further information .",
+      "performance graph the following performance graph and related information shall not be deemed \"soliciting material\" or to be \"filed\" with the securities and exchange commission , nor shall such information be incorporated by reference into any future filing under the securities act of 1933 or securities exchange act of 1934 , each as amended , except to the extent that we specifically incorporate it by reference into such filing .",
+      "comparison of cumulative total return ."
+    ],
+    "table": [
+      [
+        "period",
+        "totalnumberof sharespurchased ( 1 )",
+        "averageprice paidper share",
+        "total numberof sharespurchased aspart of publiclyannounced program",
+        "approximatedollarvalue of sharesremaining thatmay bepurchased underthe program ( 2 )"
+      ],
+      [
+        "october 1 - 31 2014",
+        "192580",
+        "$ 58.02",
+        "164800",
+        "$ 490000000"
+      ],
+      [
+        "november 1 - 30 2014",
+        "468128",
+        "$ 59.25",
+        "468128",
+        "$ 463000000"
+      ],
+      [
+        "december 1 - 31 2014",
+        "199796",
+        "$ 60.78",
+        "190259",
+        "$ 451000000"
+      ],
+      [
+        "total",
+        "860504",
+        "",
+        "823187",
+        ""
+      ]
+    ],
+    "questions": [
+      "what was the total number of shares purchased in december of 2014?",
+      "and what was the average price paid for each of those shares?",
+      "what was, then, the total amount spent in the purchase of those shares?",
+      "and how much is that in millions?"
+    ]
+  }
+}

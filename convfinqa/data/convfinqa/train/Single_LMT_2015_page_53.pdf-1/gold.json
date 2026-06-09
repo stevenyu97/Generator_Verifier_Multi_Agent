@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the backlog at year-end of 2014?",
+      "answer": 6000.0,
+      "answer_raw": "6000.0",
+      "program": "6000"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and that of 2013?",
+      "answer": 6300.0,
+      "answer_raw": "6300.0",
+      "program": "6300"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference between the backlog at year-end of 2014 and 2013?",
+      "answer": -300.0,
+      "answer_raw": "-300.0",
+      "program": "subtract(6000, 6300)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "how much does that difference represents in relation to the backlog at year-end of 2013?",
+      "answer": -0.04762,
+      "answer_raw": "-0.04762",
+      "program": "subtract(6000, 6300), divide(#0, 6300)"
+    }
+  ]
+}

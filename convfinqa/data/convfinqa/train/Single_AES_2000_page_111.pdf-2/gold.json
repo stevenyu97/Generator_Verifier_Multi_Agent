@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in revenue from 1999 to 2000, in millions?",
+      "answer": 281.0,
+      "answer_raw": "281.0",
+      "program": "subtract(6241, 5960)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does that change represent in relation to the revenue in 1999?",
+      "answer": 0.04715,
+      "answer_raw": "0.04715",
+      "program": "subtract(6241, 5960), divide(#0, 5960)"
+    }
+  ]
+}

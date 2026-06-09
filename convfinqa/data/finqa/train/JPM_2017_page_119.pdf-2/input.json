@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "JPM/2017/page_119.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "jpmorgan chase & co./2017 annual report 89 the table below reflects the firm 2019s assessed level of capital allocated to each line of business as of the dates indicated .",
+      "line of business equity ( allocated capital ) ."
+    ],
+    "post_text": [
+      "planning and stress testing comprehensive capital analysis and review the federal reserve requires large bank holding companies , including the firm , to submit a capital plan on an annual basis .",
+      "the federal reserve uses the ccar and dodd-frank act stress test processes to ensure that large bhcs have sufficient capital during periods of economic and financial stress , and have robust , forward-looking capital assessment and planning processes in place that address each bhc 2019s unique risks to enable it to absorb losses under certain stress scenarios .",
+      "through the ccar , the federal reserve evaluates each bhc 2019s capital adequacy and internal capital adequacy assessment processes ( 201cicaap 201d ) , as well as its plans to make capital distributions , such as dividend payments or stock repurchases .",
+      "on june 28 , 2017 , the federal reserve informed the firm that it did not object , on either a quantitative or qualitative basis , to the firm 2019s 2017 capital plan .",
+      "for information on actions taken by the firm 2019s board of directors following the 2017 ccar results , see capital actions on pages 89-90 .",
+      "the firm 2019s ccar process is integrated into and employs the same methodologies utilized in the firm 2019s icaap process , as discussed below .",
+      "internal capital adequacy assessment process semiannually , the firm completes the icaap , which provides management with a view of the impact of severe and unexpected events on earnings , balance sheet positions , reserves and capital .",
+      "the firm 2019s icaap integrates stress testing protocols with capital planning .",
+      "the process assesses the potential impact of alternative economic and business scenarios on the firm 2019s earnings and capital .",
+      "economic scenarios , and the parameters underlying those scenarios , are defined centrally and applied uniformly across the businesses .",
+      "these scenarios are articulated in terms of macroeconomic factors , which are key drivers of business results ; global market shocks , which generate short-term but severe trading losses ; and idiosyncratic operational risk events .",
+      "the scenarios are intended to capture and stress key vulnerabilities and idiosyncratic risks facing the firm .",
+      "however , when defining a broad range of scenarios , actual events can always be worse .",
+      "accordingly , management considers additional stresses outside these scenarios , as necessary .",
+      "icaap results are reviewed by management and the audit committee .",
+      "capital actions preferred stock preferred stock dividends declared were $ 1.7 billion for the year ended december 31 , 2017 .",
+      "on october 20 , 2017 , the firm issued $ 1.3 billion of fixed- to-floating rate non-cumulative preferred stock , series cc , with an initial dividend rate of 4.625% ( 4.625 % ) .",
+      "on december 1 , 2017 , the firm redeemed all $ 1.3 billion of its outstanding 5.50% ( 5.50 % ) non-cumulative preferred stock , series o .",
+      "for additional information on the firm 2019s preferred stock , see note 20 .",
+      "trust preferred securities on december 18 , 2017 , the delaware trusts that issued seven series of outstanding trust preferred securities were liquidated , $ 1.6 billion of trust preferred and $ 56 million of common securities originally issued by those trusts were cancelled , and the junior subordinated debentures previously held by each trust issuer were distributed pro rata to the holders of the corresponding series of trust preferred and common securities .",
+      "the firm redeemed $ 1.6 billion of trust preferred securities in the year ended december 31 , 2016 .",
+      "common stock dividends the firm 2019s common stock dividend policy reflects jpmorgan chase 2019s earnings outlook , desired dividend payout ratio , capital objectives , and alternative investment opportunities .",
+      "on september 19 , 2017 , the firm announced that its board of directors increased the quarterly common stock dividend to $ 0.56 per share , effective with the dividend paid on october 31 , 2017 .",
+      "the firm 2019s dividends are subject to the board of directors 2019 approval on a quarterly basis .",
+      "for information regarding dividend restrictions , see note 20 and note 25. ."
+    ],
+    "table": [
+      [
+        "( in billions )",
+        "january 12018",
+        "december 31 , 2017",
+        "december 31 , 2016"
+      ],
+      [
+        "consumer & community banking",
+        "$ 51.0",
+        "$ 51.0",
+        "$ 51.0"
+      ],
+      [
+        "corporate & investment bank",
+        "70.0",
+        "70.0",
+        "64.0"
+      ],
+      [
+        "commercial banking",
+        "20.0",
+        "20.0",
+        "16.0"
+      ],
+      [
+        "asset & wealth management",
+        "9.0",
+        "9.0",
+        "9.0"
+      ],
+      [
+        "corporate",
+        "79.6",
+        "79.6",
+        "88.1"
+      ],
+      [
+        "total common stockholders 2019 equity",
+        "$ 229.6",
+        "$ 229.6",
+        "$ 228.1"
+      ]
+    ],
+    "questions": [
+      "what is the annual cash flow cost of the cc series preferred stock , in m?"
+    ]
+  }
+}

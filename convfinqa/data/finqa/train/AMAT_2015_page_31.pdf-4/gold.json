@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the table , how much more square feet is owned outside the united states?",
+      "answer": 2731.0,
+      "answer_raw": "2731.0",
+      "program": "subtract(7035, 4304)"
+    }
+  ]
+}

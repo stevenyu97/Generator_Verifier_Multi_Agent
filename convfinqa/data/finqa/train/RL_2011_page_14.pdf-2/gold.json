@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of factory retail stores as of april 2 , 2011 is europe?",
+      "answer": 0.1623,
+      "answer_raw": "0.1623",
+      "program": "divide(31, 191)"
+    }
+  ]
+}

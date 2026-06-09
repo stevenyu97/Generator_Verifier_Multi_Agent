@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "Single_CDNS/2012/page_30.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "stockholder return performance graphs the following graph compares the cumulative 5-year total stockholder return on our common stock relative to the cumulative total return of the nasdaq composite index and the s&p 400 information technology index .",
+      "the graph assumes that the value of the investment in our common stock and in each index ( including reinvestment of dividends ) was $ 100 on december 29 , 2007 and tracks it through december 29 , 2012 .",
+      "comparison of 5 year cumulative total return* among cadence design systems , inc. , the nasdaq composite index , and s&p 400 information technology cadence design systems , inc .",
+      "nasdaq composite s&p 400 information technology 12/29/1212/31/111/1/111/2/101/3/0912/29/07 *$ 100 invested on 12/29/07 in stock or 12/31/07 in index , including reinvestment of dividends .",
+      "indexes calculated on month-end basis .",
+      "copyright a9 2013 s&p , a division of the mcgraw-hill companies inc .",
+      "all rights reserved. ."
+    ],
+    "post_text": [
+      "the stock price performance included in this graph is not necessarily indicative of future stock price performance ."
+    ],
+    "table": [
+      [
+        "",
+        "12/29/2007",
+        "1/3/2009",
+        "1/2/2010",
+        "1/1/2011",
+        "12/31/2011",
+        "12/29/2012"
+      ],
+      [
+        "cadence design systems inc .",
+        "100.00",
+        "22.55",
+        "35.17",
+        "48.50",
+        "61.07",
+        "78.92"
+      ],
+      [
+        "nasdaq composite",
+        "100.00",
+        "59.03",
+        "82.25",
+        "97.32",
+        "98.63",
+        "110.78"
+      ],
+      [
+        "s&p 400 information technology",
+        "100.00",
+        "54.60",
+        "82.76",
+        "108.11",
+        "95.48",
+        "109.88"
+      ]
+    ],
+    "questions": [
+      "what is the difference of the price of cadence design from 2007 to 2012?",
+      "what is that divided by 100?"
+    ]
+  }
+}

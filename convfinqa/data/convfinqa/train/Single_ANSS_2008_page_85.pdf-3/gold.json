@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in unrecognized tax benefits during 2008?",
+      "answer": 4488.0,
+      "answer_raw": "4488.0",
+      "program": "subtract(12416, 7928)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that change over the starting value?",
+      "answer": 0.56609,
+      "answer_raw": "0.56609",
+      "program": "subtract(12416, 7928), divide(#0, 7928)"
+    }
+  ]
+}

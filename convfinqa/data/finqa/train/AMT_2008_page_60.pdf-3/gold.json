@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the adjusted consolidated cash flow for the twelve months ended december 31 , 2008 is related to tower cash flow?",
+      "answer": 1.01977,
+      "answer_raw": "1.01977",
+      "program": "divide(753798, 739187)"
+    }
+  ]
+}

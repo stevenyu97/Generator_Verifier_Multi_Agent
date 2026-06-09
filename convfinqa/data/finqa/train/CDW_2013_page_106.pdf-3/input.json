@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "CDW/2013/page_106.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "cdw corporation and subsidiaries notes to consolidated financial statements 2013 denominator was impacted by the common shares issued during both the ipo and the underwriters 2019 exercise in full of the overallotment option granted to them in connection with the ipo .",
+      "because such common shares were issued on july 2 , 2013 and july 31 , 2013 , respectively , they are only partially reflected in the 2013 denominator .",
+      "such shares will be fully reflected in the 2014 denominator .",
+      "see note 9 for additional discussion of the ipo .",
+      "the dilutive effect of outstanding restricted stock , restricted stock units , stock options and mpk plan units is reflected in the denominator for diluted earnings per share using the treasury stock method .",
+      "the following is a reconciliation of basic shares to diluted shares: ."
+    ],
+    "post_text": [
+      "for the years ended december 31 , 2013 , 2012 and 2011 , diluted earnings per share excludes the impact of 0.0 million , 0.0 million , and 4.3 million potential common shares , respectively , as their inclusion would have had an anti-dilutive effect .",
+      "12 .",
+      "deferred compensation plan on march 10 , 2010 , in connection with the company 2019s purchase of $ 28.5 million principal amount of its outstanding senior subordinated debt , the company established the restricted debt unit plan ( the 201crdu plan 201d ) , an unfunded nonqualified deferred compensation plan .",
+      "the total number of rdus that can be granted under the rdu plan is 28500 .",
+      "at december 31 , 2013 , 28500 rdus were outstanding .",
+      "rdus that are outstanding vest daily on a pro rata basis over the three-year period from january 1 , 2012 ( or , if later , the date of hire or the date of a subsequent rdu grant ) through december 31 , 2014 .",
+      "participants have no rights to the underlying debt .",
+      "the total amount of compensation available to be paid under the rdu plan was initially to be based on two components , a principal component and an interest component .",
+      "the principal component credits the rdu plan with a notional amount equal to the $ 28.5 million face value of the senior subordinated notes ( the 201cdebt pool 201d ) , together with certain redemption premium equivalents as noted below .",
+      "the interest component credits the rdu plan with amounts equal to the interest that would have been earned on the debt pool from march 10 , 2010 through maturity on october 12 , 2017 , except as discussed below .",
+      "interest amounts for 2010 and 2011 were deferred until 2012 , and thereafter , interest amounts were paid to participants semi-annually on the interest payment due dates .",
+      "payments totaling $ 1.7 million and $ 1.3 million were made to participants under the rdu plan in april and october 2013 , respectively , in connection with the semi-annual interest payments due .",
+      "the company used a portion of the ipo proceeds together with incremental borrowings to redeem $ 324.0 million of the total senior subordinated notes outstanding on august 1 , 2013 .",
+      "in connection with the ipo and the partial redemption of the senior subordinated notes , the company amended the rdu plan to increase the retentive value of the plan .",
+      "in accordance with the original terms of the rdu plan , the principal component of the rdus converted to a cash-denominated pool upon the redemption of the senior subordinated notes .",
+      "in addition , the company added $ 1.4 million to the principal component in the year ended december 31 , 2013 as redemption premium equivalents in accordance with the terms of the rdu plan .",
+      "under the terms of the amended rdu plan , upon the partial redemption of outstanding senior subordinated notes , the rdus ceased to accrue the proportionate related interest component credits .",
+      "the ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "years ended december 31 , 2013",
+        "years ended december 31 , 2012",
+        "years ended december 31 , 2011"
+      ],
+      [
+        "weighted-average shares - basic",
+        "156.6",
+        "145.1",
+        "144.8"
+      ],
+      [
+        "effect of dilutive securities",
+        "2.1",
+        "0.7",
+        "0.1"
+      ],
+      [
+        "weighted-average shares - diluted",
+        "158.7",
+        "145.8",
+        "144.9"
+      ]
+    ],
+    "questions": [
+      "under the rdu program in 2013 , what was the average of the two semi-annual interest payments , in millions?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total other expenses is related to securities processing in 2007?",
+      "answer": 0.16527,
+      "answer_raw": "0.16527",
+      "program": "divide(79, 478)"
+    }
+  ]
+}

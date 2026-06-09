@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many years are under exam for the firm or it's recent acquired subsidiaries?",
+      "answer": 5.0,
+      "answer_raw": "5.0",
+      "program": "subtract(2005, 2000)"
+    }
+  ]
+}

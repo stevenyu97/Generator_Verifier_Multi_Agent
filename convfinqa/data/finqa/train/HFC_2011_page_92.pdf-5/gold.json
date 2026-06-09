@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the fair value of performance share units at july 1 , 2011 was relates to to post-merger services and will be recognized ratably over the remaining service period through 2013?",
+      "answer": 0.84884,
+      "answer_raw": "0.84884",
+      "program": "divide(7.3, 8.6)"
+    }
+  ]
+}

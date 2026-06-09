@@ -1,0 +1,103 @@
+{
+  "input": {
+    "id": "STT/2001/page_41.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "operating expenses operating expenses were $ 2.9 billion , an increase of 8% ( 8 % ) over 2000 .",
+      "adjusted for the formation of citistreet , operating expenses grew 10% ( 10 % ) .",
+      "expense growth in 2001 of 10% ( 10 % ) is significantly lower than the comparable 20% ( 20 % ) expense growth for 2000 compared to 1999 .",
+      "state street successfully reduced the growth rate of expenses as revenue growth slowed during the latter half of 2000 and early 2001 .",
+      "the expense growth in 2001 reflects higher expenses for salaries and employee benefits , as well as information systems and communications .",
+      "o p e r a t i n g e x p e n s e s ( dollars in millions ) 2001 2000 1999 change adjusted change 00-01 ( 1 ) ."
+    ],
+    "post_text": [
+      "( 1 ) 2000 results adjusted for the formation of citistreet expenses related to salaries and employee benefits increased $ 139million in 2001 , or $ 163millionwhen adjusted for the formation of citistreet .",
+      "the adjusted increase reflects more than 2100 additional staff to support the large client wins and new business from existing clients and acquisitions .",
+      "this expense increase was partially offset by lower incentive-based compensation .",
+      "information systems and communications expense was $ 365 million in 2001 , up 20% ( 20 % ) from the prior year .",
+      "adjusted for the formation of citistreet , information systems and communications expense increased 22% ( 22 % ) .",
+      "this growth reflects both continuing investment in software and hardware , aswell as the technology costs associated with increased staffing levels .",
+      "expenses related to transaction processing services were $ 247 million , down $ 21 million , or 8% ( 8 % ) .",
+      "these expenses are volume related and include external contract services , subcustodian fees , brokerage services and fees related to securities settlement .",
+      "lower mutual fund shareholder activities , and lower subcustodian fees resulting from both the decline in asset values and lower transaction volumes , drove the decline .",
+      "occupancy expensewas $ 229million , up 15% ( 15 % ) .",
+      "the increase is due to expenses necessary to support state street 2019s global growth , and expenses incurred for leasehold improvements and other operational costs .",
+      "other expenses were $ 363 million , up $ 17 million , or 5% ( 5 % ) .",
+      "these expenses include professional services , advertising and sales promotion , and internal operational expenses .",
+      "the increase over prior year is due to a $ 21 million increase in the amortization of goodwill , primarily from acquisitions in 2001 .",
+      "in accordance with recent accounting pronouncements , goodwill amortization expense will be eliminated in 2002 .",
+      "state street recorded approximately $ 38 million , or $ .08 per share after tax , of goodwill amortization expense in 2001 .",
+      "state street 2019s cost containment efforts , which reduced discretionary spending , partially offset the increase in other expenses .",
+      "state street corporation 9 ."
+    ],
+    "table": [
+      [
+        "( dollars in millions )",
+        "2001",
+        "2000",
+        "1999",
+        "change 00-01",
+        "adjusted change 00-01 ( 1 )"
+      ],
+      [
+        "salaries and employee benefits",
+        "$ 1663",
+        "$ 1524",
+        "$ 1313",
+        "9% ( 9 % )",
+        "11% ( 11 % )"
+      ],
+      [
+        "information systems and communications",
+        "365",
+        "305",
+        "287",
+        "20",
+        "22"
+      ],
+      [
+        "transaction processing services",
+        "247",
+        "268",
+        "237",
+        "-8 ( 8 )",
+        "-7 ( 7 )"
+      ],
+      [
+        "occupancy",
+        "229",
+        "201",
+        "188",
+        "15",
+        "16"
+      ],
+      [
+        "other",
+        "363",
+        "346",
+        "311",
+        "5",
+        "7"
+      ],
+      [
+        "total operating expenses",
+        "$ 2867",
+        "$ 2644",
+        "$ 2336",
+        "8",
+        "10"
+      ],
+      [
+        "number of employees",
+        "19753",
+        "17604",
+        "17213",
+        "12",
+        ""
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in the number of employees from 1999 to 2000?"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "LMT/2016/page_48.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "$ 70 million .",
+      "since that time , we have continued to experience issues related to customer requirements and the implementation of this contract and have periodically accrued additional reserves .",
+      "consequently , we are continuing to monitor the scope , estimated costs , and viability of the program and the possibility of additional customer funding .",
+      "it is possible that we may have to record additional loss reserves in future periods , which could be material to our operating results .",
+      "however , we cannot make an estimate of the total expected costs at this time due to uncertainties inherent in the estimation process .",
+      "our consolidated net adjustments not related to volume , including net profit booking rate adjustments and other matters , net of state income taxes , increased segment operating profit by approximately $ 1.5 billion , $ 1.7 billion and $ 1.6 billion for 2016 , 2015 and 2014 .",
+      "the decrease in our consolidated net adjustments in 2016 compared to 2015 was primarily due to a decrease in profit booking rate adjustments at our mfc and space systems business segments , partially offset by an increase at our rms business segment .",
+      "the increase in our consolidated net adjustments in 2015 compared to 2014 was primarily due to an increase in profit booking rate adjustments at our space systems and aeronautics business segments , offset by a decrease in profit booking rate adjustments at our rms and mfc business segments .",
+      "the consolidated net adjustments for 2016 are inclusive of approximately $ 530 million in unfavorable items , which include reserves for performance matters on an international program at rms .",
+      "the consolidated net adjustments for 2015 are inclusive of approximately $ 550 million in unfavorable items , which include reserves for performance matters on an international program at rms and on commercial satellite programs at space systems .",
+      "the consolidated net adjustments for 2014 are inclusive of approximately $ 535 million in unfavorable items , which include reserves recorded on certain training and logistics solutions programs at rms and net warranty reserve adjustments for various programs ( including jassm and gmlrs ) at mfc as described in the respective business segment 2019s results of operations below .",
+      "aeronautics our aeronautics business segment is engaged in the research , design , development , manufacture , integration , sustainment , support and upgrade of advanced military aircraft , including combat and air mobility aircraft , unmanned air vehicles and related technologies .",
+      "aeronautics 2019 major programs include the f-35 lightning ii joint strike fighter , c-130 hercules , f-16 fighting falcon , c-5m super galaxy and f-22 raptor .",
+      "aeronautics 2019 operating results included the following ( in millions ) : ."
+    ],
+    "post_text": [
+      "2016 compared to 2015 aeronautics 2019 net sales in 2016 increased $ 2.2 billion , or 14% ( 14 % ) , compared to 2015 .",
+      "the increase was attributable to higher net sales of approximately $ 1.7 billion for the f-35 program due to increased volume on aircraft production and sustainment activities , partially offset by lower volume on development activities ; and approximately $ 290 million for the c-130 program due to increased deliveries ( 24 aircraft delivered in 2016 compared to 21 in 2015 ) and increased sustainment activities ; and approximately $ 250 million for the f-16 program primarily due to higher volume on aircraft modernization programs .",
+      "the increases were partially offset by lower net sales of approximately $ 55 million for the c-5 program due to decreased sustainment activities .",
+      "aeronautics 2019 operating profit in 2016 increased $ 206 million , or 12% ( 12 % ) , compared to 2015 .",
+      "operating profit increased approximately $ 195 million for the f-35 program due to increased volume on aircraft production and sustainment activities and higher risk retirements ; and by approximately $ 60 million for aircraft support and maintenance programs due to higher risk retirements and increased volume .",
+      "these increases were partially offset by lower operating profit of approximately $ 65 million for the c-130 program due to contract mix and lower risk retirements .",
+      "adjustments not related to volume , including net profit booking rate adjustments , were approximately $ 20 million higher in 2016 compared to 2015 .",
+      "2015 compared to 2014 aeronautics 2019 net sales in 2015 increased $ 650 million , or 4% ( 4 % ) , compared to 2014 .",
+      "the increase was attributable to higher net sales of approximately $ 1.4 billion for f-35 production contracts due to increased volume on aircraft production and sustainment activities ; and approximately $ 150 million for the c-5 program due to increased deliveries ( nine aircraft ."
+    ],
+    "table": [
+      [
+        "",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "net sales",
+        "$ 17769",
+        "$ 15570",
+        "$ 14920"
+      ],
+      [
+        "operating profit",
+        "1887",
+        "1681",
+        "1649"
+      ],
+      [
+        "operating margin",
+        "10.6% ( 10.6 % )",
+        "10.8% ( 10.8 % )",
+        "11.1% ( 11.1 % )"
+      ],
+      [
+        "backlog atyear-end",
+        "$ 34200",
+        "$ 31800",
+        "$ 27600"
+      ]
+    ],
+    "questions": [
+      "in 2016 based on the increase in the net sales what was the ratio of the increasing factor to the offsetting factors that reduced sales"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2017, which one was greater: the aoci balance for marketable securities or the derivatives?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(1042, 12542)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and from 2014 to that year, what was the change in that aoci balance for all derivatives and marketable securities?",
+      "answer": -25584.0,
+      "answer_raw": "-25584.0",
+      "program": "subtract(-6980, 18604)"
+    }
+  ]
+}

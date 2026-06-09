@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the balance from the start of 2010 to the end of 2012?",
+      "answer": 119.0,
+      "answer_raw": "119.0",
+      "program": "subtract(404, 285)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the increase in 2010 on the positions assumed in acquisitions?",
+      "answer": 4.0,
+      "answer_raw": "4.0",
+      "program": "4"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was that increase in 2012?",
+      "answer": 12.0,
+      "answer_raw": "12.0",
+      "program": "12"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is, then, the total increase on the positions assumed in acquisitions for the entire period, considering there was no such increase in 2011?",
+      "answer": 16.0,
+      "answer_raw": "16.0",
+      "program": "subtract(404, 285), add(4, 12)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does this total increase represent in relation to that balance change over the whole three year period, in percentage?",
+      "answer": 0.13445,
+      "answer_raw": "0.13445",
+      "program": "subtract(404, 285), add(4, 12), divide(#1, #0)"
+    }
+  ]
+}

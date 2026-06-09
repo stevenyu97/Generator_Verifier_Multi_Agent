@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions , for 2013 and 2012 , what was average tier 1 capital?\\\\n",
+      "answer": 69724.0,
+      "answer_raw": "69724.0",
+      "program": "table_average(tier 1 capital, none)"
+    }
+  ]
+}

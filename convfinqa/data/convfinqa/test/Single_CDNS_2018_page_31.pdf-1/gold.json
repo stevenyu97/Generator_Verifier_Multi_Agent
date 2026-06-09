@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in price of the s&p 500 from 2015 to 2016?",
+      "answer": 18.77,
+      "answer_raw": "18.77",
+      "program": "subtract(129.05, 110.28)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is 100000 divided by 100?",
+      "answer": 1000.0,
+      "answer_raw": "1000.0",
+      "program": "subtract(129.05, 110.28), divide(100000, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the product of the change by the quotient?",
+      "answer": 18770.0,
+      "answer_raw": "18770.0",
+      "program": "subtract(129.05, 110.28), divide(100000, const_100), multiply(#1, #0)"
+    }
+  ]
+}

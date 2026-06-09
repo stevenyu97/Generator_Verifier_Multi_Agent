@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the review of the simultaneous investments of the jpmorgan chase common stock and in each of the above indices what was the performance ratio of the jpmorgan chase compared to kbw bank index",
+      "answer": 1.15258,
+      "answer_raw": "1.15258",
+      "program": "divide(298.31, 258.82)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "with no additional approvals if the rate of issuance under the restricted stock plan for non-management directors continues how many years of stock to issue remain?",
+      "answer": 11.21302,
+      "answer_raw": "11.21302",
+      "program": "add(12228, 2038), divide(159965, #0)"
+    }
+  ]
+}

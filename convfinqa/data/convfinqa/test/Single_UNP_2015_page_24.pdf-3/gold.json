@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in free cash flow between 2015 and 2014",
+      "answer": -980.0,
+      "answer_raw": "-980.0",
+      "program": "subtract(524, 1504)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and as a percentage change?",
+      "answer": -0.6516,
+      "answer_raw": "-0.6516",
+      "program": "subtract(524, 1504), divide(#0, 1504)"
+    }
+  ]
+}

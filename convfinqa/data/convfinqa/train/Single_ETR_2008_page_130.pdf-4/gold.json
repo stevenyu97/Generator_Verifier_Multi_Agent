@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net difference in debt maturities between 2011 and 2012?",
+      "answer": 2728092.0,
+      "answer_raw": "2728092.0",
+      "program": "subtract(3625459, 897367)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value of debt maturities in 2011?",
+      "answer": 897367.0,
+      "answer_raw": "897367.0",
+      "program": "897367"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "now, what is the percent difference?",
+      "answer": 3.04011,
+      "answer_raw": "3.04011",
+      "program": "subtract(3625459, 897367), divide(#0, 897367)"
+    }
+  ]
+}

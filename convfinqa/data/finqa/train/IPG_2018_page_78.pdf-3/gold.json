@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average price at issuance?",
+      "answer": 498.55,
+      "answer_raw": "498.55",
+      "program": "divide(1994.2, const_4)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 31 , 2015 , what percent of the environmental-related reserves related to environmental-related asset retirement obligations ?",
+      "answer": 0.65021,
+      "answer_raw": "0.65021",
+      "program": "divide(15.8, 24.3)"
+    }
+  ]
+}

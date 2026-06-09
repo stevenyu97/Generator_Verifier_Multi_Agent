@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "is the weighted average useful life ( years ) greater for purchased technology than customer contracts and relationships?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(6, 10)"
+    }
+  ]
+}

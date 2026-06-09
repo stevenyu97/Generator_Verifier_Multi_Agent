@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2017 , what was the total net losses for the period ? ( $ )",
+      "answer": 383.0,
+      "answer_raw": "383.0",
+      "program": "add(366, 17)"
+    }
+  ]
+}

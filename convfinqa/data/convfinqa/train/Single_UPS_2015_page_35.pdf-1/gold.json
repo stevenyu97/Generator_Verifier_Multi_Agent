@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the performance value of the ups class b common stock in 2015?",
+      "answer": 160.61,
+      "answer_raw": "160.61",
+      "program": "160.61"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the change in that performance from 2010 to 2015?",
+      "answer": 60.61,
+      "answer_raw": "60.61",
+      "program": "subtract(160.61, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does this change represent in relation to that performance value in 2010?",
+      "answer": 0.6061,
+      "answer_raw": "0.6061",
+      "program": "subtract(160.61, const_100), divide(#0, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "JPM/2010/page_197.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "jpmorgan chase & co./2010 annual report 197 the following table shows the current credit risk of derivative receivables after netting adjustments , and the current liquidity risk of derivative payables after netting adjustments , as of december 31 , 2010 and 2009. ."
+    ],
+    "post_text": [
+      "in addition to the collateral amounts reflected in the table above , at december 31 , 2010 and 2009 , the firm had received liquid securi- ties and other cash collateral in the amount of $ 16.5 billion and $ 15.5 billion , respectively , and had posted $ 10.9 billion and $ 11.7 billion , respectively .",
+      "the firm also receives and delivers collateral at the initiation of derivative transactions , which is available as secu- rity against potential exposure that could arise should the fair value of the transactions move in the firm 2019s or client 2019s favor , respectively .",
+      "furthermore , the firm and its counterparties hold collateral related to contracts that have a non-daily call frequency for collateral to be posted , and collateral that the firm or a counterparty has agreed to return but has not yet settled as of the reporting date .",
+      "at december 31 , 2010 and 2009 , the firm had received $ 18.0 billion and $ 16.9 billion , respectively , and delivered $ 8.4 billion and $ 5.8 billion , respectively , of such additional collateral .",
+      "these amounts were not netted against the derivative receivables and payables in the table above , because , at an individual counterparty level , the collateral exceeded the fair value exposure at december 31 , 2010 and 2009 .",
+      "credit derivatives credit derivatives are financial instruments whose value is derived from the credit risk associated with the debt of a third-party issuer ( the reference entity ) and which allow one party ( the protection purchaser ) to transfer that risk to another party ( the protection seller ) .",
+      "credit derivatives expose the protection purchaser to the creditworthiness of the protection seller , as the protection seller is required to make payments under the contract when the reference entity experiences a credit event , such as a bankruptcy , a failure to pay its obligation or a restructuring .",
+      "the seller of credit protection receives a premium for providing protection but has the risk that the underlying instrument referenced in the contract will be subject to a credit event .",
+      "the firm is both a purchaser and seller of protection in the credit derivatives market and uses these derivatives for two primary purposes .",
+      "first , in its capacity as a market-maker in the dealer/client business , the firm actively risk manages a portfolio of credit derivatives by purchasing and selling credit protection , pre- dominantly on corporate debt obligations , to meet the needs of customers .",
+      "as a seller of protection , the firm 2019s exposure to a given reference entity may be offset partially , or entirely , with a contract to purchase protection from another counterparty on the same or similar reference entity .",
+      "second , the firm uses credit derivatives to mitigate credit risk associated with its overall derivative receivables and traditional commercial credit lending exposures ( loans and unfunded commitments ) as well as to manage its exposure to residential and commercial mortgages .",
+      "see note 3 on pages 170 2013 187 of this annual report for further information on the firm 2019s mortgage-related exposures .",
+      "in accomplishing the above , the firm uses different types of credit derivatives .",
+      "following is a summary of various types of credit derivatives .",
+      "credit default swaps credit derivatives may reference the credit of either a single refer- ence entity ( 201csingle-name 201d ) or a broad-based index .",
+      "the firm purchases and sells protection on both single- name and index- reference obligations .",
+      "single-name cds and index cds contracts are otc derivative contracts .",
+      "single-name cds are used to manage the default risk of a single reference entity , while index cds con- tracts are used to manage the credit risk associated with the broader credit markets or credit market segments .",
+      "like the s&p 500 and other market indices , a cds index comprises a portfolio of cds across many reference entities .",
+      "new series of cds indices are periodically established with a new underlying portfolio of reference entities to reflect changes in the credit markets .",
+      "if one of the refer- ence entities in the index experiences a credit event , then the reference entity that defaulted is removed from the index .",
+      "cds can also be referenced against specific portfolios of reference names or against customized exposure levels based on specific client de- mands : for example , to provide protection against the first $ 1 million of realized credit losses in a $ 10 million portfolio of expo- sure .",
+      "such structures are commonly known as tranche cds .",
+      "for both single-name cds contracts and index cds contracts , upon the occurrence of a credit event , under the terms of a cds contract neither party to the cds contract has recourse to the reference entity .",
+      "the protection purchaser has recourse to the protection seller for the difference between the face value of the cds contract and the fair value of the reference obligation at the time of settling the credit derivative contract , also known as the recovery value .",
+      "the protection purchaser does not need to hold the debt instrument of the underlying reference entity in order to receive amounts due under the cds contract when a credit event occurs .",
+      "credit-related notes a credit-related note is a funded credit derivative where the issuer of the credit-related note purchases from the note investor credit protec- tion on a referenced entity .",
+      "under the contract , the investor pays the issuer the par value of the note at the inception of the transaction , and in return , the issuer pays periodic payments to the investor , based on the credit risk of the referenced entity .",
+      "the issuer also repays the investor the par value of the note at maturity unless the reference entity experiences a specified credit event .",
+      "if a credit event ."
+    ],
+    "table": [
+      [
+        "december 31 ( in millions )",
+        "derivative receivables 2010",
+        "derivative receivables 2009",
+        "derivative receivables 2010",
+        "2009"
+      ],
+      [
+        "gross derivative fair value",
+        "$ 1529412",
+        "$ 1565518",
+        "$ 1485109",
+        "$ 1519183"
+      ],
+      [
+        "netting adjustment 2013offsettingreceivables/payables",
+        "-1376969 ( 1376969 )",
+        "-1419840 ( 1419840 )",
+        "-1376969 ( 1376969 )",
+        "-1419840 ( 1419840 )"
+      ],
+      [
+        "netting adjustment 2013 cashcollateral received/paid",
+        "-71962 ( 71962 )",
+        "-65468 ( 65468 )",
+        "-38921 ( 38921 )",
+        "-39218 ( 39218 )"
+      ],
+      [
+        "carrying value onconsolidated balancesheets",
+        "$ 80481",
+        "$ 80210",
+        "$ 69219",
+        "$ 60125"
+      ]
+    ],
+    "questions": [
+      "what was the maximum amount of credit risk booked in the last four years , in billions?"
+    ]
+  }
+}

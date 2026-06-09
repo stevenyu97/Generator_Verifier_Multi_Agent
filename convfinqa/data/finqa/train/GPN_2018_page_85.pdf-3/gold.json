@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total outstanding long-term debt is included in the current liabilities section as of december 31 , 2018?",
+      "answer": 0.02403,
+      "answer_raw": "0.02403",
+      "program": "divide(124176, 5167643)"
+    }
+  ]
+}

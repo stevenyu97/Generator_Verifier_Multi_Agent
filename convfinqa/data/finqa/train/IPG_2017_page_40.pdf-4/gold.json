@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2018 , how many approximate shares would have been held for the entire year to pay the approximate $ 320 in dividends over the 12 months?",
+      "answer": 380.95238,
+      "answer_raw": "380.95238",
+      "program": "multiply(0.21, const_4), divide(320, #0)"
+    }
+  ]
+}

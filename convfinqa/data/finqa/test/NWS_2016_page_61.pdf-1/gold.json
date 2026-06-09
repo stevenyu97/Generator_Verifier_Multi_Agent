@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what on the net interest reduction of 13 million or 23% ( 23 % ) compared to 2015 what was the interest amount in 2016 in millions",
+      "answer": 69.52174,
+      "answer_raw": "69.52174",
+      "program": "divide(13, 23%), add(#0, 13)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the total occupancy and facility costs in 2007 , in millions of dollars?",
+      "answer": 150.0,
+      "answer_raw": "150.0",
+      "program": "divide(18, 12%)"
+    }
+  ]
+}

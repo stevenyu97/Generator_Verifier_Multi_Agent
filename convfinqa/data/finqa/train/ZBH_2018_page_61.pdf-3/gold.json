@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of aoci at december 31 , 2018 is attributed to foreign currency translation?",
+      "answer": 0.16702,
+      "answer_raw": "0.16702",
+      "program": "divide(-31.3, -187.4)"
+    }
+  ]
+}

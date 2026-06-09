@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much money can be deducted from income taxes from the 2014 to 2016 , not counting goodwill and intangible assets?",
+      "answer": 378.7,
+      "answer_raw": "378.7",
+      "program": "add(134.5, 114.1), add(130.1, #0)"
+    }
+  ]
+}

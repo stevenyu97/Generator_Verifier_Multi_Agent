@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the quotient of 2018 interest expense over 2017?",
+      "answer": 1.08209,
+      "answer_raw": "1.08209",
+      "program": "divide(130.5, 120.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that value less 1?",
+      "answer": 0.08209,
+      "answer_raw": "0.08209",
+      "program": "divide(130.5, 120.6), subtract(#0, const_1)"
+    }
+  ]
+}

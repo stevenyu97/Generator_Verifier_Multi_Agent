@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "on december 20, 2005, what percentage did the total of net tangible assets acquired represent in relation to the purchase price of corphealth , inc.?",
+      "answer": 0.1107,
+      "answer_raw": "0.1107",
+      "program": "divide(const_6, 54.2)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and on that same date, what were the cash and cash equivalents as a portion of the net tangible assets acquired?",
+      "answer": 1.72851,
+      "answer_raw": "1.72851",
+      "program": "divide(92116, 53292)"
+    }
+  ]
+}

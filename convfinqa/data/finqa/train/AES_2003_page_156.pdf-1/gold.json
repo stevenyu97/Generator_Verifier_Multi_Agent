@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at the end of 2003 , what would total proceeds be for the company if all remaining shares in the plan were exercised?",
+      "answer": 554686327.89,
+      "answer_raw": "554686327.89",
+      "program": "multiply(40815771, 13.59)"
+    }
+  ]
+}

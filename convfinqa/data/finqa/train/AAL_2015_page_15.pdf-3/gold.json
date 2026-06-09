@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total active full-time equivalent employees consisted of passenger service personnel?",
+      "answer": 0.19916,
+      "answer_raw": "0.19916",
+      "program": "divide(23600, 118500)"
+    }
+  ]
+}

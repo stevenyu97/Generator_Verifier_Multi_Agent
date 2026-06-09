@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was total shareholders 2019 equity common equity dividends declared per common share in 2016 , 2015 and 2014?",
+      "answer": 7.4,
+      "answer_raw": "7.4",
+      "program": "add(2.60, 2.55), add(#0, 2.25)"
+    }
+  ]
+}

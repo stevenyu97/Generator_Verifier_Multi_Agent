@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the portion of total number of facilities located in the united states?",
+      "answer": 0.4881,
+      "answer_raw": "0.4881",
+      "program": "add(40, 1), divide(#0, 84)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net revenue in 2004?",
+      "answer": 4244.0,
+      "answer_raw": "4244.0",
+      "program": "4244.0"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2003?",
+      "answer": 4214.5,
+      "answer_raw": "4214.5",
+      "program": "4214.5"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 29.5,
+      "answer_raw": "29.5",
+      "program": "subtract(4244.0, 4214.5)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what growth rate does this represent?",
+      "answer": 0.007,
+      "answer_raw": "0.007",
+      "program": "subtract(4244.0, 4214.5), divide(#0, 4214.5)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the net change in net revenue from 2003 to 2004?",
+      "answer": 29.5,
+      "answer_raw": "29.5",
+      "program": "subtract(4244.0, 4214.5)"
+    }
+  ]
+}

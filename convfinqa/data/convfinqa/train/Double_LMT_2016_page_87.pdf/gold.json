@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the total assets of the disposal group were from goodwill?",
+      "answer": 0.69758,
+      "answer_raw": "0.69758",
+      "program": "divide(2881, 4130)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage of the total assets of the disposal group were from receivables?",
+      "answer": 0.1954,
+      "answer_raw": "0.1954",
+      "program": "divide(807, 4130)"
+    }
+  ]
+}

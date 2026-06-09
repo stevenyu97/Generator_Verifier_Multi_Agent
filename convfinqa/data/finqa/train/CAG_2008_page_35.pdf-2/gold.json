@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total gross profit in fiscal 2008 was contributed by consumer foods?",
+      "answer": 0.66348,
+      "answer_raw": "0.66348",
+      "program": "divide(1802, 2716)"
+    }
+  ]
+}

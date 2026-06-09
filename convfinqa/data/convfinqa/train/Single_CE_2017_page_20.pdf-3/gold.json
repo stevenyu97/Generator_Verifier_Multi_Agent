@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the r&d expense from 2016 to 2017?",
+      "answer": 150.0,
+      "answer_raw": "150.0",
+      "program": "add(72, 78)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what us the r&d expense in 2015?",
+      "answer": 119.0,
+      "answer_raw": "119.0",
+      "program": "119"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total for three years?",
+      "answer": 269.0,
+      "answer_raw": "269.0",
+      "program": "add(72, 78), add(#0, 119)"
+    }
+  ]
+}

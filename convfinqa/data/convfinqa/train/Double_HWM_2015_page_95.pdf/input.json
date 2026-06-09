@@ -1,0 +1,57 @@
+{
+  "input": {
+    "id": "Double_HWM/2015/page_95.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "third-party sales for this segment increased 4% ( 4 % ) in 2014 compared with 2013 , primarily due to higher volumes and the acquisition of firth rixson ( $ 81 2014see above ) .",
+      "the higher volumes were mostly related to the aerospace ( commercial ) and commercial transportation end markets , somewhat offset by lower volumes in the industrial gas turbine end market .",
+      "atoi for the engineered products and solutions segment increased $ 16 in 2015 compared with 2014 , principally the result of net productivity improvements across most businesses , a positive contribution from inorganic growth , and overall higher volumes in this segment 2019s organic businesses .",
+      "these positive impacts were partially offset by unfavorable price/product mix , higher costs related to growth projects , and net unfavorable foreign currency movements , primarily related to a weaker euro .",
+      "atoi for this segment climbed $ 10 in 2014 compared with 2013 , mainly due to net productivity improvements across all businesses and overall higher volumes , partially offset by higher costs , primarily labor , and unfavorable product in 2016 , demand in the commercial aerospace end market is expected to remain strong , driven by significant order backlog .",
+      "also , third-party sales will include a positive impact due to a full year of sales related to the acquisitions of rti and tital .",
+      "additionally , net productivity improvements are anticipated while pricing pressure across all markets is expected .",
+      "transportation and construction solutions ."
+    ],
+    "post_text": [
+      "this segment represents a portion of alcoa 2019s downstream operations and produces products that are used mostly in the nonresidential building and construction and commercial transportation end markets .",
+      "such products include integrated aluminum structural systems , architectural extrusions , and forged aluminum commercial vehicle wheels , which are sold directly to customers and through distributors .",
+      "a small part of this segment also produces aluminum products for the industrial products end market .",
+      "generally , the sales and costs and expenses of this segment are transacted in the local currency of the respective operations , which are mostly the u.s .",
+      "dollar , the euro , and the brazilian real .",
+      "third-party sales for the transportation and construction solutions segment decreased 7% ( 7 % ) in 2015 compared with 2014 , primarily driven by unfavorable foreign currency movements , principally caused by a weaker euro and brazilian real , and lower volume related to the building and construction end market , somewhat offset by higher volume related to the commercial transportation end market .",
+      "third-party sales for this segment increased 4% ( 4 % ) in 2014 compared with 2013 , mostly the result of higher volume related to the commercial transportation and building and construction end markets , somewhat offset by lower volume in the industrial products and market .",
+      "atoi for the transportation and construction solutions segment declined $ 14 in 2015 compared with 2014 , mainly due to higher costs , net unfavorable foreign currency movements , primarily related to a weaker euro and brazilian real , and unfavorable price/product mix .",
+      "these negative impacts were mostly offset by net productivity improvements across all businesses .",
+      "atoi for this segment improved $ 13 in 2014 compared with 2013 , principally attributable to net productivity improvements across all businesses and overall higher volumes , partially offset by unfavorable product mix and higher costs , primarily labor .",
+      "in 2016 , the non-residential building and construction end market is expected to improve through growth in north america but will be slightly offset by overall weakness in europe .",
+      "also , north america build rates in the commercial ."
+    ],
+    "table": [
+      [
+        "",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "third-party sales",
+        "$ 1882",
+        "$ 2021",
+        "$ 1951"
+      ],
+      [
+        "atoi",
+        "$ 166",
+        "$ 180",
+        "$ 167"
+      ]
+    ],
+    "questions": [
+      "what was the contribution of the acquisition of firth rixson in the third-party sales in 2014?",
+      "and what was the total of those sales?",
+      "how much, then, in percentage, did that contribution represent in relation to this total?",
+      "and from 2013 to that year, what was the change in the total of net productivity and overall higher volumes concerning the atoi as a portion of that total in 2013?",
+      "how much is that in percentage?"
+    ]
+  }
+}

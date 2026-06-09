@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in operating income from 2014 to 2015?",
+      "answer": 0.04247,
+      "answer_raw": "0.04247",
+      "program": "subtract(4664, 4474), divide(#0, 4474)"
+    }
+  ]
+}

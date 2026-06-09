@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the working capital of bwe at the time of the acquisition?",
+      "answer": 184.5,
+      "answer_raw": "184.5",
+      "program": "subtract(288.4, 103.9)"
+    }
+  ]
+}

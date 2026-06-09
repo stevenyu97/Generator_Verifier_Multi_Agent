@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the year ended december 31 , 2011 , diluted earnings per share excludes the impact of 4.3 million potential common shares as their inclusion would have had an anti-dilutive effect . what would the weighted-average shares be if these shares were not excluded?",
+      "answer": 149.2,
+      "answer_raw": "149.2",
+      "program": "add(144.9, 4.3)"
+    }
+  ]
+}

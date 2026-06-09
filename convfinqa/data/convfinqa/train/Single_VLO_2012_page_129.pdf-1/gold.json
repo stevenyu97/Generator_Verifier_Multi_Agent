@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the volume of futures 2013 short?",
+      "answer": 4857.0,
+      "answer_raw": "4857.0",
+      "program": "4857"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that times 2?",
+      "answer": 9714.0,
+      "answer_raw": "9714.0",
+      "program": "multiply(4857, const_2)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the volume of physical contracts - long?",
+      "answer": 3805.0,
+      "answer_raw": "3805.0",
+      "program": "3805"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the doubled volume of shorts less the volume of physical contracts - long?",
+      "answer": 5909.0,
+      "answer_raw": "5909.0",
+      "program": "multiply(4857, const_2), subtract(#0, 3805)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is that less futures 2013 long?",
+      "answer": 4857.0,
+      "answer_raw": "4857.0",
+      "program": "multiply(4857, const_2), subtract(#0, 3805), subtract(#1, 1052)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is that divided by the volume of 2013 long?",
+      "answer": 4.61692,
+      "answer_raw": "4.61692",
+      "program": "multiply(4857, const_2), subtract(#0, 3805), subtract(#1, 1052), divide(#2, 1052)"
+    }
+  ]
+}

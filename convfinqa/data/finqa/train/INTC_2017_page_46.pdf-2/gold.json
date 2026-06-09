@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total contractual obligations do long-term debt obligations make up as of december 30 2017?",
+      "answer": 0.64109,
+      "answer_raw": "0.64109",
+      "program": "divide(42278, 65947)"
+    }
+  ]
+}

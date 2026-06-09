@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total number of securities approved by security holders?",
+      "answer": 5706308.0,
+      "answer_raw": "5706308.0",
+      "program": "add(1424356, 4281952)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what portion of number of securities is to be issued upon exercise of outstanding options warrants and rights?",
+      "answer": 0.24961,
+      "answer_raw": "0.24961",
+      "program": "add(1424356, 4281952), divide(1424356, #0)"
+    }
+  ]
+}

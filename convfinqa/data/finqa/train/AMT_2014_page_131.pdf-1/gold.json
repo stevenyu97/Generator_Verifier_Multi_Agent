@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much of the of contingent consideration for acquisitions was actually settled in 2014?",
+      "answer": 0.06349,
+      "answer_raw": "0.06349",
+      "program": "divide(0.4, 6.3)"
+    }
+  ]
+}

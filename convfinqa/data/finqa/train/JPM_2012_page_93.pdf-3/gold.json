@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2012 what was the ratio of the mortgage loans ( average ) to mortgage loans ( period-end ) \\\\n",
+      "answer": 1.45531,
+      "answer_raw": "1.45531",
+      "program": "divide(10241, 7037)"
+    }
+  ]
+}

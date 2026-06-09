@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amount of shares paid out in 2016 in millions",
+      "answer": 148.27586,
+      "answer_raw": "148.27586",
+      "program": "divide(172, 1.16)"
+    }
+  ]
+}

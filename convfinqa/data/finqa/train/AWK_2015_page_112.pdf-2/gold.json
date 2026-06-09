@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much of the additional costs from the california state coastal conservancy is awk expected to collect in 2015?",
+      "answer": 0.23529,
+      "answer_raw": "0.23529",
+      "program": "divide(8, 34)"
+    }
+  ]
+}

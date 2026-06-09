@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "BDX/2019/page_45.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "debt-related activities certain measures relating to our total debt were as follows: ."
+    ],
+    "post_text": [
+      "( a ) represents shareholders 2019 equity , net non-current deferred income tax liabilities , and debt .",
+      "the decrease in short-term debt as a percentage of total debt at september 30 , 2019 was primarily driven by the payment of certain short-term notes as well as the issuance of long-term notes in 2019 .",
+      "the increase in short-term debt as a percentage of total debt at september 30 , 2018 was primarily driven by the reclassification of certain notes from long-term to short-term .",
+      "additional disclosures regarding our debt instruments are provided in note 16 to the consolidated financial statements contained in item 8 .",
+      "financial statements and supplementary data .",
+      "cash and short-term investments at september 30 , 2019 , total worldwide cash and short-term investments were $ 620 million , including restricted cash , which was primarily held in jurisdictions outside of the united states .",
+      "financing facilities in may 2017 , we entered into a five-year senior unsecured revolving credit facility which provides borrowing of up to $ 2.25 billion .",
+      "this facility will expire in december 2022 .",
+      "we are able to issue up to $ 100 million in letters of credit under this new revolving credit facility and it also includes a provision that enables bd , subject to additional commitments made by the lenders , to access up to an additional $ 500 million in financing through the facility for a maximum aggregate commitment of $ 2.75 billion .",
+      "we use proceeds from this facility to fund general corporate needs .",
+      "borrowings outstanding under the revolving credit facility at september 30 , 2019 were $ 485 million .",
+      "the agreement for our revolving credit facility contained the following financial covenants .",
+      "we were in compliance with these covenants as of september 30 , 2019 .",
+      "2022 we are required to maintain an interest expense coverage ratio of not less than 4-to-1 as of the last day of each fiscal quarter .",
+      "2022 we are required to have a leverage coverage ratio of no more than : 25e6 6-to-1 from the closing date of the bard acquisition until and including the first fiscal quarter- end thereafter ; 25e6 5.75-to-1 for the subsequent four fiscal quarters thereafter ; 25e6 5.25-to-1 for the subsequent four fiscal quarters thereafter ; 25e6 4.5-to-1 for the subsequent four fiscal quarters thereafter ; 25e6 4-to-1 for the subsequent four fiscal quarters thereafter ; 25e6 3.75-to-1 thereafter .",
+      "we also have informal lines of credit outside the united states .",
+      "during the fourth quarter of 2019 , the company fully repaid its borrowings outstanding on a 364-day senior unsecured term loan facility that the company entered in september 2018 .",
+      "the company had no commercial paper borrowings outstanding as of september 30 , 2019 .",
+      "we may , from time to time , sell certain trade receivable assets to third parties as we manage working capital over the normal course of our business activities. ."
+    ],
+    "table": [
+      [
+        "",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      [
+        "total debt ( millions of dollars )",
+        "$ 19390",
+        "$ 21496",
+        "$ 18870"
+      ],
+      [
+        "short-term debt as a percentage of total debt",
+        "6.8% ( 6.8 % )",
+        "12.1% ( 12.1 % )",
+        "1.1% ( 1.1 % )"
+      ],
+      [
+        "weighted average cost of total debt",
+        "2.9% ( 2.9 % )",
+        "3.2% ( 3.2 % )",
+        "3.3% ( 3.3 % )"
+      ],
+      [
+        "total debt as a percentage of total capital ( a )",
+        "45.6% ( 45.6 % )",
+        "47.8% ( 47.8 % )",
+        "57.5% ( 57.5 % )"
+      ]
+    ],
+    "questions": [
+      "in 2019 what was the percent of the financing structure that was based on the equity"
+    ]
+  }
+}

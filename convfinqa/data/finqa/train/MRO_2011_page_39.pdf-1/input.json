@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "MRO/2011/page_39.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "2022 increased proved liquid hydrocarbon , including synthetic crude oil , reserves to 78 percent from 75 percent of proved reserves 2022 increased e&p net sales volumes , excluding libya , by 7 percent 2022 recorded 96 percent average operational availability for all major company-operated e&p assets , compared to 94 percent in 2010 2022 completed debottlenecking work that increased crude oil production capacity at the alvheim fpso in norway to 150000 gross bbld from the previous capacity of 142000 gross bbld and the original 2008 capacity of 120000 gross bbld 2022 announced two non-operated discoveries in the iraqi kurdistan region and began drilling in poland 2022 completed aosp expansion 1 , including the start-up of the expanded scotford upgrader , realizing an increase in net synthetic crude oil sales volumes of 48 percent 2022 completed dispositions of non-core assets and interests in acreage positions for net proceeds of $ 518 million 2022 repurchased 12 million shares of our common stock at a cost of $ 300 million 2022 retired $ 2498 million principal of our long-term debt 2022 resumed limited production in libya in the fourth quarter of 2011 following the february 2011 temporary suspension of operations consolidated results of operations : 2011 compared to 2010 due to the spin-off of our downstream business on june 30 , 2011 , which is reported as discontinued operations , income from continuing operations is more representative of marathon oil as an independent energy company .",
+      "consolidated income from continuing operations before income taxes was 9 percent higher in 2011 than in 2010 , largely due to higher liquid hydrocarbon prices .",
+      "this improvement was offset by increased income taxes primarily the result of excess foreign tax credits generated during 2011 that we do not expect to utilize in the future .",
+      "the effective income tax rate for continuing operations was 61 percent in 2011 compared to 54 percent in 2010 .",
+      "revenues are summarized in the following table : ( in millions ) 2011 2010 ."
+    ],
+    "post_text": [
+      "e&p segment revenues increased $ 2247 million from 2010 to 2011 , primarily due to higher average liquid hydrocarbon realizations , which were $ 99.37 per bbl in 2011 , a 31 percent increase over 2010 .",
+      "revenues in 2010 included net pre-tax gains of $ 95 million on derivative instruments intended to mitigate price risk on future sales of liquid hydrocarbons and natural gas .",
+      "included in our e&p segment are supply optimization activities which include the purchase of commodities from third parties for resale .",
+      "supply optimization serves to aggregate volumes in order to satisfy transportation commitments and to achieve flexibility within product types and delivery points .",
+      "see the cost of revenues discussion as revenues from supply optimization approximate the related costs .",
+      "higher average crude oil prices in 2011 compared to 2010 increased revenues related to supply optimization .",
+      "revenues from the sale of our u.s .",
+      "production are higher in 2011 primarily as a result of higher liquid hydrocarbon and natural gas price realizations , but sales volumes declined. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2011",
+        "2010"
+      ],
+      [
+        "e&p",
+        "$ 13029",
+        "$ 10782"
+      ],
+      [
+        "osm",
+        "1588",
+        "833"
+      ],
+      [
+        "ig",
+        "93",
+        "150"
+      ],
+      [
+        "segment revenues",
+        "14710",
+        "11765"
+      ],
+      [
+        "elimination of intersegment revenues",
+        "-47 ( 47 )",
+        "-75 ( 75 )"
+      ],
+      [
+        "total revenues",
+        "$ 14663",
+        "$ 11690"
+      ]
+    ],
+    "questions": [
+      "by how much did total revenues increase from 2010 to 2011?"
+    ]
+  }
+}

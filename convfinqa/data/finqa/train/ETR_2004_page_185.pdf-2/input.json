@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "ETR/2004/page_185.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy gulf states , inc .",
+      "management's financial discussion and analysis ."
+    ],
+    "post_text": [
+      "the volume/weather variance resulted primarily from an increase of 1179 gwh in electricity usage in the industrial sector .",
+      "billed usage also increased a total of 291 gwh in the residential , commercial , and governmental sectors .",
+      "the increase in net wholesale revenue is primarily due to an increase in sales volume to municipal and co-op customers .",
+      "summer capacity charges variance is due to the amortization in 2003 of deferred capacity charges for the summer of 2001 compared to the absence of the amortization in 2004 .",
+      "the amortization of these capacity charges began in june 2002 and ended in may 2003 .",
+      "the price applied to unbilled sales variance resulted primarily from an increase in the fuel price applied to unbilled sales .",
+      "fuel recovery revenues represent an under-recovery of fuel charges that are recovered in base rates .",
+      "entergy gulf states recorded $ 22.6 million of provisions in 2004 for potential rate refunds .",
+      "these provisions are not included in the net revenue table above because they are more than offset by provisions recorded in 2003 .",
+      "gross operating revenues , fuel and purchased power expenses , and other regulatory credits gross operating revenues increased primarily due to an increase of $ 187.8 million in fuel cost recovery revenues as a result of higher fuel rates in both the louisiana and texas jurisdictions .",
+      "the increases in volume/weather and wholesale revenue , discussed above , also contributed to the increase .",
+      "fuel and purchased power expenses increased primarily due to : 2022 increased recovery of deferred fuel costs due to higher fuel rates ; 2022 increases in the market prices of natural gas , coal , and purchased power ; and 2022 an increase in electricity usage , discussed above .",
+      "other regulatory credits increased primarily due to the amortization in 2003 of deferred capacity charges for the summer of 2001 compared to the absence of amortization in 2004 .",
+      "the amortization of these charges began in june 2002 and ended in may 2003 .",
+      "2003 compared to 2002 net revenue , which is entergy gulf states' measure of gross margin , consists of operating revenues net of : 1 ) fuel , fuel-related , and purchased power expenses and 2 ) other regulatory credits .",
+      "following is an analysis of the change in net revenue comparing 2003 to 2002. ."
+    ],
+    "table": [
+      [
+        "",
+        "( in millions )"
+      ],
+      [
+        "2003 net revenue",
+        "$ 1110.1"
+      ],
+      [
+        "volume/weather",
+        "26.7"
+      ],
+      [
+        "net wholesale revenue",
+        "13.0"
+      ],
+      [
+        "summer capacity charges",
+        "5.5"
+      ],
+      [
+        "price applied to unbilled sales",
+        "4.8"
+      ],
+      [
+        "fuel recovery revenues",
+        "-14.2 ( 14.2 )"
+      ],
+      [
+        "other",
+        "3.9"
+      ],
+      [
+        "2004 net revenue",
+        "$ 1149.8"
+      ]
+    ],
+    "questions": [
+      "what are the provisions for potential rate refunds as a percentage of net revenue in 2004?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of income taxes as part of the the total other accrued liabilities in 2012",
+      "answer": 0.07906,
+      "answer_raw": "0.07906",
+      "program": "divide(19.6, 247.9)"
+    }
+  ]
+}

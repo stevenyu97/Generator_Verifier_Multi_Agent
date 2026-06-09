@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total amount of dollars received from aerospace end market sales in 2015?",
+      "answer": 4006.5,
+      "answer_raw": "4006.5",
+      "program": "multiply(5342, 75%)"
+    }
+  ]
+}

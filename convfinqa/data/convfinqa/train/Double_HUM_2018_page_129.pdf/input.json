@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "Double_HUM/2018/page_129.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "humana inc .",
+      "notes to consolidated financial statements 2014 ( continued ) 15 .",
+      "stockholders 2019 equity dividends the following table provides details of dividend payments , excluding dividend equivalent rights , in 2016 , 2017 , and 2018 under our board approved quarterly cash dividend policy : payment amount per share amount ( in millions ) ."
+    ],
+    "post_text": [
+      "on november 2 , 2018 , the board declared a cash dividend of $ 0.50 per share that was paid on january 25 , 2019 to stockholders of record on december 31 , 2018 , for an aggregate amount of $ 68 million .",
+      "declaration and payment of future quarterly dividends is at the discretion of our board and may be adjusted as business needs or market conditions change .",
+      "in february 2019 , the board declared a cash dividend of $ 0.55 per share payable on april 26 , 2019 to stockholders of record on march 29 , 2019 .",
+      "stock repurchases our board of directors may authorize the purchase of our common shares .",
+      "under our share repurchase authorization , shares may have been purchased from time to time at prevailing prices in the open market , by block purchases , through plans designed to comply with rule 10b5-1 under the securities exchange act of 1934 , as amended , or in privately-negotiated transactions ( including pursuant to accelerated share repurchase agreements with investment banks ) , subject to certain regulatory restrictions on volume , pricing , and timing .",
+      "on february 14 , 2017 , our board of directors authorized the repurchase of up to $ 2.25 billion of our common shares expiring on december 31 , 2017 , exclusive of shares repurchased in connection with employee stock plans .",
+      "on february 16 , 2017 , we entered into an accelerated share repurchase agreement , the february 2017 asr , with goldman , sachs & co .",
+      "llc , or goldman sachs , to repurchase $ 1.5 billion of our common stock as part of the $ 2.25 billion share repurchase authorized on february 14 , 2017 .",
+      "on february 22 , 2017 , we made a payment of $ 1.5 billion to goldman sachs from available cash on hand and received an initial delivery of 5.83 million shares of our common stock from goldman sachs based on the then current market price of humana common stock .",
+      "the payment to goldman sachs was recorded as a reduction to stockholders 2019 equity , consisting of a $ 1.2 billion increase in treasury stock , which reflected the value of the initial 5.83 million shares received upon initial settlement , and a $ 300 million decrease in capital in excess of par value , which reflected the value of stock held back by goldman sachs pending final settlement of the february 2017 asr .",
+      "upon settlement of the february 2017 asr on august 28 , 2017 , we received an additional 0.84 million shares as determined by the average daily volume weighted-average share price of our common stock during the term of the agreement of $ 224.81 , less a discount and subject to adjustments pursuant to the terms and conditions of the february 2017 asr , bringing the total shares received under this program to 6.67 million .",
+      "in addition , upon settlement we reclassified the $ 300 million value of stock initially held back by goldman sachs from capital in excess of par value to treasury stock .",
+      "subsequent to settlement of the february 2017 asr , we repurchased an additional 3.04 million shares in the open market , utilizing the remaining $ 750 million of the $ 2.25 billion authorization prior to expiration .",
+      "on december 14 , 2017 , our board of directors authorized the repurchase of up to $ 3.0 billion of our common shares expiring on december 31 , 2020 , exclusive of shares repurchased in connection with employee stock plans. ."
+    ],
+    "table": [
+      [
+        "paymentdate",
+        "amountper share",
+        "totalamount ( in millions )"
+      ],
+      [
+        "2016",
+        "$ 1.16",
+        "$ 172"
+      ],
+      [
+        "2017",
+        "$ 1.49",
+        "$ 216"
+      ],
+      [
+        "2018",
+        "$ 1.90",
+        "$ 262"
+      ]
+    ],
+    "questions": [
+      "what was the total value of the shares paid out in 2016, in millions?",
+      "and what was the individual price of those shares?",
+      "what, then, can be concluded to have been the quantity of those shares?",
+      "and two years later, in 2018, concerning the individual price of shares, what percentage of it was due to the cash dividend?"
+    ]
+  }
+}

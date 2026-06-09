@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the total stock based compensation in 2006 for employee retention",
+      "answer": 0.59091,
+      "answer_raw": "0.59091",
+      "program": "divide(13, 22)"
+    }
+  ]
+}

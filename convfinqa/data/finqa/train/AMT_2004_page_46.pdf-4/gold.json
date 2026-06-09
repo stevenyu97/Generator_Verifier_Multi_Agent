@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the fees and cost for the processing of the 7.50% ( 7.50 % ) senior notes due 2012 issued february 2004",
+      "answer": 0.01488,
+      "answer_raw": "0.01488",
+      "program": "subtract(225.0, 221.7), divide(#0, 221.7)"
+    }
+  ]
+}

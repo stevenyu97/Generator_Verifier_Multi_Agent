@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2011what was the percent of system energy future minimum lease payments that was due in 2015",
+      "answer": 0.25565,
+      "answer_raw": "0.25565",
+      "program": "divide(52253, 204395)"
+    }
+  ]
+}

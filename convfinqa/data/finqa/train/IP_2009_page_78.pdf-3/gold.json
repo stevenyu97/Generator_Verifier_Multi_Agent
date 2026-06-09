@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the purchase composition international paper purchased 50% ( 50 % ) of ilim holding s.a for the cash to the notes notes parables",
+      "answer": 7.26667,
+      "answer_raw": "7.26667",
+      "program": "divide(545, 75)"
+    }
+  ]
+}

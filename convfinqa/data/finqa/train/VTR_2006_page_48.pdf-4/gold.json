@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of number of securities to be issued upon exercise of outstanding options warrants and rights compared to number of securities remaining available for future issuance under equity compensation plans?",
+      "answer": 0.11944,
+      "answer_raw": "0.11944",
+      "program": "divide(1136975, 9519081)"
+    }
+  ]
+}

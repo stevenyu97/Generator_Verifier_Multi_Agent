@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in billions , what would 2018 total operating revenues have been without the mexico business?",
+      "answer": 20.332,
+      "answer_raw": "20.332",
+      "program": "divide(22832, const_1000), subtract(#0, 2.5)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "increased license costs are how much of the total year over year cost increases?",
+      "answer": 0.22059,
+      "answer_raw": "0.22059",
+      "program": "divide(12.0, 54.4)"
+    }
+  ]
+}

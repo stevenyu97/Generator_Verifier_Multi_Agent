@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total pre-tax restructuring program cost in millions?",
+      "answer": 257.0,
+      "answer_raw": "257.0",
+      "program": "subtract(83, 17), add(#0, 191)"
+    }
+  ]
+}

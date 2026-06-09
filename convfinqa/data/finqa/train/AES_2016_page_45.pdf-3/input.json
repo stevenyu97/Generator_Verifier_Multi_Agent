@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "AES/2016/page_45.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "31 , 2015 , the price was r$ 218/mwh .",
+      "after the expiration of contract with eletropaulo , tiet ea's strategy is to contract most of its physical guarantee , as described in regulatory framework section below , and sell the remaining portion in the spot market .",
+      "tiet ea's strategy is reassessed from time to time according to changes in market conditions , hydrology and other factors .",
+      "tiet ea has been continuously selling its available energy from 2016 forward through medium-term bilateral contracts of three to five years .",
+      "as of december 31 , 2016 , tiet ea's contracted portfolio position is 95% ( 95 % ) and 88% ( 88 % ) with average prices of r$ 157/ mwh and r$ 159/mwh ( inflation adjusted until december 2016 ) for 2016 and 2017 , respectively .",
+      "as brazil is mostly a hydro-based country with energy prices highly tied to the hydrological situation , the deterioration of the hydrology since the beginning of 2014 caused an increase in energy prices going forward .",
+      "tiet ea is closely monitoring and analyzing system supply conditions to support energy commercialization decisions .",
+      "under the concession agreement , tiet ea has an obligation to increase its capacity by 15% ( 15 % ) .",
+      "tiet ea , as well as other concession generators , have not yet met this requirement due to regulatory , environmental , hydrological and fuel constraints .",
+      "the state of s e3o paulo does not have a sufficient potential for wind power and only has a small remaining potential for hydro projects .",
+      "as such , the capacity increases in the state will mostly be derived from thermal gas capacity projects .",
+      "due to the highly complex process to obtain an environmental license for coal projects , tiet ea decided to fulfill its obligation with gas-fired projects in line with the federal government plans .",
+      "petrobras refuses to supply natural gas and to offer capacity in its pipelines and regasification terminals .",
+      "therefore , there are no regulations for natural gas swaps in place , and it is unfeasible to bring natural gas to aes tiet ea .",
+      "a legal case has been initiated by the state of s e3o paulo requiring the investment to be performed .",
+      "tiet ea is in the process of analyzing options to meet the obligation .",
+      "uruguaiana is a 640 mw gas-fired combined cycle power plant located in the town of uruguaiana in the state of rio grande do sul , commissioned in december 2000 .",
+      "aes manages and has a 46% ( 46 % ) economic interest in the plant with the remaining interest held by bndes .",
+      "the plant's operations were suspended in april 2009 due to the unavailability of gas .",
+      "aes has evaluated several alternatives to bring gas supply on a competitive basis to uruguaiana .",
+      "one of the challenges is the capacity restrictions on the argentinean pipeline , especially during the winter season when gas demand in argentina is very high .",
+      "the plant operated on a short-term basis during february and march 2013 , march through may 2014 , and february through may 2015 due to the short-term supply of lng for the facility .",
+      "the plant did not operate in 2016 .",
+      "uruguaiana continues to work toward securing gas on a long-term basis .",
+      "market structure 2014 brazil has installed capacity of 150136 mw , which is 65% ( 65 % ) hydroelectric , 19% ( 19 % ) thermal and 16% ( 16 % ) renewable ( biomass and wind ) .",
+      "brazil's national grid is divided into four subsystems .",
+      "tiet ea is in the southeast and uruguaiana is in the south subsystems of the national grid .",
+      "regulatory framework 2014 in brazil , the ministry of mines and energy determines the maximum amount of energy that a plant can sell , called physical guarantee , which represents the long-term average expected energy production of the plant .",
+      "under current rules , physical guarantee can be sold to distribution companies through long- term regulated auctions or under unregulated bilateral contracts with large consumers or energy trading companies .",
+      "the national system operator ( \"ons\" ) is responsible for coordinating and controlling the operation of the national grid .",
+      "the ons dispatches generators based on hydrological conditions , reservoir levels , electricity demand and the prices of fuel and thermal generation .",
+      "given the importance of hydro generation in the country , the ons sometimes reduces dispatch of hydro facilities and increases dispatch of thermal facilities to protect reservoir levels in the system .",
+      "in brazil , the system operator controls all hydroelectric generation dispatch and reservoir levels .",
+      "a mechanism known as the energy reallocation mechanism ( \"mre\" ) was created to share hydrological risk across mre hydro generators .",
+      "if the hydro plants generate less than the total mre physical guarantee , the hydro generators may need to purchase energy in the short-term market to fulfill their contract obligations .",
+      "when total hydro generation is higher than the total mre physical guarantee , the surplus is proportionally shared among its participants and they are able to make extra revenue selling the excess energy on the spot market .",
+      "the consequences of unfavorable hydrology are ( i ) thermal plants more expensive to the system being dispatched , ( ii ) lower hydropower generation with deficits in the mre and ( iii ) high spot prices .",
+      "aneel defines the spot price cap for electricity in the brazilian market .",
+      "the spot price caps as defined by aneel and average spot prices by calendar year are as follows ( r$ / ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "year",
+        "2017",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "spot price cap as defined by aneel",
+        "534",
+        "423",
+        "388",
+        "822"
+      ],
+      [
+        "average spot rate",
+        "",
+        "94",
+        "287",
+        "689"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in the average spot rate between 2015 to 2016?"
+    ]
+  }
+}

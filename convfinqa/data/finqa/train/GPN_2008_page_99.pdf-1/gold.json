@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the interest expense of the loan for the first quarter?",
+      "answer": 1.8025,
+      "answer_raw": "1.8025",
+      "program": "multiply(200, 3.605%), divide(#0, const_4)"
+    }
+  ]
+}

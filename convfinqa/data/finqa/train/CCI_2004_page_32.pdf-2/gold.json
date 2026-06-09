@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "about how many towers were leased or subleased in 2004?",
+      "answer": 7317.28,
+      "answer_raw": "7317.28",
+      "program": "multiply(8816, 83%)"
+    }
+  ]
+}

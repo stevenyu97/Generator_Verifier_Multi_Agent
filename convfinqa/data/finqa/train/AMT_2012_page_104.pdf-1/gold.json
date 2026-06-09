@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average bad debt allowance for the past three years , in billions?",
+      "answer": 22441.0,
+      "answer_raw": "22441.0",
+      "program": "table_average(balance as of december 31, none)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "( in millions ) for 2004 and 2003 what were total net sales?",
+      "answer": 3625.6,
+      "answer_raw": "3625.6",
+      "program": "add(1890.1, 1735.5)"
+    }
+  ]
+}

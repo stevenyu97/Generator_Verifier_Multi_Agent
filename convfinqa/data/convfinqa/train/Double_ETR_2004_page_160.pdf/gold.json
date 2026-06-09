@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in net revenue from 2002 to 2003?",
+      "answer": -97.2,
+      "answer_raw": "-97.2",
+      "program": "subtract(998.7, 1095.9)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the net revenue in 2002?",
+      "answer": 1095.9,
+      "answer_raw": "1095.9",
+      "program": "1095.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what growth rate does this represent?",
+      "answer": -0.08869,
+      "answer_raw": "-0.08869",
+      "program": "subtract(998.7, 1095.9), divide(#0, 1095.9)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the damage cost related to the storm in 2002?",
+      "answer": 195.0,
+      "answer_raw": "195.0",
+      "program": "195"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what percentage of total revenue in 2002 does this represent?",
+      "answer": 0.17794,
+      "answer_raw": "0.17794",
+      "program": "divide(195, 1095.9)"
+    }
+  ]
+}

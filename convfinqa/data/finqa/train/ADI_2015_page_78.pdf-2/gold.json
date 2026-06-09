@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the future minimum rental payments is due after 5 years?",
+      "answer": 0.08847,
+      "answer_raw": "0.08847",
+      "program": "divide(5263, 59488)"
+    }
+  ]
+}

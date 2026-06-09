@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by what amount is the non-operating income gaap basis higher in 2013 compare to 2012?",
+      "answer": 170.0,
+      "answer_raw": "170.0",
+      "program": "subtract(116, -54)"
+    }
+  ]
+}

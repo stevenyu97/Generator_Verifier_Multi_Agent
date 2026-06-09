@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total securities approved by stockholders is oustanding?",
+      "answer": 48.9,
+      "answer_raw": "48.9",
+      "program": "add(2.7, 46.2)"
+    }
+  ]
+}

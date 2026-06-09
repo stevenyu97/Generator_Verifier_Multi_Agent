@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in the value of employee benefit expense from 2004 to 2006?",
+      "answer": 134.0,
+      "answer_raw": "134.0",
+      "program": "subtract(208, 74)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that net change over the 2004 value?",
+      "answer": 1.81081,
+      "answer_raw": "1.81081",
+      "program": "subtract(208, 74), divide(#0, 74)"
+    }
+  ]
+}

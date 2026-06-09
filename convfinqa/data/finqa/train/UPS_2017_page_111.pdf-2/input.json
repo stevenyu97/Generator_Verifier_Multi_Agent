@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "UPS/2017/page_111.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "united parcel service , inc .",
+      "and subsidiaries notes to consolidated financial statements floating-rate senior notes the floating-rate senior notes with principal amounts totaling $ 1.043 billion , bear interest at either one or three-month libor , less a spread ranging from 30 to 45 basis points .",
+      "the average interest rate for 2017 and 2016 was 0.74% ( 0.74 % ) and 0.21% ( 0.21 % ) , respectively .",
+      "these notes are callable at various times after 30 years at a stated percentage of par value , and putable by the note holders at various times after one year at a stated percentage of par value .",
+      "the notes have maturities ranging from 2049 through 2067 .",
+      "we classified the floating-rate senior notes that are putable by the note holder as a long-term liability , due to our intent and ability to refinance the debt if the put option is exercised by the note holder .",
+      "in march and november 2017 , we issued floating-rate senior notes in the principal amounts of $ 147 and $ 64 million , respectively , which are included in the $ 1.043 billion floating-rate senior notes described above .",
+      "these notes will bear interest at three-month libor less 30 and 35 basis points , respectively and mature in 2067 .",
+      "the remaining three floating-rate senior notes in the principal amounts of $ 350 , $ 400 and $ 500 million , bear interest at three-month libor , plus a spread ranging from 15 to 45 basis points .",
+      "the average interest rate for 2017 and 2016 was 0.50% ( 0.50 % ) and 0.0% ( 0.0 % ) , respectively .",
+      "these notes are not callable .",
+      "the notes have maturities ranging from 2021 through 2023 .",
+      "we classified the floating-rate senior notes that are putable by the note holder as a long-term liability , due to our intent and ability to refinance the debt if the put option is exercised by the note holder .",
+      "capital lease obligations we have certain property , plant and equipment subject to capital leases .",
+      "some of the obligations associated with these capital leases have been legally defeased .",
+      "the recorded value of our property , plant and equipment subject to capital leases is as follows as of december 31 ( in millions ) : ."
+    ],
+    "post_text": [
+      "these capital lease obligations have principal payments due at various dates from 2018 through 3005 .",
+      "facility notes and bonds we have entered into agreements with certain municipalities to finance the construction of , or improvements to , facilities that support our u.s .",
+      "domestic package and supply chain & freight operations in the united states .",
+      "these facilities are located around airport properties in louisville , kentucky ; dallas , texas ; and philadelphia , pennsylvania .",
+      "under these arrangements , we enter into a lease or loan agreement that covers the debt service obligations on the bonds issued by the municipalities , as follows : 2022 bonds with a principal balance of $ 149 million issued by the louisville regional airport authority associated with our worldport facility in louisville , kentucky .",
+      "the bonds , which are due in january 2029 , bear interest at a variable rate , and the average interest rates for 2017 and 2016 were 0.83% ( 0.83 % ) and 0.37% ( 0.37 % ) , respectively .",
+      "2022 bonds with a principal balance of $ 42 million and due in november 2036 issued by the louisville regional airport authority associated with our air freight facility in louisville , kentucky .",
+      "the bonds bear interest at a variable rate , and the average interest rates for 2017 and 2016 were 0.80% ( 0.80 % ) and 0.36% ( 0.36 % ) , respectively .",
+      "2022 bonds with a principal balance of $ 29 million issued by the dallas / fort worth international airport facility improvement corporation associated with our dallas , texas airport facilities .",
+      "the bonds are due in may 2032 and bear interest at a variable rate , however the variable cash flows on the obligation have been swapped to a fixed 5.11% ( 5.11 % ) .",
+      "2022 in september 2015 , we entered into an agreement with the delaware county , pennsylvania industrial development authority , associated with our philadelphia , pennsylvania airport facilities , for bonds issued with a principal balance of $ 100 million .",
+      "these bonds , which are due september 2045 , bear interest at a variable rate .",
+      "the average interest rate for 2017 and 2016 was 0.78% ( 0.78 % ) and 0.40% ( 0.40 % ) , respectively. ."
+    ],
+    "table": [
+      [
+        "",
+        "2017",
+        "2016"
+      ],
+      [
+        "vehicles",
+        "$ 70",
+        "$ 68"
+      ],
+      [
+        "aircraft",
+        "2291",
+        "2291"
+      ],
+      [
+        "buildings",
+        "285",
+        "190"
+      ],
+      [
+        "accumulated amortization",
+        "-990 ( 990 )",
+        "-896 ( 896 )"
+      ],
+      [
+        "property plant and equipment subject to capital leases",
+        "$ 1656",
+        "$ 1653"
+      ]
+    ],
+    "questions": [
+      "what was the change in millions of vehicles from 2016 to 2017?"
+    ]
+  }
+}

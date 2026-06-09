@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "AWK/2015/page_109.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "during 2014 , the company closed on thirteen acquisitions of various regulated water and wastewater systems for a total aggregate purchase price of $ 9 .",
+      "assets acquired , principally plant , totaled $ 17 .",
+      "liabilities assumed totaled $ 8 , including $ 5 of contributions in aid of construction and assumed debt of $ 2 .",
+      "during 2013 , the company closed on fifteen acquisitions of various regulated water and wastewater systems for a total aggregate net purchase price of $ 24 .",
+      "assets acquired , primarily utility plant , totaled $ 67 .",
+      "liabilities assumed totaled $ 43 , including $ 26 of contributions in aid of construction and assumed debt of $ 13 .",
+      "included in these totals was the company 2019s november 14 , 2013 acquisition of all of the capital stock of dale service corporation ( 201cdale 201d ) , a regulated wastewater utility company , for a total cash purchase price of $ 5 ( net of cash acquired of $ 7 ) , plus assumed liabilities .",
+      "the dale acquisition was accounted for as a business combination ; accordingly , operating results from november 14 , 2013 were included in the company 2019s results of operations .",
+      "the purchase price was allocated to the net tangible and intangible assets based upon their estimated fair values at the date of acquisition .",
+      "the company 2019s regulatory practice was followed whereby property , plant and equipment ( rate base ) was considered fair value for business combination purposes .",
+      "similarly , regulatory assets and liabilities acquired were recorded at book value and are subject to regulatory approval where applicable .",
+      "the acquired debt was valued in a manner consistent with the company 2019s level 3 debt .",
+      "see note 17 2014fair value of financial instruments .",
+      "non-cash assets acquired in the dale acquisition , primarily utility plant , totaled $ 41 ; liabilities assumed totaled $ 36 , including debt assumed of $ 13 and contributions of $ 19 .",
+      "divestitures in november 2014 , the company completed the sale of terratec , previously included in the market-based businesses .",
+      "after post-close adjustments , net proceeds from the sale totaled $ 1 , and the company recorded a pretax loss on sale of $ 1 .",
+      "the following table summarizes the operating results of discontinued operations presented in the accompanying consolidated statements of operations for the years ended december 31: ."
+    ],
+    "post_text": [
+      "the provision for income taxes of discontinued operations includes the recognition of tax expense related to the difference between the tax basis and book basis of assets upon the sales of terratec that resulted in taxable gains , since an election was made under section 338 ( h ) ( 10 ) of the internal revenue code to treat the sales as asset sales .",
+      "there were no assets or liabilities of discontinued operations in the accompanying consolidated balance sheets as of december 31 , 2015 and 2014. ."
+    ],
+    "table": [
+      [
+        "",
+        "2014",
+        "2013"
+      ],
+      [
+        "operating revenues",
+        "$ 13",
+        "$ 23"
+      ],
+      [
+        "total operating expenses net",
+        "19",
+        "26"
+      ],
+      [
+        "loss from discontinued operations before income taxes",
+        "-6 ( 6 )",
+        "-3 ( 3 )"
+      ],
+      [
+        "provision ( benefit ) for income taxes",
+        "1",
+        "-1 ( 1 )"
+      ],
+      [
+        "loss from discontinued operations net of tax",
+        "$ -7 ( 7 )",
+        "$ -2 ( 2 )"
+      ]
+    ],
+    "questions": [
+      "at what revenue multiple did awk purchase various regulated water and wastewater systems in 2014?"
+    ]
+  }
+}

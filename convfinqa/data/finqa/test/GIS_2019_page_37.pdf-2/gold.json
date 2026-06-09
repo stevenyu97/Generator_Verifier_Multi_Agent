@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2019 what was the percent of the total future estimated cash payments under existing contractual obligations associated with long-term debt that was due in 2020",
+      "answer": 0.10664,
+      "answer_raw": "0.10664",
+      "program": "divide(1396.3, 13093.0)"
+    }
+  ]
+}

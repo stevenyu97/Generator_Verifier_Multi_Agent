@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were total costs incurred in 2011 , 2010 and 2009 relating to the development of proved undeveloped reserves , in millions?",
+      "answer": 3362.0,
+      "answer_raw": "3362.0",
+      "program": "add(1107, 1463), add(#0, 792)"
+    }
+  ]
+}

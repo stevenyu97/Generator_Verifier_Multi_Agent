@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "according to the above listed weighted average grant date fair value , by what percentage did the value of unvested restricted stock awards decrease from 2008 to 2009?",
+      "answer": -0.33829,
+      "answer_raw": "-0.33829",
+      "program": "multiply(2049255, 47.72), multiply(1441499, 44.89), subtract(#1, #0), divide(#2, #0)"
+    }
+  ]
+}

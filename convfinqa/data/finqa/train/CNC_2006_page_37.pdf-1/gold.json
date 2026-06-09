@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if the company lost its contracts with the states of georgia and indiana , what would be the % (  % ) decline in revenue for the year ended december 31 , 2006?",
+      "answer": 30.0,
+      "answer_raw": "30.0",
+      "program": "add(15, 15)"
+    }
+  ]
+}

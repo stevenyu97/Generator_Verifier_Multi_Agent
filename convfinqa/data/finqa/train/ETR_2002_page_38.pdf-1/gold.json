@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in daily earnings at risk at the end of the period from 2001 to 2002?",
+      "answer": 1.76364,
+      "answer_raw": "1.76364",
+      "program": "subtract(15.2, 5.5), divide(#0, 5.5)"
+    }
+  ]
+}

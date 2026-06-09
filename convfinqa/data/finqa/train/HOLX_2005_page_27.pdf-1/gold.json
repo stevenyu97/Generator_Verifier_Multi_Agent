@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total number of votes that participated in this proposal?",
+      "answer": 1273628.0,
+      "answer_raw": "1273628.0",
+      "program": "table_sum(17695228, 963202), add(#0, 155213)"
+    }
+  ]
+}

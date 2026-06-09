@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the total future minimum rental receipts expected from customers under non-cancelable that was due in 2008",
+      "answer": 0.15263,
+      "answer_raw": "0.15263",
+      "program": "divide(1127051, 7384402)"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "Double_LKQ/2010/page_72.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "on either a straight-line or accelerated basis .",
+      "amortization expense for intangibles was approximately $ 4.2 million , $ 4.1 million and $ 4.1 million during the years ended december 31 , 2010 , 2009 and 2008 , respectively .",
+      "estimated annual amortization expense of the december 31 , 2010 balance for the years ended december 31 , 2011 through 2015 is approximately $ 4.8 million .",
+      "impairment of long-lived assets long-lived assets are reviewed for possible impairment whenever events or circumstances indicate that the carrying amount of such assets may not be recoverable .",
+      "if such review indicates that the carrying amount of long- lived assets is not recoverable , the carrying amount of such assets is reduced to fair value .",
+      "during the year ended december 31 , 2010 , we recognized impairment charges on certain long-lived assets during the normal course of business of $ 1.3 million .",
+      "there were no adjustments to the carrying value of long-lived assets of continuing operations during the years ended december 31 , 2009 or 2008 .",
+      "fair value of financial instruments our debt is reflected on the balance sheet at cost .",
+      "based on market conditions as of december 31 , 2010 , the fair value of our term loans ( see note 5 , 201clong-term obligations 201d ) reasonably approximated the carrying value of $ 590 million .",
+      "at december 31 , 2009 , the fair value of our term loans at $ 570 million was below the carrying value of $ 596 million because our interest rate margins were below the rate available in the market .",
+      "we estimated the fair value of our term loans by calculating the upfront cash payment a market participant would require to assume our obligations .",
+      "the upfront cash payment , excluding any issuance costs , is the amount that a market participant would be able to lend at december 31 , 2010 and 2009 to an entity with a credit rating similar to ours and achieve sufficient cash inflows to cover the scheduled cash outflows under our term loans .",
+      "the carrying amounts of our cash and equivalents , net trade receivables and accounts payable approximate fair value .",
+      "we apply the market and income approaches to value our financial assets and liabilities , which include the cash surrender value of life insurance , deferred compensation liabilities and interest rate swaps .",
+      "required fair value disclosures are included in note 7 , 201cfair value measurements . 201d product warranties some of our salvage mechanical products are sold with a standard six-month warranty against defects .",
+      "additionally , some of our remanufactured engines are sold with a standard three-year warranty against defects .",
+      "we record the estimated warranty costs at the time of sale using historical warranty claim information to project future warranty claims activity and related expenses .",
+      "the changes in the warranty reserve are as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "self-insurance reserves we self-insure a portion of employee medical benefits under the terms of our employee health insurance program .",
+      "we purchase certain stop-loss insurance to limit our liability exposure .",
+      "we also self-insure a portion of ."
+    ],
+    "table": [
+      [
+        "balance as of january 1 2009",
+        "$ 540"
+      ],
+      [
+        "warranty expense",
+        "5033"
+      ],
+      [
+        "warranty claims",
+        "-4969 ( 4969 )"
+      ],
+      [
+        "balance as of december 31 2009",
+        "604"
+      ],
+      [
+        "warranty expense",
+        "9351"
+      ],
+      [
+        "warranty claims",
+        "-8882 ( 8882 )"
+      ],
+      [
+        "business acquisitions",
+        "990"
+      ],
+      [
+        "balance as of december 31 2010",
+        "$ 2063"
+      ]
+    ],
+    "questions": [
+      "what was the change in the warranty reserve from 2009 to 2010?",
+      "and what is this change as a percentage of that warranty reserve in 2009?"
+    ]
+  }
+}

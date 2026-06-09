@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would total smokeless products shipment volume be in 2017 with the same growth rate as 2016 , in billions?",
+      "answer": 853.549,
+      "answer_raw": "853.549",
+      "program": "add(853.5, 4.9%)"
+    }
+  ]
+}

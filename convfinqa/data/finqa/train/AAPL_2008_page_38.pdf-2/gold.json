@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in cumulative total return for the s&p a9500 between 2003 and 2004?",
+      "answer": -14.0,
+      "answer_raw": "-14.0",
+      "program": "subtract(const_100, 114)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many new sites were in the us during 2012 to 2014?\\\\n",
+      "answer": 7120.0,
+      "answer_raw": "7120.0",
+      "program": "table_sum(domestic, none)"
+    }
+  ]
+}

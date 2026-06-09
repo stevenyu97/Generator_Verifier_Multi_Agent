@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the total contractual commitments , in millions?",
+      "answer": 40294.0,
+      "answer_raw": "40294.0",
+      "program": "table_sum(total obligations, none)"
+    }
+  ]
+}

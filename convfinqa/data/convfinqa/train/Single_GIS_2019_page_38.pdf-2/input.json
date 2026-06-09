@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "Single_GIS/2019/page_38.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "valuation of long-lived assets we estimate the useful lives of long-lived assets and make estimates concerning undiscounted cash flows to review for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset ( or asset group ) may not be recoverable .",
+      "fair value is measured using discounted cash flows or independent appraisals , as appropriate .",
+      "intangible assets goodwill and other indefinite-lived intangible assets are not subject to amortization and are tested for impairment annually and whenever events or changes in circumstances indicate that impairment may have occurred .",
+      "our estimates of fair value for goodwill impairment testing are determined based on a discounted cash flow model .",
+      "we use inputs from our long-range planning process to determine growth rates for sales and profits .",
+      "we also make estimates of discount rates , perpetuity growth assumptions , market comparables , and other factors .",
+      "we evaluate the useful lives of our other intangible assets , mainly brands , to determine if they are finite or indefinite-lived .",
+      "reaching a determination on useful life requires significant judgments and assumptions regarding the future effects of obsolescence , demand , competition , other economic factors ( such as the stability of the industry , known technological advances , legislative action that results in an uncertain or changing regulatory environment , and expected changes in distribution channels ) , the level of required maintenance expenditures , and the expected lives of other related groups of assets .",
+      "intangible assets that are deemed to have definite lives are amortized on a straight-line basis , over their useful lives , generally ranging from 4 to 30 years .",
+      "our estimate of the fair value of our brand assets is based on a discounted cash flow model using inputs which include projected revenues from our long-range plan , assumed royalty rates that could be payable if we did not own the brands , and a discount rate .",
+      "as of may 26 , 2019 , we had $ 20.6 billion of goodwill and indefinite-lived intangible assets .",
+      "while we currently believe that the fair value of each intangible exceeds its carrying value and that those intangibles so classified will contribute indefinitely to our cash flows , materially different assumptions regarding future performance of our businesses or a different weighted-average cost of capital could result in material impairment losses and amortization expense .",
+      "we performed our fiscal 2019 assessment of our intangible assets as of the first day of the second quarter of fiscal 2019 .",
+      "as a result of lower sales projections in our long-range plans for the businesses supporting the progresso , food should taste good , and mountain high brand intangible assets , we recorded the following impairment charges : in millions impairment charge fair value nov .",
+      "25 , 2018 progresso $ 132.1 $ 330.0 food should taste good 45.1 - mountain high 15.4 - ."
+    ],
+    "post_text": [
+      "significant assumptions used in that assessment included our long-range cash flow projections for the businesses , royalty rates , weighted-average cost of capital rates , and tax rates. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "impairment charge",
+        "fair value as of nov . 25 2018"
+      ],
+      [
+        "progresso",
+        "$ 132.1",
+        "$ 330.0"
+      ],
+      [
+        "food should taste good",
+        "45.1",
+        "-"
+      ],
+      [
+        "mountain high",
+        "15.4",
+        "-"
+      ],
+      [
+        "total",
+        "$ 192.6",
+        "$ 330.0"
+      ]
+    ],
+    "questions": [
+      "what is the sum of impairment charges for progresso and food should taste good?",
+      "what is the impairment charge for mountain high?",
+      "what is the total sum?"
+    ]
+  }
+}

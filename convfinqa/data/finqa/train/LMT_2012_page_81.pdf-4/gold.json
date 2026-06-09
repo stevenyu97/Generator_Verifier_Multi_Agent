@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent change of the total long-term debt from 2011 to 2012",
+      "answer": 0.03359,
+      "answer_raw": "0.03359",
+      "program": "subtract(7200, 6966), divide(#0, 6966)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the weighted average grant-date fair value of share awards from 2006 to 2007?",
+      "answer": 0.25,
+      "answer_raw": "0.25",
+      "program": "subtract(45, 36), divide(#0, 36)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum between the absolute number of the realized and unrealized losses of 2008 and the investments at the end of 2008?",
+      "answer": 1222.0,
+      "answer_raw": "1222.0",
+      "program": "add(409, 813)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how much does the absolute number of the realized and unrealized losses of 2008 represents in relation to that sum?",
+      "answer": 0.3347,
+      "answer_raw": "0.3347",
+      "program": "add(409, 813), divide(409, #0)"
+    }
+  ]
+}

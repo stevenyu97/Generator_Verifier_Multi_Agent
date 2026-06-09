@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2013, without including the settlements, what becomes the total of unrecognized tax benefits, in millions?",
+      "answer": 4242.0,
+      "answer_raw": "4242.0",
+      "program": "add(4096, 146)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how many years are currently involved in tax controversies, with those sort of settlements?",
+      "answer": 11.0,
+      "answer_raw": "11.0",
+      "program": "subtract(2010, 1999)"
+    }
+  ]
+}

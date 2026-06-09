@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of edwards lifesciences in 2016 less an initial investment of $100?",
+      "answer": 165.06,
+      "answer_raw": "165.06",
+      "program": "subtract(265.06, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": 1.6506,
+      "answer_raw": "1.6506",
+      "program": "subtract(265.06, const_100), divide(#0, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the purchase price of common stock acquired under the espp in 2018?",
+      "answer": 66.258,
+      "answer_raw": "66.258",
+      "program": "multiply(90%, 73.62)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the variation observed in the net benefit payments during 2012 and 2011?",
+      "answer": 408.0,
+      "answer_raw": "408.0",
+      "program": "subtract(3854, 3446)"
+    }
+  ]
+}

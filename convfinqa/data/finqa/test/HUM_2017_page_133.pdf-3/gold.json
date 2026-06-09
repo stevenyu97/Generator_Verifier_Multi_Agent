@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of shares issued in 2015 in millions",
+      "answer": 149.12281,
+      "answer_raw": "149.12281",
+      "program": "divide(170, 1.14)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "using the value of the undivided interest held by investors and retained by upri at december 31 , 2009 as a proxy for ar balance , what was the average receivable turnover in 2009?\\\\n\\\\n[14] : at december 31 , 2009 and 2008 , the value of the interest retained by upri was $ 417 million and $ 431 million , respectively .",
+      "answer": 11.18314,
+      "answer_raw": "11.18314",
+      "program": "add(417, 817), multiply(13.8, const_1000), divide(#1, #0)"
+    }
+  ]
+}

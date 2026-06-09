@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net tax expense for the 3 years ended 2005 related to the change in financial derivatives ( in millions? )",
+      "answer": -8.2,
+      "answer_raw": "-8.2",
+      "program": "subtract(5.7, 3.2), subtract(#0, 10.7)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage increase in total stock-based compensation expense from 2009 to 2010?",
+      "answer": 0.05742,
+      "answer_raw": "0.05742",
+      "program": "subtract(221, 209), divide(#0, 209)"
+    }
+  ]
+}

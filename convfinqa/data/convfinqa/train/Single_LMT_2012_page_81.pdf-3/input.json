@@ -1,0 +1,88 @@
+{
+  "input": {
+    "id": "Single_LMT/2012/page_81.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "note 8 2013 debt our long-term debt consisted of the following ( in millions ) : ."
+    ],
+    "post_text": [
+      "in december 2012 , we issued notes totaling $ 1.3 billion with a fixed interest rate of 4.07% ( 4.07 % ) maturing in december 2042 ( the new notes ) in exchange for outstanding notes totaling $ 1.2 billion with interest rates ranging from 5.50% ( 5.50 % ) to 8.50% ( 8.50 % ) maturing in 2023 to 2040 ( the old notes ) .",
+      "in connection with the exchange , we paid a premium of $ 393 million , of which $ 225 million was paid in cash and $ 168 million was in the form of new notes .",
+      "this premium , in addition to $ 194 million in remaining unamortized discounts related to the old notes , will be amortized as additional interest expense over the term of the new notes using the effective interest method .",
+      "we may , at our option , redeem some or all of the new notes at any time by paying the principal amount of notes being redeemed plus a make-whole premium and accrued and unpaid interest .",
+      "interest on the new notes is payable on june 15 and december 15 of each year , beginning on june 15 , 2013 .",
+      "the new notes are unsecured senior obligations and rank equally in right of payment with all of our existing and future unsecured and unsubordinated indebtedness .",
+      "on september 9 , 2011 , we issued $ 2.0 billion of long-term notes in a registered public offering consisting of $ 500 million maturing in 2016 with a fixed interest rate of 2.13% ( 2.13 % ) , $ 900 million maturing in 2021 with a fixed interest rate of 3.35% ( 3.35 % ) , and $ 600 million maturing in 2041 with a fixed interest rate of 4.85% ( 4.85 % ) .",
+      "we may , at our option , redeem some or all of the notes at any time by paying the principal amount of notes being redeemed plus a make-whole premium and accrued and unpaid interest .",
+      "interest on the notes is payable on march 15 and september 15 of each year , beginning on march 15 , 2012 .",
+      "in october 2011 , we used a portion of the proceeds to redeem all of our $ 500 million long-term notes maturing in 2013 .",
+      "in 2011 , we repurchased $ 84 million of our long-term notes through open-market purchases .",
+      "we paid premiums of $ 48 million in connection with the early extinguishments of debt , which were recognized in other non-operating income ( expense ) , net .",
+      "in august 2011 , we entered into a $ 1.5 billion revolving credit facility with a group of banks and terminated our existing $ 1.5 billion revolving credit facility that was to expire in june 2012 .",
+      "the credit facility expires august 2016 , and we may request and the banks may grant , at their discretion , an increase to the credit facility by an additional amount up to $ 500 million .",
+      "there were no borrowings outstanding under either facility through december 31 , 2012 .",
+      "borrowings under the credit facility would be unsecured and bear interest at rates based , at our option , on a eurodollar rate or a base rate , as defined in the credit facility .",
+      "each bank 2019s obligation to make loans under the credit facility is subject to , among other things , our compliance with various representations , warranties and covenants , including covenants limiting our ability and certain of our subsidiaries 2019 ability to encumber assets and a covenant not to exceed a maximum leverage ratio , as defined in the credit facility .",
+      "the leverage ratio covenant excludes the adjustments recognized in stockholders 2019 equity related to postretirement benefit plans .",
+      "as of december 31 , 2012 , we were in compliance with all covenants contained in the credit facility , as well as in our debt agreements .",
+      "we have agreements in place with banking institutions to provide for the issuance of commercial paper .",
+      "there were no commercial paper borrowings outstanding during 2012 or 2011 .",
+      "if we were to issue commercial paper , the borrowings would be supported by the credit facility .",
+      "during the next five years , we have scheduled long-term debt maturities of $ 150 million due in 2013 and $ 952 million due in 2016 .",
+      "interest payments were $ 378 million in 2012 , $ 326 million in 2011 , and $ 337 million in 2010. ."
+    ],
+    "table": [
+      [
+        "",
+        "2012",
+        "2011"
+      ],
+      [
+        "notes with rates from 2.13% ( 2.13 % ) to 6.15% ( 6.15 % ) due 2016 to 2042",
+        "$ 5642",
+        "$ 5308"
+      ],
+      [
+        "notes with rates from 7.00% ( 7.00 % ) to 7.75% ( 7.75 % ) due 2013 to 2036",
+        "1080",
+        "1239"
+      ],
+      [
+        "other debt",
+        "478",
+        "19"
+      ],
+      [
+        "total long-term debt",
+        "7200",
+        "6966"
+      ],
+      [
+        "less : unamortized discounts",
+        "-892 ( 892 )",
+        "-506 ( 506 )"
+      ],
+      [
+        "total long-term debt net of unamortized discounts",
+        "6308",
+        "6460"
+      ],
+      [
+        "less : current maturities of long-term debt",
+        "-150 ( 150 )",
+        "2014"
+      ],
+      [
+        "total long-term debt net",
+        "$ 6158",
+        "$ 6460"
+      ]
+    ],
+    "questions": [
+      "what were the interest payments in 2011?",
+      "and what were they in 2010?",
+      "what was, then, the change over the year?",
+      "and how much does this change represent in relation to the 2010 interest payments, in percentage?"
+    ]
+  }
+}

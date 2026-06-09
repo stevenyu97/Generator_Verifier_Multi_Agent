@@ -1,0 +1,94 @@
+{
+  "input": {
+    "id": "Single_PNC/2007/page_108.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "information about stock options at december 31 , 2007 follows: ."
+    ],
+    "post_text": [
+      "( a ) the weighted-average remaining contractual life was approximately 4.2 years .",
+      "at december 31 , 2007 , there were approximately 13788000 options in total that were vested and are expected to vest .",
+      "the weighted-average exercise price of such options was $ 62.07 per share , the weighted-average remaining contractual life was approximately 5.2 years , and the aggregate intrinsic value at december 31 , 2007 was approximately $ 92 million .",
+      "stock options granted in 2005 include options for 30000 shares that were granted to non-employee directors that year .",
+      "no such options were granted in 2006 or 2007 .",
+      "awards granted to non-employee directors in 2007 include 20944 deferred stock units awarded under the outside directors deferred stock unit plan .",
+      "a deferred stock unit is a phantom share of our common stock , which requires liability accounting treatment under sfas 123r until such awards are paid to the participants as cash .",
+      "as there are no vestings or service requirements on these awards , total compensation expense is recognized in full on all awarded units on the date of grant .",
+      "the weighted-average grant-date fair value of options granted in 2007 , 2006 and 2005 was $ 11.37 , $ 10.75 and $ 9.83 per option , respectively .",
+      "to determine stock-based compensation expense under sfas 123r , the grant-date fair value is applied to the options granted with a reduction made for estimated forfeitures .",
+      "at december 31 , 2006 and 2005 options for 10743000 and 13582000 shares of common stock , respectively , were exercisable at a weighted-average price of $ 58.38 and $ 56.58 , respectively .",
+      "the total intrinsic value of options exercised during 2007 , 2006 and 2005 was $ 52 million , $ 111 million and $ 31 million , respectively .",
+      "at december 31 , 2007 the aggregate intrinsic value of all options outstanding and exercisable was $ 94 million and $ 87 million , respectively .",
+      "cash received from option exercises under all incentive plans for 2007 , 2006 and 2005 was approximately $ 111 million , $ 233 million and $ 98 million , respectively .",
+      "the actual tax benefit realized for tax deduction purposes from option exercises under all incentive plans for 2007 , 2006 and 2005 was approximately $ 39 million , $ 82 million and $ 34 million , respectively .",
+      "there were no options granted in excess of market value in 2007 , 2006 or 2005 .",
+      "shares of common stock available during the next year for the granting of options and other awards under the incentive plans were 40116726 at december 31 , 2007 .",
+      "total shares of pnc common stock authorized for future issuance under equity compensation plans totaled 41787400 shares at december 31 , 2007 , which includes shares available for issuance under the incentive plans , the employee stock purchase plan as described below , and a director plan .",
+      "during 2007 , we issued approximately 2.1 million shares from treasury stock in connection with stock option exercise activity .",
+      "as with past exercise activity , we intend to utilize treasury stock for future stock option exercises .",
+      "as discussed in note 1 accounting policies , we adopted the fair value recognition provisions of sfas 123 prospectively to all employee awards including stock options granted , modified or settled after january 1 , 2003 .",
+      "as permitted under sfas 123 , we recognized compensation expense for stock options on a straight-line basis over the pro rata vesting period .",
+      "total compensation expense recognized related to pnc stock options in 2007 was $ 29 million compared with $ 31 million in 2006 and $ 29 million in 2005 .",
+      "pro forma effects a table is included in note 1 accounting policies that sets forth pro forma net income and basic and diluted earnings per share as if compensation expense had been recognized under sfas 123 and 123r , as amended , for stock options for 2005 .",
+      "for purposes of computing stock option expense and 2005 pro forma results , we estimated the fair value of stock options using the black-scholes option pricing model .",
+      "the model requires the use of numerous assumptions , many of which are very subjective .",
+      "therefore , the 2005 pro forma results are estimates of results of operations as if compensation expense had been recognized for all stock-based compensation awards and are not indicative of the impact on future periods. ."
+    ],
+    "table": [
+      [
+        "december 31 2007shares in thousandsrange of exercise prices",
+        "options outstanding shares",
+        "options outstanding weighted- averageexercise price",
+        "options outstanding weighted-average remaining contractual life ( in years )",
+        "options outstanding shares",
+        "weighted-averageexercise price"
+      ],
+      [
+        "$ 37.43 2013 $ 46.99",
+        "1444",
+        "$ 43.05",
+        "4.0",
+        "1444",
+        "$ 43.05"
+      ],
+      [
+        "47.00 2013 56.99",
+        "3634",
+        "53.43",
+        "5.4",
+        "3022",
+        "53.40"
+      ],
+      [
+        "57.00 2013 66.99",
+        "3255",
+        "60.32",
+        "5.2",
+        "2569",
+        "58.96"
+      ],
+      [
+        "67.00 2013 76.23",
+        "5993",
+        "73.03",
+        "5.5",
+        "3461",
+        "73.45"
+      ],
+      [
+        "total",
+        "14326",
+        "$ 62.15",
+        "5.3",
+        "10496",
+        "$ 59.95"
+      ]
+    ],
+    "questions": [
+      "what was the total intrinsic value of options exercised during 2007?",
+      "and in 2006?",
+      "so what was the total value for these two years combined?",
+      "and adding in 2005 as well?"
+    ]
+  }
+}

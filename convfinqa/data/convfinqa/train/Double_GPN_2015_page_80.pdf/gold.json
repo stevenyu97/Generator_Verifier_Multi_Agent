@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "combined, what was the total net operating loss that must be utilized before expiration between 2017 and 2033?",
+      "answer": 32.2,
+      "answer_raw": "32.2",
+      "program": "add(19.8, 12.4)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the change in the balance between 2013 and 2015?",
+      "answer": 24641.0,
+      "answer_raw": "24641.0",
+      "program": "subtract(28464, 3823)"
+    }
+  ]
+}

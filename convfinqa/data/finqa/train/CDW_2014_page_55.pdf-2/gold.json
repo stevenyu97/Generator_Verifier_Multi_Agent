@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was the dividend declared on february 10 , 2015 greater than the quarterly cash dividend on our common stock declared on february 12 2014?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(0.0675, 0.0425)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming a weighted average fair value per share equal to the average december 31 , 2014 cost , what would be the total expense for issuance of the remaining plan shares at 12/31/14?",
+      "answer": 50422000.0,
+      "answer_raw": "50422000.0",
+      "program": "multiply(const_1000000, 3.4), multiply(14.83, #0)"
+    }
+  ]
+}

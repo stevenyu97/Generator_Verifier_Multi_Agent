@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much does the liability for interest in 2009 represent in relation to the one in 2008?",
+      "answer": 1.28571,
+      "answer_raw": "1.28571",
+      "program": "divide(18, 14)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was is the difference between this value and the number one?",
+      "answer": 0.28571,
+      "answer_raw": "0.28571",
+      "program": "divide(18, 14), subtract(#0, const_1)"
+    }
+  ]
+}

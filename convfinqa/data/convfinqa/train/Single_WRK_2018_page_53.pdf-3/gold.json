@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of cash for operating and investing activities in 2018?",
+      "answer": 1122.0,
+      "answer_raw": "1122.0",
+      "program": "add(2420.9, -1298.9)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total sum including financing activities?",
+      "answer": 366.9,
+      "answer_raw": "366.9",
+      "program": "add(2420.9, -1298.9), add(#0, -755.1)"
+    }
+  ]
+}

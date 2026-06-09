@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the change in the aggregate annual maturities of long-term debt obligations for the citigroup parent company from 2010 to 2011",
+      "answer": 0.13339,
+      "answer_raw": "0.13339",
+      "program": "subtract(20435, 18030), divide(#0, 18030)"
+    }
+  ]
+}

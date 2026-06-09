@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the balance of deferred sales in 2011?",
+      "answer": -25.0,
+      "answer_raw": "-25.0",
+      "program": "subtract(434, 459)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in non-operating income from 2008 to 2009?",
+      "answer": 394.0,
+      "answer_raw": "394.0",
+      "program": "subtract(-28, -422)"
+    }
+  ]
+}

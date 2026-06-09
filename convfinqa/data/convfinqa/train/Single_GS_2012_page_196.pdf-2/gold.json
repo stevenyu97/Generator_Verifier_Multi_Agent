@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net unrecognized tax benefit as of 12/11?",
+      "answer": 1318.0,
+      "answer_raw": "1318.0",
+      "program": "1318"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and as of 12/10?",
+      "answer": 1109.0,
+      "answer_raw": "1109.0",
+      "program": "1109"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between the two years?",
+      "answer": 209.0,
+      "answer_raw": "209.0",
+      "program": "subtract(1318, 1109)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage change?",
+      "answer": 0.18846,
+      "answer_raw": "0.18846",
+      "program": "subtract(1318, 1109), divide(#0, 1109)"
+    }
+  ]
+}

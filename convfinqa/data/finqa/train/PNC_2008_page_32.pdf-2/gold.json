@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "between 2008 and 2007 , what was the change in net interest income in millions?",
+      "answer": 908.0,
+      "answer_raw": "908.0",
+      "program": "subtract(3823, 2915)"
+    }
+  ]
+}

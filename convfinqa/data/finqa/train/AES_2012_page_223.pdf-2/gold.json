@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net reduction in defined benefit obligations between december 31 , 2012 and 2011 , in millions?",
+      "answer": 85.0,
+      "answer_raw": "85.0",
+      "program": "subtract(764, 679)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in income from financial investments net in millions from 2011 to 2012?",
+      "answer": -49.0,
+      "answer_raw": "-49.0",
+      "program": "subtract(24, 73)"
+    }
+  ]
+}

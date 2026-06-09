@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "Single_DRE/2012/page_31.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "29 annual report 2012 duke realty corporation | | those indirect costs not allocated to or absorbed by these operations are charged to general and administrative expenses .",
+      "we regularly review our total overhead cost structure relative to our leasing , development and construction volume and adjust the level of total overhead , generally through changes in our level of staffing in various functional departments , as necessary in order to control overall general and administrative expense .",
+      "general and administrative expenses increased from $ 43.1 million in 2011 to $ 46.4 million in 2012 .",
+      "the following table sets forth the factors that led to the increase in general and administrative expenses from 2011 to 2012 ( in millions ) : ."
+    ],
+    "post_text": [
+      "( 1 ) we reduced our total pool of overhead costs , through staff reductions and other measures , as the result of changes in our product mix and anticipated future levels of third-party construction , leasing , management and other operational activities .",
+      "( 2 ) we increased our focus on development of wholly-owned properties , and also significantly increased our leasing activity during 2012 , which resulted in an increased absorption of overhead costs .",
+      "we capitalized $ 30.4 million and $ 20.0 million of our total overhead costs to leasing and development , respectively , for consolidated properties during 2012 , compared to capitalizing $ 25.3 million and $ 10.4 million of such costs , respectively , for 2011 .",
+      "combined overhead costs capitalized to leasing and development totaled 31.1% ( 31.1 % ) and 20.6% ( 20.6 % ) of our overall pool of overhead costs for 2012 and 2011 , respectively .",
+      "( 3 ) the reduction in the allocation of overhead costs to service operations and rental operations resulted from reduced volumes of third-party construction projects as well as due to reducing our overall investment in office properties , which are more management intensive .",
+      "interest expense interest expense allocable to continuing operations increased from $ 220.5 million in 2011 to $ 245.2 million in 2012 .",
+      "we had $ 47.4 million of interest expense allocated to discontinued operations in 2011 , associated with the properties that were disposed of during 2011 , compared to the allocation of only $ 3.1 million of interest expense to discontinued operations for 2012 .",
+      "total interest expense , combined for continuing and discontinued operations , decreased from $ 267.8 million in 2011 to $ 248.3 million in 2012 .",
+      "the reduction in total interest expense was primarily the result of a lower weighted average borrowing rate in 2012 , due to refinancing some higher rate bonds in 2011 and 2012 , as well as a slight decrease in our average level of borrowings compared to 2011 .",
+      "also , due to an increase in properties under development from 2011 , which met the criteria for capitalization of interest and were financed in part by common equity issuances during 2012 , a $ 5.0 million increase in capitalized interest also contributed to the decrease in total interest expense in 2012 .",
+      "acquisition-related activity during 2012 , we recognized approximately $ 4.2 million in acquisition costs , compared to $ 2.3 million of such costs in 2011 .",
+      "the increase from 2011 to 2012 is the result of acquiring a higher volume of medical office properties , where a higher level of acquisition costs are incurred than other property types , in 2012 .",
+      "during 2011 , we also recognized a $ 1.1 million gain related to the acquisition of a building from one of our 50%-owned unconsolidated joint ventures .",
+      "discontinued operations subject to certain criteria , the results of operations for properties sold during the year to unrelated parties , or classified as held-for-sale at the end of the period , are required to be classified as discontinued operations .",
+      "the property specific components of earnings that are classified as discontinued operations include rental revenues , rental expenses , real estate taxes , allocated interest expense and depreciation expense , as well as the net gain or loss on the disposition of properties .",
+      "the operations of 150 buildings are currently classified as discontinued operations .",
+      "these 150 buildings consist of 114 office , 30 industrial , four retail , and two medical office properties .",
+      "as a result , we classified operating losses , before gain on sales , of $ 1.5 million , $ 1.8 million and $ 7.1 million in discontinued operations for the years ended december 31 , 2012 , 2011 and 2010 , respectively .",
+      "of these properties , 28 were sold during 2012 , 101 properties were sold during 2011 and 19 properties were sold during 2010 .",
+      "the gains on disposal of these properties of $ 13.5 million , $ 100.9 million and $ 33.1 million for the years ended december 31 , 2012 , 2011 and ."
+    ],
+    "table": [
+      [
+        "general and administrative expenses - 2011",
+        "$ 43.1"
+      ],
+      [
+        "reduction to overall pool of overhead costs ( 1 )",
+        "-11.0 ( 11.0 )"
+      ],
+      [
+        "increased absorption of costs by wholly-owned development and leasing activities ( 2 )",
+        "-14.7 ( 14.7 )"
+      ],
+      [
+        "reduced allocation of costs to service operations and rental operations ( 3 )",
+        "29.0"
+      ],
+      [
+        "general and administrative expenses - 2012",
+        "$ 46.4"
+      ]
+    ],
+    "questions": [
+      "what was the income expense allocable to continuing operations in 2012?",
+      "what was the income expense allocable to continuing operations in 2011?",
+      "what was the net change during the year?",
+      "what was the percent change?"
+    ]
+  }
+}

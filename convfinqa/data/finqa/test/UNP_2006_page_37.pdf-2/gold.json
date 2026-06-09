@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the anticipated percentage increase in the capital investment in 2007 from 2006",
+      "answer": -0.99857,
+      "answer_raw": "-0.99857",
+      "program": "subtract(3.2, 2242), divide(#0, 2242)"
+    }
+  ]
+}

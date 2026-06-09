@@ -1,0 +1,94 @@
+{
+  "input": {
+    "id": "AES/2003/page_112.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "in the fourth quarter of 2002 , aes lost voting control of one of the holding companies in the cemig ownership structure .",
+      "this holding company indirectly owns the shares related to the cemig investment and indirectly holds the project financing debt related to cemig .",
+      "as a result of the loss of voting control , aes stopped consolidating this holding company at december 31 , 2002 .",
+      "other .",
+      "during the fourth quarter of 2003 , the company sold its 25% ( 25 % ) ownership interest in medway power limited ( 2018 2018mpl 2019 2019 ) , a 688 mw natural gas-fired combined cycle facility located in the united kingdom , and aes medway operations limited ( 2018 2018aesmo 2019 2019 ) , the operating company for the facility , in an aggregate transaction valued at approximately a347 million ( $ 78 million ) .",
+      "the sale resulted in a gain of $ 23 million which was recorded in continuing operations .",
+      "mpl and aesmo were previously reported in the contract generation segment .",
+      "in the second quarter of 2002 , the company sold its investment in empresa de infovias s.a .",
+      "( 2018 2018infovias 2019 2019 ) , a telecommunications company in brazil , for proceeds of $ 31 million to cemig , an affiliated company .",
+      "the loss recorded on the sale was approximately $ 14 million and is recorded as a loss on sale of assets and asset impairment expenses in the accompanying consolidated statements of operations .",
+      "in the second quarter of 2002 , the company recorded an impairment charge of approximately $ 40 million , after income taxes , on an equity method investment in a telecommunications company in latin america held by edc .",
+      "the impairment charge resulted from sustained poor operating performance coupled with recent funding problems at the invested company .",
+      "during 2001 , the company lost operational control of central electricity supply corporation ( 2018 2018cesco 2019 2019 ) , a distribution company located in the state of orissa , india .",
+      "the state of orissa appointed an administrator to take operational control of cesco .",
+      "cesco is accounted for as a cost method investment .",
+      "aes 2019s investment in cesco is negative .",
+      "in august 2000 , a subsidiary of the company acquired a 49% ( 49 % ) interest in songas for approximately $ 40 million .",
+      "the company acquired an additional 16.79% ( 16.79 % ) of songas for approximately $ 12.5 million , and the company began consolidating this entity in 2002 .",
+      "songas owns the songo songo gas-to-electricity project in tanzania .",
+      "in december 2002 , the company signed a sales purchase agreement to sell 100% ( 100 % ) of our ownership interest in songas .",
+      "the sale of songas closed in april 2003 ( see note 4 for further discussion of the transaction ) .",
+      "the following tables present summarized comparative financial information ( in millions ) of the entities in which the company has the ability to exercise significant influence but does not control and that are accounted for using the equity method. ."
+    ],
+    "post_text": [
+      "( 1 ) includes information pertaining to eletropaulo and light prior to february 2002 .",
+      "in 2002 and 2001 , the results of operations and the financial position of cemig were negatively impacted by the devaluation of the brazilian real and the impairment charge recorded in 2002 .",
+      "the brazilian real devalued 32% ( 32 % ) and 19% ( 19 % ) for the years ended december 31 , 2002 and 2001 , respectively. ."
+    ],
+    "table": [
+      [
+        "as of and for the years ended december 31,",
+        "2003",
+        "2002 ( 1 )",
+        "2001 ( 1 )"
+      ],
+      [
+        "revenues",
+        "$ 2758",
+        "$ 2832",
+        "$ 6147"
+      ],
+      [
+        "operating income",
+        "1039",
+        "695",
+        "1717"
+      ],
+      [
+        "net income",
+        "407",
+        "229",
+        "650"
+      ],
+      [
+        "current assets",
+        "1347",
+        "1097",
+        "3700"
+      ],
+      [
+        "noncurrent assets",
+        "7479",
+        "6751",
+        "14942"
+      ],
+      [
+        "current liabilities",
+        "1434",
+        "1418",
+        "3510"
+      ],
+      [
+        "noncurrent liabilities",
+        "3795",
+        "3349",
+        "8297"
+      ],
+      [
+        "stockholder's equity",
+        "3597",
+        "3081",
+        "6835"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in operating income for entities in which the company has the ability to exercise significant influence but does not control and that are accounted for using the equity method between 2001 and 2002?"
+    ]
+  }
+}

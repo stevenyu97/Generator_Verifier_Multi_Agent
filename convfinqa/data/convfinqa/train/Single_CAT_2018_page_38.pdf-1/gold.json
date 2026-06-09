@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the profit per share for 2018?",
+      "answer": 10.26,
+      "answer_raw": "10.26",
+      "program": "10.26"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2017?",
+      "answer": 1.26,
+      "answer_raw": "1.26",
+      "program": "1.26"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the proportion of 2018 profit to 2017?",
+      "answer": 8.14286,
+      "answer_raw": "8.14286",
+      "program": "divide(10.26, 1.26)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and applying this same rate to determine the profit per share in 2019?",
+      "answer": 83.54571,
+      "answer_raw": "83.54571",
+      "program": "divide(10.26, 1.26), multiply(#0, 10.26)"
+    }
+  ]
+}

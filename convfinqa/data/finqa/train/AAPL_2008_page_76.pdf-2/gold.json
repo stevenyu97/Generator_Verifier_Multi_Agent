@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net of increases related to tax positions taken during a prior period and decreases related to tax positions taken during a prior period , in millions?",
+      "answer": -43.0,
+      "answer_raw": "-43.0",
+      "program": "add(27, -70)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the fair value of the debt acquisition date fair value of the borrow- ings",
+      "answer": 0.09,
+      "answer_raw": "0.09",
+      "program": "subtract(2.12, 2.03)"
+    }
+  ]
+}

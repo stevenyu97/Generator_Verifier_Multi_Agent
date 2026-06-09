@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total minimum lease payments are capital leases?",
+      "answer": 0.28943,
+      "answer_raw": "0.28943",
+      "program": "add(2649, 1079), divide(1079, #0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total texas facilities square footage?",
+      "answer": 800000.0,
+      "answer_raw": "800000.0",
+      "program": "add(71000, 63000), add(#0, 666000)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in net revenue in 2003 for entergy corporation?",
+      "answer": 0.00116,
+      "answer_raw": "0.00116",
+      "program": "subtract(4214.5, 4209.6), divide(#0, 4209.6)"
+    }
+  ]
+}

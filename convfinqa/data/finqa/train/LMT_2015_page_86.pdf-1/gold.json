@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in weighted average common shares outstanding for diluted computations from 2013 to 2014 , in millions?",
+      "answer": -4.1,
+      "answer_raw": "-4.1",
+      "program": "subtract(322.4, 326.5)"
+    }
+  ]
+}

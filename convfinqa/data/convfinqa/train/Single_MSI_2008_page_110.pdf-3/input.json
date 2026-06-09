@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "Single_MSI/2008/page_110.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "stockholders 2019 equity derivative instruments activity , net of tax , included in non-owner changes to equity within the consolidated statements of stockholders 2019 equity for the years ended december 31 , 2008 , 2007 and 2006 is as follows: ."
+    ],
+    "post_text": [
+      "net investment in foreign operations hedge at december 31 , 2008 and 2007 , the company did not have any hedges of foreign currency exposure of net investments in foreign operations .",
+      "investments hedge during the first quarter of 2006 , the company entered into a zero-cost collar derivative ( the 201csprint nextel derivative 201d ) to protect itself economically against price fluctuations in its 37.6 million shares of sprint nextel corporation ( 201csprint nextel 201d ) non-voting common stock .",
+      "during the second quarter of 2006 , as a result of sprint nextel 2019s spin-off of embarq corporation through a dividend to sprint nextel shareholders , the company received approximately 1.9 million shares of embarq corporation .",
+      "the floor and ceiling prices of the sprint nextel derivative were adjusted accordingly .",
+      "the sprint nextel derivative was not designated as a hedge under the provisions of sfas no .",
+      "133 , 201caccounting for derivative instruments and hedging activities . 201d accordingly , to reflect the change in fair value of the sprint nextel derivative , the company recorded a net gain of $ 99 million for the year ended december 31 , 2006 , included in other income ( expense ) in the company 2019s consolidated statements of operations .",
+      "in december 2006 , the sprint nextel derivative was terminated and settled in cash and the 37.6 million shares of sprint nextel were converted to common shares and sold .",
+      "the company received aggregate cash proceeds of approximately $ 820 million from the settlement of the sprint nextel derivative and the subsequent sale of the 37.6 million sprint nextel shares .",
+      "the company recognized a loss of $ 126 million in connection with the sale of the remaining shares of sprint nextel common stock .",
+      "as described above , the company recorded a net gain of $ 99 million in connection with the sprint nextel derivative .",
+      "fair value of financial instruments the company 2019s financial instruments include cash equivalents , sigma fund investments , short-term investments , accounts receivable , long-term receivables , accounts payable , accrued liabilities , derivatives and other financing commitments .",
+      "the company 2019s sigma fund , available-for-sale investment portfolios and derivatives are recorded in the company 2019s consolidated balance sheets at fair value .",
+      "all other financial instruments , with the exception of long-term debt , are carried at cost , which is not materially different than the instruments 2019 fair values .",
+      "using quoted market prices and market interest rates , the company determined that the fair value of long- term debt at december 31 , 2008 was $ 2.8 billion , compared to a carrying value of $ 4.1 billion .",
+      "since considerable judgment is required in interpreting market information , the fair value of the long-term debt is not necessarily indicative of the amount which could be realized in a current market exchange .",
+      "equity price market risk at december 31 , 2008 , the company 2019s available-for-sale equity securities portfolio had an approximate fair market value of $ 128 million , which represented a cost basis of $ 125 million and a net unrealized loss of $ 3 million .",
+      "these equity securities are held for purposes other than trading .",
+      "%%transmsg*** transmitting job : c49054 pcn : 105000000 ***%%pcmsg|102 |00022|yes|no|02/23/2009 19:17|0|0|page is valid , no graphics -- color : n| ."
+    ],
+    "table": [
+      [
+        "",
+        "2008",
+        "2007",
+        "2006"
+      ],
+      [
+        "balance at january 1",
+        "$ 2014",
+        "$ 16",
+        "$ 2"
+      ],
+      [
+        "increase ( decrease ) in fair value",
+        "-9 ( 9 )",
+        "-6 ( 6 )",
+        "75"
+      ],
+      [
+        "reclassifications to earnings",
+        "2",
+        "-10 ( 10 )",
+        "-61 ( 61 )"
+      ],
+      [
+        "balance at december 31",
+        "$ -7 ( 7 )",
+        "$ 2014",
+        "$ 16"
+      ]
+    ],
+    "questions": [
+      "what was the balance of stockholder equity in january 2007?",
+      "and what was that of january 2006?",
+      "what is the difference between 2007's and 2006's balance?",
+      "what was the balance of stockholder equity in january 2006?",
+      "how much does that difference represent, percentually, in relation to this balance in 2006?"
+    ]
+  }
+}

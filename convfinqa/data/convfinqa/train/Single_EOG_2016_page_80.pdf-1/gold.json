@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of interest net of capitalized interest from 2015 to 2016?",
+      "answer": 1.13482,
+      "answer_raw": "1.13482",
+      "program": "divide(252030, 222088)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the quotient less 1?",
+      "answer": 0.13482,
+      "answer_raw": "0.13482",
+      "program": "divide(252030, 222088), subtract(#0, const_1)"
+    }
+  ]
+}

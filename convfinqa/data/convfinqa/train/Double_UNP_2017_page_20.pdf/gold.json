@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total number of shares purchased during the fourth quarter of 2007?",
+      "answer": 0.401,
+      "answer_raw": "0.401",
+      "program": "divide(3831636, 9555180)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the number of shares attested to upc by employees to pay stock option exercise prices during the last quarter of 2017?",
+      "answer": 323670.0,
+      "answer_raw": "323670.0",
+      "program": "323670"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "wha about the total number of shares purchased during the fourth quarter of 2017?",
+      "answer": 9555180.0,
+      "answer_raw": "9555180.0",
+      "program": "9555180"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what portion does this represent?",
+      "answer": 0.03387,
+      "answer_raw": "0.03387",
+      "program": "divide(323670, 9555180)"
+    }
+  ]
+}

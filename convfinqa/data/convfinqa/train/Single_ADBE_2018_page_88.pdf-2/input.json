@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "Single_ADBE/2018/page_88.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "table of contents adobe inc .",
+      "notes to consolidated financial statements ( continued ) stock options the 2003 plan allows us to grant options to all employees , including executive officers , outside consultants and non- employee directors .",
+      "this plan will continue until the earlier of ( i ) termination by the board or ( ii ) the date on which all of the shares available for issuance under the plan have been issued and restrictions on issued shares have lapsed .",
+      "option vesting periods used in the past were generally four years and expire seven years from the effective date of grant .",
+      "we eliminated the use of stock option grants for all employees and non-employee directors but may choose to issue stock options in the future .",
+      "performance share programs our 2018 , 2017 and 2016 performance share programs aim to help focus key employees on building stockholder value , provide significant award potential for achieving outstanding company performance and enhance the ability of the company to attract and retain highly talented and competent individuals .",
+      "the executive compensation committee of our board of directors approves the terms of each of our performance share programs , including the award calculation methodology , under the terms of our 2003 plan .",
+      "shares may be earned based on the achievement of an objective relative total stockholder return measured over a three-year performance period .",
+      "performance share awards will be awarded and fully vest upon the later of the executive compensation committee's certification of the level of achievement or the three-year anniversary of each grant .",
+      "program participants generally have the ability to receive up to 200% ( 200 % ) of the target number of shares originally granted .",
+      "on january 24 , 2018 , the executive compensation committee approved the 2018 performance share program , the terms of which are similar to prior year performance share programs as discussed above .",
+      "as of november 30 , 2018 , the shares awarded under our 2018 , 2017 and 2016 performance share programs are yet to be achieved .",
+      "issuance of shares upon exercise of stock options , vesting of restricted stock units and performance shares , and purchases of shares under the espp , we will issue treasury stock .",
+      "if treasury stock is not available , common stock will be issued .",
+      "in order to minimize the impact of on-going dilution from exercises of stock options and vesting of restricted stock units and performance shares , we instituted a stock repurchase program .",
+      "see note 12 for information regarding our stock repurchase programs .",
+      "valuation of stock-based compensation stock-based compensation cost is measured at the grant date based on the fair value of the award .",
+      "our performance share awards are valued using a monte carlo simulation model .",
+      "the fair value of the awards are fixed at grant date and amortized over the longer of the remaining performance or service period .",
+      "we use the black-scholes option pricing model to determine the fair value of espp shares .",
+      "the determination of the fair value of stock-based payment awards on the date of grant using an option pricing model is affected by our stock price as well as assumptions regarding a number of complex and subjective variables .",
+      "these variables include our expected stock price volatility over the expected term of the awards , actual and projected employee stock option exercise behaviors , a risk-free interest rate and any expected dividends .",
+      "the expected term of espp shares is the average of the remaining purchase periods under each offering period .",
+      "the assumptions used to value employee stock purchase rights were as follows: ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "expected life ( in years )",
+        "0.5 - 2.0",
+        "0.5 - 2.0",
+        "0.5 - 2.0"
+      ],
+      [
+        "volatility",
+        "26% ( 26 % ) - 29% ( 29 % )",
+        "22% ( 22 % ) - 27% ( 27 % )",
+        "26 - 29% ( 29 % )"
+      ],
+      [
+        "risk free interest rate",
+        "1.54% ( 1.54 % ) - 2.52% ( 2.52 % )",
+        "0.62% ( 0.62 % ) - 1.41% ( 1.41 % )",
+        "0.37 - 1.06% ( 1.06 % )"
+      ]
+    ],
+    "questions": [
+      "what was the low rate of volatility in 2017?",
+      "what was the high rate?",
+      "what is the sum?",
+      "what is the average rate?"
+    ]
+  }
+}

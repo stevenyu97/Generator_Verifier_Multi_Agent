@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in estimated future net amortization expense of present value of future profits from 2013 to 2014?",
+      "answer": -34.0,
+      "answer_raw": "-34.0",
+      "program": "subtract(24, 58)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage change does this represent?",
+      "answer": -0.58621,
+      "answer_raw": "-0.58621",
+      "program": "subtract(24, 58), divide(#0, 58)"
+    }
+  ]
+}

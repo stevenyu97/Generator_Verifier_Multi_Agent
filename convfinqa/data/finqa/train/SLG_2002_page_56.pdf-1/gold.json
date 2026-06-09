@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the capital lease payments are due in 2003?",
+      "answer": 0.02047,
+      "answer_raw": "0.02047",
+      "program": "divide(1290, 63014)"
+    }
+  ]
+}

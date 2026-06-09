@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "5 development costs incurred during the period 1654 1251 1030",
+      "answer": 1311.66667,
+      "answer_raw": "1311.66667",
+      "program": "table_average(development costs incurred during the period, none)"
+    }
+  ]
+}

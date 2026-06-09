@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the future minimum commitments under the operating leases in 2017 as a percentage of the total future minimum commitments under the operating leases?",
+      "answer": 0.1368,
+      "answer_raw": "0.1368",
+      "program": "divide(142, 1038)"
+    }
+  ]
+}

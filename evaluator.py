@@ -3,7 +3,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Tuple
 
 try:
     from lxml import etree
@@ -118,3 +118,30 @@ def evaluate(draft: DraftReturn, expected_xml_path: Path) -> EvaluationResult:
         lenient_correct_by_line_score=lenient_correct_by_line_score,
         report=report,
     )
+
+
+def evaluated_line_ids() -> Tuple[str, ...]:
+    """1040 line ids in the same order as TaxCalcBench / ``LINES_TO_XPATH``."""
+    out: List[str] = []
+    for line_desc in LINES_TO_XPATH:
+        prefix = line_desc.split(":")[0].strip()
+        if prefix.startswith("Line "):
+            out.append(prefix.replace("Line ", "").strip())
+    return tuple(out)
+
+
+def line_strict_correctness_by_line_id(
+    draft: DraftReturn, expected_xml_path: Path
+) -> Dict[str, bool]:
+    """Map ``1040`` line id (e.g. ``\"1a\"``, ``\"25d\"``) to strict match vs expected XML."""
+    if etree is None:
+        raise ImportError("lxml is required: pip install lxml")
+    xml_str = expected_xml_path.read_text(encoding="utf-8")
+    result: Dict[str, bool] = {}
+    for line_desc, xpath in LINES_TO_XPATH.items():
+        prefix = line_desc.split(":")[0].strip()
+        line_id = prefix.replace("Line ", "").strip() if prefix.startswith("Line ") else prefix
+        expected_value = _parse_xml_value(xml_str, xpath)
+        generated_value = _draft_amount_for_line(draft, line_desc)
+        result[line_id] = generated_value == expected_value
+    return result

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase total commitments to extend credit and other commitments",
+      "answer": 0.0527,
+      "answer_raw": "0.0527",
+      "program": "subtract(181612, 172521), divide(#0, 172521)"
+    }
+  ]
+}

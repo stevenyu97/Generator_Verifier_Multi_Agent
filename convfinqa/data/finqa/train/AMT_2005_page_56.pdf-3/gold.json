@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the annual interest expense related to the ati 7.25% ( 7.25 % ) notes , in millions?",
+      "answer": 29.0,
+      "answer_raw": "29.0",
+      "program": "multiply(400.0, 7.25%)"
+    }
+  ]
+}

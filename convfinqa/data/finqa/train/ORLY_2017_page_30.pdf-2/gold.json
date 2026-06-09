@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was the o 2019reilly automotive inc five year return less than the s&p 500 retail index?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(265, 269)"
+    }
+  ]
+}

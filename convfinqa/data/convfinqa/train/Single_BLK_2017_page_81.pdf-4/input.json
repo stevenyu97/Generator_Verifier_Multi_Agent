@@ -1,0 +1,85 @@
+{
+  "input": {
+    "id": "Single_BLK/2017/page_81.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "sources of blackrock 2019s operating cash primarily include investment advisory , administration fees and securities lending revenue , performance fees , revenue from technology and risk management services , advisory and other revenue and distribution fees .",
+      "blackrock uses its cash to pay all operating expense , interest and principal on borrowings , income taxes , dividends on blackrock 2019s capital stock , repurchases of the company 2019s stock , capital expenditures and purchases of co-investments and seed investments .",
+      "for details of the company 2019s gaap cash flows from operating , investing and financing activities , see the consolidated statements of cash flows contained in part ii , item 8 of this filing .",
+      "cash flows from operating activities , excluding the impact of consolidated sponsored investment funds , primarily include the receipt of investment advisory and administration fees , securities lending revenue and performance fees offset by the payment of operating expenses incurred in the normal course of business , including year-end incentive compensation accrued for in the prior year .",
+      "cash outflows from investing activities , excluding the impact of consolidated sponsored investment funds , for 2017 were $ 517 million and primarily reflected $ 497 million of investment purchases , $ 155 million of purchases of property and equipment , $ 73 million related to the first reserve transaction and $ 29 million related to the cachematrix transaction , partially offset by $ 205 million of net proceeds from sales and maturities of certain investments .",
+      "cash outflows from financing activities , excluding the impact of consolidated sponsored investment funds , for 2017 were $ 3094 million , primarily resulting from $ 1.4 billion of share repurchases , including $ 1.1 billion in open market- transactions and $ 321 million of employee tax withholdings related to employee stock transactions , $ 1.7 billion of cash dividend payments and $ 700 million of repayments of long- term borrowings , partially offset by $ 697 million of proceeds from issuance of long-term borrowings .",
+      "the company manages its financial condition and funding to maintain appropriate liquidity for the business .",
+      "liquidity resources at december 31 , 2017 and 2016 were as follows : ( in millions ) december 31 , december 31 , cash and cash equivalents ( 1 ) $ 6894 $ 6091 cash and cash equivalents held by consolidated vres ( 2 ) ( 63 ) ( 53 ) ."
+    ],
+    "post_text": [
+      "total liquidity resources ( 3 ) $ 10831 $ 10038 ( 1 ) the percentage of cash and cash equivalents held by the company 2019s u.s .",
+      "subsidiaries was approximately 40% ( 40 % ) and 50% ( 50 % ) at december 31 , 2017 and 2016 , respectively .",
+      "see net capital requirements herein for more information on net capital requirements in certain regulated subsidiaries .",
+      "( 2 ) the company cannot readily access such cash to use in its operating activities .",
+      "( 3 ) amounts do not reflect a reduction for year-end incentive compensation accruals of approximately $ 1.5 billion and $ 1.3 billion for 2017 and 2016 , respectively , which are paid in the first quarter of the following year .",
+      "total liquidity resources increased $ 793 million during 2017 , primarily reflecting cash flows from operating activities , partially offset by cash payments of 2016 year-end incentive awards , share repurchases of $ 1.4 billion and cash dividend payments of $ 1.7 billion .",
+      "a significant portion of the company 2019s $ 3154 million of total investments , as adjusted , is illiquid in nature and , as such , cannot be readily convertible to cash .",
+      "share repurchases .",
+      "the company repurchased 2.6 million common shares in open market transactions under the share repurchase program for approximately $ 1.1 billion during 2017 .",
+      "at december 31 , 2017 , there were 6.4 million shares still authorized to be repurchased .",
+      "net capital requirements .",
+      "the company is required to maintain net capital in certain regulated subsidiaries within a number of jurisdictions , which is partially maintained by retaining cash and cash equivalent investments in those subsidiaries or jurisdictions .",
+      "as a result , such subsidiaries of the company may be restricted in their ability to transfer cash between different jurisdictions and to their parents .",
+      "additionally , transfers of cash between international jurisdictions may have adverse tax consequences that could discourage such transfers .",
+      "blackrock institutional trust company , n.a .",
+      "( 201cbtc 201d ) is chartered as a national bank that does not accept client deposits and whose powers are limited to trust and other fiduciary activities .",
+      "btc provides investment management services , including investment advisory and securities lending agency services , to institutional clients .",
+      "btc is subject to regulatory capital and liquid asset requirements administered by the office of the comptroller of the currency .",
+      "at december 31 , 2017 and 2016 , the company was required to maintain approximately $ 1.8 billion and $ 1.4 billion , respectively , in net capital in certain regulated subsidiaries , including btc , entities regulated by the financial conduct authority and prudential regulation authority in the united kingdom , and the company 2019s broker-dealers .",
+      "the company was in compliance with all applicable regulatory net capital requirements .",
+      "undistributed earnings of foreign subsidiaries .",
+      "as a result of the 2017 tax act and the one-time mandatory deemed repatriation tax on untaxed accumulated foreign earnings , a provisional amount of u.s .",
+      "income taxes was provided on the undistributed foreign earnings .",
+      "the financial statement basis in excess of tax basis of its foreign subsidiaries remains indefinitely reinvested in foreign operations .",
+      "the company will continue to evaluate its capital management plans throughout 2018 .",
+      "short-term borrowings 2017 revolving credit facility .",
+      "the company 2019s credit facility has an aggregate commitment amount of $ 4.0 billion and was amended in april 2017 to extend the maturity date to april 2022 ( the 201c2017 credit facility 201d ) .",
+      "the 2017 credit facility permits the company to request up to an additional $ 1.0 billion of borrowing capacity , subject to lender credit approval , increasing the overall size of the 2017 credit facility to an aggregate principal amount not to exceed $ 5.0 billion .",
+      "interest on borrowings outstanding accrues at a rate based on the applicable london interbank offered rate plus a spread .",
+      "the 2017 credit facility requires the company ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "december 31 2017",
+        "december 31 2016"
+      ],
+      [
+        "cash and cash equivalents ( 1 )",
+        "$ 6894",
+        "$ 6091"
+      ],
+      [
+        "cash and cash equivalents held by consolidated vres ( 2 )",
+        "-63 ( 63 )",
+        "-53 ( 53 )"
+      ],
+      [
+        "subtotal",
+        "6831",
+        "6038"
+      ],
+      [
+        "credit facility 2014 undrawn",
+        "4000",
+        "4000"
+      ],
+      [
+        "total liquidity resources ( 3 )",
+        "$ 10831",
+        "$ 10038"
+      ]
+    ],
+    "questions": [
+      "what is the net change of the balance of cash and cash equivalents during 2017?",
+      "what was the balance at the start of 2017?",
+      "what is the net change over the starting balance?"
+    ]
+  }
+}

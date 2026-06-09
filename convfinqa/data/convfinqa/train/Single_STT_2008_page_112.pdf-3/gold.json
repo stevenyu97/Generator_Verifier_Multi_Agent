@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of standby letters of credit in 2008?",
+      "answer": 6061.0,
+      "answer_raw": "6061.0",
+      "program": "6061"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2007?",
+      "answer": 4711.0,
+      "answer_raw": "4711.0",
+      "program": "4711"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 1350.0,
+      "answer_raw": "1350.0",
+      "program": "subtract(6061, 4711)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the percent change?",
+      "answer": 0.28656,
+      "answer_raw": "0.28656",
+      "program": "subtract(6061, 4711), divide(#0, 4711)"
+    }
+  ]
+}

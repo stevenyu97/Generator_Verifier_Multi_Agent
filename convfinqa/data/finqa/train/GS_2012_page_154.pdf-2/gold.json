@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in millions of securities sold under agreements to repurchase between 2011 and 2012?",
+      "answer": 7305.0,
+      "answer_raw": "7305.0",
+      "program": "subtract(171807, 164502)"
+    }
+  ]
+}

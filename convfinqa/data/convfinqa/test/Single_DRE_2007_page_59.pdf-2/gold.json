@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total goodwill?",
+      "answer": 14722.0,
+      "answer_raw": "14722.0",
+      "program": "14722"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about total assets?",
+      "answer": 867558.0,
+      "answer_raw": "867558.0",
+      "program": "867558"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what fraction comes from goodwill?",
+      "answer": 0.01697,
+      "answer_raw": "0.01697",
+      "program": "divide(14722, 867558)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about in percentage?",
+      "answer": 1.69695,
+      "answer_raw": "1.69695",
+      "program": "divide(14722, 867558), multiply(#0, const_100)"
+    }
+  ]
+}

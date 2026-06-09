@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the interest net of capitalized interest in 2017?",
+      "answer": 275305.0,
+      "answer_raw": "275305.0",
+      "program": "275305"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2016?",
+      "answer": 252030.0,
+      "answer_raw": "252030.0",
+      "program": "252030"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the 2017 amount as a portion of the 2016?",
+      "answer": 1.09235,
+      "answer_raw": "1.09235",
+      "program": "divide(275305, 252030)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is this value without the portion equivalent to the 2016 amount?",
+      "answer": 0.09235,
+      "answer_raw": "0.09235",
+      "program": "divide(275305, 252030), subtract(#0, const_1)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and concerning the subsequent year, what was the total of accrued capital expenditures in 2018 as a portion of that total in 2017?",
+      "answer": 1.22423,
+      "answer_raw": "1.22423",
+      "program": "divide(475, 388)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and what becomes this value excluding the part representing to the 2017 total?",
+      "answer": 0.22423,
+      "answer_raw": "0.22423",
+      "program": "divide(475, 388), subtract(#0, const_1)"
+    }
+  ]
+}

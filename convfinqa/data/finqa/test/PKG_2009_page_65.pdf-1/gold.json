@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "purchase commitments ( in thousands ) totaled what for 2010 and 2011?",
+      "answer": 12893.0,
+      "answer_raw": "12893.0",
+      "program": "add(6951, 5942)"
+    }
+  ]
+}

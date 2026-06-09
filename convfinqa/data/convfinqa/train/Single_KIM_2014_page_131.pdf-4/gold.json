@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of the balance at the beginning of the years of 2013 and 2014?",
+      "answer": 21480.0,
+      "answer_raw": "21480.0",
+      "program": "add(4590, 16890)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the sum at the end of 2014?",
+      "answer": 4649.0,
+      "answer_raw": "4649.0",
+      "program": "4649"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the balance at the start of the year?",
+      "answer": 4590.0,
+      "answer_raw": "4590.0",
+      "program": "4590"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the sum of the balances at the start and end of 2014?",
+      "answer": 9239.0,
+      "answer_raw": "9239.0",
+      "program": "add(4590, 16890), add(4649, 4590)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the ratio of the beginning balances and sum of balances during 2014?",
+      "answer": 2.32493,
+      "answer_raw": "2.32493",
+      "program": "add(4590, 16890), add(4649, 4590), divide(#0, #1)"
+    }
+  ]
+}

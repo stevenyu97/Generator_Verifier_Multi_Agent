@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in 401 ( k ) contributions from 2016 to 2017?",
+      "answer": -0.00648,
+      "answer_raw": "-0.00648",
+      "program": "subtract(613, 617), divide(#0, 617)"
+    }
+  ]
+}

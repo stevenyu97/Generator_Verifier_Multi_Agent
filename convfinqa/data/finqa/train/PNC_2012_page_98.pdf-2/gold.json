@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2012 quarterly residential mortgage repurchase claims , what was the change in millions between originations from first and second quarter of 2007?",
+      "answer": 10.0,
+      "answer_raw": "10.0",
+      "program": "subtract(100, 90)"
+    }
+  ]
+}

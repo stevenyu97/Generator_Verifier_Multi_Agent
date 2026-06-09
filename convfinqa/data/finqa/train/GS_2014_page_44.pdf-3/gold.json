@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions for 2014 , 2013 , and 2012 , what was the minimum amount of commissions and fees?",
+      "answer": 3053.0,
+      "answer_raw": "3053.0",
+      "program": "table_min(commissions and fees, none)"
+    }
+  ]
+}

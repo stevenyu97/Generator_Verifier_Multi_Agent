@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would 2004 sales have been in the glass segment without the positive effects of foreign currency translation , in millions?",
+      "answer": 2107.0,
+      "answer_raw": "2107.0",
+      "program": "subtract(const_1, 2%), multiply(#0, 2150)"
+    }
+  ]
+}

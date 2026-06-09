@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "AON/2011/page_134.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "aon has certain contractual contingent guarantees for premium payments owed by clients to certain insurance companies .",
+      "the maximum exposure with respect to such contractual contingent guarantees was approximately $ 48 million at december 31 , 2011 .",
+      "aon has provided commitments to fund certain limited partnerships in which it has an interest in the event that the general partners request funding .",
+      "some of these commitments have specific expiration dates and the maximum potential funding under these commitments was $ 64 million at december 31 , 2011 .",
+      "during 2011 , the company funded $ 15 million of these commitments .",
+      "aon expects that as prudent business interests dictate , additional guarantees and indemnifications may be issued from time to time .",
+      "17 .",
+      "related party transactions during 2011 , the company , in the ordinary course of business , provided retail brokerage , consulting and financial advisory services to , and received wholesale brokerage services from , an entity that is controlled by one of the company 2019s stockholders .",
+      "these transactions were negotiated at an arms-length basis and contain customary terms and conditions .",
+      "during 2011 , commissions and fee revenue from these transactions was approximately $ 9 million .",
+      "18 .",
+      "segment information the company has two reportable operating segments : risk solutions and hr solutions .",
+      "unallocated income and expenses , when combined with the operating segments and after the elimination of intersegment revenues and expenses , total to the amounts in the consolidated financial statements .",
+      "reportable operating segments have been determined using a management approach , which is consistent with the basis and manner in which aon 2019s chief operating decision maker ( 2018 2018codm 2019 2019 ) uses financial information for the purposes of allocating resources and assessing performance .",
+      "the codm assesses performance based on operating segment operating income and generally accounts for intersegment revenue as if the revenue were from third parties and at what management believes are current market prices .",
+      "the company does not present net assets by segment as this information is not reviewed by the codm .",
+      "risk solutions acts as an advisor and insurance and reinsurance broker , helping clients manage their risks , via consultation , as well as negotiation and placement of insurance risk with insurance carriers through aon 2019s global distribution network .",
+      "hr solutions partners with organizations to solve their most complex benefits , talent and related financial challenges , and improve business performance by designing , implementing , communicating and administering a wide range of human capital , retirement , investment management , health care , compensation and talent management strategies .",
+      "aon 2019s total revenue is as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "years ended december 31",
+        "2011",
+        "2010",
+        "2009"
+      ],
+      [
+        "risk solutions",
+        "$ 6817",
+        "$ 6423",
+        "$ 6305"
+      ],
+      [
+        "hr solutions",
+        "4501",
+        "2111",
+        "1267"
+      ],
+      [
+        "intersegment elimination",
+        "-31 ( 31 )",
+        "-22 ( 22 )",
+        "-26 ( 26 )"
+      ],
+      [
+        "total operating segments",
+        "11287",
+        "8512",
+        "7546"
+      ],
+      [
+        "unallocated",
+        "2014",
+        "2014",
+        "49"
+      ],
+      [
+        "total revenue",
+        "$ 11287",
+        "$ 8512",
+        "$ 7595"
+      ]
+    ],
+    "questions": [
+      "what is the highest value for total operating segments during this period?"
+    ]
+  }
+}

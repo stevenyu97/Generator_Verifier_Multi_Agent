@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change the in net revenue from 2012 to 2013?",
+      "answer": 555.0,
+      "answer_raw": "555.0",
+      "program": "subtract(5524, 4969)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much, in percentage, does the retail electric price represent in relation to this change?",
+      "answer": 0.42523,
+      "answer_raw": "0.42523",
+      "program": "subtract(5524, 4969), divide(236, #0)"
+    }
+  ]
+}

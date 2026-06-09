@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the total of inventories due to the adoption of lifo during 2006?",
+      "answer": 82767.0,
+      "answer_raw": "82767.0",
+      "program": "82767"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that total in the beginning of the year?",
+      "answer": 1380573.0,
+      "answer_raw": "1380573.0",
+      "program": "1380573"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this total, in percentage?",
+      "answer": 0.05995,
+      "answer_raw": "0.05995",
+      "program": "divide(82767, 1380573)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and for the year of 2005, how much does the change in the total of inventories represent in relation to that in the beginning of the year, in percentage?",
+      "answer": 0.05624,
+      "answer_raw": "0.05624",
+      "program": "divide(72789, 1294310)"
+    }
+  ]
+}

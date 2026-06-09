@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2012 what was the percent of the adjustments related to aoci for afs securities and defined benefit pension and opeb plans as part of the tier 1 common under basel i rules",
+      "answer": 0.02905,
+      "answer_raw": "0.02905",
+      "program": "divide(4077, 140342)"
+    }
+  ]
+}

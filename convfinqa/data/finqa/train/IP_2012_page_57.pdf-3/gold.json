@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average net sales in 2011 and 2012 in millions",
+      "answer": 110.0,
+      "answer_raw": "110.0",
+      "program": "add(185, 35), divide(#0, const_2)"
+    }
+  ]
+}

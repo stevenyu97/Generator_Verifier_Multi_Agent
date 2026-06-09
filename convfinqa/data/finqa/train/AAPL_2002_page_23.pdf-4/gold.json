@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the lowest gross margin percentage?",
+      "answer": 0.23,
+      "answer_raw": "0.23",
+      "program": "table_min(gross margin percentage, none)"
+    }
+  ]
+}

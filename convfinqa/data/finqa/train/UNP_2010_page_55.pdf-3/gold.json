@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions , what is the average for other revenue from 2008-2010?",
+      "answer": 839.33333,
+      "answer_raw": "839.33333",
+      "program": "add(896, 770), add(#0, 852), divide(#1, const_3)"
+    }
+  ]
+}

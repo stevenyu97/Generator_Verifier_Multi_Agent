@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2007 what was the percent of the total recurring capital expenditures that was associated with recurring leasing costs",
+      "answer": 0.37514,
+      "answer_raw": "0.37514",
+      "program": "divide(32238, 85936)"
+    }
+  ]
+}

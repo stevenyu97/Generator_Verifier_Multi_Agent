@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the growth percent of the total gain ( loss ) recognized in other comprehensive income for fuel hedges from 2012 to 2013",
+      "answer": -0.29412,
+      "answer_raw": "-0.29412",
+      "program": "subtract(2.4, 3.4), divide(#0, 3.4)"
+    }
+  ]
+}

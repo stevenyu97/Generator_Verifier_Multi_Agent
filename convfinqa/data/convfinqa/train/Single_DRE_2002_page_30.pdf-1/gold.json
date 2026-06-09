@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total basic net income for 2001 and 2002?",
+      "answer": 391239.0,
+      "answer_raw": "391239.0",
+      "program": "add(161272, 229967)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and including 2000?",
+      "answer": 604197.0,
+      "answer_raw": "604197.0",
+      "program": "add(161272, 229967), add(#0, 212958)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the average of this value over these years?",
+      "answer": 201399.0,
+      "answer_raw": "201399.0",
+      "program": "add(161272, 229967), add(#0, 212958), divide(#1, const_3)"
+    }
+  ]
+}

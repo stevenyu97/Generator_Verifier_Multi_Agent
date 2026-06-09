@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total cash used for the repurchase of shares during the last three months of the year , ( in millions ) ?",
+      "answer": 113.06943,
+      "answer_raw": "113.06943",
+      "program": "multiply(5148881, 21.96), divide(#0, const_1000000)"
+    }
+  ]
+}

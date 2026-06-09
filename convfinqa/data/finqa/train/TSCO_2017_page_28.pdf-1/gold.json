@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total square footage of properties charged to sg&a and not cost of sales?",
+      "answer": 300000.0,
+      "answer_raw": "300000.0",
+      "program": "add(8000, 260000), add(#0, 32000)"
+    }
+  ]
+}

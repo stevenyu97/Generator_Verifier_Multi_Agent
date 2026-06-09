@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total contractual obligations and commitments as of september 27 , 2003 : payments due is composed of operating leases?",
+      "answer": 0.96875,
+      "answer_raw": "0.96875",
+      "program": "divide(62934, 64964)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in earnings attributable to altria group from 2016 to 2017?",
+      "answer": -4017.0,
+      "answer_raw": "-4017.0",
+      "program": "subtract(10222, 14239)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the 2016 value?",
+      "answer": 14239.0,
+      "answer_raw": "14239.0",
+      "program": "14239"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the percent change?",
+      "answer": -0.28211,
+      "answer_raw": "-0.28211",
+      "program": "subtract(10222, 14239), divide(#0, 14239)"
+    }
+  ]
+}

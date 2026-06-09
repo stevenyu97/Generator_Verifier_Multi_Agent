@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much did cash cash equivalents and marketable securities increase from 2008 to 2010?",
+      "answer": 1.08293,
+      "answer_raw": "1.08293",
+      "program": "subtract(51011, 24490), divide(#0, 24490)"
+    }
+  ]
+}

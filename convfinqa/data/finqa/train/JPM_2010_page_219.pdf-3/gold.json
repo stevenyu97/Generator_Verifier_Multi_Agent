@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2010 what was the percent of the securities borrowed accounted for at fair value",
+      "answer": 0.00011,
+      "answer_raw": "0.00011",
+      "program": "divide(14.0, 123587)"
+    }
+  ]
+}

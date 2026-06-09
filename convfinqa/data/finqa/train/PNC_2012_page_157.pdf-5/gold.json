@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average , in millions , of pnc's total recognized integration charges from 2011-2012?",
+      "answer": 154.5,
+      "answer_raw": "154.5",
+      "program": "add(267, 42), divide(#0, const_2)"
+    }
+  ]
+}

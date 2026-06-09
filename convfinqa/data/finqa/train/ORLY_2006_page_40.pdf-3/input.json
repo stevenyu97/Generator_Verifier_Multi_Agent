@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "ORLY/2006/page_40.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "o 2019 r e i l l y a u t o m o t i v e 2 0 0 6 a n n u a l r e p o r t p a g e 38 $ 11080000 , in the years ended december 31 , 2006 , 2005 and 2004 , respectively .",
+      "the remaining unrecognized compensation cost related to unvested awards at december 31 , 2006 , was $ 7702000 and the weighted-average period of time over which this cost will be recognized is 3.3 years .",
+      "employee stock purchase plan the company 2019s employee stock purchase plan permits all eligible employees to purchase shares of the company 2019s common stock at 85% ( 85 % ) of the fair market value .",
+      "participants may authorize the company to withhold up to 5% ( 5 % ) of their annual salary to participate in the plan .",
+      "the stock purchase plan authorizes up to 2600000 shares to be granted .",
+      "during the year ended december 31 , 2006 , the company issued 165306 shares under the purchase plan at a weighted average price of $ 27.36 per share .",
+      "during the year ended december 31 , 2005 , the company issued 161903 shares under the purchase plan at a weighted average price of $ 27.57 per share .",
+      "during the year ended december 31 , 2004 , the company issued 187754 shares under the purchase plan at a weighted average price of $ 20.85 per share .",
+      "sfas no .",
+      "123r requires compensation expense to be recognized based on the discount between the grant date fair value and the employee purchase price for shares sold to employees .",
+      "during the year ended december 31 , 2006 , the company recorded $ 799000 of compensation cost related to employee share purchases and a corresponding income tax benefit of $ 295000 .",
+      "at december 31 , 2006 , approximately 400000 shares were reserved for future issuance .",
+      "other employee benefit plans the company sponsors a contributory profit sharing and savings plan that covers substantially all employees who are at least 21 years of age and have at least six months of service .",
+      "the company has agreed to make matching contributions equal to 50% ( 50 % ) of the first 2% ( 2 % ) of each employee 2019s wages that are contributed and 25% ( 25 % ) of the next 4% ( 4 % ) of each employee 2019s wages that are contributed .",
+      "the company also makes additional discretionary profit sharing contributions to the plan on an annual basis as determined by the board of directors .",
+      "the company 2019s matching and profit sharing contributions under this plan are funded in the form of shares of the company 2019s common stock .",
+      "a total of 4200000 shares of common stock have been authorized for issuance under this plan .",
+      "during the year ended december 31 , 2006 , the company recorded $ 6429000 of compensation cost for contributions to this plan and a corresponding income tax benefit of $ 2372000 .",
+      "during the year ended december 31 , 2005 , the company recorded $ 6606000 of compensation cost for contributions to this plan and a corresponding income tax benefit of $ 2444000 .",
+      "during the year ended december 31 , 2004 , the company recorded $ 5278000 of compensation cost for contributions to this plan and a corresponding income tax benefit of $ 1969000 .",
+      "the compensation cost recorded in 2006 includes matching contributions made in 2006 and profit sharing contributions accrued in 2006 to be funded with issuance of shares of common stock in 2007 .",
+      "the company issued 204000 shares in 2006 to fund profit sharing and matching contributions at an average grant date fair value of $ 34.34 .",
+      "the company issued 210461 shares in 2005 to fund profit sharing and matching contributions at an average grant date fair value of $ 25.79 .",
+      "the company issued 238828 shares in 2004 to fund profit sharing and matching contributions at an average grant date fair value of $ 19.36 .",
+      "a portion of these shares related to profit sharing contributions accrued in prior periods .",
+      "at december 31 , 2006 , approximately 1061000 shares were reserved for future issuance under this plan .",
+      "the company has in effect a performance incentive plan for the company 2019s senior management under which the company awards shares of restricted stock that vest equally over a three-year period and are held in escrow until such vesting has occurred .",
+      "shares are forfeited when an employee ceases employment .",
+      "a total of 800000 shares of common stock have been authorized for issuance under this plan .",
+      "shares awarded under this plan are valued based on the market price of the company 2019s common stock on the date of grant and compensation cost is recorded over the vesting period .",
+      "the company recorded $ 416000 of compensation cost for this plan for the year ended december 31 , 2006 and recognized a corresponding income tax benefit of $ 154000 .",
+      "the company recorded $ 289000 of compensation cost for this plan for the year ended december 31 , 2005 and recognized a corresponding income tax benefit of $ 107000 .",
+      "the company recorded $ 248000 of compensation cost for this plan for the year ended december 31 , 2004 and recognized a corresponding income tax benefit of $ 93000 .",
+      "the total fair value of shares vested ( at vest date ) for the years ended december 31 , 2006 , 2005 and 2004 were $ 503000 , $ 524000 and $ 335000 , respectively .",
+      "the remaining unrecognized compensation cost related to unvested awards at december 31 , 2006 was $ 536000 .",
+      "the company awarded 18698 shares under this plan in 2006 with an average grant date fair value of $ 33.12 .",
+      "the company awarded 14986 shares under this plan in 2005 with an average grant date fair value of $ 25.41 .",
+      "the company awarded 15834 shares under this plan in 2004 with an average grant date fair value of $ 19.05 .",
+      "compensation cost for shares awarded in 2006 will be recognized over the three-year vesting period .",
+      "changes in the company 2019s restricted stock for the year ended december 31 , 2006 were as follows : weighted- average grant date shares fair value ."
+    ],
+    "post_text": [
+      "at december 31 , 2006 , approximately 659000 shares were reserved for future issuance under this plan .",
+      "n o t e s t o c o n s o l i d a t e d f i n a n c i a l s t a t e m e n t s ( cont inued ) ."
+    ],
+    "table": [
+      [
+        "",
+        "shares",
+        "weighted-average grant date fair value"
+      ],
+      [
+        "non-vested at december 31 2005",
+        "15052",
+        "$ 22.68"
+      ],
+      [
+        "granted during the period",
+        "18698",
+        "33.12"
+      ],
+      [
+        "vested during the period",
+        "-15685 ( 15685 )",
+        "26.49"
+      ],
+      [
+        "forfeited during the period",
+        "-1774 ( 1774 )",
+        "27.94"
+      ],
+      [
+        "non-vested at december 31 2006",
+        "16291",
+        "$ 30.80"
+      ]
+    ],
+    "questions": [
+      "what was the total value of the shares awarded under this plan in 2006 based on grant date value?"
+    ]
+  }
+}

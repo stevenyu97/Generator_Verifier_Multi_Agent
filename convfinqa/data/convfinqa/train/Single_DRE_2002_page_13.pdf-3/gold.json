@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in general and administrative expense between 2001 and 2002?",
+      "answer": 9.8,
+      "answer_raw": "9.8",
+      "program": "subtract(25.4, 15.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the general and administrative expense in 2001?",
+      "answer": 15.6,
+      "answer_raw": "15.6",
+      "program": "15.6"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what fraction does this represent?",
+      "answer": 0.62821,
+      "answer_raw": "0.62821",
+      "program": "subtract(25.4, 15.6), divide(#0, 15.6)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about the percentage change?",
+      "answer": 62.82051,
+      "answer_raw": "62.82051",
+      "program": "subtract(25.4, 15.6), divide(#0, 15.6), multiply(#1, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is 21% of the 2006 segment net sales?",
+      "answer": 1924.44,
+      "answer_raw": "1924.44",
+      "program": "multiply(9164, 21%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is 33% of the 2008 segment net sales?",
+      "answer": 3328.38,
+      "answer_raw": "3328.38",
+      "program": "multiply(9164, 21%), multiply(10086, 33%)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference?",
+      "answer": 1403.94,
+      "answer_raw": "1403.94",
+      "program": "multiply(9164, 21%), multiply(10086, 33%), subtract(#1, #0)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the percent change?",
+      "answer": 0.72953,
+      "answer_raw": "0.72953",
+      "program": "multiply(9164, 21%), multiply(10086, 33%), subtract(#1, #0), divide(#2, #0)"
+    }
+  ]
+}

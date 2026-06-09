@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in stock options outstanding for 2007?",
+      "answer": 624.0,
+      "answer_raw": "624.0",
+      "program": "subtract(14950, 14326)"
+    }
+  ]
+}

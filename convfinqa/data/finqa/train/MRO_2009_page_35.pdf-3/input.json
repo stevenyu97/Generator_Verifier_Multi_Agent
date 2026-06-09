@@ -1,0 +1,101 @@
+{
+  "input": {
+    "id": "MRO/2009/page_35.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "the following table sets forth our refined products sales by product group and our average sales price for each of the last three years .",
+      "refined product sales ( thousands of barrels per day ) 2009 2008 2007 ."
+    ],
+    "post_text": [
+      "we sell gasoline , gasoline blendstocks and no .",
+      "1 and no .",
+      "2 fuel oils ( including kerosene , jet fuel and diesel fuel ) to wholesale marketing customers in the midwest , upper great plains , gulf coast and southeastern regions of the united states .",
+      "we sold 51 percent of our gasoline volumes and 87 percent of our distillates volumes on a wholesale or spot market basis in 2009 .",
+      "the demand for gasoline is seasonal in many of our markets , with demand typically being at its highest levels during the summer months .",
+      "we have blended ethanol into gasoline for over 20 years and began expanding our blending program in 2007 , in part due to federal regulations that require us to use specified volumes of renewable fuels .",
+      "ethanol volumes sold in blended gasoline were 60 mbpd in 2009 , 54 mbpd in 2008 and 40 mbpd in 2007 .",
+      "the future expansion or contraction of our ethanol blending program will be driven by the economics of the ethanol supply and by government regulations .",
+      "we sell reformulated gasoline , which is also blended with ethanol , in parts of our marketing territory , including : chicago , illinois ; louisville , kentucky ; northern kentucky ; milwaukee , wisconsin , and hartford , illinois .",
+      "we also sell biodiesel-blended diesel in minnesota , illinois and kentucky .",
+      "we produce propane at all seven of our refineries .",
+      "propane is primarily used for home heating and cooking , as a feedstock within the petrochemical industry , for grain drying and as a fuel for trucks and other vehicles .",
+      "our propane sales are typically split evenly between the home heating market and industrial consumers .",
+      "we are a producer and marketer of petrochemicals and specialty products .",
+      "product availability varies by refinery and includes benzene , cumene , dilute naphthalene oil , molten maleic anhydride , molten sulfur , propylene , toluene and xylene .",
+      "we market propylene , cumene and sulfur domestically to customers in the chemical industry .",
+      "we sell maleic anhydride throughout the united states and canada .",
+      "we also have the capacity to produce 1400 tons per day of anode grade coke at our robinson refinery , which is used to make carbon anodes for the aluminum smelting industry , and 5500 tons per day of fuel grade coke at the garyville refinery , which is used for power generation and in miscellaneous industrial applications .",
+      "in early 2009 , we discontinued production and sales of petroleum pitch and aliphatic solvents at our catlettsburg refinery .",
+      "we produce and market heavy residual fuel oil or related components at all seven of our refineries .",
+      "another product of crude oil , heavy residual fuel oil , is primarily used in the utility and ship bunkering ( fuel ) industries , though there are other more specialized uses of the product .",
+      "we have refinery based asphalt production capacity of up to 108 mbpd .",
+      "we market asphalt through 33 owned or leased terminals throughout the midwest and southeast .",
+      "we have a broad customer base , including approximately 675 asphalt-paving contractors , government entities ( states , counties , cities and townships ) and asphalt roofing shingle manufacturers .",
+      "we sell asphalt in the wholesale and cargo markets via rail and barge .",
+      "we also produce asphalt cements , polymer modified asphalt , emulsified asphalt and industrial asphalts .",
+      "in 2007 , we acquired a 35 percent interest in an entity which owns and operates a 110-million-gallon-per-year ethanol production facility in clymers , indiana .",
+      "we also own a 50 percent interest in an entity which owns a 110-million-gallon-per-year ethanol production facility in greenville , ohio .",
+      "the greenville plant began production in february 2008 .",
+      "both of these facilities are managed by a co-owner. ."
+    ],
+    "table": [
+      [
+        "( thousands of barrels per day )",
+        "2009",
+        "2008",
+        "2007"
+      ],
+      [
+        "gasoline",
+        "830",
+        "756",
+        "791"
+      ],
+      [
+        "distillates",
+        "357",
+        "375",
+        "377"
+      ],
+      [
+        "propane",
+        "23",
+        "22",
+        "23"
+      ],
+      [
+        "feedstocks and special products",
+        "75",
+        "100",
+        "103"
+      ],
+      [
+        "heavy fuel oil",
+        "24",
+        "23",
+        "29"
+      ],
+      [
+        "asphalt",
+        "69",
+        "76",
+        "87"
+      ],
+      [
+        "total",
+        "1378",
+        "1352",
+        "1410"
+      ],
+      [
+        "average sales price ( dollars per barrel )",
+        "$ 70.86",
+        "$ 109.49",
+        "$ 86.53"
+      ]
+    ],
+    "questions": [
+      "what were total ethanol volumes sold in blended gasoline in 2009 , 2008 , and 2007 in tbd?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the average sales price listed above , what was the refined product sales total for 2007?",
+      "answer": 122007.3,
+      "answer_raw": "122007.3",
+      "program": "multiply(1410, 86.53)"
+    }
+  ]
+}

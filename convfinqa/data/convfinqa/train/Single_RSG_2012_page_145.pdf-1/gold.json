@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total restricted cash and marketable securities in 2012?",
+      "answer": 164.2,
+      "answer_raw": "164.2",
+      "program": "164.2"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2011?",
+      "answer": 189.6,
+      "answer_raw": "189.6",
+      "program": "189.6"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the difference between these two years?",
+      "answer": -25.4,
+      "answer_raw": "-25.4",
+      "program": "subtract(164.2, 189.6)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage decline during this time?",
+      "answer": -0.13397,
+      "answer_raw": "-0.13397",
+      "program": "subtract(164.2, 189.6), divide(#0, 189.6)"
+    }
+  ]
+}

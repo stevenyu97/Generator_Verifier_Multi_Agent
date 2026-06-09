@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much of the 2013 amortization expense is due to the term c-2 loan facility conversion?",
+      "answer": 0.2,
+      "answer_raw": "0.2",
+      "program": "divide(1, 5)"
+    }
+  ]
+}

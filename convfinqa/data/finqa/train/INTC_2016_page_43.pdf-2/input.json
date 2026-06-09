@@ -1,0 +1,86 @@
+{
+  "input": {
+    "id": "INTC/2016/page_43.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis of financial condition and results of operations ( continued ) the following results drove changes in ccg operating income by approximately the amounts indicated: ."
+    ],
+    "post_text": [
+      "1 higher gross margin from higher ccg platform revenue was driven by higher average selling prices on notebook and desktop platforms , offset by lower desktop and notebook platform unit sales .",
+      "2 lower gross margin from lower ccg platform revenue was driven by lower desktop and notebook platform unit sales , partially offset by higher average selling prices on desktop , notebook , and tablet platforms .",
+      "data center group segment product overview the dcg operating segment offers platforms designed to provide leading energy-efficient performance for all server , network , and storage applications .",
+      "in addition , dcg focuses on lowering the total cost of ownership on other specific workload- optimizations for the enterprise , cloud service providers , and communications service provider market segments .",
+      "in 2016 , we launched the following platforms with an array of functionalities and advancements : 2022 intel ae xeon ae processor e5 v4 family , the foundation for high performing clouds and delivers energy-efficient performance for server , network , and storage workloads .",
+      "2022 intel xeon processor e7 v4 family , targeted at platforms requiring four or more cpus ; this processor family delivers high performance and is optimized for real-time analytics and in-memory computing , along with industry-leading reliability , availability , and serviceability .",
+      "2022 intel ae xeon phi 2122 product family , formerly code-named knights landing , with up to 72 high-performance intel processor cores , integrated memory and fabric , and a common software programming model with intel xeon processors .",
+      "the intel xeon phi product family is designed for highly parallel compute and memory bandwidth-intensive workloads .",
+      "intel xeon phi processors are positioned to increase the performance of supercomputers , enabling trillions of calculations per second , and to address emerging data analytics and artificial intelligence solutions .",
+      "in 2017 , we expect to release our next generation of intel xeon processors for compute , storage , and network ; a next-generation intel xeon phi processor optimized for deep learning ; and a suite of single-socket products , including next-generation intel xeon e3 processors , next-generation intel atom processors , and next-generation intel xeon-d processors for dense solutions. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "operating income reconciliation"
+      ],
+      [
+        "$ 10646",
+        "2016 ccg operating income"
+      ],
+      [
+        "1250",
+        "lower ccg platform unit cost"
+      ],
+      [
+        "905",
+        "lower ccg operating expense"
+      ],
+      [
+        "625",
+        "higher gross margin from ccg platform revenue1"
+      ],
+      [
+        "-645 ( 645 )",
+        "higher factory start-up costs primarily driven by the ramp of our 10nm process technology"
+      ],
+      [
+        "345",
+        "other"
+      ],
+      [
+        "$ 8166",
+        "2015 ccg operating income"
+      ],
+      [
+        "-2060 ( 2060 )",
+        "higher ccg platform unit costs"
+      ],
+      [
+        "-1565 ( 1565 )",
+        "lower gross margin from ccg platform revenue2"
+      ],
+      [
+        "435",
+        "lower factory start-up costs primarily driven by the ramp of our 14nm process technology"
+      ],
+      [
+        "430",
+        "lower production costs primarily on our 14nm products treated as period charges in 2014"
+      ],
+      [
+        "375",
+        "lower operating expense"
+      ],
+      [
+        "224",
+        "other"
+      ],
+      [
+        "$ 10327",
+        "2014 ccg operating income"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in ccg operating income in 2015?"
+    ]
+  }
+}

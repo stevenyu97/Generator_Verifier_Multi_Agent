@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what proportion of total subsidiary trusts obligations is attributable to the bank in 2011?",
+      "answer": 0.49062,
+      "answer_raw": "0.49062",
+      "program": "divide(35066, 71473)"
+    }
+  ]
+}

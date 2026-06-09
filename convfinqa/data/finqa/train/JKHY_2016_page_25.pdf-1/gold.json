@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage performance growth in the 5 year cumulative total return of peer group from 2014 to 2016",
+      "answer": 0.25924,
+      "answer_raw": "0.25924",
+      "program": "subtract(219.46, 174.28), divide(#0, 174.28)"
+    }
+  ]
+}

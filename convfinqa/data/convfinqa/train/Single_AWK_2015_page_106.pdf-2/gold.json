@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the allowance for other funds used during construction from 2013 to 2014?",
+      "answer": -4.0,
+      "answer_raw": "-4.0",
+      "program": "subtract(const_9, 13)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to that allowance in 2013?",
+      "answer": -0.44444,
+      "answer_raw": "-0.44444",
+      "program": "subtract(const_9, 13), divide(#0, const_9)"
+    }
+  ]
+}

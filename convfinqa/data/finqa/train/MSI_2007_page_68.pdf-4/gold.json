@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2007what was the company 2019s consolidated net sales in millions",
+      "answer": 37088.88889,
+      "answer_raw": "37088.88889",
+      "program": "divide(10014, 27%)"
+    }
+  ]
+}

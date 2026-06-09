@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total debt is reported under current liabilities section as of december 31 , 2015?",
+      "answer": 0.09796,
+      "answer_raw": "0.09796",
+      "program": "divide(562, 5737)"
+    }
+  ]
+}

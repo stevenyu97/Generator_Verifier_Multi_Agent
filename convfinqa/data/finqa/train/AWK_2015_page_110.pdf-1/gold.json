@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2013 as part of the company's noncollectable amounts what was the ratio of that amounts written off to the amount recovered",
+      "answer": 6.14286,
+      "answer_raw": "6.14286",
+      "program": "divide(43, const_7)"
+    }
+  ]
+}

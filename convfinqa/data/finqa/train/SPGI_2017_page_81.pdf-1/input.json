@@ -1,0 +1,83 @@
+{
+  "input": {
+    "id": "SPGI/2017/page_81.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "cash amounts for future minimum rental commitments under existing non- cancelable leases with a remaining term of more than one year , along with minimum sublease rental income to be received under non- cancelable subleases are shown in the following table .",
+      "( in millions ) commitment sublease income net rent ."
+    ],
+    "post_text": [
+      "legal & regulatory matters in the normal course of business both in the united states and abroad , the company and its subsidiaries are defendants in a number of legal proceedings and are often the subject of gov- ernment and regulatory proceedings , investigations and inqui- ries .",
+      "many of these proceedings , investigations and inquiries relate to the ratings activity of s&p global ratings brought by issuers and alleged purchasers of rated securities .",
+      "in addition , various government and self- regulatory agencies frequently make inquiries and conduct investigations into our compliance with applicable laws and regulations , including those related to ratings activities and antitrust matters .",
+      "any of these pro- ceedings , investigations or inquiries could ultimately result in adverse judgments , damages , fines , penalties or activity restrictions , which could adversely impact our consolidated financial condition , cash flows , business or competitive position .",
+      "the company believes that it has meritorious defenses to the pending claims and potential claims in the matters described below and is diligently pursuing these defenses , and in some cases working to reach an acceptable negotiated resolution .",
+      "however , in view of the uncertainty inherent in litigation and government and regulatory enforcement matters , we cannot predict the eventual outcome of these matters or the timing of their resolution , or in most cases reasonably estimate what the eventual judgments , damages , fines , penalties or impact of activity restrictions may be .",
+      "as a result , we cannot provide assurance that the outcome of the matters described below will not have a material adverse effect on our consolidated financial condition , cash flows , business or competitive posi- tion .",
+      "as litigation or the process to resolve pending matters progresses , as the case may be , we will continue to review the latest information available and assess our ability to predict the outcome of such matters and the effects , if any , on our con- solidated financial condition , cash flows , business and com- petitive position , which may require that we record liabilities in the consolidated financial statements in future periods .",
+      "with respect to the matters identified below , we have recog- nized a liability when both ( a ) a0 information available indicates that it is probable that a liability has been incurred as of the date of these financial statements and ( b ) a0the amount of loss can reasonably be estimated .",
+      "s&p global ratings financial crisis litigation the company and its subsidiaries continue to defend civil cases brought by private and public plaintiffs arising out of ratings activities prior to and during the global financial crisis of 2008 20132009 .",
+      "included in these civil cases are several law- suits in australia against the company and standard & poor 2019s international , llc relating to alleged investment losses in collateralized debt obligations ( 201ccdos 201d ) rated by s&p global ratings .",
+      "we can provide no assurance that we will not be obli- gated to pay significant amounts in order to resolve these mat- ters on terms deemed acceptable .",
+      "u.s .",
+      "securities and exchange commission as a nationally recognized statistical rating organization registered with the sec under section 15e of the securities exchange act of 1934 , s&p global ratings is in ongoing com- munication with the staff of the sec regarding compliance with its extensive obligations under the federal securities laws .",
+      "although s&p global ratings seeks to promptly address any compliance issues that it detects or that the staff of the sec raises , there can be no assurance that the sec will not seek remedies against s&p global ratings for one or more compli- ance deficiencies .",
+      "trani prosecutorial proceeding in 2014 , the prosecutor in the italian city of trani obtained criminal indictments against several current and former s&p global ratings managers and ratings analysts for alleged market manipulation , and against standard & poor 2019s credit market services europe under italy 2019s vicarious liability stat- ute , for having allegedly failed to properly supervise the ratings analysts and prevent them from committing market manipula- tion .",
+      "the prosecutor 2019s theories were based on various actions by s&p global ratings taken with respect to italian sovereign debt between may of 2011 and january of 2012 .",
+      "on march a030 , 2017 , following trial , the court in trani issued an oral verdict s&p global 2017 annual report 79 ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "rentcommitment",
+        "subleaseincome",
+        "net rent"
+      ],
+      [
+        "2018",
+        "$ 122",
+        "$ -17 ( 17 )",
+        "$ 105"
+      ],
+      [
+        "2019",
+        "109",
+        "-17 ( 17 )",
+        "92"
+      ],
+      [
+        "2020",
+        "83",
+        "-3 ( 3 )",
+        "80"
+      ],
+      [
+        "2021",
+        "71",
+        "2014",
+        "71"
+      ],
+      [
+        "2022",
+        "69",
+        "2014",
+        "69"
+      ],
+      [
+        "2023 and beyond",
+        "516",
+        "2014",
+        "516"
+      ],
+      [
+        "total",
+        "$ 970",
+        "$ -37 ( 37 )",
+        "$ 933"
+      ]
+    ],
+    "questions": [
+      "\\\\nwhat is the ratio of the rental commitment to the sublease income"
+    ]
+  }
+}

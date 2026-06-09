@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the increase in proceeds from sales of property and equipment from 2004 to 2005",
+      "answer": 0.77193,
+      "answer_raw": "0.77193",
+      "program": "subtract(10.1, 5.7), divide(#0, 5.7)"
+    }
+  ]
+}

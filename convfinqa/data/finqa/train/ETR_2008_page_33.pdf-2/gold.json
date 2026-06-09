@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of 2017 net revenue did realized price changes account for?",
+      "answer": 0.14356,
+      "answer_raw": "0.14356",
+      "program": "divide(264, 1839)"
+    }
+  ]
+}

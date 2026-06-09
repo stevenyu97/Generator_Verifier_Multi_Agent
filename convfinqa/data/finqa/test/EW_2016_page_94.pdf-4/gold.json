@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in the fair value per share between 2014 and 2016?",
+      "answer": 1.6383,
+      "answer_raw": "1.6383",
+      "program": "subtract(31, 11.75), divide(#0, 11.75)"
+    }
+  ]
+}

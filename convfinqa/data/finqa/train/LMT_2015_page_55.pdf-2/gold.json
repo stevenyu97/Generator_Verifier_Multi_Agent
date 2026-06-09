@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the total decline in mst 2019s operating profit in 2015 associated with performance matters",
+      "answer": 0.81522,
+      "answer_raw": "0.81522",
+      "program": "divide(75, 92)"
+    }
+  ]
+}

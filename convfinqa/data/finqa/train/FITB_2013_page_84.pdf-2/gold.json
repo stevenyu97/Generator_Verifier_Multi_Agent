@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total cash outflow spent for shares repurchased during 2013 , in millions?",
+      "answer": 809.74632,
+      "answer_raw": "809.74632",
+      "program": "multiply(18.80, 43071613), divide(#0, const_1000000)"
+    }
+  ]
+}

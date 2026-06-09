@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming the same rate of change as in 2017 , what would the 2018 total amount of interest and penalties accrued equal in millions?",
+      "answer": 205.40833,
+      "answer_raw": "205.40833",
+      "program": "divide(157, 120), multiply(#0, 157)"
+    }
+  ]
+}

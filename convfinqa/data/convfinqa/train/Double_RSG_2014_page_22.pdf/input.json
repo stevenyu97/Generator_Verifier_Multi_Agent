@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "Double_RSG/2014/page_22.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "standardized maintenance based on an industry trade publication , we operate the eighth largest vocational fleet in the united states .",
+      "as of december 31 , 2014 , our average fleet age in years , by line of business , was as follows : approximate number of vehicles approximate average age ."
+    ],
+    "post_text": [
+      "through standardization of core functions , we believe we can minimize variability in our maintenance processes resulting in higher vehicle quality while extending the service life of our fleet .",
+      "we believe operating a more reliable , safer and efficient fleet will lower our operating costs .",
+      "we have implemented standardized maintenance programs for approximately 60% ( 60 % ) of our fleet maintenance operations as of december 31 , 2014 .",
+      "cash utilization strategy key components of our cash utilization strategy include increasing free cash flow and improving our return on invested capital .",
+      "our definition of free cash flow , which is not a measure determined in accordance with united states generally accepted accounting principles ( u.s .",
+      "gaap ) , is cash provided by operating activities less purchases of property and equipment , plus proceeds from sales of property and equipment as presented in our consolidated statements of cash flows .",
+      "for a discussion and reconciliation of free cash flow , you should read the 201cfree cash flow 201d section of our management 2019s discussion and analysis of financial condition and results of operations contained in item 7 of this form 10-k .",
+      "we believe free cash flow drives shareholder value and provides useful information regarding the recurring cash provided by our operations .",
+      "free cash flow also demonstrates our ability to execute our cash utilization strategy , which includes investments in acquisitions and returning a majority of free cash flow to our shareholders through dividends and share repurchases .",
+      "we are committed to an efficient capital structure and maintaining our investment grade credit ratings .",
+      "we manage our free cash flow by ensuring that capital expenditures and operating asset levels are appropriate in light of our existing business and growth opportunities , and by closely managing our working capital , which consists primarily of accounts receivable , accounts payable , and accrued landfill and environmental costs .",
+      "dividends in july 2003 , our board of directors initiated a quarterly cash dividend of $ 0.04 per share .",
+      "our quarterly dividend has increased from time to time thereafter , the latest increase occurring in july 2014 to $ 0.28 per share , representing a 7.7% ( 7.7 % ) increase over that of the prior year .",
+      "over the last 5 years , our dividend has increased at a compounded annual growth rate of 8.1% ( 8.1 % ) .",
+      "we expect to continue paying quarterly cash dividends and may consider additional dividend increases if we believe they will enhance shareholder value .",
+      "share repurchases in october 2013 , our board of directors added $ 650 million to the existing share repurchase authorization originally approved in november 2010 .",
+      "from november 2010 to december 31 , 2014 , we used $ 1439.5 million to repurchase 46.6 million shares of our common stock at a weighted average cost per share of $ 30.88 .",
+      "as of december 31 , 2014 , there were $ 360.2 million remaining under our share repurchase authorization .",
+      "during 2015 , we expect to use our remaining authorization to repurchase more of our outstanding common stock. ."
+    ],
+    "table": [
+      [
+        "",
+        "approximate number of vehicles",
+        "approximate average age"
+      ],
+      [
+        "residential",
+        "7600",
+        "7"
+      ],
+      [
+        "commercial",
+        "4300",
+        "7"
+      ],
+      [
+        "industrial",
+        "3900",
+        "9"
+      ],
+      [
+        "total",
+        "15800",
+        "7.5"
+      ]
+    ],
+    "questions": [
+      "as of december 31, 2014, what percentage did the residential vehicles represent in relation to the total fleet?",
+      "and how much did they represent in relation to the commercial number of vehicles?"
+    ]
+  }
+}

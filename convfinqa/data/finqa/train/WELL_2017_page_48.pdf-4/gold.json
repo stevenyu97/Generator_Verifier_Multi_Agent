@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total noi is from outpatient medical?",
+      "answer": 0.17214,
+      "answer_raw": "0.17214",
+      "program": "divide(384068, 2231178)"
+    }
+  ]
+}

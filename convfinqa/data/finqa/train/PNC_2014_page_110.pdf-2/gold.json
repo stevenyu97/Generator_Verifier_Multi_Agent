@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions , what was the total in 2014 and 2013 of net interest income?",
+      "answer": 61.0,
+      "answer_raw": "61.0",
+      "program": "table_sum(net interest income, none)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "AAPL/2008/page_76.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents notes to consolidated financial statements ( continued ) note 5 2014income taxes ( continued ) fin 48 in the first quarter of 2008 , the company adopted fin 48 .",
+      "upon adoption of fin 48 , the company 2019s cumulative effect of a change in accounting principle resulted in an increase to retained earnings of $ 11 million .",
+      "the company had historically classified interest and penalties and unrecognized tax benefits as current liabilities .",
+      "beginning with the adoption of fin 48 , the company classifies gross interest and penalties and unrecognized tax benefits that are not expected to result in payment or receipt of cash within one year as non-current liabilities in the consolidated balance sheet .",
+      "the total amount of gross unrecognized tax benefits as of the date of adoption of fin 48 was $ 475 million , of which $ 209 million , if recognized , would affect the company 2019s effective tax rate .",
+      "as of september 27 , 2008 , the total amount of gross unrecognized tax benefits was $ 506 million , of which $ 253 million , if recognized , would affect the company 2019s effective tax rate .",
+      "the company 2019s total gross unrecognized tax benefits are classified as non-current liabilities in the consolidated balance sheet .",
+      "the aggregate changes in the balance of gross unrecognized tax benefits , which excludes interest and penalties , for the fiscal year ended september 27 , 2008 , is as follows ( in millions ) : the company 2019s policy to include interest and penalties related to unrecognized tax benefits within the provision for income taxes did not change as a result of adopting fin 48 .",
+      "as of the date of adoption , the company had accrued $ 203 million for the gross interest and penalties relating to unrecognized tax benefits .",
+      "as of september 27 , 2008 , the total amount of gross interest and penalties accrued was $ 219 million , which is classified as non-current liabilities in the consolidated balance sheet .",
+      "in 2008 , the company recognized interest expense in connection with tax matters of $ 16 million .",
+      "the company is subject to taxation and files income tax returns in the u.s .",
+      "federal jurisdiction and in many state and foreign jurisdictions .",
+      "for u.s .",
+      "federal income tax purposes , all years prior to 2002 are closed .",
+      "the years 2002-2003 have been examined by the internal revenue service ( the 201cirs 201d ) and disputed issues have been taken to administrative appeals .",
+      "the irs is currently examining the 2004-2006 years .",
+      "in addition , the company is also subject to audits by state , local , and foreign tax authorities .",
+      "in major states and major foreign jurisdictions , the years subsequent to 1988 and 2000 , respectively , generally remain open and could be subject to examination by the taxing authorities .",
+      "management believes that an adequate provision has been made for any adjustments that may result from tax examinations .",
+      "however , the outcome of tax audits cannot be predicted with certainty .",
+      "if any issues addressed in the company 2019s tax audits are resolved in a manner not consistent with management 2019s expectations , the company could be required to adjust its provision for income tax in the period such resolution occurs .",
+      "although timing of the resolution and/or closure of audits is highly uncertain , the company does not believe it is reasonably possible that its unrecognized tax benefits would materially change in the next 12 months. ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "balance as of september 30 2007",
+        "$ 475"
+      ],
+      [
+        "increases related to tax positions taken during a prior period",
+        "27"
+      ],
+      [
+        "decreases related to tax positions taken during a prior period",
+        "-70 ( 70 )"
+      ],
+      [
+        "increases related to tax positions taken during the current period",
+        "85"
+      ],
+      [
+        "decreases related to settlements with taxing authorities",
+        "2014"
+      ],
+      [
+        "decreases related to expiration of statute of limitations",
+        "-11 ( 11 )"
+      ],
+      [
+        "balance as of september 27 2008",
+        "$ 506"
+      ]
+    ],
+    "questions": [
+      "what percent of the total unrecognized tax benefits is increases related to tax positions taken during a prior period?"
+    ]
+  }
+}

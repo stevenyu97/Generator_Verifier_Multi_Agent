@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "AAPL/2008/page_50.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents related to mac os x version 10.6 snow leopard and excluded from r&d expense , while r&d expense for 2007 excluded $ 75 million of capitalized software development costs related to mac os x leopard and iphone .",
+      "although total r&d expense increased 42% ( 42 % ) during 2008 , it remained relatively flat as a percentage of net sales given the 35% ( 35 % ) increase in revenue during 2008 .",
+      "the company continues to believe that focused investments in r&d are critical to its future growth and competitive position in the marketplace and are directly related to timely development of new and enhanced products that are central to the company 2019s core business strategy .",
+      "as such , the company expects to increase spending in r&d to remain competitive .",
+      "expenditures for r&d increased 10% ( 10 % ) or $ 70 million to $ 782 million in 2007 compared to 2006 .",
+      "the increases in r&d expense were due primarily to an increase in r&d headcount in 2007 to support expanded r&d activities , partially offset by one less week of expenses in the first quarter of 2007 and the capitalized software development costs mentioned above .",
+      "selling , general , and administrative expense ( 201csg&a 201d ) expenditures for sg&a increased $ 798 million or 27% ( 27 % ) to $ 3.8 billion in 2008 compared to 2007 .",
+      "these increases are due primarily to higher stock-based compensation expenses , higher variable selling expenses resulting from the significant year-over-year increase in total net sales and the company 2019s continued expansion of its retail segment in both domestic and international markets .",
+      "in addition , the company incurred higher spending on marketing and advertising during 2008 compared to 2007 .",
+      "expenditures for sg&a increased $ 530 million or 22% ( 22 % ) during 2007 compared to 2006 .",
+      "the increase was due primarily to higher direct and indirect channel variable selling expenses resulting from the significant year-over-year increase in total net sales in 2007 , the company 2019s continued expansion of its retail segment in both domestic and international markets , and higher spending on marketing and advertising , partially offset by one less week of expenses in the first quarter of 2007 .",
+      "other income and expense other income and expense for the three fiscal years ended september 27 , 2008 , are as follows ( in millions ) : total other income and expense increased $ 21 million to $ 620 million during 2008 as compared to $ 599 million and $ 365 million in 2007 and 2006 , respectively .",
+      "while the company 2019s cash , cash equivalents and short-term investment balances increased by 59% ( 59 % ) in 2008 , other income and expense increased only 4% ( 4 % ) due to the decline in the weighted average interest rate earned of 3.44% ( 3.44 % ) .",
+      "the overall increase in other income and expense is attributable to the company 2019s higher cash and short-term investment balances , which more than offset the decline in interest rates during 2008 as compared to 2007 .",
+      "the weighted average interest rate earned by the company on its cash , cash equivalents , and short-term investments was 5.27% ( 5.27 % ) and 4.58% ( 4.58 % ) during 2007 and 2006 , respectively .",
+      "during 2008 , 2007 and 2006 , the company had no debt outstanding and accordingly did not incur any related interest expense .",
+      "provision for income taxes the company 2019s effective tax rates were 30% ( 30 % ) for the years ended september 27 , 2008 and september 29 , 2007 , and 29% ( 29 % ) for the year ended september 30 , 2006 .",
+      "the company 2019s effective rates differ from the statutory federal income tax rate of 35% ( 35 % ) due primarily to certain undistributed foreign earnings for which no u.s .",
+      "taxes are provided because such earnings are intended to be indefinitely reinvested outside the as of september 27 , 2008 , the company had deferred tax assets arising from deductible temporary differences , tax losses , and tax credits of $ 2.1 billion before being offset against certain deferred liabilities for presentation on the company 2019s balance sheet .",
+      "management believes it is more likely than not that forecasted income , including ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "2008",
+        "2007",
+        "2006"
+      ],
+      [
+        "interest income",
+        "$ 653",
+        "$ 647",
+        "$ 394"
+      ],
+      [
+        "other income ( expense ) net",
+        "-33 ( 33 )",
+        "-48 ( 48 )",
+        "-29 ( 29 )"
+      ],
+      [
+        "total other income and expense",
+        "$ 620",
+        "$ 599",
+        "$ 365"
+      ]
+    ],
+    "questions": [
+      "what was the change in the weighted average interest rate earned by the company on its cash , cash equivalents , and short-term investments between 2007 and 2006?"
+    ]
+  }
+}

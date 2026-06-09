@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the rental expense in 2018 less that in 2017?",
+      "answer": 53.0,
+      "answer_raw": "53.0",
+      "program": "subtract(300, 247)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": 0.21457,
+      "answer_raw": "0.21457",
+      "program": "subtract(300, 247), divide(#0, 247)"
+    }
+  ]
+}

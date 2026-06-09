@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the 2007 net revenue?",
+      "answer": 231.0,
+      "answer_raw": "231.0",
+      "program": "231.0"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for 2006?",
+      "answer": 192.2,
+      "answer_raw": "192.2",
+      "program": "192.2"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference for this value between the two years?",
+      "answer": 38.8,
+      "answer_raw": "38.8",
+      "program": "subtract(231.0, 192.2)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and was the proportion of fuel recovery to this change?",
+      "answer": 1.09794,
+      "answer_raw": "1.09794",
+      "program": "subtract(231.0, 192.2), divide(42.6, #0)"
+    }
+  ]
+}

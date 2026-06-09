@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was cnas total square footage in illinois?",
+      "answer": 850631.0,
+      "answer_raw": "850631.0",
+      "program": "add(46903, 803728)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in total proved undeveloped reserves for u.s . onshore from 2010 to 2011?",
+      "answer": -0.01946,
+      "answer_raw": "-0.01946",
+      "program": "subtract(403, 411), divide(#0, 411)"
+    }
+  ]
+}

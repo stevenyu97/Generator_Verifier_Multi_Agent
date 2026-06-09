@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net revenue for 2017?",
+      "answer": 626.8,
+      "answer_raw": "626.8",
+      "program": "626.8"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for 2016?",
+      "answer": 644.2,
+      "answer_raw": "644.2",
+      "program": "644.2"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the difference between the two years?",
+      "answer": -17.4,
+      "answer_raw": "-17.4",
+      "program": "subtract(626.8, 644.2)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage change?",
+      "answer": -0.02701,
+      "answer_raw": "-0.02701",
+      "program": "subtract(626.8, 644.2), divide(#0, 644.2)"
+    }
+  ]
+}

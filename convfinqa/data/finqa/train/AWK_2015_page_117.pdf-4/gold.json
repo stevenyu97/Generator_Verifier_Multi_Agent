@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the growth rate of the grant date fair value of rsus vested from 2013 to 2014",
+      "answer": 0.22222,
+      "answer_raw": "0.22222",
+      "program": "subtract(11, const_9), divide(#0, const_9)"
+    }
+  ]
+}

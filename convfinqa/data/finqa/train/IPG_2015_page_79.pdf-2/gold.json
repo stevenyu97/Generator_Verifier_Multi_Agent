@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the stock price based on the dividend yield at the time that dividends were declared?",
+      "answer": 12.5,
+      "answer_raw": "12.5",
+      "program": "divide(0.30, 2.4%)"
+    }
+  ]
+}

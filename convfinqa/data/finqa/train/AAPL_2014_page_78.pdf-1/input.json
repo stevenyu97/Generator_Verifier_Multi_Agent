@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "AAPL/2014/page_78.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents concentrations in the available sources of supply of materials and product although most components essential to the company 2019s business are generally available from multiple sources , a number of components are currently obtained from single or limited sources .",
+      "in addition , the company competes for various components with other participants in the markets for mobile communication and media devices and personal computers .",
+      "therefore , many components used by the company , including those that are available from multiple sources , are at times subject to industry-wide shortage and significant pricing fluctuations that could materially adversely affect the company 2019s financial condition and operating results .",
+      "the company uses some custom components that are not commonly used by its competitors , and new products introduced by the company often utilize custom components available from only one source .",
+      "when a component or product uses new technologies , initial capacity constraints may exist until the suppliers 2019 yields have matured or manufacturing capacity has increased .",
+      "if the company 2019s supply of components for a new or existing product were delayed or constrained , or if an outsourcing partner delayed shipments of completed products to the company , the company 2019s financial condition and operating results could be materially adversely affected .",
+      "the company 2019s business and financial performance could also be materially adversely affected depending on the time required to obtain sufficient quantities from the original source , or to identify and obtain sufficient quantities from an alternative source .",
+      "continued availability of these components at acceptable prices , or at all , may be affected if those suppliers concentrated on the production of common components instead of components customized to meet the company 2019s requirements .",
+      "the company has entered into agreements for the supply of many components ; however , there can be no guarantee that the company will be able to extend or renew these agreements on similar terms , or at all .",
+      "therefore , the company remains subject to significant risks of supply shortages and price increases that could materially adversely affect its financial condition and operating results .",
+      "substantially all of the company 2019s hardware products are manufactured by outsourcing partners that are located primarily in asia .",
+      "a significant concentration of this manufacturing is currently performed by a small number of outsourcing partners , often in single locations .",
+      "certain of these outsourcing partners are the sole-sourced suppliers of components and manufacturers for many of the company 2019s products .",
+      "although the company works closely with its outsourcing partners on manufacturing schedules , the company 2019s operating results could be adversely affected if its outsourcing partners were unable to meet their production commitments .",
+      "the company 2019s purchase commitments typically cover its requirements for periods up to 150 days .",
+      "other off-balance sheet commitments operating leases the company leases various equipment and facilities , including retail space , under noncancelable operating lease arrangements .",
+      "the company does not currently utilize any other off-balance sheet financing arrangements .",
+      "the major facility leases are typically for terms not exceeding 10 years and generally contain multi-year renewal options .",
+      "leases for retail space are for terms ranging from five to 20 years , the majority of which are for 10 years , and often contain multi-year renewal options .",
+      "as of september 27 , 2014 , the company 2019s total future minimum lease payments under noncancelable operating leases were $ 5.0 billion , of which $ 3.6 billion related to leases for retail space .",
+      "rent expense under all operating leases , including both cancelable and noncancelable leases , was $ 717 million , $ 645 million and $ 488 million in 2014 , 2013 and 2012 , respectively .",
+      "future minimum lease payments under noncancelable operating leases having remaining terms in excess of one year as of september 27 , 2014 , are as follows ( in millions ) : apple inc .",
+      "| 2014 form 10-k | 75 ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "2015",
+        "$ 662"
+      ],
+      [
+        "2016",
+        "676"
+      ],
+      [
+        "2017",
+        "645"
+      ],
+      [
+        "2018",
+        "593"
+      ],
+      [
+        "2019",
+        "534"
+      ],
+      [
+        "thereafter",
+        "1877"
+      ],
+      [
+        "total",
+        "$ 4987"
+      ]
+    ],
+    "questions": [
+      "what percentage of future minimum lease payments under noncancelable operating leases are due after 2019?"
+    ]
+  }
+}

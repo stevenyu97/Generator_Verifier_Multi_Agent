@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the low for share price for the quarter ended 12/31/15?",
+      "answer": 87.32,
+      "answer_raw": "87.32",
+      "program": "87.32"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the high during that period?",
+      "answer": 104.12,
+      "answer_raw": "104.12",
+      "program": "104.12"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between the high and low for this period?",
+      "answer": -16.8,
+      "answer_raw": "-16.8",
+      "program": "subtract(87.32, 104.12)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the growth rate from the low to the high?",
+      "answer": -0.16135,
+      "answer_raw": "-0.16135",
+      "program": "subtract(87.32, 104.12), divide(#0, 104.12)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the market cap of common stock as of march 28 , 2005?",
+      "answer": 1928.88,
+      "answer_raw": "1928.88",
+      "program": "multiply(10.26, 188)"
+    }
+  ]
+}

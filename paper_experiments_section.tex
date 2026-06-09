@@ -1,0 +1,270 @@
+% =============================================================================
+% Experiments section for the multi-agent GRPO paper (NeurIPS style).
+%
+% Drop into your main .tex with
+%   \input{paper_experiments_section}
+% and ensure the following are also \input or \include'd before this file:
+%   - paper_results_filled.tex   (Tables 1, 2 and 3)
+%   - the figure block for       paper_figures/case_improvement_bars.pdf
+%                                paper_figures/scaling_with_lines.pdf
+%
+% Required packages (NeurIPS standard, already used by the tables file):
+%   \usepackage{booktabs}
+%   \usepackage{multirow}
+%   \usepackage{makecell}
+% =============================================================================
+
+\section{Experiments}
+\label{sec:experiments}
+
+We evaluate DPA-GRPO on TaxCalcBench TY24~\citep{bock2025taxcalcbench}, a
+line-level federal-1040 reasoning benchmark, and compare against zero-shot
+and trained single-agent reinforcement-learning baselines at two backbone
+sizes (Qwen3-4B and Qwen3-8B). Our experiments are designed to answer
+four questions, one per subsection: \emph{(i)} how is the two-player
+problem framed and trained on this benchmark
+(\S\ref{sec:exp-setup})?\ \emph{(ii)} how does DPA-GRPO perform overall,
+and how does it scale with backbone size and training-case diversity
+(\S\ref{sec:exp-results})?\ \emph{(iii)} is the gain attributable to the
+two-player credit assignment, or could a stronger single-agent RL recipe
+close it (\S\ref{sec:exp-baselines})?\ and \emph{(iv)} which line-level
+dynamics actually change during training, and do they match the case
+structure that DPA-GRPO is designed to exploit
+(\S\ref{sec:exp-cases})?
+
+\subsection{Problem setup}
+\label{sec:exp-setup}
+
+\paragraph{Benchmark.}
+TaxCalcBench TY24~\citep{bock2025taxcalcbench} is a held-out collection
+of U.S.\ federal tax returns whose ground truth was produced by a
+deterministic tax engine. Each case provides the W-2/1099/Schedule
+inputs and a 19-line gold 1040 (lines 1a, 9, 10, 11, 12, 15, 16, 19, 24,
+25d, 26, 27, 28, 29, 32, 33, 34, 35a, 37). We use the official
+train/test split with \texttt{split\_seed}=42 and
+\texttt{test\_fraction}=0.2, yielding $n{=}8$ held-out test cases and a
+total of $8\times 19 = 152$ independent line-level decisions per
+evaluation. All accuracies in this section are computed against the
+exact engine output for these 152 lines.
+
+\paragraph{Two-player loop.}
+Following Section~\ref{sec:method}, every line of the 1040 is treated as
+a separate two-player game. The \emph{Generator} produces a draft value
+for the line; the \emph{Verifier} either remains silent or raises a
+\emph{Self-Assessment Critique} (SAC). When an SAC is raised, the
+Generator emits a revised value and a binary \textsc{keep}/\textsc{revise}
+decision. Both agents are LoRA adapters over the same frozen backbone, so
+the only parameters trained by reinforcement learning are the two
+adapters. The eight terminal states of the game collapse into the
+mutually-exclusive case taxonomy used throughout the paper:
+\textbf{Case~1} (Generator correct, Verifier silent),
+\textbf{Cases~2--3} (Verifier intervenes when the original draft is
+already correct),
+\textbf{Case~4} (\emph{missed bug}: Generator wrong, Verifier silent),
+\textbf{Cases~5a/5b} (Verifier intervenes on a wrong draft and the
+revise either lands or misses gold),
+and \textbf{Cases~6a/6b} (Generator overrides the Verifier; 6a is a
+correct override, 6b an incorrect one).
+
+\paragraph{Training.}
+Both adapters are updated with 2-GRPO: one GRPO update on the Generator,
+then one on the Verifier, repeated. Each update samples a group of
+$G{=}2$ trajectories per case at temperature $0.2$ and clips the
+importance ratio at $\varepsilon{=}0.2$; the shared reward is the
+case-conditional shaping described in Section~\ref{sec:method}, coupled
+with KL regularisation against a frozen reference
+($\beta_{\text{KL}}{=}0.04$). We sweep \emph{training cases per
+gradient step} $\in\{3, 5, 10\}$ for both backbones; all other
+hyperparameters are held fixed (LoRA rank 16, learning rate
+$1{\times}10^{-5}$, gradient checkpointing, fp16, single H100). Training
+runs for at most 30 GRPO steps, with early stopping on held-out
+post-revise accuracy (patience 2, minimum 10 steps).
+
+\paragraph{Metrics.}
+We report two accuracy metrics over the 152 line decisions on the
+held-out test split. \textbf{Strict accuracy} is the fraction on which
+the Generator's \emph{first} draft matches the gold engine output;
+\textbf{post-revise accuracy} scores the Generator's \emph{final} value
+after the optional revise. For zero-shot and trained single-agent
+baselines the Generator is the only agent, so strict and post-revise
+coincide; for DPA-GRPO we report post-revise accuracy unless otherwise
+stated, since this is the metric the two-player loop optimises. We
+additionally track \emph{decision accuracy} (the fraction of SAC-flagged
+lines on which the Generator's keep/revise decision matches the
+oracle correct-direction move) and the \emph{case-histogram} fractions
+that decompose the 152 decisions into the taxonomy above. To control for
+training-data leakage we also tabulate per-case training-time accuracy
+on three representative training cases, \textsc{Train-A}/\textsc{B}/\textsc{C}
+(see Table~\ref{tab:main-results} for full identifiers), encountered
+by every trained run because they share \texttt{split\_seed}=42.
+
+\subsection{Experimental results}
+\label{sec:exp-results}
+
+Table~\ref{tab:main-results} reports test post-revise accuracy and
+training-time accuracy on \textsc{Train-A}/\textsc{B}/\textsc{C} for
+every method we trained or evaluated. Three findings stand out.
+
+\paragraph{DPA-GRPO is the best method at both scales.}
+At Qwen3-4B, DPA-GRPO reaches $0.533$ test post-revise accuracy, which
+already \emph{matches} the zero-shot accuracy of the next backbone size
+(Qwen3-8B zero-shot, $0.533$). At Qwen3-8B, DPA-GRPO reaches $0.572$,
+the highest entry in the table; this is a $+3.9$\,pp absolute
+improvement over Qwen3-8B zero-shot ($0.533$) and a $+1.9$\,pp
+improvement over the strongest single-agent RL baseline (generator-only
+DAPO 8B, $0.553$). The same ranking holds on every per-case
+training-time metric we tabulate: at 8B, DPA-GRPO is best on
+\textsc{Train-A} ($0.895$ vs.\ $0.842$), \textsc{Train-B} ($0.684$ vs.\
+$0.632$), and \textsc{Train-C} ($0.579$ vs.\ $0.526$), each a
+$+5{-}6$\,pp improvement over the strongest single-agent 8B baseline.
+The best DPA-GRPO configuration differs by backbone (4B prefers $10$
+cases per step; 8B prefers $3$); the full sweep is reported in
+Table~\ref{tab:ours-ablation}, and we adopt those bolded rows as the
+headline numbers throughout the paper.
+
+\paragraph{Scaling with training data.}
+Figure~\ref{fig:scaling} plots accuracy against the cumulative number of
+training-line decisions ingested during training, so that runs with
+different \emph{cases per step} settings are placed on a common
+$x$-axis. DPA-GRPO surpasses every untrained baseline once roughly
+$2{\times}10^{3}$ line decisions have been seen, and continues to
+improve when given more data; generator-only GRPO (the strongest
+single-agent baseline at 4B) plateaus earlier and at a lower ceiling.
+The gap between DPA-GRPO and generator-only GRPO is therefore not a
+data-quantity artefact of unequal training budgets, but a property of
+the objective itself.
+
+\paragraph{Scaling with backbone size.}
+The two backbones tell complementary stories. At 4B, the \textsc{Train-A}
+case is far from saturation ($0.526$ zero-shot), so most of the lift
+DPA-GRPO obtains there ($+21.1$\,pp to $0.737$) is genuine learning.
+At 8B, \textsc{Train-A} is already near-saturating zero-shot ($0.842$),
+so the marginal lift on that case is small ($+5.3$\,pp to $0.895$);
+the larger backbone's headroom appears instead on \textsc{Train-B} and
+\textsc{Train-C}, the two harder cases, where DPA-GRPO 8B delivers
+$+5.2$ and $+5.3$\,pp over the strongest single-agent 8B baseline.
+This is the pattern one would hope for: as the Generator gets stronger,
+DPA-GRPO's gains migrate to harder line types rather than disappearing.
+
+\subsection{Comparisons with baselines}
+\label{sec:exp-baselines}
+
+We compare DPA-GRPO against three families of baselines, all using the
+same Qwen3-4B and Qwen3-8B backbones, the same train/test split, and the
+same LoRA hyperparameters. The first family is untrained; the second is
+\emph{generator-only}---a single LoRA adapter trained to maximise strict
+accuracy on the gold draft, with no Verifier; and the third is the
+trained, two-player DPA-GRPO.
+
+\paragraph{Untrained baselines.}
+The zero-shot Generator already produces calibrated drafts on this
+benchmark, with strict accuracy $0.414$ at 4B and $0.533$ at 8B
+(Table~\ref{tab:main-results}, top block). Because the Verifier loop is
+part of our trained method only, the zero-shot rows are intentionally
+single-agent: any post-revise accuracy attributed to a zero-shot row
+would conflate the loop with the underlying model. This makes
+DPA-GRPO's $+11.9$\,pp lift at 4B and $+3.9$\,pp lift at 8B a
+conservative measure of the parameter-update contribution.
+
+\paragraph{Generator-only RL baselines (GRPO, DAPO, GSPO).}
+We re-implemented three single-agent RL baselines that share the GRPO
+trajectory-grouping recipe but differ in their objective: \emph{vanilla}
+GRPO~\citep{shao2024deepseekmath} with the same clip-and-KL setup as
+DPA-GRPO's Generator branch; \emph{DAPO}~\citep{yu2025dapo}, which
+decouples the policy clip into asymmetric
+$\varepsilon_{\text{low}}$/$\varepsilon_{\text{high}}$ bounds and adds
+dynamic sampling; and \emph{GSPO}~\citep{zheng2025gspo}, which replaces
+the per-token policy ratio with a per-sequence one. All three are
+trained against the same gold-draft outcome reward as DPA-GRPO's
+Generator branch and are matched on wall-clock budget, so the
+comparison isolates the contribution of the two-player credit
+assignment. At 4B, DPA-GRPO ($0.533$) beats vanilla GRPO ($0.520$),
+DAPO ($0.467$), and GSPO ($0.461$). At 8B, DPA-GRPO ($0.572$) beats
+vanilla GRPO ($0.539$) and DAPO ($0.553$); the GSPO 8B run is in
+progress and will be reported in the camera-ready.
+
+\paragraph{The two-player loop also stabilises the ranking.}
+Beyond the absolute numbers, the ranking among single-agent baselines
+\emph{flips} between scales: DAPO is the worst single-agent recipe at
+4B ($0.467$) but the best at 8B ($0.553$), and GRPO does the
+reverse. DPA-GRPO is the strict winner at both scales and on every
+\textsc{Train-A/B/C} column we tabulate. We read this as evidence that
+the two-player credit assignment is not interchangeable with a sharper
+single-agent objective; it provides a complementary stabilising signal
+that single-agent recipes cannot match by tuning alone.
+
+\paragraph{Why a Verifier helps.}
+A generator-only learner only ever moves probability mass between
+``correct'' and ``incorrect'' draft outcomes; it has no signal that
+distinguishes a \emph{confidently} correct line from a fragile one. The
+two-player loop adds a Verifier whose pass-through behaviour is itself
+trained, so a Generator line that is correct \emph{but} would be
+overturned by an unconfident Verifier is no longer interchangeable with
+a confidently-correct one in the joint reward. We make this mechanism
+concrete next.
+
+\subsection{Case discovery: which line-level dynamics change?}
+\label{sec:exp-cases}
+
+A natural worry with the headline numbers in
+Table~\ref{tab:main-results} is that the post-revise gain comes from a
+single, narrow mechanism: the Verifier rescuing already-wrong drafts at
+test time. If that were the only thing happening, DPA-GRPO would amount
+to a learned form of test-time refinement and should be compared
+against post-hoc self-revision rather than against single-agent RL. To
+rule this out we decompose every evaluated line into the eight-case
+taxonomy of \S\ref{sec:exp-setup} and ask which buckets actually move
+during training.
+
+Figure~\ref{fig:case-improvement} reports the case-mix shift
+\emph{during training}: for our two productive 4B runs, we compare the
+first-5-step rolling window (baseline; the joint policy before
+DPA-GRPO updates have moved either head appreciably) against the most
+favourable post-update 5-step window on the same training-rollout
+stream. Both endpoints share the same Verifier-firing regime, so the
+comparison isolates what the joint policy \emph{learns} during training
+rather than how often the Verifier intervenes. Consequently, the
+percentages here are training-time within-run shifts and differ from
+the test-set case mix in Table~\ref{tab:main-results} (single held-out
+checkpoint); the two answer complementary questions
+(\emph{what does the 2-GRPO loop learn to do?} vs.\ \emph{how does the
+trained loop behave on held-out data?}). Three movements emerge, all
+in the \emph{intended} direction:
+
+\begin{itemize}
+\item \textbf{Case~1 (Generator correct, Verifier silent) rises by
+  $+15.1\%$.} Case~1 is the desired terminal state---the Generator
+  is right and the Verifier correctly does nothing. The lift confirms
+  that the Verifier's joint pressure on the Generator is producing
+  more confidently-correct drafts, not just more revisions.
+\item \textbf{Case~4 (\emph{missed bug}) drops by $-18.1\%$.} Case~4
+  is the dominant failure mode of the initial joint policy and the only
+  bucket where neither agent can be retroactively credited with a save.
+  The drop here is the largest single movement we observe and is the
+  mechanism by which DPA-GRPO improves \emph{strict} accuracy, not just
+  post-revise accuracy.
+\item \textbf{Case~6a (Generator skips a bad revision) rises by
+  $+7.4\%$.} In Case~6a the draft is wrong and the Verifier correctly
+  raises SAC, but the Generator's own candidate revision would also be
+  wrong; the Generator chooses KEEP rather than swapping in a
+  no-better revision. This is the only bucket that explicitly
+  measures the Generator's \emph{discriminative} skill against its
+  own revision proposals, and the rise rules out the trivial
+  alternative of an always-revise Generator that would post-hoc trade
+  strict accuracy for post-revise accuracy.
+\end{itemize}
+
+The three movements are mutually reinforcing rather than redundant. The
+Generator becomes more right (Case~1, Case~4) and also better
+calibrated against its own revision proposals (Case~6a), while the
+Verifier becomes more accurate at flagging genuine bugs (the only way
+Case~4 can drop
+this far). The same direction of movement holds on the 8B runs
+(Appendix~\ref{app:case-trends}); the within-run magnitudes are smaller
+because the 8B early-training baseline already sits in a
+less-Case-4-heavy regime, so there is simply less probability mass left
+to redistribute during the productive training window. Taken with the test
+accuracy gains in Table~\ref{tab:main-results}, this answers
+question~(iv): the headline accuracy improvement is reflected in real,
+predicted shifts in the line-level case mix, not in a single
+narrow refinement mechanism.

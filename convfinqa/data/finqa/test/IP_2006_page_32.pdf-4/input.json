@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "IP/2006/page_32.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "earnings for the first quarter of 2007 are expected to be lower than in the fourth quarter of 2006 .",
+      "containerboard export sales volumes are expected to decline due to scheduled first-quarter main- tenance outages .",
+      "sales volumes for u.s .",
+      "converted products will be higher due to more shipping days , but expected softer demand should cause the ship- ments per day to decrease .",
+      "average sales price real- izations are expected to be comparable to fourth- quarter averages .",
+      "an additional containerboard price increase was announced in january that is expected to be fully realized in the second quarter .",
+      "costs for wood , energy , starch , adhesives and freight are expected to increase .",
+      "manufacturing costs will be higher due to costs associated with scheduled main- tenance outages in the containerboard mills .",
+      "euro- pean container operating results are expected to improve as seasonally higher sales volumes and improved margins more than offset slightly higher manufacturing costs .",
+      "consumer packaging demand and pricing for consumer packaging prod- ucts correlate closely with consumer spending and general economic activity .",
+      "in addition to prices and volumes , major factors affecting the profitability of consumer packaging are raw material and energy costs , manufacturing efficiency and product mix .",
+      "consumer packaging net sales increased 9% ( 9 % ) compared with 2005 and 7% ( 7 % ) compared with 2004 .",
+      "operating profits rose 8% ( 8 % ) from 2005 , but declined 15% ( 15 % ) from 2004 levels .",
+      "compared with 2005 , higher sales volumes ( $ 9 million ) , improved average sales price realizations ( $ 33 million ) , reduced lack-of-order downtime ( $ 18 million ) , and favorable mill oper- ations ( $ 25 million ) were partially offset by higher raw material costs ( $ 19 million ) and freight costs ( $ 21 million ) , unfavorable mix ( $ 14 million ) and other costs ( $ 21 million ) .",
+      "consumer packaging in millions 2006 2005 2004 ."
+    ],
+    "post_text": [
+      "coated paperboard net sales of $ 1.5 billion in 2006 were higher than $ 1.3 billion in 2005 and $ 1.1 billion in 2004 .",
+      "sales volumes increased in 2006 compared with 2005 , particularly in the folding car- ton board segment , reflecting improved demand for coated paperboard products .",
+      "in 2006 , our coated paperboard mills took 4000 tons of lack-of-order downtime , compared with 82000 tons of lack-of-order downtime in 2005 .",
+      "average sales price realizations were substantially improved in the cur- rent year , principally for folding carton board and cupstock board .",
+      "operating profits were 51% ( 51 % ) higher in 2006 than in 2005 , and 7% ( 7 % ) better than in 2004 .",
+      "the impact of the higher sales prices along with more favorable manufacturing operations due to strong performance at the mills more than offset higher input costs for energy and freight .",
+      "foodservice net sales declined to $ 396 million in 2006 , compared with $ 437 million in 2005 and $ 480 million in 2004 , due principally to the sale of the jackson , tennessee plant in july 2005 .",
+      "sales vol- umes were lower in 2006 than in 2005 , although average sales prices were higher due to the realiza- tion of price increases implemented during 2005 .",
+      "operating profits for 2006 improved over 2005 and 2004 levels largely due to the benefits from higher sales prices .",
+      "raw material costs for bleached board were higher than in 2005 , but manufacturing costs were more favorable due to increased productivity and reduced waste .",
+      "shorewood net sales of $ 670 million were down from $ 691 million in 2005 and $ 687 million in 2004 .",
+      "sales volumes in 2006 were down from 2005 levels due to weak demand in the home entertainment and consumer products markets , although demand was strong in the tobacco segment .",
+      "average sales prices for the year were lower than in 2005 .",
+      "operating prof- its were down significantly from both 2005 and 2004 due to the decline in sales , particularly in the higher margin home entertainment markets , higher raw material costs for bleached board and certain inventory adjustment costs .",
+      "entering 2007 , coated paperboard first-quarter sales volumes are expected to be seasonally stronger than in the fourth quarter 2006 for folding carton board and bristols .",
+      "average sales price realizations are expected to rise with a price increase announced in january .",
+      "it is anticipated that manufacturing costs will improve versus an unfavorable fourth quarter .",
+      "foodservice earnings for the first quarter of 2007 are expected to decline due to seasonally weaker vol- ume .",
+      "however , sales price realizations will be slightly higher , and the seasonal switch to hot cup contain- ers will have a favorable impact on product mix .",
+      "shorewood sales volumes for the first quarter of 2007 are expected to seasonally decline , but the earnings impact will be partially offset by pricing improvements and an improved product mix .",
+      "distribution our distribution business , principally represented by our xpedx business , markets a diverse array of products and supply chain services to customers in ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2006",
+        "2005",
+        "2004"
+      ],
+      [
+        "sales",
+        "$ 2455",
+        "$ 2245",
+        "$ 2295"
+      ],
+      [
+        "operating profit",
+        "$ 131",
+        "$ 121",
+        "$ 155"
+      ]
+    ],
+    "questions": [
+      "what was the consumer packaging profit margin in 2006"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "AON/2014/page_47.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "reinsurance commissions , fees and other revenue decreased 2% ( 2 % ) in 2014 reflecting a 1% ( 1 % ) unfavorable impact from foreign currency exchange rates and 1% ( 1 % ) decline in organic revenue growth due primarily to a significant unfavorable market impact in treaty , partially offset by net new business growth in treaty placements globally and growth in capital markets transactions and advisory business , as well as facultative placements .",
+      "operating income operating income increased $ 108 million , or 7% ( 7 % ) , from 2013 to $ 1.6 billion in 2014 .",
+      "in 2014 , operating income margins in this segment were 21.0% ( 21.0 % ) , an increase of 120 basis points from 19.8% ( 19.8 % ) in 2013 .",
+      "operating margin improvement was driven by solid organic revenue growth , return on investments , expense discipline and savings related to the restructuring programs , partially offset by a $ 61 million unfavorable impact from foreign currency exchange rates .",
+      "hr solutions ."
+    ],
+    "post_text": [
+      "our hr solutions segment generated approximately 35% ( 35 % ) of our consolidated total revenues in 2014 and provides a broad range of human capital services , as follows : 2022 retirement specializes in global actuarial services , defined contribution consulting , tax and erisa consulting , and pension administration .",
+      "2022 compensation focuses on compensatory advisory/counsel including : compensation planning design , executive reward strategies , salary survey and benchmarking , market share studies and sales force effectiveness , with special expertise in the financial services and technology industries .",
+      "2022 strategic human capital delivers advice to complex global organizations on talent , change and organizational effectiveness issues , including talent strategy and acquisition , executive on-boarding , performance management , leadership assessment and development , communication strategy , workforce training and change management .",
+      "2022 investment consulting advises public and private companies , other institutions and trustees on developing and maintaining investment programs across a broad range of plan types , including defined benefit plans , defined contribution plans , endowments and foundations .",
+      "2022 benefits administration applies our human resource expertise primarily through defined benefit ( pension ) , defined contribution ( 401 ( k ) ) , and health and welfare administrative services .",
+      "our model replaces the resource-intensive processes once required to administer benefit plans with more efficient , effective , and less costly solutions .",
+      "2022 exchanges is building and operating healthcare exchanges that provide employers with a cost effective alternative to traditional employee and retiree healthcare , while helping individuals select the insurance that best meets their needs .",
+      "2022 human resource business processing outsourcing provides market-leading solutions to manage employee data ; administer benefits , payroll and other human resources processes ; and record and manage talent , workforce and other core human resource process transactions as well as other complementary services such as flexible spending , dependent audit and participant advocacy .",
+      "disruption in the global credit markets and the deterioration of the financial markets created significant uncertainty in the marketplace .",
+      "weak economic conditions in many markets around the globe continued throughout 2014 and have adversely impacted our clients' financial condition and therefore the levels of business activities in the industries and geographies where we operate .",
+      "while we believe that the majority of our practices are well positioned to manage through this time , these challenges are reducing demand for some of our services and putting continued pressure on the pricing of those services , which is having an adverse effect on our new business and results of operations. ."
+    ],
+    "table": [
+      [
+        "years ended december 31",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      [
+        "revenue",
+        "$ 4264",
+        "$ 4057",
+        "$ 3925"
+      ],
+      [
+        "operating income",
+        "485",
+        "318",
+        "289"
+      ],
+      [
+        "operating margin",
+        "11.4% ( 11.4 % )",
+        "7.8% ( 7.8 % )",
+        "7.4% ( 7.4 % )"
+      ]
+    ],
+    "questions": [
+      "if the hr solutions segment generated 35% ( 35 % ) of the consolidated revenue , what would be the total revenue for 2014 , ( in millions ) ?"
+    ]
+  }
+}

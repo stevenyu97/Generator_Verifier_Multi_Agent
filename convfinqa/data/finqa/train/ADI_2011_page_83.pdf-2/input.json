@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "ADI/2011/page_83.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the following is a schedule of future minimum rental payments required under long-term operating leases at october 29 , 2011 : fiscal years operating leases ."
+    ],
+    "post_text": [
+      "12 .",
+      "commitments and contingencies from time to time in the ordinary course of the company 2019s business , various claims , charges and litigation are asserted or commenced against the company arising from , or related to , contractual matters , patents , trademarks , personal injury , environmental matters , product liability , insurance coverage and personnel and employment disputes .",
+      "as to such claims and litigation , the company can give no assurance that it will prevail .",
+      "the company does not believe that any current legal matters will have a material adverse effect on the company 2019s financial position , results of operations or cash flows .",
+      "13 .",
+      "retirement plans the company and its subsidiaries have various savings and retirement plans covering substantially all employees .",
+      "the company maintains a defined contribution plan for the benefit of its eligible u.s .",
+      "employees .",
+      "this plan provides for company contributions of up to 5% ( 5 % ) of each participant 2019s total eligible compensation .",
+      "in addition , the company contributes an amount equal to each participant 2019s pre-tax contribution , if any , up to a maximum of 3% ( 3 % ) of each participant 2019s total eligible compensation .",
+      "the total expense related to the defined contribution plan for u.s .",
+      "employees was $ 21.9 million in fiscal 2011 , $ 20.5 million in fiscal 2010 and $ 21.5 million in fiscal 2009 .",
+      "the company also has various defined benefit pension and other retirement plans for certain non-u.s .",
+      "employees that are consistent with local statutory requirements and practices .",
+      "the total expense related to the various defined benefit pension and other retirement plans for certain non-u.s .",
+      "employees was $ 21.4 million in fiscal 2011 , $ 11.7 million in fiscal 2010 and $ 10.9 million in fiscal 2009 .",
+      "non-u.s .",
+      "plan disclosures the company 2019s funding policy for its foreign defined benefit pension plans is consistent with the local requirements of each country .",
+      "the plans 2019 assets consist primarily of u.s .",
+      "and non-u.s .",
+      "equity securities , bonds , property and cash .",
+      "the benefit obligations and related assets under these plans have been measured at october 29 , 2011 and october 30 , 2010 .",
+      "analog devices , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) ."
+    ],
+    "table": [
+      [
+        "fiscal years",
+        "operating leases"
+      ],
+      [
+        "2012",
+        "$ 17590"
+      ],
+      [
+        "2013",
+        "12724"
+      ],
+      [
+        "2014",
+        "6951"
+      ],
+      [
+        "2015",
+        "5649"
+      ],
+      [
+        "2016",
+        "3669"
+      ],
+      [
+        "later years",
+        "19472"
+      ],
+      [
+        "total",
+        "$ 66055"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in the total expense related to the defined contribution plan for non-u.s.employees in 2011?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the increase in compensation cost recognized for rsus from 2008 to 2009",
+      "answer": 0.4898,
+      "answer_raw": "0.4898",
+      "program": "subtract(7.3, 4.9), divide(#0, 4.9)"
+    }
+  ]
+}

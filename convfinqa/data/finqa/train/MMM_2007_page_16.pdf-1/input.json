@@ -1,0 +1,143 @@
+{
+  "input": {
+    "id": "MMM/2007/page_16.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "issuer purchases of equity securities ( registered pursuant to section 12 of the exchange act ) period number of shares purchased average price paid per share number of shares purchased as part of publicly announced plans or programs maximum approximate dollar value of shares that may yet be purchased under the plans or programs ( 1 ) ( millions ) ."
+    ],
+    "post_text": [
+      "( 1 ) the total number of shares purchased includes : ( i ) shares purchased under the board 2019s authorizations described above , and ( ii ) shares purchased in connection with the exercise of stock options ( which totaled 34068 shares in january 2007 , 20091 shares in february 2007 , 35772 shares in march 2007 , 71521 shares in april 2007 , 225419 shares in may 2007 , 74233 shares in june 2007 , 135951 shares in july 2007 , 82178 shares in august 2007 , 56964 shares in september 2007 , 13802 shares in october 2007 , 10375 shares in november 2007 , and 23112 shares in december 2007 ) . ."
+    ],
+    "table": [
+      [
+        "period",
+        "total number of shares purchased ( 1 )",
+        "average price paid per share",
+        "total number of shares purchased as part of publicly announced plans or programs",
+        "maximum approximate dollar value of shares that may yet be purchased under the plans or programs ( millions )"
+      ],
+      [
+        "january 1-31 2007",
+        "1311268",
+        "$ 76.33",
+        "1277200",
+        "$ 651"
+      ],
+      [
+        "february 1-28 2007",
+        "6542591",
+        "$ 75.12",
+        "6522500",
+        "$ 6731"
+      ],
+      [
+        "march 1-31 2007",
+        "8187472",
+        "$ 75.59",
+        "8151700",
+        "$ 6115"
+      ],
+      [
+        "total january 1 2014 march 31 2007",
+        "16041331",
+        "$ 75.46",
+        "15951400",
+        "$ 6115"
+      ],
+      [
+        "april 1-30 2007",
+        "3548221",
+        "$ 77.55",
+        "3476700",
+        "$ 5846"
+      ],
+      [
+        "may 1-31 2007",
+        "4428219",
+        "$ 85.84",
+        "4202800",
+        "$ 5485"
+      ],
+      [
+        "june 1-30 2007",
+        "3885033",
+        "$ 86.58",
+        "3810800",
+        "$ 5155"
+      ],
+      [
+        "total april 1 2014 june 30 2007",
+        "11861473",
+        "$ 83.60",
+        "11490300",
+        "$ 5155"
+      ],
+      [
+        "july 1-31 2007",
+        "1646251",
+        "$ 89.01",
+        "1510300",
+        "$ 5021"
+      ],
+      [
+        "august 1-31 2007",
+        "2329478",
+        "$ 87.05",
+        "2247300",
+        "$ 4825"
+      ],
+      [
+        "september 1-30 2007",
+        "2086564",
+        "$ 90.24",
+        "2029600",
+        "$ 4642"
+      ],
+      [
+        "total july 1 2014 september 30 2007",
+        "6062293",
+        "$ 88.68",
+        "5787200",
+        "$ 4642"
+      ],
+      [
+        "october 1-31 2007",
+        "2192302",
+        "$ 88.89",
+        "2178500",
+        "$ 4448"
+      ],
+      [
+        "november 1-30 2007",
+        "1702375",
+        "$ 82.35",
+        "1692000",
+        "$ 4309"
+      ],
+      [
+        "december 1-31 2007",
+        "1896612",
+        "$ 85.41",
+        "1873500",
+        "$ 4149"
+      ],
+      [
+        "total october 1 2014 dec . 31 2007",
+        "5791289",
+        "$ 85.83",
+        "5744000",
+        "$ 4149"
+      ],
+      [
+        "total january 1 2014 december 31 2007",
+        "39756386",
+        "$ 81.42",
+        "38972900",
+        "$ 4149"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the total tumber of shares purchased that was not of the shares purchased as part of publicly announced plans or programs"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of an investment in edwards lifesciences in 2014?",
+      "answer": 293.33,
+      "answer_raw": "293.33",
+      "program": "293.33"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the initial value?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 193.33,
+      "answer_raw": "193.33",
+      "program": "subtract(293.33, 100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the initial value of the investment?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what rate of return does this represent?",
+      "answer": 1.9333,
+      "answer_raw": "1.9333",
+      "program": "subtract(293.33, 100), divide(#0, 100)"
+    }
+  ]
+}

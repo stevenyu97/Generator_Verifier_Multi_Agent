@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the long-term retail/hnw in americas as a percentage of the total long-term retail/hnw?",
+      "answer": 0.73863,
+      "answer_raw": "0.73863",
+      "program": "divide(298024, 403484)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for emea?",
+      "answer": 0.19257,
+      "answer_raw": "0.19257",
+      "program": "divide(77699, 403484)"
+    }
+  ]
+}

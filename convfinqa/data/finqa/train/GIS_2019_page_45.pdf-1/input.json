@@ -1,0 +1,106 @@
+{
+  "input": {
+    "id": "GIS/2019/page_45.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "free cash flow conversion rate we believe this measure provides useful information to investors because it is important for assessing our efficiency in converting earnings to cash and returning cash to shareholders .",
+      "the calculation of free cash flow conversion rate and net cash provided by operating activities conversion rate , its equivalent gaap measure , follows: ."
+    ],
+    "post_text": [
+      "( a ) see note 14 to the consolidated financial statements in item 8 of this report .",
+      "( b ) see note 7 to the consolidated financial statements in item 8 of this report .",
+      "( c ) see note 3 to the consolidated financial statements in item 8 of this report .",
+      "( d ) see note 4 to the consolidated financial statements in item 8 of this report .",
+      "( e ) impact of hyperinflationary accounting for our argentina subsidiary , which was sold in the third quarter of fiscal 2019 .",
+      "( f ) valuation gains on certain corporate investments .",
+      "( g ) legal recovery related to our yoplait sas subsidiary .",
+      "( h ) the cpw restructuring charges are related to initiatives designed to improve profitability and growth that were approved in fiscal 2018 and 2019 .",
+      "see our reconciliation below of the effective income tax rate as reported to the adjusted effective income tax rate for the tax impact of each item affecting comparability. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "fiscal 2019"
+      ],
+      [
+        "net earnings including earnings attributable to redeemable and noncontrolling interests asreported",
+        "$ 1786.2"
+      ],
+      [
+        "net tax benefit ( a )",
+        "$ -7.2 ( 7.2 )"
+      ],
+      [
+        "tax item ( a )",
+        "-72.9 ( 72.9 )"
+      ],
+      [
+        "mark-to-marketeffects net of tax ( b )",
+        "27.7"
+      ],
+      [
+        "acquisition integration costs net of tax ( c )",
+        "19.7"
+      ],
+      [
+        "divestitures loss net of tax ( c )",
+        "16.4"
+      ],
+      [
+        "restructuring charges net of tax ( d )",
+        "63.0"
+      ],
+      [
+        "project-related costs net of tax ( d )",
+        "1.1"
+      ],
+      [
+        "asset impairments net of tax ( d )",
+        "159.7"
+      ],
+      [
+        "hyperinflationary accounting net of tax ( e )",
+        "3.2"
+      ],
+      [
+        "investment valuation adjustments net of tax ( f )",
+        "-17.6 ( 17.6 )"
+      ],
+      [
+        "legal recovery net of tax ( g )",
+        "-10.8 ( 10.8 )"
+      ],
+      [
+        "cpw restructuring costs net of tax ( h )",
+        "11.1"
+      ],
+      [
+        "adjusted net earnings including earnings attributable to redeemable and noncontrollinginterests",
+        "$ 1979.6"
+      ],
+      [
+        "net cash provided by operating activities",
+        "$ 2807.0"
+      ],
+      [
+        "purchases of land buildings and equipment",
+        "-537.6 ( 537.6 )"
+      ],
+      [
+        "free cash flow",
+        "$ 2269.4"
+      ],
+      [
+        "net cash provided by operating activities conversion rate",
+        "157% ( 157 % )"
+      ],
+      [
+        "free cash flow conversion rate",
+        "115% ( 115 % )"
+      ]
+    ],
+    "questions": [
+      "in 2019 what was the percent of the net earnings to the net cash provided by operating activities"
+    ]
+  }
+}

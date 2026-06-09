@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in natural gas gross margin ( $ /mcf ) between 2007 and 2008?",
+      "answer": -0.63158,
+      "answer_raw": "-0.63158",
+      "program": "subtract(0.07, 0.19), divide(#0, 0.19)"
+    }
+  ]
+}

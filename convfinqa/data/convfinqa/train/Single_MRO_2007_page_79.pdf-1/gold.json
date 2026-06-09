@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much is the quarterly dividends per share of 2007?",
+      "answer": 0.23,
+      "answer_raw": "0.23",
+      "program": "divide(0.92, const_4)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "are the quarterly dividends per share of 2008 greater than that of 2007?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "divide(0.92, const_4), greater(0.24, #0)"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "Double_ILMN/2006/page_86.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "in accordance with sfas no .",
+      "142 , goodwill and other intangible assets , the goodwill is not amortized , but will be subject to a periodic assessment for impairment by applying a fair-value-based test .",
+      "none of this goodwill is expected to be deductible for tax purposes .",
+      "the company performs its annual test for impairment of goodwill in may of each year .",
+      "the company is required to perform a periodic assessment between annual tests in certain circumstances .",
+      "the company has performed its annual test of goodwill as of may 1 , 2006 and has determined there was no impairment of goodwill during 2006 .",
+      "the company allocated $ 15.8 million of the purchase price to in-process research and development projects .",
+      "in-process research and development ( ipr&d ) represents the valuation of acquired , to-be- completed research projects .",
+      "at the acquisition date , cyvera 2019s ongoing research and development initiatives were primarily involved with the development of its veracode technology and the beadxpress reader .",
+      "these two projects were approximately 50% ( 50 % ) and 25% ( 25 % ) complete at the date of acquisition , respectively .",
+      "as of december 31 , 2006 , these two projects were approximately 90% ( 90 % ) and 80% ( 80 % ) complete , respectively .",
+      "the value assigned to purchased ipr&d was determined by estimating the costs to develop the acquired technology into commercially viable products , estimating the resulting net cash flows from the projects , and discounting the net cash flows to their present value .",
+      "the revenue projections used to value the ipr&d were , in some cases , reduced based on the probability of developing a new technology , and considered the relevant market sizes and growth factors , expected trends in technology , and the nature and expected timing of new product introductions by the company and its competitors .",
+      "the resulting net cash flows from such projects are based on the company 2019s estimates of cost of sales , operating expenses , and income taxes from such projects .",
+      "the rates utilized to discount the net cash flows to their present value were based on estimated cost of capital calculations .",
+      "due to the nature of the forecast and the risks associated with the projected growth and profitability of the developmental projects , discount rates of 30% ( 30 % ) were considered appropriate for the ipr&d .",
+      "the company believes that these discount rates were commensurate with the projects 2019stage of development and the uncertainties in the economic estimates described above .",
+      "if these projects are not successfully developed , the sales and profitability of the combined company may be adversely affected in future periods .",
+      "the company believes that the foregoing assumptions used in the ipr&d analysis were reasonable at the time of the acquisition .",
+      "no assurance can be given , however , that the underlying assumptions used to estimate expected project sales , development costs or profitability , or the events associated with such projects , will transpire as estimated .",
+      "at the date of acquisition , the development of these projects had not yet reached technological feasibility , and the research and development in progress had no alternative future uses .",
+      "accordingly , these costs were charged to expense in the second quarter of 2005 .",
+      "the following unaudited pro forma information shows the results of the company 2019s operations for the years ended january 1 , 2006 and january 2 , 2005 as though the acquisition had occurred as of the beginning of the periods presented ( in thousands , except per share data ) : year ended january 1 , year ended january 2 ."
+    ],
+    "post_text": [
+      "illumina , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) ."
+    ],
+    "table": [
+      [
+        "",
+        "year ended january 1 2006",
+        "year ended january 2 2005"
+      ],
+      [
+        "revenue",
+        "$ 73501",
+        "$ 50583"
+      ],
+      [
+        "net loss",
+        "-6234 ( 6234 )",
+        "-9965 ( 9965 )"
+      ],
+      [
+        "net loss per share basic and diluted",
+        "-0.15 ( 0.15 )",
+        "-0.27 ( 0.27 )"
+      ]
+    ],
+    "questions": [
+      "what was the change in revenues between 2005 and 2006?",
+      "and what is this change as a percentage of those revenues in 2005?",
+      "in that same period, what was the change in the net loss?",
+      "and what percentage did this change represent in relation to that net loss in 2005?"
+    ]
+  }
+}

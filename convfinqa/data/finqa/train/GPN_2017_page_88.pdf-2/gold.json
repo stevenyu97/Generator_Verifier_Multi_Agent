@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in the valuation allowance in thousands between 2014 and 2015?",
+      "answer": 3376.0,
+      "answer_raw": "3376.0",
+      "program": "subtract(-3823, -7199)"
+    }
+  ]
+}

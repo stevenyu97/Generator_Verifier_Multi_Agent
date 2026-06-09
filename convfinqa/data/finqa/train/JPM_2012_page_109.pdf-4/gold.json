@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of the current year , did the firm meet the eventual objective of an estimated basel iii tier i common ratio of 9.5%?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(8.7, 9.5)"
+    }
+  ]
+}

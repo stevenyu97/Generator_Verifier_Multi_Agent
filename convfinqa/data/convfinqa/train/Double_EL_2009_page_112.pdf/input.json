@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "Double_EL/2009/page_112.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "in asset positions , which totaled $ 41.2 million at june 30 , 2009 .",
+      "to manage this risk , we have established strict counterparty credit guidelines that are continually monitored and reported to management .",
+      "accordingly , management believes risk of loss under these hedging contracts is remote .",
+      "certain of our derivative fi nancial instruments contain credit-risk-related contingent features .",
+      "as of june 30 , 2009 , we were in compliance with such features and there were no derivative financial instruments with credit-risk-related contingent features that were in a net liability position .",
+      "the est{e lauder companies inc .",
+      "111 market risk we use a value-at-risk model to assess the market risk of our derivative fi nancial instruments .",
+      "value-at-risk rep resents the potential losses for an instrument or portfolio from adverse changes in market factors for a specifi ed time period and confi dence level .",
+      "we estimate value- at-risk across all of our derivative fi nancial instruments using a model with historical volatilities and correlations calculated over the past 250-day period .",
+      "the high , low and average measured value-at-risk for the twelve months ended june 30 , 2009 and 2008 related to our foreign exchange and interest rate contracts are as follows: ."
+    ],
+    "post_text": [
+      "the change in the value-at-risk measures from the prior year related to our foreign exchange contracts refl ected an increase in foreign exchange volatilities and a different portfolio mix .",
+      "the change in the value-at-risk measures from the prior year related to our interest rate contracts refl ected higher interest rate volatilities .",
+      "the model esti- mates were made assuming normal market conditions and a 95 percent confi dence level .",
+      "we used a statistical simulation model that valued our derivative fi nancial instruments against one thousand randomly generated market price paths .",
+      "our calculated value-at-risk exposure represents an esti mate of reasonably possible net losses that would be recognized on our portfolio of derivative fi nancial instru- ments assuming hypothetical movements in future market rates and is not necessarily indicative of actual results , which may or may not occur .",
+      "it does not represent the maximum possible loss or any expected loss that may occur , since actual future gains and losses will differ from those estimated , based upon actual fl uctuations in market rates , operating exposures , and the timing thereof , and changes in our portfolio of derivative fi nancial instruments during the year .",
+      "we believe , however , that any such loss incurred would be offset by the effects of market rate movements on the respective underlying transactions for which the deriva- tive fi nancial instrument was intended .",
+      "off-balance sheet arrangements we do not maintain any off-balance sheet arrangements , transactions , obligations or other relationships with unconsolidated entities that would be expected to have a material current or future effect upon our fi nancial condi- tion or results of operations .",
+      "recently adopted accounting standards in may 2009 , the financial accounting standards board ( 201cfasb 201d ) issued statement of financial accounting standards ( 201csfas 201d ) no .",
+      "165 , 201csubsequent events 201d ( 201csfas no .",
+      "165 201d ) .",
+      "sfas no .",
+      "165 requires the disclosure of the date through which an entity has evaluated subsequent events for potential recognition or disclosure in the fi nan- cial statements and whether that date represents the date the fi nancial statements were issued or were available to be issued .",
+      "this standard also provides clarifi cation about circumstances under which an entity should recognize events or transactions occurring after the balance sheet date in its fi nancial statements and the disclosures that an entity should make about events or transactions that occurred after the balance sheet date .",
+      "this standard is effective for interim and annual periods beginning with our fi scal year ended june 30 , 2009 .",
+      "the adoption of this standard did not have a material impact on our consoli- dated fi nancial statements .",
+      "in march 2008 , the fasb issued sfas no .",
+      "161 , 201cdisclosures about derivative instruments and hedging activities 2014 an amendment of fasb statement no .",
+      "133 201d ( 201csfas no .",
+      "161 201d ) .",
+      "sfas no .",
+      "161 requires companies to provide qualitative disclosures about their objectives and strategies for using derivative instruments , quantitative disclosures of the fair values of , and gains and losses on , these derivative instruments in a tabular format , as well as more information about liquidity by requiring disclosure of a derivative contract 2019s credit-risk-related contingent ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "june 30 2009 high",
+        "june 30 2009 low",
+        "june 30 2009 average",
+        "june 30 2009 high",
+        "june 30 2009 low",
+        "average"
+      ],
+      [
+        "foreign exchange contracts",
+        "$ 28.4",
+        "$ 14.2",
+        "$ 21.6",
+        "$ 18.8",
+        "$ 5.3",
+        "$ 11.3"
+      ],
+      [
+        "interest rate contracts",
+        "34.3",
+        "23.0",
+        "29.5",
+        "28.8",
+        "12.6",
+        "20.0"
+      ]
+    ],
+    "questions": [
+      "what was the difference in the average for 2008 and 2009 when considering the foreign exchange contracts?",
+      "for 2008, what is the variation between the high of foreign exchange contracts and the high for interest rate contracts?"
+    ]
+  }
+}

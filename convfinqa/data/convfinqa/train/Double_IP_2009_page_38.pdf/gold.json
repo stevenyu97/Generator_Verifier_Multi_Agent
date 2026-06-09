@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in annual sales of printing papers and graphic arts supplies and equipment from 2008 to 2009?",
+      "answer": 1.1,
+      "answer_raw": "1.1",
+      "program": "subtract(5.2, 4.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the percentage change?",
+      "answer": 0.21154,
+      "answer_raw": "0.21154",
+      "program": "subtract(5.2, 4.1), divide(#0, 5.2)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the change in this value between 2007 and 2008?",
+      "answer": 0.5,
+      "answer_raw": "0.5",
+      "program": "subtract(5.2, 4.7)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage change during this time?",
+      "answer": 0.10638,
+      "answer_raw": "0.10638",
+      "program": "subtract(5.2, 4.7), divide(#0, 4.7)"
+    }
+  ]
+}

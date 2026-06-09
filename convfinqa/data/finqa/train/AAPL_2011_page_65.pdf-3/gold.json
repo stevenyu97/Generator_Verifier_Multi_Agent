@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the increase in interest expense between 2009 and 2011?",
+      "answer": 50.0,
+      "answer_raw": "50.0",
+      "program": "subtract(64, 14)"
+    }
+  ]
+}

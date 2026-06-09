@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by what percentage level 3 balance decrease during 2018?",
+      "answer": -0.17266,
+      "answer_raw": "-0.17266",
+      "program": "subtract(230, 278), divide(#0, 278)"
+    }
+  ]
+}

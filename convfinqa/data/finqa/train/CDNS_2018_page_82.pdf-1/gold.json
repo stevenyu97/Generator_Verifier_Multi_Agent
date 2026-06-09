@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for acquisitions in 2017 what percentage of recorded a total acquired intangible assets was goodwill?",
+      "answer": 0.84701,
+      "answer_raw": "0.84701",
+      "program": "divide(76.4, 90.2)"
+    }
+  ]
+}

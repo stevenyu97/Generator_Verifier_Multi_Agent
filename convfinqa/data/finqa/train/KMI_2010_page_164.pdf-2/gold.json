@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the aggregate , inclusive of current maturities of total long-term debt 2013 kmp after the implementation of asu 2009-17 is current maturities , in millions?",
+      "answer": 11546.1,
+      "answer_raw": "11546.1",
+      "program": "add(10282.8, 1263.3)"
+    }
+  ]
+}

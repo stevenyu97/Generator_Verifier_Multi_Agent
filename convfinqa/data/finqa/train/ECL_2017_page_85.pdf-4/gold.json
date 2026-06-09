@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "is the long term debt maturing in 2021 greater than 2022?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(1017, 497)"
+    }
+  ]
+}

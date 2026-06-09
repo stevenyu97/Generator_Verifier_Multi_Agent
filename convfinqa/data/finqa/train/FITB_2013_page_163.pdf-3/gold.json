@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in nonrecurring losses from 2012 to 2013?",
+      "answer": 0.11765,
+      "answer_raw": "0.11765",
+      "program": "subtract(19, 17), divide(#0, 17)"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "input": {
+    "id": "GPN/2007/page_18.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "asia-pacific acquisition on july 24 , 2006 , we completed the purchase of a fifty-six percent ownership interest in the merchant acquiring business of the hongkong and shanghai banking corporation limited , or hsbc .",
+      "this business provides card payment processing services to merchants in the asia-pacific region .",
+      "the business includes hsbc 2019s payment processing operations in the following ten countries and territories : brunei , china , hong kong , india , macau , malaysia , maldives , singapore , sri lanka and taiwan .",
+      "under the terms of the agreement , we initially paid hsbc $ 67.2 million in cash to acquire our ownership interest .",
+      "we paid an additional $ 1.4 million under this agreement during fiscal 2007 , for a total purchase price of $ 68.6 million to acquire our ownership interest .",
+      "in conjunction with this acquisition , we entered into a transition services agreement with hsbc that may be terminated at any time .",
+      "under this agreement , we expect hsbc will continue to perform payment processing operations and related support services until we integrate these functions into our own operations , which we expect will be completed in 2010 .",
+      "the operating results of this acquisition are included in our consolidated statements of income from the date of the acquisition .",
+      "business description we are a leading payment processing and consumer money transfer company .",
+      "as a high-volume processor of electronic transactions , we enable merchants , multinational corporations , financial institutions , consumers , government agencies and other profit and non-profit business enterprises to facilitate payments to purchase goods and services or further other economic goals .",
+      "our role is to serve as an intermediary in the exchange of information and funds that must occur between parties so that a payment transaction or money transfer can be completed .",
+      "we were incorporated in georgia as global payments inc .",
+      "in september 2000 , and we spun-off from our former parent company on january 31 , 2001 .",
+      "including our time as part of our former parent company , we have provided transaction processing services since 1967 .",
+      "we market our products and services throughout the united states , canada , europe and the asia-pacific region .",
+      "we operate in two business segments , merchant services and money transfer , and we offer various products through these segments .",
+      "our merchant services segment targets customers in many vertical industries including financial institutions , gaming , government , health care , professional services , restaurants , retail , universities and utilities .",
+      "our money transfer segment primarily targets immigrants in the united states and europe .",
+      "see note 10 in the notes to consolidated financial statements for additional segment information and 201citem 1a 2014risk factors 201d for a discussion of risks involved with our international operations .",
+      "total revenues from our merchant services and money transfer segments , by geography and sales channel , are as follows ( amounts in thousands ) : ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "domestic direct",
+        "$ 558026",
+        "$ 481273",
+        "$ 410047"
+      ],
+      [
+        "canada",
+        "224570",
+        "208126",
+        "175190"
+      ],
+      [
+        "asia-pacific",
+        "48449",
+        "2014",
+        "2014"
+      ],
+      [
+        "central and eastern europe",
+        "51224",
+        "47114",
+        "40598"
+      ],
+      [
+        "domestic indirect and other",
+        "46873",
+        "51987",
+        "62033"
+      ],
+      [
+        "merchant services",
+        "929142",
+        "788500",
+        "687868"
+      ],
+      [
+        "domestic",
+        "115416",
+        "109067",
+        "91448"
+      ],
+      [
+        "europe",
+        "16965",
+        "10489",
+        "5015"
+      ],
+      [
+        "money transfer",
+        "132381",
+        "119556",
+        "96463"
+      ],
+      [
+        "total revenues",
+        "$ 1061523",
+        "$ 908056",
+        "$ 784331"
+      ]
+    ],
+    "questions": [
+      "what percent of total revenues was represented by merchant services in 2006?"
+    ]
+  }
+}

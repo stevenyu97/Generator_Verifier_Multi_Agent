@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage of the cash bought to total cash paid",
+      "answer": 0.02164,
+      "answer_raw": "0.02164",
+      "program": "divide(28, 1294)"
+    }
+  ]
+}

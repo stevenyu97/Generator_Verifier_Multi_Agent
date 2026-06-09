@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent f the purchase obligations in 2006 set aside for the contract for the purchase of pulpwood , logs and wood chips",
+      "answer": 0.00074,
+      "answer_raw": "0.00074",
+      "program": "divide(2.4, 3264)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2010 what was the percentage change of the carrying amount of loan receivable net of the allowance",
+      "answer": -0.52485,
+      "answer_raw": "-0.52485",
+      "program": "subtract(920, 95), subtract(469, 77), subtract(#1, #0), divide(#2, #0)"
+    }
+  ]
+}

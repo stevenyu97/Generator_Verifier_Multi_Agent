@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2005, what percentage of specialty businesses sales were due to chemicals sales?",
+      "answer": 0.75628,
+      "answer_raw": "0.75628",
+      "program": "divide(692, 915)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that percentage in 2004?",
+      "answer": 0.6,
+      "answer_raw": "0.6",
+      "program": "divide(672, 1120)"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "input": {
+    "id": "GPN/2017/page_77.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the estimated acquisition-date fair values of major classes of assets acquired and liabilities assumed , including a reconciliation to the total purchase consideration , are as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "goodwill of $ 203.8 million arising from the acquisition , included in the asia-pacific segment , was attributable to expected growth opportunities in australia and new zealand , as well as growth opportunities and operating synergies in integrated payments in our existing asia-pacific and north america markets .",
+      "goodwill associated with this acquisition is not deductible for income tax purposes .",
+      "the customer-related intangible assets have an estimated amortization period of 15 years .",
+      "the acquired technology has an estimated amortization period of 15 years .",
+      "the trade name has an estimated amortization period of 5 years .",
+      "note 3 2014 settlement processing assets and obligations funds settlement refers to the process of transferring funds for sales and credits between card issuers and merchants .",
+      "for transactions processed on our systems , we use our internal network to provide funding instructions to financial institutions that in turn fund the merchants .",
+      "we process funds settlement under two models , a sponsorship model and a direct membership model .",
+      "under the sponsorship model , we are designated as a merchant service provider by mastercard and an independent sales organization by visa , which means that member clearing banks ( 201cmember 201d ) sponsor us and require our adherence to the standards of the payment networks .",
+      "in certain markets , we have sponsorship or depository and clearing agreements with financial institution sponsors .",
+      "these agreements allow us to route transactions under the members 2019 control and identification numbers to clear credit card transactions through mastercard and visa .",
+      "in this model , the standards of the payment networks restrict us from performing funds settlement or accessing merchant settlement funds , and , instead , require that these funds be in the possession of the member until the merchant is funded .",
+      "under the direct membership model , we are members in various payment networks , allowing us to process and fund transactions without third-party sponsorship .",
+      "in this model , we route and clear transactions directly through the card brand 2019s network and are not restricted from performing funds settlement .",
+      "otherwise , we process these transactions similarly to how we process transactions in the sponsorship model .",
+      "we are required to adhere to the standards of the payment networks in which we are direct members .",
+      "we maintain relationships with financial institutions , which may also serve as our member sponsors for other card brands or in other markets , to assist with funds settlement .",
+      "timing differences , interchange fees , merchant reserves and exception items cause differences between the amount received from the payment networks and the amount funded to the merchants .",
+      "these intermediary balances arising in our settlement process for direct merchants are reflected as settlement processing assets and obligations on our consolidated balance sheets .",
+      "settlement processing assets and obligations include the components outlined below : 2022 interchange reimbursement .",
+      "our receivable from merchants for the portion of the discount fee related to reimbursement of the interchange fee .",
+      "global payments inc .",
+      "| 2017 form 10-k annual report 2013 77 ."
+    ],
+    "table": [
+      [
+        "cash",
+        "$ 45826"
+      ],
+      [
+        "customer-related intangible assets",
+        "42721"
+      ],
+      [
+        "acquired technology",
+        "27954"
+      ],
+      [
+        "trade name",
+        "2901"
+      ],
+      [
+        "other assets",
+        "2337"
+      ],
+      [
+        "deferred income tax assets ( liabilities )",
+        "-9788 ( 9788 )"
+      ],
+      [
+        "other liabilities",
+        "-49797 ( 49797 )"
+      ],
+      [
+        "total identifiable net assets",
+        "62154"
+      ],
+      [
+        "goodwill",
+        "203828"
+      ],
+      [
+        "total purchase consideration",
+        "$ 265982"
+      ]
+    ],
+    "questions": [
+      "what portion of the total identifiable net assets is in cash?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the cumulative total return on apple stock between september 30 2007 and september 30 2012?",
+      "answer": 337.0,
+      "answer_raw": "337.0",
+      "program": "subtract(437, const_100)"
+    }
+  ]
+}

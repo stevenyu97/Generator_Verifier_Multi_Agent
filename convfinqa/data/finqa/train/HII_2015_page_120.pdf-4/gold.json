@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "between 2015 and 2013 what was the average compensation expense related to the issuing of the stock award in millions",
+      "answer": 40.33333,
+      "answer_raw": "40.33333",
+      "program": "add(43, 34), add(#0, 44), divide(#1, const_3)"
+    }
+  ]
+}

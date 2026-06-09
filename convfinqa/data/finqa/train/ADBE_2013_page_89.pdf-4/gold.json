@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net increase in the balance of outstanding shares during 2013?",
+      "answer": 473.0,
+      "answer_raw": "473.0",
+      "program": "subtract(861, 388)"
+    }
+  ]
+}

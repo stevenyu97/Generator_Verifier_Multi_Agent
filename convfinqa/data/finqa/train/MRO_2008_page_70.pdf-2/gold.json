@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was the average yearly crack spread for chicago lls 6-3-2-1 greater than the spread for us gulf coast lls 6-3-2-1 for 2008?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(3.27, 2.45)"
+    }
+  ]
+}

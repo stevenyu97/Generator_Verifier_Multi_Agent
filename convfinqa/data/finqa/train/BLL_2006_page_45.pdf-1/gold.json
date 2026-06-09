@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "did cash flows from operating activities increase in 2006 compared to 2005?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(401.4, 558.8)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what amount of long-term debt was retired during 2017?",
+      "answer": 625.0,
+      "answer_raw": "625.0",
+      "program": "add(250, 375)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the net change in assumed health care cost trend rate from 2016 to 2017?",
+      "answer": 0.75,
+      "answer_raw": "0.75",
+      "program": "subtract(7.50, 6.75)"
+    }
+  ]
+}

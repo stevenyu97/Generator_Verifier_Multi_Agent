@@ -1,0 +1,93 @@
+{
+  "input": {
+    "id": "IP/2005/page_35.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "contractual obligations for future payments under existing debt and lease commitments and purchase obli- gations at december 31 , 2005 , were as follows : in millions 2006 2007 2008 2009 2010 thereafter ."
+    ],
+    "post_text": [
+      "( a ) the 2006 amount includes $ 2.4 billion for contracts made in the ordinary course of business to purchase pulpwood , logs and wood chips .",
+      "the majority of our other purchase obligations are take-or-pay or purchase commitments made in the ordinary course of business related to raw material purchases and energy contracts .",
+      "other significant items include purchase obligations related to contracted services .",
+      "transformation plan in july 2005 , the company announced a plan to focus its business portfolio on two key global platform businesses : uncoated papers ( including distribution ) and packaging .",
+      "the plan also focuses on improving shareholder return through mill realignments in those two businesses , additional cost improvements and exploring strategic options for other businesses , includ- ing possible sale or spin-off .",
+      "in connection with this process , in the third quarter of 2005 , the company completed the sale of its 50.5% ( 50.5 % ) interest in carter holt harvey limited .",
+      "other businesses currently under re- view include : 2022 the coated and supercalendered papers busi- ness , including the coated groundwood mill and associated assets in brazil , 2022 the beverage packaging business , including the pine bluff , arkansas mill , 2022 the kraft papers business , including the roa- noke rapids , north carolina mill , 2022 arizona chemical , 2022 the wood products business , and 2022 segments or potentially all of the company 2019s 6.5 million acres of u.s .",
+      "forestlands .",
+      "consistent with this evaluation process , the com- pany has distributed bid package information for some of these businesses .",
+      "the exact timing of this evaluation process will vary by business ; however , it is anticipated that decisions will be made for some of these businesses during 2006 .",
+      "while the exact use of any proceeds from potential future sales is dependent upon various factors affecting future cash flows , such as the amount of any proceeds received and changes in market conditions , input costs and capital spending , the company remains committed to using its free cash flow in 2006 to pay down debt , to return value to shareholders , and for se- lective high-return investments .",
+      "critical accounting policies the preparation of financial statements in con- formity with generally accepted accounting principles in the united states requires international paper to estab- lish accounting policies and to make estimates that af- fect both the amounts and timing of the recording of assets , liabilities , revenues and expenses .",
+      "some of these estimates require judgments about matters that are in- herently uncertain .",
+      "accounting policies whose application may have a significant effect on the reported results of operations and financial position of international paper , and that can require judgments by management that affect their application , include sfas no .",
+      "5 , 201caccounting for contingencies , 201d sfas no .",
+      "144 , 201caccounting for the impairment or disposal of long-lived assets , 201d sfas no .",
+      "142 , 201cgoodwill and other intangible assets , 201d sfas no .",
+      "87 , 201cemployers 2019 accounting for pensions , 201d sfas no .",
+      "106 , 201cemployers 2019 accounting for postretirement benefits other than pensions , 201d as amended by sfas nos .",
+      "132 and 132r , 201cemployers 2019 disclosures about pension and other postretirement benefits , 201d and sfas no .",
+      "109 , 201caccounting for income taxes . 201d the following is a discussion of the impact of these accounting policies on international paper : contingent liabilities .",
+      "accruals for contingent li- abilities , including legal and environmental matters , are recorded when it is probable that a liability has been incurred or an asset impaired and the amount of the loss can be reasonably estimated .",
+      "liabilities accrued for legal matters require judgments regarding projected outcomes and range of loss based on historical experience and recommendations of legal counsel .",
+      "additionally , as dis- cussed in note 10 of the notes to consolidated finan- cial statements in item 8 .",
+      "financial statements and supplementary data , reserves for projected future claims settlements relating to exterior siding and roofing prod- ucts previously manufactured by masonite require judgments regarding projections of future claims rates and amounts .",
+      "international paper utilizes an in- dependent third party consultant to assist in developing these estimates .",
+      "liabilities for environmental matters require evaluations of relevant environmental regu- lations and estimates of future remediation alternatives and costs .",
+      "international paper determines these esti- mates after a detailed evaluation of each site .",
+      "impairment of long-lived assets and goodwill .",
+      "an impairment of a long-lived asset exists when the asset 2019s carrying amount exceeds its fair value , and is recorded when the carrying amount is not recoverable through future operations .",
+      "a goodwill impairment exists when the carrying amount of goodwill exceeds its fair value .",
+      "assessments of possible impairments of long-lived assets and goodwill are made when events or changes in cir- cumstances indicate that the carrying value of the asset ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "thereafter"
+      ],
+      [
+        "total debt",
+        "$ 1181",
+        "$ 570",
+        "$ 308",
+        "$ 2330",
+        "$ 1534",
+        "$ 6281"
+      ],
+      [
+        "lease obligations",
+        "172",
+        "144",
+        "119",
+        "76",
+        "63",
+        "138"
+      ],
+      [
+        "purchase obligations ( a )",
+        "3264",
+        "393",
+        "280",
+        "240",
+        "204",
+        "1238"
+      ],
+      [
+        "total",
+        "$ 4617",
+        "$ 1107",
+        "$ 707",
+        "$ 2646",
+        "$ 1801",
+        "$ 7657"
+      ]
+    ],
+    "questions": [
+      "what is the change in total debt to be repaid in the contractual obligations for future payments under existing debt and lease commitments and purchase obligations at december 31 , 2005 between 2009 and 2008?"
+    ]
+  }
+}

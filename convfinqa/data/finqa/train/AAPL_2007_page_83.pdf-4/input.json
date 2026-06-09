@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "AAPL/2007/page_83.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements ( continued ) note 8 2014commitments and contingencies ( continued ) provide renewal options for terms of 3 to 7 additional years .",
+      "leases for retail space are for terms of 5 to 20 years , the majority of which are for 10 years , and often contain multi-year renewal options .",
+      "as of september 29 , 2007 , the company 2019s total future minimum lease payments under noncancelable operating leases were $ 1.4 billion , of which $ 1.1 billion related to leases for retail space .",
+      "rent expense under all operating leases , including both cancelable and noncancelable leases , was $ 151 million , $ 138 million , and $ 140 million in 2007 , 2006 , and 2005 , respectively .",
+      "future minimum lease payments under noncancelable operating leases having remaining terms in excess of one year as of september 29 , 2007 , are as follows ( in millions ) : fiscal years ."
+    ],
+    "post_text": [
+      "accrued warranty and indemnifications the company offers a basic limited parts and labor warranty on its hardware products .",
+      "the basic warranty period for hardware products is typically one year from the date of purchase by the end-user .",
+      "the company also offers a 90-day basic warranty for its service parts used to repair the company 2019s hardware products .",
+      "the company provides currently for the estimated cost that may be incurred under its basic limited product warranties at the time related revenue is recognized .",
+      "factors considered in determining appropriate accruals for product warranty obligations include the size of the installed base of products subject to warranty protection , historical and projected warranty claim rates , historical and projected cost-per-claim , and knowledge of specific product failures that are outside of the company 2019s typical experience .",
+      "the company assesses the adequacy of its preexisting warranty liabilities and adjusts the amounts as necessary based on actual experience and changes in future estimates .",
+      "for products accounted for under subscription accounting pursuant to sop no .",
+      "97-2 , the company recognizes warranty expense as incurred .",
+      "the company periodically provides updates to its applications and system software to maintain the software 2019s compliance with specifications .",
+      "the estimated cost to develop such updates is accounted for as warranty costs that are recognized at the time related software revenue is recognized .",
+      "factors considered in determining appropriate accruals related to such updates include the number of units delivered , the number of updates expected to occur , and the historical cost and estimated future cost of the resources necessary to develop these updates. ."
+    ],
+    "table": [
+      [
+        "2008",
+        "$ 155"
+      ],
+      [
+        "2009",
+        "172"
+      ],
+      [
+        "2010",
+        "173"
+      ],
+      [
+        "2011",
+        "160"
+      ],
+      [
+        "2012",
+        "148"
+      ],
+      [
+        "thereafter",
+        "617"
+      ],
+      [
+        "total minimum lease payments",
+        "$ 1425"
+      ]
+    ],
+    "questions": [
+      "what percentage of future minimum lease payments under noncancelable operating leases having remaining terms in excess of one year are due in 2010?"
+    ]
+  }
+}

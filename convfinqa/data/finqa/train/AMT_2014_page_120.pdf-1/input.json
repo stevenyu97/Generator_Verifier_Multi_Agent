@@ -1,0 +1,73 @@
+{
+  "input": {
+    "id": "AMT/2014/page_120.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements of its outstanding restricted stock awards and stock options and uses the if-converted method to calculate the effect of its outstanding mandatory convertible preferred stock .",
+      "retirement plan 2014the company has a 401 ( k ) plan covering substantially all employees who meet certain age and employment requirements .",
+      "for the years ended december 31 , 2014 and 2013 , the company matched 75% ( 75 % ) of the first 6% ( 6 % ) of a participant 2019s contributions .",
+      "the company 2019s matching contribution for the year ended december 31 , 2012 was 50% ( 50 % ) of the first 6% ( 6 % ) of a participant 2019s contributions .",
+      "for the years ended december 31 , 2014 , 2013 and 2012 , the company contributed approximately $ 6.5 million , $ 6.0 million and $ 4.4 million to the plan , respectively .",
+      "accounting standards updates 2014in april 2014 , the financial accounting standards board ( the 201cfasb 201d ) issued additional guidance on reporting discontinued operations .",
+      "under this guidance , only disposals representing a strategic shift in operations would be presented as discontinued operations .",
+      "this guidance requires expanded disclosure that provides information about the assets , liabilities , income and expenses of discontinued operations .",
+      "additionally , the guidance requires additional disclosure for a disposal of a significant part of an entity that does not qualify for discontinued operations reporting .",
+      "this guidance is effective for reporting periods beginning on or after december 15 , 2014 , with early adoption permitted for disposals or classifications of assets as held-for-sale that have not been reported in financial statements previously issued or available for issuance .",
+      "the company chose to early adopt this guidance during the year ended december 31 , 2014 and the adoption did not have a material effect on the company 2019s financial statements .",
+      "in may 2014 , the fasb issued new revenue recognition guidance , which requires an entity to recognize revenue in an amount that reflects the consideration to which the entity expects to be entitled in exchange for the transfer of promised goods or services to customers .",
+      "the standard will replace most existing revenue recognition guidance in gaap and will become effective on january 1 , 2017 .",
+      "the standard permits the use of either the retrospective or cumulative effect transition method , and leases are not included in the scope of this standard .",
+      "the company is evaluating the impact this standard may have on its financial statements .",
+      "2 .",
+      "prepaid and other current assets prepaid and other current assets consists of the following as of december 31 , ( in thousands ) : ."
+    ],
+    "post_text": [
+      "( 1 ) december 31 , 2013 balances have been revised to reflect purchase accounting measurement period adjustments. ."
+    ],
+    "table": [
+      [
+        "",
+        "2014",
+        "2013 ( 1 )"
+      ],
+      [
+        "prepaid operating ground leases",
+        "$ 88508",
+        "$ 96881"
+      ],
+      [
+        "prepaid income tax",
+        "34512",
+        "52612"
+      ],
+      [
+        "unbilled receivables",
+        "25352",
+        "25412"
+      ],
+      [
+        "prepaid assets",
+        "23848",
+        "34243"
+      ],
+      [
+        "value added tax and other consumption tax receivables",
+        "23228",
+        "77016"
+      ],
+      [
+        "other miscellaneous current assets",
+        "59174",
+        "61253"
+      ],
+      [
+        "balance as of december 31,",
+        "$ 254622",
+        "$ 347417"
+      ]
+    ],
+    "questions": [
+      "assuming maximum participant contributions , what was the change in company match percentage between 2014 and 2013?"
+    ]
+  }
+}

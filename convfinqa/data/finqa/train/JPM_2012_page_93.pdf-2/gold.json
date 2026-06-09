@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the year over year change in the change in litigation reserves , in billions?",
+      "answer": 2.5,
+      "answer_raw": "2.5",
+      "program": "subtract(5.7, 3.2)"
+    }
+  ]
+}

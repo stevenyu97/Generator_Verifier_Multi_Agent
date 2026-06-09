@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total cash received from the sales of common stock during the 4th quarter of 2013?",
+      "answer": 531600.0,
+      "answer_raw": "531600.0",
+      "program": "multiply(5000, 106.32)"
+    }
+  ]
+}

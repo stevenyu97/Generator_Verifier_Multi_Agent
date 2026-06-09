@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of wholesale distribution channels are due to europe as of march 31 , 2018?",
+      "answer": 0.40308,
+      "answer_raw": "0.40308",
+      "program": "divide(4928, 12226)"
+    }
+  ]
+}

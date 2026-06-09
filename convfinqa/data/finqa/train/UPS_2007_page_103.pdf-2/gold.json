@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the balance of unrecognized tax benefits as of december 2017 will impact the effective tax rate?",
+      "answer": 0.37746,
+      "answer_raw": "0.37746",
+      "program": "divide(134, 355)"
+    }
+  ]
+}

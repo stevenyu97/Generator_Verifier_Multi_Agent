@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2005 what was the percentage difference in the year end high and low",
+      "answer": 0.25448,
+      "answer_raw": "0.25448",
+      "program": "subtract(87.45, 69.71), divide(#0, 69.71)"
+    }
+  ]
+}

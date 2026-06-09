@@ -1,0 +1,109 @@
+{
+  "input": {
+    "id": "Single_LMT/2007/page_39.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "( c ) includes the effects of items not considered in the assessment of the operating performance of our business segments which increased operating profit by $ 230 million , $ 150 million after tax ( $ 0.34 per share ) .",
+      "also includes expenses of $ 16 million , $ 11 million after tax ( $ 0.03 per share ) for a debt exchange , and a reduction in income tax expense of $ 62 million ( $ 0.14 per share ) resulting from a tax benefit related to claims we filed for additional extraterritorial income exclusion ( eti ) tax benefits .",
+      "on a combined basis , these items increased earnings by $ 201 million after tax ( $ 0.45 per share ) .",
+      "( d ) includes the effects of items not considered in the assessment of the operating performance of our business segments which , on a combined basis , increased operating profit by $ 173 million , $ 113 million after tax ( $ 0.25 per share ) .",
+      "( e ) includes the effects of items not considered in the assessment of the operating performance of our business segments which decreased operating profit by $ 61 million , $ 54 million after tax ( $ 0.12 per share ) .",
+      "also includes a charge of $ 154 million , $ 100 million after tax ( $ 0.22 per share ) for the early repayment of debt , and a reduction in income tax expense resulting from the closure of an internal revenue service examination of $ 144 million ( $ 0.32 per share ) .",
+      "on a combined basis , these items reduced earnings by $ 10 million after tax ( $ 0.02 per share ) .",
+      "( f ) includes the effects of items not considered in the assessment of the operating performance of our business segments which , on a combined basis , decreased operating profit by $ 7 million , $ 6 million after tax ( $ 0.01 per share ) .",
+      "also includes a charge of $ 146 million , $ 96 million after tax ( $ 0.21 per share ) for the early repayment of debt .",
+      "( g ) we define return on invested capital ( roic ) as net earnings plus after-tax interest expense divided by average invested capital ( stockholders 2019 equity plus debt ) , after adjusting stockholders 2019 equity by adding back adjustments related to postretirement benefit plans .",
+      "we believe that reporting roic provides investors with greater visibility into how effectively we use the capital invested in our operations .",
+      "we use roic to evaluate multi-year investment decisions and as a long-term performance measure , and also use it as a factor in evaluating management performance under certain of our incentive compensation plans .",
+      "roic is not a measure of financial performance under generally accepted accounting principles , and may not be defined and calculated by other companies in the same manner .",
+      "roic should not be considered in isolation or as an alternative to net earnings as an indicator of performance .",
+      "we calculate roic as follows : ( in millions ) 2007 2006 2005 2004 2003 ."
+    ],
+    "post_text": [
+      "1 represents after-tax interest expense utilizing the federal statutory rate of 35% ( 35 % ) .",
+      "2 debt consists of long-term debt , including current maturities of long-term debt , and short-term borrowings ( if any ) .",
+      "3 equity includes non-cash adjustments , primarily for unrecognized benefit plan actuarial losses and prior service costs in 2007 and 2006 , the adjustment for the adoption of fas 158 in 2006 , and the additional minimum pension liability in years prior to 2007 .",
+      "4 average benefit plan adjustments reflect the cumulative value of entries identified in our statement of stockholders equity under the captions 201cpostretirement benefit plans , 201d 201cadjustment for adoption of fas 158 201d and 201cminimum pension liability . 201d the total of annual benefit plan adjustments to equity were : 2007 = $ 1706 million ; 2006 = ( $ 1883 ) million ; 2005 = ( $ 105 ) million ; 2004 = ( $ 285 ) million ; 2003 = $ 331 million ; 2002 = ( $ 1537 million ) ; and 2001 = ( $ 33 million ) .",
+      "as these entries are recorded in the fourth quarter , the value added back to our average equity in a given year is the cumulative impact of all prior year entries plus 20% ( 20 % ) of the current year entry value .",
+      "5 yearly averages are calculated using balances at the start of the year and at the end of each quarter. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2003"
+      ],
+      [
+        "net earnings",
+        "$ 3033",
+        "$ 2529",
+        "$ 1825",
+        "$ 1266",
+        "$ 1053"
+      ],
+      [
+        "interest expense ( multiplied by 65% ( 65 % ) ) 1",
+        "229",
+        "235",
+        "241",
+        "276",
+        "317"
+      ],
+      [
+        "return",
+        "$ 3262",
+        "$ 2764",
+        "$ 2066",
+        "$ 1542",
+        "$ 1370"
+      ],
+      [
+        "average debt2 5",
+        "$ 4416",
+        "$ 4727",
+        "$ 5077",
+        "$ 5932",
+        "$ 6612"
+      ],
+      [
+        "average equity3 5",
+        "7661",
+        "7686",
+        "7590",
+        "7015",
+        "6170"
+      ],
+      [
+        "average benefit plan adjustments3 4 5",
+        "3171",
+        "2006",
+        "1545",
+        "1296",
+        "1504"
+      ],
+      [
+        "average invested capital",
+        "$ 15248",
+        "$ 14419",
+        "$ 14212",
+        "$ 14243",
+        "$ 14286"
+      ],
+      [
+        "return on invested capital",
+        "21.4% ( 21.4 % )",
+        "19.2% ( 19.2 % )",
+        "14.5% ( 14.5 % )",
+        "10.8% ( 10.8 % )",
+        "9.6% ( 9.6 % )"
+      ]
+    ],
+    "questions": [
+      "what was the difference in the net earnings between the years of 2004 and 2003?",
+      "how much does that difference represent in relation to the 2003 net earning?"
+    ]
+  }
+}

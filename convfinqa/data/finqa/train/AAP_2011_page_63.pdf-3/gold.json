@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage did ne inventories at lifo increase over the year?",
+      "answer": 0.09619,
+      "answer_raw": "0.09619",
+      "program": "subtract(2043158, 1863870), divide(#0, 1863870)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how often did the firm sustain losses that exceeded the var measure?",
+      "answer": 0.01149,
+      "answer_raw": "0.01149",
+      "program": "divide(const_3, 261)"
+    }
+  ]
+}

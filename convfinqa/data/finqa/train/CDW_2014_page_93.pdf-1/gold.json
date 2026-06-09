@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for rdus vested daily on a pro rata basis over the three-year period from january 1 , 2012 , what was the average rdus vesting each year through december 31 , 2014?\\\\n\\\\n[13] : as of december 31 , 2014 , 28500 rdus were outstanding .",
+      "answer": 9500.0,
+      "answer_raw": "9500.0",
+      "program": "divide(28500, const_3)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentual increase observed in the average price paid per share during november and december of 2013?",
+      "answer": 0.0603,
+      "answer_raw": "0.0603",
+      "program": "divide(104.10, 98.18), subtract(#0, const_1)"
+    }
+  ]
+}

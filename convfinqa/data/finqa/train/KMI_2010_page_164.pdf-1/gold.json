@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of current maturities of long-term debt as a percent of total long-term debt for the first column?",
+      "answer": -1263.3,
+      "answer_raw": "-1263.3",
+      "program": "multiply(1263.3, const_m1), divide(#0, 10282.8), multiply(#0, 100%)"
+    }
+  ]
+}

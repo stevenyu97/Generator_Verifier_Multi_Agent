@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in cash capital investments in track from 2004 to 2005?",
+      "answer": 0.10843,
+      "answer_raw": "0.10843",
+      "program": "subtract(1472, 1328), divide(#0, 1328)"
+    }
+  ]
+}

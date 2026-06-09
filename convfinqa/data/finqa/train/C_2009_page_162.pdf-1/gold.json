@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 2009 what was the annual anticipated unrecognized compensation cost related to unvested stock awards to be recognized in billions",
+      "answer": 1.23077,
+      "answer_raw": "1.23077",
+      "program": "divide(1.6, 1.3)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the weighted-average discount rate for u.s . pension plans from 2014 to 2015?",
+      "answer": 0.08861,
+      "answer_raw": "0.08861",
+      "program": "subtract(4.30, 3.95), divide(#0, 3.95)"
+    }
+  ]
+}

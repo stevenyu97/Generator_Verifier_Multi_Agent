@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the price of wti crude oil in 2011?",
+      "answer": 95.11,
+      "answer_raw": "95.11",
+      "program": "95.11"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the price of wti crude oil in 2009?",
+      "answer": 62.09,
+      "answer_raw": "62.09",
+      "program": "62.09"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference between the price of wti crude oil from 2009 to 2011?",
+      "answer": 33.02,
+      "answer_raw": "33.02",
+      "program": "subtract(95.11, 62.09)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the price of wti crude oil in 2009?",
+      "answer": 62.09,
+      "answer_raw": "62.09",
+      "program": "62.09"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the difference in price divided by the 2009 price of wti crude oil?",
+      "answer": 0.53181,
+      "answer_raw": "0.53181",
+      "program": "subtract(95.11, 62.09), divide(#0, 62.09)"
+    }
+  ]
+}

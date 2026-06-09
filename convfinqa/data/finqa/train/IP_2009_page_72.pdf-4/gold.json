@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the sum of the earnings ( loss ) from continuing operations",
+      "answer": 609.0,
+      "answer_raw": "609.0",
+      "program": "add(663, -1269), add(1215, #0)"
+    }
+  ]
+}

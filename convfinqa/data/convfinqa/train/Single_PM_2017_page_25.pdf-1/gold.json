@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the pmi share price on 12/31/13?",
+      "answer": 108.5,
+      "answer_raw": "108.5",
+      "program": "108.50"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the difference in price between this period and 12/31/12?",
+      "answer": 8.5,
+      "answer_raw": "8.5",
+      "program": "subtract(108.50, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the growth rate during this time?",
+      "answer": 0.085,
+      "answer_raw": "0.085",
+      "program": "subtract(108.50, const_100), divide(#0, const_100)"
+    }
+  ]
+}

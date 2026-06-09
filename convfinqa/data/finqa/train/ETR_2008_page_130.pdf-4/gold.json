@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "2012 debt maturities is what percent higher than the next highest year ( 2011 ) ?",
+      "answer": 3.04011,
+      "answer_raw": "3.04011",
+      "program": "subtract(3625459, 897367), divide(#0, 897367)"
+    }
+  ]
+}

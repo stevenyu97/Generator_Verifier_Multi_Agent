@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "total percentage rents approximated what in thousands for the years ended december 31 , 2002 and 2001?",
+      "answer": 3989000.0,
+      "answer_raw": "3989000.0",
+      "program": "add(1832000, 2157000)"
+    }
+  ]
+}

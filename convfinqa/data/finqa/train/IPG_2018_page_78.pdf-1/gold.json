@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage of issuance costs attributable to the senior notes due 2021",
+      "answer": 0.19876,
+      "answer_raw": "0.19876",
+      "program": "divide(3.2, 16.1)"
+    }
+  ]
+}

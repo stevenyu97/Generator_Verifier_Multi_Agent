@@ -1,0 +1,80 @@
+{
+  "input": {
+    "id": "IP/2012/page_98.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "determined that it was the primary beneficiary of the 2001 financing entities and thus consolidated the entities effective march 16 , 2011 .",
+      "effective april 30 , 2011 , international paper liquidated its interest in the 2001 financing entities .",
+      "activity between the company and the 2002 financ- ing entities was as follows: ."
+    ],
+    "post_text": [
+      "( a ) the revenue is included in equity earnings ( loss ) , net of tax in the accompanying consolidated statement of operations .",
+      "( b ) the expense is included in interest expense , net in the accom- panying consolidated statement of operations .",
+      "( c ) the cash receipts are equity distributions from the 2002 financ- ing entities to international paper and cash receipts from the maturity of the 2002 monetized notes .",
+      "( d ) the cash payments include both interest and principal on the associated debt obligations .",
+      "on may 31 , 2011 , the third-party equity holder of the 2002 financing entities retired its class a interest in the entities for $ 51 million .",
+      "as a result of the retire- ment , effective may 31 , 2011 , international paper owned 100% ( 100 % ) of the 2002 financing entities .",
+      "based on an analysis performed by the company after the retirement , under guidance that considers the poten- tial magnitude of the variability in the structure and which party has controlling financial interest , international paper determined that it was the pri- mary beneficiary of the 2002 financing entities and thus consolidated the entities effective may 31 , 2011 .",
+      "during the year ended december 31 , 2011 approx- imately $ 191 million of the 2002 monetized notes matured .",
+      "outstanding debt related to these entities of $ 158 million is included in floating rate notes due 2011 2013 2017 in the summary of long-term debt in note 12 at december 31 , 2011 .",
+      "as of may 31 , 2012 , this debt had been repaid .",
+      "during the year ended december 31 , 2012 , $ 252 mil- lion of the 2002 monetized notes matured .",
+      "as of result of these maturities , accounts and notes receivable decreased $ 252 million and notes payable and current maturities of long-term debt decreased $ 158 million .",
+      "deferred tax liabilities associated with the 2002 forestland installment sales decreased $ 67 million .",
+      "effective june 1 , 2012 , international paper liquidated its interest in the 2002 financing entities .",
+      "the use of the above entities facilitated the mone- tization of the credit enhanced timber and mone- tized notes in a cost effective manner by increasing the borrowing capacity and lowering the interest rate while continuing to preserve the tax deferral that resulted from the forestlands installment sales and the offset accounting treatment described above .",
+      "in connection with the acquisition of temple-inland in february 2012 , two special purpose entities became wholly-owned subsidiaries of international paper .",
+      "in october 2007 , temple-inland sold 1.55 million acres of timberlands for $ 2.38 billion .",
+      "the total con- sideration consisted almost entirely of notes due in 2027 issued by the buyer of the timberlands , which temple-inland contributed to two wholly-owned , bankruptcy-remote special purpose entities .",
+      "the notes are shown in financial assets of special pur- pose entities in the accompanying consolidated balance sheet and are supported by $ 2.38 billion of irrevocable letters of credit issued by three banks , which are required to maintain minimum credit rat- ings on their long-term debt .",
+      "in the third quarter of 2012 , international paper completed is preliminary analysis of the acquisition date fair value of the notes and determined it to be $ 2.09 billion .",
+      "as a result of this analysis , financial assets of special purposed entities decreased by $ 292 million and goodwill increased by the same amount .",
+      "as of december 31 , 2012 , the fair value of the notes was $ 2.21 billion .",
+      "in december 2007 , temple-inland 2019s two wholly- owned special purpose entities borrowed $ 2.14 bil- lion shown in nonrecourse financial liabilities of special purpose entities in the accompanying con- solidated balance sheet .",
+      "the loans are repayable in 2027 and are secured only by the $ 2.38 billion of notes and the irrevocable letters of credit securing the notes and are nonrecourse to the company .",
+      "the loan agreements provide that if a credit rating of any of the banks issuing the letters of credit is down- graded below the specified threshold , the letters of credit issued by that bank must be replaced within 30 days with letters of credit from another qualifying financial institution .",
+      "in the third quarter of 2012 , international paper completed its preliminary analy- sis of the acquisition date fair value of the borrow- ings and determined it to be $ 2.03 billion .",
+      "as a result of this analysis , nonrecourse financial liabilities of special purpose entities decreased by $ 110 million and goodwill decreased by the same amount .",
+      "as of december 31 , 2012 , the fair value of this debt was $ 2.12 billion .",
+      "the buyer of the temple-inland timberland issued the $ 2.38 billion in notes from its wholly-owned , bankruptcy-remote special purpose entities .",
+      "the buyer 2019s special purpose entities held the timberlands from the transaction date until november 2008 , at which time the timberlands were transferred out of the buyer 2019s special purpose entities .",
+      "due to the transfer of the timberlands , temple-inland evaluated the buyer 2019s special purpose entities and determined that they were variable interest entities and that temple-inland was the primary beneficiary .",
+      "as a result , in 2008 , temple-inland ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2012",
+        "2011",
+        "2010"
+      ],
+      [
+        "revenue ( loss ) ( a )",
+        "$ 2014",
+        "$ 2",
+        "$ 5"
+      ],
+      [
+        "expense ( b )",
+        "2014",
+        "3",
+        "8"
+      ],
+      [
+        "cash receipts ( c )",
+        "252",
+        "192",
+        "3"
+      ],
+      [
+        "cash payments ( d )",
+        "159",
+        "244",
+        "8"
+      ]
+    ],
+    "questions": [
+      "for the three years of 2010 , 2011 and 2012 what was the net cash impact from the 2002 financing entities?"
+    ]
+  }
+}

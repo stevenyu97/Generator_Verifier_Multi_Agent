@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference of the debt market value between 2016 and 2017 if interest rates decrease 10%?",
+      "answer": -6.3,
+      "answer_raw": "-6.3",
+      "program": "subtract(20.6, 26.9)"
+    }
+  ]
+}

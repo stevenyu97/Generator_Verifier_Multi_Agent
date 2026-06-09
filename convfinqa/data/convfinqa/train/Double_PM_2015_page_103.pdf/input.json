@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "Double_PM/2015/page_103.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "movement in exit cost liabilities the movement in exit cost liabilities for pmi was as follows : ( in millions ) ."
+    ],
+    "post_text": [
+      "cash payments related to exit costs at pmi were $ 232 million , $ 360 million and $ 21 million for the years ended december 31 , 2015 , 2014 and 2013 , respectively .",
+      "future cash payments for exit costs incurred to date are expected to be approximately $ 54 million , and will be substantially paid by the end of 2017 .",
+      "the pre-tax asset impairment and exit costs shown above are primarily a result of the following : the netherlands on april 4 , 2014 , pmi announced the initiation by its affiliate , philip morris holland b.v .",
+      "( 201cpmh 201d ) , of consultations with employee representatives on a proposal to discontinue cigarette production at its factory located in bergen op zoom , the netherlands .",
+      "pmh reached an agreement with the trade unions and their members on a social plan and ceased cigarette production on september 1 , 2014 .",
+      "during 2014 , total pre-tax asset impairment and exit costs of $ 489 million were recorded for this program in the european union segment .",
+      "this amount includes employee separation costs of $ 343 million , asset impairment costs of $ 139 million and other separation costs of $ 7 million .",
+      "separation program charges pmi recorded other pre-tax separation program charges of $ 68 million , $ 41 million and $ 51 million for the years ended december 31 , 2015 , 2014 and 2013 , respectively .",
+      "the 2015 other pre-tax separation program charges primarily related to severance costs for the organizational restructuring in the european union segment .",
+      "the 2014 other pre-tax separation program charges primarily related to severance costs for factory closures in australia and canada and the restructuring of the u.s .",
+      "leaf purchasing model .",
+      "the 2013 pre-tax separation program charges primarily related to the restructuring of global and regional functions based in switzerland and australia .",
+      "contract termination charges during 2013 , pmi recorded exit costs of $ 258 million related to the termination of distribution agreements in eastern europe , middle east & africa ( due to a new business model in egypt ) and asia .",
+      "asset impairment charges during 2014 , pmi recorded other pre-tax asset impairment charges of $ 5 million related to a factory closure in canada. ."
+    ],
+    "table": [
+      [
+        "liability balance january 1 2014",
+        "$ 308"
+      ],
+      [
+        "charges net",
+        "391"
+      ],
+      [
+        "cash spent",
+        "-360 ( 360 )"
+      ],
+      [
+        "currency/other",
+        "-69 ( 69 )"
+      ],
+      [
+        "liability balance december 31 2014",
+        "$ 270"
+      ],
+      [
+        "charges net",
+        "68"
+      ],
+      [
+        "cash spent",
+        "-232 ( 232 )"
+      ],
+      [
+        "currency/other",
+        "-52 ( 52 )"
+      ],
+      [
+        "liability balance december 31 2015",
+        "$ 54"
+      ]
+    ],
+    "questions": [
+      "what was the liability balance by the end of 2015?",
+      "and what was it in the beginning of that year?",
+      "what was, then, the change throughout the year?",
+      "and between that year and the one before, what was the change in the amount of cash spent?"
+    ]
+  }
+}

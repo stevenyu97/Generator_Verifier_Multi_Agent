@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many square feet of the occupied space will expire during 2020?",
+      "answer": 778000.0,
+      "answer_raw": "778000.0",
+      "program": "add(414000, 364000)"
+    }
+  ]
+}

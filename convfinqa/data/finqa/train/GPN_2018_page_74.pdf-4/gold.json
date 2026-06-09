@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total percentage of costs that came from identifiable assets?",
+      "answer": 144357.0,
+      "answer_raw": "144357.0",
+      "program": "subtract(409201, 264844)"
+    }
+  ]
+}

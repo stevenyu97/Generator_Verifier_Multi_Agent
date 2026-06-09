@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in total operating expenses in 2012?",
+      "answer": 314.0,
+      "answer_raw": "314.0",
+      "program": "subtract(22956, 22642)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage change does this represent?",
+      "answer": 0.01387,
+      "answer_raw": "0.01387",
+      "program": "subtract(22956, 22642), divide(#0, 22642)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the number of staff in 2012?",
+      "answer": 32400.0,
+      "answer_raw": "32400.0",
+      "program": "32400"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about in 2011?",
+      "answer": 33300.0,
+      "answer_raw": "33300.0",
+      "program": "33300"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the net change?",
+      "answer": -900.0,
+      "answer_raw": "-900.0",
+      "program": "subtract(32400, 33300)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what percentage change does this represent?",
+      "answer": -0.02703,
+      "answer_raw": "-0.02703",
+      "program": "subtract(32400, 33300), divide(#0, 33300)"
+    }
+  ]
+}

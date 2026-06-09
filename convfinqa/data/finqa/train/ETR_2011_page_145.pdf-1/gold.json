@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total future minimum lease payments is due within 12 months?",
+      "answer": 0.15721,
+      "answer_raw": "0.15721",
+      "program": "divide(39067, 248504)"
+    }
+  ]
+}

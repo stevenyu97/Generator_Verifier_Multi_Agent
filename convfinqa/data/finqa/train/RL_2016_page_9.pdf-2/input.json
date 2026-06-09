@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "RL/2016/page_9.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "worldwide wholesale distribution channels the following table presents the number of doors by geographic location in which products distributed by our wholesale segment were sold to consumers in our primary channels of distribution as of april 2 , 2016: ."
+    ],
+    "post_text": [
+      "( a ) includes the u.s. , canada , and latin america .",
+      "( b ) includes the middle east .",
+      "( c ) includes australia and new zealand .",
+      "we have three key wholesale customers that generate significant sales volume .",
+      "during fiscal 2016 , sales to our largest wholesale customer , macy's , inc .",
+      "( \"macy's\" ) , accounted for approximately 11% ( 11 % ) and 25% ( 25 % ) of our total net revenues and total wholesale net revenues , respectively .",
+      "further , during fiscal 2016 , sales to our three largest wholesale customers , including macy's , accounted for approximately 24% ( 24 % ) and 53% ( 53 % ) of our total net revenues and total wholesale net revenues , respectively .",
+      "our products are sold primarily by our own sales forces .",
+      "our wholesale segment maintains its primary showrooms in new york city .",
+      "in addition , we maintain regional showrooms in milan , paris , london , munich , madrid , stockholm , and panama .",
+      "shop-within-shops .",
+      "as a critical element of our distribution to department stores , we and our licensing partners utilize shop-within-shops to enhance brand recognition , to permit more complete merchandising of our lines by the department stores , and to differentiate the presentation of our products .",
+      "as of april 2 , 2016 , we had approximately 25000 shop-within-shops in our primary channels of distribution dedicated to our wholesale products worldwide .",
+      "the size of our shop-within-shops ranges from approximately 100 to 9200 square feet .",
+      "shop-within-shop fixed assets primarily include items such as customized freestanding fixtures , wall cases and components , decorative items , and flooring .",
+      "we normally share in the cost of building out these shop-within-shops with our wholesale customers .",
+      "basic stock replenishment program .",
+      "basic products such as knit shirts , chino pants , oxford cloth shirts , select accessories , and home products can be ordered by our wholesale customers at any time through our basic stock replenishment program .",
+      "we generally ship these products within two to five days of order receipt .",
+      "our retail segment our retail segment sells directly to customers throughout the world via our 493 retail stores , totaling approximately 3.8 million square feet , and 583 concession-based shop-within-shops , as well as through our various e-commerce sites .",
+      "the extension of our direct-to-consumer reach is one of our primary long-term strategic goals .",
+      "we operate our retail business using an omni-channel retailing strategy that seeks to deliver an integrated shopping experience with a consistent message of our brands and products to our customers , regardless of whether they are shopping for our products in one of our physical stores or online .",
+      "ralph lauren stores our ralph lauren stores feature a broad range of apparel , accessories , watch and jewelry , fragrance , and home product assortments in an atmosphere reflecting the distinctive attitude and image of the ralph lauren , polo , double rl , and denim & supply brands , including exclusive merchandise that is not sold in department stores .",
+      "during fiscal 2016 , we opened 22 new ralph lauren stores and closed 21 stores .",
+      "our ralph lauren stores are primarily situated in major upscale street locations and upscale regional malls , generally in large urban markets. ."
+    ],
+    "table": [
+      [
+        "location",
+        "number of doors"
+      ],
+      [
+        "the americas ( a )",
+        "7741"
+      ],
+      [
+        "europe ( b )",
+        "5625"
+      ],
+      [
+        "asia ( c )",
+        "136"
+      ],
+      [
+        "total",
+        "13502"
+      ]
+    ],
+    "questions": [
+      "what percentage of doors in the wholesale segment as of april 2 , 2016 where in the asia geography?"
+    ]
+  }
+}

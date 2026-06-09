@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "Single_AMT/2005/page_109.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements 2014 ( continued ) 2003 were $ 10.08 , $ 7.05 , and $ 6.32 per share , respectively .",
+      "key assumptions used to apply this pricing model are as follows : july 1 , 2005 2013 december 31 , 2005 january 1 , 2005 2013 june 30 , 2005 2004 2003 ."
+    ],
+    "post_text": [
+      "voluntary option exchanges 2014in february 2004 , the company issued to eligible employees 1032717 options with an exercise price of $ 11.19 per share , the fair market value of the class a common stock on the date of grant .",
+      "these options were issued in connection with a voluntary option exchange program entered into by the company in august 2003 , pursuant to which the company accepted for surrender and cancelled options to purchase a total of 1831981 shares of its class a common stock having an exercise price of $ 10.25 or greater .",
+      "the program , which was offered to both full and part-time employees , excluding the company 2019s executive officers and its directors , provided for the grant ( at least six months and one day from the surrender date to employees still employed on that date ) of new options exercisable for two shares of class a common stock for every three shares of class a common stock issuable upon exercise of a surrendered option .",
+      "no options were granted to any employees who participated in the exchange offer between the cancellation date and the new grant atc mexico stock option plan 2014the company maintains a stock option plan in its atc mexico subsidiary ( atc mexico plan ) .",
+      "the atc mexico plan provides for the issuance of options to officers , employees , directors and consultants of atc mexico .",
+      "the atc mexico plan limits the number of shares of common stock which may be granted to an aggregate of 360 shares , subject to adjustment based on changes in atc mexico 2019s capital structure .",
+      "during 2002 , atc mexico granted options to purchase 318 shares of atc mexico common stock to officers and employees .",
+      "such options were issued at one time with an exercise price of $ 10000 per share .",
+      "the exercise price per share was at fair market value as determined by the board of directors with the assistance of an independent appraisal performed at the company 2019s request .",
+      "the fair value of atc mexico plan options granted during 2002 were $ 3611 per share as determined by using the black-scholes option pricing model .",
+      "as described in note 11 , all outstanding options were exercised in march 2004 .",
+      "no options under the atc mexico plan were outstanding as of december 31 , 2005 .",
+      "( see note 11. ) atc south america stock option plan 2014the company maintains a stock option plan in its atc south america subsidiary ( atc south america plan ) .",
+      "the atc south america plan provides for the issuance of options to officers , employees , directors and consultants of atc south america .",
+      "the atc south america plan limits the number of shares of common stock which may be granted to an aggregate of 6144 shares , ( an approximate 10.3% ( 10.3 % ) interest on a fully-diluted basis ) , subject to adjustment based on changes in atc south america 2019s capital structure .",
+      "during 2004 , atc south america granted options to purchase 6024 shares of atc south america common stock to officers and employees , including messrs .",
+      "gearon and hess , who received options to purchase an approximate 6.7% ( 6.7 % ) and 1.6% ( 1.6 % ) interest , respectively .",
+      "such options were issued at one time with an exercise price of $ 1349 per share .",
+      "the exercise price per share was at fair market value on the date of issuance as determined by the board of directors with the assistance of an independent appraisal performed at the company 2019s request .",
+      "the fair value of atc south america plan options granted during 2004 were $ 79 per share as determined by using the black-scholes option pricing model .",
+      "options granted vest upon the earlier to occur of ( a ) the exercise by or on behalf of mr .",
+      "gearon of his right to sell his interest in atc south america to the company , ( b ) the ."
+    ],
+    "table": [
+      [
+        "",
+        "july 1 2005 2013 december 31 2005",
+        "january 1 2005 2013 june 30 2005",
+        "2004",
+        "2003"
+      ],
+      [
+        "approximate risk-free interest rate",
+        "3.22% ( 3.22 % ) - 4.40% ( 4.40 % )",
+        "4.17% ( 4.17 % ) - 4.40% ( 4.40 % )",
+        "4.23% ( 4.23 % )",
+        "4.00% ( 4.00 % )"
+      ],
+      [
+        "expected life of option grants",
+        "6.25 years",
+        "4 years",
+        "4 years",
+        "4 years"
+      ],
+      [
+        "expected volatility of underlying stock",
+        "29.6% ( 29.6 % )",
+        "75.3% ( 75.3 % ) - 79.2% ( 79.2 % )",
+        "80.6% ( 80.6 % )",
+        "86.6% ( 86.6 % )"
+      ],
+      [
+        "expected volatility of underlying stock ( atc mexico and atc south america plans )",
+        "n/a",
+        "n/a",
+        "n/a",
+        "n/a"
+      ],
+      [
+        "expected dividends",
+        "n/a",
+        "n/a",
+        "n/a",
+        "n/a"
+      ]
+    ],
+    "questions": [
+      "what is the total value of proceeds from the issuance of employee options during february 2004?",
+      "what is this value in millions?"
+    ]
+  }
+}

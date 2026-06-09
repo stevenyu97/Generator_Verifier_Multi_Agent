@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of non-cancelable operating leases net of sublease income are due in less than one year?",
+      "answer": 0.28129,
+      "answer_raw": "0.28129",
+      "program": "divide(23.6, 83.9)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming a 1% ( 1 % ) increase in the 2015 interest yield on managed interest-earning assets , what would the three year average yield improve to?",
+      "answer": 1.85,
+      "answer_raw": "1.85",
+      "program": "subtract(2.14, 1), add(#0, 2.18), add(#1, 2.23), divide(#2, const_3)"
+    }
+  ]
+}

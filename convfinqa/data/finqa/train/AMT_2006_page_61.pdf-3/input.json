@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "AMT/2006/page_61.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "in february 2007 , the fasb issued sfas no .",
+      "159 201cthe fair value option for financial assets and liabilities 2014including an amendment of fasb statement no .",
+      "115 201d ( sfas no .",
+      "159 ) .",
+      "this statement provides companies with an option to report selected financial assets and liabilities at fair value and establishes presentation and disclosure requirements designed to facilitate comparisons between companies that choose different measurement attributes for similar types of assets and liabilities .",
+      "sfas no .",
+      "159 is effective for us as of january 1 , 2008 .",
+      "we are in the process of evaluating the impact that sfas no .",
+      "159 will have on our consolidated financial statements .",
+      "information presented pursuant to the indentures of our 7.50% ( 7.50 % ) notes , 7.125% ( 7.125 % ) notes and ati 7.25% ( 7.25 % ) the following table sets forth information that is presented solely to address certain tower cash flow reporting requirements contained in the indentures for our 7.50% ( 7.50 % ) notes , 7.125% ( 7.125 % ) notes and ati 7.25% ( 7.25 % ) notes ( collectively , the notes ) .",
+      "the information contained in note 20 to our consolidated financial statements is also presented to address certain reporting requirements contained in the indenture for our ati 7.25% ( 7.25 % ) notes .",
+      "the indentures governing the notes contain restrictive covenants with which we and certain subsidiaries under these indentures must comply .",
+      "these include restrictions on our ability to incur additional debt , guarantee debt , pay dividends and make other distributions and make certain investments .",
+      "any failure to comply with these covenants would constitute a default , which could result in the acceleration of the principal amount and accrued and unpaid interest on all the outstanding notes .",
+      "in order for the holders of the notes to assess our compliance with certain of these covenants , the indentures require us to disclose in the periodic reports we file with the sec our tower cash flow , adjusted consolidated cash flow and non-tower cash flow ( each as defined in the indentures ) .",
+      "under the indentures , our ability to make certain types of restricted payments is limited by the amount of adjusted consolidated cash flow that we generate , which is determined based on our tower cash flow and non-tower cash flow .",
+      "in addition , the indentures for the notes restrict us from incurring additional debt or issuing certain types of preferred stock if on a pro forma basis the issuance of such debt and preferred stock would cause our consolidated debt to be greater than 7.5 times our adjusted consolidated cash flow .",
+      "as of december 31 , 2006 , the ratio of our consolidated debt to adjusted consolidated cash flow was approximately 4.6 .",
+      "for more information about the restrictions under our notes indentures , see note 7 to our consolidated financial statements included in this annual report and the section entitled 201cmanagement 2019s discussion and analysis of financial condition and results of operations 2014liquidity and capital resources 2014factors affecting sources of liquidity . 201d tower cash flow , adjusted consolidated cash flow and non-tower cash flow are considered non-gaap financial measures .",
+      "we are required to provide these financial metrics by the indentures for the notes , and we have included them below because we consider the indentures for the notes to be material agreements , the covenants related to tower cash flow , adjusted consolidated cash flow and non-tower cash flow to be material terms of the indentures , and information about compliance with such covenants to be material to an investor 2019s understanding of our financial results and the impact of those results on our liquidity .",
+      "these financial metrics do not include the results of spectrasite or its subsidiaries because such entities are unrestricted subsidiaries under the indentures for the notes .",
+      "the following table presents tower cash flow , adjusted consolidated cash flow and non-tower cash flow for the company and its restricted subsidiaries , as defined in the indentures for the applicable notes ( in thousands ) : ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "tower cash flow for the three months ended december 31 2006",
+        "$ 157311"
+      ],
+      [
+        "consolidated cash flow for the twelve months ended december 31 2006",
+        "$ 591 050"
+      ],
+      [
+        "less : tower cash flow for the twelve months ended december 31 2006",
+        "-612366 ( 612366 )"
+      ],
+      [
+        "plus : four times tower cash flow for the three months ended december 31 2006",
+        "629244"
+      ],
+      [
+        "adjusted consolidated cash flow for the twelve months ended december 31 2006",
+        "$ 607928"
+      ],
+      [
+        "non-tower cash flow for the twelve months ended december 31 2006",
+        "$ -22614 ( 22614 )"
+      ]
+    ],
+    "questions": [
+      "what portion of the adjusted consolidated cash flow for the twelve months ended december 31 , 2006 is related to non-tower cash flow?"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "input": {
+    "id": "JPM/2004/page_31.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "jpmorgan chase & co .",
+      "/ 2004 annual report 29 firms were aligned to provide consistency across the business segments .",
+      "in addition , expenses related to certain corporate functions , technology and operations ceased to be allocated to the business segments and are retained in corporate .",
+      "these retained expenses include parent company costs that would not be incurred if the segments were stand-alone businesses ; adjustments to align certain corporate staff , technology and operations allocations with market prices ; and other one-time items not aligned with the business segments .",
+      "capital allocation each business segment is allocated capital by taking into consideration stand- alone peer comparisons , economic risk measures and regulatory capital requirements .",
+      "the amount of capital assigned to each business is referred to as equity .",
+      "effective with the third quarter of 2004 , new methodologies were implemented to calculate the amount of capital allocated to each segment .",
+      "as part of the new methodology , goodwill , as well as the associated capital , is allocated solely to corporate .",
+      "although u.s .",
+      "gaap requires the allocation of goodwill to the business segments for impairment testing ( see note 15 on page 109 of this annual report ) , the firm has elected not to include goodwill or the related capital in each of the business segments for management reporting purposes .",
+      "see the capital management section on page 50 of this annual report for a discussion of the equity framework .",
+      "credit reimbursement tss reimburses the ib for credit portfolio exposures the ib manages on behalf of clients the segments share .",
+      "at the time of the merger , the reimbursement methodology was revised to be based on pre-tax earnings , net of the cost of capital related to those exposures .",
+      "prior to the merger , the credit reimburse- ment was based on pre-tax earnings , plus the allocated capital associated with the shared clients .",
+      "tax-equivalent adjustments segment results reflect revenues on a tax-equivalent basis for segment reporting purposes .",
+      "refer to page 25 of this annual report for additional details .",
+      "description of business segment reporting methodology results of the business segments are intended to reflect each segment as if it were essentially a stand-alone business .",
+      "the management reporting process that derives these results allocates income and expense using market-based methodologies .",
+      "at the time of the merger , several of the allocation method- ologies were revised , as noted below .",
+      "the changes became effective july 1 , 2004 .",
+      "as prior periods have not been revised to reflect these new methodologies , they are not comparable to the presentation of periods begin- ning with the third quarter of 2004 .",
+      "further , the firm intends to continue to assess the assumptions , methodologies and reporting reclassifications used for segment reporting , and it is anticipated that further refinements may be implemented in future periods .",
+      "revenue sharing when business segments join efforts to sell products and services to the firm 2019s clients , the participating business segments agree to share revenues from those transactions .",
+      "these revenue sharing agreements were revised on the merger date to provide consistency across the lines of businesses .",
+      "funds transfer pricing funds transfer pricing ( 201cftp 201d ) is used to allocate interest income and interest expense to each line of business and also serves to transfer interest rate risk to corporate .",
+      "while business segments may periodically retain interest rate exposures related to customer pricing or other business-specific risks , the bal- ance of the firm 2019s overall interest rate risk exposure is included and managed in corporate .",
+      "in the third quarter of 2004 , ftp was revised to conform the policies of the combined firms .",
+      "expense allocation where business segments use services provided by support units within the firm , the costs of those support units are allocated to the business segments .",
+      "those expenses are allocated based on their actual cost , or the lower of actual cost or market cost , as well as upon usage of the services provided .",
+      "effective with the third quarter of 2004 , the cost allocation methodologies of the heritage segment results 2013 operating basis ( a ) ( b ) ( table continued from previous page ) year ended december 31 , operating earnings return on common equity 2013 goodwill ( c ) ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "year ended december 31 , ( in millions except ratios )",
+        "year ended december 31 , 2004",
+        "year ended december 31 , 2003",
+        "year ended december 31 , change",
+        "2004",
+        "2003"
+      ],
+      [
+        "investment bank",
+        "$ 2948",
+        "$ 2805",
+        "5% ( 5 % )",
+        "17% ( 17 % )",
+        "15% ( 15 % )"
+      ],
+      [
+        "retail financial services",
+        "2199",
+        "1547",
+        "42",
+        "24",
+        "37"
+      ],
+      [
+        "card services",
+        "1274",
+        "683",
+        "87",
+        "17",
+        "20"
+      ],
+      [
+        "commercial banking",
+        "608",
+        "307",
+        "98",
+        "29",
+        "29"
+      ],
+      [
+        "treasury & securities services",
+        "440",
+        "422",
+        "4",
+        "17",
+        "15"
+      ],
+      [
+        "asset & wealth management",
+        "681",
+        "287",
+        "137",
+        "17",
+        "5"
+      ],
+      [
+        "corporate",
+        "61",
+        "668",
+        "-91 ( 91 )",
+        "nm",
+        "nm"
+      ],
+      [
+        "total",
+        "$ 8211",
+        "$ 6719",
+        "22% ( 22 % )",
+        "16% ( 16 % )",
+        "19% ( 19 % )"
+      ]
+    ],
+    "questions": [
+      "in 2004 , what percent of operating earnings were allocated to commercial banking?"
+    ]
+  }
+}

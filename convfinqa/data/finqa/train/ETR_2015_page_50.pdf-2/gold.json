@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the payments for entergy texas as a percentage of payments for entergy mississippi?",
+      "answer": 0.475,
+      "answer_raw": "0.475",
+      "program": "divide(1.9, 4)"
+    }
+  ]
+}

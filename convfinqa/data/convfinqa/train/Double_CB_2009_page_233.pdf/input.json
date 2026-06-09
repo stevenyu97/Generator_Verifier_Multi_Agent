@@ -1,0 +1,53 @@
+{
+  "input": {
+    "id": "Double_CB/2009/page_233.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "s c h e d u l e i v ace limited and subsidiaries s u p p l e m e n t a l i n f o r m a t i o n c o n c e r n i n g r e i n s u r a n c e premiums earned for the years ended december 31 , 2009 , 2008 , and 2007 ( in millions of u.s .",
+      "dollars , except for percentages ) direct amount ceded to companies assumed from other companies net amount percentage of amount assumed to ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "for the years ended december 31 2009 2008 and 2007 ( in millions of u.s . dollars except for percentages )",
+        "direct amount",
+        "ceded to other companies",
+        "assumed from other companies",
+        "net amount",
+        "percentage of amount assumed to net"
+      ],
+      [
+        "2009",
+        "$ 15415",
+        "$ 5943",
+        "$ 3768",
+        "$ 13240",
+        "28% ( 28 % )"
+      ],
+      [
+        "2008",
+        "$ 16087",
+        "$ 6144",
+        "$ 3260",
+        "$ 13203",
+        "25% ( 25 % )"
+      ],
+      [
+        "2007",
+        "$ 14673",
+        "$ 5834",
+        "$ 3458",
+        "$ 12297",
+        "28% ( 28 % )"
+      ]
+    ],
+    "questions": [
+      "what is the amount ceded to other companies in 2009?",
+      "what about the total direct amount in 2009?",
+      "what portion of the direct amount is ceded to other companies?",
+      "what is the ratio of direct amount to ceded amount in 2009?"
+    ]
+  }
+}

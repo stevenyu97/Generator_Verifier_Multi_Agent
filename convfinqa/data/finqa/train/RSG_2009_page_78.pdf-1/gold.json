@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the free cash flow from 2008 to 2009 in millions",
+      "answer": 468.5,
+      "answer_raw": "468.5",
+      "program": "subtract(602.0, 133.5)"
+    }
+  ]
+}

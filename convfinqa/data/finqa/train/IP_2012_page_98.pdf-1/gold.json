@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the three years of 2010 , 2011 and 2012 what was the net cash impact from the 2002 financing entities?",
+      "answer": 36.0,
+      "answer_raw": "36.0",
+      "program": "add(252, 192), add(#0, 3), add(159, 244), add(#2, 8), subtract(#1, #3)"
+    }
+  ]
+}

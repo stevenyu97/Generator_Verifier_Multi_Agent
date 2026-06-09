@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total net revenues in the investing & lending segment is attributable to equity securities in 2014?",
+      "answer": 0.67092,
+      "answer_raw": "0.67092",
+      "program": "divide(4579, 6825)"
+    }
+  ]
+}

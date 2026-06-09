@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many square feet are in new haven?",
+      "answer": 514000.0,
+      "answer_raw": "514000.0",
+      "program": "514000"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how many square feet are in lexington?",
+      "answer": 81000.0,
+      "answer_raw": "81000.0",
+      "program": "81000"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 595000.0,
+      "answer_raw": "595000.0",
+      "program": "add(514000, 81000)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total sum including square feet in zurich?",
+      "answer": 664000.0,
+      "answer_raw": "664000.0",
+      "program": "add(514000, 81000), add(#0, 69000)"
+    }
+  ]
+}

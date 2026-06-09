@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "income from operations was what percent of net sales for 2005?",
+      "answer": 0.05823,
+      "answer_raw": "0.05823",
+      "program": "divide(116.1, 1993.7)"
+    }
+  ]
+}

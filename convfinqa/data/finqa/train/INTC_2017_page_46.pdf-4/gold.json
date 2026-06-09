@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 30 , 2017 what was the percent of the operating lease obligations to the total",
+      "answer": 0.01888,
+      "answer_raw": "0.01888",
+      "program": "divide(1245, 65947)"
+    }
+  ]
+}

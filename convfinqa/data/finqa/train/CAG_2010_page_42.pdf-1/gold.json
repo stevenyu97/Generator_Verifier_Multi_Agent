@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of fiscal 2008 total net sales was due to commercial foods?",
+      "answer": 0.34211,
+      "answer_raw": "0.34211",
+      "program": "divide(3848, 11248)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total future minimum rental payments is due in the next 12 months?",
+      "answer": 0.06731,
+      "answer_raw": "0.06731",
+      "program": "divide(257971, 3832573)"
+    }
+  ]
+}

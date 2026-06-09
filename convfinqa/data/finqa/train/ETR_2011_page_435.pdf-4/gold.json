@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is actual earnings per share reported for 2011?",
+      "answer": 7.55,
+      "answer_raw": "7.55",
+      "program": "add(6.60, 0.95)"
+    }
+  ]
+}

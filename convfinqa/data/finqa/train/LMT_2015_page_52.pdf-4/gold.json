@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average aeronautics 2019 operating profit from 2013 to 2015",
+      "answer": 1647.33333,
+      "answer_raw": "1647.33333",
+      "program": "add(1681, 1649), add(#0, 1612), divide(#1, const_3)"
+    }
+  ]
+}

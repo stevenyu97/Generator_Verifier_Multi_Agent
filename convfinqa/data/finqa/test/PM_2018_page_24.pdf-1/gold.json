@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the roi of an investment in pmi from 2013 to 2014?",
+      "answer": -0.021,
+      "answer_raw": "-0.021",
+      "program": "subtract(97.90, const_100), divide(#0, const_100)"
+    }
+  ]
+}

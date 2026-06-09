@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "goodwill was what percent of the mondavi acquisition?\\\\n",
+      "answer": 0.34308,
+      "answer_raw": "0.34308",
+      "program": "divide(634203, 1848575)"
+    }
+  ]
+}

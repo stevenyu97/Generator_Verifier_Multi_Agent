@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average volatility used to value employee stock purchase rights in 2017?",
+      "answer": 0.245,
+      "answer_raw": "0.245",
+      "program": "add(22%, 27%), divide(#0, const_2)"
+    }
+  ]
+}

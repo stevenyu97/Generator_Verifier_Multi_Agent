@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the black-scholes option-pricing model what was the percentage change in the net loss as reported from 2001 to 2002",
+      "answer": 1.53698,
+      "answer_raw": "1.53698",
+      "program": "subtract(1141879, 450094), divide(#0, 450094)"
+    }
+  ]
+}

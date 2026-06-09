@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the investment on the alcoainc . in 2014?",
+      "answer": 107.0,
+      "answer_raw": "107.0",
+      "program": "107"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2013?",
+      "answer": 72.0,
+      "answer_raw": "72.0",
+      "program": "72"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does the 2014 investment represent in relation to the 2013 one?",
+      "answer": 1.48611,
+      "answer_raw": "1.48611",
+      "program": "divide(107, 72)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is the difference between this value and the number one?",
+      "answer": 0.48611,
+      "answer_raw": "0.48611",
+      "program": "divide(107, 72), subtract(#0, const_1)"
+    }
+  ]
+}

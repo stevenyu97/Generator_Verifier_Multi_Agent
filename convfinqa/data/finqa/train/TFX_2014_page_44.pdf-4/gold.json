@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total percentage growth for the s&p 500 index from 2010-2014?",
+      "answer": 2.05,
+      "answer_raw": "2.05",
+      "program": "divide(205, 100)"
+    }
+  ]
+}

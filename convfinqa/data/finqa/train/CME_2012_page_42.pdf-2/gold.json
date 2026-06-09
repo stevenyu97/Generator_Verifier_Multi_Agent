@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the maximum change in share price during the fourth quarter of 2012?",
+      "answer": 7.77,
+      "answer_raw": "7.77",
+      "program": "subtract(57.89, 50.12)"
+    }
+  ]
+}

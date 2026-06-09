@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the increase in the deductions during 2006 and 2007 , in thousands of dollars?",
+      "answer": 67451.0,
+      "answer_raw": "67451.0",
+      "program": "subtract(80258, 12807)"
+    }
+  ]
+}

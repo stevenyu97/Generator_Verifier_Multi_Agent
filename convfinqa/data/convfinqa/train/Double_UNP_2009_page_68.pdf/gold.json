@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2009, what was the number of non-vested shares?",
+      "answer": 1060000.0,
+      "answer_raw": "1060000.0",
+      "program": "multiply(1060, const_1000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the remaining compensation expense for the unvested awards?",
+      "answer": 22000000.0,
+      "answer_raw": "22000000.0",
+      "program": "multiply(1060, const_1000), multiply(22, const_1000000)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does this expense represent in relation to that number of shares?",
+      "answer": 20.75472,
+      "answer_raw": "20.75472",
+      "program": "multiply(1060, const_1000), multiply(22, const_1000000), divide(#1, #0)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was the weighted-average period over which that remaining expense was expected to be recognized?",
+      "answer": 1.3,
+      "answer_raw": "1.3",
+      "program": "1.3"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what was, then, the annual compensation expense for those unvested awards?",
+      "answer": 16923076.92308,
+      "answer_raw": "16923076.92308",
+      "program": "multiply(22, const_1000000), divide(#0, 1.3)"
+    }
+  ]
+}

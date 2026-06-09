@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2009 , how much of pretax income was from outside the us?",
+      "answer": 0.61019,
+      "answer_raw": "0.61019",
+      "program": "divide(9804, 16067)"
+    }
+  ]
+}

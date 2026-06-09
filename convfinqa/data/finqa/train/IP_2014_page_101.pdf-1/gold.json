@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2015 what percentage of december 31 , 2014 , total future minimum commitments under existing non-cancelable operating leases and purchase obligations is represented by lease obligations?",
+      "answer": 0.04167,
+      "answer_raw": "0.04167",
+      "program": "divide(142, 3408)"
+    }
+  ]
+}

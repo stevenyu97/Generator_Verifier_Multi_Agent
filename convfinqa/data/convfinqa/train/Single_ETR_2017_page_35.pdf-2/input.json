@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "Single_ETR/2017/page_35.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "operations may be extended up to four additional years for each unit by mutual agreement of entergy and new york state based on an exigent reliability need for indian point generation .",
+      "in accordance with the ferc-approved tariff of the new york independent system operator ( nyiso ) , entergy submitted to the nyiso a notice of generator deactivation based on the dates in the settlement ( no later than april 30 , 2020 for indian point unit 2 and april 30 , 2021 for indian point unit 3 ) .",
+      "in december 2017 , nyiso issued a report stating there will not be a system reliability need following the deactivation of indian point .",
+      "the nyiso also has advised that it will perform an analysis of the potential competitive impacts of the proposed retirement under provisions of its tariff .",
+      "the deadline for the nyiso to make a withholding determination is in dispute and is pending before the ferc .",
+      "in addition to contractually agreeing to cease commercial operations early , in february 2017 entergy filed with the nrc an amendment to its license renewal application changing the term of the requested licenses to coincide with the latest possible extension by mutual agreement based on exigent reliability needs : april 30 , 2024 for indian point 2 and april 30 , 2025 for indian point 3 .",
+      "if entergy reasonably determines that the nrc will treat the amendment other than as a routine amendment , entergy may withdraw the amendment .",
+      "other provisions of the settlement include termination of all then-existing investigations of indian point by the agencies signing the agreement , which include the new york state department of environmental conservation , the new york state department of state , the new york state department of public service , the new york state department of health , and the new york state attorney general .",
+      "the settlement recognizes the right of new york state agencies to pursue new investigations and enforcement actions with respect to new circumstances or existing conditions that become materially exacerbated .",
+      "another provision of the settlement obligates entergy to establish a $ 15 million fund for environmental projects and community support .",
+      "apportionment and allocation of funds to beneficiaries are to be determined by mutual agreement of new york state and entergy .",
+      "the settlement recognizes new york state 2019s right to perform an annual inspection of indian point , with scope and timing to be determined by mutual agreement .",
+      "in may 2017 a plaintiff filed two parallel state court appeals challenging new york state 2019s actions in signing and implementing the indian point settlement with entergy on the basis that the state failed to perform sufficient environmental analysis of its actions .",
+      "all signatories to the settlement agreement , including the entergy affiliates that hold nrc licenses for indian point , were named .",
+      "the appeals were voluntarily dismissed in november 2017 .",
+      "entergy corporation and subsidiaries management 2019s financial discussion and analysis liquidity and capital resources this section discusses entergy 2019s capital structure , capital spending plans and other uses of capital , sources of capital , and the cash flow activity presented in the cash flow statement .",
+      "capital structure entergy 2019s capitalization is balanced between equity and debt , as shown in the following table .",
+      "the increase in the debt to capital ratio for entergy as of december 31 , 2017 is primarily due to an increase in commercial paper outstanding in 2017 as compared to 2016. ."
+    ],
+    "post_text": [
+      "( a ) calculation excludes the arkansas , louisiana , new orleans , and texas securitization bonds , which are non- recourse to entergy arkansas , entergy louisiana , entergy new orleans , and entergy texas , respectively. ."
+    ],
+    "table": [
+      [
+        "",
+        "2017",
+        "2016"
+      ],
+      [
+        "debt to capital",
+        "67.1% ( 67.1 % )",
+        "64.8% ( 64.8 % )"
+      ],
+      [
+        "effect of excluding securitization bonds",
+        "( 0.8% ( 0.8 % ) )",
+        "( 1.0% ( 1.0 % ) )"
+      ],
+      [
+        "debt to capital excluding securitization bonds ( a )",
+        "66.3% ( 66.3 % )",
+        "63.8% ( 63.8 % )"
+      ],
+      [
+        "effect of subtracting cash",
+        "( 1.1% ( 1.1 % ) )",
+        "( 2.0% ( 2.0 % ) )"
+      ],
+      [
+        "net debt to net capital excluding securitization bonds ( a )",
+        "65.2% ( 65.2 % )",
+        "61.8% ( 61.8 % )"
+      ]
+    ],
+    "questions": [
+      "what was the change in debt to capital from 2016 to 2017?",
+      "and how much does this change represent in relation to the debt to capital in 2016, in percentage?"
+    ]
+  }
+}

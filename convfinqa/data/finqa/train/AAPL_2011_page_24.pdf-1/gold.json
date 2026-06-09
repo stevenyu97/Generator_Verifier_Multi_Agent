@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the cumulative percentage return for the five years ended september 30 , 2011 for apple inc.?",
+      "answer": 3.95,
+      "answer_raw": "3.95",
+      "program": "subtract(495, 100), divide(#0, 100)"
+    }
+  ]
+}

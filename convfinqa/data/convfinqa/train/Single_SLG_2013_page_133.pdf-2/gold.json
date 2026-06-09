@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the compensation expense related to bonus , time-based and performance based awards in 2013?",
+      "answer": 27.3,
+      "answer_raw": "27.3",
+      "program": "27.3"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for 2012?",
+      "answer": 12.6,
+      "answer_raw": "12.6",
+      "program": "12.6"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combined, what was the total value in these years?",
+      "answer": 39.9,
+      "answer_raw": "39.9",
+      "program": "add(27.3, 12.6)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the specific value for 2011?",
+      "answer": 8.5,
+      "answer_raw": "8.5",
+      "program": "8.5"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the total amount for all three years?",
+      "answer": 48.4,
+      "answer_raw": "48.4",
+      "program": "add(27.3, 12.6), add(#0, 8.5)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and the average during this time?",
+      "answer": 16.13333,
+      "answer_raw": "16.13333",
+      "program": "add(27.3, 12.6), add(#0, 8.5), divide(#1, const_3)"
+    }
+  ]
+}

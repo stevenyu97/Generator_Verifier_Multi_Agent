@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "AMT/2007/page_99.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements 2014 ( continued ) company is currently unable to estimate the impact of the amount of such changes , if any , to previously recorded uncertain tax positions .",
+      "a reconciliation of the beginning and ending amount of unrecognized tax benefits for the year ending december 31 , 2007 is as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "during the year ended december 31 , 2007 , the company recorded penalties and tax-related interest income of $ 2.5 million and interest income from tax refunds of $ 1.5 million for the year ended december 31 , 2007 .",
+      "as of december 31 , 2007 and january 1 , 2007 , the total unrecognized tax benefits included in other long-term liabilities in the consolidated balance sheets was $ 29.6 million and $ 34.3 million , respectively .",
+      "as of december 31 , 2007 and january 1 , 2007 , the total amount of accrued income tax-related interest and penalties included in other long-term liabilities in the consolidated balance sheets was $ 30.7 million and $ 33.2 million , respectively .",
+      "in the fourth quarter of 2007 , the company entered into a tax amnesty program with the mexican tax authority .",
+      "as of december 31 , 2007 , the company had met all of the administrative requirements of the program , which enabled the company to recognize certain tax benefits .",
+      "this was confirmed by the mexican tax authority on february 5 , 2008 .",
+      "these benefits include a reduction of uncertain tax benefits of $ 5.4 million along with penalties and interest of $ 12.5 million related to 2002 , all of which reduced income tax expense .",
+      "in connection with the above program , the company paid $ 6.7 million to the mexican tax authority as a settlement offer for other uncertain tax positions related to 2003 and 2004 .",
+      "this offer is currently under review by the mexican tax authority ; the company cannot yet determine the specific timing or the amount of any potential settlement .",
+      "during 2007 , the statute of limitations on certain unrecognized tax benefits lapsed , which resulted in a $ 0.7 million decrease in the liability for uncertain tax benefits , all of which reduced the income tax provision .",
+      "the company files numerous consolidated and separate income tax returns , including u.s .",
+      "federal and state tax returns and foreign tax returns in mexico and brazil .",
+      "as a result of the company 2019s ability to carry forward federal and state net operating losses , the applicable tax years remain open to examination until three years after the applicable loss carryforwards have been used or expired .",
+      "however , the company has completed u.s .",
+      "federal income tax examinations for tax years up to and including 2002 .",
+      "the company is currently undergoing u.s .",
+      "federal income tax examinations for tax years 2004 and 2005 .",
+      "additionally , it is subject to examinations in various u.s .",
+      "state jurisdictions for certain tax years , and is under examination in brazil for the 2001 through 2006 tax years and mexico for the 2002 tax year .",
+      "sfas no .",
+      "109 , 201caccounting for income taxes , 201d requires that companies record a valuation allowance when it is 201cmore likely than not that some portion or all of the deferred tax assets will not be realized . 201d at december 31 , 2007 , the company has provided a valuation allowance of approximately $ 88.2 million , including approximately ."
+    ],
+    "table": [
+      [
+        "balance at january 1 2007",
+        "$ 183953"
+      ],
+      [
+        "additions based on tax positions related to the current year",
+        "2598"
+      ],
+      [
+        "additions for tax positions of prior years",
+        "5412"
+      ],
+      [
+        "reductions for tax positions of prior years",
+        "-120016 ( 120016 )"
+      ],
+      [
+        "cash advance in connection with proposed settlement",
+        "-6682 ( 6682 )"
+      ],
+      [
+        "settlements with taxing authorities",
+        "-5372 ( 5372 )"
+      ],
+      [
+        "reductions as a result of the lapse of statute of limitations",
+        "-669 ( 669 )"
+      ],
+      [
+        "balance as of december 31 2007",
+        "$ 59224"
+      ]
+    ],
+    "questions": [
+      "as of december 31 , 2007 , interest and penalties were what percent of the total unrecognized tax benefits included in other long-term liabilities?"
+    ]
+  }
+}

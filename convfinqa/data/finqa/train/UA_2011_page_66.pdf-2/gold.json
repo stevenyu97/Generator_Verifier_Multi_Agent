@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as part of the july 2011 acquisition of the property what was the percent of the assumed loan to the purchase price",
+      "answer": 0.63802,
+      "answer_raw": "0.63802",
+      "program": "divide(38.6, 60.5)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of major facilities by square footage are leased as of december 28 , 2013?",
+      "answer": 0.15118,
+      "answer_raw": "0.15118",
+      "program": "divide(8.3, 54.9)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "ABMD/2015/page_93.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "abiomed , inc .",
+      "and subsidiaries notes to consolidated financial statements 2014 ( continued ) note 8 .",
+      "goodwill and in-process research and development ( continued ) the company has no accumulated impairment losses on goodwill .",
+      "the company performed a step 0 qualitative assessment during the annual impairment review for fiscal 2015 as of october 31 , 2014 and concluded that it is not more likely than not that the fair value of the company 2019s single reporting unit is less than its carrying amount .",
+      "therefore , the two-step goodwill impairment test for the reporting unit was not necessary in fiscal 2015 .",
+      "as described in note 3 .",
+      "201cacquisitions , 201d in july 2014 , the company acquired ecp and ais and recorded $ 18.5 million of ipr&d .",
+      "the estimated fair value of the ipr&d was determined using a probability-weighted income approach , which discounts expected future cash flows to present value .",
+      "the projected cash flows from the expandable catheter pump technology were based on certain key assumptions , including estimates of future revenue and expenses , taking into account the stage of development of the technology at the acquisition date and the time and resources needed to complete development .",
+      "the company used a discount rate of 22.5% ( 22.5 % ) and cash flows that have been probability adjusted to reflect the risks of product commercialization , which the company believes are appropriate and representative of market participant assumptions .",
+      "the carrying value of the company 2019s ipr&d assets and the change in the balance for the year ended march 31 , 2015 is as follows : march 31 , ( in $ 000 2019s ) ."
+    ],
+    "post_text": [
+      "note 9 .",
+      "stockholders 2019 equity class b preferred stock the company has authorized 1000000 shares of class b preferred stock , $ .01 par value , of which the board of directors can set the designation , rights and privileges .",
+      "no shares of class b preferred stock have been issued or are outstanding .",
+      "stock repurchase program in november 2012 , the company 2019s board of directors authorized a stock repurchase program for up to $ 15.0 million of its common stock .",
+      "the company financed the stock repurchase program with its available cash .",
+      "during the year ended march 31 , 2013 , the company repurchased 1123587 shares for $ 15.0 million in open market purchases at an average cost of $ 13.39 per share , including commission expense .",
+      "the company completed the purchase of common stock under this stock repurchase program in january 2013 .",
+      "note 10 .",
+      "stock award plans and stock-based compensation stock award plans the company grants stock options and restricted stock awards to employees and others .",
+      "all outstanding stock options of the company as of march 31 , 2015 were granted with an exercise price equal to the fair market value on the date of grant .",
+      "outstanding stock options , if not exercised , expire 10 years from the date of grant .",
+      "the company 2019s 2008 stock incentive plan ( the 201cplan 201d ) authorizes the grant of a variety of equity awards to the company 2019s officers , directors , employees , consultants and advisers , including awards of unrestricted and restricted stock , restricted stock units , incentive and nonqualified stock options to purchase shares of common stock , performance share awards and stock appreciation rights .",
+      "the plan provides that options may only be granted at the current market value on the date of grant .",
+      "each share of stock issued pursuant to a stock option or stock appreciation right counts as one share against the maximum number of shares issuable under the plan , while each share of stock issued ."
+    ],
+    "table": [
+      [
+        "",
+        "march 31 2015 ( in $ 000 2019s )"
+      ],
+      [
+        "beginning balance",
+        "$ 2014"
+      ],
+      [
+        "additions",
+        "18500"
+      ],
+      [
+        "foreign currency translation impact",
+        "-3789 ( 3789 )"
+      ],
+      [
+        "ending balance",
+        "$ 14711"
+      ]
+    ],
+    "questions": [
+      "what percentage of the class b preferred stock is currently outstanding?"
+    ]
+  }
+}

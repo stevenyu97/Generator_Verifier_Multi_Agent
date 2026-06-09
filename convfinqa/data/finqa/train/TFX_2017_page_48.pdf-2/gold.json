@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is roi of an investment in s&p 500 index in 2012 and sold in 2017?",
+      "answer": 1.08,
+      "answer_raw": "1.08",
+      "program": "subtract(208, 100), divide(#0, 100)"
+    }
+  ]
+}

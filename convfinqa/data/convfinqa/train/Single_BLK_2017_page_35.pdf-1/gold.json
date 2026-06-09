@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the multi asset aum of december 31 2017?",
+      "answer": 480278.0,
+      "answer_raw": "480278.0",
+      "program": "480278"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and that of december 31 2016?",
+      "answer": 395007.0,
+      "answer_raw": "395007.0",
+      "program": "395007"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does that multi asset aum of december 31 2017 represents in relation to that of december 31 2017?",
+      "answer": 1.21587,
+      "answer_raw": "1.21587",
+      "program": "divide(480278, 395007)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the difference between that and the number 1?",
+      "answer": 0.21587,
+      "answer_raw": "0.21587",
+      "program": "divide(480278, 395007), subtract(#0, const_1)"
+    }
+  ]
+}

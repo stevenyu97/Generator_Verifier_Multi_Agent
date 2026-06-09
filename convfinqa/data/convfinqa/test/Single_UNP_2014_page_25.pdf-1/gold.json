@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much does the fuel surcharge revenue in 2014 represent in relation to the one in 2013?",
+      "answer": 1.07692,
+      "answer_raw": "1.07692",
+      "program": "divide(2.8, 2.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was, in billions, that fuel surcharge revenue in 2014?",
+      "answer": 2.8,
+      "answer_raw": "2.8",
+      "program": "2.8"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "assuming that the fuel surcharge revenue in 2015 will represent in relation to the 2014 the same as this 2014 one represents in relation to the 2013 one, what will be that fuel surcharge revenue in 2015, in billions?",
+      "answer": 3.01538,
+      "answer_raw": "3.01538",
+      "program": "divide(2.8, 2.6), multiply(#0, 2.8)"
+    }
+  ]
+}

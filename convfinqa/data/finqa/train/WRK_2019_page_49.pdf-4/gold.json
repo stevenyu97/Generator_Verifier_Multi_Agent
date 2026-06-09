@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the cash used for investing activities was used for the purchase of businesses?",
+      "answer": 0.73679,
+      "answer_raw": "0.73679",
+      "program": "divide(3374.2, 4579.6)"
+    }
+  ]
+}

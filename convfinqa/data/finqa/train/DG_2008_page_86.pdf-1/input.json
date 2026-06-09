@@ -1,0 +1,42 @@
+{
+  "input": {
+    "id": "DG/2008/page_86.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "for intangible assets subject to amortization , the estimated aggregate amortization expense for each of the five succeeding fiscal years is as follows : 2009 - $ 41.1 million , 2010 - $ 27.3 million , 2011 - $ 20.9 million , 2012 - $ 17.0 million , and 2013 - $ 12.0 million .",
+      "fees and expenses related to the merger totaled $ 102.6 million , principally consisting of investment banking fees , legal fees and stock compensation ( $ 39.4 million as further discussed in note 10 ) , and are reflected in the 2007 results of operations .",
+      "capitalized debt issuance costs as of the merger date of $ 87.4 million for merger-related financing were reflected in other long- term assets in the consolidated balance sheet .",
+      "the following represents the unaudited pro forma results of the company 2019s consolidated operations as if the merger had occurred on february 3 , 2007 and february 4 , 2006 , respectively , after giving effect to certain adjustments , including the depreciation and amortization of the assets acquired based on their estimated fair values and changes in interest expense resulting from changes in consolidated debt ( in thousands ) : ( in thousands ) year ended february 1 , year ended february 2 ."
+    ],
+    "post_text": [
+      "the pro forma information does not purport to be indicative of what the company 2019s results of operations would have been if the acquisition had in fact occurred at the beginning of the periods presented , and is not intended to be a projection of the company 2019s future results of operations .",
+      "subsequent to the announcement of the merger agreement , the company and its directors , along with other parties , were named in seven putative class actions filed in tennessee state courts alleging claims for breach of fiduciary duty arising out of the proposed merger , all as described more fully under 201clegal proceedings 201d in note 8 below .",
+      "3 .",
+      "strategic initiatives during 2006 , the company began implementing certain strategic initiatives related to its historical inventory management and real estate strategies , as more fully described below .",
+      "inventory management in november 2006 , the company undertook an initiative to discontinue its historical inventory packaway model for virtually all merchandise by the end of fiscal 2007 .",
+      "under the packaway model , certain unsold inventory items ( primarily seasonal merchandise ) were stored on-site and returned to the sales floor until the items were eventually sold , damaged or discarded .",
+      "through end-of-season and other markdowns , this initiative resulted in the elimination of seasonal , home products and basic clothing packaway merchandise to allow for increased levels of newer , current-season merchandise .",
+      "in connection with this strategic change , in the third quarter of 2006 the company recorded a reserve for lower of cost or market inventory ."
+    ],
+    "table": [
+      [
+        "( in thousands )",
+        "year endedfebruary 12008",
+        "year endedfebruary 22007"
+      ],
+      [
+        "revenue",
+        "$ 9495246",
+        "$ 9169822"
+      ],
+      [
+        "net loss",
+        "-57939 ( 57939 )",
+        "( 156188 )"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate of revenue from 2007 to 2008?"
+    ]
+  }
+}

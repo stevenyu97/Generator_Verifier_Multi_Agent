@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "percent change of average shares outstanding when taking dilution into consideration in 2008?",
+      "answer": 0.0044,
+      "answer_raw": "0.0044",
+      "program": "divide(228.3, 227.3), subtract(#0, const_1)"
+    }
+  ]
+}

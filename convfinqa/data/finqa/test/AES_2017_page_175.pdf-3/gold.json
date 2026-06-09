@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in revenues from 2016 to 2017 for transactions with related parties?",
+      "answer": 0.17909,
+      "answer_raw": "0.17909",
+      "program": "subtract(1297, 1100), divide(#0, 1100)"
+    }
+  ]
+}

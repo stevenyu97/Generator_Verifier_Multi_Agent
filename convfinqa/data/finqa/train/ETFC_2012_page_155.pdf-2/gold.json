@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the company investment in fhlb stock in 2011 to 2012",
+      "answer": 2.08012,
+      "answer_raw": "2.08012",
+      "program": "divide(140.2, 67.4)"
+    }
+  ]
+}

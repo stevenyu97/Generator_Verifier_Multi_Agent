@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total facilities are fully integrated?",
+      "answer": 0.67391,
+      "answer_raw": "0.67391",
+      "program": "divide(31, 46)"
+    }
+  ]
+}

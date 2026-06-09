@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage decrease was there from the 2012 proved undeveloped reserves to 2013 proved undeveloped reserves?",
+      "answer": 36.60934,
+      "answer_raw": "36.60934",
+      "program": "subtract(407, 258), divide(#0, 407), multiply(#1, const_100)"
+    }
+  ]
+}

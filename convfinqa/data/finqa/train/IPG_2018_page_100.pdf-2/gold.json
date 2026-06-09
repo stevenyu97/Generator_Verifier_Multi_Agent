@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "which five year span , 2019-2023 or 2024-2028 , has a larger combined domestic pension plan?",
+      "answer": 10.7,
+      "answer_raw": "10.7",
+      "program": "add(14.5, 8.8), add(#0, 8.0), add(#1, 8.3), add(#2, 7.8), subtract(#3, 36.7)"
+    }
+  ]
+}

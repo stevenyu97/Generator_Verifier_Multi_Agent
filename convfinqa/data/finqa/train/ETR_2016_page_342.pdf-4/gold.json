@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the change in net income during 2016 was related the irs audit?",
+      "answer": 0.77594,
+      "answer_raw": "0.77594",
+      "program": "divide(136.1, 175.4)"
+    }
+  ]
+}

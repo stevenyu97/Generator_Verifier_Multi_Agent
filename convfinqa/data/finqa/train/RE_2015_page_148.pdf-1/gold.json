@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total value of granted shares of everest re during 2015 , in millions?",
+      "answer": 1.91448,
+      "answer_raw": "1.91448",
+      "program": "multiply(10705, 178.84), divide(#0, const_1000000)"
+    }
+  ]
+}

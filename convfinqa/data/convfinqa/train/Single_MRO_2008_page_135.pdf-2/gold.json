@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of the asset retirement obligations at the end of 2007?",
+      "answer": 1134.0,
+      "answer_raw": "1134.0",
+      "program": "1134"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value of the asset retirement obligations at the start of 2007?",
+      "answer": 1044.0,
+      "answer_raw": "1044.0",
+      "program": "1044"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the net change during the year?",
+      "answer": 90.0,
+      "answer_raw": "90.0",
+      "program": "subtract(1134, 1044)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the percentage change?",
+      "answer": 0.08621,
+      "answer_raw": "0.08621",
+      "program": "subtract(1134, 1044), divide(#0, 1044)"
+    }
+  ]
+}

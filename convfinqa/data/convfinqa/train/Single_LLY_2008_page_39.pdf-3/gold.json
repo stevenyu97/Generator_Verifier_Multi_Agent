@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in amortization expense between 2007 and 2008?",
+      "answer": 20.6,
+      "answer_raw": "20.6",
+      "program": "subtract(193.4, 172.8)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the value for 2007 specifically?",
+      "answer": 172.8,
+      "answer_raw": "172.8",
+      "program": "172.8"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the growth rate over these two years?",
+      "answer": 0.11921,
+      "answer_raw": "0.11921",
+      "program": "subtract(193.4, 172.8), divide(#0, 172.8)"
+    }
+  ]
+}

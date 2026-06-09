@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of citi's home equity portfolio as of december 31 , 2015 was comprised of fixed-rate home equity loans?",
+      "answer": 0.27632,
+      "answer_raw": "0.27632",
+      "program": "divide(6.3, 22.8)"
+    }
+  ]
+}

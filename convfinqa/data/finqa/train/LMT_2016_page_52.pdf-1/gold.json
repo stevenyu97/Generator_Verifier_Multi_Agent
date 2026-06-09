@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate for backlog at year-end from 2015 to 2016?",
+      "answer": 0.08621,
+      "answer_raw": "0.08621",
+      "program": "subtract(18900, 17400), divide(#0, 17400)"
+    }
+  ]
+}

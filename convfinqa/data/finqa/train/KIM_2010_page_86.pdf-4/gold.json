@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of dec 31 , 2010 , what was the average sale price , in millions , for the properties that were sold?",
+      "answer": 1.73333,
+      "answer_raw": "1.73333",
+      "program": "divide(31.2, 18)"
+    }
+  ]
+}

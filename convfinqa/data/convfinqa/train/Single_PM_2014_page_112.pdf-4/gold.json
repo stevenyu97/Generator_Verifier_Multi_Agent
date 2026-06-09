@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference pmi between 2013 and 2014?",
+      "answer": -3.0,
+      "answer_raw": "-3.0",
+      "program": "subtract(71, 74)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the percentage change during this time?",
+      "answer": -0.04054,
+      "answer_raw": "-0.04054",
+      "program": "subtract(71, 74), divide(#0, 74)"
+    }
+  ]
+}

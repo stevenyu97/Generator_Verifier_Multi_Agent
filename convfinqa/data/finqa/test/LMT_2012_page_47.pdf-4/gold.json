@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average operating profit of the space results from 2010 to 2012",
+      "answer": 526.5,
+      "answer_raw": "526.5",
+      "program": "subtract(1083, 1063), add(#0, 1030), add(#1, const_3), divide(#2, const_2)"
+    }
+  ]
+}

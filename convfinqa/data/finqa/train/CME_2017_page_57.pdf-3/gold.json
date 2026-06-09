@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the loss on datacenter and related legal fees in 2015 in millions dollars?",
+      "answer": 1430.0,
+      "answer_raw": "1430.0",
+      "program": "divide(28.6, 2%)"
+    }
+  ]
+}

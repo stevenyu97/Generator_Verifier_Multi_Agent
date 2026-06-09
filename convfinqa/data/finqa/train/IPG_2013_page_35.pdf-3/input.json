@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "IPG/2013/page_35.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis of financial condition and results of operations 2013 ( continued ) ( amounts in millions , except per share amounts ) corporate and other expenses decreased slightly during 2012 by $ 4.7 to $ 137.3 compared to 2011 , primarily due to lower office and general expenses , partially offset by an increase in temporary help to support our information-technology system-upgrade initiatives .",
+      "liquidity and capital resources cash flow overview the following tables summarize key financial data relating to our liquidity , capital resources and uses of capital. ."
+    ],
+    "post_text": [
+      "1 reflects net income adjusted primarily for depreciation and amortization of fixed assets and intangible assets , amortization of restricted stock and other non-cash compensation , non-cash loss related to early extinguishment of debt , and deferred income taxes .",
+      "2 reflects changes in accounts receivable , expenditures billable to clients , other current assets , accounts payable and accrued liabilities .",
+      "operating activities net cash provided by operating activities during 2013 was $ 592.9 , which was an increase of $ 235.7 as compared to 2012 , primarily as a result of an improvement in working capital usage of $ 283.6 , offset by a decrease in net income .",
+      "due to the seasonality of our business , we typically generate cash from working capital in the second half of a year and use cash from working capital in the first half of a year , with the largest impacts in the first and fourth quarters .",
+      "the improvement in working capital in 2013 was impacted by our media businesses and an ongoing focus on working capital management at our agencies .",
+      "net cash provided by operating activities during 2012 was $ 357.2 , which was an increase of $ 83.7 as compared to 2011 , primarily as a result of a decrease in working capital usage of $ 66.2 .",
+      "the net working capital usage in 2012 was primarily impacted by our media businesses .",
+      "the timing of media buying on behalf of our clients affects our working capital and operating cash flow .",
+      "in most of our businesses , our agencies enter into commitments to pay production and media costs on behalf of clients .",
+      "to the extent possible we pay production and media charges after we have received funds from our clients .",
+      "the amounts involved substantially exceed our revenues , and primarily affect the level of accounts receivable , expenditures billable to clients , accounts payable and accrued liabilities .",
+      "our assets include both cash received and accounts receivable from clients for these pass-through arrangements , while our liabilities include amounts owed on behalf of clients to media and production suppliers .",
+      "our accrued liabilities are also affected by the timing of certain other payments .",
+      "for example , while annual cash incentive awards are accrued throughout the year , they are generally paid during the first quarter of the subsequent year .",
+      "investing activities net cash used in investing activities during 2013 primarily relates to payments for capital expenditures and acquisitions .",
+      "capital expenditures of $ 173.0 relate primarily to computer hardware and software and leasehold improvements .",
+      "we made payments of $ 61.5 related to acquisitions completed during 2013. ."
+    ],
+    "table": [
+      [
+        "cash flow data",
+        "years ended december 31 , 2013",
+        "years ended december 31 , 2012",
+        "years ended december 31 , 2011"
+      ],
+      [
+        "net income adjusted to reconcile net income to net cashprovided by operating activities1",
+        "$ 598.4",
+        "$ 697.2",
+        "$ 735.7"
+      ],
+      [
+        "net cash used in working capital b2",
+        "-9.6 ( 9.6 )",
+        "-293.2 ( 293.2 )",
+        "-359.4 ( 359.4 )"
+      ],
+      [
+        "changes in other non-current assets and liabilities using cash",
+        "4.1",
+        "-46.8 ( 46.8 )",
+        "-102.8 ( 102.8 )"
+      ],
+      [
+        "net cash provided by operating activities",
+        "$ 592.9",
+        "$ 357.2",
+        "$ 273.5"
+      ],
+      [
+        "net cash used in investing activities",
+        "-224.5 ( 224.5 )",
+        "-210.2 ( 210.2 )",
+        "-58.8 ( 58.8 )"
+      ],
+      [
+        "net cash ( used in ) provided by financing activities",
+        "-1212.3 ( 1212.3 )",
+        "131.3",
+        "-541.0 ( 541.0 )"
+      ]
+    ],
+    "questions": [
+      "for net cash provided by operating activities in 2013 , how much was lost due to the decrease in net income?"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "Single_AWK/2012/page_118.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the following table summarizes the changes in the company 2019s valuation allowance: ."
+    ],
+    "post_text": [
+      "note 14 : employee benefits pension and other postretirement benefits the company maintains noncontributory defined benefit pension plans covering eligible employees of its regulated utility and shared services operations .",
+      "benefits under the plans are based on the employee 2019s years of service and compensation .",
+      "the pension plans have been closed for most employees hired on or after january 1 , 2006 .",
+      "union employees hired on or after january 1 , 2001 had their accrued benefit frozen and will be able to receive this benefit as a lump sum upon termination or retirement .",
+      "union employees hired on or after january 1 , 2001 and non-union employees hired on or after january 1 , 2006 are provided with a 5.25% ( 5.25 % ) of base pay defined contribution plan .",
+      "the company does not participate in a multiemployer plan .",
+      "the company 2019s funding policy is to contribute at least the greater of the minimum amount required by the employee retirement income security act of 1974 or the normal cost , and an additional contribution if needed to avoid 201cat risk 201d status and benefit restrictions under the pension protection act of 2006 .",
+      "the company may also increase its contributions , if appropriate , to its tax and cash position and the plan 2019s funded position .",
+      "pension plan assets are invested in a number of actively managed and indexed investments including equity and bond mutual funds , fixed income securities and guaranteed interest contracts with insurance companies .",
+      "pension expense in excess of the amount contributed to the pension plans is deferred by certain regulated subsidiaries pending future recovery in rates charged for utility services as contributions are made to the plans .",
+      "( see note 6 ) the company also has several unfunded noncontributory supplemental non-qualified pension plans that provide additional retirement benefits to certain employees .",
+      "the company maintains other postretirement benefit plans providing varying levels of medical and life insurance to eligible retirees .",
+      "the retiree welfare plans are closed for union employees hired on or after january 1 , 2006 .",
+      "the plans had previously closed for non-union employees hired on or after january 1 , 2002 .",
+      "the company 2019s policy is to fund other postretirement benefit costs for rate-making purposes .",
+      "plan assets are invested in equity and bond mutual funds , fixed income securities , real estate investment trusts ( 201creits 201d ) and emerging market funds .",
+      "the obligations of the plans are dominated by obligations for active employees .",
+      "because the timing of expected benefit payments is so far in the future and the size of the plan assets are small relative to the company 2019s assets , the investment strategy is to allocate a significant percentage of assets to equities , which the company believes will provide the highest return over the long-term period .",
+      "the fixed income assets are invested in long duration debt securities and may be invested in fixed income instruments , such as futures and options in order to better match the duration of the plan liability. ."
+    ],
+    "table": [
+      [
+        "balance at january 1 2010",
+        "$ 25621"
+      ],
+      [
+        "increases in current period tax positions",
+        "907"
+      ],
+      [
+        "decreases in current period tax positions",
+        "-2740 ( 2740 )"
+      ],
+      [
+        "balance at december 31 2010",
+        "$ 23788"
+      ],
+      [
+        "increases in current period tax positions",
+        "1525"
+      ],
+      [
+        "decreases in current period tax positions",
+        "-3734 ( 3734 )"
+      ],
+      [
+        "balance at december 31 2011",
+        "$ 21579"
+      ],
+      [
+        "increases in current period tax positions",
+        "0"
+      ],
+      [
+        "decreases in current period tax positions",
+        "-2059 ( 2059 )"
+      ],
+      [
+        "balance at december 31 2012",
+        "$ 19520"
+      ]
+    ],
+    "questions": [
+      "what was the difference in the balance between 1/1/10 and 12/31/12?",
+      "and as a percentage of the original value?"
+    ]
+  }
+}

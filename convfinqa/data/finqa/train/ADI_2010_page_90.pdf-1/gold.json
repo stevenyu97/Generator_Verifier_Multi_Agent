@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by what amount does the interest and penalties expense exceed the payment for interest and penalties in 2010?",
+      "answer": 1.8,
+      "answer_raw": "1.8",
+      "program": "subtract(9.8, 8.0)"
+    }
+  ]
+}

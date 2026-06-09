@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 312002 what was the percent of the total future minimum rental receipts due in 2004",
+      "answer": 0.14296,
+      "answer_raw": "0.14296",
+      "program": "divide(439959, 3077509)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the net sales from 2012 to 2013",
+      "answer": -0.05415,
+      "answer_raw": "-0.05415",
+      "program": "subtract(8367, 8846), divide(#0, 8846)"
+    }
+  ]
+}

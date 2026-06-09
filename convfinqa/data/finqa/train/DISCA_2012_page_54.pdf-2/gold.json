@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by what percent did the c series outperform the s&p 500 over 5 years?",
+      "answer": 2.09305,
+      "answer_raw": "2.09305",
+      "program": "subtract(365.63, 118.21), divide(#0, 118.21)"
+    }
+  ]
+}

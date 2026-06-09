@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the lowered net sales in 2012 attributable to the substantial completion of various programs during 2011 \\\\n\\\\n",
+      "answer": 0.90654,
+      "answer_raw": "0.90654",
+      "program": "divide(485, 535)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total freight revenues was the chemicals group in 2008?",
+      "answer": 0.14569,
+      "answer_raw": "0.14569",
+      "program": "divide(2494, 17118)"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "input": {
+    "id": "AAL/2015/page_15.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents other areas in which we do business .",
+      "depending on the scope of such regulation , certain of our facilities and operations , or the operations of our suppliers , may be subject to additional operating and other permit requirements , potentially resulting in increased operating costs .",
+      "future regulatory developments future regulatory developments and actions could affect operations and increase operating costs for the airline industry , including our airline subsidiaries .",
+      "see part i , item 1a .",
+      "risk factors 2013 201cif we are unable to obtain and maintain adequate facilities and infrastructure throughout our system and , at some airports , adequate slots , we may be unable to operate our existing flight schedule and to expand or change our route network in the future , which may have a material adverse impact on our operations , 201d 201cour business is subject to extensive government regulation , which may result in increases in our costs , disruptions to our operations , limits on our operating flexibility , reductions in the demand for air travel , and competitive disadvantages 201d and 201cwe are subject to many forms of environmental regulation and may incur substantial costs as a result 201d for additional information .",
+      "employees and labor relations the airline business is labor intensive .",
+      "in 2015 , salaries , wages and benefits were our largest expenses and represented approximately 31% ( 31 % ) of our operating expenses .",
+      "the table below presents our approximate number of active full-time equivalent employees as of december 31 , 2015 .",
+      "mainline operations wholly-owned regional carriers total ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "mainline operations",
+        "wholly-owned regional carriers",
+        "total"
+      ],
+      [
+        "pilots and flight crew training instructors",
+        "13100",
+        "3200",
+        "16300"
+      ],
+      [
+        "flight attendants",
+        "24100",
+        "1900",
+        "26000"
+      ],
+      [
+        "maintenance personnel",
+        "14400",
+        "1800",
+        "16200"
+      ],
+      [
+        "fleet service personnel",
+        "16100",
+        "3200",
+        "19300"
+      ],
+      [
+        "passenger service personnel",
+        "16500",
+        "7100",
+        "23600"
+      ],
+      [
+        "administrative and other",
+        "14700",
+        "2400",
+        "17100"
+      ],
+      [
+        "total",
+        "98900",
+        "19600",
+        "118500"
+      ]
+    ],
+    "questions": [
+      "what is the percent of the mainline operations full-time equivalent employees to the total number of full-time equivalent employees"
+    ]
+  }
+}

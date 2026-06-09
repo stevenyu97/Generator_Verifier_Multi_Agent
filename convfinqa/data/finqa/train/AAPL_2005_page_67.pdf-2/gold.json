@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "excluding 2005 accretion expenses . what would the asset retirement liability equal as of september 24 2005?",
+      "answer": 11.0,
+      "answer_raw": "11.0",
+      "program": "subtract(11.7, 0.7)"
+    }
+  ]
+}

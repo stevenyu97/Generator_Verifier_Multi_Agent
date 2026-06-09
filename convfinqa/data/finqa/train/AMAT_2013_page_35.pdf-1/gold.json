@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of warehouse locations are located in japan .",
+      "answer": 0.26923,
+      "answer_raw": "0.26923",
+      "program": "divide(21, 78)"
+    }
+  ]
+}

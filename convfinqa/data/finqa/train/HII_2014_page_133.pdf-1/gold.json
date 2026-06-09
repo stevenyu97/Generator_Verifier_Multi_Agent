@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of equity compensation plan is to be issued upon exercise of outstanding options warrants and rights?",
+      "answer": 0.32405,
+      "answer_raw": "0.32405",
+      "program": "add(1955024, 4078093), divide(1955024, #0)"
+    }
+  ]
+}

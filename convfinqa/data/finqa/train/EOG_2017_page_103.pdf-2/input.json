@@ -1,0 +1,53 @@
+{
+  "input": {
+    "id": "EOG/2017/page_103.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "eog resources , inc .",
+      "supplemental information to consolidated financial statements ( continued ) capitalized costs relating to oil and gas producing activities .",
+      "the following table sets forth the capitalized costs relating to eog's crude oil and natural gas producing activities at december 31 , 2017 and 2016: ."
+    ],
+    "post_text": [
+      "costs incurred in oil and gas property acquisition , exploration and development activities .",
+      "the acquisition , exploration and development costs disclosed in the following tables are in accordance with definitions in the extractive industries - oil and a gas topic of the accounting standards codification ( asc ) .",
+      "acquisition costs include costs incurred to purchase , lease or otherwise acquire property .",
+      "exploration costs include additions to exploratory wells , including those in progress , and exploration expenses .",
+      "development costs include additions to production facilities and equipment and additions to development wells , including those in progress. ."
+    ],
+    "table": [
+      [
+        "",
+        "2017",
+        "2016"
+      ],
+      [
+        "proved properties",
+        "$ 48845672",
+        "$ 45751965"
+      ],
+      [
+        "unproved properties",
+        "3710069",
+        "3840126"
+      ],
+      [
+        "total",
+        "52555741",
+        "49592091"
+      ],
+      [
+        "accumulated depreciation depletion and amortization",
+        "-29191247 ( 29191247 )",
+        "-26247062 ( 26247062 )"
+      ],
+      [
+        "net capitalized costs",
+        "$ 23364494",
+        "$ 23345029"
+      ]
+    ],
+    "questions": [
+      "what are the average cost of accumulated depreciation depletion and amortization for 2016 and 2017?"
+    ]
+  }
+}

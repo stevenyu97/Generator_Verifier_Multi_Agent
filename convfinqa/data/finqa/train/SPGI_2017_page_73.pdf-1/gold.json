@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the pension trust assets for 2017 to 2016 $ 1739 million and $ 1632",
+      "answer": 1.06556,
+      "answer_raw": "1.06556",
+      "program": "divide(1739, 1632)"
+    }
+  ]
+}

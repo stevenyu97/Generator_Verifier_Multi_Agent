@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of future minimum lease payments under the capital lease obligations is due after 2019?",
+      "answer": 0.2392,
+      "answer_raw": "0.2392",
+      "program": "divide(112000, 468218)"
+    }
+  ]
+}

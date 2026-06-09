@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in the range of u.s equities permitted in the company's pension plan?",
+      "answer": -14.64,
+      "answer_raw": "-14.64",
+      "program": "subtract(36%, 15)"
+    }
+  ]
+}

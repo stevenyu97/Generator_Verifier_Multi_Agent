@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "without the adjustment for the change in fair value , what would the aoci balance have been in millions at december 31 2001?",
+      "answer": -117.0,
+      "answer_raw": "-117.0",
+      "program": "subtract(4, 121)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the net sales in 2018?",
+      "answer": 318477.0,
+      "answer_raw": "318477.0",
+      "program": "318477"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what were they in 2017?",
+      "answer": 307833.0,
+      "answer_raw": "307833.0",
+      "program": "307833"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 10644.0,
+      "answer_raw": "10644.0",
+      "program": "subtract(318477, 307833)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what were the net sales in 2017?",
+      "answer": 307833.0,
+      "answer_raw": "307833.0",
+      "program": "307833"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to these 2017 net sales, in percentage?",
+      "answer": 0.03458,
+      "answer_raw": "0.03458",
+      "program": "subtract(318477, 307833), divide(#0, 307833)"
+    }
+  ]
+}

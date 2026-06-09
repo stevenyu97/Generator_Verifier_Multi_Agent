@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "RSG/2008/page_43.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "connection with this matter could have a material adverse impact on our consolidated cash flows and results of operations .",
+      "item 4 .",
+      "submission of matters to a vote of security holders on november 14 , 2008 , our stockholders voted to approve our merger with allied waste industries , inc .",
+      "at a special meeting held for that purpose .",
+      "results of the voting at that meeting are as follows: ."
+    ],
+    "post_text": [
+      "( 1 ) to issue shares of republic common stock and other securities convertible into or exercisable for shares of republic common stock , contemplated by the agreement and plan of merger , dated as of june 22 , 2008 , as amended july 31 , 2008 , among republic , rs merger wedge , inc , a wholly owned subsidiary of republic , formed for the purpose of the merger , and allied waste industries , inc .",
+      ".",
+      ".",
+      "141728743 297976 156165 ( 2 ) to adjourn the special meeting , if necessary , to solicit additional proxies in favor of the foregoing proposal .",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "134081897 8068370 32617 %%transmsg*** transmitting job : p14076 pcn : 035000000 ***%%pcmsg|33 |00022|yes|no|02/28/2009 17:08|0|0|page is valid , no graphics -- color : d| ."
+    ],
+    "table": [
+      [
+        "",
+        "affirmative",
+        "against",
+        "abstentions"
+      ],
+      [
+        "( 1 ) to issue shares of republic common stock and other securities convertible into or exercisable for shares of republic common stock contemplated by the agreement and plan of merger dated as of june 22 2008 as amended july 31 2008 among republic rs merger wedge inc a wholly owned subsidiary of republic formed for the purpose of the merger and allied waste industries inc .",
+        "141728743",
+        "297976",
+        "156165"
+      ],
+      [
+        "( 2 ) to adjourn the special meeting if necessary to solicit additional proxies in favor of the foregoing proposal",
+        "134081897",
+        "8068370",
+        "32617"
+      ]
+    ],
+    "questions": [
+      "what the total number of votes to issue shares of republic common stock and other securities convertible"
+    ]
+  }
+}

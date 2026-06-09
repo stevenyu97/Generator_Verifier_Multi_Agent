@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total contractual lease obligations are classified as capital leases?",
+      "answer": 0.53242,
+      "answer_raw": "0.53242",
+      "program": "add(923, 1051), divide(1051, #0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent of the operating leases that are due in 1 2013 3 years to the total leases .",
+      "answer": 0.27468,
+      "answer_raw": "0.27468",
+      "program": "divide(10410, 37899)"
+    }
+  ]
+}

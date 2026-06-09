@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "Single_ADI/2007/page_82.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "stock option gains previously deferred by those participants pursuant to the terms of the deferred compensation plan and earnings on those deferred amounts .",
+      "as a result of certain provisions of the american jobs creation act , participants had the opportunity until december 31 , 2005 to elect to withdraw amounts previously deferred .",
+      "11 .",
+      "lease commitments the company leases certain of its facilities , equipment and software under various operating leases that expire at various dates through 2022 .",
+      "the lease agreements frequently include renewal and escalation clauses and require the company to pay taxes , insurance and maintenance costs .",
+      "total rental expense under operating leases was approximately $ 43 million in fiscal 2007 , $ 45 million in fiscal 2006 and $ 44 million in fiscal 2005 .",
+      "the following is a schedule of future minimum rental payments required under long-term operating leases at november 3 , 2007 : fiscal years operating leases ."
+    ],
+    "post_text": [
+      "12 .",
+      "commitments and contingencies tentative settlement of the sec 2019s previously announced stock option investigation in the company 2019s 2004 form 10-k filing , the company disclosed that the securities and exchange com- mission ( sec ) had initiated an inquiry into its stock option granting practices , focusing on options that were granted shortly before the issuance of favorable financial results .",
+      "on november 15 , 2005 , the company announced that it had reached a tentative settlement with the sec .",
+      "at all times since receiving notice of this inquiry , the company has cooperated with the sec .",
+      "in november 2005 , the company and its president and ceo , mr .",
+      "jerald g .",
+      "fishman , made an offer of settlement to the staff of the sec .",
+      "the settlement has been submitted to the commission for approval .",
+      "there can be no assurance a final settlement will be so approved .",
+      "the sec 2019s inquiry focused on two separate issues .",
+      "the first issue concerned the company 2019s disclosure regarding grants of options to employees and directors prior to the release of favorable financial results .",
+      "specifically , the issue related to options granted to employees ( including officers ) of the company on november 30 , 1999 and to employees ( including officers ) and directors of the company on november 10 , 2000 .",
+      "the second issue concerned the grant dates for options granted to employees ( including officers ) in 1998 and 1999 , and the grant date for options granted to employees ( including officers ) and directors in 2001 .",
+      "specifically , the settlement would conclude that the appropriate grant date for the september 4 , 1998 options should have been september 8th ( which is one trading day later than the date that was used to price the options ) ; the appropriate grant date for the november 30 , 1999 options should have been november 29th ( which is one trading day earlier than the date that was used ) ; and the appropriate grant date for the july 18 , 2001 options should have been july 26th ( which is five trading days after the original date ) .",
+      "analog devices , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) ."
+    ],
+    "table": [
+      [
+        "fiscal years",
+        "operating leases"
+      ],
+      [
+        "2008",
+        "$ 30774"
+      ],
+      [
+        "2009",
+        "$ 25906"
+      ],
+      [
+        "2010",
+        "$ 13267"
+      ],
+      [
+        "2011",
+        "$ 5430"
+      ],
+      [
+        "2012",
+        "$ 3842"
+      ],
+      [
+        "later years",
+        "$ 12259"
+      ],
+      [
+        "total",
+        "$ 91478"
+      ]
+    ],
+    "questions": [
+      "what was the total rent expense under operating leases in 2007?",
+      "and in 2006?",
+      "so what was the difference between these two years?",
+      "and the specific value for 2006 again?",
+      "so what was the growth rate during this time?"
+    ]
+  }
+}

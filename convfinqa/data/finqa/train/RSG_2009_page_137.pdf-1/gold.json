@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2009 , what was the percent unrecognized tax benefits related to tax positions taken by allied prior to the merger .",
+      "answer": 0.8749,
+      "answer_raw": "0.8749",
+      "program": "divide(211.9, 242.2)"
+    }
+  ]
+}

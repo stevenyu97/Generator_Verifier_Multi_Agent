@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "LMT/2012/page_47.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "2011 compared to 2010 mst 2019s net sales for 2011 decreased $ 311 million , or 4% ( 4 % ) , compared to 2010 .",
+      "the decrease was attributable to decreased volume of approximately $ 390 million for certain ship and aviation system programs ( primarily maritime patrol aircraft and ptds ) and approximately $ 75 million for training and logistics solutions programs .",
+      "partially offsetting these decreases was higher sales of about $ 165 million from production on the lcs program .",
+      "mst 2019s operating profit for 2011 decreased $ 68 million , or 10% ( 10 % ) , compared to 2010 .",
+      "the decrease was attributable to decreased operating profit of approximately $ 55 million as a result of increased reserves for contract cost matters on various ship and aviation system programs ( including the terminated presidential helicopter program ) and approximately $ 40 million due to lower volume and increased reserves on training and logistics solutions .",
+      "partially offsetting these decreases was higher operating profit of approximately $ 30 million in 2011 primarily due to the recognition of reserves on certain undersea systems programs in 2010 .",
+      "adjustments not related to volume , including net profit rate adjustments described above , were approximately $ 55 million lower in 2011 compared to 2010 .",
+      "backlog backlog increased in 2012 compared to 2011 mainly due to increased orders on ship and aviation system programs ( primarily mh-60 and lcs ) , partially offset decreased orders and higher sales volume on integrated warfare systems and sensors programs ( primarily aegis ) .",
+      "backlog decreased slightly in 2011 compared to 2010 primarily due to higher sales volume on various integrated warfare systems and sensors programs .",
+      "trends we expect mst 2019s net sales to decline in 2013 in the low single digit percentage range as compared to 2012 due to the completion of ptds deliveries in 2012 and expected lower volume on training services programs .",
+      "operating profit and margin are expected to increase slightly from 2012 levels primarily due to anticipated improved contract performance .",
+      "space systems our space systems business segment is engaged in the research and development , design , engineering , and production of satellites , strategic and defensive missile systems , and space transportation systems .",
+      "space systems is also responsible for various classified systems and services in support of vital national security systems .",
+      "space systems 2019 major programs include the space-based infrared system ( sbirs ) , advanced extremely high frequency ( aehf ) system , mobile user objective system ( muos ) , global positioning satellite ( gps ) iii system , geostationary operational environmental satellite r-series ( goes-r ) , trident ii d5 fleet ballistic missile , and orion .",
+      "operating results for our space systems business segment include our equity interests in united launch alliance ( ula ) , which provides expendable launch services for the u.s .",
+      "government , united space alliance ( usa ) , which provided processing activities for the space shuttle program and is winding down following the completion of the last space shuttle mission in 2011 , and a joint venture that manages the u.k . 2019s atomic weapons establishment program .",
+      "space systems 2019 operating results included the following ( in millions ) : ."
+    ],
+    "post_text": [
+      "2012 compared to 2011 space systems 2019 net sales for 2012 increased $ 186 million , or 2% ( 2 % ) , compared to 2011 .",
+      "the increase was attributable to higher net sales of approximately $ 150 million due to increased commercial satellite deliveries ( two commercial satellites delivered in 2012 compared to one during 2011 ) ; about $ 125 million from the orion program due to higher volume and an increase in risk retirements ; and approximately $ 70 million from increased volume on various strategic and defensive missile programs .",
+      "partially offsetting the increases were lower net sales of approximately $ 105 million from certain government satellite programs ( primarily sbirs and muos ) as a result of decreased volume and a decline in risk retirements ; and about $ 55 million from the nasa external tank program , which ended in connection with the completion of the space shuttle program in 2011. ."
+    ],
+    "table": [
+      [
+        "",
+        "2012",
+        "2011",
+        "2010"
+      ],
+      [
+        "net sales",
+        "$ 8347",
+        "$ 8161",
+        "$ 8268"
+      ],
+      [
+        "operating profit",
+        "1083",
+        "1063",
+        "1030"
+      ],
+      [
+        "operating margins",
+        "13.0% ( 13.0 % )",
+        "13.0% ( 13.0 % )",
+        "12.5% ( 12.5 % )"
+      ],
+      [
+        "backlog at year-end",
+        "18100",
+        "16000",
+        "17800"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the decreases in the net sales to the operating profit for mst from 2010 to 2011"
+    ]
+  }
+}

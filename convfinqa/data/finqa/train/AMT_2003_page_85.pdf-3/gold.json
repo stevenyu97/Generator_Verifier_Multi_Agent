@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what will be the balance of aggregate principal payments of long-term debt as of december 31 , 2004 , assuming that no new debt is issued?",
+      "answer": 3283603.0,
+      "answer_raw": "3283603.0",
+      "program": "subtract(3361225, 77622)"
+    }
+  ]
+}

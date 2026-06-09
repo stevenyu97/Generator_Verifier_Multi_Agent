@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the minimum future lease payments due in 2004?",
+      "answer": 781.0,
+      "answer_raw": "781.0",
+      "program": "781"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the value for those due in 2005?",
+      "answer": 776.0,
+      "answer_raw": "776.0",
+      "program": "776"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 1557.0,
+      "answer_raw": "1557.0",
+      "program": "add(781, 776)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total future minimum lease payments?",
+      "answer": 5354.0,
+      "answer_raw": "5354.0",
+      "program": "5354"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the sum over the total future minimum lease payments?",
+      "answer": 0.29081,
+      "answer_raw": "0.29081",
+      "program": "add(781, 776), divide(#0, 5354)"
+    }
+  ]
+}

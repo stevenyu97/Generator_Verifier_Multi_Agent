@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in vehicles under capital lease between 2014 and 2015?",
+      "answer": -0.13953,
+      "answer_raw": "-0.13953",
+      "program": "subtract(74, 86), divide(#0, 86)"
+    }
+  ]
+}

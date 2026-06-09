@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions for 2014 2013 and 2012 , what was the greatest amount of common share repurchases?",
+      "answer": 42.0,
+      "answer_raw": "42.0",
+      "program": "table_max(common share repurchases, none)"
+    }
+  ]
+}

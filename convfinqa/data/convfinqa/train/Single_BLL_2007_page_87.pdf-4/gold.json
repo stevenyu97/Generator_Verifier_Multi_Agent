@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was net tax expense related to the change in the pension and other postretirement items in 2007?",
+      "answer": 31.3,
+      "answer_raw": "31.3",
+      "program": "31.3"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2006?",
+      "answer": 2.9,
+      "answer_raw": "2.9",
+      "program": "2.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the total value for these two years combined?",
+      "answer": 34.2,
+      "answer_raw": "34.2",
+      "program": "add(31.3, 2.9)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in 2005?",
+      "answer": 27.3,
+      "answer_raw": "27.3",
+      "program": "27.3"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "combining all three years, what was the total value?",
+      "answer": 6.9,
+      "answer_raw": "6.9",
+      "program": "add(31.3, 2.9), subtract(#0, 27.3)"
+    }
+  ]
+}

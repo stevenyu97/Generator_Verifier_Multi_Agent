@@ -1,0 +1,115 @@
+{
+  "input": {
+    "id": "Single_LMT/2005/page_76.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "page 74 notes to five year summary ( a ) includes the effects of items not considered in senior management 2019s assessment of the operating performance of the corporation 2019s business segments ( see the section , 201cresults of operations 201d in management 2019s discussion and analysis of financial condition and results of operations ( md&a ) ) which , on a combined basis , increased earnings from continuing operations before income taxes by $ 173 million , $ 113 million after tax ( $ 0.25 per share ) .",
+      "( b ) includes the effects of items not considered in senior management 2019s assessment of the operating performance of the corporation 2019s business segments ( see the section , 201cresults of operations 201d in md&a ) which , on a combined basis , decreased earnings from continuing operations before income taxes by $ 215 million , $ 154 million after tax ( $ 0.34 per share ) .",
+      "also includes a reduction in income tax expense resulting from the closure of an internal revenue service examination of $ 144 million ( $ 0.32 per share ) .",
+      "these items reduced earnings by $ 10 million after tax ( $ 0.02 per share ) .",
+      "( c ) includes the effects of items not considered in senior management 2019s assessment of the operating performance of the corporation 2019s business segments ( see the section , 201cresults of operations 201d in md&a ) which , on a combined basis , decreased earnings from continuing operations before income taxes by $ 153 million , $ 102 million after tax ( $ 0.22 per share ) .",
+      "( d ) includes the effects of items not considered in senior management 2019s assessment of the operating performance of the corporation 2019s business segments which , on a combined basis , decreased earnings from continuing operations before income taxes by $ 1112 million , $ 632 million after tax ( $ 1.40 per share ) .",
+      "in 2002 , the corporation adopted fas 142 which prohibits the amortization of goodwill .",
+      "( e ) includes the effects of items not considered in senior management 2019s assessment of the operating performance of the corporation 2019s business segments which , on a combined basis , decreased earnings from continuing operations before income taxes by $ 973 million , $ 651 million after tax ( $ 1.50 per share ) .",
+      "also includes a gain from the disposal of a business and charges for the corporation 2019s exit from its global telecommunications services business which is included in discontinued operations and which , on a combined basis , increased the net loss by $ 1 billion ( $ 2.38 per share ) .",
+      "( f ) the corporation defines return on invested capital ( roic ) as net income plus after-tax interest expense divided by average invested capital ( stockholders 2019 equity plus debt ) , after adjusting stockholders 2019 equity by adding back the minimum pension liability .",
+      "the adjustment to add back the minimum pension liability is a revision to our calculation in 2005 , which the corporation believes more closely links roic to management performance .",
+      "further , the corporation believes that reporting roic provides investors with greater visibility into how effectively lockheed martin uses the capital invested in its operations .",
+      "the corporation uses roic to evaluate multi-year investment decisions and as a long-term performance measure , and also uses roic as a factor in evaluating management performance under certain incentive compensation plans .",
+      "roic is not a measure of financial performance under gaap , and may not be defined and calculated by other companies in the same manner .",
+      "roic should not be considered in isola- tion or as an alternative to net earnings as an indicator of performance .",
+      "the following calculations of roic reflect the revision to the calculation discussed above for all periods presented .",
+      "( in millions ) 2005 2004 2003 2002 2001 ."
+    ],
+    "post_text": [
+      "1 represents after-tax interest expense utilizing the federal statutory rate of 35% ( 35 % ) .",
+      "2 debt consists of long-term debt , including current maturities , and short-term borrowings ( if any ) .",
+      "3 equity includes non-cash adjustments for other comprehensive losses , primarily for the additional minimum pension liability .",
+      "4 minimum pension liability values reflect the cumulative value of entries identified in our statement of stockholders equity under the caption 201cminimum pension liability . 201d the annual minimum pension liability adjustments to equity were : 2001 = ( $ 33 million ) ; 2002 = ( $ 1537 million ) ; 2003 = $ 331 million ; 2004 = ( $ 285 million ) ; 2005 = ( $ 105 million ) .",
+      "as these entries are recorded in the fourth quarter , the value added back to our average equity in a given year is the cumulative impact of all prior year entries plus 20% ( 20 % ) of the cur- rent year entry value .",
+      "5 yearly averages are calculated using balances at the start of the year and at the end of each quarter .",
+      "lockheed martin corporation ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2005",
+        "2004",
+        "2003",
+        "2002",
+        "2001"
+      ],
+      [
+        "net earnings",
+        "$ 1825",
+        "$ 1266",
+        "$ 1053",
+        "$ 500",
+        "$ -1046 ( 1046 )"
+      ],
+      [
+        "interest expense ( multiplied by 65% ( 65 % ) ) 1",
+        "241",
+        "276",
+        "317",
+        "378",
+        "455"
+      ],
+      [
+        "return",
+        "$ 2066",
+        "$ 1542",
+        "$ 1370",
+        "$ 878",
+        "$ -591 ( 591 )"
+      ],
+      [
+        "average debt2 5",
+        "$ 5077",
+        "$ 5932",
+        "$ 6612",
+        "$ 7491",
+        "$ 8782"
+      ],
+      [
+        "average equity3 5",
+        "7590",
+        "7015",
+        "6170",
+        "6853",
+        "7221"
+      ],
+      [
+        "average minimum pension liability3 4 5",
+        "1545",
+        "1296",
+        "1504",
+        "341",
+        "6"
+      ],
+      [
+        "average invested capital",
+        "$ 14212",
+        "$ 14243",
+        "$ 14286",
+        "$ 14685",
+        "$ 16009"
+      ],
+      [
+        "return on invested capital",
+        "14.5% ( 14.5 % )",
+        "10.8% ( 10.8 % )",
+        "9.6% ( 9.6 % )",
+        "6.0% ( 6.0 % )",
+        "( 3.7 ) % (  % )"
+      ]
+    ],
+    "questions": [
+      "what was the increase in earnings before taxes?",
+      "what was the increase in earnings after taxes?",
+      "what is the difference?",
+      "what was the increase in earnings before taxes?",
+      "what is the percent change?"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "Single_ILMN/2008/page_77.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "utilized .",
+      "in accordance with sfas no .",
+      "144 , accounting for the impairment or disposal of long-lived assets , a non-cash impairment charge of $ 4.1 million was recorded in the second quarter of fiscal 2008 for the excess machinery .",
+      "this charge is included as a separate line item in the company 2019s consolidated statement of operations .",
+      "there was no change to useful lives and related depreciation expense of the remaining assets as the company believes these estimates are currently reflective of the period the assets will be used in operations .",
+      "7 .",
+      "warranties the company generally provides a one-year warranty on sequencing , genotyping and gene expression systems .",
+      "at the time revenue is recognized , the company establishes an accrual for estimated warranty expenses associated with system sales .",
+      "this expense is recorded as a component of cost of product revenue .",
+      "estimated warranty expenses associated with extended maintenance contracts are recorded as cost of revenue ratably over the term of the maintenance contract .",
+      "changes in the company 2019s reserve for product warranties from january 1 , 2006 through december 28 , 2008 are as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "8 .",
+      "convertible senior notes on february 16 , 2007 , the company issued $ 400.0 million principal amount of 0.625% ( 0.625 % ) convertible senior notes due 2014 ( the notes ) , which included the exercise of the initial purchasers 2019 option to purchase up to an additional $ 50.0 million aggregate principal amount of notes .",
+      "the net proceeds from the offering , after deducting the initial purchasers 2019 discount and offering expenses , were $ 390.3 million .",
+      "the company will pay 0.625% ( 0.625 % ) interest per annum on the principal amount of the notes , payable semi-annually in arrears in cash on february 15 and august 15 of each year .",
+      "the company made interest payments of $ 1.3 million and $ 1.2 million on february 15 , 2008 and august 15 , 2008 , respectively .",
+      "the notes mature on february 15 , the notes will be convertible into cash and , if applicable , shares of the company 2019s common stock , $ 0.01 par value per share , based on a conversion rate , subject to adjustment , of 45.8058 shares per $ 1000 principal amount of notes ( which represents a conversion price of $ 21.83 per share ) , only in the following circumstances and to the following extent : ( 1 ) during the five business-day period after any five consecutive trading period ( the measurement period ) in which the trading price per note for each day of such measurement period was less than 97% ( 97 % ) of the product of the last reported sale price of the company 2019s common stock and the conversion rate on each such day ; ( 2 ) during any calendar quarter after the calendar quarter ending march 30 , 2007 , if the last reported sale price of the company 2019s common stock for 20 or more trading days in a period of 30 consecutive trading days ending on the last trading day of the immediately illumina , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) ."
+    ],
+    "table": [
+      [
+        "balance as of january 1 2006",
+        "$ 751"
+      ],
+      [
+        "additions charged to cost of revenue",
+        "1379"
+      ],
+      [
+        "repairs and replacements",
+        "-1134 ( 1134 )"
+      ],
+      [
+        "balance as of december 31 2006",
+        "996"
+      ],
+      [
+        "additions charged to cost of revenue",
+        "4939"
+      ],
+      [
+        "repairs and replacements",
+        "-2219 ( 2219 )"
+      ],
+      [
+        "balance as of december 30 2007",
+        "3716"
+      ],
+      [
+        "additions charged to cost of revenue",
+        "13044"
+      ],
+      [
+        "repairs and replacements",
+        "-8557 ( 8557 )"
+      ],
+      [
+        "balance as of december 28 2008",
+        "$ 8203"
+      ]
+    ],
+    "questions": [
+      "what was the difference in the value of company 2019s reserve for product warranties in 2006?",
+      "what was the percent change?"
+    ]
+  }
+}

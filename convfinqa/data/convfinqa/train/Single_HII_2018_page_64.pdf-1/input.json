@@ -1,0 +1,83 @@
+{
+  "input": {
+    "id": "Single_HII/2018/page_64.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "december 2016 acquisition of camber and higher volumes in fleet support and oil and gas services , partially offset by lower nuclear and environmental volumes due to the resolution in 2016 of outstanding contract changes on a nuclear and environmental commercial contract .",
+      "segment operating income 2018 - operating income in the technical solutions segment for the year ended december 31 , 2018 , was $ 32 million , compared to operating income of $ 21 million in 2017 .",
+      "the increase was primarily due to an allowance for accounts receivable in 2017 on a nuclear and environmental commercial contract and higher income from operating investments at our nuclear and environmental joint ventures , partially offset by one time employee bonus payments in 2018 related to the tax act and lower performance in fleet support services .",
+      "2017 - operating income in the technical solutions segment for the year ended december 31 , 2017 , was $ 21 million , compared to operating income of $ 8 million in 2016 .",
+      "the increase was primarily due to improved performance in oil and gas services and higher volume in mdis services following the december 2016 acquisition of camber , partially offset by the establishment of an allowance for accounts receivable on a nuclear and environmental commercial contract in 2017 and the resolution in 2016 of outstanding contract changes on a nuclear and environmental commercial contract .",
+      "backlog total backlog as of december 31 , 2018 , was approximately $ 23 billion .",
+      "total backlog includes both funded backlog ( firm orders for which funding is contractually obligated by the customer ) and unfunded backlog ( firm orders for which funding is not currently contractually obligated by the customer ) .",
+      "backlog excludes unexercised contract options and unfunded idiq orders .",
+      "for contracts having no stated contract values , backlog includes only the amounts committed by the customer .",
+      "the following table presents funded and unfunded backlog by segment as of december 31 , 2018 and 2017: ."
+    ],
+    "post_text": [
+      "we expect approximately 30% ( 30 % ) of the $ 23 billion total backlog as of december 31 , 2018 , to be converted into sales in 2019 .",
+      "u.s .",
+      "government orders comprised substantially all of the backlog as of december 31 , 2018 and 2017 .",
+      "awards 2018 - the value of new contract awards during the year ended december 31 , 2018 , was approximately $ 9.8 billion .",
+      "significant new awards during the period included contracts for the construction of three arleigh burke class ( ddg 51 ) destroyers , for the detail design and construction of richard m .",
+      "mccool jr .",
+      "( lpd 29 ) , for procurement of long-lead-time material for enterprise ( cvn 80 ) , and for the construction of nsc 10 ( unnamed ) and nsc 11 ( unnamed ) .",
+      "in addition , we received awards in 2019 valued at $ 15.2 billion for detail design and construction of the gerald r .",
+      "ford class ( cvn 78 ) aircraft carriers enterprise ( cvn 80 ) and cvn 81 ( unnamed ) .",
+      "2017 - the value of new contract awards during the year ended december 31 , 2017 , was approximately $ 8.1 billion .",
+      "significant new awards during this period included the detailed design and construction contract for bougainville ( lha 8 ) and the execution contract for the rcoh of uss george washington ( cvn 73 ) . ."
+    ],
+    "table": [
+      [
+        "( $ in millions )",
+        "december 31 2018 funded",
+        "december 31 2018 unfunded",
+        "december 31 2018 total backlog",
+        "december 31 2018 funded",
+        "december 31 2018 unfunded",
+        "total backlog"
+      ],
+      [
+        "ingalls",
+        "$ 9943",
+        "$ 1422",
+        "$ 11365",
+        "$ 5920",
+        "$ 2071",
+        "$ 7991"
+      ],
+      [
+        "newport news",
+        "6767",
+        "4144",
+        "10911",
+        "6976",
+        "5608",
+        "12584"
+      ],
+      [
+        "technical solutions",
+        "339",
+        "380",
+        "719",
+        "478",
+        "314",
+        "792"
+      ],
+      [
+        "total backlog",
+        "$ 17049",
+        "$ 5946",
+        "$ 22995",
+        "$ 13374",
+        "$ 7993",
+        "$ 21367"
+      ]
+    ],
+    "questions": [
+      "what was the operating income in the technical solutions segment for 2017?",
+      "and the change in this value between 2016 and 2017?",
+      "so what was the percentage change during this time?"
+    ]
+  }
+}

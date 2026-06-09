@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2018 as part of the strategic merchandise what was the ration of the grocery to the health and wellness products",
+      "answer": 5.09091,
+      "answer_raw": "5.09091",
+      "program": "divide(56, 11)"
+    }
+  ]
+}

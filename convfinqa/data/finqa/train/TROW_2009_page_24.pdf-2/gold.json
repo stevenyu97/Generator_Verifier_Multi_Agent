@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total enterprise value in millions of uti asset management company and affiliate at the price paid for the 26% ( 26 % ) stake?",
+      "answer": 547.69231,
+      "answer_raw": "547.69231",
+      "program": "divide(142.4, 26%)"
+    }
+  ]
+}

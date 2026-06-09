@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the net income from 2006 to 2007?",
+      "answer": 245.0,
+      "answer_raw": "245.0",
+      "program": "subtract(4096, 3851)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to the net income in 2006, in percentage?",
+      "answer": 0.06362,
+      "answer_raw": "0.06362",
+      "program": "subtract(4096, 3851), divide(#0, 3851)"
+    }
+  ]
+}

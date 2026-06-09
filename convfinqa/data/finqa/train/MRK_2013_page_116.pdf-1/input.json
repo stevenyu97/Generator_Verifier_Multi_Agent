@@ -1,0 +1,112 @@
+{
+  "input": {
+    "id": "MRK/2013/page_116.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "13 .",
+      "pension and other postretirement benefit plans the company has defined benefit pension plans covering eligible employees in the united states and in certain of its international subsidiaries .",
+      "as a result of plan design changes approved in 2011 , beginning on january 1 , 2013 , active participants in merck 2019s primary u.s .",
+      "defined benefit pension plans are accruing pension benefits using new cash balance formulas based on age , service , pay and interest .",
+      "however , during a transition period from january 1 , 2013 through december 31 , 2019 , participants will earn the greater of the benefit as calculated under the employee 2019s legacy final average pay formula or their new cash balance formula .",
+      "for all years of service after december 31 , 2019 , participants will earn future benefits under only the cash balance formula .",
+      "in addition , the company provides medical benefits , principally to its eligible u.s .",
+      "retirees and their dependents , through its other postretirement benefit plans .",
+      "the company uses december 31 as the year-end measurement date for all of its pension plans and other postretirement benefit plans .",
+      "net periodic benefit cost the net periodic benefit cost for pension and other postretirement benefit plans consisted of the following components: ."
+    ],
+    "post_text": [
+      "the increase in net periodic benefit cost for pension and other postretirement benefit plans in 2013 as compared with 2012 is largely attributable to a change in the discount rate .",
+      "the net periodic benefit cost attributable to u.s .",
+      "pension plans included in the above table was $ 348 million in 2013 , $ 268 million in 2012 and $ 406 million in in connection with restructuring actions ( see note 3 ) , termination charges were recorded in 2013 , 2012 and 2011 on pension and other postretirement benefit plans related to expanded eligibility for certain employees exiting merck .",
+      "also , in connection with these restructuring activities , curtailments were recorded in 2013 , 2012 and 2011 on pension and other postretirement benefit plans .",
+      "in addition , settlements were recorded in 2013 , 2012 and 2011 on certain domestic and international pension plans .",
+      "table of contents ."
+    ],
+    "table": [
+      [
+        "years ended december 31",
+        "pension benefits 2013",
+        "pension benefits 2012",
+        "pension benefits 2011",
+        "pension benefits 2013",
+        "pension benefits 2012",
+        "2011"
+      ],
+      [
+        "service cost",
+        "$ 682",
+        "$ 555",
+        "$ 619",
+        "$ 102",
+        "$ 82",
+        "$ 110"
+      ],
+      [
+        "interest cost",
+        "665",
+        "661",
+        "718",
+        "107",
+        "121",
+        "141"
+      ],
+      [
+        "expected return on plan assets",
+        "-1097 ( 1097 )",
+        "-970 ( 970 )",
+        "-972 ( 972 )",
+        "-126 ( 126 )",
+        "-136 ( 136 )",
+        "-142 ( 142 )"
+      ],
+      [
+        "net amortization",
+        "336",
+        "185",
+        "201",
+        "-50 ( 50 )",
+        "-35 ( 35 )",
+        "-17 ( 17 )"
+      ],
+      [
+        "termination benefits",
+        "58",
+        "27",
+        "59",
+        "50",
+        "18",
+        "29"
+      ],
+      [
+        "curtailments",
+        "-23 ( 23 )",
+        "-10 ( 10 )",
+        "-86 ( 86 )",
+        "-11 ( 11 )",
+        "-7 ( 7 )",
+        "1"
+      ],
+      [
+        "settlements",
+        "23",
+        "18",
+        "4",
+        "2014",
+        "2014",
+        "2014"
+      ],
+      [
+        "net periodic benefit cost",
+        "$ 644",
+        "$ 466",
+        "$ 543",
+        "$ 72",
+        "$ 43",
+        "$ 122"
+      ]
+    ],
+    "questions": [
+      "considering the years 2012 and 2013 , what is the increase observed in the service cost?"
+    ]
+  }
+}

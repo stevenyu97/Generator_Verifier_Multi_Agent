@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the value of futures 2013 long?",
+      "answer": 15398.0,
+      "answer_raw": "15398.0",
+      "program": "15398"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were the value of futures 2013 short?",
+      "answer": 35708.0,
+      "answer_raw": "35708.0",
+      "program": "35708"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 51106.0,
+      "answer_raw": "51106.0",
+      "program": "add(15398, 35708)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the value of physical contracts 2013 long?",
+      "answer": 20310.0,
+      "answer_raw": "20310.0",
+      "program": "20310"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total sum?",
+      "answer": 71416.0,
+      "answer_raw": "71416.0",
+      "program": "add(15398, 35708), add(#0, 20310)"
+    }
+  ]
+}

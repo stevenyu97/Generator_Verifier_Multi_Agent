@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is long term debt for citigroup parent company?",
+      "answer": 192.3,
+      "answer_raw": "192.3",
+      "program": "192.3"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is it for cgmhi?",
+      "answer": 20.6,
+      "answer_raw": "20.6",
+      "program": "20.6"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 212.9,
+      "answer_raw": "212.9",
+      "program": "add(192.3, 20.6)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the sum including citigroup funding?",
+      "answer": 250.3,
+      "answer_raw": "250.3",
+      "program": "add(192.3, 20.6), add(#0, 37.4)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total sum including other subsidiaries?",
+      "answer": 359.6,
+      "answer_raw": "359.6",
+      "program": "add(192.3, 20.6), add(#0, 37.4), add(#1, 109.3)"
+    }
+  ]
+}

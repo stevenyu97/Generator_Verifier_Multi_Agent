@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total benefit expense for plans in u.s. in 2018?",
+      "answer": 0.58333,
+      "answer_raw": "0.58333",
+      "program": "divide(98, 168)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total benefit expense in 2018?",
+      "answer": 168.0,
+      "answer_raw": "168.0",
+      "program": "168"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what about in 2017?",
+      "answer": 173.0,
+      "answer_raw": "173.0",
+      "program": "173"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the net change among these years?",
+      "answer": -5.0,
+      "answer_raw": "-5.0",
+      "program": "subtract(168, 173)"
+    }
+  ]
+}

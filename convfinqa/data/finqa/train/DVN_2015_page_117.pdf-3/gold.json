@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 2014 what was the percent of the proved undeveloped reserves in the us",
+      "answer": 0.44267,
+      "answer_raw": "0.44267",
+      "program": "divide(305, 689)"
+    }
+  ]
+}

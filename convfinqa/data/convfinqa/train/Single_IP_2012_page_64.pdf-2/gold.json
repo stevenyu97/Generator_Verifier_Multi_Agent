@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what amount of obligations is due within 2014?",
+      "answer": 964.0,
+      "answer_raw": "964.0",
+      "program": "add(136, 828)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what proportion of total obligations does this represent?",
+      "answer": 0.57656,
+      "answer_raw": "0.57656",
+      "program": "add(136, 828), divide(#0, 1672)"
+    }
+  ]
+}

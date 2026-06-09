@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in rental expenses from 2016 to 2017?",
+      "answer": 0.16509,
+      "answer_raw": "0.16509",
+      "program": "subtract(247, 212), divide(#0, 212)"
+    }
+  ]
+}

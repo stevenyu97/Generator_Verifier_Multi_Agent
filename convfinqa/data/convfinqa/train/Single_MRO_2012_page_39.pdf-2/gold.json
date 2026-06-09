@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the brent crude oil price in 2012?",
+      "answer": 111.65,
+      "answer_raw": "111.65",
+      "program": "111.65"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2010?",
+      "answer": 79.51,
+      "answer_raw": "79.51",
+      "program": "79.51"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the change in price over these years?",
+      "answer": 32.14,
+      "answer_raw": "32.14",
+      "program": "subtract(111.65, 79.51)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage change during this time?",
+      "answer": 0.40423,
+      "answer_raw": "0.40423",
+      "program": "subtract(111.65, 79.51), divide(#0, 79.51)"
+    }
+  ]
+}

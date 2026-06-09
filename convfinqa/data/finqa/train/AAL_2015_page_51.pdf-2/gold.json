@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the rate of growth or decrease from 2013 to 2014 on the amex airline index",
+      "answer": 0.4902,
+      "answer_raw": "0.4902",
+      "program": "subtract(152, 102), divide(#0, 102)"
+    }
+  ]
+}

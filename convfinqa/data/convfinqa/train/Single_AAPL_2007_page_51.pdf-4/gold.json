@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the inventory value as of 9/29/07?",
+      "answer": 346.0,
+      "answer_raw": "346.0",
+      "program": "346"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for 9/30/06?",
+      "answer": 270.0,
+      "answer_raw": "270.0",
+      "program": "270"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference in value during these years?",
+      "answer": 76.0,
+      "answer_raw": "76.0",
+      "program": "subtract(346, 270)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the value for 2006 again?",
+      "answer": 270.0,
+      "answer_raw": "270.0",
+      "program": "270"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage change during this time?",
+      "answer": 0.28148,
+      "answer_raw": "0.28148",
+      "program": "subtract(346, 270), divide(#0, 270)"
+    }
+  ]
+}

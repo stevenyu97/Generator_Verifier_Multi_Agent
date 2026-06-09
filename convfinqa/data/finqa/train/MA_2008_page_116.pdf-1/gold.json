@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the years 2009 and 2010 , what is the difference between the growth of the benefit payments and the expected subsidy receipts?",
+      "answer": 0.00675,
+      "answer_raw": "0.00675",
+      "program": "divide(3139, 2641), subtract(#0, const_1), divide(91, 77), subtract(#2, const_1), subtract(#1, #3)"
+    }
+  ]
+}

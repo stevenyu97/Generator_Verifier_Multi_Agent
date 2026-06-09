@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total net revenues institutional client services segment in 2013 were made up of equities client execution?",
+      "answer": 0.165,
+      "answer_raw": "0.165",
+      "program": "divide(2594, 15721)"
+    }
+  ]
+}

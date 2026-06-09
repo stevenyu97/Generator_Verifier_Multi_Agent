@@ -1,0 +1,111 @@
+{
+  "input": {
+    "id": "Single_MMM/2007/page_39.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "approximately $ 55 million , which is reported as 201cinvestments 201d in the consolidated balance sheet and as 201cpurchases of marketable securities and investments 201d in the consolidated statement of cash flows .",
+      "the recovery of approximately $ 25 million of this investment in 2007 reduced 201cinvestments 201d and is shown in cash flows within 201cproceeds from sale of marketable securities and investments . 201d this investment is discussed in more detail under the preceding section entitled industrial and transportation business .",
+      "additional purchases of investments include additional survivor benefit insurance and equity investments .",
+      "cash flows from financing activities : years ended december 31 ."
+    ],
+    "post_text": [
+      "total debt at december 31 , 2007 , was $ 4.920 billion , up from $ 3.553 billion at year-end 2006 .",
+      "the net change in short-term debt is primarily due to commercial paper activity .",
+      "in 2007 , the repayment of debt for maturities greater than 90 days is primarily comprised of commercial paper repayments of approximately $ 1.15 billion and the november 2007 redemption of approximately $ 322 million in convertible notes .",
+      "in 2007 , proceeds from debt included long-term debt and commercial paper issuances totaling approximately $ 4 billion .",
+      "this was comprised of eurobond issuances in december 2007 and july 2007 totaling approximately $ 1.5 billion in u.s .",
+      "dollars , a march 2007 long-term debt issuance of $ 750 million and a december 2007 fixed rate note issuance of $ 500 million , plus commercial paper issuances ( maturities greater than 90 days ) of approximately $ 1.25 billion .",
+      "increases in long-term debt have been used , in part , to fund share repurchase activities .",
+      "the company accelerated purchases of treasury stock when compared to prior years , buying back $ 3.2 billion in shares in 2007 .",
+      "total debt was 30% ( 30 % ) of total capital ( total capital is defined as debt plus equity ) , compared with 26% ( 26 % ) at year-end 2006 .",
+      "debt securities , including 2007 debt issuances , the company 2019s shelf registration , dealer remarketable securities and convertible notes , are all discussed in more detail in note 10 .",
+      "the company has a \"well-known seasoned issuer\" shelf registration statement , effective february 24 , 2006 , to register an indeterminate amount of debt or equity securities for future sales .",
+      "on june 15 , 2007 , the company registered 150718 shares of the company's common stock under this shelf on behalf of and for the sole benefit of the selling stockholders in connection with the company's acquisition of assets of diamond productions , inc .",
+      "the company intends to use the proceeds from future securities sales off this shelf for general corporate purposes .",
+      "in connection with this shelf registration , in june 2007 the company established a medium-term notes program through which up to $ 3 billion of medium-term notes may be offered .",
+      "in december 2007 , 3m issued a five-year , $ 500 million , fixed rate note with a coupon rate of 4.65% ( 4.65 % ) under this medium-term notes program .",
+      "this program has a remaining capacity of $ 2.5 billion as of december 31 , 2007 .",
+      "the company 2019s $ 350 million of dealer remarketable securities ( classified as current portion of long-term debt ) were remarketed for one year in december 2007 .",
+      "at december 31 , 2007 , $ 350 million of dealer remarketable securities ( final maturity 2010 ) and $ 62 million of floating rate notes ( final maturity 2044 ) are classified as current portion of long- term debt as the result of put provisions associated with these debt instruments .",
+      "the company has convertible notes with a book value of $ 222 million at december 31 , 2007 .",
+      "the next put option date for these convertible notes is november 2012 .",
+      "in november 2007 , 364598 outstanding bonds were redeemed resulting in a payout from 3m of approximately $ 322 million .",
+      "repurchases of common stock are made to support the company 2019s stock-based employee compensation plans and for other corporate purposes .",
+      "in february 2007 , 3m 2019s board of directors authorized a two-year share repurchase of up to $ 7.0 billion for the period from february 12 , 2007 to february 28 , 2009 .",
+      "as of december 31 , 2007 , approximately $ 4.1 billion remained available for repurchase .",
+      "refer to the table titled 201cissuer purchases of equity securities 201d in part ii , item 5 , for more information. ."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "change in short-term debt 2014 net",
+        "$ -1222 ( 1222 )",
+        "$ 882",
+        "$ -258 ( 258 )"
+      ],
+      [
+        "repayment of debt ( maturities greater than 90 days )",
+        "-1580 ( 1580 )",
+        "-440 ( 440 )",
+        "-656 ( 656 )"
+      ],
+      [
+        "proceeds from debt ( maturities greater than 90 days )",
+        "4024",
+        "693",
+        "429"
+      ],
+      [
+        "total cash change in debt",
+        "$ 1222",
+        "$ 1135",
+        "$ -485 ( 485 )"
+      ],
+      [
+        "purchases of treasury stock",
+        "-3239 ( 3239 )",
+        "-2351 ( 2351 )",
+        "-2377 ( 2377 )"
+      ],
+      [
+        "reissuances of treasury stock",
+        "796",
+        "523",
+        "545"
+      ],
+      [
+        "dividends paid to stockholders",
+        "-1380 ( 1380 )",
+        "-1376 ( 1376 )",
+        "-1286 ( 1286 )"
+      ],
+      [
+        "excess tax benefits from stock-based compensation",
+        "74",
+        "60",
+        "54"
+      ],
+      [
+        "distributions to minority interests and other 2014 net",
+        "-20 ( 20 )",
+        "-52 ( 52 )",
+        "-76 ( 76 )"
+      ],
+      [
+        "net cash used in financing activities",
+        "$ -2547 ( 2547 )",
+        "$ -2061 ( 2061 )",
+        "$ -3625 ( 3625 )"
+      ]
+    ],
+    "questions": [
+      "what is the difference between the total debt at december 31, 2007 and that at december 31, 2006?",
+      "how much does that difference represents in relation to the total debt at december 31, 2006?"
+    ]
+  }
+}

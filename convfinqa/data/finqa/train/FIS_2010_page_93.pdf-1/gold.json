@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the fair value of the options from 2009 to 2010?",
+      "answer": 0.09192,
+      "answer_raw": "0.09192",
+      "program": "subtract(7.84, 7.18), divide(#0, 7.18)"
+    }
+  ]
+}

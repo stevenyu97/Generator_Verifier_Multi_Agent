@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the annual decline in wholesale lending-related commitments in 2010?",
+      "answer": -0.00317,
+      "answer_raw": "-0.00317",
+      "program": "subtract(346.1, 347.2), divide(#0, 347.2)"
+    }
+  ]
+}

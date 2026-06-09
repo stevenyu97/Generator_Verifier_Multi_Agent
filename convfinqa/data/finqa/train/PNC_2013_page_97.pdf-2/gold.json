@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 31 , 2013 , for home equity lines of credit for which the borrower can no longer draw ( e.g . , draw period has ended or borrowing privileges have been terminated ) , approximately what percent were 30-89 days past due and 90 days or more past due?",
+      "answer": 9.14,
+      "answer_raw": "9.14",
+      "program": "add(3.65, 5.49)"
+    }
+  ]
+}

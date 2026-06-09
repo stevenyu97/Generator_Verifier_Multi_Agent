@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total intangibles-net in 2007 were comprised of developed product technology-gross?",
+      "answer": 0.71984,
+      "answer_raw": "0.71984",
+      "program": "divide(1767.5, 2455.4)"
+    }
+  ]
+}

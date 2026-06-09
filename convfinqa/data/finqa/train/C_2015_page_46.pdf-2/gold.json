@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in the total capital ratio between the advanced approaches and the standardized approach at december 31 , 2015?",
+      "answer": -1.78,
+      "answer_raw": "-1.78",
+      "program": "subtract(15.30, 17.08)"
+    }
+  ]
+}

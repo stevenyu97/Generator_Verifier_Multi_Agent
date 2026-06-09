@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage reduction in net sales for shorewood in 2006 from 2005 s",
+      "answer": -0.03039,
+      "answer_raw": "-0.03039",
+      "program": "subtract(670, 691), divide(#0, 691)"
+    }
+  ]
+}

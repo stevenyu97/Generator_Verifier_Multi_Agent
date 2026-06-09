@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "UAA/2016/page_83.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "2016 , as well as significant sponsorship and other marketing agreements entered into during the period after december 31 , 2016 through the date of this report : ( in thousands ) ."
+    ],
+    "post_text": [
+      "total future minimum sponsorship and other payments $ 1355605 the amounts listed above are the minimum compensation obligations and guaranteed royalty fees required to be paid under the company 2019s sponsorship and other marketing agreements .",
+      "the amounts listed above do not include additional performance incentives and product supply obligations provided under certain agreements .",
+      "it is not possible to determine how much the company will spend on product supply obligations on an annual basis as contracts generally do not stipulate specific cash amounts to be spent on products .",
+      "the amount of product provided to the sponsorships depends on many factors including general playing conditions , the number of sporting events in which they participate and the company 2019s decisions regarding product and marketing initiatives .",
+      "in addition , the costs to design , develop , source and purchase the products furnished to the endorsers are incurred over a period of time and are not necessarily tracked separately from similar costs incurred for products sold to customers .",
+      "in connection with various contracts and agreements , the company has agreed to indemnify counterparties against certain third party claims relating to the infringement of intellectual property rights and other items .",
+      "generally , such indemnification obligations do not apply in situations in which the counterparties are grossly negligent , engage in willful misconduct , or act in bad faith .",
+      "based on the company 2019s historical experience and the estimated probability of future loss , the company has determined that the fair value of such indemnifications is not material to its consolidated financial position or results of operations .",
+      "from time to time , the company is involved in litigation and other proceedings , including matters related to commercial and intellectual property disputes , as well as trade , regulatory and other claims related to its business .",
+      "other than as described below , the company believes that all current proceedings are routine in nature and incidental to the conduct of its business , and that the ultimate resolution of any such proceedings will not have a material adverse effect on its consolidated financial position , results of operations or cash flows .",
+      "on february 10 , 2017 , a shareholder filed a securities case in the united states district court for the district of maryland ( the 201ccourt 201d ) against the company , the company 2019s chief executive officer and the company 2019s former chief financial officer ( brian breece v .",
+      "under armour , inc. ) .",
+      "on february 16 , 2017 , a second shareholder filed a securities case in the court against the same defendants ( jodie hopkins v .",
+      "under armour , inc. ) .",
+      "the plaintiff in each case purports to represent a class of shareholders for the period between april 21 , 2016 and january 30 , 2017 , inclusive .",
+      "the complaints allege violations of section 10 ( b ) ( and rule 10b-5 ) of the securities exchange act of 1934 , as amended ( the 201cexchange act 201d ) and section 20 ( a ) control person liability under the exchange act against the officers named in the complaints .",
+      "in general , the allegations in each case concern disclosures and statements made by ."
+    ],
+    "table": [
+      [
+        "2017",
+        "$ 176138"
+      ],
+      [
+        "2018",
+        "166961"
+      ],
+      [
+        "2019",
+        "142987"
+      ],
+      [
+        "2020",
+        "124856"
+      ],
+      [
+        "2021",
+        "118168"
+      ],
+      [
+        "2022 and thereafter",
+        "626495"
+      ],
+      [
+        "total future minimum sponsorship and other payments",
+        "$ 1355605"
+      ]
+    ],
+    "questions": [
+      "what portion of the total future minimum sponsorship and other payments will be due in the next 12 months?"
+    ]
+  }
+}

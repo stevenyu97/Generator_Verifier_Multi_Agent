@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage reduction of the net cash provided by operating activities from 2017 to 2018",
+      "answer": 0.35915,
+      "answer_raw": "0.35915",
+      "program": "divide(316.7, 881.8)"
+    }
+  ]
+}

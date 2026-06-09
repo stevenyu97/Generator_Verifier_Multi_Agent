@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of pension and opb contributions in 2017, in millions?",
+      "answer": 1600.0,
+      "answer_raw": "1600.0",
+      "program": "multiply(const_1000, 1.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the change in that total from 2017 to 2018?",
+      "answer": -1235.0,
+      "answer_raw": "-1235.0",
+      "program": "multiply(const_1000, 1.6), subtract(365, #0)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does this change represent in relation to the 2017 total?",
+      "answer": -0.77187,
+      "answer_raw": "-0.77187",
+      "program": "multiply(const_1000, 1.6), subtract(365, #0), divide(#1, #0)"
+    }
+  ]
+}

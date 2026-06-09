@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were investment banking fees in 2007?",
+      "answer": 6635.0,
+      "answer_raw": "6635.0",
+      "program": "6635"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were they in 2006?",
+      "answer": 5520.0,
+      "answer_raw": "5520.0",
+      "program": "5520"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference of the 2007 value less that in 2006?",
+      "answer": 1115.0,
+      "answer_raw": "1115.0",
+      "program": "subtract(6635, 5520)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the net change divided by the 2006 value?",
+      "answer": 0.20199,
+      "answer_raw": "0.20199",
+      "program": "subtract(6635, 5520), divide(#0, 5520)"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "input": {
+    "id": "Double_C/2009/page_41.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "brokerage and asset management brokerage and asset management ( bam ) , which constituted approximately 6% ( 6 % ) of citi holdings by assets as of december 31 , 2009 , consists of citi 2019s global retail brokerage and asset management businesses .",
+      "this segment was substantially affected and reduced in size in 2009 due to the divestitures of smith barney ( to the morgan stanley smith barney joint venture ( mssb jv ) ) and nikko cordial securities .",
+      "at december 31 , 2009 , bam had approximately $ 35 billion of assets , which included $ 26 billion of assets from the 49% ( 49 % ) interest in the mssb jv ( $ 13 billion investment and $ 13 billion in loans associated with the clients of the mssb jv ) and $ 9 billion of assets from a diverse set of asset management and insurance businesses of which approximately half will be transferred into the latam rcb during the first quarter of 2010 , as discussed under 201cciti holdings 201d above .",
+      "morgan stanley has options to purchase citi 2019s remaining stake in the mssb jv over three years starting in 2012 .",
+      "the 2009 results include an $ 11.1 billion gain ( $ 6.7 billion after-tax ) on the sale of smith barney .",
+      "in millions of dollars 2009 2008 2007 % (  % ) change 2009 vs .",
+      "2008 % (  % ) change 2008 vs .",
+      "2007 ."
+    ],
+    "post_text": [
+      "nm not meaningful 2009 vs .",
+      "2008 revenues , net of interest expense increased 80% ( 80 % ) versus the prior year mainly driven by the $ 11.1 billion pretax gain on the sale ( $ 6.7 billion after-tax ) on the mssb jv transaction in the second quarter of 2009 and a $ 320 million pretax gain on the sale of the managed futures business to the mssb jv in the third quarter of 2009 .",
+      "excluding these gains , revenue decreased primarily due to the absence of smith barney from may 2009 onwards and the absence of fourth-quarter revenue of nikko asset management , partially offset by an improvement in marks in retail alternative investments .",
+      "revenues in the prior year include a $ 347 million pretax gain on sale of citistreet and charges related to the settlement of auction rate securities of $ 393 million pretax .",
+      "operating expenses decreased 64% ( 64 % ) from the prior year , mainly driven by the absence of smith barney and nikko asset management expenses , re- engineering efforts and the absence of 2008 one-time expenses ( $ 0.9 billion intangible impairment , $ 0.2 billion of restructuring and $ 0.5 billion of write- downs and other charges ) .",
+      "provisions for loan losses and for benefits and claims decreased 15% ( 15 % ) mainly reflecting a $ 50 million decrease in provision for benefits and claims , partially offset by increased reserve builds of $ 28 million .",
+      "assets decreased 40% ( 40 % ) versus the prior year , mostly driven by the sales of nikko cordial securities and nikko asset management ( $ 25 billion ) and the managed futures business ( $ 1.4 billion ) , partially offset by increased smith barney assets of $ 4 billion .",
+      "2008 vs .",
+      "2007 revenues , net of interest expense decreased 21% ( 21 % ) from the prior year primarily due to lower transactional and investment revenues in smith barney , lower revenues in nikko asset management and higher markdowns in retail alternative investments .",
+      "operating expenses increased 16% ( 16 % ) versus the prior year , mainly driven by a $ 0.9 billion intangible impairment in nikko asset management in the fourth quarter of 2008 , $ 0.2 billion of restructuring charges and $ 0.5 billion of write-downs and other charges .",
+      "provisions for loan losses and for benefits and claims increased $ 65 million compared to the prior year , mainly due to a $ 52 million increase in provisions for benefits and claims .",
+      "assets increased 4% ( 4 % ) versus the prior year. ."
+    ],
+    "table": [
+      [
+        "in millions of dollars",
+        "2009",
+        "2008",
+        "2007",
+        "% (  % ) change 2009 vs . 2008",
+        "% (  % ) change 2008 vs . 2007"
+      ],
+      [
+        "net interest revenue",
+        "$ 432",
+        "$ 1224",
+        "$ 908",
+        "( 65 ) % (  % )",
+        "35% ( 35 % )"
+      ],
+      [
+        "non-interest revenue",
+        "14703",
+        "7199",
+        "9751",
+        "nm",
+        "-26 ( 26 )"
+      ],
+      [
+        "total revenues net of interest expense",
+        "$ 15135",
+        "$ 8423",
+        "$ 10659",
+        "80% ( 80 % )",
+        "( 21 ) % (  % )"
+      ],
+      [
+        "total operating expenses",
+        "$ 3350",
+        "$ 9236",
+        "$ 7960",
+        "( 64 ) % (  % )",
+        "16% ( 16 % )"
+      ],
+      [
+        "net credit losses",
+        "$ 3",
+        "$ 10",
+        "$ 2014",
+        "( 70 ) % (  % )",
+        "2014"
+      ],
+      [
+        "credit reserve build/ ( release )",
+        "36",
+        "8",
+        "4",
+        "nm",
+        "100% ( 100 % )"
+      ],
+      [
+        "provision for unfunded lending commitments",
+        "-5 ( 5 )",
+        "2014",
+        "2014",
+        "2014",
+        "2014"
+      ],
+      [
+        "provision for benefits and claims",
+        "$ 155",
+        "$ 205",
+        "$ 154",
+        "( 24 ) % (  % )",
+        "33% ( 33 % )"
+      ],
+      [
+        "provisions for loan losses and for benefits and claims",
+        "$ 189",
+        "$ 223",
+        "$ 158",
+        "( 15 ) % (  % )",
+        "41% ( 41 % )"
+      ],
+      [
+        "income ( loss ) from continuing operations before taxes",
+        "$ 11596",
+        "$ -1036 ( 1036 )",
+        "$ 2541",
+        "nm",
+        "nm"
+      ],
+      [
+        "income taxes ( benefits )",
+        "4489",
+        "-272 ( 272 )",
+        "834",
+        "nm",
+        "nm"
+      ],
+      [
+        "income ( loss ) from continuing operations",
+        "$ 7107",
+        "$ -764 ( 764 )",
+        "$ 1707",
+        "nm",
+        "nm"
+      ],
+      [
+        "net income ( loss ) attributable to noncontrolling interests",
+        "12",
+        "-179 ( 179 )",
+        "35",
+        "nm",
+        "nm"
+      ],
+      [
+        "net income ( loss )",
+        "$ 7095",
+        "$ -585 ( 585 )",
+        "$ 1672",
+        "nm",
+        "nm"
+      ],
+      [
+        "eop assets ( in billions of dollars )",
+        "$ 35",
+        "$ 58",
+        "$ 56",
+        "( 40 ) % (  % )",
+        "4% ( 4 % )"
+      ],
+      [
+        "eop deposits ( in billions of dollars )",
+        "60",
+        "58",
+        "46",
+        "3",
+        "26"
+      ]
+    ],
+    "questions": [
+      "what was the percentage of non-interest revenue out of the total revenues net of interest expense in 2009?",
+      "and in 2007?"
+    ]
+  }
+}

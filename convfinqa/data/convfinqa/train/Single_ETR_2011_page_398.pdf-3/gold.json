@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the system energy 2019s receivables from the money pool in 2011?",
+      "answer": 120424.0,
+      "answer_raw": "120424.0",
+      "program": "120424"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2010?",
+      "answer": 97948.0,
+      "answer_raw": "97948.0",
+      "program": "97948"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total for 2010 and 2011?",
+      "answer": 218372.0,
+      "answer_raw": "218372.0",
+      "program": "add(120424, 97948)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about the system energy 2019s receivables from the money pool in 2009?",
+      "answer": 90507.0,
+      "answer_raw": "90507.0",
+      "program": "90507"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what about the total from 2009 to 2011?",
+      "answer": 308879.0,
+      "answer_raw": "308879.0",
+      "program": "add(120424, 97948), add(#0, 90507)"
+    }
+  ]
+}

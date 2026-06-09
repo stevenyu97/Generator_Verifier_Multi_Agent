@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the years 2015-2016 , what was the average cash paid for income taxes?",
+      "answer": 45.5,
+      "answer_raw": "45.5",
+      "program": "add(10.4, 80.6), divide(#0, const_2)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "between september 27 , 2008 and september 29 , 2007 how much in billions did the company 2019s cash , cash equivalents , and short- term investments held by foreign subsidiaries increase?",
+      "answer": 4.8,
+      "answer_raw": "4.8",
+      "program": "subtract(11.3, 6.5)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net income margin in 2013?",
+      "answer": 0.06638,
+      "answer_raw": "0.06638",
+      "program": "divide(2707, 40782)"
+    }
+  ]
+}

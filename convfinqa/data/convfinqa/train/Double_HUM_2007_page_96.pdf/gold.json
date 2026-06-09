@@ -1,0 +1,60 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in the year of 2007, what was the number of granted shares?",
+      "answer": 852353.0,
+      "answer_raw": "852353.0",
+      "program": "852353"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it for vested ones?",
+      "answer": 51206.0,
+      "answer_raw": "51206.0",
+      "program": "51206"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, did the granted number represent in relation to the vested one?",
+      "answer": 16.64557,
+      "answer_raw": "16.64557",
+      "program": "divide(852353, 51206)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in that same year, what was the fair value of these vested shares, in millions?",
+      "answer": 3.4,
+      "answer_raw": "3.4",
+      "program": "3.4"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what was it for 2005?",
+      "answer": 0.6,
+      "answer_raw": "0.6",
+      "program": "0.6"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what was, then, the total combined fair value for both years, in millions?",
+      "answer": 4.0,
+      "answer_raw": "4.0",
+      "program": "add(3.4, 0.6)"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "including 2006, what becomes this total?",
+      "answer": 6.3,
+      "answer_raw": "6.3",
+      "program": "add(3.4, 0.6), add(#0, 2.3)"
+    },
+    {
+      "line_id": "turn_7",
+      "question": "and what was, in millions, the average between the three years?",
+      "answer": 2.1,
+      "answer_raw": "2.1",
+      "program": "add(3.4, 0.6), add(#0, 2.3), divide(#1, const_3)"
+    }
+  ]
+}

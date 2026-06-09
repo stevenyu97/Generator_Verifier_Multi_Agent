@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "corporate and other expenses were what percent of the total capital investment and exploration spending budget?",
+      "answer": 0.01785,
+      "answer_raw": "0.01785",
+      "program": "divide(105, 5882)"
+    }
+  ]
+}

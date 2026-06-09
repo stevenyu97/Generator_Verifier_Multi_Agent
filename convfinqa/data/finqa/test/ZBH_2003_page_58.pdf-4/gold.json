@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in inventories net in millions between 2002 and 2003?",
+      "answer": 270.1,
+      "answer_raw": "270.1",
+      "program": "subtract(527.7, 257.6)"
+    }
+  ]
+}

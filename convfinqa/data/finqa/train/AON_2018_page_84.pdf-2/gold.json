@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between the statutory tax rate and the effective tax rate for international operations in 2018?",
+      "answer": 0.172,
+      "answer_raw": "0.172",
+      "program": "subtract(36.5%, 19.3%)"
+    }
+  ]
+}

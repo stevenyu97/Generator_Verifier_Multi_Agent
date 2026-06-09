@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total number of issues securities is not approved by security holders?",
+      "answer": 0.18357,
+      "answer_raw": "0.18357",
+      "program": "divide(863604, 4704612)"
+    }
+  ]
+}

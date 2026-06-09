@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of major manufacturing sites are in europe middle east& africa?",
+      "answer": 0.38889,
+      "answer_raw": "0.38889",
+      "program": "divide(49, 126)"
+    }
+  ]
+}

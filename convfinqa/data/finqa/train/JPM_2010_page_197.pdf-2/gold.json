@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the maximum amount of credit risk booked in the last four years , in billions?",
+      "answer": 80481.0,
+      "answer_raw": "80481.0",
+      "program": "table_max(carrying value onconsolidated balancesheets, none)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "between the years of 2017 and 2018, what was the variation observed in the total gross amount of unrecognized tax benefits?",
+      "answer": 23207.0,
+      "answer_raw": "23207.0",
+      "program": "subtract(196152, 172945)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that total gross amount in 2017?",
+      "answer": 172945.0,
+      "answer_raw": "172945.0",
+      "program": "172945"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage, then, of this amount did that variation represent?",
+      "answer": 0.13419,
+      "answer_raw": "0.13419",
+      "program": "subtract(196152, 172945), divide(#0, 172945)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and concerning the valuation allowance in that last year, what was its change in the fiscal period?",
+      "answer": 80.9,
+      "answer_raw": "80.9",
+      "program": "80.9"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what percent of this change was due to settlements with taxing authorities?",
+      "answer": 0.0,
+      "answer_raw": "0.0",
+      "program": "divide(0, 80.9)"
+    }
+  ]
+}

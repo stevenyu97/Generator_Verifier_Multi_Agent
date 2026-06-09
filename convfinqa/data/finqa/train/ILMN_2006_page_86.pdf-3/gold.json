@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the growth in the revenues from 2005 to 2006",
+      "answer": 0.45308,
+      "answer_raw": "0.45308",
+      "program": "subtract(73501, 50583), divide(#0, 50583)"
+    }
+  ]
+}

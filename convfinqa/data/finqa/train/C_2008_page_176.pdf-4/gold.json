@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the junior subordinated debt . long-term debt of 2007 to 2008",
+      "answer": 0.98736,
+      "answer_raw": "0.98736",
+      "program": "divide(23756, 24060)"
+    }
+  ]
+}

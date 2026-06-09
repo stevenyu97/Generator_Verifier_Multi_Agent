@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "HOLX/2009/page_133.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents hologic , inc .",
+      "notes to consolidated financial statements ( continued ) ( in thousands , except per share data ) the acquisition also provides for up to two annual earn-out payments not to exceed $ 15000 in the aggregate based on biolucent 2019s achievement of certain revenue targets .",
+      "the company considered the provision of eitf 95-8 , and concluded that this contingent consideration represents additional purchase price .",
+      "as a result , goodwill will be increased by the amount of the additional consideration , if any , as it is earned .",
+      "as of september 26 , 2009 , the company has not recorded any amounts for these potential earn-outs .",
+      "the allocation of the purchase price was based upon estimates of the fair value of assets acquired and liabilities assumed as of september 18 , 2007 .",
+      "the components and allocation of the purchase price consisted of the following approximate amounts: ."
+    ],
+    "post_text": [
+      "as part of the purchase price allocation , all intangible assets that were a part of the acquisition were identified and valued .",
+      "it was determined that only customer relationship , trade name and developed technology had separately identifiable values .",
+      "the fair value of these intangible assets was determined through the application of the income approach .",
+      "customer relationship represented a large customer base that was expected to purchase the disposable mammopad product on a regular basis .",
+      "trade name represented the biolucent product name that the company intended to continue to use .",
+      "developed technology represented currently marketable purchased products that the company continues to sell as well as utilize to enhance and incorporate into the company 2019s existing products .",
+      "the deferred income tax liability relates to the tax effect of acquired identifiable intangible assets and fair value adjustments to acquired inventory , as such amounts are not deductible for tax purposes , partially offset by acquired net operating loss carryforwards of approximately $ 2400 .",
+      "4 .",
+      "sale of gestiva on january 16 , 2008 , the company entered into a definitive agreement pursuant to which it agreed to sell full u.s .",
+      "and world-wide rights to gestiva to k-v pharmaceutical company upon approval of the pending gestiva new drug application ( the 201cgestiva nda 201d ) by the fda for a purchase price of $ 82000 .",
+      "the company received $ 9500 of the purchase price in fiscal 2008 , and the balance is due upon final approval of the gestiva nda by the fda on or before february 19 , 2010 and the production of a quantity of gestiva suitable to enable the commercial launch of the product .",
+      "either party has the right to terminate the agreement if fda approval is not obtained by february 19 , 2010 .",
+      "the company agreed to continue its efforts to obtain fda approval of the nda for gestiva as part of this arrangement .",
+      "all costs incurred in these efforts will be reimbursed by k-v pharmaceutical and are being recorded as a credit against research and development expenses .",
+      "during fiscal 2009 and 2008 , these reimbursed costs were not material .",
+      "the company recorded the $ 9500 as a deferred gain within current liabilities in the consolidated balance sheet .",
+      "the company expects that the gain will be recognized upon the closing of the transaction following final fda approval of the gestiva nda or if the agreement is terminated .",
+      "the company cannot assure that it will be able to obtain the requisite fda approval , that the transaction will be completed or that it will receive the balance of the purchase price .",
+      "moreover , if k-v pharmaceutical terminates the agreement as a result of a breach by the company of a material representation , warranty , covenant or agreement , the company will be required to return the funds previously received as well as expenses reimbursed by k-v .",
+      "source : hologic inc , 10-k , november 24 , 2009 powered by morningstar ae document research 2120 the information contained herein may not be copied , adapted or distributed and is not warranted to be accurate , complete or timely .",
+      "the user assumes all risks for any damages or losses arising from any use of this information , except to the extent such damages or losses cannot be limited or excluded by applicable law .",
+      "past financial performance is no guarantee of future results. ."
+    ],
+    "table": [
+      [
+        "net tangible assets acquired as of september 18 2007",
+        "$ 2800"
+      ],
+      [
+        "developed technology and know how",
+        "12300"
+      ],
+      [
+        "customer relationship",
+        "17000"
+      ],
+      [
+        "trade name",
+        "2800"
+      ],
+      [
+        "deferred income tax liabilities net",
+        "-9500 ( 9500 )"
+      ],
+      [
+        "goodwill",
+        "47800"
+      ],
+      [
+        "final purchase price",
+        "$ 73200"
+      ]
+    ],
+    "questions": [
+      "what portion of the final purchase price is related to developed technology?"
+    ]
+  }
+}

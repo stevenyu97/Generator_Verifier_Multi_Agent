@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the senior fixed-rate in 2013?",
+      "answer": 0.0275,
+      "answer_raw": "0.0275",
+      "program": "2.75%"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the sum of the number one and this percentage as a portion of the number one?",
+      "answer": 1.0275,
+      "answer_raw": "1.0275",
+      "program": "add(const_1, 2.75%)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "considering that this senior fixed rate accumulates on top of the previous one, what will be its total cumulative value at the end of ten years?",
+      "answer": 1.31165,
+      "answer_raw": "1.31165",
+      "program": "add(const_1, 2.75%), exp(#0, const_10)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the issued amount in 2013?",
+      "answer": 400.0,
+      "answer_raw": "400.0",
+      "program": "400.0"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what, then, is going to be the total matured value of this amount at the end of those ten years, considering the cumulative senior fixed rate?",
+      "answer": 524.66041,
+      "answer_raw": "524.66041",
+      "program": "add(const_1, 2.75%), exp(#0, const_10), multiply(400.0, #1)"
+    }
+  ]
+}

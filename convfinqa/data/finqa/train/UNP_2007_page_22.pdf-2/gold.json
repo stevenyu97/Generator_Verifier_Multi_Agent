@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what the percent of the total number of shares purchased in the fourth quarter of 2007 that was attested to upc by employees to pay stock option exercise prices",
+      "answer": 0.08695,
+      "answer_raw": "0.08695",
+      "program": "divide(228354, 2626154)"
+    }
+  ]
+}

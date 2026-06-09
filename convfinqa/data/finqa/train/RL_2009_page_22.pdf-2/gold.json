@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of factory retail stores as of march 28 , 2009 were located in the europe?",
+      "answer": 0.1411,
+      "answer_raw": "0.1411",
+      "program": "divide(23, 163)"
+    }
+  ]
+}

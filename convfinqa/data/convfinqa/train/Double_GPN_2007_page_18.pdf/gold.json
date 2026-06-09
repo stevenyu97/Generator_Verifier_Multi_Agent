@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the portion of total revenues in 2006 made up of merchant services?",
+      "answer": 0.86834,
+      "answer_raw": "0.86834",
+      "program": "divide(788500, 908056)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2007?",
+      "answer": 0.87529,
+      "answer_raw": "0.87529",
+      "program": "divide(929142, 1061523)"
+    }
+  ]
+}

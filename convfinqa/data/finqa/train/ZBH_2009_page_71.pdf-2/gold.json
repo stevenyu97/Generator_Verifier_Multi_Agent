@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the expense related to severance and other employee termination-related costs as a percentage of the acquisition integration realignment and other expenses in 2009?",
+      "answer": 0.25232,
+      "answer_raw": "0.25232",
+      "program": "divide(19.0, 75.3)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the growth rate of the removal costs from 2014 to 2015",
+      "answer": 0.03322,
+      "answer_raw": "0.03322",
+      "program": "subtract(311, 301), divide(#0, 301)"
+    }
+  ]
+}

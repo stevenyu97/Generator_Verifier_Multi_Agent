@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2012 , what percent of the home equity lines of credit interest only product was due to home equity lines of credit with balloon payments?",
+      "answer": 0.3385,
+      "answer_raw": "0.3385",
+      "program": "divide(306, 904)"
+    }
+  ]
+}

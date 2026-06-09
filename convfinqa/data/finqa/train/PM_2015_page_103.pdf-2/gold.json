@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in cash payments related to exit costs at pmi from 2014 to 2015 in millions?",
+      "answer": -128.0,
+      "answer_raw": "-128.0",
+      "program": "subtract(232, 360)"
+    }
+  ]
+}

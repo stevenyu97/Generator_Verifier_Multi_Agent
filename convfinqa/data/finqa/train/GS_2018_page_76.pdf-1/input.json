@@ -1,0 +1,92 @@
+{
+  "input": {
+    "id": "GS/2018/page_76.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the goldman sachs group , inc .",
+      "and subsidiaries management 2019s discussion and analysis net revenues in equities were $ 6.60 billion , 4% ( 4 % ) lower than 2016 , primarily due to lower commissions and fees , reflecting a decline in our listed cash equity volumes in the u.s .",
+      "market volumes in the u.s .",
+      "also declined .",
+      "in addition , net revenues in equities client execution were lower , reflecting lower net revenues in derivatives , partially offset by higher net revenues in cash products .",
+      "net revenues in securities services were essentially unchanged .",
+      "operating expenses were $ 9.69 billion for 2017 , essentially unchanged compared with 2016 , due to decreased compensation and benefits expenses , reflecting lower net revenues , largely offset by increased technology expenses , reflecting higher expenses related to cloud-based services and software depreciation , and increased consulting costs .",
+      "pre-tax earnings were $ 2.21 billion in 2017 , 54% ( 54 % ) lower than 2016 .",
+      "investing & lending investing & lending includes our investing activities and the origination of loans , including our relationship lending activities , to provide financing to clients .",
+      "these investments and loans are typically longer-term in nature .",
+      "we make investments , some of which are consolidated , including through our merchant banking business and our special situations group , in debt securities and loans , public and private equity securities , infrastructure and real estate entities .",
+      "some of these investments are made indirectly through funds that we manage .",
+      "we also make unsecured loans through our digital platform , marcus : by goldman sachs and secured loans through our digital platform , goldman sachs private bank select .",
+      "the table below presents the operating results of our investing & lending segment. ."
+    ],
+    "post_text": [
+      "operating environment .",
+      "during 2018 , our investments in private equities benefited from company-specific events , including sales , and strong corporate performance , while investments in public equities reflected losses , as global equity prices generally decreased .",
+      "results for our investments in debt securities and loans reflected continued growth in loans receivables , resulting in higher net interest income .",
+      "if macroeconomic concerns negatively affect corporate performance or the origination of loans , or if global equity prices continue to decline , net revenues in investing & lending would likely be negatively impacted .",
+      "during 2017 , generally higher global equity prices and tighter credit spreads contributed to a favorable environment for our equity and debt investments .",
+      "results also reflected net gains from company-specific events , including sales , and corporate performance .",
+      "2018 versus 2017 .",
+      "net revenues in investing & lending were $ 8.25 billion for 2018 , 14% ( 14 % ) higher than 2017 .",
+      "net revenues in equity securities were $ 4.46 billion , 3% ( 3 % ) lower than 2017 , reflecting net losses from investments in public equities ( 2018 included $ 183 million of net losses ) compared with net gains in the prior year , partially offset by significantly higher net gains from investments in private equities ( 2018 included $ 4.64 billion of net gains ) , driven by company-specific events , including sales , and corporate performance .",
+      "for 2018 , 60% ( 60 % ) of the net revenues in equity securities were generated from corporate investments and 40% ( 40 % ) were generated from real estate .",
+      "net revenues in debt securities and loans were $ 3.80 billion , 43% ( 43 % ) higher than 2017 , primarily driven by significantly higher net interest income .",
+      "2018 included net interest income of approximately $ 2.70 billion compared with approximately $ 1.80 billion in 2017 .",
+      "provision for credit losses was $ 674 million for 2018 , compared with $ 657 million for 2017 , as the higher provision for credit losses primarily related to consumer loan growth in 2018 was partially offset by an impairment of approximately $ 130 million on a secured loan in 2017 .",
+      "operating expenses were $ 3.37 billion for 2018 , 20% ( 20 % ) higher than 2017 , primarily due to increased expenses related to consolidated investments and our digital lending and deposit platform , and increased compensation and benefits expenses , reflecting higher net revenues .",
+      "pre-tax earnings were $ 4.21 billion in 2018 , 11% ( 11 % ) higher than 2017 versus 2016 .",
+      "net revenues in investing & lending were $ 7.24 billion for 2017 , 70% ( 70 % ) higher than 2016 .",
+      "net revenues in equity securities were $ 4.58 billion , 78% ( 78 % ) higher than 2016 , primarily reflecting a significant increase in net gains from private equities ( 2017 included $ 3.82 billion of net gains ) , which were positively impacted by company-specific events and corporate performance .",
+      "in addition , net gains from public equities ( 2017 included $ 762 million of net gains ) were significantly higher , as global equity prices increased during the year .",
+      "for 2017 , 64% ( 64 % ) of the net revenues in equity securities were generated from corporate investments and 36% ( 36 % ) were generated from real estate .",
+      "net revenues in debt securities and loans were $ 2.66 billion , 57% ( 57 % ) higher than 2016 , reflecting significantly higher net interest income ( 2017 included approximately $ 1.80 billion of net interest income ) .",
+      "60 goldman sachs 2018 form 10-k ."
+    ],
+    "table": [
+      [
+        "$ in millions",
+        "year ended december 2018",
+        "year ended december 2017",
+        "year ended december 2016"
+      ],
+      [
+        "equity securities",
+        "$ 4455",
+        "$ 4578",
+        "$ 2573"
+      ],
+      [
+        "debt securities and loans",
+        "3795",
+        "2660",
+        "1689"
+      ],
+      [
+        "total net revenues",
+        "8250",
+        "7238",
+        "4262"
+      ],
+      [
+        "provision for credit losses",
+        "674",
+        "657",
+        "182"
+      ],
+      [
+        "operating expenses",
+        "3365",
+        "2796",
+        "2386"
+      ],
+      [
+        "pre-taxearnings",
+        "$ 4211",
+        "$ 3785",
+        "$ 1694"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in total net revenue in 2018?"
+    ]
+  }
+}

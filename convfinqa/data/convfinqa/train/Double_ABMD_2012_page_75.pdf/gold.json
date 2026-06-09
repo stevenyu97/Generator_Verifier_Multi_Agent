@@ -1,0 +1,53 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total value of the granted shares in 2012, in thousands of dollars?",
+      "answer": 11004.91,
+      "answer_raw": "11004.91",
+      "program": "multiply(607, 18.13)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much is that in dollars?",
+      "answer": 11004910.0,
+      "answer_raw": "11004910.0",
+      "program": "multiply(607, 18.13), multiply(#0, const_1000)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "in that same year, what was the amount of the equity awards in which the prescribed performance milestones were achieved, also in dollars?",
+      "answer": 3300000.0,
+      "answer_raw": "3300000.0",
+      "program": "multiply(607, 18.13), multiply(#0, const_1000), multiply(3.3, const_1000000)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "which one, then, is greater: the value of these equity awards or of those granted shares?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "multiply(607, 18.13), multiply(#0, const_1000), multiply(3.3, const_1000000), greater(#1, #2)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "still in 2012, what was the full amount of equity awards where the performance criteria has been met, in dollars?",
+      "answer": 3600000.0,
+      "answer_raw": "3600000.0",
+      "program": "multiply(3.6, const_1000000)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and what is the weighted-average period over which this cost will be recognized, in years?",
+      "answer": 2.1,
+      "answer_raw": "2.1",
+      "program": "2.1"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "what is, then, the average compensation expense per year?",
+      "answer": 1714285.71429,
+      "answer_raw": "1714285.71429",
+      "program": "multiply(3.6, const_1000000), divide(#0, 2.1)"
+    }
+  ]
+}

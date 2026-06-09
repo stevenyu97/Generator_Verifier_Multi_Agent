@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the years 2011-2013 , what is the average capital expenditure on a gaap basis?",
+      "answer": 1891.16667,
+      "answer_raw": "1891.16667",
+      "program": "table_average(capital expenditures on a gaap basis, none)"
+    }
+  ]
+}

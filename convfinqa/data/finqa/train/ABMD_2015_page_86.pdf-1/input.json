@@ -1,0 +1,42 @@
+{
+  "input": {
+    "id": "ABMD/2015/page_86.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "abiomed , inc .",
+      "and subsidiaries notes to consolidated financial statements 2014 ( continued ) note 3 .",
+      "acquisitions ( continued ) including the revenues of third-party licensees , or ( ii ) the company 2019s sale of ( a ) ecp , ( b ) all or substantially all of ecp 2019s assets , or ( c ) certain of ecp 2019s patent rights , the company will pay to syscore the lesser of ( x ) one-half of the profits earned from such sale described in the foregoing item ( ii ) , after accounting for the costs of acquiring and operating ecp , or ( y ) $ 15.0 million ( less any previous milestone payment ) .",
+      "ecp 2019s acquisition of ais gmbh aachen innovative solutions in connection with the company 2019s acquisition of ecp , ecp acquired all of the share capital of ais gmbh aachen innovative solutions ( 201cais 201d ) , a limited liability company incorporated in germany , pursuant to a share purchase agreement dated as of june 30 , 2014 , by and among ecp and ais 2019s four individual shareholders .",
+      "ais , based in aachen , germany , holds certain intellectual property useful to ecp 2019s business , and , prior to being acquired by ecp , had licensed such intellectual property to ecp .",
+      "the purchase price for the acquisition of ais 2019s share capital was approximately $ 2.8 million in cash , which was provided by the company , and the acquisition closed immediately prior to abiomed europe 2019s acquisition of ecp .",
+      "the share purchase agreement contains representations , warranties and closing conditions customary for transactions of its size and nature .",
+      "purchase price allocation the acquisition of ecp and ais was accounted for as a business combination .",
+      "the purchase price for the acquisition has been allocated to the assets acquired and liabilities assumed based on their estimated fair values .",
+      "the acquisition-date fair value of the consideration transferred is as follows : acquisition date fair value ( in thousands ) ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "total acquisition date fair value ( in thousands )"
+      ],
+      [
+        "cash consideration",
+        "$ 15750"
+      ],
+      [
+        "contingent consideration",
+        "6000"
+      ],
+      [
+        "total consideration transferred",
+        "$ 21750"
+      ]
+    ],
+    "questions": [
+      "for the ecp and ais transactions , what portion of the total consideration was paid immediately in cash?"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of the total network route miles that is owned by the company?",
+      "answer": 0.81072,
+      "answer_raw": "0.81072",
+      "program": "divide(26042, 32122)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2017, what was the percentage of the total operating revenues that was due to industrial products?",
+      "answer": 0.192,
+      "answer_raw": "0.192",
+      "program": "divide(4078, 21240)"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "Double_AAPL/2012/page_24.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "company stock performance the following graph shows a five-year comparison of cumulative total shareholder return , calculated on a dividend reinvested basis , for the company , the s&p 500 composite index , the s&p computer hardware index , and the dow jones u.s .",
+      "technology index .",
+      "the graph assumes $ 100 was invested in each of the company 2019s common stock , the s&p 500 composite index , the s&p computer hardware index , and the dow jones u.s .",
+      "technology index as of the market close on september 30 , 2007 .",
+      "data points on the graph are annual .",
+      "note that historic stock price performance is not necessarily indicative of future stock price performance .",
+      "sep-11sep-10sep-09sep-08sep-07 sep-12 apple inc .",
+      "s&p 500 s&p computer hardware dow jones us technology comparison of 5 year cumulative total return* among apple inc. , the s&p 500 index , the s&p computer hardware index , and the dow jones us technology index *$ 100 invested on 9/30/07 in stock or index , including reinvestment of dividends .",
+      "fiscal year ending september 30 .",
+      "copyright a9 2012 s&p , a division of the mcgraw-hill companies inc .",
+      "all rights reserved .",
+      "september 30 , september 30 , september 30 , september 30 , september 30 , september 30 ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "september 30 2007",
+        "september 30 2008",
+        "september 30 2009",
+        "september 30 2010",
+        "september 30 2011",
+        "september 30 2012"
+      ],
+      [
+        "apple inc .",
+        "$ 100",
+        "$ 74",
+        "$ 121",
+        "$ 185",
+        "$ 248",
+        "$ 437"
+      ],
+      [
+        "s&p 500",
+        "$ 100",
+        "$ 78",
+        "$ 73",
+        "$ 80",
+        "$ 81",
+        "$ 105"
+      ],
+      [
+        "s&p computer hardware",
+        "$ 100",
+        "$ 84",
+        "$ 99",
+        "$ 118",
+        "$ 134",
+        "$ 214"
+      ],
+      [
+        "dow jones us technology",
+        "$ 100",
+        "$ 76",
+        "$ 85",
+        "$ 95",
+        "$ 98",
+        "$ 127"
+      ]
+    ],
+    "questions": [
+      "what was the change in the performance price of the apple inc . from 2007 to 2012?",
+      "and how much did this change represent in relation to that performance price in 2007?",
+      "in that same period, what was that change for the s&p 500?"
+    ]
+  }
+}

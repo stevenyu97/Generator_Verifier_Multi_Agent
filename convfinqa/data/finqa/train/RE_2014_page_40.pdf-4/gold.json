@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the accumulated pre-tax catastrophe losses from 2010 to 2013 in millions",
+      "answer": 2476.5,
+      "answer_raw": "2476.5",
+      "program": "add(571.1, 1300.4), add(#0, 410.0), add(#1, 195.0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average balance of the end of year valuation allowance from 2010-2012",
+      "answer": 238.2,
+      "answer_raw": "238.2",
+      "program": "add(118.1, 120.1)"
+    }
+  ]
+}

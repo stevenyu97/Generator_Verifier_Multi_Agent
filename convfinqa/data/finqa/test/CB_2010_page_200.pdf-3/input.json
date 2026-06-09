@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "CB/2010/page_200.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "n o t e s t o t h e c o n s o l i d a t e d f i n a n c i a l s t a t e m e n t s 2013 ( continued ) ace limited and subsidiaries excluded from adjusted weighted-average shares outstanding and assumed conversions is the impact of securities that would have been anti-dilutive during the respective years .",
+      "for the years ended december 31 , 2010 , 2009 , and 2008 , the potential anti-dilutive share conversions were 256868 shares , 1230881 shares , and 638401 shares , respectively .",
+      "19 .",
+      "related party transactions the ace foundation 2013 bermuda is an unconsolidated not-for-profit organization whose primary purpose is to fund charitable causes in bermuda .",
+      "the trustees are principally comprised of ace management .",
+      "the company maintains a non-interest bear- ing demand note receivable from the ace foundation 2013 bermuda , the balance of which was $ 30 million and $ 31 million , at december 31 , 2010 and 2009 , respectively .",
+      "the receivable is included in other assets in the accompanying consolidated balance sheets .",
+      "the borrower has used the related proceeds to finance investments in bermuda real estate , some of which have been rented to ace employees at rates established by independent , professional real estate appraisers .",
+      "the borrower uses income from the investments to both repay the note and to fund charitable activities .",
+      "accordingly , the company reports the demand note at the lower of its principal value or the fair value of assets held by the borrower to repay the loan , including the real estate properties .",
+      "20 .",
+      "statutory financial information the company 2019s insurance and reinsurance subsidiaries are subject to insurance laws and regulations in the jurisdictions in which they operate .",
+      "these regulations include restrictions that limit the amount of dividends or other distributions , such as loans or cash advances , available to shareholders without prior approval of the insurance regulatory authorities .",
+      "there are no statutory restrictions on the payment of dividends from retained earnings by any of the bermuda subsidiaries as the minimum statutory capital and surplus requirements are satisfied by the share capital and additional paid-in capital of each of the bermuda subsidiaries .",
+      "the company 2019s u.s .",
+      "subsidiaries file financial statements prepared in accordance with statutory accounting practices prescribed or permitted by insurance regulators .",
+      "statutory accounting differs from gaap in the reporting of certain reinsurance contracts , investments , subsidiaries , acquis- ition expenses , fixed assets , deferred income taxes , and certain other items .",
+      "the statutory capital and surplus of the u.s .",
+      "subsidiaries met regulatory requirements for 2010 , 2009 , and 2008 .",
+      "the amount of dividends available to be paid in 2011 , without prior approval from the state insurance departments , totals $ 850 million .",
+      "the following table presents the combined statutory capital and surplus and statutory net income of the bermuda and u.s .",
+      "subsidiaries at and for the years ended december 31 , 2010 , 2009 , and 2008. ."
+    ],
+    "post_text": [
+      "as permitted by the restructuring discussed previously in note 7 , certain of the company 2019s u.s .",
+      "subsidiaries discount certain a&e liabilities , which increased statutory capital and surplus by approximately $ 206 million , $ 215 million , and $ 211 million at december 31 , 2010 , 2009 , and 2008 , respectively .",
+      "the company 2019s international subsidiaries prepare statutory financial statements based on local laws and regulations .",
+      "some jurisdictions impose complex regulatory requirements on insurance companies while other jurisdictions impose fewer requirements .",
+      "in some countries , the company must obtain licenses issued by governmental authorities to conduct local insurance business .",
+      "these licenses may be subject to reserves and minimum capital and solvency tests .",
+      "jurisdictions may impose fines , censure , and/or criminal sanctions for violation of regulatory requirements. ."
+    ],
+    "table": [
+      [
+        "( in millions of u.s . dollars )",
+        "bermuda subsidiaries 2010",
+        "bermuda subsidiaries 2009",
+        "bermuda subsidiaries 2008",
+        "bermuda subsidiaries 2010",
+        "bermuda subsidiaries 2009",
+        "2008"
+      ],
+      [
+        "statutory capital and surplus",
+        "$ 11798",
+        "$ 9164",
+        "$ 6205",
+        "$ 6266",
+        "$ 5885",
+        "$ 5368"
+      ],
+      [
+        "statutory net income",
+        "$ 2430",
+        "$ 2369",
+        "$ 2196",
+        "$ 1047",
+        "$ 904",
+        "$ 818"
+      ]
+    ],
+    "questions": [
+      "what was the average potential anti-dilutive share conversions from 2008 to 2010"
+    ]
+  }
+}

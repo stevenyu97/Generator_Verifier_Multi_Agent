@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the review of the table what was the net change in the restructuring charg- in millions severance and other in millions",
+      "answer": -18.0,
+      "answer_raw": "-18.0",
+      "program": "subtract(2, 20)"
+    }
+  ]
+}

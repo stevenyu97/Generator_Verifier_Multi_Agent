@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if the 2003 growth rate is the same as 2002 , what would 2003 gas transmission throughput be in bcf?\\\\n",
+      "answer": 644.5009,
+      "answer_raw": "644.5009",
+      "program": "divide(597, 553), multiply(#0, 597)"
+    }
+  ]
+}

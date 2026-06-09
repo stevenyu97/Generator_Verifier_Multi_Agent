@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total operating expenses in 2018 in millions",
+      "answer": 41932.20339,
+      "answer_raw": "41932.20339",
+      "program": "divide(9896, 23.6%)"
+    }
+  ]
+}

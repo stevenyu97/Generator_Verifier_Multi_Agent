@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "ABMD/2009/page_88.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "abiomed , inc .",
+      "and subsidiaries notes to consolidated financial statements 2014 ( continued ) note 14 .",
+      "income taxes ( continued ) on april 1 , 2007 , the company adopted financial interpretation fin no .",
+      "48 , accounting for uncertainty in income taxes 2014an interpretation of fasb statement no .",
+      "109 ( 201cfin no .",
+      "48 201d ) , which clarifies the accounting for uncertainty in income taxes recognized in an enterprise 2019s financial statements in accordance with fasb statement no .",
+      "109 , accounting for income taxes .",
+      "fin no .",
+      "48 prescribes a recognition threshold and measurement process for recording in the financial statements uncertain tax positions taken or expected to be taken in a tax return .",
+      "fin no .",
+      "48 also provides guidance on derecognition , classification , interest and penalties , accounting in interim periods , disclosure , and transition and defines the criteria that must be met for the benefits of a tax position to be recognized .",
+      "as a result of its adoption of fin no .",
+      "48 , the company recorded the cumulative effect of the change in accounting principle of $ 0.3 million as a decrease to opening retained earnings and an increase to other long-term liabilities as of april 1 , 2007 .",
+      "this adjustment related to state nexus for failure to file tax returns in various states for the years ended march 31 , 2003 , 2004 , and 2005 .",
+      "the company initiated a voluntary disclosure plan , which it completed in fiscal year 2009 .",
+      "the company elected to recognize interest and/or penalties related to income tax matters in income tax expense in its consolidated statements of operations .",
+      "as of march 31 , 2009 , the company had remitted all outstanding amounts owed to each of the states in connection with the outstanding taxes owed at march 31 , 2008 .",
+      "as such , the company had no fin no .",
+      "48 liability at march 31 , 2009 .",
+      "on a quarterly basis , the company accrues for the effects of uncertain tax positions and the related potential penalties and interest .",
+      "it is reasonably possible that the amount of the unrecognized tax benefit with respect to certain of the unrecognized tax positions will increase or decrease during the next 12 months ; however , it is not expected that the change will have a significant effect on the company 2019s results of operations or financial position .",
+      "a reconciliation of the beginning and ending balance of unrecognized tax benefits , excluding accrued interest recorded at march 31 , 2009 ( in thousands ) is as follows: ."
+    ],
+    "post_text": [
+      "the company and its subsidiaries are subject to u.s .",
+      "federal income tax , as well as income tax of multiple state and foreign jurisdictions .",
+      "the company has accumulated significant losses since its inception in 1981 .",
+      "all tax years remain subject to examination by major tax jurisdictions , including the federal government and the commonwealth of massachusetts .",
+      "however , since the company has net operating loss and tax credit carry forwards which may be utilized in future years to offset taxable income , those years may also be subject to review by relevant taxing authorities if the carry forwards are utilized .",
+      "note 15 .",
+      "commitments and contingencies the company 2019s acquisition of impella provided that abiomed was required to make contingent payments to impella 2019s former shareholders as follows : 2022 upon fda approval of the impella 2.5 device , a payment of $ 5583333 2022 upon fda approval of the impella 5.0 device , a payment of $ 5583333 , and 2022 upon the sale of 1000 units of impella 2019s products worldwide , a payment of $ 5583334 .",
+      "the two milestones related to sales and fda approval of the impella 2.5 device were achieved and paid prior to march 31 , 2009 .",
+      "in april 2009 , the company received fda 510 ( k ) clearance of its impella 5.0 product , triggering an obligation to pay the milestone related to the impella 5.0 device .",
+      "in may 2009 , the company paid $ 1.8 million of this final milestone in cash and elected to pay the remaining amount through the issuance of approximately 664612 shares of common stock. ."
+    ],
+    "table": [
+      [
+        "balance at march 31 2008",
+        "$ 168"
+      ],
+      [
+        "reductions for tax positions for closing of the applicable statute of limitations",
+        "-168 ( 168 )"
+      ],
+      [
+        "balance at march 31 2009",
+        "$ 2014"
+      ]
+    ],
+    "questions": [
+      "what are the total contingent payments relating to impella?"
+    ]
+  }
+}

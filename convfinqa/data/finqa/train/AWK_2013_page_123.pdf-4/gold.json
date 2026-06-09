@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of the discrete ax benefit as a part of the balance at december 312013",
+      "answer": 0.21977,
+      "answer_raw": "0.21977",
+      "program": "divide(2979, 13555)"
+    }
+  ]
+}

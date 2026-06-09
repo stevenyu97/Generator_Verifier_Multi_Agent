@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of existing technology among the total intangible assets?",
+      "answer": 0.65,
+      "answer_raw": "0.65",
+      "program": "divide(3.9, 6.0)"
+    }
+  ]
+}

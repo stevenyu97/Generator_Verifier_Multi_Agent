@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the one-time transition tax is due in les than one year?",
+      "answer": 0.08125,
+      "answer_raw": "0.08125",
+      "program": "divide(13, 160)"
+    }
+  ]
+}

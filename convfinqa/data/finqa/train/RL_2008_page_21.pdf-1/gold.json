@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the wholesale segment as of march 29 , 2008 doors was in the europe geography?",
+      "answer": 0.19202,
+      "answer_raw": "0.19202",
+      "program": "divide(2075, 10806)"
+    }
+  ]
+}

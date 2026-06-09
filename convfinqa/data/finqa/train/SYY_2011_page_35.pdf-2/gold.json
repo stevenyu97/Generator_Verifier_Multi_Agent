@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in percentage return of sysco corporation and the s&p 500 food/staple retail index for the five years ended 7/2/11?",
+      "answer": 0.0,
+      "answer_raw": "0.0",
+      "program": "subtract(120, 100), divide(#0, 100), subtract(120, 100), divide(#2, 100), subtract(#3, #3)"
+    }
+  ]
+}

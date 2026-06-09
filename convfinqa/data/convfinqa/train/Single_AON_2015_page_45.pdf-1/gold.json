@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the sum of working capital in 2014 and 2015?",
+      "answer": 1695.0,
+      "answer_raw": "1695.0",
+      "program": "add(809, 886)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the average value over those 2 years?",
+      "answer": 847.5,
+      "answer_raw": "847.5",
+      "program": "add(809, 886), divide(#0, const_2)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the percent of average working capital by total revenue in 2015?",
+      "answer": 8.76224,
+      "answer_raw": "8.76224",
+      "program": "add(809, 886), divide(#0, const_2), divide(7426, #1)"
+    }
+  ]
+}

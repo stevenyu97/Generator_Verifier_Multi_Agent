@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of future principal payments are due in 2009?",
+      "answer": 0.48148,
+      "answer_raw": "0.48148",
+      "program": "divide(52, 108)"
+    }
+  ]
+}

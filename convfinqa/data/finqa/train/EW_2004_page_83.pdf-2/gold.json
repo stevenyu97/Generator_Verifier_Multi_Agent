@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in total expense for all operating leases between 2003 and 2004?",
+      "answer": 0.13821,
+      "answer_raw": "0.13821",
+      "program": "subtract(14.0, 12.3), divide(#0, 12.3)"
+    }
+  ]
+}

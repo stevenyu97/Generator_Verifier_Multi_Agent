@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "CMCSA/2015/page_169.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "nbcuniversal media , llc our consolidated balance sheet also includes the assets and liabilities of certain legacy pension plans , as well as the assets and liabilities for pension plans of certain foreign subsidiaries .",
+      "as of december 31 , 2015 and 2014 , the benefit obligations associated with these plans exceeded the fair value of the plan assets by $ 67 million and $ 51 million , respectively .",
+      "other employee benefits deferred compensation plans we maintain unfunded , nonqualified deferred compensation plans for certain members of management ( each , a 201cparticipant 201d ) .",
+      "the amount of compensation deferred by each participant is based on participant elections .",
+      "participants in the plan designate one or more valuation funds , independently established funds or indices that are used to determine the amount of investment gain or loss in the participant 2019s account .",
+      "additionally , certain of our employees participate in comcast 2019s unfunded , nonqualified deferred compensa- tion plan .",
+      "the amount of compensation deferred by each participant is based on participant elections .",
+      "participant accounts are credited with income primarily based on a fixed annual rate .",
+      "in the case of both deferred compensation plans , participants are eligible to receive distributions from their account based on elected deferral periods that are consistent with the plans and applicable tax law .",
+      "the table below presents the benefit obligation and interest expense for our deferred compensation plans. ."
+    ],
+    "post_text": [
+      "retirement investment plans we sponsor several 401 ( k ) defined contribution retirement plans that allow eligible employees to contribute a portion of their compensation through payroll deductions in accordance with specified plan guidelines .",
+      "we make contributions to the plans that include matching a percentage of the employees 2019 contributions up to certain limits .",
+      "in 2015 , 2014 and 2013 , expenses related to these plans totaled $ 174 million , $ 165 million and $ 152 million , respectively .",
+      "multiemployer benefit plans we participate in various multiemployer benefit plans , including pension and postretirement benefit plans , that cover some of our employees and temporary employees who are represented by labor unions .",
+      "we also partic- ipate in other multiemployer benefit plans that provide health and welfare and retirement savings benefits to active and retired participants .",
+      "we make periodic contributions to these plans in accordance with the terms of applicable collective bargaining agreements and laws but do not sponsor or administer these plans .",
+      "we do not participate in any multiemployer benefit plans for which we consider our contributions to be individually significant , and the largest plans in which we participate are funded at a level of 80% ( 80 % ) or greater .",
+      "in 2015 , 2014 and 2013 , the total contributions we made to multiemployer pension plans were $ 77 million , $ 58 million and $ 59 million , respectively .",
+      "in 2015 , 2014 and 2013 , the total contributions we made to multi- employer postretirement and other benefit plans were $ 119 million , $ 125 million and $ 98 million , respectively .",
+      "if we cease to be obligated to make contributions or were to otherwise withdraw from participation in any of these plans , applicable law would require us to fund our allocable share of the unfunded vested benefits , which is known as a withdrawal liability .",
+      "in addition , actions taken by other participating employers may lead to adverse changes in the financial condition of one of these plans , which could result in an increase in our withdrawal liability .",
+      "comcast 2015 annual report on form 10-k 166 ."
+    ],
+    "table": [
+      [
+        "year ended december 31 ( in millions )",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "benefit obligation",
+        "$ 417",
+        "$ 349",
+        "$ 250"
+      ],
+      [
+        "interest expense",
+        "$ 28",
+        "$ 24",
+        "$ 18"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the excess of the benefits over their fair value in 2015 to 2014 as of december 31 , 2015 and 2014 , the benefit obligations associated with these plans exceeded the fair value of the plan assets by $ 67 million and $ 51 million , respectively ."
+    ]
+  }
+}

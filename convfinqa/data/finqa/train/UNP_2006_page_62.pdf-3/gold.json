@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total minimum lease payments are capital leases as of december 31 , 2006?",
+      "answer": 0.25987,
+      "answer_raw": "0.25987",
+      "program": "add(5457, 1916), divide(1916, #0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the total fee revenue in 2001 was from servicing fees?",
+      "answer": 0.57345,
+      "answer_raw": "0.57345",
+      "program": "divide(1624, 2832)"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "input": {
+    "id": "LMT/2012/page_29.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "issuer purchases of equity securities the following table provides information about our repurchases of common stock during the three-month period ended december 31 , 2012 .",
+      "period total number of shares purchased average price paid per total number of shares purchased as part of publicly announced program ( a ) amount available for future share repurchases the program ( b ) ( in millions ) ."
+    ],
+    "post_text": [
+      "( a ) we repurchased a total of 3.1 million shares of our common stock for $ 286 million during the quarter ended december 31 , 2012 under a share repurchase program that we announced in october 2010 .",
+      "( b ) our board of directors has approved a share repurchase program for the repurchase of our common stock from time-to-time , authorizing an amount available for share repurchases of $ 6.5 billion .",
+      "under the program , management has discretion to determine the dollar amount of shares to be repurchased and the timing of any repurchases in compliance with applicable law and regulation .",
+      "the program does not have an expiration date .",
+      "as of december 31 , 2012 , we had repurchased a total of 54.3 million shares under the program for $ 4.2 billion. ."
+    ],
+    "table": [
+      [
+        "period",
+        "total number of shares purchased",
+        "average price paid per share",
+        "total number of shares purchased as part of publicly announced program ( a )",
+        "amount available for future share repurchases under the program ( b ) ( in millions )"
+      ],
+      [
+        "october 1 2012 2013 october 28 2012",
+        "842445",
+        "$ 93.38",
+        "842445",
+        "$ 2522"
+      ],
+      [
+        "october 29 2012 2013 november 25 2012",
+        "872973",
+        "90.86",
+        "872973",
+        "2443"
+      ],
+      [
+        "november 26 2012 2013 december 31 2012",
+        "1395288",
+        "92.02",
+        "1395288",
+        "2315"
+      ],
+      [
+        "total",
+        "3110706",
+        "$ 92.07",
+        "3110706",
+        "$ 2315"
+      ]
+    ],
+    "questions": [
+      "what is the total value of repurchased shares during october 2012 , in millions?"
+    ]
+  }
+}

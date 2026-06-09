@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in interest income from 2014 to 2015?",
+      "answer": -0.16788,
+      "answer_raw": "-0.16788",
+      "program": "subtract(22.8, 27.4), divide(#0, 27.4)"
+    }
+  ]
+}

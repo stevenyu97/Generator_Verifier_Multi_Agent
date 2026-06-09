@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total intrinsic value of options exercised during 2007 , 2006 and 2005 in millions?",
+      "answer": 194.0,
+      "answer_raw": "194.0",
+      "program": "add(52, 111), add(#0, 31)"
+    }
+  ]
+}

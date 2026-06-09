@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of industrial packaging sales in 2009?",
+      "answer": 8890.0,
+      "answer_raw": "8890.0",
+      "program": "8890"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2008?",
+      "answer": 7690.0,
+      "answer_raw": "7690.0",
+      "program": "7690"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "by how much, then, did it increase over the year?",
+      "answer": 1200.0,
+      "answer_raw": "1200.0",
+      "program": "subtract(8890, 7690)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and over the previous year, from 2007 to 2008, what was that increase?",
+      "answer": 2445.0,
+      "answer_raw": "2445.0",
+      "program": "subtract(7690, 5245)"
+    }
+  ]
+}

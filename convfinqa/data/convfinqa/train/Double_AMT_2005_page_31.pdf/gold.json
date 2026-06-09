@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the highest price of common stock from the last quarter of 2005 to the last one of 2006?",
+      "answer": 9.58,
+      "answer_raw": "9.58",
+      "program": "subtract(28.33, 18.75)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this change as a portion of that price in the last quarter of 2005?",
+      "answer": 0.51093,
+      "answer_raw": "0.51093",
+      "program": "subtract(28.33, 18.75), divide(#0, 18.75)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was that same change but from the third quarter of 2005 to that same one in 2006?",
+      "answer": 9.35,
+      "answer_raw": "9.35",
+      "program": "subtract(25.20, 15.85)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much did this change represent in relation to the price in the third quarter of 2005?",
+      "answer": 0.58991,
+      "answer_raw": "0.58991",
+      "program": "subtract(25.20, 15.85), divide(#0, 15.85)"
+    }
+  ]
+}

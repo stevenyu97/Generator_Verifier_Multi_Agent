@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "ETR/2011/page_250.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "part i item 1 entergy corporation , utility operating companies , and system energy asbestos litigation ( entergy arkansas , entergy gulf states louisiana , entergy louisiana , entergy mississippi , entergy new orleans , and entergy texas ) numerous lawsuits have been filed in federal and state courts primarily in texas and louisiana , primarily by contractor employees who worked in the 1940-1980s timeframe , against entergy gulf states louisiana and entergy texas , and to a lesser extent the other utility operating companies , as premises owners of power plants , for damages caused by alleged exposure to asbestos .",
+      "many other defendants are named in these lawsuits as well .",
+      "currently , there are approximately 500 lawsuits involving approximately 5000 claimants .",
+      "management believes that adequate provisions have been established to cover any exposure .",
+      "additionally , negotiations continue with insurers to recover reimbursements .",
+      "management believes that loss exposure has been and will continue to be handled so that the ultimate resolution of these matters will not be material , in the aggregate , to the financial position or results of operation of the utility operating companies .",
+      "employment and labor-related proceedings ( entergy corporation , entergy arkansas , entergy gulf states louisiana , entergy louisiana , entergy mississippi , entergy new orleans , entergy texas , and system energy ) the registrant subsidiaries and other entergy subsidiaries are responding to various lawsuits in both state and federal courts and to other labor-related proceedings filed by current and former employees .",
+      "generally , the amount of damages being sought is not specified in these proceedings .",
+      "these actions include , but are not limited to , allegations of wrongful employment actions ; wage disputes and other claims under the fair labor standards act or its state counterparts ; claims of race , gender and disability discrimination ; disputes arising under collective bargaining agreements ; unfair labor practice proceedings and other administrative proceedings before the national labor relations board ; claims of retaliation ; and claims for or regarding benefits under various entergy corporation sponsored plans .",
+      "entergy and the registrant subsidiaries are responding to these suits and proceedings and deny liability to the claimants .",
+      "employees employees are an integral part of entergy 2019s commitment to serving customers .",
+      "as of december 31 , 2011 , entergy subsidiaries employed 14682 people .",
+      "utility: ."
+    ],
+    "post_text": [
+      "approximately 5300 employees are represented by the international brotherhood of electrical workers , the utility workers union of america , the international brotherhood of teamsters , the united government security officers of america , and the international union , security , police , fire professionals of america. ."
+    ],
+    "table": [
+      [
+        "entergy arkansas",
+        "1357"
+      ],
+      [
+        "entergy gulf states louisiana",
+        "805"
+      ],
+      [
+        "entergy louisiana",
+        "937"
+      ],
+      [
+        "entergy mississippi",
+        "736"
+      ],
+      [
+        "entergy new orleans",
+        "342"
+      ],
+      [
+        "entergy texas",
+        "674"
+      ],
+      [
+        "system energy",
+        "-"
+      ],
+      [
+        "entergy operations",
+        "2867"
+      ],
+      [
+        "entergy services",
+        "3138"
+      ],
+      [
+        "entergy nuclear operations",
+        "3709"
+      ],
+      [
+        "other subsidiaries",
+        "117"
+      ],
+      [
+        "total entergy",
+        "14682"
+      ]
+    ],
+    "questions": [
+      "what percentage of total entergy's employees are part of entergy texas?"
+    ]
+  }
+}

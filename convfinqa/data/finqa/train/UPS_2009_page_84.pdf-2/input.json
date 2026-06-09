@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "UPS/2009/page_84.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "united parcel service , inc .",
+      "and subsidiaries notes to consolidated financial statements 2014 ( continued ) a discount rate is used to determine the present value of our future benefit obligations .",
+      "in 2008 and prior years , the discount rate for u.s .",
+      "plans was determined by matching the expected cash flows to a yield curve based on long-term , high quality fixed income debt instruments available as of the measurement date .",
+      "in 2008 , we reduced the population of bonds from which the yield curve was developed to better reflect bonds we would more likely consider to settle our obligations .",
+      "in 2009 , we further enhanced this process for plans in the u.s .",
+      "by using a bond matching approach to select specific bonds that would satisfy our projected benefit payments .",
+      "we believe the bond matching approach more closely reflects the process we would employ to settle our pension and postretirement benefit obligations .",
+      "these modifications had an impact of increasing the pension benefits and postretirement medical benefits discount rate on average 31 and 51 basis points for 2009 and 25 and 17 basis points for 2008 .",
+      "for 2009 , each basis point increase in the discount rate decreases the projected benefit obligation by approximately $ 25 million and $ 3 million for pension and postretirement medical benefits , respectively .",
+      "for our international plans , the discount rate is selected based on high quality fixed income indices available in the country in which the plan is domiciled .",
+      "these assumptions are updated annually .",
+      "an assumption for expected return on plan assets is used to determine a component of net periodic benefit cost for the fiscal year .",
+      "this assumption for our u.s .",
+      "plans was developed using a long-term projection of returns for each asset class , and taking into consideration our target asset allocation .",
+      "the expected return for each asset class is a function of passive , long-term capital market assumptions and excess returns generated from active management .",
+      "the capital market assumptions used are provided by independent investment advisors , while excess return assumptions are supported by historical performance , fund mandates and investment expectations .",
+      "in addition , we compare the expected return on asset assumption with the average historical rate of return these plans have been able to generate .",
+      "for the ups retirement plan , we use a market-related valuation method for recognizing investment gains or losses .",
+      "investment gains or losses are the difference between the expected and actual return based on the market- related value of assets .",
+      "this method recognizes investment gains or losses over a five year period from the year in which they occur , which reduces year-to-year volatility in pension expense .",
+      "our expense in future periods will be impacted as gains or losses are recognized in the market-related value of assets .",
+      "for plans outside the u.s. , consideration is given to local market expectations of long-term returns .",
+      "strategic asset allocations are determined by country , based on the nature of liabilities and considering the demographic composition of the plan participants .",
+      "health care cost trends are used to project future postretirement benefits payable from our plans .",
+      "for year-end 2009 u.s .",
+      "plan obligations , future postretirement medical benefit costs were forecasted assuming an initial annual increase of 8.0% ( 8.0 % ) , decreasing to 5.0% ( 5.0 % ) by the year 2016 and with consistent annual increases at those ultimate levels thereafter .",
+      "assumed health care cost trends have a significant effect on the amounts reported for the u.s .",
+      "postretirement medical plans .",
+      "a one-percent change in assumed health care cost trend rates would have the following effects ( in millions ) : ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "1% ( 1 % ) increase",
+        "1% ( 1 % ) decrease"
+      ],
+      [
+        "effect on total of service cost and interest cost",
+        "$ 10",
+        "$ -10 ( 10 )"
+      ],
+      [
+        "effect on postretirement benefit obligation",
+        "$ 83",
+        "$ -87 ( 87 )"
+      ]
+    ],
+    "questions": [
+      "what is the current postretirement benefit obligation?"
+    ]
+  }
+}

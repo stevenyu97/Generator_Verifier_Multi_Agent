@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total value of the investment in 2004?",
+      "answer": 2121.95122,
+      "answer_raw": "2121.95122",
+      "program": "divide(87, 4.1%)"
+    }
+  ]
+}

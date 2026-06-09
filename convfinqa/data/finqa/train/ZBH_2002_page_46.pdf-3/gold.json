@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change of total debt from 2001 to 2002?",
+      "answer": -0.56939,
+      "answer_raw": "-0.56939",
+      "program": "subtract(156.7, 363.9), divide(#0, 363.9)"
+    }
+  ]
+}

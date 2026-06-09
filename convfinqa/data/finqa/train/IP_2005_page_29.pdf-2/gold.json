@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was percentage of consumer packaging sales was due to foodservice net sales in 2004?",
+      "answer": 0.18426,
+      "answer_raw": "0.18426",
+      "program": "divide(480, 2605)"
+    }
+  ]
+}

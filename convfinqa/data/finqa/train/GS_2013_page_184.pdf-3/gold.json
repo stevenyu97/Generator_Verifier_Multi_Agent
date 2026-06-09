@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was total rent charged to operating expense in millions for 2013 , 2012 and 2011?",
+      "answer": 1173.0,
+      "answer_raw": "1173.0",
+      "program": "add(324, 374), add(#0, 475)"
+    }
+  ]
+}

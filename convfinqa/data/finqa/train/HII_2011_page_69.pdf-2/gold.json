@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change of the net cash provided by ( used in ) operating activities from 2009 to 2010",
+      "answer": 5.07955,
+      "answer_raw": "5.07955",
+      "program": "subtract(359, -88), divide(#0, 88)"
+    }
+  ]
+}

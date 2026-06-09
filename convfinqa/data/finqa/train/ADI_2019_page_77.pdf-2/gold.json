@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the r&d in 2019?",
+      "answer": -0.07538,
+      "answer_raw": "-0.07538",
+      "program": "subtract(75305, 81444), divide(#0, 81444)"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "RCL/2009/page_90.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "royal caribbean cruises ltd .",
+      "notes to the consolidated financial statements 2014 ( continued ) note 9 .",
+      "stock-based employee compensation we have four stock-based compensation plans , which provide for awards to our officers , directors and key employees .",
+      "the plans consist of a 1990 employee stock option plan , a 1995 incentive stock option plan , a 2000 stock award plan , and a 2008 equity plan .",
+      "the 1990 stock option plan and the 1995 incentive stock option plan terminated by their terms in march 2000 and february 2005 , respectively .",
+      "the 2000 stock award plan , as amended , and the 2008 equity plan provide for the issuance of ( i ) incentive and non-qualified stock options , ( ii ) stock appreciation rights , ( iii ) restricted stock , ( iv ) restricted stock units and ( v ) up to 13000000 performance shares of our common stock for the 2000 stock award plan and up to 5000000 performance shares of our common stock for the 2008 equity plan .",
+      "during any calendar year , no one individual shall be granted awards of more than 500000 shares .",
+      "options and restricted stock units outstanding as of december 31 , 2009 vest in equal installments over four to five years from the date of grant .",
+      "generally , options and restricted stock units are forfeited if the recipient ceases to be a director or employee before the shares vest .",
+      "options are granted at a price not less than the fair value of the shares on the date of grant and expire not later than ten years after the date of grant .",
+      "we also provide an employee stock purchase plan to facilitate the purchase by employees of up to 800000 shares of common stock in the aggregate .",
+      "offerings to employees are made on a quarterly basis .",
+      "subject to certain limitations , the purchase price for each share of common stock is equal to 90% ( 90 % ) of the average of the market prices of the common stock as reported on the new york stock exchange on the first business day of the purchase period and the last business day of each month of the purchase period .",
+      "shares of common stock of 65005 , 36836 and 20759 were issued under the espp at a weighted-average price of $ 12.78 , $ 20.97 and $ 37.25 during 2009 , 2008 and 2007 , respectively .",
+      "under the chief executive officer 2019s employment agreement we contributed 10086 shares of our common stock quarterly , to a maximum of 806880 shares , to a trust on his behalf .",
+      "in january 2009 , the employment agreement and related trust agreement were amended .",
+      "consequently , 768018 shares were distributed from the trust and future quarterly share distributions are issued directly to the chief executive officer .",
+      "total compensation expenses recognized for employee stock-based compensation for the year ended december 31 , 2009 was $ 16.8 million .",
+      "of this amount , $ 16.2 million was included within marketing , selling and administrative expenses and $ 0.6 million was included within payroll and related expenses .",
+      "total compensation expense recognized for employee stock-based compensation for the year ended december 31 , 2008 was $ 5.7 million .",
+      "of this amount , $ 6.4 million , which included a benefit of approximately $ 8.2 million due to a change in the employee forfeiture rate assumption was included within marketing , selling and administrative expenses and income of $ 0.7 million was included within payroll and related expenses which also included a benefit of approximately $ 1.0 million due to the change in the forfeiture rate .",
+      "total compensation expenses recognized for employee stock-based compensation for the year ended december 31 , 2007 was $ 19.0 million .",
+      "of this amount , $ 16.3 million was included within marketing , selling and administrative expenses and $ 2.7 million was included within payroll and related expenses .",
+      "the fair value of each stock option grant is estimated on the date of grant using the black-scholes option pricing model .",
+      "the estimated fair value of stock options , less estimated forfeitures , is amortized over the vesting period using the graded-vesting method .",
+      "the assumptions used in the black-scholes option-pricing model are as follows : expected volatility was based on a combination of historical and implied volatilities .",
+      "the risk-free interest rate is based on united states treasury zero coupon issues with a remaining term equal to the expected option life assumed at the date of grant .",
+      "the expected term was calculated based on historical experience and represents the time period options actually remain outstanding .",
+      "we estimate forfeitures based on historical pre-vesting forfeiture rates and revise those estimates as appropriate to reflect actual experience .",
+      "in 2008 , we increased our estimated forfeiture rate from 4% ( 4 % ) for options and 8.5% ( 8.5 % ) for restricted stock units to 20% ( 20 % ) to reflect changes in employee retention rates. ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "2009",
+        "2008",
+        "2007"
+      ],
+      [
+        "dividend yield",
+        "0.0% ( 0.0 % )",
+        "1.9% ( 1.9 % )",
+        "1.3% ( 1.3 % )"
+      ],
+      [
+        "expected stock price volatility",
+        "55.0% ( 55.0 % )",
+        "31.4% ( 31.4 % )",
+        "28.0% ( 28.0 % )"
+      ],
+      [
+        "risk-free interest rate",
+        "1.8% ( 1.8 % )",
+        "2.8% ( 2.8 % )",
+        "4.8% ( 4.8 % )"
+      ],
+      [
+        "expected option life",
+        "5 years",
+        "5 years",
+        "5 years"
+      ]
+    ],
+    "questions": [
+      "what was the percentage increase in the shares of common stock of"
+    ]
+  }
+}

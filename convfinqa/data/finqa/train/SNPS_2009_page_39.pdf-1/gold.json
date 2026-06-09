@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of cash , cash equivalents and short-term investments was held in foreign accounts as of october 31 , 2009?",
+      "answer": 0.47582,
+      "answer_raw": "0.47582",
+      "program": "add(612.4, 555.9), divide(555.9, #0)"
+    }
+  ]
+}

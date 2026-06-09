@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the selling , general and administrative expenses in 2015 from 2014",
+      "answer": 0.04353,
+      "answer_raw": "0.04353",
+      "program": "divide(34, 781)"
+    }
+  ]
+}

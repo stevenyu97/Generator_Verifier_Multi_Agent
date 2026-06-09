@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the 2007 collateral was invested in indemnified repurchase agreements in 2007?",
+      "answer": 0.18524,
+      "answer_raw": "0.18524",
+      "program": "divide(106.13, 572.93)"
+    }
+  ]
+}

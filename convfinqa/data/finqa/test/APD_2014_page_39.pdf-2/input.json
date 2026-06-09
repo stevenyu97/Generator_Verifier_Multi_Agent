@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "APD/2014/page_39.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "2014 vs .",
+      "2013 sales increased 9% ( 9 % ) , as higher volumes of 9% ( 9 % ) and favorable currency of 1% ( 1 % ) were partially offset by lower pricing of 1% ( 1 % ) .",
+      "electronics sales increased 8% ( 8 % ) , as higher delivery systems equipment sales and materials volumes of 8% ( 8 % ) and favorable currency of 1% ( 1 % ) were partially offset by lower pricing of 1% ( 1 % ) .",
+      "performance materials sales increased 10% ( 10 % ) , as higher volumes of 11% ( 11 % ) were partially offset by lower pricing of 1% ( 1 % ) .",
+      "the higher volumes were across all product lines and major regions .",
+      "the lower pricing was primarily due to unfavorable mix impacts .",
+      "operating income of $ 425.3 increased 32% ( 32 % ) , or $ 104.0 , primarily from higher volumes of $ 93 , lower operating costs of $ 31 , and favorable currency impacts of $ 5 , partially offset by unfavorable price and mix impacts of $ 26 .",
+      "operating margin of 17.4% ( 17.4 % ) increased 310 bp , primarily due to improved loading and leverage from the higher volumes and improved cost performance , partially offset by the unfavorable pricing impacts .",
+      "2013 vs .",
+      "2012 sales decreased 3% ( 3 % ) , as lower volumes of 4% ( 4 % ) and lower pricing of 1% ( 1 % ) were partially offset by acquisitions of 2% ( 2 % ) .",
+      "electronics sales decreased 8% ( 8 % ) , as weaker materials volumes and equipment sales were partially offset by the acquisition of da nanomaterials .",
+      "performance materials sales increased 2% ( 2 % ) , as higher volumes of 4% ( 4 % ) were partially offset by lower pricing of 2% ( 2 % ) .",
+      "the increase in volumes was primarily due to strength in the automobile and u.s .",
+      "housing markets partially offset by weaker volumes to certain construction markets and marine coatings .",
+      "the lower pricing was primarily due to unfavorable mix impacts .",
+      "operating income of $ 321.3 decreased 25% ( 25 % ) , or $ 104.3 , and operating margin of 14.3% ( 14.3 % ) decreased 400 bp , as 2012 included a gain on the previously held equity interest in da nanomaterials of $ 85.9 .",
+      "on a non-gaap basis , operating income of $ 321.3 decreased 5% ( 5 % ) , or $ 18.4 , primarily from unfavorable price and mix impacts of $ 15 , lower volumes of $ 9 , and higher operating costs of $ 4 partially offset by higher acquisitions of $ 6 and favorable currency of $ 4 .",
+      "operating margin decreased 30 bp , primarily due to lower volumes and unfavorable price mix .",
+      "equipment and energy ."
+    ],
+    "post_text": [
+      "2014 vs .",
+      "2013 sales of $ 450.4 were relatively flat as higher liquefied natural gas ( lng ) project activity was offset by lower air separation ( asu ) project activity .",
+      "operating income of $ 88.2 increased from the higher lng project activity .",
+      "the sales backlog for the equipment business at 30 september 2014 was $ 520 , compared to $ 402 at 30 september 2013 .",
+      "the increase was primarily due to new lng orders as global project development activity remains high .",
+      "it is expected that approximately $ 320 of the backlog will be completed during 2015 .",
+      "2013 vs .",
+      "2012 sales of $ 451.1 increased primarily from higher lng project activity .",
+      "operating income of $ 65.5 increased from the higher lng project activity .",
+      "the sales backlog for the equipment business at 30 september 2013 was $ 402 , compared to $ 450 at 30 september other operating income ( loss ) primarily includes other expense and income that cannot be directly associated with the business segments , including foreign exchange gains and losses .",
+      "also included are lifo inventory valuation adjustments , as the business segments use fifo , and the lifo pool valuation adjustments are not allocated to the business segments .",
+      "other also included stranded costs resulting from discontinued operations , as these costs were not reallocated to the businesses in 2012 .",
+      "2014 vs .",
+      "2013 other operating loss was $ 13.5 , compared to $ 4.7 in the prior year .",
+      "the decrease was primarily due to unfavorable foreign exchange losses of $ 5 and lifo adjustments of $ 4 .",
+      "2013 vs .",
+      "2012 other operating loss was $ 4.7 , compared to $ 6.6 in the prior year .",
+      "the other operating loss in 2013 includes an unfavorable lifo adjustment versus the prior year of $ 11 .",
+      "the other operating loss in 2012 included stranded costs from discontinued operations of $ 10. ."
+    ],
+    "table": [
+      [
+        "",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      [
+        "sales",
+        "$ 450.4",
+        "$ 451.1",
+        "$ 420.1"
+      ],
+      [
+        "operating income",
+        "88.2",
+        "65.5",
+        "44.6"
+      ]
+    ],
+    "questions": [
+      "what was the operating margin for 2012?"
+    ]
+  }
+}

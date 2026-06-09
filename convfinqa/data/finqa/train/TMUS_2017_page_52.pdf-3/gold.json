@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the change in the disposal costs from 2016 to 2017",
+      "answer": -600.0,
+      "answer_raw": "-600.0",
+      "program": "subtract(235, 835)"
+    }
+  ]
+}

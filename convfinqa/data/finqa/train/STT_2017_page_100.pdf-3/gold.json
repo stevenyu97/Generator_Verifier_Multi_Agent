@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total investments is held by foreign government of december 31 , 2017?",
+      "answer": 0.1234,
+      "answer_raw": "0.1234",
+      "program": "divide(8064, 65348)"
+    }
+  ]
+}

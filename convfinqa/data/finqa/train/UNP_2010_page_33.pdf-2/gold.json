@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage increase from 2008 customer satisfaction index to the 2010 customer satisfaction index?",
+      "answer": 0.07229,
+      "answer_raw": "0.07229",
+      "program": "subtract(89, 83), divide(#0, 83)"
+    }
+  ]
+}

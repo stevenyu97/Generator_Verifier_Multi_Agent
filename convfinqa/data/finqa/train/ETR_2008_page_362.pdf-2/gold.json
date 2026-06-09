@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what potion of the expected payments related to hurricane katrina and hurricane gustav restoration work and its gas rebuild project will be incurred during 2009?",
+      "answer": 0.28319,
+      "answer_raw": "0.28319",
+      "program": "divide(32, 113)"
+    }
+  ]
+}

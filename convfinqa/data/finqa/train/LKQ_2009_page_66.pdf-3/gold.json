@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 2009 what was the range between the carrying and the fair value of our term loans",
+      "answer": -26.0,
+      "answer_raw": "-26.0",
+      "program": "subtract(570, 596)"
+    }
+  ]
+}

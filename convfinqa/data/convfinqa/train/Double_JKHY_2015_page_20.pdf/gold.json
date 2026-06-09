@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of the jkhy stock in 2011?",
+      "answer": 127.44,
+      "answer_raw": "127.44",
+      "program": "127.44"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2010?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100.00"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "by how much, then, did it change over the year?",
+      "answer": 27.44,
+      "answer_raw": "27.44",
+      "program": "subtract(127.44, 100.00)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and for the subsequent year of this period, what was the change in the value of the peer group stock?",
+      "answer": 11.32,
+      "answer_raw": "11.32",
+      "program": "subtract(148.10, 136.78)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is this change as a percentage of that value in 2011?",
+      "answer": 0.08276,
+      "answer_raw": "0.08276",
+      "program": "subtract(148.10, 136.78), divide(#0, 136.78)"
+    }
+  ]
+}

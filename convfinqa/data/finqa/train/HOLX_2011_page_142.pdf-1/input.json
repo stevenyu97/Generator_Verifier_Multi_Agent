@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "HOLX/2011/page_142.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents finance lease obligations the company has a non-cancelable lease agreement for a building with approximately 164000 square feet located in alajuela , costa rica , to be used as a manufacturing and office facility .",
+      "the company was responsible for a significant portion of the construction costs , and in accordance with asc 840 , leases , subsection 40-15-5 , the company was deemed to be the owner of the building during the construction period .",
+      "the building was completed in fiscal 2008 , and the company has recorded the fair market value of the building and land of $ 15.1 million within property and equipment on its consolidated balance sheets .",
+      "at september 24 , 2011 , the company has recorded $ 1.6 million in accrued expenses and $ 16.9 million in other long-term liabilities related to this obligation in the consolidated balance sheet .",
+      "the term of the lease , which commenced in may 2008 , is for a period of approximately ten years with the option to extend for two consecutive 5-year terms .",
+      "at the completion of the construction period , the company reviewed the lease for potential sale-leaseback treatment in accordance with asc 840 , subsection 40 , sale-leaseback transactions .",
+      "based on its analysis , the company determined that the lease did not qualify for sale-leaseback treatment .",
+      "therefore , the building , leasehold improvements and associated liabilities remain on the company 2019s financial statements throughout the lease term , and the building and leasehold improvements are being depreciated on a straight line basis over their estimated useful lives of 35 years .",
+      "future minimum lease payments , including principal and interest , under this lease were as follows at september 24 , 2011: ."
+    ],
+    "post_text": [
+      "the company also has to a non-cancelable lease agreement for a building with approximately 146000 square feet located in marlborough , massachusetts , to be principally used as an additional manufacturing facility .",
+      "as part of the lease agreement , the lessor agreed to allow the company to make significant renovations to the facility to prepare the facility for the company 2019s manufacturing needs .",
+      "the company was responsible for a significant amount of the construction costs and therefore in accordance with asc 840-40-15-5 was deemed to be the owner of the building during the construction period .",
+      "the $ 13.2 million fair market value of the facility is included within property and equipment on the consolidated balance sheet .",
+      "at september 24 , 2011 , the company has recorded $ 1.0 million in accrued expenses and $ 15.9 million in other long-term liabilities related to this obligation in the consolidated balance sheet .",
+      "the term of the lease is for a period of approximately 12 years commencing on november 14 , 2006 with the option to extend for two consecutive 5-year terms .",
+      "based on its asc 840-40 analysis , the company determined that the lease did not qualify for sale-leaseback treatment .",
+      "therefore , the improvements and associated liabilities will remain on the company 2019s financial statements throughout the lease term , and the leasehold improvements are being depreciated on a straight line basis over their estimated useful lives of up to 35 years .",
+      "source : hologic inc , 10-k , november 23 , 2011 powered by morningstar ae document research 2120 the information contained herein may not be copied , adapted or distributed and is not warranted to be accurate , complete or timely .",
+      "the user assumes all risks for any damages or losses arising from any use of this information , except to the extent such damages or losses cannot be limited or excluded by applicable law .",
+      "past financial performance is no guarantee of future results. ."
+    ],
+    "table": [
+      [
+        "fiscal 2012",
+        "$ 1616"
+      ],
+      [
+        "fiscal 2013",
+        "1672"
+      ],
+      [
+        "fiscal 2014",
+        "1731"
+      ],
+      [
+        "fiscal 2015",
+        "1791"
+      ],
+      [
+        "fiscal 2016",
+        "1854"
+      ],
+      [
+        "thereafter",
+        "3643"
+      ],
+      [
+        "total minimum payments",
+        "12307"
+      ],
+      [
+        "less-amount representing interest",
+        "-4017 ( 4017 )"
+      ],
+      [
+        "total",
+        "$ 8290"
+      ]
+    ],
+    "questions": [
+      "what portion of the total future minimum lease payments , including interest is due within the next 12 months?"
+    ]
+  }
+}

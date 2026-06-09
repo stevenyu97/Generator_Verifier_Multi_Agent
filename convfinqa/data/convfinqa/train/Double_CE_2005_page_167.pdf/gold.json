@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the maturation of the company 2019s debt, including short-term borrowings that will occur after 2010?",
+      "answer": 0.92028,
+      "answer_raw": "0.92028",
+      "program": "divide(3163, 3437)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the change in the liability for pension plan resulting from the acquisition of vinamul and acetex?",
+      "answer": 43.0,
+      "answer_raw": "43.0",
+      "program": "subtract(128, 85)"
+    }
+  ]
+}

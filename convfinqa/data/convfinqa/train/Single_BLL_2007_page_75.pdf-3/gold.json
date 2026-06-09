@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total amount of senior notes issued in 2006?",
+      "answer": 450.0,
+      "answer_raw": "450.0",
+      "program": "450"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and converted to the hundred millions?",
+      "answer": 450000000.0,
+      "answer_raw": "450000000.0",
+      "program": "multiply(450, const_1000000)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the effective yield to maturity?",
+      "answer": 0.06625,
+      "answer_raw": "0.06625",
+      "program": "6.625%"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "so what are the expected annual cash interest costs?",
+      "answer": 29812500.0,
+      "answer_raw": "29812500.0",
+      "program": "multiply(450, const_1000000), multiply(#0, 6.625%)"
+    }
+  ]
+}

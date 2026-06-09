@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "ETR/2008/page_337.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy mississippi , inc .",
+      "management's financial discussion and analysis the net wholesale revenue variance is primarily due to lower profit on joint account sales and reduced capacity revenue from the municipal energy agency of mississippi .",
+      "gross operating revenues , fuel and purchased power expenses , and other regulatory charges gross operating revenues increased primarily due to an increase of $ 152.5 million in fuel cost recovery revenues due to higher fuel rates , partially offset by a decrease of $ 43 million in gross wholesale revenues due to a decrease in net generation and purchases in excess of decreased net area demand resulting in less energy available for resale sales coupled with a decrease in system agreement remedy receipts .",
+      "fuel and purchased power expenses increased primarily due to increases in the average market prices of natural gas and purchased power , partially offset by decreased demand and decreased recovery from customers of deferred fuel costs .",
+      "other regulatory charges increased primarily due to increased recovery through the grand gulf rider of grand gulf capacity costs due to higher rates and increased recovery of costs associated with the power management recovery rider .",
+      "there is no material effect on net income due to quarterly adjustments to the power management recovery rider .",
+      "2007 compared to 2006 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory charges ( credits ) .",
+      "following is an analysis of the change in net revenue comparing 2007 to 2006 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the base revenue variance is primarily due to a formula rate plan increase effective july 2007 .",
+      "the formula rate plan filing is discussed further in \"state and local rate regulation\" below .",
+      "the volume/weather variance is primarily due to increased electricity usage primarily in the residential and commercial sectors , including the effect of more favorable weather on billed electric sales in 2007 compared to 2006 .",
+      "billed electricity usage increased 214 gwh .",
+      "the increase in usage was partially offset by decreased usage in the industrial sector .",
+      "the transmission revenue variance is due to higher rates and the addition of new transmission customers in late 2006 .",
+      "the transmission equalization variance is primarily due to a revision made in 2006 of transmission equalization receipts among entergy companies .",
+      "the reserve equalization variance is primarily due to a revision in 2006 of reserve equalization payments among entergy companies due to a ferc ruling regarding the inclusion of interruptible loads in reserve ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2006 net revenue",
+        "$ 466.1"
+      ],
+      [
+        "base revenue",
+        "7.9"
+      ],
+      [
+        "volume/weather",
+        "4.5"
+      ],
+      [
+        "transmission revenue",
+        "4.1"
+      ],
+      [
+        "transmission equalization",
+        "4.0"
+      ],
+      [
+        "reserve equalization",
+        "3.8"
+      ],
+      [
+        "attala costs",
+        "-10.2 ( 10.2 )"
+      ],
+      [
+        "other",
+        "6.7"
+      ],
+      [
+        "2007 net revenue",
+        "$ 486.9"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in net revenue in 2007 compare to 2006?"
+    ]
+  }
+}

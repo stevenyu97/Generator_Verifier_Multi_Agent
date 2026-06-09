@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the balance of pension liability from september 2005 to 2007?",
+      "answer": 923.0,
+      "answer_raw": "923.0",
+      "program": "subtract(-214, -1137)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the impact of pension adjustment during 2007?",
+      "answer": 159.0,
+      "answer_raw": "159.0",
+      "program": "159"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the impact of adjustment to initially apply sfas 158 during 2007?",
+      "answer": 226.0,
+      "answer_raw": "226.0",
+      "program": "226"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total impact in the balance of pension liability during 2007?",
+      "answer": 385.0,
+      "answer_raw": "385.0",
+      "program": "add(159, 226)"
+    }
+  ]
+}

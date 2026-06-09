@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total purchase consideration is paid in cash?",
+      "answer": 0.5117,
+      "answer_raw": "0.5117",
+      "program": "divide(599497, 1171576)"
+    }
+  ]
+}

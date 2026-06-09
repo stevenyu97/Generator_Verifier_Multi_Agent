@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the gross revenues in 2016 based on the percent of the selling general and administrative expenses",
+      "answer": 5377.65957,
+      "answer_raw": "5377.65957",
+      "program": "divide(1011, 18.8%)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would the increase in segment earnings for 2010 have been without the higher sales volumes ( in millions ) ?",
+      "answer": 37.3,
+      "answer_raw": "37.3",
+      "program": "subtract(122.3, 85)"
+    }
+  ]
+}

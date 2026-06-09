@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the business banking loans at december 31 , 2010 compared with $ 17.0 billion at december 31 , 2009 .",
+      "answer": 0.98824,
+      "answer_raw": "0.98824",
+      "program": "divide(16.8, 17.0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the current postretirement benefit obligation?",
+      "answer": 8300.0,
+      "answer_raw": "8300.0",
+      "program": "divide(83, 1%)"
+    }
+  ]
+}

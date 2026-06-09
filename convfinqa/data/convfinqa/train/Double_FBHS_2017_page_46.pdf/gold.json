@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the general and administrative expense in 2016?",
+      "answer": 80.9,
+      "answer_raw": "80.9",
+      "program": "80.9"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2015?",
+      "answer": 70.1,
+      "answer_raw": "70.1",
+      "program": "70.1"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 10.8,
+      "answer_raw": "10.8",
+      "program": "subtract(80.9, 70.1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what percentage does this change represent in relation to to the 2015 expense?",
+      "answer": 0.15407,
+      "answer_raw": "0.15407",
+      "program": "subtract(80.9, 70.1), divide(#0, 70.1)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "in that same year of 2015, how much did the defined benefit plan income represent in relation to the defined benefit plan recognition of actuarial losses?",
+      "answer": -2.44,
+      "answer_raw": "-2.44",
+      "program": "divide(6.1, -2.5)"
+    }
+  ]
+}

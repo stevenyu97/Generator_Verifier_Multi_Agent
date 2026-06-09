@@ -1,0 +1,81 @@
+{
+  "input": {
+    "id": "Single_C/2008/page_173.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "banking ) .",
+      "the results of the first step of the impairment test showed no indication of impairment in any of the reporting units at any of the periods except december 31 , 2008 and , accordingly , the company did not perform the second step of the impairment test , except for the test performed as of december 31 , 2008 .",
+      "as of december 31 , 2008 , there was an indication of impairment in the north america consumer banking , latin america consumer banking and emea consumer banking reporting units and , accordingly , the second step of testing was performed on these reporting units .",
+      "based on the results of the second step of testing , the company recorded a $ 9.6 billion pretax ( $ 8.7 billion after tax ) goodwill impairment charge in the fourth quarter of 2008 , representing the entire amount of goodwill allocated to these reporting units .",
+      "the primary cause for the goodwill impairment in the above reporting units was the rapid deterioration in the financial markets , as well as in the global economic outlook particularly during the period beginning mid-november through year end 2008 .",
+      "this deterioration further weakened the near-term prospects for the financial services industry .",
+      "these and other factors , including the increased possibility of further government intervention , also resulted in the decline in the company 2019s market capitalization from approximately $ 90 billion at july 1 , 2008 and approximately $ 74 billion at october 31 , 2008 to approximately $ 36 billion at december 31 , 2008 .",
+      "the more significant fair-value adjustments in the pro forma purchase price allocation in the second step of testing were to fair-value loans and debt and were made to identify and value identifiable intangibles .",
+      "the adjustments to measure the assets , liabilities and intangibles were for the purpose of measuring the implied fair value of goodwill and such adjustments are not reflected in the consolidated balance sheet .",
+      "the following table shows reporting units with goodwill balances and the excess of fair value of allocated book value as of december 31 , 2008 .",
+      "reporting unit ( $ in millions ) fair value as a % (  % ) of allocated book value goodwill ( post-impairment ) ."
+    ],
+    "post_text": [
+      "while no impairment was noted in step one of our securities and banking reporting unit impairment test at october 31 , 2008 and december 31 , 2008 , goodwill present in that reporting unit may be particularly sensitive to further deterioration in economic conditions .",
+      "under the market approach for valuing this reporting unit , the earnings multiples and transaction multiples were selected from multiples obtained using data from guideline companies and acquisitions .",
+      "the selection of the actual multiple considers operating performance and financial condition such as return on equity and net income growth of securities and banking as compared to the guideline companies and acquisitions .",
+      "for the valuation under the income approach , the company utilized a discount rate which it believes reflects the risk and uncertainty related to the projected cash flows , and selected 2013 as the terminal year .",
+      "in 2013 , the value was derived assuming a return to historical levels of core-business profitability for the reporting unit , despite the significant losses experienced in 2008 .",
+      "this assumption is based on management 2019s view that this recovery will occur based upon various macro- economic factors such as the recent u.s .",
+      "government stimulus actions , restoring marketplace confidence and improved risk-management practices on an industry-wide basis .",
+      "furthermore , company-specific actions such as its recently announced realignment of its businesses to optimize its global businesses for future profitable growth , will also be a factor in returning the company 2019s core securities and banking business to historical levels .",
+      "small deterioration in the assumptions used in the valuations , in particular the discount rate and growth rate assumptions used in the net income projections , could significantly affect the company 2019s impairment evaluation and , hence , results .",
+      "if the future were to differ adversely from management 2019s best estimate of key economic assumptions and associated cash flows were to decrease by a small margin , the company could potentially experience future material impairment charges with respect to the goodwill remaining in our securities and banking reporting unit .",
+      "any such charges by themselves would not negatively affect the company 2019s tier 1 and total regulatory capital ratios , tangible capital or the company 2019s liquidity position. ."
+    ],
+    "table": [
+      [
+        "reporting unit ( $ inmillions )",
+        "fair value as a % (  % ) of allocated book value",
+        "goodwill ( post-impairment )"
+      ],
+      [
+        "north america cards",
+        "139% ( 139 % )",
+        "6765"
+      ],
+      [
+        "international cards",
+        "218% ( 218 % )",
+        "4066"
+      ],
+      [
+        "asia consumer banking",
+        "293% ( 293 % )",
+        "3106"
+      ],
+      [
+        "securities & banking",
+        "109% ( 109 % )",
+        "9774"
+      ],
+      [
+        "global transaction services",
+        "994% ( 994 % )",
+        "1570"
+      ],
+      [
+        "north america gwm",
+        "386% ( 386 % )",
+        "1259"
+      ],
+      [
+        "international gwm",
+        "171% ( 171 % )",
+        "592"
+      ]
+    ],
+    "questions": [
+      "what was the goodwill impairment charge in the fourth quarter of 2008?",
+      "what was the value after tax?",
+      "what is the difference?",
+      "what was the after tax amount?",
+      "what is the difference divided by the after tax amount?"
+    ]
+  }
+}

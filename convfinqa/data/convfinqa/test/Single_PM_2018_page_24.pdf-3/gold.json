@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the price for pmi common stock from 2013 to 2018?",
+      "answer": -3.5,
+      "answer_raw": "-3.5",
+      "program": "subtract(96.50, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that change over 100?",
+      "answer": -0.035,
+      "answer_raw": "-0.035",
+      "program": "subtract(96.50, const_100), divide(#0, const_100)"
+    }
+  ]
+}

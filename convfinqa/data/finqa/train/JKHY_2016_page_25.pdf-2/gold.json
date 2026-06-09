@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the 2012 total return on the s&p 500?",
+      "answer": 5.45,
+      "answer_raw": "5.45",
+      "program": "subtract(105.45, 100.00)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of short-term borrowings in 2016?",
+      "answer": 935.8,
+      "answer_raw": "935.8",
+      "program": "935.8"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the current portion of long-term debt in that year?",
+      "answer": 371.3,
+      "answer_raw": "371.3",
+      "program": "371.3"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the combined total of both short-term borrowings and current portion of long-term debt in 2016?",
+      "answer": 1307.1,
+      "answer_raw": "1307.1",
+      "program": "add(935.8, 371.3)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the total debt in that year?",
+      "answer": 6225.2,
+      "answer_raw": "6225.2",
+      "program": "6225.2"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "how much, then, does that combined total represent in relation to this total debt, in percentage?",
+      "answer": 0.20997,
+      "answer_raw": "0.20997",
+      "program": "add(935.8, 371.3), divide(#0, 6225.2)"
+    }
+  ]
+}

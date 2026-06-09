@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the analysis of the change in net revenue what was the percent of the annual change in net revenue sourced from realized price changes",
+      "answer": 0.58537,
+      "answer_raw": "0.58537",
+      "program": "divide(264, 451)"
+    }
+  ]
+}

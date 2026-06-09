@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2011 what was the amount of tax related to the unrealized losses reclassifications totaled $ 303 million , or $ 189 million after-tax,",
+      "answer": 114.0,
+      "answer_raw": "114.0",
+      "program": "subtract(303, 189)"
+    }
+  ]
+}

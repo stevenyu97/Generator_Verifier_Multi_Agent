@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "JKHY/2019/page_17.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "j a c k h e n r y .",
+      "c o m 1 5 market for registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities the company 2019s common stock is quoted on the nasdaq global select market ( 201cnasdaq 201d ) under the symbol 201cjkhy 201d .",
+      "the company established a practice of paying quarterly dividends at the end of fiscal 1990 and has paid dividends with respect to every quarter since that time .",
+      "the declaration and payment of any future dividends will continue to be at the discretion of our board of directors and will depend upon , among other factors , our earnings , capital requirements , contractual restrictions , and operating and financial condition .",
+      "the company does not currently foresee any changes in its dividend practices .",
+      "on august 15 , 2019 , there were approximately 145300 holders of the company 2019s common stock , including individual participants in security position listings .",
+      "on that same date the last sale price of the common shares as reported on nasdaq was $ 141.94 per share .",
+      "issuer purchases of equity securities the following shares of the company were repurchased during the quarter ended june 30 , 2019 : total number of shares purchased ( 1 ) average price of total number of shares purchased as part of publicly announced plans ( 1 ) maximum number of shares that may yet be purchased under the plans ( 2 ) ."
+    ],
+    "post_text": [
+      "( 1 ) 250000 shares were purchased through a publicly announced repurchase plan .",
+      "there were no shares surrendered to the company to satisfy tax withholding obligations in connection with employee restricted stock awards .",
+      "( 2 ) total stock repurchase authorizations approved by the company 2019s board of directors as of february 17 , 2015 were for 30.0 million shares .",
+      "these authorizations have no specific dollar or share price targets and no expiration dates. ."
+    ],
+    "table": [
+      [
+        "",
+        "total number of shares purchased ( 1 )",
+        "average price of share",
+        "total number of shares purchased as part of publicly announced plans ( 1 )",
+        "maximum number of shares that may yet be purchased under the plans ( 2 )"
+      ],
+      [
+        "april 1- april 30 2019",
+        "2014",
+        "$ 2014",
+        "2014",
+        "3732713"
+      ],
+      [
+        "may 1- may 31 2019",
+        "250000",
+        "$ 134.35",
+        "250000",
+        "3482713"
+      ],
+      [
+        "june 1- june 30 2019",
+        "2014",
+        "$ 2014",
+        "2014",
+        "3482713"
+      ],
+      [
+        "total",
+        "250000",
+        "$ 134.35",
+        "250000",
+        "3482713"
+      ]
+    ],
+    "questions": [
+      "on august 15 , 2019 , what was the total market value of the approximately 145300 shares of the company 2019s common stock as reported on nasdaq ?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total research and development from december 312017 to 2015 in millions",
+      "answer": 269.0,
+      "answer_raw": "269.0",
+      "program": "add(72, 78), add(#0, 119)"
+    }
+  ]
+}

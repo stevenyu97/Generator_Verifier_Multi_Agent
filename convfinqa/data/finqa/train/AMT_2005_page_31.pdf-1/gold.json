@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the common stock price from the highest price during quarter ended december 31 of 2005 to the highest price during quarter ended december 31 of 2006?",
+      "answer": 0.51093,
+      "answer_raw": "0.51093",
+      "program": "subtract(28.33, 18.75), divide(#0, 18.75)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of total federal net operating loss carryforwards?",
+      "answer": 1197607.0,
+      "answer_raw": "1197607.0",
+      "program": "1197607"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for the state?",
+      "answer": 1188003.0,
+      "answer_raw": "1188003.0",
+      "program": "1188003"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combined, what is the total for these two values?",
+      "answer": 2385610.0,
+      "answer_raw": "2385610.0",
+      "program": "add(1197607, 1188003)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the amount for foreign?",
+      "answer": 98424.0,
+      "answer_raw": "98424.0",
+      "program": "98424"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total carryforwards for all regions?",
+      "answer": 2484034.0,
+      "answer_raw": "2484034.0",
+      "program": "add(1197607, 1188003), add(#0, 98424)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and the portion of the total net operating loss carryforwards that is state-related?",
+      "answer": 0.47826,
+      "answer_raw": "0.47826",
+      "program": "add(1197607, 1188003), add(#0, 98424), divide(1188003, #1)"
+    }
+  ]
+}

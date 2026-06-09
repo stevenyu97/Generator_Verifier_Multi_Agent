@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in payroll and payroll taxes from 2005 to 2006?",
+      "answer": 0.14522,
+      "answer_raw": "0.14522",
+      "program": "subtract(5465, 4772), divide(#0, 4772)"
+    }
+  ]
+}

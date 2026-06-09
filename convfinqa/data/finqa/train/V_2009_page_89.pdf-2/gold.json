@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total net assets of the company?",
+      "answer": 8118.0,
+      "answer_raw": "8118.0",
+      "program": "subtract(18413, 10295)"
+    }
+  ]
+}

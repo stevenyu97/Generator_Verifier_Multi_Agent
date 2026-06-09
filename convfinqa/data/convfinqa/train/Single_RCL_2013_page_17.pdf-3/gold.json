@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in global cruise guests from 2011 to 2012?",
+      "answer": 0.7,
+      "answer_raw": "0.7",
+      "program": "subtract(20.9, 20.2)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and was the total of global cruise guests in 2011?",
+      "answer": 20.2,
+      "answer_raw": "20.2",
+      "program": "20.2"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2011 total?",
+      "answer": 0.03465,
+      "answer_raw": "0.03465",
+      "program": "subtract(20.9, 20.2), divide(#0, 20.2)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the change in global cruise guests from 2012 to 2013?",
+      "answer": 0.4,
+      "answer_raw": "0.4",
+      "program": "subtract(20.9, 20.2), divide(#0, 20.2), subtract(21.3, 20.9)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to the global cruise guests in 2012, in percentage?",
+      "answer": 0.01914,
+      "answer_raw": "0.01914",
+      "program": "subtract(20.9, 20.2), divide(#0, 20.2), subtract(21.3, 20.9), divide(#2, 20.9)"
+    }
+  ]
+}

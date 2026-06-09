@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the revenue for the year ending on february 1, 2008?",
+      "answer": 9495246.0,
+      "answer_raw": "9495246.0",
+      "program": "9495246"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about for the year ending on february 1, 2007?",
+      "answer": 9169822.0,
+      "answer_raw": "9169822.0",
+      "program": "9169822"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change among these two years?",
+      "answer": 325424.0,
+      "answer_raw": "325424.0",
+      "program": "subtract(9495246, 9169822)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about for the year ending on february 1, 2007?",
+      "answer": 9169822.0,
+      "answer_raw": "9169822.0",
+      "program": "9169822"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what growth rate does this represent?",
+      "answer": 0.03549,
+      "answer_raw": "0.03549",
+      "program": "subtract(9495246, 9169822), divide(#0, 9169822)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase in the intangible assets are reported in other assets from 2013 to 2014",
+      "answer": 1e-05,
+      "answer_raw": "1e-05",
+      "program": "divide(214112, 204866), divide(#0, 204866)"
+    }
+  ]
+}

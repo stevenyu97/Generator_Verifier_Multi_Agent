@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in cash from operating activities from 2009 to 2010?",
+      "answer": -0.02602,
+      "answer_raw": "-0.02602",
+      "program": "subtract(1310, 1345), divide(#0, 1345)"
+    }
+  ]
+}

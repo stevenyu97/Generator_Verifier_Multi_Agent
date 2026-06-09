@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the assets to the obligations of the mrrp in 2012",
+      "answer": 0.81057,
+      "answer_raw": "0.81057",
+      "program": "divide(18.4, 22.7)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the approximate revenue per customer in the regulated businesses?",
+      "answer": 811.97482,
+      "answer_raw": "811.97482",
+      "program": "multiply(2564.4, const_1000000), divide(#0, 3158226)"
+    }
+  ]
+}

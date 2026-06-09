@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "Double_AMT/2010/page_41.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "2022 international .",
+      "in general , our international markets are less advanced with respect to the current technologies deployed for wireless services .",
+      "as a result , demand for our communications sites is driven by continued voice network investments , new market entrants and initial 3g data network deployments .",
+      "for example , in india , nationwide voice networks continue to be deployed as wireless service providers are beginning their initial investments in 3g data networks , as a result of recent spectrum auctions .",
+      "in mexico and brazil , where nationwide voice networks have been deployed , some incumbent wireless service providers continue to invest in their 3g data networks , and recent spectrum auctions have enabled other incumbent wireless service providers and new market entrants to begin their initial investments in 3g data networks .",
+      "in markets such as chile and peru , recent spectrum auctions have attracted new market entrants , who are expected to begin their investment in deploying nationwide voice and 3g data networks .",
+      "we believe demand for our tower sites will continue in our international markets as wireless service providers seek to remain competitive by increasing the coverage of their networks while also investing in next generation data networks .",
+      "rental and management operations new site revenue growth .",
+      "during the year ended december 31 , 2010 , we grew our portfolio of communications sites through acquisitions and construction activities , including the acquisition and construction of approximately 7800 sites .",
+      "we continue to evaluate opportunities to acquire larger communications site portfolios , both domestically and internationally , that we believe we can effectively integrate into our existing portfolio. ."
+    ],
+    "post_text": [
+      "( 1 ) the majority of sites acquired or constructed internationally during 2010 and 2009 were in india and our newly launched operations in chile , colombia and peru .",
+      "network development services segment revenue growth .",
+      "as we continue to focus on growing our rental and management operations , we anticipate that our network development services revenue will continue to represent a small percentage of our total revenues .",
+      "through our network development services segment , we offer tower-related services , including site acquisition , zoning and permitting services and structural analysis services , which primarily support our site leasing business and the addition of new tenants and equipment on our sites .",
+      "rental and management operations expenses .",
+      "our rental and management operations expenses include our direct site level expenses and consist primarily of ground rent , property taxes , repairs and maintenance and utilities .",
+      "these segment level expenses exclude all segment and corporate level selling , general , administrative and development expenses , which are aggregated into one line item entitled selling , general , administrative and development expense .",
+      "in general , our rental and management segment level selling , general and administrative expenses do not significantly increase as a result of adding incremental tenants to our legacy sites and typically increase only modestly year-over-year .",
+      "as a result , leasing additional space to new tenants on our legacy sites provides significant incremental cash flow .",
+      "in geographic areas where we have recently launched operations or are focused on materially expanding our site footprint , we may incur additional segment level selling , general and administrative expenses as we increase our presence in these areas .",
+      "our profit margin growth is therefore positively impacted by the addition of new tenants to our legacy sites and can be temporarily diluted by our development activities .",
+      "reit election .",
+      "as we review our tax strategy and assess the utilization of our federal and state nols , we are actively considering an election to a reit for u.s .",
+      "federal and , where applicable , state income tax purposes .",
+      "we may make the determination to elect reit status for the taxable year beginning january 1 , 2012 , as early as the second half of 2011 , subject to the approval of our board of directors , although there is no certainty as to the timing of a reit election or whether we will make a reit election at all. ."
+    ],
+    "table": [
+      [
+        "new sites ( acquired or constructed )",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      [
+        "domestic",
+        "947",
+        "528",
+        "160"
+      ],
+      [
+        "international ( 1 )",
+        "6865",
+        "3022",
+        "801"
+      ]
+    ],
+    "questions": [
+      "in 2010, what was the total of new sites acquired or constructed?",
+      "and what portion of these sites were located in the us?",
+      "what portion, then, of this total, do the sites located outside the us represent?"
+    ]
+  }
+}

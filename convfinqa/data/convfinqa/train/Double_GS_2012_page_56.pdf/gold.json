@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of net revenues related to reinsurance in 2012, in billions of dollars?",
+      "answer": 1.08,
+      "answer_raw": "1.08",
+      "program": "1.08"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is that in millions?",
+      "answer": 1080.0,
+      "answer_raw": "1080.0",
+      "program": "multiply(1.08, const_1000)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and between the two previous years, what was the change in that total for all revenues?",
+      "answer": -4516.0,
+      "answer_raw": "-4516.0",
+      "program": "subtract(17280, 21796)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is this change as a percentage of those net revenues in 2010?",
+      "answer": -0.20719,
+      "answer_raw": "-0.20719",
+      "program": "subtract(17280, 21796), divide(#0, 21796)"
+    }
+  ]
+}

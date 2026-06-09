@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of compensation associated with the awards in 2015 and 2016?",
+      "answer": 5.9,
+      "answer_raw": "5.9",
+      "program": "add(1.9, 4.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the sum including 2014?",
+      "answer": 9.4,
+      "answer_raw": "9.4",
+      "program": "add(1.9, 4.0), add(#0, 3.5)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the average per year?",
+      "answer": 3.13333,
+      "answer_raw": "3.13333",
+      "program": "add(1.9, 4.0), add(#0, 3.5), divide(#1, const_3)"
+    }
+  ]
+}

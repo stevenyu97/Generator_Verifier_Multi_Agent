@@ -1,0 +1,57 @@
+{
+  "input": {
+    "id": "Single_ETR/2016/page_396.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "entergy new orleans , inc .",
+      "and subsidiaries management 2019s financial discussion and analysis results of operations net income 2016 compared to 2015 net income increased $ 3.9 million primarily due to higher net revenue , partially offset by higher depreciation and amortization expenses , higher interest expense , and lower other income .",
+      "2015 compared to 2014 net income increased $ 13.9 million primarily due to lower other operation and maintenance expenses and higher net revenue , partially offset by a higher effective income tax rate .",
+      "net revenue 2016 compared to 2015 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory charges .",
+      "following is an analysis of the change in net revenue comparing 2016 to 2015 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the retail electric price variance is primarily due to an increase in the purchased power and capacity acquisition cost recovery rider , as approved by the city council , effective with the first billing cycle of march 2016 , primarily related to the purchase of power block 1 of the union power station .",
+      "see note 14 to the financial statements for discussion of the union power station purchase .",
+      "the net gas revenue variance is primarily due to the effect of less favorable weather on residential and commercial sales .",
+      "the volume/weather variance is primarily due to a decrease of 112 gwh , or 2% ( 2 % ) , in billed electricity usage , partially offset by the effect of favorable weather on commercial sales and a 2% ( 2 % ) increase in the average number of electric customers. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2015 net revenue",
+        "$ 293.9"
+      ],
+      [
+        "retail electric price",
+        "39.0"
+      ],
+      [
+        "net gas revenue",
+        "-2.5 ( 2.5 )"
+      ],
+      [
+        "volume/weather",
+        "-5.1 ( 5.1 )"
+      ],
+      [
+        "other",
+        "-8.1 ( 8.1 )"
+      ],
+      [
+        "2016 net revenue",
+        "$ 317.2"
+      ]
+    ],
+    "questions": [
+      "what was the net revenue in 2016?",
+      "what was the net revenue in 2015?",
+      "what is the difference in revenues?",
+      "what was the net revenue in 2015?",
+      "what was the growth rate in net revenue?"
+    ]
+  }
+}

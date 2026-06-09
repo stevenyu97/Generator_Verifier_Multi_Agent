@@ -1,0 +1,91 @@
+{
+  "input": {
+    "id": "C/2009/page_255.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "credit commitments and lines of credit the table below summarizes citigroup 2019s credit commitments as of december 31 , 2009 and december 31 , 2008 : in millions of dollars u.s .",
+      "outside of december 31 , december 31 ."
+    ],
+    "post_text": [
+      "the majority of unused commitments are contingent upon customers 2019 maintaining specific credit standards .",
+      "commercial commitments generally have floating interest rates and fixed expiration dates and may require payment of fees .",
+      "such fees ( net of certain direct costs ) are deferred and , upon exercise of the commitment , amortized over the life of the loan or , if exercise is deemed remote , amortized over the commitment period .",
+      "commercial and similar letters of credit a commercial letter of credit is an instrument by which citigroup substitutes its credit for that of a customer to enable the customer to finance the purchase of goods or to incur other commitments .",
+      "citigroup issues a letter on behalf of its client to a supplier and agrees to pay the supplier upon presentation of documentary evidence that the supplier has performed in accordance with the terms of the letter of credit .",
+      "when a letter of credit is drawn , the customer is then required to reimburse citigroup .",
+      "one- to four-family residential mortgages a one- to four-family residential mortgage commitment is a written confirmation from citigroup to a seller of a property that the bank will advance the specified sums enabling the buyer to complete the purchase .",
+      "revolving open-end loans secured by one- to four-family residential properties revolving open-end loans secured by one- to four-family residential properties are essentially home equity lines of credit .",
+      "a home equity line of credit is a loan secured by a primary residence or second home to the extent of the excess of fair market value over the debt outstanding for the first mortgage .",
+      "commercial real estate , construction and land development commercial real estate , construction and land development include unused portions of commitments to extend credit for the purpose of financing commercial and multifamily residential properties as well as land development projects .",
+      "both secured-by-real-estate and unsecured commitments are included in this line , as well as undistributed loan proceeds , where there is an obligation to advance for construction progress payments .",
+      "however , this line only includes those extensions of credit that , once funded , will be classified as total loans , net on the consolidated balance sheet .",
+      "credit card lines citigroup provides credit to customers by issuing credit cards .",
+      "the credit card lines are unconditionally cancellable by the issuer .",
+      "commercial and other consumer loan commitments commercial and other consumer loan commitments include overdraft and liquidity facilities , as well as commercial commitments to make or purchase loans , to purchase third-party receivables , to provide note issuance or revolving underwriting facilities and to invest in the form of equity .",
+      "amounts include $ 126 billion and $ 170 billion with an original maturity of less than one year at december 31 , 2009 and december 31 , 2008 , respectively .",
+      "in addition , included in this line item are highly leveraged financing commitments , which are agreements that provide funding to a borrower with higher levels of debt ( measured by the ratio of debt capital to equity capital of the borrower ) than is generally considered normal for other companies .",
+      "this type of financing is commonly employed in corporate acquisitions , management buy-outs and similar transactions. ."
+    ],
+    "table": [
+      [
+        "in millions of dollars",
+        "u.s .",
+        "outside of u.s .",
+        "december 31 2009",
+        "december 31 2008"
+      ],
+      [
+        "commercial and similar letters of credit",
+        "$ 1321",
+        "$ 5890",
+        "$ 7211",
+        "$ 8215"
+      ],
+      [
+        "one- to four-family residential mortgages",
+        "788",
+        "282",
+        "1070",
+        "937"
+      ],
+      [
+        "revolving open-end loans secured by one- to four-family residential properties",
+        "20914",
+        "3002",
+        "23916",
+        "25212"
+      ],
+      [
+        "commercial real estate construction and land development",
+        "1185",
+        "519",
+        "1704",
+        "2702"
+      ],
+      [
+        "credit card lines",
+        "649625",
+        "135870",
+        "785495",
+        "1002437"
+      ],
+      [
+        "commercial and other consumer loan commitments",
+        "167510",
+        "89832",
+        "257342",
+        "309997"
+      ],
+      [
+        "total",
+        "$ 841343",
+        "$ 235395",
+        "$ 1076738",
+        "$ 1349500"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the commercial and similar letters of credit in the u.s to outside the u.s in 2009"
+    ]
+  }
+}

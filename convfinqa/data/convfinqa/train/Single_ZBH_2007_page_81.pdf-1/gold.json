@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the basic weight shares outstanding of 2007?",
+      "answer": 235.5,
+      "answer_raw": "235.5",
+      "program": "235.5"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is that of 2005?",
+      "answer": 247.1,
+      "answer_raw": "247.1",
+      "program": "247.1"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does that basic weight shares outstanding of 2007 represents in relation to that of 2005?",
+      "answer": 0.95306,
+      "answer_raw": "0.95306",
+      "program": "divide(235.5, 247.1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the difference between that and the number 1 that represents 100%?",
+      "answer": -0.04694,
+      "answer_raw": "-0.04694",
+      "program": "divide(235.5, 247.1), subtract(#0, const_1)"
+    }
+  ]
+}

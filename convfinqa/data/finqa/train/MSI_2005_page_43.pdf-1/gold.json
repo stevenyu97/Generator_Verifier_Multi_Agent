@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2005 what was the percent of the total number of shares purchased as part of publicly announced plans or programs on or after 11/25/2005",
+      "answer": 0.34488,
+      "answer_raw": "0.34488",
+      "program": "divide(5503500, 15957600)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the company's proportional share of debt from real estate joint ventures ? [14] : the aggregate debt as of december 31 , 2014 , of all of the company 2019s unconsolidated real estate joint ventures is $ 4.6 billion , of which the company 2019s proportionate share of this debt is $ 1.8 billion .",
+      "answer": 6.4,
+      "answer_raw": "6.4",
+      "program": "add(1.8, 4.6)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in total financial assets from 2017 to 2018?",
+      "answer": 0.1552,
+      "answer_raw": "0.1552",
+      "program": "subtract(22181, 19201), divide(#0, 19201)"
+    }
+  ]
+}

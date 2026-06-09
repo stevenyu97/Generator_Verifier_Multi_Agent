@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in percentage cadence design systems , inc . 2019s cumulative 5-year total shareholder return on common stock versus the s&p 500 for the period ending 12/29/07?",
+      "answer": -0.4305,
+      "answer_raw": "-0.4305",
+      "program": "subtract(139.82, const_100), divide(#0, const_100), subtract(182.87, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

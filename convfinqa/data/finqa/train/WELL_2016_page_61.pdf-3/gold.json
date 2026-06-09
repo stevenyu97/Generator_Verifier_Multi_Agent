@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was net operating income in millions attributable to triple-net and seniors housing?",
+      "answer": 2022974.0,
+      "answer_raw": "2022974.0",
+      "program": "add(1208860, 814114)"
+    }
+  ]
+}

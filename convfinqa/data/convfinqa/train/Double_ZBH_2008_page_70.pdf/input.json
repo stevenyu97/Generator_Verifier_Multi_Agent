@@ -1,0 +1,133 @@
+{
+  "input": {
+    "id": "Double_ZBH/2008/page_70.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "december 31 , 2008 , 2007 and 2006 , included ( in millions ) : ."
+    ],
+    "post_text": [
+      "included in the gain on disposition , adjustment or impairment of acquired assets and obligations for 2008 is a favorable adjustment to certain liabilities of acquired companies due to changes in circumstances surrounding those liabilities subsequent to the related measurement period .",
+      "included in the gain on disposition , adjustment or impairment of acquired assets and obligations for 2006 is the sale of the former centerpulse austin land and facilities for a gain of $ 5.1 million and the favorable settlement of two pre- acquisition contingent liabilities .",
+      "these gains were offset by a $ 13.4 million impairment charge for certain centerpulse tradename and trademark intangibles based principally in our europe operating segment .",
+      "in-process research and development charges for 2008 are related to the acquisition of abbott spine .",
+      "in-process research and development charges for 2007 are related to the acquisitions of endius and orthosoft .",
+      "consulting and professional fees relate to third- party integration consulting performed in a variety of areas such as tax , compliance , logistics and human resources and legal fees related to matters involving acquired businesses .",
+      "cash and equivalents 2013 we consider all highly liquid investments with an original maturity of three months or less to be cash equivalents .",
+      "the carrying amounts reported in the balance sheet for cash and equivalents are valued at cost , which approximates their fair value .",
+      "restricted cash is primarily composed of cash held in escrow related to certain insurance coverage .",
+      "inventories 2013 inventories , net of allowances for obsolete and slow-moving goods , are stated at the lower of cost or market , with cost determined on a first-in first-out basis .",
+      "property , plant and equipment 2013 property , plant and equipment is carried at cost less accumulated depreciation .",
+      "depreciation is computed using the straight-line method based on estimated useful lives of ten to forty years for buildings and improvements , three to eight years for machinery and equipment .",
+      "maintenance and repairs are expensed as incurred .",
+      "in accordance with statement of financial accounting standards ( 201csfas 201d ) no .",
+      "144 , 201caccounting for the impairment or disposal of long-lived assets , 201d we review property , plant and equipment for impairment whenever events or changes in circumstances indicate that the carrying value of an asset may not be recoverable .",
+      "an impairment loss would be recognized when estimated future undiscounted cash flows relating to the asset are less than its carrying amount .",
+      "an impairment loss is measured as the amount by which the carrying amount of an asset exceeds its fair value .",
+      "software costs 2013 we capitalize certain computer software and software development costs incurred in connection with developing or obtaining computer software for internal use when both the preliminary project stage is completed and it is probable that the software will be used as intended .",
+      "capitalized software costs generally include external direct costs of materials and services utilized in developing or obtaining computer software and compensation and related benefits for employees who are directly associated with the software project .",
+      "capitalized software costs are included in property , plant and equipment on our balance sheet and amortized on a straight-line basis when the software is ready for its intended use over the estimated useful lives of the software , which approximate three to seven years .",
+      "instruments 2013 instruments are hand-held devices used by orthopaedic surgeons during total joint replacement and other surgical procedures .",
+      "instruments are recognized as long-lived assets and are included in property , plant and equipment .",
+      "undeployed instruments are carried at cost , net of allowances for excess and obsolete instruments .",
+      "instruments in the field are carried at cost less accumulated depreciation .",
+      "depreciation is computed using the straight-line method based on average estimated useful lives , determined principally in reference to associated product life cycles , primarily five years .",
+      "we review instruments for impairment in accordance with sfas no .",
+      "144 .",
+      "depreciation of instruments is recognized as selling , general and administrative expense .",
+      "goodwill 2013 we account for goodwill in accordance with sfas no .",
+      "142 , 201cgoodwill and other intangible assets . 201d goodwill is not amortized but is subject to annual impairment tests .",
+      "goodwill has been assigned to reporting units .",
+      "we perform annual impairment tests by comparing each reporting unit 2019s fair value to its carrying amount to determine if there is potential impairment .",
+      "the fair value of the reporting unit and the implied fair value of goodwill are determined based upon a discounted cash flow analysis .",
+      "significant assumptions are incorporated into to these discounted cash flow analyses such as estimated growth rates and risk-adjusted discount rates .",
+      "we perform this test in the fourth quarter of the year .",
+      "if the fair value of the reporting unit is less than its carrying value , an impairment loss is recorded to the extent that the implied fair value of the reporting unit goodwill is less than the carrying value of the reporting unit goodwill .",
+      "intangible assets 2013 we account for intangible assets in accordance with sfas no .",
+      "142 .",
+      "intangible assets are initially measured at their fair value .",
+      "we have determined the fair value of our intangible assets either by the fair value of the z i m m e r h o l d i n g s , i n c .",
+      "2 0 0 8 f o r m 1 0 - k a n n u a l r e p o r t notes to consolidated financial statements ( continued ) %%transmsg*** transmitting job : c48761 pcn : 044000000 ***%%pcmsg|44 |00007|yes|no|02/24/2009 06:10|0|0|page is valid , no graphics -- color : d| ."
+    ],
+    "table": [
+      [
+        "",
+        "2008",
+        "2007",
+        "2006"
+      ],
+      [
+        "gain on disposition adjustment or impairment of acquired assets and obligations",
+        "$ -9.0 ( 9.0 )",
+        "$ -1.2 ( 1.2 )",
+        "$ -19.2 ( 19.2 )"
+      ],
+      [
+        "consulting and professional fees",
+        "10.1",
+        "1.0",
+        "8.8"
+      ],
+      [
+        "employee severance and retention",
+        "1.9",
+        "1.6",
+        "3.3"
+      ],
+      [
+        "information technology integration",
+        "0.9",
+        "2.6",
+        "3.0"
+      ],
+      [
+        "in-process research & development",
+        "38.5",
+        "6.5",
+        "2.9"
+      ],
+      [
+        "integration personnel",
+        "2013",
+        "2013",
+        "2.5"
+      ],
+      [
+        "facility and employee relocation",
+        "7.5",
+        "2013",
+        "1.0"
+      ],
+      [
+        "distributor acquisitions",
+        "7.3",
+        "4.1",
+        "2013"
+      ],
+      [
+        "sales agent and lease contract terminations",
+        "8.1",
+        "5.4",
+        "0.2"
+      ],
+      [
+        "other",
+        "3.2",
+        "5.2",
+        "3.6"
+      ],
+      [
+        "acquisition integration and other",
+        "$ 68.5",
+        "$ 25.2",
+        "$ 6.1"
+      ]
+    ],
+    "questions": [
+      "what was the information technology integration value in 2007?",
+      "and what was that value in 2006?",
+      "what was, then, the change over the year?",
+      "and what percentage does this change represent in relation to the 2006 value?",
+      "in this same year, how much did the sale of the former centerpulse austin land and facilities represent in relation to the gain on disposition adjustment or impairment of acquired assets and obligations, in percentage?"
+    ]
+  }
+}

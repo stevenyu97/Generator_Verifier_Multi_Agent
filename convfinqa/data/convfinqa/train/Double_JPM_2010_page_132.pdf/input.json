@@ -1,0 +1,101 @@
+{
+  "input": {
+    "id": "Double_JPM/2010/page_132.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "management 2019s discussion and analysis 132 jpmorgan chase & co./2010 annual report unpaid principal balance due to negative amortization of option arms was $ 24 million and $ 78 million at december 31 , 2010 and 2009 , respectively .",
+      "the firm estimates the following balances of option arm loans will experience a recast that results in a payment increase : $ 72 million in 2011 , $ 241 million in 2012 and $ 784 million in 2013 .",
+      "the firm did not originate option arms and new originations of option arms were discontinued by washington mutual prior to the date of jpmorgan chase 2019s acquisition of its banking operations .",
+      "subprime mortgages at december 31 , 2010 were $ 11.3 billion , compared with $ 12.5 billion at december 31 , 2009 .",
+      "the decrease was due to paydowns and charge-offs on delinquent loans , partially offset by the addition of loans as a result of the adoption of the accounting guidance related to vies .",
+      "late-stage delinquencies remained elevated but continued to improve , albeit at a slower rate during the second half of the year , while early-stage delinquencies stabilized at an elevated level during this period .",
+      "nonaccrual loans improved largely as a result of the improvement in late-stage delinquencies .",
+      "charge-offs reflected modest improvement .",
+      "auto : auto loans at december 31 , 2010 , were $ 48.4 billion , compared with $ 46.0 billion at december 31 , 2009 .",
+      "delinquent and nonaccrual loans have decreased .",
+      "in addition , net charge-offs have declined 52% ( 52 % ) from the prior year .",
+      "provision expense de- creased due to favorable loss severity as a result of a strong used- car market nationwide and reduced loss frequency due to the tightening of underwriting criteria in earlier periods .",
+      "the auto loan portfolio reflected a high concentration of prime quality credits .",
+      "business banking : business banking loans at december 31 , 2010 , were $ 16.8 billion , compared with $ 17.0 billion at december 31 , 2009 .",
+      "the decrease was primarily a result of run-off of the washington mutual portfolio and charge-offs on delinquent loans .",
+      "these loans primarily include loans which are highly collateralized , often with personal loan guarantees .",
+      "nonaccrual loans continued to remain elevated .",
+      "after having increased during the first half of 2010 , nonaccrual loans as of december 31 , 2010 , declined to year-end 2009 levels .",
+      "student and other : student and other loans at december 31 , 2010 , including loans held-for-sale , were $ 15.3 billion , compared with $ 16.4 billion at december 31 , 2009 .",
+      "other loans primarily include other secured and unsecured consumer loans .",
+      "delinquencies reflected some stabilization in the second half of 2010 , but remained elevated .",
+      "charge-offs during 2010 remained relatively flat with 2009 levels reflecting the impact of elevated unemployment levels .",
+      "purchased credit-impaired loans : pci loans at december 31 , 2010 , were $ 72.8 billion compared with $ 81.2 billion at december 31 , 2009 .",
+      "this portfolio represents loans acquired in the washing- ton mutual transaction that were recorded at fair value at the time of acquisition .",
+      "that fair value included an estimate of credit losses expected to be realized over the remaining lives of the loans , and therefore no allowance for loan losses was recorded for these loans as of the acquisition date .",
+      "the firm regularly updates the amount of principal and interest cash flows expected to be collected for these loans .",
+      "probable decreases in expected loan principal cash flows would trigger the recognition of impairment through the provision for loan losses .",
+      "probable and significant increases in expected cash flows ( e.g. , decreased principal credit losses , the net benefit of modifications ) would first reverse any previously recorded allowance for loan losses , with any remaining increase in the expected cash flows recognized prospectively in interest income over the remaining estimated lives of the underlying loans .",
+      "during 2010 , management concluded as part of the firm 2019s regular assessment of the pci pools that it was probable that higher expected principal credit losses would result in a decrease in expected cash flows .",
+      "accordingly , the firm recognized an aggregate $ 3.4 billion impairment related to the home equity , prime mortgage , option arm and subprime mortgage pci portfolios .",
+      "as a result of this impairment , the firm 2019s allowance for loan losses for the home equity , prime mortgage , option arm and subprime mortgage pci portfolios was $ 1.6 billion , $ 1.8 billion , $ 1.5 billion and $ 98 million , respectively , at december 31 , 2010 , compared with an allowance for loan losses of $ 1.1 billion and $ 491 million for the prime mortgage and option arm pci portfolios , respectively , at december 31 , 2009 .",
+      "approximately 39% ( 39 % ) of the option arm borrowers were delinquent , 5% ( 5 % ) were making interest-only or negatively amortizing payments , and 56% ( 56 % ) were making amortizing payments .",
+      "approximately 50% ( 50 % ) of current borrowers are subject to risk of payment shock due to future payment recast ; substantially all of the remaining loans have been modified to a fixed rate fully amortizing loan .",
+      "the cumulative amount of unpaid interest added to the unpaid principal balance of the option arm pci pool was $ 1.4 billion and $ 1.9 billion at de- cember 31 , 2010 and 2009 , respectively .",
+      "the firm estimates the following balances of option arm pci loans will experience a recast that results in a payment increase : $ 1.2 billion in 2011 , $ 2.7 billion in 2012 and $ 508 million in 2013 .",
+      "the following table provides a summary of lifetime loss estimates included in both the nonaccretable difference and the allowance for loan losses .",
+      "principal charge-offs will not be recorded on these pools until the nonaccretable difference has been fully depleted .",
+      "lifetime loss estimates ( a ) ltd liquidation losses ( b ) ."
+    ],
+    "post_text": [
+      "( a ) includes the original nonaccretable difference established in purchase accounting of $ 30.5 billion for principal losses only .",
+      "the remaining nonaccretable difference for principal losses only was $ 14.1 billion and $ 21.1 billion at december 31 , 2010 and 2009 , respectively .",
+      "all probable increases in principal losses and foregone interest subsequent to the purchase date are reflected in the allowance for loan losses .",
+      "( b ) life-to-date ( 201cltd 201d ) liquidation losses represent realization of loss upon loan resolution. ."
+    ],
+    "table": [
+      [
+        "december 31 ( in millions )",
+        "lifetime loss estimates ( a ) 2010",
+        "lifetime loss estimates ( a ) 2009",
+        "lifetime loss estimates ( a ) 2010",
+        "2009"
+      ],
+      [
+        "option arms",
+        "$ 11588",
+        "$ 10650",
+        "$ 4860",
+        "$ 1744"
+      ],
+      [
+        "home equity",
+        "14698",
+        "13138",
+        "8810",
+        "6060"
+      ],
+      [
+        "prime mortgage",
+        "4870",
+        "4240",
+        "1495",
+        "794"
+      ],
+      [
+        "subprime mortgage",
+        "3732",
+        "3842",
+        "1250",
+        "796"
+      ],
+      [
+        "total",
+        "$ 34888",
+        "$ 31870",
+        "$ 16415",
+        "$ 9394"
+      ]
+    ],
+    "questions": [
+      "what is the business banking loans in 2010?",
+      "what about in 2009?",
+      "what is the ratio of 2010 to 2009?"
+    ]
+  }
+}

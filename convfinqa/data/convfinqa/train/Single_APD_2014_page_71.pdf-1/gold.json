@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in sales from 2013 to 2014?",
+      "answer": -43.8,
+      "answer_raw": "-43.8",
+      "program": "subtract(8.5, 52.3)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total sales in 2013?",
+      "answer": 52.3,
+      "answer_raw": "52.3",
+      "program": "52.3"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage change does this represent?",
+      "answer": -0.83748,
+      "answer_raw": "-0.83748",
+      "program": "subtract(8.5, 52.3), divide(#0, 52.3)"
+    }
+  ]
+}

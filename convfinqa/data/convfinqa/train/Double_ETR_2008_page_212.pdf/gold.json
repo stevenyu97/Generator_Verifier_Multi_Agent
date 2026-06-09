@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2008, what portion of the total owned and leased capability was used by entergy arkansas?",
+      "answer": 0.22642,
+      "answer_raw": "0.22642",
+      "program": "divide(4999, 22078)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what percentage of it was due to nuclear?",
+      "answer": 0.23181,
+      "answer_raw": "0.23181",
+      "program": "divide(5118, 22078)"
+    }
+  ]
+}

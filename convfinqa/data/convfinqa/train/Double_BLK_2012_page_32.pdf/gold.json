@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the alternative component changes between 2011 and 2012?",
+      "answer": 4847.0,
+      "answer_raw": "4847.0",
+      "program": "subtract(109795, 104948)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the percentage change of this value?",
+      "answer": 0.04618,
+      "answer_raw": "0.04618",
+      "program": "subtract(109795, 104948), divide(#0, 104948)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what part of the growth in aum was driven by net new business as a percentage of alternative component changes from 12/31/12?",
+      "answer": 0.13206,
+      "answer_raw": "0.13206",
+      "program": "divide(14.5, 109.8)"
+    }
+  ]
+}

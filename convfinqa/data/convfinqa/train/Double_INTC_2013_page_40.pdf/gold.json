@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the operating margin in 2012?",
+      "answer": 0.37984,
+      "answer_raw": "0.37984",
+      "program": "divide(13106, 34504)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2013?",
+      "answer": 0.35797,
+      "answer_raw": "0.35797",
+      "program": "divide(11827, 33039)"
+    }
+  ]
+}

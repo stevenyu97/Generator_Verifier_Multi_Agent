@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net pension cost in 2018?",
+      "answer": 137.0,
+      "answer_raw": "137.0",
+      "program": "137"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2017?",
+      "answer": 138.0,
+      "answer_raw": "138.0",
+      "program": "138"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combined, what was the total for these two years?",
+      "answer": 275.0,
+      "answer_raw": "275.0",
+      "program": "add(137, 138)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in 2016?",
+      "answer": 113.0,
+      "answer_raw": "113.0",
+      "program": "113"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "combined, what was the total for these three years?",
+      "answer": 388.0,
+      "answer_raw": "388.0",
+      "program": "add(137, 138), add(#0, 113)"
+    }
+  ]
+}

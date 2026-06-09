@@ -1,0 +1,143 @@
+{
+  "input": {
+    "id": "AES/2010/page_133.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "2022 integration of new projects .",
+      "during 2010 , the following projects were acquired or commenced commercial operations : project location fuel aes equity interest ( percent , rounded ) ."
+    ],
+    "post_text": [
+      "damlapinar ( 4 ) .",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "turkey hydro 16 51% ( 51 % ) ( 1 ) jianghe rural electrification development co .",
+      "ltd .",
+      "( 201cjhrh 201d ) and aes china hydropower investment co .",
+      "ltd .",
+      "entered into an agreement to acquire a 49% ( 49 % ) interest in this joint venture in june 2010 .",
+      "acquisition of 35% ( 35 % ) ownership was completed in june 2010 and the transfer of the remaining 14% ( 14 % ) ownership , which is subject to approval by the chinese government , is expected to be completed in may 2011 .",
+      "( 2 ) guacolda is an equity method investment indirectly held by aes through gener .",
+      "the aes equity interest reflects the 29% ( 29 % ) noncontrolling interests in gener .",
+      "( 3 ) joint venture with guohua energy investment co .",
+      "ltd .",
+      "( 4 ) joint venture with i.c .",
+      "energy .",
+      "key trends and uncertainties our operations continue to face many risks as discussed in item 1a . 2014risk factors of this form 10-k .",
+      "some of these challenges are also described above in key drivers of results in 2010 .",
+      "we continue to monitor our operations and address challenges as they arise .",
+      "development .",
+      "during the past year , the company has successfully acquired and completed construction of a number of projects , totaling approximately 2404 mw , including the acquisition of ballylumford in the united kingdom and completion of construction of a number of projects in europe , chile and china .",
+      "however , as discussed in item 1a . 2014risk factors 2014our business is subject to substantial development uncertainties of this form 10-k , our development projects are subject to uncertainties .",
+      "certain delays have occurred at the 670 mw maritza coal-fired project in bulgaria , and the project has not yet begun commercial operations .",
+      "as noted in note 10 2014debt included in item 8 of this form 10-k , as a result of these delays the project debt is in default and the company is working with its lenders to resolve the default .",
+      "in addition , as noted in item 3 . 2014legal proceedings , the company is in litigation with the contractor regarding the cause of delays .",
+      "at this time , we believe that maritza will commence commercial operations for at least some of the project 2019s capacity by the second half of 2011 .",
+      "however , commencement of commercial operations could be delayed beyond this time frame .",
+      "there can be no assurance that maritza will achieve commercial operations , in whole or in part , by the second half of 2011 , resolve the default with the lenders or prevail in the litigation referenced above , which could result in the loss of some or all of our investment or require additional funding for the project .",
+      "any of these events could have a material adverse effect on the company 2019s operating results or financial position .",
+      "global economic conditions .",
+      "during the past few years , economic conditions in some countries where our subsidiaries conduct business have deteriorated .",
+      "although the economic conditions in several of these countries have improved in recent months , our businesses could be impacted in the event these recent trends do not continue. ."
+    ],
+    "table": [
+      [
+        "project",
+        "location",
+        "fuel",
+        "gross mw",
+        "aes equity interest ( percent rounded )"
+      ],
+      [
+        "ballylumford",
+        "united kingdom",
+        "gas",
+        "1246",
+        "100% ( 100 % )"
+      ],
+      [
+        "jhrh ( 1 )",
+        "china",
+        "hydro",
+        "379",
+        "35% ( 35 % )"
+      ],
+      [
+        "nueva ventanas",
+        "chile",
+        "coal",
+        "272",
+        "71% ( 71 % )"
+      ],
+      [
+        "st . nikola",
+        "bulgaria",
+        "wind",
+        "156",
+        "89% ( 89 % )"
+      ],
+      [
+        "guacolda 4 ( 2 )",
+        "chile",
+        "coal",
+        "152",
+        "35% ( 35 % )"
+      ],
+      [
+        "dong qi ( 3 )",
+        "china",
+        "wind",
+        "49",
+        "49% ( 49 % )"
+      ],
+      [
+        "huanghua ii ( 3 )",
+        "china",
+        "wind",
+        "49",
+        "49% ( 49 % )"
+      ],
+      [
+        "st . patrick",
+        "france",
+        "wind",
+        "35",
+        "100% ( 100 % )"
+      ],
+      [
+        "north rhins",
+        "scotland",
+        "wind",
+        "22",
+        "100% ( 100 % )"
+      ],
+      [
+        "kepezkaya",
+        "turkey",
+        "hydro",
+        "28",
+        "51% ( 51 % )"
+      ],
+      [
+        "damlapinar ( 4 )",
+        "turkey",
+        "hydro",
+        "16",
+        "51% ( 51 % )"
+      ]
+    ],
+    "questions": [
+      "what percentage of mw from acquired or commenced commercial operations in 2010 were due to nueva ventana?"
+    ]
+  }
+}

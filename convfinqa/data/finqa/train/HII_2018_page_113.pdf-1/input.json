@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "HII/2018/page_113.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "pension plan assets pension assets include public equities , government and corporate bonds , cash and cash equivalents , private real estate funds , private partnerships , hedge funds , and other assets .",
+      "plan assets are held in a master trust and overseen by the company's investment committee .",
+      "all assets are externally managed through a combination of active and passive strategies .",
+      "managers may only invest in the asset classes for which they have been appointed .",
+      "the investment committee is responsible for setting the policy that provides the framework for management of the plan assets .",
+      "the investment committee has set the minimum and maximum permitted values for each asset class in the company's pension plan master trust for the year ended december 31 , 2018 , as follows: ."
+    ],
+    "post_text": [
+      "the general objectives of the company's pension asset strategy are to earn a rate of return over time to satisfy the benefit obligations of the plans , meet minimum erisa funding requirements , and maintain sufficient liquidity to pay benefits and address other cash requirements within the master trust .",
+      "specific investment objectives include reducing the volatility of pension assets relative to benefit obligations , achieving a competitive , total investment return , achieving diversification between and within asset classes , and managing other risks .",
+      "investment objectives for each asset class are determined based on specific risks and investment opportunities identified .",
+      "decisions regarding investment policies and asset allocation are made with the understanding of the historical and prospective return and risk characteristics of various asset classes , the effect of asset allocations on funded status , future company contributions , and projected expenditures , including benefits .",
+      "the company updates its asset allocations periodically .",
+      "the company uses various analytics to determine the optimal asset mix and considers plan obligation characteristics , duration , liquidity characteristics , funding requirements , expected rates of return , regular rebalancing , and the distribution of returns .",
+      "actual allocations to each asset class could vary from target allocations due to periodic investment strategy changes , short-term market value fluctuations , the length of time it takes to fully implement investment allocation positions , such as real estate and other alternative investments , and the timing of benefit payments and company contributions .",
+      "taking into account the asset allocation ranges , the company determines the specific allocation of the master trust's investments within various asset classes .",
+      "the master trust utilizes select investment strategies , which are executed through separate account or fund structures with external investment managers who demonstrate experience and expertise in the appropriate asset classes and styles .",
+      "the selection of investment managers is done with careful evaluation of all aspects of performance and risk , demonstrated fiduciary responsibility , investment management experience , and a review of the investment managers' policies and processes .",
+      "investment performance is monitored frequently against appropriate benchmarks and tracked to compliance guidelines with the assistance of third party consultants and performance evaluation tools and metrics .",
+      "plan assets are stated at fair value .",
+      "the company employs a variety of pricing sources to estimate the fair value of its pension plan assets , including independent pricing vendors , dealer or counterparty-supplied valuations , third- party appraisals , and appraisals prepared by the company's investment managers or other experts .",
+      "investments in equity securities , common and preferred , are valued at the last reported sales price when an active market exists .",
+      "securities for which official or last trade pricing on an active exchange is available are classified as level 1 .",
+      "if closing prices are not available , securities are valued at the last trade price , if deemed reasonable , or a broker's quote in a non-active market , and are typically categorized as level 2 .",
+      "investments in fixed-income securities are generally valued by independent pricing services or dealers who make markets in such securities .",
+      "pricing methods are based upon market transactions for comparable securities and various relationships between securities that are generally recognized by institutional traders , and fixed-income securities typically are categorized as level 2. ."
+    ],
+    "table": [
+      [
+        "u.s . equities",
+        "range 15",
+        "range -",
+        "range 36% ( 36 % )"
+      ],
+      [
+        "international equities",
+        "10",
+        "-",
+        "29% ( 29 % )"
+      ],
+      [
+        "fixed income securities",
+        "25",
+        "-",
+        "50% ( 50 % )"
+      ],
+      [
+        "alternative investments",
+        "10",
+        "-",
+        "25% ( 25 % )"
+      ]
+    ],
+    "questions": [
+      "what is the difference in the range of u.s equities permitted in the company's pension plan?"
+    ]
+  }
+}

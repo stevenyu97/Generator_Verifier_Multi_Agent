@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by what percentage did the pension pretax expenses decrease from 2012 to 2013?",
+      "answer": 17.97753,
+      "answer_raw": "17.97753",
+      "program": "subtract(89, 73), divide(#0, 89), multiply(#1, const_100)"
+    }
+  ]
+}

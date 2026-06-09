@@ -1,0 +1,53 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the wti crude oil benchmark from 2009 to 2011?",
+      "answer": 33.02,
+      "answer_raw": "33.02",
+      "program": "subtract(95.11, 62.09)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the wti crude oil benchmark in 2009?",
+      "answer": 62.09,
+      "answer_raw": "62.09",
+      "program": "62.09"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage change does this represent?",
+      "answer": 0.53181,
+      "answer_raw": "0.53181",
+      "program": "subtract(95.11, 62.09), divide(#0, 62.09)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the brent crude oil benchmark in 2011?",
+      "answer": 111.26,
+      "answer_raw": "111.26",
+      "program": "111.26"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what about in 2010?",
+      "answer": 79.51,
+      "answer_raw": "79.51",
+      "program": "79.51"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the net change?",
+      "answer": 31.75,
+      "answer_raw": "31.75",
+      "program": "subtract(111.26, 79.51)"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "what percentage change does this represent?",
+      "answer": 0.39932,
+      "answer_raw": "0.39932",
+      "program": "subtract(111.26, 79.51), divide(#0, 79.51)"
+    }
+  ]
+}

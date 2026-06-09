@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many shares are subject to outstanding awards is under the 2009 global incentive plan?",
+      "answer": 2530454.0,
+      "answer_raw": "2530454.0",
+      "program": "2530454"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about under the 2004 stock incentive plan?",
+      "answer": 5923147.0,
+      "answer_raw": "5923147.0",
+      "program": "5923147"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how many total shares are subject to outstanding awards?",
+      "answer": 8453601.0,
+      "answer_raw": "8453601.0",
+      "program": "add(2530454, 5923147)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about under the 2004 stock incentive plan?",
+      "answer": 5923147.0,
+      "answer_raw": "5923147.0",
+      "program": "5923147"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what proportion does this represent?",
+      "answer": 0.70067,
+      "answer_raw": "0.70067",
+      "program": "add(2530454, 5923147), divide(5923147, #0)"
+    }
+  ]
+}

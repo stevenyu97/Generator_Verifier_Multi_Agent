@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent change in salaries and employee benefits between 1999 and 2000?",
+      "answer": 0.1607,
+      "answer_raw": "0.1607",
+      "program": "subtract(1524, 1313), divide(#0, 1313)"
+    }
+  ]
+}

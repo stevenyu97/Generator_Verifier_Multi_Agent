@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "Single_ANSS/2008/page_89.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "15 .",
+      "leases in january 1996 , the company entered into a lease agreement with an unrelated third party for a new corporate office facility , which the company occupied in february 1997 .",
+      "in may 2004 , the company entered into the first amendment to this lease agreement , effective january 1 , 2004 .",
+      "the lease was extended from an original period of 10 years , with an option for five additional years , to a period of 18 years from the inception date , with an option for five additional years .",
+      "the company incurred lease rental expense related to this facility of $ 1.3 million in 2008 , 2007 and 2006 .",
+      "the future minimum lease payments are $ 1.4 million per annum from january 1 , 2009 to december 31 , 2014 .",
+      "the future minimum lease payments from january 1 , 2015 through december 31 , 2019 will be determined based on prevailing market rental rates at the time of the extension , if elected .",
+      "the amended lease also provided for the lessor to reimburse the company for up to $ 550000 in building refurbishments completed through march 31 , 2006 .",
+      "these amounts have been recorded as a reduction of lease expense over the remaining term of the lease .",
+      "the company has also entered into various noncancellable operating leases for equipment and office space .",
+      "office space lease expense totaled $ 9.3 million , $ 6.3 million and $ 4.7 million for the years ended december 31 , 2008 , 2007 and 2006 , respectively .",
+      "future minimum lease payments under noncancellable operating leases for office space in effect at december 31 , 2008 are $ 8.8 million in 2009 , $ 6.6 million in 2010 , $ 3.0 million in 2011 , $ 1.8 million in 2012 and $ 1.1 million in 2013 .",
+      "16 .",
+      "royalty agreements the company has entered into various renewable , nonexclusive license agreements under which the company has been granted access to the licensor 2019s technology and the right to sell the technology in the company 2019s product line .",
+      "royalties are payable to developers of the software at various rates and amounts , which generally are based upon unit sales or revenue .",
+      "royalty fees are reported in cost of goods sold and were $ 6.3 million , $ 5.2 million and $ 3.9 million for the years ended december 31 , 2008 , 2007 and 2006 , respectively .",
+      "17 .",
+      "geographic information revenue to external customers is attributed to individual countries based upon the location of the customer .",
+      "revenue by geographic area is as follows: ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "( in thousands )",
+        "year ended december 31 , 2008",
+        "year ended december 31 , 2007",
+        "year ended december 31 , 2006"
+      ],
+      [
+        "united states",
+        "$ 151688",
+        "$ 131777",
+        "$ 94282"
+      ],
+      [
+        "germany",
+        "68390",
+        "50973",
+        "34567"
+      ],
+      [
+        "japan",
+        "66960",
+        "50896",
+        "35391"
+      ],
+      [
+        "canada",
+        "8033",
+        "4809",
+        "4255"
+      ],
+      [
+        "other european",
+        "127246",
+        "108971",
+        "70184"
+      ],
+      [
+        "other international",
+        "56022",
+        "37914",
+        "24961"
+      ],
+      [
+        "total revenue",
+        "$ 478339",
+        "$ 385340",
+        "$ 263640"
+      ]
+    ],
+    "questions": [
+      "what were royalty fees for 2007 and 2008?",
+      "what were they including 2006?"
+    ]
+  }
+}

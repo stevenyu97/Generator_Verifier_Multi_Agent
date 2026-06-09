@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage of deferred fuel costs out of total fuel write-offs in 2002?",
+      "answer": 0.5817,
+      "answer_raw": "0.5817",
+      "program": "divide(8.9, 15.3)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the change in net revenue during 2003 for entergy gulf states?",
+      "answer": -20.6,
+      "answer_raw": "-20.6",
+      "program": "subtract(1110.1, 1130.7)"
+    }
+  ]
+}

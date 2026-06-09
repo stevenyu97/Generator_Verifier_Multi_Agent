@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the aggregate balance at december 31 2015 for phillip r . may jr.?",
+      "answer": 1574.0,
+      "answer_raw": "1574.0",
+      "program": "subtract(1751, 177)"
+    }
+  ]
+}

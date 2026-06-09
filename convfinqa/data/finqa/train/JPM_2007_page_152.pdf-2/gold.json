@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average assets ( in billions ) for each of the firm's self sponsored conduits?",
+      "answer": 390.525,
+      "answer_raw": "390.525",
+      "program": "divide(1562.1, const_4)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "input": {
+    "id": "Double_NWS/2019/page_120.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "news corporation notes to the consolidated financial statements consideration over the fair value of the net tangible and intangible assets acquired was recorded as goodwill .",
+      "the allocation is as follows ( in millions ) : assets acquired: ."
+    ],
+    "post_text": [
+      "the acquired intangible assets primarily relate to broadcast licenses , which have a fair value of approximately $ 185 million , tradenames , which have a fair value of approximately $ 27 million , and customer relationships with a fair value of approximately $ 8 million .",
+      "the broadcast licenses and tradenames have indefinite lives and the customer relationships are being amortized over a weighted-average useful life of approximately 6 years .",
+      "wireless group 2019s results are included within the news and information services segment , and it is considered a separate reporting unit for purposes of the company 2019s annual goodwill impairment review .",
+      "rea group european business in december 2016 , rea group , in which the company holds a 61.6% ( 61.6 % ) interest , sold its european business for approximately $ 140 million ( approximately 20ac133 million ) in cash , which resulted in a pre-tax gain of $ 107 million for the fiscal year ended june 30 , 2017 .",
+      "the sale allows rea group to focus on its core businesses in australia and asia .",
+      "in addition to the acquisitions noted above and the investments referenced in note 6 2014investments , the company used $ 62 million of cash for additional acquisitions during fiscal 2017 , primarily consisting of australian regional media ( 201carm 201d ) .",
+      "arm 2019s results are included within the news and information services segment .",
+      "note 5 .",
+      "restructuring programs the company recorded restructuring charges of $ 92 million , $ 71 million and $ 142 million for the fiscal years ended june 30 , 2019 , 2018 and 2017 , respectively , of which $ 77 million , $ 58 million and $ 133 million related to the news and information services segment , respectively .",
+      "the restructuring charges recorded in fiscal 2019 , 2018 and 2017 were primarily for employee termination benefits. ."
+    ],
+    "table": [
+      [
+        "intangible assets",
+        "$ 220"
+      ],
+      [
+        "goodwill",
+        "115"
+      ],
+      [
+        "net liabilities",
+        "-50 ( 50 )"
+      ],
+      [
+        "total net assets acquired",
+        "$ 285"
+      ]
+    ],
+    "questions": [
+      "what portion of total net assets purchased was related to goodwill?",
+      "what is the value of intangible assets purchased?",
+      "what about the total value of net assets purchased?",
+      "what portion is related to intangible assets?"
+    ]
+  }
+}

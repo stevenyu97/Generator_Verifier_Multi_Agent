@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the entergy arkansas payment goes to entergy mississippi?",
+      "answer": 0.21154,
+      "answer_raw": "0.21154",
+      "program": "divide(33, 156)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and which portion goes to entergy texas?",
+      "answer": 0.27564,
+      "answer_raw": "0.27564",
+      "program": "divide(43, 156)"
+    }
+  ]
+}

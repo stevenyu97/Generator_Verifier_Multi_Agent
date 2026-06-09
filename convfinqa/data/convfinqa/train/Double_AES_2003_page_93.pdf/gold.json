@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the balance of liabilities related to asset retirement obligations throughout 2003?",
+      "answer": 14.0,
+      "answer_raw": "14.0",
+      "program": "subtract(29, 15)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and, by the end of the year, what would have been that balance without the accounting change?",
+      "answer": 16.0,
+      "answer_raw": "16.0",
+      "program": "subtract(29, 13)"
+    }
+  ]
+}

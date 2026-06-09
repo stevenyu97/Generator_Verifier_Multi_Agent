@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total maturities expire after 2012?",
+      "answer": 0.42903,
+      "answer_raw": "0.42903",
+      "program": "divide(1436263, 3347676)"
+    }
+  ]
+}

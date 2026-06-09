@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the wholesale lending-related commitments in 2010 compared to 2009",
+      "answer": 0.99683,
+      "answer_raw": "0.99683",
+      "program": "divide(346.1, 347.2)"
+    }
+  ]
+}

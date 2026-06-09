@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "without the wholesale provision in 2015 , what would the total loan loss provision have been?",
+      "answer": 3041.0,
+      "answer_raw": "3041.0",
+      "program": "subtract(3827, 786)"
+    }
+  ]
+}

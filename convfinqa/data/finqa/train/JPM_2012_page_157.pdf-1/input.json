@@ -1,0 +1,43 @@
+{
+  "input": {
+    "id": "JPM/2012/page_157.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "jpmorgan chase & co./2012 annual report 167 the chart shows that for year ended december 31 , 2012 , the firm posted market risk related gains on 220 of the 261 days in this period , with gains on eight days exceeding $ 200 million .",
+      "the chart includes year to date losses incurred in the synthetic credit portfolio .",
+      "cib and credit portfolio posted market risk-related gains on 254 days in the period .",
+      "the inset graph looks at those days on which the firm experienced losses and depicts the amount by which var exceeded the actual loss on each of those days .",
+      "of the losses that were sustained on the 41 days of the 261 days in the trading period , the firm sustained losses that exceeded the var measure on three of those days .",
+      "these losses in excess of the var all occurred in the second quarter of 2012 and were due to the adverse effect of market movements on risk positions in the synthetic credit portfolio held by cio .",
+      "during the year ended december 31 , 2012 , cib and credit portfolio experienced seven loss days ; none of the losses on those days exceeded their respective var measures .",
+      "other risk measures debit valuation adjustment sensitivity the following table provides information about the gross sensitivity of dva to a one-basis-point increase in jpmorgan chase 2019s credit spreads .",
+      "this sensitivity represents the impact from a one-basis-point parallel shift in jpmorgan chase 2019s entire credit curve .",
+      "however , the sensitivity at a single point in time multiplied by the change in credit spread at a single maturity point may not be representative of the actual dva gain or loss realized within a period .",
+      "the actual results reflect the movement in credit spreads across various maturities , which typically do not move in a parallel fashion , and is the product of a constantly changing exposure profile , among other factors .",
+      "debit valuation adjustment sensitivity ( in millions ) one basis-point increase in jpmorgan chase 2019s credit spread ."
+    ],
+    "post_text": [
+      "economic-value stress testing along with var , stress testing is important in measuring and controlling risk .",
+      "while var reflects the risk of loss due to adverse changes in markets using recent historical market behavior as an indicator of losses , stress testing captures the firm 2019s exposure to unlikely but plausible events in abnormal markets .",
+      "the firm runs weekly stress tests on market-related risks across the lines of business using multiple scenarios that assume significant changes in risk factors such as credit spreads , equity prices , interest rates , currency rates or commodity prices .",
+      "the framework uses a grid-based approach , which calculates multiple magnitudes of stress for both market rallies and market sell-offs for ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "one basis-point increase injpmorgan chase 2019s credit spread"
+      ],
+      [
+        "december 31 2012",
+        "$ 34"
+      ],
+      [
+        "december 31 2011",
+        "35"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in the one basis-point increase in jpmorgan chase 2019s credit spread from 2011 to 2012"
+    ]
+  }
+}

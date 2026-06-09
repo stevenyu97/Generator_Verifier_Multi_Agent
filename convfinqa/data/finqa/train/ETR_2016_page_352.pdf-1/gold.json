@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in entergy louisiana 2019s receivables from the money pool from 2015 to 2016?",
+      "answer": 16349.0,
+      "answer_raw": "16349.0",
+      "program": "subtract(22503, 6154)"
+    }
+  ]
+}

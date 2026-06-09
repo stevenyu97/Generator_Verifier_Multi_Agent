@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the implicit interest costs for the 2018 lease payments , in thousands?",
+      "answer": 881.7444,
+      "answer_raw": "881.7444",
+      "program": "divide(5.13, const_100), multiply(#0, 17188)"
+    }
+  ]
+}

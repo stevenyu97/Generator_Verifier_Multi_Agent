@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of restricted stock was canceled in 2013?",
+      "answer": 0.00116,
+      "answer_raw": "0.00116",
+      "program": "divide(3267, 2804901)"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "input": {
+    "id": "CAG/2007/page_41.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "years 2002 , 2003 , 2004 , and the first two quarters of fiscal 2005 .",
+      "the restatement related to tax matters .",
+      "the company provided information to the sec staff relating to the facts and circumstances surrounding the restatement .",
+      "on july 28 , 2006 , the company filed an amendment to its annual report on form 10-k for the fiscal year ended may 29 , 2005 .",
+      "the filing amended item 6 .",
+      "selected financial data and exhibit 12 , computation of ratios of earnings to fixed charges , for fiscal year 2001 , and certain restated financial information for fiscal years 1999 and 2000 , all related to the application of certain of the company 2019s reserves for the three years and fiscal year 1999 income tax expense .",
+      "the company provided information to the sec staff relating to the facts and circumstances surrounding the amended filing .",
+      "the company reached an agreement with the sec staff concerning matters associated with these amended filings .",
+      "that proposed settlement was approved by the securities and exchange commission on july 17 , 2007 .",
+      "on july 24 , 2007 , the sec filed its complaint against the company in the united states district court for the district of colorado , followed by an executed consent , which without the company admitting or denying the allegations of the complaint , reflects the terms of the settlement , including payment by the company of a civil penalty of $ 45 million and the company 2019s agreement to be permanently enjoined from violating certain provisions of the federal securities laws .",
+      "additionally , the company made approximately $ 2 million in indemnity payments on behalf of former employees concluding separate settlements with the sec .",
+      "the company recorded charges of $ 25 million in fiscal 2004 , $ 21.5 million in the third quarter of fiscal 2005 , and $ 1.2 million in the first quarter of fiscal 2007 in connection with the expected settlement of these matters .",
+      "three purported class actions were filed in united states district court for nebraska , rantala v .",
+      "conagra foods , inc. , et .",
+      "al. , case no .",
+      "805cv349 , and bright v .",
+      "conagra foods , inc. , et .",
+      "al. , case no .",
+      "805cv348 on july 18 , 2005 , and boyd v .",
+      "conagra foods , inc. , et .",
+      "al. , case no .",
+      "805cv386 on august 8 , 2005 .",
+      "the lawsuits are against the company , its directors and its employee benefits committee on behalf of participants in the company 2019s employee retirement income savings plans .",
+      "the lawsuits allege violations of the employee retirement income security act ( erisa ) in connection with the events resulting in the company 2019s april 2005 restatement of its financial statements and related matters .",
+      "the company has reached a settlement with the plaintiffs in these actions subject to court approval .",
+      "the settlement includes a $ 4 million payment , most of which will be paid by an insurer .",
+      "the company has also agreed to make certain prospective changes to its benefit plans as part of the settlement .",
+      "2006 vs .",
+      "2005 net sales ( $ in millions ) reporting segment fiscal 2006 net sales fiscal 2005 net sales % (  % ) increase/ ( decrease ) ."
+    ],
+    "post_text": [
+      "overall , company net sales increased $ 98 million to $ 11.5 billion in fiscal 2006 , primarily reflecting favorable results in the food and ingredients and international foods segments .",
+      "price increases driven by higher input costs for potatoes , wheat milling and dehydrated vegetables within the food and ingredients segment , coupled with the strength of foreign currencies within the international foods segment enhanced net sales .",
+      "these increases were partially offset by volume declines in the consumer foods segment , principally related to certain shelf stable brands and declines in the trading and merchandising segment related to decreased volumes and certain divestitures and closures. ."
+    ],
+    "table": [
+      [
+        "reporting segment",
+        "fiscal 2006 net sales",
+        "fiscal 2005 net sales",
+        "% (  % ) increase/ ( decrease )"
+      ],
+      [
+        "consumer foods",
+        "$ 6504",
+        "$ 6598",
+        "( 1 ) % (  % )"
+      ],
+      [
+        "food and ingredients",
+        "3189",
+        "2986",
+        "7% ( 7 % )"
+      ],
+      [
+        "trading and merchandising",
+        "1186",
+        "1224",
+        "( 3 ) % (  % )"
+      ],
+      [
+        "international foods",
+        "603",
+        "576",
+        "5% ( 5 % )"
+      ],
+      [
+        "total",
+        "$ 11482",
+        "$ 11384",
+        "1% ( 1 % )"
+      ]
+    ],
+    "questions": [
+      "what percentage of total net sales where comprised of food and ingredients in 2005?"
+    ]
+  }
+}

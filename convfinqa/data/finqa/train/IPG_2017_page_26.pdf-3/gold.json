@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total repurchase of share has occurred during november?",
+      "answer": 0.40538,
+      "answer_raw": "0.40538",
+      "program": "divide(1723139, 4250646)"
+    }
+  ]
+}

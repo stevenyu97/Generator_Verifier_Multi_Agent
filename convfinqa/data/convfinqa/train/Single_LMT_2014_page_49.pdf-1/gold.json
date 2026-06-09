@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in net sales for mst from 2013 to 2014?",
+      "answer": -6.0,
+      "answer_raw": "-6.0",
+      "program": "subtract(7147, 7153)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what were those net sales in 2013?",
+      "answer": 7153.0,
+      "answer_raw": "7153.0",
+      "program": "7153"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to these 2013 net sales?",
+      "answer": -0.00084,
+      "answer_raw": "-0.00084",
+      "program": "subtract(7147, 7153), divide(#0, 7153)"
+    }
+  ]
+}

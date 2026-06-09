@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the profit margin in 2012",
+      "answer": 0.19013,
+      "answer_raw": "0.19013",
+      "program": "divide(2989, 15721)"
+    }
+  ]
+}

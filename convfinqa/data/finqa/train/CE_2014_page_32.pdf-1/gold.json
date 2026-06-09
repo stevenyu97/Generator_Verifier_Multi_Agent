@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2014 for the period october 1 - 31 2014 what was the ratio of the shares purchased as part of publicly announced program to the total number of shares purchased",
+      "answer": 0.85575,
+      "answer_raw": "0.85575",
+      "program": "divide(164800, 192580)"
+    }
+  ]
+}

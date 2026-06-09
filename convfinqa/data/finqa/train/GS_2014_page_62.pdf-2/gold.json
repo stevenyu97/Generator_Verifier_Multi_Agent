@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in standardized rwas in 2014?",
+      "answer": -0.01204,
+      "answer_raw": "-0.01204",
+      "program": "subtract(627444, 635092), divide(#0, 635092)"
+    }
+  ]
+}

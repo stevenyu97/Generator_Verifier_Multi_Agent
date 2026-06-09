@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the number of barrels per day generated in garyville louisiana?",
+      "answer": 436.0,
+      "answer_raw": "436.0",
+      "program": "436"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the total barrels per day?",
+      "answer": 1188.0,
+      "answer_raw": "1188.0",
+      "program": "1188"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what portion of total carrels per day is coming from garyville louisiana?",
+      "answer": 0.367,
+      "answer_raw": "0.367",
+      "program": "divide(436, 1188)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about the portion coming from catlettsburg kentucky?",
+      "answer": 0.17845,
+      "answer_raw": "0.17845",
+      "program": "divide(212, 1188)"
+    }
+  ]
+}

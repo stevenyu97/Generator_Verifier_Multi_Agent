@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the total shares purchased during the fourth quarter of 2017 were purchased in november?",
+      "answer": 0.31451,
+      "answer_raw": "0.31451",
+      "program": "divide(3005225, 9555180)"
+    }
+  ]
+}

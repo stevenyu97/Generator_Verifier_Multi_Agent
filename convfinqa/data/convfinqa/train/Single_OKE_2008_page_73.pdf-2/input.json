@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "Single_OKE/2008/page_73.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "2022 lower 2008 storage margins related to storage risk management positions and the impact of changes in natural gas prices on these positions ; and 2022 fewer opportunities to optimize storage capacity due to the significant decline in natural gas prices in the second half of 2008 ; o a decrease of $ 9.7 million in physical storage margins due to a lower of cost or market write-down on natural gas inventory ; and o a decrease of $ 2.1 million due to colder than anticipated weather and market conditions that increased the supply cost of managing our peaking and load-following services and provided fewer opportunities to increase margins through optimization activities , primarily in the first quarter of 2008 ; partially offset by o an increase of $ 15.8 million from changes in the unrealized fair value of derivative instruments associated with storage and marketing activities and improved marketing margins , which benefited from price movements and optimization activities .",
+      "operating costs decreased primarily due to lower employee-related costs and depreciation expense .",
+      "2007 vs .",
+      "2006 - net margin decreased primarily due to : 2022 a decrease of $ 22.0 million in transportation margins , net of hedging activities , associated with changes in the unrealized fair value of derivative instruments and the impact of a force majeure event on the cheyenne plains gas pipeline , as more fully described below ; 2022 a decrease of $ 5.0 million in retail activities from lower physical margins due to market conditions and increased competition ; 2022 a decrease of $ 4.3 million in financial trading margins that was partially offset by 2022 an increase of $ 4.9 million in storage and marketing margins , net of hedging activities , related to : o an increase in physical storage margins , net of hedging activity , due to higher realized seasonal storage spreads and optimization activities ; partially offset by o a decrease in marketing margins ; and o a net increase in the cost associated with managing our peaking and load following services , slightly offset by higher demand fees collected for these services .",
+      "in september 2007 , a portion of the volume contracted under our firm transportation agreement with cheyenne plains gas pipeline company was curtailed due to a fire at a cheyenne plains pipeline compressor station .",
+      "the fire damaged a significant amount of instrumentation and electrical wiring , causing cheyenne plains gas pipeline company to declare a force majeure event on the pipeline .",
+      "this firm commitment was hedged in accordance with statement 133 .",
+      "the discontinuance of fair value hedge accounting on the portion of the firm commitment that was impacted by the force majeure event resulted in a loss of approximately $ 5.5 million that was recognized in the third quarter of 2007 , of which $ 2.4 million of insurance proceeds were recovered and recognized in the first quarter of 2008 .",
+      "cheyenne plains gas pipeline company resumed full operations in november 2007 .",
+      "operating costs decreased primarily due to decreased legal and employee-related costs , and reduced ad-valorem tax expense .",
+      "selected operating information - the following table sets forth certain selected operating information for our energy services segment for the periods indicated. ."
+    ],
+    "post_text": [
+      "our natural gas in storage at december 31 , 2008 , was 81.9 bcf , compared with 66.7 bcf at december 31 , 2007 .",
+      "at december 31 , 2008 , our total natural gas storage capacity under lease was 91 bcf , compared with 96 bcf at december 31 , natural gas volumes marketed decreased slightly during 2008 , compared with 2007 , due to increased injections in the third quarter of 2008 .",
+      "in addition , demand for natural gas was impacted by weather-related events in the third quarter of 2008 , including a 15 percent decrease in cooling degree-days and demand disruption caused by hurricane ike. ."
+    ],
+    "table": [
+      [
+        "operating information",
+        "years ended december 31 , 2008",
+        "years ended december 31 , 2007",
+        "years ended december 31 , 2006"
+      ],
+      [
+        "natural gas marketed ( bcf )",
+        "1160",
+        "1191",
+        "1132"
+      ],
+      [
+        "natural gas gross margin ( $ /mcf )",
+        "$ 0.07",
+        "$ 0.19",
+        "$ 0.22"
+      ],
+      [
+        "physically settled volumes ( bcf )",
+        "2359",
+        "2370",
+        "2288"
+      ]
+    ],
+    "questions": [
+      "what was the change in value of the natural gas gross margin from 2007 to 2008?",
+      "what was the value in 2007?",
+      "what is the percent change?"
+    ]
+  }
+}

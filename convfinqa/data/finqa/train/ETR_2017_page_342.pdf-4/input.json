@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "ETR/2017/page_342.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy louisiana , llc and subsidiaries management 2019s financial discussion and analysis results of operations net income 2017 compared to 2016 net income decreased $ 305.7 million primarily due to the effect of the enactment of the tax cuts and jobs act , in december 2017 , which resulted in a decrease of $ 182.6 million in net income in 2017 , and the effect of a settlement with the irs related to the 2010-2011 irs audit , which resulted in a $ 136.1 million reduction of income tax expense in 2016 .",
+      "also contributing to the decrease in net income were higher other operation and maintenance expenses .",
+      "the decrease was partially offset by higher net revenue and higher other income .",
+      "see note 3 to the financial statements for discussion of the effects of the tax cuts and jobs act and the irs audit .",
+      "2016 compared to 2015 net income increased $ 175.4 million primarily due to the effect of a settlement with the irs related to the 2010-2011 irs audit , which resulted in a $ 136.1 million reduction of income tax expense in 2016 .",
+      "also contributing to the increase were lower other operation and maintenance expenses , higher net revenue , and higher other income .",
+      "the increase was partially offset by higher depreciation and amortization expenses , higher interest expense , and higher nuclear refueling outage expenses .",
+      "see note 3 to the financial statements for discussion of the irs audit .",
+      "net revenue 2017 compared to 2016 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory charges ( credits ) .",
+      "following is an analysis of the change in net revenue comparing 2017 to 2016 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the regulatory credit resulting from reduction of the federal corporate income tax rate variance is due to the reduction of the vidalia purchased power agreement regulatory liability by $ 30.5 million and the reduction of the louisiana act 55 financing savings obligation regulatory liabilities by $ 25 million as a result of the enactment of the tax cuts and jobs act , in december 2017 , which lowered the federal corporate income tax rate from 35% ( 35 % ) to 21% ( 21 % ) .",
+      "the effects of the tax cuts and jobs act are discussed further in note 3 to the financial statements. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2016 net revenue",
+        "$ 2438.4"
+      ],
+      [
+        "regulatory credit resulting from reduction of thefederal corporate income tax rate",
+        "55.5"
+      ],
+      [
+        "retail electric price",
+        "42.8"
+      ],
+      [
+        "louisiana act 55 financing savings obligation",
+        "17.2"
+      ],
+      [
+        "volume/weather",
+        "-12.4 ( 12.4 )"
+      ],
+      [
+        "other",
+        "19.0"
+      ],
+      [
+        "2017 net revenue",
+        "$ 2560.5"
+      ]
+    ],
+    "questions": [
+      "in 2016 what was the ratio of the increase in the net income to the decrease in tax"
+    ]
+  }
+}

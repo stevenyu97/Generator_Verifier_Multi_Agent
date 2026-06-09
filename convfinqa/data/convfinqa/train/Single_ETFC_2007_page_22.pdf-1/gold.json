@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of e*trade financial corp for year ended 12/07?",
+      "answer": 73.05,
+      "answer_raw": "73.05",
+      "program": "73.05"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that less an assumed $100 initial investment?",
+      "answer": -26.95,
+      "answer_raw": "-26.95",
+      "program": "subtract(73.05, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is that divided by 100?",
+      "answer": -0.2695,
+      "answer_raw": "-0.2695",
+      "program": "subtract(73.05, const_100), divide(#0, const_100)"
+    }
+  ]
+}

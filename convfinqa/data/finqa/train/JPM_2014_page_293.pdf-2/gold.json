@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were gross realized gains for 2014 without the make whole settlement netting?",
+      "answer": 64.0,
+      "answer_raw": "64.0",
+      "program": "add(53, 11)"
+    }
+  ]
+}

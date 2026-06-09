@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of interest only product for 2013 and 2014?",
+      "answer": 3386.0,
+      "answer_raw": "3386.0",
+      "program": "add(1338, 2048)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the sum including 2015?",
+      "answer": 5410.0,
+      "answer_raw": "5410.0",
+      "program": "add(1338, 2048), add(#0, 2024)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum divided by 3?",
+      "answer": 1803.33333,
+      "answer_raw": "1803.33333",
+      "program": "add(1338, 2048), add(#0, 2024), divide(#1, const_3)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in the fourth quarter ended december 31 , 2015 what was the percent of the total number of shares purchased that was attributable to the employees to pay stock option exercise prices , satisfy excess tax withholding obligations",
+      "answer": 0.0048,
+      "answer_raw": "0.0048",
+      "program": "divide(32086, 6678985)"
+    }
+  ]
+}

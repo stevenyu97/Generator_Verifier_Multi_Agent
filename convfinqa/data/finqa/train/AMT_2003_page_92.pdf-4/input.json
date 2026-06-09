@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "AMT/2003/page_92.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements 2014 ( continued ) basis step-up from corporate restructuring represents the tax effects of increasing the basis for tax purposes of certain of the company 2019s assets in conjunction with its spin-off from american radio systems corporation , its former parent company .",
+      "at december 31 , 2003 , the company had net federal and state operating loss carryforwards available to reduce future taxable income of approximately $ 0.9 billion and $ 1.5 billion , respectively .",
+      "if not utilized , the company 2019s net operating loss carryforwards expire as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "sfas no .",
+      "109 , 201caccounting for income taxes , 201d requires that companies record a valuation allowance when it is 201cmore likely than not that some portion or all of the deferred tax assets will not be realized . 201d at december 31 , 2003 , the company has provided a valuation allowance of approximately $ 156.7 million , primarily related to net state deferred tax assets , capital loss carryforwards and the lost tax benefit and costs associated with our tax refund claims .",
+      "the company has not provided a valuation allowance for the remaining net deferred tax assets , primarily its tax refund claims and federal net operating loss carryforwards , as management believes the company will be successful with its tax refund claims and have sufficient time to realize these federal net operating loss carryforwards during the twenty-year tax carryforward period .",
+      "the company intends to recover a portion of its deferred tax asset through its tax refund claims , related to certain federal net operating losses , filed during 2003 as part of a tax planning strategy implemented in 2002 .",
+      "the recoverability of its remaining net deferred tax asset has been assessed utilizing stable state ( no growth ) projections based on its current operations .",
+      "the projections show a significant decrease in depreciation and interest expense in the later years of the carryforward period as a result of a significant portion of its assets being fully depreciated during the first fifteen years of the carryforward period and debt repayments reducing interest expense .",
+      "accordingly , the recoverability of the net deferred tax asset is not dependent on material improvements to operations , material asset sales or other non-routine transactions .",
+      "based on its current outlook of future taxable income during the carryforward period , management believes that the net deferred tax asset will be realized .",
+      "the realization of the company 2019s deferred tax assets will be dependent upon its ability to generate approximately $ 1.0 billion in taxable income from january 1 , 2004 to december 31 , 2023 .",
+      "if the company is unable to generate sufficient taxable income in the future , or carry back losses as described above , it will be required to reduce its net deferred tax asset through a charge to income tax expense , which would result in a corresponding decrease in stockholders 2019 equity .",
+      "depending on the resolution of the verestar bankruptcy proceedings described in note 2 , the company may be entitled to a worthless stock or bad debt deduction for its investment in verestar .",
+      "no income tax benefit has been provided for these potential deductions due to the uncertainty surrounding the bankruptcy proceedings .",
+      "13 .",
+      "stockholders 2019 equity preferred stock as of december 31 , 2003 the company was authorized to issue up to 20.0 million shares of $ .01 par value preferred stock .",
+      "as of december 31 , 2003 and 2002 there were no preferred shares issued or outstanding. ."
+    ],
+    "table": [
+      [
+        "years ended december 31,",
+        "federal",
+        "state"
+      ],
+      [
+        "2004 to 2008",
+        "$ 1451",
+        "$ 483578"
+      ],
+      [
+        "2009 to 2013",
+        "12234",
+        "66666"
+      ],
+      [
+        "2014 to 2018",
+        "10191",
+        "235589"
+      ],
+      [
+        "2019 to 2023",
+        "903010",
+        "728139"
+      ],
+      [
+        "total",
+        "$ 926886",
+        "$ 1513972"
+      ]
+    ],
+    "questions": [
+      "what portion of the federal operating loss carryforwards expires between 2004 and 2008?"
+    ]
+  }
+}

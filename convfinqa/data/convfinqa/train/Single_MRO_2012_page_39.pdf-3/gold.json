@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in the average price of wti crude oil between 2010 and 2012?",
+      "answer": 14.54,
+      "answer_raw": "14.54",
+      "program": "subtract(94.15, 79.61)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the specific price in 2010?",
+      "answer": 79.61,
+      "answer_raw": "79.61",
+      "program": "79.61"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the percentage change during these years?",
+      "answer": 0.18264,
+      "answer_raw": "0.18264",
+      "program": "subtract(94.15, 79.61), divide(#0, 79.61)"
+    }
+  ]
+}

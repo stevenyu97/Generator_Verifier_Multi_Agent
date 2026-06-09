@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by what percentage level 3 balance increase from 2017 to 2018?",
+      "answer": 0.64286,
+      "answer_raw": "0.64286",
+      "program": "subtract(230, 140), divide(#0, 140)"
+    }
+  ]
+}

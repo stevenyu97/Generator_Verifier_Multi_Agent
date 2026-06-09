@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in credit net from 2016 to 2017?",
+      "answer": -0.39896,
+      "answer_raw": "-0.39896",
+      "program": "subtract(1505, 2504), divide(#0, 2504)"
+    }
+  ]
+}

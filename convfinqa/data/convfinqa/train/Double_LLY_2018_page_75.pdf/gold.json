@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "from 2016 to 2017, what was the variation in the total amount spent on share repurchase?",
+      "answer": -180.3,
+      "answer_raw": "-180.3",
+      "program": "subtract(359.8, 540.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this variation as a percentage of that amount in 2016?",
+      "answer": -0.33383,
+      "answer_raw": "-0.33383",
+      "program": "subtract(359.8, 540.1), divide(#0, 540.1)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and over the next year, what was that variation in this amount, counted in millions?",
+      "answer": 3790.2,
+      "answer_raw": "3790.2",
+      "program": "multiply(4.15, const_1000), subtract(#0, 359.8)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what percentage did this variation represent in relation to the 2017 amount spent on share repurchase?",
+      "answer": 10.53419,
+      "answer_raw": "10.53419",
+      "program": "multiply(4.15, const_1000), subtract(#0, 359.8), divide(#1, 359.8)"
+    }
+  ]
+}

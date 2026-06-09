@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 31 , 2017 under the 2010 employee plan what was the percent of shares that had been granted",
+      "answer": 1446527.0,
+      "answer_raw": "1446527.0",
+      "program": "subtract(4000000, 2553473)"
+    }
+  ]
+}

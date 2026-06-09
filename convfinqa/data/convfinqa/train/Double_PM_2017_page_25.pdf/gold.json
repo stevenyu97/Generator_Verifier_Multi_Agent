@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the pmi's share price from 2012 to 2013?",
+      "answer": 8.5,
+      "answer_raw": "8.5",
+      "program": "subtract(108.50, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much did this change represent in relation to that price in 2012?",
+      "answer": 0.085,
+      "answer_raw": "0.085",
+      "program": "subtract(108.50, const_100), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and in the two years subsequent to this period, what was the change in the price of that share?",
+      "answer": 14.2,
+      "answer_raw": "14.2",
+      "program": "subtract(120.40, 106.20)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is this change as a portion of the 2014 price?",
+      "answer": 0.13371,
+      "answer_raw": "0.13371",
+      "program": "subtract(120.40, 106.20), divide(#0, 106.20)"
+    }
+  ]
+}

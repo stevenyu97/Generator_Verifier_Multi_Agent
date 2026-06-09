@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of cash provided by operating activities in 2005?",
+      "answer": 2595.0,
+      "answer_raw": "2595.0",
+      "program": "2595"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2004?",
+      "answer": 2257.0,
+      "answer_raw": "2257.0",
+      "program": "2257"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 338.0,
+      "answer_raw": "338.0",
+      "program": "subtract(2595, 2257)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the 2004 value?",
+      "answer": 2257.0,
+      "answer_raw": "2257.0",
+      "program": "2257"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the net change over the 2004 value?",
+      "answer": 0.14976,
+      "answer_raw": "0.14976",
+      "program": "subtract(2595, 2257), divide(#0, 2257)"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "Single_APD/2018/page_54.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "liquidity and capital resources we maintained a strong financial position throughout 2018 and as of 30 september 2018 our consolidated balance sheet included cash and cash items of $ 2791.3 .",
+      "we continue to have consistent access to commercial paper markets , and cash flows from operating and financing activities are expected to meet liquidity needs for the foreseeable future .",
+      "as of 30 september 2018 , we had $ 995.1 of foreign cash and cash items compared to a total amount of cash and cash items of $ 2791.3 .",
+      "as a result of the tax act , we currently do not expect that a significant portion of the earnings of our foreign subsidiaries and affiliates will be subject to u.s .",
+      "income tax upon subsequent repatriation to the united states .",
+      "depending on the country in which the subsidiaries and affiliates reside , the repatriation of these earnings may be subject to foreign withholding and other taxes .",
+      "however , since we have significant current investment plans outside the u.s. , it is our intent to permanently reinvest the majority of our foreign cash and cash items that would be subject to additional taxes outside the u.s .",
+      "refer to note 22 , income taxes , for additional information .",
+      "our cash flows from operating , investing , and financing activities from continuing operations , as reflected in the consolidated statements of cash flows , are summarized in the following table: ."
+    ],
+    "post_text": [
+      "operating activities for the year ended 2018 , cash provided by operating activities was $ 2554.7 .",
+      "income from continuing operations of $ 1455.6 was adjusted for items including depreciation and amortization , deferred income taxes , impacts from the tax act , undistributed earnings of unconsolidated affiliates , share-based compensation , and noncurrent capital lease receivables .",
+      "other adjustments of $ 131.6 include a $ 54.9 net impact from the remeasurement of intercompany transactions .",
+      "the related hedging instruments that eliminate the earnings impact are included as a working capital adjustment in other receivables or payables and accrued liabilities .",
+      "in addition , other adjustments were impacted by cash received from the early termination of a cross currency swap of $ 54.4 , as well as the excess of pension expense over pension contributions of $ 23.5 .",
+      "the working capital accounts were a use of cash of $ 265.4 , primarily driven by payables and accrued liabilities , inventories , and trade receivables , partially offset by other receivables .",
+      "the use of cash in payables and accrued liabilities of $ 277.7 includes a decrease in customer advances of $ 145.7 primarily related to sale of equipment activity and $ 67.1 for maturities of forward exchange contracts that hedged foreign currency exposures .",
+      "the use of cash in inventories primarily resulted from the purchase of helium molecules .",
+      "in addition , inventories reflect the noncash impact of our change in accounting for u.s .",
+      "inventories from lifo to fifo .",
+      "the source of cash from other receivables of $ 123.6 was primarily due to the maturities of forward exchange contracts that hedged foreign currency exposures for the year ended 2017 , cash provided by operating activities was $ 2534.1 .",
+      "income from continuing operations of $ 1134.4 included a goodwill and intangible asset impairment charge of $ 162.1 , an equity method investment impairment charge of $ 79.5 , and a write-down of long-lived assets associated with restructuring of $ 69.2 .",
+      "refer to note 5 , cost reduction and asset actions ; note 8 , summarized financial information of equity affiliates ; note 10 , goodwill ; and note 11 , intangible assets , of the consolidated financial statements for additional information on these charges .",
+      "other adjustments of $ 165.4 included changes in uncertain tax positions and the fair value of foreign exchange contracts that hedge intercompany loans as well as pension contributions and expense .",
+      "the working capital accounts were a source of cash of $ 48.0 that were primarily driven by payables and accrued liabilities and other receivables , partially offset by other working capital and trade receivables .",
+      "the increase in payables and accrued liabilities of $ 163.8 was primarily due to timing differences related to payables and accrued liabilities and an increase in customer advances of $ 52.8 primarily related to sale of equipment activity .",
+      "the source of cash from other receivables of $ 124.7 was primarily due to the maturities of forward exchange contracts that hedged foreign currency exposures .",
+      "other working capital was a use of cash of $ 154.0 , primarily driven by payments for income taxes .",
+      "trade receivables was a use of cash of $ 73.6 which is primarily due to timing differences. ."
+    ],
+    "table": [
+      [
+        "cash provided by ( used for )",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "operating activities",
+        "$ 2554.7",
+        "$ 2534.1",
+        "$ 2258.8"
+      ],
+      [
+        "investing activities",
+        "-1649.1 ( 1649.1 )",
+        "-1417.7 ( 1417.7 )",
+        "-864.8 ( 864.8 )"
+      ],
+      [
+        "financing activities",
+        "-1359.8 ( 1359.8 )",
+        "-2040.9 ( 2040.9 )",
+        "-860.2 ( 860.2 )"
+      ]
+    ],
+    "questions": [
+      "what was the net cash from operating and investing activities in 2016?",
+      "and the amount used for financing activities for that year?",
+      "so what was the final amount of cash and cash equivalents?"
+    ]
+  }
+}

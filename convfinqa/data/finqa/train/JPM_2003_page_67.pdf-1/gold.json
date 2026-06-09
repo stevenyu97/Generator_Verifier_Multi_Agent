@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "the consumer segment accounted for how much of the overall provision for loan losses in 2003?",
+      "answer": 0.94427,
+      "answer_raw": "0.94427",
+      "program": "divide(1491, 1579)"
+    }
+  ]
+}

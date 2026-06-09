@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2003 what are net current assets for entities accounted for using the equity method , in millions?",
+      "answer": -87.0,
+      "answer_raw": "-87.0",
+      "program": "subtract(1347, 1434)"
+    }
+  ]
+}

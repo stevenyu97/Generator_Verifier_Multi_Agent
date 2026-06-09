@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of september 2014 what was the percent of the total contractual obligations due within 1 year for the global headquarters operating lease",
+      "answer": 0.41475,
+      "answer_raw": "0.41475",
+      "program": "divide(49415, 119144)"
+    }
+  ]
+}

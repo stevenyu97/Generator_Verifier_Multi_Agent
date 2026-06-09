@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of future minimum lease payments under noncancelable operating leases are due in 2017?",
+      "answer": 0.12934,
+      "answer_raw": "0.12934",
+      "program": "divide(645, 4987)"
+    }
+  ]
+}

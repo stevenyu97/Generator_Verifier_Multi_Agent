@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "RL/2014/page_13.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "we operated the following factory stores as of march 29 , 2014: ."
+    ],
+    "post_text": [
+      "( a ) includes australia , china , hong kong , japan , malaysia , south korea , and taiwan .",
+      "our factory stores in the americas offer selections of our menswear , womenswear , childrenswear , accessories , home furnishings , and fragrances .",
+      "ranging in size from approximately 2700 to 20000 square feet , with an average of approximately 10400 square feet , these stores are principally located in major outlet centers in 40 states in the u.s. , canada , and puerto rico .",
+      "our factory stores in europe offer selections of our menswear , womenswear , childrenswear , accessories , home furnishings , and fragrances .",
+      "ranging in size from approximately 1400 to 19700 square feet , with an average of approximately 7000 square feet , these stores are located in 12 countries , principally in major outlet centers .",
+      "our factory stores in asia offer selections of our menswear , womenswear , childrenswear , accessories , and fragrances .",
+      "ranging in size from approximately 1100 to 11800 square feet , with an average of approximately 6200 square feet , these stores are primarily located throughout china and japan , in hong kong , and in or near other major cities in asia and australia .",
+      "our factory stores are principally located in major outlet centers .",
+      "factory stores obtain products from our suppliers , our product licensing partners , and our other retail stores and e-commerce operations , and also serve as a secondary distribution channel for our excess and out-of-season products .",
+      "concession-based shop-within-shops the terms of trade for shop-within-shops are largely conducted on a concession basis , whereby inventory continues to be owned by us ( not the department store ) until ultimate sale to the end consumer .",
+      "the salespeople involved in the sales transactions are generally our employees and not those of the department store .",
+      "as of march 29 , 2014 , we had 503 concession-based shop-within-shops at 243 retail locations dedicated to our products , which were located in asia , australia , new zealand , and europe .",
+      "the size of our concession-based shop-within-shops ranges from approximately 140 to 7400 square feet .",
+      "we may share in the cost of building-out certain of these shop-within-shops with our department store partners .",
+      "e-commerce websites in addition to our stores , our retail segment sells products online through our e-commerce channel , which includes : 2022 our north american e-commerce sites located at www.ralphlauren.com and www.clubmonaco.com , as well as our club monaco site in canada located at www.clubmonaco.ca ; 2022 our ralph lauren e-commerce sites in europe , including www.ralphlauren.co.uk ( servicing the united kingdom ) , www.ralphlauren.fr ( servicing belgium , france , italy , luxembourg , the netherlands , portugal , and spain ) , and www.ralphlauren.de ( servicing germany and austria ) ; and 2022 our ralph lauren e-commerce sites in asia , including www.ralphlauren.co.jp servicing japan and www.ralphlauren.co.kr servicing south korea .",
+      "our ralph lauren e-commerce sites in the u.s. , europe , and asia offer our customers access to a broad array of ralph lauren , rrl , polo , and denim & supply apparel , accessories , fragrance , and home products , and reinforce the luxury image of our brands .",
+      "while investing in e-commerce operations remains a primary focus , it is an extension of our investment in the integrated omni-channel strategy used to operate our overall retail business , in which our e-commerce operations are interdependent with our physical stores .",
+      "our club monaco e-commerce sites in the u.s .",
+      "and canada offer our domestic and canadian customers access to our club monaco global assortment of womenswear , menswear , and accessories product lines , as well as select online exclusives. ."
+    ],
+    "table": [
+      [
+        "location",
+        "factory stores"
+      ],
+      [
+        "the americas",
+        "150"
+      ],
+      [
+        "europe",
+        "50"
+      ],
+      [
+        "asia ( a )",
+        "35"
+      ],
+      [
+        "total",
+        "235"
+      ]
+    ],
+    "questions": [
+      "what percentage of factory stores as of march 29 , 2014 are in the americas?"
+    ]
+  }
+}

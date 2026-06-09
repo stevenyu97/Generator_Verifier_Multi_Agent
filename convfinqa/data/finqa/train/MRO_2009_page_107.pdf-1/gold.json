@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the lowest yearly revenues applicable to discontinued operations?",
+      "answer": 188.0,
+      "answer_raw": "188.0",
+      "program": "table_min(revenues applicable to discontinued operations, none)"
+    }
+  ]
+}

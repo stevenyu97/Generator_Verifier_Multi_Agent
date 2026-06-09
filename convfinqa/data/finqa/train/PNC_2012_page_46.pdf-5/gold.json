@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the fourth quarter of 2012 what as the percent of the total shares purchased that was bought in december",
+      "answer": 0.27678,
+      "answer_raw": "0.27678",
+      "program": "divide(292, 1055)"
+    }
+  ]
+}

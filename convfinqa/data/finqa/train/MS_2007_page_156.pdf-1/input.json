@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "MS/2007/page_156.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "morgan stanley notes to consolidated financial statements 2014 ( continued ) 16 .",
+      "shareholders 2019 equity .",
+      "common stock .",
+      "changes in shares of common stock outstanding for fiscal 2007 and fiscal 2006 were as follows ( share data in millions ) : fiscal fiscal ."
+    ],
+    "post_text": [
+      "treasury shares .",
+      "during fiscal 2007 , the company purchased $ 3.8 billion of its common stock through open market purchases at an average cost of $ 72.65 per share .",
+      "during fiscal 2006 , the company purchased $ 3.4 billion of its common stock through open market purchases at an average cost of $ 65.43 per share .",
+      "in december 2006 , the company announced that its board of directors had authorized the repurchase of up to $ 6 billion of the company 2019s outstanding common stock .",
+      "this share repurchase authorization considers , among other things , business segment capital needs , as well as equity-based compensation and benefit plan requirements .",
+      "as of november 30 , 2007 , the company had approximately $ 2.3 billion remaining under its current share repurchase authorization .",
+      "rabbi trusts .",
+      "the company has established rabbi trusts ( the 201crabbi trusts 201d ) to provide common stock voting rights to certain employees who hold outstanding restricted stock units .",
+      "the number of shares of common stock outstanding in the rabbi trusts was approximately 107 million at november 30 , 2007 and approximately 81 million at november 30 , 2006 .",
+      "the assets of the rabbi trusts are consolidated with those of the company , and the value of the company 2019s stock held in the rabbi trusts is classified in shareholders 2019 equity and generally accounted for in a manner similar to treasury stock .",
+      "preferred stock .",
+      "in july 2006 , the company issued 44000000 depositary shares , in an aggregate of $ 1100 million .",
+      "each depositary share represents 1/1000th of a share of floating rate non-cumulative preferred stock , series a , $ 0.01 par value ( 201cseries a preferred stock 201d ) .",
+      "the series a preferred stock is redeemable at the company 2019s option , in whole or in part , on or after july 15 , 2011 at a redemption price of $ 25000 per share ( equivalent to $ 25 per depositary share ) .",
+      "the series a preferred stock also has a preference over the company 2019s common stock upon liquidation .",
+      "subsequent to fiscal year-end , the company declared a quarterly dividend of $ 379.66 per share of series a preferred stock that was paid on january 15 , 2008 to preferred shareholders of record on december 31 , 2007 .",
+      "regulatory requirements .",
+      "on april 1 , 2007 , the company merged msdwi into ms&co .",
+      "upon completion of the merger , the surviving entity , ms&co. , became the company 2019s principal u.s .",
+      "broker-dealer .",
+      "ms&co .",
+      "is a registered broker-dealer and registered futures commission merchant and , accordingly , is subject to the minimum net capital requirements of the securities and exchange commission ( the 201csec 201d ) , the financial industry regulatory authority and the commodity futures trading commission .",
+      "ms&co .",
+      "has consistently operated in excess of these requirements .",
+      "ms&co . 2019s net capital totaled $ 6673 million at november 30 , 2007 , which exceeded the amount required by $ 4950 million .",
+      "msip , a london-based broker-dealer subsidiary , is subject to the capital requirements of the financial services authority , and msjs , a tokyo-based broker-dealer subsidiary , is subject to the capital requirements of the financial services agency .",
+      "msip and msjs consistently operated in excess of their respective regulatory capital requirements. ."
+    ],
+    "table": [
+      [
+        "",
+        "fiscal 2007",
+        "fiscal 2006"
+      ],
+      [
+        "shares outstanding at beginning of period",
+        "1049",
+        "1058"
+      ],
+      [
+        "net impact of stock option exercises and other share issuances",
+        "59",
+        "43"
+      ],
+      [
+        "treasury stock purchases",
+        "-52 ( 52 )",
+        "-52 ( 52 )"
+      ],
+      [
+        "shares outstanding at end of period",
+        "1056",
+        "1049"
+      ]
+    ],
+    "questions": [
+      "what was the net change in common stock outstanding in millions between 2006 and 2007?"
+    ]
+  }
+}

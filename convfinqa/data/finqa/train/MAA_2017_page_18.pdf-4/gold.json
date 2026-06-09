@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between the number of units in charlotte at midtown and acklen west end?",
+      "answer": 41.0,
+      "answer_raw": "41.0",
+      "program": "subtract(320, 279)"
+    }
+  ]
+}

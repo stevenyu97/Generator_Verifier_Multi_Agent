@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the total of shares acquired in the last quarter of 2018 were purchased in december?",
+      "answer": 0.33501,
+      "answer_raw": "0.33501",
+      "program": "divide(912360, 2723347)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what percentage of them were purchased as part of publicly announced plans or programs?",
+      "answer": 0.96241,
+      "answer_raw": "0.96241",
+      "program": "divide(2620987, 2723347)"
+    }
+  ]
+}

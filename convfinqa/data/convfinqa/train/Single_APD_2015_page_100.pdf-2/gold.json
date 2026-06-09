@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the total projected benefit payments for the five year period ended in 2025?",
+      "answer": 917.9,
+      "answer_raw": "917.9",
+      "program": "917.9"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was, then, the annual average of projected benefit payments in that period?",
+      "answer": 183.58,
+      "answer_raw": "183.58",
+      "program": "divide(917.9, const_5)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what was the total of those projected benefit payments in 2020?",
+      "answer": 157.4,
+      "answer_raw": "157.4",
+      "program": "157.4"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "how much, then, does that average of projected benefit payments represent in relation to this 2020 total?",
+      "answer": 1.16633,
+      "answer_raw": "1.16633",
+      "program": "divide(917.9, const_5), divide(#0, 157.4)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and what is the difference between this value and the number one?",
+      "answer": 0.16633,
+      "answer_raw": "0.16633",
+      "program": "divide(917.9, const_5), divide(#0, 157.4), subtract(#1, const_1)"
+    }
+  ]
+}

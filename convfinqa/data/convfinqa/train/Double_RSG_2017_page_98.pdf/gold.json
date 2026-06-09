@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the account balance in the allowance for doubtful accounts from 2016 to 2017?",
+      "answer": -2.7,
+      "answer_raw": "-2.7",
+      "program": "subtract(44.0, 46.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was this change as a percentage of that account balance in 2016?",
+      "answer": -0.05782,
+      "answer_raw": "-0.05782",
+      "program": "subtract(44.0, 46.7), divide(#0, 46.7)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and as of december 31 of the last year of that period, what was the amount from restricted cash and marketable securities for the supports our insurance programs for workers 2019 compensation , commercial general liability , and commercial auto liability?",
+      "answer": 71.4,
+      "answer_raw": "71.4",
+      "program": "71.4"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the total of that restricted cash and marketable securities?",
+      "answer": 141.1,
+      "answer_raw": "141.1",
+      "program": "141.1"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what percentage, then, of this total, did that amount represent?",
+      "answer": 0.50602,
+      "answer_raw": "0.50602",
+      "program": "divide(71.4, 141.1)"
+    }
+  ]
+}

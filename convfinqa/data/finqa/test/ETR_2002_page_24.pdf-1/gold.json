@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the increase in non-utility nuclear earnings in 2002",
+      "answer": 0.57031,
+      "answer_raw": "0.57031",
+      "program": "subtract(201, 128), divide(#0, 128)"
+    }
+  ]
+}

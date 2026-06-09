@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total contingent acquisition payments is used for redeemable noncontrolling interests and call options?",
+      "answer": 0.46206,
+      "answer_raw": "0.46206",
+      "program": "divide(155.3, 336.1)"
+    }
+  ]
+}

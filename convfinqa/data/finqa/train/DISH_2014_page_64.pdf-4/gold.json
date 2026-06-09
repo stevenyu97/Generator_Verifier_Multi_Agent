@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the grow rate in the price of class a common stock in the fourth quarter of 2014 compare to the same quarter of 2013 , if we take into accounting the highest prices in both periods?",
+      "answer": 0.37103,
+      "answer_raw": "0.37103",
+      "program": "subtract(79.41, 57.92), divide(#0, 57.92)"
+    }
+  ]
+}

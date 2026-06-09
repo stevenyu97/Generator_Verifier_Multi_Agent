@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many of the year end 2015 proved undeveloped reserves were converted to proved developed reserves?",
+      "answer": 66.33,
+      "answer_raw": "66.33",
+      "program": "multiply(603, 11%)"
+    }
+  ]
+}

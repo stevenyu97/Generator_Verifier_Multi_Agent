@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total recognized expense related to defined contribution plans for the years of 2007 and 2008, combined?",
+      "answer": 110.2,
+      "answer_raw": "110.2",
+      "program": "add(61.9, 48.3)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "including the year of 2016, what then becomes the total?",
+      "answer": 155.7,
+      "answer_raw": "155.7",
+      "program": "add(61.9, 48.3), add(#0, 45.5)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what is the average recognized expense related to defined contribution plans between those three years?",
+      "answer": 51.9,
+      "answer_raw": "51.9",
+      "program": "add(61.9, 48.3), add(#0, 45.5), divide(#1, const_3)"
+    }
+  ]
+}

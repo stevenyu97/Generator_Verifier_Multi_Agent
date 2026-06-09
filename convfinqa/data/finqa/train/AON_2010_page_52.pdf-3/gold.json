@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average revenues from 2008 to 2010 in millions",
+      "answer": 6308.33333,
+      "answer_raw": "6308.33333",
+      "program": "add(6423, 6305), add(#0, 6197), divide(#1, const_3)"
+    }
+  ]
+}

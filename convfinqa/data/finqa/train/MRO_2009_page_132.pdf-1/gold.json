@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would the effect on other postretirement benefit obligations be if there was a 2-percent point increase?",
+      "answer": 176.0,
+      "answer_raw": "176.0",
+      "program": "multiply(88, const_2)"
+    }
+  ]
+}

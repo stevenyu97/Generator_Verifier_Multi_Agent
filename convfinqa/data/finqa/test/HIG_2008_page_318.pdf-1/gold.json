@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2008 what was the percent of the total gaap stockholders 2019 equity and aggregate statutory capital associated with life operations",
+      "answer": 0.43892,
+      "answer_raw": "0.43892",
+      "program": "divide(6047, 13777)"
+    }
+  ]
+}

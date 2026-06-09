@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net liability for pension plan resulting from acquisition of vinamul and acetex?",
+      "answer": 43.0,
+      "answer_raw": "43.0",
+      "program": "subtract(128, 85)"
+    }
+  ]
+}

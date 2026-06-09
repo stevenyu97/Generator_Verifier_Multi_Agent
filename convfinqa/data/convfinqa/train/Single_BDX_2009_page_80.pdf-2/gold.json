@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the positive sum of distributed and forfeited or canceled shares in 2009?",
+      "answer": 482050.0,
+      "answer_raw": "482050.0",
+      "program": "add(165211, 316839)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the ratio of granted shares to this sum?",
+      "answer": 1.28343,
+      "answer_raw": "1.28343",
+      "program": "add(165211, 316839), divide(618679, #0)"
+    }
+  ]
+}

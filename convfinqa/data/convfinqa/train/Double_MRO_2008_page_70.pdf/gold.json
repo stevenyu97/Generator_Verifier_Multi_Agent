@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total combined crack spread for us gulf coast lls 6-3-2-1 in the first and second quarter of 2008?",
+      "answer": 3.38,
+      "answer_raw": "3.38",
+      "program": "add(1.39, 1.99)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the average over this time?",
+      "answer": 1.69,
+      "answer_raw": "1.69",
+      "program": "add(1.39, 1.99), divide(#0, const_2)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "was the average yearly crack spread for chicago lls 6-3-2-1 greater than the spread for us gul coast lls 6-3-2-1 in 2008?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(3.27, 2.45)"
+    }
+  ]
+}

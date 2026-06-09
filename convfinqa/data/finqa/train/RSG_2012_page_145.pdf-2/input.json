@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "RSG/2012/page_145.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "republic services , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) the letters of credit use $ 909.4 million and $ 950.2 million as of december 31 , 2012 and 2011 , respectively , of availability under our credit facilities .",
+      "surety bonds expire on various dates through 2026 .",
+      "these financial instruments are issued in the normal course of business and are not debt .",
+      "because we currently have no liability for this financial assurance , it is not reflected in our consolidated balance sheets .",
+      "however , we have recorded capping , closure and post-closure obligations and self-insurance reserves as they are incurred .",
+      "the underlying financial assurance obligations , in excess of those already reflected in our consolidated balance sheets , would be recorded if it is probable that we would be unable to fulfill our related obligations .",
+      "we do not expect this to occur .",
+      "our restricted cash and marketable securities deposits include , among other things , restricted cash and marketable securities held for capital expenditures under certain debt facilities , and restricted cash and marketable securities pledged to regulatory agencies and governmental entities as financial guarantees of our performance related to our final capping , closure and post-closure obligations at our landfills .",
+      "the following table summarizes our restricted cash and marketable securities as of december 31: ."
+    ],
+    "post_text": [
+      "we own a 19.9% ( 19.9 % ) interest in a company that , among other activities , issues financial surety bonds to secure capping , closure and post-closure obligations for companies operating in the solid waste industry .",
+      "we account for this investment under the cost method of accounting .",
+      "there have been no identified events or changes in circumstances that may have a significant adverse effect on the recoverability of the investment .",
+      "this investee company and the parent company of the investee had written surety bonds for us relating primarily to our landfill operations for capping , closure and post-closure , of which $ 1152.1 million was outstanding as of december 31 , 2012 .",
+      "our reimbursement obligations under these bonds are secured by an indemnity agreement with the investee and letters of credit totaling $ 23.4 million and $ 45.0 million as of december 31 , 2012 and 2011 .",
+      "off-balance sheet arrangements we have no off-balance sheet debt or similar obligations , other than operating leases and the financial assurances discussed above , which are not classified as debt .",
+      "we have no transactions or obligations with related parties that are not disclosed , consolidated into or reflected in our reported financial position or results of operations .",
+      "we have not guaranteed any third-party debt .",
+      "guarantees we enter into contracts in the normal course of business that include indemnification clauses .",
+      "indemnifications relating to known liabilities are recorded in the consolidated financial statements based on our best estimate of required future payments .",
+      "certain of these indemnifications relate to contingent events or occurrences , such as the imposition of additional taxes due to a change in the tax law or adverse interpretation of the tax law , and indemnifications made in divestiture agreements where we indemnify the buyer for liabilities that relate to our activities prior to the divestiture and that may become known in the future .",
+      "we do not believe that these contingent obligations will have a material effect on our consolidated financial position , results of operations or cash flows. ."
+    ],
+    "table": [
+      [
+        "",
+        "2012",
+        "2011"
+      ],
+      [
+        "financing proceeds",
+        "$ 24.7",
+        "$ 22.5"
+      ],
+      [
+        "capping closure and post-closure obligations",
+        "54.8",
+        "54.9"
+      ],
+      [
+        "self-insurance",
+        "81.3",
+        "75.2"
+      ],
+      [
+        "other",
+        "3.4",
+        "37.0"
+      ],
+      [
+        "total restricted cash and marketable securities",
+        "$ 164.2",
+        "$ 189.6"
+      ]
+    ],
+    "questions": [
+      "ar december 31 , 2012 what was the ratio of the surety bond to the reimbursement obligation under the surety bonds"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "Single_MRO/2015/page_22.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "during 2015 , 2014 and 2013 , netherland , sewell & associates , inc .",
+      "( \"nsai\" ) prepared a certification of the prior year's reserves for the alba field in e.g .",
+      "the nsai summary reports are filed as an exhibit to this annual report on form 10-k .",
+      "members of the nsai team have multiple years of industry experience , having worked for large , international oil and gas companies before joining nsai .",
+      "the senior technical advisor has over 35 years of practical experience in petroleum geosciences , with over 15 years experience in the estimation and evaluation of reserves .",
+      "the second team member has over 10 years of practical experience in petroleum engineering , with over five years experience in the estimation and evaluation of reserves .",
+      "both are registered professional engineers in the state of texas .",
+      "ryder scott company ( \"ryder scott\" ) also performed audits of the prior years' reserves of several of our fields in 2015 , 2014 and 2013 .",
+      "their summary reports are filed as exhibits to this annual report on form 10-k .",
+      "the team lead for ryder scott has over 20 years of industry experience , having worked for a major international oil and gas company before joining ryder scott .",
+      "he is a member of spe , where he served on the oil and gas reserves committee , and is a registered professional engineer in the state of texas .",
+      "changes in proved undeveloped reserves as of december 31 , 2015 , 603 mmboe of proved undeveloped reserves were reported , a decrease of 125 mmboe from december 31 , 2014 .",
+      "the following table shows changes in total proved undeveloped reserves for 2015 : ( mmboe ) ."
+    ],
+    "post_text": [
+      "the revisions to previous estimates were largely due to a result of reductions to our capital development program which deferred proved undeveloped reserves beyond the 5-year plan .",
+      "a total of 139 mmboe was booked as extensions , discoveries or other additions and revisions due to the application of reliable technology .",
+      "technologies included statistical analysis of production performance , decline curve analysis , pressure and rate transient analysis , reservoir simulation and volumetric analysis .",
+      "the observed statistical nature of production performance coupled with highly certain reservoir continuity or quality within the reliable technology areas and sufficient proved developed locations establish the reasonable certainty criteria required for booking proved reserves .",
+      "transfers from proved undeveloped to proved developed reserves included 47 mmboe in the eagle ford , 14 mmboe in the bakken and 5 mmboe in the oklahoma resource basins due to development drilling and completions .",
+      "costs incurred in 2015 , 2014 and 2013 relating to the development of proved undeveloped reserves were $ 1415 million , $ 3149 million and $ 2536 million .",
+      "projects can remain in proved undeveloped reserves for extended periods in certain situations such as large development projects which take more than five years to complete , or the timing of when additional gas compression is needed .",
+      "of the 603 mmboe of proved undeveloped reserves at december 31 , 2015 , 26% ( 26 % ) of the volume is associated with projects that have been included in proved reserves for more than five years .",
+      "the majority of this volume is related to a compression project in e.g .",
+      "that was sanctioned by our board of directors in 2004 .",
+      "during 2012 , the compression project received the approval of the e.g .",
+      "government , fabrication of the new platform began in 2013 and installation of the platform at the alba field occurred in january 2016 .",
+      "commissioning is currently underway , with first production expected by mid-2016 .",
+      "proved undeveloped reserves for the north gialo development , located in the libyan sahara desert , were booked for the first time in 2010 .",
+      "this development is being executed by the operator and encompasses a multi-year drilling program including the design , fabrication and installation of extensive liquid handling and gas recycling facilities .",
+      "anecdotal evidence from similar development projects in the region leads to an expected project execution time frame of more than five years from the time the reserves were initially booked .",
+      "interruptions associated with the civil and political unrest have also extended the project duration .",
+      "operations were interrupted in mid-2013 as a result of the shutdown of the es sider crude oil terminal , and although temporarily re-opened during the second half of 2014 , production remains shut-in through early 2016 .",
+      "the operator is committed to the project 2019s completion and continues to assign resources in order to execute the project .",
+      "our conversion rate for proved undeveloped reserves to proved developed reserves for 2015 was 11% ( 11 % ) .",
+      "however , excluding the aforementioned long-term projects in e.g .",
+      "and libya , our 2015 conversion rate would be 15% ( 15 % ) .",
+      "furthermore , our ."
+    ],
+    "table": [
+      [
+        "beginning of year",
+        "728"
+      ],
+      [
+        "revisions of previous estimates",
+        "-223 ( 223 )"
+      ],
+      [
+        "improved recovery",
+        "1"
+      ],
+      [
+        "purchases of reserves in place",
+        "1"
+      ],
+      [
+        "extensions discoveries and other additions",
+        "175"
+      ],
+      [
+        "dispositions",
+        "2014"
+      ],
+      [
+        "transfers to proved developed",
+        "-79 ( 79 )"
+      ],
+      [
+        "end of year",
+        "603"
+      ]
+    ],
+    "questions": [
+      "what is the sum of costs incurred relating to the development of proved undeveloped reserves in 2015 and 2014?",
+      "what is the sum including the costs from 2013?"
+    ]
+  }
+}

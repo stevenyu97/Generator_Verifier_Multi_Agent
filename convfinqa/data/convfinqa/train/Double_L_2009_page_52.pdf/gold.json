@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many rooms does loews hotel have in montreal, canada?",
+      "answer": 140.0,
+      "answer_raw": "140.0",
+      "program": "140"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is that number for quebec city, canada?",
+      "answer": 405.0,
+      "answer_raw": "405.0",
+      "program": "405"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is, then, the total of rooms in both locations, combined?",
+      "answer": 545.0,
+      "answer_raw": "545.0",
+      "program": "add(140, 405)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and concerning only the santa monica location, what is the final year of the management contract, including the renewals?",
+      "answer": 2023.0,
+      "answer_raw": "2023.0",
+      "program": "add(2018, const_5)"
+    }
+  ]
+}

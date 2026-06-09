@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2007, considering the percentage increase and the amount equivalent to it of the total of occupancy and facility costs together with depreciation expense from that year to 2008, what can be concluded to have been, in 2007, that total?",
+      "answer": 150.0,
+      "answer_raw": "150.0",
+      "program": "divide(18, 12%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and between these same two years, what percentage did the change in net gains ( losses ) realized on fund dispositions represent in relation to those net gains in 2007?",
+      "answer": -1.81818,
+      "answer_raw": "-1.81818",
+      "program": "divide(-10.0, 5.5)"
+    }
+  ]
+}

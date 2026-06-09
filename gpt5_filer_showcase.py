@@ -9,6 +9,7 @@ from evaluator import evaluate as evaluate_draft
 # Default TaxCalcBench case directory (edit this if you want a different default)
 DEFAULT_CASE_DIR = Path(
     "/home/ubuntu/LLM/Dataset/taxcalcbench_dataset/test_data/single-retirement-1099r-alaska-dividend"
+    #"/home/ubuntu/LLM/Dataset/taxcalcbench_dataset/test_data/mfj-multiple-schedule-c-loss-multi-home-office"
 )
 
 

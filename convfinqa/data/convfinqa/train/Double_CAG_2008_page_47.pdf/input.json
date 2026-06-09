@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "Double_CAG/2008/page_47.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the liabilities recognized as a result of consolidating these entities do not represent additional claims on the general assets of the company .",
+      "the creditors of these entities have claims only on the assets of the specific variable interest entities to which they have advanced credit .",
+      "obligations and commitments as part of its ongoing operations , the company enters into arrangements that obligate the company to make future payments under contracts such as debt agreements , lease agreements , and unconditional purchase obligations ( i.e. , obligations to transfer funds in the future for fixed or minimum quantities of goods or services at fixed or minimum prices , such as 201ctake-or-pay 201d contracts ) .",
+      "the unconditional purchase obligation arrangements are entered into by the company in its normal course of business in order to ensure adequate levels of sourced product are available to the company .",
+      "capital lease and debt obligations , which totaled $ 3.5 billion at may 25 , 2008 , are currently recognized as liabilities in the company 2019s consolidated balance sheet .",
+      "operating lease obligations and unconditional purchase obligations , which totaled $ 1.7 billion at may 25 , 2008 , are not recognized as liabilities in the company 2019s consolidated balance sheet , in accordance with generally accepted accounting principles .",
+      "a summary of the company 2019s contractual obligations at the end of fiscal 2008 was as follows ( including obligations of discontinued operations ) : ."
+    ],
+    "post_text": [
+      "the purchase obligations noted in the table above do not reflect approximately $ 374 million of open purchase orders , some of which are not legally binding .",
+      "these purchase orders are settlable in the ordinary course of business in less than one year .",
+      "the company is also contractually obligated to pay interest on its long-term debt obligations .",
+      "the weighted average interest rate of the long-term debt obligations outstanding as of may 25 , 2008 was approximately 7.2% ( 7.2 % ) .",
+      "the company consolidates the assets and liabilities of certain entities from which it leases corporate aircraft .",
+      "these entities have been determined to be variable interest entities and the company has been determined to be the primary beneficiary of these entities .",
+      "the amounts reflected in contractual obligations of long-term debt , in the table above , include $ 54 million of liabilities of these variable interest entities to the creditors of such entities .",
+      "the long-term debt recognized as a result of consolidating these entities does not represent additional claims on the general assets of the company .",
+      "the creditors of these entities have claims only on the assets of the specific variable interest entities .",
+      "as of may 25 , 2008 , the company was obligated to make rental payments of $ 67 million to the variable interest entities , of which $ 7 million is due in less than one year , $ 13 million is due in one to three years , and $ 47 million is due in three to five years .",
+      "such amounts are not reflected in the table , above .",
+      "as part of its ongoing operations , the company also enters into arrangements that obligate the company to make future cash payments only upon the occurrence of a future event ( e.g. , guarantee debt or lease payments of a third party should the third party be unable to perform ) .",
+      "in accordance with generally accepted accounting principles , the following commercial commitments are not recognized as liabilities in the company 2019s ."
+    ],
+    "table": [
+      [
+        "( $ in millions ) contractual obligations",
+        "( $ in millions ) total",
+        "( $ in millions ) less than 1 year",
+        "( $ in millions ) 1-3 years",
+        "( $ in millions ) 3-5 years",
+        "after 5 years"
+      ],
+      [
+        "long-term debt",
+        "$ 3531.4",
+        "$ 15.4",
+        "$ 521.6",
+        "$ 751.8",
+        "$ 2242.6"
+      ],
+      [
+        "lease obligations",
+        "514.9",
+        "89.2",
+        "148.1",
+        "106.9",
+        "170.7"
+      ],
+      [
+        "purchase obligations",
+        "1199.6",
+        "1078.6",
+        "104.0",
+        "16.3",
+        "0.7"
+      ],
+      [
+        "total",
+        "$ 5245.9",
+        "$ 1183.2",
+        "$ 773.7",
+        "$ 875.0",
+        "$ 2414.0"
+      ]
+    ],
+    "questions": [
+      "what was the percentage of total contractual obligations was due to long-term debt at the end of 2008?",
+      "and what percentage was due to lease obligations?"
+    ]
+  }
+}

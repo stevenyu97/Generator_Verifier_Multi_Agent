@@ -1,0 +1,54 @@
+{
+  "input": {
+    "id": "Single_TFX/2015/page_70.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "part iii item 10 .",
+      "directors , executive officers and corporate governance for the information required by this item 10 , other than information with respect to our executive officers contained at the end of part i , item 1 of this report , see 201celection of directors , 201d 201cnominees for election to the board of directors , 201d 201ccorporate governance 201d and 201csection 16 ( a ) beneficial ownership reporting compliance , 201d in the proxy statement for our 2016 annual meeting , which information is incorporated herein by reference .",
+      "the proxy statement for our 2016 annual meeting will be filed within 120 days of the close of our year .",
+      "for the information required by this item 10 with respect to our executive officers , see part i , item 1 .",
+      "of this report .",
+      "item 11 .",
+      "executive compensation for the information required by this item 11 , see 201ccompensation discussion and analysis , 201d 201ccompensation committee report , 201d and 201cexecutive compensation 201d in the proxy statement for our 2016 annual meeting , which information is incorporated herein by reference .",
+      "item 12 .",
+      "security ownership of certain beneficial owners and management and related stockholder matters for the information required by this item 12 with respect to beneficial ownership of our common stock , see 201csecurity ownership of certain beneficial owners and management 201d in the proxy statement for our 2016 annual meeting , which information is incorporated herein by reference .",
+      "the following table sets forth certain information as of december 31 , 2015 regarding our equity plans : plan category number of securities to be issued upon exercise of outstanding options , warrants and rights weighted-average exercise price of outstanding options , warrants and rights number of securities remaining available for future issuance under equity compensation plans ( excluding securities reflected in column ( a ) ( b ) ( c ) equity compensation plans approved by security holders 1442912 $ 86.98 4446967 item 13 .",
+      "certain relationships and related transactions , and director independence for the information required by this item 13 , see 201ccertain transactions 201d and 201ccorporate governance 201d in the proxy statement for our 2016 annual meeting , which information is incorporated herein by reference .",
+      "item 14 .",
+      "principal accounting fees and services for the information required by this item 14 , see 201caudit and non-audit fees 201d and 201caudit committee pre-approval procedures 201d in the proxy statement for our 2016 annual meeting , which information is incorporated herein by reference. ."
+    ],
+    "post_text": [
+      "part iii item 10 .",
+      "directors , executive officers and corporate governance for the information required by this item 10 , other than information with respect to our executive officers contained at the end of part i , item 1 of this report , see 201celection of directors , 201d 201cnominees for election to the board of directors , 201d 201ccorporate governance 201d and 201csection 16 ( a ) beneficial ownership reporting compliance , 201d in the proxy statement for our 2016 annual meeting , which information is incorporated herein by reference .",
+      "the proxy statement for our 2016 annual meeting will be filed within 120 days of the close of our year .",
+      "for the information required by this item 10 with respect to our executive officers , see part i , item 1 .",
+      "of this report .",
+      "item 11 .",
+      "executive compensation for the information required by this item 11 , see 201ccompensation discussion and analysis , 201d 201ccompensation committee report , 201d and 201cexecutive compensation 201d in the proxy statement for our 2016 annual meeting , which information is incorporated herein by reference .",
+      "item 12 .",
+      "security ownership of certain beneficial owners and management and related stockholder matters for the information required by this item 12 with respect to beneficial ownership of our common stock , see 201csecurity ownership of certain beneficial owners and management 201d in the proxy statement for our 2016 annual meeting , which information is incorporated herein by reference .",
+      "the following table sets forth certain information as of december 31 , 2015 regarding our equity plans : plan category number of securities to be issued upon exercise of outstanding options , warrants and rights weighted-average exercise price of outstanding options , warrants and rights number of securities remaining available for future issuance under equity compensation plans ( excluding securities reflected in column ( a ) ( b ) ( c ) equity compensation plans approved by security holders 1442912 $ 86.98 4446967 item 13 .",
+      "certain relationships and related transactions , and director independence for the information required by this item 13 , see 201ccertain transactions 201d and 201ccorporate governance 201d in the proxy statement for our 2016 annual meeting , which information is incorporated herein by reference .",
+      "item 14 .",
+      "principal accounting fees and services for the information required by this item 14 , see 201caudit and non-audit fees 201d and 201caudit committee pre-approval procedures 201d in the proxy statement for our 2016 annual meeting , which information is incorporated herein by reference. ."
+    ],
+    "table": [
+      [
+        "plan category",
+        "number of securitiesto be issued uponexercise ofoutstanding options warrants and rights ( a ) ( b )",
+        "weighted-averageexercise price ofoutstanding options warrants and rights",
+        "number of securitiesremaining available forfuture issuance underequity compensationplans ( excludingsecurities reflected in column ( a ) ) ( c )"
+      ],
+      [
+        "equity compensation plans approved by security holders",
+        "1442912",
+        "$ 86.98",
+        "4446967"
+      ]
+    ],
+    "questions": [
+      "what is the total value of the issued options, warrants, and rights?",
+      "what about in millions?"
+    ]
+  }
+}

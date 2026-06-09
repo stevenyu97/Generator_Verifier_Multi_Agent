@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the weighted average total of the aggregate cost of the per share repurchased from 2017 to 2019",
+      "answer": 51.60274,
+      "answer_raw": "51.60274",
+      "program": "add(3.4, 2.1), add(#0, 1.8), add(88.6, 195.1), add(#2, 93.0), divide(#3, #1)"
+    }
+  ]
+}

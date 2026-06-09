@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage decrease from 2007 for 2009 for the cmg balance?",
+      "answer": 1.47092,
+      "answer_raw": "1.47092",
+      "program": "subtract(441.9, 435.4), divide(#0, 441.9), multiply(#1, const_100)"
+    }
+  ]
+}

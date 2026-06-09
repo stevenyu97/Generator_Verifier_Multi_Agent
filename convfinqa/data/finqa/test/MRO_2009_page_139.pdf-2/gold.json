@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was highest net rental expense in millions?",
+      "answer": 267.0,
+      "answer_raw": "267.0",
+      "program": "table_max(net rental expense, none)"
+    }
+  ]
+}

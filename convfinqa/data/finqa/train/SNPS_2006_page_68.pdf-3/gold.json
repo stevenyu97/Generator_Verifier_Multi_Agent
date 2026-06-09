@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of cash paid among the total purchase price?",
+      "answer": 0.79246,
+      "answer_raw": "0.79246",
+      "program": "divide(9076, 11453)"
+    }
+  ]
+}

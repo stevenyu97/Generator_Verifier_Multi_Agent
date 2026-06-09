@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "MS/2013/page_240.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "morgan stanley notes to consolidated financial statements 2014 ( continued ) lending commitments .",
+      "primary lending commitments are those that are originated by the company whereas secondary lending commitments are purchased from third parties in the market .",
+      "the commitments include lending commitments that are made to investment grade and non-investment grade companies in connection with corporate lending and other business activities .",
+      "commitments for secured lending transactions .",
+      "secured lending commitments are extended by the company to companies and are secured by real estate or other physical assets of the borrower .",
+      "loans made under these arrangements typically are at variable rates and generally provide for over-collateralization based upon the creditworthiness of the borrower .",
+      "forward starting reverse repurchase agreements .",
+      "the company has entered into forward starting securities purchased under agreements to resell ( agreements that have a trade date at or prior to december 31 , 2013 and settle subsequent to period-end ) that are primarily secured by collateral from u.s .",
+      "government agency securities and other sovereign government obligations .",
+      "commercial and residential mortgage-related commitments .",
+      "the company enters into forward purchase contracts involving residential mortgage loans , residential mortgage lending commitments to individuals and residential home equity lines of credit .",
+      "in addition , the company enters into commitments to originate commercial and residential mortgage loans .",
+      "underwriting commitments .",
+      "the company provides underwriting commitments in connection with its capital raising sources to a diverse group of corporate and other institutional clients .",
+      "other lending commitments .",
+      "other commitments generally include commercial lending commitments to small businesses and commitments related to securities-based lending activities in connection with the company 2019s wealth management business segment .",
+      "the company sponsors several non-consolidated investment funds for third-party investors where the company typically acts as general partner of , and investment advisor to , these funds and typically commits to invest a minority of the capital of such funds , with subscribing third-party investors contributing the majority .",
+      "the company 2019s employees , including its senior officers , as well as the company 2019s directors , may participate on the same terms and conditions as other investors in certain of these funds that the company forms primarily for client investment , except that the company may waive or lower applicable fees and charges for its employees .",
+      "the company has contractual capital commitments , guarantees , lending facilities and counterparty arrangements with respect to these investment funds .",
+      "premises and equipment .",
+      "the company has non-cancelable operating leases covering premises and equipment ( excluding commodities operating leases , shown separately ) .",
+      "at december 31 , 2013 , future minimum rental commitments under such leases ( net of subleases , principally on office rentals ) were as follows ( dollars in millions ) : year ended operating premises leases ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "year ended",
+        "operating premises leases"
+      ],
+      [
+        "2014",
+        "$ 672"
+      ],
+      [
+        "2015",
+        "656"
+      ],
+      [
+        "2016",
+        "621"
+      ],
+      [
+        "2017",
+        "554"
+      ],
+      [
+        "2018",
+        "481"
+      ],
+      [
+        "thereafter",
+        "2712"
+      ]
+    ],
+    "questions": [
+      "what is the percentage difference in future minimum rental commitments as of december 31 , 2013 between 2014 and 2015?"
+    ]
+  }
+}

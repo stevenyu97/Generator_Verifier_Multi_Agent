@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming an average prison cell is 230 square feet , do the headquarters employees have more space than the average prisoner?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "multiply(1.2, const_1000000), divide(#0, 4000), multiply(230, const_10), greater(#1, #2)"
+    }
+  ]
+}

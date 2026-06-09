@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage did the change in the gross profit from 2005 to 2006 represent in relation to that profit in 2005?",
+      "answer": 0.58646,
+      "answer_raw": "0.58646",
+      "program": "divide(79.7, 135.9)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in that year of 2006, what was the amount from the total net revenues of products for men?",
+      "answer": 255681.0,
+      "answer_raw": "255681.0",
+      "program": "255681"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what were those total revenues?",
+      "answer": 430689.0,
+      "answer_raw": "430689.0",
+      "program": "430689"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what percentage, then, did those products represent in relation to them?",
+      "answer": 0.59366,
+      "answer_raw": "0.59366",
+      "program": "divide(255681, 430689)"
+    }
+  ]
+}

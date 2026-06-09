@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in the allowance for loan losses between 2008-09?",
+      "answer": 13499.0,
+      "answer_raw": "13499.0",
+      "program": "subtract(29616, 16117)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and as a percentage of the starting value?",
+      "answer": 0.83756,
+      "answer_raw": "0.83756",
+      "program": "subtract(29616, 16117), divide(#0, 16117)"
+    }
+  ]
+}

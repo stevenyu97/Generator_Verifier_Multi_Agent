@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 30 , 2017 what was the percent of the capital purchase obligations to the total",
+      "answer": 0.183,
+      "answer_raw": "0.183",
+      "program": "divide(12068, 65947)"
+    }
+  ]
+}

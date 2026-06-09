@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "UAA/2016/page_81.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "be adjusted by reference to a grid ( the 201cpricing grid 201d ) based on the consolidated leverage ratio and ranges between 1.00% ( 1.00 % ) to 1.25% ( 1.25 % ) for adjusted libor loans and 0.00% ( 0.00 % ) to 0.25% ( 0.25 % ) for alternate base rate loans .",
+      "the weighted average interest rate under the outstanding term loans and revolving credit facility borrowings was 1.6% ( 1.6 % ) and 1.3% ( 1.3 % ) during the years ended december 31 , 2016 and 2015 , respectively .",
+      "the company pays a commitment fee on the average daily unused amount of the revolving credit facility and certain fees with respect to letters of credit .",
+      "as of december 31 , 2016 , the commitment fee was 15.0 basis points .",
+      "since inception , the company incurred and deferred $ 3.9 million in financing costs in connection with the credit agreement .",
+      "3.250% ( 3.250 % ) senior notes in june 2016 , the company issued $ 600.0 million aggregate principal amount of 3.250% ( 3.250 % ) senior unsecured notes due june 15 , 2026 ( the 201cnotes 201d ) .",
+      "the proceeds were used to pay down amounts outstanding under the revolving credit facility .",
+      "interest is payable semi-annually on june 15 and december 15 beginning december 15 , 2016 .",
+      "prior to march 15 , 2026 ( three months prior to the maturity date of the notes ) , the company may redeem some or all of the notes at any time or from time to time at a redemption price equal to the greater of 100% ( 100 % ) of the principal amount of the notes to be redeemed or a 201cmake-whole 201d amount applicable to such notes as described in the indenture governing the notes , plus accrued and unpaid interest to , but excluding , the redemption date .",
+      "on or after march 15 , 2026 ( three months prior to the maturity date of the notes ) , the company may redeem some or all of the notes at any time or from time to time at a redemption price equal to 100% ( 100 % ) of the principal amount of the notes to be redeemed , plus accrued and unpaid interest to , but excluding , the redemption date .",
+      "the indenture governing the notes contains covenants , including limitations that restrict the company 2019s ability and the ability of certain of its subsidiaries to create or incur secured indebtedness and enter into sale and leaseback transactions and the company 2019s ability to consolidate , merge or transfer all or substantially all of its properties or assets to another person , in each case subject to material exceptions described in the indenture .",
+      "the company incurred and deferred $ 5.3 million in financing costs in connection with the notes .",
+      "other long term debt in december 2012 , the company entered into a $ 50.0 million recourse loan collateralized by the land , buildings and tenant improvements comprising the company 2019s corporate headquarters .",
+      "the loan has a seven year term and maturity date of december 2019 .",
+      "the loan bears interest at one month libor plus a margin of 1.50% ( 1.50 % ) , and allows for prepayment without penalty .",
+      "the loan includes covenants and events of default substantially consistent with the company 2019s credit agreement discussed above .",
+      "the loan also requires prior approval of the lender for certain matters related to the property , including transfers of any interest in the property .",
+      "as of december 31 , 2016 and 2015 , the outstanding balance on the loan was $ 42.0 million and $ 44.0 million , respectively .",
+      "the weighted average interest rate on the loan was 2.0% ( 2.0 % ) and 1.7% ( 1.7 % ) for the years ended december 31 , 2016 and 2015 , respectively .",
+      "the following are the scheduled maturities of long term debt as of december 31 , 2016 : ( in thousands ) ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "2017",
+        "$ 27000"
+      ],
+      [
+        "2018",
+        "27000"
+      ],
+      [
+        "2019",
+        "63000"
+      ],
+      [
+        "2020",
+        "25000"
+      ],
+      [
+        "2021",
+        "86250"
+      ],
+      [
+        "2022 and thereafter",
+        "600000"
+      ],
+      [
+        "total scheduled maturities of long term debt",
+        "$ 828250"
+      ],
+      [
+        "current maturities of long term debt",
+        "$ 27000"
+      ]
+    ],
+    "questions": [
+      "what portion of the total long term debt is due in the next 12 months?"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "combined, what was the risk-free interest rate in 2008 and 2009?",
+      "answer": 4.6,
+      "answer_raw": "4.6",
+      "program": "add(1.8, 2.8)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2007?",
+      "answer": 4.8,
+      "answer_raw": "4.8",
+      "program": "4.8"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the total for all three years?",
+      "answer": 9.4,
+      "answer_raw": "9.4",
+      "program": "add(1.8, 2.8), add(#0, 4.8)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "so what was the average value during this time?",
+      "answer": 3.13333,
+      "answer_raw": "3.13333",
+      "program": "add(1.8, 2.8), add(#0, 4.8), divide(#1, const_3)"
+    }
+  ]
+}

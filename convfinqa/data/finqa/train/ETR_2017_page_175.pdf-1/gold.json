@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the minimum lease payments in 2022 as a percentage of the present value of net minimum lease payments?",
+      "answer": 0.50029,
+      "answer_raw": "0.50029",
+      "program": "divide(17188, 34356)"
+    }
+  ]
+}

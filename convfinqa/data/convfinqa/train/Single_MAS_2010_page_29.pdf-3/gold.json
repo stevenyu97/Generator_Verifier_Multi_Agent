@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference between the price of masco in 2010 and the starting value as of 12/31/05?",
+      "answer": -48.49,
+      "answer_raw": "-48.49",
+      "program": "subtract(51.51, 100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the percentage growth during that time?",
+      "answer": -0.4849,
+      "answer_raw": "-0.4849",
+      "program": "subtract(51.51, 100), divide(#0, 100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the difference between the price of the s&p 500 in 2010 and the starting value as of 12/31/05?",
+      "answer": 11.89,
+      "answer_raw": "11.89",
+      "program": "subtract(51.51, 100), divide(#0, 100), subtract(111.89, 100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the original investment again?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the growth rate of s&p 500 during this time?",
+      "answer": 0.1189,
+      "answer_raw": "0.1189",
+      "program": "subtract(51.51, 100), divide(#0, 100), subtract(111.89, 100), divide(#2, 100)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what was the difference between the two growth rates?",
+      "answer": -0.6038,
+      "answer_raw": "-0.6038",
+      "program": "subtract(51.51, 100), divide(#0, 100), subtract(111.89, 100), divide(#2, 100), subtract(#1, #3)"
+    }
+  ]
+}

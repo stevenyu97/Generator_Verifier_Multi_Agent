@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were average yearly capital expenditures for corporate , in millions?",
+      "answer": 44.66667,
+      "answer_raw": "44.66667",
+      "program": "table_average(corporate, none)"
+    }
+  ]
+}

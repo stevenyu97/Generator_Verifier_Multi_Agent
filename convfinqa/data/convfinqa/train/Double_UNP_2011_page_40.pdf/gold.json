@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amount of receivables collected by the railroad in 2011, in billions?",
+      "answer": 18.8,
+      "answer_raw": "18.8",
+      "program": "18.8"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "if there were 4 inventory turns per year, what would be the 2012 cash flow from the balance of these receivables, also in billions?",
+      "answer": 4.7,
+      "answer_raw": "4.7",
+      "program": "divide(18.8, 4)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and for the receivables collected in 2010, what would be, in billions, the cash flow in 2011 for their balance?",
+      "answer": 5.43333,
+      "answer_raw": "5.43333",
+      "program": "divide(16.3, const_3)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the level 2 significant other observable inputs for the fair value of plan assets as a percentage of quoted prices significant in active other markets for observable identical assets inputs as of december 31 , 2010?",
+      "answer": 0.1875,
+      "answer_raw": "0.1875",
+      "program": "divide(3, 16)"
+    }
+  ]
+}

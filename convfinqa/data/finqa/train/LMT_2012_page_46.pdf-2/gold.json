@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in operating profit for mst in 2012?",
+      "answer": 0.14264,
+      "answer_raw": "0.14264",
+      "program": "subtract(737, 645), divide(#0, 645)"
+    }
+  ]
+}

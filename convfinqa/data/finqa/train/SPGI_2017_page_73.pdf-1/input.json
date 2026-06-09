@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "SPGI/2017/page_73.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "for securities that are quoted in active markets , the trustee/ custodian determines fair value by applying securities 2019 prices obtained from its pricing vendors .",
+      "for commingled funds that are not actively traded , the trustee applies pricing information provided by investment management firms to the unit quanti- ties of such funds .",
+      "investment management firms employ their own pricing vendors to value the securities underlying each commingled fund .",
+      "underlying securities that are not actively traded derive their prices from investment managers , which in turn , employ vendors that use pricing models ( e.g. , discounted cash flow , comparables ) .",
+      "the domestic defined benefit plans have no investment in our stock , except through the s&p 500 commingled trust index fund .",
+      "the trustee obtains estimated prices from vendors for secu- rities that are not easily quotable and they are categorized accordingly as level 3 .",
+      "the following table details further information on our plan assets where we have used significant unobservable inputs ( level 3 ) : ."
+    ],
+    "post_text": [
+      "pension trusts 2019 asset allocations there are two pension trusts , one in the u.s .",
+      "and one in the u.k .",
+      "the u.s .",
+      "pension trust had assets of $ 1739 a0 million and $ 1632 a0million as of december a031 , 2017 and 2016 respectively , and the target allocations in 2017 include 68% ( 68 % ) fixed income , 27% ( 27 % ) domestic equities and 5% ( 5 % ) international equities .",
+      "the u.k .",
+      "pension trust had assets of $ 480 a0 million and $ 441 a0 million as of december a0 31 , 2017 and 2016 , respec- tively , and the target allocations in 2017 include 40% ( 40 % ) fixed income , 30% ( 30 % ) diversified growth funds , 20% ( 20 % ) equities and 10% ( 10 % ) real estate .",
+      "the pension assets are invested with the goal of producing a combination of capital growth , income and a liability hedge .",
+      "the mix of assets is established after consideration of the long- term performance and risk characteristics of asset classes .",
+      "investments are selected based on their potential to enhance returns , preserve capital and reduce overall volatility .",
+      "holdings are diversified within each asset class .",
+      "the portfolios employ a mix of index and actively managed equity strategies by market capitalization , style , geographic regions and economic sec- tors .",
+      "the fixed income strategies include u.s .",
+      "long duration securities , opportunistic fixed income securities and u.k .",
+      "debt instruments .",
+      "the short-term portfolio , whose primary goal is capital preservation for liquidity purposes , is composed of gov- ernment and government- agency securities , uninvested cash , receivables and payables .",
+      "the portfolios do not employ any financial leverage .",
+      "u.s .",
+      "defined contribution plans assets of the defined contribution plans in the u.s .",
+      "consist pri- marily of investment options which include actively managed equity , indexed equity , actively managed equity/bond funds , target date funds , s&p global inc .",
+      "common stock , stable value and money market strategies .",
+      "there is also a self- directed mutual fund investment option .",
+      "the plans purchased 228248 shares and sold 297750 shares of s&p global inc .",
+      "common stock in 2017 and purchased 216035 shares and sold 437283 shares of s&p global inc .",
+      "common stock in 2016 .",
+      "the plans held approximately 1.5 a0million shares of s&p global inc .",
+      "com- mon stock as of december a031 , 2017 and 1.6 a0million shares as of december a031 , 2016 , with market values of $ 255 a0million and $ 171 a0million , respectively .",
+      "the plans received dividends on s&p global inc .",
+      "common stock of $ 3 a0million and $ 2 a0million during the years ended december a031 , 2017 and december a031 , 2016 respectively .",
+      "8 .",
+      "stock-based compensation we issue stock-based incentive awards to our eligible employ- ees and directors under the 2002 employee stock incentive plan and a director deferred stock ownership plan .",
+      "2002 employee stock incentive plan ( the 201c2002 plan 201d ) 2014 the 2002 plan permits the granting of nonquali- fied stock options , stock appreciation rights , performance stock , restricted stock and other stock-based awards .",
+      "director deferred stock ownership plan 2014 under this plan , common stock reserved may be credited to deferred stock accounts for eligible directors .",
+      "in general , the plan requires that 50% ( 50 % ) of eligible directors 2019 annual com- pensation plus dividend equivalents be credited to deferred stock accounts .",
+      "each director may also elect to defer all or a portion of the remaining compensation and have an equiva- lent number of shares credited to the deferred stock account .",
+      "recipients under this plan are not required to provide con- sideration to us other than rendering service .",
+      "shares will be delivered as of the date a recipient ceases to be a member of the board of directors or within five years thereafter , if so elected .",
+      "the plan will remain in effect until terminated by the board of directors or until no shares of stock remain avail- able under the plan .",
+      "s&p global 2017 annual report 71 ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "level 3"
+      ],
+      [
+        "balance as of december 31 2016",
+        "$ 11"
+      ],
+      [
+        "purchases",
+        "28"
+      ],
+      [
+        "distributions",
+        "-1 ( 1 )"
+      ],
+      [
+        "gain ( loss )",
+        "1"
+      ],
+      [
+        "balance as of december 31 2017",
+        "$ 39"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the pension trust assets for 2017 to 2016 $ 1739 million and $ 1632"
+    ]
+  }
+}

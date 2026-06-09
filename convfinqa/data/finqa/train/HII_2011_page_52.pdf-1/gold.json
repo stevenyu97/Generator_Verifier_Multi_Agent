@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would 2011 operating income have been without non-cash charges?",
+      "answer": 400000000.0,
+      "answer_raw": "400000000.0",
+      "program": "add(110, 290), multiply(#0, const_1000000)"
+    }
+  ]
+}

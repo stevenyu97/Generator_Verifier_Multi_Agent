@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in value of future minimum rent payments from 2008 to 2009?",
+      "answer": -42.0,
+      "answer_raw": "-42.0",
+      "program": "subtract(275, 317)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the value of future minimum rent payments in 2008?",
+      "answer": 317.0,
+      "answer_raw": "317.0",
+      "program": "317"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the percent change?",
+      "answer": -0.13249,
+      "answer_raw": "-0.13249",
+      "program": "subtract(275, 317), divide(#0, 317)"
+    }
+  ]
+}

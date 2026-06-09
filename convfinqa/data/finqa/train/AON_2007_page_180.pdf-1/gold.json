@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the the total fixed maturities is due in one year or less?",
+      "answer": 0.33333,
+      "answer_raw": "0.33333",
+      "program": "divide(50, 150)"
+    }
+  ]
+}

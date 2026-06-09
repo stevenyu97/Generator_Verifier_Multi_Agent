@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in weighted average fair value of options granted in 2009?",
+      "answer": -0.44852,
+      "answer_raw": "-0.44852",
+      "program": "subtract(3.16, 5.73), divide(#0, 5.73)"
+    }
+  ]
+}

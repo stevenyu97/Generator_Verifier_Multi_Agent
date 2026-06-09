@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total in asset purchase agreements in 2009?",
+      "answer": 8211.0,
+      "answer_raw": "8211.0",
+      "program": "8211"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2008?",
+      "answer": 31780.0,
+      "answer_raw": "31780.0",
+      "program": "31780"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": -23569.0,
+      "answer_raw": "-23569.0",
+      "program": "subtract(8211, 31780)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the total in asset purchase agreements in 2008?",
+      "answer": 31780.0,
+      "answer_raw": "31780.0",
+      "program": "31780"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this 2008 total, in percentage?",
+      "answer": -0.74163,
+      "answer_raw": "-0.74163",
+      "program": "subtract(8211, 31780), divide(#0, 31780)"
+    }
+  ]
+}

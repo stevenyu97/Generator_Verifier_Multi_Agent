@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "Double_ETR/2017/page_114.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "payments ( receipts ) ( in millions ) ."
+    ],
+    "post_text": [
+      "in september 2016 the ferc accepted the february 2016 compliance filing subject to a further compliance filing made in november 2016 .",
+      "the further compliance filing was required as a result of an order issued in september 2016 ruling on the january 2016 rehearing requests filed by the lpsc , the apsc , and entergy .",
+      "in the order addressing the rehearing requests , the ferc granted the lpsc 2019s rehearing request and directed that interest be calculated on the payment/receipt amounts .",
+      "the ferc also granted the apsc 2019s and entergy 2019s rehearing request and ordered the removal of both securitized asset accumulated deferred income taxes and contra-securitization accumulated deferred income taxes from the calculation .",
+      "in november 2016 , entergy submitted its compliance filing in response to the ferc 2019s order on rehearing .",
+      "the compliance filing included a revised refund calculation of the true-up payments and receipts based on 2009 test year data and interest calculations .",
+      "the lpsc protested the interest calculations .",
+      "in november 2017 the ferc issued an order rejecting the november 2016 compliance filing .",
+      "the ferc determined that the payments detailed in the november 2016 compliance filing did not include adequate interest for the payments from entergy arkansas to entergy louisiana because it did not include interest on the principal portion of the payment that was made in february 2016 .",
+      "in december 2017 , entergy recalculated the interest pursuant to the november 2017 order .",
+      "as a result of the recalculations , entergy arkansas owed very minor payments to entergy louisiana , entergy mississippi , and entergy new orleans .",
+      "2011 rate filing based on calendar year 2010 production costs in may 2011 , entergy filed with the ferc the 2011 rates in accordance with the ferc 2019s orders in the system agreement proceeding . a0 a0several parties intervened in the proceeding at the ferc , including the lpsc , which also filed a protest . a0 a0in july a02011 the ferc a0accepted entergy 2019s proposed rates for filing , a0effective june a01 , a02011 , a0subject to refund .",
+      "after an abeyance of the proceeding schedule , in december 2014 the ferc consolidated the 2011 rate filing with the 2012 , 2013 , and 2014 rate filings for settlement and hearing procedures .",
+      "see discussion below regarding the consolidated settlement and hearing procedures in connection with this proceeding .",
+      "2012 rate filing based on calendar year 2011 production costs in may 2012 , entergy filed with the ferc the 2012 rates in accordance with the ferc 2019s orders in the system agreement proceeding . a0 a0several parties intervened in the proceeding at the ferc , including the lpsc , which also filed a protest . a0 a0in august 2012 the ferc a0accepted entergy 2019s proposed rates for filing , a0effective june a02012 , a0subject to refund .",
+      "after an abeyance of the proceeding schedule , in december 2014 the ferc consolidated the 2012 rate filing with the 2011 , 2013 , and 2014 rate filings for settlement and hearing procedures .",
+      "see discussion below regarding the consolidated settlement and hearing procedures in connection with this proceeding .",
+      "2013 rate filing based on calendar year 2012 production costs in may 2013 , entergy filed with the ferc the 2013 rates in accordance with the ferc 2019s orders in the system agreement proceeding .",
+      "several parties intervened in the proceeding at the ferc , including the lpsc , which also filed a protest .",
+      "the city council intervened and filed comments related to including the outcome of a related ferc proceeding in the 2013 cost equalization calculation .",
+      "in august 2013 the ferc issued an order accepting the 2013 rates , effective june 1 , 2013 , subject to refund .",
+      "after an abeyance of the proceeding schedule , in december 2014 the ferc consolidated the 2013 rate filing with the 2011 , 2012 , and 2014 rate filings for settlement and hearing procedures .",
+      "entergy corporation and subsidiaries notes to financial statements ."
+    ],
+    "table": [
+      [
+        "",
+        "payments ( receipts ) ( in millions )"
+      ],
+      [
+        "entergy arkansas",
+        "$ 2"
+      ],
+      [
+        "entergy louisiana",
+        "$ 6"
+      ],
+      [
+        "entergy mississippi",
+        "( $ 4 )"
+      ],
+      [
+        "entergy new orleans",
+        "( $ 1 )"
+      ],
+      [
+        "entergy texas",
+        "( $ 3 )"
+      ]
+    ],
+    "questions": [
+      "what was the total of payments for entergy arkansas, in millions?",
+      "and what was it for entergy louisiana?",
+      "what was, then, the difference between them?",
+      "and what was the entergy louisiana amount as a percent of the entergy arkansas one?"
+    ]
+  }
+}

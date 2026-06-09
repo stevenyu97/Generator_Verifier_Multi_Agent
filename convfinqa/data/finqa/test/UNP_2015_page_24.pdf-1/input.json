@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "UNP/2015/page_24.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "to , rather than as a substitute for , cash provided by operating activities .",
+      "the following table reconciles cash provided by operating activities ( gaap measure ) to free cash flow ( non-gaap measure ) : ."
+    ],
+    "post_text": [
+      "2016 outlook f0b7 safety 2013 operating a safe railroad benefits all our constituents : our employees , customers , shareholders and the communities we serve .",
+      "we will continue using a multi-faceted approach to safety , utilizing technology , risk assessment , quality control , training and employee engagement , and targeted capital investments .",
+      "we will continue using and expanding the deployment of total safety culture and courage to care throughout our operations , which allows us to identify and implement best practices for employee and operational safety .",
+      "we will continue our efforts to increase detection of rail defects ; improve or close crossings ; and educate the public and law enforcement agencies about crossing safety through a combination of our own programs ( including risk assessment strategies ) , industry programs and local community activities across our network .",
+      "f0b7 network operations 2013 in 2016 , we will continue to align resources with customer demand , continue to improve network performance , and maintain our surge capability .",
+      "f0b7 fuel prices 2013 with the dramatic drop in fuel prices during 2015 , fuel price projections continue to be uncertain in the current environment .",
+      "we again could see volatile fuel prices during the year , as they are sensitive to global and u.s .",
+      "domestic demand , refining capacity , geopolitical events , weather conditions and other factors .",
+      "as prices fluctuate , there will be a timing impact on earnings , as our fuel surcharge programs trail fluctuations in fuel price by approximately two months .",
+      "continuing lower fuel prices could have a positive impact on the economy by increasing consumer discretionary spending that potentially could increase demand for various consumer products that we transport .",
+      "alternatively , lower fuel prices will likely have a negative impact on other commodities such as coal , frac sand and crude oil shipments .",
+      "f0b7 capital plan 2013 in 2016 , we expect our capital plan to be approximately $ 3.75 billion , including expenditures for ptc , 230 locomotives and 450 freight cars .",
+      "the capital plan may be revised if business conditions warrant or if new laws or regulations affect our ability to generate sufficient returns on these investments .",
+      "( see further discussion in this item 7 under liquidity and capital resources 2013 capital plan. ) f0b7 financial expectations 2013 economic conditions in many of our market sectors continue to drive uncertainty with respect to our volume levels .",
+      "we expect volumes to be down slightly in 2016 compared to 2015 , but will depend on the overall economy and market conditions .",
+      "the strong u.s .",
+      "dollar and historic low commodity prices could also drive continued volatility .",
+      "one of the biggest uncertainties is the outlook for energy markets , which will bring both challenges and opportunities .",
+      "in the current environment , we expect continued margin improvement driven by continued pricing opportunities , ongoing productivity initiatives , and the ability to leverage our resources and strengthen our franchise .",
+      "over the longer term , we expect the overall u.s .",
+      "economy to continue to improve at a modest pace , with some markets outperforming others. ."
+    ],
+    "table": [
+      [
+        "millions",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "cash provided by operating activities",
+        "$ 7344",
+        "$ 7385",
+        "$ 6823"
+      ],
+      [
+        "cash used in investing activities",
+        "-4476 ( 4476 )",
+        "-4249 ( 4249 )",
+        "-3405 ( 3405 )"
+      ],
+      [
+        "dividends paid",
+        "-2344 ( 2344 )",
+        "-1632 ( 1632 )",
+        "-1333 ( 1333 )"
+      ],
+      [
+        "free cash flow",
+        "$ 524",
+        "$ 1504",
+        "$ 2085"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the free cash flow to the cash provided by operating activities in 2015"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the= quarter ended march 31 what was the percent of the change in the stock price from the highest to the lowest",
+      "answer": 0.09302,
+      "answer_raw": "0.09302",
+      "program": "subtract(101.88, 93.21), divide(#0, 93.21)"
+    }
+  ]
+}

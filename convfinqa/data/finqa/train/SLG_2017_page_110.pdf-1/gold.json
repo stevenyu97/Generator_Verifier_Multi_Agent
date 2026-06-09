@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "is the aoci balance for marketable securities greater than derivatives as of december 31 2017?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(1042, 12542)"
+    }
+  ]
+}

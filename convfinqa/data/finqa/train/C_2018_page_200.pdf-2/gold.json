@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total brokerage payables at december 31 , 2018 where receivables from customers?",
+      "answer": 0.22324,
+      "answer_raw": "0.22324",
+      "program": "divide(14415, 64571)"
+    }
+  ]
+}

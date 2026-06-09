@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in value of non-vested performance awards during the year?",
+      "answer": -128.0,
+      "answer_raw": "-128.0",
+      "program": "subtract(381, 509)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": -0.25147,
+      "answer_raw": "-0.25147",
+      "program": "subtract(381, 509), divide(#0, 509)"
+    }
+  ]
+}

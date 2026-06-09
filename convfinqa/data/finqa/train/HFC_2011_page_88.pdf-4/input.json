@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "HFC/2011/page_88.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "$ 25.7 million in cash , including $ 4.2 million in taxes and 1373609 of hep 2019s common units having a fair value of $ 53.5 million .",
+      "roadrunner / beeson pipelines transaction also on december 1 , 2009 , hep acquired our two newly constructed pipelines for $ 46.5 million , consisting of a 65- mile , 16-inch crude oil pipeline ( the 201croadrunner pipeline 201d ) that connects our navajo refinery lovington facility to a terminus of centurion pipeline l.p . 2019s pipeline extending between west texas and cushing , oklahoma and a 37- mile , 8-inch crude oil pipeline that connects hep 2019s new mexico crude oil gathering system to our navajo refinery lovington facility ( the 201cbeeson pipeline 201d ) .",
+      "tulsa west loading racks transaction on august 1 , 2009 , hep acquired from us , certain truck and rail loading/unloading facilities located at our tulsa west facility for $ 17.5 million .",
+      "the racks load refined products and lube oils produced at the tulsa west facility onto rail cars and/or tanker trucks .",
+      "lovington-artesia pipeline transaction on june 1 , 2009 , hep acquired our newly constructed , 16-inch intermediate pipeline for $ 34.2 million that runs 65 miles from our navajo refinery 2019s crude oil distillation and vacuum facilities in lovington , new mexico to its petroleum refinery located in artesia , new mexico .",
+      "slc pipeline joint venture interest on march 1 , 2009 , hep acquired a 25% ( 25 % ) joint venture interest in the slc pipeline , a new 95-mile intrastate pipeline system jointly owned with plains .",
+      "the slc pipeline commenced operations effective march 2009 and allows various refineries in the salt lake city area , including our woods cross refinery , to ship crude oil into the salt lake city area from the utah terminus of the frontier pipeline as well as crude oil flowing from wyoming and utah via plains 2019 rocky mountain pipeline .",
+      "hep 2019s capitalized joint venture contribution was $ 25.5 million .",
+      "rio grande pipeline sale on december 1 , 2009 , hep sold its 70% ( 70 % ) interest in rio grande pipeline company ( 201crio grande 201d ) to a subsidiary of enterprise products partners lp for $ 35 million .",
+      "results of operations of rio grande are presented in discontinued operations .",
+      "in accounting for this sale , hep recorded a gain of $ 14.5 million and a receivable of $ 2.2 million representing its final distribution from rio grande .",
+      "the recorded net asset balance of rio grande at december 1 , 2009 , was $ 22.7 million , consisting of cash of $ 3.1 million , $ 29.9 million in properties and equipment , net and $ 10.3 million in equity , representing bp , plc 2019s 30% ( 30 % ) noncontrolling interest .",
+      "the following table provides income statement information related to hep 2019s discontinued operations : year ended december 31 , 2009 ( in thousands ) ."
+    ],
+    "post_text": [
+      "transportation agreements hep serves our refineries under long-term pipeline and terminal , tankage and throughput agreements expiring in 2019 through 2026 .",
+      "under these agreements , we pay hep fees to transport , store and throughput volumes of refined product and crude oil on hep 2019s pipeline and terminal , tankage and loading rack facilities that result in minimum annual payments to hep .",
+      "under these agreements , the agreed upon tariff rates are subject to annual tariff rate adjustments on july 1 at a rate based upon the percentage change in producer price index ( 201cppi 201d ) or federal energy ."
+    ],
+    "table": [
+      [
+        "",
+        "year ended december 31 2009 ( in thousands )"
+      ],
+      [
+        "income from discontinued operations before income taxes",
+        "$ 5367"
+      ],
+      [
+        "income tax expense",
+        "-942 ( 942 )"
+      ],
+      [
+        "income from discontinued operations net",
+        "4425"
+      ],
+      [
+        "gain on sale of discontinued operations before income taxes",
+        "14479"
+      ],
+      [
+        "income tax expense",
+        "-1978 ( 1978 )"
+      ],
+      [
+        "gain on sale of discontinued operations net",
+        "12501"
+      ],
+      [
+        "income from discontinued operations net",
+        "$ 16926"
+      ]
+    ],
+    "questions": [
+      "according to line 1 , how much is each individual hep common unit worth?"
+    ]
+  }
+}

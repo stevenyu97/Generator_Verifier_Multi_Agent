@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage decrease from the approximate maximum of personal injury claims to the approximate minimum of personal injury claims?",
+      "answer": 8.51735,
+      "answer_raw": "8.51735",
+      "program": "subtract(317, 290), divide(#0, 317), multiply(#1, const_100)"
+    }
+  ]
+}

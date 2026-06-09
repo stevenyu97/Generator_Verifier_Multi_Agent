@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of net earnings in 2015?",
+      "answer": 3534.0,
+      "answer_raw": "3534.0",
+      "program": "3534"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2014?",
+      "answer": 3475.0,
+      "answer_raw": "3475.0",
+      "program": "3475"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 59.0,
+      "answer_raw": "59.0",
+      "program": "subtract(3534, 3475)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation to the net earnings in 2014, in percentage?",
+      "answer": 0.01698,
+      "answer_raw": "0.01698",
+      "program": "subtract(3534, 3475), divide(#0, 3475)"
+    }
+  ]
+}

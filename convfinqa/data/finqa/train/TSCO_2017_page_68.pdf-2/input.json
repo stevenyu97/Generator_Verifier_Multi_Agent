@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "TSCO/2017/page_68.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the company entered into agreements with various governmental entities in the states of kentucky , georgia and tennessee to implement tax abatement plans related to its distribution center in franklin , kentucky ( simpson county ) , its distribution center in macon , georgia ( bibb county ) , and its store support center in brentwood , tennessee ( williamson county ) .",
+      "the tax abatement plans provide for reduction of real property taxes for specified time frames by legally transferring title to its real property in exchange for industrial revenue bonds .",
+      "this property was then leased back to the company .",
+      "no cash was exchanged .",
+      "the lease payments are equal to the amount of the payments on the bonds .",
+      "the tax abatement period extends through the term of the lease , which coincides with the maturity date of the bonds .",
+      "at any time , the company has the option to purchase the real property by paying off the bonds , plus $ 1 .",
+      "the terms and amounts authorized and drawn under each industrial revenue bond agreement are outlined as follows , as of december 30 , 2017 : bond term bond authorized amount ( in millions ) amount drawn ( in millions ) ."
+    ],
+    "post_text": [
+      "due to the form of these transactions , the company has not recorded the bonds or the lease obligation associated with the sale lease-back transaction .",
+      "the original cost of the company 2019s property and equipment is recorded on the balance sheet and is being depreciated over its estimated useful life .",
+      "capitalized software costs the company capitalizes certain costs related to the acquisition and development of software and amortizes these costs using the straight-line method over the estimated useful life of the software , which is three to five years .",
+      "computer software consists of software developed for internal use and third-party software purchased for internal use .",
+      "a subsequent addition , modification or upgrade to internal-use software is capitalized to the extent that it enhances the software 2019s functionality or extends its useful life .",
+      "these costs are included in computer software and hardware in the accompanying consolidated balance sheets .",
+      "certain software costs not meeting the criteria for capitalization are expensed as incurred .",
+      "store closing costs the company regularly evaluates the performance of its stores and periodically closes those that are under-performing .",
+      "the company records a liability for costs associated with an exit or disposal activity when the liability is incurred , usually in the period the store closes .",
+      "store closing costs were not significant to the results of operations for any of the fiscal years presented .",
+      "leases assets under capital leases are amortized in accordance with the company 2019s normal depreciation policy for owned assets or over the lease term , if shorter , and the related charge to operations is included in depreciation expense in the consolidated statements of income .",
+      "certain operating leases include rent increases during the lease term .",
+      "for these leases , the company recognizes the related rental expense on a straight-line basis over the term of the lease ( which includes the pre-opening period of construction , renovation , fixturing and merchandise placement ) and records the difference between the expense charged to operations and amounts paid as a deferred rent liability .",
+      "the company occasionally receives reimbursements from landlords to be used towards improving the related store to be leased .",
+      "leasehold improvements are recorded at their gross costs , including items reimbursed by landlords .",
+      "related reimbursements are deferred and amortized on a straight-line basis as a reduction of rent expense over the applicable lease term .",
+      "note 2 - share-based compensation : share-based compensation includes stock option and restricted stock unit awards and certain transactions under the company 2019s espp .",
+      "share-based compensation expense is recognized based on the grant date fair value of all stock option and restricted stock unit awards plus a discount on shares purchased by employees as a part of the espp .",
+      "the discount under the espp represents the difference between the purchase date market value and the employee 2019s purchase price. ."
+    ],
+    "table": [
+      [
+        "",
+        "bond term",
+        "bond authorized amount ( in millions )",
+        "amount drawn ( in millions )"
+      ],
+      [
+        "franklin kentucky distribution center",
+        "30 years",
+        "$ 54.0",
+        "$ 51.8"
+      ],
+      [
+        "macon georgia distribution center",
+        "15 years",
+        "$ 58.0",
+        "$ 49.9"
+      ],
+      [
+        "brentwood tennessee store support center",
+        "10 years",
+        "$ 78.0",
+        "$ 75.3"
+      ]
+    ],
+    "questions": [
+      "what was the total amount lost from the bond authorization to the withdrawn?"
+    ]
+  }
+}

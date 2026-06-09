@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the fair value per share between 2012 and 2013?",
+      "answer": -0.18638,
+      "answer_raw": "-0.18638",
+      "program": "subtract(19.47, 23.93), divide(#0, 23.93)"
+    }
+  ]
+}

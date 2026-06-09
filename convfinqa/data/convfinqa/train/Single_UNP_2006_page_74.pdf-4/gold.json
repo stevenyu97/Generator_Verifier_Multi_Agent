@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was rental income in 2005?",
+      "answer": 59.0,
+      "answer_raw": "59.0",
+      "program": "59"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was it in 2004?",
+      "answer": 55.0,
+      "answer_raw": "55.0",
+      "program": "55"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 4.0,
+      "answer_raw": "4.0",
+      "program": "subtract(59, 55)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the 2004 value?",
+      "answer": 55.0,
+      "answer_raw": "55.0",
+      "program": "55"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the net change over the 2004 value?",
+      "answer": 0.07273,
+      "answer_raw": "0.07273",
+      "program": "subtract(59, 55), divide(#0, 55)"
+    }
+  ]
+}

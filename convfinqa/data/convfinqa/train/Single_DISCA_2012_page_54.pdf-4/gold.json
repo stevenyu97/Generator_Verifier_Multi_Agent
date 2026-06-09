@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in value of disca common stock from 2018, less a $100 initial investment?",
+      "answer": 359.67,
+      "answer_raw": "359.67",
+      "program": "subtract(459.67, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the percent change?",
+      "answer": 3.5967,
+      "answer_raw": "3.5967",
+      "program": "subtract(459.67, const_100), divide(#0, const_100)"
+    }
+  ]
+}

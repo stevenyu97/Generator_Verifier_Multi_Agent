@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in rental expense for operating leases from 2009 to 2010?",
+      "answer": 0.16958,
+      "answer_raw": "0.16958",
+      "program": "subtract(66.9, 57.2), divide(#0, 57.2)"
+    }
+  ]
+}

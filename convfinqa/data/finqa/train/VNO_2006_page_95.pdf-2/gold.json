@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "average annual rent per square foot changed in 2005 from 2004 by what amount?",
+      "answer": 16.5924,
+      "answer_raw": "16.5924",
+      "program": "multiply(4.19, 3.96)"
+    }
+  ]
+}

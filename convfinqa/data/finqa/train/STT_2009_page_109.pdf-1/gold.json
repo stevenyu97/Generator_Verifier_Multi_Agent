@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent change in gross gains from sales of available-for-sale securities between 2008 and 2009?",
+      "answer": 3.18,
+      "answer_raw": "3.18",
+      "program": "subtract(418, 100), divide(#0, 100)"
+    }
+  ]
+}

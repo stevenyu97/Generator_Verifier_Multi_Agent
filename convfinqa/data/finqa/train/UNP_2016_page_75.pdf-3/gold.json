@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "the total minimum payments for operating leases is what percentage of total minimum payments for capital leases?",
+      "answer": 224.57565,
+      "answer_raw": "224.57565",
+      "program": "divide(3043, 1355), multiply(#0, const_100)"
+    }
+  ]
+}

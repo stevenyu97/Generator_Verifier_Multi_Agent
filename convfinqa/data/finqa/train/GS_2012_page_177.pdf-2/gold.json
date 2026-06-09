@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of future net minimum rental payments are due in 2018 and thereafter?",
+      "answer": 0.43117,
+      "answer_raw": "0.43117",
+      "program": "divide(1375, 3189)"
+    }
+  ]
+}

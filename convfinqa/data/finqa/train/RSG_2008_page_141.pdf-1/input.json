@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "RSG/2008/page_141.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "estimated future pension benefit payments for the next ten years under the plan ( in millions ) are as follows : estimated future payments: ."
+    ],
+    "post_text": [
+      "bfi post retirement healthcare plan we acquired obligations under the bfi post retirement healthcare plan as part of our acquisition of allied .",
+      "this plan provides continued medical coverage for certain former employees following their retirement , including some employees subject to collective bargaining agreements .",
+      "eligibility for this plan is limited to certain of those employees who had ten or more years of service and were age 55 or older as of december 31 , 1998 , and certain employees in california who were hired on or before december 31 , 2005 and who retire on or after age 55 with at least thirty years of service .",
+      "liabilities acquired for this plan were $ 1.2 million and $ 1.3 million , respectively , at the acquisition date and at december 31 , 2008 .",
+      "multi-employer pension plans we contribute to 25 multi-employer pension plans under collective bargaining agreements covering union- represented employees .",
+      "we acquired responsibility for contributions for a portion of these plans as part of our acquisition of allied .",
+      "approximately 22% ( 22 % ) of our total current employees are participants in such multi- employer plans .",
+      "these plans generally provide retirement benefits to participants based on their service to contributing employers .",
+      "we do not administer these multi-employer plans .",
+      "in general , these plans are managed by a board of trustees with the unions appointing certain trustees and other contributing employers of the plan appointing certain members .",
+      "we generally are not represented on the board of trustees .",
+      "we do not have current plan financial information from the plans 2019 administrators , but based on the information available to us , it is possible that some of the multi-employer plans to which we contribute may be underfunded .",
+      "the pension protection act , enacted in august 2006 , requires underfunded pension plans to improve their funding ratios within prescribed intervals based on the level of their underfunding .",
+      "until the plan trustees develop the funding improvement plans or rehabilitation plans as required by the pension protection act , we are unable to determine the amount of assessments we may be subject to , if any .",
+      "accordingly , we cannot determine at this time the impact that the pension protection act may have on our consolidated financial position , results of operations or cash flows .",
+      "furthermore , under current law regarding multi-employer benefit plans , a plan 2019s termination , our voluntary withdrawal , or the mass withdrawal of all contributing employers from any under-funded , multi-employer pension plan would require us to make payments to the plan for our proportionate share of the multi- employer plan 2019s unfunded vested liabilities .",
+      "it is possible that there may be a mass withdrawal of employers contributing to these plans or plans may terminate in the near future .",
+      "we could have adjustments to our estimates for these matters in the near term that could have a material effect on our consolidated financial condition , results of operations or cash flows .",
+      "our pension expense for multi-employer plans was $ 21.8 million , $ 18.9 million and $ 17.3 million for the years ended december 31 , 2008 , 2007 and 2006 , respectively .",
+      "republic services , inc .",
+      "and subsidiaries notes to consolidated financial statements %%transmsg*** transmitting job : p14076 pcn : 133000000 ***%%pcmsg|131 |00027|yes|no|02/28/2009 21:12|0|0|page is valid , no graphics -- color : d| ."
+    ],
+    "table": [
+      [
+        "2009",
+        "$ 14.9"
+      ],
+      [
+        "2010",
+        "15.9"
+      ],
+      [
+        "2011",
+        "16.2"
+      ],
+      [
+        "2012",
+        "19.2"
+      ],
+      [
+        "2013",
+        "21.9"
+      ],
+      [
+        "2014 through 2018",
+        "142.2"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the estimated future pension benefit payments increase from 2011 to 2012"
+    ]
+  }
+}

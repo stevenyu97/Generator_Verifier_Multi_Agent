@@ -1,0 +1,49 @@
+{
+  "input": {
+    "id": "Single_EOG/2016/page_80.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the diluted earnings per share calculation excludes stock options , sars , restricted stock and units and performance units and stock that were anti-dilutive .",
+      "shares underlying the excluded stock options and sars totaled 10.3 million , 10.2 million and 0.7 million for the years ended december 31 , 2016 , 2015 and 2014 , respectively .",
+      "for the years ended december 31 , 2016 and 2015 , respectively , 4.5 million and 5.3 million shares of restricted stock and restricted stock units and performance units and performance stock were excluded .",
+      "10 .",
+      "supplemental cash flow information net cash paid for interest and income taxes was as follows for the years ended december 31 , 2016 , 2015 and 2014 ( in thousands ) : ."
+    ],
+    "post_text": [
+      "eog's accrued capital expenditures at december 31 , 2016 , 2015 and 2014 were $ 388 million , $ 416 million and $ 972 million , respectively .",
+      "non-cash investing activities for the year ended december 31 , 2016 , included $ 3834 million in non-cash additions to eog's oil and gas properties related to the yates transaction ( see note 17 ) .",
+      "non-cash investing activities for the year ended december 31 , 2014 included non-cash additions of $ 5 million to eog's oil and gas properties as a result of property exchanges .",
+      "11 .",
+      "business segment information eog's operations are all crude oil and natural gas exploration and production related .",
+      "the segment reporting topic of the asc establishes standards for reporting information about operating segments in annual financial statements .",
+      "operating segments are defined as components of an enterprise about which separate financial information is available and evaluated regularly by the chief operating decision maker , or decision-making group , in deciding how to allocate resources and in assessing performance .",
+      "eog's chief operating decision-making process is informal and involves the chairman of the board and chief executive officer and other key officers .",
+      "this group routinely reviews and makes operating decisions related to significant issues associated with each of eog's major producing areas in the united states , trinidad , the united kingdom and china .",
+      "for segment reporting purposes , the chief operating decision maker considers the major united states producing areas to be one operating segment. ."
+    ],
+    "table": [
+      [
+        "",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "interest net of capitalized interest",
+        "$ 252030",
+        "$ 222088",
+        "$ 197383"
+      ],
+      [
+        "income taxes net of refunds received",
+        "$ -39293 ( 39293 )",
+        "$ 41108",
+        "$ 342741"
+      ]
+    ],
+    "questions": [
+      "what is the ratio of interest net of capitalized interest from 2015 to 2016?",
+      "what is the quotient less 1?"
+    ]
+  }
+}

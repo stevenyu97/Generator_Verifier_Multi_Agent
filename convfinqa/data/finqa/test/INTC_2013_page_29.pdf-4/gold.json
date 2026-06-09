@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "of the square feet in the us what was the percent of the owned facility of the us total",
+      "answer": 0.92857,
+      "answer_raw": "0.92857",
+      "program": "divide(29.9, 32.2)"
+    }
+  ]
+}

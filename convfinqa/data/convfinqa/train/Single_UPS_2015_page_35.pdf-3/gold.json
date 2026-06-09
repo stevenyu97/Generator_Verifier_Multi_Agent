@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between the united parcel service inc. share price of 12/31/2015 and that of 12/31/2010?",
+      "answer": 60.61,
+      "answer_raw": "60.61",
+      "program": "subtract(160.61, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how much does that difference represents in relation to the united parcel service inc. share price of 12/31/2010?",
+      "answer": 0.6061,
+      "answer_raw": "0.6061",
+      "program": "subtract(160.61, const_100), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the standard & poor 2019s 500 index of 12/31/2015?",
+      "answer": 180.67,
+      "answer_raw": "180.67",
+      "program": "180.67"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the difference between that and that of 12/31/2010?",
+      "answer": 80.67,
+      "answer_raw": "80.67",
+      "program": "subtract(160.61, const_100), divide(#0, const_100), subtract(180.67, const_100)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "how much does that difference represents in relation to the standard & poor 2019s 500 index of 12/31/2010?",
+      "answer": 0.8067,
+      "answer_raw": "0.8067",
+      "program": "subtract(160.61, const_100), divide(#0, const_100), subtract(180.67, const_100), divide(#2, const_100)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the difference between the answer a1 and the answer a3?",
+      "answer": -0.2006,
+      "answer_raw": "-0.2006",
+      "program": "subtract(160.61, const_100), divide(#0, const_100), subtract(180.67, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

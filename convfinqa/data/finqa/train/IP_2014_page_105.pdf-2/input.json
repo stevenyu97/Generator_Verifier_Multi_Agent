@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "IP/2014/page_105.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the use of the two wholly-owned special purpose entities discussed below preserved the tax deferral that resulted from the 2007 temple-inland timberlands sales .",
+      "the company recognized an $ 840 million deferred tax liability in connection with the 2007 sales , which will be settled with the maturity of the notes in in october 2007 , temple-inland sold 1.55 million acres of timberlands for $ 2.38 billion .",
+      "the total consideration consisted almost entirely of notes due in 2027 issued by the buyer of the timberlands , which temple-inland contributed to two wholly-owned , bankruptcy-remote special purpose entities .",
+      "the notes are shown in financial assets of special purpose entities in the accompanying consolidated balance sheet and are supported by $ 2.38 billion of irrevocable letters of credit issued by three banks , which are required to maintain minimum credit ratings on their long-term debt .",
+      "in the third quarter of 2012 , international paper completed its preliminary analysis of the acquisition date fair value of the notes and determined it to be $ 2.09 billion .",
+      "as of december 31 , 2014 and 2013 , the fair value of the notes was $ 2.27 billion and $ 2.62 billion , respectively .",
+      "these notes are classified as level 2 within the fair value hierarchy , which is further defined in note 14 .",
+      "in december 2007 , temple-inland's two wholly-owned special purpose entities borrowed $ 2.14 billion shown in nonrecourse financial liabilities of special purpose entities in the accompanying consolidated balance sheet .",
+      "the loans are repayable in 2027 and are secured only by the $ 2.38 billion of notes and the irrevocable letters of credit securing the notes and are nonrecourse to the company .",
+      "the loan agreements provide that if a credit rating of any of the banks issuing the letters of credit is downgraded below the specified threshold , the letters of credit issued by that bank must be replaced within 30 days with letters of credit from another qualifying financial institution .",
+      "in the third quarter of 2012 , international paper completed its preliminary analysis of the acquisition date fair value of the borrowings and determined it to be $ 2.03 billion .",
+      "as of december 31 , 2014 and 2013 , the fair value of this debt was $ 2.16 billion and $ 2.49 billion , respectively .",
+      "this debt is classified as level 2 within the fair value hierarchy , which is further defined in note 14 .",
+      "during 2012 , the credit ratings for two letter of credit banks that support $ 1.0 billion of the 2007 monetized notes were downgraded below the specified threshold .",
+      "these letters of credit were successfully replaced by other qualifying institutions .",
+      "fees of $ 8 million were incurred in connection with these replacements .",
+      "activity between the company and the 2007 financing entities was as follows: ."
+    ],
+    "post_text": [
+      "( a ) the revenue is included in interest expense , net in the accompanying consolidated statement of operations and includes approximately $ 19 million , $ 19 million and $ 17 million for the years ended december 31 , 2014 , 2013 and 2012 , respectively , of accretion income for the amortization of the purchase accounting adjustment of the financial assets of special purpose entities .",
+      "( b ) the expense is included in interest expense , net in the accompanying consolidated statement of operations and includes $ 7 million , $ 7 million and $ 6 million for the years ended december 31 , 2014 , 2013 and 2012 , respectively , of accretion expense for the amortization of the purchase accounting adjustment on the nonrecourse financial liabilities of special purpose entities .",
+      "( c ) the cash receipts are interest received on the financial assets of special purpose entities .",
+      "( d ) the cash payments are interest paid on nonrecourse financial liabilities of special purpose entities .",
+      "preferred securities of subsidiaries in march 2003 , southeast timber , inc .",
+      "( southeast timber ) , a consolidated subsidiary of international paper , issued $ 150 million of preferred securities to a private investor with future dividend payments based on libor .",
+      "southeast timber , which through a subsidiary initially held approximately 1.50 million acres of forestlands in the southern united states , was international paper 2019s primary vehicle for sales of southern forestlands .",
+      "as of december 31 , 2014 , substantially all of these forestlands have been sold .",
+      "on march 27 , 2013 , southeast timber redeemed its class a common shares owned by the private investor for $ 150 million .",
+      "distributions paid to the third-party investor were $ 1 million and $ 6 million in 2013 and 2012 , respectively .",
+      "the expense related to these preferred securities is shown in net earnings ( loss ) attributable to noncontrolling interests in the accompanying consolidated statement of operations .",
+      "note 13 debt and lines of credit during the second quarter of 2014 , international paper issued $ 800 million of 3.65% ( 3.65 % ) senior unsecured notes with a maturity date in 2024 and $ 800 million of 4.80% ( 4.80 % ) senior unsecured notes with a maturity date in 2044 .",
+      "the proceeds from this borrowing were used to repay approximately $ 960 million of notes with interest rates ranging from 7.95% ( 7.95 % ) to 9.38% ( 9.38 % ) and original maturities from 2018 to 2019 .",
+      "pre-tax early debt retirement costs of $ 262 million related to these debt repayments , including $ 258 million of cash premiums , are included in restructuring and other charges in the ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      [
+        "revenue ( loss ) ( a )",
+        "$ 26",
+        "$ 27",
+        "$ 28"
+      ],
+      [
+        "expense ( b )",
+        "25",
+        "29",
+        "28"
+      ],
+      [
+        "cash receipts ( c )",
+        "7",
+        "8",
+        "12"
+      ],
+      [
+        "cash payments ( d )",
+        "18",
+        "21",
+        "22"
+      ]
+    ],
+    "questions": [
+      "based on the review of the activity between the company and the 2007 financing entities what was the ratio of the cash payments to cash receipts in 2012"
+    ]
+  }
+}

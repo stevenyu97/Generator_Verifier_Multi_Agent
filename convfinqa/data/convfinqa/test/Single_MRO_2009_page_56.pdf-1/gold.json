@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the average wti crude oil benchmark from 2007 to 2009?",
+      "answer": -10.32,
+      "answer_raw": "-10.32",
+      "program": "subtract(62.09, 72.41)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that average wti crude oil benchmark in 2007?",
+      "answer": 72.41,
+      "answer_raw": "72.41",
+      "program": "72.41"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2007 amount, in percentage?",
+      "answer": -0.14252,
+      "answer_raw": "-0.14252",
+      "program": "subtract(62.09, 72.41), divide(#0, 72.41)"
+    }
+  ]
+}

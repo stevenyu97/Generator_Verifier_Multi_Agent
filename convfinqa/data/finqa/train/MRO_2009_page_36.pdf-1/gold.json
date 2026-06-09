@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2009 what percentage of pipeline barrels handled consisted of crude oil trunk lines?",
+      "answer": 0.57303,
+      "answer_raw": "0.57303",
+      "program": "divide(1279, 2232)"
+    }
+  ]
+}

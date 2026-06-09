@@ -1,0 +1,90 @@
+{
+  "input": {
+    "id": "MA/2008/page_70.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "we recorded liabilities for certain litigation settlements in prior periods .",
+      "total liabilities for litigation settlements changed from december 31 , 2006 , as follows : ( in millions ) ."
+    ],
+    "post_text": [
+      "* note that table may not sum due to rounding .",
+      "contribution expense 2014foundation in may 2006 , in conjunction with our initial public offering ( 201cipo 201d ) , we issued 13496933 shares of our class a common stock as a donation to the foundation that is incorporated in canada and controlled by directors who are independent of us and our customers .",
+      "the foundation builds on mastercard 2019s existing charitable giving commitments by continuing to support programs and initiatives that help children and youth to access education , understand and utilize technology , and develop the skills necessary to succeed in a diverse and global work force .",
+      "the vision of the foundation is to make the economy work for everybody by advancing innovative programs in areas of microfinance and youth education .",
+      "in connection with the donation of the class a common stock , we recorded an expense of $ 395 million which was equal to the aggregate value of the shares we donated .",
+      "in both 2007 and 2006 , we recorded expenses of $ 20 million for cash donations we made to the foundation , completing our intention , announced at the time of the ipo , to donate approximately $ 40 million in cash to the foundation in support of its operating expenses and charitable disbursements for the first four years of its operations .",
+      "we may make additional cash contributions to the foundation in the future .",
+      "the cash and stock donations to the foundation are generally not deductible by mastercard for tax purposes .",
+      "as a result of this difference between the financial statement and tax treatments of the donations , our effective income tax rate for the year ended december 31 , 2006 is significantly higher than our effective income tax rates for 2007 and 2008 .",
+      "depreciation and amortization depreciation and amortization expenses increased $ 14 million in 2008 and decreased $ 2 million in 2007 .",
+      "the increase in depreciation and amortization expense in 2008 is primarily due to increased investments in leasehold and building improvements , data center equipment and capitalized software .",
+      "the decrease in depreciation and amortization expense in 2007 was primarily related to certain assets becoming fully depreciated .",
+      "depreciation and amortization will increase as we continue to invest in leasehold and building improvements , data center equipment and capitalized software. ."
+    ],
+    "table": [
+      [
+        "balance as of december 31 2006",
+        "$ 477"
+      ],
+      [
+        "provision for litigation settlements ( note 20 )",
+        "3"
+      ],
+      [
+        "interest accretion on u.s . merchant lawsuit",
+        "38"
+      ],
+      [
+        "payments",
+        "-114 ( 114 )"
+      ],
+      [
+        "balance as of december 31 2007",
+        "$ 404"
+      ],
+      [
+        "provision for discover settlement",
+        "863"
+      ],
+      [
+        "provision for american express settlement",
+        "1649"
+      ],
+      [
+        "provision for other litigation settlements",
+        "6"
+      ],
+      [
+        "interest accretion on u.s . merchant lawsuit",
+        "33"
+      ],
+      [
+        "interest accretion on american express settlement",
+        "44"
+      ],
+      [
+        "payments on american express settlement",
+        "-300 ( 300 )"
+      ],
+      [
+        "payments on discover settlement",
+        "-863 ( 863 )"
+      ],
+      [
+        "payment on u.s . merchant lawsuit",
+        "-100 ( 100 )"
+      ],
+      [
+        "other payments and accretion",
+        "-1 ( 1 )"
+      ],
+      [
+        "balance as of december 31 2008",
+        "$ 1736"
+      ]
+    ],
+    "questions": [
+      "what is the net change in the balance of total liabilities for litigation settlements during 2007?"
+    ]
+  }
+}

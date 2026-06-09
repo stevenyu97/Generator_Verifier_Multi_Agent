@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total net assets acquired was goodwill?",
+      "answer": 0.40351,
+      "answer_raw": "0.40351",
+      "program": "divide(115, 285)"
+    }
+  ]
+}

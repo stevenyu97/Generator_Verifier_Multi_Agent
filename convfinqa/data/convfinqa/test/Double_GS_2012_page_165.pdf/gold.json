@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total other assets was made of goodwill and identifiable intangible assets in 2012?",
+      "answer": 0.12869,
+      "answer_raw": "0.12869",
+      "program": "divide(5099, 39623)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2011?",
+      "answer": 0.23618,
+      "answer_raw": "0.23618",
+      "program": "divide(5468, 23152)"
+    }
+  ]
+}

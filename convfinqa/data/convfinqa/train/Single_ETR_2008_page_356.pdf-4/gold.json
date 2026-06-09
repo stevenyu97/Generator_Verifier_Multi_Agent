@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the number of electric consumers in 2007?",
+      "answer": 132000.0,
+      "answer_raw": "132000.0",
+      "program": "132000"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2006?",
+      "answer": 95000.0,
+      "answer_raw": "95000.0",
+      "program": "95000"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the increase in the number of electric consumers?",
+      "answer": 37000.0,
+      "answer_raw": "37000.0",
+      "program": "subtract(132000, 95000)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage increase does this represent?",
+      "answer": 0.38947,
+      "answer_raw": "0.38947",
+      "program": "subtract(132000, 95000), divide(#0, 95000)"
+    }
+  ]
+}

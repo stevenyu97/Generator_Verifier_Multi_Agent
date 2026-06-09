@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in gas customers between 2007 and 2008?",
+      "answer": 0.0814,
+      "answer_raw": "0.0814",
+      "program": "subtract(93000, 86000), divide(#0, 86000)"
+    }
+  ]
+}

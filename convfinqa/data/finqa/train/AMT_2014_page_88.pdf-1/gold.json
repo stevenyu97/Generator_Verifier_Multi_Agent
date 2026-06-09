@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming a midpoint interest rate in the range , what would be the annual interest expense on interest rate swap agreements based on the notional amounts , in millions?",
+      "answer": 5.42122,
+      "answer_raw": "5.42122",
+      "program": "add(5.74, 7.83), divide(#0, const_2), divide(#1, const_100), multiply(#2, 79.9)"
+    }
+  ]
+}

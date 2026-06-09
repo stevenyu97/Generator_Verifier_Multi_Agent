@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "CE/2007/page_125.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "determined that it will primarily be subject to the ietu in future periods , and as such it has recorded tax expense of approximately $ 20 million in 2007 for the deferred tax effects of the new ietu system .",
+      "as of december 31 , 2007 , the company had us federal net operating loss carryforwards of approximately $ 206 million which will begin to expire in 2023 .",
+      "of this amount , $ 47 million relates to the pre-acquisition period and is subject to limitation .",
+      "the remaining $ 159 million is subject to limitation as a result of the change in stock ownership in may 2006 .",
+      "this limitation is not expected to have a material impact on utilization of the net operating loss carryforwards .",
+      "the company also had foreign net operating loss carryforwards as of december 31 , 2007 of approximately $ 564 million for canada , germany , mexico and other foreign jurisdictions with various expiration dates .",
+      "net operating losses in canada have various carryforward periods and began expiring in 2007 .",
+      "net operating losses in germany have no expiration date .",
+      "net operating losses in mexico have a ten year carryforward period and begin to expire in 2009 .",
+      "however , these losses are not available for use under the new ietu tax regulations in mexico .",
+      "as the ietu is the primary system upon which the company will be subject to tax in future periods , no deferred tax asset has been reflected in the balance sheet as of december 31 , 2007 for these income tax loss carryforwards .",
+      "the company adopted the provisions of fin 48 effective january 1 , 2007 .",
+      "fin 48 clarifies the accounting for income taxes by prescribing a minimum recognition threshold a tax benefit is required to meet before being recognized in the financial statements .",
+      "fin 48 also provides guidance on derecognition , measurement , classification , interest and penalties , accounting in interim periods , disclosure and transition .",
+      "as a result of the implementation of fin 48 , the company increased retained earnings by $ 14 million and decreased goodwill by $ 2 million .",
+      "in addition , certain tax liabilities for unrecognized tax benefits , as well as related potential penalties and interest , were reclassified from current liabilities to long-term liabilities .",
+      "liabilities for unrecognized tax benefits as of december 31 , 2007 relate to various us and foreign jurisdictions .",
+      "a reconciliation of the beginning and ending amount of unrecognized tax benefits is as follows : year ended december 31 , 2007 ( in $ millions ) ."
+    ],
+    "post_text": [
+      "included in the unrecognized tax benefits of $ 200 million as of december 31 , 2007 is $ 56 million of tax benefits that , if recognized , would reduce the company 2019s effective tax rate .",
+      "the company recognizes interest and penalties related to unrecognized tax benefits in the provision for income taxes .",
+      "as of december 31 , 2007 , the company has recorded a liability of approximately $ 36 million for interest and penalties .",
+      "this amount includes an increase of approximately $ 13 million for the year ended december 31 , 2007 .",
+      "the company operates in the united states ( including multiple state jurisdictions ) , germany and approximately 40 other foreign jurisdictions including canada , china , france , mexico and singapore .",
+      "examinations are ongoing in a number of those jurisdictions including , most significantly , in germany for the years 2001 to 2004 .",
+      "during the quarter ended march 31 , 2007 , the company received final assessments in germany for the prior examination period , 1997 to 2000 .",
+      "the effective settlement of those examinations resulted in a reduction to goodwill of approximately $ 42 million with a net expected cash outlay of $ 29 million .",
+      "the company 2019s celanese corporation and subsidiaries notes to consolidated financial statements 2014 ( continued ) %%transmsg*** transmitting job : y48011 pcn : 122000000 ***%%pcmsg|f-49 |00023|yes|no|02/26/2008 22:07|0|0|page is valid , no graphics -- color : d| ."
+    ],
+    "table": [
+      [
+        "",
+        "year ended december 31 2007 ( in $ millions )"
+      ],
+      [
+        "balance as of january 1 2007",
+        "193"
+      ],
+      [
+        "increases in tax positions for the current year",
+        "2"
+      ],
+      [
+        "increases in tax positions for prior years",
+        "28"
+      ],
+      [
+        "decreases in tax positions of prior years",
+        "-21 ( 21 )"
+      ],
+      [
+        "settlements",
+        "-2 ( 2 )"
+      ],
+      [
+        "balance as of december 31 2007",
+        "200"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in the balance of unrecognized tax benefits during 2007?"
+    ]
+  }
+}

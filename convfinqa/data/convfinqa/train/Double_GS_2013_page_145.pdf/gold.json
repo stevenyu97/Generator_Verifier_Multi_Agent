@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the total derivatives for level 3 derivative assets and liabilities at fair value throughout 2013, in millions?",
+      "answer": -1365.0,
+      "answer_raw": "-1365.0",
+      "program": "subtract(2991, 4356)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "in that same year, what was the aggregate amount of losses reported in 201cmarket making 201d, in billions?",
+      "answer": 1.29,
+      "answer_raw": "1.29",
+      "program": "1.29"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much is that in millions?",
+      "answer": 1290.0,
+      "answer_raw": "1290.0",
+      "program": "multiply(1.29, const_1000)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is the difference between this amount and the 201cother principal transactions 201d in that year, in millions?",
+      "answer": 966.0,
+      "answer_raw": "966.0",
+      "program": "multiply(1.29, const_1000), subtract(#0, 324)"
+    }
+  ]
+}

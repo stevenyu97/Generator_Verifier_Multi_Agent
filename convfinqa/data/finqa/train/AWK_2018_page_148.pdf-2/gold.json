@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in the fourth quarter of 2018 vs . 2017 , what was the increase in the cash dividend per share?",
+      "answer": 0.04,
+      "answer_raw": "0.04",
+      "program": "subtract(0.455, 0.415)"
+    }
+  ]
+}

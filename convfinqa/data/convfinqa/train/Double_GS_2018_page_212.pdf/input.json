@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "Double_GS/2018/page_212.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the goldman sachs group , inc .",
+      "and subsidiaries item 9 .",
+      "changes in and disagreements with accountants on accounting and financial disclosure there were no changes in or disagreements with accountants on accounting and financial disclosure during the last two years .",
+      "item 9a .",
+      "controls and procedures as of the end of the period covered by this report , an evaluation was carried out by goldman sachs 2019 management , with the participation of our chief executive officer and chief financial officer , of the effectiveness of our disclosure controls and procedures ( as defined in rule 13a-15 ( e ) under the exchange act ) .",
+      "based upon that evaluation , our chief executive officer and chief financial officer concluded that these disclosure controls and procedures were effective as of the end of the period covered by this report .",
+      "in addition , no change in our internal control over financial reporting ( as defined in rule 13a-15 ( f ) under the exchange act ) occurred during the fourth quarter of our year ended december 31 , 2018 that has materially affected , or is reasonably likely to materially affect , our internal control over financial reporting .",
+      "management 2019s report on internal control over financial reporting and the report of independent registered public accounting firm are set forth in part ii , item 8 of this form 10-k .",
+      "item 9b .",
+      "other information not applicable .",
+      "part iii item 10 .",
+      "directors , executive officers and corporate governance information relating to our executive officers is included on page 20 of this form 10-k .",
+      "information relating to our directors , including our audit committee and audit committee financial experts and the procedures by which shareholders can recommend director nominees , and our executive officers will be in our definitive proxy statement for our 2019 annual meeting of shareholders , which will be filed within 120 days of the end of 2018 ( 2019 proxy statement ) and is incorporated in this form 10-k by reference .",
+      "information relating to our code of business conduct and ethics , which applies to our senior financial officers , is included in 201cbusiness 2014 available information 201d in part i , item 1 of this form 10-k .",
+      "item 11 .",
+      "executive compensation information relating to our executive officer and director compensation and the compensation committee of the board will be in the 2019 proxy statement and is incorporated in this form 10-k by reference .",
+      "item 12 .",
+      "security ownership of certain beneficial owners and management and related stockholder matters information relating to security ownership of certain beneficial owners of our common stock and information relating to the security ownership of our management will be in the 2019 proxy statement and is incorporated in this form 10-k by reference .",
+      "the table below presents information as of december 31 , 2018 regarding securities to be issued pursuant to outstanding restricted stock units ( rsus ) and securities remaining available for issuance under our equity compensation plans that were in effect during 2018 .",
+      "plan category securities to be issued exercise of outstanding options and rights ( a ) weighted average exercise price of outstanding options ( b ) securities available for future issuance under equity compensation plans ( c ) equity compensation plans approved by security holders 17176475 n/a 68211649 equity compensation plans not approved by security holders 2013 2013 2013 ."
+    ],
+    "post_text": [
+      "in the table above : 2030 securities to be issued upon exercise of outstanding options and rights includes 17176475 shares that may be issued pursuant to outstanding rsus .",
+      "these awards are subject to vesting and other conditions to the extent set forth in the respective award agreements , and the underlying shares will be delivered net of any required tax withholding .",
+      "as of december 31 , 2018 , there were no outstanding options .",
+      "2030 shares underlying rsus are deliverable without the payment of any consideration , and therefore these awards have not been taken into account in calculating the weighted average exercise price .",
+      "196 goldman sachs 2018 form 10-k ."
+    ],
+    "table": [
+      [
+        "plan category",
+        "securities to be issued upon exercise of outstanding options and rights ( a )",
+        "weighted average exercise price of outstanding options ( b )",
+        "securities available for future issuance under equity compensation plans ( c )"
+      ],
+      [
+        "equity compensation plans approved by security holders",
+        "17176475",
+        "n/a",
+        "68211649"
+      ],
+      [
+        "equity compensation plans not approved by securityholders",
+        "2013",
+        "2013",
+        "2013"
+      ],
+      [
+        "total",
+        "17176475",
+        "",
+        "68211649"
+      ]
+    ],
+    "questions": [
+      "what is the total securities to be issued upon exercise of outstanding options and rights?",
+      "what about the total securities available for future issuance under equity compensation plans?",
+      "what is the total number of securities that is approved by security holders?",
+      "what portion of the approved securities is to be issued upon exercise of outstanding options and rights?",
+      "what about the portion of approved securities available for future issuance under equity compensation plans?"
+    ]
+  }
+}

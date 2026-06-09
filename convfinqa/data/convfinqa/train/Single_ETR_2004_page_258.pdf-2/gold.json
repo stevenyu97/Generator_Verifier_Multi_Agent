@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the 2004 net revenue?",
+      "answer": 239.0,
+      "answer_raw": "239.0",
+      "program": "239.0"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the 2003 net revenue?",
+      "answer": 208.3,
+      "answer_raw": "208.3",
+      "program": "208.3"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the difference?",
+      "answer": 30.7,
+      "answer_raw": "30.7",
+      "program": "subtract(239.0, 208.3)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the value for volume/weather?",
+      "answer": 8.3,
+      "answer_raw": "8.3",
+      "program": "8.3"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the ratio of volume/weather to the difference in revenue?",
+      "answer": 0.27036,
+      "answer_raw": "0.27036",
+      "program": "subtract(239.0, 208.3), divide(8.3, #0)"
+    }
+  ]
+}

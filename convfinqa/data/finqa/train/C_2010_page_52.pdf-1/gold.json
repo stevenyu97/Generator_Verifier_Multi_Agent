@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of revenue net of interest expense is due to net interest revenue in 2010?",
+      "answer": 0.42742,
+      "answer_raw": "0.42742",
+      "program": "divide(1219, 2852)"
+    }
+  ]
+}

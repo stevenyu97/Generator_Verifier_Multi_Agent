@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the total payments are due to be paid off within the first year?",
+      "answer": 0.0632,
+      "answer_raw": "0.0632",
+      "program": "divide(832, 13165)"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "input": {
+    "id": "GS/2012/page_197.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements regulatory tax examinations the firm is subject to examination by the u.s .",
+      "internal revenue service ( irs ) and other taxing authorities in jurisdictions where the firm has significant business operations , such as the united kingdom , japan , hong kong , korea and various states , such as new york .",
+      "the tax years under examination vary by jurisdiction .",
+      "the firm believes that during 2013 , certain audits have a reasonable possibility of being completed .",
+      "the firm does not expect completion of these audits to have a material impact on the firm 2019s financial condition but it may be material to operating results for a particular period , depending , in part , on the operating results for that period .",
+      "the table below presents the earliest tax years that remain subject to examination by major jurisdiction .",
+      "jurisdiction december 2012 u.s .",
+      "federal 1 2005 new york state and city 2 2004 ."
+    ],
+    "post_text": [
+      "1 .",
+      "irs examination of fiscal 2008 through calendar 2010 began during 2011 .",
+      "irs examination of fiscal 2005 , 2006 and 2007 began during 2008 .",
+      "irs examination of fiscal 2003 and 2004 has been completed , but the liabilities for those years are not yet final .",
+      "the firm anticipates that the audits of fiscal 2005 through calendar 2010 should be completed during 2013 , and the audits of 2011 through 2012 should begin in 2013 .",
+      "2 .",
+      "new york state and city examination of fiscal 2004 , 2005 and 2006 began in 2008 .",
+      "3 .",
+      "japan national tax agency examination of fiscal 2005 through 2009 began in 2010 .",
+      "the examinations have been completed , but the liabilities for 2008 and 2009 are not yet final .",
+      "all years subsequent to the above remain open to examination by the taxing authorities .",
+      "the firm believes that the liability for unrecognized tax benefits it has established is adequate in relation to the potential for additional assessments .",
+      "in january 2013 , the firm was accepted into the compliance assurance process program by the irs .",
+      "this program will allow the firm to work with the irs to identify and resolve potential u.s .",
+      "federal tax issues before the filing of tax returns .",
+      "the 2013 tax year will be the first year examined under the program .",
+      "note 25 .",
+      "business segments the firm reports its activities in the following four business segments : investment banking , institutional client services , investing & lending and investment management .",
+      "basis of presentation in reporting segments , certain of the firm 2019s business lines have been aggregated where they have similar economic characteristics and are similar in each of the following areas : ( i ) the nature of the services they provide , ( ii ) their methods of distribution , ( iii ) the types of clients they serve and ( iv ) the regulatory environments in which they operate .",
+      "the cost drivers of the firm taken as a whole 2014 compensation , headcount and levels of business activity 2014 are broadly similar in each of the firm 2019s business segments .",
+      "compensation and benefits expenses in the firm 2019s segments reflect , among other factors , the overall performance of the firm as well as the performance of individual businesses .",
+      "consequently , pre-tax margins in one segment of the firm 2019s business may be significantly affected by the performance of the firm 2019s other business segments .",
+      "the firm allocates assets ( including allocations of excess liquidity and cash , secured client financing and other assets ) , revenues and expenses among the four reportable business segments .",
+      "due to the integrated nature of these segments , estimates and judgments are made in allocating certain assets , revenues and expenses .",
+      "transactions between segments are based on specific criteria or approximate third-party rates .",
+      "total operating expenses include corporate items that have not been allocated to individual business segments .",
+      "the allocation process is based on the manner in which management currently views the performance of the segments .",
+      "goldman sachs 2012 annual report 195 ."
+    ],
+    "table": [
+      [
+        "jurisdiction",
+        "as of december 2012"
+      ],
+      [
+        "u.s . federal1",
+        "2005"
+      ],
+      [
+        "new york state and city2",
+        "2004"
+      ],
+      [
+        "united kingdom",
+        "2007"
+      ],
+      [
+        "japan3",
+        "2008"
+      ],
+      [
+        "hong kong",
+        "2005"
+      ],
+      [
+        "korea",
+        "2008"
+      ]
+    ],
+    "questions": [
+      "as of december 2012 , in years , was the hong kong exam opened earlier than the korea exam?"
+    ]
+  }
+}

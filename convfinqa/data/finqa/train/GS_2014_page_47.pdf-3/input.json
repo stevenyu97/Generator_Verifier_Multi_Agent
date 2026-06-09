@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "GS/2014/page_47.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis investing & lending investing & lending includes our investing activities and the origination of loans to provide financing to clients .",
+      "these investments and loans are typically longer-term in nature .",
+      "we make investments , some of which are consolidated , directly and indirectly through funds that we manage , in debt securities and loans , public and private equity securities , and real estate entities .",
+      "the table below presents the operating results of our investing & lending segment. ."
+    ],
+    "post_text": [
+      "1 .",
+      "includes net revenues of $ 325 million for 2014 , $ 329 million for 2013 and $ 362 million for 2012 related to metro international trade services llc .",
+      "we completed the sale of this consolidated investment in december 2014 .",
+      "2014 versus 2013 .",
+      "net revenues in investing & lending were $ 6.83 billion for 2014 , 3% ( 3 % ) lower than 2013 .",
+      "net gains from investments in equity securities were slightly lower due to a significant decrease in net gains from investments in public equities , as movements in global equity prices during 2014 were less favorable compared with 2013 , partially offset by an increase in net gains from investments in private equities , primarily driven by company-specific events .",
+      "net revenues from debt securities and loans were higher than 2013 , reflecting a significant increase in net interest income , primarily driven by increased lending , and a slight increase in net gains , primarily due to sales of certain investments during 2014 .",
+      "other net revenues , related to our consolidated investments , were significantly lower compared with 2013 , reflecting a decrease in operating revenues from commodities-related consolidated investments .",
+      "during 2014 , net revenues in investing & lending generally reflected favorable company-specific events , including initial public offerings and financings , and strong corporate performance , as well as net gains from sales of certain investments .",
+      "however , concerns about the outlook for the global economy and uncertainty over the impact of financial regulatory reform continue to be meaningful considerations for the global marketplace .",
+      "if equity markets decline or credit spreads widen , net revenues in investing & lending would likely be negatively impacted .",
+      "operating expenses were $ 2.82 billion for 2014 , 5% ( 5 % ) higher than 2013 , reflecting higher compensation and benefits expenses , partially offset by lower expenses related to consolidated investments .",
+      "pre-tax earnings were $ 4.01 billion in 2014 , 8% ( 8 % ) lower than 2013 .",
+      "2013 versus 2012 .",
+      "net revenues in investing & lending were $ 7.02 billion for 2013 , 19% ( 19 % ) higher than 2012 , reflecting a significant increase in net gains from investments in equity securities , driven by company-specific events and stronger corporate performance , as well as significantly higher global equity prices .",
+      "in addition , net gains and net interest income from debt securities and loans were slightly higher , while other net revenues , related to our consolidated investments , were lower compared with 2012 .",
+      "during 2013 , net revenues in investing & lending generally reflected favorable company-specific events and strong corporate performance , as well as the impact of significantly higher global equity prices and tighter corporate credit spreads .",
+      "operating expenses were $ 2.69 billion for 2013 , essentially unchanged compared with 2012 .",
+      "operating expenses during 2013 included lower impairment charges and lower operating expenses related to consolidated investments , partially offset by increased compensation and benefits expenses due to higher net revenues compared with 2012 .",
+      "pre-tax earnings were $ 4.33 billion in 2013 , 34% ( 34 % ) higher than 2012 .",
+      "goldman sachs 2014 annual report 45 ."
+    ],
+    "table": [
+      [
+        "$ in millions",
+        "year ended december 2014",
+        "year ended december 2013",
+        "year ended december 2012"
+      ],
+      [
+        "equity securities",
+        "$ 3813",
+        "$ 3930",
+        "$ 2800"
+      ],
+      [
+        "debt securities and loans",
+        "2165",
+        "1947",
+        "1850"
+      ],
+      [
+        "other1",
+        "847",
+        "1141",
+        "1241"
+      ],
+      [
+        "total net revenues",
+        "6825",
+        "7018",
+        "5891"
+      ],
+      [
+        "operating expenses",
+        "2819",
+        "2686",
+        "2668"
+      ],
+      [
+        "pre-tax earnings",
+        "$ 4006",
+        "$ 4332",
+        "$ 3223"
+      ]
+    ],
+    "questions": [
+      "in 2013 what percentage of total net revenues for the investing & lending segment were due to debt securities and loans?"
+    ]
+  }
+}

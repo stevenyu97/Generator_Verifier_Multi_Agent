@@ -1,0 +1,110 @@
+{
+  "input": {
+    "id": "AES/2017/page_85.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "foreign currency transaction gains ( losses ) foreign currency transaction gains ( losses ) in millions were as follows: ."
+    ],
+    "post_text": [
+      "total ( 1 ) $ 42 $ ( 15 ) $ 106 _____________________________ ( 1 ) includes gains of $ 21 million , $ 17 million and $ 247 million on foreign currency derivative contracts for the years ended december 31 , 2017 , 2016 and 2015 , respectively .",
+      "the company recognized net foreign currency transaction gains of $ 42 million for the year ended december 31 , 2017 primarily driven by transactions associated with vat activity in mexico , the amortization of frozen embedded derivatives in the philippines , and appreciation of the euro in bulgaria .",
+      "these gains were partially offset by unfavorable foreign currency derivatives in colombia .",
+      "the company recognized net foreign currency transaction losses of $ 15 million for the year ended december 31 , 2016 primarily due to remeasurement losses on intercompany notes , and losses on swaps and options at the aes corporation .",
+      "this loss was partially offset in argentina , mainly due to the favorable impact of foreign currency derivatives related to government receivables .",
+      "the company recognized net foreign currency transaction gains of $ 106 million for the year ended december 31 , 2015 primarily due to foreign currency derivatives related to government receivables in argentina and depreciation of the colombian peso in colombia .",
+      "these gains were partially offset due to decreases in the valuation of intercompany notes at the aes corporation and unfavorable devaluation of the chilean peso in chile .",
+      "income tax expense income tax expense increased $ 958 million to $ 990 million in 2017 as compared to 2016 .",
+      "the company's effective tax rates were 128% ( 128 % ) and 17% ( 17 % ) for the years ended december 31 , 2017 and 2016 , respectively .",
+      "the net increase in the 2017 effective tax rate was due primarily to expense related to the u.s .",
+      "tax reform one-time transition tax and remeasurement of deferred tax assets .",
+      "further , the 2016 rate was impacted by the items described below .",
+      "income tax expense decreased $ 380 million to $ 32 million in 2016 as compared to 2015 .",
+      "the company's effective tax rates were 17% ( 17 % ) and 42% ( 42 % ) for the years ended december 31 , 2016 and 2015 , respectively .",
+      "the net decrease in the 2016 effective tax rate was due , in part , to the 2016 asset impairments in the u.s. , as well as the devaluation of the peso in certain of our mexican subsidiaries and the release of valuation allowance at certain of our brazilian subsidiaries .",
+      "these favorable items were partially offset by the unfavorable impact of chilean income tax law reform enacted during the first quarter of 2016 .",
+      "further , the 2015 rate was due , in part , to the nondeductible 2015 impairment of goodwill at dp&l and chilean withholding taxes offset by the release of valuation allowance at certain of our businesses in brazil , vietnam and the u.s .",
+      "see note 19 2014asset impairment expense included in item 8 . 2014financial statements and supplementary data of this form 10-k for additional information regarding the 2016 u.s .",
+      "asset impairments .",
+      "see note 20 2014income taxes included in item 8 . 2014financial statements and supplementary data of this form 10-k for additional information regarding the 2016 chilean income tax law reform .",
+      "our effective tax rate reflects the tax effect of significant operations outside the u.s. , which are generally taxed at rates different than the u.s .",
+      "statutory rate .",
+      "foreign earnings may be taxed at rates higher than the new u.s .",
+      "corporate rate of 21% ( 21 % ) and a greater portion of our foreign earnings may be subject to current u.s .",
+      "taxation under the new tax rules .",
+      "a future proportionate change in the composition of income before income taxes from foreign and domestic tax jurisdictions could impact our periodic effective tax rate .",
+      "the company also benefits from reduced tax rates in certain countries as a result of satisfying specific commitments regarding employment and capital investment .",
+      "see note 20 2014income taxes included in item 8 . 2014financial statements and supplementary data of this form 10-k for additional information regarding these reduced rates. ."
+    ],
+    "table": [
+      [
+        "years ended december 31,",
+        "2017",
+        "2016",
+        "2015"
+      ],
+      [
+        "mexico",
+        "$ 17",
+        "$ -8 ( 8 )",
+        "$ -6 ( 6 )"
+      ],
+      [
+        "philippines",
+        "15",
+        "12",
+        "8"
+      ],
+      [
+        "bulgaria",
+        "14",
+        "-8 ( 8 )",
+        "3"
+      ],
+      [
+        "chile",
+        "8",
+        "-9 ( 9 )",
+        "-18 ( 18 )"
+      ],
+      [
+        "aes corporation",
+        "3",
+        "-50 ( 50 )",
+        "-31 ( 31 )"
+      ],
+      [
+        "argentina",
+        "1",
+        "37",
+        "124"
+      ],
+      [
+        "united kingdom",
+        "-3 ( 3 )",
+        "13",
+        "11"
+      ],
+      [
+        "colombia",
+        "-23 ( 23 )",
+        "-8 ( 8 )",
+        "29"
+      ],
+      [
+        "other",
+        "10",
+        "6",
+        "-14 ( 14 )"
+      ],
+      [
+        "total ( 1 )",
+        "$ 42",
+        "$ -15 ( 15 )",
+        "$ 106"
+      ]
+    ],
+    "questions": [
+      "in 2017 what percentage of foreign currency transaction gains were attributable to philippines?"
+    ]
+  }
+}

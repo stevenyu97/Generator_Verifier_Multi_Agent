@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the gradual decline in the recorded amortization expense from 2006 to 2007",
+      "answer": 0.02973,
+      "answer_raw": "0.02973",
+      "program": "subtract(183.6, 178.3), divide(#0, 178.3)"
+    }
+  ]
+}

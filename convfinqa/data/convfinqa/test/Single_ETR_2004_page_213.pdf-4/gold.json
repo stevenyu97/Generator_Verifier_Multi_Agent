@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in net revenues during 2003?",
+      "answer": 50.8,
+      "answer_raw": "50.8",
+      "program": "subtract(973.7, 922.9)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": 0.05504,
+      "answer_raw": "0.05504",
+      "program": "subtract(973.7, 922.9), divide(#0, 922.9)"
+    }
+  ]
+}

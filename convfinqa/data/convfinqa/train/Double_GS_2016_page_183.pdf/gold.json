@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total value of investment commitments for 2015 and 2016?",
+      "answer": 4.96,
+      "answer_raw": "4.96",
+      "program": "add(2.10, 2.86)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what os the total rent charge for 2016 and 2015?",
+      "answer": 493.0,
+      "answer_raw": "493.0",
+      "program": "add(244, 249)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what about if 2014 is added?",
+      "answer": 802.0,
+      "answer_raw": "802.0",
+      "program": "add(244, 249), add(#0, 309)"
+    }
+  ]
+}

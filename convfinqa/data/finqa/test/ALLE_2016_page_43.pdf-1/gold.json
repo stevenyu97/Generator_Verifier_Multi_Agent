@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the year 2015 , what was the lowest return for the investment?",
+      "answer": -0.1,
+      "answer_raw": "-0.1",
+      "program": "subtract(99.90, 100)"
+    }
+  ]
+}

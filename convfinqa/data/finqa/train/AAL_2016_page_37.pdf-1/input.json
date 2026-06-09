@@ -1,0 +1,153 @@
+{
+  "input": {
+    "id": "AAL/2016/page_37.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents item 2 .",
+      "properties flight equipment and fleet renewal as of december 31 , 2016 , american operated a mainline fleet of 930 aircraft .",
+      "in 2016 , we continued our extensive fleet renewal program , which has provided us with the youngest fleet of the major u.s .",
+      "network carriers .",
+      "during 2016 , american took delivery of 55 new mainline aircraft and retired 71 aircraft .",
+      "we are supported by our wholly-owned and third-party regional carriers that fly under capacity purchase agreements operating as american eagle .",
+      "as of december 31 , 2016 , american eagle operated 606 regional aircraft .",
+      "during 2016 , we increased our regional fleet by 61 regional aircraft , we removed and placed in temporary storage one embraer erj 140 aircraft and retired 41 other regional aircraft .",
+      "mainline as of december 31 , 2016 , american 2019s mainline fleet consisted of the following aircraft : average seating capacity average ( years ) owned leased total ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "average seating capacity",
+        "average age ( years )",
+        "owned",
+        "leased",
+        "total"
+      ],
+      [
+        "airbus a319",
+        "128",
+        "12.8",
+        "19",
+        "106",
+        "125"
+      ],
+      [
+        "airbus a320",
+        "150",
+        "15.5",
+        "10",
+        "41",
+        "51"
+      ],
+      [
+        "airbus a321",
+        "178",
+        "4.9",
+        "153",
+        "46",
+        "199"
+      ],
+      [
+        "airbusa330-200",
+        "258",
+        "5.0",
+        "15",
+        "2014",
+        "15"
+      ],
+      [
+        "airbusa330-300",
+        "291",
+        "16.4",
+        "4",
+        "5",
+        "9"
+      ],
+      [
+        "boeing737-800",
+        "160",
+        "7.7",
+        "123",
+        "161",
+        "284"
+      ],
+      [
+        "boeing757-200",
+        "179",
+        "17.9",
+        "39",
+        "12",
+        "51"
+      ],
+      [
+        "boeing767-300er",
+        "211",
+        "19.5",
+        "28",
+        "3",
+        "31"
+      ],
+      [
+        "boeing777-200er",
+        "263",
+        "16.0",
+        "44",
+        "3",
+        "47"
+      ],
+      [
+        "boeing777-300er",
+        "310",
+        "2.8",
+        "18",
+        "2",
+        "20"
+      ],
+      [
+        "boeing787-8",
+        "226",
+        "1.3",
+        "17",
+        "2014",
+        "17"
+      ],
+      [
+        "boeing787-9",
+        "285",
+        "0.2",
+        "4",
+        "2014",
+        "4"
+      ],
+      [
+        "embraer 190",
+        "99",
+        "9.2",
+        "20",
+        "2014",
+        "20"
+      ],
+      [
+        "mcdonnell douglasmd-80",
+        "140",
+        "22.0",
+        "25",
+        "32",
+        "57"
+      ],
+      [
+        "total",
+        "",
+        "10.3",
+        "519",
+        "411",
+        "930"
+      ]
+    ],
+    "questions": [
+      "what was the net change in airliner count during 2016?"
+    ]
+  }
+}

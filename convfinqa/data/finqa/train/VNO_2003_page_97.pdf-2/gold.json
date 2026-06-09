@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in principal payments due in 2006 versus 2007 in thousands?",
+      "answer": -256245.0,
+      "answer_raw": "-256245.0",
+      "program": "subtract(551539, 807784)"
+    }
+  ]
+}

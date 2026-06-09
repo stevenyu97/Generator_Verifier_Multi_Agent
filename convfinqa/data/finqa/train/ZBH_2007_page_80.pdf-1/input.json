@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "ZBH/2007/page_80.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "in september 2007 , we reached a settlement with the united states department of justice in an ongoing investigation into financial relationships between major orthopaedic manufacturers and consulting orthopaedic surgeons .",
+      "under the terms of the settlement , we paid a civil settlement amount of $ 169.5 million and we recorded an expense in that amount .",
+      "no tax benefit has been recorded related to the settlement expense due to the uncertainty as to the tax treatment .",
+      "we intend to pursue resolution of this uncertainty with taxing authorities , but are unable to ascertain the outcome or timing for such resolution at this time .",
+      "for more information regarding the settlement , see note 15 .",
+      "in june 2006 , the financial accounting standards board ( fasb ) issued interpretation no .",
+      "48 , accounting for uncertainty in income taxes 2013 an interpretation of fasb statement no .",
+      "109 , accounting for income taxes ( fin 48 ) .",
+      "fin 48 addresses the determination of whether tax benefits claimed or expected to be claimed on a tax return should be recorded in the financial statements .",
+      "under fin 48 , we may recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities , based on the technical merits of the position .",
+      "the tax benefits recognized in the financial statements from such a position should be measured based on the largest benefit that has a greater than fifty percent likelihood of being realized upon ultimate settlement .",
+      "fin 48 also provides guidance on derecognition , classification , interest and penalties on income taxes , accounting in interim periods and requires increased disclosures .",
+      "we adopted fin 48 on january 1 , 2007 .",
+      "prior to the adoption of fin 48 we had a long term tax liability for expected settlement of various federal , state and foreign income tax liabilities that was reflected net of the corollary tax impact of these expected settlements of $ 102.1 million , as well as a separate accrued interest liability of $ 1.7 million .",
+      "as a result of the adoption of fin 48 , we are required to present the different components of such liability on a gross basis versus the historical net presentation .",
+      "the adoption resulted in the financial statement liability for unrecognized tax benefits decreasing by $ 6.4 million as of january 1 , 2007 .",
+      "the adoption resulted in this decrease in the liability as well as a reduction to retained earnings of $ 4.8 million , a reduction in goodwill of $ 61.4 million , the establishment of a tax receivable of $ 58.2 million , which was recorded in other current and non-current assets on our consolidated balance sheet , and an increase in an interest/penalty payable of $ 7.9 million , all as of january 1 , 2007 .",
+      "therefore , after the adoption of fin 48 , the amount of unrecognized tax benefits is $ 95.7 million as of january 1 , 2007 , of which $ 28.6 million would impact our effective tax rate , if recognized .",
+      "the amount of unrecognized tax benefits is $ 135.2 million as of december 31 , 2007 .",
+      "of this amount , $ 41.0 million would impact our effective tax rate , if recognized .",
+      "a reconciliation of the beginning and ending amounts of unrecognized tax benefits is as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "we recognize accrued interest and penalties related to unrecognized tax benefits in income tax expense in the consolidated statements of earnings , which is consistent with the recognition of these items in prior reporting periods .",
+      "as of january 1 , 2007 , we recorded a liability of $ 9.6 million for accrued interest and penalties , of which $ 7.5 million would impact our effective tax rate , if recognized .",
+      "the amount of this liability is $ 19.6 million as of december 31 , 2007 .",
+      "of this amount , $ 14.7 million would impact our effective tax rate , if recognized .",
+      "we expect that the amount of tax liability for unrecognized tax benefits will change in the next twelve months ; however , we do not expect these changes will have a significant impact on our results of operations or financial position .",
+      "the u.s .",
+      "federal statute of limitations remains open for the year 2003 and onward with years 2003 and 2004 currently under examination by the irs .",
+      "it is reasonably possible that a resolution with the irs for the years 2003 through 2004 will be reached within the next twelve months , but we do not anticipate this would result in any material impact on our financial position .",
+      "in addition , for the 1999 tax year of centerpulse , which we acquired in october 2003 , one issue remains in dispute .",
+      "the resolution of this issue would not impact our effective tax rate , as it would be recorded as an adjustment to goodwill .",
+      "state income tax returns are generally subject to examination for a period of 3 to 5 years after filing of the respective return .",
+      "the state impact of any federal changes remains subject to examination by various states for a period of up to one year after formal notification to the states .",
+      "we have various state income tax returns in the process of examination , administrative appeals or litigation .",
+      "it is reasonably possible that such matters will be resolved in the next twelve months , but we do not anticipate that the resolution of these matters would result in any material impact on our results of operations or financial position .",
+      "foreign jurisdictions have statutes of limitations generally ranging from 3 to 5 years .",
+      "years still open to examination by foreign tax authorities in major jurisdictions include australia ( 2003 onward ) , canada ( 1999 onward ) , france ( 2005 onward ) , germany ( 2005 onward ) , italy ( 2003 onward ) , japan ( 2001 onward ) , puerto rico ( 2005 onward ) , singapore ( 2003 onward ) , switzerland ( 2004 onward ) , and the united kingdom ( 2005 onward ) .",
+      "z i m m e r h o l d i n g s , i n c .",
+      "2 0 0 7 f o r m 1 0 - k a n n u a l r e p o r t notes to consolidated financial statements ( continued ) ."
+    ],
+    "table": [
+      [
+        "balance at january 1 2007",
+        "$ 95.7"
+      ],
+      [
+        "increases related to prior periods",
+        "27.4"
+      ],
+      [
+        "decreases related to prior periods",
+        "-5.5 ( 5.5 )"
+      ],
+      [
+        "increases related to current period",
+        "21.9"
+      ],
+      [
+        "decreases related to settlements with taxing authorities",
+        "-1.3 ( 1.3 )"
+      ],
+      [
+        "decreases related to lapse of statue of limitations",
+        "-3.0 ( 3.0 )"
+      ],
+      [
+        "balance at december 31 2007",
+        "$ 135.2"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in unrecognized tax benefits for 2007?"
+    ]
+  }
+}

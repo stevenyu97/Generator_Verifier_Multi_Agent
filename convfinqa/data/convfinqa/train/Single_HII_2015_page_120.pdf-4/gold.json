@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the compensation expense the company recorded in 2015?",
+      "answer": 43.0,
+      "answer_raw": "43.0",
+      "program": "43"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2014?",
+      "answer": 34.0,
+      "answer_raw": "34.0",
+      "program": "34"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total compensation expense the company recorded in 2015 and 2014?",
+      "answer": 77.0,
+      "answer_raw": "77.0",
+      "program": "add(43, 34)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total expenses including 2013?",
+      "answer": 121.0,
+      "answer_raw": "121.0",
+      "program": "add(43, 34), add(#0, 44)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the average for three years?",
+      "answer": 40.33333,
+      "answer_raw": "40.33333",
+      "program": "add(43, 34), add(#0, 44), divide(#1, const_3)"
+    }
+  ]
+}

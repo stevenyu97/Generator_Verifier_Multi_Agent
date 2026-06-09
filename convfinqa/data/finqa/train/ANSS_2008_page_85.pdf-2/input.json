@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "ANSS/2008/page_85.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the following is a reconciliation of the total amounts of unrecognized tax benefits for the year : ( in thousands ) ."
+    ],
+    "post_text": [
+      "included in the balance of unrecognized tax benefits at december 31 , 2008 are $ 5.6 million of tax benefits that , if recognized , would affect the effective tax rate .",
+      "also included in the balance of unrecognized tax benefits at december 31 , 2008 are $ 5.0 million of tax benefits that , if recognized , would result in a decrease to goodwill recorded in purchase business combinations , and $ 1.9 million of tax benefits that , if recognized , would result in adjustments to other tax accounts , primarily deferred taxes .",
+      "the company believes it is reasonably possible that uncertain tax positions of approximately $ 2.6 million as of december 31 , 2008 will be resolved within the next twelve months .",
+      "the company recognizes interest and penalties related to unrecognized tax benefits as income tax expense .",
+      "related to the uncertain tax benefits noted above , the company recorded interest of $ 171000 during 2008 .",
+      "penalties recorded during 2008 were insignificant .",
+      "in total , as of december 31 , 2008 , the company has recognized a liability for penalties of $ 498000 and interest of $ 1.8 million .",
+      "the company is subject to taxation in the u.s .",
+      "and various states and foreign jurisdictions .",
+      "the company 2019s 2005 through 2008 tax years are open to examination by the internal revenue service .",
+      "the 2005 and 2006 federal returns are currently under examination .",
+      "the company also has various foreign subsidiaries with tax filings under examination , as well as numerous foreign and state tax filings subject to examination for various years .",
+      "10 .",
+      "pension and profit-sharing plans the company has 401 ( k ) /profit-sharing plans for all qualifying full-time domestic employees that permit participants to make contributions by salary reduction pursuant to section 401 ( k ) of the internal revenue code .",
+      "the company makes matching contributions on behalf of each eligible participant in an amount equal to 100% ( 100 % ) of the first 3% ( 3 % ) and an additional 25% ( 25 % ) of the next 5% ( 5 % ) , for a maximum total of 4.25% ( 4.25 % ) of the employee 2019s compensation .",
+      "the company may make a discretionary profit sharing contribution in the amount of 0% ( 0 % ) to 5% ( 5 % ) based on the participant 2019s eligible compensation , provided the employee is employed at the end of the year and has worked at least 1000 hours .",
+      "the qualifying domestic employees of the company 2019s ansoft subsidiary , acquired on july 31 , 2008 , also participate in a 401 ( k ) plan .",
+      "there is no matching employer contribution associated with this plan .",
+      "the company also maintains various defined contribution pension arrangements for its international employees .",
+      "expenses related to the company 2019s retirement programs were $ 3.7 million in 2008 , $ 4.7 million in 2007 and $ 4.1 million in 2006 .",
+      "11 .",
+      "non-compete and employment agreements employees of the company have signed agreements under which they have agreed not to disclose trade secrets or confidential information and , where legally permitted , that restrict engagement in or connection with any business that is competitive with the company anywhere in the world while employed by the company ( and ."
+    ],
+    "table": [
+      [
+        "unrecognized tax benefit 2014january 1 2008",
+        "$ 7928"
+      ],
+      [
+        "ansoft unrecognized tax benefit 2014acquired july 31 2008",
+        "3525"
+      ],
+      [
+        "gross increases 2014tax positions in prior period",
+        "2454"
+      ],
+      [
+        "gross decreases 2014tax positions in prior period",
+        "-1572 ( 1572 )"
+      ],
+      [
+        "gross increases 2014tax positions in current period",
+        "2255"
+      ],
+      [
+        "reductions due to a lapse of the applicable statute of limitations",
+        "-1598 ( 1598 )"
+      ],
+      [
+        "changes due to currency fluctuation",
+        "-259 ( 259 )"
+      ],
+      [
+        "settlements",
+        "-317 ( 317 )"
+      ],
+      [
+        "unrecognized tax benefit 2014december 31 2008",
+        "$ 12416"
+      ]
+    ],
+    "questions": [
+      "what was the average expenses related to the company 2019s retirement programs from 2006 to 2008 in millions"
+    ]
+  }
+}

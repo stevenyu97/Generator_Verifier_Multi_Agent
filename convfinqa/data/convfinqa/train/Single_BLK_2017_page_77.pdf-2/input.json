@@ -1,0 +1,94 @@
+{
+  "input": {
+    "id": "Single_BLK/2017/page_77.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "income tax expense ."
+    ],
+    "post_text": [
+      "operating income ( 1 ) $ 5272 $ 4570 $ 4664 $ 5287 $ 4674 $ 4695 total nonoperating income ( expense ) ( 1 ) ( 2 ) ( 32 ) ( 108 ) ( 69 ) ( 32 ) ( 108 ) ( 70 ) income before income taxes ( 2 ) $ 5240 $ 4462 $ 4595 $ 5255 $ 4566 $ 4625 income tax expense ( 3 ) $ 270 $ 1290 $ 1250 $ 1539 $ 1352 $ 1312 effective tax rate ( 3 ) 5.2% ( 5.2 % ) 28.9% ( 28.9 % ) 27.2% ( 27.2 % ) 29.3% ( 29.3 % ) 29.6% ( 29.6 % ) 28.4% ( 28.4 % ) ( 1 ) see non-gaap financial measures for further information on and reconciliation of as adjusted items .",
+      "( 2 ) net of net income ( loss ) attributable to nci .",
+      "( 3 ) gaap income tax expense and effective tax rate for 2017 reflects $ 1.2 billion of a net tax benefit related to the 2017 tax act .",
+      "the company 2019s tax rate is affected by tax rates in foreign jurisdictions and the relative amount of income earned in those jurisdictions , which the company expects to be fairly consistent in the near term .",
+      "the significant foreign jurisdictions that have lower statutory tax rates than the u.s .",
+      "federal statutory rate of 35% ( 35 % ) include the united kingdom , channel islands , ireland and netherlands .",
+      "2017 .",
+      "income tax expense ( gaap ) reflected : 2022 the following amounts related to the 2017 tax act : 2022 $ 106 million tax expense related to the revaluation of certain deferred income tax assets ; 2022 $ 1758 million noncash tax benefit related to the revaluation of certain deferred income tax liabilities ; 2022 $ 477 million tax expense related to the mandatory deemed repatriation of undistributed foreign earnings and profits .",
+      "2022 a noncash expense of $ 16 million , primarily associated with the revaluation of certain deferred income tax liabilities as a result of domestic state and local tax changes ; and 2022 $ 173 million discrete tax benefits , primarily related to stock-based compensation awards , including $ 151 million related to the adoption of new accounting guidance related to stock-based compensation awards .",
+      "see note 2 , significant accounting policies , for further information .",
+      "the as adjusted effective tax rate of 29.3% ( 29.3 % ) for 2017 excluded the noncash deferred tax revaluation benefit of $ 1758 million and noncash expense of $ 16 million mentioned above as it will not have a cash flow impact and to ensure comparability among periods presented .",
+      "in addition , the deemed repatriation tax expense of $ 477 million has been excluded from the as adjusted results due to the one-time nature and to ensure comparability among periods presented .",
+      "2016 .",
+      "income tax expense ( gaap ) reflected : 2022 a net noncash benefit of $ 30 million , primarily associated with the revaluation of certain deferred income tax liabilities ; and 2022 a benefit from $ 65 million of nonrecurring items , including the resolution of certain outstanding tax matters .",
+      "the as adjusted effective tax rate of 29.6% ( 29.6 % ) for 2016 excluded the net noncash benefit of $ 30 million mentioned above as it will not have a cash flow impact and to ensure comparability among periods presented .",
+      "2015 .",
+      "income tax expense ( gaap ) reflected : 2022 a net noncash benefit of $ 54 million , primarily associated with the revaluation of certain deferred income tax liabilities ; and 2022 a benefit from $ 75 million of nonrecurring items , primarily due to the realization of losses from changes in the company 2019s organizational tax structure and the resolution of certain outstanding tax matters .",
+      "the as adjusted effective tax rate of 28.4% ( 28.4 % ) for 2015 excluded the net noncash benefit of $ 54 million mentioned above , as it will not have a cash flow impact and to ensure comparability among periods presented .",
+      "balance sheet overview as adjusted balance sheet the following table presents a reconciliation of the consolidated statement of financial condition presented on a gaap basis to the consolidated statement of financial condition , excluding the impact of separate account assets and separate account collateral held under securities lending agreements ( directly related to lending separate account securities ) and separate account liabilities and separate account collateral liabilities under securities lending agreements and consolidated sponsored investment funds , including consolidated vies .",
+      "the company presents the as adjusted balance sheet as additional information to enable investors to exclude certain assets that have equal and offsetting liabilities or noncontrolling interests that ultimately do not have an impact on stockholders 2019 equity or cash flows .",
+      "management views the as adjusted balance sheet , which contains non-gaap financial measures , as an economic presentation of the company 2019s total assets and liabilities ; however , it does not advocate that investors consider such non-gaap financial measures in isolation from , or as a substitute for , financial information prepared in accordance with gaap .",
+      "separate account assets and liabilities and separate account collateral held under securities lending agreements separate account assets are maintained by blackrock life limited , a wholly owned subsidiary of the company that is a registered life insurance company in the united kingdom , and represent segregated assets held for purposes of funding individual and group pension contracts .",
+      "the ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "gaap 2017",
+        "gaap 2016",
+        "gaap 2015",
+        "gaap 2017",
+        "gaap 2016",
+        "2015"
+      ],
+      [
+        "operating income ( 1 )",
+        "$ 5272",
+        "$ 4570",
+        "$ 4664",
+        "$ 5287",
+        "$ 4674",
+        "$ 4695"
+      ],
+      [
+        "total nonoperating income ( expense ) ( 1 ) ( 2 )",
+        "-32 ( 32 )",
+        "-108 ( 108 )",
+        "-69 ( 69 )",
+        "-32 ( 32 )",
+        "-108 ( 108 )",
+        "-70 ( 70 )"
+      ],
+      [
+        "income before income taxes ( 2 )",
+        "$ 5240",
+        "$ 4462",
+        "$ 4595",
+        "$ 5255",
+        "$ 4566",
+        "$ 4625"
+      ],
+      [
+        "income tax expense ( 3 )",
+        "$ 270",
+        "$ 1290",
+        "$ 1250",
+        "$ 1539",
+        "$ 1352",
+        "$ 1312"
+      ],
+      [
+        "effective tax rate ( 3 )",
+        "5.2% ( 5.2 % )",
+        "28.9% ( 28.9 % )",
+        "27.2% ( 27.2 % )",
+        "29.3% ( 29.3 % )",
+        "29.6% ( 29.6 % )",
+        "28.4% ( 28.4 % )"
+      ]
+    ],
+    "questions": [
+      "what is the net change in value of operating income from 2015 to 2016?",
+      "what is the percent change?"
+    ]
+  }
+}

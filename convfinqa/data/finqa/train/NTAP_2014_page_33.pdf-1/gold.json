@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in percentage cumulative total return for the five year period ending 4/14 between netapp inc . and the nasdaq composite?",
+      "answer": -0.5564,
+      "answer_raw": "-0.5564",
+      "program": "subtract(197.58, const_100), divide(#0, const_100), subtract(253.22, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

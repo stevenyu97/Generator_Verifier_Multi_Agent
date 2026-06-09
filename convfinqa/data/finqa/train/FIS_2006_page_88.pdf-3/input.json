@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "FIS/2006/page_88.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "through the certegy merger , the company has an obligation to service $ 200 million ( aggregate principal amount ) of unsecured 4.75% ( 4.75 % ) fixed-rate notes due in 2008 .",
+      "the notes were recorded in purchase accounting at a discount of $ 5.7 million , which is being amortized over the term of the notes .",
+      "the notes accrue interest at a rate of 4.75% ( 4.75 % ) per year , payable semi-annually in arrears on each march 15 and september 15 .",
+      "on april 11 , 2005 , fis entered into interest rate swap agreements which have effectively fixed the interest rate at approximately 5.4% ( 5.4 % ) through april 2008 on $ 350 million of the term loan facilities ( or its replacement debt ) and at approximately 5.2% ( 5.2 % ) through april 2007 on an additional $ 350 million of the term loan .",
+      "the company has designated these interest rate swaps as cash flow hedges in accordance with sfas no .",
+      "133 .",
+      "the estimated fair value of the cash flow hedges results in an asset to the company of $ 4.9 million and $ 5.2 million , as of december 31 , 2006 and december 31 , 2005 , respectively , which is included in the accompanying consolidated balance sheets in other noncurrent assets and as a component of accumulated other comprehensive earnings , net of deferred taxes .",
+      "a portion of the amount included in accumulated other comprehensive earnings is reclassified into interest expense as a yield adjustment as interest payments are made on the term loan facilities .",
+      "the company 2019s existing cash flow hedges are highly effective and there is no current impact on earnings due to hedge ineffectiveness .",
+      "it is the policy of the company to execute such instruments with credit-worthy banks and not to enter into derivative financial instruments for speculative purposes .",
+      "principal maturities at december 31 , 2006 ( and at december 31 , 2006 after giving effect to the debt refinancing completed on january 18 , 2007 ) for the next five years and thereafter are as follows ( in thousands ) : december 31 , january 18 , 2007 refinancing ."
+    ],
+    "post_text": [
+      "fidelity national information services , inc .",
+      "and subsidiaries and affiliates consolidated and combined financial statements notes to consolidated and combined financial statements 2014 ( continued ) ."
+    ],
+    "table": [
+      [
+        "",
+        "december 31 2006",
+        "january 18 2007 refinancing"
+      ],
+      [
+        "2007",
+        "$ 61661",
+        "$ 96161"
+      ],
+      [
+        "2008",
+        "257541",
+        "282041"
+      ],
+      [
+        "2009",
+        "68129",
+        "145129"
+      ],
+      [
+        "2010",
+        "33586",
+        "215586"
+      ],
+      [
+        "2011",
+        "941875",
+        "165455"
+      ],
+      [
+        "thereafter",
+        "1646709",
+        "2105129"
+      ],
+      [
+        "total",
+        "$ 3009501",
+        "$ 3009501"
+      ]
+    ],
+    "questions": [
+      "what was the change , in thousands , of principal maturities due in 2008 after the the debt refinancing completed on january 18 , 2007?"
+    ]
+  }
+}

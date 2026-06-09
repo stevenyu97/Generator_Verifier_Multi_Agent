@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total rental commitments for non-cancellable operating lease is due in the next 12 months?",
+      "answer": 0.16935,
+      "answer_raw": "0.16935",
+      "program": "divide(21, 124)"
+    }
+  ]
+}

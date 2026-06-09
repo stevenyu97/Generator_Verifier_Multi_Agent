@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "percent change in fair value of beginning assets in this time period?",
+      "answer": 0.04828,
+      "answer_raw": "0.04828",
+      "program": "divide(3.8, 78.7)"
+    }
+  ]
+}

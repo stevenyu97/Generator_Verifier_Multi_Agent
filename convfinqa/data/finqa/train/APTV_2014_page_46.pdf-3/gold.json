@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of europemiddle east& africa's sites concerning all electrical/electronic architecture sites?",
+      "answer": 0.29114,
+      "answer_raw": "0.29114",
+      "program": "divide(23, 79)"
+    }
+  ]
+}

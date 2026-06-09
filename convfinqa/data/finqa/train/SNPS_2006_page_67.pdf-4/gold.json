@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of the acquisition-related costs among the total purchase price?",
+      "answer": 0.09103,
+      "answer_raw": "0.09103",
+      "program": "divide(2053, 22553)"
+    }
+  ]
+}

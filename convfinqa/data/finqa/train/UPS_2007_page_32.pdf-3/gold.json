@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage five year cumulative total return for united parcel service inc . for the period ended 12/31/07?",
+      "answer": 0.2264,
+      "answer_raw": "0.2264",
+      "program": "subtract(122.64, const_100), divide(#0, const_100)"
+    }
+  ]
+}

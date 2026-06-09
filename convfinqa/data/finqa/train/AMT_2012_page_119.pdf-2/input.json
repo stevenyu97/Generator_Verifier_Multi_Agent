@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "AMT/2012/page_119.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements the following table summarizes the preliminary allocation of the aggregate purchase consideration paid and the amounts of assets acquired and liabilities assumed based upon their estimated fair value at the date of acquisition ( in thousands ) : preliminary purchase price allocation ."
+    ],
+    "post_text": [
+      "( 1 ) consists of customer-related intangibles of approximately $ 80.0 million and network location intangibles of approximately $ 38.0 million .",
+      "the customer-related intangibles and network location intangibles are being amortized on a straight-line basis over periods of up to 20 years .",
+      "( 2 ) the company expects that the goodwill recorded will be deductible for tax purposes .",
+      "the goodwill was allocated to the company 2019s international rental and management segment .",
+      "ghana acquisition 2014on december 6 , 2010 , the company entered into a definitive agreement with mtn group limited ( 201cmtn group 201d ) to establish a joint venture in ghana .",
+      "the joint venture is controlled by a holding company of which a wholly owned subsidiary of the company ( the 201catc ghana subsidiary 201d ) holds a 51% ( 51 % ) interest and mobile telephone networks ( netherlands ) b.v. , a wholly owned subsidiary of mtn group ( the 201cmtn ghana subsidiary 201d ) holds a 49% ( 49 % ) interest .",
+      "the joint venture is managed and controlled by the company and owns a tower operations company in ghana .",
+      "pursuant to the agreement , on may 6 , 2011 , august 11 , 2011 and december 23 , 2011 , the joint venture acquired 400 , 770 and 686 communications sites , respectively , from mtn group 2019s operating subsidiary in ghana for an aggregate purchase price of $ 515.6 million ( including contingent consideration of $ 2.3 million and value added tax of $ 65.6 million ) .",
+      "the aggregate purchase price was subsequently increased to $ 517.7 million ( including contingent consideration of $ 2.3 million and value added tax of $ 65.6 million ) after certain post-closing adjustments .",
+      "under the terms of the purchase agreement , legal title to certain of the communications sites acquired on december 23 , 2011 will be transferred upon fulfillment of certain conditions by mtn group .",
+      "prior to the fulfillment of these conditions , the company will operate and maintain control of these communications sites , and accordingly , reflect these sites in the allocation of purchase price and the consolidated operating results .",
+      "in december 2011 , the company signed an amendment to its agreement with mtn group , which requires the company to make additional payments upon the conversion of certain barter agreements with other wireless carriers to cash-paying master lease agreements .",
+      "the company currently estimates the fair value of remaining potential contingent consideration payments required to be made under the amended agreement to be between zero and $ 1.0 million and is estimated to be $ 0.9 million using a probability weighted average of the expected outcomes at december 31 , 2012 .",
+      "the company has previously made payments under this arrangement of $ 2.6 million .",
+      "during the year ended december 31 , 2012 , the company recorded an increase in fair value of $ 0.4 million as other operating expenses in the consolidated statements of operations. ."
+    ],
+    "table": [
+      [
+        "",
+        "preliminary purchase price allocation"
+      ],
+      [
+        "non-current assets",
+        "$ 24460"
+      ],
+      [
+        "property and equipment",
+        "138959"
+      ],
+      [
+        "intangible assets ( 1 )",
+        "117990"
+      ],
+      [
+        "other non-current liabilities",
+        "-18195 ( 18195 )"
+      ],
+      [
+        "fair value of net assets acquired",
+        "$ 263214"
+      ],
+      [
+        "goodwill ( 2 )",
+        "47481"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the customer-related intangibles to the network location intangibles included in the purchase allocation price"
+    ]
+  }
+}

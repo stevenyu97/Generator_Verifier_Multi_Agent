@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the balance of shares at the end of 2008?",
+      "answer": 1194.0,
+      "answer_raw": "1194.0",
+      "program": "1194"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the balance of shares at the end of 2009?",
+      "answer": 1195.0,
+      "answer_raw": "1195.0",
+      "program": "1195"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 2389.0,
+      "answer_raw": "2389.0",
+      "program": "add(1194, 1195)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the average number of shares?",
+      "answer": 1194.5,
+      "answer_raw": "1194.5",
+      "program": "add(1194, 1195), divide(#0, const_2)"
+    }
+  ]
+}

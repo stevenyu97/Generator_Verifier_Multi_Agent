@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2014, what was the company 2019s proportionate share of debt from the aggregate debt of all unconsolidated real estate joint ventures?",
+      "answer": 1.8,
+      "answer_raw": "1.8",
+      "program": "1.8"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that aggregate debt?",
+      "answer": 4.6,
+      "answer_raw": "4.6",
+      "program": "4.6"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what portion, then, of this aggregate debt did that proportional share one represent?",
+      "answer": 0.3913,
+      "answer_raw": "0.3913",
+      "program": "divide(1.8, 4.6)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was the combined total of both debts, in billions?",
+      "answer": 6.4,
+      "answer_raw": "6.4",
+      "program": "add(1.8, 4.6)"
+    }
+  ]
+}

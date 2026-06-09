@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "C/2009/page_279.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "comparison of five-year cumulative total return the following graph compares the cumulative total return on citigroup 2019s common stock with the s&p 500 index and the s&p financial index over the five-year period extending through december 31 , 2009 .",
+      "the graph assumes that $ 100 was invested on december 31 , 2004 in citigroup 2019s common stock , the s&p 500 index and the s&p financial index and that all dividends were reinvested .",
+      "citigroup s&p 500 index s&p financial index 2005 2006 2007 2008 2009 comparison of five-year cumulative total return for the years ended ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "december 31",
+        "citigroup",
+        "s&p 500 index",
+        "s&p financial index"
+      ],
+      [
+        "2005",
+        "104.38",
+        "104.83",
+        "106.30"
+      ],
+      [
+        "2006",
+        "124.02",
+        "121.20",
+        "126.41"
+      ],
+      [
+        "2007",
+        "70.36",
+        "127.85",
+        "103.47"
+      ],
+      [
+        "2008",
+        "18.71",
+        "81.12",
+        "47.36"
+      ],
+      [
+        "2009",
+        "9.26",
+        "102.15",
+        "55.27"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of cumulative total return for citigroup compared to the s&p 500 index in 2007"
+    ]
+  }
+}

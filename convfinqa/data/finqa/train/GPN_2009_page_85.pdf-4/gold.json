@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is an employees total annual compensation?",
+      "answer": 125000.0,
+      "answer_raw": "125000.0",
+      "program": "divide(25000, 20%)"
+    }
+  ]
+}

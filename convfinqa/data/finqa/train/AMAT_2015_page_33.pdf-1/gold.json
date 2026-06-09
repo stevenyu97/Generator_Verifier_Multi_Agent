@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the yearly rate of return of s&p500 if the investment occurs in 2010 and it is liquidated one year later?",
+      "answer": 0.0809,
+      "answer_raw": "0.0809",
+      "program": "subtract(108.09, 100), divide(#0, 100)"
+    }
+  ]
+}

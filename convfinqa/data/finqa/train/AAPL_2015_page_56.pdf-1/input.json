@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "AAPL/2015/page_56.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents the notional amounts for outstanding derivative instruments provide one measure of the transaction volume outstanding and do not represent the amount of the company 2019s exposure to credit or market loss .",
+      "the credit risk amounts represent the company 2019s gross exposure to potential accounting loss on derivative instruments that are outstanding or unsettled if all counterparties failed to perform according to the terms of the contract , based on then-current currency or interest rates at each respective date .",
+      "the company 2019s exposure to credit loss and market risk will vary over time as currency and interest rates change .",
+      "although the table above reflects the notional and credit risk amounts of the company 2019s derivative instruments , it does not reflect the gains or losses associated with the exposures and transactions that the instruments are intended to hedge .",
+      "the amounts ultimately realized upon settlement of these financial instruments , together with the gains and losses on the underlying exposures , will depend on actual market conditions during the remaining life of the instruments .",
+      "the company generally enters into master netting arrangements , which are designed to reduce credit risk by permitting net settlement of transactions with the same counterparty .",
+      "to further limit credit risk , the company generally enters into collateral security arrangements that provide for collateral to be received or posted when the net fair value of certain financial instruments fluctuates from contractually established thresholds .",
+      "the company presents its derivative assets and derivative liabilities at their gross fair values in its consolidated balance sheets .",
+      "the net cash collateral received by the company related to derivative instruments under its collateral security arrangements was $ 1.0 billion as of september 26 , 2015 and $ 2.1 billion as of september 27 , 2014 .",
+      "under master netting arrangements with the respective counterparties to the company 2019s derivative contracts , the company is allowed to net settle transactions with a single net amount payable by one party to the other .",
+      "as of september 26 , 2015 and september 27 , 2014 , the potential effects of these rights of set-off associated with the company 2019s derivative contracts , including the effects of collateral , would be a reduction to both derivative assets and derivative liabilities of $ 2.2 billion and $ 1.6 billion , respectively , resulting in net derivative liabilities of $ 78 million and $ 549 million , respectively .",
+      "accounts receivable receivables the company has considerable trade receivables outstanding with its third-party cellular network carriers , wholesalers , retailers , value-added resellers , small and mid-sized businesses and education , enterprise and government customers .",
+      "the company generally does not require collateral from its customers ; however , the company will require collateral in certain instances to limit credit risk .",
+      "in addition , when possible , the company attempts to limit credit risk on trade receivables with credit insurance for certain customers or by requiring third-party financing , loans or leases to support credit exposure .",
+      "these credit-financing arrangements are directly between the third-party financing company and the end customer .",
+      "as such , the company generally does not assume any recourse or credit risk sharing related to any of these arrangements .",
+      "as of september 26 , 2015 , the company had one customer that represented 10% ( 10 % ) or more of total trade receivables , which accounted for 12% ( 12 % ) .",
+      "as of september 27 , 2014 , the company had two customers that represented 10% ( 10 % ) or more of total trade receivables , one of which accounted for 16% ( 16 % ) and the other 13% ( 13 % ) .",
+      "the company 2019s cellular network carriers accounted for 71% ( 71 % ) and 72% ( 72 % ) of trade receivables as of september 26 , 2015 and september 27 , 2014 , respectively .",
+      "vendor non-trade receivables the company has non-trade receivables from certain of its manufacturing vendors resulting from the sale of components to these vendors who manufacture sub-assemblies or assemble final products for the company .",
+      "the company purchases these components directly from suppliers .",
+      "vendor non-trade receivables from three of the company 2019s vendors accounted for 38% ( 38 % ) , 18% ( 18 % ) and 14% ( 14 % ) of total vendor non-trade receivables as of september 26 , 2015 and three of the company 2019s vendors accounted for 51% ( 51 % ) , 16% ( 16 % ) and 14% ( 14 % ) of total vendor non-trade receivables as of september 27 , 2014 .",
+      "note 3 2013 consolidated financial statement details the following tables show the company 2019s consolidated financial statement details as of september 26 , 2015 and september 27 , 2014 ( in millions ) : property , plant and equipment , net ."
+    ],
+    "post_text": [
+      "apple inc .",
+      "| 2015 form 10-k | 53 ."
+    ],
+    "table": [
+      [
+        "",
+        "2015",
+        "2014"
+      ],
+      [
+        "land and buildings",
+        "$ 6956",
+        "$ 4863"
+      ],
+      [
+        "machinery equipment and internal-use software",
+        "37038",
+        "29639"
+      ],
+      [
+        "leasehold improvements",
+        "5263",
+        "4513"
+      ],
+      [
+        "gross property plant and equipment",
+        "49257",
+        "39015"
+      ],
+      [
+        "accumulated depreciation and amortization",
+        "-26786 ( 26786 )",
+        "-18391 ( 18391 )"
+      ],
+      [
+        "total property plant and equipment net",
+        "$ 22471",
+        "$ 20624"
+      ]
+    ],
+    "questions": [
+      "what was the change in leasehold improvements between 2014 and 2015 , in millions?"
+    ]
+  }
+}

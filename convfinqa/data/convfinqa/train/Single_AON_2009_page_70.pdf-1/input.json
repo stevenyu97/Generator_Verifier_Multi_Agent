@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "Single_AON/2009/page_70.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the company recognizes the effect of income tax positions only if sustaining those positions is more likely than not .",
+      "changes in recognition or measurement are reflected in the period in which a change in judgment occurs .",
+      "the company records penalties and interest related to unrecognized tax benefits in income taxes in the company 2019s consolidated statements of income .",
+      "changes in accounting principles business combinations and noncontrolling interests on january 1 , 2009 , the company adopted revised principles related to business combinations and noncontrolling interests .",
+      "the revised principle on business combinations applies to all transactions or other events in which an entity obtains control over one or more businesses .",
+      "it requires an acquirer to recognize the assets acquired , the liabilities assumed , and any noncontrolling interest in the acquiree at the acquisition date , measured at their fair values as of that date .",
+      "business combinations achieved in stages require recognition of the identifiable assets and liabilities , as well as the noncontrolling interest in the acquiree , at the full amounts of their fair values when control is obtained .",
+      "this revision also changes the requirements for recognizing assets acquired and liabilities assumed arising from contingencies , and requires direct acquisition costs to be expensed .",
+      "in addition , it provides certain changes to income tax accounting for business combinations which apply to both new and previously existing business combinations .",
+      "in april 2009 , additional guidance was issued which revised certain business combination guidance related to accounting for contingent liabilities assumed in a business combination .",
+      "the company has adopted this guidance in conjunction with the adoption of the revised principles related to business combinations .",
+      "the adoption of the revised principles related to business combinations has not had a material impact on the consolidated financial statements .",
+      "the revised principle related to noncontrolling interests establishes accounting and reporting standards for the noncontrolling interests in a subsidiary and for the deconsolidation of a subsidiary .",
+      "the revised principle clarifies that a noncontrolling interest in a subsidiary is an ownership interest in the consolidated entity that should be reported as a separate component of equity in the consolidated statements of financial position .",
+      "the revised principle requires retrospective adjustments , for all periods presented , of stockholders 2019 equity and net income for noncontrolling interests .",
+      "in addition to these financial reporting changes , the revised principle provides for significant changes in accounting related to changes in ownership of noncontrolling interests .",
+      "changes in aon 2019s controlling financial interests in consolidated subsidiaries that do not result in a loss of control are accounted for as equity transactions similar to treasury stock transactions .",
+      "if a change in ownership of a consolidated subsidiary results in a loss of control and deconsolidation , any retained ownership interests are remeasured at fair value with the gain or loss reported in net income .",
+      "in previous periods , noncontrolling interests for operating subsidiaries were reported in other general expenses in the consolidated statements of income .",
+      "prior period amounts have been restated to conform to the current year 2019s presentation .",
+      "the principal effect on the prior years 2019 balance sheets related to the adoption of the new guidance related to noncontrolling interests is summarized as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "the revised principle also requires that net income be adjusted to include the net income attributable to the noncontrolling interests and a new separate caption for net income attributable to aon stockholders be presented in the consolidated statements of income .",
+      "the adoption of this new guidance increased net income by $ 16 million and $ 13 million for 2008 and 2007 , respectively .",
+      "net ."
+    ],
+    "table": [
+      [
+        "as of december 31",
+        "2008",
+        "2007"
+      ],
+      [
+        "equity as previously reported",
+        "$ 5310",
+        "$ 6221"
+      ],
+      [
+        "increase for reclassification of non-controlling interests",
+        "105",
+        "40"
+      ],
+      [
+        "equity as adjusted",
+        "$ 5415",
+        "$ 6261"
+      ]
+    ],
+    "questions": [
+      "what was the reclassification of non-controlling interests in 2008?",
+      "and what was it in 2007?",
+      "what was, then, the change over the year?",
+      "what was the reclassification of non-controlling interests in 2007?",
+      "and how much does that change represent in relation to this 2007 value, in percentage?"
+    ]
+  }
+}

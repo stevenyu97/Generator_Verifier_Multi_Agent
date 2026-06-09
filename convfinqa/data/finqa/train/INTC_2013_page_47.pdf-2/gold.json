@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2013 what was the approximate percentage increase in net cash provided by operating activities",
+      "answer": 0.00101,
+      "answer_raw": "0.00101",
+      "program": "divide(19, 18884)"
+    }
+  ]
+}

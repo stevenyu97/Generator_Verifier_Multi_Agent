@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the roi of an investment in teleflex incorporated from 2014 to 2015?",
+      "answer": 0.15323,
+      "answer_raw": "0.15323",
+      "program": "subtract(143, 124), divide(#0, 124)"
+    }
+  ]
+}

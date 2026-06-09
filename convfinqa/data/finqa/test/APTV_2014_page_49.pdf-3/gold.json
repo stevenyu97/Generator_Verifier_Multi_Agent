@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between the highest and lowest return for the first year of the investment?",
+      "answer": 68.92,
+      "answer_raw": "68.92",
+      "program": "subtract(179.33, 110.41)"
+    }
+  ]
+}

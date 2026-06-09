@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the total number of pending tobacco-related cases in united states in 2017?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "add(92, 4), add(#0, 1), add(#1, 3)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the aggregate rent expense in 2003?",
+      "answer": 113956000.0,
+      "answer_raw": "113956000.0",
+      "program": "113956000"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2002?",
+      "answer": 109644000.0,
+      "answer_raw": "109644000.0",
+      "program": "109644000"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 4312000.0,
+      "answer_raw": "4312000.0",
+      "program": "subtract(113956000, 109644000)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the aggregate rent expense in 2002?",
+      "answer": 109644000.0,
+      "answer_raw": "109644000.0",
+      "program": "109644000"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this 2002 rent expense, in percentage?",
+      "answer": 0.03933,
+      "answer_raw": "0.03933",
+      "program": "subtract(113956000, 109644000), divide(#0, 109644000)"
+    }
+  ]
+}

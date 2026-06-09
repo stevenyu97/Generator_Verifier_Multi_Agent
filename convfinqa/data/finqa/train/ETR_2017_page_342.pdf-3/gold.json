@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2017 what was the percentage change in the net revenue",
+      "answer": 0.05007,
+      "answer_raw": "0.05007",
+      "program": "subtract(2560.5, 2438.4), divide(#0, 2438.4)"
+    }
+  ]
+}

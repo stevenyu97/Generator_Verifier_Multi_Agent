@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the information what was the number of stock warrants issued for the purchase of spectrasite , inc",
+      "answer": 0.05625,
+      "answer_raw": "0.05625",
+      "program": "divide(1.8, 32)"
+    }
+  ]
+}

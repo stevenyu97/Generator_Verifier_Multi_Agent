@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "Double_AMT/2012/page_121.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements ( 3 ) consists of customer-related intangibles of approximately $ 75.0 million and network location intangibles of approximately $ 72.7 million .",
+      "the customer-related intangibles and network location intangibles are being amortized on a straight-line basis over periods of up to 20 years .",
+      "( 4 ) the company expects that the goodwill recorded will be deductible for tax purposes .",
+      "the goodwill was allocated to the company 2019s international rental and management segment .",
+      "on september 12 , 2012 , the company entered into a definitive agreement to purchase up to approximately 348 additional communications sites from telef f3nica mexico .",
+      "on september 27 , 2012 and december 14 , 2012 , the company completed the purchase of 279 and 2 communications sites , for an aggregate purchase price of $ 63.5 million ( including value added tax of $ 8.8 million ) .",
+      "the following table summarizes the preliminary allocation of the aggregate purchase consideration paid and the amounts of assets acquired and liabilities assumed based upon their estimated fair value at the date of acquisition ( in thousands ) : preliminary purchase price allocation ."
+    ],
+    "post_text": [
+      "( 1 ) consists of customer-related intangibles of approximately $ 10.7 million and network location intangibles of approximately $ 10.4 million .",
+      "the customer-related intangibles and network location intangibles are being amortized on a straight-line basis over periods of up to 20 years .",
+      "( 2 ) the company expects that the goodwill recorded will be deductible for tax purposes .",
+      "the goodwill was allocated to the company 2019s international rental and management segment .",
+      "on november 16 , 2012 , the company entered into an agreement to purchase up to 198 additional communications sites from telef f3nica mexico .",
+      "on december 14 , 2012 , the company completed the purchase of 188 communications sites , for an aggregate purchase price of $ 64.2 million ( including value added tax of $ 8.9 million ) . ."
+    ],
+    "table": [
+      [
+        "",
+        "preliminary purchase price allocation"
+      ],
+      [
+        "current assets",
+        "$ 8763"
+      ],
+      [
+        "non-current assets",
+        "2332"
+      ],
+      [
+        "property and equipment",
+        "26711"
+      ],
+      [
+        "intangible assets ( 1 )",
+        "21079"
+      ],
+      [
+        "other non-current liabilities",
+        "-1349 ( 1349 )"
+      ],
+      [
+        "fair value of net assets acquired",
+        "$ 57536"
+      ],
+      [
+        "goodwill ( 2 )",
+        "5998"
+      ]
+    ],
+    "questions": [
+      "what was the total in acquired customer-related and network location intangibles, from american tower corporation and subsidiaries notes to consolidated financial statements, in millions?",
+      "and what is the expected period in which those location intangibles will be amortized, in years?",
+      "what is, then, the expected annual amortization expenses, in millions?",
+      "from that same company, what was the value of current assets, from preliminary allocation of the aggregate purchase consideration paid and the amounts of assets acquired and liabilities assumed based upon their estimated fair value at the date of acquisition?",
+      "and what is the total sum of those current assets and the non-current ones?",
+      "including property and equipment, what then becomes that sum?",
+      "and including the intangible assets, what becomes this total?",
+      "what was the fair value of net assets acquired?",
+      "how much, then, does that total represent in relation to this fair value?"
+    ]
+  }
+}

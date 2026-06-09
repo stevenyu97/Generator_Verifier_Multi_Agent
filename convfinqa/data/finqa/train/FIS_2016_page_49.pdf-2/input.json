@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "FIS/2016/page_49.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "changes in the benchmark index component of the 10-year treasury yield .",
+      "the company def signated these derivatives as cash flow hedges .",
+      "on october 13 , 2015 , in conjunction with the pricing of the $ 4.5 billion senior notes , the companyr terminated these treasury lock contracts for a cash settlement payment of $ 16 million , which was recorded as a component of other comprehensive earnings and will be reclassified as an adjustment to interest expense over the ten years during which the related interest payments that were hedged will be recognized in income .",
+      "foreign currency risk we are exposed to foreign currency risks that arise from normal business operations .",
+      "these risks include the translation of local currency balances of foreign subsidiaries , transaction gains and losses associated with intercompany loans with foreign subsidiaries and transactions denominated in currencies other than a location's functional currency .",
+      "we manage the exposure to these risks through a combination of normal operating activities and the use of foreign currency forward contracts .",
+      "contracts are denominated in currtt encies of major industrial countries .",
+      "our exposure to foreign currency exchange risks generally arises from our non-u.s .",
+      "operations , to the extent they are conducted ind local currency .",
+      "changes in foreign currency exchange rates affect translations of revenues denominated in currencies other than the u.s .",
+      "dollar .",
+      "during the years ended december 31 , 2016 , 2015 and 2014 , we generated approximately $ 1909 million , $ 1336 million and $ 1229 million , respectively , in revenues denominated in currencies other than the u.s .",
+      "dollar .",
+      "the major currencies to which our revenues are exposed are the brazilian real , the euro , the british pound sterling and the indian rupee .",
+      "a 10% ( 10 % ) move in average exchange rates for these currencies ( assuming a simultaneous and immediate 10% ( 10 % ) change in all of such rates for the relevant period ) would have resulted in the following increase or ( decrease ) in our reported revenues for the years ended december 31 , 2016 , 2015 and 2014 ( in millions ) : ."
+    ],
+    "post_text": [
+      "while our results of operations have been impacted by the effects of currency fluctuations , our international operations' revenues and expenses are generally denominated in local currency , which reduces our economic exposure to foreign exchange risk in those jurisdictions .",
+      "revenues included $ 100 million and $ 243 million and net earnings included $ 10 million , anrr d $ 31 million , respectively , of unfavorable foreign currency impact during 2016 and 2015 resulting from a stronger u.s .",
+      "dollar during these years compared to thet preceding year .",
+      "in 2017 , we expect continued unfavorable foreign currency impact on our operating income resulting from the continued strengthening of the u.s .",
+      "dollar vs .",
+      "other currencies .",
+      "our foreign exchange risk management policy permits the use of derivative instruments , such as forward contracts and options , to reduce volatility in our results of operations and/or cash flows resulting from foreign exchange rate fluctuations .",
+      "we do not enter into foreign currency derivative instruments for trading purposes or to engage in speculative activitr y .",
+      "we do periodically enter inttt o foreign currency forward exchange contracts to hedge foreign currency exposure to intercompany loans .",
+      "as of december 31 , 2016 , the notional amount of these derivatives was approximately $ 143 million and the fair value was nominal .",
+      "these derivatives are intended to hedge the foreign exchange risks related to intercompany loans but have not been designated as hedges for accounting purposes .",
+      "we also use currency forward contracts to manage our exposure to fluctuations in costs caused by variations in indian rupee ( \"inr\" ) exchange rates .",
+      "as of december 31 , 2016 , the notional amount of these derivatives was approximately $ 7 million and the fair value was ll less than $ 1 million .",
+      "these inr forward contracts are designated as cash flow hedges .",
+      "the fair value of these currency forward contracts is determined using currency exchange market rates , obtained from reliable , independent , third m party banks , at the balance sheet date .",
+      "the fair value of forward contracts is subject to changes in currency exchange rates .",
+      "the company has no ineffectiveness related to its use of currency forward contracts in connection with inr cash flow hedges .",
+      "in conjunction with entering into the definitive agreement to acquire clear2pay in september 2014 , we initiated a foreign currency forward contract to purchase euros and sell u.s .",
+      "dollars to manage the risk arising from fluctuations in exchange rates until the closing because the purchase price was stated in euros .",
+      "as this derivative did not qualify for hedge accounting , we recorded a charge of $ 16 million in other income ( expense ) , net during the third quarter of 2014 .",
+      "this forward contract was settled on october 1 , 2014. ."
+    ],
+    "table": [
+      [
+        "currency",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "pound sterling",
+        "$ 47",
+        "$ 34",
+        "$ 31"
+      ],
+      [
+        "euro",
+        "38",
+        "33",
+        "30"
+      ],
+      [
+        "real",
+        "32",
+        "29",
+        "38"
+      ],
+      [
+        "indian rupee",
+        "12",
+        "10",
+        "8"
+      ],
+      [
+        "total impact",
+        "$ 129",
+        "$ 106",
+        "$ 107"
+      ]
+    ],
+    "questions": [
+      "what is the unfavorable foreign currency impact in operating expenses in 2015?"
+    ]
+  }
+}

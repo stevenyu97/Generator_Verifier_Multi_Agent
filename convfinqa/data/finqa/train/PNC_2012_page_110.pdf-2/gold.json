@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average , in millions , of interest only product in 2013 , 2014 and 2015?",
+      "answer": 1803.33333,
+      "answer_raw": "1803.33333",
+      "program": "add(1338, 2048), add(#0, 2024), divide(#1, const_3)"
+    }
+  ]
+}

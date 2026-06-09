@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "PNC/2013/page_154.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "is used to monitor the risk in the loan classes .",
+      "loans with higher fico scores and lower ltvs tend to have a lower level of risk .",
+      "conversely , loans with lower fico scores , higher ltvs , and in certain geographic locations tend to have a higher level of risk .",
+      "in the first quarter of 2013 , we refined our process for the home equity and residential real estate asset quality indicators shown in the following tables .",
+      "these refinements include , but are not limited to , improvements in the process for determining lien position and ltv in both table 67 and table 68 .",
+      "additionally , as of the first quarter of 2013 , we are now presenting table 67 at recorded investment as opposed to our prior presentation of outstanding balance .",
+      "table 68 continues to be presented at outstanding balance .",
+      "both the 2013 and 2012 period end balance disclosures are presented in the below tables using this refined process .",
+      "consumer purchased impaired loan class estimates of the expected cash flows primarily determine the credit impacts of consumer purchased impaired loans .",
+      "consumer cash flow estimates are influenced by a number of credit related items , which include , but are not limited to : estimated real estate values , payment patterns , updated fico scores , the current economic environment , updated ltv ratios and the date of origination .",
+      "these key factors are monitored to help ensure that concentrations of risk are mitigated and cash flows are maximized .",
+      "see note 6 purchased loans for additional information .",
+      "table 66 : home equity and residential real estate balances in millions december 31 december 31 home equity and residential real estate loans 2013 excluding purchased impaired loans ( a ) $ 44376 $ 42725 home equity and residential real estate loans 2013 purchased impaired loans ( b ) 5548 6638 government insured or guaranteed residential real estate mortgages ( a ) 1704 2279 purchase accounting adjustments 2013 purchased impaired loans ( 116 ) ( 482 ) total home equity and residential real estate loans ( a ) $ 51512 $ 51160 ( a ) represents recorded investment .",
+      "( b ) represents outstanding balance .",
+      "136 the pnc financial services group , inc .",
+      "2013 form 10-k ."
+    ],
+    "post_text": [
+      "is used to monitor the risk in the loan classes .",
+      "loans with higher fico scores and lower ltvs tend to have a lower level of risk .",
+      "conversely , loans with lower fico scores , higher ltvs , and in certain geographic locations tend to have a higher level of risk .",
+      "in the first quarter of 2013 , we refined our process for the home equity and residential real estate asset quality indicators shown in the following tables .",
+      "these refinements include , but are not limited to , improvements in the process for determining lien position and ltv in both table 67 and table 68 .",
+      "additionally , as of the first quarter of 2013 , we are now presenting table 67 at recorded investment as opposed to our prior presentation of outstanding balance .",
+      "table 68 continues to be presented at outstanding balance .",
+      "both the 2013 and 2012 period end balance disclosures are presented in the below tables using this refined process .",
+      "consumer purchased impaired loan class estimates of the expected cash flows primarily determine the credit impacts of consumer purchased impaired loans .",
+      "consumer cash flow estimates are influenced by a number of credit related items , which include , but are not limited to : estimated real estate values , payment patterns , updated fico scores , the current economic environment , updated ltv ratios and the date of origination .",
+      "these key factors are monitored to help ensure that concentrations of risk are mitigated and cash flows are maximized .",
+      "see note 6 purchased loans for additional information .",
+      "table 66 : home equity and residential real estate balances in millions december 31 december 31 home equity and residential real estate loans 2013 excluding purchased impaired loans ( a ) $ 44376 $ 42725 home equity and residential real estate loans 2013 purchased impaired loans ( b ) 5548 6638 government insured or guaranteed residential real estate mortgages ( a ) 1704 2279 purchase accounting adjustments 2013 purchased impaired loans ( 116 ) ( 482 ) total home equity and residential real estate loans ( a ) $ 51512 $ 51160 ( a ) represents recorded investment .",
+      "( b ) represents outstanding balance .",
+      "136 the pnc financial services group , inc .",
+      "2013 form 10-k ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "december 31 2013",
+        "december 31 2012"
+      ],
+      [
+        "home equity and residential real estate loans 2013 excluding purchased impaired loans ( a )",
+        "$ 44376",
+        "$ 42725"
+      ],
+      [
+        "home equity and residential real estate loans 2013 purchased impaired loans ( b )",
+        "5548",
+        "6638"
+      ],
+      [
+        "government insured or guaranteed residential real estate mortgages ( a )",
+        "1704",
+        "2279"
+      ],
+      [
+        "purchase accounting adjustments 2013 purchased impaired loans",
+        "-116 ( 116 )",
+        "-482 ( 482 )"
+      ],
+      [
+        "total home equity and residential real estate loans ( a )",
+        "$ 51512",
+        "$ 51160"
+      ]
+    ],
+    "questions": [
+      "was december 31 2013 home equity and residential real estate loans 2013 excluding purchased impaired loans greater than purchased impaired loans?"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "MRO/2009/page_132.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "marathon oil corporation notes to consolidated financial statements assumed health care cost trend rates have a significant effect on the amounts reported for defined benefit retiree health care plans .",
+      "a one-percentage-point change in assumed health care cost trend rates would have the following effects : ( in millions ) 1-percentage- point increase 1-percentage- point decrease ."
+    ],
+    "post_text": [
+      "plan investment policies and strategies the investment policies for our u.s .",
+      "and international pension plan assets reflect the funded status of the plans and expectations regarding our future ability to make further contributions .",
+      "long-term investment goals are to : ( 1 ) manage the assets in accordance with the legal requirements of all applicable laws ; ( 2 ) produce investment returns which meet or exceed the rates of return achievable in the capital markets while maintaining the risk parameters set by the plans 2019 investment committees and protecting the assets from any erosion of purchasing power ; and ( 3 ) position the portfolios with a long-term risk/return orientation .",
+      "u.s .",
+      "plans 2013 historical performance and future expectations suggest that common stocks will provide higher total investment returns than fixed income securities over a long-term investment horizon .",
+      "short-term investments only reflect the liquidity requirements for making pension payments .",
+      "as such , the plans 2019 targeted asset allocation is comprised of 75 percent equity securities and 25 percent fixed income securities .",
+      "in the second quarter of 2009 , we exchanged the majority of our publicly-traded stocks and bonds for interests in pooled equity and fixed income investment funds from our outside manager , representing 58 percent and 20 percent of u.s .",
+      "plan assets , respectively , as of december 31 , 2009 .",
+      "these funds are managed with the same style and strategy as when the securities were held separately .",
+      "each fund 2019s main objective is to provide investors with exposure to either a publicly-traded equity or fixed income portfolio comprised of both u.s .",
+      "and non-u.s .",
+      "securities .",
+      "the equity fund holdings primarily consist of publicly-traded individually-held securities in various sectors of many industries .",
+      "the fixed income fund holdings primarily consist of publicly-traded investment-grade bonds .",
+      "the plans 2019 assets are managed by a third-party investment manager .",
+      "the investment manager has limited discretion to move away from the target allocations based upon the manager 2019s judgment as to current confidence or concern regarding the capital markets .",
+      "investments are diversified by industry and type , limited by grade and maturity .",
+      "the plans 2019 investment policy prohibits investments in any securities in the steel industry and allows derivatives subject to strict guidelines , such that derivatives may only be written against equity securities in the portfolio .",
+      "investment performance and risk is measured and monitored on an ongoing basis through quarterly investment meetings and periodic asset and liability studies .",
+      "international plans 2013 our international plans 2019 target asset allocation is comprised of 70 percent equity securities and 30 percent fixed income securities .",
+      "the plan assets are invested in six separate portfolios , mainly pooled fund vehicles , managed by several professional investment managers .",
+      "investments are diversified by industry and type , limited by grade and maturity .",
+      "the use of derivatives by the investment managers is permitted , subject to strict guidelines .",
+      "the investment managers 2019 performance is measured independently by a third-party asset servicing consulting firm .",
+      "overall , investment performance and risk is measured and monitored on an ongoing basis through quarterly investment portfolio reviews and periodic asset and liability studies .",
+      "fair value measurements plan assets are measured at fair value .",
+      "the definition and approaches to measuring fair value and the three levels of the fair value hierarchy are described in note 16 .",
+      "the following provides a description of the valuation techniques employed for each major plan asset category at december 31 , 2009 and 2008 .",
+      "cash and cash equivalents 2013 cash and cash equivalents include cash on deposit and an investment in a money market mutual fund that invests mainly in short-term instruments and cash , both of which are valued using a ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "1-percentage-point increase",
+        "1-percentage-point decrease"
+      ],
+      [
+        "effect on total of service and interest cost components",
+        "$ 9",
+        "$ 7"
+      ],
+      [
+        "effect on other postretirement benefit obligations",
+        "88",
+        "72"
+      ]
+    ],
+    "questions": [
+      "what would the effect on other postretirement benefit obligations be if there was a 2-percent point increase?"
+    ]
+  }
+}

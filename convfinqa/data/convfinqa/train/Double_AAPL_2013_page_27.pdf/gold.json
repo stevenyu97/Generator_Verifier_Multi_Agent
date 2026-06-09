@@ -1,0 +1,53 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of the s&p index in 2013?",
+      "answer": 161.0,
+      "answer_raw": "161.0",
+      "program": "161"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the change in its value since 2008?",
+      "answer": 61.0,
+      "answer_raw": "61.0",
+      "program": "subtract(161, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "in that same six year period, what was the change in the value of the apple inc . stock?",
+      "answer": 331.0,
+      "answer_raw": "331.0",
+      "program": "subtract(431, 100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much did this change represent in relation to that value in 2008?",
+      "answer": 3.31,
+      "answer_raw": "3.31",
+      "program": "subtract(431, 100), divide(#0, 100)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "also in that period, what was the change in the value of the s&p computer hardware index?",
+      "answer": 97.0,
+      "answer_raw": "97.0",
+      "program": "subtract(431, 100), divide(#0, 100), subtract(197, 100)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and what is this change as a portion of the 2008 value?",
+      "answer": 0.97,
+      "answer_raw": "0.97",
+      "program": "subtract(431, 100), divide(#0, 100), subtract(197, 100), divide(#2, 100)"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "what, then, is the difference between the apple inc . change as a portion of the 2008 value and the s&p computer hardware index?",
+      "answer": 2.34,
+      "answer_raw": "2.34",
+      "program": "subtract(431, 100), divide(#0, 100), subtract(197, 100), divide(#2, 100), subtract(#1, #3)"
+    }
+  ]
+}

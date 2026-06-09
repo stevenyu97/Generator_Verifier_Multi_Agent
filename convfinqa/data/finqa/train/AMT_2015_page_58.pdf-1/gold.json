@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage of the real estate portfolios for asia from 2014 to 2015",
+      "answer": 0.49359,
+      "answer_raw": "0.49359",
+      "program": "subtract(2330, 1560), divide(#0, 1560)"
+    }
+  ]
+}

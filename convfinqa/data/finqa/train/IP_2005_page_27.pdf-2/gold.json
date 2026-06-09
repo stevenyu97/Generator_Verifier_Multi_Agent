@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of printing paper sales is attributable to uncoated papers sales in 2004?",
+      "answer": 0.65189,
+      "answer_raw": "0.65189",
+      "program": "multiply(const_5, const_1000), divide(#0, 7670)"
+    }
+  ]
+}

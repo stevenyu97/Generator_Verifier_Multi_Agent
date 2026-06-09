@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the sum of prepaid income and value added tax and other consumption tax receivables in 2011?",
+      "answer": 112660.0,
+      "answer_raw": "112660.0",
+      "program": "add(31384, 81276)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what then is the percent of tax related assets over the total balance at the end of 2011?",
+      "answer": 0.45015,
+      "answer_raw": "0.45015",
+      "program": "add(31384, 81276), divide(#0, 250273)"
+    }
+  ]
+}

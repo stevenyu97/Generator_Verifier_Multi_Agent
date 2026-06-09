@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in client deposits from 2017 to 2018?",
+      "answer": 0.01956,
+      "answer_raw": "0.01956",
+      "program": "subtract(180149, 176693), divide(#0, 176693)"
+    }
+  ]
+}

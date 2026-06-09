@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "Single_PM/2018/page_31.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "inventory on hand , as well as our future purchase commitments with our suppliers , considering multiple factors , including demand forecasts , product life cycle , current sales levels , pricing strategy and cost trends .",
+      "if our review indicates that inventories of raw materials , components or finished products have become obsolete or are in excess of anticipated demand or that inventory cost exceeds net realizable value , we may be required to make adjustments that will impact the results of operations .",
+      "goodwill and non-amortizable intangible assets valuation - we test goodwill and non-amortizable intangible assets for impairment annually or more frequently if events occur that would warrant such review .",
+      "while the company has the option to perform a qualitative assessment for both goodwill and non-amortizable intangible assets to determine if it is more likely than not that an impairment exists , the company elects to perform the quantitative assessment for our annual impairment analysis .",
+      "the impairment analysis involves comparing the fair value of each reporting unit or non-amortizable intangible asset to the carrying value .",
+      "if the carrying value exceeds the fair value , goodwill or a non-amortizable intangible asset is considered impaired .",
+      "to determine the fair value of goodwill , we primarily use a discounted cash flow model , supported by the market approach using earnings multiples of comparable global and local companies within the tobacco industry .",
+      "at december 31 , 2018 , the carrying value of our goodwill was $ 7.2 billion , which is related to ten reporting units , each of which consists of a group of markets with similar economic characteristics .",
+      "the estimated fair value of each of our ten reporting units exceeded the carrying value as of december 31 , 2018 .",
+      "to determine the fair value of non-amortizable intangible assets , we primarily use a discounted cash flow model applying the relief-from-royalty method .",
+      "we concluded that the fair value of our non- amortizable intangible assets exceeded the carrying value .",
+      "these discounted cash flow models include management assumptions relevant for forecasting operating cash flows , which are subject to changes in business conditions , such as volumes and prices , costs to produce , discount rates and estimated capital needs .",
+      "management considers historical experience and all available information at the time the fair values are estimated , and we believe these assumptions are consistent with the assumptions a hypothetical marketplace participant would use .",
+      "since the march 28 , 2008 , spin-off from altria group , inc. , we have not recorded a charge to earnings for an impairment of goodwill or non-amortizable intangible assets .",
+      "marketing costs - we incur certain costs to support our products through programs that include advertising , marketing , consumer engagement and trade promotions .",
+      "the costs of our advertising and marketing programs are expensed in accordance with u.s .",
+      "gaap .",
+      "recognition of the cost related to our consumer engagement and trade promotion programs contain uncertainties due to the judgment required in estimating the potential performance and compliance for each program .",
+      "for volume-based incentives provided to customers , management continually assesses and estimates , by customer , the likelihood of the customer's achieving the specified targets , and records the reduction of revenue as the sales are made .",
+      "for other trade promotions , management relies on estimated utilization rates that have been developed from historical experience .",
+      "changes in the assumptions used in estimating the cost of any individual marketing program would not result in a material change in our financial position , results of operations or operating cash flows .",
+      "employee benefit plans - as discussed in item 8 , note 13 .",
+      "benefit plans to our consolidated financial statements , we provide a range of benefits to our employees and retired employees , including pensions , postretirement health care and postemployment benefits ( primarily severance ) .",
+      "we record annual amounts relating to these plans based on calculations specified by u.s .",
+      "gaap .",
+      "these calculations include various actuarial assumptions , such as discount rates , assumed rates of return on plan assets , compensation increases , mortality , turnover rates and health care cost trend rates .",
+      "we review actuarial assumptions on an annual basis and make modifications to the assumptions based on current rates and trends when it is deemed appropriate to do so .",
+      "as permitted by u.s .",
+      "gaap , any effect of the modifications is generally amortized over future periods .",
+      "we believe that the assumptions utilized in calculating our obligations under these plans are reasonable based upon our historical experience and advice from our actuaries .",
+      "weighted-average discount rate assumptions for pension and postretirement plan obligations at december 31 , 2018 and 2017 are as follows: ."
+    ],
+    "post_text": [
+      "we anticipate that assumption changes will increase 2019 pre-tax pension and postretirement expense to approximately $ 205 million as compared with approximately $ 160 million in 2018 , excluding amounts related to employee severance and early retirement programs .",
+      "the anticipated increase is primarily due to higher amortization out of other comprehensive earnings for unrecognized actuarial gains/ losses of $ 14 million , coupled with lower return on assets of $ 16 million , higher interest and service cost of $ 12 million and $ 4 million respectively , partially offset by other movements of $ 1 million .",
+      "weighted-average expected rate of return and discount rate assumptions have a significant effect on the amount of expense reported for the employee benefit plans .",
+      "a fifty-basis-point decrease in our discount rate would increase our 2019 pension and postretirement expense by approximately $ 50 million , and a fifty-basis-point increase in our discount rate would decrease our 2019 pension and postretirement ."
+    ],
+    "table": [
+      [
+        "",
+        "2018",
+        "2017"
+      ],
+      [
+        "pension plans",
+        "1.61% ( 1.61 % )",
+        "1.51% ( 1.51 % )"
+      ],
+      [
+        "postretirement plans",
+        "3.97% ( 3.97 % )",
+        "3.79% ( 3.79 % )"
+      ]
+    ],
+    "questions": [
+      "what is the pre-tax pension and postretirement expense in 2019?",
+      "and what is it in 2018?",
+      "what is, then, the change over the year?",
+      "what is the pre-tax pension and postretirement expense in 2018?",
+      "and how much does that change represent in relation to this 2018 expense, in percentage?"
+    ]
+  }
+}

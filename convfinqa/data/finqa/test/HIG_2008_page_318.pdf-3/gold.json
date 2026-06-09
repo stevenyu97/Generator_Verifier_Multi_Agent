@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in total statutory capital from 2007 to 2008?",
+      "answer": -2138.0,
+      "answer_raw": "-2138.0",
+      "program": "subtract(13777, 15915)"
+    }
+  ]
+}

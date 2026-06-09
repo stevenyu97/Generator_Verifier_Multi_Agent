@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the total of the interest only products home equity lines of credit draw periods is represented by the ones scheduled to end in 2017?",
+      "answer": 0.19771,
+      "answer_raw": "0.19771",
+      "program": "divide(3075, 15553)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the value of the interest only products home equity lines that are scheduled to end in 2015?",
+      "answer": 1338.0,
+      "answer_raw": "1338.0",
+      "program": "1338"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is that for 2014?",
+      "answer": 2048.0,
+      "answer_raw": "2048.0",
+      "program": "2048"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is, then, the total value of the interest only products home equity lines of credit draw periods scheduled to end in both years combined?",
+      "answer": 3386.0,
+      "answer_raw": "3386.0",
+      "program": "add(1338, 2048)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "including 2013, what then becomes this total value?",
+      "answer": 5410.0,
+      "answer_raw": "5410.0",
+      "program": "add(1338, 2048), add(#0, 2024)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and what is the average between those three years?",
+      "answer": 1803.33333,
+      "answer_raw": "1803.33333",
+      "program": "add(1338, 2048), add(#0, 2024), divide(#1, const_3)"
+    }
+  ]
+}

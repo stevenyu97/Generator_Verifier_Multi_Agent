@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in earnings per share from 2005 to 2006?",
+      "answer": 0.78,
+      "answer_raw": "0.78",
+      "program": "subtract(4.27, 3.49)"
+    }
+  ]
+}

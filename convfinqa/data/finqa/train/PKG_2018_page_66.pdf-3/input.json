@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "PKG/2018/page_66.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "sacramento container acquisition in october 2017 , pca acquired substantially all of the assets of sacramento container corporation , and 100% ( 100 % ) of the membership interests of northern sheets , llc and central california sheets , llc ( collectively referred to as 201csacramento container 201d ) for a purchase price of $ 274 million , including working capital adjustments .",
+      "funding for the acquisition came from available cash on hand .",
+      "assets acquired include full-line corrugated products and sheet feeder operations in both mcclellan , california and kingsburg , california .",
+      "sacramento container provides packaging solutions to customers serving portions of california 2019s strong agricultural market .",
+      "sacramento container 2019s financial results are included in the packaging segment from the date of acquisition .",
+      "the company accounted for the sacramento container acquisition using the acquisition method of accounting in accordance with asc 805 , business combinations .",
+      "the total purchase price has been allocated to tangible and intangible assets acquired and liabilities assumed based on respective fair values , as follows ( dollars in millions ) : ."
+    ],
+    "post_text": [
+      "during the second quarter ended june 30 , 2018 , we made a $ 5.5 million net adjustment based on the final valuation of the intangible assets .",
+      "we recorded the adjustment as a decrease to other intangible assets with an offset to goodwill .",
+      "goodwill is calculated as the excess of the purchase price over the fair value of the net assets acquired .",
+      "among the factors that contributed to the recognition of goodwill were sacramento container 2019s commitment to continuous improvement and regional synergies , as well as the expected increases in pca 2019s containerboard integration levels .",
+      "goodwill is deductible for tax purposes .",
+      "other intangible assets , primarily customer relationships , were assigned an estimated weighted average useful life of 9.6 years .",
+      "property , plant and equipment were assigned estimated useful lives ranging from one to 13 years. ."
+    ],
+    "table": [
+      [
+        "",
+        "12/31/17 allocation",
+        "adjustments",
+        "revised allocation"
+      ],
+      [
+        "goodwill",
+        "$ 151.1",
+        "$ 5.5",
+        "$ 156.6"
+      ],
+      [
+        "other intangible assets",
+        "72.6",
+        "-5.5 ( 5.5 )",
+        "67.1"
+      ],
+      [
+        "property plant and equipment",
+        "26.7",
+        "2014",
+        "26.7"
+      ],
+      [
+        "other net assets",
+        "23.4",
+        "2014",
+        "23.4"
+      ],
+      [
+        "net assets acquired",
+        "$ 273.8",
+        "$ 2014",
+        "$ 273.8"
+      ]
+    ],
+    "questions": [
+      "for the revised total purchase price allocation , property plant and equipment was what percentage of net assets acquired?"
+    ]
+  }
+}

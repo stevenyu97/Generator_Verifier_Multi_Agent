@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of commercial commitments net of participations , assignments and syndications , primarily to financial services companies in 2007, in billions?",
+      "answer": 8.9,
+      "answer_raw": "8.9",
+      "program": "8.9"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2006, also in billions?",
+      "answer": 8.3,
+      "answer_raw": "8.3",
+      "program": "8.3"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 0.6,
+      "answer_raw": "0.6",
+      "program": "subtract(8.9, 8.3)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in the last year of that period, what percentage of the consumer unfunded credit commitments did the consumer home equity lines of credit account for?",
+      "answer": 0.8,
+      "answer_raw": "0.8",
+      "program": "80%"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and what were those consumer unfunded credit commitments?",
+      "answer": 10875.0,
+      "answer_raw": "10875.0",
+      "program": "10875"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what was, then, the value of the consumer home equity lines of credit?",
+      "answer": 8700.0,
+      "answer_raw": "8700.0",
+      "program": "multiply(80%, 10875)"
+    }
+  ]
+}

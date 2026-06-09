@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "AAPL/2007/page_79.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements ( continued ) note 6 2014shareholders 2019 equity ( continued ) the following table summarizes activity in other comprehensive income related to derivatives , net of taxes , held by the company ( in millions ) : ."
+    ],
+    "post_text": [
+      "the tax effect related to the changes in fair value of derivatives was $ 1 million , $ ( 8 ) million , and $ ( 3 ) million for 2007 , 2006 , and 2005 , respectively .",
+      "the tax effect related to derivative gains/losses reclassified from other comprehensive income to net income was $ 2 million , $ 8 million , and $ ( 2 ) million for 2007 , 2006 , and 2005 , respectively .",
+      "employee benefit plans 2003 employee stock plan the 2003 employee stock plan ( the 2018 20182003 plan 2019 2019 ) is a shareholder approved plan that provides for broad- based grants to employees , including executive officers .",
+      "based on the terms of individual option grants , options granted under the 2003 plan generally expire 7 to 10 years after the grant date and generally become exercisable over a period of four years , based on continued employment , with either annual or quarterly vesting .",
+      "the 2003 plan permits the granting of incentive stock options , nonstatutory stock options , rsus , stock appreciation rights , stock purchase rights and performance-based awards .",
+      "during 2007 , the company 2019s shareholders approved an amendment to the 2003 plan to increase the number of shares authorized for issuance by 28 million shares .",
+      "1997 employee stock option plan in august 1997 , the company 2019s board of directors approved the 1997 employee stock option plan ( the 2018 20181997 plan 2019 2019 ) , a non-shareholder approved plan for grants of stock options to employees who are not officers of the company .",
+      "based on the terms of individual option grants , options granted under the 1997 plan generally expire 7 to 10 years after the grant date and generally become exercisable over a period of four years , based on continued employment , with either annual or quarterly vesting .",
+      "in october 2003 , the company terminated the 1997 plan and no new options can be granted from this plan .",
+      "1997 director stock option plan in august 1997 , the company 2019s board of directors adopted a director stock option plan ( the 2018 2018director plan 2019 2019 ) for non-employee directors of the company , which was approved by shareholders in 1998 .",
+      "pursuant to the director plan , the company 2019s non-employee directors are granted an option to acquire 30000 shares of common stock upon their initial election to the board ( 2018 2018initial options 2019 2019 ) .",
+      "the initial options vest and become exercisable in three equal annual installments on each of the first through third anniversaries of the grant date .",
+      "on the fourth anniversary of a non-employee director 2019s initial election to the board and on each subsequent anniversary thereafter , the director will be entitled to receive an option to acquire 10000 shares of common stock ( 2018 2018annual options 2019 2019 ) .",
+      "annual options are fully vested and immediately exercisable on their date of grant .",
+      "rule 10b5-1 trading plans certain of the company 2019s executive officers , including mr .",
+      "timothy d .",
+      "cook , mr .",
+      "peter oppenheimer , mr .",
+      "philip w .",
+      "schiller , and dr .",
+      "bertrand serlet , have entered into trading plans pursuant to ."
+    ],
+    "table": [
+      [
+        "",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "changes in fair value of derivatives",
+        "$ -1 ( 1 )",
+        "$ 11",
+        "$ 7"
+      ],
+      [
+        "adjustment for net ( losses ) /gains realized and included in net income",
+        "-2 ( 2 )",
+        "-12 ( 12 )",
+        "1"
+      ],
+      [
+        "change in unrealized gains on derivative instruments",
+        "$ -3 ( 3 )",
+        "$ -1 ( 1 )",
+        "$ 8"
+      ]
+    ],
+    "questions": [
+      "what was the change in unrealized gains on derivative instruments between 2006 and 2007?"
+    ]
+  }
+}

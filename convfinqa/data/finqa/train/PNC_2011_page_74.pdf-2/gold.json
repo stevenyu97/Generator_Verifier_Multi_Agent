@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions , what is the average msr fair value for 2010 and 2011?",
+      "answer": 840.0,
+      "answer_raw": "840.0",
+      "program": "add(1033, 647), divide(#0, const_2)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for q4 2007 , what was the total amount spent on share repurchases?",
+      "answer": 58864176.24,
+      "answer_raw": "58864176.24",
+      "program": "multiply(1144772, 51.42)"
+    }
+  ]
+}

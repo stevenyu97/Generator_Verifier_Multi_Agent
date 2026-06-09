@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what amount of the net assets acquired is from goodwill?",
+      "answer": 2489.0,
+      "answer_raw": "2489.0",
+      "program": "2489"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the total of those net assets acquired?",
+      "answer": 3483.0,
+      "answer_raw": "3483.0",
+      "program": "3483"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what, then, is that amount as a percentage of this total?",
+      "answer": 0.71461,
+      "answer_raw": "0.71461",
+      "program": "divide(2489, 3483)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "in that same period, what was the combined total of the cash and the accounts receivable, in millions?",
+      "answer": 394.0,
+      "answer_raw": "394.0",
+      "program": "add(116, 278)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "adding the inventory, what becomes that total?",
+      "answer": 518.0,
+      "answer_raw": "518.0",
+      "program": "add(116, 278), add(#0, 124)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and including the other current assets, what then becomes this total of current assets acquired, in millions?",
+      "answer": 559.0,
+      "answer_raw": "559.0",
+      "program": "add(116, 278), add(#0, 124), add(#1, 41)"
+    }
+  ]
+}

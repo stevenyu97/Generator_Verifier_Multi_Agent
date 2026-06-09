@@ -1,0 +1,37 @@
+{
+  "input": {
+    "id": "MMM/2012/page_105.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "fair value of financial instruments : the company 2019s financial instruments include cash and cash equivalents , marketable securities , accounts receivable , certain investments , accounts payable , borrowings , and derivative contracts .",
+      "the fair values of cash and cash equivalents , accounts receivable , accounts payable , and short-term borrowings and current portion of long-term debt approximated carrying values because of the short-term nature of these instruments .",
+      "available-for-sale marketable securities and investments , in addition to certain derivative instruments , are recorded at fair values as indicated in the preceding disclosures .",
+      "for its long-term debt the company utilized third-party quotes to estimate fair values ( classified as level 2 ) .",
+      "information with respect to the carrying amounts and estimated fair values of these financial instruments follow: ."
+    ],
+    "post_text": [
+      "the fair values reflected above consider the terms of the related debt absent the impacts of derivative/hedging activity .",
+      "the carrying amount of long-term debt referenced above is impacted by certain fixed-to-floating interest rate swaps that are designated as fair value hedges and by the designation of fixed rate eurobond securities issued by the company as hedging instruments of the company 2019s net investment in its european subsidiaries .",
+      "3m 2019s fixed-rate bonds were trading at a premium at december 31 , 2012 and 2011 due to the low interest rates and tightening of 3m 2019s credit spreads. ."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "december 31 2012 carrying value",
+        "december 31 2012 fair value",
+        "december 31 2012 carrying value",
+        "fair value"
+      ],
+      [
+        "long-term debt excluding current portion",
+        "$ 4916",
+        "$ 5363",
+        "$ 4484",
+        "$ 5002"
+      ]
+    ],
+    "questions": [
+      "in december 2012 what was the percentage difference in the carrying values of the long-term debt excluding current portion"
+    ]
+  }
+}

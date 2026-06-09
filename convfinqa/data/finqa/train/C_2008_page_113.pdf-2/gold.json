@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase of the expected return from 2007 to 2008",
+      "answer": 0.02096,
+      "answer_raw": "0.02096",
+      "program": "subtract(487, 477), divide(#0, 477)"
+    }
+  ]
+}

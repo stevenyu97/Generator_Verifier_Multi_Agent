@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in the \"2011 plan\" what was the ratio of the stock option stock option stock to the stock rights",
+      "answer": 9.84291,
+      "answer_raw": "9.84291",
+      "program": "divide(533397, 54191)"
+    }
+  ]
+}

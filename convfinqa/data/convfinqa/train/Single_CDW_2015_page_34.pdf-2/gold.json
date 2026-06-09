@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the adjusted ebitda in 2015?",
+      "answer": 111.5,
+      "answer_raw": "111.5",
+      "program": "subtract(1018.5, 907.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and unadjusted ebitda during that time?",
+      "answer": 1033.9,
+      "answer_raw": "1033.9",
+      "program": "1033.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and in 2014?",
+      "answer": 792.9,
+      "answer_raw": "792.9",
+      "program": "792.9"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "so what was the change in unadjusted ebitda between these years?",
+      "answer": 241.0,
+      "answer_raw": "241.0",
+      "program": "subtract(1018.5, 907.0), subtract(1033.9, 792.9)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so did 2015 adjusted ebitda increase more than 2015 actual ebitda?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "subtract(1018.5, 907.0), subtract(1033.9, 792.9), greater(#0, #1)"
+    }
+  ]
+}

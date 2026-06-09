@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "UNP/2011/page_35.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "liquidity and capital resources as of december 31 , 2011 , our principal sources of liquidity included cash , cash equivalents , our receivables securitization facility , and our revolving credit facility , as well as the availability of commercial paper and other sources of financing through the capital markets .",
+      "we had $ 1.8 billion of committed credit available under our credit facility , with no borrowings outstanding as of december 31 , 2011 .",
+      "we did not make any borrowings under this facility during 2011 .",
+      "the value of the outstanding undivided interest held by investors under the receivables securitization facility was $ 100 million as of december 31 , 2011 , and is included in our consolidated statements of financial position as debt due after one year .",
+      "the receivables securitization facility obligates us to maintain an investment grade bond rating .",
+      "if our bond rating were to deteriorate , it could have an adverse impact on our liquidity .",
+      "access to commercial paper as well as other capital market financings is dependent on market conditions .",
+      "deterioration of our operating results or financial condition due to internal or external factors could negatively impact our ability to access capital markets as a source of liquidity .",
+      "access to liquidity through the capital markets is also dependent on our financial stability .",
+      "we expect that we will continue to have access to liquidity by issuing bonds to public or private investors based on our assessment of the current condition of the credit markets .",
+      "at december 31 , 2011 and 2010 , we had a working capital surplus .",
+      "this reflects a strong cash position , which provides enhanced liquidity in an uncertain economic environment .",
+      "in addition , we believe we have adequate access to capital markets to meet cash requirements , and we have sufficient financial capacity to satisfy our current liabilities .",
+      "cash flows millions 2011 2010 2009 ."
+    ],
+    "post_text": [
+      "operating activities higher net income and lower cash income tax payments in 2011 increased cash provided by operating activities compared to 2010 .",
+      "the tax relief , unemployment insurance reauthorization , and job creation act of 2010 , enacted in december 2010 , provided for 100% ( 100 % ) bonus depreciation for qualified investments made during 2011 , and 50% ( 50 % ) bonus depreciation for qualified investments made during 2012 .",
+      "as a result of the act , the company deferred a substantial portion of its 2011 income tax expense .",
+      "this deferral decreased 2011 income tax payments , thereby contributing to the positive operating cash flow .",
+      "in future years , however , additional cash will be used to pay income taxes that were previously deferred .",
+      "in addition , the adoption of a new accounting standard in january of 2010 changed the accounting treatment for our receivables securitization facility from a sale of undivided interests ( recorded as an operating activity ) to a secured borrowing ( recorded as a financing activity ) , which decreased cash provided by operating activities by $ 400 million in 2010 .",
+      "higher net income in 2010 increased cash provided by operating activities compared to 2009 .",
+      "investing activities higher capital investments partially offset by higher proceeds from asset sales in 2011 drove the increase in cash used in investing activities compared to 2010 .",
+      "higher capital investments and lower proceeds from asset sales in 2010 drove the increase in cash used in investing activities compared to 2009. ."
+    ],
+    "table": [
+      [
+        "cash flowsmillions",
+        "2011",
+        "2010",
+        "2009"
+      ],
+      [
+        "cash provided by operating activities",
+        "$ 5873",
+        "$ 4105",
+        "$ 3204"
+      ],
+      [
+        "cash used in investing activities",
+        "-3119 ( 3119 )",
+        "-2488 ( 2488 )",
+        "-2145 ( 2145 )"
+      ],
+      [
+        "cash used in financing activities",
+        "-2623 ( 2623 )",
+        "-2381 ( 2381 )",
+        "-458 ( 458 )"
+      ],
+      [
+        "net change in cash and cashequivalents",
+        "$ 131",
+        "$ -764 ( 764 )",
+        "$ 601"
+      ]
+    ],
+    "questions": [
+      "what was the percentage increase in bonus deprecation rates for 2012 capital additions?"
+    ]
+  }
+}

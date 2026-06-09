@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "were 2017 advertising costs greater than r&d expenses?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(313, 472)"
+    }
+  ]
+}

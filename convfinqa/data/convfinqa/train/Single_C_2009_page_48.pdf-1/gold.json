@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in total operating expenses between 2008 and 2009?",
+      "answer": 910.0,
+      "answer_raw": "910.0",
+      "program": "subtract(1420, 510)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the percentage change during this time?",
+      "answer": 1.78431,
+      "answer_raw": "1.78431",
+      "program": "subtract(1420, 510), divide(#0, 510)"
+    }
+  ]
+}

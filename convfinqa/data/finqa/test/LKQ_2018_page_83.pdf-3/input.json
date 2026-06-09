@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "LKQ/2018/page_83.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "warranty reserve some of our salvage mechanical products are sold with a standard six month warranty against defects .",
+      "additionally , some of our remanufactured engines are sold with a standard three year warranty against defects .",
+      "we also provide a limited lifetime warranty for certain of our aftermarket products .",
+      "these assurance-type warranties are not considered a separate performance obligation , and thus no transaction price is allocated to them .",
+      "we record the warranty costs in cost of goods sold on our consolidated statements of income .",
+      "our warranty reserve is calculated using historical claim information to project future warranty claims activity and is recorded within other accrued expenses and other noncurrent liabilities on our consolidated balance sheets based on the expected timing of the related payments .",
+      "the changes in the warranty reserve are as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "self-insurance reserves we self-insure a portion of employee medical benefits under the terms of our employee health insurance program .",
+      "we purchase certain stop-loss insurance to limit our liability exposure .",
+      "we also self-insure a portion of our property and casualty risk , which includes automobile liability , general liability , directors and officers liability , workers' compensation , and property coverage , under deductible insurance programs .",
+      "the insurance premium costs are expensed over the contract periods .",
+      "a reserve for liabilities associated with these losses is established for claims filed and claims incurred but not yet reported based upon our estimate of ultimate cost , which is calculated using analysis of historical data .",
+      "we monitor new claims and claim development as well as trends related to the claims incurred but not reported in order to assess the adequacy of our insurance reserves .",
+      "total self-insurance reserves were $ 105 million and $ 94 million , of which $ 52 million and $ 43 million was classified as current , as of december 31 , 2018 and 2017 , respectively , and are classified as other accrued expenses in the consolidated balance sheets .",
+      "the remaining balances of self-insurance reserves are classified as other noncurrent liabilities , which reflects management's estimates of when claims will be paid .",
+      "we had outstanding letters of credit of $ 65 million and $ 71 million at december 31 , 2018 and 2017 , respectively , to guarantee self-insurance claims payments .",
+      "while we do not expect the amounts ultimately paid to differ significantly from our estimates , our insurance reserves and corresponding expenses could be affected if future claims experience differs significantly from historical trends and assumptions .",
+      "stockholders' equity on october 25 , 2018 , our board of directors authorized a stock repurchase program under which we may purchase up to $ 500 million of our common stock from time to time through october 25 , 2021 .",
+      "repurchases under the program may be made in the open market or in privately negotiated transactions , with the amount and timing of repurchases depending on market conditions and corporate needs .",
+      "the repurchase program does not obligate us to acquire any specific number of shares and may be suspended or discontinued at any time .",
+      "delaware law imposes restrictions on stock repurchases .",
+      "during 2018 , we repurchased 2.3 million shares of common stock for an aggregate price $ 60 million .",
+      "as of december 31 , 2018 , there is $ 440 million of remaining capacity under our repurchase program .",
+      "in 2019 , we have repurchased 1.8 million shares of common stock for an aggregate purchase price of $ 46 million during the period ended february 22 , 2019 .",
+      "treasury stock is accounted for using the cost method .",
+      "income taxes current income taxes are provided on income reported for financial reporting purposes , adjusted for transactions that do not enter into the computation of income taxes payable in the same year .",
+      "deferred income taxes have been provided to show the effect of temporary differences between the tax bases of assets and liabilities and their reported amounts in the financial statements .",
+      "a valuation allowance is provided for deferred tax assets if it is more likely than not that these items will either expire before we are able to realize their benefit or that future deductibility is uncertain .",
+      "provision is made for taxes on undistributed earnings of foreign subsidiaries and related companies to the extent that such earnings are not deemed to be permanently invested. ."
+    ],
+    "table": [
+      [
+        "balance as of january 1 2017",
+        "$ 19634"
+      ],
+      [
+        "warranty expense",
+        "38608"
+      ],
+      [
+        "warranty claims",
+        "-35091 ( 35091 )"
+      ],
+      [
+        "balance as of december 31 2017",
+        "23151"
+      ],
+      [
+        "warranty expense",
+        "43682"
+      ],
+      [
+        "warranty claims",
+        "-43571 ( 43571 )"
+      ],
+      [
+        "balance as of december 31 2018",
+        "$ 23262"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the total self-insurance reserves that was classified as current in 2018"
+    ]
+  }
+}

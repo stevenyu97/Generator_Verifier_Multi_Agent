@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "ETFC/2018/page_32.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "item a01b .",
+      "unresolved staff comments e*trade 2018 10-k | page 24 item a02 .",
+      "properties a summary of our significant locations at december a031 , 2018 is shown in the following table .",
+      "square footage amounts are net of space that has been sublet or space that is part of a facility restructuring. ."
+    ],
+    "post_text": [
+      "all facilities are leased at december a031 , 2018 .",
+      "all other leased facilities with space of less than 25000 square feet are not listed by location .",
+      "in addition to the significant facilities above , we also lease all 30 regional financial centers , ranging in space from approximately 2500 to 8000 square feet .",
+      "item a03 .",
+      "legal proceedings information in response to this item can be found under the heading litigation matters in note 21 2014 commitments , contingencies and other regulatory matters in this annual report and is incorporated by reference into this item .",
+      "item 4 .",
+      "mine safety disclosures not applicable. ."
+    ],
+    "table": [
+      [
+        "location",
+        "approximate square footage"
+      ],
+      [
+        "alpharetta georgia",
+        "236000"
+      ],
+      [
+        "jersey city new jersey",
+        "132000"
+      ],
+      [
+        "arlington virginia",
+        "107000"
+      ],
+      [
+        "sandy utah",
+        "85000"
+      ],
+      [
+        "menlo park california",
+        "63000"
+      ],
+      [
+        "denver colorado",
+        "58000"
+      ],
+      [
+        "chicago illinois",
+        "46000"
+      ],
+      [
+        "new york new york",
+        "31000"
+      ]
+    ],
+    "questions": [
+      "what is the ratio of the square footage in alpharetta georgia to jersey city new jersey as of december 2018"
+    ]
+  }
+}

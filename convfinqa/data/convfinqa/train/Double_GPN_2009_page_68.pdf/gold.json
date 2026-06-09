@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in thousands, what will be the annual amortization expense for the trademark segment?",
+      "answer": 310.0,
+      "answer_raw": "310.0",
+      "program": "divide(3100, 10)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and concerning the goodwill segment, what percentage did it represent in relation to the total assets acquired?",
+      "answer": 0.36183,
+      "answer_raw": "0.36183",
+      "program": "divide(35431, 97921)"
+    }
+  ]
+}

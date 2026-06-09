@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in february 2004 , the company retired $ 300 million of debt outstanding in the form of 6.5% ( 6.5 % ) unsecured notes . what was the annual interest savings from this retirement?\\\\n",
+      "answer": 19.5,
+      "answer_raw": "19.5",
+      "program": "multiply(300, 6.5%)"
+    }
+  ]
+}

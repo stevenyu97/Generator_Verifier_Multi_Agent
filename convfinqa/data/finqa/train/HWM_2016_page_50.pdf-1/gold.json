@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of the global rolled products' atoi concerning the total atoi in 2016?",
+      "answer": 0.24747,
+      "answer_raw": "0.24747",
+      "program": "divide(269, 1087)"
+    }
+  ]
+}

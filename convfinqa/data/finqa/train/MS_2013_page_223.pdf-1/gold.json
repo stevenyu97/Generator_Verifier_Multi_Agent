@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the effect in difference of average borrowing rate due to the use of swaps in 2013?",
+      "answer": 2.2,
+      "answer_raw": "2.2",
+      "program": "subtract(4.4, 2.2)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the dividend paid per share in 2008?",
+      "answer": 1.93,
+      "answer_raw": "1.93",
+      "program": "1.93"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was it in 2007?",
+      "answer": 1.91,
+      "answer_raw": "1.91",
+      "program": "1.91"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 3.84,
+      "answer_raw": "3.84",
+      "program": "add(1.93, 1.91)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total sum including 2006?",
+      "answer": 5.73,
+      "answer_raw": "5.73",
+      "program": "add(1.93, 1.91), add(#0, 1.89)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total sum divided by 3?",
+      "answer": 1.91,
+      "answer_raw": "1.91",
+      "program": "add(1.93, 1.91), add(#0, 1.89), divide(#1, const_3)"
+    }
+  ]
+}

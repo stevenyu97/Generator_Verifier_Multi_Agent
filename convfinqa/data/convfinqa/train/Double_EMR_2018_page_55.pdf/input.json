@@ -1,0 +1,72 @@
+{
+  "input": {
+    "id": "Double_EMR/2018/page_55.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "2018 emerson annual report | 51 as of september 30 , 2018 , 1874750 shares awarded primarily in 2016 were outstanding , contingent on the company achieving its performance objectives through 2018 .",
+      "the objectives for these shares were met at the 97 percent level at the end of 2018 and 1818508 shares will be distributed in early 2019 .",
+      "additionally , the rights to receive a maximum of 2261700 and 2375313 common shares were awarded in 2018 and 2017 , respectively , under the new performance shares program , and are outstanding and contingent upon the company achieving its performance objectives through 2020 and 2019 , respectively .",
+      "incentive shares plans also include restricted stock awards which involve distribution of common stock to key management employees subject to cliff vesting at the end of service periods ranging from three to ten years .",
+      "the fair value of restricted stock awards is determined based on the average of the high and low market prices of the company 2019s common stock on the date of grant , with compensation expense recognized ratably over the applicable service period .",
+      "in 2018 , 310000 shares of restricted stock vested as a result of participants fulfilling the applicable service requirements .",
+      "consequently , 167837 shares were issued while 142163 shares were withheld for income taxes in accordance with minimum withholding requirements .",
+      "as of september 30 , 2018 , there were 1276200 shares of unvested restricted stock outstanding .",
+      "the total fair value of shares distributed under incentive shares plans was $ 20 , $ 245 and $ 11 , respectively , in 2018 , 2017 and 2016 , of which $ 9 , $ 101 and $ 4 was paid in cash , primarily for tax withholding .",
+      "as of september 30 , 2018 , 10.3 million shares remained available for award under incentive shares plans .",
+      "changes in shares outstanding but not yet earned under incentive shares plans during the year ended september 30 , 2018 follow ( shares in thousands ; assumes 100 percent payout of unvested awards ) : average grant date shares fair value per share ."
+    ],
+    "post_text": [
+      "total compensation expense for stock options and incentive shares was $ 216 , $ 115 and $ 159 for 2018 , 2017 and 2016 , respectively , of which $ 5 and $ 14 was included in discontinued operations for 2017 and 2016 , respectively .",
+      "the increase in expense for 2018 reflects an increase in the company 2019s stock price and progress toward achieving its performance objectives .",
+      "the decrease in expense for 2017 reflects the impact of changes in the stock price .",
+      "income tax benefits recognized in the income statement for these compensation arrangements during 2018 , 2017 and 2016 were $ 42 , $ 33 and $ 45 , respectively .",
+      "as of september 30 , 2018 , total unrecognized compensation expense related to unvested shares awarded under these plans was $ 182 , which is expected to be recognized over a weighted-average period of 1.1 years .",
+      "in addition to the employee stock option and incentive shares plans , in 2018 the company awarded 12228 shares of restricted stock and 2038 restricted stock units under the restricted stock plan for non-management directors .",
+      "as of september 30 , 2018 , 159965 shares were available for issuance under this plan .",
+      "( 16 ) common and preferred stock at september 30 , 2018 , 37.0 million shares of common stock were reserved for issuance under the company 2019s stock-based compensation plans .",
+      "during 2018 , 15.1 million common shares were purchased and 2.6 million treasury shares were reissued .",
+      "in 2017 , 6.6 million common shares were purchased and 5.5 million treasury shares were reissued .",
+      "at september 30 , 2018 and 2017 , the company had 5.4 million shares of $ 2.50 par value preferred stock authorized , with none issued. ."
+    ],
+    "table": [
+      [
+        "",
+        "shares",
+        "average grant datefair value per share"
+      ],
+      [
+        "beginning of year",
+        "4999",
+        "$ 50.33"
+      ],
+      [
+        "granted",
+        "2295",
+        "$ 63.79"
+      ],
+      [
+        "earned/vested",
+        "-310 ( 310 )",
+        "$ 51.27"
+      ],
+      [
+        "canceled",
+        "-86 ( 86 )",
+        "$ 56.53"
+      ],
+      [
+        "end of year",
+        "6898",
+        "$ 54.69"
+      ]
+    ],
+    "questions": [
+      "how many shares were repurchased during 2018?",
+      "what about the number of shares reissued?",
+      "what is the net number of shares repurchased?",
+      "what is the average grant date fair value per share at the beginning of the year?",
+      "what about the the number of shares oustanding?",
+      "what is the total fair value?"
+    ]
+  }
+}

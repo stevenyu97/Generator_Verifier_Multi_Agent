@@ -1,0 +1,46 @@
+{
+  "input": {
+    "id": "RE/2014/page_125.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "9 .",
+      "junior subordinated debt securities payable in accordance with the provisions of the junior subordinated debt securities which were issued on march 29 , 2004 , holdings elected to redeem the $ 329897 thousand of 6.2% ( 6.2 % ) junior subordinated debt securities outstanding on may 24 , 2013 .",
+      "as a result of the early redemption , the company incurred pre-tax expense of $ 7282 thousand related to the immediate amortization of the remaining capitalized issuance costs on the trust preferred securities .",
+      "interest expense incurred in connection with these junior subordinated debt securities is as follows for the periods indicated: ."
+    ],
+    "post_text": [
+      "holdings considered the mechanisms and obligations relating to the trust preferred securities , taken together , constituted a full and unconditional guarantee by holdings of capital trust ii 2019s payment obligations with respect to their trust preferred securities .",
+      "10 .",
+      "reinsurance and trust agreements certain subsidiaries of group have established trust agreements , which effectively use the company 2019s investments as collateral , as security for assumed losses payable to certain non-affiliated ceding companies .",
+      "at december 31 , 2014 , the total amount on deposit in trust accounts was $ 322285 thousand .",
+      "on april 24 , 2014 , the company entered into two collateralized reinsurance agreements with kilimanjaro re limited ( 201ckilimanjaro 201d ) , a bermuda based special purpose reinsurer , to provide the company with catastrophe reinsurance coverage .",
+      "these agreements are multi-year reinsurance contracts which cover specified named storm and earthquake events .",
+      "the first agreement provides up to $ 250000 thousand of reinsurance coverage from named storms in specified states of the southeastern united states .",
+      "the second agreement provides up to $ 200000 thousand of reinsurance coverage from named storms in specified states of the southeast , mid-atlantic and northeast regions of the united states and puerto rico as well as reinsurance coverage from earthquakes in specified states of the southeast , mid-atlantic , northeast and west regions of the united states , puerto rico and british columbia .",
+      "on november 18 , 2014 , the company entered into a collateralized reinsurance agreement with kilimanjaro re to provide the company with catastrophe reinsurance coverage .",
+      "this agreement is a multi-year reinsurance contract which covers specified earthquake events .",
+      "the agreement provides up to $ 500000 thousand of reinsurance coverage from earthquakes in the united states , puerto rico and canada .",
+      "kilimanjaro has financed the various property catastrophe reinsurance coverage by issuing catastrophe bonds to unrelated , external investors .",
+      "on april 24 , 2014 , kilimanjaro issued $ 450000 thousand of variable rate notes ( 201cseries 2014-1 notes 201d ) .",
+      "on november 18 , 2014 , kilimanjaro issued $ 500000 thousand of variable rate notes ( 201cseries 2014-2 notes 201d ) .",
+      "the proceeds from the issuance of the series 2014-1 notes and the series 2014-2 notes are held in reinsurance trust throughout the duration of the applicable reinsurance agreements and invested solely in us government money market funds with a rating of at least 201caaam 201d by standard & poor 2019s. ."
+    ],
+    "table": [
+      [
+        "( dollars in thousands )",
+        "years ended december 31 , 2014",
+        "years ended december 31 , 2013",
+        "years ended december 31 , 2012"
+      ],
+      [
+        "interest expense incurred",
+        "$ -",
+        "$ 8181",
+        "$ 20454"
+      ]
+    ],
+    "questions": [
+      "what was the total reinsurance coverage secured in 2014 in thousands"
+    ]
+  }
+}

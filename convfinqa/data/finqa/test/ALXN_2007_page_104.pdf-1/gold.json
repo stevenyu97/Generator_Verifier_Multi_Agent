@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average future minimum annual rental payment for the next five years?",
+      "answer": 4441.2,
+      "answer_raw": "4441.2",
+      "program": "add(3144, 3160), add(#0, 3200), add(#1, 2768), add(#2, 9934), divide(#3, const_5)"
+    }
+  ]
+}

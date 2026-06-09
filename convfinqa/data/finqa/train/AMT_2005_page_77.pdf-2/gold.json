@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage decrease in the pro-forma net loss",
+      "answer": -0.30636,
+      "answer_raw": "-0.30636",
+      "program": "subtract(-186724, -269196), divide(#0, -269196)"
+    }
+  ]
+}

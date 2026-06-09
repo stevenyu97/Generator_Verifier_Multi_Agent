@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would the investment income ( loss ) have been in 2014 without the gain from the sale of the investment in clearwire corporation in 2013?",
+      "answer": -147.0,
+      "answer_raw": "-147.0",
+      "program": "subtract(296, 443)"
+    }
+  ]
+}

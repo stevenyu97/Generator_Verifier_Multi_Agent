@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2013, what was the increase in the inventories balance due to the adoption of lifo?",
+      "answer": 131762.0,
+      "answer_raw": "131762.0",
+      "program": "131762"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what percentage does this increase represent in relation to that original balance?",
+      "answer": 0.05434,
+      "answer_raw": "0.05434",
+      "program": "divide(131762, 2424795)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and in the year before, what was this percentage increase due to the adoption of lifo?",
+      "answer": 0.05782,
+      "answer_raw": "0.05782",
+      "program": "divide(126190, 2182419)"
+    }
+  ]
+}

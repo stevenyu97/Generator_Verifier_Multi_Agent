@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage increase in gross carrying amount from the beginning of 2015 to the end of 2016?",
+      "answer": 0.03431,
+      "answer_raw": "0.03431",
+      "program": "subtract(572764, 553767), divide(#0, 553767)"
+    }
+  ]
+}

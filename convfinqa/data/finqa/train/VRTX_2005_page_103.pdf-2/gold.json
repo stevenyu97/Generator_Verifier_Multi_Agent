@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the 2005 gross total property and equipment value is related to software?",
+      "answer": 0.3426,
+      "answer_raw": "0.3426",
+      "program": "divide(18683, 54533)"
+    }
+  ]
+}

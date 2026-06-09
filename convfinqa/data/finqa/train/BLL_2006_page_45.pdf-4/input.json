@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "BLL/2006/page_45.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "page 29 of 98 in connection with the internal revenue service 2019s ( irs ) examination of ball 2019s consolidated income tax returns for the tax years 2000 through 2004 , the irs has proposed to disallow ball 2019s deductions of interest expense incurred on loans under a company-owned life insurance plan that has been in place for more than 20 years .",
+      "ball believes that its interest deductions will be sustained as filed and , therefore , no provision for loss has been recorded .",
+      "the total potential liability for the audit years 1999 through 2004 , unaudited year 2005 and an estimate of the impact on 2006 is approximately $ 31 million , excluding related interest .",
+      "the irs has withdrawn its proposed adjustments for any penalties .",
+      "see note 13 accompanying the consolidated financial statements within item 8 of this annual report .",
+      "results of equity affiliates equity in the earnings of affiliates in 2006 is primarily attributable to our 50 percent ownership in packaging investments in the u.s .",
+      "and brazil .",
+      "earnings in 2004 included the results of a minority-owned aerospace business , which was sold in october 2005 , and a $ 15.2 million loss representing ball 2019s share of a provision for doubtful accounts relating to its 35 percent interest in sanshui jfp ( discussed above in 201cmetal beverage packaging , europe/asia 201d ) .",
+      "after consideration of the prc loss , earnings were $ 14.7 million in 2006 compared to $ 15.5 million in 2005 and $ 15.8 million in 2004 .",
+      "critical and significant accounting policies and new accounting pronouncements for information regarding the company 2019s critical and significant accounting policies , as well as recent accounting pronouncements , see note 1 to the consolidated financial statements within item 8 of this report .",
+      "financial condition , liquidity and capital resources cash flows and capital expenditures cash flows from operating activities were $ 401.4 million in 2006 compared to $ 558.8 million in 2005 and $ 535.9 million in 2004 .",
+      "management internally uses a free cash flow measure : ( 1 ) to evaluate the company 2019s operating results , ( 2 ) for planning purposes , ( 3 ) to evaluate strategic investments and ( 4 ) to evaluate the company 2019s ability to incur and service debt .",
+      "free cash flow is not a defined term under u.s .",
+      "generally accepted accounting principles , and it should not be inferred that the entire free cash flow amount is available for discretionary expenditures .",
+      "the company defines free cash flow as cash flow from operating activities less additions to property , plant and equipment ( capital spending ) .",
+      "free cash flow is typically derived directly from the company 2019s cash flow statements ; however , it may be adjusted for items that affect comparability between periods .",
+      "an example of such an item included in 2006 is the property insurance proceeds for the replacement of the fire-damaged assets in our hassloch , germany , plant , which is included in capital spending amounts .",
+      "based on this , our consolidated free cash flow is summarized as follows: ."
+    ],
+    "post_text": [
+      "cash flows from operating activities in 2006 were negatively affected by higher cash pension funding and higher working capital levels compared to the prior year .",
+      "the higher working capital was a combination of higher than planned raw material inventory levels , higher income tax payments and higher accounts receivable balances , the latter resulting primarily from the repayment of a portion of the accounts receivable securitization program and late payments from customers in europe .",
+      "management expects the increase in working capital to be temporary and that working capital levels will return to normal levels by the end of the first half of 2007. ."
+    ],
+    "table": [
+      [
+        "( $ in millions )",
+        "2006",
+        "2005",
+        "2004"
+      ],
+      [
+        "cash flows from operating activities",
+        "$ 401.4",
+        "$ 558.8",
+        "$ 535.9"
+      ],
+      [
+        "capital spending",
+        "-279.6 ( 279.6 )",
+        "-291.7 ( 291.7 )",
+        "-196.0 ( 196.0 )"
+      ],
+      [
+        "proceeds for replacement of fire-damaged assets",
+        "61.3",
+        "2013",
+        "2013"
+      ],
+      [
+        "free cash flow",
+        "$ 183.1",
+        "$ 267.1",
+        "$ 339.9"
+      ]
+    ],
+    "questions": [
+      "what was the difference in free cash flow between 2005 and 2006 in millions?"
+    ]
+  }
+}

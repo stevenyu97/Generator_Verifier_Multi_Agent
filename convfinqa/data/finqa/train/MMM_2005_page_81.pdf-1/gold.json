@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2006 what was the ratio of the long-term debt payments due dealer remarketable securities to the medium-term notes",
+      "answer": 5.64516,
+      "answer_raw": "5.64516",
+      "program": "divide(350, 62)"
+    }
+  ]
+}

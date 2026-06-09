@@ -1,0 +1,91 @@
+{
+  "input": {
+    "id": "MMM/2007/page_66.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the company files income tax returns in the u.s .",
+      "federal jurisdiction , and various states and foreign jurisdictions .",
+      "with few exceptions , the company is no longer subject to u.s .",
+      "federal , state and local , or non-u.s .",
+      "income tax examinations by tax authorities for years before 1999 .",
+      "it is anticipated that its examination for the company 2019s u.s .",
+      "income tax returns for the years 2002 through 2004 will be completed by the end of first quarter 2008 .",
+      "as of december 31 , 2007 , the irs has proposed adjustments to the company 2019s tax positions for which the company is fully reserved .",
+      "payments relating to any proposed assessments arising from the 2002 through 2004 audit may not be made until a final agreement is reached between the company and the irs on such assessments or upon a final resolution resulting from the administrative appeals process or judicial action .",
+      "in addition to the u.s .",
+      "federal examination , there is also limited audit activity in several u.s .",
+      "state and foreign jurisdictions .",
+      "currently , the company expects the liability for unrecognized tax benefits to change by an insignificant amount during the next 12 months .",
+      "the company adopted the provisions of fasb interpretation no .",
+      "48 , 201caccounting for uncertainty in income taxes , 201d on january 1 , 2007 .",
+      "as a result of the implementation of interpretation 48 , the company recognized an immaterial increase in the liability for unrecognized tax benefits , which was accounted for as a reduction to the january 1 , 2007 , balance of retained earnings .",
+      "a reconciliation of the beginning and ending amount of gross unrecognized tax benefits ( 201cutb 201d ) is as follows : ( millions ) federal , state , and foreign tax ."
+    ],
+    "post_text": [
+      "the total amount of unrecognized tax benefits that , if recognized , would affect the effective tax rate as of january 1 , 2007 and december 31 , 2007 , respectively , are $ 261 million and $ 334 million .",
+      "the ending net utb results from adjusting the gross balance at december 31 , 2007 for items such as federal , state , and non-u.s .",
+      "deferred items , interest and penalties , and deductible taxes .",
+      "the net utb is included as components of accrued income taxes and other liabilities within the consolidated balance sheet .",
+      "the company recognizes interest and penalties accrued related to unrecognized tax benefits in tax expense .",
+      "at january 1 , 2007 and december 31 , 2007 , accrued interest and penalties on a gross basis were $ 65 million and $ 69 million , respectively .",
+      "included in these interest and penalty amounts is interest and penalties related to tax positions for which the ultimate deductibility is highly certain but for which there is uncertainty about the timing of such deductibility .",
+      "because of the impact of deferred tax accounting , other than interest and penalties , the disallowance of the shorter deductibility period would not affect the annual effective tax rate but would accelerate the payment of cash to the taxing authority to an earlier period .",
+      "in 2007 , the company completed the preparation and filing of its 2006 u.s .",
+      "federal and state income tax returns , which did not result in any material changes to the company 2019s financial position .",
+      "in 2006 , an audit of the company 2019s u.s .",
+      "tax returns for years through 2001 was completed .",
+      "the company and the internal revenue service reached a final settlement for these years , including an agreement on the amount of a refund claim to be filed by the company .",
+      "the company also substantially resolved audits in certain european countries .",
+      "in addition , the company completed the preparation and filing of its 2005 u.s .",
+      "federal income tax return and the corresponding 2005 state income tax returns .",
+      "the adjustments from amounts previously estimated in the u.s .",
+      "federal and state income tax returns ( both positive and negative ) included lower u.s .",
+      "taxes on dividends received from the company's foreign subsidiaries .",
+      "the company also made quarterly adjustments ( both positive and negative ) to its reserves for tax contingencies .",
+      "considering the developments noted above and other factors , including the impact on open audit years of the recent resolution of issues in various audits , these reassessments resulted in a reduction of the reserves in 2006 by $ 149 million , inclusive of the expected amount of certain refund claims .",
+      "in 2005 , the company announced its intent to reinvest $ 1.7 billion of foreign earnings in the united states pursuant to the provisions of the american jobs creation act of 2004 .",
+      "this act provided the company the opportunity to tax- ."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "federal state and foreign tax"
+      ],
+      [
+        "gross utb balance at january 1 2007",
+        "$ 691"
+      ],
+      [
+        "additions based on tax positions related to the current year",
+        "79"
+      ],
+      [
+        "additions for tax positions of prior years",
+        "143"
+      ],
+      [
+        "reductions for tax positions of prior years",
+        "-189 ( 189 )"
+      ],
+      [
+        "settlements",
+        "-24 ( 24 )"
+      ],
+      [
+        "reductions due to lapse of applicable statute of limitations",
+        "-20 ( 20 )"
+      ],
+      [
+        "gross utb balance at december 31 2007",
+        "$ 680"
+      ],
+      [
+        "net utb impacting the effective tax rate at december 31 2007",
+        "$ 334"
+      ]
+    ],
+    "questions": [
+      "in 2007 what was the ratio of the beginning gross unrecognized tax benefits to the ending balance"
+    ]
+  }
+}

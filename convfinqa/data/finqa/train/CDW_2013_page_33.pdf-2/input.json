@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "CDW/2013/page_33.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "."
+    ],
+    "post_text": [
+      "use of proceeds from registered securities on july 2 , 2013 , the company completed an ipo of its common stock in which it issued and sold 23250000 shares of common stock .",
+      "on july 31 , 2013 , the company completed the sale of an additional 3487500 shares of common stock to the underwriters of the ipo pursuant to the underwriters 2019 july 26 , 2013 exercise in full of the overallotment option granted to them in connection with the ipo .",
+      "such shares were registered under the securities act of 1933 , as amended , pursuant to the company 2019s registration statement on form s-1 ( file 333-187472 ) , which was declared effective by the sec on june 26 , 2013 .",
+      "the shares of common stock are listed on the nasdaq global select market under the symbol 201ccdw . 201d the company 2019s shares of common stock were sold to the underwriters at a price of $ 17.00 per share in the ipo and upon the exercise of the overallotment option , which together , generated aggregate net proceeds of $ 424.7 million to the company after deducting $ 29.8 million in underwriting discounts , expenses and transaction costs .",
+      "using a portion of the net proceeds from the ipo ( exclusive of proceeds from the exercise of the overallotment option ) , the company paid a $ 24.4 million termination fee to affiliates of madison dearborn partners , llc and providence equity partners , l.l.c .",
+      "in connection with the termination of the management services agreement with such entities that was effective upon completion of the ipo , redeemed $ 175.0 million aggregate principal amount of senior secured notes due 2018 , and redeemed $ 146.0 million aggregate principal amount of senior subordinated notes due 2017 .",
+      "the redemption price of the senior secured notes due 2018 was 108.0% ( 108.0 % ) of the principal amount redeemed , plus accrued and unpaid interest to the date of redemption .",
+      "the company used cash on hand to pay such accrued and unpaid interest .",
+      "the redemption price of the senior subordinated notes due 2017 was 106.268% ( 106.268 % ) of the principal amount redeemed , plus accrued and unpaid interest to the date of redemption .",
+      "the company used cash on hand to pay such accrued and unpaid interest .",
+      "on october 18 , 2013 , proceeds from the overallotment option exercise of $ 56.0 million and cash on hand were used to redeem $ 155.0 million aggregate principal amount of senior subordinated notes due 2017 .",
+      "the redemption price of the senior subordinated notes due 2017 was 104.178% ( 104.178 % ) of the principal amount redeemed , plus accrued and unpaid interest to the date of redemption .",
+      "the company used cash on hand to pay such redemption premium and accrued and unpaid interest .",
+      "j.p .",
+      "morgan securities llc , barclays capital inc .",
+      "and goldman , sachs & co .",
+      "acted as joint book-running managers of the ipo and as representatives of the underwriters .",
+      "deutsche bank securities inc .",
+      "and morgan stanley & co .",
+      "llc acted as additional book-running managers in the ipo .",
+      "robert w .",
+      "baird & co .",
+      "incorporated , raymond james & associates , inc. , william blair & company , l.l.c. , needham & company , llc , stifel , nicolaus & company , incorporated , loop capital markets llc and the williams capital group , l.p .",
+      "acted as managing underwriters in the ipo. ."
+    ],
+    "table": [
+      [
+        "",
+        "june 27 2013",
+        "december 31 2013"
+      ],
+      [
+        "cdw corp",
+        "$ 100",
+        "$ 138"
+      ],
+      [
+        "s&p midcap 400 index",
+        "100",
+        "118"
+      ],
+      [
+        "cdw peers",
+        "100",
+        "113"
+      ]
+    ],
+    "questions": [
+      "what was the total number of shares issued in the ipo including the sale of the additional shares of common stock to the underwriters of the ipo pursuant to the underwriters 2019 july 26 , 2013 exercise in full of the overallotment option grant?"
+    ]
+  }
+}

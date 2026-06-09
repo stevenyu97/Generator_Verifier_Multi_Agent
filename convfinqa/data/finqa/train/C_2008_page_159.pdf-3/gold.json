@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage of the company 2019s net deferred tax asset attributable to the net u.s . federal dtas",
+      "answer": 0.82022,
+      "answer_raw": "0.82022",
+      "program": "divide(36.5, 44.5)"
+    }
+  ]
+}

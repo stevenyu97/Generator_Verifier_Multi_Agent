@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "PPG/2018/page_54.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "52 2018 ppg annual report and 10-k 1 .",
+      "summary of significant accounting policies principles of consolidation the accompanying consolidated financial statements include the accounts of ppg industries , inc .",
+      "( 201cppg 201d or the 201ccompany 201d ) and all subsidiaries , both u.s .",
+      "and non-u.s. , that it controls .",
+      "ppg owns more than 50% ( 50 % ) of the voting stock of most of the subsidiaries that it controls .",
+      "for those consolidated subsidiaries in which the company 2019s ownership is less than 100% ( 100 % ) , the outside shareholders 2019 interests are shown as noncontrolling interests .",
+      "investments in companies in which ppg owns 20% ( 20 % ) to 50% ( 50 % ) of the voting stock and has the ability to exercise significant influence over operating and financial policies of the investee are accounted for using the equity method of accounting .",
+      "as a result , ppg 2019s share of income or losses from such equity affiliates is included in the consolidated statement of income and ppg 2019s share of these companies 2019 shareholders 2019 equity is included in investments on the consolidated balance sheet .",
+      "transactions between ppg and its subsidiaries are eliminated in consolidation .",
+      "use of estimates in the preparation of financial statements the preparation of financial statements in conformity with u.s .",
+      "generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements , as well as the reported amounts of income and expenses during the reporting period .",
+      "such estimates also include the fair value of assets acquired and liabilities assumed resulting from the allocation of the purchase price related to business combinations consummated .",
+      "actual outcomes could differ from those estimates .",
+      "revenue recognition revenue is recognized as performance obligations with the customer are satisfied , at an amount that is determined to be collectible .",
+      "for the sale of products , this generally occurs at the point in time when control of the company 2019s products transfers to the customer based on the agreed upon shipping terms .",
+      "shipping and handling costs amounts billed to customers for shipping and handling are reported in net sales in the consolidated statement of income .",
+      "shipping and handling costs incurred by the company for the delivery of goods to customers are included in cost of sales , exclusive of depreciation and amortization in the consolidated statement of income .",
+      "selling , general and administrative costs amounts presented in selling , general and administrative in the consolidated statement of income are comprised of selling , customer service , distribution and advertising costs , as well as the costs of providing corporate-wide functional support in such areas as finance , law , human resources and planning .",
+      "distribution costs pertain to the movement and storage of finished goods inventory at company-owned and leased warehouses and other distribution facilities .",
+      "advertising costs advertising costs are expensed as incurred and totaled $ 280 million , $ 313 million and $ 322 million in 2018 , 2017 and 2016 , respectively .",
+      "research and development research and development costs , which consist primarily of employee related costs , are charged to expense as incurred. ."
+    ],
+    "post_text": [
+      "legal costs legal costs , primarily include costs associated with acquisition and divestiture transactions , general litigation , environmental regulation compliance , patent and trademark protection and other general corporate purposes , are charged to expense as incurred .",
+      "income taxes income taxes are accounted for under the asset and liability method .",
+      "deferred tax assets and liabilities are recognized for the future tax consequences attributable to operating losses and tax credit carryforwards as well as differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases .",
+      "the effect on deferred notes to the consolidated financial statements ."
+    ],
+    "table": [
+      [
+        "( $ in millions )",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "research and development 2013 total",
+        "$ 464",
+        "$ 472",
+        "$ 473"
+      ],
+      [
+        "less depreciation on research facilities",
+        "23",
+        "21",
+        "20"
+      ],
+      [
+        "research and development net",
+        "$ 441",
+        "$ 451",
+        "$ 453"
+      ]
+    ],
+    "questions": [
+      "what was the change in research and development net in millions from 2016 to 2017?"
+    ]
+  }
+}

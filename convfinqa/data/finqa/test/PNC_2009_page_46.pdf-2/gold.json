@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "share of total securities rated bbb/baa or below changed by how many percentage point between 2008 and 2009?",
+      "answer": -1.0,
+      "answer_raw": "-1.0",
+      "program": "subtract(2, 3)"
+    }
+  ]
+}

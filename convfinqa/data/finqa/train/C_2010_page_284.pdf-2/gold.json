@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of citigroup 2019s credit commitments as of december 31 , 2010 are u.s.?",
+      "answer": 0.76454,
+      "answer_raw": "0.76454",
+      "program": "divide(722012, 944372)"
+    }
+  ]
+}

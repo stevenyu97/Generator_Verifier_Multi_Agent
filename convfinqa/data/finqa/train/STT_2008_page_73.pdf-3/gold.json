@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2007 , what percent of cross border outstandings were in the united kingdom",
+      "answer": 0.3495,
+      "answer_raw": "0.3495",
+      "program": "divide(5951, 17027)"
+    }
+  ]
+}

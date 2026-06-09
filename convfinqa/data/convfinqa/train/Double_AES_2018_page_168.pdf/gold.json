@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the variation of the unrecognized tax benefits at year end between 2016 and 2017?",
+      "answer": -4.0,
+      "answer_raw": "-4.0",
+      "program": "subtract(348, 352)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this variation as a percentage of those benefits in 2016?",
+      "answer": -0.01136,
+      "answer_raw": "-0.01136",
+      "program": "subtract(348, 352), divide(#0, 352)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and concerning eletropaulo, what was its implied value as of june of the year subsequent to this period, in millions?",
+      "answer": 2000.0,
+      "answer_raw": "2000.0",
+      "program": "divide(340, 17%)"
+    }
+  ]
+}

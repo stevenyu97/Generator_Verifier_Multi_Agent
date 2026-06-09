@@ -1,0 +1,95 @@
+{
+  "input": {
+    "id": "Double_ETFC/2013/page_159.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "fhlb advances and other borrowings fhlb advances 2014the company had $ 0.7 billion in floating-rate and $ 0.2 billion in fixed-rate fhlb advances at both december 31 , 2013 and 2012 .",
+      "the floating-rate advances adjust quarterly based on the libor .",
+      "during the year ended december 31 , 2012 , $ 650.0 million of fixed-rate fhlb advances were converted to floating-rate for a total cost of approximately $ 128 million which was capitalized and will be amortized over the remaining maturities using the effective interest method .",
+      "in addition , during the year ended december 31 , 2012 , the company paid down in advance of maturity $ 1.0 billion of its fhlb advances and recorded $ 69.1 million in losses on the early extinguishment .",
+      "this loss was recorded in the gains ( losses ) on early extinguishment of debt line item in the consolidated statement of income ( loss ) .",
+      "the company did not have any similar transactions for the years ended december 31 , 2013 and 2011 .",
+      "as a condition of its membership in the fhlb atlanta , the company is required to maintain a fhlb stock investment currently equal to the lesser of : a percentage of 0.12% ( 0.12 % ) of total bank assets ; or a dollar cap amount of $ 20 million .",
+      "additionally , the bank must maintain an activity based stock investment which is currently equal to 4.5% ( 4.5 % ) of the bank 2019s outstanding advances at the time of borrowing .",
+      "the company had an investment in fhlb stock of $ 61.4 million and $ 67.4 million at december 31 , 2013 and 2012 , respectively .",
+      "the company must also maintain qualified collateral as a percent of its advances , which varies based on the collateral type , and is further adjusted by the outcome of the most recent annual collateral audit and by fhlb 2019s internal ranking of the bank 2019s creditworthiness .",
+      "these advances are secured by a pool of mortgage loans and mortgage-backed securities .",
+      "at december 31 , 2013 and 2012 , the company pledged loans with a lendable value of $ 3.9 billion and $ 4.8 billion , respectively , of the one- to four-family and home equity loans as collateral in support of both its advances and unused borrowing lines .",
+      "other borrowings 2014prior to 2008 , etbh raised capital through the formation of trusts , which sold trust preferred securities in the capital markets .",
+      "the capital securities must be redeemed in whole at the due date , which is generally 30 years after issuance .",
+      "each trust issued floating rate cumulative preferred securities ( 201ctrust preferred securities 201d ) , at par with a liquidation amount of $ 1000 per capital security .",
+      "the trusts used the proceeds from the sale of issuances to purchase floating rate junior subordinated debentures ( 201csubordinated debentures 201d ) issued by etbh , which guarantees the trust obligations and contributed proceeds from the sale of its subordinated debentures to e*trade bank in the form of a capital contribution .",
+      "the most recent issuance of trust preferred securities occurred in 2007 .",
+      "the face values of outstanding trusts at december 31 , 2013 are shown below ( dollars in thousands ) : trusts face value maturity date annual interest rate ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "trusts",
+        "face value",
+        "maturity date",
+        "annual interest rate"
+      ],
+      [
+        "etbh capital trust ii",
+        "$ 5000",
+        "2031",
+        "10.25% ( 10.25 % )"
+      ],
+      [
+        "etbh capital trust i",
+        "20000",
+        "2031",
+        "3.75% ( 3.75 % ) above 6-month libor"
+      ],
+      [
+        "etbh capital trust v vi viii",
+        "51000",
+        "2032",
+        "3.25%-3.65% ( 3.25%-3.65 % ) above 3-month libor"
+      ],
+      [
+        "etbh capital trust vii ix 2014xii",
+        "65000",
+        "2033",
+        "3.00%-3.30% ( 3.00%-3.30 % ) above 3-month libor"
+      ],
+      [
+        "etbh capital trust xiii 2014xviii xx",
+        "77000",
+        "2034",
+        "2.45%-2.90% ( 2.45%-2.90 % ) above 3-month libor"
+      ],
+      [
+        "etbh capital trust xix xxi xxii",
+        "60000",
+        "2035",
+        "2.20%-2.40% ( 2.20%-2.40 % ) above 3-month libor"
+      ],
+      [
+        "etbh capital trust xxiii 2014xxiv",
+        "45000",
+        "2036",
+        "2.10% ( 2.10 % ) above 3-month libor"
+      ],
+      [
+        "etbh capital trust xxv 2014xxx",
+        "110000",
+        "2037",
+        "1.90%-2.00% ( 1.90%-2.00 % ) above 3-month libor"
+      ],
+      [
+        "total",
+        "$ 433000",
+        "",
+        ""
+      ]
+    ],
+    "questions": [
+      "how much did the company investment in fhlb stock in 2013 represent in relation to the one in 2012?",
+      "and as of december 31 of the last year of this period, how much did the face values of outstanding trusts maturing in 2037 represent in relation to the ones maturing in 2036?"
+    ]
+  }
+}

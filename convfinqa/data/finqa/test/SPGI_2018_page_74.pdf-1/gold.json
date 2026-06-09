@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the pension trust assets for 2017 to 2018",
+      "answer": 1.15663,
+      "answer_raw": "1.15663",
+      "program": "divide(480, 415)"
+    }
+  ]
+}

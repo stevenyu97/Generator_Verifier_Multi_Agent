@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of september 30 ,2014 what was the percent of the total average common and common equivalent shares outstanding 2014 assuming dilution that was dilute share equivalents from share-based plans",
+      "answer": 0.02231,
+      "answer_raw": "0.02231",
+      "program": "divide(4410, 197709)"
+    }
+  ]
+}

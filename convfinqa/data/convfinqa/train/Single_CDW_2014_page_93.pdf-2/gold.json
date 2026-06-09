@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of the value of weighted average diluted shares in 2013 and 2014?",
+      "answer": 331.5,
+      "answer_raw": "331.5",
+      "program": "add(172.8, 158.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total sum including 2012?",
+      "answer": 477.3,
+      "answer_raw": "477.3",
+      "program": "add(172.8, 158.7), add(#0, 145.8)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total sum divided by 3?",
+      "answer": 159.1,
+      "answer_raw": "159.1",
+      "program": "add(172.8, 158.7), add(#0, 145.8), divide(#1, const_3)"
+    }
+  ]
+}

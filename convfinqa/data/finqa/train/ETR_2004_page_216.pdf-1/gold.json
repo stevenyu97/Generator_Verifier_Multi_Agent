@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the the net issuance of long-term debt as a percentage of the decrease in net cash used by financing activities in 2004?",
+      "answer": 0.24233,
+      "answer_raw": "0.24233",
+      "program": "divide(98.0, 404.4)"
+    }
+  ]
+}

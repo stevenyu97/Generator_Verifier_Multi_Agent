@@ -1,0 +1,83 @@
+{
+  "input": {
+    "id": "AAPL/2005/page_83.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements ( continued ) note 6 2014income taxes ( continued ) a reconciliation of the provision for income taxes , with the amount computed by applying the statutory federal income tax rate ( 35% ( 35 % ) in 2005 , 2004 , and 2003 ) to income before provision for income taxes , is as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "during 2005 , the company reversed certain tax contingency reserves and recorded a corresponding benefit to income tax expense primarily as a result of a change in the estimated outcome of certain tax disputes .",
+      "additionally , during the fourth quarter of 2005 , the company recorded a benefit to tax expense to adjust its net deferred tax assets as a result of the company 2019s year-end review of its deferred tax accounts , the impact of which was not material to the current or prior periods 2019 results of operations .",
+      "the total benefit to income tax expense from the reversal of these tax contingency reserves and adjustments to net deferred tax assets was $ 67 million .",
+      "the company also recorded a $ 14 million credit to income tax expense resulting from a reduction of the valuation allowance .",
+      "the internal revenue service ( irs ) has completed its field audit of the company 2019s federal income tax returns for all years prior to 2002 and proposed certain adjustments .",
+      "certain of these adjustments are being contested through the irs appeals office .",
+      "substantially all irs audit issues for these years have been resolved .",
+      "in addition , the company is also subject to audits by state , local , and foreign tax authorities .",
+      "management believes that adequate provisions have been made for any adjustments that may result from tax examinations .",
+      "however , the outcome of tax audits cannot be predicted with certainty .",
+      "should any issues addressed in the company 2019s tax audits be resolved in a manner not consistent with management 2019s expectations , the company could be required to adjust its provision for income tax in the period such resolution occurs .",
+      "note 7 2014shareholders 2019 equity preferred stock the company has 5 million shares of authorized preferred stock , none of which is outstanding .",
+      "under the terms of the company 2019s restated articles of incorporation , the board of directors is authorized to determine or alter the rights , preferences , privileges and restrictions of the company 2019s authorized but unissued shares of preferred stock. ."
+    ],
+    "table": [
+      [
+        "",
+        "2005",
+        "2004",
+        "2003"
+      ],
+      [
+        "computed expected tax",
+        "$ 636",
+        "$ 134",
+        "$ 32"
+      ],
+      [
+        "state taxes net of federal effect",
+        "-19 ( 19 )",
+        "-5 ( 5 )",
+        "-4 ( 4 )"
+      ],
+      [
+        "indefinitely invested earnings of foreign subsidiaries",
+        "-98 ( 98 )",
+        "-31 ( 31 )",
+        "-13 ( 13 )"
+      ],
+      [
+        "nondeductible executive compensation",
+        "11",
+        "10",
+        "5"
+      ],
+      [
+        "research and development credit net",
+        "-26 ( 26 )",
+        "-5 ( 5 )",
+        "-7 ( 7 )"
+      ],
+      [
+        "other items",
+        "-24 ( 24 )",
+        "4",
+        "11"
+      ],
+      [
+        "provision for income taxes",
+        "$ 480",
+        "$ 107",
+        "$ 24"
+      ],
+      [
+        "effective tax rate",
+        "26% ( 26 % )",
+        "28% ( 28 % )",
+        "26% ( 26 % )"
+      ]
+    ],
+    "questions": [
+      "what was the average effective tax rate for the three year period?"
+    ]
+  }
+}

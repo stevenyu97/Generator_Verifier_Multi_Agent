@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "AMT/2006/page_107.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements 2014 ( continued ) future minimum rental receipts expected from customers under non-cancelable operating lease agreements in effect at december 31 , 2006 are as follows ( in thousands ) : year ending december 31 ."
+    ],
+    "post_text": [
+      "legal and governmental proceedings related to review of stock option granting practices and related accounting 2014on may 18 , 2006 , the company received a letter of informal inquiry from the sec division of enforcement requesting documents related to company stock option grants and stock option practices .",
+      "the inquiry is focused on stock options granted to senior management and members of the company 2019s board of directors during the period 1997 to the present .",
+      "the company continues to cooperate with the sec to provide the requested information and documents .",
+      "on may 19 , 2006 , the company received a subpoena from the united states attorney 2019s office for the eastern district of new york for records and information relating to its stock option granting practices .",
+      "the subpoena requests materials related to certain stock options granted between 1995 and the present .",
+      "the company continues to cooperate with the u.s .",
+      "attorney 2019s office to provide the requested information and documents .",
+      "on may 26 , 2006 , a securities class action was filed in united states district court for the district of massachusetts against the company and certain of its current officers by john s .",
+      "greenebaum for monetary relief .",
+      "specifically , the complaint names the company , james d .",
+      "taiclet , jr .",
+      "and bradley e .",
+      "singer as defendants and alleges that the defendants violated federal securities laws in connection with public statements made relating to the company 2019s stock option practices and related accounting .",
+      "the complaint asserts claims under sections 10 ( b ) and 20 ( a ) of the securities exchange act of 1934 , as amended ( exchange act ) and sec rule 10b-5 .",
+      "in december 2006 , the court appointed the steamship trade association-international longshoreman 2019s association pension fund as the lead plaintiff .",
+      "on may 24 , 2006 and june 14 , 2006 , two shareholder derivative lawsuits were filed in suffolk county superior court in massachusetts by eric johnston and robert l .",
+      "garber , respectively .",
+      "the lawsuits were filed against certain of the company 2019s current and former officers and directors for alleged breaches of fiduciary duties and unjust enrichment in connection with the company 2019s stock option granting practices .",
+      "the lawsuits also name the company as a nominal defendant .",
+      "the lawsuits seek to recover the damages sustained by the company and disgorgement of all profits received with respect to the alleged backdated stock options .",
+      "in october 2006 , these two lawsuits were consolidated and transferred to the court 2019s business litigation session .",
+      "on june 13 , 2006 , june 22 , 2006 and august 23 , 2006 , three shareholder derivative lawsuits were filed in united states district court for the district of massachusetts by new south wales treasury corporation , as trustee for the alpha international managers trust , frank c .",
+      "kalil and don holland , and leslie cramer , respectively .",
+      "the lawsuits were filed against certain of the company 2019s current and former officers and directors for alleged breaches of fiduciary duties , waste of corporate assets , gross mismanagement and unjust enrichment in connection with the company 2019s stock option granting practices .",
+      "the lawsuits also name the company as a nominal defendant .",
+      "in december 2006 , the court consolidated these three lawsuits and appointed new south wales treasury corporation as the lead plaintiff .",
+      "on february 9 , 2007 , the plaintiffs filed a consolidated ."
+    ],
+    "table": [
+      [
+        "2007",
+        "$ 1131677"
+      ],
+      [
+        "2008",
+        "1127051"
+      ],
+      [
+        "2009",
+        "1091778"
+      ],
+      [
+        "2010",
+        "959828"
+      ],
+      [
+        "2011",
+        "769028"
+      ],
+      [
+        "thereafter",
+        "2305040"
+      ],
+      [
+        "total",
+        "$ 7384402"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the total future minimum rental receipts expected from customers under non-cancelable that was due in 2008"
+    ]
+  }
+}

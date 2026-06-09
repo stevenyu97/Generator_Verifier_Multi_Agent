@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "during 2013 , what was the decline in net sales in disco?",
+      "answer": -0.93602,
+      "answer_raw": "-0.93602",
+      "program": "subtract(108, 1688), divide(#0, 1688)"
+    }
+  ]
+}

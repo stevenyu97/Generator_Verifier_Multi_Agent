@@ -1,0 +1,107 @@
+{
+  "input": {
+    "id": "INTC/2017/page_46.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "contractual obligations significant contractual obligations as of december 30 , 2017 were as follows: ."
+    ],
+    "post_text": [
+      "capital purchase obligations1 12068 9689 2266 113 2014 other purchase obligations and commitments2 2692 1577 1040 55 20 tax obligations3 6120 490 979 979 3672 long-term debt obligations4 42278 1495 5377 8489 26917 other long-term liabilities5 1544 799 422 190 133 total6 $ 65947 $ 14265 $ 10432 $ 10067 $ 31183 1 capital purchase obligations represent commitments for the construction or purchase of property , plant and equipment .",
+      "they were not recorded as liabilities on our consolidated balance sheets as of december 30 , 2017 , as we had not yet received the related goods nor taken title to the property .",
+      "2 other purchase obligations and commitments include payments due under various types of licenses and agreements to purchase goods or services , as well as payments due under non-contingent funding obligations .",
+      "3 tax obligations represent the future cash payments related to tax reform enacted in 2017 for the one-time provisional transition tax on our previously untaxed foreign earnings .",
+      "for further information , see 201cnote 8 : income taxes 201d within the consolidated financial statements .",
+      "4 amounts represent principal and interest cash payments over the life of the debt obligations , including anticipated interest payments that are not recorded on our consolidated balance sheets .",
+      "debt obligations are classified based on their stated maturity date , regardless of their classification on the consolidated balance sheets .",
+      "any future settlement of convertible debt would impact our cash payments .",
+      "5 amounts represent future cash payments to satisfy other long-term liabilities recorded on our consolidated balance sheets , including the short-term portion of these long-term liabilities .",
+      "derivative instruments are excluded from the preceding table , as they do not represent the amounts that may ultimately be paid .",
+      "6 total excludes contractual obligations already recorded on our consolidated balance sheets as current liabilities , except for the short-term portions of long-term debt obligations and other long-term liabilities .",
+      "the expected timing of payments of the obligations in the preceding table is estimated based on current information .",
+      "timing of payments and actual amounts paid may be different , depending on the time of receipt of goods or services , or changes to agreed- upon amounts for some obligations .",
+      "contractual obligations for purchases of goods or services included in 201cother purchase obligations and commitments 201d in the preceding table include agreements that are enforceable and legally binding on intel and that specify all significant terms , including fixed or minimum quantities to be purchased ; fixed , minimum , or variable price provisions ; and the approximate timing of the transaction .",
+      "for obligations with cancellation provisions , the amounts included in the preceding table were limited to the non-cancelable portion of the agreement terms or the minimum cancellation fee .",
+      "for the purchase of raw materials , we have entered into certain agreements that specify minimum prices and quantities based on a percentage of the total available market or based on a percentage of our future purchasing requirements .",
+      "due to the uncertainty of the future market and our future purchasing requirements , as well as the non-binding nature of these agreements , obligations under these agreements have been excluded from the preceding table .",
+      "our purchase orders for other products are based on our current manufacturing needs and are fulfilled by our vendors within short time horizons .",
+      "in addition , some of our purchase orders represent authorizations to purchase rather than binding agreements .",
+      "contractual obligations that are contingent upon the achievement of certain milestones have been excluded from the preceding table .",
+      "most of our milestone-based contracts are tooling related for the purchase of capital equipment .",
+      "these arrangements are not considered contractual obligations until the milestone is met by the counterparty .",
+      "as of december 30 , 2017 , assuming that all future milestones are met , the additional required payments would be approximately $ 2.0 billion .",
+      "for the majority of restricted stock units ( rsus ) granted , the number of shares of common stock issued on the date the rsus vest is net of the minimum statutory withholding requirements that we pay in cash to the appropriate taxing authorities on behalf of our employees .",
+      "the obligation to pay the relevant taxing authority is excluded from the preceding table , as the amount is contingent upon continued employment .",
+      "in addition , the amount of the obligation is unknown , as it is based in part on the market price of our common stock when the awards vest .",
+      "md&a - results of operations consolidated results and analysis 38 ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "payments due by period total",
+        "payments due by period less than1 year",
+        "payments due by period 1 20133 years",
+        "payments due by period 3 20135 years",
+        "payments due by period more than5 years"
+      ],
+      [
+        "operating lease obligations",
+        "$ 1245",
+        "$ 215",
+        "$ 348",
+        "$ 241",
+        "$ 441"
+      ],
+      [
+        "capital purchase obligations1",
+        "12068",
+        "9689",
+        "2266",
+        "113",
+        "2014"
+      ],
+      [
+        "other purchase obligations and commitments2",
+        "2692",
+        "1577",
+        "1040",
+        "55",
+        "20"
+      ],
+      [
+        "tax obligations3",
+        "6120",
+        "490",
+        "979",
+        "979",
+        "3672"
+      ],
+      [
+        "long-term debt obligations4",
+        "42278",
+        "1495",
+        "5377",
+        "8489",
+        "26917"
+      ],
+      [
+        "other long-term liabilities5",
+        "1544",
+        "799",
+        "422",
+        "190",
+        "133"
+      ],
+      [
+        "total6",
+        "$ 65947",
+        "$ 14265",
+        "$ 10432",
+        "$ 10067",
+        "$ 31183"
+      ]
+    ],
+    "questions": [
+      "what percentage of total contractual obligations do capital purchase obligations make up as of december 30 2017?"
+    ]
+  }
+}

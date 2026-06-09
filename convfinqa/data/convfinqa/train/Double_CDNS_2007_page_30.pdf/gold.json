@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the fluctuation of the value of the cadence design system from 2006 to 2007?",
+      "answer": -7.22,
+      "answer_raw": "-7.22",
+      "program": "subtract(139.82, 147.04)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that fluctuation as a portion of the value of that stock in 2006?",
+      "answer": -0.0491,
+      "answer_raw": "-0.0491",
+      "program": "subtract(139.82, 147.04), divide(#0, 147.04)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "in that same period, what was that fluctuation for the s&p500?",
+      "answer": 9.53,
+      "answer_raw": "9.53",
+      "program": "subtract(182.87, 173.34)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much did this fluctuation represent in relation to the 2006 value of this stock?",
+      "answer": 0.05498,
+      "answer_raw": "0.05498",
+      "program": "subtract(182.87, 173.34), divide(#0, 173.34)"
+    }
+  ]
+}

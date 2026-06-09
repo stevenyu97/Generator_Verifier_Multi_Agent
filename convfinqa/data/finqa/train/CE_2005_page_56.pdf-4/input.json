@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "CE/2005/page_56.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "item 4 .",
+      "submission of matters to a vote of security holders no matters were submitted to a vote of security holders during the fourth quarter of 2005 .",
+      "part ii item 5 .",
+      "market for the registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities market information our series a common stock has traded on the new york stock exchange under the symbol 2018 2018ce 2019 2019 since january 21 , 2005 .",
+      "the closing sale price of our series a common stock , as reported by the new york stock exchange , on march 6 , 2006 was $ 20.98 .",
+      "the following table sets forth the high and low intraday sales prices per share of our common stock , as reported by the new york stock exchange , for the periods indicated. ."
+    ],
+    "post_text": [
+      "holders no shares of celanese 2019s series b common stock are issued and outstanding .",
+      "as of march 6 , 2006 , there were 51 holders of record of our series a common stock , and one holder of record of our perpetual preferred stock .",
+      "by including persons holding shares in broker accounts under street names , however , we estimate our shareholder base to be approximately 6800 as of march 6 , 2006 .",
+      "dividend policy in july 2005 , our board of directors adopted a policy of declaring , subject to legally available funds , a quarterly cash dividend on each share of our common stock at an annual rate initially equal to approximately 1% ( 1 % ) of the $ 16 price per share in the initial public offering of our series a common stock ( or $ 0.16 per share ) unless our board of directors , in its sole discretion , determines otherwise , commencing the second quarter of 2005 .",
+      "pursuant to this policy , the company paid the quarterly dividends of $ 0.04 per share on august 11 , 2005 , november 1 , 2005 and february 1 , 2006 .",
+      "based on the number of outstanding shares of our series a common stock , the anticipated annual cash dividend is approximately $ 25 million .",
+      "however , there is no assurance that sufficient cash will be available in the future to pay such dividend .",
+      "further , such dividends payable to holders of our series a common stock cannot be declared or paid nor can any funds be set aside for the payment thereof , unless we have paid or set aside funds for the payment of all accumulated and unpaid dividends with respect to the shares of our preferred stock , as described below .",
+      "our board of directors may , at any time , modify or revoke our dividend policy on our series a common stock .",
+      "we are required under the terms of the preferred stock to pay scheduled quarterly dividends , subject to legally available funds .",
+      "for so long as the preferred stock remains outstanding , ( 1 ) we will not declare , pay or set apart funds for the payment of any dividend or other distribution with respect to any junior stock or parity stock and ( 2 ) neither we , nor any of our subsidiaries , will , subject to certain exceptions , redeem , purchase or otherwise acquire for consideration junior stock or parity stock through a sinking fund or otherwise , in each case unless we have paid or set apart funds for the payment of all accumulated and unpaid dividends with respect to the shares of preferred stock and any parity stock for all preceding dividend periods .",
+      "pursuant to this policy , the company paid the quarterly dividends of $ 0.265625 on its 4.25% ( 4.25 % ) convertible perpetual preferred stock on august 1 , 2005 , november 1 , 2005 and february 1 , 2006 .",
+      "the anticipated annual cash dividend is approximately $ 10 million. ."
+    ],
+    "table": [
+      [
+        "2005",
+        "pricerange high",
+        "pricerange low"
+      ],
+      [
+        "quarterended march 312005",
+        "$ 18.65",
+        "$ 15.10"
+      ],
+      [
+        "quarter endedjune 302005",
+        "$ 18.16",
+        "$ 13.54"
+      ],
+      [
+        "quarter endedseptember 30 2005",
+        "$ 20.06",
+        "$ 15.88"
+      ],
+      [
+        "quarter endeddecember 312005",
+        "$ 19.76",
+        "$ 15.58"
+      ]
+    ],
+    "questions": [
+      "what is the estimated number of shares of series a common stock based on the approximate cash dividend in millions"
+    ]
+  }
+}

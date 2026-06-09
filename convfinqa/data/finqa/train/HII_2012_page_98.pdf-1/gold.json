@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many years of tax examination is the company subject to in virginia?",
+      "answer": 6.0,
+      "answer_raw": "6.0",
+      "program": "subtract(2012, 2006)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "compared to the s&p 500 ,what was the difference in percentage growth from the s&p 500 retail index .",
+      "answer": 0.7446,
+      "answer_raw": "0.7446",
+      "program": "subtract(211.67, 100), divide(#0, 100), subtract(286.13, 100), divide(#2, 100), subtract(#3, #1)"
+    }
+  ]
+}

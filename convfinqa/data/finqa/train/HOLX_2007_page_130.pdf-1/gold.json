@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would be the net profit margin if the acquisitions occurred at the beginning of fiscal 2006?",
+      "answer": 0.05464,
+      "answer_raw": "0.05464",
+      "program": "divide(28649, 524340)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the years 2018-2019 , what is the decrease observed in the pension expenses?",
+      "answer": 64.2,
+      "answer_raw": "64.2",
+      "program": "subtract(91.8, 27.6)"
+    }
+  ]
+}

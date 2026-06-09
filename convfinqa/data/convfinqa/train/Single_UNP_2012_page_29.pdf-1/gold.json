@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in equipment and other rents expense between 2011 and 2012?",
+      "answer": 30.0,
+      "answer_raw": "30.0",
+      "program": "subtract(1197, 1167)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the total operating expenses for 2012?",
+      "answer": 14181.0,
+      "answer_raw": "14181.0",
+      "program": "14181"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and in 2011?",
+      "answer": 13833.0,
+      "answer_raw": "13833.0",
+      "program": "13833"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "so what was the difference between these two years?",
+      "answer": 348.0,
+      "answer_raw": "348.0",
+      "program": "subtract(1197, 1167), subtract(14181, 13833)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so then what percent was the change in equipment and other rents compared to the change in total expense?",
+      "answer": 0.08621,
+      "answer_raw": "0.08621",
+      "program": "subtract(1197, 1167), subtract(14181, 13833), divide(#0, #1)"
+    }
+  ]
+}

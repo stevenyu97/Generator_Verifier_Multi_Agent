@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total liability assumed from accelio was reported as current liabilities?",
+      "answer": 0.49483,
+      "answer_raw": "0.49483",
+      "program": "divide(18176, 36732)"
+    }
+  ]
+}

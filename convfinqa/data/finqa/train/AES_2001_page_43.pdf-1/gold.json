@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was the caribbean segment revenue increase greater than the south american growth ?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(296, 89)"
+    }
+  ]
+}

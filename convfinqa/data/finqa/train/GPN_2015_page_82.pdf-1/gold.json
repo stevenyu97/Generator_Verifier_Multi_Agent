@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the effective income tax rate which generated the income tax benefit from the share-based expense in 2015?",
+      "answer": 0.32701,
+      "answer_raw": "0.32701",
+      "program": "divide(6.9, 21.1)"
+    }
+  ]
+}

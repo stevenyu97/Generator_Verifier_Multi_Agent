@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the operating margin in 2014?",
+      "answer": 0.114,
+      "answer_raw": "0.114",
+      "program": "11.4%"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2013?",
+      "answer": 0.078,
+      "answer_raw": "0.078",
+      "program": "7.8%"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 0.036,
+      "answer_raw": "0.036",
+      "program": "subtract(11.4%, 7.8%)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is this change numerically, or as a percentage of one?",
+      "answer": 3.6,
+      "answer_raw": "3.6",
+      "program": "subtract(11.4%, 7.8%), multiply(#0, const_100)"
+    }
+  ]
+}

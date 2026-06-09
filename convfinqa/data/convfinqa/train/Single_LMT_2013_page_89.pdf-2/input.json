@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "Single_LMT/2013/page_89.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "note 12 2013 stock-based compensation during 2013 , 2012 , and 2011 , we recorded non-cash stock-based compensation expense totaling $ 189 million , $ 167 million , and $ 157 million , which is included as a component of other unallocated costs on our statements of earnings .",
+      "the net impact to earnings for the respective years was $ 122 million , $ 108 million , and $ 101 million .",
+      "as of december 31 , 2013 , we had $ 132 million of unrecognized compensation cost related to nonvested awards , which is expected to be recognized over a weighted average period of 1.5 years .",
+      "we received cash from the exercise of stock options totaling $ 827 million , $ 440 million , and $ 116 million during 2013 , 2012 , and 2011 .",
+      "in addition , our income tax liabilities for 2013 , 2012 , and 2011 were reduced by $ 158 million , $ 96 million , and $ 56 million due to recognized tax benefits on stock-based compensation arrangements .",
+      "stock-based compensation plans under plans approved by our stockholders , we are authorized to grant key employees stock-based incentive awards , including options to purchase common stock , stock appreciation rights , restricted stock units ( rsus ) , performance stock units ( psus ) , or other stock units .",
+      "the exercise price of options to purchase common stock may not be less than the fair market value of our stock on the date of grant .",
+      "no award of stock options may become fully vested prior to the third anniversary of the grant , and no portion of a stock option grant may become vested in less than one year .",
+      "the minimum vesting period for restricted stock or stock units payable in stock is three years .",
+      "award agreements may provide for shorter or pro-rated vesting periods or vesting following termination of employment in the case of death , disability , divestiture , retirement , change of control , or layoff .",
+      "the maximum term of a stock option or any other award is 10 years .",
+      "at december 31 , 2013 , inclusive of the shares reserved for outstanding stock options , rsus and psus , we had 20.4 million shares reserved for issuance under the plans .",
+      "at december 31 , 2013 , 4.7 million of the shares reserved for issuance remained available for grant under our stock-based compensation plans .",
+      "we issue new shares upon the exercise of stock options or when restrictions on rsus and psus have been satisfied .",
+      "the following table summarizes activity related to nonvested rsus during 2013 : number of rsus ( in thousands ) weighted average grant-date fair value per share ."
+    ],
+    "post_text": [
+      "rsus are valued based on the fair value of our common stock on the date of grant .",
+      "employees who are granted rsus receive the right to receive shares of stock after completion of the vesting period , however , the shares are not issued , and the employees cannot sell or transfer shares prior to vesting and have no voting rights until the rsus vest , generally three years from the date of the award .",
+      "employees who are granted rsus receive dividend-equivalent cash payments only upon vesting .",
+      "for these rsu awards , the grant-date fair value is equal to the closing market price of our common stock on the date of grant less a discount to reflect the delay in payment of dividend-equivalent cash payments .",
+      "we recognize the grant-date fair value of rsus , less estimated forfeitures , as compensation expense ratably over the requisite service period , which beginning with the rsus granted in 2013 is shorter than the vesting period if the employee is retirement eligible on the date of grant or will become retirement eligible before the end of the vesting period .",
+      "stock options we generally recognize compensation cost for stock options ratably over the three-year vesting period .",
+      "at december 31 , 2013 and 2012 , there were 10.2 million ( weighted average exercise price of $ 83.65 ) and 20.6 million ( weighted average exercise price of $ 83.15 ) stock options outstanding .",
+      "stock options outstanding at december 31 , 2013 have a weighted average remaining contractual life of approximately five years and an aggregate intrinsic value of $ 663 million , and we expect nearly all of these stock options to vest .",
+      "of the stock options outstanding , 7.7 million ( weighted average exercise price of $ 84.37 ) have vested as of december 31 , 2013 and those stock options have a weighted average remaining contractual life of approximately four years and an aggregate intrinsic value of $ 497 million .",
+      "there were 10.1 million ( weighted average exercise price of $ 82.72 ) stock options exercised during 2013 .",
+      "we did not grant stock options to employees during 2013. ."
+    ],
+    "table": [
+      [
+        "",
+        "number of rsus ( in thousands )",
+        "weighted average grant-date fair value pershare"
+      ],
+      [
+        "nonvested at december 31 2012",
+        "4822",
+        "$ 79.10"
+      ],
+      [
+        "granted",
+        "1356",
+        "89.24"
+      ],
+      [
+        "vested",
+        "-2093 ( 2093 )",
+        "79.26"
+      ],
+      [
+        "forfeited",
+        "-226 ( 226 )",
+        "81.74"
+      ],
+      [
+        "nonvested at december 31 2013",
+        "3859",
+        "$ 82.42"
+      ]
+    ],
+    "questions": [
+      "what was the value of nonvested rsus at the end of 2013?",
+      "what was the value at the start?",
+      "what was the net change in value?",
+      "what is the percent change?"
+    ]
+  }
+}

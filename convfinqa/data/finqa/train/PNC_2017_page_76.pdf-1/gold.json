@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "2017 ending total liquid assets were what percent of total senior and subordinated debt?",
+      "answer": 2.72072,
+      "answer_raw": "2.72072",
+      "program": "divide(90.6, 33.3)"
+    }
+  ]
+}

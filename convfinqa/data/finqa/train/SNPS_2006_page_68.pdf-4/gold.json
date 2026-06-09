@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of customer relationships among the total intangible assets?",
+      "answer": 0.16,
+      "answer_raw": "0.16",
+      "program": "divide(0.4, 2.5)"
+    }
+  ]
+}

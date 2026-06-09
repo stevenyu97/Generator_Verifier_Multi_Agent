@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio in the future maturities of debt aggregate maturities from 2013 to 2012",
+      "answer": 29.66667,
+      "answer_raw": "29.66667",
+      "program": "divide(1139.2, 38.4)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of 2007 net revenue did the amortization of purchase power account for?",
+      "answer": 0.02719,
+      "answer_raw": "0.02719",
+      "program": "divide(50, 1839)"
+    }
+  ]
+}

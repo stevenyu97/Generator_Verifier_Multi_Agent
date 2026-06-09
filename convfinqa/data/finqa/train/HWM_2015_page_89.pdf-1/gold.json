@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of dollars obtained with the sale of primary aluminum in 2015?",
+      "answer": 5031.9,
+      "answer_raw": "5031.9",
+      "program": "multiply(90%, 5591)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in millions of total other earnings from 2008 to 2009?",
+      "answer": 13.0,
+      "answer_raw": "13.0",
+      "program": "subtract(178, 165)"
+    }
+  ]
+}

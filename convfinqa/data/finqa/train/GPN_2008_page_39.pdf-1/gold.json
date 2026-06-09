@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in a slight recession of the overall market , what percentage did the stock price of global payments change?",
+      "answer": 43.23,
+      "answer_raw": "43.23",
+      "program": "subtract(281.27, 238.04)"
+    }
+  ]
+}

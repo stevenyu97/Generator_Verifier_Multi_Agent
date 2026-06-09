@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in pre-tax earnings in 2018?",
+      "answer": 0.11255,
+      "answer_raw": "0.11255",
+      "program": "subtract(4211, 3785), divide(#0, 3785)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions for 2013 , what were net trading assets 2013 debt and equity instruments?",
+      "answer": 262743.0,
+      "answer_raw": "262743.0",
+      "program": "subtract(340449, 77706)"
+    }
+  ]
+}

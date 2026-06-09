@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in securities processing between 2006 and 2008?",
+      "answer": 150.0,
+      "answer_raw": "150.0",
+      "program": "subtract(187, 37)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the specific value for 2006?",
+      "answer": 37.0,
+      "answer_raw": "37.0",
+      "program": "37"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the percentage increase during this time?",
+      "answer": 4.05405,
+      "answer_raw": "4.05405",
+      "program": "subtract(187, 37), divide(#0, 37)"
+    }
+  ]
+}

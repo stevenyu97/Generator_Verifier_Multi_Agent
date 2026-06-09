@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "PNC/2007/page_107.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "portion of their plan account invested in shares of pnc common stock into other investments available within the plan .",
+      "prior to this amendment , only participants age 50 or older were permitted to exercise this diversification option .",
+      "employee benefits expense related to this plan was $ 52 million in 2007 , $ 52 million in 2006 and $ 47 million in 2005 .",
+      "we measured employee benefits expense as the fair value of the shares and cash contributed to the plan by pnc .",
+      "hilliard lyons sponsors a contributory , qualified defined contribution plan that covers substantially all of its employees who are not covered by the plan described above .",
+      "contributions to this plan are made in cash and include a base contribution for those participants employed at december 31 , a matching of employee contributions , and a discretionary profit sharing contribution as determined by hilliard lyons 2019 executive compensation committee .",
+      "employee benefits expense for this plan was $ 6 million in 2007 , $ 5 million in 2006 and $ 6 million in 2005 .",
+      "see note 2 acquisitions and divestitures regarding our pending sale of hilliard lyons .",
+      "we have a separate qualified defined contribution plan that covers substantially all us-based pfpc employees not covered by our plan .",
+      "the plan is a 401 ( k ) plan and includes an esop feature .",
+      "under this plan , employee contributions of up to 6% ( 6 % ) of eligible compensation as defined by the plan may be matched annually based on pfpc performance levels .",
+      "participants must be employed as of december 31 of each year to receive this annual contribution .",
+      "the performance- based employer matching contribution will be made primarily in shares of pnc common stock held in treasury , except in the case of those participants who have exercised their diversification election rights to have their matching portion in other investments available within the plan .",
+      "mandatory employer contributions to this plan are made in cash and include employer basic and transitional contributions .",
+      "employee-directed contributions are invested in a number of investment options available under the plan , including a pnc common stock fund and several blackrock mutual funds , at the direction of the employee .",
+      "effective november 22 , 2005 , we amended the plan to provide all participants the ability to diversify the matching portion of their plan account invested in shares of pnc common stock into other investments available within the plan .",
+      "prior to this amendment , only participants age 50 or older were permitted to exercise this diversification option .",
+      "employee benefits expense for this plan was $ 10 million in 2007 , $ 9 million in 2006 and $ 12 million in 2005 .",
+      "we measured employee benefits expense as the fair value of the shares and cash contributed to the plan .",
+      "we also maintain a nonqualified supplemental savings plan for certain employees .",
+      "note 18 stock-based compensation we have long-term incentive award plans ( 201cincentive plans 201d ) that provide for the granting of incentive stock options , nonqualified stock options , stock appreciation rights , incentive shares/performance units , restricted stock , restricted share units , other share-based awards and dollar-denominated awards to executives and , other than incentive stock options , to non-employee directors .",
+      "certain incentive plan awards may be paid in stock , cash or a combination of stock and cash .",
+      "we grant a substantial portion of our stock-based compensation awards during the first quarter of the year .",
+      "as of december 31 , 2007 , no incentive stock options or stock appreciation rights were outstanding .",
+      "nonqualified stock options options are granted at exercise prices not less than the market value of common stock on the grant date .",
+      "generally , options granted since 1999 become exercisable in installments after the grant date .",
+      "options granted prior to 1999 are mainly exercisable 12 months after the grant date .",
+      "no option may be exercisable after 10 years from its grant date .",
+      "payment of the option exercise price may be in cash or shares of common stock at market value on the exercise date .",
+      "the exercise price may be paid in previously owned shares .",
+      "generally , options granted under the incentive plans vest ratably over a three-year period as long as the grantee remains an employee or , in certain cases , retires from pnc .",
+      "for all options granted prior to the adoption of sfas 123r , we recognized compensation expense over the three-year vesting period .",
+      "if an employee retired prior to the end of the three- year vesting period , we accelerated the expensing of all unrecognized compensation costs at the retirement date .",
+      "as required under sfas 123r , we recognize compensation expense for options granted to retirement-eligible employees after january 1 , 2006 in the period granted , in accordance with the service period provisions of the options .",
+      "a summary of stock option activity follows: ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "options outstanding atdecember 31shares in thousands",
+        "per option exercise price",
+        "per option weighted- average exercise price",
+        "shares"
+      ],
+      [
+        "december 31 2006",
+        "$ 37.43 2013 $ 76.00",
+        "$ 59.29",
+        "14950"
+      ],
+      [
+        "granted",
+        "68.06 2013 76.23",
+        "72.95",
+        "2170"
+      ],
+      [
+        "exercised",
+        "37.43 2013 74.59",
+        "54.34",
+        "-2625 ( 2625 )"
+      ],
+      [
+        "cancelled",
+        "38.17 2013 75.85",
+        "69.15",
+        "-169 ( 169 )"
+      ],
+      [
+        "december 31 2007",
+        "$ 37.43 2013 $ 76.23",
+        "$ 62.15",
+        "14326"
+      ]
+    ],
+    "questions": [
+      "what was the net change in weighted average exercise price for 2007?"
+    ]
+  }
+}

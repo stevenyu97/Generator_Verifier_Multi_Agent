@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was interest income greater than stock-based compensation cost in 2010?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(34, 52)"
+    }
+  ]
+}

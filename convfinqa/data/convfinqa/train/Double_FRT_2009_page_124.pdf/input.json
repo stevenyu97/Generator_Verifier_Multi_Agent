@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "Double_FRT/2009/page_124.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "federal realty investment trust schedule iii summary of real estate and accumulated depreciation 2014continued three years ended december 31 , 2009 reconciliation of accumulated depreciation and amortization ( in thousands ) ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "balance december 31 2006",
+        "$ 740507"
+      ],
+      [
+        "additions during period 2014depreciation and amortization expense",
+        "96454"
+      ],
+      [
+        "deductions during period 2014disposition and retirements of property",
+        "-80258 ( 80258 )"
+      ],
+      [
+        "balance december 31 2007",
+        "756703"
+      ],
+      [
+        "additions during period 2014depreciation and amortization expense",
+        "101321"
+      ],
+      [
+        "deductions during period 2014disposition and retirements of property",
+        "-11766 ( 11766 )"
+      ],
+      [
+        "balance december 31 2008",
+        "846258"
+      ],
+      [
+        "additions during period 2014depreciation and amortization expense",
+        "103.698"
+      ],
+      [
+        "deductions during period 2014disposition and retirements of property",
+        "-11869 ( 11869 )"
+      ],
+      [
+        "balance december 31 2009",
+        "$ 938087"
+      ]
+    ],
+    "questions": [
+      "for the years of 2006 and 2007, what was the combined total of additions, in thousands?",
+      "and what were those additions in 2008?",
+      "including, then, 2008, what becomes that total of additions?",
+      "and what was the average between the three years?",
+      "and only between the years of 2007 and 2008, what was the change in the deductions?",
+      "what is this change as a percentage of those deductions in 2007?"
+    ]
+  }
+}

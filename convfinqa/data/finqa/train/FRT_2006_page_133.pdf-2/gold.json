@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average of the deductions during the period of 2003-2006?",
+      "answer": 9813.66667,
+      "answer_raw": "9813.66667",
+      "program": "add(1390, 15244), add(#0, 12807), divide(#1, const_3)"
+    }
+  ]
+}

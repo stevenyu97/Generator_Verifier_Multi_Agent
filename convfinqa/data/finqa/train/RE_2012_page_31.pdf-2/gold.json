@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the year ended december 312011 what was the percent of the incurred but not reported reserves as part of the total",
+      "answer": 0.43919,
+      "answer_raw": "0.43919",
+      "program": "divide(210.9, 480.2)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in wti oil prices from 2016 to 2017?",
+      "answer": 0.17348,
+      "answer_raw": "0.17348",
+      "program": "subtract(50.80, 43.29), divide(#0, 43.29)"
+    }
+  ]
+}

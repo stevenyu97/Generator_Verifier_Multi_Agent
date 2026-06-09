@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the allowance for borrowed funds used during construction as a percentage of allowance for other funds used during construction in 2015?",
+      "answer": 0.61538,
+      "answer_raw": "0.61538",
+      "program": "divide(8, 13)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the change in allowance for other funds used during construction between 2013 and 2014?",
+      "answer": -4.0,
+      "answer_raw": "-4.0",
+      "program": "subtract(const_9, 13)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the percentage change of this value?",
+      "answer": -0.44444,
+      "answer_raw": "-0.44444",
+      "program": "subtract(const_9, 13), divide(#0, const_9)"
+    }
+  ]
+}

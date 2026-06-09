@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the amount of shares authorized for repurchase between 2014 and 2016?",
+      "answer": -2.0,
+      "answer_raw": "-2.0",
+      "program": "subtract(10, 12)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the specific amount authorized in 2014?",
+      "answer": 12.0,
+      "answer_raw": "12.0",
+      "program": "12"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the percentage change?",
+      "answer": -0.16667,
+      "answer_raw": "-0.16667",
+      "program": "subtract(10, 12), divide(#0, 12)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total shares issued and outstanding are class b common stock?",
+      "answer": 0.25578,
+      "answer_raw": "0.25578",
+      "program": "divide(245513385, 959868396)"
+    }
+  ]
+}

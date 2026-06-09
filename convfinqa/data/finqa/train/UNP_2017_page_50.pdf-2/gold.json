@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2017 what was the percent of the total operating revenues that was attributable to industrial products",
+      "answer": 0.192,
+      "answer_raw": "0.192",
+      "program": "divide(4078, 21240)"
+    }
+  ]
+}

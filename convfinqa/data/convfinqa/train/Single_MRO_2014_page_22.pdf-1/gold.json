@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were costs incurred for the development of proved undeveloped reserves in 2014?",
+      "answer": 3149.0,
+      "answer_raw": "3149.0",
+      "program": "3149"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were the costs in 2013?",
+      "answer": 2536.0,
+      "answer_raw": "2536.0",
+      "program": "2536"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": 5685.0,
+      "answer_raw": "5685.0",
+      "program": "add(3149, 2536)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what were the costs in 2012?",
+      "answer": 1995.0,
+      "answer_raw": "1995.0",
+      "program": "1995"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total sum?",
+      "answer": 7680.0,
+      "answer_raw": "7680.0",
+      "program": "add(3149, 2536), add(#0, 1995)"
+    }
+  ]
+}

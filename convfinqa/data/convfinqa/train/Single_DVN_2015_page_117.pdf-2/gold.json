@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is 100 divided by the percent of reserve conversions?",
+      "answer": 3.84615,
+      "answer_raw": "3.84615",
+      "program": "divide(const_100, 26)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the number of mmboe?",
+      "answer": 182.0,
+      "answer_raw": "182.0",
+      "program": "182"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the former quotient by the number of mmboe?",
+      "answer": 700.0,
+      "answer_raw": "700.0",
+      "program": "divide(const_100, 26), multiply(182, #0)"
+    }
+  ]
+}

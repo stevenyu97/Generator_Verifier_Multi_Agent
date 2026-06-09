@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in revenue related technology and risk management from 2015 to 2016?",
+      "answer": 0.12689,
+      "answer_raw": "0.12689",
+      "program": "subtract(595, 528), divide(#0, 528)"
+    }
+  ]
+}

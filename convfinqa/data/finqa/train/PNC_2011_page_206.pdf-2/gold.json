@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the standby letters of credit , risk participations in standby letters of credit , and bankers 2019 acceptances outstanding on december 31 , 2011 , what was the difference between the minimum and maximum term in years?",
+      "answer": 6.0,
+      "answer_raw": "6.0",
+      "program": "subtract(7, 1)"
+    }
+  ]
+}

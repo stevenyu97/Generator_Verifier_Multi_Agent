@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if the 2007 year shows the same rate of change as 2006 , what would the projected ending cash flow balance be , in millions?",
+      "answer": 6844.29054,
+      "answer_raw": "6844.29054",
+      "program": "divide(8518, 10601), multiply(#0, 8518)"
+    }
+  ]
+}

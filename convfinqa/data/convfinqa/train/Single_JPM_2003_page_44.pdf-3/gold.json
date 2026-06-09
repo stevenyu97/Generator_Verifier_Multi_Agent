@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in 30+ day delinquency rate, as a percentage?",
+      "answer": 0.08,
+      "answer_raw": "0.08",
+      "program": "divide(8, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "when applied to the 2002 values, by how much did this rate improve in 2003?",
+      "answer": 0.1232,
+      "answer_raw": "0.1232",
+      "program": "divide(8, const_100), multiply(#0, 1.54)"
+    }
+  ]
+}

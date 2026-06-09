@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "Single_IP/2013/page_65.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "input costs for board and resin are expected to be flat and operating costs are expected to decrease .",
+      "european consumer packaging net sales in 2013 were $ 380 million compared with $ 380 million in 2012 and $ 375 million in 2011 .",
+      "operating profits in 2013 were $ 100 million compared with $ 99 million in 2012 and $ 93 million in 2011 .",
+      "sales volumes in 2013 decreased from 2012 in both the european and russian markets .",
+      "average sales price realizations were significantly higher in the russian market , but were lower in europe .",
+      "input costs were flat year-over-year .",
+      "planned maintenance downtime costs were higher in 2013 than in 2012 .",
+      "looking forward to the first quarter of 2014 , sales volumes compared with the fourth quarter of 2013 are expected to be about flat .",
+      "average sales price realizations are expected to be higher in both russia and europe .",
+      "input costs are expected to increase for wood and energy , but decrease for purchased pulp .",
+      "there are no maintenance outages scheduled for the first quarter , however the kwidzyn mill will have additional costs associated with the rebuild of a coated board machine .",
+      "asian consumer packaging net sales were $ 1.1 billion in 2013 compared with $ 830 million in 2012 and $ 855 million in 2011 .",
+      "operating profits in 2013 were a loss of $ 2 million compared with gains of $ 4 million in 2012 and $ 35 million in 2011 .",
+      "sales volumes increased in 2013 compared with 2012 , reflecting the ramp-up of a new coated paperboard machine installed in 2012 .",
+      "however , average sales price realizations were significantly lower , reflecting competitive pressure on sales prices which squeezed margins and created an unfavorable product mix .",
+      "lower input costs were offset by higher freight costs .",
+      "in 2012 , start-up costs for the new coated paperboard machine adversely impacted operating profits .",
+      "in the first quarter of 2014 , sales volumes are expected to increase slightly .",
+      "average sales price realizations are expected to be flat reflecting continuing competitive pressures .",
+      "input costs are expected be higher for pulp , energy and chemicals .",
+      "the business will drive margin improvement through operational excellence and better distribution xpedx , our distribution business , is one of north america 2019s leading business-to-business distributors to manufacturers , facility managers and printers , providing customized solutions that are designed to improve efficiency , reduce costs and deliver results .",
+      "customer demand is generally sensitive to changes in economic conditions and consumer behavior , along with segment specific activity including corporate advertising and promotional spending , government spending and domestic manufacturing activity .",
+      "distribution 2019s margins are relatively stable across an economic cycle .",
+      "providing customers with the best choice for value in both products and supply chain services is a key competitive factor .",
+      "additionally , efficient customer service , cost-effective logistics and focused working capital management are key factors in this segment 2019s profitability .",
+      "distribution ."
+    ],
+    "post_text": [
+      "distribution 2019s 2013 annual sales decreased 6% ( 6 % ) from 2012 , and decreased 15% ( 15 % ) from 2011 .",
+      "operating profits in 2013 were a loss of $ 389 million ( a gain of $ 43 million excluding goodwill impairment charges and reorganization costs ) compared with $ 22 million ( $ 71 million excluding reorganization costs ) in 2012 and $ 34 million ( $ 86 million excluding reorganization costs ) in annual sales of printing papers and graphic arts supplies and equipment totaled $ 3.2 billion in 2013 compared with $ 3.5 billion in 2012 and $ 4.0 billion in 2011 reflecting declining demand and the discontinuation of a distribution agreement with a large manufacturer of graphic supplies .",
+      "trade margins as a percent of sales for printing papers were down from both 2012 and 2011 .",
+      "revenue from packaging products was flat at $ 1.6 billion in 2013 , 2012 and 2011 despite the significant decline of a large high-tech customer's business .",
+      "packaging margins remained flat to the 2012 level , and up from 2011 .",
+      "facility supplies annual revenue was $ 845 million in 2013 , down from $ 944 million in 2012 and $ 981 million in 2011 .",
+      "operating profits in 2013 included a goodwill impairment charge of $ 400 million and reorganization costs for severance , professional services and asset write-downs of $ 32 million .",
+      "operating profits in 2012 and 2011 included reorganization costs of $ 49 million and $ 52 million , respectively .",
+      "looking ahead to the 2014 first quarter , operating profits will be seasonally lower , but will continue to reflect the benefits of strategic and other cost reduction initiatives. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2013",
+        "2012",
+        "2011"
+      ],
+      [
+        "sales",
+        "$ 5650",
+        "$ 6040",
+        "$ 6630"
+      ],
+      [
+        "operating profit",
+        "-389 ( 389 )",
+        "22",
+        "34"
+      ]
+    ],
+    "questions": [
+      "what were net sales of asian consumer packaging in 2013?",
+      "what was the value in 2012?",
+      "what is the net change in sales?",
+      "what is the percent change?"
+    ]
+  }
+}

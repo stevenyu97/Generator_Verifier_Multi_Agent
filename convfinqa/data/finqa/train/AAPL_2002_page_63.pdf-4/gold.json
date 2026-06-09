@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total minimum lease payments is due after 2007?",
+      "answer": 0.30172,
+      "answer_raw": "0.30172",
+      "program": "divide(140, 464)"
+    }
+  ]
+}

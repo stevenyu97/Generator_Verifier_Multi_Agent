@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent of the operating leases in 2007 as part of the total amount?",
+      "answer": 0.27641,
+      "answer_raw": "0.27641",
+      "program": "divide(191, 691)"
+    }
+  ]
+}

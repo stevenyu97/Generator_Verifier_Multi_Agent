@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were total operating expenses as a percentage of revenue in 2013?",
+      "answer": 0.9379,
+      "answer_raw": "0.9379",
+      "program": "subtract(40678, 2526), divide(#0, 40678)"
+    }
+  ]
+}

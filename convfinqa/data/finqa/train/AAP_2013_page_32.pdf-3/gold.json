@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "from 2009 to 2012 , what percentage return did advance auto parts beat the overall market?",
+      "answer": 62.63,
+      "answer_raw": "62.63",
+      "program": "subtract(213.14, const_100), subtract(150.51, const_100), subtract(#0, #1)"
+    }
+  ]
+}

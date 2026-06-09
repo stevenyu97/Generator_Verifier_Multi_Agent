@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the total contractual payment obligations do the ones associated with operating lease obligations represent?",
+      "answer": 0.2023,
+      "answer_raw": "0.2023",
+      "program": "divide(37788, 186792)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what about the ones due by period less than 1 year?",
+      "answer": 0.65829,
+      "answer_raw": "0.65829",
+      "program": "divide(122963, 186792)"
+    }
+  ]
+}

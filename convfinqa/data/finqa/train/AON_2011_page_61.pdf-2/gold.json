@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the increase observed in the operating margin during 2010 and 2011?",
+      "answer": 0.007,
+      "answer_raw": "0.007",
+      "program": "subtract(19.3%, 18.6%)"
+    }
+  ]
+}

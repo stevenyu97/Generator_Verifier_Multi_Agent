@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage decrease for average common shares outstanding from 2008-2009?",
+      "answer": 0.01573,
+      "answer_raw": "0.01573",
+      "program": "subtract(244323, 240479), divide(#0, 244323)"
+    }
+  ]
+}

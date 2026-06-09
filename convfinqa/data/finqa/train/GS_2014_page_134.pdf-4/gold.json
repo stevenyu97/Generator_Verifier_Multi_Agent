@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in collateral posted between 2013 and 2014?",
+      "answer": 0.69568,
+      "answer_raw": "0.69568",
+      "program": "subtract(30824, 18178), divide(#0, 18178)"
+    }
+  ]
+}

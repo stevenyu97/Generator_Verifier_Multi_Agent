@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the obligation for the mrrp between 2011 and 2012?",
+      "answer": 1.1,
+      "answer_raw": "1.1",
+      "program": "subtract(22.7, 21.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the value specifically for 2011?",
+      "answer": 21.6,
+      "answer_raw": "21.6",
+      "program": "21.6"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the change as a percentage of this original value?",
+      "answer": 0.05093,
+      "answer_raw": "0.05093",
+      "program": "subtract(22.7, 21.6), divide(#0, 21.6)"
+    }
+  ]
+}

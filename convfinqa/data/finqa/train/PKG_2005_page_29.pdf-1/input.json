@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "PKG/2005/page_29.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "year ended december 31 , 2004 compared to year ended december 31 , 2003 the historical results of operations of pca for the years ended december 31 , 2004 and 2003 are set forth below : for the year ended december 31 , ( in millions ) 2004 2003 change ."
+    ],
+    "post_text": [
+      "net sales net sales increased by $ 154.6 million , or 8.9% ( 8.9 % ) , for the year ended december 31 , 2004 from the year ended december 31 , 2003 .",
+      "net sales increased due to improved sales volumes and prices of corrugated products and containerboard compared to 2003 .",
+      "total corrugated products volume sold increased 6.6% ( 6.6 % ) to 29.9 billion square feet in 2004 compared to 28.1 billion square feet in 2003 .",
+      "on a comparable shipment-per-workday basis , corrugated products sales volume increased 7.0% ( 7.0 % ) in 2004 from 2003 .",
+      "excluding pca 2019s acquisition of acorn in february 2004 , corrugated products volume was 5.3% ( 5.3 % ) higher in 2004 than 2003 and up 5.8% ( 5.8 % ) compared to 2003 on a shipment-per-workday basis .",
+      "shipments-per-workday is calculated by dividing our total corrugated products volume during the year by the number of workdays within the year .",
+      "the larger percentage increase was due to the fact that 2004 had one less workday ( 251 days ) , those days not falling on a weekend or holiday , than 2003 ( 252 days ) .",
+      "containerboard sales volume to external domestic and export customers increased 6.8% ( 6.8 % ) to 475000 tons for the year ended december 31 , 2004 from 445000 tons in 2003 .",
+      "income before interest and taxes income before interest and taxes increased by $ 43.6 million , or 45.1% ( 45.1 % ) , for the year ended december 31 , 2004 compared to 2003 .",
+      "included in income before interest and taxes for the year ended december 31 , 2004 is income of $ 27.8 million , net of expenses , attributable to a dividend paid to pca by stv , the timberlands joint venture in which pca owns a 311 20443% ( 20443 % ) ownership interest .",
+      "included in income before interest and taxes for the year ended december 31 , 2003 is a $ 3.3 million charge for fees and expenses related to the company 2019s debt refinancing which was completed in july 2003 , and a fourth quarter charge of $ 16.0 million to settle certain benefits related matters with pactiv corporation dating back to april 12 , 1999 when pca became a stand-alone company , as described below .",
+      "during the fourth quarter of 2003 , pactiv notified pca that we owed pactiv additional amounts for hourly pension benefits and workers 2019 compensation liabilities dating back to april 12 , 1999 .",
+      "a settlement of $ 16.0 million was negotiated between pactiv and pca in december 2003 .",
+      "the full amount of the settlement was accrued in the fourth quarter of 2003 .",
+      "excluding these special items , operating income decreased $ 3.4 million in 2004 compared to 2003 .",
+      "the $ 3.4 million decrease in income before interest and taxes was primarily attributable to increased energy and transportation costs ( $ 19.2 million ) , higher recycled and wood fiber costs ( $ 16.7 million ) , increased salary expenses related to annual increases and new hires ( $ 5.7 million ) , and increased contractual hourly labor costs ( $ 5.6 million ) , which was partially offset by increased sales volume and sales prices ( $ 44.3 million ) . ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "for the year ended december 31 , 2004",
+        "for the year ended december 31 , 2003",
+        "change"
+      ],
+      [
+        "net sales",
+        "$ 1890.1",
+        "$ 1735.5",
+        "$ 154.6"
+      ],
+      [
+        "income before interest and taxes",
+        "$ 140.5",
+        "$ 96.9",
+        "$ 43.6"
+      ],
+      [
+        "interest expense net",
+        "-29.6 ( 29.6 )",
+        "-121.8 ( 121.8 )",
+        "92.2"
+      ],
+      [
+        "income ( loss ) before taxes",
+        "110.9",
+        "-24.9 ( 24.9 )",
+        "135.8"
+      ],
+      [
+        "( provision ) benefit for income taxes",
+        "-42.2 ( 42.2 )",
+        "10.5",
+        "-52.7 ( 52.7 )"
+      ],
+      [
+        "net income ( loss )",
+        "$ 68.7",
+        "$ -14.4 ( 14.4 )",
+        "$ 83.1"
+      ]
+    ],
+    "questions": [
+      "what were operating expenses in 2003?"
+    ]
+  }
+}

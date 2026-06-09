@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "did the annual interest savings on the redemption of the 6.5% ( 6.5 % ) notes exceed the cost of the early extinguishment?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "multiply(175, 6.5%), greater(#0, 16)"
+    }
+  ]
+}

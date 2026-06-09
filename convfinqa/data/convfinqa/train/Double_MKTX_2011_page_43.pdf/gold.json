@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total quarterly cash dividends per quarter in 2010 and 2011?",
+      "answer": 0.16,
+      "answer_raw": "0.16",
+      "program": "add(0.07, 0.09)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total variation in stock price from april 1, 2011 to june 30, 2011?",
+      "answer": 4.22,
+      "answer_raw": "4.22",
+      "program": "subtract(25.22, 21.00)"
+    }
+  ]
+}

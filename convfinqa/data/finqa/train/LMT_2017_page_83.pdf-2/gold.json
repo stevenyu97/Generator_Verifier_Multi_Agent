@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the tax rate associated with the recognized a non-cash net gain from obtaining a controlling interest in awe",
+      "answer": 0.1811,
+      "answer_raw": "0.1811",
+      "program": "divide(23, 127)"
+    }
+  ]
+}

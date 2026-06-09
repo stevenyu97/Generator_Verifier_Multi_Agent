@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the balance of outstanding number of shares during 2017?",
+      "answer": -261347.0,
+      "answer_raw": "-261347.0",
+      "program": "subtract(1559231, 1820578)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage change does this represent?",
+      "answer": -0.14355,
+      "answer_raw": "-0.14355",
+      "program": "subtract(1559231, 1820578), divide(#0, 1820578)"
+    }
+  ]
+}

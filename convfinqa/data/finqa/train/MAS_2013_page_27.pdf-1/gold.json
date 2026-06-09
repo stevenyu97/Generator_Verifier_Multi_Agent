@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage cumulative total shareholder return on masco common stock for the five year period ended 2013?",
+      "answer": 1.2959,
+      "answer_raw": "1.2959",
+      "program": "subtract(229.59, 100), divide(#0, 100)"
+    }
+  ]
+}

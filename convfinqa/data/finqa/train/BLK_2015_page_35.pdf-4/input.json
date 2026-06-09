@@ -1,0 +1,107 @@
+{
+  "input": {
+    "id": "BLK/2015/page_35.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "long-term product offerings include active and index strategies .",
+      "our active strategies seek to earn attractive returns in excess of a market benchmark or performance hurdle while maintaining an appropriate risk profile .",
+      "we offer two types of active strategies : those that rely primarily on fundamental research and those that utilize primarily quantitative models to drive portfolio construction .",
+      "in contrast , index strategies seek to closely track the returns of a corresponding index , generally by investing in substantially the same underlying securities within the index or in a subset of those securities selected to approximate a similar risk and return profile of the index .",
+      "index strategies include both our non-etf index products and ishares etfs .",
+      "althoughmany clients use both active and index strategies , the application of these strategies may differ .",
+      "for example , clients may use index products to gain exposure to a market or asset class .",
+      "in addition , institutional non-etf index assignments tend to be very large ( multi-billion dollars ) and typically reflect low fee rates .",
+      "this has the potential to exaggerate the significance of net flows in institutional index products on blackrock 2019s revenues and earnings .",
+      "equity year-end 2015 equity aum totaled $ 2.424 trillion , reflecting net inflows of $ 52.8 billion .",
+      "net inflows included $ 78.4 billion and $ 4.2 billion into ishares and active products , respectively .",
+      "ishares net inflows were driven by the core series and flows into broad developed market equity exposures , and active net inflows reflected demand for international equities .",
+      "ishares and active net inflows were partially offset by non-etf index net outflows of $ 29.8 billion .",
+      "blackrock 2019s effective fee rates fluctuate due to changes in aummix .",
+      "approximately half of blackrock 2019s equity aum is tied to international markets , including emerging markets , which tend to have higher fee rates than u.s .",
+      "equity strategies .",
+      "accordingly , fluctuations in international equity markets , which do not consistently move in tandemwith u.s .",
+      "markets , may have a greater impact on blackrock 2019s effective equity fee rates and revenues .",
+      "fixed income fixed income aum ended 2015 at $ 1.422 trillion , increasing $ 28.7 billion , or 2% ( 2 % ) , from december 31 , 2014 .",
+      "the increase in aum reflected $ 76.9 billion in net inflows , partially offset by $ 48.2 billion in net market depreciation and foreign exchange movements .",
+      "in 2015 , active net inflows of $ 35.9 billion were diversified across fixed income offerings , with strong flows into our unconstrained , total return and high yield strategies .",
+      "flagship funds in these product areas include our unconstrained strategic income opportunities and fixed income strategies funds , with net inflows of $ 7.0 billion and $ 3.7 billion , respectively ; our total return fund with net inflows of $ 2.7 billion ; and our high yield bond fund with net inflows of $ 3.5 billion .",
+      "fixed income ishares net inflows of $ 50.3 billion were led by flows into core , corporate and high yield bond funds .",
+      "active and ishares net inflows were partially offset by non-etf index net outflows of $ 9.3 billion .",
+      "multi-asset class blackrock 2019s multi-asset class teammanages a variety of balanced funds and bespoke mandates for a diversified client base that leverages our broad investment expertise in global equities , bonds , currencies and commodities , and our extensive risk management capabilities .",
+      "investment solutions might include a combination of long-only portfolios and alternative investments as well as tactical asset allocation overlays .",
+      "component changes in multi-asset class aum for 2015 are presented below .",
+      "( in millions ) december 31 , 2014 net inflows ( outflows ) acquisition ( 1 ) market change fx impact december 31 , 2015 asset allocation and balanced $ 183032 $ 12926 $ 2014 $ ( 6731 ) $ ( 3391 ) $ 185836 ."
+    ],
+    "post_text": [
+      "( 1 ) amounts represent $ 366 million of aum acquired in the futureadvisor acquisition in october 2015 .",
+      "the futureadvisor acquisition amount does not include aum that was held in ishares holdings .",
+      "multi-asset class net inflows reflected ongoing institutional demand for our solutions-based advice with $ 17.4 billion of net inflows coming from institutional clients .",
+      "defined contribution plans of institutional clients remained a significant driver of flows , and contributed $ 7.3 billion to institutional multi-asset class net new business in 2015 , primarily into target date and target risk product offerings .",
+      "retail net outflows of $ 1.3 billion were primarily due to a large single-client transition out of mutual funds into a series of ishares across asset classes .",
+      "notwithstanding this transition , retail flows reflected demand for our multi-asset income fund family , which raised $ 4.6 billion in 2015 .",
+      "the company 2019s multi-asset class strategies include the following : 2022 asset allocation and balanced products represented 49% ( 49 % ) of multi-asset class aum at year-end , with growth in aum driven by net new business of $ 12.9 billion .",
+      "these strategies combine equity , fixed income and alternative components for investors seeking a tailored solution relative to a specific benchmark and within a risk budget .",
+      "in certain cases , these strategies seek to minimize downside risk through diversification , derivatives strategies and tactical asset allocation decisions .",
+      "flagship products in this category include our global allocation andmulti-asset income suites. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "december 312014",
+        "net inflows ( outflows )",
+        "acquisition ( 1 )",
+        "market change",
+        "fx impact",
+        "december 312015"
+      ],
+      [
+        "asset allocation and balanced",
+        "$ 183032",
+        "$ 12926",
+        "$ 2014",
+        "$ -6731 ( 6731 )",
+        "$ -3391 ( 3391 )",
+        "$ 185836"
+      ],
+      [
+        "target date/risk",
+        "128611",
+        "218",
+        "2014",
+        "-1308 ( 1308 )",
+        "-1857 ( 1857 )",
+        "125664"
+      ],
+      [
+        "fiduciary",
+        "66194",
+        "3985",
+        "2014",
+        "627",
+        "-6373 ( 6373 )",
+        "64433"
+      ],
+      [
+        "futureadvisor",
+        "2014",
+        "38",
+        "366",
+        "-1 ( 1 )",
+        "2014",
+        "403"
+      ],
+      [
+        "multi-asset",
+        "$ 377837",
+        "$ 17167",
+        "$ 366",
+        "$ -7413 ( 7413 )",
+        "$ -11621 ( 11621 )",
+        "$ 376336"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in the balance of total multi assets from 2014 to 2015?"
+    ]
+  }
+}

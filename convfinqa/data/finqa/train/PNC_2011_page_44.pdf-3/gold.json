@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2011 and 2010 what was the average net interest income in millions",
+      "answer": 8966.0,
+      "answer_raw": "8966.0",
+      "program": "add(8700, 9230), add(#0, const_2), divide(#1, const_2)"
+    }
+  ]
+}

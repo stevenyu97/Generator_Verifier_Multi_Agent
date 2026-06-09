@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of crude oil refining capacity is located in robinson illinois?",
+      "answer": 0.20079,
+      "answer_raw": "0.20079",
+      "program": "divide(204, 1016)"
+    }
+  ]
+}

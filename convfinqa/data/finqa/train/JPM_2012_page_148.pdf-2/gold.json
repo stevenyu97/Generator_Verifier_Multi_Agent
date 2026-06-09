@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the derivative receivables total exposure net of all collateral that was a+/a1 to a-/a3",
+      "answer": 0.19843,
+      "answer_raw": "0.19843",
+      "program": "divide(12169, 61325)"
+    }
+  ]
+}

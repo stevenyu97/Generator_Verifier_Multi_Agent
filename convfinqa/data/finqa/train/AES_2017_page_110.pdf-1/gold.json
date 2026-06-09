@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "total capital lease obligations are what percent of operating lease obligations?",
+      "answer": 0.01925,
+      "answer_raw": "0.01925",
+      "program": "divide(18, 935)"
+    }
+  ]
+}

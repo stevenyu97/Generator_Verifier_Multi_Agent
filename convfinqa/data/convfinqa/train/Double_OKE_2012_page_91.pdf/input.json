@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "Double_OKE/2012/page_91.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "costs .",
+      "our 2012 results were lower than 2011 when we realized $ 53.1 million in premium-services margins and our storage and marketing margins consisted of $ 96.0 million from realized seasonal price differentials and marketing optimization activities , and $ 87.7 million of storage demand costs .",
+      "in addition , we recognized a loss on the change in fair value of our nonqualifiying economic storage hedges of $ 1.0 million in 2012 compared with a gain of $ 8.5 million in 2011 .",
+      "our premium services were impacted negatively by lower natural gas prices and decreased natural gas price volatility .",
+      "the impact of our hedge strategies and the inability to hedge seasonal price differentials at levels that were available to us in the prior year significantly reduced our storage margins .",
+      "we also experienced reduced opportunities to optimize our storage assets , which negatively impacted our marketing margins .",
+      "we realized a loss in our transportation margins of $ 42.4 million in 2012 compared with a loss of $ 18.8 million in 2011 , due primarily to a $ 29.5 million decrease in transportation hedges .",
+      "our transportation business continues to be impacted by narrow price location differentials and the inability to hedge at levels that were available to us in prior years .",
+      "as a result of significant increases in the supply of natural gas , primarily from shale gas production across north america and new pipeline infrastructure projects , location and seasonal price differentials narrowed significantly beginning in 2010 and continuing through 2012 .",
+      "this market change resulted in our transportation contracts being unprofitable impacting our ability to recover our fixed costs .",
+      "operating costs decreased due primarily to lower employee-related expenses , which includes the impact of fewer employees .",
+      "we also recognized an expense of $ 10.3 million related to the impairment of our goodwill in the first quarter 2012 .",
+      "given the significant decline in natural gas prices and its effect on location and seasonal price differentials , we performed an interim impairment assessment in the first quarter 2012 that reduced our goodwill balance to zero .",
+      "2011 vs .",
+      "2010 - the factors discussed in energy services 2019 201cnarrative description of the business 201d included in item i , business , of this annual report have led to a significant decrease in net margin , including : 2022 a decrease of $ 65.3 million in transportation margins , net of hedging , due primarily to narrower location price differentials and lower hedge settlements in 2011 ; 2022 a decrease of $ 34.3 million in storage and marketing margins , net of hedging activities , due primarily to the following : 2013 lower realized seasonal storage price differentials ; offset partially by 2013 favorable marketing activity and unrealized fair value changes on nonqualifying economic storage hedges ; 2022 a decrease of $ 7.3 million in premium-services margins , associated primarily with the reduction in the value of the fees collected for these services as a result of low commodity prices and reduced natural gas price volatility in the first quarter 2011 compared with the first quarter 2010 ; and 2022 a decrease of $ 4.3 million in financial trading margins , as low natural gas prices and reduced natural gas price volatility limited our financial trading opportunities .",
+      "additionally , our 2011 net margin includes $ 91.1 million in adjustments to natural gas inventory reflecting the lower of cost or market value .",
+      "because of the adjustments to our inventory value , we reclassified $ 91.1 million of deferred gains on associated cash flow hedges into earnings .",
+      "operating costs decreased due primarily to a decrease in ad valorem taxes .",
+      "selected operating information - the following table sets forth certain selected operating information for our energy services segment for the periods indicated: ."
+    ],
+    "post_text": [
+      "natural gas volumes marketed and physically settled volumes decreased in 2012 compared with 2011 due primarily to decreased marketing activities , lower transported volumes and reduced transportation capacity .",
+      "the decrease in 2011 compared with 2010 was due primarily to lower volumes transported and reduced transportation capacity .",
+      "transportation capacity in certain markets was not utilized due to the economics of the location price differentials as a result of increased supply of natural gas , primarily from shale production , and increased pipeline capacity as a result of new pipeline construction. ."
+    ],
+    "table": [
+      [
+        "operating information",
+        "years ended december 31 , 2012",
+        "years ended december 31 , 2011",
+        "years ended december 31 , 2010"
+      ],
+      [
+        "natural gas marketed ( bcf )",
+        "709",
+        "845",
+        "919"
+      ],
+      [
+        "natural gas gross margin ( $ /mcf )",
+        "$ -0.07 ( 0.07 )",
+        "$ 0.06",
+        "$ 0.18"
+      ],
+      [
+        "physically settled volumes ( bcf )",
+        "1433",
+        "1724",
+        "1874"
+      ]
+    ],
+    "questions": [
+      "what is the net change in the natural gas marketed from 2010 to 2011?",
+      "what is the natural gas marketed in 2010?",
+      "what percentage change does this represent?",
+      "and what is the natural gas marketed in 2012?",
+      "and in 2011?",
+      "what is the net change?",
+      "what about about the percentage change from 2011 to 2012?"
+    ]
+  }
+}

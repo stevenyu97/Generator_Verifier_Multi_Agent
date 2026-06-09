@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in percentage return between expeditors international of washington inc . and the nasdaq transportation for the five years ended 12/17?",
+      "answer": -0.7284,
+      "answer_raw": "-0.7284",
+      "program": "subtract(176.08, const_100), subtract(248.92, const_100), divide(#0, const_100), divide(#1, const_100), subtract(#2, #3)"
+    }
+  ]
+}

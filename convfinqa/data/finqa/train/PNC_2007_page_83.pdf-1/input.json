@@ -1,0 +1,88 @@
+{
+  "input": {
+    "id": "PNC/2007/page_83.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "stock-based compensation we did not recognize stock-based employee compensation expense related to stock options granted before 2003 as permitted under accounting principles board opinion no .",
+      "25 , 201caccounting for stock issued to employees , 201d ( 201capb 25 201d ) .",
+      "effective january 1 , 2003 , we adopted the fair value recognition provisions of sfas 123 , 201caccounting for stock- based compensation , 201d as amended by sfas 148 , 201caccounting for stock-based compensation-transition and disclosure , 201d prospectively to all employee awards granted , modified or settled after january 1 , 2003 .",
+      "we did not restate results for prior years upon our adoption of sfas 123 .",
+      "since we adopted sfas 123 prospectively , the cost related to stock- based employee compensation included in net income for 2005 was less than what we would have recognized if we had applied the fair value based method to all awards since the original effective date of the standard .",
+      "in december 2004 , the fasb issued sfas 123r 201cshare- based payment , 201d which replaced sfas 123 and superseded apb 25 .",
+      "sfas 123r requires compensation cost related to share-based payments to employees to be recognized in the financial statements based on their fair value .",
+      "we adopted sfas 123r effective january 1 , 2006 , using the modified prospective method of transition , which required the provisions of sfas 123r be applied to new awards and awards modified , repurchased or cancelled after the effective date .",
+      "it also required changes in the timing of expense recognition for awards granted to retirement-eligible employees and clarified the accounting for the tax effects of stock awards .",
+      "the adoption of sfas 123r did not have a significant impact on our consolidated financial statements .",
+      "the following table shows the effect on 2005 net income and earnings per share if we had applied the fair value recognition provisions of sfas 123 , as amended , to all outstanding and unvested awards .",
+      "pro forma net income and earnings per share ( a ) ."
+    ],
+    "post_text": [
+      "( a ) there were no differences between the gaap basis and pro forma basis of reporting 2006 net income and related per share amounts .",
+      "see note 18 stock-based compensation plans for additional information .",
+      "recent accounting pronouncements in december 2007 , the fasb issued sfas 141 ( r ) , 201cbusiness combinations . 201d this statement will require all businesses acquired to be measured at the fair value of the consideration paid as opposed to the cost-based provisions of sfas 141 .",
+      "it will require an entity to recognize the assets acquired , the liabilities assumed , and any noncontrolling interest in the acquiree at the acquisition date , measured at their fair values as of that date .",
+      "sfas 141 ( r ) requires the value of consideration paid including any future contingent consideration to be measured at fair value at the closing date of the transaction .",
+      "also , restructuring costs and acquisition costs are to be expensed rather than included in the cost of the acquisition .",
+      "this guidance is effective for all acquisitions with closing dates after january 1 , 2009 .",
+      "in december 2007 , the fasb issued sfas 160 , 201caccounting and reporting of noncontrolling interests in consolidated financial statements , an amendment of arb no .",
+      "51 . 201d this statement amends arb no .",
+      "51 to establish accounting and reporting standards for the noncontrolling interest in a subsidiary and for the deconsolidation of a subsidiary .",
+      "it clarifies that a noncontrolling interest should be reported as equity in the consolidated financial statements .",
+      "this statement requires expanded disclosures that identify and distinguish between the interests of the parent 2019s owners and the interests of the noncontrolling owners of an entity .",
+      "this guidance is effective january 1 , 2009 .",
+      "we are currently analyzing the standard but do not expect the adoption to have a material impact on our consolidated financial statements .",
+      "in november 2007 , the sec issued staff accounting bulletin ( 201csab 201d ) no .",
+      "109 , that provides guidance regarding measuring the fair value of recorded written loan commitments .",
+      "the guidance indicates that the expected future cash flows related to servicing should be included in the fair value measurement of all written loan commitments that are accounted for at fair value through earnings .",
+      "sab 109 is effective january 1 , 2008 , prospectively to loan commitments issued or modified after that date .",
+      "the adoption of this guidance is not expected to have a material effect on our results of operations or financial position .",
+      "in june 2007 , the aicpa issued statement of position 07-1 , 201cclarification of the scope of the audit and accounting guide 201cinvestment companies 201d and accounting by parent companies and equity method investors for investments in investment companies 201d ( 201csop 07-1 201d ) .",
+      "this statement provides guidance for determining whether an entity is within the scope of the aicpa audit and accounting guide investment companies ( 201cguide 201d ) and whether the specialized industry accounting principles of the guide should be retained in the financial statements of a parent company of an investment company or an equity method investor in an ."
+    ],
+    "table": [
+      [
+        "in millions except for per share data",
+        "2005"
+      ],
+      [
+        "net income",
+        "$ 1325"
+      ],
+      [
+        "add : stock-based employee compensation expense included in reported net income net of related tax effects",
+        "54"
+      ],
+      [
+        "deduct : total stock-based employee compensation expense determined under the fair value method for all awards net of related taxeffects",
+        "-60 ( 60 )"
+      ],
+      [
+        "pro forma net income",
+        "$ 1319"
+      ],
+      [
+        "earnings per share",
+        ""
+      ],
+      [
+        "basic-as reported",
+        "$ 4.63"
+      ],
+      [
+        "basic-pro forma",
+        "4.60"
+      ],
+      [
+        "diluted-as reported",
+        "$ 4.55"
+      ],
+      [
+        "diluted-pro forma",
+        "4.52"
+      ]
+    ],
+    "questions": [
+      "in millions , what were total adjustment to arrive at pro forma net income?"
+    ]
+  }
+}

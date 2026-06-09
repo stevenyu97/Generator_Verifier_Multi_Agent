@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "ETR/2017/page_175.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "as of december a031 , 2017 , system energy , in connection with the grand gulf sale and leaseback transactions , had future minimum lease payments ( reflecting an implicit rate of 5.13% ( 5.13 % ) ) that are recorded as long-term debt , as follows : amount ( in thousands ) ."
+    ],
+    "post_text": [
+      "entergy corporation and subsidiaries notes to financial statements note 11 . a0 retirement , other postretirement benefits , and defined contribution plans a0 a0 ( entergy corporation , entergy arkansas , entergy louisiana , entergy mississippi , entergy new orleans , entergy texas , and system energy ) qualified pension plans entergy has eight qualified pension plans covering substantially all employees .",
+      "the entergy corporation retirement plan for non-bargaining employees ( non-bargaining plan i ) , the entergy corporation retirement plan for bargaining employees ( bargaining plan i ) , the entergy corporation retirement plan ii for non-bargaining employees ( non-bargaining plan ii ) , the entergy corporation retirement plan ii for bargaining employees , the entergy corporation retirement plan iii , and the entergy corporation retirement plan iv for bargaining employees a0are non-contributory final average pay plans and provide pension benefits that are based on employees 2019 credited service and compensation during employment .",
+      "effective as of the close of business on december 31 , 2016 , the entergy corporation retirement plan iv for non-bargaining employees ( non-bargaining plan iv ) was merged with and into non-bargaining plan ii .",
+      "at the close of business on december 31 , 2016 , the liabilities for the accrued benefits and the assets attributable to such liabilities of all participants in non-bargaining plan iv were assumed by and transferred to non-bargaining plan ii .",
+      "there was no loss of vesting or benefit options or reduction of accrued benefits to affected participants as a result of this plan merger .",
+      "non-bargaining employees whose most recent date of hire is after june 30 , 2014 participate in the entergy corporation cash balance plan for non-bargaining employees ( non-bargaining cash balance plan ) .",
+      "certain bargaining employees hired or rehired after june 30 , 2014 , or such later date provided for in their applicable collective bargaining agreements , participate in the entergy corporation cash balance plan for bargaining employees ( bargaining cash balance plan ) .",
+      "the registrant subsidiaries participate in these four plans : non-bargaining plan i , bargaining plan i , non-bargaining cash balance plan , and bargaining cash balance plan .",
+      "the assets of the six final average pay qualified pension plans are held in a master trust established by entergy , and the assets of the two cash balance pension plans are held in a second master trust established by entergy . a0 a0each pension plan has an undivided beneficial interest in each of the investment accounts in its respective master trust that is maintained by a trustee . a0 a0use of the master trusts permits the commingling of the trust assets of the pension plans of entergy corporation and its registrant subsidiaries for investment and administrative purposes . a0 a0although assets in the master trusts are commingled , the trustee maintains supporting records for the purpose of allocating the trust level equity in net earnings ( loss ) and the administrative expenses of the investment accounts in each trust to the various participating pension plans in that particular trust . a0 a0the fair value of the trusts 2019 assets is determined by the trustee and certain investment managers . a0 a0for each trust , the trustee calculates a daily earnings factor , including realized and ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in thousands )"
+      ],
+      [
+        "2018",
+        "$ 17188"
+      ],
+      [
+        "2019",
+        "17188"
+      ],
+      [
+        "2020",
+        "17188"
+      ],
+      [
+        "2021",
+        "17188"
+      ],
+      [
+        "2022",
+        "17188"
+      ],
+      [
+        "years thereafter",
+        "240625"
+      ],
+      [
+        "total",
+        "326565"
+      ],
+      [
+        "less : amount representing interest",
+        "292209"
+      ],
+      [
+        "present value of net minimum lease payments",
+        "$ 34356"
+      ]
+    ],
+    "questions": [
+      "what portion of the total future minimum lease payments is dedicated to interest payments?"
+    ]
+  }
+}

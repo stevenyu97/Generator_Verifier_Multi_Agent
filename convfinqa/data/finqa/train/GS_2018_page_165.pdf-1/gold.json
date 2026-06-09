@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in fair value of retained interests in billions as of december 2018 and december 2017?",
+      "answer": 1.15,
+      "answer_raw": "1.15",
+      "program": "subtract(3.28, 2.13)"
+    }
+  ]
+}

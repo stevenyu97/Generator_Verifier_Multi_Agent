@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total debt maturities for 2016 and 2017?",
+      "answer": 1250.0,
+      "answer_raw": "1250.0",
+      "program": "add(500, 750)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total debt maturities?",
+      "answer": 12042.0,
+      "answer_raw": "12042.0",
+      "program": "12042"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage of total debt maturities does debt due in 2016 and 2017 represent?",
+      "answer": 0.1038,
+      "answer_raw": "0.1038",
+      "program": "add(500, 750), divide(#0, 12042)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the percentage value?",
+      "answer": 10.38034,
+      "answer_raw": "10.38034",
+      "program": "add(500, 750), divide(#0, 12042), multiply(#1, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "Double_GPN/2008/page_88.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "notes to consolidated financial statements 2014 ( continued ) company 2019s financial statements and establishes guidelines for recognition and measurement of a tax position taken or expected to be taken in a tax return .",
+      "as a result of this adoption , we recorded a $ 1.5 million increase in the liability for unrecognized income tax benefits , which was accounted for as a $ 1.0 million reduction to the june 1 , 2007 balance of retained earnings and a $ 0.5 million reduction to the june 1 , 2007 balance of additional paid-in capital .",
+      "as of the adoption date , other long-term liabilities included liabilities for unrecognized income tax benefits of $ 3.8 million and accrued interest and penalties of $ 0.7 million .",
+      "a reconciliation of the beginning and ending amount of unrecognized tax benefits is as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "as of may 31 , 2008 , the total amount of gross unrecognized tax benefits that , if recognized , would affect the effective tax rate is $ 3.7 million .",
+      "we recognize accrued interest related to unrecognized income tax benefits in interest expense and accrued penalty expense related to unrecognized tax benefits in sales , general and administrative expenses .",
+      "during fiscal 2008 , we recorded $ 0.3 million of accrued interest and penalty expense related to the unrecognized income tax benefits .",
+      "we anticipate the total amount of unrecognized income tax benefits will decrease by $ 1.1 million net of interest and penalties from our foreign operations within the next 12 months as a result of the expiration of the statute of limitations .",
+      "we conduct business globally and file income tax returns in the united states federal jurisdiction and various state and foreign jurisdictions .",
+      "in the normal course of business , we are subject to examination by taxing authorities throughout the world , including such major jurisdictions as the united states and canada .",
+      "with few exceptions , we are no longer subject to income tax examinations for years ended may 31 , 2003 and prior .",
+      "we are currently under audit by the internal revenue service of the united states for the 2004 to 2005 tax years .",
+      "we expect that the examination phase of the audit for the years 2004 to 2005 will conclude in fiscal 2009 .",
+      "note 8 2014shareholders 2019 equity on april 5 , 2007 , our board of directors approved a share repurchase program that authorized the purchase of up to $ 100 million of global payments 2019 stock in the open market or as otherwise may be determined by us , subject to market conditions , business opportunities , and other factors .",
+      "under this authorization , we repurchased 2.3 million shares of our common stock during fiscal 2008 at a cost of $ 87.0 million , or an average of $ 37.85 per share , including commissions .",
+      "as of may 31 , 2008 , we had $ 13.0 million remaining under our current share repurchase authorization .",
+      "no amounts were repurchased during fiscal 2007 .",
+      "note 9 2014share-based awards and options as of may 31 , 2008 , we had four share-based employee compensation plans .",
+      "for all share-based awards granted after june 1 , 2006 , compensation expense is recognized on a straight-line basis .",
+      "the fair value of share- based awards granted prior to june 1 , 2006 is amortized as compensation expense on an accelerated basis from the date of the grant .",
+      "there was no share-based compensation capitalized during fiscal 2008 , 2007 , and 2006. ."
+    ],
+    "table": [
+      [
+        "balance at june 1 2007",
+        "$ 3760"
+      ],
+      [
+        "additions based on tax positions related to the current year",
+        "93"
+      ],
+      [
+        "additions for tax positions of prior years",
+        "50"
+      ],
+      [
+        "reductions for tax positions of prior years",
+        "2014"
+      ],
+      [
+        "settlements with taxing authorities",
+        "-190 ( 190 )"
+      ],
+      [
+        "balance at may 31 2008",
+        "$ 3713"
+      ]
+    ],
+    "questions": [
+      "what was the net change in the balance of unrecognized tax benefits from 2007 to 2008?",
+      "and as of may of that last year, what was the amount remaining under the current share repurchase authorization?",
+      "assuming an average share price of $ 37.85, what was the number of shares that could be bought with this amount?"
+    ]
+  }
+}

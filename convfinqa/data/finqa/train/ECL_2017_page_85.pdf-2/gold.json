@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total yearly interest expense related to the notes issued in january 2016?",
+      "answer": 21.0,
+      "answer_raw": "21.0",
+      "program": "multiply(400, 3.25%), multiply(400, 2.00%), add(#1, #0)"
+    }
+  ]
+}

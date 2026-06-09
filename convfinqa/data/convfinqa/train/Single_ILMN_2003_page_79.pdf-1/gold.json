@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between the weighted average risk-free interest rate of 2003 and 2002?",
+      "answer": -0.7,
+      "answer_raw": "-0.7",
+      "program": "subtract(3.03, 3.73)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the weighted average risk-free interest rate of 2002?",
+      "answer": 3.73,
+      "answer_raw": "3.73",
+      "program": "3.73"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does that difference represents in relation to weighted average risk-free interest rate of 2002?",
+      "answer": -0.18767,
+      "answer_raw": "-0.18767",
+      "program": "subtract(3.03, 3.73), divide(#0, 3.73)"
+    }
+  ]
+}

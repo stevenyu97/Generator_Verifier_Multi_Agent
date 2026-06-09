@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total pre-tax catastrophe losses from 2014 to 2018 in miilions",
+      "answer": 3684.1,
+      "answer_raw": "3684.1",
+      "program": "add(1800.2, 1472.6), add(301.2, #0), add(#1, 53.8), add(#2, 56.3)"
+    }
+  ]
+}

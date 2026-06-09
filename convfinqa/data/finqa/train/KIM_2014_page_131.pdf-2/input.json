@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "KIM/2014/page_131.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "kimco realty corporation and subsidiaries notes to consolidated financial statements , continued uncertain tax positions : the company is subject to income tax in certain jurisdictions outside the u.s. , principally canada and mexico .",
+      "the statute of limitations on assessment of tax varies from three to seven years depending on the jurisdiction and tax issue .",
+      "tax returns filed in each jurisdiction are subject to examination by local tax authorities .",
+      "the company is currently under audit by the canadian revenue agency , mexican tax authority and the u.s .",
+      "internal revenue service ( 201cirs 201d ) .",
+      "in october 2011 , the irs issued a notice of proposed adjustment , which proposes pursuant to section 482 of the code , to disallow a capital loss claimed by krs on the disposition of common shares of valad property ltd. , an australian publicly listed company .",
+      "because the adjustment is being made pursuant to section 482 of the code , the irs believes it can assert a 100 percent 201cpenalty 201d tax pursuant to section 857 ( b ) ( 7 ) of the code and disallow the capital loss deduction .",
+      "the notice of proposed adjustment indicates the irs 2019 intention to impose the 100 percent 201cpenalty 201d tax on the company in the amount of $ 40.9 million and disallowing the capital loss claimed by krs .",
+      "the company and its outside counsel have considered the irs 2019 assessment and believe that there is sufficient documentation establishing a valid business purpose for the transfer , including recent case history showing support for similar positions .",
+      "accordingly , the company strongly disagrees with the irs 2019 position on the application of section 482 of the code to the disposition of the shares , the imposition of the 100 percent penalty tax and the simultaneous assertion of the penalty tax and disallowance of the capital loss deduction .",
+      "the company received a notice of proposed assessment and filed a written protest and requested an irs appeals office conference .",
+      "an appeals hearing was attended by management and its attorneys , the irs compliance group and an irs appeals officer in november , 2014 , at which time irs compliance presented arguments in support of their position , as noted herein .",
+      "management and its attorneys presented rebuttal arguments in support of its position .",
+      "the matter is currently under consideration by the appeals officer .",
+      "the company intends to vigorously defend its position in this matter and believes it will prevail .",
+      "resolutions of these audits are not expected to have a material effect on the company 2019s financial statements .",
+      "during 2013 , the company early adopted asu 2013-11 prospectively and reclassified a portion of its reserve for uncertain tax positions .",
+      "the reserve for uncertain tax positions included amounts related to the company 2019s canadian operations .",
+      "the company has unrecognized tax benefits reported as deferred tax assets and are available to settle adjustments made with respect to the company 2019s uncertain tax positions in canada .",
+      "the company reduced its reserve for uncertain tax positions by $ 12.3 million associated with its canadian operations and reduced its deferred tax assets in accordance with asu 2013-11 .",
+      "the company does not believe that the total amount of unrecognized tax benefits as of december 31 , 2014 , will significantly increase or decrease within the next 12 months .",
+      "as of december 31 , 2014 , the company 2019s canadian uncertain tax positions , which reduce its deferred tax assets , aggregated $ 10.4 million .",
+      "the liability for uncertain tax benefits principally consists of estimated foreign , federal and state income tax liabilities in years for which the statute of limitations is open .",
+      "open years range from 2008 through 2014 and vary by jurisdiction and issue .",
+      "the aggregate changes in the balance of unrecognized tax benefits for the years ended december 31 , 2014 and 2013 were as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "( a ) this amount was reclassified against the related deferred tax asset relating to the company 2019s early adoption of asu 2013-11 as discussed above. ."
+    ],
+    "table": [
+      [
+        "",
+        "201 4",
+        "2013"
+      ],
+      [
+        "balance beginning of year",
+        "$ 4590",
+        "$ 16890"
+      ],
+      [
+        "increases for tax positions related to current year",
+        "59",
+        "15"
+      ],
+      [
+        "reduction due to adoption of asu 2013-11 ( a )",
+        "-",
+        "-12315 ( 12315 )"
+      ],
+      [
+        "balance end of year",
+        "$ 4649",
+        "$ 4590"
+      ]
+    ],
+    "questions": [
+      "what is the net change in the balance unrecognized tax benefits in 2013?"
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "input": {
+    "id": "SNA/2013/page_56.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis of financial condition and results of operations ( continued ) liquidity and capital resources snap-on 2019s growth has historically been funded by a combination of cash provided by operating activities and debt financing .",
+      "snap-on believes that its cash from operations and collections of finance receivables , coupled with its sources of borrowings and available cash on hand , are sufficient to fund its currently anticipated requirements for scheduled debt payments ( including the march 2014 repayment of $ 100.0 million of 5.85% ( 5.85 % ) unsecured notes upon maturity ) , payments of interest and dividends , new receivables originated by our financial services businesses , capital expenditures , working capital , restructuring activities , the funding of pension plans , and funding for additional share repurchases and acquisitions , if any .",
+      "due to snap-on 2019s credit rating over the years , external funds have been available at an acceptable cost .",
+      "as of the close of business on february 7 , 2014 , snap-on 2019s long-term debt and commercial paper were rated , respectively , a3 and p-2 by moody 2019s investors service ; a- and a-2 by standard & poor 2019s ; and a- and f2 by fitch ratings .",
+      "snap-on believes that its current credit arrangements are sound and that the strength of its balance sheet affords the company the financial flexibility to respond to both internal growth opportunities and those available through acquisitions .",
+      "however , snap-on cannot provide any assurances of the availability of future financing or the terms on which it might be available , or that its debt ratings may not decrease .",
+      "the following discussion focuses on information included in the accompanying consolidated balance sheets .",
+      "as of 2013 year end , working capital ( current assets less current liabilities ) of $ 1080.8 million increased $ 1.0 million from $ 1079.8 million as of 2012 year end .",
+      "the following represents the company 2019s working capital position as of 2013 and 2012 year end : ( amounts in millions ) 2013 2012 ."
+    ],
+    "post_text": [
+      "cash and cash equivalents of $ 217.6 million as of 2013 year end compared to cash and cash equivalents of $ 214.5 million at 2012 year end .",
+      "the $ 3.1 million net increase in cash and cash equivalents includes the impacts of ( i ) $ 508.8 million of cash from collections of finance receivables ; ( ii ) $ 392.6 million of cash generated from operations , net of $ 24.3 million of discretionary cash contributions to the company 2019s pension plans ; ( iii ) $ 29.2 million of cash proceeds from stock purchase and option plan exercises ; and ( iv ) $ 8.4 million of cash proceeds from the sale of property and equipment .",
+      "these increases in cash and cash equivalents were largely offset by ( i ) the funding of $ 651.3 million of new finance receivables ; ( ii ) dividend payments to shareholders of $ 92.0 million ; ( iii ) the repurchase of 926000 shares of the company 2019s common stock for $ 82.6 million ; ( iv ) the funding of $ 70.6 million of capital expenditures ; and ( v ) the may 2013 acquisition of challenger for a cash purchase price of $ 38.2 million .",
+      "of the $ 217.6 million of cash and cash equivalents as of 2013 year end , $ 124.3 million was held outside of the united states .",
+      "snap-on considers these non-u.s .",
+      "funds as permanently invested in its foreign operations to ( i ) provide adequate working capital ; ( ii ) satisfy various regulatory requirements ; and/or ( iii ) take advantage of business expansion opportunities as they arise ; as such , the company does not presently expect to repatriate these funds to fund its u.s .",
+      "operations or obligations .",
+      "the repatriation of cash from certain foreign subsidiaries could have adverse net tax consequences on the company should snap-on be required to pay and record u.s .",
+      "income taxes and foreign withholding taxes on funds that were previously considered permanently invested .",
+      "alternatively , the repatriation of such cash from certain other foreign subsidiaries could result in favorable net tax consequences for the company .",
+      "snap-on periodically evaluates opportunities to repatriate certain foreign cash amounts to the extent that it does not incur additional unfavorable net tax consequences .",
+      "46 snap-on incorporated ."
+    ],
+    "table": [
+      [
+        "( amounts in millions )",
+        "2013",
+        "2012"
+      ],
+      [
+        "cash and cash equivalents",
+        "$ 217.6",
+        "$ 214.5"
+      ],
+      [
+        "trade and other accounts receivable 2013 net",
+        "531.6",
+        "497.9"
+      ],
+      [
+        "finance receivables 2013 net",
+        "374.6",
+        "323.1"
+      ],
+      [
+        "contract receivables 2013 net",
+        "68.4",
+        "62.7"
+      ],
+      [
+        "inventories 2013 net",
+        "434.4",
+        "404.2"
+      ],
+      [
+        "other current assets",
+        "169.6",
+        "166.6"
+      ],
+      [
+        "total current assets",
+        "1796.2",
+        "1669.0"
+      ],
+      [
+        "notes payable and current maturities of long-term debt",
+        "-113.1 ( 113.1 )",
+        "-5.2 ( 5.2 )"
+      ],
+      [
+        "accounts payable",
+        "-155.6 ( 155.6 )",
+        "-142.5 ( 142.5 )"
+      ],
+      [
+        "other current liabilities",
+        "-446.7 ( 446.7 )",
+        "-441.5 ( 441.5 )"
+      ],
+      [
+        "total current liabilities",
+        "-715.4 ( 715.4 )",
+        "-589.2 ( 589.2 )"
+      ],
+      [
+        "working capital",
+        "$ 1080.8",
+        "$ 1079.8"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in the balance of inventories from 2012 to 2013?"
+    ]
+  }
+}

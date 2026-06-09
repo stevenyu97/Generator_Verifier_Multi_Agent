@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was total rent expense under all operating leases , including both cancelable and noncancelable leases , in millions , in 2015 , 2014 and 2013?",
+      "answer": 2156.0,
+      "answer_raw": "2156.0",
+      "program": "add(794, 717), add(#0, 645)"
+    }
+  ]
+}

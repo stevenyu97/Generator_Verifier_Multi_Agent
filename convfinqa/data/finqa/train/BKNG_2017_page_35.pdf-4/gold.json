@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at the measurement point december 312016 what was the ratio of the booking holdings inc . to the nasdaqcomposite index",
+      "answer": 1.26241,
+      "answer_raw": "1.26241",
+      "program": "divide(236.31, 187.19)"
+    }
+  ]
+}

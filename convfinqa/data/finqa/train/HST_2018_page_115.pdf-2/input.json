@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "HST/2018/page_115.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "host hotels & resorts , inc. , host hotels & resorts , l.p. , and subsidiaries notes to consolidated financial statements 1 .",
+      "summary of significant accounting policies description of business host hotels & resorts , inc .",
+      "operates as a self-managed and self-administered real estate investment trust , or reit , with its operations conducted solely through host hotels & resorts , l.p .",
+      "host hotels & resorts , l.p. , a delaware limited partnership , operates through an umbrella partnership structure , with host hotels & resorts , inc. , a maryland corporation , as its sole general partner .",
+      "in the notes to the consolidated financial statements , we use the terms 201cwe 201d or 201cour 201d to refer to host hotels & resorts , inc .",
+      "and host hotels & resorts , l.p .",
+      "together , unless the context indicates otherwise .",
+      "we also use the term 201chost inc . 201d to refer specifically to host hotels & resorts , inc .",
+      "and the term 201chost l.p . 201d to refer specifically to host hotels & resorts , l.p .",
+      "in cases where it is important to distinguish between host inc .",
+      "and host l.p .",
+      "host inc .",
+      "holds approximately 99% ( 99 % ) of host l.p . 2019s partnership interests , or op units .",
+      "consolidated portfolio as of december 31 , 2018 , the hotels in our consolidated portfolio are in the following countries: ."
+    ],
+    "post_text": [
+      "basis of presentation and principles of consolidation the accompanying consolidated financial statements include the consolidated accounts of host inc. , host l.p .",
+      "and their subsidiaries and controlled affiliates , including joint ventures and partnerships .",
+      "we consolidate subsidiaries when we have the ability to control them .",
+      "for the majority of our hotel and real estate investments , we consider those control rights to be ( i ) approval or amendment of developments plans , ( ii ) financing decisions , ( iii ) approval or amendments of operating budgets , and ( iv ) investment strategy decisions .",
+      "we also evaluate our subsidiaries to determine if they are variable interest entities ( 201cvies 201d ) .",
+      "if a subsidiary is a vie , it is subject to the consolidation framework specifically for vies .",
+      "typically , the entity that has the power to direct the activities that most significantly impact economic performance consolidates the vie .",
+      "we consider an entity to be a vie if equity investors own an interest therein that does not have the characteristics of a controlling financial interest or if such investors do not have sufficient equity at risk for the entity to finance its activities without additional subordinated financial support .",
+      "we review our subsidiaries and affiliates at least annually to determine if ( i ) they should be considered vies , and ( ii ) whether we should change our consolidation determination based on changes in the characteristics thereof .",
+      "three partnerships are considered vie 2019s , as the general partner maintains control over the decisions that most significantly impact the partnerships .",
+      "the first vie is the operating partnership , host l.p. , which is consolidated by host inc. , of which host inc .",
+      "is the general partner and holds 99% ( 99 % ) of the limited partner interests .",
+      "host inc . 2019s sole significant asset is its investment in host l.p .",
+      "and substantially all of host inc . 2019s assets and liabilities represent assets and liabilities of host l.p .",
+      "all of host inc . 2019s debt is an obligation of host l.p .",
+      "and may be settled only with assets of host l.p .",
+      "the consolidated partnership that owns the houston airport marriott at george bush intercontinental , of which we are the general partner and hold 85% ( 85 % ) of the partnership interests , also is a vie .",
+      "the total assets of this vie at december 31 , 2018 are $ 48 million and consist primarily of cash and ."
+    ],
+    "table": [
+      [
+        "",
+        "hotels"
+      ],
+      [
+        "united states",
+        "88"
+      ],
+      [
+        "brazil",
+        "3"
+      ],
+      [
+        "canada",
+        "2"
+      ],
+      [
+        "total",
+        "93"
+      ]
+    ],
+    "questions": [
+      "as of december 31 , 2018what was the percent of the hotels in our consolidated portfolio in the us"
+    ]
+  }
+}

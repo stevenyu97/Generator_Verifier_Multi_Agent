@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in end of year allowances between 2003 and 2004?",
+      "answer": -145.0,
+      "answer_raw": "-145.0",
+      "program": "subtract(462, 607)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the percentage change during this time?",
+      "answer": -0.23888,
+      "answer_raw": "-0.23888",
+      "program": "subtract(462, 607), divide(#0, 607)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the change in the balance of the allowance for uncollectible accounts between the beginning and end of 2005?",
+      "answer": -119.0,
+      "answer_raw": "-119.0",
+      "program": "subtract(343, 462)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage change of this value?",
+      "answer": -0.25758,
+      "answer_raw": "-0.25758",
+      "program": "subtract(343, 462), divide(#0, 462)"
+    }
+  ]
+}

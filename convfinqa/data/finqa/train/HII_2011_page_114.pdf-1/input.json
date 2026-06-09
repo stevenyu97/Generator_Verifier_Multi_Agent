@@ -1,0 +1,56 @@
+{
+  "input": {
+    "id": "HII/2011/page_114.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "tax benefits recognized for stock-based compensation during the years ended december 31 , 2011 , 2010 and 2009 , were $ 16 million , $ 6 million and $ 5 million , respectively .",
+      "the amount of northrop grumman shares issued before the spin-off to satisfy stock-based compensation awards are recorded by northrop grumman and , accordingly , are not reflected in hii 2019s consolidated financial statements .",
+      "the company realized tax benefits during the year ended december 31 , 2011 , of $ 2 million from the exercise of stock options and $ 10 million from the issuance of stock in settlement of rpsrs and rsrs .",
+      "unrecognized compensation expense at december 31 , 2011 there was $ 1 million of unrecognized compensation expense related to unvested stock option awards , which will be recognized over a weighted average period of 1.1 years .",
+      "in addition , at december 31 , 2011 , there was $ 19 million of unrecognized compensation expense associated with the 2011 rsrs , which will be recognized over a period of 2.2 years ; $ 10 million of unrecognized compensation expense associated with the rpsrs converted as part of the spin-off , which will be recognized over a weighted average period of one year ; and $ 18 million of unrecognized compensation expense associated with the 2011 rpsrs which will be recognized over a period of 2.0 years .",
+      "stock options the compensation expense for the outstanding converted stock options was determined at the time of grant by northrop grumman .",
+      "there were no additional options granted during the year ended december 31 , 2011 .",
+      "the fair value of the stock option awards is expensed on a straight-line basis over the vesting period of the options .",
+      "the fair value of each of the stock option award was estimated on the date of grant using a black-scholes option pricing model based on the following assumptions : dividend yield 2014the dividend yield was based on northrop grumman 2019s historical dividend yield level .",
+      "volatility 2014expected volatility was based on the average of the implied volatility from traded options and the historical volatility of northrop grumman 2019s stock .",
+      "risk-free interest rate 2014the risk-free rate for periods within the contractual life of the stock option award was based on the yield curve of a zero-coupon u.s .",
+      "treasury bond on the date the award was granted with a maturity equal to the expected term of the award .",
+      "expected term 2014the expected term of awards granted was derived from historical experience and represents the period of time that awards granted are expected to be outstanding .",
+      "a stratification of expected terms based on employee populations ( executive and non-executive ) was considered in the analysis .",
+      "the following significant weighted-average assumptions were used to value stock options granted during the years ended december 31 , 2010 and 2009: ."
+    ],
+    "post_text": [
+      "the weighted-average grant date fair value of stock options granted during the years ended december 31 , 2010 and 2009 , was $ 11 and $ 7 , per share , respectively. ."
+    ],
+    "table": [
+      [
+        "",
+        "2010",
+        "2009"
+      ],
+      [
+        "dividend yield",
+        "2.9% ( 2.9 % )",
+        "3.6% ( 3.6 % )"
+      ],
+      [
+        "volatility rate",
+        "25% ( 25 % )",
+        "25% ( 25 % )"
+      ],
+      [
+        "risk-free interest rate",
+        "2.3% ( 2.3 % )",
+        "1.7% ( 1.7 % )"
+      ],
+      [
+        "expected option life ( years )",
+        "6",
+        "5 & 6"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in the weighted-average grant date fair value of stock options from 2009 to 2010?"
+    ]
+  }
+}

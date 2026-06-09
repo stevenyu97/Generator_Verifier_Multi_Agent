@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the difference in the fair value of the securities held in decommissioning trust funds and the amounts deposited plus the earnings on the deposits from 2001 to 2002 for entergy arkansas?",
+      "answer": 34.5,
+      "answer_raw": "34.5",
+      "program": "subtract(69.8, 35.3)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that difference in 2001?",
+      "answer": 35.3,
+      "answer_raw": "35.3",
+      "program": "35.3"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2001 difference, in percentage?",
+      "answer": 0.97734,
+      "answer_raw": "0.97734",
+      "program": "subtract(69.8, 35.3), divide(#0, 35.3)"
+    }
+  ]
+}

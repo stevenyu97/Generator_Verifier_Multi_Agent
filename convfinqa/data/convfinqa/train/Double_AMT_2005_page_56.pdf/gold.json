@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2005, what was the yearly interest expense related to the 7.125% ( 7.125 % ) notes, in millions?",
+      "answer": 35.625,
+      "answer_raw": "35.625",
+      "program": "multiply(7.125%, 500.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and concerning the re-measurement gain, how much did its amount in that year represent in relation to the one in 2004?",
+      "answer": 2.71233,
+      "answer_raw": "2.71233",
+      "program": "divide(396000, 146000)"
+    }
+  ]
+}

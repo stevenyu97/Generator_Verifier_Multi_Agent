@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "DRE/2009/page_36.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "34| | duke realty corporation annual report 2009 property investment we evaluate development and acquisition opportunities based upon market outlook , supply and long-term growth potential .",
+      "our ability to make future property investments is dependent upon our continued access to our longer-term sources of liquidity including the issuances of debt or equity securities as well as generating cash flow by disposing of selected properties .",
+      "in light of current economic conditions , management continues to evaluate our investment priorities and is focused on accretive growth .",
+      "we have continued to operate at a substantially reduced level of new development activity , as compared to recent years , and are focused on the core operations of our existing base of properties .",
+      "recurring expenditures one of our principal uses of our liquidity is to fund the recurring leasing/capital expenditures of our real estate investments .",
+      "the following is a summary of our recurring capital expenditures for the years ended december 31 , 2009 , 2008 and 2007 , respectively ( in thousands ) : dividends and distributions we are required to meet the distribution requirements of the internal revenue code of 1986 , as amended ( the 201ccode 201d ) , in order to maintain our reit status .",
+      "because depreciation and impairments are non-cash expenses , cash flow will typically be greater than operating income .",
+      "we paid dividends per share of $ 0.76 , $ 1.93 and $ 1.91 for the years ended december 31 , 2009 , 2008 and 2007 , respectively .",
+      "we expect to continue to distribute at least an amount equal to our taxable earnings , to meet the requirements to maintain our reit status , and additional amounts as determined by our board of directors .",
+      "distributions are declared at the discretion of our board of directors and are subject to actual cash available for distribution , our financial condition , capital requirements and such other factors as our board of directors deems relevant .",
+      "at december 31 , 2009 we had six series of preferred shares outstanding .",
+      "the annual dividend rates on our preferred shares range between 6.5% ( 6.5 % ) and 8.375% ( 8.375 % ) and are paid in arrears quarterly. ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "2009",
+        "2008",
+        "2007"
+      ],
+      [
+        "recurring tenant improvements",
+        "$ 29321",
+        "$ 36885",
+        "$ 45296"
+      ],
+      [
+        "recurring leasing costs",
+        "40412",
+        "28205",
+        "32238"
+      ],
+      [
+        "building improvements",
+        "9321",
+        "9724",
+        "8402"
+      ],
+      [
+        "totals",
+        "$ 79054",
+        "$ 74814",
+        "$ 85936"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the increase in the dividend from 2007 to 2008"
+    ]
+  }
+}

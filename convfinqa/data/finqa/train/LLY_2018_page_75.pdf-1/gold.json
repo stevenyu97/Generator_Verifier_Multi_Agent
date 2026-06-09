@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in dollars spent on share repurchase between 2016 and 2017?",
+      "answer": -0.33383,
+      "answer_raw": "-0.33383",
+      "program": "subtract(359.8, 540.1), divide(#0, 540.1)"
+    }
+  ]
+}

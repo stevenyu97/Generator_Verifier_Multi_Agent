@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in asia/pacific cruise guests between 2012 and 2016?",
+      "answer": 2162.0,
+      "answer_raw": "2162.0",
+      "program": "subtract(3636, 1474)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the value for 2012 again?",
+      "answer": 1474.0,
+      "answer_raw": "1474.0",
+      "program": "1474"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the percentage increase during this time?",
+      "answer": 1.46676,
+      "answer_raw": "1.46676",
+      "program": "subtract(3636, 1474), divide(#0, 1474)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and converted to a percentage from a decimal?",
+      "answer": 146.67571,
+      "answer_raw": "146.67571",
+      "program": "subtract(3636, 1474), divide(#0, 1474), multiply(#1, const_100)"
+    }
+  ]
+}

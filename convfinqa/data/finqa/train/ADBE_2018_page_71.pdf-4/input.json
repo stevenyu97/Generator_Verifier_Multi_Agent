@@ -1,0 +1,89 @@
+{
+  "input": {
+    "id": "ADBE/2018/page_71.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents adobe inc .",
+      "notes to consolidated financial statements ( continued ) the table below represents the preliminary purchase price allocation to the acquired net tangible and intangible assets of marketo based on their estimated fair values as of the acquisition date and the associated estimated useful lives at that date .",
+      "the fair values assigned to assets acquired and liabilities assumed are based on management 2019s best estimates and assumptions as of the reporting date and are considered preliminary pending finalization of valuation analyses pertaining to intangible assets acquired , deferred revenue and tax liabilities assumed including the calculation of deferred tax assets and liabilities .",
+      "( in thousands ) amount weighted average useful life ( years ) ."
+    ],
+    "post_text": [
+      "_________________________________________ ( 1 ) non-deductible for tax-purposes .",
+      "identifiable intangible assets 2014customer relationships consist of marketo 2019s contractual relationships and customer loyalty related to their enterprise and commercial customers as well as technology partner relationships .",
+      "the estimated fair value of the customer contracts and relationships was determined based on projected cash flows attributable to the asset .",
+      "purchased technology acquired primarily consists of marketo 2019s cloud-based engagement marketing software platform .",
+      "the estimated fair value of the purchased technology was determined based on the expected future cost savings resulting from ownership of the asset .",
+      "backlog relates to subscription contracts and professional services .",
+      "non-compete agreements include agreements with key marketo employees that preclude them from competing against marketo for a period of two years from the acquisition date .",
+      "trademarks include the marketo trade name , which is well known in the marketing ecosystem .",
+      "we amortize the fair value of these intangible assets on a straight-line basis over their respective estimated useful lives .",
+      "goodwill 2014approximately $ 3.46 billion has been allocated to goodwill , and has been allocated in full to the digital experience reportable segment .",
+      "goodwill represents the excess of the purchase price over the fair value of the underlying acquired net tangible and intangible assets .",
+      "the factors that contributed to the recognition of goodwill included securing buyer-specific synergies that increase revenue and profits and are not otherwise available to a marketplace participant , acquiring a talented workforce and cost savings opportunities .",
+      "net liabilities assumed 2014marketo 2019s tangible assets and liabilities as of october 31 , 2018 were reviewed and adjusted to their fair value as necessary .",
+      "the net liabilities assumed included , among other items , $ 100.1 million in accrued expenses , $ 74.8 million in deferred revenue and $ 182.6 million in deferred tax liabilities , which were partially offset by $ 54.9 million in cash and cash equivalents and $ 72.4 million in trade receivables acquired .",
+      "deferred revenue 2014included in net liabilities assumed is marketo 2019s deferred revenue which represents advance payments from customers related to subscription contracts and professional services .",
+      "we estimated our obligation related to the deferred revenue using the cost build-up approach .",
+      "the cost build-up approach determines fair value by estimating the direct and indirect costs related to supporting the obligation plus an assumed operating margin .",
+      "the sum of the costs and assumed operating profit approximates , in theory , the amount that marketo would be required to pay a third party to assume the obligation .",
+      "the estimated costs to fulfill the obligation were based on the near-term projected cost structure for subscription and professional services .",
+      "as a result , we recorded an adjustment to reduce marketo 2019s carrying value of deferred revenue to $ 74.8 million , which represents our estimate of the fair value of the contractual obligations assumed based on a preliminary valuation. ."
+    ],
+    "table": [
+      [
+        "( in thousands )",
+        "amount",
+        "weighted average useful life ( years )"
+      ],
+      [
+        "customer contracts and relationships",
+        "$ 576900",
+        "11"
+      ],
+      [
+        "purchased technology",
+        "444500",
+        "7"
+      ],
+      [
+        "backlog",
+        "105800",
+        "2"
+      ],
+      [
+        "non-competition agreements",
+        "12100",
+        "2"
+      ],
+      [
+        "trademarks",
+        "328500",
+        "9"
+      ],
+      [
+        "total identifiable intangible assets",
+        "1467800",
+        ""
+      ],
+      [
+        "net liabilities assumed",
+        "-191288 ( 191288 )",
+        "n/a"
+      ],
+      [
+        "goodwill ( 1 )",
+        "3459751",
+        "n/a"
+      ],
+      [
+        "total estimated purchase price",
+        "$ 4736263",
+        ""
+      ]
+    ],
+    "questions": [
+      "goodwill is what percent of total estimated purchase price?"
+    ]
+  }
+}

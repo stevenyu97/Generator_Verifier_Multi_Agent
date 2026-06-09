@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average effective tax rates for 2010 , 2009 and 2008?",
+      "answer": 29.33333,
+      "answer_raw": "29.33333",
+      "program": "add(24, 32), add(#0, 32), divide(#1, const_3)"
+    }
+  ]
+}

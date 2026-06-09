@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of amount ceded to direct amount in 2007?",
+      "answer": 0.3976,
+      "answer_raw": "0.3976",
+      "program": "divide(5834, 14673)"
+    }
+  ]
+}

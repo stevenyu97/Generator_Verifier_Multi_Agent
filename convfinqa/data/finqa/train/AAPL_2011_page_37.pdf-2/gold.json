@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "interest and dividend income was what percent of total other income in 2010?",
+      "answer": 2.00645,
+      "answer_raw": "2.00645",
+      "program": "divide(311, 155)"
+    }
+  ]
+}

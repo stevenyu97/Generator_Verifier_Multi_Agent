@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the net sales in 2003?",
+      "answer": 1735.5,
+      "answer_raw": "1735.5",
+      "program": "1735.5"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the income before interest and taxes in that year?",
+      "answer": 96.9,
+      "answer_raw": "96.9",
+      "program": "96.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what were, then, those sales without this income?",
+      "answer": 1638.6,
+      "answer_raw": "1638.6",
+      "program": "subtract(1735.5, 96.9)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and considering this year plus the next, what was the combined total of those net sales?",
+      "answer": 3625.6,
+      "answer_raw": "3625.6",
+      "program": "add(1890.1, 1735.5)"
+    }
+  ]
+}

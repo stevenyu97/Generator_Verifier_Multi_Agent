@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of electrical/electronic architecture sites among all sites?",
+      "answer": 0.73016,
+      "answer_raw": "0.73016",
+      "program": "divide(92, 126)"
+    }
+  ]
+}

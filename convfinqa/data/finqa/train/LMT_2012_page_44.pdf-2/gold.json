@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in net sales for is&gs in 2011?",
+      "answer": -0.05443,
+      "answer_raw": "-0.05443",
+      "program": "subtract(9381, 9921), divide(#0, 9921)"
+    }
+  ]
+}

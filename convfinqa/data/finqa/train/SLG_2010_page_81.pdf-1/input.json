@@ -1,0 +1,80 @@
+{
+  "input": {
+    "id": "SLG/2010/page_81.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "amounts due from related parties at december a031 , 2010 and 2009 con- sisted of the following ( in thousands ) : ."
+    ],
+    "post_text": [
+      "gramercy capital corp .",
+      "see note a0 6 , 201cinvestment in unconsolidated joint ventures 2014gramercy capital corp. , 201d for disclosure on related party transactions between gramercy and the company .",
+      "13 2002equit y common stock our authorized capital stock consists of 260000000 shares , $ .01 par value , of which we have authorized the issuance of up to 160000000 shares of common stock , $ .01 par value per share , 75000000 shares of excess stock , $ .01 par value per share , and 25000000 shares of preferred stock , $ .01 par value per share .",
+      "as of december a031 , 2010 , 78306702 shares of common stock and no shares of excess stock were issued and outstanding .",
+      "in may 2009 , we sold 19550000 shares of our common stock at a gross price of $ 20.75 per share .",
+      "the net proceeds from this offer- ing ( approximately $ 387.1 a0 million ) were primarily used to repurchase unsecured debt .",
+      "perpetual preferred stock in january 2010 , we sold 5400000 shares of our series a0c preferred stock in an underwritten public offering .",
+      "as a result of this offering , we have 11700000 shares of the series a0 c preferred stock outstanding .",
+      "the shares of series a0c preferred stock have a liquidation preference of $ 25.00 per share and are redeemable at par , plus accrued and unpaid dividends , at any time at our option .",
+      "the shares were priced at $ 23.53 per share including accrued dividends equating to a yield of 8.101% ( 8.101 % ) .",
+      "we used the net offering proceeds of approximately $ 122.0 a0million for gen- eral corporate and/or working capital purposes , including purchases of the indebtedness of our subsidiaries and investment opportunities .",
+      "in december 2003 , we sold 6300000 shares of our 7.625% ( 7.625 % ) series a0 c preferred stock , ( including the underwriters 2019 over-allotment option of 700000 shares ) with a mandatory liquidation preference of $ 25.00 per share .",
+      "net proceeds from this offering ( approximately $ 152.0 a0 million ) were used principally to repay amounts outstanding under our secured and unsecured revolving credit facilities .",
+      "the series a0c preferred stockholders receive annual dividends of $ 1.90625 per share paid on a quarterly basis and dividends are cumulative , subject to cer- tain provisions .",
+      "since december a0 12 , 2008 , we have been entitled to redeem the series a0c preferred stock at par for cash at our option .",
+      "the series a0c preferred stock was recorded net of underwriters discount and issuance costs .",
+      "12 2002related part y transactions cleaning/securit y/messenger and restoration services through al l iance bui lding services , or al l iance , first qual i t y maintenance , a0l.p. , or first quality , provides cleaning , extermination and related services , classic security a0llc provides security services , bright star couriers a0llc provides messenger services , and onyx restoration works provides restoration services with respect to certain proper- ties owned by us .",
+      "alliance is partially owned by gary green , a son of stephen a0l .",
+      "green , the chairman of our board of directors .",
+      "in addition , first quality has the non-exclusive opportunity to provide cleaning and related services to individual tenants at our properties on a basis sepa- rately negotiated with any tenant seeking such additional services .",
+      "the service corp .",
+      "has entered into an arrangement with alliance whereby it will receive a profit participation above a certain threshold for services provided by alliance to certain tenants at certain buildings above the base services specified in their lease agreements .",
+      "alliance paid the service corporation approximately $ 2.2 a0million , $ 1.8 a0million and $ 1.4 a0million for the years ended december a031 , 2010 , 2009 and 2008 , respectively .",
+      "we paid alliance approximately $ 14.2 a0million , $ 14.9 a0million and $ 15.1 a0million for three years ended december a031 , 2010 , respectively , for these ser- vices ( excluding services provided directly to tenants ) .",
+      "leases nancy peck and company leases 1003 square feet of space at 420 lexington avenue under a lease that ends in august 2015 .",
+      "nancy peck and company is owned by nancy peck , the wife of stephen a0l .",
+      "green .",
+      "the rent due pursuant to the lease is $ 35516 per annum for year one increas- ing to $ 40000 in year seven .",
+      "from february 2007 through december 2008 , nancy peck and company leased 507 square feet of space at 420 a0 lexington avenue pursuant to a lease which provided for annual rental payments of approximately $ 15210 .",
+      "brokerage services cushman a0 & wakefield sonnenblick-goldman , a0 llc , or sonnenblick , a nationally recognized real estate investment banking firm , provided mortgage brokerage services to us .",
+      "mr . a0 morton holliday , the father of mr . a0 marc holliday , was a managing director of sonnenblick at the time of the financings .",
+      "in 2009 , we paid approximately $ 428000 to sonnenblick in connection with the purchase of a sub-leasehold interest and the refinancing of 420 lexington avenue .",
+      "management fees s.l .",
+      "green management corp. , a consolidated entity , receives property management fees from an entity in which stephen a0l .",
+      "green owns an inter- est .",
+      "the aggregate amount of fees paid to s.l .",
+      "green management corp .",
+      "from such entity was approximately $ 390700 in 2010 , $ 351700 in 2009 and $ 353500 in 2008 .",
+      "notes to consolidated financial statements ."
+    ],
+    "table": [
+      [
+        "",
+        "2010",
+        "2009"
+      ],
+      [
+        "due from joint ventures",
+        "$ 1062",
+        "$ 228"
+      ],
+      [
+        "officers and employees",
+        "2014",
+        "153"
+      ],
+      [
+        "other",
+        "5233",
+        "8189"
+      ],
+      [
+        "related party receivables",
+        "$ 6295",
+        "$ 8570"
+      ]
+    ],
+    "questions": [
+      "what was the total paid to alliance from 2008-2010 , in millions?"
+    ]
+  }
+}

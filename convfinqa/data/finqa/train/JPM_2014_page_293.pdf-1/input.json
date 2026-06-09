@@ -1,0 +1,81 @@
+{
+  "input": {
+    "id": "JPM/2014/page_293.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "jpmorgan chase & co./2014 annual report 291 therefore , are not recorded on the consolidated balance sheets until settlement date .",
+      "the unsettled reverse repurchase agreements and securities borrowing agreements predominantly consist of agreements with regular-way settlement periods .",
+      "loan sales- and securitization-related indemnifications mortgage repurchase liability in connection with the firm 2019s mortgage loan sale and securitization activities with the gses , as described in note 16 , the firm has made representations and warranties that the loans sold meet certain requirements .",
+      "the firm has been , and may be , required to repurchase loans and/or indemnify the gses ( e.g. , with 201cmake-whole 201d payments to reimburse the gses for their realized losses on liquidated loans ) .",
+      "to the extent that repurchase demands that are received relate to loans that the firm purchased from third parties that remain viable , the firm typically will have the right to seek a recovery of related repurchase losses from the third party .",
+      "generally , the maximum amount of future payments the firm would be required to make for breaches of these representations and warranties would be equal to the unpaid principal balance of such loans that are deemed to have defects that were sold to purchasers ( including securitization-related spes ) plus , in certain circumstances , accrued interest on such loans and certain expense .",
+      "the following table summarizes the change in the mortgage repurchase liability for each of the periods presented .",
+      "summary of changes in mortgage repurchase liability ( a ) year ended december 31 , ( in millions ) 2014 2013 2012 repurchase liability at beginning of period $ 681 $ 2811 $ 3557 net realized gains/ ( losses ) ( b ) 53 ( 1561 ) ( 1158 ) ."
+    ],
+    "post_text": [
+      "( benefit ) /provision for repurchase ( c ) ( 459 ) ( 390 ) 412 repurchase liability at end of period $ 275 $ 681 $ 2811 ( a ) on october 25 , 2013 , the firm announced that it had reached a $ 1.1 billion agreement with the fhfa to resolve , other than certain limited types of exposures , outstanding and future mortgage repurchase demands associated with loans sold to the gses from 2000 to 2008 .",
+      "( b ) presented net of third-party recoveries and included principal losses and accrued interest on repurchased loans , 201cmake-whole 201d settlements , settlements with claimants , and certain related expense .",
+      "make-whole settlements were $ 11 million , $ 414 million and $ 524 million , for the years ended december 31 , 2014 , 2013 and 2012 , respectively .",
+      "( c ) included a provision related to new loan sales of $ 4 million , $ 20 million and $ 112 million , for the years ended december 31 , 2014 , 2013 and 2012 , respectively .",
+      "private label securitizations the liability related to repurchase demands associated with private label securitizations is separately evaluated by the firm in establishing its litigation reserves .",
+      "on november 15 , 2013 , the firm announced that it had reached a $ 4.5 billion agreement with 21 major institutional investors to make a binding offer to the trustees of 330 residential mortgage-backed securities trusts issued by j.p.morgan , chase , and bear stearns ( 201crmbs trust settlement 201d ) to resolve all representation and warranty claims , as well as all servicing claims , on all trusts issued by j.p .",
+      "morgan , chase , and bear stearns between 2005 and 2008 .",
+      "the seven trustees ( or separate and successor trustees ) for this group of 330 trusts have accepted the rmbs trust settlement for 319 trusts in whole or in part and excluded from the settlement 16 trusts in whole or in part .",
+      "the trustees 2019 acceptance is subject to a judicial approval proceeding initiated by the trustees , which is pending in new york state court .",
+      "in addition , from 2005 to 2008 , washington mutual made certain loan level representations and warranties in connection with approximately $ 165 billion of residential mortgage loans that were originally sold or deposited into private-label securitizations by washington mutual .",
+      "of the $ 165 billion , approximately $ 78 billion has been repaid .",
+      "in addition , approximately $ 49 billion of the principal amount of such loans has liquidated with an average loss severity of 59% ( 59 % ) .",
+      "accordingly , the remaining outstanding principal balance of these loans as of december 31 , 2014 , was approximately $ 38 billion , of which $ 8 billion was 60 days or more past due .",
+      "the firm believes that any repurchase obligations related to these loans remain with the fdic receivership .",
+      "for additional information regarding litigation , see note 31 .",
+      "loans sold with recourse the firm provides servicing for mortgages and certain commercial lending products on both a recourse and nonrecourse basis .",
+      "in nonrecourse servicing , the principal credit risk to the firm is the cost of temporary servicing advances of funds ( i.e. , normal servicing advances ) .",
+      "in recourse servicing , the servicer agrees to share credit risk with the owner of the mortgage loans , such as fannie mae or freddie mac or a private investor , insurer or guarantor .",
+      "losses on recourse servicing predominantly occur when foreclosure sales proceeds of the property underlying a defaulted loan are less than the sum of the outstanding principal balance , plus accrued interest on the loan and the cost of holding and disposing of the underlying property .",
+      "the firm 2019s securitizations are predominantly nonrecourse , thereby effectively transferring the risk of future credit losses to the purchaser of the mortgage-backed securities issued by the trust .",
+      "at december 31 , 2014 and 2013 , the unpaid principal balance of loans sold with recourse totaled $ 6.1 billion and $ 7.7 billion , respectively .",
+      "the carrying value of the related liability that the firm has recorded , which is representative of the firm 2019s view of the likelihood it ."
+    ],
+    "table": [
+      [
+        "year ended december 31 ( in millions )",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      [
+        "repurchase liability at beginning of period",
+        "$ 681",
+        "$ 2811",
+        "$ 3557"
+      ],
+      [
+        "net realized gains/ ( losses ) ( b )",
+        "53",
+        "-1561 ( 1561 )",
+        "-1158 ( 1158 )"
+      ],
+      [
+        "reclassification to litigation reserve",
+        "2014",
+        "-179 ( 179 )",
+        "2014"
+      ],
+      [
+        "( benefit ) /provision for repurchase ( c )",
+        "-459 ( 459 )",
+        "-390 ( 390 )",
+        "412"
+      ],
+      [
+        "repurchase liability at end of period",
+        "$ 275",
+        "$ 681",
+        "$ 2811"
+      ]
+    ],
+    "questions": [
+      "what did the make-whole settlements increase the total repurchase liability at the end of the period in 2012"
+    ]
+  }
+}

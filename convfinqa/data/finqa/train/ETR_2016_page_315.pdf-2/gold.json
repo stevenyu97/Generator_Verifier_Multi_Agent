@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in net revenue during 2016 for entergy arkansas , inc.?",
+      "answer": 158.3,
+      "answer_raw": "158.3",
+      "program": "subtract(1520.5, 1362.2)"
+    }
+  ]
+}

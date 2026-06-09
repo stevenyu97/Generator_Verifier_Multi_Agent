@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the total operating expenses as a percentage of sales in 2010?",
+      "answer": 0.88212,
+      "answer_raw": "0.88212",
+      "program": "subtract(8246, 972), divide(#0, 8246)"
+    }
+  ]
+}

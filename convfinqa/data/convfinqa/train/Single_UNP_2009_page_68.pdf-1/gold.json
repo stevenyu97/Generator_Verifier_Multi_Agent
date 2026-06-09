@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amount of nonvested shares as of 12/31/09?",
+      "answer": 1060.0,
+      "answer_raw": "1060.0",
+      "program": "1060"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "now converted to millions?",
+      "answer": 1060000.0,
+      "answer_raw": "1060000.0",
+      "program": "multiply(1060, const_1000)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and considering the amount of shares forfeited, in millions?",
+      "answer": 22000000.0,
+      "answer_raw": "22000000.0",
+      "program": "multiply(1060, const_1000), multiply(22, const_1000000)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "so what was the remaining compensation expense per share for unvested awards?",
+      "answer": 20.75472,
+      "answer_raw": "20.75472",
+      "program": "multiply(1060, const_1000), multiply(22, const_1000000), divide(#1, #0)"
+    }
+  ]
+}

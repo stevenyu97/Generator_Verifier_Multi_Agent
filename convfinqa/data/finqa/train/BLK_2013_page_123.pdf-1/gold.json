@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in estimated amortization expense for finite-lived intangible assets from 2014 to 2015?",
+      "answer": 0.2381,
+      "answer_raw": "0.2381",
+      "program": "subtract(156, 126), divide(#0, 126)"
+    }
+  ]
+}

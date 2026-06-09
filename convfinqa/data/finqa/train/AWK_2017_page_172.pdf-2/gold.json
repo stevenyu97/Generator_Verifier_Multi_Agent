@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the average operating rental expenses from 2015 to 2017 in millions",
+      "answer": 24.66667,
+      "answer_raw": "24.66667",
+      "program": "add(29, 24), add(#0, 21), divide(#1, const_3)"
+    }
+  ]
+}

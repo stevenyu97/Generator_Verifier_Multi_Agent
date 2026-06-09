@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "NKE/2009/page_81.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "nike , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) such agreements in place .",
+      "however , based on the company 2019s historical experience and the estimated probability of future loss , the company has determined that the fair value of such indemnifications is not material to the company 2019s financial position or results of operations .",
+      "in the ordinary course of its business , the company is involved in various legal proceedings involving contractual and employment relationships , product liability claims , trademark rights , and a variety of other matters .",
+      "the company does not believe there are any pending legal proceedings that will have a material impact on the company 2019s financial position or results of operations .",
+      "note 16 2014 restructuring charges during the fourth quarter of fiscal 2009 , the company took necessary steps to streamline its management structure , enhance consumer focus , drive innovation more quickly to market and establish a more scalable , long-term cost structure .",
+      "as a result , the company reduced its global workforce by approximately 5% ( 5 % ) and incurred pre-tax restructuring charges of $ 195 million , primarily consisting of severance costs related to the workforce reduction .",
+      "as nearly all of the restructuring activities were completed in the fourth quarter of fiscal 2009 , the company does not expect to recognize additional costs in future periods relating to these actions .",
+      "the restructuring charge is reflected in the corporate expense line in the segment presentation of pre-tax income in note 19 2014 operating segments and related information .",
+      "the activity in the restructuring accrual for the year ended may 31 , 2009 is as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "the accrual balance as of may 31 , 2009 will be relieved throughout fiscal year 2010 and early 2011 , as severance payments are completed .",
+      "the restructuring accrual is included in accrued liabilities in the consolidated balance sheet .",
+      "as part of its restructuring activities , the company reorganized its nike brand operations geographic structure .",
+      "in fiscal 2009 , 2008 and 2007 , nike brand operations were organized into the following four geographic regions : u.s. , europe , middle east and africa ( collectively , 201cemea 201d ) , asia pacific , and americas .",
+      "in the fourth quarter of 2009 , the company initiated a reorganization of the nike brand business into a new operating model .",
+      "as a result of this reorganization , beginning in the first quarter of fiscal 2010 , the nike brand operations will consist of the following six geographies : north america , western europe , central/eastern europe , greater china , japan , and emerging markets .",
+      "note 17 2014 divestitures on december 17 , 2007 , the company completed the sale of the starter brand business to iconix brand group , inc .",
+      "for $ 60.0 million in cash .",
+      "this transaction resulted in a gain of $ 28.6 million during the year ended may 31 , 2008. ."
+    ],
+    "table": [
+      [
+        "restructuring accrual 2014 june 1 2008",
+        "$ 2014"
+      ],
+      [
+        "severance and related costs",
+        "195.0"
+      ],
+      [
+        "cash payments",
+        "-29.4 ( 29.4 )"
+      ],
+      [
+        "non-cash stock option and restricted stock expense",
+        "-19.5 ( 19.5 )"
+      ],
+      [
+        "foreign currency translation and other",
+        "3.5"
+      ],
+      [
+        "restructuring accrual 2014 may 31 2009",
+        "$ 149.6"
+      ]
+    ],
+    "questions": [
+      "what was the percentage gain on the sale of starter brand business?"
+    ]
+  }
+}

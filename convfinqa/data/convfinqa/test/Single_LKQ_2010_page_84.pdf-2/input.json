@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "Single_LKQ/2010/page_84.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the future minimum lease commitments under these leases at december 31 , 2010 are as follows ( in thousands ) : years ending december 31: ."
+    ],
+    "post_text": [
+      "rental expense for operating leases was approximately $ 66.9 million , $ 57.2 million and $ 49.0 million during the years ended december 31 , 2010 , 2009 and 2008 , respectively .",
+      "in connection with the acquisitions of several businesses , we entered into agreements with several sellers of those businesses , some of whom became stockholders as a result of those acquisitions , for the lease of certain properties used in our operations .",
+      "typical lease terms under these agreements include an initial term of five years , with three to five five-year renewal options and purchase options at various times throughout the lease periods .",
+      "we also maintain the right of first refusal concerning the sale of the leased property .",
+      "lease payments to an employee who became an officer of the company after the acquisition of his business were approximately $ 1.0 million , $ 0.9 million and $ 0.9 million during each of the years ended december 31 , 2010 , 2009 and 2008 , respectively .",
+      "we guarantee the residual values of the majority of our truck and equipment operating leases .",
+      "the residual values decline over the lease terms to a defined percentage of original cost .",
+      "in the event the lessor does not realize the residual value when a piece of equipment is sold , we would be responsible for a portion of the shortfall .",
+      "similarly , if the lessor realizes more than the residual value when a piece of equipment is sold , we would be paid the amount realized over the residual value .",
+      "had we terminated all of our operating leases subject to these guarantees at december 31 , 2010 , the guaranteed residual value would have totaled approximately $ 31.4 million .",
+      "we have not recorded a liability for the guaranteed residual value of equipment under operating leases as the recovery on disposition of the equipment under the leases is expected to approximate the guaranteed residual value .",
+      "litigation and related contingencies in december 2005 and may 2008 , ford global technologies , llc filed complaints with the international trade commission against us and others alleging that certain aftermarket parts imported into the u.s .",
+      "infringed on ford design patents .",
+      "the parties settled these matters in april 2009 pursuant to a settlement arrangement that expires in september 2011 .",
+      "pursuant to the settlement , we ( and our designees ) became the sole distributor in the u.s .",
+      "of aftermarket automotive parts that correspond to ford collision parts that are covered by a u.s .",
+      "design patent .",
+      "we have paid ford an upfront fee for these rights and will pay a royalty for each such part we sell .",
+      "the amortization of the upfront fee and the royalty expenses are reflected in cost of goods sold on the accompanying consolidated statements of income .",
+      "we also have certain other contingencies resulting from litigation , claims and other commitments and are subject to a variety of environmental and pollution control laws and regulations incident to the ordinary course of business .",
+      "we currently expect that the resolution of such contingencies will not materially affect our financial position , results of operations or cash flows. ."
+    ],
+    "table": [
+      [
+        "2011",
+        "$ 62465"
+      ],
+      [
+        "2012",
+        "54236"
+      ],
+      [
+        "2013",
+        "47860"
+      ],
+      [
+        "2014",
+        "37660"
+      ],
+      [
+        "2015",
+        "28622"
+      ],
+      [
+        "thereafter",
+        "79800"
+      ],
+      [
+        "future minimum lease payments",
+        "$ 310643"
+      ]
+    ],
+    "questions": [
+      "what is the net change in rental expense for operating leases from 2009 to 2010?",
+      "what percentage change does this represent?"
+    ]
+  }
+}

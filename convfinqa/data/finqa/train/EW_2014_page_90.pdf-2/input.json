@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "EW/2014/page_90.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "edwards lifesciences corporation notes to consolidated financial statements ( continued ) 13 .",
+      "common stock ( continued ) the company also maintains the nonemployee directors stock incentive compensation program ( the 2018 2018nonemployee directors program 2019 2019 ) .",
+      "under the nonemployee directors program , each nonemployee director may receive annually up to 20000 stock options or 8000 restricted stock units of the company 2019s common stock , or a combination thereof , provided that in no event may the total value of the combined annual award exceed $ 0.2 million .",
+      "each option and restricted stock unit award granted in 2011 or prior generally vests in three equal annual installments .",
+      "each option and restricted stock unit award granted after 2011 generally vests after one year .",
+      "additionally , each nonemployee director may elect to receive all or a portion of the annual cash retainer to which the director is otherwise entitled through the issuance of stock options or restricted shares .",
+      "each option received as a deferral of the cash retainer immediately vests on the grant date , and each restricted share award vests after one year .",
+      "upon a director 2019s initial election to the board , the director receives an initial grant of stock options equal to a fair market value on grant date of $ 0.2 million , not to exceed 10000 shares .",
+      "these grants vest over three years from the date of grant .",
+      "under the nonemployee directors program , an aggregate of 1.4 million shares of the company 2019s common stock has been authorized for issuance .",
+      "the company has an employee stock purchase plan for united states employees and a plan for international employees ( collectively 2018 2018espp 2019 2019 ) .",
+      "under the espp , eligible employees may purchase shares of the company 2019s common stock at 85% ( 85 % ) of the lower of the fair market value of edwards lifesciences common stock on the effective date of subscription or the date of purchase .",
+      "under the espp , employees can authorize the company to withhold up to 12% ( 12 % ) of their compensation for common stock purchases , subject to certain limitations .",
+      "the espp is available to all active employees of the company paid from the united states payroll and to eligible employees of the company outside the united states , to the extent permitted by local law .",
+      "the espp for united states employees is qualified under section 423 of the internal revenue code .",
+      "the number of shares of common stock authorized for issuance under the espp was 6.9 million shares .",
+      "the fair value of each option award and employee stock purchase subscription is estimated on the date of grant using the black-scholes option valuation model that uses the assumptions noted in the following tables .",
+      "the risk-free interest rate is estimated using the u.s .",
+      "treasury yield curve and is based on the expected term of the award .",
+      "expected volatility is estimated based on a blend of the weighted-average of the historical volatility of edwards lifesciences 2019 stock and the implied volatility from traded options on edwards lifesciences 2019 stock .",
+      "the expected term of awards granted is estimated from the vesting period of the award , as well as historical exercise behavior , and represents the period of time that awards granted are expected to be outstanding .",
+      "the company uses historical data to estimate forfeitures and has estimated an annual forfeiture rate of 5.4% ( 5.4 % ) .",
+      "the black-scholes option pricing model was used with the following weighted-average assumptions for options granted during the following periods : option awards ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      [
+        "average risk-free interest rate",
+        "1.5% ( 1.5 % )",
+        "0.8% ( 0.8 % )",
+        "0.7% ( 0.7 % )"
+      ],
+      [
+        "expected dividend yield",
+        "none",
+        "none",
+        "none"
+      ],
+      [
+        "expected volatility",
+        "31% ( 31 % )",
+        "31% ( 31 % )",
+        "31% ( 31 % )"
+      ],
+      [
+        "expected life ( years )",
+        "4.6",
+        "4.6",
+        "4.6"
+      ],
+      [
+        "fair value per share",
+        "$ 23.50",
+        "$ 19.47",
+        "$ 23.93"
+      ]
+    ],
+    "questions": [
+      "what is the expected change according to the model in the fair value per share between 2012 and 2013?"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "STT/2009/page_73.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "impairment net unrealized losses on securities available for sale were as follows as of december 31: ."
+    ],
+    "post_text": [
+      "the above net unrealized loss amounts at december 31 , 2009 and december 31 , 2008 excluded the remaining net unrealized loss of $ 1.01 billion , or $ 635 million after-tax , and $ 2.27 billion , or $ 1.39 billion after- tax , respectively , related to reclassifications of securities available for sale to securities held to maturity .",
+      "these after-tax amounts are recorded in other comprehensive income .",
+      "the decline in the remaining after-tax unrealized loss amounts related to transferred securities resulted from amortization and from the recognition of losses from other-than-temporary impairment on certain of the securities .",
+      "we conduct periodic reviews of individual securities to assess whether other-than-temporary impairment exists .",
+      "to the extent that other-than-temporary impairment is identified , the impairment is broken into a credit component and a non-credit component .",
+      "the credit component is recognized in our consolidated statement of income , and the non-credit component is recognized in other comprehensive income to the extent that management does not intend to sell the security ( see note 3 of the notes to consolidated financial statements included under item 8 ) .",
+      "the assessment of other-than-temporary impairment involves an evaluation of economic and security- specific factors , which are more fully described in note 3 .",
+      "such factors are based upon estimates , derived by management , which contemplate current market conditions and security-specific performance .",
+      "to the extent that market conditions are worse than management 2019s expectations , other-than-temporary impairment could increase , in particular the credit component that would be recognized in our consolidated statement of income .",
+      "national housing prices , according to the case-shiller national hpi , have declined to date approximately 30% ( 30 % ) peak-to-current .",
+      "management currently estimates that national housing prices will continue to decline and bottom out during the second half of 2010 , consistent with a peak-to-trough housing price decline of approximately 37% ( 37 % ) .",
+      "as an indication of the sensitivity of our portfolio with respect to our more significant assumptions underlying our assessment of impairment , if we were to increase our default estimates to 110% ( 110 % ) of management 2019s current expectations with a corresponding slowing of prepayment speeds to 90% ( 90 % ) of management 2019s current expectations , credit-related other-than-temporary impairment could increase by approximately $ 120 million to $ 125 million , which impairment would be recorded in our consolidated statement of income .",
+      "excluding the securities for which other-than-temporary impairment was recorded , management considers the aggregate decline in fair value of the remaining securities and the resulting net unrealized losses to be temporary and not the result of any material changes in the credit characteristics of the securities .",
+      "additional information about our assessment of impairment is provided in note 3 of the notes to consolidated financial statements included under item 8. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2009",
+        "2008"
+      ],
+      [
+        "fair value",
+        "$ 72699",
+        "$ 54163"
+      ],
+      [
+        "amortized cost",
+        "74843",
+        "60786"
+      ],
+      [
+        "net unrealized loss pre-tax",
+        "$ -2144 ( 2144 )",
+        "$ -6623 ( 6623 )"
+      ],
+      [
+        "net unrealized loss after-tax",
+        "$ -1316 ( 1316 )",
+        "$ -4057 ( 4057 )"
+      ]
+    ],
+    "questions": [
+      "what is the amortized cost as a percent of the fair value of the securities in 2009?"
+    ]
+  }
+}

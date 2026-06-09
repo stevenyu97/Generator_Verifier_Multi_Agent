@@ -1,0 +1,81 @@
+{
+  "input": {
+    "id": "ADBE/2014/page_87.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "adobe systems incorporated notes to consolidated financial statements ( continued ) accounting for uncertainty in income taxes during fiscal 2014 and 2013 , our aggregate changes in our total gross amount of unrecognized tax benefits are summarized as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "as of november 28 , 2014 , the combined amount of accrued interest and penalties related to tax positions taken on our tax returns and included in non-current income taxes payable was approximately $ 14.6 million .",
+      "we file income tax returns in the u.s .",
+      "on a federal basis and in many u.s .",
+      "state and foreign jurisdictions .",
+      "we are subject to the continual examination of our income tax returns by the irs and other domestic and foreign tax authorities .",
+      "our major tax jurisdictions are ireland , california and the u.s .",
+      "for ireland , california and the u.s. , the earliest fiscal years open for examination are 2008 , 2008 and 2010 , respectively .",
+      "we regularly assess the likelihood of outcomes resulting from these examinations to determine the adequacy of our provision for income taxes and have reserved for potential adjustments that may result from the current examinations .",
+      "we believe such estimates to be reasonable ; however , there can be no assurance that the final determination of any of these examinations will not have an adverse effect on our operating results and financial position .",
+      "in july 2013 , a u.s .",
+      "income tax examination covering fiscal 2008 and 2009 was completed .",
+      "our accrued tax and interest related to these years was $ 48.4 million and was previously reported in long-term income taxes payable .",
+      "we settled the tax obligation resulting from this examination with cash and income tax assets totaling $ 41.2 million , and the resulting $ 7.2 million income tax benefit was recorded in the third quarter of fiscal 2013 .",
+      "the timing of the resolution of income tax examinations is highly uncertain as are the amounts and timing of tax payments that are part of any audit settlement process .",
+      "these events could cause large fluctuations in the balance sheet classification of current and non-current assets and liabilities .",
+      "we believe that within the next 12 months , it is reasonably possible that either certain audits will conclude or statutes of limitations on certain income tax examination periods will expire , or both .",
+      "given the uncertainties described above , we can only determine a range of estimated potential decreases in underlying unrecognized tax benefits ranging from $ 0 to approximately $ 5 million .",
+      "note 10 .",
+      "restructuring fiscal 2014 restructuring plan in the fourth quarter of fiscal 2014 , in order to better align our global resources for digital media and digital marketing , we initiated a restructuring plan to vacate our research and development facility in china and our sales and marketing facility in russia .",
+      "this plan consisted of reductions of approximately 350 full-time positions and we recorded restructuring charges of approximately $ 18.8 million related to ongoing termination benefits for the positions eliminated .",
+      "during fiscal 2015 , we intend to vacate both of these facilities .",
+      "the amount accrued for the fair value of future contractual obligations under these operating leases was insignificant .",
+      "other restructuring plans during the past several years , we have implemented other restructuring plans consisting of reductions in workforce and the consolidation of facilities to better align our resources around our business strategies .",
+      "as of november 28 , 2014 , we considered our other restructuring plans to be substantially complete .",
+      "we continue to make cash outlays to settle obligations under these plans , however the current impact to our consolidated financial statements is not significant. ."
+    ],
+    "table": [
+      [
+        "",
+        "2014",
+        "2013"
+      ],
+      [
+        "beginning balance",
+        "$ 136098",
+        "$ 160468"
+      ],
+      [
+        "gross increases in unrecognized tax benefits 2013 prior year tax positions",
+        "144",
+        "20244"
+      ],
+      [
+        "gross increases in unrecognized tax benefits 2013 current year tax positions",
+        "18877",
+        "16777"
+      ],
+      [
+        "settlements with taxing authorities",
+        "-995 ( 995 )",
+        "-55851 ( 55851 )"
+      ],
+      [
+        "lapse of statute of limitations",
+        "-1630 ( 1630 )",
+        "-4066 ( 4066 )"
+      ],
+      [
+        "foreign exchange gains and losses",
+        "-3646 ( 3646 )",
+        "-1474 ( 1474 )"
+      ],
+      [
+        "ending balance",
+        "$ 148848",
+        "$ 136098"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in the total gross amount of unrecognized tax benefits from 2013 to 2014?"
+    ]
+  }
+}

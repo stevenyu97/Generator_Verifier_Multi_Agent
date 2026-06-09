@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average basic net income available for common shares from 2000 to 2002",
+      "answer": 201399.0,
+      "answer_raw": "201399.0",
+      "program": "add(161272, 229967), add(#0, 212958), divide(#1, const_3)"
+    }
+  ]
+}

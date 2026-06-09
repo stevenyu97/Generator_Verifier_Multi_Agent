@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the five year percentage return on ball corporation stock?",
+      "answer": 1.707,
+      "answer_raw": "1.707",
+      "program": "divide(170.70, 100.00)"
+    }
+  ]
+}

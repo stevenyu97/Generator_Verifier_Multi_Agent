@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the dow jones technology index between 2016 and 2017?",
+      "answer": 47.0,
+      "answer_raw": "47.0",
+      "program": "subtract(214, 167)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of shares from the common stock held by defined contribution plans in 2012, in millions?",
+      "answer": 48.6,
+      "answer_raw": "48.6",
+      "program": "48.6"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2011, also in millions?",
+      "answer": 52.1,
+      "answer_raw": "52.1",
+      "program": "52.1"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": -3.5,
+      "answer_raw": "-3.5",
+      "program": "subtract(48.6, 52.1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the number of shares from the common stock held by defined contribution plans in 2011, in millions?",
+      "answer": 52.1,
+      "answer_raw": "52.1",
+      "program": "52.1"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this 2011 number of shares, in percentage?",
+      "answer": -0.06718,
+      "answer_raw": "-0.06718",
+      "program": "subtract(48.6, 52.1), divide(#0, 52.1)"
+    }
+  ]
+}

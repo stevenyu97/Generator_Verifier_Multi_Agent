@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of the three acquired businesses , that were responsible for the 27% ( 27 % ) improvement in third-party sales?",
+      "answer": 0.24523,
+      "answer_raw": "0.24523",
+      "program": "divide(1310, 5342)"
+    }
+  ]
+}

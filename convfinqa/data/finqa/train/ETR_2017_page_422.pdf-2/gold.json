@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2017 what was the percent of the utilization of the allowed letter of credit limit on the entergy texas",
+      "answer": 0.85333,
+      "answer_raw": "0.85333",
+      "program": "divide(25.6, 30)"
+    }
+  ]
+}

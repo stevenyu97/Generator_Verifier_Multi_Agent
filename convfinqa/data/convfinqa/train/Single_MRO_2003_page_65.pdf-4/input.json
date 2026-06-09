@@ -1,0 +1,90 @@
+{
+  "input": {
+    "id": "Single_MRO/2003/page_65.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "expenditures and acquisitions of leased properties are funded by the original contributor of the assets , but no change in ownership interest may result from these contributions .",
+      "an excess of ashland funded improvements over marathon funded improvements results in a net gain and an excess of marathon funded improvements over ashland funded improvements results in a net loss .",
+      "cost of revenues increased by $ 8.718 billion in 2003 from 2002 and $ 367 million in 2002 from 2001 .",
+      "the increases in the oerb segment were primarily a result of higher natural gas and liquid hydrocarbon costs .",
+      "the increases in the rm&t segment primarily reflected higher acquisition costs for crude oil , refined products , refinery charge and blend feedstocks and increased manufacturing expenses .",
+      "selling , general and administrative expenses increased by $ 107 million in 2003 from 2002 and $ 125 million in 2002 from 2001 .",
+      "the increase in 2003 was primarily a result of increased employee benefits ( caused by increased pension expense resulting from changes in actuarial assumptions and a decrease in realized returns on plan assets ) and other employee related costs .",
+      "also , marathon changed assumptions in the health care cost trend rate from 7.5% ( 7.5 % ) to 10% ( 10 % ) , resulting in higher retiree health care costs .",
+      "additionally , during 2003 , marathon recorded a charge of $ 24 million related to organizational and business process changes .",
+      "the increase in 2002 primarily reflected increased employee related costs .",
+      "inventory market valuation reserve is established to reduce the cost basis of inventories to current market value .",
+      "the 2002 results of operations include credits to income from operations of $ 71 million , reversing the imv reserve at december 31 , 2001 .",
+      "for additional information on this adjustment , see 201cmanagement 2019s discussion and analysis of critical accounting estimates 2013 net realizable value of inventories 201d on page 31 .",
+      "net interest and other financial costs decreased by $ 82 million in 2003 from 2002 , following an increase of $ 96 million in 2002 from 2001 .",
+      "the decrease in 2003 is primarily due to an increase in capitalized interest related to increased long-term construction projects , the favorable effect of interest rate swaps , the favorable effect of interest on tax deficiencies and increased interest income on investments .",
+      "the increase in 2002 was primarily due to higher average debt levels resulting from acquisitions and the separation .",
+      "additionally , included in net interest and other financing costs are foreign currency gains of $ 13 million and $ 8 million for 2003 and 2002 and losses of $ 5 million for 2001 .",
+      "loss from early extinguishment of debt in 2002 was attributable to the retirement of $ 337 million aggregate principal amount of debt , resulting in a loss of $ 53 million .",
+      "as a result of the adoption of statement of financial accounting standards no .",
+      "145 201crescission of fasb statements no .",
+      "4 , 44 , and 64 , amendment of fasb statement no .",
+      "13 , and technical corrections 201d ( 201csfas no .",
+      "145 201d ) , the loss from early extinguishment of debt that was previously reported as an extraordinary item ( net of taxes of $ 20 million ) has been reclassified into income before income taxes .",
+      "the adoption of sfas no .",
+      "145 had no impact on net income for 2002 .",
+      "minority interest in income of map , which represents ashland 2019s 38 percent ownership interest , increased by $ 129 million in 2003 from 2002 , following a decrease of $ 531 million in 2002 from 2001 .",
+      "map income was higher in 2003 compared to 2002 as discussed below in the rm&t segment .",
+      "map income was significantly lower in 2002 compared to 2001 as discussed below in the rm&t segment .",
+      "provision for income taxes increased by $ 215 million in 2003 from 2002 , following a decrease of $ 458 million in 2002 from 2001 , primarily due to $ 720 million increase and $ 1.356 billion decrease in income before income taxes .",
+      "the effective tax rate for 2003 was 36.6% ( 36.6 % ) compared to 42.1% ( 42.1 % ) and 37.1% ( 37.1 % ) for 2002 and 2001 .",
+      "the higher rate in 2002 was due to the united kingdom enactment of a supplementary 10 percent tax on profits from the north sea oil and gas production , retroactively effective to april 17 , 2002 .",
+      "in 2002 , marathon recognized a one-time noncash deferred tax adjustment of $ 61 million as a result of the rate increase .",
+      "the following is an analysis of the effective tax rate for the periods presented: ."
+    ],
+    "post_text": [
+      "( a ) the deferred tax effect related to the enactment of a supplemental tax in the u.k .",
+      "increased the effective tax rate 7.0 percent in 2002. ."
+    ],
+    "table": [
+      [
+        "",
+        "2003",
+        "2002",
+        "2001"
+      ],
+      [
+        "statutory tax rate",
+        "35.0% ( 35.0 % )",
+        "35.0% ( 35.0 % )",
+        "35.0% ( 35.0 % )"
+      ],
+      [
+        "effects of foreign operations ( a )",
+        "-0.4 ( 0.4 )",
+        "5.6",
+        "-0.7 ( 0.7 )"
+      ],
+      [
+        "state and local income taxes after federal income tax effects",
+        "2.2",
+        "3.9",
+        "3.0"
+      ],
+      [
+        "other federal tax effects",
+        "-0.2 ( 0.2 )",
+        "-2.4 ( 2.4 )",
+        "-0.2 ( 0.2 )"
+      ],
+      [
+        "effective tax rate",
+        "36.6% ( 36.6 % )",
+        "42.1% ( 42.1 % )",
+        "37.1% ( 37.1 % )"
+      ]
+    ],
+    "questions": [
+      "what was the state and local income taxes after federal income tax effects in 2003?",
+      "what was the state and local income taxes after federal income tax effects in 2002?",
+      "what is the net change?",
+      "what was the state and local income taxes after federal income tax effects in 2002?",
+      "what was the percent change?"
+    ]
+  }
+}

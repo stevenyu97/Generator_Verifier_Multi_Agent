@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the expected growth rate in amortization expense related to intangible assets from 2017 to 2018?",
+      "answer": -0.0031,
+      "answer_raw": "-0.0031",
+      "program": "subtract(322, 323), divide(#0, 323)"
+    }
+  ]
+}

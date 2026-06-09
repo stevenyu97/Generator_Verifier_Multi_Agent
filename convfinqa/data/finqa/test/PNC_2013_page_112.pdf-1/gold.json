@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in these equity investment balances , what is the percent of unfunded commitments at december 31 , 2013?",
+      "answer": 0.07521,
+      "answer_raw": "0.07521",
+      "program": "divide(802, 10664)"
+    }
+  ]
+}

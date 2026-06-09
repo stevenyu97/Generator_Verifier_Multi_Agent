@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what as the percent of the net revenue from transmission in 2011",
+      "answer": 0.01328,
+      "answer_raw": "0.01328",
+      "program": "divide(12.4, 933.4)"
+    }
+  ]
+}

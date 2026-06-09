@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2012 what was the ratio of the estimated future benefit payments qualified defined benefit pension plans due in 2014 to the amount after 2018",
+      "answer": 0.15295,
+      "answer_raw": "0.15295",
+      "program": "divide(1970, 12880)"
+    }
+  ]
+}

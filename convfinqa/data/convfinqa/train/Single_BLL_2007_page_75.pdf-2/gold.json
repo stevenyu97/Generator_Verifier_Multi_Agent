@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in interest expense between 2005 and 2006?",
+      "answer": 18.0,
+      "answer_raw": "18.0",
+      "program": "subtract(134.4, 116.4)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the specific value for 2005?",
+      "answer": 116.4,
+      "answer_raw": "116.4",
+      "program": "116.4"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference as a percentage of the original value?",
+      "answer": 0.15464,
+      "answer_raw": "0.15464",
+      "program": "subtract(134.4, 116.4), divide(#0, 116.4)"
+    }
+  ]
+}

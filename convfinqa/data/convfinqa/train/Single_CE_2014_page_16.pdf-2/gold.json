@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in cash dividends from 2012 to 2014?",
+      "answer": 32.0,
+      "answer_raw": "32.0",
+      "program": "subtract(115, 83)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total of those cash dividends in 2012?",
+      "answer": 83.0,
+      "answer_raw": "83.0",
+      "program": "83"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2012 total, in percentage?",
+      "answer": 0.38554,
+      "answer_raw": "0.38554",
+      "program": "subtract(115, 83), divide(#0, 83)"
+    }
+  ]
+}

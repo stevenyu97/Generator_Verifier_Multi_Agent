@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the net earnings attributable to pmi in the previous year , ( in billions ) ?",
+      "answer": 6.95522,
+      "answer_raw": "6.95522",
+      "program": "divide(932, 13.4%), divide(#0, const_1000)"
+    }
+  ]
+}

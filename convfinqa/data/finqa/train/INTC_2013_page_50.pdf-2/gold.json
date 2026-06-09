@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total contractual obligations as of december 28 , 2013 is made up of capital purchase obligations?",
+      "answer": 0.17143,
+      "answer_raw": "0.17143",
+      "program": "divide(5503, 32100)"
+    }
+  ]
+}

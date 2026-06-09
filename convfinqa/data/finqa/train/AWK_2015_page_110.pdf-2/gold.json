@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did property , plant and equipment depreciation expense increase from 2013 to 2015?",
+      "answer": 0.08289,
+      "answer_raw": "0.08289",
+      "program": "subtract(405, 374), divide(#0, 374)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the contingent payments to impella 2019s former shareholders if impella 2.5 and impella 5.0 are approved?",
+      "answer": 11166666.0,
+      "answer_raw": "11166666.0",
+      "program": "add(5583333, 5583333)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the payment amount if impella 2019s worldwide are approved?",
+      "answer": 5583334.0,
+      "answer_raw": "5583334.0",
+      "program": "5583334"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combined, what would be paid to former shareholders if all targets are achieved?",
+      "answer": 16750000.0,
+      "answer_raw": "16750000.0",
+      "program": "add(5583333, 5583333), add(#0, 5583334)"
+    }
+  ]
+}

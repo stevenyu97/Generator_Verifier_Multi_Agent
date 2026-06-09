@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the minimum legal expense in the past three years?",
+      "answer": 2883.0,
+      "answer_raw": "2883.0",
+      "program": "table_min(legal expense, none)"
+    }
+  ]
+}

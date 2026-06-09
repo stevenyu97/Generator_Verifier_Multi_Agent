@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if the company were to buy the remaining securities at the average price of $ 34.92 , what would be the total payments from the company?",
+      "answer": 276818173.2,
+      "answer_raw": "276818173.2",
+      "program": "multiply(7927210, 34.92)"
+    }
+  ]
+}

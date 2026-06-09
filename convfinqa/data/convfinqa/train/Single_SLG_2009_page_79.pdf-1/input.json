@@ -1,0 +1,91 @@
+{
+  "input": {
+    "id": "Single_SLG/2009/page_79.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "notes to consolidated financial statements in march 2008 , the fasb issued guidance which requires entities to provide greater transparency about ( a ) how and why an entity uses derivative instruments , ( b ) how derivative instruments and related hedged items are accounted , and ( c ) how derivative instruments and related hedged items affect an entity 2019s financial position , results of operations , and cash flows .",
+      "this guidance was effective on january 1 , 2009 .",
+      "the adoption of this guidance did not have a material impact on our consolidated financial statements .",
+      "in june 2009 , the fasb issued guidance on accounting for transfers of financial assets .",
+      "this guidance amends various components of the existing guidance governing sale accounting , including the recog- nition of assets obtained and liabilities assumed as a result of a transfer , and considerations of effective control by a transferor over transferred assets .",
+      "in addition , this guidance removes the exemption for qualifying special purpose entities from the consolidation guidance .",
+      "this guidance is effective january 1 , 2010 , with early adoption prohibited .",
+      "while the amended guidance governing sale accounting is applied on a prospec- tive basis , the removal of the qualifying special purpose entity exception will require us to evaluate certain entities for consolidation .",
+      "while we are evaluating the effect of adoption of this guidance , we currently believe that its adoption will not have a material impact on our consolidated financial statement .",
+      "in june 2009 , the fasb amended the guidance for determin- ing whether an entity is a variable interest entity , or vie , and requires the performance of a qualitative rather than a quantitative analysis to determine the primary beneficiary of a vie .",
+      "under this guidance , an entity would be required to consolidate a vie if it has ( i ) the power to direct the activities that most significantly impact the entity 2019s economic performance and ( ii ) the obligation to absorb losses of the vie or the right to receive benefits from the vie that could be significant to the vie .",
+      "this guidance is effective for the first annual reporting period that begins after november 15 , 2009 , with early adoption prohibited .",
+      "while we are currently evaluating the effect of adoption of this guidance , we currently believe that its adoption will not have a material impact on our consoli- dated financial statements .",
+      "note 3 / property acquisitions 2009 acquisitions during 2009 , we acquired the sub-leasehold positions at 420 lexington avenue for an aggregate purchase price of approximately $ 15.9 million .",
+      "2008 acquisitions in february 2008 , we , through our joint venture with jeff sutton , acquired the properties located at 182 broadway and 63 nassau street for approximately $ 30.0 million in the aggregate .",
+      "these properties are located adjacent to 180 broadway which we acquired in august 2007 .",
+      "as part of the acquisition we also closed on a $ 31.0 million loan which bears interest at 225 basis points over the 30-day libor .",
+      "the loan has a three-year term and two one-year extensions .",
+      "we drew down $ 21.1 mil- lion at the closing to pay the balance of the acquisition costs .",
+      "during the second quarter of 2008 , we , through a joint ven- ture with nysters , acquired various interests in the fee positions at 919 third avenue for approximately $ 32.8 million .",
+      "as a result , our joint venture controls the entire fee position .",
+      "2007 acquisitions in january 2007 , we acquired reckson for approximately $ 6.0 billion , inclusive of transaction costs .",
+      "simultaneously , we sold approximately $ 2.0 billion of the reckson assets to an asset purchasing venture led by certain of reckson 2019s former executive management .",
+      "the transaction included the acquisition of 30 properties encompassing approximately 9.2 million square feet , of which five properties encompassing approxi- mately 4.2 million square feet are located in manhattan .",
+      "the following summarizes our allocation of the purchase price to the assets and liabilities acquired from reckson ( in thousands ) : ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "land",
+        "$ 766727"
+      ],
+      [
+        "building",
+        "3724962"
+      ],
+      [
+        "investment in joint venture",
+        "65500"
+      ],
+      [
+        "structured finance investments",
+        "136646"
+      ],
+      [
+        "acquired above-market leases",
+        "24661"
+      ],
+      [
+        "other assets net of other liabilities",
+        "30473"
+      ],
+      [
+        "acquired in-place leases",
+        "175686"
+      ],
+      [
+        "assets acquired",
+        "4924655"
+      ],
+      [
+        "acquired below-market leases",
+        "422177"
+      ],
+      [
+        "minority interest",
+        "401108"
+      ],
+      [
+        "liabilities acquired",
+        "823285"
+      ],
+      [
+        "net assets acquired",
+        "$ 4101370"
+      ]
+    ],
+    "questions": [
+      "what is the 9 times 1000?",
+      "how many million square feet were purchased?",
+      "what is the first product divided by the total square feet?"
+    ]
+  }
+}

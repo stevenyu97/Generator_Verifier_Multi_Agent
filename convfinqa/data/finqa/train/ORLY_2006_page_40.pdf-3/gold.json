@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total value of the shares awarded under this plan in 2006 based on grant date value?",
+      "answer": 619277.76,
+      "answer_raw": "619277.76",
+      "program": "multiply(33.12, 18698)"
+    }
+  ]
+}

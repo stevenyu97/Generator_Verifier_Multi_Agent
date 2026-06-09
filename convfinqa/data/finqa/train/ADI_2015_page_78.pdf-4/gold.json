@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total expense for the company contribution plan from 2013 to 2015?",
+      "answer": 163.1,
+      "answer_raw": "163.1",
+      "program": "add(23.1, 24.1), add(26.3, 33.3), add(29.8, 26.5), add(#2, #0), add(#3, #1)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "interest income is what percent of other income for 2010?\\\\n\\\\n",
+      "answer": 0.15888,
+      "answer_raw": "0.15888",
+      "program": "divide(34, 214)"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "input": {
+    "id": "RE/2016/page_141.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "during the fixed rate interest period from may 3 , 2007 through may 14 , 2017 , interest will be at the annual rate of 6.6% ( 6.6 % ) , payable semi-annually in arrears on november 15 and may 15 of each year , commencing on november 15 , 2007 , subject to holdings 2019 right to defer interest on one or more occasions for up to ten consecutive years .",
+      "during the floating rate interest period from may 15 , 2017 through maturity , interest will be based on the 3 month libor plus 238.5 basis points , reset quarterly , payable quarterly in arrears on february 15 , may 15 , august 15 and november 15 of each year , subject to holdings 2019 right to defer interest on one or more occasions for up to ten consecutive years .",
+      "deferred interest will accumulate interest at the applicable rate compounded semi-annually for periods prior to may 15 , 2017 , and compounded quarterly for periods from and including may 15 , 2017 .",
+      "holdings can redeem the long term subordinated notes prior to may 15 , 2017 , in whole but not in part at the applicable redemption price , which will equal the greater of ( a ) 100% ( 100 % ) of the principal amount being redeemed and ( b ) the present value of the principal payment on may 15 , 2017 and scheduled payments of interest that would have accrued from the redemption date to may 15 , 2017 on the long term subordinated notes being redeemed , discounted to the redemption date on a semi-annual basis at a discount rate equal to the treasury rate plus an applicable spread of either 0.25% ( 0.25 % ) or 0.50% ( 0.50 % ) , in each case plus accrued and unpaid interest .",
+      "holdings may redeem the long term subordinated notes on or after may 15 , 2017 , in whole or in part at 100% ( 100 % ) of the principal amount plus accrued and unpaid interest ; however , redemption on or after the scheduled maturity date and prior to may 1 , 2047 is subject to a replacement capital covenant .",
+      "this covenant is for the benefit of certain senior note holders and it mandates that holdings receive proceeds from the sale of another subordinated debt issue , of at least similar size , before it may redeem the subordinated notes .",
+      "effective upon the maturity of the company 2019s 5.40% ( 5.40 % ) senior notes on october 15 , 2014 , the company 2019s 4.868% ( 4.868 % ) senior notes , due on june 1 , 2044 , have become the company 2019s long term indebtedness that ranks senior to the long term subordinated notes .",
+      "on march 19 , 2009 , group announced the commencement of a cash tender offer for any and all of the 6.60% ( 6.60 % ) fixed to floating rate long term subordinated notes .",
+      "upon expiration of the tender offer , the company had reduced its outstanding debt by $ 161441 thousand .",
+      "interest expense incurred in connection with these long term subordinated notes is as follows for the periods indicated: ."
+    ],
+    "post_text": [
+      "8 .",
+      "collateralized reinsurance and trust agreements certain subsidiaries of group have established trust agreements , which effectively use the company 2019s investments as collateral , as security for assumed losses payable to certain non-affiliated ceding companies .",
+      "at december 31 , 2016 , the total amount on deposit in trust accounts was $ 466029 thousand .",
+      "the company reinsures some of its catastrophe exposures with the segregated accounts of mt .",
+      "logan re .",
+      "mt .",
+      "logan re is a class 3 insurer registered in bermuda effective february 27 , 2013 under the segregated accounts companies act 2000 and 100% ( 100 % ) of the voting common shares are owned by group .",
+      "separate segregated accounts for mt .",
+      "logan re began being established effective july 1 , 2013 and non-voting , redeemable preferred shares have been issued to capitalize the segregated accounts .",
+      "each segregated account invests predominately in a diversified set of catastrophe exposures , diversified by risk/peril and across different geographic regions globally. ."
+    ],
+    "table": [
+      [
+        "( dollars in thousands )",
+        "years ended december 31 , 2016",
+        "years ended december 31 , 2015",
+        "years ended december 31 , 2014"
+      ],
+      [
+        "interest expense incurred",
+        "$ 15749",
+        "$ 15749",
+        "$ 15749"
+      ]
+    ],
+    "questions": [
+      "what was the total interest expense incurred associated with the long term subordinated notes from 2014 to 2016 in thousands of dollars"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "K/2013/page_62.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "december 31 , 2011 , the company recognized a decrease of $ 3 million of tax-related interest and penalties and had approximately $ 16 million accrued at december 31 , 2011 .",
+      "note 12 derivative instruments and fair value measurements the company is exposed to certain market risks such as changes in interest rates , foreign currency exchange rates , and commodity prices , which exist as a part of its ongoing business operations .",
+      "management uses derivative financial and commodity instruments , including futures , options , and swaps , where appropriate , to manage these risks .",
+      "instruments used as hedges must be effective at reducing the risk associated with the exposure being hedged and must be designated as a hedge at the inception of the contract .",
+      "the company designates derivatives as cash flow hedges , fair value hedges , net investment hedges , and uses other contracts to reduce volatility in interest rates , foreign currency and commodities .",
+      "as a matter of policy , the company does not engage in trading or speculative hedging transactions .",
+      "total notional amounts of the company 2019s derivative instruments as of december 28 , 2013 and december 29 , 2012 were as follows: ."
+    ],
+    "post_text": [
+      "following is a description of each category in the fair value hierarchy and the financial assets and liabilities of the company that were included in each category at december 28 , 2013 and december 29 , 2012 , measured on a recurring basis .",
+      "level 1 2014 financial assets and liabilities whose values are based on unadjusted quoted prices for identical assets or liabilities in an active market .",
+      "for the company , level 1 financial assets and liabilities consist primarily of commodity derivative contracts .",
+      "level 2 2014 financial assets and liabilities whose values are based on quoted prices in markets that are not active or model inputs that are observable either directly or indirectly for substantially the full term of the asset or liability .",
+      "for the company , level 2 financial assets and liabilities consist of interest rate swaps and over-the-counter commodity and currency contracts .",
+      "the company 2019s calculation of the fair value of interest rate swaps is derived from a discounted cash flow analysis based on the terms of the contract and the interest rate curve .",
+      "over-the-counter commodity derivatives are valued using an income approach based on the commodity index prices less the contract rate multiplied by the notional amount .",
+      "foreign currency contracts are valued using an income approach based on forward rates less the contract rate multiplied by the notional amount .",
+      "the company 2019s calculation of the fair value of level 2 financial assets and liabilities takes into consideration the risk of nonperformance , including counterparty credit risk .",
+      "level 3 2014 financial assets and liabilities whose values are based on prices or valuation techniques that require inputs that are both unobservable and significant to the overall fair value measurement .",
+      "these inputs reflect management 2019s own assumptions about the assumptions a market participant would use in pricing the asset or liability .",
+      "the company did not have any level 3 financial assets or liabilities as of december 28 , 2013 or december 29 , 2012. ."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "2013",
+        "2012"
+      ],
+      [
+        "foreign currency exchange contracts",
+        "$ 517",
+        "$ 570"
+      ],
+      [
+        "interest rate contracts",
+        "2400",
+        "2150"
+      ],
+      [
+        "commodity contracts",
+        "361",
+        "320"
+      ],
+      [
+        "total",
+        "$ 3278",
+        "$ 3040"
+      ]
+    ],
+    "questions": [
+      "what percent of total derivatives are from interest rate contracts in 2013?"
+    ]
+  }
+}

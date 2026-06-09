@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "ETR/2013/page_14.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "net revenue utility following is an analysis of the change in net revenue comparing 2013 to 2012 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the retail electric price variance is primarily due to : 2022 a formula rate plan increase at entergy louisiana , effective january 2013 , which includes an increase relating to the waterford 3 steam generator replacement project , which was placed in service in december 2012 .",
+      "the net income effect of the formula rate plan increase is limited to a portion representing an allowed return on equity with the remainder offset by costs included in other operation and maintenance expenses , depreciation expenses , and taxes other than income taxes ; 2022 the recovery of hinds plant costs through the power management rider at entergy mississippi , as approved by the mpsc , effective with the first billing cycle of 2013 .",
+      "the net income effect of the hinds plant cost recovery is limited to a portion representing an allowed return on equity on the net plant investment with the remainder offset by the hinds plant costs in other operation and maintenance expenses , depreciation expenses , and taxes other than income taxes ; 2022 an increase in the capacity acquisition rider at entergy arkansas , as approved by the apsc , effective with the first billing cycle of december 2012 , relating to the hot spring plant acquisition .",
+      "the net income effect of the hot spring plant cost recovery is limited to a portion representing an allowed return on equity on the net plant investment with the remainder offset by the hot spring plant costs in other operation and maintenance expenses , depreciation expenses , and taxes other than income taxes ; 2022 increases in the energy efficiency rider , as approved by the apsc , effective july 2013 and july 2012 .",
+      "energy efficiency revenues are offset by costs included in other operation and maintenance expenses and have no effect on net income ; 2022 an annual base rate increase at entergy texas , effective july 2012 , as a result of the puct 2019s order that was issued in september 2012 in the november 2011 rate case ; and 2022 a formula rate plan increase at entergy mississippi , effective september 2013 .",
+      "see note 2 to the financial statements for a discussion of rate proceedings .",
+      "the louisiana act 55 financing savings obligation variance results from a regulatory charge recorded in the second quarter 2012 because entergy gulf states louisiana and entergy louisiana agreed to share with customers the savings from an irs settlement related to the uncertain tax position regarding the hurricane katrina and hurricane rita louisiana act 55 financing .",
+      "see note 3 to the financial statements for additional discussion of the tax settlement .",
+      "entergy corporation and subsidiaries management's financial discussion and analysis ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2012 net revenue",
+        "$ 4969"
+      ],
+      [
+        "retail electric price",
+        "236"
+      ],
+      [
+        "louisiana act 55 financing savings obligation",
+        "165"
+      ],
+      [
+        "grand gulf recovery",
+        "75"
+      ],
+      [
+        "volume/weather",
+        "40"
+      ],
+      [
+        "fuel recovery",
+        "35"
+      ],
+      [
+        "miso deferral",
+        "12"
+      ],
+      [
+        "decommissioning trusts",
+        "-23 ( 23 )"
+      ],
+      [
+        "other",
+        "15"
+      ],
+      [
+        "2013 net revenue",
+        "$ 5524"
+      ]
+    ],
+    "questions": [
+      "what percentage of the change in net revenue between 2012 and 2013 is due to volume/weather ?"
+    ]
+  }
+}

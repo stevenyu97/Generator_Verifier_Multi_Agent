@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "Single_ETR/2017/page_343.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the retail electric price variance is primarily due to an increase in formula rate plan revenues , implemented with the first billing cycle of march 2016 , to collect the estimated first-year revenue requirement related to the purchase of power blocks 3 and 4 of the union power station in march 2016 and a provision recorded in 2016 related to the settlement of the waterford 3 replacement steam generator prudence review proceeding .",
+      "see note 2 to the financial statements for further discussion of the formula rate plan revenues and the waterford 3 replacement steam generator prudence review proceeding .",
+      "the louisiana act 55 financing savings obligation variance results from a regulatory charge recorded in 2016 for tax savings to be shared with customers per an agreement approved by the lpsc .",
+      "the tax savings resulted from the 2010-2011 irs audit settlement on the treatment of the louisiana act 55 financing of storm costs for hurricane gustav and hurricane ike .",
+      "see note 3 to the financial statements for additional discussion of the settlement and benefit sharing .",
+      "the volume/weather variance is primarily due to the effect of less favorable weather on residential and commercial sales and decreased usage during the unbilled sales period .",
+      "the decrease was partially offset by an increase of 1237 gwh , or 4% ( 4 % ) , in industrial usage primarily due to an increase in demand from existing customers and expansion projects in the chemicals industry .",
+      "2016 compared to 2015 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory charges .",
+      "following is an analysis of the change in net revenue comparing 2016 to 2015 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the retail electric price variance is primarily due to an increase in formula rate plan revenues , implemented with the first billing cycle of march 2016 , to collect the estimated first-year revenue requirement related to the purchase of power blocks 3 and 4 of the union power station .",
+      "see note 2 to the financial statements for further discussion .",
+      "the volume/weather variance is primarily due to the effect of less favorable weather on residential sales , partially offset by an increase in industrial usage and an increase in volume during the unbilled period .",
+      "the increase in industrial usage is primarily due to increased demand from new customers and expansion projects , primarily in the chemicals industry .",
+      "the louisiana act 55 financing savings obligation variance results from a regulatory charge for tax savings to be shared with customers per an agreement approved by the lpsc .",
+      "the tax savings resulted from the 2010-2011 irs audit settlement on the treatment of the louisiana act 55 financing of storm costs for hurricane gustav and hurricane ike .",
+      "see note 3 to the financial statements for additional discussion of the settlement and benefit sharing .",
+      "included in other is a provision of $ 23 million recorded in 2016 related to the settlement of the waterford 3 replacement steam generator prudence review proceeding , offset by a provision of $ 32 million recorded in 2015 related to the uncertainty at that time associated with the resolution of the waterford 3 replacement steam generator prudence entergy louisiana , llc and subsidiaries management 2019s financial discussion and analysis ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2015 net revenue",
+        "$ 2408.8"
+      ],
+      [
+        "retail electric price",
+        "62.5"
+      ],
+      [
+        "volume/weather",
+        "-6.7 ( 6.7 )"
+      ],
+      [
+        "louisiana act 55 financing savings obligation",
+        "-17.2 ( 17.2 )"
+      ],
+      [
+        "other",
+        "-9.0 ( 9.0 )"
+      ],
+      [
+        "2016 net revenue",
+        "$ 2438.4"
+      ]
+    ],
+    "questions": [
+      "what was the net change in revenues from 2015 to 2016?",
+      "what were net revenues in 2015?",
+      "what is the percent change?"
+    ]
+  }
+}

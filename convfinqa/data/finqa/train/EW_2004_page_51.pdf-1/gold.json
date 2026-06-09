@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total contractual cash obligations is due to long-term debt?",
+      "answer": 0.67655,
+      "answer_raw": "0.67655",
+      "program": "divide(267.1, 394.8)"
+    }
+  ]
+}

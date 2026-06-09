@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "UNP/2014/page_25.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "results of operations operating revenues millions 2014 2013 2012 % (  % ) change 2014 v 2013 % (  % ) change 2013 v 2012 ."
+    ],
+    "post_text": [
+      "we generate freight revenues by transporting freight or other materials from our six commodity groups .",
+      "freight revenues vary with volume ( carloads ) and average revenue per car ( arc ) .",
+      "changes in price , traffic mix and fuel surcharges drive arc .",
+      "we provide some of our customers with contractual incentives for meeting or exceeding specified cumulative volumes or shipping to and from specific locations , which we record as reductions to freight revenues based on the actual or projected future shipments .",
+      "we recognize freight revenues as shipments move from origin to destination .",
+      "we allocate freight revenues between reporting periods based on the relative transit time in each reporting period and recognize expenses as we incur them .",
+      "other revenues include revenues earned by our subsidiaries , revenues from our commuter rail operations , and accessorial revenues , which we earn when customers retain equipment owned or controlled by us or when we perform additional services such as switching or storage .",
+      "we recognize other revenues as we perform services or meet contractual obligations .",
+      "freight revenues from all six commodity groups increased during 2014 compared to 2013 driven by 7% ( 7 % ) volume growth and core pricing gains of 2.5% ( 2.5 % ) .",
+      "volume growth from grain , frac sand , rock , and intermodal ( domestic and international ) shipments offset declines in crude oil .",
+      "freight revenues from five of our six commodity groups increased during 2013 compared to 2012 .",
+      "revenue from agricultural products was down slightly compared to 2012 .",
+      "arc increased 5% ( 5 % ) , driven by core pricing gains , shifts in business mix and an automotive logistics management arrangement .",
+      "volume essentially was flat year over year as growth in automotive , frac sand , crude oil and domestic intermodal offset declines in coal , international intermodal and grain shipments .",
+      "our fuel surcharge programs generated freight revenues of $ 2.8 billion , $ 2.6 billion , and $ 2.6 billion in 2014 , 2013 , and 2012 , respectively .",
+      "fuel surcharge in 2014 increased 6% ( 6 % ) driven by our 7% ( 7 % ) carloadings increase .",
+      "fuel surcharge in 2013 essentially was flat versus 2012 as lower fuel price offset improved fuel recovery provisions and the lag effect of our programs ( surcharges trail fluctuations in fuel price by approximately two months ) .",
+      "in 2014 , other revenue increased from 2013 due to higher revenues at our subsidiaries , primarily those that broker intermodal and automotive services , accessorial revenue driven by increased volume and per diem revenue for container usage ( previously included in automotive freight revenue ) .",
+      "in 2013 , other revenue increased from 2012 due primarily to miscellaneous contract revenue and higher revenues at our subsidiaries that broker intermodal and automotive services. ."
+    ],
+    "table": [
+      [
+        "millions",
+        "2014",
+        "2013",
+        "2012",
+        "% (  % ) change 2014 v 2013",
+        "% (  % ) change 2013 v 2012"
+      ],
+      [
+        "freight revenues",
+        "$ 22560",
+        "$ 20684",
+        "$ 19686",
+        "9% ( 9 % )",
+        "5% ( 5 % )"
+      ],
+      [
+        "other revenues",
+        "1428",
+        "1279",
+        "1240",
+        "12% ( 12 % )",
+        "3% ( 3 % )"
+      ],
+      [
+        "total",
+        "$ 23988",
+        "$ 21963",
+        "$ 20926",
+        "9% ( 9 % )",
+        "5% ( 5 % )"
+      ]
+    ],
+    "questions": [
+      "if the fuel surcharge grows by the same rate as in 2014what would expected 2015 revenues be in billions?"
+    ]
+  }
+}

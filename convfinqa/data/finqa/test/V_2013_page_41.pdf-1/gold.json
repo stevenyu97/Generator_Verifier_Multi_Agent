@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the quarter ended september 30 , 2013 what was the total number of shares purchased in august",
+      "answer": 0.89911,
+      "answer_raw": "0.89911",
+      "program": "divide(6640563, 7385711)"
+    }
+  ]
+}

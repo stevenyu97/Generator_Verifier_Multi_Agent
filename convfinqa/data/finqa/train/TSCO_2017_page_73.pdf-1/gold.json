@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the 2017 end goodwill balance is the goodwill from the acquisition?",
+      "answer": 0.89135,
+      "answer_raw": "0.89135",
+      "program": "divide(84159, 94417)"
+    }
+  ]
+}

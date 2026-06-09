@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of liability in 2007?",
+      "answer": 1.2,
+      "answer_raw": "1.2",
+      "program": "1.2"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was it in 2003?",
+      "answer": 5.7,
+      "answer_raw": "5.7",
+      "program": "5.7"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum of those 2 years?",
+      "answer": 6.9,
+      "answer_raw": "6.9",
+      "program": "add(1.2, 5.7)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total sum including the 2001 value?",
+      "answer": 12.8,
+      "answer_raw": "12.8",
+      "program": "add(1.2, 5.7), add(#0, 5.9)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the average per year?",
+      "answer": 4.26667,
+      "answer_raw": "4.26667",
+      "program": "add(1.2, 5.7), add(#0, 5.9), divide(#1, const_3)"
+    }
+  ]
+}

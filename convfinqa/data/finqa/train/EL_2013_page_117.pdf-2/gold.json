@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average rate for the international plans?",
+      "answer": 0.04625,
+      "answer_raw": "0.04625",
+      "program": "add(2.25%, 7.00%), divide(#0, const_2)"
+    }
+  ]
+}

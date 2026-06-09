@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average revenue in agriculture , in millions , from 2008-2010?",
+      "answer": 3239.33333,
+      "answer_raw": "3239.33333",
+      "program": "add(3286, 3080), add(#0, 3352), divide(#1, const_3)"
+    }
+  ]
+}

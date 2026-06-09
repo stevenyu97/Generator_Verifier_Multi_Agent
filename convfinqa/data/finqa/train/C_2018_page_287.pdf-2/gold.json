@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in millions of carrying amount reported on the consolidated balance sheet for loans between 2018 and the year prior?",
+      "answer": -1150.0,
+      "answer_raw": "-1150.0",
+      "program": "subtract(3224, 4374)"
+    }
+  ]
+}

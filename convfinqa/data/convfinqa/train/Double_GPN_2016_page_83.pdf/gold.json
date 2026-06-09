@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2016, how much did the income tax benefit represent in relation to the share-based compensation expense?",
+      "answer": 0.32065,
+      "answer_raw": "0.32065",
+      "program": "divide(9879, 30809)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the change in that income tax benefit since 2014?",
+      "answer": 2753.0,
+      "answer_raw": "2753.0",
+      "program": "subtract(9879, 7126)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is this change as a percentage of that benefit in 2014?",
+      "answer": 0.38633,
+      "answer_raw": "0.38633",
+      "program": "subtract(9879, 7126), divide(#0, 7126)"
+    }
+  ]
+}

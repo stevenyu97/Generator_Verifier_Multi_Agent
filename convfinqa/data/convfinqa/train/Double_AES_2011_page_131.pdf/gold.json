@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the company's total coal capacity in gross mw?",
+      "answer": 1215.0,
+      "answer_raw": "1215.0",
+      "program": "add(670, 545)"
+    }
+  ]
+}

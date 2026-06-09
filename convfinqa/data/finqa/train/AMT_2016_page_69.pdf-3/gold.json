@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total capital expenditures is related to redevelopment?",
+      "answer": 0.21015,
+      "answer_raw": "0.21015",
+      "program": "divide(147.4, 701.4)"
+    }
+  ]
+}

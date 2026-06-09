@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in total debt from 2015 to 2016?",
+      "answer": 1765992.0,
+      "answer_raw": "1765992.0",
+      "program": "subtract(3365687, 1599695)"
+    }
+  ]
+}

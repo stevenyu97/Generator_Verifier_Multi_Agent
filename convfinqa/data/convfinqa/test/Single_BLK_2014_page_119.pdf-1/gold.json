@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of fair value to carrying value?",
+      "answer": 1.07513,
+      "answer_raw": "1.07513",
+      "program": "divide(5309, 4938)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that less 1?",
+      "answer": 0.07513,
+      "answer_raw": "0.07513",
+      "program": "divide(5309, 4938), subtract(#0, const_1)"
+    }
+  ]
+}

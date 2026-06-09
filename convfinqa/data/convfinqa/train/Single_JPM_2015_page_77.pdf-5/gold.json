@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in value of the s&p from 2010 to 2015?",
+      "answer": 80.67,
+      "answer_raw": "80.67",
+      "program": "subtract(180.67, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "assuming an initial investment of $100, what was the percent change?",
+      "answer": 0.8067,
+      "answer_raw": "0.8067",
+      "program": "subtract(180.67, const_100), divide(#0, const_100)"
+    }
+  ]
+}

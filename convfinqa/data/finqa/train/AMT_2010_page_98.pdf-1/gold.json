@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "of the total fair value of net assets acquired what was the percent applicable to the equipment",
+      "answer": 0.2032,
+      "answer_raw": "0.2032",
+      "program": "divide(64564, 317742)"
+    }
+  ]
+}

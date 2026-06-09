@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2008 what was the tax rate associated with the goodwill impairment",
+      "answer": 0.10345,
+      "answer_raw": "0.10345",
+      "program": "subtract(9.6, 8.7), divide(#0, 8.7)"
+    }
+  ]
+}

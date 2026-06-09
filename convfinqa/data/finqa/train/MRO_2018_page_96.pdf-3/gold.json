@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was the ultimate trend rate greater in 2017 than in 2016?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(4.70, 4.50)"
+    }
+  ]
+}

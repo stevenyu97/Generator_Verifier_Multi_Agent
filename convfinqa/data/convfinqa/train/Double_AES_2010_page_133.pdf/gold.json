@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total mw from acquired or commenced commercial operations in 2010 are related to ballylumford in the united kingdom?",
+      "answer": 0.5183,
+      "answer_raw": "0.5183",
+      "program": "divide(1246, 2404)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about related to nueva ventana?",
+      "answer": 0.11314,
+      "answer_raw": "0.11314",
+      "program": "divide(272, 2404)"
+    }
+  ]
+}

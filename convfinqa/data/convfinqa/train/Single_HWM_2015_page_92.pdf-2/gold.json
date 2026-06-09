@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was alcoa 2019s average realized price per metric ton of aluminum in 2014?",
+      "answer": 3743.0,
+      "answer_raw": "3743.0",
+      "program": "3743"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2015?",
+      "answer": 3514.0,
+      "answer_raw": "3514.0",
+      "program": "3514"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the ratio of 2014 to 2015?",
+      "answer": 1.06517,
+      "answer_raw": "1.06517",
+      "program": "divide(3743, 3514)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what that less 1?",
+      "answer": 0.06517,
+      "answer_raw": "0.06517",
+      "program": "divide(3743, 3514), subtract(#0, const_1)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is that shown as a percent?",
+      "answer": 6.51679,
+      "answer_raw": "6.51679",
+      "program": "divide(3743, 3514), subtract(#0, const_1), multiply(#1, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2014 , how many of the new sites were forweign?",
+      "answer": 0.89349,
+      "answer_raw": "0.89349",
+      "program": "add(900, 7550), divide(7550, #0)"
+    }
+  ]
+}

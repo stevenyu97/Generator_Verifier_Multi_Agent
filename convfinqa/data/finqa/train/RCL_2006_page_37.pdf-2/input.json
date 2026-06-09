@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "RCL/2006/page_37.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "note 9 .",
+      "retirement plan we maintain a defined contribution pension plan covering full-time shoreside employees who have completed the minimum period of continuous service .",
+      "annual contributions to the plan are based on fixed percentages of participants 2019 salaries and years of service , not to exceed certain maximums .",
+      "pension cost was $ 13.9 million , $ 12.8 million and $ 12.2 million for the years ended december 31 , 2006 , 2005 and 2004 , respectively .",
+      "note 10 .",
+      "income taxes we and the majority of our subsidiaries are currently exempt from united states corporate tax on income from the international opera- tion of ships pursuant to section 883 of the internal revenue code .",
+      "income tax expense related to our remaining subsidiaries was not significant for the years ended december 31 , 2006 , 2005 and 2004 .",
+      "final regulations under section 883 were published on august 26 , 2003 , and were effective for the year ended december 31 , 2005 .",
+      "these regulations confirmed that we qualify for the exemption provid- ed by section 883 , but also narrowed the scope of activities which are considered by the internal revenue service to be incidental to the international operation of ships .",
+      "the activities listed in the regula- tions as not being incidental to the international operation of ships include income from the sale of air and other transportation such as transfers , shore excursions and pre and post cruise tours .",
+      "to the extent the income from such activities is earned from sources within the united states , such income will be subject to united states taxa- tion .",
+      "the application of these new regulations reduced our net income for the years ended december 31 , 2006 and december 31 , 2005 by approximately $ 6.3 million and $ 14.0 million , respectively .",
+      "note 11 .",
+      "financial instruments the estimated fair values of our financial instruments are as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "long-term debt ( including current portion of long-term debt ) ( 5474988 ) ( 4368874 ) foreign currency forward contracts in a net ( loss ) gain position 104159 ( 115415 ) interest rate swap agreements in a net receivable position 5856 8456 fuel swap agreements in a net payable position ( 20456 ) ( 78 ) the reported fair values are based on a variety of factors and assumptions .",
+      "accordingly , the fair values may not represent actual values of the financial instruments that could have been realized as of december 31 , 2006 or 2005 , or that will be realized in the future and do not include expenses that could be incurred in an actual sale or settlement .",
+      "our financial instruments are not held for trading or speculative purposes .",
+      "our exposure under foreign currency contracts , interest rate and fuel swap agreements is limited to the cost of replacing the contracts in the event of non-performance by the counterparties to the contracts , all of which are currently our lending banks .",
+      "to minimize this risk , we select counterparties with credit risks acceptable to us and we limit our exposure to an individual counterparty .",
+      "furthermore , all foreign currency forward contracts are denominated in primary currencies .",
+      "cash and cash equivalents the carrying amounts of cash and cash equivalents approximate their fair values due to the short maturity of these instruments .",
+      "long-term debt the fair values of our senior notes and senior debentures were esti- mated by obtaining quoted market prices .",
+      "the fair values of all other debt were estimated using discounted cash flow analyses based on market rates available to us for similar debt with the same remaining maturities .",
+      "foreign currency contracts the fair values of our foreign currency forward contracts were esti- mated using current market prices for similar instruments .",
+      "our expo- sure to market risk for fluctuations in foreign currency exchange rates relates to six ship construction contracts and forecasted transactions .",
+      "we use foreign currency forward contracts to mitigate the impact of fluctuations in foreign currency exchange rates .",
+      "as of december 31 , 2006 , we had foreign currency forward contracts in a notional amount of $ 3.8 billion maturing through 2009 .",
+      "as of december 31 , 2006 , the fair value of our foreign currency forward contracts related to the six ship construction contracts , which are designated as fair value hedges , was a net unrealized gain of approximately $ 106.3 mil- lion .",
+      "at december 31 , 2005 , the fair value of our foreign currency for- ward contracts related to three ship construction contracts , designated as fair value hedges , was a net unrealized loss of approx- imately $ 103.4 million .",
+      "the fair value of our foreign currency forward contracts related to the other ship construction contract at december 31 , 2005 , which was designated as a cash flow hedge , was an unre- alized loss , of approximately $ 7.8 million .",
+      "at december 31 , 2006 , approximately 11% ( 11 % ) of the aggregate cost of the ships was exposed to fluctuations in the euro exchange rate .",
+      "r o y a l c a r i b b e a n c r u i s e s l t d .",
+      "3 5 notes to the consolidated financial statements ( continued ) 51392_financials-v9.qxp 6/7/07 3:40 pm page 35 ."
+    ],
+    "table": [
+      [
+        "",
+        "2006",
+        "2005"
+      ],
+      [
+        "cash and cash equivalents",
+        "$ 104520",
+        "$ 125385"
+      ],
+      [
+        "long-term debt ( including current portion of long-term debt )",
+        "-5474988 ( 5474988 )",
+        "-4368874 ( 4368874 )"
+      ],
+      [
+        "foreign currency forward contracts in a net ( loss ) gain position",
+        "104159",
+        "-115415 ( 115415 )"
+      ],
+      [
+        "interest rate swap agreements in a net receivable position",
+        "5856",
+        "8456"
+      ],
+      [
+        "fuel swap agreements in a net payable position",
+        "-20456 ( 20456 )",
+        "-78 ( 78 )"
+      ]
+    ],
+    "questions": [
+      "what was the percentage increase in the cash and cash equivalents from 2005 to 2006"
+    ]
+  }
+}

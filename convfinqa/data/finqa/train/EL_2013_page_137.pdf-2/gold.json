@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of the british pound among the total foreign currency forward contracts?",
+      "answer": 0.26982,
+      "answer_raw": "0.26982",
+      "program": "divide(426.2, 1579.6)"
+    }
+  ]
+}

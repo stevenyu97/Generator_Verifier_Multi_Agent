@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "HWM/2016/page_52.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "december 31 , 2018 .",
+      "alcoa corporation will supply all required raw materials to arconic and arconic will process the raw materials into finished can sheet coils ready for shipment to the end customer .",
+      "tolling revenue for the two months ended december 31 , 2016 was approximately $ 37 million .",
+      "in 2017 , demand in the automotive end market is expected to continue to grow due to the growing demand for innovative products and aluminum-intensive vehicles .",
+      "demand from the commercial airframe end market is expected to be flat in 2017 as the ramp up of new programs is offset by customer destocking and lower build rates for aluminum intensive wide-body programs .",
+      "sales to the packaging market are expected to decline due to continuing pricing pressure within this market and the ramp-down of the north american packaging operations .",
+      "net productivity improvements are anticipated to continue .",
+      "engineered products and solutions ."
+    ],
+    "post_text": [
+      "the engineered products and solutions segment produces products that are used primarily in the aerospace ( commercial and defense ) , commercial transportation , and power generation end markets .",
+      "such products include fastening systems ( titanium , steel , and nickel superalloys ) and seamless rolled rings ( mostly nickel superalloys ) ; investment castings ( nickel superalloys , titanium , and aluminum ) , including airfoils and forged jet engine components ( e.g. , jet engine disks ) , and extruded , machined and formed aircraft parts ( titanium and aluminum ) , all of which are sold directly to customers and through distributors .",
+      "more than 75% ( 75 % ) of the third-party sales in this segment are from the aerospace end market .",
+      "a small part of this segment also produces various forged , extruded , and machined metal products ( titanium , aluminum and steel ) for the oil and gas , industrial products , automotive , and land and sea defense end markets .",
+      "seasonal decreases in sales are generally experienced in the third quarter of the year due to the european summer slowdown across all end markets .",
+      "generally , the sales and costs and expenses of this segment are transacted in the local currency of the respective operations , which are mostly the u.s .",
+      "dollar , british pound and the euro .",
+      "in july 2015 , arconic completed the acquisition of rti , a global supplier of titanium and specialty metal products and services for the commercial aerospace , defense , energy , and medical device end markets .",
+      "the purpose of the acquisition was to expand arconic 2019s range of titanium offerings and add advanced technologies and materials , primarily related to the aerospace end market .",
+      "in 2014 , rti generated net sales of $ 794 and had approximately 2600 employees .",
+      "the operating results and assets and liabilities of rti have been included within the engineered products and solutions segment since the date of acquisition .",
+      "in march 2015 , arconic completed the acquisition of tital , a privately held aerospace castings company with approximately 650 employees based in germany .",
+      "tital produces aluminum and titanium investment casting products for the aerospace and defense end markets .",
+      "in 2014 , tital generated sales of approximately $ 100 .",
+      "the purpose of the acquisition was to capture increasing demand for advanced jet engine components made of titanium , establish titanium- casting capabilities in europe , and expand existing aluminum casting capacity .",
+      "the operating results and assets and liabilities of tital have been included within the engineered products and solutions segment since the date of acquisition .",
+      "in november 2014 , arconic completed the acquisition of firth rixson , a global leader in aerospace jet engine components .",
+      "firth rixson manufactures rings , forgings , and metal products for the aerospace end market , as well as other markets requiring highly-engineered material applications .",
+      "the purpose of the acquisition was to strengthen arconic 2019s aerospace business and position the company to capture additional aerospace growth with a broader range of high-growth , value-add jet engine components .",
+      "firth rixson generated sales of approximately $ 970 in 2014 and had 13 operating facilities in the united states , united kingdom , europe , and asia employing approximately 2400 people combined .",
+      "the operating results and assets and liabilities of firth rixson have been included within the engineered products and solutions segment since the date of acquisition. ."
+    ],
+    "table": [
+      [
+        "",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "third-party sales",
+        "$ 5728",
+        "$ 5342",
+        "$ 4217"
+      ],
+      [
+        "atoi",
+        "$ 642",
+        "$ 595",
+        "$ 579"
+      ]
+    ],
+    "questions": [
+      "considering the year 2014 , how bigger were the number of dollars received from sales generated from firth rixson in comparison with tital?"
+    ]
+  }
+}

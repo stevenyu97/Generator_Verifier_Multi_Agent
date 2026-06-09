@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase in the pension plan contributions from 2015 to 2016",
+      "answer": 0.12438,
+      "answer_raw": "0.12438",
+      "program": "subtract(249.5, 221.9), divide(#0, 221.9)"
+    }
+  ]
+}

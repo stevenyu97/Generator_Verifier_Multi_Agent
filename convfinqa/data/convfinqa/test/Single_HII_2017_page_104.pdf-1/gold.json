@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the unamortized debt issuance costs associated with the senior notes from 2016 to 2017?",
+      "answer": -4.0,
+      "answer_raw": "-4.0",
+      "program": "subtract(15, 19)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to those costs in 2016, in percentage?",
+      "answer": -0.21053,
+      "answer_raw": "-0.21053",
+      "program": "subtract(15, 19), divide(#0, 19)"
+    }
+  ]
+}

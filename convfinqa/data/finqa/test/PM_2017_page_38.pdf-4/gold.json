@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in operating income from 2016 to 2017?",
+      "answer": 0.06362,
+      "answer_raw": "0.06362",
+      "program": "subtract(11503, 10815), divide(#0, 10815)"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "GS/2015/page_76.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "the goldman sachs group , inc .",
+      "and subsidiaries management 2019s discussion and analysis investing & lending investing & lending includes our investing activities and the origination of loans to provide financing to clients .",
+      "these investments and loans are typically longer-term in nature .",
+      "we make investments , some of which are consolidated , directly and indirectly through funds and separate accounts that we manage , in debt securities and loans , public and private equity securities , and real estate entities .",
+      "the table below presents the operating results of our investing & lending segment. ."
+    ],
+    "post_text": [
+      "1 .",
+      "net revenues related to our consolidated investments , previously reported in other net revenues within investing & lending , are now reported in equity securities and debt securities and loans , as results from these activities ( $ 391 million for 2015 ) are no longer significant principally due to the sale of metro in the fourth quarter of 2014 .",
+      "reclassifications have been made to previously reported amounts to conform to the current presentation .",
+      "2015 versus 2014 .",
+      "net revenues in investing & lending were $ 5.44 billion for 2015 , 20% ( 20 % ) lower than 2014 .",
+      "this decrease was primarily due to lower net revenues from investments in equities , principally reflecting the sale of metro in the fourth quarter of 2014 and lower net gains from investments in private equities , driven by corporate performance .",
+      "in addition , net revenues in debt securities and loans were significantly lower , reflecting lower net gains from investments .",
+      "although net revenues in investing & lending for 2015 benefited from favorable company-specific events , including sales , initial public offerings and financings , a decline in global equity prices and widening high-yield credit spreads during the second half of the year impacted results .",
+      "concern about the outlook for the global economy continues to be a meaningful consideration for the global marketplace .",
+      "if equity markets continue to decline or credit spreads widen further , net revenues in investing & lending would likely continue to be negatively impacted .",
+      "operating expenses were $ 2.40 billion for 2015 , 15% ( 15 % ) lower than 2014 , due to lower depreciation and amortization expenses , primarily reflecting lower impairment charges related to consolidated investments , and a reduction in expenses related to the sale of metro in the fourth quarter of 2014 .",
+      "pre-tax earnings were $ 3.03 billion in 2015 , 24% ( 24 % ) lower than 2014 .",
+      "2014 versus 2013 .",
+      "net revenues in investing & lending were $ 6.83 billion for 2014 , 3% ( 3 % ) lower than 2013 .",
+      "net revenues from investments in equity securities were lower due to a significant decrease in net gains from investments in public equities , as movements in global equity prices during 2014 were less favorable compared with 2013 , as well as significantly lower net revenues related to our consolidated investments , reflecting a decrease in operating revenues from commodities-related consolidated investments .",
+      "these decreases were partially offset by an increase in net gains from investments in private equities , primarily driven by company-specific events .",
+      "net revenues from debt securities and loans were higher than 2013 , reflecting a significant increase in net interest income , primarily driven by increased lending , and a slight increase in net gains , primarily due to sales of certain investments during 2014 .",
+      "during 2014 , net revenues in investing & lending generally reflected favorable company-specific events , including initial public offerings and financings , and strong corporate performance , as well as net gains from sales of certain investments .",
+      "operating expenses were $ 2.82 billion for 2014 , 5% ( 5 % ) higher than 2013 , reflecting higher compensation and benefits expenses , partially offset by lower expenses related to consolidated investments .",
+      "pre-tax earnings were $ 4.01 billion in 2014 , 8% ( 8 % ) lower than 2013 .",
+      "64 goldman sachs 2015 form 10-k ."
+    ],
+    "table": [
+      [
+        "$ in millions",
+        "year ended december 2015",
+        "year ended december 2014",
+        "year ended december 2013"
+      ],
+      [
+        "equity securities",
+        "$ 3781",
+        "$ 4579",
+        "$ 4974"
+      ],
+      [
+        "debt securities and loans",
+        "1655",
+        "2246",
+        "2044"
+      ],
+      [
+        "total net revenues1",
+        "5436",
+        "6825",
+        "7018"
+      ],
+      [
+        "operating expenses",
+        "2402",
+        "2819",
+        "2686"
+      ],
+      [
+        "pre-tax earnings",
+        "$ 3034",
+        "$ 4006",
+        "$ 4332"
+      ]
+    ],
+    "questions": [
+      "what percentage of total net revenues in the investing & lending segment is attributable to equity securities in 2015?"
+    ]
+  }
+}

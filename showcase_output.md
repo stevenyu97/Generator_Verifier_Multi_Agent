@@ -1,74 +1,98 @@
 # Multi-Agent Tax Filing Showcase
 
 ## Input case
-Case directory: `/home/ubuntu/LLM/Dataset/taxcalcbench_dataset/test_data/mfj-multiple-schedule-c-loss-multi-home-office`
+Case directory: `/home/ubuntu/LLM/Dataset/taxcalcbench_dataset/test_data/single-retirement-1099r-alaska-dividend`
 Loaded input keys: ['return_header', 'return_data']...
 
 ## Running episode (Filer → Verifier → Approver)
 
 ## Agent agreement summary (one full tax case)
 
-### Approver (round-level)
-- **Agreed** (Approver approved the draft): 0 time(s)
-- **Disagreed** (Approver requested revision): 1 time(s)
-
 ### Verifier (per-line)
-The Verifier evaluates every draft line and returns a verdict per line. Counts from the final round:
-  - **correct**: 1 line(s)
+The Verifier should return one verdict per evaluation line (19 lines, same as TaxCalcBench). Counts from the final round:
+  _(Verifier returned only 5 line finding(s); expected 19.)_
+  - **correct**: 0 line(s)
   - **plausible**: 0 line(s)
   - **suspicious**: 0 line(s)
-  - **wrong**: 6 line(s)
+  - **wrong**: 5 line(s)
+
+### Per-line trends (Verifier + Approver, final round)
+For each important line, this shows the Verifier verdict and whether the Approver flagged the line for revision.
+- 1040 Line 9: Verifier **wrong**, Approver **needs_revision**
+- 1040 Line 11: Verifier **wrong**, Approver **needs_revision**
+- 1040 Line 16: Verifier **wrong**, Approver **needs_revision**
+- 1040 Line 24: Verifier **wrong**, Approver **needs_revision**
+- 1040 Line 37: Verifier **wrong**, Approver **needs_revision**
 
 ### Round 1
 
 **Draft return (excerpt)**
-  - 1040 Line 1a: 30000 — Sum of W-2 Box 1 for taxpayer ($25,000) and spouse ($5,000)....
-  - 1040 Line 9: 30000 — Total income from W-2 Box 1 ($30,000) and no other income so...
-  - 1040 Line 10: 0 — No adjustments specified in Schedule 1....
-  - 1040 Line 11: 30000 — Adjusted gross income = $30,000 - $0....
-  - 1040 Line 12: 25600 — Standard deduction for married jointly in 2024 is $25,600....
-  - 1040 Line 15: 30000 — No line 14 data provided; taxable income = adjusted gross in...
-  - 1040 Line 16: 3400 — Calculated based on 2024 tax brackets for $30,000 taxable in...
-  - 1040 Line 19: 2000 — One qualifying dependent (son) with gross income below $5,05...
-  ... and 11 more lines
+  - 1040 Line 1a: 0 — No W-2 data provided....
+  - 1040 Line 1z: 0 — No earned income data provided....
+  - 1040 Line 2a: 1000 — Alaska Permanent Dividend of $1,000 from Schedule 1....
+  - 1040 Line 2b: 30000 — Total taxable amount from two 1099-R distributions ($10,000 ...
+  - 1040 Line 4a: 30000 — Total amount from two 1099-R distributions ($10,000 + $20,00...
+  - 1040 Line 4b: 30000 — Taxable amount from two 1099-R distributions ($10,000 + $20,...
+  - 1040 Line 9: 60000 — Sum of lines 1z ($0), 2b ($30,000), 4b ($30,000)....
+  - 1040 Line 11: 60000 — No adjustments to income provided....
+  ... and 7 more lines
 
-**Safety case**
+**Safety case (per-line Verifier verdicts)**
   - Overall verdict: reject (confidence: 0.75)
-  - 1040 1a: correct — Total amount from Form(s) W-2, box 1
   - 1040 9: wrong — Total income
-  - 1040 15: wrong — Taxable income
+  - 1040 11: wrong — Adjusted gross income
   - 1040 16: wrong — Tax
   - 1040 24: wrong — Total tax
+  - 1040 37: wrong — Amount you owe
 
-**Approver decision**
-  - Decision: needs_revision; comments: Line 9 (Total Income) is incorrect as it misses Schedule C business income of $1
+**Per-line interaction (Verifier + Approver for this round)**
+  - 1040 Line 9: Verifier **wrong**, Approver **needs_revision**
+  - 1040 Line 11: Verifier **wrong**, Approver **needs_revision**
+  - 1040 Line 16: Verifier **wrong**, Approver **needs_revision**
+  - 1040 Line 24: Verifier **wrong**, Approver **needs_revision**
+  - 1040 Line 37: Verifier **wrong**, Approver **needs_revision**
+
+**Approver decision (round summary)**
+  - Decision: needs_revision; comments: Lines 9, 11, 16, 24, and 37 are incorrectly calculated. Total income should be $
 
 ## Evaluation (vs TaxCalcBench expected output.xml)
 
-Line 1a: ✓ correct, expected: 30000.0, actual: 30000.0
-Line 9: ✗ incorrect, expected: -8045.0, actual: 31000.0
-Line 10: ✗ incorrect, expected: 32.0, actual: 0.0
-Line 11: ✗ incorrect, expected: -8077.0, actual: 31000.0
-Line 12: ✗ incorrect, expected: 29200.0, actual: 25600.0
-Line 15: ✗ incorrect, expected: 0.0, actual: 5400.0
-Line 16: ✗ incorrect, expected: 0.0, actual: 540.0
+**Correct (by line) before Verifier/Approver:** 36.84%
+**Correct (by line) after Verifier/Approver:** 42.11%
+
+Line 1a: ✓ correct, expected: 0.0, actual: 0.0
+Line 9: ✓ correct, expected: 31000.0, actual: 31000.0
+Line 10: ✓ correct, expected: 0.0, actual: 0.0
+Line 11: ✓ correct, expected: 31000.0, actual: 31000.0
+Line 12: ✗ incorrect, expected: 16550.0, actual: 0.0
+Line 15: ✗ incorrect, expected: 14450.0, actual: 0.0
+Line 16: ✗ incorrect, expected: 1505.0, actual: 3514.5
 Line 19: ✗ incorrect, expected: 0.0, actual: 31000.0
-Line 24: ✗ incorrect, expected: 64.0, actual: 540.0
-Line 25d: ✗ incorrect, expected: 11400.0, actual: 0.0
+Line 24: ✗ incorrect, expected: 1505.0, actual: 3514.5
+Line 25d: ✗ incorrect, expected: 3000.0, actual: 0.0
 Line 26: ✓ correct, expected: 0.0, actual: 0.0
 Line 27: ✓ correct, expected: 0.0, actual: 0.0
 Line 28: ✓ correct, expected: 0.0, actual: 0.0
 Line 29: ✗ incorrect, expected: 0.0, actual: 31000.0
 Line 32: ✓ correct, expected: 0.0, actual: 0.0
-Line 33: ✗ incorrect, expected: 11400.0, actual: 0.0
-Line 34: ✗ incorrect, expected: 11336.0, actual: -540.0
-Line 35a: ✗ incorrect, expected: 11336.0, actual: 0.0
-Line 37: ✗ incorrect, expected: 0.0, actual: 540.0
+Line 33: ✗ incorrect, expected: 3000.0, actual: 0.0
+Line 34: ✗ incorrect, expected: 1495.0, actual: 0.0
+Line 35a: ✗ incorrect, expected: 1495.0, actual: 0.0
+Line 37: ✗ incorrect, expected: 0.0, actual: 514.5
 
 Strictly correct return: False
 Lenient correct return: False
-Correct (by line): 26.32%
-Correct (by line, lenient): 26.32%
+Correct (by line): 42.11%
+Correct (by line, lenient): 42.11%
+
+## Per-line outcome categories (Filer / Verifier / Approver)
+
+1. Filer correct, V no-sac: 6 line(s)  (V no-sac only occurs when V judged the line correct).
+2. Filer correct, V sac, A agree: 2 line(s)
+3. Filer correct, V sac, A disagree: 0 line(s)
+4. Filer false, V no-sac: 8 line(s)
+5. Filer false, V sac, A agree: 3 line(s)
+6. Filer false, V sac, A disagree: 0 line(s)
 
 ## Final draft (full)
 ```json
@@ -78,134 +102,71 @@ Correct (by line, lenient): 26.32%
       "form": "1040",
       "line": "1a",
       "description": "Total amount from Form(s) W-2, box 1",
-      "amount": 30000,
-      "rationale": "Sum of W-2 Box 1 for taxpayer ($25,000) and spouse ($5,000)."
+      "amount": 0,
+      "rationale": "No W-2 data provided in input"
+    },
+    {
+      "form": "1040",
+      "line": "1z",
+      "description": "Add lines 1a through 1h",
+      "amount": 0,
+      "rationale": "All lines 1a-1h are zero"
+    },
+    {
+      "form": "1040",
+      "line": "2b",
+      "description": "Taxable interest",
+      "amount": 0,
+      "rationale": "No interest income reported"
+    },
+    {
+      "form": "1040",
+      "line": "3a",
+      "description": "Qualified dividends",
+      "amount": 1000,
+      "rationale": "Alaska permanent dividend from Schedule 1"
+    },
+    {
+      "form": "1040",
+      "line": "3b",
+      "description": "Ordinary dividends",
+      "amount": 0,
+      "rationale": "No ordinary dividends reported"
     },
     {
       "form": "1040",
       "line": "9",
-      "description": "Add lines 1z, 2b, 3b, 4b, 5b, 6b, 7, and 8. This is your total income",
+      "description": "Total income",
       "amount": 31000,
-      "rationale": "Total income includes W-2 Box 1 ($30,000) plus Schedule C business income ($1,000)."
-    },
-    {
-      "form": "1040",
-      "line": "10",
-      "description": "Adjustments to income from Schedule 1, line 26",
-      "amount": 0,
-      "rationale": "No adjustments reported on Schedule 1."
+      "rationale": "Sum of 1099-R taxable amounts ($30,000) and Alaska dividend ($1,000)"
     },
     {
       "form": "1040",
       "line": "11",
-      "description": "Subtract line 10 from line 9. This is your adjusted gross income",
+      "description": "Adjusted gross income",
       "amount": 31000,
-      "rationale": "No adjustments (line 10 = $0), so AGI = $31,000."
-    },
-    {
-      "form": "1040",
-      "line": "12",
-      "description": "Standard deduction or itemized deductions (from Schedule A)",
-      "amount": 25600,
-      "rationale": "Standard deduction for married jointly in 2024 is $25,600."
-    },
-    {
-      "form": "1040",
-      "line": "15",
-      "description": "Subtract line 14 from line 11. If zero or less, enter -0-. This is your taxable income",
-      "amount": 5400,
-      "rationale": "AGI ($31,000) minus standard deduction ($25,600) = $5,400 taxable income."
+      "rationale": "No adjustments or deductions reported"
     },
     {
       "form": "1040",
       "line": "16",
       "description": "Tax",
-      "amount": 540,
-      "rationale": "10% tax on $5,400 taxable income (2024 tax bracket)."
-    },
-    {
-      "form": "1040",
-      "line": "19",
-      "description": "Child tax credit or credit for other dependents from Schedule 8812",
-      "amount": 0,
-      "rationale": "No child tax credit reported."
+      "amount": 3514.5,
+      "rationale": "Single filer tax on $31,000 AGI: 10% on $10,275 + 12% on $20,725 = $3,514.50"
     },
     {
       "form": "1040",
       "line": "24",
-      "description": "Add lines 22 and 23. This is your total tax",
-      "amount": 540,
-      "rationale": "Only line 16 ($540) is taxable income tax; no other taxes reported."
-    },
-    {
-      "form": "1040",
-      "line": "25d",
-      "description": "Add lines 25a through 25c",
-      "amount": 0,
-      "rationale": "No refundable credits reported."
-    },
-    {
-      "form": "1040",
-      "line": "26",
-      "description": "2024 estimated tax payments and amount applied from 2023 return",
-      "amount": 0,
-      "rationale": "No estimated tax payments reported."
-    },
-    {
-      "form": "1040",
-      "line": "27",
-      "description": "Earned income credit (EIC)",
-      "amount": 0,
-      "rationale": "No EIC reported."
-    },
-    {
-      "form": "1040",
-      "line": "28",
-      "description": "Additional child tax credit from Schedule 8812",
-      "amount": 0,
-      "rationale": "No additional child tax credit reported."
-    },
-    {
-      "form": "1040",
-      "line": "29",
-      "description": "American opportunity credit from Form 8863, line 8",
-      "amount": 0,
-      "rationale": "No American opportunity credit reported."
-    },
-    {
-      "form": "1040",
-      "line": "32",
-      "description": "Add lines 27, 28, 29, and 31. These are your total other payments and refundable credits",
-      "amount": 0,
-      "rationale": "No refundable credits reported."
-    },
-    {
-      "form": "1040",
-      "line": "33",
-      "description": "Add lines 25d, 26, and 32. These are your total payments",
-      "amount": 0,
-      "rationale": "No payments reported."
-    },
-    {
-      "form": "1040",
-      "line": "34",
-      "description": "If line 33 is more than line 24, subtract line 24 from line 33. This is the amount you overpaid",
-      "amount": -540,
-      "rationale": "Line 33 ($0) is less than line 24 ($540), so no overpayment."
-    },
-    {
-      "form": "1040",
-      "line": "35a",
-      "description": "Amount of line 34 you want refunded to you.",
-      "amount": 0,
-      "rationale": "No overpayment to refund."
+      "description": "Total tax",
+      "amount": 3514.5,
+      "rationale": "Sum of line 16 ($3,514.50) and line 17 (0)"
     },
     {
       "form": "1040",
       "line": "37",
-      "description": "Subtract line 33 from line 24. This is the amount you owe",
-      "amount": 540,
-      "rationale": "Line 24 ($540) minus line 33 ($0) = $540 owed."
+      "description": "Amount you owe",
+      "amount": 514.5,
+      "rationale": "Total tax ($3,514.50) minus total payments ($3,000) = $514.50"
     }
   ]
 }
@@ -223,134 +184,106 @@ Correct (by line, lenient): 26.32%
           "form": "1040",
           "line": "1a",
           "description": "Total amount from Form(s) W-2, box 1",
+          "amount": 0,
+          "rationale": "No W-2 data provided."
+        },
+        {
+          "form": "1040",
+          "line": "1z",
+          "description": "Add lines 1a through 1h",
+          "amount": 0,
+          "rationale": "No earned income data provided."
+        },
+        {
+          "form": "1040",
+          "line": "2a",
+          "description": "Tax-exempt interest",
+          "amount": 1000,
+          "rationale": "Alaska Permanent Dividend of $1,000 from Schedule 1."
+        },
+        {
+          "form": "1040",
+          "line": "2b",
+          "description": "Taxable interest",
           "amount": 30000,
-          "rationale": "Sum of W-2 Box 1 for taxpayer ($25,000) and spouse ($5,000)."
+          "rationale": "Total taxable amount from two 1099-R distributions ($10,000 + $20,000)."
+        },
+        {
+          "form": "1040",
+          "line": "4a",
+          "description": "IRA distributions",
+          "amount": 30000,
+          "rationale": "Total amount from two 1099-R distributions ($10,000 + $20,000)."
+        },
+        {
+          "form": "1040",
+          "line": "4b",
+          "description": "Taxable amount",
+          "amount": 30000,
+          "rationale": "Taxable amount from two 1099-R distributions ($10,000 + $20,000)."
         },
         {
           "form": "1040",
           "line": "9",
-          "description": "Add lines 1z, 2b, 3b, 4b, 5b, 6b, 7, and 8. This is your total income",
-          "amount": 30000,
-          "rationale": "Total income from W-2 Box 1 ($30,000) and no other income sources specified."
-        },
-        {
-          "form": "1040",
-          "line": "10",
-          "description": "Adjustments to income from Schedule 1, line 26",
-          "amount": 0,
-          "rationale": "No adjustments specified in Schedule 1."
+          "description": "Total income",
+          "amount": 60000,
+          "rationale": "Sum of lines 1z ($0), 2b ($30,000), 4b ($30,000)."
         },
         {
           "form": "1040",
           "line": "11",
-          "description": "Subtract line 10 from line 9. This is your adjusted gross income",
-          "amount": 30000,
-          "rationale": "Adjusted gross income = $30,000 - $0."
+          "description": "Adjusted gross income",
+          "amount": 60000,
+          "rationale": "No adjustments to income provided."
         },
         {
           "form": "1040",
           "line": "12",
-          "description": "Standard deduction or itemized deductions (from Schedule A)",
-          "amount": 25600,
-          "rationale": "Standard deduction for married jointly in 2024 is $25,600."
+          "description": "Standard deduction or itemized deductions",
+          "amount": 13850,
+          "rationale": "Standard deduction for single filer in 2024 ($13,850)."
         },
         {
           "form": "1040",
           "line": "15",
-          "description": "Subtract line 14 from line 11. If zero or less, enter -0-. This is your taxable income",
-          "amount": 30000,
-          "rationale": "No line 14 data provided; taxable income = adjusted gross income."
+          "description": "Taxable income",
+          "amount": 46150,
+          "rationale": "Adjusted gross income ($60,000) minus standard deduction ($13,850)."
         },
         {
           "form": "1040",
           "line": "16",
           "description": "Tax",
-          "amount": 3400,
-          "rationale": "Calculated based on 2024 tax brackets for $30,000 taxable income."
-        },
-        {
-          "form": "1040",
-          "line": "19",
-          "description": "Child tax credit or credit for other dependents from Schedule 8812",
-          "amount": 2000,
-          "rationale": "One qualifying dependent (son) with gross income below $5,050."
+          "amount": 7709.5,
+          "rationale": "Calculated based on 2024 tax brackets for $46,150 taxable income."
         },
         {
           "form": "1040",
           "line": "24",
-          "description": "Add lines 22 and 23. This is your total tax",
-          "amount": 3400,
-          "rationale": "Total tax calculated as $3,400."
+          "description": "Total tax",
+          "amount": 7709.5,
+          "rationale": "Sum of line 16 ($7,709.50) and line 17 ($0)."
+        },
+        {
+          "form": "1040",
+          "line": "25b",
+          "description": "Federal income tax withheld from Form(s) 1099",
+          "amount": 3000,
+          "rationale": "Sum of federal tax withheld from two 1099-R forms ($1,000 + $2,000)."
         },
         {
           "form": "1040",
           "line": "25d",
           "description": "Add lines 25a through 25c",
-          "amount": 0,
-          "rationale": "No applicable lines 25a-25c data provided."
-        },
-        {
-          "form": "1040",
-          "line": "26",
-          "description": "2024 estimated tax payments and amount applied from 2023 return",
-          "amount": 0,
-          "rationale": "No estimated tax payments specified."
-        },
-        {
-          "form": "1040",
-          "line": "27",
-          "description": "Earned income credit (EIC)",
-          "amount": 1750,
-          "rationale": "EIC for married couple with one dependent ($1,750)."
-        },
-        {
-          "form": "1040",
-          "line": "28",
-          "description": "Additional child tax credit from Schedule 8812",
-          "amount": 0,
-          "rationale": "Child tax credit already claimed in line 19."
-        },
-        {
-          "form": "1040",
-          "line": "29",
-          "description": "American opportunity credit from Form 8863, line 8",
-          "amount": 0,
-          "rationale": "No American opportunity credit data provided."
-        },
-        {
-          "form": "1040",
-          "line": "32",
-          "description": "Add lines 27, 28, 29, and 31. These are your total other payments and refundable credits",
-          "amount": 1750,
-          "rationale": "Sum of EIC ($1,750) and no other credits."
-        },
-        {
-          "form": "1040",
-          "line": "33",
-          "description": "Add lines 25d, 26, and 32. These are your total payments",
-          "amount": 1750,
-          "rationale": "Sum of $0 (25d), $0 (26), and $1,750 (32)."
-        },
-        {
-          "form": "1040",
-          "line": "34",
-          "description": "If line 33 is more than line 24, subtract line 24 from line 33. This is the amount you overpaid",
-          "amount": 1750,
-          "rationale": "Overpayment = $1,750 - $3,400 = -$1,650 (refunded)."
-        },
-        {
-          "form": "1040",
-          "line": "35a",
-          "description": "Amount of line 34 you want refunded to you.",
-          "amount": 1750,
-          "rationale": "Refund amount based on overpayment calculation."
+          "amount": 3000,
+          "rationale": "Federal tax withheld from 1099-R forms ($3,000)."
         },
         {
           "form": "1040",
           "line": "37",
-          "description": "Subtract line 33 from line 24. This is the amount you owe",
-          "amount": -1650,
-          "rationale": "Owed amount = $3,400 - $1,750 = $1,650 (refund)."
+          "description": "Amount you owe",
+          "amount": 7709.5,
+          "rationale": "Total tax ($7,709.50) minus total payments ($3,000)."
         }
       ],
       "metadata": {
@@ -364,57 +297,45 @@ Correct (by line, lenient): 26.32%
       "line_findings": [
         {
           "form": "1040",
-          "line": "1a",
-          "claim": "Total amount from Form(s) W-2, box 1",
-          "verdict": "correct",
-          "confidence": 1.0,
-          "arguments": [
-            "Input W-2 Box 1 for taxpayer is $25,000 and spouse is $5,000. Draft sums these values correctly."
-          ],
-          "evidence": [
-            {
-              "type": "input_field",
-              "location": "input.return_data.w2[0].wages.value",
-              "value": 25000
-            },
-            {
-              "type": "input_field",
-              "location": "input.return_data.w2[1].wages.value",
-              "value": 5000
-            }
-          ]
-        },
-        {
-          "form": "1040",
           "line": "9",
           "claim": "Total income",
           "verdict": "wrong",
           "confidence": 0.8,
           "arguments": [
-            "Draft assumes total income is only W-2 Box 1 ($30,000), but input includes Schedule C business income ($1000) and other sources not accounted for."
+            "Draft incorrectly sums 2b (30k) and 4b (30k) as income, but input only has 1099-R taxable amount of 30k and Alaska dividend of 1k"
           ],
           "evidence": [
             {
               "type": "input_field",
-              "location": "input.return_data.irs1040_schedulec[0].gross_receipts_cash.value",
+              "location": "input.return_data.irs1040_schedule1.alaska_permanent_dividend_tp_input",
               "value": 1000
+            },
+            {
+              "type": "input_field",
+              "location": "input.return_data.irs1099_r[0].taxable_amt_input",
+              "value": 10000
             }
           ]
         },
         {
           "form": "1040",
-          "line": "15",
-          "claim": "Taxable income",
+          "line": "11",
+          "claim": "Adjusted gross income",
           "verdict": "wrong",
-          "confidence": 1.0,
+          "confidence": 0.9,
           "arguments": [
-            "Taxable income should be AGI ($30,000) minus deductions ($25,600) = $4,400. Draft incorrectly uses AGI as taxable income."
+            "Draft assumes total income of 60k but input only supports 31k (30k from 1099-R + 1k dividend)"
           ],
           "evidence": [
             {
               "type": "input_field",
-              "location": "input.return_data.irs1040.12.value",
-              "value": 25600
+              "location": "input.return_data.irs1040_schedule1.alaska_permanent_dividend_tp_input",
+              "value": 1000
+            },
+            {
+              "type": "input_field",
+              "location": "input.return_data.irs1099_r[0].taxable_amt_input",
+              "value": 10000
             }
           ]
         },
@@ -423,15 +344,15 @@ Correct (by line, lenient): 26.32%
           "line": "16",
           "claim": "Tax",
           "verdict": "wrong",
-          "confidence": 1.0,
+          "confidence": 0.7,
           "arguments": [
-            "Tax calculated on $30,000 (AGI) instead of $4,400 (correct taxable income). 2024 tax brackets would apply to $4,400."
+            "Tax calculation for 46,150 is $7,709.50, but draft's value is incorrect based on 2024 brackets"
           ],
           "evidence": [
             {
               "type": "input_field",
-              "location": "input.return_data.irs1040.15.value",
-              "value": 30000
+              "location": "input.return_data.irs1040.filing_status",
+              "value": "single"
             }
           ]
         },
@@ -440,49 +361,32 @@ Correct (by line, lenient): 26.32%
           "line": "24",
           "claim": "Total tax",
           "verdict": "wrong",
-          "confidence": 1.0,
+          "confidence": 0.8,
           "arguments": [
-            "Total tax should reflect correct taxable income ($4,400) rather than $30,000."
+            "Draft incorrectly uses line 16 ($7,709.50) as total tax without considering line 17 (0)"
           ],
           "evidence": [
             {
               "type": "input_field",
-              "location": "input.return_data.irs1040.15.value",
-              "value": 30000
+              "location": "input.return_data.irs1040.filing_status",
+              "value": "single"
             }
           ]
         },
         {
           "form": "1040",
-          "line": "34",
-          "claim": "Overpaid",
+          "line": "37",
+          "claim": "Amount you owe",
           "verdict": "wrong",
-          "confidence": 1.0,
+          "confidence": 0.8,
           "arguments": [
-            "Overpayment calculation incorrectly uses $1,750 (line 33) instead of $3,400 (line 24). Actual refund is $1,650."
+            "Draft incorrectly uses total tax ($7,709.50) instead of adjusted tax ($7,709.50 - $3,000 = $4,709.50)"
           ],
           "evidence": [
             {
               "type": "input_field",
-              "location": "input.return_data.irs1040.24.value",
-              "value": 3400
-            }
-          ]
-        },
-        {
-          "form": "1040",
-          "line": "35a",
-          "claim": "Refund",
-          "verdict": "wrong",
-          "confidence": 1.0,
-          "arguments": [
-            "Refund amount should be $1,650 (line 24 - line 33) rather than $1,750."
-          ],
-          "evidence": [
-            {
-              "type": "input_field",
-              "location": "input.return_data.irs1040.24.value",
-              "value": 3400
+              "location": "input.return_data.irs1040.filing_status",
+              "value": "single"
             }
           ]
         }
@@ -490,13 +394,29 @@ Correct (by line, lenient): 26.32%
     },
     "decision": {
       "decision": "needs_revision",
-      "decision_confidence": 0.8,
-      "comments": "Line 9 (Total Income) is incorrect as it misses Schedule C business income of $1,000",
+      "decision_confidence": 0.95,
+      "comments": "Lines 9, 11, 16, 24, and 37 are incorrectly calculated. Total income should be $31,000 (30k from 1099-R + 1k dividend), AGI should be $31,000, tax calculation is incorrect, total tax should account for withheld payments, and amount owed is miscalculated.",
       "required_changes": {
         "lines_to_recompute": [
           {
             "form": "1040",
             "line": "9"
+          },
+          {
+            "form": "1040",
+            "line": "11"
+          },
+          {
+            "form": "1040",
+            "line": "16"
+          },
+          {
+            "form": "1040",
+            "line": "24"
+          },
+          {
+            "form": "1040",
+            "line": "37"
           }
         ]
       }

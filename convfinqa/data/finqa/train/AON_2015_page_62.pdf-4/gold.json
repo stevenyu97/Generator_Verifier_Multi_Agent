@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total amount reported in issuance of shares for employee benefit plans in the last three years , ( in millions ) ?",
+      "answer": 517.0,
+      "answer_raw": "517.0",
+      "program": "add(227, 170), add(#0, 120)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between earnings per share 2013 basic pro forma and 2013 diluted pro forma in 2005?",
+      "answer": 0.04,
+      "answer_raw": "0.04",
+      "program": "subtract(3.75, 3.71)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the earnings per share of 2013 diluted pro forma in 2005?",
+      "answer": 3.75,
+      "answer_raw": "3.75",
+      "program": "3.75"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is difference divided by the 2013 diluted pro forma value?",
+      "answer": 0.01067,
+      "answer_raw": "0.01067",
+      "program": "subtract(3.75, 3.71), divide(#0, 3.75)"
+    }
+  ]
+}

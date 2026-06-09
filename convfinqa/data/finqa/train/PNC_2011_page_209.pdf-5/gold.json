@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in millions between residential mortgages as of jan 1 , 2011 and dec 31 , 2011?",
+      "answer": 61.0,
+      "answer_raw": "61.0",
+      "program": "subtract(144, 83)"
+    }
+  ]
+}

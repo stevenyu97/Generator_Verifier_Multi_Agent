@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by what percentage did grant date fair value per share increase from 2013 to 2015?",
+      "answer": 0.54747,
+      "answer_raw": "0.54747",
+      "program": "subtract(62.10, 40.13), divide(#0, 40.13)"
+    }
+  ]
+}

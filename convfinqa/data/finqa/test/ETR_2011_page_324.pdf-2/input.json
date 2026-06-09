@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "ETR/2011/page_324.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy louisiana , llc and subsidiaries management 2019s financial discussion and analysis all debt and common and preferred membership interest issuances by entergy louisiana require prior regulatory approval .",
+      "preferred membership interest and debt issuances are also subject to issuance tests set forth in its bond indentures and other agreements .",
+      "entergy louisiana has sufficient capacity under these tests to meet its foreseeable capital needs .",
+      "entergy louisiana 2019s receivables from or ( payables to ) the money pool were as follows as of december 31 for each of the following years: ."
+    ],
+    "post_text": [
+      "see note 4 to the financial statements for a description of the money pool .",
+      "entergy louisiana has a credit facility in the amount of $ 200 million scheduled to expire in august 2012 .",
+      "as of december 31 , 2011 , $ 50 million was outstanding on the credit facility .",
+      "entergy louisiana obtained short-term borrowing authorization from the ferc under which it may borrow through october 2013 , up to the aggregate amount , at any one time outstanding , of $ 250 million .",
+      "see note 4 to the financial statements for further discussion of entergy louisiana 2019s short-term borrowing limits .",
+      "entergy louisiana has also obtained an order from the ferc authorizing long-term securities issuances through july 2013 .",
+      "in january 2012 , entergy louisiana issued $ 250 million of 1.875% ( 1.875 % ) series first mortgage bonds due december 2014 .",
+      "entergy louisiana used the proceeds to repay short-term borrowings under the entergy system money pool .",
+      "little gypsy repowering project in april 2007 , entergy louisiana announced that it intended to pursue the solid fuel repowering of a 538 mw unit at its little gypsy plant .",
+      "in march 2009 the lpsc voted in favor of a motion directing entergy louisiana to temporarily suspend the repowering project and , based upon an analysis of the project 2019s economic viability , to make a recommendation regarding whether to proceed with the project .",
+      "this action was based upon a number of factors including the recent decline in natural gas prices , as well as environmental concerns , the unknown costs of carbon legislation and changes in the capital/financial markets .",
+      "in april 2009 , entergy louisiana complied with the lpsc 2019s directive and recommended that the project be suspended for an extended period of time of three years or more .",
+      "in may 2009 the lpsc issued an order declaring that entergy louisiana 2019s decision to place the little gypsy project into a longer-term suspension of three years or more is in the public interest and prudent .",
+      "in october 2009 , entergy louisiana made a filing with the lpsc seeking permission to cancel the little gypsy repowering project and seeking project cost recovery over a five-year period .",
+      "in june 2010 and august 2010 , the lpsc staff and intervenors filed testimony .",
+      "the lpsc staff ( 1 ) agreed that it was prudent to move the project from long-term suspension to cancellation and that the timing of the decision to suspend on a longer-term basis was not imprudent ; ( 2 ) indicated that , except for $ 0.8 million in compensation-related costs , the costs incurred should be deemed prudent ; ( 3 ) recommended recovery from customers over ten years but stated that the lpsc may want to consider 15 years ; ( 4 ) allowed for recovery of carrying costs and earning a return on project costs , but at a reduced rate approximating the cost of debt , while also acknowledging that the lpsc may consider ordering no return ; and ( 5 ) indicated that entergy louisiana should be directed to securitize project costs , if legally feasible and in the public interest .",
+      "in the third quarter 2010 , in accordance with accounting standards , entergy louisiana determined that it was probable that the little gypsy repowering project would be abandoned and accordingly reclassified $ 199.8 million of project costs from construction work in progress to a regulatory asset .",
+      "a hearing on the issues , except for cost allocation among customer classes , was held before the alj in november 2010 .",
+      "in january 2011 all parties participated in a mediation on the disputed issues , resulting in a settlement of all disputed issues , including cost recovery and cost allocation .",
+      "the settlement provides for entergy louisiana to recover $ 200 million as of march 31 , 2011 , and carrying costs on that amount on specified terms thereafter .",
+      "the settlement also provides for entergy louisiana to recover the approved project costs by securitization .",
+      "in april 2011 , entergy ."
+    ],
+    "table": [
+      [
+        "2011",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      [
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )"
+      ],
+      [
+        "( $ 118415 )",
+        "$ 49887",
+        "$ 52807",
+        "$ 61236"
+      ]
+    ],
+    "questions": [
+      "in december 2011 what was the ratio of the receivables to the credit facility outstanding"
+    ]
+  }
+}

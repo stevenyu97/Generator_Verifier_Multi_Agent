@@ -1,0 +1,108 @@
+{
+  "input": {
+    "id": "AMT/2008/page_88.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements 2014 ( continued ) 6 .",
+      "long-term obligations outstanding amounts under the company 2019s long-term financing arrangements consist of the following as of december 31 , ( in thousands ) : ."
+    ],
+    "post_text": [
+      "commercial mortgage pass-through certificates , series 2007-1 2014during the year ended december 31 , 2007 , the company completed a securitization transaction ( the securitization ) involving assets related to 5295 broadcast and wireless communications towers ( the secured towers ) owned by two special purpose subsidiaries of the company , through a private offering of $ 1.75 billion of commercial mortgage pass-through certificates , series 2007-1 ( the certificates ) .",
+      "the certificates were issued by american tower trust i ( the trust ) , a trust established by american tower depositor sub , llc ( the depositor ) , an indirect wholly owned special purpose subsidiary of the company .",
+      "the assets of the trust consist of a recourse loan ( the loan ) initially made by the depositor to american tower asset sub , llc and american tower asset sub ii , llc ( the borrowers ) , pursuant to a loan and security agreement among the foregoing parties dated as of may 4 , 2007 ( the loan agreement ) .",
+      "the borrowers are special purpose entities formed solely for the purpose of holding the secured towers subject to the securitization .",
+      "the certificates were issued in seven separate classes , comprised of class a-fx , class a-fl , class b , class c , class d , class e and class f .",
+      "each of the certificates in classes b , c , d , e and f are subordinated in right of payment to any other class of certificates which has an earlier alphabetical designation .",
+      "the certificates were issued with terms identical to the loan except for the class a-fl certificates , which bear interest at a floating rate while the related component of the loan bears interest at a fixed rate , as described below .",
+      "the various classes of certificates were issued with a weighted average interest rate of approximately 5.61% ( 5.61 % ) .",
+      "the certificates have an expected life of approximately seven years with a final repayment date in april 2037 .",
+      "the company used the net proceeds from the securitization to repay all amounts outstanding under the spectrasite credit facilities , including approximately $ 765.0 million in principal , plus accrued interest thereon and other costs and expenses related thereto , as well as to repay approximately $ 250.0 million drawn under the revolving loan component of the credit facilities at the american tower operating company level .",
+      "an additional $ 349.5 million of the proceeds was used to fund the company 2019s tender offer and consent solicitation for the ati ."
+    ],
+    "table": [
+      [
+        "",
+        "2008",
+        "2007"
+      ],
+      [
+        "commercial mortgage pass-through certificates series 2007-1",
+        "$ 1750000",
+        "$ 1750000"
+      ],
+      [
+        "revolving credit facility",
+        "750000",
+        "825000"
+      ],
+      [
+        "term loan",
+        "325000",
+        "2014"
+      ],
+      [
+        "7.25% ( 7.25 % ) senior subordinated notes",
+        "288",
+        "288"
+      ],
+      [
+        "7.50% ( 7.50 % ) senior notes",
+        "225000",
+        "225000"
+      ],
+      [
+        "7.125% ( 7.125 % ) senior notes",
+        "501107",
+        "502202"
+      ],
+      [
+        "7.00% ( 7.00 % ) senior notes",
+        "500000",
+        "500000"
+      ],
+      [
+        "5.0% ( 5.0 % ) convertible notes",
+        "59683",
+        "59683"
+      ],
+      [
+        "3.25% ( 3.25 % ) convertible notes",
+        "2014",
+        "18333"
+      ],
+      [
+        "3.00% ( 3.00 % ) convertible notes",
+        "161893",
+        "344568"
+      ],
+      [
+        "other convertible notes",
+        "41",
+        "41"
+      ],
+      [
+        "notes payable and capital leases",
+        "60134",
+        "60169"
+      ],
+      [
+        "total",
+        "4333146",
+        "4285284"
+      ],
+      [
+        "less current portion of long-term obligations",
+        "-1837 ( 1837 )",
+        "-1817 ( 1817 )"
+      ],
+      [
+        "long-term obligations",
+        "$ 4331309",
+        "$ 4283467"
+      ]
+    ],
+    "questions": [
+      "what was the change in thousands in total outstandings under long term financing arrangements from 2007 to 2008?"
+    ]
+  }
+}

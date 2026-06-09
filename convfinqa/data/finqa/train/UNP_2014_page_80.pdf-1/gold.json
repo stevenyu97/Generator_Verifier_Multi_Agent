@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in december 2014 , what was the percentage of the total future minimum lease payments that was due in 2016",
+      "answer": 0.12969,
+      "answer_raw": "0.12969",
+      "program": "add(484, 249), add(3725, 1927), divide(#0, #1)"
+    }
+  ]
+}

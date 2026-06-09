@@ -1,0 +1,50 @@
+{
+  "input": {
+    "id": "CME/2012/page_73.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "subject to fluctuation and , consequently , the amount realized in the subsequent sale of an investment may differ significantly from its current reported value .",
+      "fluctuations in the market price of a security may result from perceived changes in the underlying economic characteristics of the issuer , the relative price of alternative investments and general market conditions .",
+      "the table below summarizes equity investments that are subject to equity price fluctuations at december 31 , 2012 .",
+      "equity investments are included in other assets in our consolidated balance sheets .",
+      "( in millions ) carrying unrealized net of tax ."
+    ],
+    "post_text": [
+      "we do not currently hedge against equity price risk .",
+      "equity investments are assessed for other-than- temporary impairment on a quarterly basis. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "costbasis",
+        "fairvalue",
+        "carryingvalue",
+        "unrealizedgainnet of tax"
+      ],
+      [
+        "bm&fbovespa s.a .",
+        "$ 262.9",
+        "$ 690.6",
+        "$ 690.6",
+        "$ 271.4"
+      ],
+      [
+        "bolsa mexicana de valores s.a.b . de c.v .",
+        "17.3",
+        "29.3",
+        "29.3",
+        "7.6"
+      ],
+      [
+        "imarex asa",
+        "2014",
+        "1.8",
+        "1.8",
+        "1.1"
+      ]
+    ],
+    "questions": [
+      "in 2012 what was the ratio of the bm&fbovespa s.a . fair value to the cost basis"
+    ]
+  }
+}

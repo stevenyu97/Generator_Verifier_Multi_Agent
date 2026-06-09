@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage of total average common and common equivalent shares outstanding in 2014 assuming dilution that was dilute share equivalents from share-based plans?",
+      "answer": 0.02231,
+      "answer_raw": "0.02231",
+      "program": "divide(4410, 197709)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the total number of average common shares outstanding in 2015 and 2016?",
+      "answer": 415239.0,
+      "answer_raw": "415239.0",
+      "program": "add(212702, 202537)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the total including the value for 2014?",
+      "answer": 608538.0,
+      "answer_raw": "608538.0",
+      "program": "add(212702, 202537), add(#0, 193299)"
+    }
+  ]
+}

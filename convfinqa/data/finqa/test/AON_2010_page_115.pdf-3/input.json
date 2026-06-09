@@ -1,0 +1,90 @@
+{
+  "input": {
+    "id": "AON/2010/page_115.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "material impact on the service cost and interest cost components of net periodic benefit costs for a 1% ( 1 % ) change in the assumed health care trend rate .",
+      "for most of the participants in the u.s .",
+      "plan , aon 2019s liability for future plan cost increases for pre-65 and medical supplement plan coverage is limited to 5% ( 5 % ) per annum .",
+      "because of this cap , net employer trend rates for these plans are effectively limited to 5% ( 5 % ) per year in the future .",
+      "during 2007 , aon recognized a plan amendment which phases out post-65 retiree coverage in its u.s .",
+      "plan over the next three years .",
+      "the impact of this amendment on net periodic benefit cost is being recognized over the average remaining service life of the employees .",
+      "14 .",
+      "stock compensation plans the following table summarizes stock-based compensation expense recognized in continuing operations in the consolidated statements of income in compensation and benefits ( in millions ) : ."
+    ],
+    "post_text": [
+      "during 2009 , the company converted its stock administration system to a new service provider .",
+      "in connection with this conversion , a reconciliation of the methodologies and estimates utilized was performed , which resulted in a $ 12 million reduction of expense for the year ended december 31 , 2009 .",
+      "stock awards stock awards , in the form of rsus , are granted to certain employees and consist of both performance-based and service-based rsus .",
+      "service-based awards generally vest between three and ten years from the date of grant .",
+      "the fair value of service-based awards is based upon the market value of the underlying common stock at the date of grant .",
+      "with certain limited exceptions , any break in continuous employment will cause the forfeiture of all unvested awards .",
+      "compensation expense associated with stock awards is recognized over the service period .",
+      "dividend equivalents are paid on certain service-based rsus , based on the initial grant amount .",
+      "performance-based rsus have been granted to certain employees .",
+      "vesting of these awards is contingent upon meeting various individual , divisional or company-wide performance conditions , including revenue generation or growth in revenue , pretax income or earnings per share over a one- to five-year period .",
+      "the performance conditions are not considered in the determination of the grant date fair value for these awards .",
+      "the fair value of performance-based awards is based upon the market price of the underlying common stock at the date of grant .",
+      "compensation expense is recognized over the performance period , and in certain cases an additional vesting period , based on management 2019s estimate of the number of units expected to vest .",
+      "compensation expense is adjusted to reflect the actual number of shares paid out at the end of the programs .",
+      "the actual payout of shares under these performance- based plans may range from 0-200% ( 0-200 % ) of the number of units granted , based on the plan .",
+      "dividend equivalents are generally not paid on the performance-based rsus .",
+      "during 2010 , the company granted approximately 1.6 million shares in connection with the completion of the 2007 leadership performance plan ( 2018 2018lpp 2019 2019 ) cycle and 84000 shares related to other performance plans .",
+      "during 2010 , 2009 and 2008 , the company granted approximately 3.5 million ."
+    ],
+    "table": [
+      [
+        "years ended december 31",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      [
+        "rsus",
+        "$ 138",
+        "$ 124",
+        "$ 132"
+      ],
+      [
+        "performance plans",
+        "62",
+        "60",
+        "67"
+      ],
+      [
+        "stock options",
+        "17",
+        "21",
+        "24"
+      ],
+      [
+        "employee stock purchase plans",
+        "4",
+        "4",
+        "3"
+      ],
+      [
+        "total stock-based compensation expense",
+        "221",
+        "209",
+        "226"
+      ],
+      [
+        "tax benefit",
+        "75",
+        "68",
+        "82"
+      ],
+      [
+        "stock-based compensation expense net of tax",
+        "$ 146",
+        "$ 141",
+        "$ 144"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in the expenses related to he issuing of stock option in 2009"
+    ]
+  }
+}

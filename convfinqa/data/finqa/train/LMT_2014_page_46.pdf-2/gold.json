@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in operating profit from 2013 to 2014 for is&gs?",
+      "answer": -0.07905,
+      "answer_raw": "-0.07905",
+      "program": "subtract(699, 759), divide(#0, 759)"
+    }
+  ]
+}

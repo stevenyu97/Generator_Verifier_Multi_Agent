@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based upon the achievement of goals outlined in the 2011 program , what was the difference in percentage points between the maximum % (  % ) of the target number vs . actual performance % (  % ) for the 2011 program?",
+      "answer": 20.0,
+      "answer_raw": "20.0",
+      "program": "subtract(150, 130)"
+    }
+  ]
+}

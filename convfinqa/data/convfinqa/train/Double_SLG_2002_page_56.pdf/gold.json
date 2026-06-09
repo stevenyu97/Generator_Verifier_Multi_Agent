@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the minimum payment for capital leases due in 2003?",
+      "answer": 1290.0,
+      "answer_raw": "1290.0",
+      "program": "1290"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the total minimum lease payments?",
+      "answer": 63014.0,
+      "answer_raw": "63014.0",
+      "program": "63014"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what portion is due in 2003?",
+      "answer": 0.02047,
+      "answer_raw": "0.02047",
+      "program": "divide(1290, 63014)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the 2003 improvement in the 30+ day delinquency rate , ( us$ b ) ?",
+      "answer": 0.1232,
+      "answer_raw": "0.1232",
+      "program": "divide(8, const_100), multiply(#0, 1.54)"
+    }
+  ]
+}

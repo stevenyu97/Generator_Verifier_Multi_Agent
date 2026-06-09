@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the lease restructuring liability and other operating lease liability in 2004",
+      "answer": -13683.0,
+      "answer_raw": "-13683.0",
+      "program": "subtract(55843, 69526)"
+    }
+  ]
+}

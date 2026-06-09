@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total approximate number of shares international paper acquired of the outstanding common stock of temple-inland",
+      "answer": 0.11563,
+      "answer_raw": "0.11563",
+      "program": "divide(3.7, 32)"
+    }
+  ]
+}

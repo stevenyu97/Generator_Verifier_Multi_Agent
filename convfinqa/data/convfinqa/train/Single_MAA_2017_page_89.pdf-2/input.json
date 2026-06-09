@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "Single_MAA/2017/page_89.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "performance based restricted stock awards is generally recognized using the accelerated amortization method with each vesting tranche valued as a separate award , with a separate vesting date , consistent with the estimated value of the award at each period end .",
+      "additionally , compensation expense is adjusted for actual forfeitures for all awards in the period that the award was forfeited .",
+      "compensation expense for stock options is generally recognized on a straight-line basis over the requisite service period .",
+      "maa presents stock compensation expense in the consolidated statements of operations in \"general and administrative expenses\" .",
+      "effective january 1 , 2017 , the company adopted asu 2016-09 , improvements to employee share- based payment accounting , which allows employers to make a policy election to account for forfeitures as they occur .",
+      "the company elected this option using the modified retrospective transition method , with a cumulative effect adjustment to retained earnings , and there was no material effect on the consolidated financial position or results of operations taken as a whole resulting from the reversal of previously estimated forfeitures .",
+      "total compensation expense under the stock plan was approximately $ 10.8 million , $ 12.2 million and $ 6.9 million for the years ended december 31 , 2017 , 2016 and 2015 , respectively .",
+      "of these amounts , total compensation expense capitalized was approximately $ 0.2 million , $ 0.7 million and $ 0.7 million for the years ended december 31 , 2017 , 2016 and 2015 , respectively .",
+      "as of december 31 , 2017 , the total unrecognized compensation expense was approximately $ 14.1 million .",
+      "this cost is expected to be recognized over the remaining weighted average period of 1.2 years .",
+      "total cash paid for the settlement of plan shares totaled $ 4.8 million , $ 2.0 million and $ 1.0 million for the years ended december 31 , 2017 , 2016 and 2015 , respectively .",
+      "information concerning grants under the stock plan is listed below .",
+      "restricted stock in general , restricted stock is earned based on either a service condition , performance condition , or market condition , or a combination thereof , and generally vests ratably over a period from 1 year to 5 years .",
+      "service based awards are earned when the employee remains employed over the requisite service period and are valued on the grant date based upon the market price of maa common stock on the date of grant .",
+      "market based awards are earned when maa reaches a specified stock price or specified return on the stock price ( price appreciation plus dividends ) and are valued on the grant date using a monte carlo simulation .",
+      "performance based awards are earned when maa reaches certain operational goals such as funds from operations , or ffo , targets and are valued based upon the market price of maa common stock on the date of grant as well as the probability of reaching the stated targets .",
+      "maa remeasures the fair value of the performance based awards each balance sheet date with adjustments made on a cumulative basis until the award is settled and the final compensation is known .",
+      "the weighted average grant date fair value per share of restricted stock awards granted during the years ended december 31 , 2017 , 2016 and 2015 , was $ 84.53 , $ 73.20 and $ 68.35 , respectively .",
+      "the following is a summary of the key assumptions used in the valuation calculations for market based awards granted during the years ended december 31 , 2017 , 2016 and 2015: ."
+    ],
+    "post_text": [
+      "the risk free rate was based on a zero coupon risk-free rate .",
+      "the minimum risk free rate was based on a period of 0.25 years for the years ended december 31 , 2017 , 2016 and 2015 .",
+      "the maximum risk free rate was based on a period of 3 years for the years ended december 31 , 2017 , 2016 and 2015 .",
+      "the dividend yield was based on the closing stock price of maa stock on the date of grant .",
+      "volatility for maa was obtained by using a blend of both historical and implied volatility calculations .",
+      "historical volatility was based on the standard deviation of daily total continuous returns , and implied volatility was based on the trailing month average of daily implied volatilities interpolating between the volatilities implied by stock call option contracts that were closest to the terms shown and closest to the money .",
+      "the minimum volatility was based on a period of 3 years , 2 years and 1 year for the years ended december 31 , 2017 , 2016 and 2015 , respectively .",
+      "the maximum volatility was based on a period of 1 year , 1 year and 2 years for the years ended december 31 , 2017 , 2016 and 2015 , respectively .",
+      "the requisite service period is based on the criteria for the separate programs according to the vesting schedule. ."
+    ],
+    "table": [
+      [
+        "",
+        "2017",
+        "2016",
+        "2015"
+      ],
+      [
+        "risk free rate",
+        "0.65% ( 0.65 % ) - 1.57% ( 1.57 % )",
+        "0.49% ( 0.49 % ) - 1.27% ( 1.27 % )",
+        "0.10% ( 0.10 % ) - 1.05% ( 1.05 % )"
+      ],
+      [
+        "dividend yield",
+        "3.573% ( 3.573 % )",
+        "3.634% ( 3.634 % )",
+        "3.932% ( 3.932 % )"
+      ],
+      [
+        "volatility",
+        "20.43% ( 20.43 % ) - 21.85% ( 21.85 % )",
+        "18.41% ( 18.41 % ) - 19.45% ( 19.45 % )",
+        "15.41% ( 15.41 % ) - 16.04% ( 16.04 % )"
+      ],
+      [
+        "requisite service period",
+        "3 years",
+        "3 years",
+        "3 years"
+      ]
+    ],
+    "questions": [
+      "what was the change in weighted average grant date fair value per share of restricted stock from 2016 to 2017?",
+      "how much does that change represent in relation to the weighted average grant date fair value per share of restricted stock in 2016, in percentage?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as part of the acquisition of 5483 communications sites from tim in brazil what was the average price per site in millions",
+      "answer": 0.14534,
+      "answer_raw": "0.14534",
+      "program": "divide(796.9, 5483)"
+    }
+  ]
+}

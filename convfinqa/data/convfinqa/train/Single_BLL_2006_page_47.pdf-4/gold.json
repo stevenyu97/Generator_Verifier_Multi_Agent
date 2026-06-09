@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total dividends paid in 2005 and 2006?",
+      "answer": 83.5,
+      "answer_raw": "83.5",
+      "program": "add(41, 42.5)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the total if 2005 is inlcuded?",
+      "answer": 122.4,
+      "answer_raw": "122.4",
+      "program": "add(41, 42.5), add(#0, 38.9)"
+    }
+  ]
+}

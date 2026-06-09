@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of cadence design systems in 2006 less 100?",
+      "answer": -20.04,
+      "answer_raw": "-20.04",
+      "program": "subtract(79.96, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that difference divided by 100?",
+      "answer": -0.2004,
+      "answer_raw": "-0.2004",
+      "program": "subtract(79.96, const_100), divide(#0, const_100)"
+    }
+  ]
+}

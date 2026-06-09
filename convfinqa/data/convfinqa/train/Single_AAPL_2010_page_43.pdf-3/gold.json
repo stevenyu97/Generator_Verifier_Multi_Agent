@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of cash, cash equivalents and marketable securities in 2010?",
+      "answer": 51011.0,
+      "answer_raw": "51011.0",
+      "program": "51011"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2008?",
+      "answer": 24490.0,
+      "answer_raw": "24490.0",
+      "program": "24490"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the change in value?",
+      "answer": 26521.0,
+      "answer_raw": "26521.0",
+      "program": "subtract(51011, 24490)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the change divided by the 2008 value?",
+      "answer": 1.08293,
+      "answer_raw": "1.08293",
+      "program": "subtract(51011, 24490), divide(#0, 24490)"
+    }
+  ]
+}

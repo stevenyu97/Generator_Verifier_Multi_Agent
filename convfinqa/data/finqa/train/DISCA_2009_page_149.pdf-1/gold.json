@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the size difference between the senior unsecured note amounts between those under the 2001 note purchase agreement and those under the 2002 note purchase agreement?",
+      "answer": 410000000.0,
+      "answer_raw": "410000000.0",
+      "program": "subtract(700000000, 290000000)"
+    }
+  ]
+}

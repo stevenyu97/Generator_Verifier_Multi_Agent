@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the total exposure net of all collateral has a rating equivalent of a+/a1 to a-/a3?",
+      "answer": 0.23479,
+      "answer_raw": "0.23479",
+      "program": "divide(13940, 59371)"
+    }
+  ]
+}

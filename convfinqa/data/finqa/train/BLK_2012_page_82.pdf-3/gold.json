@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the balance of total investments gaap from 2011 to 2012?",
+      "answer": 0.07296,
+      "answer_raw": "0.07296",
+      "program": "subtract(1750, 1631), divide(#0, 1631)"
+    }
+  ]
+}

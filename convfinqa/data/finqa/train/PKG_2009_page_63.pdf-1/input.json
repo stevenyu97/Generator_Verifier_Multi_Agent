@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "PKG/2009/page_63.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "there were no changes in the company 2019s valuation techniques used to measure fair values on a recurring basis as a result of adopting asc 820 .",
+      "pca had no assets or liabilities that were measured on a nonrecurring basis .",
+      "11 .",
+      "stockholders 2019 equity on october 17 , 2007 , pca announced that its board of directors authorized a $ 150.0 million common stock repurchase program .",
+      "there is no expiration date for the common stock repurchase program .",
+      "through december 31 , 2008 , the company repurchased 3818729 shares of common stock , with 3142600 shares repurchased during 2008 and 676129 shares repurchased during 2007 .",
+      "all repurchased shares were retired prior to december 31 , 2008 .",
+      "there were no shares repurchased in 2009 .",
+      "as of december 31 , 2009 , $ 65.0 million of the $ 150.0 million authorization remained available for repurchase of the company 2019s common stock .",
+      "12 .",
+      "commitments and contingencies capital commitments the company had authorized capital commitments of approximately $ 41.7 million and $ 43.0 million as of december 31 , 2009 and 2008 , respectively , in connection with the expansion and replacement of existing facilities and equipment .",
+      "in addition , commitments at december 31 , 2009 for the major energy optimization projects at its counce and valdosta mills totaled $ 156.3 million .",
+      "lease obligations pca leases space for certain of its facilities and cutting rights to approximately 91000 acres of timberland under long-term leases .",
+      "the company also leases equipment , primarily vehicles and rolling stock , and other assets under long-term leases with a duration of two to seven years .",
+      "the minimum lease payments under non-cancelable operating leases with lease terms in excess of one year are as follows: ."
+    ],
+    "post_text": [
+      "total lease expense , including base rent on all leases and executory costs , such as insurance , taxes , and maintenance , for the years ended december 31 , 2009 , 2008 and 2007 was $ 41.3 million , $ 41.6 million and $ 39.8 million , respectively .",
+      "these costs are included in cost of goods sold and selling and administrative expenses .",
+      "pca was obligated under capital leases covering buildings and machinery and equipment in the amount of $ 23.1 million and $ 23.7 million at december 31 , 2009 and 2008 , respectively .",
+      "during the fourth quarter of 2008 , the company entered into a capital lease relating to buildings and machinery , totaling $ 23.9 million , payable over 20 years .",
+      "this capital lease amount is a non-cash transaction and , accordingly , has been excluded packaging corporation of america notes to consolidated financial statements ( continued ) december 31 , 2009 ."
+    ],
+    "table": [
+      [
+        "",
+        "( in thousands )"
+      ],
+      [
+        "2010",
+        "$ 28162"
+      ],
+      [
+        "2011",
+        "25181"
+      ],
+      [
+        "2012",
+        "17338"
+      ],
+      [
+        "2013",
+        "11557"
+      ],
+      [
+        "2014",
+        "7742"
+      ],
+      [
+        "thereafter",
+        "18072"
+      ],
+      [
+        "total",
+        "$ 108052"
+      ]
+    ],
+    "questions": [
+      "what percentage of total minimum lease payments under non-cancelable operating leases with lease terms in excess of one year are due in 2011?"
+    ]
+  }
+}

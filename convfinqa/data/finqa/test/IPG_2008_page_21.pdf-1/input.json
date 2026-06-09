@@ -1,0 +1,85 @@
+{
+  "input": {
+    "id": "IPG/2008/page_21.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "repurchase of equity securities the following table provides information regarding our purchases of equity securities during the fourth quarter of 2008 : number of shares purchased average paid per share2 total number of shares purchased as part of publicly announced plans or programs maximum number of shares that may yet be purchased under the plans or programs ."
+    ],
+    "post_text": [
+      "total1 .",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "47022 $ 5.18 2014 2014 1 consists of restricted shares of our common stock withheld under the terms of grants under employee stock compensation plans to offset tax withholding obligations that occurred upon vesting and release of restricted shares during each month of the fourth quarter of 2008 ( the 201cwithheld shares 201d ) .",
+      "2 the average price per month of the withheld shares was calculated by dividing the aggregate value of the tax withholding obligations for each month by the aggregate number of shares of our common stock withheld each month. ."
+    ],
+    "table": [
+      [
+        "",
+        "total number of shares purchased",
+        "average price paid per share2",
+        "total number of shares purchased as part of publicly announced plans or programs",
+        "maximum number ofshares that may yet be purchased under the plans or programs"
+      ],
+      [
+        "october 1-31",
+        "29704",
+        "$ 5.99",
+        "2014",
+        "2014"
+      ],
+      [
+        "november 1-30",
+        "4468",
+        "$ 3.24",
+        "2014",
+        "2014"
+      ],
+      [
+        "december 1-31",
+        "12850",
+        "$ 3.98",
+        "2014",
+        "2014"
+      ],
+      [
+        "total1",
+        "47022",
+        "$ 5.18",
+        "2014",
+        "2014"
+      ]
+    ],
+    "questions": [
+      "how much more , in percent , was spent on october shares than november shares?"
+    ]
+  }
+}

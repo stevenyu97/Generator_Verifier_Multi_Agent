@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the incremental severance expense in 2009",
+      "answer": 0.02569,
+      "answer_raw": "0.02569",
+      "program": "divide(3471, 135113)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of facilities are owned by the company?",
+      "answer": 0.6087,
+      "answer_raw": "0.6087",
+      "program": "divide(196, 322)"
+    }
+  ]
+}

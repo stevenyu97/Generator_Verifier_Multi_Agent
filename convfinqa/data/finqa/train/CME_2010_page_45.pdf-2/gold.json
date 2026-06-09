@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "did the cme group outperform the new peer group?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(93.73, 87.61)"
+    }
+  ]
+}

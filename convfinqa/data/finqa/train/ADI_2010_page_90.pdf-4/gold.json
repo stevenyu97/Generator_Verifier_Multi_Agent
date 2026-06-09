@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase of income for the fiscal years of 2008 to 2010?",
+      "answer": 0.38462,
+      "answer_raw": "0.38462",
+      "program": "subtract(1.8, 1.3), divide(#0, 1.3)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in shares bought by employees from 2007 to 2008?",
+      "answer": 6878.0,
+      "answer_raw": "6878.0",
+      "program": "subtract(55764, 48886)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how much does that change represent in relation to the total of shares bought by employees in 2007, in percentage?",
+      "answer": 0.14069,
+      "answer_raw": "0.14069",
+      "program": "subtract(55764, 48886), divide(#0, 48886)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the total common stock plans are related to the vertex purchase plan?",
+      "answer": 0.01121,
+      "answer_raw": "0.01121",
+      "program": "divide(249, 22203)"
+    }
+  ]
+}

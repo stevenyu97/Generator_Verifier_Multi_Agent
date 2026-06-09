@@ -1,0 +1,122 @@
+{
+  "input": {
+    "id": "CDW/2015/page_35.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents ( e ) other adjustments primarily include certain historical retention costs , unusual , non-recurring litigation matters , secondary-offering-related expenses and expenses related to the consolidation of office locations north of chicago .",
+      "during the year ended december 31 , 2013 , we recorded ipo- and secondary-offering related expenses of $ 75.0 million .",
+      "for additional information on the ipo- and secondary-offering related expenses , see note 10 ( stockholder 2019s equity ) to the accompanying consolidated financial statements .",
+      "( f ) includes the impact of consolidating five months for the year ended december 31 , 2015 of kelway 2019s financial results .",
+      "( 4 ) non-gaap net income excludes , among other things , charges related to the amortization of acquisition-related intangible assets , non-cash equity-based compensation , acquisition and integration expenses , and gains and losses from the extinguishment of long-term debt .",
+      "non-gaap net income is considered a non-gaap financial measure .",
+      "generally , a non-gaap financial measure is a numerical measure of a company 2019s performance , financial position or cash flows that either excludes or includes amounts that are not normally included or excluded in the most directly comparable measure calculated and presented in accordance with gaap .",
+      "non-gaap measures used by us may differ from similar measures used by other companies , even when similar terms are used to identify such measures .",
+      "we believe that non-gaap net income provides meaningful information regarding our operating performance and cash flows including our ability to meet our future debt service , capital expenditures and working capital requirements .",
+      "the following unaudited table sets forth a reconciliation of net income to non-gaap net income for the periods presented: ."
+    ],
+    "post_text": [
+      "acquisition and integration expenses ( c ) 10.2 2014 2014 2014 2014 gain on remeasurement of equity investment ( d ) ( 98.1 ) 2014 2014 2014 2014 other adjustments ( e ) 3.7 ( 0.3 ) 61.2 ( 3.3 ) ( 15.6 ) aggregate adjustment for income taxes ( f ) ( 64.8 ) ( 103.0 ) ( 113.5 ) ( 71.6 ) ( 106.8 ) non-gaap net income ( g ) $ 503.5 $ 409.9 $ 314.3 $ 247.1 $ 198.8 ( a ) includes amortization expense for acquisition-related intangible assets , primarily customer relationships , customer contracts and trade names .",
+      "( b ) represents our 35% ( 35 % ) share of an expense related to certain equity awards granted by one of the sellers to kelway coworkers in july 2015 prior to our acquisition of kelway .",
+      "( c ) primarily includes expenses related to the acquisition of kelway .",
+      "( d ) represents the gain resulting from the remeasurement of our previously held 35% ( 35 % ) equity investment to fair value upon the completion of the acquisition of kelway .",
+      "( e ) primarily includes expenses related to the consolidation of office locations north of chicago and secondary- offering-related expenses .",
+      "amount in 2013 primarily relates to ipo- and secondary-offering related expenses .",
+      "( f ) based on a normalized effective tax rate of 38.0% ( 38.0 % ) ( 39.0% ( 39.0 % ) prior to the kelway acquisition ) , except for the non- cash equity-based compensation from our equity investment and the gain resulting from the remeasurement of our previously held 35% ( 35 % ) equity investment to fair value upon the completion of the acquisition of kelway , which were tax effected at a rate of 35.4% ( 35.4 % ) .",
+      "the aggregate adjustment for income taxes also includes a $ 4.0 million deferred tax benefit recorded during the three months and year ended december 31 , 2015 as a result of a tax rate reduction in the united kingdom and additional tax expense during the year ended december 31 , 2015 of $ 3.3 million as a result of recording withholding tax on the unremitted earnings of our canadian subsidiary .",
+      "additionally , note that certain acquisition costs are non-deductible. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "years ended december 31 , 2015",
+        "years ended december 31 , 2014",
+        "years ended december 31 , 2013",
+        "years ended december 31 , 2012",
+        "years ended december 31 , 2011"
+      ],
+      [
+        "net income",
+        "$ 403.1",
+        "$ 244.9",
+        "$ 132.8",
+        "$ 119.0",
+        "$ 17.1"
+      ],
+      [
+        "amortization of intangibles ( a )",
+        "173.9",
+        "161.2",
+        "161.2",
+        "163.7",
+        "165.7"
+      ],
+      [
+        "non-cash equity-based compensation",
+        "31.2",
+        "16.4",
+        "8.6",
+        "22.1",
+        "19.5"
+      ],
+      [
+        "non-cash equity-based compensation related to equity investment ( b )",
+        "20.0",
+        "2014",
+        "2014",
+        "2014",
+        "2014"
+      ],
+      [
+        "net loss on extinguishments of long-term debt",
+        "24.3",
+        "90.7",
+        "64.0",
+        "17.2",
+        "118.9"
+      ],
+      [
+        "acquisition and integration expenses ( c )",
+        "10.2",
+        "2014",
+        "2014",
+        "2014",
+        "2014"
+      ],
+      [
+        "gain on remeasurement of equity investment ( d )",
+        "-98.1 ( 98.1 )",
+        "2014",
+        "2014",
+        "2014",
+        "2014"
+      ],
+      [
+        "other adjustments ( e )",
+        "3.7",
+        "-0.3 ( 0.3 )",
+        "61.2",
+        "-3.3 ( 3.3 )",
+        "-15.6 ( 15.6 )"
+      ],
+      [
+        "aggregate adjustment for income taxes ( f )",
+        "-64.8 ( 64.8 )",
+        "-103.0 ( 103.0 )",
+        "-113.5 ( 113.5 )",
+        "-71.6 ( 71.6 )",
+        "-106.8 ( 106.8 )"
+      ],
+      [
+        "non-gaap net income ( g )",
+        "$ 503.5",
+        "$ 409.9",
+        "$ 314.3",
+        "$ 247.1",
+        "$ 198.8"
+      ]
+    ],
+    "questions": [
+      "what would 2013 non-gaap net income have been ( millions ) without the stock issuance expenses?"
+    ]
+  }
+}

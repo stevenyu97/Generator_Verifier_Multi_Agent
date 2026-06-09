@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total aggregate debt maturities as of december 31 , 2011 are due in 2014?",
+      "answer": 0.07927,
+      "answer_raw": "0.07927",
+      "program": "divide(706, 8906)"
+    }
+  ]
+}

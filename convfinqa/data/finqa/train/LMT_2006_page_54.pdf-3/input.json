@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "LMT/2006/page_54.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "operating profit for the segment increased by 15% ( 15 % ) in 2005 compared to 2004 .",
+      "operating profit increased by $ 80 million at m&fc mainly due to improved performance on fire control and air defense programs .",
+      "performance on surface systems programs contributed to an increase in operating profit of $ 50 million at ms2 .",
+      "pt&ts operating profit increased $ 10 million primarily due to improved performance on simulation and training programs .",
+      "the increase in backlog during 2006 over 2005 resulted primarily from increased orders on certain platform integration programs in pt&ts .",
+      "space systems space systems 2019 operating results included the following : ( in millions ) 2006 2005 2004 ."
+    ],
+    "post_text": [
+      "net sales for space systems increased by 16% ( 16 % ) in 2006 compared to 2005 .",
+      "during the year , sales growth in satellites and strategic & defensive missile systems ( s&dms ) offset declines in space transportation .",
+      "the $ 1.1 billion growth in satellites sales was mainly due to higher volume on both government and commercial satellite programs .",
+      "there were five commercial satellite deliveries in 2006 compared to no deliveries in 2005 .",
+      "higher volume in both fleet ballistic missile and missile defense programs accounted for the $ 114 million sales increase at s&dms .",
+      "in space transportation , sales declined $ 102 million primarily due to lower volume in government space transportation activities on the titan and external tank programs .",
+      "increased sales on the atlas evolved expendable launch vehicle launch capabilities ( elc ) contract partially offset the lower government space transportation sales .",
+      "net sales for space systems increased by 7% ( 7 % ) in 2005 compared to 2004 .",
+      "during the year , sales growth in satellites and s&dms offset declines in space transportation .",
+      "the $ 410 million increase in satellites sales was due to higher volume on government satellite programs that more than offset declines in commercial satellite activities .",
+      "there were no commercial satellite deliveries in 2005 , compared to four in 2004 .",
+      "increased sales of $ 235 million in s&dms were attributable to the fleet ballistic missile and missile defense programs .",
+      "the $ 180 million decrease in space transportation 2019s sales was mainly due to having three atlas launches in 2005 compared to six in 2004 .",
+      "operating profit for the segment increased 22% ( 22 % ) in 2006 compared to 2005 .",
+      "operating profit increased in satellites , space transportation and s&dms .",
+      "the $ 72 million growth in satellites operating profit was primarily driven by the volume and performance on government satellite programs and commercial satellite deliveries .",
+      "in space transportation , the $ 39 million growth in operating profit was attributable to improved performance on the atlas program resulting from risk reduction activities , including the first quarter definitization of the elc contract .",
+      "in s&dms , the $ 26 million increase in operating profit was due to higher volume and improved performance on both the fleet ballistic missile and missile defense programs .",
+      "operating profit for the segment increased 25% ( 25 % ) in 2005 compared to 2004 .",
+      "operating profit increased in space transportation , s&dms and satellites .",
+      "in space transportation , the $ 60 million increase in operating profit was primarily attributable to improved performance on the atlas vehicle program .",
+      "satellites 2019 operating profit increased $ 35 million due to the higher volume and improved performance on government satellite programs , which more than offset the decreased operating profit due to the decline in commercial satellite deliveries .",
+      "the $ 20 million increase in s&dms was attributable to higher volume on fleet ballistic missile and missile defense programs .",
+      "in december 2006 , we completed a transaction with boeing to form ula , a joint venture which combines the production , engineering , test and launch operations associated with u.s .",
+      "government launches of our atlas launch vehicles and boeing 2019s delta launch vehicles ( see related discussion on our 201cspace business 201d under 201cindustry considerations 201d ) .",
+      "we are accounting for our investment in ula under the equity method of accounting .",
+      "as a result , our share of the net earnings or losses of ula are included in other income and expenses , and we will no longer recognize sales related to launch vehicle services provided to the u.s .",
+      "government .",
+      "in 2006 , we recorded sales to the u.s .",
+      "government for atlas launch services totaling approximately $ 600 million .",
+      "we have retained the right to market commercial atlas launch services .",
+      "we contributed assets to ula , and ula assumed liabilities related to our atlas business in exchange for our 50% ( 50 % ) ownership interest .",
+      "the net book value of the assets contributed and liabilities assumed was approximately $ 200 million at ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2006",
+        "2005",
+        "2004"
+      ],
+      [
+        "net sales",
+        "$ 7923",
+        "$ 6820",
+        "$ 6359"
+      ],
+      [
+        "operating profit",
+        "746",
+        "609",
+        "489"
+      ],
+      [
+        "backlog at year-end",
+        "18768",
+        "15925",
+        "16112"
+      ]
+    ],
+    "questions": [
+      "what were average operating profitfor space systems from 2004 to 2006 , in millions?"
+    ]
+  }
+}

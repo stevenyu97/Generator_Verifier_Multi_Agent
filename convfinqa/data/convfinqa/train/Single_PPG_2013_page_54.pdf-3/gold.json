@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of unrecognized tax benefits at the end of 2012?",
+      "answer": 82.0,
+      "answer_raw": "82.0",
+      "program": "82"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value at the end of 2011?",
+      "answer": 107.0,
+      "answer_raw": "107.0",
+      "program": "107"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change in value?",
+      "answer": -25.0,
+      "answer_raw": "-25.0",
+      "program": "subtract(82, 107)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the 2011 value?",
+      "answer": 107.0,
+      "answer_raw": "107.0",
+      "program": "107"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the net change over the 2011 value?",
+      "answer": -0.23364,
+      "answer_raw": "-0.23364",
+      "program": "subtract(82, 107), divide(#0, 107)"
+    }
+  ]
+}

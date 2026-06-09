@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total net revenues for 2016?",
+      "answer": 30608.0,
+      "answer_raw": "30608.0",
+      "program": "30608"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for 2015?",
+      "answer": 33820.0,
+      "answer_raw": "33820.0",
+      "program": "33820"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so how much did this value change over the year?",
+      "answer": -3212.0,
+      "answer_raw": "-3212.0",
+      "program": "subtract(30608, 33820)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the growth rate for that time?",
+      "answer": -0.09497,
+      "answer_raw": "-0.09497",
+      "program": "subtract(30608, 33820), divide(#0, 33820)"
+    }
+  ]
+}

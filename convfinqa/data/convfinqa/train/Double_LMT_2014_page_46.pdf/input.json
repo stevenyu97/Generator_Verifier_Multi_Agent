@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "Double_LMT/2014/page_46.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "decreased production volume as final aircraft deliveries were completed during the second quarter of 2012 and $ 50 million from the favorable resolution of a contractual matter during the second quarter of 2012 ; and about $ 270 million for various other programs ( primarily sustainment activities ) due to decreased volume .",
+      "the decreases were partially offset by higher net sales of about $ 295 million for f-35 production contracts due to increased production volume and risk retirements ; approximately $ 245 million for the c-5 program due to increased aircraft deliveries ( six aircraft delivered in 2013 compared to four in 2012 ) and other modernization activities ; and about $ 70 million for the f-35 development contract due to increased volume .",
+      "aeronautics 2019 operating profit for 2013 decreased $ 87 million , or 5% ( 5 % ) , compared to 2012 .",
+      "the decrease was primarily attributable to lower operating profit of about $ 85 million for the f-22 program , which includes approximately $ 50 million from the favorable resolution of a contractual matter in the second quarter of 2012 and about $ 35 million due to decreased risk retirements and production volume ; approximately $ 70 million for the c-130 program due to lower risk retirements and fewer deliveries partially offset by increased sustainment activities ; about $ 65 million for the c-5 program due to the inception-to-date effect of reducing the profit booking rate in the third quarter of 2013 and lower risk retirements ; approximately $ 35 million for the f-16 program due to fewer aircraft deliveries partially offset by increased sustainment activity and aircraft configuration mix .",
+      "the decreases were partially offset by higher operating profit of approximately $ 180 million for f-35 production contracts due to increased risk retirements and volume .",
+      "operating profit was comparable for the f-35 development contract and included adjustments of approximately $ 85 million to reflect the inception-to-date impacts of the downward revisions to the profit booking rate in both 2013 and 2012 .",
+      "adjustments not related to volume , including net profit booking rate adjustments and other matters , were approximately $ 75 million lower for 2013 compared to backlog backlog decreased slightly in 2014 compared to 2013 primarily due to lower orders on f-16 and f-22 programs .",
+      "backlog decreased in 2013 compared to 2012 mainly due to lower orders on f-16 , c-5 and c-130 programs , partially offset by higher orders on the f-35 program .",
+      "trends we expect aeronautics 2019 2015 net sales to be comparable or slightly behind 2014 due to a decline in f-16 deliveries as well as a decline in f-35 development activity , partially offset by an increase in production contracts .",
+      "operating profit is also expected to decrease in the low single digit range , due primarily to contract mix , resulting in a slight decrease in operating margins between years .",
+      "information systems & global solutions our is&gs business segment provides advanced technology systems and expertise , integrated information technology solutions and management services across a broad spectrum of applications for civil , defense , intelligence and other government customers .",
+      "is&gs has a portfolio of many smaller contracts as compared to our other business segments .",
+      "is&gs has been impacted by the continued downturn in certain federal agencies 2019 information technology budgets and increased re-competition on existing contracts coupled with the fragmentation of large contracts into multiple smaller contracts that are awarded primarily on the basis of price .",
+      "is&gs 2019 operating results included the following ( in millions ) : ."
+    ],
+    "post_text": [
+      "2014 compared to 2013 is&gs 2019 net sales decreased $ 579 million , or 7% ( 7 % ) , for 2014 compared to 2013 .",
+      "the decrease was primarily attributable to lower net sales of about $ 645 million for 2014 due to the wind-down or completion of certain programs , driven by reductions in direct warfighter support ( including jieddo and ptds ) and defense budgets tied to command and control programs ; and approximately $ 490 million for 2014 due to a decline in volume for various ongoing programs , which reflects lower funding levels and programs impacted by in-theater force reductions .",
+      "the decreases were partially offset by higher net sales of about $ 550 million for 2014 due to the start-up of new programs , growth in recently awarded programs and integration of recently acquired companies. ."
+    ],
+    "table": [
+      [
+        "",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      [
+        "net sales",
+        "$ 7788",
+        "$ 8367",
+        "$ 8846"
+      ],
+      [
+        "operating profit",
+        "699",
+        "759",
+        "808"
+      ],
+      [
+        "operating margins",
+        "9.0% ( 9.0 % )",
+        "9.1% ( 9.1 % )",
+        "9.1% ( 9.1 % )"
+      ],
+      [
+        "backlog at year-end",
+        "$ 8700",
+        "$ 8300",
+        "$ 8700"
+      ]
+    ],
+    "questions": [
+      "what was the variation in the net sales from 2012 to 2013?",
+      "and what is this variation as a percentage of those net sales in 2012?",
+      "and throughout the subsequent year of this period, what was the change in the operating profit for is&gs?",
+      "and how much did this change represent in relation to the 2013 operating profit?"
+    ]
+  }
+}

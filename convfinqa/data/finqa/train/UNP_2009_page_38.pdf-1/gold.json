@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "without the 2008 voluntary pension contributions , how much cash would have been provided by operating activities , in millions?",
+      "answer": 4270.0,
+      "answer_raw": "4270.0",
+      "program": "add(4070, 200)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the goodwill related to retail brokerage in 2012?",
+      "answer": 1791.8,
+      "answer_raw": "1791.8",
+      "program": "1791.8"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the total goodwill?",
+      "answer": 1934.2,
+      "answer_raw": "1934.2",
+      "program": "1934.2"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what portion of goodwill is related to retail brokerage?",
+      "answer": 0.92638,
+      "answer_raw": "0.92638",
+      "program": "divide(1791.8, 1934.2)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about the goodwill related to market making?",
+      "answer": 142.4,
+      "answer_raw": "142.4",
+      "program": "142.4"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what about the portion of total goodwill related to market making?",
+      "answer": 0.07362,
+      "answer_raw": "0.07362",
+      "program": "divide(142.4, 1934.2)"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "SYY/2006/page_68.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "6 .",
+      "restricted cash sysco is required by its insurers to collateralize a part of the self-insured portion of its workers 2019 compensation and liability claims .",
+      "sysco has chosen to satisfy these collateral requirements by depositing funds in insurance trusts or by issuing letters of credit .",
+      "in addition , for certain acquisitions , sysco has placed funds into escrow to be disbursed to the sellers in the event that specified operating results are attained or contingencies are resolved .",
+      "escrowed funds related to certain acquisitions in the amount of $ 1700000 were released during fiscal 2006 , which included $ 800000 that was disbursed to sellers .",
+      "a summary of restricted cash balances appears below: ."
+    ],
+    "post_text": [
+      "funds deposited in insurance trusts************************************** $ 82653000 $ 80410000 escrow funds related to acquisitions ************************************* 19621000 21321000 total************************************************************* $ 102274000 $ 101731000 7 .",
+      "derivative financial instruments sysco manages its debt portfolio by targeting an overall desired position of fixed and floating rates and may employ interest rate swaps from time to time to achieve this goal .",
+      "the company does not use derivative financial instruments for trading or speculative purposes .",
+      "during fiscal years 2003 , 2004 and 2005 , the company entered into various interest rate swap agreements designated as fair value hedges of the related debt .",
+      "the terms of these swap agreements and the hedged items were such that the hedges were considered perfectly effective against changes in the fair value of the debt due to changes in the benchmark interest rates over their terms .",
+      "as a result , the shortcut method provided by sfas no .",
+      "133 , 2018 2018accounting for derivative instruments and hedging activities , 2019 2019 was applied and there was no need to periodically reassess the effectiveness of the hedges during the terms of the swaps .",
+      "interest expense on the debt was adjusted to include payments made or received under the hedge agreements .",
+      "the fair value of the swaps was carried as an asset or a liability on the consolidated balance sheet and the carrying value of the hedged debt was adjusted accordingly .",
+      "there were no fair value hedges outstanding as of july 1 , 2006 or july 2 , 2005 .",
+      "the amount received upon termination of fair value hedge swap agreements was $ 5316000 and $ 1305000 in fiscal years 2005 and 2004 , respectively .",
+      "there were no terminations of fair value hedge swap agreements in fiscal 2006 .",
+      "the amount received upon termination of swap agreements is reflected as an increase in the carrying value of the related debt to reflect its fair value at termination .",
+      "this increase in the carrying value of the debt is amortized as a reduction of interest expense over the remaining term of the debt .",
+      "in march 2005 , sysco entered into a forward-starting interest rate swap with a notional amount of $ 350000000 .",
+      "in accordance with sfas no .",
+      "133 , the company designated this derivative as a cash flow hedge of the variability in the cash outflows of interest payments on $ 350000000 of the september 2005 forecasted debt issuance due to changes in the benchmark interest rate .",
+      "the fair value of the swap as of july 2 , 2005 was ( $ 32584000 ) , which is reflected in accrued expenses on the consolidated balance sheet , with the corresponding amount reflected as a loss , net of tax , in other comprehensive income ( loss ) .",
+      "in september 2005 , in conjunction with the issuance of the 5.375% ( 5.375 % ) senior notes , sysco settled the $ 350000000 notional amount forward-starting interest rate swap .",
+      "upon settlement , sysco paid cash of $ 21196000 , which represented the fair value of the swap agreement at the time of settlement .",
+      "this amount is being amortized as interest expense over the 30-year term of the debt , and the unamortized balance is reflected as a loss , net of tax , in other comprehensive income ( loss ) .",
+      "in the normal course of business , sysco enters into forward purchase agreements for the procurement of fuel , electricity and product commodities related to sysco 2019s business .",
+      "certain of these agreements meet the definition of a derivative and qualify for the normal purchase and sale exemption under relevant accounting literature .",
+      "the company has elected to use this exemption for these agreements and thus they are not recorded at fair value .",
+      "%%transmsg*** transmitting job : h39408 pcn : 046000000 *** %%pcmsg|44 |00010|yes|no|09/06/2006 17:22|0|1|page is valid , no graphics -- color : n| ."
+    ],
+    "table": [
+      [
+        "",
+        "july 1 2006",
+        "july 2 2005"
+      ],
+      [
+        "funds deposited in insurance trusts",
+        "$ 82653000",
+        "$ 80410000"
+      ],
+      [
+        "escrow funds related to acquisitions",
+        "19621000",
+        "21321000"
+      ],
+      [
+        "total",
+        "$ 102274000",
+        "$ 101731000"
+      ]
+    ],
+    "questions": [
+      "what percentage of restricted cash as of july 1 , 2006 was in funds deposited in insurance trusts?"
+    ]
+  }
+}

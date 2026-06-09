@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much did the liabilities incurred in 2018 represent in relation to the ones incurred in 2017?",
+      "answer": 1.44359,
+      "answer_raw": "1.44359",
+      "program": "divide(79057, 54764)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this value excluding the portion equivalent to the 2017 liabilities?",
+      "answer": 0.44359,
+      "answer_raw": "0.44359",
+      "program": "divide(79057, 54764), subtract(#0, 1)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and in the first year of that period, what was the beginning carrying amount, in millions?",
+      "answer": 912.926,
+      "answer_raw": "912.926",
+      "program": "divide(912926, const_1000)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage did the carrying amount of proved oil and gas properties represent in relation to this value?",
+      "answer": 0.40529,
+      "answer_raw": "0.40529",
+      "program": "divide(912926, const_1000), divide(370, #0)"
+    }
+  ]
+}

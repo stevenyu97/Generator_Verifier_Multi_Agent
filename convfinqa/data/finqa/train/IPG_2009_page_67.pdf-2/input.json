@@ -1,0 +1,94 @@
+{
+  "input": {
+    "id": "IPG/2009/page_67.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements 2014 ( continued ) ( amounts in millions , except per share amounts ) sales of businesses and investments 2013 primarily includes realized gains and losses relating to the sales of businesses , cumulative translation adjustment balances from the liquidation of entities and sales of marketable securities and investments in publicly traded and privately held companies in our rabbi trusts .",
+      "during 2009 , we realized a gain of $ 15.2 related to the sale of an investment in our rabbi trusts , which was partially offset by losses realized from the sale of various businesses .",
+      "losses in 2007 primarily related to the sale of several businesses within draftfcb for a loss of $ 9.3 and charges at lowe of $ 7.8 as a result of the realization of cumulative translation adjustment balances from the liquidation of several businesses .",
+      "vendor discounts and credit adjustments 2013 we are in the process of settling our liabilities related to vendor discounts and credits established during the restatement we presented in our 2004 annual report on form 10-k .",
+      "these adjustments reflect the reversal of certain of these liabilities as a result of settlements with clients or vendors or where the statute of limitations has lapsed .",
+      "litigation settlement 2013 during may 2008 , the sec concluded its investigation that began in 2002 into our financial reporting practices , resulting in a settlement charge of $ 12.0 .",
+      "investment impairments 2013 in 2007 we realized an other-than-temporary charge of $ 5.8 relating to a $ 12.5 investment in auction rate securities , representing our total investment in auction rate securities .",
+      "see note 12 for further information .",
+      "note 5 : intangible assets goodwill goodwill is the excess purchase price remaining from an acquisition after an allocation of purchase price has been made to identifiable assets acquired and liabilities assumed based on estimated fair values .",
+      "the changes in the carrying value of goodwill for our segments , integrated agency networks ( 201cian 201d ) and constituency management group ( 201ccmg 201d ) , for the years ended december 31 , 2009 and 2008 are listed below. ."
+    ],
+    "post_text": [
+      "1 for all periods presented we have not recorded a goodwill impairment charge .",
+      "2 for acquisitions completed after january 1 , 2009 , amount includes contingent and deferred payments , which are recorded at fair value on the acquisition date .",
+      "see note 6 for further information .",
+      "see note 1 for further information regarding our annual impairment methodology .",
+      "other intangible assets included in other intangible assets are assets with indefinite lives not subject to amortization and assets with definite lives subject to amortization .",
+      "other intangible assets primarily include customer lists and trade names .",
+      "intangible assets with definitive lives subject to amortization are amortized on a straight-line basis with estimated useful lives generally between 7 and 15 years .",
+      "amortization expense for other intangible assets for the years ended december 31 , 2009 , 2008 and 2007 was $ 19.3 , $ 14.4 and $ 8.5 , respectively .",
+      "the following table provides a summary of other intangible assets , which are included in other assets on our consolidated balance sheets. ."
+    ],
+    "table": [
+      [
+        "",
+        "ian",
+        "cmg",
+        "total 1"
+      ],
+      [
+        "balance as of december 31 2007",
+        "$ 2789.7",
+        "$ 441.9",
+        "$ 3231.6"
+      ],
+      [
+        "current year acquisitions",
+        "99.5",
+        "1.8",
+        "101.3"
+      ],
+      [
+        "contingent and deferred payments for prior acquisitions",
+        "28.9",
+        "1.1",
+        "30.0"
+      ],
+      [
+        "other ( primarily foreign currency translation )",
+        "-128.1 ( 128.1 )",
+        "-13.9 ( 13.9 )",
+        "-142.0 ( 142.0 )"
+      ],
+      [
+        "balance as of december 31 2008",
+        "$ 2790.0",
+        "$ 430.9",
+        "$ 3220.9"
+      ],
+      [
+        "current year acquisitions2",
+        "5.2",
+        "2014",
+        "5.2"
+      ],
+      [
+        "contingent and deferred payments for prior acquisitions",
+        "14.2",
+        "2014",
+        "14.2"
+      ],
+      [
+        "other ( primarily foreign currency translation )",
+        "76.2",
+        "4.5",
+        "80.7"
+      ],
+      [
+        "balance as of december 31 2009",
+        "$ 2885.6",
+        "$ 435.4",
+        "$ 3321.0"
+      ]
+    ],
+    "questions": [
+      "in 2007 what was the percent of the investment impairments to the investment in auction rate securities"
+    ]
+  }
+}

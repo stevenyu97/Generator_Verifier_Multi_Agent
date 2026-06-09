@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "C/2018/page_255.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "for the years ended december a031 , 2018 , 2017 and 2016 , the amounts recognized in principal transactions in the consolidated statement of income related to derivatives not designated in a qualifying hedging relationship , as well as the underlying non-derivative instruments , are presented in note a06 to the consolidated financial statements .",
+      "citigroup presents this disclosure by showing derivative gains and losses related to its trading activities together with gains and losses related to non-derivative instruments within the same trading portfolios , as this represents how these portfolios are risk managed .",
+      "the amounts recognized in other revenue in the consolidated statement of income related to derivatives not designated in a qualifying hedging relationship are shown below .",
+      "the table below does not include any offsetting gains ( losses ) on the economically hedged items to the extent that such amounts are also recorded in other revenue .",
+      "gains ( losses ) included in other revenue year ended december 31 ."
+    ],
+    "post_text": [
+      "accounting for derivative hedging citigroup accounts for its hedging activities in accordance with asc 815 , derivatives and hedging .",
+      "as a general rule , hedge accounting is permitted where the company is exposed to a particular risk , such as interest rate or foreign exchange risk , that causes changes in the fair value of an asset or liability or variability in the expected future cash flows of an existing asset , liability or a forecasted transaction that may affect earnings .",
+      "derivative contracts hedging the risks associated with changes in fair value are referred to as fair value hedges , while contracts hedging the variability of expected future cash flows are cash flow hedges .",
+      "hedges that utilize derivatives or debt instruments to manage the foreign exchange risk associated with equity investments in non-u.s.-dollar-functional- currency foreign subsidiaries ( net investment in a foreign operation ) are net investment hedges .",
+      "to qualify as an accounting hedge under the hedge accounting rules ( versus an economic hedge where hedge accounting is not applied ) , a hedging relationship must be highly effective in offsetting the risk designated as being hedged .",
+      "the hedging relationship must be formally documented at inception , detailing the particular risk management objective and strategy for the hedge .",
+      "this includes the item and risk ( s ) being hedged , the hedging instrument being used and how effectiveness will be assessed .",
+      "the effectiveness of these hedging relationships is evaluated at hedge inception and on an ongoing basis both on a retrospective and prospective basis , typically using quantitative measures of correlation , with hedge ineffectiveness measured and recorded in current earnings .",
+      "hedge effectiveness assessment methodologies are performed in a similar manner for similar hedges , and are used consistently throughout the hedging relationships .",
+      "the assessment of effectiveness may exclude changes in the value of the hedged item that are unrelated to the risks being hedged and the changes in fair value of the derivative associated with time value .",
+      "prior to january 1 , 2018 , these excluded items were recognized in current earnings for the hedging derivative , while changes in the value of a hedged item that were not related to the hedged risk were not recorded .",
+      "upon adoption of asc 2017-12 , citi excludes changes in the cross currency basis associated with cross currency swaps from the assessment of hedge effectiveness and records it in other comprehensive income .",
+      "discontinued hedge accounting a hedging instrument must be highly effective in accomplishing the hedge objective of offsetting either changes in the fair value or cash flows of the hedged item for the risk being hedged .",
+      "management may voluntarily de-designate an accounting hedge at any time , but if a hedging relationship is not highly effective , it no longer qualifies for hedge accounting and must be de-designated .",
+      "subsequent changes in the fair value of the derivative are recognized in other revenue or principal transactions , similar to trading derivatives , with no offset recorded related to the hedged item .",
+      "for fair value hedges , any changes in the fair value of the hedged item remain as part of the basis of the asset or liability and are ultimately realized as an element of the yield on the item .",
+      "for cash flow hedges , changes in fair value of the end-user derivative remain in accumulated other comprehensive income ( loss ) ( aoci ) and are included in the earnings of future periods when the forecasted hedged cash flows impact earnings .",
+      "however , if it becomes probable that some or all of the hedged forecasted transactions will not occur , any amounts that remain in aoci related to these transactions must be immediately reflected in other revenue .",
+      "the foregoing criteria are applied on a decentralized basis , consistent with the level at which market risk is managed , but are subject to various limits and controls .",
+      "the underlying asset , liability or forecasted transaction may be an individual item or a portfolio of similar items. ."
+    ],
+    "table": [
+      [
+        "in millions of dollars",
+        "gains ( losses ) included inother revenue year ended december 31 , 2018",
+        "gains ( losses ) included inother revenue year ended december 31 , 2017",
+        "gains ( losses ) included inother revenue year ended december 31 , 2016"
+      ],
+      [
+        "interest rate contracts",
+        "$ -25 ( 25 )",
+        "$ -73 ( 73 )",
+        "$ 51"
+      ],
+      [
+        "foreign exchange",
+        "-197 ( 197 )",
+        "2062",
+        "-847 ( 847 )"
+      ],
+      [
+        "credit derivatives",
+        "-155 ( 155 )",
+        "-538 ( 538 )",
+        "-1174 ( 1174 )"
+      ],
+      [
+        "total",
+        "$ -377 ( 377 )",
+        "$ 1451",
+        "$ -1970 ( 1970 )"
+      ]
+    ],
+    "questions": [
+      "what was the change in millions in total gains ( losses ) included in other revenue between the year ended december 31 , 2016 and 2017?"
+    ]
+  }
+}

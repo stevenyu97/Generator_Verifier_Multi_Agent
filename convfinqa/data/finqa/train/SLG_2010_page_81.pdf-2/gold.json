@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much per square foot per month does nancy peck and company charge for its 420 lexington avenue property?",
+      "answer": 2959.66667,
+      "answer_raw": "2959.66667",
+      "program": "divide(35516, 12)"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "RCL/2009/page_13.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the following table details the growth in the global and north american cruise markets in terms of cruise passengers and estimated weighted-average berths over the past five years : we compete with a number of cruise lines ; however , our principal competitors are carnival corporation & plc , which owns , among others , aida cruises , carnival cruise lines , costa cruises , cunard line , holland america line , iberocruceros , p&o cruises and princess cruises ; disney cruise line ; msc cruises ; norwegian cruise line and oceania cruises .",
+      "cruise lines compete with other vacation alternatives such as land-based resort hotels and sightseeing destinations for consumers 2019 leisure time .",
+      "demand for such activities is influenced by political and general economic conditions .",
+      "companies within the vacation market are dependent on consumer discretionary spending .",
+      "our ships operate worldwide and have itineraries that call on destinations in alaska , asia , australia , the bahamas , bermuda , california , canada , the caribbean , europe , the galapagos islands , hawaii , mexico , the middle east , new england , new zealand , the panama canal and south america .",
+      "in an effort to penetrate untapped markets and diversify our customer base , we continue to seek opportunities to redeploy ships in our royal caribbean international , celebrity cruises and azamara club cruises brands to new markets and itineraries throughout the world .",
+      "the portability of our ships and our investment in infrastructure allows us to expand into new markets and helps us reduce our dependency on any one market by allowing us to create 201chome ports 201d around the world .",
+      "in addition , it allows us to readily redeploy our ships to meet demand within our existing cruise markets .",
+      "the current economic environment has significantly deteriorated consumer confidence and discretionary spending .",
+      "while there has been a decrease in the demand for cruises and a resulting drop in cruise prices , cruising has proven to be resilient as it offers consumers a good value when compared to other vacation alternatives .",
+      "however , the projected increase in capacity within the cruise industry from new cruise ships currently on order could produce additional pricing pressures within the industry .",
+      "see item 1a .",
+      "risk factors .",
+      "global cruise passengers ( 1 ) weighted-average supply of berths marketed globally ( 1 ) north american cruise passengers ( 2 ) weighted-average supply of berths marketed in america ( 1 ) ."
+    ],
+    "post_text": [
+      "1 ) source : our estimates of the number of global cruise passengers , and the weighted-average supply of berths marketed globally and in north america are based on a combination of data that we obtain from various publicly available cruise industry trade information sources including seatrade insider and cruise line international association .",
+      "in addition , our estimates incorporate our own statistical analysis utilizing the same publicly available cruise industry data as a base .",
+      "2 ) source : cruise line international association based on cruise passengers carried for at least two consecutive nights for years 2005 through 2008 .",
+      "year 2009 amounts represent our estimates ( see number 1 above ) . ."
+    ],
+    "table": [
+      [
+        "year",
+        "global cruise passengers ( 1 )",
+        "weighted-average supply of berths marketed globally ( 1 )",
+        "north american cruise passengers ( 2 )",
+        "weighted-average supply of berths marketed in north america ( 1 )"
+      ],
+      [
+        "2005",
+        "14818000",
+        "288000",
+        "9909000",
+        "190000"
+      ],
+      [
+        "2006",
+        "15309000",
+        "304000",
+        "10080000",
+        "201000"
+      ],
+      [
+        "2007",
+        "16586000",
+        "327000",
+        "10330000",
+        "212000"
+      ],
+      [
+        "2008",
+        "17184000",
+        "347000",
+        "10093000",
+        "219000"
+      ],
+      [
+        "2009",
+        "17340000",
+        "363000",
+        "10169000",
+        "222000"
+      ]
+    ],
+    "questions": [
+      "in 2005 what was the percent of the weighted-average supply of berths marketed globally in the north america"
+    ]
+  }
+}

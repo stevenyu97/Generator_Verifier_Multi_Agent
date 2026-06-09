@@ -1,0 +1,48 @@
+{
+  "input": {
+    "id": "AES/2012/page_223.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the aes corporation notes to consolidated financial statements 2014 ( continued ) december 31 , 2012 , 2011 , and 2010 ( 1 ) a u.s .",
+      "subsidiary of the company has a defined benefit obligation of $ 764 million and $ 679 million as of december 31 , 2012 and 2011 , respectively , and uses salary bands to determine future benefit costs rather than rates of compensation increases .",
+      "rates of compensation increases in the table above do not include amounts related to this specific defined benefit plan .",
+      "( 2 ) includes an inflation factor that is used to calculate future periodic benefit cost , but is not used to calculate the benefit obligation .",
+      "the company establishes its estimated long-term return on plan assets considering various factors , which include the targeted asset allocation percentages , historic returns and expected future returns .",
+      "the measurement of pension obligations , costs and liabilities is dependent on a variety of assumptions .",
+      "these assumptions include estimates of the present value of projected future pension payments to all plan participants , taking into consideration the likelihood of potential future events such as salary increases and demographic experience .",
+      "these assumptions may have an effect on the amount and timing of future contributions .",
+      "the assumptions used in developing the required estimates include the following key factors : 2022 discount rates ; 2022 salary growth ; 2022 retirement rates ; 2022 inflation ; 2022 expected return on plan assets ; and 2022 mortality rates .",
+      "the effects of actual results differing from the company 2019s assumptions are accumulated and amortized over future periods and , therefore , generally affect the company 2019s recognized expense in such future periods .",
+      "sensitivity of the company 2019s pension funded status to the indicated increase or decrease in the discount rate and long-term rate of return on plan assets assumptions is shown below .",
+      "note that these sensitivities may be asymmetric and are specific to the base conditions at year-end 2012 .",
+      "they also may not be additive , so the impact of changing multiple factors simultaneously cannot be calculated by combining the individual sensitivities shown .",
+      "the funded status as of december 31 , 2012 is affected by the assumptions as of that date .",
+      "pension expense for 2012 is affected by the december 31 , 2011 assumptions .",
+      "the impact on pension expense from a one percentage point change in these assumptions is shown in the table below ( in millions ) : ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "increase of 1% ( 1 % ) in the discount rate",
+        "$ -48 ( 48 )"
+      ],
+      [
+        "decrease of 1% ( 1 % ) in the discount rate",
+        "38"
+      ],
+      [
+        "increase of 1% ( 1 % ) in the long-term rate of return on plan assets",
+        "-47 ( 47 )"
+      ],
+      [
+        "decrease of 1% ( 1 % ) in the long-term rate of return on plan assets",
+        "47"
+      ]
+    ],
+    "questions": [
+      "was the impact of a decrease of 1% ( 1 % ) in the discount rate greater than the effect of a decrease of 1% ( 1 % ) in the long-term rate of return on plan assets?"
+    ]
+  }
+}

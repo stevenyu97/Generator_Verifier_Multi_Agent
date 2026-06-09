@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2017 what was the ratio of restricted cash and marketable securities for the supports our insurance programs for workers 2019 compensation , commercial general liability , and commercial auto liability to the total restricted cash and marketable securities",
+      "answer": 0.50602,
+      "answer_raw": "0.50602",
+      "program": "divide(71.4, 141.1)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in the year of 2009, how much did the income tax expense represent in relation to the gain on sale of discontinued operations before income taxes?",
+      "answer": 0.13661,
+      "answer_raw": "0.13661",
+      "program": "divide(1978, 14479)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the income from those discontinued operations, excluding that gain on sale after taxes?",
+      "answer": 4425.0,
+      "answer_raw": "4425.0",
+      "program": "subtract(16926, 12501)"
+    }
+  ]
+}

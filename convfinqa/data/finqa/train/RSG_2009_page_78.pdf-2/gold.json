@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage decline in the cash provided by operating activities from 2007 to 2008",
+      "answer": -0.22546,
+      "answer_raw": "-0.22546",
+      "program": "subtract(512.2, 661.3), divide(#0, 661.3)"
+    }
+  ]
+}

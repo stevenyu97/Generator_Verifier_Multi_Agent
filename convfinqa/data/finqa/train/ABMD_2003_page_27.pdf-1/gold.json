@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "is the vesting under the 2000 employee equity plan potentially longer than under the directors 1989 plan?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(4, 5)"
+    }
+  ]
+}

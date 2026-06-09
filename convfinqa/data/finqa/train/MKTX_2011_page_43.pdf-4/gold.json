@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the total holders of common stock as of february 16 , 2012 , what was the market share of mktx common stock?",
+      "answer": 1338.65,
+      "answer_raw": "1338.65",
+      "program": "multiply(32.65, 41)"
+    }
+  ]
+}

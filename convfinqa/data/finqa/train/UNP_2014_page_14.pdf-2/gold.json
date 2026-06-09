@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average number of total track miles per state in the rail network ?",
+      "answer": 2224.86957,
+      "answer_raw": "2224.86957",
+      "program": "divide(51172, 23)"
+    }
+  ]
+}

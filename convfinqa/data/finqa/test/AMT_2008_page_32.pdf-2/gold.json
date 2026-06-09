@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "on february 13 , 2009 what was the market capitalization",
+      "answer": 13764217.57366,
+      "answer_raw": "13764217.57366",
+      "program": "divide(397097677, 28.85)"
+    }
+  ]
+}

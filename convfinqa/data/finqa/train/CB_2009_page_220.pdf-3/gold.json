@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the income to capital ratio for bermuda subsidiaries in 2009?",
+      "answer": 0.26584,
+      "answer_raw": "0.26584",
+      "program": "divide(2472, 9299)"
+    }
+  ]
+}

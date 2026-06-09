@@ -1,0 +1,79 @@
+{
+  "input": {
+    "id": "AMT/2004/page_28.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "part ii item 5 .",
+      "market for registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities the following table presents reported quarterly high and low per share sale prices of our class a common stock on the new york stock exchange ( nyse ) for the years 2004 and 2003. ."
+    ],
+    "post_text": [
+      "on march 18 , 2005 , the closing price of our class a common stock was $ 18.79 per share as reported on the as of march 18 , 2005 , we had 230604932 outstanding shares of class a common stock and 743 registered holders .",
+      "in february 2004 , all outstanding shares of our class b common stock were converted into shares of our class a common stock on a one-for-one basis pursuant to the occurrence of the 201cdodge conversion event 201d as defined in our charter .",
+      "our charter prohibits the future issuance of shares of class b common stock .",
+      "also in february 2004 , all outstanding shares of class c common stock were converted into shares of class a common stock on a one-for-one basis .",
+      "our charter permits the issuance of shares of class c common stock in the future .",
+      "the information under 201csecurities authorized for issuance under equity compensation plans 201d from the definitive proxy statement is hereby incorporated by reference into item 12 of this annual report .",
+      "dividends we have never paid a dividend on any class of common stock .",
+      "we anticipate that we may retain future earnings , if any , to fund the development and growth of our business .",
+      "the indentures governing our 93 20448% ( 20448 % ) senior notes due 2009 , our 7.50% ( 7.50 % ) senior notes due 2012 , and our 7.125% ( 7.125 % ) senior notes due 2012 prohibit us from paying dividends to our stockholders unless we satisfy certain financial covenants .",
+      "our borrower subsidiaries are generally prohibited under the terms of the credit facility , subject to certain exceptions , from making to us any direct or indirect distribution , dividend or other payment on account of their limited liability company interests , partnership interests , capital stock or other equity interests , except that , if no default exists or would be created thereby under the credit facility , our borrower subsidiaries may pay cash dividends or make other distributions to us in accordance with the credit facility within certain specified amounts and , in addition , may pay cash dividends or make other distributions to us in respect of our outstanding indebtedness and permitted future indebtedness .",
+      "the indentures governing the 12.25% ( 12.25 % ) senior subordinated discount notes due 2008 and the 7.25% ( 7.25 % ) senior subordinated notes due 2011 of american towers , inc .",
+      "( ati ) , our principal operating subsidiary , prohibit ati and certain of our other subsidiaries that have guaranteed those notes ( sister guarantors ) from paying dividends and making other payments or distributions to us unless certain ."
+    ],
+    "table": [
+      [
+        "2004",
+        "high",
+        "low"
+      ],
+      [
+        "quarter ended march 31",
+        "$ 13.12",
+        "$ 9.89"
+      ],
+      [
+        "quarter ended june 30",
+        "16.00",
+        "11.13"
+      ],
+      [
+        "quarter ended september 30",
+        "15.85",
+        "13.10"
+      ],
+      [
+        "quarter ended december 31",
+        "18.75",
+        "15.19"
+      ],
+      [
+        "2003",
+        "high",
+        "low"
+      ],
+      [
+        "quarter ended march 31",
+        "$ 5.94",
+        "$ 3.55"
+      ],
+      [
+        "quarter ended june 30",
+        "9.90",
+        "5.41"
+      ],
+      [
+        "quarter ended september 30",
+        "11.74",
+        "8.73"
+      ],
+      [
+        "quarter ended december 31",
+        "12.00",
+        "9.59"
+      ]
+    ],
+    "questions": [
+      "for the quarter ended june 30 what was the percentage change in the share price from he lowest to the highest"
+    ]
+  }
+}

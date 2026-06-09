@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in total debt from 2014 to 2015?",
+      "answer": -0.0339,
+      "answer_raw": "-0.0339",
+      "program": "subtract(28.5, 29.5), divide(#0, 29.5)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net cash used for investing activities for the year ended 9/30/18?",
+      "answer": 1298.9,
+      "answer_raw": "1298.9",
+      "program": "1298.9"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the net cash used for financing activities during that year?",
+      "answer": 755.1,
+      "answer_raw": "755.1",
+      "program": "755.1"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "combining these two values, what is the total net cash used?",
+      "answer": 2054.0,
+      "answer_raw": "2054.0",
+      "program": "add(1298.9, 755.1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the net cash from operations?",
+      "answer": 366.9,
+      "answer_raw": "366.9",
+      "program": "add(1298.9, 755.1), subtract(2420.9, #0)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what was the net cash provided by operating activities?",
+      "answer": 2420.9,
+      "answer_raw": "2420.9",
+      "program": "2420.9"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "so what was the net cash from operations as a percentage of net cash provided by operating activities?",
+      "answer": 0.15156,
+      "answer_raw": "0.15156",
+      "program": "add(1298.9, 755.1), subtract(2420.9, #0), divide(#1, 2420.9)"
+    }
+  ]
+}

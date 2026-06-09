@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in advertising costs from 2002 to 2003?",
+      "answer": 173000.0,
+      "answer_raw": "173000.0",
+      "program": "subtract(440000, 267000)"
+    }
+  ]
+}

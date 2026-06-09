@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in research and development costs between 2002 and 2003?",
+      "answer": 4.2,
+      "answer_raw": "4.2",
+      "program": "subtract(34.6, 30.4)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the research and development costs in 2002?",
+      "answer": 30.4,
+      "answer_raw": "30.4",
+      "program": "30.4"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage change does this represent?",
+      "answer": 0.13816,
+      "answer_raw": "0.13816",
+      "program": "subtract(34.6, 30.4), divide(#0, 30.4)"
+    }
+  ]
+}

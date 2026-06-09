@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in generated gwh per year in 2004 compare to 2003?",
+      "answer": 0.00448,
+      "answer_raw": "0.00448",
+      "program": "subtract(32524, 32379), divide(#0, 32379)"
+    }
+  ]
+}

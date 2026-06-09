@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the black-scholes option pricing model what was the percent of the change in approximate risk-free interest rate from 2003 to 2004",
+      "answer": 0.0575,
+      "answer_raw": "0.0575",
+      "program": "subtract(4.23, 4.00), divide(#0, 4.00)"
+    }
+  ]
+}

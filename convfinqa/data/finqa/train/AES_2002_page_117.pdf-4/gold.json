@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was 2002 return on stockholder's equity for the less than 50% ( 50 % ) owned investments , based on net income?",
+      "answer": 0.07433,
+      "answer_raw": "0.07433",
+      "program": "divide(229, 3081)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "input": {
+    "id": "VLO/2012/page_130.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents valero energy corporation and subsidiaries notes to consolidated financial statements ( continued ) cash flow hedges cash flow hedges are used to hedge price volatility in certain forecasted feedstock and refined product purchases , refined product sales , and natural gas purchases .",
+      "the objective of our cash flow hedges is to lock in the price of forecasted feedstock , product or natural gas purchases , or refined product sales at existing market prices that we deem favorable .",
+      "as of december 31 , 2012 , we had the following outstanding commodity derivative instruments that were entered into to hedge forecasted purchases or sales of crude oil and refined products .",
+      "the information presents the notional volume of outstanding contracts by type of instrument and year of maturity ( volumes in thousands of barrels ) .",
+      "notional contract volumes by year of maturity derivative instrument 2013 ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "derivative instrument",
+        "notionalcontractvolumes byyear ofmaturity 2013"
+      ],
+      [
+        "crude oil and refined products:",
+        ""
+      ],
+      [
+        "swaps 2013 long",
+        "1300"
+      ],
+      [
+        "swaps 2013 short",
+        "1300"
+      ],
+      [
+        "futures 2013 long",
+        "11894"
+      ],
+      [
+        "futures 2013 short",
+        "2981"
+      ],
+      [
+        "physical contracts 2013 short",
+        "8913"
+      ]
+    ],
+    "questions": [
+      "if physical contracts ( short ) and futures ( short ) combined equal futures ( long ) , then what percentage of futures long are future shorts?"
+    ]
+  }
+}

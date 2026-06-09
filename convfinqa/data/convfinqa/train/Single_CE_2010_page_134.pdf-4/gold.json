@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total number of shares, combining the ones available to awards and the ones that are subject to outstanding awards?",
+      "answer": 4852904.0,
+      "answer_raw": "4852904.0",
+      "program": "add(2322450, 2530454)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage from the total do the shares available to awards represent?",
+      "answer": 0.47857,
+      "answer_raw": "0.47857",
+      "program": "add(2322450, 2530454), divide(2322450, #0)"
+    }
+  ]
+}

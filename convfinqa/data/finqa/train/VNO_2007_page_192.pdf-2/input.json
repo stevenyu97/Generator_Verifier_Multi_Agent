@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "VNO/2007/page_192.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "vornado realty trust notes to consolidated financial statements ( continued ) 9 .",
+      "debt - continued our revolving credit facility and senior unsecured notes contain financial covenants which require us to maintain minimum interest coverage ratios and limit our debt to market capitalization ratios .",
+      "we believe that we have complied with all of our financial covenants as of december 31 , 2007 .",
+      "on may 9 , 2006 , we executed supplemental indentures with respect to our senior unsecured notes due 2007 , 2009 and 2010 ( collectively , the 201cnotes 201d ) , pursuant to our consent solicitation statement dated april 18 , 2006 , as amended .",
+      "holders of approximately 96.7% ( 96.7 % ) of the aggregate principal amount of the notes consented to the solicitation .",
+      "the supplemental indentures contain modifications of certain covenants and related defined terms governing the terms of the notes to make them consistent with corresponding provisions of the covenants and defined terms included in the senior unsecured notes due 2011 issued on february 16 , 2006 .",
+      "the supplemental indentures also include a new covenant that provides for an increase in the interest rate of the notes upon certain decreases in the ratings assigned by rating agencies to the notes .",
+      "in connection with the consent solicitation we paid an aggregate fee of $ 2241000 to the consenting note holders , which will be amortized into expense over the remaining term of the notes .",
+      "in addition , we incurred advisory and professional fees aggregating $ 1415000 , which were expensed in 2006 .",
+      "the net carrying amount of properties collateralizing the notes and mortgages payable amounted to $ 10.920 billion at december 31 , 2007 .",
+      "as at december 31 , 2007 , the principal repayments required for the next five years and thereafter are as follows : ( amounts in thousands ) ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "year ending december 31,",
+        "amount"
+      ],
+      [
+        "2008",
+        "$ 526768"
+      ],
+      [
+        "2009",
+        "478269"
+      ],
+      [
+        "2010",
+        "778320"
+      ],
+      [
+        "2011",
+        "1071195"
+      ],
+      [
+        "2012",
+        "609546"
+      ],
+      [
+        "thereafter",
+        "5473734"
+      ]
+    ],
+    "questions": [
+      "principal payments required for 2009 were what percent of those for 2010?"
+    ]
+  }
+}

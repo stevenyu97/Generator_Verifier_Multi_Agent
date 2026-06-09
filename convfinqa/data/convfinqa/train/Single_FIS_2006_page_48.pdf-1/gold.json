@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total in net earnings in 2006, in thousands?",
+      "answer": 259100.0,
+      "answer_raw": "259100.0",
+      "program": "multiply(259.1, const_1000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this total represent in relation to the total of processing and services revenues in that same year?",
+      "answer": 0.10538,
+      "answer_raw": "0.10538",
+      "program": "multiply(259.1, const_1000), divide(#0, 2458777)"
+    }
+  ]
+}

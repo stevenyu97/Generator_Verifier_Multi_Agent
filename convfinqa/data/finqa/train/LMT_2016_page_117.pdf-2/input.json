@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "LMT/2016/page_117.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "item 12 .",
+      "security ownership of certain beneficial owners and management and related stockholder matters .",
+      "the information required by item 12 is included under the heading 201csecurity ownership of management and certain beneficial owners 201d in the 2017 proxy statement , and that information is incorporated by reference in this form 10-k .",
+      "equity compensation plan information the following table provides information about our equity compensation plans that authorize the issuance of shares of lockheed martin common stock to employees and directors .",
+      "the information is provided as of december 31 , 2016 .",
+      "plan category number of securities to be issued exercise of outstanding options , warrants and rights weighted-average exercise price of outstanding options , warrants and rights number of securities remaining available for future issuance under equity compensation ( excluding securities reflected in column ( a ) ) equity compensation plans approved by security holders ( 1 ) 5802673 $ 85.82 6216471 equity compensation plans not approved by security holders ( 2 ) 1082347 2014 2481032 ."
+    ],
+    "post_text": [
+      "( 1 ) column ( a ) includes , as of december 31 , 2016 : 1747151 shares that have been granted as restricted stock units ( rsus ) , 936308 shares that could be earned pursuant to grants of performance stock units ( psus ) ( assuming the maximum number of psus are earned and payable at the end of the three-year performance period ) and 2967046 shares granted as options under the lockheed martin corporation 2011 incentive performance award plan ( 2011 ipa plan ) or predecessor plans prior to january 1 , 2013 and 23346 shares granted as options and 128822 stock units payable in stock or cash under the lockheed martin corporation 2009 directors equity plan ( directors equity plan ) or predecessor plans for members ( or former members ) of the board of directors .",
+      "column ( c ) includes , as of december 31 , 2016 , 5751655 shares available for future issuance under the 2011 ipa plan as options , stock appreciation rights ( sars ) , restricted stock awards ( rsas ) , rsus or psus and 464816 shares available for future issuance under the directors equity plan as stock options and stock units .",
+      "of the 5751655 shares available for grant under the 2011 ipa plan on december 31 , 2016 , 516653 and 236654 shares are issuable pursuant to grants made on january 26 , 2017 , of rsus and psus ( assuming the maximum number of psus are earned and payable at the end of the three-year performance period ) , respectively .",
+      "the weighted average price does not take into account shares issued pursuant to rsus or psus .",
+      "( 2 ) the shares represent annual incentive bonuses and long-term incentive performance ( ltip ) payments earned and voluntarily deferred by employees .",
+      "the deferred amounts are payable under the deferred management incentive compensation plan ( dmicp ) .",
+      "deferred amounts are credited as phantom stock units at the closing price of our stock on the date the deferral is effective .",
+      "amounts equal to our dividend are credited as stock units at the time we pay a dividend .",
+      "following termination of employment , a number of shares of stock equal to the number of stock units credited to the employee 2019s dmicp account are distributed to the employee .",
+      "there is no discount or value transfer on the stock distributed .",
+      "distributions may be made from newly issued shares or shares purchased on the open market .",
+      "historically , all distributions have come from shares held in a separate trust and , therefore , do not further dilute our common shares outstanding .",
+      "as a result , these shares also were not considered in calculating the total weighted average exercise price in the table .",
+      "because the dmicp shares are outstanding , they should be included in the denominator ( and not the numerator ) of a dilution calculation .",
+      "item 13 .",
+      "certain relationships and related transactions and director independence .",
+      "the information required by this item 13 is included under the captions 201ccorporate governance 2013 related person transaction policy , 201d 201ccorporate governance 2013 certain relationships and related person transactions of directors , executive officers , and 5 percent stockholders , 201d and 201ccorporate governance 2013 director independence 201d in the 2017 proxy statement , and that information is incorporated by reference in this form 10-k .",
+      "item 14 .",
+      "principal accountant fees and services .",
+      "the information required by this item 14 is included under the caption 201cproposal 2 2013 ratification of appointment of independent auditors 201d in the 2017 proxy statement , and that information is incorporated by reference in this form 10-k. ."
+    ],
+    "table": [
+      [
+        "plan category",
+        "number of securities to beissued upon exercise of outstanding options warrants and rights ( a )",
+        "weighted-average exercise price of outstanding options warrants and rights ( b )",
+        "number of securities remaining availablefor future issuance under equity compensation plans ( excluding securities reflected in column ( a ) ) ( c )"
+      ],
+      [
+        "equity compensation plans approved by securityholders ( 1 )",
+        "5802673",
+        "$ 85.82",
+        "6216471"
+      ],
+      [
+        "equity compensation plans not approved bysecurity holders ( 2 )",
+        "1082347",
+        "2014",
+        "2481032"
+      ],
+      [
+        "total",
+        "6885020",
+        "$ 85.82",
+        "8697503"
+      ]
+    ],
+    "questions": [
+      "what is the total value of the issued securities approved by security holders , ( in millions ) ?"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of new sites in 2014?",
+      "answer": 8450.0,
+      "answer_raw": "8450.0",
+      "program": "add(900, 7550)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the total of foreign new sites in that year?",
+      "answer": 7550.0,
+      "answer_raw": "7550.0",
+      "program": "7550"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does this total of foreign new sites represent in relation to the total of new sites?",
+      "answer": 0.89349,
+      "answer_raw": "0.89349",
+      "program": "add(900, 7550), divide(7550, #0)"
+    }
+  ]
+}

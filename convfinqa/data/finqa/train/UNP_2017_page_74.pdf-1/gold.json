@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the net properties held under capital leases in 2017 to 2016\\\\n",
+      "answer": 0.81873,
+      "answer_raw": "0.81873",
+      "program": "divide(1635, 1997)"
+    }
+  ]
+}

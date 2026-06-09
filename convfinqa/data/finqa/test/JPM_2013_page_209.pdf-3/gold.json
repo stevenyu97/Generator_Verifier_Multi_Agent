@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were net trading assets from derivatives in 2012 , in millions?",
+      "answer": 9582.0,
+      "answer_raw": "9582.0",
+      "program": "subtract(85744, 76162)"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "VTR/2006/page_48.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "dividends and distributions we pay regular quarterly dividends to holders of our common stock .",
+      "on february 16 , 2007 , our board of directors declared the first quarterly installment of our 2007 dividend in the amount of $ 0.475 per share , payable on march 30 , 2007 to stockholders of record on march 20 , 2007 .",
+      "we expect to distribute 100% ( 100 % ) or more of our taxable net income to our stockholders for 2007 .",
+      "our board of directors normally makes decisions regarding the frequency and amount of our dividends on a quarterly basis .",
+      "because the board considers a number of factors when making these decisions , we cannot assure you that we will maintain the policy stated above .",
+      "please see 201ccautionary statements 201d and the risk factors included in part i , item 1a of this annual report on form 10-k for a description of other factors that may affect our distribution policy .",
+      "our stockholders may reinvest all or a portion of any cash distribution on their shares of our common stock by participating in our distribution reinvestment and stock purchase plan , subject to the terms of the plan .",
+      "see 201cnote 15 2014capital stock 201d of the notes to consolidated financial statements included in item 8 of this annual report on form 10-k .",
+      "director and employee stock sales certain of our directors , executive officers and other employees have adopted and may , from time to time in the future , adopt non-discretionary , written trading plans that comply with rule 10b5-1 under the exchange act , or otherwise monetize their equity-based compensation .",
+      "securities authorized for issuance under equity compensation plans the following table summarizes information with respect to our equity compensation plans as of december 31 , 2006 : plan category number of securities to be issued upon exercise of outstanding options , warrants and rights weighted average exercise price of outstanding options , warrants and rights number of securities remaining available for future issuance under equity compensation plans ( excluding securities reflected in column ( a ) equity compensation plans approved by stockholders ( 1 ) .",
+      ".",
+      "1118051 $ 24.27 8373727 equity compensation plans not approved by stockholders ( 2 ) .",
+      ".",
+      "18924 n/a 1145354 ."
+    ],
+    "post_text": [
+      "( 1 ) these plans consist of ( i ) the 1987 incentive compensation program ( employee plan ) ; ( ii ) the theratx , incorporated 1996 stock option/stock issuance plan ; ( iii ) the 2000 incentive compensation plan ( employee plan ) ( formerly known as the 1997 incentive compensation plan ) ; ( iv ) the 2004 stock plan for directors ( which amended and restated the 2000 stock option plan for directors ( formerly known as the 1997 stock option plan for non-employee directors ) ) ; ( v ) the employee and director stock purchase plan ; ( vi ) the 2006 incentive plan ; and ( vii ) the 2006 stock plan for directors .",
+      "( 2 ) these plans consist of ( i ) the common stock purchase plan for directors , under which our non-employee directors may receive common stock in lieu of directors 2019 fees , ( ii ) the nonemployee director deferred stock compensation plan , under which our non-employee directors may receive units convertible on a one-for-one basis into common stock in lieu of director fees , and ( iii ) the executive deferred stock compensation plan , under which our executive officers may receive units convertible on a one-for-one basis into common stock in lieu of compensation. ."
+    ],
+    "table": [
+      [
+        "plan category",
+        "( a ) number of securities to be issued upon exercise of outstanding options warrants andrights",
+        "( b ) weighted average exercise price of outstanding options warrants and rights",
+        "( c ) number of securities remaining available for future issuance under equity compensation plans ( excluding securities reflected in column ( a )"
+      ],
+      [
+        "equity compensation plans approved by stockholders ( 1 )",
+        "1118051",
+        "$ 24.27",
+        "8373727"
+      ],
+      [
+        "equity compensation plans not approved by stockholders ( 2 )",
+        "18924",
+        "n/a",
+        "1145354"
+      ],
+      [
+        "total",
+        "1136975",
+        "$ 24.27",
+        "9519081"
+      ]
+    ],
+    "questions": [
+      "what is the total cost of equity compensation plans approved by stockholders?"
+    ]
+  }
+}

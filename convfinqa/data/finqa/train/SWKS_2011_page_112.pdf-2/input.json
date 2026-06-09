@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "SWKS/2011/page_112.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements 2014 ( continued ) a reconciliation of the beginning and ending amount of gross unrecognized tax benefits is as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "the company 2019s major tax jurisdictions as of september 30 , 2011 are the united states , california , iowa , singapore and canada .",
+      "for the united states , the company has open tax years dating back to fiscal year 1998 due to the carry forward of tax attributes .",
+      "for california and iowa , the company has open tax years dating back to fiscal year 2002 due to the carry forward of tax attributes .",
+      "for singapore , the company has open tax years dating back to fiscal year 2011 .",
+      "for canada , the company has open tax years dating back to fiscal year 2004 .",
+      "during the year ended september 30 , 2011 , the company did not recognize any significant amount of previously unrecognized tax benefits related to the expiration of the statute of limitations .",
+      "the company 2019s policy is to recognize accrued interest and penalties , if incurred , on any unrecognized tax benefits as a component of income tax expense .",
+      "the company recognized $ 0.5 million of accrued interest or penalties related to unrecognized tax benefits during fiscal year 2011 .",
+      "11 .",
+      "stockholders 2019 equity common stock at september 30 , 2011 , the company is authorized to issue 525000000 shares of common stock , par value $ 0.25 per share of which 195407396 shares are issued and 186386197 shares outstanding .",
+      "holders of the company 2019s common stock are entitled to such dividends as may be declared by the company 2019s board of directors out of funds legally available for such purpose .",
+      "dividends may not be paid on common stock unless all accrued dividends on preferred stock , if any , have been paid or declared and set aside .",
+      "in the event of the company 2019s liquidation , dissolution or winding up , the holders of common stock will be entitled to share pro rata in the assets remaining after payment to creditors and after payment of the liquidation preference plus any unpaid dividends to holders of any outstanding preferred stock .",
+      "each holder of the company 2019s common stock is entitled to one vote for each such share outstanding in the holder 2019s name .",
+      "no holder of common stock is entitled to cumulate votes in voting for directors .",
+      "the company 2019s second amended and restated certificate of incorporation provides that , unless otherwise determined by the company 2019s board of directors , no holder of common stock has any preemptive right to purchase or subscribe for any stock of any class which the company may issue or sell .",
+      "on august 3 , 2010 , the board of directors approved a stock repurchase program , pursuant to which the company is authorized to repurchase up to $ 200.0 million of the company 2019s common stock from time to time on the open market or in privately negotiated transactions as permitted by securities laws and other legal requirements .",
+      "during the fiscal year ended september 30 , 2011 , the company paid approximately $ 70.0 million ( including commissions ) in connection with the repurchase of 2768045 shares of its common stock ( paying an average price of $ 25.30 per share ) .",
+      "as of september 30 , 2011 , $ 130.0 million remained available under the existing share repurchase program .",
+      "page 110 skyworks / annual report 2011 ."
+    ],
+    "table": [
+      [
+        "balance at october 1 2010",
+        "$ 19900"
+      ],
+      [
+        "increases based on positions related to prior years",
+        "935"
+      ],
+      [
+        "increases based on positions related to current year",
+        "11334"
+      ],
+      [
+        "decreases relating to settlements with taxing authorities",
+        "2014"
+      ],
+      [
+        "decreases relating to lapses of applicable statutes of limitations",
+        "-33 ( 33 )"
+      ],
+      [
+        "balance at september 30 2011",
+        "$ 32136"
+      ]
+    ],
+    "questions": [
+      "in 2011 what was the percentage change in the gross unrecognized tax benefits"
+    ]
+  }
+}

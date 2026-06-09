@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage cumulative 5-year total stockholder return for cadence design systems inc . for the period ending 12/29/2018?",
+      "answer": 2.1113,
+      "answer_raw": "2.1113",
+      "program": "subtract(311.13, const_100), divide(#0, const_100)"
+    }
+  ]
+}

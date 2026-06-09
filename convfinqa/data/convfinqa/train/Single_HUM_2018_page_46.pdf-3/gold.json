@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of hum in 2017?",
+      "answer": 247.0,
+      "answer_raw": "247.0",
+      "program": "247"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2016?",
+      "answer": 202.0,
+      "answer_raw": "202.0",
+      "program": "202"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the net change in value?",
+      "answer": 45.0,
+      "answer_raw": "45.0",
+      "program": "subtract(247, 202)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the 2016 value?",
+      "answer": 202.0,
+      "answer_raw": "202.0",
+      "program": "202"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the net change divided by the 2016 value?",
+      "answer": 0.22277,
+      "answer_raw": "0.22277",
+      "program": "subtract(247, 202), divide(#0, 202)"
+    }
+  ]
+}

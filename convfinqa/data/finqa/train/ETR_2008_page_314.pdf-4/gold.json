@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in net revenue in 2007?",
+      "answer": 0.05201,
+      "answer_raw": "0.05201",
+      "program": "subtract(991.1, 942.1), divide(#0, 942.1)"
+    }
+  ]
+}

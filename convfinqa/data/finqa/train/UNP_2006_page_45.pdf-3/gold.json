@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in open claims ending balance at december 31 from 2004 to 2005?",
+      "answer": 0.04196,
+      "answer_raw": "0.04196",
+      "program": "subtract(4197, 4028), divide(#0, 4028)"
+    }
+  ]
+}

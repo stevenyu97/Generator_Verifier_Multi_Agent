@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of e*trade financial corp as of 12/07?",
+      "answer": 73.05,
+      "answer_raw": "73.05",
+      "program": "73.05"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the value less a $100 initial investment?",
+      "answer": -26.95,
+      "answer_raw": "-26.95",
+      "program": "subtract(73.05, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the percent change?",
+      "answer": -0.2695,
+      "answer_raw": "-0.2695",
+      "program": "subtract(73.05, const_100), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the value of s&p super cap diversified financials as of 12/07 less 100?",
+      "answer": 76.62,
+      "answer_raw": "76.62",
+      "program": "subtract(73.05, const_100), divide(#0, const_100), subtract(176.62, const_100)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the percent change?",
+      "answer": 0.7662,
+      "answer_raw": "0.7662",
+      "program": "subtract(73.05, const_100), divide(#0, const_100), subtract(176.62, const_100), divide(#2, const_100)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the difference of the percent changes?",
+      "answer": -1.0357,
+      "answer_raw": "-1.0357",
+      "program": "subtract(73.05, const_100), divide(#0, const_100), subtract(176.62, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "MAR/2018/page_42.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "we monitor the status of the capital markets and regularly evaluate the effect that changes in capital market conditions may have on our ability to execute our announced growth plans and fund our liquidity needs .",
+      "we expect to continue meeting part of our financing and liquidity needs primarily through commercial paper borrowings , issuances of senior notes , and access to long-term committed credit facilities .",
+      "if conditions in the lodging industry deteriorate , or if disruptions in the capital markets take place as they did in the immediate aftermath of both the 2008 worldwide financial crisis and the events of september 11 , 2001 , we may be unable to place some or all of our commercial paper on a temporary or extended basis and may have to rely more on borrowings under the credit facility , which we believe will be adequate to fund our liquidity needs , including repayment of debt obligations , but which may carry a higher cost than commercial paper .",
+      "since we continue to have ample flexibility under the credit facility 2019s covenants , we expect that undrawn bank commitments under the credit facility will remain available to us even if business conditions were to deteriorate markedly .",
+      "cash from operations cash from operations and non-cash items for the last three fiscal years are as follows: ."
+    ],
+    "post_text": [
+      "non-cash items ( 1 ) 287 1397 514 ( 1 ) includes depreciation , amortization , share-based compensation , deferred income taxes , and contract investment amortization .",
+      "our ratio of current assets to current liabilities was 0.4 to 1.0 at year-end 2018 and 0.5 to 1.0 at year-end 2017 .",
+      "we minimize working capital through cash management , strict credit-granting policies , and aggressive collection efforts .",
+      "we also have significant borrowing capacity under our credit facility should we need additional working capital .",
+      "investing activities cash flows acquisition of a business , net of cash acquired .",
+      "cash outflows of $ 2392 million in 2016 were due to the starwood combination .",
+      "see footnote 3 .",
+      "dispositions and acquisitions for more information .",
+      "capital expenditures and other investments .",
+      "we made capital expenditures of $ 556 million in 2018 , $ 240 million in 2017 , and $ 199 million in 2016 .",
+      "capital expenditures in 2018 increased by $ 316 million compared to 2017 , primarily reflecting the acquisition of the sheraton grand phoenix , improvements to our worldwide systems , and net higher spending on several owned properties .",
+      "capital expenditures in 2017 increased by $ 41 million compared to 2016 , primarily due to improvements to our worldwide systems and improvements to hotels acquired in the starwood combination .",
+      "we expect spending on capital expenditures and other investments will total approximately $ 500 million to $ 700 million for 2019 , including acquisitions , loan advances , equity and other investments , contract acquisition costs , and various capital expenditures ( including approximately $ 225 million for maintenance capital spending ) .",
+      "over time , we have sold lodging properties , both completed and under development , subject to long-term management agreements .",
+      "the ability of third-party purchasers to raise the debt and equity capital necessary to acquire such properties depends in part on the perceived risks in the lodging industry and other constraints inherent in the capital markets .",
+      "we monitor the status of the capital markets and regularly evaluate the potential impact of changes in capital market conditions on our business operations .",
+      "in the starwood combination , we acquired various hotels and joint venture interests in hotels , most of which we have sold or are seeking to sell , and in 2018 , we acquired the sheraton grand phoenix , which we expect to renovate and sell subject to a long-term management agreement .",
+      "we also expect to continue making selective and opportunistic investments to add units to our lodging business , which may include property acquisitions , new construction , loans , guarantees , and noncontrolling equity investments .",
+      "over time , we seek to minimize capital invested in our business through asset sales subject to long term operating or franchise agreements .",
+      "fluctuations in the values of hotel real estate generally have little impact on our overall business results because : ( 1 ) we own less than one percent of hotels that we operate or franchise ; ( 2 ) management and franchise fees are generally based upon hotel revenues and profits rather than current hotel property values ; and ( 3 ) our management agreements generally do not terminate upon hotel sale or foreclosure .",
+      "dispositions .",
+      "property and asset sales generated $ 479 million cash proceeds in 2018 and $ 1418 million in 2017 .",
+      "see footnote 3 .",
+      "dispositions and acquisitions for more information on dispositions. ."
+    ],
+    "table": [
+      [
+        "( $ in millions )",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "cash from operations",
+        "$ 2357",
+        "$ 2227",
+        "$ 1619"
+      ],
+      [
+        "non-cash items ( 1 )",
+        "287",
+        "1397",
+        "514"
+      ]
+    ],
+    "questions": [
+      "non cash items represent what percent of cash from operations in 2017?"
+    ]
+  }
+}

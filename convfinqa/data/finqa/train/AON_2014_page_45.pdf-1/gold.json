@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate of revenue from 2013 to 2014?",
+      "answer": 0.00578,
+      "answer_raw": "0.00578",
+      "program": "subtract(7834, 7789), divide(#0, 7789)"
+    }
+  ]
+}

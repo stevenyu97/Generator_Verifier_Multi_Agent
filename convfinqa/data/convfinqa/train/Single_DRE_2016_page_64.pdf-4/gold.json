@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the management fee earned for the year ended 12/31/16?",
+      "answer": 4.5,
+      "answer_raw": "4.5",
+      "program": "4.5"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the leasing fee for the same period?",
+      "answer": 2.4,
+      "answer_raw": "2.4",
+      "program": "2.4"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much combined was earned from these two fees?",
+      "answer": 6.9,
+      "answer_raw": "6.9",
+      "program": "add(4.5, 2.4)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the development fee for that same period?",
+      "answer": 8.0,
+      "answer_raw": "8.0",
+      "program": "8.0"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "together, how much was earned from these three fees during this time?",
+      "answer": 14.9,
+      "answer_raw": "14.9",
+      "program": "add(4.5, 2.4), add(8.0, #0)"
+    }
+  ]
+}

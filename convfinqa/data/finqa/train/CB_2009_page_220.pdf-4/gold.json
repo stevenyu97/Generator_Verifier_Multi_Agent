@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase in the statutory capital and surplus due to discount of certain a&e liabilities from 2008 to 2009",
+      "answer": 0.01896,
+      "answer_raw": "0.01896",
+      "program": "subtract(215, 211), divide(#0, 211)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the range of volatility ( % (  % ) ) in the black scholes calculation for the three year period?\\\\n",
+      "answer": 0.274,
+      "answer_raw": "0.274",
+      "program": "table_min(expected volatility, none), table_max(expected volatility, none), subtract(#1, #0)"
+    }
+  ]
+}

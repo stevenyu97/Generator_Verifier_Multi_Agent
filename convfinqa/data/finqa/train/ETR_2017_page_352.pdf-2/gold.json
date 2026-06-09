@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the sum of the entergy louisiana 2019s receivables from the money pool from 2014 to 2017",
+      "answer": 42645.0,
+      "answer_raw": "42645.0",
+      "program": "add(11173, 22503), add(#0, 6154), add(2815, #1)"
+    }
+  ]
+}

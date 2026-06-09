@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if the entergy louisiana commitment for customer benefits was limited to four years , how much would customers receive in millions?",
+      "answer": 24.8,
+      "answer_raw": "24.8",
+      "program": "add(6.2, 6.2), add(#0, 6.2), add(#1, 6.2)"
+    }
+  ]
+}

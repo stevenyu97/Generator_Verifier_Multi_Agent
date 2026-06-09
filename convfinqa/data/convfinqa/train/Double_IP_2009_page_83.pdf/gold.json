@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did the unrecognized tax benefits change between 2007 and 2008?",
+      "answer": 359.0,
+      "answer_raw": "359.0",
+      "program": "subtract(-435, -794)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and between 2008 and 2009?",
+      "answer": 127.0,
+      "answer_raw": "127.0",
+      "program": "subtract(-308, -435)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the overall purchase value of star pizza was in customer relationship intangible assets and goodwill?",
+      "answer": 0.78035,
+      "answer_raw": "0.78035",
+      "program": "add(2.2, 24.8), divide(#0, 34.6)"
+    }
+  ]
+}

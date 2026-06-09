@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the employee matching contributions in 2018?",
+      "answer": 658.0,
+      "answer_raw": "658.0",
+      "program": "658"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what were they in 2017?",
+      "answer": 613.0,
+      "answer_raw": "613.0",
+      "program": "613"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 45.0,
+      "answer_raw": "45.0",
+      "program": "subtract(658, 613)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is this change as a percentage of the 2017 contributions?",
+      "answer": 0.07341,
+      "answer_raw": "0.07341",
+      "program": "subtract(658, 613), divide(#0, 613)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and from 2016 to that year, what was the change in the total of 401 ( k ) contributions?",
+      "answer": -4.0,
+      "answer_raw": "-4.0",
+      "program": "subtract(613, 617)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "how much did this change represent in relation to those contributions in 2016, in percentage?",
+      "answer": -0.00648,
+      "answer_raw": "-0.00648",
+      "program": "subtract(613, 617), divide(#0, 617)"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "MMM/2005/page_95.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the following table shows the major categories of ongoing claims for which the company has been able to estimate its probable liability and for which the company has taken reserves and the related insurance receivables : at december 31 ."
+    ],
+    "post_text": [
+      "for those significant pending legal proceedings that do not appear in the table and that are not the subject of pending settlement agreements , the company has determined that liability is not probable or the amount of the liability is not estimable , or both , and the company is unable to estimate the possible loss or range of loss at this time .",
+      "the amounts in the preceding table with respect to breast implant and environmental remediation represent the company 2019s best estimate of the respective liabilities .",
+      "the company has recorded liabilities with respect to the two pending transparent tape antitrust class action settlements .",
+      "breast implant insurance receivables : as of december 31 , 2005 , the company had receivables for insurance recoveries related to the breast implant matter of $ 130 million , representing amounts covered by the minnesota supreme court 2019s ruling of august 2003 but yet to be received and other amounts that have been claimed from various reinsurers , the minnesota insurance guaranty association , and the estates of certain insolvent insurance carriers .",
+      "the company received about $ 92 million in the fourth quarter of 2005 ( bringing total recoveries in 2005 to $ 148 million ) , offsetting a portion of the previously recorded receivable , pursuant to settlements with seven insurers and one reinsurer that were consistent with the company 2019s overall expectation of recovery as a result of the minnesota supreme court ruling .",
+      "with these recent settlements and the previously disclosed settlements , 17 of the 29 insurers have withdrawn from the pending proceedings and have settled the company 2019s claims under the minnesota supreme court decision .",
+      "various factors could affect the timing and amount of recovery of the balance of the company 2019s insurance receivables , including ( i ) additional delays in or avoidance of payment by insurers ; ( ii ) the extent to which insurers may become insolvent in the future , and ( iii ) the outcome of the pending legal proceedings involving the insurers .",
+      "respirator mask/asbestos liabilities and insurance receivables : the company estimates its respirator mask/asbestos liabilities , including the cost to resolve the claim and defense costs , by examining : ( i ) the company 2019s experience in resolving claims , ( ii ) apparent trends , ( iii ) the apparent quality of claims ( e.g. , the company believes many of the claims have been asserted on behalf of asymptomatic claimants ) , ( iv ) changes in the nature and mix of claims ( e.g. , the proportion of claims asserting usage of the company 2019s mask or respirator products and alleging exposure to each of asbestos , silica or other occupational dusts , and claims pleading use of asbestos-containing products allegedly manufactured by the company ) , ( v ) the number of current claims and a projection of the number of future asbestos and other claims that may be filed against the company , ( vi ) the cost to resolve recently settled claims , and ( vii ) an estimate of the cost to resolve and defend against current and future claims .",
+      "because of the inherent difficulty in projecting the number of claims that have not yet been asserted , particularly with respect to the company's respiratory products that themselves did not contain any harmful materials ( which makes the various published studies that purport to project future asbestos claims substantially removed from the company's principal experience and which themselves vary widely ) , the company does not believe that there is any single best estimate of this liability , nor that it can reliably estimate the amount or range of amounts by which the liability may exceed the reserve the company has established .",
+      "no liability has been recorded regarding the pending action brought by the west virginia attorney general previously described .",
+      "developments may occur that could affect the company 2019s estimate of its liabilities .",
+      "these developments include , but are not limited to , significant changes in ( i ) the number of future claims , ( ii ) the average cost of resolving claims , ( iii ) the legal costs of defending these claims and in maintaining trial readiness , ( iv ) changes in the mix and nature of claims received , ( v ) trial and appellate outcomes , ( vi ) changes in the law and procedure applicable to these claims , and ( vii ) the financial viability of other co-defendants and insurers .",
+      "congress is currently considering legislation that would terminate essentially all litigation related to asbestos ( but not other occupational dusts ) in exchange for substantial annual payments by the defendant companies and their insurers and , accordingly , such legislation , if enacted , would bring considerable certainty to the assessment of the company's future asbestos-related liability ; the ."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "2005",
+        "2004",
+        "2003"
+      ],
+      [
+        "breast implant liabilities",
+        "$ 7",
+        "$ 11",
+        "$ 13"
+      ],
+      [
+        "breast implant receivables",
+        "130",
+        "278",
+        "338"
+      ],
+      [
+        "respirator mask/asbestos liabilities",
+        "210",
+        "248",
+        "289"
+      ],
+      [
+        "respirator mask/asbestos receivables",
+        "447",
+        "464",
+        "448"
+      ],
+      [
+        "environmental remediation liabilities",
+        "30",
+        "39",
+        "41"
+      ],
+      [
+        "environmental remediation receivables",
+        "15",
+        "16",
+        "16"
+      ]
+    ],
+    "questions": [
+      "in 2005 what was the ratio of the breast implant receivables to the breast implant liabilities"
+    ]
+  }
+}

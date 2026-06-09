@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "EOG/2016/page_78.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "weighted average fair values and valuation assumptions used to value performance unit and performance stock grants during the years ended december 31 , 2016 , 2015 and 2014 were as follows: ."
+    ],
+    "post_text": [
+      "expected volatility is based on the term-matched historical volatility over the simulated term , which is calculated as the time between the grant date and the end of the performance period .",
+      "the risk-free interest rate is based on a 3.25 year zero-coupon risk-free interest rate derived from the treasury constant maturities yield curve on the grant date .",
+      "at december 31 , 2016 , unrecognized compensation expense related to performance units totaled $ 10 million .",
+      "such unrecognized expense will be amortized on a straight-line basis over a weighted average period of 3.0 years .",
+      "pension plans .",
+      "eog has a defined contribution pension plan in place for most of its employees in the united states .",
+      "eog's contributions to the pension plan are based on various percentages of compensation and , in some instances , are based upon the amount of the employees' contributions .",
+      "eog's total costs recognized for the plan were $ 34 million , $ 36 million and $ 41 million for 2016 , 2015 and 2014 , respectively .",
+      "in addition , eog's trinidadian subsidiary maintains a contributory defined benefit pension plan and a matched savings plan .",
+      "eog's united kingdom subsidiary maintains a pension plan which includes a non-contributory defined contribution pension plan and a matched defined contribution savings plan .",
+      "these pension plans are available to most employees of the trinidadian and united kingdom subsidiaries .",
+      "eog's combined contributions to these plans were $ 1 million , $ 1 million and $ 5 million for 2016 , 2015 and 2014 , respectively .",
+      "for the trinidadian defined benefit pension plan , the benefit obligation , fair value of plan assets and accrued benefit cost totaled $ 8 million , $ 7 million and $ 0.3 million , respectively , at december 31 , 2016 , and $ 9 million , $ 7 million and $ 0.2 million , respectively , at december 31 , 2015 .",
+      "in connection with the divestiture of substantially all of its canadian assets in the fourth quarter of 2014 , eog has elected to terminate the canadian non-contributory defined benefit pension plan .",
+      "postretirement health care .",
+      "eog has postretirement medical and dental benefits in place for eligible united states and trinidad employees and their eligible dependents , the costs of which are not material .",
+      "8 .",
+      "commitments and contingencies letters of credit and guarantees .",
+      "at december 31 , 2016 and 2015 , respectively , eog had standby letters of credit and guarantees outstanding totaling approximately $ 226 million and $ 272 million , primarily representing guarantees of payment or performance obligations on behalf of subsidiaries .",
+      "as of february 20 , 2017 , there were no demands for payment under these guarantees. ."
+    ],
+    "table": [
+      [
+        "",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "weighted average fair value of grants",
+        "$ 119.10",
+        "$ 80.64",
+        "$ 119.27"
+      ],
+      [
+        "expected volatility",
+        "32.48% ( 32.48 % )",
+        "29.35% ( 29.35 % )",
+        "32.18% ( 32.18 % )"
+      ],
+      [
+        "risk-free interest rate",
+        "1.15% ( 1.15 % )",
+        "1.07% ( 1.07 % )",
+        "1.18% ( 1.18 % )"
+      ]
+    ],
+    "questions": [
+      "what is the variation observed in the risk-free interest rate during 2015 and 2016?"
+    ]
+  }
+}

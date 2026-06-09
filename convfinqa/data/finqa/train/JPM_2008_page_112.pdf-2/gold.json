@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in net charge-offs relating to retail financial services between 2007 and 2008?",
+      "answer": 2.34258,
+      "answer_raw": "2.34258",
+      "program": "subtract(8918, 2668), divide(#0, 2668)"
+    }
+  ]
+}

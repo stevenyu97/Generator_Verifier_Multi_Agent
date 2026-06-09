@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "Double_HOLX/2008/page_140.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "hologic , inc .",
+      "notes to consolidated financial statements ( continued ) ( in thousands , except per share data ) fiscal 2007 acquisition : acquisition of biolucent , inc .",
+      "on september 18 , 2007 the company completed the acquisition of biolucent , inc .",
+      "( 201cbiolucent 201d ) pursuant to a definitive agreement dated june 20 , 2007 .",
+      "the results of operations for biolucent have been included in the company 2019s consolidated financial statements from the date of acquisition as part of its mammography/breast care business segment .",
+      "the company has concluded that the acquisition of biolucent does not represent a material business combination and therefore no pro forma financial information has been provided herein .",
+      "biolucent , previously located in aliso viejo , california , develops , markets and sells mammopad breast cushions to decrease the discomfort associated with mammography .",
+      "prior to the acquisition , biolucent 2019s primary research and development efforts were directed at its brachytherapy business which was focused on breast cancer therapy .",
+      "prior to the acquisition , biolucent spun-off its brachytherapy technology and business to the holders of biolucent 2019s outstanding shares of capital stock .",
+      "as a result , the company only acquired biolucent 2019s mammopad cushion business and related assets .",
+      "the company invested $ 1000 directly in the spun-off brachytherapy business in exchange for shares of preferred stock issued by the new business .",
+      "the aggregate purchase price for biolucent was approximately $ 73200 , consisting of approximately $ 6800 in cash and 2314 shares of hologic common stock valued at approximately $ 63200 , debt assumed and paid off of approximately $ 1600 and approximately $ 1600 for acquisition related fees and expenses .",
+      "the company determined the fair value of the shares issued in connection with the acquisition in accordance with eitf issue no .",
+      "99-12 , determination of the measurement date for the market price of acquirer securities issued in a purchase business combination .",
+      "the acquisition also provides for up to two annual earn-out payments not to exceed $ 15000 in the aggregate based on biolucent 2019s achievement of certain revenue targets .",
+      "the company has considered the provision of eitf issue no .",
+      "95-8 , accounting for contingent consideration paid to the shareholders of an acquired enterprise in a purchase business combination , and concluded that this contingent consideration will represent additional purchase price .",
+      "as a result , goodwill will be increased by the amount of the additional consideration , if any , when it becomes due and payable .",
+      "as of september 27 , 2008 , the company has not recorded any amounts for these potential earn-outs .",
+      "the allocation of the purchase price is based upon estimates of the fair value of assets acquired and liabilities assumed as of september 18 , 2007 .",
+      "the components and allocation of the purchase price consists of the following approximate amounts: ."
+    ],
+    "post_text": [
+      "as part of the purchase price allocation , all intangible assets that were a part of the acquisition were identified and valued .",
+      "it was determined that only customer relationship , trade name and developed technology and know-how had separately identifiable values .",
+      "the fair value of these intangible assets was determined through the application of the income approach .",
+      "customer relationship represents a large customer base that is expected to purchase the disposable mammopad product on a regular basis .",
+      "trade name represents the ."
+    ],
+    "table": [
+      [
+        "net tangible assets acquired as of september 18 2007",
+        "$ 2800"
+      ],
+      [
+        "developed technology and know how",
+        "12300"
+      ],
+      [
+        "customer relationship",
+        "17000"
+      ],
+      [
+        "trade name",
+        "2800"
+      ],
+      [
+        "deferred income tax liabilities net",
+        "-9500 ( 9500 )"
+      ],
+      [
+        "goodwill",
+        "47800"
+      ],
+      [
+        "final purchase price",
+        "$ 73200"
+      ]
+    ],
+    "questions": [
+      "what portion of the final purchase price of biolucent is for goodwill?",
+      "what is the estimated price of hologic common stock used in the biolucent acquisition?"
+    ]
+  }
+}

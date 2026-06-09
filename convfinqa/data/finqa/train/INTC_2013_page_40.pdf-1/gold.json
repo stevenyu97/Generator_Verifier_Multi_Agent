@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the operating margin for the pc client group in 2012?",
+      "answer": 0.37984,
+      "answer_raw": "0.37984",
+      "program": "divide(13106, 34504)"
+    }
+  ]
+}

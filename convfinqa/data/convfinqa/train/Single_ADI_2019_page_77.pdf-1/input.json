@@ -1,0 +1,79 @@
+{
+  "input": {
+    "id": "Single_ADI/2019/page_77.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "expected term 2014 the company uses historical employee exercise and option expiration data to estimate the expected term assumption for the black-scholes grant-date valuation .",
+      "the company believes that this historical data is currently the best estimate of the expected term of a new option , and that generally its employees exhibit similar exercise behavior .",
+      "risk-free interest rate 2014 the yield on zero-coupon u.s .",
+      "treasury securities for a period that is commensurate with the expected term assumption is used as the risk-free interest rate .",
+      "expected dividend yield 2014 expected dividend yield is calculated by annualizing the cash dividend declared by the company 2019s board of directors for the current quarter and dividing that result by the closing stock price on the date of grant .",
+      "until such time as the company 2019s board of directors declares a cash dividend for an amount that is different from the current quarter 2019s cash dividend , the current dividend will be used in deriving this assumption .",
+      "cash dividends are not paid on options , restricted stock or restricted stock units .",
+      "in connection with the acquisition , the company granted restricted stock awards to replace outstanding restricted stock awards of linear employees .",
+      "these restricted stock awards entitle recipients to voting and nonforfeitable dividend rights from the date of grant .",
+      "stock-based compensation expensexp p the amount of stock-based compensation expense recognized during a period is based on the value of the awards that are ultimately expected to vest .",
+      "forfeitures are estimated at the time of grant and revised , if necessary , in subsequent periods if actual forfeitures differ from those estimates .",
+      "the term 201cforfeitures 201d is distinct from 201ccancellations 201d or 201cexpirations 201d and represents only the unvested portion of the surrendered stock-based award .",
+      "based on an analysis of its historical forfeitures , the company has applied an annual forfeitureff rate of 5.0% ( 5.0 % ) to all unvested stock-based awards as of november 2 , 2019 .",
+      "this analysis will be re-evaluated quarterly and the forfeiture rate will be adjusted as necessary .",
+      "ultimately , the actual expense recognized over the vesting period will only be for those awards that vest .",
+      "total stock-based compensation expense recognized is as follows: ."
+    ],
+    "post_text": [
+      "as of november 2 , 2019 and november 3 , 2018 , the company capitalized $ 6.8 million and $ 7.1 million , respectively , of stock-based compensation in inventory .",
+      "additional paid-in-capital ( apic ) pp poolp p ( ) the company adopted asu 2016-09 during fiscal 2018 .",
+      "asu 2016-09 eliminated the apic pool and requires that excess tax benefits and tax deficiencies be recorded in the income statement when awards are settled .",
+      "as a result of this adoption the company recorded total excess tax benefits of $ 28.7 million and $ 26.2 million in fiscal 2019 and fiscal 2018 , respectively , from its stock-based compensation payments within income tax expense in its consolidated statements of income .",
+      "for fiscal 2017 , the apic pool represented the excess tax benefits related to stock-based compensation that were available to absorb future tax deficiencies .",
+      "if the amount of future tax deficiencies was greater than the available apic pool , the company recorded the excess as income tax expense in its consolidated statements of income .",
+      "for fiscal 2017 , the company had a sufficient apic pool to cover any tax deficiencies recorded and as a result , these deficiencies did not affect its results of operations .",
+      "analog devices , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) ."
+    ],
+    "table": [
+      [
+        "",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      [
+        "cost of sales",
+        "$ 20628",
+        "$ 18733",
+        "$ 12569"
+      ],
+      [
+        "research and development",
+        "75305",
+        "81444",
+        "51258"
+      ],
+      [
+        "selling marketing general and administrative",
+        "51829",
+        "50988",
+        "40361"
+      ],
+      [
+        "special charges",
+        "2538",
+        "2014",
+        "2014"
+      ],
+      [
+        "total stock-based compensation expense",
+        "$ 150300",
+        "$ 151165",
+        "$ 104188"
+      ]
+    ],
+    "questions": [
+      "what was the cost of sales in 2019?",
+      "what was the cost in 2018?",
+      "what is the net change?",
+      "what is the percent change?"
+    ]
+  }
+}

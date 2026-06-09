@@ -1,0 +1,57 @@
+{
+  "input": {
+    "id": "ABMD/2003/page_22.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "( i ) intellectual property the company capitalizes as intellectual property costs incurred , excluding costs associated with company personnel , relating to patenting its technology .",
+      "capitalized costs , the majority of which represent legal costs , reflect the cost of both awarded patents and patents pending .",
+      "the company amortizes the cost of these patents on a straight-line basis over a period of seven years .",
+      "if the company elects to stop pursuing a particular patent application or determines that a patent application is not likely to be awarded for a particular patent or elects to discontinue payment of required maintenance fees for a particular patent , the company at that time records as expense the net capitalized amount of such patent application or patent .",
+      "the company does not capitalize maintenance fees for patents .",
+      "( j ) net loss per share basic net loss per share is computed by dividing net loss by the weighted-average number of common shares outstanding during the fiscal year .",
+      "diluted net loss per share is computed by dividing net loss by the weighted-average number of dilutive common shares outstanding during the fiscal year .",
+      "diluted weighted-average shares reflect the dilutive effect , if any , of potential common stock such as options and warrants based on the treasury stock method .",
+      "no potential common stock is considered dilutive in periods in which a loss is reported , such as the fiscal years ended march 31 , 2001 , 2002 and 2003 , because all such common equivalent shares would be antidilutive .",
+      "the calculation of diluted weighted-average shares outstanding for the years ended march 31 , 2001 , 2002 and 2003 excludes the options to purchase common stock as shown below .",
+      "potential dilutive shares year ended march 31 , from exercise of common stock options ."
+    ],
+    "post_text": [
+      "the calculation of diluted weighted-average shares outstanding excludes unissued shares of common stock associated with outstanding stock options that have exercise prices greater than the average market price of abiomed common stock during the period .",
+      "for the fiscal years ending march 31 , 2001 , 2002 and 2003 , the weighted-average number of these potential shares totaled 61661 , 341495 and 2463715 shares , respectively .",
+      "the calculation of diluted weighted-average shares outstanding for the years ended march 31 , 2001 , 2002 and 2003 also excludes warrants to purchase 400000 shares of common stock issued in connection with the acquisition of intellectual property ( see note 4 ) .",
+      "( k ) cash and cash equivalents the company classifies any marketable security with a maturity date of 90 days or less at the time of purchase as a cash equivalent .",
+      "( l ) marketable securities the company classifies any security with a maturity date of greater than 90 days at the time of purchase as marketable securities and classifies marketable securities with a maturity date of greater than one year from the balance sheet date as long-term investments .",
+      "under statement of financial accounting standards ( sfas ) no .",
+      "115 , accounting for certain investments in debt and equity securities , securities that the company has the positive intent and ability to hold to maturity are reported at amortized cost and classified as held-to-maturity securities .",
+      "the amortized cost and market value of marketable securities were approximately $ 25654000 and $ 25661000 at march 31 , 2002 , and $ 9877000 and $ 9858000 at march 31 , 2003 , respectively .",
+      "at march 31 , 2003 , these short-term investments consisted primarily of government securities .",
+      "( m ) disclosures about fair value of financial instruments as of march 31 , 2002 and 2003 , the company 2019s financial instruments were comprised of cash and cash equivalents , marketable securities , accounts receivable and accounts payable , the carrying amounts of which approximated fair market value .",
+      "( n ) comprehensive income sfas no .",
+      "130 , reporting comprehensive income , requires disclosure of all components of comprehensive income and loss on an annual and interim basis .",
+      "comprehensive income and loss is defined as the change in equity of a business enterprise during a period from transactions and other events and circumstances from non-owner sources .",
+      "other than the reported net loss , there were no components of comprehensive income or loss which require disclosure for the years ended march 31 , 2001 , 2002 and 2003 .",
+      "notes to consolidated financial statements ( continued ) march 31 , 2003 page 20 ."
+    ],
+    "table": [
+      [
+        "year ended march 31,",
+        "potential dilutive shares from exercise of common stock options"
+      ],
+      [
+        "2001",
+        "1808322"
+      ],
+      [
+        "2002",
+        "1420831"
+      ],
+      [
+        "2003",
+        "58343"
+      ]
+    ],
+    "questions": [
+      "what was the unrealized loss in marketable securities at march 31 , 2003?"
+    ]
+  }
+}

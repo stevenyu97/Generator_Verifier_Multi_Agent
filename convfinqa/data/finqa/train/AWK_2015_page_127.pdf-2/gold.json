@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the actual return on assets as a percentage of the 2015 ending balance?",
+      "answer": 0.08824,
+      "answer_raw": "0.08824",
+      "program": "divide(12, 136)"
+    }
+  ]
+}

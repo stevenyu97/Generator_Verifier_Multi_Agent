@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was 2018 allowance for borrowed funds used during construction as a percentage of allowance for other funds used during construction?",
+      "answer": 0.54167,
+      "answer_raw": "0.54167",
+      "program": "divide(13, 24)"
+    }
+  ]
+}

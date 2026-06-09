@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "ETR/2011/page_145.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries notes to financial statements sale and leaseback transactions waterford 3 lease obligations in 1989 , in three separate but substantially identical transactions , entergy louisiana sold and leased back undivided interests in waterford 3 for the aggregate sum of $ 353.6 million .",
+      "the interests represent approximately 9.3% ( 9.3 % ) of waterford 3 .",
+      "the leases expire in 2017 .",
+      "under certain circumstances , entergy louisiana may repurchase the leased interests prior to the end of the term of the leases .",
+      "at the end of the lease terms , entergy louisiana has the option to repurchase the leased interests in waterford 3 at fair market value or to renew the leases for either fair market value or , under certain conditions , a fixed rate .",
+      "entergy louisiana issued $ 208.2 million of non-interest bearing first mortgage bonds as collateral for the equity portion of certain amounts payable under the leases .",
+      "upon the occurrence of certain events , entergy louisiana may be obligated to assume the outstanding bonds used to finance the purchase of the interests in the unit and to pay an amount sufficient to withdraw from the lease transaction .",
+      "such events include lease events of default , events of loss , deemed loss events , or certain adverse 201cfinancial events . 201d 201cfinancial events 201d include , among other things , failure by entergy louisiana , following the expiration of any applicable grace or cure period , to maintain ( i ) total equity capital ( including preferred membership interests ) at least equal to 30% ( 30 % ) of adjusted capitalization , or ( ii ) a fixed charge coverage ratio of at least 1.50 computed on a rolling 12 month basis .",
+      "as of december 31 , 2011 , entergy louisiana was in compliance with these provisions .",
+      "as of december 31 , 2011 , entergy louisiana had future minimum lease payments ( reflecting an overall implicit rate of 7.45% ( 7.45 % ) ) in connection with the waterford 3 sale and leaseback transactions , which are recorded as long-term debt , as follows : amount ( in thousands ) ."
+    ],
+    "post_text": [
+      "grand gulf lease obligations in 1988 , in two separate but substantially identical transactions , system energy sold and leased back undivided ownership interests in grand gulf for the aggregate sum of $ 500 million .",
+      "the interests represent approximately 11.5% ( 11.5 % ) of grand gulf .",
+      "the leases expire in 2015 .",
+      "under certain circumstances , system entergy may repurchase the leased interests prior to the end of the term of the leases .",
+      "at the end of the lease terms , system energy has the option to repurchase the leased interests in grand gulf at fair market value or to renew the leases for either fair market value or , under certain conditions , a fixed rate .",
+      "system energy is required to report the sale-leaseback as a financing transaction in its financial statements .",
+      "for financial reporting purposes , system energy expenses the interest portion of the lease obligation and the plant depreciation .",
+      "however , operating revenues include the recovery of the lease payments because the transactions are accounted for as a sale and leaseback for ratemaking purposes .",
+      "consistent with a recommendation contained in a ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in thousands )"
+      ],
+      [
+        "2012",
+        "$ 39067"
+      ],
+      [
+        "2013",
+        "26301"
+      ],
+      [
+        "2014",
+        "31036"
+      ],
+      [
+        "2015",
+        "28827"
+      ],
+      [
+        "2016",
+        "16938"
+      ],
+      [
+        "years thereafter",
+        "106335"
+      ],
+      [
+        "total",
+        "248504"
+      ],
+      [
+        "less : amount representing interest",
+        "60249"
+      ],
+      [
+        "present value of net minimum lease payments",
+        "$ 188255"
+      ]
+    ],
+    "questions": [
+      "as of december 31 , 2011 , what was the percent of the entergy louisiana future minimum lease payments that was due in 2014"
+    ]
+  }
+}

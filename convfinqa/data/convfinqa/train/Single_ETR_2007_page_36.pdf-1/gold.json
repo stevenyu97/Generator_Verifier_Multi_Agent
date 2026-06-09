@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of other income in 2006 less the value in 2005?",
+      "answer": 45.0,
+      "answer_raw": "45.0",
+      "program": "subtract(156, 111)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the value of other income in 2005?",
+      "answer": 111.0,
+      "answer_raw": "111.0",
+      "program": "111"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the percent change over the year?",
+      "answer": 0.40541,
+      "answer_raw": "0.40541",
+      "program": "subtract(156, 111), divide(#0, 111)"
+    }
+  ]
+}

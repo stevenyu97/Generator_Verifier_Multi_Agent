@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average expected dividend yield during 2008-2010?",
+      "answer": 0.00333,
+      "answer_raw": "0.00333",
+      "program": "table_average(expected dividend yield, none)"
+    }
+  ]
+}

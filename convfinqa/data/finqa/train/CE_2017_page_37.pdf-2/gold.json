@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total authorized the aggregate repurchase of common stock since february 2008 including the additional amount authorized in 2017 in billions",
+      "answer": 5.4,
+      "answer_raw": "5.4",
+      "program": "add(3.9, 1.5)"
+    }
+  ]
+}

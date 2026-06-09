@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the growth in the interest expense on debt and capital lease obligations from 2017 to 2018",
+      "answer": 0.07574,
+      "answer_raw": "0.07574",
+      "program": "subtract(349.4, 324.8), divide(#0, 324.8)"
+    }
+  ]
+}

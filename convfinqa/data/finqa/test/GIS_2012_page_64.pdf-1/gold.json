@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total interest expense for the year ending on may 27 , 2012 , ( in millions )",
+      "answer": 12.636,
+      "answer_raw": "12.636",
+      "program": "multiply(526.5, 2.4%)"
+    }
+  ]
+}

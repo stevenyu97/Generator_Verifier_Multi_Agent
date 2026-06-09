@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "during 2010 and 2011 what were total quarterly cash dividends per share?",
+      "answer": 0.16,
+      "answer_raw": "0.16",
+      "program": "add(0.07, 0.09)"
+    }
+  ]
+}

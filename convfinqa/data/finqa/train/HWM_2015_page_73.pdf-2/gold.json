@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the estimated annualized return for the initial $ 100 investment in the s&p 500 aeindex?",
+      "answer": -0.97027,
+      "answer_raw": "-0.97027",
+      "program": "subtract(181, 100), divide(const_1, const_5), subtract(#1, const_1), exp(#0, #2), subtract(#3, const_1)"
+    }
+  ]
+}

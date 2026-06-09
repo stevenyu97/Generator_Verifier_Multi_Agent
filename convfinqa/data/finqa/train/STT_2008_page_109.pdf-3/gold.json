@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the balance of initial accrual is related to severances?",
+      "answer": 0.81699,
+      "answer_raw": "0.81699",
+      "program": "divide(250, 306)"
+    }
+  ]
+}

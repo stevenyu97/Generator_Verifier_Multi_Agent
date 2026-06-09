@@ -1,0 +1,98 @@
+{
+  "input": {
+    "id": "JKHY/2010/page_50.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "48 2022 2010 annual report as part of the acquisition of gfsi , we acquired gross net operating loss ( 201cnol 201d ) carry forwards of $ 64431 ; of which , only $ 34592 are expected to be utilized due to the application of irc section 382 .",
+      "separately , as of june 30 , 2010 , we had state nol carry forwards of $ 838 .",
+      "these losses have varying expiration dates , ranging from 2012 to 2029 .",
+      "based on state tax rules which restrict our usage of these losses , we believe it is more likely than not that $ 306 of these losses will expire unutilized .",
+      "accordingly , a valuation allowance of $ 306 has been recorded against these assets as of june 30 , 2010 .",
+      "the company paid income taxes of $ 42116 , $ 62965 , and $ 51709 in 2010 , 2009 , and 2008 , respectively .",
+      "at june 30 , 2009 , the company had $ 5518 of unrecognized tax benefits .",
+      "at june 30 , 2010 , the company had $ 7187 of unrecognized tax benefits , of which , $ 4989 , if recognized , would affect our effective tax rate .",
+      "we had accrued interest and penalties of $ 890 and $ 732 related to uncertain tax positions at june 30 , 2010 and 2009 , respectively .",
+      "a reconciliation of the unrecognized tax benefits for the years ended june 30 , 2010 and 2009 follows : unrecognized tax benefits ."
+    ],
+    "post_text": [
+      "during the fiscal year ended june 30 , 2010 , the internal revenue service commenced an examination of the company 2019s u.s .",
+      "federal income tax returns for fiscal years ended june 2008 through 2009 .",
+      "the u.s .",
+      "federal and state income tax returns for june 30 , 2007 and all subsequent years still remain subject to examination as of june 30 , 2010 under statute of limitations rules .",
+      "we anticipate potential changes resulting from the expiration of statutes of limitations of up to $ 965 could reduce the unrecognized tax benefits balance within twelve months of june 30 , note 8 : industry and supplier concentrations the company sells its products to banks , credit unions , and financial institutions throughout the united states and generally does not require collateral .",
+      "all billings to customers are due 30 days from date of billing .",
+      "reserves ( which are insignificant at june 30 , 2010 , 2009 and 2008 ) are maintained for potential credit losses .",
+      "in addition , the company purchases most of its computer hardware and related maintenance for resale in relation to installation of jha software systems from two suppliers .",
+      "there are a limited number of hardware suppliers for these required items .",
+      "if these relationships were terminated , it could have a significant negative impact on the future operations of the company .",
+      "note 9 : stock based compensation plans the company previously issued options to employees under the 1996 stock option plan ( 201c1996 sop 201d ) and currently issues options to outside directors under the 2005 non-qualified stock option plan ( 201c2005 nsop 201d ) .",
+      "1996 sop the 1996 sop was adopted by the company on october 29 , 1996 , for its employees .",
+      "terms and vesting periods ."
+    ],
+    "table": [
+      [
+        "",
+        "unrecognized tax benefits"
+      ],
+      [
+        "balance at july 1 2008",
+        "$ 4055"
+      ],
+      [
+        "additions for current year tax positions",
+        "1044"
+      ],
+      [
+        "additions for prior year tax positions",
+        "2052"
+      ],
+      [
+        "reductions for prior year tax positions",
+        "-110 ( 110 )"
+      ],
+      [
+        "settlements",
+        "-936 ( 936 )"
+      ],
+      [
+        "reductions related to expirations of statute of limitations",
+        "-587 ( 587 )"
+      ],
+      [
+        "balance at june 30 2009",
+        "5518"
+      ],
+      [
+        "additions for current year tax positions",
+        "691"
+      ],
+      [
+        "reductions for current year tax positions",
+        "-39 ( 39 )"
+      ],
+      [
+        "additions for prior year tax positions",
+        "2049"
+      ],
+      [
+        "reductions for prior year tax positions",
+        "-298 ( 298 )"
+      ],
+      [
+        "settlements",
+        "-"
+      ],
+      [
+        "reductions related to expirations of statute of limitations",
+        "-734 ( 734 )"
+      ],
+      [
+        "balance at june 30 2010",
+        "$ 7187"
+      ]
+    ],
+    "questions": [
+      "if the companies accounting policy were to include accrued interest and penalties in utp , what would the balance be as of at june 30 2010?"
+    ]
+  }
+}

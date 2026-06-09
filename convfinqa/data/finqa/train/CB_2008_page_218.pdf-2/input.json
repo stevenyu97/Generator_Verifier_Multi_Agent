@@ -1,0 +1,103 @@
+{
+  "input": {
+    "id": "CB/2008/page_218.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "n o t e s t o c o n s o l i d a t e d f i n a n c i a l s t a t e m e n t s ( continued ) ace limited and subsidiaries the following table shows changes in the company 2019s restricted stock for the years ended december 31 , 2008 , 2007 , and 2006 : number of restricted stock weighted average grant- date fair value ."
+    ],
+    "post_text": [
+      "under the provisions of fas 123r , the recognition of deferred compensation , a contra-equity account representing the amount of unrecognized restricted stock expense that is reduced as expense is recognized , at the date restricted stock is granted is no longer permitted .",
+      "therefore , upon adoption of fas 123r , the amount of deferred compensation that had been reflected in unearned stock grant compensation was reclassified to additional paid-in capital in the company 2019s consolidated balance sheet .",
+      "restricted stock units the company 2019s 2004 ltip also provides for grants of other awards , including restricted stock units .",
+      "the company generally grants restricted stock units with a 4-year vesting period , based on a graded vesting schedule .",
+      "each restricted stock unit repre- sents the company 2019s obligation to deliver to the holder one share of common shares upon vesting .",
+      "during 2008 , the company awarded 223588 restricted stock units to officers of the company and its subsidiaries with a weighted-average grant date fair value of $ 59.93 .",
+      "during 2007 , 108870 restricted stock units , with a weighted-average grant date fair value of $ 56.29 were awarded to officers of the company and its subsidiaries .",
+      "during 2006 , 83370 restricted stock units , with a weighted-average grant date fair value of $ 56.36 were awarded to officers of the company and its subsidiaries .",
+      "the company also grants restricted stock units with a 1-year vesting period to non-management directors .",
+      "delivery of common shares on account of these restricted stock units to non-management directors is deferred until six months after the date of the non-management directors 2019 termination from the board .",
+      "during 2008 , 2007 , and 2006 , 40362 restricted stock units , 29676 restricted stock units , and 23092 restricted stock units , respectively , were awarded to non-management direc- the espp gives participating employees the right to purchase common shares through payroll deductions during consecutive 201csubscription periods . 201d annual purchases by participants are limited to the number of whole shares that can be purchased by an amount equal to ten percent of the participant 2019s compensation or $ 25000 , whichever is less .",
+      "the espp has two six-month subscription periods , the first of which runs between january 1 and june 30 and the second of which runs between july 1 and december 31 of each year .",
+      "the amounts that have been collected from participants during a subscription period are used on the 201cexercise date 201d to purchase full shares of common shares .",
+      "an exercise date is generally the last trading day of a sub- scription period .",
+      "the number of shares purchased is equal to the total amount , as of the exercise date , that has been collected from the participants through payroll deductions for that subscription period , divided by the 201cpurchase price 201d , rounded down to the next full share .",
+      "effective for and from the second subscription period of 2007 , the purchase price is 85 percent of the fair value of a common share on the exercise date .",
+      "prior to the second subscription period of 2007 , the purchase price was calculated as the lower of ( i ) 85 percent of the fair value of a common share on the first day of the subscription period , or ."
+    ],
+    "table": [
+      [
+        "",
+        "number of restricted stock",
+        "weighted average grant- date fair value"
+      ],
+      [
+        "unvested restricted stock december 31 2005",
+        "3488668",
+        "$ 41.26"
+      ],
+      [
+        "granted",
+        "1632504",
+        "$ 56.05"
+      ],
+      [
+        "vested and issued",
+        "-1181249 ( 1181249 )",
+        "$ 40.20"
+      ],
+      [
+        "forfeited",
+        "-360734 ( 360734 )",
+        "$ 44.04"
+      ],
+      [
+        "unvested restricted stock december 31 2006",
+        "3579189",
+        "$ 48.07"
+      ],
+      [
+        "granted",
+        "1818716",
+        "$ 56.45"
+      ],
+      [
+        "vested and issued",
+        "-1345412 ( 1345412 )",
+        "$ 44.48"
+      ],
+      [
+        "forfeited",
+        "-230786 ( 230786 )",
+        "$ 51.57"
+      ],
+      [
+        "unvested restricted stock december 31 2007",
+        "3821707",
+        "$ 53.12"
+      ],
+      [
+        "granted",
+        "1836532",
+        "$ 59.84"
+      ],
+      [
+        "vested and issued",
+        "-1403826 ( 1403826 )",
+        "$ 50.96"
+      ],
+      [
+        "forfeited",
+        "-371183 ( 371183 )",
+        "$ 53.75"
+      ],
+      [
+        "unvested restricted stock december 31 2008",
+        "3883230",
+        "$ 57.01"
+      ]
+    ],
+    "questions": [
+      "what is the net change in the number of unvested restricted stocks in 2008?"
+    ]
+  }
+}

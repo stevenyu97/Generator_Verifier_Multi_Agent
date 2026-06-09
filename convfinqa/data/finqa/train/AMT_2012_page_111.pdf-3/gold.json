@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average company contribution to the retirement plan from 2010 to 2012",
+      "answer": 1.13908,
+      "answer_raw": "1.13908",
+      "program": "divide(4.4, 2.9), add(1.9, #0), divide(#1, const_3)"
+    }
+  ]
+}

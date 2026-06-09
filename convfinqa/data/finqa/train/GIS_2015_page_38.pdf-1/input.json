@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "GIS/2015/page_38.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "energy ; disruptions or ineffi ciencies in the supply chain ; eff ectiveness of restructuring and cost savings initia- tives ; volatility in the market value of derivatives used to manage price risk for certain commodities ; benefi t plan expenses due to changes in plan asset values and discount rates used to determine plan liabilities ; failure or breach of our information technology systems ; for- eign economic conditions , including currency rate fl uc- tuations ; and political unrest in foreign markets and economic uncertainty due to terrorism or war .",
+      "you should also consider the risk factors that we identify in item 1a of our 2015 form 10-k , which could also aff ect our future results .",
+      "we undertake no obligation to publicly revise any forward-looking statements to refl ect events or circum- stances aft er the date of those statements or to refl ect the occurrence of anticipated or unanticipated events .",
+      "quantitative and qualitative disclosures about market risk we are exposed to market risk stemming from changes in interest and foreign exchange rates and commod- ity and equity prices .",
+      "changes in these factors could cause fl uctuations in our earnings and cash fl ows .",
+      "in the normal course of business , we actively manage our exposure to these market risks by entering into vari- ous hedging transactions , authorized under established policies that place clear controls on these activities .",
+      "th e counterparties in these transactions are generally highly rated institutions .",
+      "we establish credit limits for each counterparty .",
+      "our hedging transactions include but are not limited to a variety of derivative fi nancial instruments .",
+      "for information on interest rate , foreign exchange , commodity price , and equity instrument risk , please see note 7 to the consolidated financial statements on page 52 of this report .",
+      "value at risk th e estimates in the table below are intended to mea- sure the maximum potential fair value we could lose in one day from adverse changes in market interest rates , foreign exchange rates , commodity prices , and equity prices under normal market conditions .",
+      "a monte carlo value-at-risk ( var ) methodology was used to quantify the market risk for our exposures .",
+      "th e models assumed normal market conditions and used a 95 percent confi - dence level .",
+      "th e var calculation used historical interest and for- eign exchange rates , and commodity and equity prices from the past year to estimate the potential volatility and correlation of these rates in the future .",
+      "th e market data were drawn from the riskmetrics 2122 data set .",
+      "th e calculations are not intended to represent actual losses in fair value that we expect to incur .",
+      "further , since the hedging instrument ( the derivative ) inversely correlates with the underlying exposure , we would expect that any loss or gain in the fair value of our derivatives would be generally off set by an increase or decrease in the fair value of the underlying exposure .",
+      "th e positions included in the calculations were : debt ; investments ; interest rate swaps ; foreign exchange forwards ; com- modity swaps , futures and options ; and equity instru- ments .",
+      "th e calculations do not include the underlying foreign exchange and commodities or equity-related positions that are off set by these market-risk-sensitive instruments .",
+      "th e table below presents the estimated maximum potential var arising from a one-day loss in fair value for our interest rate , foreign currency , commodity , and equity market-risk-sensitive instruments outstanding as of may 31 , 2015 , and may 25 , 2014 , and the average fair value impact during the year ended may 31 , 2015. ."
+    ],
+    "post_text": [
+      "36 general mills ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "fair value impact may 31 2015",
+        "fair value impact averageduringfiscal 2015",
+        "fair value impact may 25 2014"
+      ],
+      [
+        "interest rate instruments",
+        "$ 25.1",
+        "$ 23.7",
+        "$ 32.7"
+      ],
+      [
+        "foreign currency instruments",
+        "17.9",
+        "8.8",
+        "7.2"
+      ],
+      [
+        "commodity instruments",
+        "3.7",
+        "3.7",
+        "3.0"
+      ],
+      [
+        "equity instruments",
+        "1.2",
+        "1.2",
+        "1.1"
+      ]
+    ],
+    "questions": [
+      "what is the net change in the balance of foreign currency instruments from 2014 to 2015?"
+    ]
+  }
+}

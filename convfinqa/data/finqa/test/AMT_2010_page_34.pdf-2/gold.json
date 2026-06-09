@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "on february 112011 what was the market capitalization",
+      "answer": 22556579533.35,
+      "answer_raw": "22556579533.35",
+      "program": "multiply(397612895, 56.73)"
+    }
+  ]
+}

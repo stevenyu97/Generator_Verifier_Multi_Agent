@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in the balance of letters of credit from 2000 to 2001?",
+      "answer": -0.24771,
+      "answer_raw": "-0.24771",
+      "program": "subtract(164, 218), divide(#0, 218)"
+    }
+  ]
+}

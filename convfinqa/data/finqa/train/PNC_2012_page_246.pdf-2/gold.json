@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in billions , what was the change between 2011 and 2012 in net outstanding standby letters of credit?",
+      "answer": 11.15,
+      "answer_raw": "11.15",
+      "program": "add(11.5, 10.8), divide(#0, const_2)"
+    }
+  ]
+}

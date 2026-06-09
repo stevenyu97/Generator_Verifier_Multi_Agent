@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the tax expense from discontinued operations in 2013?",
+      "answer": 7.0,
+      "answer_raw": "7.0",
+      "program": "subtract(54, 47)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the income before tax for discontinued operations in 2012?",
+      "answer": 62.0,
+      "answer_raw": "62.0",
+      "program": "62"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what about the after tax?",
+      "answer": 37.0,
+      "answer_raw": "37.0",
+      "program": "37"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the tax expense in 2012?",
+      "answer": 25.0,
+      "answer_raw": "25.0",
+      "program": "subtract(62, 37)"
+    }
+  ]
+}

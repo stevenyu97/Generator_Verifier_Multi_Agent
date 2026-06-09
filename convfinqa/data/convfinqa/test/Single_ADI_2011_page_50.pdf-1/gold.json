@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change fair value of forward exchange contracts asset from 2010 to 2011?",
+      "answer": -4784.0,
+      "answer_raw": "-4784.0",
+      "program": "subtract(2472, 7256)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage change does this represent?",
+      "answer": -0.65932,
+      "answer_raw": "-0.65932",
+      "program": "subtract(2472, 7256), divide(#0, 7256)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total goodwill does energy services represent at december 31 , 2007?",
+      "answer": 0.01707,
+      "answer_raw": "0.01707",
+      "program": "divide(10255, 600725)"
+    }
+  ]
+}

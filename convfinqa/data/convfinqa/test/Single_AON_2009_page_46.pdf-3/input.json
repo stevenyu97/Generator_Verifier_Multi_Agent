@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "Single_AON/2009/page_46.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "risk and insurance brokerage services ."
+    ],
+    "post_text": [
+      "during 2009 we continued to see a soft market , which began in 2007 , in our retail brokerage product line .",
+      "in 2007 , we experienced a soft market in many business lines and in many geographic areas .",
+      "in a 2018 2018soft market , 2019 2019 premium rates flatten or decrease , along with commission revenues , due to increased competition for market share among insurance carriers or increased underwriting capacity .",
+      "changes in premiums have a direct and potentially material impact on the insurance brokerage industry , as commission revenues are generally based on a percentage of the premiums paid by insureds .",
+      "prices fell throughout 2007 , with the greatest declines seen in large and middle-market accounts .",
+      "prices continued to decline during 2008 , although the rate of decline slowed toward the end of the year .",
+      "in our reinsurance brokerage product line , pricing overall during 2009 was also down , although during a portion of the year it was flat to up slightly .",
+      "additionally , beginning in late 2008 and continuing throughout 2009 , we faced difficult conditions as a result of unprecedented disruptions in the global economy , the repricing of credit risk and the deterioration of the financial markets .",
+      "continued volatility and further deterioration in the credit markets have reduced our customers 2019 demand for our retail brokerage and reinsurance brokerage products , which have negatively hurt our operational results .",
+      "in addition , overall capacity in the industry could decrease if a significant insurer either fails or withdraws from writing insurance coverages that we offer our clients .",
+      "this failure could reduce our revenues and profitability , since we would no longer have access to certain lines and types of insurance .",
+      "risk and insurance brokerage services generated approximately 83% ( 83 % ) of our consolidated total revenues in 2009 .",
+      "revenues are generated primarily through fees paid by clients , commissions and fees paid by insurance and reinsurance companies , and investment income on funds held on behalf of clients .",
+      "our revenues vary from quarter to quarter throughout the year as a result of the timing of our clients 2019 policy renewals , the net effect of new and lost business , the timing of services provided to our clients , and the income we earn on investments , which is heavily influenced by short-term interest rates .",
+      "we operate in a highly competitive industry and compete with many retail insurance brokerage and agency firms , as well as with individual brokers , agents , and direct writers of insurance coverage .",
+      "specifically , we address the highly specialized product development and risk management needs of commercial enterprises , professional groups , insurance companies , governments , healthcare providers , and non-profit groups , among others ; provide affinity products for professional liability , life , disability income , and personal lines for individuals , associations , and businesses ; provide reinsurance services to insurance and reinsurance companies and other risk assumption entities by acting as brokers or intermediaries on all classes of reinsurance ; provide investment banking products and services , including mergers and acquisitions and other financial advisory services , capital raising , contingent capital financing , insurance-linked securitizations and derivative applications ; provide managing underwriting to independent agents and brokers as well as corporate clients ; provide actuarial , loss prevention , and administrative services to businesses and consumers ; and manage captive insurance companies .",
+      "in november 2008 we expanded our product offerings through the merger with benfield , a leading independent reinsurance intermediary .",
+      "benfield products have been integrated with our existing reinsurance products in 2009 .",
+      "in february 2009 , we completed the sale of the u.s .",
+      "operations of cananwill , our premium finance business .",
+      "in june and july of 2009 , we entered into agreements with third parties with respect to our ."
+    ],
+    "table": [
+      [
+        "years ended december 31,",
+        "2009",
+        "2008",
+        "2007"
+      ],
+      [
+        "segment revenue",
+        "$ 6305",
+        "$ 6197",
+        "$ 5918"
+      ],
+      [
+        "segment operating income",
+        "900",
+        "846",
+        "954"
+      ],
+      [
+        "segment operating income margin",
+        "14.3% ( 14.3 % )",
+        "13.7% ( 13.7 % )",
+        "16.1% ( 16.1 % )"
+      ]
+    ],
+    "questions": [
+      "what was the total of risk and insurance brokerage services segment revenue in 2009?",
+      "and what was that in 2008?",
+      "what was, then, the change over the year?",
+      "and how much does this change represent in relation to the 2008 total, in percentage?"
+    ]
+  }
+}

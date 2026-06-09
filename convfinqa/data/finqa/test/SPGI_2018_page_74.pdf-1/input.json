@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "SPGI/2018/page_74.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "72 s&p global 2018 annual report ."
+    ],
+    "post_text": [
+      "for securities that are quoted in active markets , the trustee/ custodian determines fair value by applying securities 2019 prices obtained from its pricing vendors .",
+      "for commingled funds that are not actively traded , the trustee applies pricing information provided by investment management firms to the unit quantities of such funds .",
+      "investment management firms employ their own pricing vendors to value the securities underlying each commingled fund .",
+      "underlying securities that are not actively traded derive their prices from investment managers , which in turn , employ vendors that use pricing models ( e.g. , discounted cash flow , comparables ) .",
+      "the domestic defined benefit plans have no investment in our stock , except through the s&p 500 commingled trust index fund .",
+      "the trustee obtains estimated prices from vendors for securities that are not easily quotable and they are categorized accordingly as level 3 .",
+      "the following table details further information on our plan assets where we have used significant unobservable inputs ( level 3 ) : pension trusts 2019 asset allocations there are two pension trusts , one in the u.s .",
+      "and one in the u.k .",
+      "2022 the u.s .",
+      "pension trust had assets of $ 1572 million and $ 1739 million as of december 31 , 2018 and 2017 respectively , and the target allocations in 2018 include 75% ( 75 % ) fixed income , 16% ( 16 % ) domestic equities and 9% ( 9 % ) international equities .",
+      "2022 the u.k .",
+      "pension trust had assets of $ 415 million and $ 480 million as of december 31 , 2018 and 2017 , respectively , and the target allocations in 2018 include 40% ( 40 % ) fixed income , 30% ( 30 % ) diversified growth funds , 20% ( 20 % ) equities and 10% ( 10 % ) real estate .",
+      "the pension assets are invested with the goal of producing a combination of capital growth , income and a liability hedge .",
+      "the mix of assets is established after consideration of the long- term performance and risk characteristics of asset classes .",
+      "investments are selected based on their potential to enhance returns , preserve capital and reduce overall volatility .",
+      "holdings are diversified within each asset class .",
+      "the portfolios employ a mix of index and actively managed equity strategies by market capitalization , style , geographic regions and economic sectors .",
+      "the fixed income strategies include u.s .",
+      "long duration securities , opportunistic fixed income securities and u.k .",
+      "debt instruments .",
+      "the short-term portfolio , whose primary goal is capital preservation for liquidity purposes , is composed of government and government-agency securities , uninvested cash , receivables and payables .",
+      "the portfolios do not employ any financial leverage .",
+      "u.s .",
+      "defined contribution plan assets of the defined contribution plan in the u.s .",
+      "consist primarily of investment options , which include actively managed equity , indexed equity , actively managed equity/bond funds , target date funds , s&p global inc .",
+      "common stock , stable value and money market strategies .",
+      "there is also a self-directed mutual fund investment option .",
+      "the plan purchased 193051 shares and sold 205798 shares of s&p global inc .",
+      "common stock in 2018 and purchased 228248 shares and sold 297750 shares of s&p global inc .",
+      "common stock in 2017 .",
+      "the plan held approximately 1.5 million shares of s&p global inc .",
+      "common stock as of december 31 , 2018 and 2017 , with market values of $ 251 million and $ 255 million , respectively .",
+      "the plan received dividends on s&p global inc .",
+      "common stock of $ 3 million during both the years ended december 31 , 2018 and december 31 , 2017 .",
+      "8 .",
+      "stock-based compensation we issue stock-based incentive awards to our eligible employees and directors under the 2002 employee stock incentive plan and a director deferred stock ownership plan .",
+      "2022 2002 employee stock incentive plan ( the 201c2002 plan 201d ) 2013 the 2002 plan permits the granting of nonqualified stock options , stock appreciation rights , performance stock , restricted stock and other stock-based awards .",
+      "in 2018 , we made a one-time issuance of incentive stock options under the 2002 plan to replace kensho employees 2019 stock options that were assumed in connection with our acquisition of kensho in april of 2018 .",
+      "2022 director deferred stock ownership plan 2013 under this plan , common stock reserved may be credited to deferred stock accounts for eligible directors .",
+      "in general , the plan requires that 50% ( 50 % ) of eligible directors 2019 annual compensation plus dividend equivalents be credited to deferred stock accounts .",
+      "each director may also elect to defer all or a portion of the remaining compensation and have an equivalent number of shares credited to the deferred stock account .",
+      "recipients under this plan are not required to provide consideration to us other than rendering service .",
+      "shares will be delivered as of the date a recipient ceases to be a member of the board of directors or within five years thereafter , if so elected .",
+      "the plan will remain in effect until terminated by the board of directors or until no shares of stock remain available under the plan. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "level 3"
+      ],
+      [
+        "balance as of december 31 2017",
+        "$ 39"
+      ],
+      [
+        "purchases",
+        "2014"
+      ],
+      [
+        "distributions",
+        "-2 ( 2 )"
+      ],
+      [
+        "gain ( loss )",
+        "2"
+      ],
+      [
+        "balance as of december 31 2018",
+        "$ 39"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the pension trust assets for 2017 to 2018"
+    ]
+  }
+}

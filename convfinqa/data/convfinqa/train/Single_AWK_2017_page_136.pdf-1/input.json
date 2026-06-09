@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "Single_AWK/2017/page_136.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "regulatory balancing accounts accumulate differences between revenues recognized and authorized revenue requirements until they are collected from customers or are refunded .",
+      "regulatory balancing accounts include low income programs and purchased power and water accounts .",
+      "debt expense is amortized over the lives of the respective issues .",
+      "call premiums on the redemption of long- term debt , as well as unamortized debt expense , are deferred and amortized to the extent they will be recovered through future service rates .",
+      "as a result of american water capital corp . 2019s prepayment of the 5.62% ( 5.62 % ) series c senior notes due december 21 , 2018 ( 201cseries c senior notes 201d ) and 5.77% ( 5.77 % ) series d senior notes due december 21 , 2021 ( 201cseries d senior notes 201d ) and payment of a make-whole premium amount to the holders thereof of $ 34 million , the company recorded a $ 6 million charge resulting from the early extinguishment of debt at the parent company .",
+      "substantially all of the early debt extinguishment costs allocable to the company 2019s utility subsidiaries were recorded as regulatory assets that the company believes are probable of recovery in future rates .",
+      "approximately $ 1 million of the early debt extinguishment costs allocable to the company 2019s utility subsidiaries was amortized in 2017 .",
+      "purchase premium recoverable through rates is primarily the recovery of the acquisition premiums related to an asset acquisition by the company 2019s california utility subsidiary during 2002 , and acquisitions in 2007 by the company 2019s new jersey utility subsidiary .",
+      "as authorized for recovery by the california and new jersey pucs , these costs are being amortized to depreciation and amortization in the consolidated statements of operations through november 2048 .",
+      "tank painting costs are generally deferred and amortized to operations and maintenance expense in the consolidated statements of operations on a straight-line basis over periods ranging from two to fifteen years , as authorized by the regulatory authorities in their determination of rates charged for service .",
+      "other regulatory assets include certain construction costs for treatment facilities , property tax stabilization , employee-related costs , deferred other postretirement benefit expense , business services project expenses , coastal water project costs , rate case expenditures and environmental remediation costs among others .",
+      "these costs are deferred because the amounts are being recovered in rates or are probable of recovery through rates in future periods .",
+      "regulatory liabilities regulatory liabilities generally represent amounts that are probable of being credited or refunded to customers through the rate-making process .",
+      "also , if costs expected to be incurred in the future are currently being recovered through rates , the company records those expected future costs as regulatory liabilities .",
+      "the following table summarizes the composition of regulatory liabilities as of december 31: ."
+    ],
+    "post_text": [
+      "income taxes recovered through rates relate to deferred taxes that will likely be refunded to the company 2019s customers .",
+      "on december 22 , 2017 , the tcja was signed into law , which , among other things , enacted significant and complex changes to the internal revenue code of 1986 , including a reduction in the maximum u.s .",
+      "federal corporate income tax rate from 35% ( 35 % ) to 21% ( 21 % ) as of january 1 , 2018 .",
+      "the tcja created significant ."
+    ],
+    "table": [
+      [
+        "",
+        "2017",
+        "2016"
+      ],
+      [
+        "income taxes recovered through rates",
+        "$ 1242",
+        "$ 2014"
+      ],
+      [
+        "removal costs recovered through rates",
+        "315",
+        "316"
+      ],
+      [
+        "pension and other postretirement benefit balancing accounts",
+        "48",
+        "55"
+      ],
+      [
+        "other",
+        "59",
+        "32"
+      ],
+      [
+        "total regulatory liabilities",
+        "$ 1664",
+        "$ 403"
+      ]
+    ],
+    "questions": [
+      "what is the change in the balance of total regulatory liabilities from 2016 to 2017?",
+      "what is the balance of total regulatory liabilities in 2017?",
+      "what growth rate does this represent?"
+    ]
+  }
+}

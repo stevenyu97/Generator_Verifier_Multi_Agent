@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "Double_AWK/2015/page_141.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "long-term liabilities .",
+      "the value of the company 2019s deferred compensation obligations is based on the market value of the participants 2019 notional investment accounts .",
+      "the notional investments are comprised primarily of mutual funds , which are based on observable market prices .",
+      "mark-to-market derivative asset and liability 2014the company utilizes fixed-to-floating interest-rate swaps , typically designated as fair-value hedges , to achieve a targeted level of variable-rate debt as a percentage of total debt .",
+      "the company also employs derivative financial instruments in the form of variable-to-fixed interest rate swaps , classified as economic hedges , in order to fix the interest cost on some of its variable-rate debt .",
+      "the company uses a calculation of future cash inflows and estimated future outflows , which are discounted , to determine the current fair value .",
+      "additional inputs to the present value calculation include the contract terms , counterparty credit risk , interest rates and market volatility .",
+      "other investments 2014other investments primarily represent money market funds used for active employee benefits .",
+      "the company includes other investments in other current assets .",
+      "note 18 : leases the company has entered into operating leases involving certain facilities and equipment .",
+      "rental expenses under operating leases were $ 21 for 2015 , $ 22 for 2014 and $ 23 for 2013 .",
+      "the operating leases for facilities will expire over the next 25 years and the operating leases for equipment will expire over the next five years .",
+      "certain operating leases have renewal options ranging from one to five years .",
+      "the minimum annual future rental commitment under operating leases that have initial or remaining non- cancelable lease terms over the next five years and thereafter are as follows: ."
+    ],
+    "post_text": [
+      "the company has a series of agreements with various public entities ( the 201cpartners 201d ) to establish certain joint ventures , commonly referred to as 201cpublic-private partnerships . 201d under the public-private partnerships , the company constructed utility plant , financed by the company and the partners constructed utility plant ( connected to the company 2019s property ) , financed by the partners .",
+      "the company agreed to transfer and convey some of its real and personal property to the partners in exchange for an equal principal amount of industrial development bonds ( 201cidbs 201d ) , issued by the partners under a state industrial development bond and commercial development act .",
+      "the company leased back the total facilities , including portions funded by both the company and the partners , under leases for a period of 40 years .",
+      "the leases related to the portion of the facilities funded by the company have required payments from the company to the partners that approximate the payments required by the terms of the idbs from the partners to the company ( as the holder of the idbs ) .",
+      "as the ownership of the portion of the facilities constructed by the company will revert back to the company at the end of the lease , the company has recorded these as capital leases .",
+      "the lease obligation and the receivable for the principal amount of the idbs are presented by the company on a net basis .",
+      "the gross cost of the facilities funded by the company recognized as a capital lease asset was $ 156 and $ 157 as of december 31 , 2015 and 2014 , respectively , which is presented in property , plant and equipment in the accompanying consolidated balance sheets .",
+      "the future payments under the lease obligations are equal to and offset by the payments receivable under the idbs. ."
+    ],
+    "table": [
+      [
+        "year",
+        "amount"
+      ],
+      [
+        "2016",
+        "$ 13"
+      ],
+      [
+        "2017",
+        "12"
+      ],
+      [
+        "2018",
+        "11"
+      ],
+      [
+        "2019",
+        "10"
+      ],
+      [
+        "2020",
+        "8"
+      ],
+      [
+        "thereafter",
+        "74"
+      ]
+    ],
+    "questions": [
+      "from 2014 to 2015, what was the decline in the amortization expense for the operating leases for facility and equipment?",
+      "and from 2015 to 2016, what was that decline?"
+    ]
+  }
+}

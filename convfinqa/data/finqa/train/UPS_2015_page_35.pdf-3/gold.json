@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in percentage total cumulative return on investment for united parcel service inc . compared to the standard & poor 2019s 500 index the for the five year period ending 12/31/2015?",
+      "answer": -0.2006,
+      "answer_raw": "-0.2006",
+      "program": "subtract(160.61, const_100), divide(#0, const_100), subtract(180.67, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

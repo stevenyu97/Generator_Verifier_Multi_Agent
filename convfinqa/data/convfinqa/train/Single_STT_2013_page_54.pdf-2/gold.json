@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the state street corporation value in 2013?",
+      "answer": 198.0,
+      "answer_raw": "198.0",
+      "program": "198"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2008?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change in value of the state street corporation over the years?",
+      "answer": 98.0,
+      "answer_raw": "98.0",
+      "program": "subtract(198, 100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the state street corporation value in 2008?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "how much does that change represent in relation to the 2008 value, in percentage?",
+      "answer": 0.98,
+      "answer_raw": "0.98",
+      "program": "subtract(198, 100), divide(#0, 100)"
+    }
+  ]
+}

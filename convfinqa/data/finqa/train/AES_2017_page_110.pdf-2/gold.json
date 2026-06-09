@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total contractual obligations , commitments and other liabilities as of december 31 , 2017 is composed of fuel obligations?",
+      "answer": 0.12599,
+      "answer_raw": "0.12599",
+      "program": "divide(5859, 46505)"
+    }
+  ]
+}

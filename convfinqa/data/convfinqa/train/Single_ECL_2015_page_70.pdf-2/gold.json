@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of lifo inventories as a percent of consolidated inventories as of december 31, 2015?",
+      "answer": 39.0,
+      "answer_raw": "39.0",
+      "program": "39"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that in 2014?",
+      "answer": 37.0,
+      "answer_raw": "37.0",
+      "program": "37"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the combined percent of lifo inventories as a percent of consolidated inventories for both years?",
+      "answer": 76.0,
+      "answer_raw": "76.0",
+      "program": "add(39, 37)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is the average annual percent for that same period?",
+      "answer": 38.0,
+      "answer_raw": "38.0",
+      "program": "add(39, 37), divide(#0, const_2)"
+    }
+  ]
+}

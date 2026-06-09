@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "ANSS/2012/page_76.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "capitalized software : internally developed computer software costs and costs of product enhancements are capitalized subsequent to the determination of technological feasibility ; such capitalization continues until the product becomes available for commercial release .",
+      "judgment is required in determining when technological feasibility of a product is established .",
+      "the company has determined that technological feasibility is reached after all high-risk development issues have been resolved through coding and testing .",
+      "generally , the time between the establishment of technological feasibility and commercial release of software is minimal , resulting in insignificant or no capitalization of internally developed software costs .",
+      "amortization of capitalized software costs , both for internally developed as well as for purchased software products , is computed on a product-by-product basis over the estimated economic life of the product , which is generally three years .",
+      "amortization is the greater of the amount computed using : ( i ) the ratio of the current year 2019s gross revenue to the total current and anticipated future gross revenue for that product or ( ii ) the straight-line method over the estimated life of the product .",
+      "amortization expense related to capitalized and acquired software costs , including the related trademarks , was $ 40.9 million , $ 33.7 million and $ 32.8 million for the years ended december 31 , 2012 , 2011 and 2010 , respectively .",
+      "the company periodically reviews the carrying value of capitalized software .",
+      "impairments are recognized in the results of operations when the expected future undiscounted operating cash flow derived from the capitalized costs of internally developed software is less than the carrying value .",
+      "no impairment charges have been required to date .",
+      "goodwill and other intangible assets : goodwill represents the excess of the consideration transferred over the fair value of net identifiable assets acquired .",
+      "intangible assets consist of trademarks , customer lists , contract backlog , and acquired software and technology .",
+      "the company tests goodwill for impairment at least annually by performing a qualitative assessment of whether there is sufficient evidence that it is more likely than not that the fair value of each reporting unit exceeds its carrying amount .",
+      "the application of a qualitative assessment requires the company to assess and make judgments regarding a variety of factors which potentially impact the fair value of a reporting unit , including general economic conditions , industry and market-specific conditions , customer behavior , cost factors , the company 2019s financial performance and trends , the company 2019s strategies and business plans , capital requirements , management and personnel issues , and the company 2019s stock price , among others .",
+      "the company then considers the totality of these and other factors , placing more weight on the events and circumstances that are judged to most affect a reporting unit 2019s fair value or the carrying amount of its net assets , to reach a qualitative conclusion regarding whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount .",
+      "if it is determined that it is more likely than not that the fair value of a reporting unit exceeds its carrying value , no further analysis is necessary .",
+      "if it is determined that it is more likely than not the reporting unit's carrying value exceeds its fair value , a quantitative two-step analysis is performed where the fair value of the reporting unit is estimated and the impairment loss , if any , is recorded .",
+      "the company tests indefinite-lived intangible assets for impairment at least annually by comparing the carrying value of the asset to its estimated fair value .",
+      "the company performs its annual goodwill and indefinite-lived intangible assets impairment test on january 1 of each year unless there is an indicator that would require a test during the year .",
+      "the company periodically reviews the carrying value of other intangible assets and will recognize impairments when events or circumstances indicate that such assets may be impaired .",
+      "no impairment charges have been required to date for the company's goodwill and other intangible assets .",
+      "concentrations of credit risk : the company has a concentration of credit risk with respect to revenue and trade receivables due to the use of certain significant channel partners to market and sell the company 2019s products .",
+      "the company performs periodic credit evaluations of its customers 2019 financial condition and generally does not require collateral .",
+      "the following table outlines concentrations of risk with respect to the company 2019s revenue: ."
+    ],
+    "post_text": [
+      "table of contents ."
+    ],
+    "table": [
+      [
+        "( as a % (  % ) of revenue except customer data )",
+        "year ended december 31 , 2012",
+        "year ended december 31 , 2011",
+        "year ended december 31 , 2010"
+      ],
+      [
+        "revenue from channel partners",
+        "26% ( 26 % )",
+        "26% ( 26 % )",
+        "27% ( 27 % )"
+      ],
+      [
+        "largest channel partner",
+        "6% ( 6 % )",
+        "4% ( 4 % )",
+        "4% ( 4 % )"
+      ],
+      [
+        "2ndlargest channel partner",
+        "3% ( 3 % )",
+        "3% ( 3 % )",
+        "3% ( 3 % )"
+      ],
+      [
+        "direct sale customers exceeding 5% ( 5 % ) of revenue",
+        "2014",
+        "2014",
+        "2014"
+      ]
+    ],
+    "questions": [
+      "what is the average amortization expense related to capitalized and acquired software costs , including the related trademarks , from 2010-2012 , in millions ? \\\\n"
+    ]
+  }
+}

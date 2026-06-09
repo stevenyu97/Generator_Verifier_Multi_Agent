@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average operating profit from 2000 to 2003",
+      "answer": 382.66667,
+      "answer_raw": "382.66667",
+      "program": "add(443, 360), add(#0, 345), divide(#1, const_3)"
+    }
+  ]
+}

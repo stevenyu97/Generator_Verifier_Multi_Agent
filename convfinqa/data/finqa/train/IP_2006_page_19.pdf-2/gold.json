@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in industry segment operating profits from 2005 to 2006?",
+      "answer": 0.27867,
+      "answer_raw": "0.27867",
+      "program": "subtract(2074, 1622), divide(#0, 1622)"
+    }
+  ]
+}

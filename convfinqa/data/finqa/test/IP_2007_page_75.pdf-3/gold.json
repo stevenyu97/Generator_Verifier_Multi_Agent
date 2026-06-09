@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at december 31 , 2007 , what was the percent of the total future minimum commitments under existing non-cancelable operat- ing leases for purchase obligations",
+      "answer": 0.72099,
+      "answer_raw": "0.72099",
+      "program": "divide(261, 362)"
+    }
+  ]
+}

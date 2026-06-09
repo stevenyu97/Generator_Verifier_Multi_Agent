@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in total staff between the year ended december 2013 and december 2012?",
+      "answer": 500.0,
+      "answer_raw": "500.0",
+      "program": "subtract(32900, 32400)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the percentage change?",
+      "answer": 0.01543,
+      "answer_raw": "0.01543",
+      "program": "subtract(32900, 32400), divide(#0, 32400)"
+    }
+  ]
+}

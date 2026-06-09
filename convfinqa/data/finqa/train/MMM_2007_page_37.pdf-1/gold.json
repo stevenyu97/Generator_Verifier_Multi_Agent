@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the net income",
+      "answer": 0.06362,
+      "answer_raw": "0.06362",
+      "program": "subtract(4096, 3851), divide(#0, 3851)"
+    }
+  ]
+}

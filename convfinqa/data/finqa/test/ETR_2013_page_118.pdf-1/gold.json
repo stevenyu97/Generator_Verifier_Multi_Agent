@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in annual long-term debt maturities from 2016 to 2017?",
+      "answer": 1.83107,
+      "answer_raw": "1.83107",
+      "program": "subtract(766801, 270852), divide(#0, 270852)"
+    }
+  ]
+}

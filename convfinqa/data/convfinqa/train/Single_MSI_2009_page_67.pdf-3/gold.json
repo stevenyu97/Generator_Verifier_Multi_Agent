@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the product of segment net sales in 2009 by the percent of overall sales represented?",
+      "answer": 2866.68,
+      "answer_raw": "2866.68",
+      "program": "multiply(7963, 36%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the segment net sales in 2007 times the percentage of overall sales?",
+      "answer": 2703.78,
+      "answer_raw": "2703.78",
+      "program": "multiply(7963, 36%), multiply(10014, 27%)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference in products?",
+      "answer": 162.9,
+      "answer_raw": "162.9",
+      "program": "multiply(7963, 36%), multiply(10014, 27%), subtract(#0, #1)"
+    }
+  ]
+}

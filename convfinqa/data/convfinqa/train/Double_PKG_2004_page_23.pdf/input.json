@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "Double_PKG/2004/page_23.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "other expense , net , decreased $ 6.2 million , or 50.0% ( 50.0 % ) , for the year ended december 31 , 2004 compared to the year ended december 31 , 2003 .",
+      "the decrease was primarily due to a reduction in charges on disposal and transfer costs of fixed assets and facility closure costs of $ 3.3 million , reduced legal charges of $ 1.5 million , and a reduction in expenses of $ 1.4 million consisting of individually insignificant items .",
+      "interest expense and income taxes interest expense decreased in 2004 by $ 92.2 million , or 75.7% ( 75.7 % ) , from 2003 .",
+      "this decrease included $ 73.3 million of expenses related to the company 2019s debt refinancing , which was completed in july 2003 .",
+      "the $ 73.3 million of expenses consisted of $ 55.9 million paid in premiums for the tender of the 95 20448% ( 20448 % ) senior subordinated notes , and a $ 17.4 million non-cash charge for the write-off of deferred financing fees related to the 95 20448% ( 20448 % ) notes and pca 2019s original revolving credit facility .",
+      "excluding the $ 73.3 million charge , interest expense was $ 18.9 million lower than in 2003 as a result of lower interest rates attributable to the company 2019s july 2003 refinancing and lower debt levels .",
+      "pca 2019s effective tax rate was 38.0% ( 38.0 % ) for the year ended december 31 , 2004 and 42.3% ( 42.3 % ) for the year ended december 31 , 2003 .",
+      "the higher tax rate in 2003 is due to stable permanent items over lower book income ( loss ) .",
+      "for both years 2004 and 2003 tax rates are higher than the federal statutory rate of 35.0% ( 35.0 % ) due to state income taxes .",
+      "year ended december 31 , 2003 compared to year ended december 31 , 2002 the historical results of operations of pca for the years ended december 31 , 2003 and 2002 are set forth below : for the year ended december 31 , ( in millions ) 2003 2002 change ."
+    ],
+    "post_text": [
+      "net sales net sales decreased by $ 0.4 million , or 0.0% ( 0.0 % ) , for the year ended december 31 , 2003 from the year ended december 31 , 2002 .",
+      "net sales increased due to improved sales volumes compared to 2002 , however , this increase was entirely offset by lower sales prices .",
+      "total corrugated products volume sold increased 2.1% ( 2.1 % ) to 28.1 billion square feet in 2003 compared to 27.5 billion square feet in 2002 .",
+      "on a comparable shipment-per-workday basis , corrugated products sales volume increased 1.7% ( 1.7 % ) in 2003 from 2002 .",
+      "shipments-per-workday is calculated by dividing our total corrugated products volume during the year by the number of workdays within the year .",
+      "the lower percentage increase was due to the fact that 2003 had one more workday ( 252 days ) , those days not falling on a weekend or holiday , than 2002 ( 251 days ) .",
+      "containerboard sales volume to external domestic and export customers decreased 6.7% ( 6.7 % ) to 445000 tons for the year ended december 31 , 2003 from 477000 tons in the comparable period of 2002 .",
+      "income before interest and taxes income before interest and taxes decreased by $ 48.4 million , or 33.3% ( 33.3 % ) , for the year ended december 31 , 2003 compared to 2002 .",
+      "included in income before interest and taxes for the twelve months ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2003",
+        "2002",
+        "change"
+      ],
+      [
+        "net sales",
+        "$ 1735.5",
+        "$ 1735.9",
+        "$ -0.4 ( 0.4 )"
+      ],
+      [
+        "income before interest and taxes",
+        "$ 96.9",
+        "$ 145.3",
+        "$ -48.4 ( 48.4 )"
+      ],
+      [
+        "interest expense net",
+        "-121.8 ( 121.8 )",
+        "-67.7 ( 67.7 )",
+        "-54.1 ( 54.1 )"
+      ],
+      [
+        "income ( loss ) before taxes",
+        "-24.9 ( 24.9 )",
+        "77.6",
+        "-102.5 ( 102.5 )"
+      ],
+      [
+        "( provision ) benefit for income taxes",
+        "10.5",
+        "-29.4 ( 29.4 )",
+        "39.9"
+      ],
+      [
+        "net income ( loss )",
+        "$ -14.4 ( 14.4 )",
+        "$ 48.2",
+        "$ -62.6 ( 62.6 )"
+      ]
+    ],
+    "questions": [
+      "what was the change in the pca 2019s effective tax rate throughout the year of 2004?",
+      "and throughout the precedent year, what was the decline in containerboard sales volume to external domestic and export customers, in tons?"
+    ]
+  }
+}

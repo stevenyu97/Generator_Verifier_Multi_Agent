@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage of the restructuring charges paid to those incurred in 2018",
+      "answer": 0.93561,
+      "answer_raw": "0.93561",
+      "program": "divide(24.7, 26.4)"
+    }
+  ]
+}

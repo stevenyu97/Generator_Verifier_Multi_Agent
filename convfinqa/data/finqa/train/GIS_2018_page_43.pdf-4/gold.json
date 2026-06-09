@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total long-term obligations are due by the fiscal year 2019?",
+      "answer": 0.22875,
+      "answer_raw": "0.22875",
+      "program": "divide(4492.1, 19637.5)"
+    }
+  ]
+}

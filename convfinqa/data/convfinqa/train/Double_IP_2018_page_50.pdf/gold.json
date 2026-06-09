@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total capital expenditures is for the industrial packaging business segment in 2018?",
+      "answer": 0.67494,
+      "answer_raw": "0.67494",
+      "program": "divide(1061, 1572)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the capital expenditures in the industrial packaging business segment in 2018?",
+      "answer": 1061.0,
+      "answer_raw": "1061.0",
+      "program": "1061"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what about in 2017?",
+      "answer": 836.0,
+      "answer_raw": "836.0",
+      "program": "836"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the net change?",
+      "answer": 225.0,
+      "answer_raw": "225.0",
+      "program": "subtract(1061, 836)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what percentage change does this represent?",
+      "answer": 0.26914,
+      "answer_raw": "0.26914",
+      "program": "subtract(1061, 836), divide(#0, 836)"
+    }
+  ]
+}

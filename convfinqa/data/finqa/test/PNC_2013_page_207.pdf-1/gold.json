@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at the end of 2014 , the notional value of derivatives designated as hedging instruments under gaap was what percent of the fair value?",
+      "answer": 30.44323,
+      "answer_raw": "30.44323",
+      "program": "divide(36197, 1189)"
+    }
+  ]
+}

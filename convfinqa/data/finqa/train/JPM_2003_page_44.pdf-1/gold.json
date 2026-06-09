@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the operating revenue in 2002",
+      "answer": 20452.85,
+      "answer_raw": "20452.85",
+      "program": "subtract(const_100, 23%), multiply(205, #0)"
+    }
+  ]
+}

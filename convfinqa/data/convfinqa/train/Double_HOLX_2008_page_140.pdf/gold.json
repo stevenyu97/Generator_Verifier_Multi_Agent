@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the final purchase price of biolucent is for goodwill?",
+      "answer": 0.65301,
+      "answer_raw": "0.65301",
+      "program": "divide(47800, 73200)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the estimated price of hologic common stock used in the biolucent acquisition?",
+      "answer": 27.31201,
+      "answer_raw": "27.31201",
+      "program": "divide(63200, 2314)"
+    }
+  ]
+}

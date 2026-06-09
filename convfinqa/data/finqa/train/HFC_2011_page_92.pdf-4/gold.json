@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for performance share units , without the grants during the year , what would be the balance in shares outstanding at december 31 2011 ( non-vested ) ?",
+      "answer": 420128.0,
+      "answer_raw": "420128.0",
+      "program": "subtract(774788, 354660)"
+    }
+  ]
+}

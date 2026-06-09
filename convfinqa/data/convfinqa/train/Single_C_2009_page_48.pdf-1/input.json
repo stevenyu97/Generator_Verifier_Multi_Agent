@@ -1,0 +1,105 @@
+{
+  "input": {
+    "id": "Single_C/2009/page_48.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "corporate/other corporate/other includes global staff functions ( includes finance , risk , human resources , legal and compliance ) and other corporate expense , global operations and technology ( o&t ) , residual corporate treasury and corporate items .",
+      "at december 31 , 2009 , this segment had approximately $ 230 billion of assets , consisting primarily of the company 2019s liquidity portfolio , including $ 110 billion of cash and cash equivalents. ."
+    ],
+    "post_text": [
+      "2009 vs .",
+      "2008 revenues , net of interest expense declined , primarily due to the pretax loss on debt extinguishment related to the repayment of the $ 20 billion of tarp trust preferred securities and the pretax loss in connection with the exit from the loss-sharing agreement with the u.s .",
+      "government .",
+      "revenues also declined , due to the absence of the 2008 sale of citigroup global services limited recorded in o&t .",
+      "this was partially offset by a pretax gain related to the exchange offers , revenues and higher intersegment eliminations .",
+      "operating expenses increased , primarily due to intersegment eliminations and increases in compensation , partially offset by lower repositioning reserves .",
+      "2008 vs .",
+      "2007 revenues , net of interest expense increased primarily due to the gain in 2007 on the sale of certain corporate-owned assets and higher intersegment eliminations , partially offset by improved treasury hedging activities .",
+      "operating expenses declined , primarily due to lower restructuring charges in 2008 as well as reductions in incentive compensation and benefits expense. ."
+    ],
+    "table": [
+      [
+        "in millions of dollars",
+        "2009",
+        "2008",
+        "2007"
+      ],
+      [
+        "net interest revenue",
+        "$ -1663 ( 1663 )",
+        "$ -2680 ( 2680 )",
+        "$ -2008 ( 2008 )"
+      ],
+      [
+        "non-interest revenue",
+        "-8893 ( 8893 )",
+        "422",
+        "-302 ( 302 )"
+      ],
+      [
+        "total revenues net of interest expense",
+        "$ -10556 ( 10556 )",
+        "$ -2258 ( 2258 )",
+        "$ -2310 ( 2310 )"
+      ],
+      [
+        "total operating expenses",
+        "$ 1420",
+        "$ 510",
+        "$ 1813"
+      ],
+      [
+        "provisions for loan losses and for benefits and claims",
+        "-1 ( 1 )",
+        "1",
+        "-3 ( 3 )"
+      ],
+      [
+        "( loss ) from continuing operations before taxes",
+        "$ -11975 ( 11975 )",
+        "$ -2769 ( 2769 )",
+        "$ -4120 ( 4120 )"
+      ],
+      [
+        "income taxes ( benefits )",
+        "-4369 ( 4369 )",
+        "-587 ( 587 )",
+        "-1446 ( 1446 )"
+      ],
+      [
+        "( loss ) from continuing operations",
+        "$ -7606 ( 7606 )",
+        "$ -2182 ( 2182 )",
+        "$ -2674 ( 2674 )"
+      ],
+      [
+        "income ( loss ) from discontinued operations net of taxes",
+        "-445 ( 445 )",
+        "4002",
+        "708"
+      ],
+      [
+        "net income ( loss ) before attribution of noncontrolling interests",
+        "$ -8051 ( 8051 )",
+        "$ 1820",
+        "$ -1966 ( 1966 )"
+      ],
+      [
+        "net income attributable to noncontrolling interests",
+        "2014",
+        "2014",
+        "2"
+      ],
+      [
+        "net income ( loss )",
+        "$ -8051 ( 8051 )",
+        "$ 1820",
+        "$ -1968 ( 1968 )"
+      ]
+    ],
+    "questions": [
+      "what was the difference in total operating expenses between 2008 and 2009?",
+      "so what was the percentage change during this time?"
+    ]
+  }
+}

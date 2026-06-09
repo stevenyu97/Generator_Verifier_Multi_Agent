@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the cash provided by operating activities of 2008?",
+      "answer": 512.2,
+      "answer_raw": "512.2",
+      "program": "512.2"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and that of 2007?",
+      "answer": 661.3,
+      "answer_raw": "661.3",
+      "program": "661.3"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference between the cash provided by operating activities of 2008 and 2007?",
+      "answer": -149.1,
+      "answer_raw": "-149.1",
+      "program": "subtract(512.2, 661.3)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "how much does that difference represents in relation to the cash provided by operating activities of 2007?",
+      "answer": -0.22546,
+      "answer_raw": "-0.22546",
+      "program": "subtract(512.2, 661.3), divide(#0, 661.3)"
+    }
+  ]
+}

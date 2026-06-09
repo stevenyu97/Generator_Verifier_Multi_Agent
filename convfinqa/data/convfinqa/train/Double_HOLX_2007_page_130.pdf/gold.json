@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if the acquisitions had occurred at the beginning of fiscal 2006, how much would the net income have represented in relation to the net revenue in that year?",
+      "answer": 0.05464,
+      "answer_raw": "0.05464",
+      "program": "divide(28649, 524340)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and considering that net income and the eps, what can be concluded to have been the number of shares outstanding in 2006?",
+      "answer": 52089.09091,
+      "answer_raw": "52089.09091",
+      "program": "divide(28649, 0.55)"
+    }
+  ]
+}

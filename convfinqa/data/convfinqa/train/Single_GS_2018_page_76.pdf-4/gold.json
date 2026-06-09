@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in pre-tax earnings from 2017 to 2018?",
+      "answer": 426.0,
+      "answer_raw": "426.0",
+      "program": "subtract(4211, 3785)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": 0.11255,
+      "answer_raw": "0.11255",
+      "program": "subtract(4211, 3785), divide(#0, 3785)"
+    }
+  ]
+}

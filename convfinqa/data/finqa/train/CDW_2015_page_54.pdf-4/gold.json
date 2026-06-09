@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "operating leases are what percent of total obligations?",
+      "answer": 0.03265,
+      "answer_raw": "0.03265",
+      "program": "divide(143.2, 4386.1)"
+    }
+  ]
+}

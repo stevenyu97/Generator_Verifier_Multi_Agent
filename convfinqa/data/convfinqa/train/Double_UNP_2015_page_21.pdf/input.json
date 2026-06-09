@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "Double_UNP/2015/page_21.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "five-year performance comparison 2013 the following graph provides an indicator of cumulative total shareholder returns for the corporation as compared to the peer group index ( described above ) , the dj trans , and the s&p 500 .",
+      "the graph assumes that $ 100 was invested in the common stock of union pacific corporation and each index on december 31 , 2010 and that all dividends were reinvested .",
+      "the information below is historical in nature and is not necessarily indicative of future performance .",
+      "purchases of equity securities 2013 during 2015 , we repurchased 36921641 shares of our common stock at an average price of $ 99.16 .",
+      "the following table presents common stock repurchases during each month for the fourth quarter of 2015 : period total number of shares purchased [a] average price paid per share total number of shares purchased as part of a publicly announced plan or program [b] maximum number of shares remaining under the plan or program [b] ."
+    ],
+    "post_text": [
+      "[a] total number of shares purchased during the quarter includes approximately 32086 shares delivered or attested to upc by employees to pay stock option exercise prices , satisfy excess tax withholding obligations for stock option exercises or vesting of retention units , and pay withholding obligations for vesting of retention shares .",
+      "[b] effective january 1 , 2014 , our board of directors authorized the repurchase of up to 120 million shares of our common stock by december 31 , 2017 .",
+      "these repurchases may be made on the open market or through other transactions .",
+      "our management has sole discretion with respect to determining the timing and amount of these transactions. ."
+    ],
+    "table": [
+      [
+        "period",
+        "total number of shares purchased [a]",
+        "average price paid per share",
+        "total number of shares purchased as part of a publicly announcedplan or program [b]",
+        "maximum number of shares remaining under the plan or program [b]"
+      ],
+      [
+        "oct . 1 through oct . 31",
+        "3247731",
+        "$ 92.98",
+        "3221153",
+        "56078192"
+      ],
+      [
+        "nov . 1 through nov . 30",
+        "2325865",
+        "86.61",
+        "2322992",
+        "53755200"
+      ],
+      [
+        "dec . 1 through dec . 31",
+        "1105389",
+        "77.63",
+        "1102754",
+        "52652446"
+      ],
+      [
+        "total",
+        "6678985",
+        "$ 88.22",
+        "6646899",
+        "n/a"
+      ]
+    ],
+    "questions": [
+      "what percentage of the total number of shares purchased in november for the 4th quarter ended 12/31/15?",
+      "for the same quarter, what was the percentage of the total number of shares purchased that was attributable to the employees to pay stock option exercise prices, and satisfy excess tax withholding obligations?"
+    ]
+  }
+}

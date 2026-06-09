@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net cash provided by operating activities in 2013?",
+      "answer": 592.9,
+      "answer_raw": "592.9",
+      "program": "subtract(669.5, 76.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the improvement in that from 2013 to 2014?",
+      "answer": 76.6,
+      "answer_raw": "76.6",
+      "program": "76.6"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does this improvement represent in relation to the 2013 net cash?",
+      "answer": 0.1292,
+      "answer_raw": "0.1292",
+      "program": "subtract(669.5, 76.6), divide(76.6, #0)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much is that in percentage?",
+      "answer": 12.91955,
+      "answer_raw": "12.91955",
+      "program": "subtract(669.5, 76.6), divide(76.6, #0), multiply(#1, const_100)"
+    }
+  ]
+}

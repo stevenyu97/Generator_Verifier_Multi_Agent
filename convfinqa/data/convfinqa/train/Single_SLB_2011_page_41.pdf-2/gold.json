@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in research & engineering as a percent of revenue from 2010 to 2011?",
+      "answer": -0.6,
+      "answer_raw": "-0.6",
+      "program": "subtract(2.7, 3.3)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the value of research & engineering as a percent of revenue in 2010?",
+      "answer": 3.3,
+      "answer_raw": "3.3",
+      "program": "3.3"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then does that change represent in relation to this value, in percentage?",
+      "answer": -0.18182,
+      "answer_raw": "-0.18182",
+      "program": "subtract(2.7, 3.3), divide(#0, 3.3)"
+    }
+  ]
+}

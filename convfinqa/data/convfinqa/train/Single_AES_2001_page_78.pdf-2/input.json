@@ -1,0 +1,66 @@
+{
+  "input": {
+    "id": "Single_AES/2001/page_78.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "mw mamonal plant .",
+      "approximately $ 77 million of the purchase price was allocated to goodwill and is being amortized over 32 years .",
+      "the termocandelaria power plant has been included in discontinued operations in the accompanying consolidated financial statements .",
+      "the table below presents supplemental unaudited pro forma operating results as if all of the acquisitions had occurred at the beginning of the periods shown ( in millions , except per share amounts ) .",
+      "no pro forma operating results are provided for 2001 , because the impact would not have been material .",
+      "the pro forma amounts include certain adjustments , primarily for depreciation and amortization based on the allocated purchase price and additional interest expense : year ended december 31 , 2000 ."
+    ],
+    "post_text": [
+      "the pro forma results are based upon assumptions and estimates that the company believes are reasonable .",
+      "the pro forma results do not purport to be indicative of the results that actually would have been obtained had the acquisitions occurred at the beginning of the periods shown , nor are they intended to be a projection of future results .",
+      "3 .",
+      "discontinued operations effective january 1 , 2001 , the company adopted sfas no .",
+      "144 .",
+      "this statement addresses financial accounting and reporting for the impairment or disposal of long-lived assets .",
+      "sfas no .",
+      "144 requires a component of an entity that either has been disposed of or is classified as held for sale to be reported as discontinued operations if certain conditions are met .",
+      "during the year , the company decided to exit certain of its businesses .",
+      "these businesses included power direct , geoutilities , termocandelaria , ib valley and several telecommunications businesses in brazil and the u.s .",
+      "the businesses were either disposed of or abandoned during the year or were classified as held for sale at december 31 , 2001 .",
+      "for those businesses disposed of or abandoned , the company determined that significant adverse changes in legal factors and/or the business climate , such as unfavorable market conditions and low tariffs , negatively affected the value of these assets .",
+      "the company has certain businesses that are held for sale , including termocandelaria .",
+      "the company has approved and committed to a plan to sell these assets , they are available for immediate sale , and a plan has been established to locate a buyer at a reasonable fair market value price .",
+      "the company believes it will sell these assets within one year and it is unlikely that significant changes will be made to the plan to sell .",
+      "at december 31 , 2001 , the assets and liabilities associated with the discontinued operations are segregated on the consolidated balance sheets .",
+      "a majority of the long-lived assets related to discontinued operations are for the termocandelaria competitive supply business located in colombia .",
+      "the revenues associated with the discontinued operations were $ 287 million , $ 74 million and $ 7 million for the years ended december 31 , 2001 , 2000 and 1999 , respectively .",
+      "the pretax losses associated with the discontinued operations were $ 58 million , $ 31 million and $ 4 million for each of the years ended december 31 , 2001 , 2000 and 1999 , respectively .",
+      "the loss on disposal and impairment write-downs for those businesses held for sale , net of tax associated with the discontinued operations , was $ 145 million for the year ended december 31 , 2001. ."
+    ],
+    "table": [
+      [
+        "",
+        "year ended december 31 2000"
+      ],
+      [
+        "revenue",
+        "$ 8137"
+      ],
+      [
+        "income before extraordinary items",
+        "833"
+      ],
+      [
+        "net income",
+        "822"
+      ],
+      [
+        "basic earnings per share",
+        "$ 1.67"
+      ],
+      [
+        "diluted earnings per share",
+        "$ 1.61"
+      ]
+    ],
+    "questions": [
+      "what was the difference is disco losses between 2001 and 2000?",
+      "what is that value in millions?"
+    ]
+  }
+}

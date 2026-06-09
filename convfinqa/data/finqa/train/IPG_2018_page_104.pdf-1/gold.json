@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the total deferred acquisition payments were made in 2019?",
+      "answer": 51.77305,
+      "answer_raw": "51.77305",
+      "program": "divide(65.7, 126.9), multiply(#0, const_100)"
+    }
+  ]
+}

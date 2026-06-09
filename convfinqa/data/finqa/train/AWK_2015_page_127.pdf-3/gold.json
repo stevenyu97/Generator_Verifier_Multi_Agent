@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the return on assets as a percent of the account balance at december 31 , 2015",
+      "answer": 0.08824,
+      "answer_raw": "0.08824",
+      "program": "divide(12, 136)"
+    }
+  ]
+}

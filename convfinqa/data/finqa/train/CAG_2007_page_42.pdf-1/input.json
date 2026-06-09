@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "CAG/2007/page_42.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "consumer foods net sales decreased $ 94 million for the year to $ 6.5 billion .",
+      "sales volume declined by 1% ( 1 % ) in fiscal 2006 , principally due to declines in certain shelf stable brands .",
+      "sales of the company 2019s top thirty brands , which represented approximately 83% ( 83 % ) of total segment sales during fiscal 2006 , were flat as a group , as sales of some of the company 2019s most significant brands , including chef boyardee ae , marie callender 2019s ae , orville redenbacher 2019s ae , slim jim ae , hebrew national ae , kid cuisine ae , reddi-wip ae , vancamp ae , libby 2019s ae , lachoy ae , the max ae , manwich ae , david 2019s ae , ro*tel ae , angela mia ae , and mama rosa ae grew in fiscal 2006 , but were largely offset by sales declines for the year for hunt 2019s ae , wesson ae , act ii ae , snack pack ae , swiss miss ae , pam ae , egg beaters ae , blue bonnet ae , parkay ae , and rosarita ae .",
+      "food and ingredients net sales increased $ 203 million to $ 3.2 billion , primarily reflecting price increases driven by higher input costs for potato , wheat milling , and dehydrated vegetable operations .",
+      "net sales were also impacted , to a lesser degree , by a 4% ( 4 % ) increase in potato products volume compared to the prior year .",
+      "trading and merchandising net sales decreased $ 38 million to $ 1.2 billion .",
+      "the decrease resulted principally from lower grain and edible bean merchandising volume resulting from the divestment or closure of various locations .",
+      "international foods net sales increased $ 27 million to $ 603 million .",
+      "the strengthening of foreign currencies relative to the u.s .",
+      "dollar accounted for $ 24 million of the increase .",
+      "overall volume growth was modest as the 10% ( 10 % ) volume growth from the top six international brands ( orville redenbacher 2019s ae , act ii ae , snack pack ae , chef boyardee ae , hunt 2019s ae , and pam ae ) , which account for 55% ( 55 % ) of total segment sales , was offset by sales declines related to the discontinuance of a number of low margin products .",
+      "gross profit ( net sales less cost of goods sold ) ( $ in millions ) reporting segment fiscal 2006 gross profit fiscal 2005 gross profit % (  % ) increase/ ( decrease ) ."
+    ],
+    "post_text": [
+      "the company 2019s gross profit for fiscal 2006 was $ 2.8 billion , a decrease of $ 11 million from the prior year , as improvements in the foods and ingredients and international foods segments were more than offset by declines in the consumer foods and trading and merchandising segments .",
+      "gross profit includes $ 20 million of costs associated with the company 2019s restructuring plans in fiscal 2006 , and $ 17 million of costs incurred to implement the company 2019s operational efficiency initiatives in fiscal 2005 .",
+      "consumer foods gross profit for fiscal 2006 was $ 1.8 billion , a decrease of $ 48 million from fiscal 2005 , driven principally by a 2% ( 2 % ) decline in sales volumes .",
+      "fiscal 2006 gross profit includes $ 20 million of costs related to the company 2019s restructuring plan , and fiscal 2005 gross profit includes $ 16 million of costs related to implementing the company 2019s operational efficiency initiatives .",
+      "gross profit was negatively impacted by increased costs of fuel and energy , transportation and warehousing , steel , and other packaging materials in both fiscal 2006 and 2005 .",
+      "food and ingredients gross profit for fiscal 2006 was $ 538 million , an increase of $ 26 million over the prior year .",
+      "the gross profit improvement was driven almost entirely by the vegetable processing and dehydration businesses ( including potatoes , garlic , onions , and chili peppers ) as a result of higher volume ( both domestic and export ) , increased value-added sales mix and pricing improvements partially offset by higher raw product and conversion costs. ."
+    ],
+    "table": [
+      [
+        "reporting segment",
+        "fiscal 2006 gross profit",
+        "fiscal 2005 gross profit",
+        "% (  % ) increase/ ( decrease )"
+      ],
+      [
+        "consumer foods",
+        "$ 1842",
+        "$ 1890",
+        "( 3 ) % (  % )"
+      ],
+      [
+        "food and ingredients",
+        "538",
+        "512",
+        "5% ( 5 % )"
+      ],
+      [
+        "trading and merchandising",
+        "278",
+        "282",
+        "( 1 ) % (  % )"
+      ],
+      [
+        "international foods",
+        "165",
+        "150",
+        "10% ( 10 % )"
+      ],
+      [
+        "total",
+        "$ 2823",
+        "$ 2834",
+        "2014% ( 2014 % )"
+      ]
+    ],
+    "questions": [
+      "what percentage of total gross profit was due to food and ingredients in fiscal 2005?"
+    ]
+  }
+}

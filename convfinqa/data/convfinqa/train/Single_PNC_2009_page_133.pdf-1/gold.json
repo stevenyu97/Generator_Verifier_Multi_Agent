@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of commercial mortgage loans sold in 2008 and 2009?",
+      "answer": 8.8,
+      "answer_raw": "8.8",
+      "program": "add(5.7, 3.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the value of commercial mortgage loans sold in 2009 less the prior sum?",
+      "answer": 11.0,
+      "answer_raw": "11.0",
+      "program": "add(5.7, 3.1), subtract(19.8, #0)"
+    }
+  ]
+}

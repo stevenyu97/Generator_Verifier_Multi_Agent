@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of owned sites in the us and mexico?",
+      "answer": 21900.0,
+      "answer_raw": "21900.0",
+      "program": "add(19400, 2500)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and including brazil?",
+      "answer": 23000.0,
+      "answer_raw": "23000.0",
+      "program": "add(19400, 2500), add(#0, 1100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the total amount including india?",
+      "answer": 23200.0,
+      "answer_raw": "23200.0",
+      "program": "add(19400, 2500), add(#0, 1100), add(#1, 200)"
+    }
+  ]
+}

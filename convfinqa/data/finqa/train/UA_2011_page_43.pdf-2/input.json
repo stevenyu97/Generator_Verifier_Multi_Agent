@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "UA/2011/page_43.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "2022 selling costs increased $ 25.0 million to $ 94.6 million in 2010 from $ 69.6 million in 2009 .",
+      "this increase was primarily due to higher personnel and other costs incurred for the continued expansion of our direct to consumer distribution channel and higher selling personnel costs , including increased expenses for our performance incentive plan as compared to the prior year .",
+      "as a percentage of net revenues , selling costs increased to 8.9% ( 8.9 % ) in 2010 from 8.1% ( 8.1 % ) in 2009 primarily due to higher personnel and other costs incurred for the continued expansion of our factory house stores .",
+      "2022 product innovation and supply chain costs increased $ 25.0 million to $ 96.8 million in 2010 from $ 71.8 million in 2009 primarily due to higher personnel costs for the design and sourcing of our expanding apparel , footwear and accessories lines and higher distribution facilities operating and personnel costs as compared to the prior year to support our growth in net revenues .",
+      "in addition , we incurred higher expenses for our performance incentive plan as compared to the prior year .",
+      "as a percentage of net revenues , product innovation and supply chain costs increased to 9.1% ( 9.1 % ) in 2010 from 8.4% ( 8.4 % ) in 2009 primarily due to the items noted above .",
+      "2022 corporate services costs increased $ 24.0 million to $ 98.6 million in 2010 from $ 74.6 million in 2009 .",
+      "this increase was attributable primarily to higher corporate facility costs , information technology initiatives and corporate personnel costs , including increased expenses for our performance incentive plan as compared to the prior year .",
+      "as a percentage of net revenues , corporate services costs increased to 9.3% ( 9.3 % ) in 2010 from 8.7% ( 8.7 % ) in 2009 primarily due to the items noted above .",
+      "income from operations increased $ 27.1 million , or 31.8% ( 31.8 % ) , to $ 112.4 million in 2010 from $ 85.3 million in 2009 .",
+      "income from operations as a percentage of net revenues increased to 10.6% ( 10.6 % ) in 2010 from 10.0% ( 10.0 % ) in 2009 .",
+      "this increase was a result of the items discussed above .",
+      "interest expense , net remained unchanged at $ 2.3 million in 2010 and 2009 .",
+      "other expense , net increased $ 0.7 million to $ 1.2 million in 2010 from $ 0.5 million in 2009 .",
+      "the increase in 2010 was due to higher net losses on the combined foreign currency exchange rate changes on transactions denominated in the euro and canadian dollar and our derivative financial instruments as compared to 2009 .",
+      "provision for income taxes increased $ 4.8 million to $ 40.4 million in 2010 from $ 35.6 million in 2009 .",
+      "our effective tax rate was 37.1% ( 37.1 % ) in 2010 compared to 43.2% ( 43.2 % ) in 2009 , primarily due to tax planning strategies and federal and state tax credits reducing the effective tax rate , partially offset by a valuation allowance recorded against our foreign net operating loss carryforward .",
+      "segment results of operations year ended december 31 , 2011 compared to year ended december 31 , 2010 net revenues by geographic region are summarized below: ."
+    ],
+    "post_text": [
+      "net revenues in our north american operating segment increased $ 385.5 million to $ 1383.3 million in 2011 from $ 997.8 million in 2010 primarily due to the items discussed above in the consolidated results of operations .",
+      "net revenues in other foreign countries increased by $ 23.2 million to $ 89.3 million in 2011 from $ 66.1 million in 2010 primarily due to footwear shipments to our dome licensee , as well as unit sales growth to our distributors in our latin american operating segment. ."
+    ],
+    "table": [
+      [
+        "( in thousands )",
+        "year ended december 31 , 2011",
+        "year ended december 31 , 2010",
+        "year ended december 31 , $ change",
+        "year ended december 31 , % (  % ) change"
+      ],
+      [
+        "north america",
+        "$ 1383346",
+        "$ 997816",
+        "$ 385530",
+        "38.6% ( 38.6 % )"
+      ],
+      [
+        "other foreign countries",
+        "89338",
+        "66111",
+        "23227",
+        "35.1"
+      ],
+      [
+        "total net revenues",
+        "$ 1472684",
+        "$ 1063927",
+        "$ 408757",
+        "38.4% ( 38.4 % )"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the north america to the total revenues"
+    ]
+  }
+}

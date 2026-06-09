@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much does the service cost in 2013 represent in relation to the one in 2012?",
+      "answer": 1.22883,
+      "answer_raw": "1.22883",
+      "program": "divide(682, 555)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the difference between this value and the number one?",
+      "answer": 0.22883,
+      "answer_raw": "0.22883",
+      "program": "divide(682, 555), subtract(#0, const_1)"
+    }
+  ]
+}

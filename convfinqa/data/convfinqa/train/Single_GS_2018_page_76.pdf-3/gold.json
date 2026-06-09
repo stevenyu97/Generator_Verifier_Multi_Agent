@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the portion of net revenues not for investing & lending?",
+      "answer": 86.0,
+      "answer_raw": "86.0",
+      "program": "subtract(const_100, 14)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and as a decimal?",
+      "answer": 0.86,
+      "answer_raw": "0.86",
+      "program": "subtract(const_100, 14), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the net revenues in investing & lending in billions for 2017?",
+      "answer": 7.095,
+      "answer_raw": "7.095",
+      "program": "subtract(const_100, 14), divide(#0, const_100), multiply(#1, 8.25)"
+    }
+  ]
+}

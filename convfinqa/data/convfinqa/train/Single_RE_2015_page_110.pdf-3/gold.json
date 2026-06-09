@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the balance of reinsurance receivables and premium receivables from 2014 to 2015?",
+      "answer": -6619.0,
+      "answer_raw": "-6619.0",
+      "program": "subtract(22878, 29497)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that balance in 2014?",
+      "answer": 29497.0,
+      "answer_raw": "29497.0",
+      "program": "29497"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2014 balance, in percentage?",
+      "answer": -0.2244,
+      "answer_raw": "-0.2244",
+      "program": "subtract(22878, 29497), divide(#0, 29497)"
+    }
+  ]
+}

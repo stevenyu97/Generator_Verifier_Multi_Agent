@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the other corporate special items in addition , what is the variation observed in the other pre-tax corporate special items during 2017 and 2018 , in millions of dollars?",
+      "answer": 30.0,
+      "answer_raw": "30.0",
+      "program": "subtract(30, 0)"
+    }
+  ]
+}

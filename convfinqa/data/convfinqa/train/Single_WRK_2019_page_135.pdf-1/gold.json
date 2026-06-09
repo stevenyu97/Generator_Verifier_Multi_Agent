@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of the number of shares repurchased in 2018 and 2019?",
+      "answer": 5.5,
+      "answer_raw": "5.5",
+      "program": "add(3.4, 2.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the number of repurchases in 2017?",
+      "answer": 1.8,
+      "answer_raw": "1.8",
+      "program": "1.8"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum of those years?",
+      "answer": 7.3,
+      "answer_raw": "7.3",
+      "program": "add(3.4, 2.1), add(#0, 1.8)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the sum of the aggregate value of the repurchases in 2018 and 2019?",
+      "answer": 283.7,
+      "answer_raw": "283.7",
+      "program": "add(3.4, 2.1), add(#0, 1.8), add(88.6, 195.1)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the sum including the value in 2017?",
+      "answer": 376.7,
+      "answer_raw": "376.7",
+      "program": "add(3.4, 2.1), add(#0, 1.8), add(88.6, 195.1), add(#2, 93.0)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the ratio of total value over the total number of shares?",
+      "answer": 51.60274,
+      "answer_raw": "51.60274",
+      "program": "add(3.4, 2.1), add(#0, 1.8), add(88.6, 195.1), add(#2, 93.0), divide(#3, #1)"
+    }
+  ]
+}

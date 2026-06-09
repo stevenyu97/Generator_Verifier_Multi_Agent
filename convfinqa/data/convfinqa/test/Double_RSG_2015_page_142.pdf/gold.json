@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the 2016 hedged gallons to 2017?",
+      "answer": 2.25,
+      "answer_raw": "2.25",
+      "program": "divide(27000000, 12000000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the change in the aggregate fair values of outstanding fuel hedge between 2014 and 2015?",
+      "answer": 3.4,
+      "answer_raw": "3.4",
+      "program": "subtract(37.8, 34.4)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the percentage change during this time?",
+      "answer": 0.09884,
+      "answer_raw": "0.09884",
+      "program": "subtract(37.8, 34.4), divide(#0, 34.4)"
+    }
+  ]
+}

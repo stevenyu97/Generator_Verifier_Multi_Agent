@@ -1,0 +1,83 @@
+{
+  "input": {
+    "id": "Double_C/2010/page_223.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "included in the corporate and consumer loan tables above are purchased distressed loans , which are loans that have evidenced significant credit deterioration subsequent to origination but prior to acquisition by citigroup .",
+      "in accordance with sop 03-3 , the difference between the total expected cash flows for these loans and the initial recorded investments is recognized in income over the life of the loans using a level yield .",
+      "accordingly , these loans have been excluded from the impaired loan information presented above .",
+      "in addition , per sop 03-3 , subsequent decreases to the expected cash flows for a purchased distressed loan require a build of an allowance so the loan retains its level yield .",
+      "however , increases in the expected cash flows are first recognized as a reduction of any previously established allowance and then recognized as income prospectively over the remaining life of the loan by increasing the loan 2019s level yield .",
+      "where the expected cash flows cannot be reliably estimated , the purchased distressed loan is accounted for under the cost recovery method .",
+      "the carrying amount of the company 2019s purchased distressed loan portfolio at december 31 , 2010 was $ 392 million , net of an allowance of $ 77 million as of december 31 , 2010 .",
+      "the changes in the accretable yield , related allowance and carrying amount net of accretable yield for 2010 are as follows : in millions of dollars accretable carrying amount of loan receivable allowance ."
+    ],
+    "post_text": [
+      "( 1 ) the balance reported in the column 201ccarrying amount of loan receivable 201d consists of $ 130 million of purchased loans accounted for under the level-yield method and $ 0 under the cost-recovery method .",
+      "these balances represent the fair value of these loans at their acquisition date .",
+      "the related total expected cash flows for the level-yield loans were $ 131 million at their acquisition dates .",
+      "( 2 ) the balance reported in the column 201ccarrying amount of loan receivable 201d consists of $ 315 million of loans accounted for under the level-yield method and $ 154 million accounted for under the cost-recovery method. ."
+    ],
+    "table": [
+      [
+        "in millions of dollars",
+        "accretable yield",
+        "carrying amount of loan receivable",
+        "allowance"
+      ],
+      [
+        "beginning balance",
+        "$ 27",
+        "$ 920",
+        "$ 95"
+      ],
+      [
+        "purchases ( 1 )",
+        "1",
+        "130",
+        "2014"
+      ],
+      [
+        "disposals/payments received",
+        "-11 ( 11 )",
+        "-594 ( 594 )",
+        "2014"
+      ],
+      [
+        "accretion",
+        "-44 ( 44 )",
+        "44",
+        "2014"
+      ],
+      [
+        "builds ( reductions ) to the allowance",
+        "128",
+        "2014",
+        "-18 ( 18 )"
+      ],
+      [
+        "increase to expected cash flows",
+        "-2 ( 2 )",
+        "19",
+        "2014"
+      ],
+      [
+        "fx/other",
+        "17",
+        "-50 ( 50 )",
+        "2014"
+      ],
+      [
+        "balance at december 31 2010 ( 2 )",
+        "$ 116",
+        "$ 469",
+        "$ 77"
+      ]
+    ],
+    "questions": [
+      "in the year of 2010, what percentage did the net allowance represent in relation to the carrying amount of the company 2019s purchased distressed loan portfolio?",
+      "and what was the combined total of this net allowance and the carrying amount?",
+      "what percentage did this total represent in relation to the carrying amount?"
+    ]
+  }
+}

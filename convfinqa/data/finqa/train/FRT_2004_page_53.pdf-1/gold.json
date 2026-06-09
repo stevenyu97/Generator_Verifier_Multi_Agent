@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentual decrease in the cash and cash equivalents during this period?",
+      "answer": 0.12849,
+      "answer_raw": "0.12849",
+      "program": "divide(4493, 34968)"
+    }
+  ]
+}

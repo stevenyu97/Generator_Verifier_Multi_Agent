@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the pro-forma net loss in 2005?",
+      "answer": 186724.0,
+      "answer_raw": "186724.0",
+      "program": "186724"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and converted to the hundred millions?",
+      "answer": 186724000.0,
+      "answer_raw": "186724000.0",
+      "program": "multiply(186724, const_1000)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the basic and diluted net loss per share pro-forma?",
+      "answer": 0.62,
+      "answer_raw": "0.62",
+      "program": "0.62"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total number of outstanding shares as of december 31, 2005 according to pro-forma income?",
+      "answer": 301167741.93548,
+      "answer_raw": "301167741.93548",
+      "program": "multiply(186724, const_1000), divide(#0, 0.62)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and converted to the hundreds?",
+      "answer": 301.16774,
+      "answer_raw": "301.16774",
+      "program": "multiply(186724, const_1000), divide(#0, 0.62), divide(#1, const_1000000)"
+    }
+  ]
+}

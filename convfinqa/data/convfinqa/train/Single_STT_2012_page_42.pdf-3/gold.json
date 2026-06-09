@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the state street corporation's cumulative total shareholder return on common stock from 2008 to 2009?",
+      "answer": 6.0,
+      "answer_raw": "6.0",
+      "program": "subtract(55, 49)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how much does that change represent, in percentage, in relation to the state street corporation's cumulative total shareholder return on common stock of 2008?",
+      "answer": 0.12245,
+      "answer_raw": "0.12245",
+      "program": "subtract(55, 49), divide(#0, 49)"
+    }
+  ]
+}

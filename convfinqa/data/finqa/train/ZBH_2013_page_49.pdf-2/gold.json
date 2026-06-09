@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in share-based compensation expense between 2012 and 2013?",
+      "answer": -0.14323,
+      "answer_raw": "-0.14323",
+      "program": "subtract(32.9, 38.4), divide(#0, 38.4)"
+    }
+  ]
+}

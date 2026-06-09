@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the rate of return of an investment in cadence design systems from the end of the year in 2015 to the end of the year in 2016?",
+      "answer": 0.10516,
+      "answer_raw": "0.10516",
+      "program": "subtract(200.10, 181.06), divide(#0, 181.06)"
+    }
+  ]
+}

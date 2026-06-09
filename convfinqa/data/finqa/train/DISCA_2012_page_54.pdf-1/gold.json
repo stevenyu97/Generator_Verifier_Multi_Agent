@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the 5 year average total return for the a and c series of stock?\\\\n\\\\n\\\\n",
+      "answer": 346.37,
+      "answer_raw": "346.37",
+      "program": "add(327.11, 365.63), divide(#0, const_2)"
+    }
+  ]
+}

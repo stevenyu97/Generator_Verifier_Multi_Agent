@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the two year average for net interest income , in millions?",
+      "answer": 9170.0,
+      "answer_raw": "9170.0",
+      "program": "add(9640, 8700), divide(#0, 2)"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "input": {
+    "id": "JPM/2008/page_86.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis 84 jpmorgan chase & co .",
+      "/ 2008 annual report tier 1 capital was $ 136.1 billion at december 31 , 2008 , compared with $ 88.7 billion at december 31 , 2007 , an increase of $ 47.4 billion .",
+      "the following table presents the changes in tier 1 capital for the year ended december 31 , 2008. ."
+    ],
+    "post_text": [
+      "additional information regarding the firm 2019s capital ratios and the federal regulatory capital standards to which it is subject , and the capital ratios for the firm 2019s significant banking subsidiaries at december 31 , 2008 and 2007 , are presented in note 30 on pages 212 2013213 of this annual report .",
+      "capital purchase program pursuant to the capital purchase program , on october 28 , 2008 , the firm issued to the u.s .",
+      "treasury , for total proceeds of $ 25.0 billion , ( i ) 2.5 million shares of series k preferred stock , and ( ii ) a warrant to pur- chase up to 88401697 shares of the firm 2019s common stock , at an exer- cise price of $ 42.42 per share , subject to certain antidilution and other adjustments .",
+      "the series k preferred stock qualifies as tier 1 capital .",
+      "the series k preferred stock bears cumulative dividends at a rate of 5% ( 5 % ) per year for the first five years and 9% ( 9 % ) per year thereafter .",
+      "the series k preferred stock ranks equally with the firm 2019s existing 6.15% ( 6.15 % ) cumulative preferred stock , series e ; 5.72% ( 5.72 % ) cumulative preferred stock , series f ; 5.49% ( 5.49 % ) cumulative preferred stock , series g ; fixed- to-floating rate noncumulative perpetual preferred stock , series i ; and 8.63% ( 8.63 % ) noncumulative perpetual preferred stock , series j , in terms of dividend payments and upon liquidation of the firm .",
+      "any accrued and unpaid dividends on the series k preferred stock must be fully paid before dividends may be declared or paid on stock ranking junior or equally with the series k preferred stock .",
+      "pursuant to the capital purchase program , until october 28 , 2011 , the u.s .",
+      "treasury 2019s consent is required for any increase in dividends on the firm 2019s common stock from the amount of the last quarterly stock div- idend declared by the firm prior to october 14 , 2008 , unless the series k preferred stock is redeemed in whole before then , or the u.s .",
+      "treasury has transferred all of the series k preferred stock it owns to third parties .",
+      "the firm may not repurchase or redeem any common stock or other equity securities of the firm , or any trust preferred securities issued by the firm or any of its affiliates , without the prior consent of the u.s .",
+      "treasury ( other than ( i ) repurchases of the series k preferred stock and ( ii ) repurchases of junior preferred shares or common stock in connection with any employee benefit plan in the ordinary course of business consistent with past practice ) .",
+      "basel ii the minimum risk-based capital requirements adopted by the u.s .",
+      "federal banking agencies follow the capital accord of the basel committee on banking supervision .",
+      "in 2004 , the basel committee published a revision to the accord ( 201cbasel ii 201d ) .",
+      "the goal of the new basel ii framework is to provide more risk-sensitive regulatory capital calculations and promote enhanced risk management practices among large , internationally active banking organizations .",
+      "u.s .",
+      "bank- ing regulators published a final basel ii rule in december 2007 , which will require jpmorgan chase to implement basel ii at the holding company level , as well as at certain of its key u.s .",
+      "bank subsidiaries .",
+      "prior to full implementation of the new basel ii framework , jpmorgan chase will be required to complete a qualification period of four consecutive quarters during which it will need to demonstrate that it meets the requirements of the new rule to the satisfaction of its primary u.s .",
+      "banking regulators .",
+      "the u.s .",
+      "implementation timetable consists of the qualification period , starting any time between april 1 , 2008 , and april 1 , 2010 , followed by a minimum transition period of three years .",
+      "during the transition period , basel ii risk-based capital requirements cannot fall below certain floors based on current ( 201cbasel l 201d ) regulations .",
+      "jpmorgan chase expects to be in compliance with all relevant basel ii rules within the estab- lished timelines .",
+      "in addition , the firm has adopted , and will continue to adopt , based upon various established timelines , basel ii in certain non-u.s .",
+      "jurisdictions , as required .",
+      "broker-dealer regulatory capital jpmorgan chase 2019s principal u.s .",
+      "broker-dealer subsidiaries are j.p .",
+      "morgan securities inc .",
+      "( 201cjpmorgan securities 201d ) and j.p .",
+      "morgan clearing corp .",
+      "( formerly known as bear stearns securities corp. ) .",
+      "jpmorgan securities and j.p .",
+      "morgan clearing corp .",
+      "are each subject to rule 15c3-1 under the securities exchange act of 1934 ( 201cnet capital rule 201d ) .",
+      "jpmorgan securities and j.p .",
+      "morgan clearing corp .",
+      "are also registered as futures commission merchants and subject to rule 1.17 under the commodity futures trading commission ( 201ccftc 201d ) .",
+      "jpmorgan securities and j.p .",
+      "morgan clearing corp .",
+      "have elected to compute their minimum net capital requirements in accordance with the 201calternative net capital requirement 201d of the net capital rule .",
+      "at december 31 , 2008 , jpmorgan securities 2019 net capital , as defined by the net capital rule , of $ 7.2 billion exceeded the minimum require- ment by $ 6.6 billion .",
+      "in addition to its net capital requirements , jpmorgan securities is required to hold tentative net capital in excess jpmorgan chase & co .",
+      "/ 2008 annual report84 ."
+    ],
+    "table": [
+      [
+        "tier 1capital december 31 2007 ( in millions )",
+        "$ 88746"
+      ],
+      [
+        "net income",
+        "5605"
+      ],
+      [
+        "issuance of cumulative perpetual preferred stock tou.s . treasury",
+        "23750"
+      ],
+      [
+        "warrant issued to u.s . treasury in connection withissuance of preferred stock",
+        "1250"
+      ],
+      [
+        "issuance of noncumulative perpetual preferred stock",
+        "7800"
+      ],
+      [
+        "issuance of preferred stock 2013 conversion of bear stearnspreferred stock",
+        "352"
+      ],
+      [
+        "net issuance of common stock",
+        "11485"
+      ],
+      [
+        "net issuance of common stock under employee stock-basedcompensation plans",
+        "3317"
+      ],
+      [
+        "net issuance of common stock in connection with thebear stearns merger",
+        "1198"
+      ],
+      [
+        "dividends declared",
+        "-6307 ( 6307 )"
+      ],
+      [
+        "net issuance of qualifying trust preferred capital debtsecurities",
+        "2619"
+      ],
+      [
+        "dva on structured debt and derivative liabilities",
+        "-1475 ( 1475 )"
+      ],
+      [
+        "goodwill and other nonqualifying intangibles ( net ofdeferred tax liabilities )",
+        "-1357 ( 1357 )"
+      ],
+      [
+        "other",
+        "-879 ( 879 )"
+      ],
+      [
+        "increase in tier 1 capital",
+        "47358"
+      ],
+      [
+        "tier 1 capital december 31 2008",
+        "$ 136104"
+      ]
+    ],
+    "questions": [
+      "what percentage of the increase in tier 1 capital was due to issuance of cumulative perpetual preferred stock to u.s . treasury?"
+    ]
+  }
+}

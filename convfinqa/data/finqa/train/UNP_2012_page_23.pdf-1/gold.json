@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the planned 2013 capital investments , what percentage are these of actual 2012 free cash flow?",
+      "answer": 2.60492,
+      "answer_raw": "2.60492",
+      "program": "multiply(3.6, const_1000), divide(#0, 1382)"
+    }
+  ]
+}

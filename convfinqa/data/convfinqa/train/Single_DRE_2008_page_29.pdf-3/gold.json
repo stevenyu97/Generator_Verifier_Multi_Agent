@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total recurring capital expenditure in 2007?",
+      "answer": 85936.0,
+      "answer_raw": "85936.0",
+      "program": "85936"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2006?",
+      "answer": 83000.0,
+      "answer_raw": "83000.0",
+      "program": "83000"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between these two years?",
+      "answer": 2936.0,
+      "answer_raw": "2936.0",
+      "program": "subtract(85936, 83000)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and as a percentage of the original value?",
+      "answer": 0.03537,
+      "answer_raw": "0.03537",
+      "program": "subtract(85936, 83000), divide(#0, 83000)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and converted from a decimal into a percentage?",
+      "answer": 3.53735,
+      "answer_raw": "3.53735",
+      "program": "subtract(85936, 83000), divide(#0, 83000), multiply(#1, const_100)"
+    }
+  ]
+}

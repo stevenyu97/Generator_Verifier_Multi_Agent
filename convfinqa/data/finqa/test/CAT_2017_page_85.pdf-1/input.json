@@ -1,0 +1,89 @@
+{
+  "input": {
+    "id": "CAT/2017/page_85.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "64 | 2017 form 10-k notes to consolidated financial statements 1 .",
+      "operations and summary of significant accounting policies a .",
+      "nature of operations information in our financial statements and related commentary are presented in the following categories : machinery , energy & transportation ( me&t ) 2013 represents the aggregate total of construction industries , resource industries , energy & transportation and all other operating segments and related corporate items and eliminations .",
+      "financial products 2013 primarily includes the company 2019s financial products segment .",
+      "this category includes caterpillar financial services corporation ( cat financial ) , caterpillar insurance holdings inc .",
+      "( insurance services ) and their respective subsidiaries .",
+      "our products are sold primarily under the brands 201ccaterpillar , 201d 201ccat , 201d design versions of 201ccat 201d and 201ccaterpillar , 201d 201cemd , 201d 201cfg wilson , 201d 201cmak , 201d 201cmwm , 201d 201cperkins , 201d 201cprogress rail , 201d 201csem 201d and 201csolar turbines 201d .",
+      "we conduct operations in our machinery , energy & transportation lines of business under highly competitive conditions , including intense price competition .",
+      "we place great emphasis on the high quality and performance of our products and our dealers 2019 service support .",
+      "although no one competitor is believed to produce all of the same types of equipment that we do , there are numerous companies , large and small , which compete with us in the sale of each of our products .",
+      "our machines are distributed principally through a worldwide organization of dealers ( dealer network ) , 48 located in the united states and 123 located outside the united states , serving 192 countries .",
+      "reciprocating engines are sold principally through the dealer network and to other manufacturers for use in products .",
+      "some of the reciprocating engines manufactured by our subsidiary perkins engines company limited , are also sold through its worldwide network of 93 distributors covering 182 countries .",
+      "the fg wilson branded electric power generation systems primarily manufactured by our subsidiary caterpillar northern ireland limited are sold through its worldwide network of 154 distributors covering 131 countries .",
+      "some of the large , medium speed reciprocating engines are also sold a0 under the mak brand through a worldwide network of 20 distributors covering 130 countries .",
+      "our dealers do not deal exclusively with our products ; however , in most cases sales and servicing of our products are the dealers 2019 principal business .",
+      "some products , primarily turbines and locomotives , are sold directly to end customers through sales forces employed by the company .",
+      "at times , these employees are assisted by independent sales representatives .",
+      "the financial products line of business also conducts operations under highly competitive conditions .",
+      "financing for users of caterpillar products is available through a variety of competitive sources , principally commercial banks and finance and leasing companies .",
+      "we offer various financing plans designed to increase the opportunity for sales of our products and generate financing income for our company .",
+      "a significant portion of financial products activity is conducted in north america , with additional offices in latin america , asia/pacific , europe , africa and middle east .",
+      "b .",
+      "basis of presentation the consolidated financial statements include the accounts of caterpillar a0 inc .",
+      "and its subsidiaries where we have a controlling financial interest .",
+      "investments in companies where our ownership exceeds 20 percent and we do not have a controlling interest or where the ownership is less than 20 percent and for which we have a significant influence are accounted for by the equity method .",
+      "see note 9 for further discussion .",
+      "we consolidate all variable interest entities ( vies ) where caterpillar inc .",
+      "is the primary beneficiary .",
+      "for vies , we assess whether we are the primary beneficiary as prescribed by the accounting guidance on the consolidation of vies .",
+      "the primary beneficiary of a vie is the party that has both the power to direct the activities that most significantly impact the entity 2019s economic performance and the obligation to absorb losses or the right to receive benefits that could potentially be significant to the vie .",
+      "see note 21 for further discussion on a consolidated vie .",
+      "we have affiliates , suppliers and dealers that are vies of which we are not the primary beneficiary .",
+      "although we have provided financial support , we do not have the power to direct the activities that most significantly impact the economic performance of each entity .",
+      "our maximum exposure to loss from vies for which we are not the primary beneficiary was as follows: ."
+    ],
+    "post_text": [
+      "in addition , cat financial has end-user customers that are vies of which we are not the primary beneficiary .",
+      "although we have provided financial support to these entities and therefore have a variable interest , we do not have the power to direct the activities that most significantly impact their economic performance .",
+      "our maximum exposure to loss from our involvement with these vies is limited to the credit risk inherently present in the financial support that we have provided .",
+      "these risks are evaluated and reflected in our financial statements as part of our overall portfolio of finance receivables and related allowance for credit losses. ."
+    ],
+    "table": [
+      [
+        "( millions of dollars )",
+        "december 31 , 2017",
+        "december 31 , 2016"
+      ],
+      [
+        "receivables - trade and other",
+        "$ 34",
+        "$ 55"
+      ],
+      [
+        "receivables - finance",
+        "42",
+        "174"
+      ],
+      [
+        "long-term receivables - finance",
+        "38",
+        "246"
+      ],
+      [
+        "investments in unconsolidated affiliated companies",
+        "39",
+        "31"
+      ],
+      [
+        "guarantees",
+        "259",
+        "210"
+      ],
+      [
+        "total",
+        "$ 412",
+        "$ 716"
+      ]
+    ],
+    "questions": [
+      "how many countries are cat products distributed to?"
+    ]
+  }
+}

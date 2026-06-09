@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming the same trend as in 2011 , what would total stock-based compensation cost be for 2012?",
+      "answer": 24.92308,
+      "answer_raw": "24.92308",
+      "program": "divide(36, 52), multiply(#0, 36)"
+    }
+  ]
+}

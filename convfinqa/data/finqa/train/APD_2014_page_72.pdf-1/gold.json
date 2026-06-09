@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the expenses of the 2013 charge , what were the impact of the severance and other benefits on the total value?",
+      "answer": 0.31045,
+      "answer_raw": "0.31045",
+      "program": "divide(71.9, 231.6)"
+    }
+  ]
+}

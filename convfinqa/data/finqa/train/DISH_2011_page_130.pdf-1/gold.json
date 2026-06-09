@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total future minimum lease payments under the capital lease obligation is due after 2016?",
+      "answer": 0.4457,
+      "answer_raw": "0.4457",
+      "program": "divide(314269, 705113)"
+    }
+  ]
+}

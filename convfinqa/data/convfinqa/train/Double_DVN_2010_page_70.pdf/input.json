@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "Double_DVN/2010/page_70.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "likely than not that some portion or all of the deferred tax assets will not be realized .",
+      "the accruals for deferred tax assets and liabilities are subject to a significant amount of judgment by management and are reviewed and adjusted routinely based on changes in facts and circumstances .",
+      "material changes in these accruals may occur in the future , based on the progress of ongoing tax audits , changes in legislation and resolution of pending tax matters .",
+      "forward-looking estimates we are providing our 2011 forward-looking estimates in this section .",
+      "these estimates were based on our examination of historical operating trends , the information used to prepare our december 31 , 2010 , reserve reports and other data in our possession or available from third parties .",
+      "the forward-looking estimates in this report were prepared assuming demand , curtailment , producibility and general market conditions for our oil , gas and ngls during 2011 will be similar to 2010 , unless otherwise noted .",
+      "we make reference to the 201cdisclosure regarding forward-looking statements 201d at the beginning of this report .",
+      "amounts related to our canadian operations have been converted to u.s .",
+      "dollars using an estimated average 2011 exchange rate of $ 0.95 dollar to $ 1.00 canadian dollar .",
+      "during 2011 , our operations are substantially comprised of our ongoing north america onshore operations .",
+      "we also have international operations in brazil and angola that we are divesting .",
+      "we have entered into agreements to sell our assets in brazil for $ 3.2 billion and our assets in angola for $ 70 million , plus contingent consideration .",
+      "as a result of these divestitures , all revenues , expenses and capital related to our international operations are reported as discontinued operations in our financial statements .",
+      "additionally , all forward-looking estimates in this document exclude amounts related to our international operations , unless otherwise noted .",
+      "north america onshore operating items the following 2011 estimates relate only to our north america onshore assets .",
+      "oil , gas and ngl production set forth below are our estimates of oil , gas and ngl production for 2011 .",
+      "we estimate that our combined oil , gas and ngl production will total approximately 236 to 240 mmboe .",
+      "( mmbbls ) ( mmbbls ) ( mmboe ) ."
+    ],
+    "post_text": [
+      "oil and gas prices we expect our 2011 average prices for the oil and gas production from each of our operating areas to differ from the nymex price as set forth in the following table .",
+      "the expected ranges for prices are exclusive of the anticipated effects of the financial contracts presented in the 201ccommodity price risk management 201d section below .",
+      "the nymex price for oil is determined using the monthly average of settled prices on each trading day for benchmark west texas intermediate crude oil delivered at cushing , oklahoma .",
+      "the nymex price for gas is determined using the first-of-month south louisiana henry hub price index as published monthly in inside ."
+    ],
+    "table": [
+      [
+        "",
+        "oil ( mmbbls )",
+        "gas ( bcf )",
+        "ngls ( mmbbls )",
+        "total ( mmboe )"
+      ],
+      [
+        "u.s . onshore",
+        "17",
+        "736",
+        "34",
+        "174"
+      ],
+      [
+        "canada",
+        "28",
+        "199",
+        "3",
+        "64"
+      ],
+      [
+        "north america onshore",
+        "45",
+        "935",
+        "37",
+        "238"
+      ]
+    ],
+    "questions": [
+      "what portion of total mmboe came from canada?",
+      "and as a percentage?",
+      "what portion of north american gas comes from us onshore?",
+      "and as a percentage?"
+    ]
+  }
+}

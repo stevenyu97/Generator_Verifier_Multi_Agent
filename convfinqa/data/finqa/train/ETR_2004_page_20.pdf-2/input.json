@@ -1,0 +1,71 @@
+{
+  "input": {
+    "id": "ETR/2004/page_20.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy corporation and subsidiaries management's financial discussion and analysis 2022 the deferral in august 2004 of $ 7.5 million of fossil plant maintenance and voluntary severance program costs at entergy new orleans as a result of a stipulation approved by the city council .",
+      "2003 compared to 2002 net revenue , which is entergy's measure of gross margin , consists of operating revenues net of : 1 ) fuel , fuel-related , and purchased power expenses and 2 ) other regulatory credits .",
+      "following is an analysis of the change in net revenue comparing 2003 to 2002. ."
+    ],
+    "post_text": [
+      "base rates increased net revenue due to base rate increases at entergy mississippi and entergy new orleans that became effective in january 2003 and june 2003 , respectively .",
+      "entergy gulf states implemented base rate decreases in its louisiana jurisdiction effective june 2002 and january 2003 .",
+      "the january 2003 base rate decrease of $ 22.1 million had a minimal impact on net income due to a corresponding reduction in nuclear depreciation and decommissioning expenses associated with the change in accounting estimate to reflect an assumed extension of river bend's useful life .",
+      "the deferred fuel cost revisions variance was due to a revised unbilled sales pricing estimate made in december 2002 and further revision of that estimate in the first quarter of 2003 to more closely align the fuel component of that pricing with expected recoverable fuel costs at entergy louisiana .",
+      "the asset retirement obligation variance was due to the implementation of sfas 143 , \"accounting for asset retirement obligations\" adopted in january 2003 .",
+      "see \"critical accounting estimates 2013 nuclear decommissioning costs\" for more details on sfas 143 .",
+      "the increase was offset by increased depreciation and decommissioning expenses and had an insignificant effect on net income .",
+      "the increase in net wholesale revenue was primarily due to an increase in sales volume to municipal and cooperative customers .",
+      "the march 2002 settlement agreement variance reflects the absence in 2003 of the effect of recording the ice storm settlement approved by the apsc in 2002 .",
+      "this settlement resulted in previously deferred revenues at entergy arkansas per the transition cost account mechanism being recorded in net revenue in the second quarter of 2002 .",
+      "the decrease was offset by a corresponding decrease in other operation and maintenance expenses and had a minimal effect on net income .",
+      "gross operating revenues and regulatory credits gross operating revenues include an increase in fuel cost recovery revenues of $ 682 million and $ 53 million in electric and gas sales , respectively , primarily due to higher fuel rates in 2003 resulting from increases in the market prices of purchased power and natural gas .",
+      "as such , this revenue increase was offset by increased fuel and purchased power expenses. ."
+    ],
+    "table": [
+      [
+        "",
+        "( in millions )"
+      ],
+      [
+        "2002 net revenue",
+        "$ 4209.6"
+      ],
+      [
+        "base rate increases",
+        "66.2"
+      ],
+      [
+        "base rate decreases",
+        "-23.3 ( 23.3 )"
+      ],
+      [
+        "deferred fuel cost revisions",
+        "56.2"
+      ],
+      [
+        "asset retirement obligation",
+        "42.9"
+      ],
+      [
+        "net wholesale revenue",
+        "23.2"
+      ],
+      [
+        "march 2002 ark . settlement agreement",
+        "-154.0 ( 154.0 )"
+      ],
+      [
+        "other",
+        "-6.3 ( 6.3 )"
+      ],
+      [
+        "2003 net revenue",
+        "$ 4214.5"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in net revenue in 2003 for entergy corporation?"
+    ]
+  }
+}

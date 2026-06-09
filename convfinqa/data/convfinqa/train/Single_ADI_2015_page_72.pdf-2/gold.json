@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the number of restricted stock units outstanding on november 1, 2014?",
+      "answer": 3188.0,
+      "answer_raw": "3188.0",
+      "program": "3188"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the price per share?",
+      "answer": 43.46,
+      "answer_raw": "43.46",
+      "program": "43.46"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total value of restricted stock units outstanding at the end of 2014?",
+      "answer": 138550.48,
+      "answer_raw": "138550.48",
+      "program": "multiply(3188, 43.46)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the total value of the restricted stock units at the end of 2015?",
+      "answer": 128397.82,
+      "answer_raw": "128397.82",
+      "program": "multiply(3188, 43.46), multiply(2698, 47.59)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the difference?",
+      "answer": -10152.66,
+      "answer_raw": "-10152.66",
+      "program": "multiply(3188, 43.46), multiply(2698, 47.59), subtract(#1, #0)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the ratio of the value at the end of 2015 to the end of 2014?",
+      "answer": -0.07328,
+      "answer_raw": "-0.07328",
+      "program": "multiply(3188, 43.46), multiply(2698, 47.59), subtract(#1, #0), divide(#2, #0)"
+    }
+  ]
+}

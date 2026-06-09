@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the unamortized debt issuance costs associated with the senior notes between 2016 and 2017?",
+      "answer": -4.0,
+      "answer_raw": "-4.0",
+      "program": "subtract(15, 19)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "so what was the percentage change during this time?",
+      "answer": -0.21053,
+      "answer_raw": "-0.21053",
+      "program": "subtract(15, 19), divide(#0, 19)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the change associated with credit facilities during that time?",
+      "answer": 3.0,
+      "answer_raw": "3.0",
+      "program": "subtract(11, 8)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "so what was the percentage change?",
+      "answer": 0.375,
+      "answer_raw": "0.375",
+      "program": "subtract(11, 8), divide(#0, 8)"
+    }
+  ]
+}

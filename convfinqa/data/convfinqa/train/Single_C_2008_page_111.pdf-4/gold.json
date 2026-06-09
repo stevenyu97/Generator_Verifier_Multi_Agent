@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in operating lease obligations between 2009 and 2010?",
+      "answer": 142.0,
+      "answer_raw": "142.0",
+      "program": "subtract(1470, 1328)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the specific value for 2010?",
+      "answer": 1328.0,
+      "answer_raw": "1328.0",
+      "program": "1328"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the percentage change?",
+      "answer": 0.10693,
+      "answer_raw": "0.10693",
+      "program": "subtract(1470, 1328), divide(#0, 1328)"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "HIG/2004/page_81.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "has decreased during the period from 2002 to 2004 , principally due to the increase in earned premium and due to cost containment measures undertaken by management .",
+      "in business insurance and personal lines , the expense ratio is expected to decrease further in 2005 , largely as a result of expected increases in earned premium .",
+      "in specialty commercial , the expense ratio is expected to increase slightly in 2005 due to changes in the business mix , most notably the company 2019s decision in the fourth quarter of 2004 to exit the multi-peril crop insurance program which will eliminate significant expense reimbursements from the specialty commercial segment .",
+      "policyholder dividend ratio : the policyholder dividend ratio is the ratio of policyholder dividends to earned premium .",
+      "combined ratio : the combined ratio is the sum of the loss and loss adjustment expense ratio , the expense ratio and the policyholder dividend ratio .",
+      "this ratio is a relative measurement that describes the related cost of losses and expense for every $ 100 of earned premiums .",
+      "a combined ratio below 100.0 demonstrates underwriting profit ; a combined ratio above 100.0 demonstrates underwriting losses .",
+      "the combined ratio has decreased from 2003 to 2004 primarily because of improvement in the expense ratio .",
+      "the combined ratio in 2005 could be significantly higher or lower than the 2004 combined ratio depending on the level of catastrophe losses , but will also be impacted by changes in pricing and an expected moderation in favorable loss cost trends .",
+      "catastrophe ratio : the catastrophe ratio ( a component of the loss and loss adjustment expense ratio ) represents the ratio of catastrophe losses ( net of reinsurance ) to earned premiums .",
+      "a catastrophe is an event that causes $ 25 or more in industry insured property losses and affects a significant number of property and casualty policyholders and insurers .",
+      "by their nature , catastrophe losses vary dramatically from year to year .",
+      "based on the mix and geographic dispersion of premium written and estimates derived from various catastrophe loss models , the company 2019s expected catastrophe ratio over the long-term is 3.0 points .",
+      "before considering the reduction in ongoing operation 2019s catastrophe reserves related to september 11 of $ 298 in 2004 , the catastrophe ratio in 2004 was 5.3 points .",
+      "see 201crisk management strategy 201d below for a discussion of the company 2019s property catastrophe risk management program that serves to mitigate the company 2019s net exposure to catastrophe losses .",
+      "combined ratio before catastrophes and prior accident year development : the combined ratio before catastrophes and prior accident year development represents the combined ratio for the current accident year , excluding the impact of catastrophes .",
+      "the company believes this ratio is an important measure of the trend in profitability since it removes the impact of volatile and unpredictable catastrophe losses and prior accident year reserve development .",
+      "before considering catastrophes , the combined ratio related to current accident year business has improved from 2002 to 2004 principally due to earned pricing increases and favorable claim frequency .",
+      "other operations underwriting results : the other operations segment is responsible for managing operations of the hartford that have discontinued writing new or renewal business as well as managing the claims related to asbestos and environmental exposures .",
+      "as such , neither earned premiums nor underwriting ratios are meaningful financial measures .",
+      "instead , management believes that underwriting result is a more meaningful measure .",
+      "the net underwriting loss for 2002 through 2004 is primarily due to prior accident year loss development , including $ 2.6 billion of net asbestos reserve strengthening in 2003 .",
+      "reserve estimates within other operations , including estimates for asbestos and environmental claims , are inherently uncertain .",
+      "refer to the other operations segment md&a for further discussion of other operation's underwriting results .",
+      "total property & casualty investment earnings ."
+    ],
+    "post_text": [
+      "the investment return , or yield , on property & casualty 2019s invested assets is an important element of the company 2019s earnings since insurance products are priced with the assumption that premiums received can be invested for a period of time before loss and loss adjustment expenses are paid .",
+      "for longer tail lines , such as workers 2019 compensation and general liability , claims are paid over several years and , therefore , the premiums received for these lines of business can generate significant investment income .",
+      "him determines the appropriate allocation of investments by asset class and measures the investment yield performance for each asset class against market indices or other benchmarks .",
+      "due to the emphasis on preservation of capital and the need to maintain sufficient liquidity to satisfy claim obligations , the vast majority of property and casualty 2019s invested assets have been held in fixed maturities , including , among other asset classes , corporate bonds , municipal bonds , government debt , short-term debt , mortgage- ."
+    ],
+    "table": [
+      [
+        "",
+        "2004",
+        "2003",
+        "2002"
+      ],
+      [
+        "investment yield after-tax",
+        "4.1% ( 4.1 % )",
+        "4.2% ( 4.2 % )",
+        "4.5% ( 4.5 % )"
+      ],
+      [
+        "net realized capital gains ( losses ) after-tax",
+        "$ 87",
+        "$ 165",
+        "$ -44 ( 44 )"
+      ]
+    ],
+    "questions": [
+      "what is the total value of the investment in 2004?"
+    ]
+  }
+}

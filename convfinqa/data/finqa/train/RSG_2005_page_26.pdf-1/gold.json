@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the period month #1 ( october 1 2014 october 31 2005 ) as part of the total of total number of shares ( or units ) purchased",
+      "answer": 0.37252,
+      "answer_raw": "0.37252",
+      "program": "divide(1119600, 3005500)"
+    }
+  ]
+}

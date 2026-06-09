@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total value of proceeds from the issuance of employee options during february 2004?",
+      "answer": 11556103.23,
+      "answer_raw": "11556103.23",
+      "program": "multiply(1032717, 11.19)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is this value in millions?",
+      "answer": 11.5561,
+      "answer_raw": "11.5561",
+      "program": "multiply(1032717, 11.19), divide(#0, const_1000000)"
+    }
+  ]
+}

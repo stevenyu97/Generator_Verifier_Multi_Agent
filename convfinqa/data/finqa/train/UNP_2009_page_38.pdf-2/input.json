@@ -1,0 +1,57 @@
+{
+  "input": {
+    "id": "UNP/2009/page_38.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "have access to liquidity by issuing bonds to public or private investors based on our assessment of the current condition of the credit markets .",
+      "at december 31 , 2009 , we had a working capital surplus of approximately $ 1.0 billion , which reflects our decision to maintain additional cash reserves to enhance liquidity in response to difficult economic conditions .",
+      "at december 31 , 2008 , we had a working capital deficit of approximately $ 100 million .",
+      "historically , we have had a working capital deficit , which is common in our industry and does not indicate a lack of liquidity .",
+      "we maintain adequate resources and , when necessary , have access to capital to meet any daily and short-term cash requirements , and we have sufficient financial capacity to satisfy our current liabilities .",
+      "cash flows millions of dollars 2009 2008 2007 ."
+    ],
+    "post_text": [
+      "operating activities lower net income in 2009 , a reduction of $ 184 million in the outstanding balance of our accounts receivable securitization program , higher pension contributions of $ 72 million , and changes to working capital combined to decrease cash provided by operating activities compared to 2008 .",
+      "higher net income and changes in working capital combined to increase cash provided by operating activities in 2008 compared to 2007 .",
+      "in addition , accelerated tax deductions enacted in 2008 on certain new operating assets resulted in lower income tax payments in 2008 versus 2007 .",
+      "voluntary pension contributions in 2008 totaling $ 200 million and other pension contributions of $ 8 million partially offset the year-over-year increase versus 2007 .",
+      "investing activities lower capital investments and higher proceeds from asset sales drove the decrease in cash used in investing activities in 2009 versus 2008 .",
+      "increased capital investments and lower proceeds from asset sales drove the increase in cash used in investing activities in 2008 compared to 2007. ."
+    ],
+    "table": [
+      [
+        "millions of dollars",
+        "2009",
+        "2008",
+        "2007"
+      ],
+      [
+        "cash provided by operating activities",
+        "$ 3234",
+        "$ 4070",
+        "$ 3277"
+      ],
+      [
+        "cash used in investing activities",
+        "-2175 ( 2175 )",
+        "-2764 ( 2764 )",
+        "-2426 ( 2426 )"
+      ],
+      [
+        "cash used in financing activities",
+        "-458 ( 458 )",
+        "-935 ( 935 )",
+        "-800 ( 800 )"
+      ],
+      [
+        "net change in cash and cash equivalents",
+        "$ 601",
+        "$ 371",
+        "$ 51"
+      ]
+    ],
+    "questions": [
+      "what was the net working capital surplus for 2008 and 2009 , in millions?"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of compensation expense associated with the awards granted for 2013 and 2014?",
+      "answer": 3.4,
+      "answer_raw": "3.4",
+      "program": "add(2.2, 1.2)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the average per year?",
+      "answer": 1.7,
+      "answer_raw": "1.7",
+      "program": "add(2.2, 1.2), divide(#0, const_2)"
+    }
+  ]
+}

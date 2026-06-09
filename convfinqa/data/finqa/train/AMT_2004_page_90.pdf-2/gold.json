@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total cash obligations are due in 2005?",
+      "answer": 0.03969,
+      "answer_raw": "0.03969",
+      "program": "divide(138386, 3486855)"
+    }
+  ]
+}

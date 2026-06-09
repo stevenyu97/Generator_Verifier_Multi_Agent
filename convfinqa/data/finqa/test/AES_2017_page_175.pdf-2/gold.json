@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2017 , what was net interest expense with related parties , in millions?",
+      "answer": -28.0,
+      "answer_raw": "-28.0",
+      "program": "subtract(8, 36)"
+    }
+  ]
+}

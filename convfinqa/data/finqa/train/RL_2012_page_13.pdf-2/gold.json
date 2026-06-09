@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of worldwide distribution channels doors as of march 31 , 2012 where in europe ?",
+      "answer": 0.39622,
+      "answer_raw": "0.39622",
+      "program": "divide(4377, 11047)"
+    }
+  ]
+}

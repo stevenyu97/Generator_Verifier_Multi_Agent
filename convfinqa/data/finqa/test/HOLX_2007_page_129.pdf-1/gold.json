@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the fair value of hologic common stock used to acquire suros?",
+      "answer": 46.30435,
+      "answer_raw": "46.30435",
+      "program": "divide(106500, 2300)"
+    }
+  ]
+}

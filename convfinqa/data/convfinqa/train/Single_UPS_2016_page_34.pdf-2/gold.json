@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the value of united parcel service inc ., considering its value in 2016 and the original amount invested in it in 2011?",
+      "answer": 89.72,
+      "answer_raw": "89.72",
+      "program": "subtract(189.72, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to this original amount, in percentage?",
+      "answer": 0.8972,
+      "answer_raw": "0.8972",
+      "program": "subtract(189.72, const_100), divide(#0, const_100)"
+    }
+  ]
+}

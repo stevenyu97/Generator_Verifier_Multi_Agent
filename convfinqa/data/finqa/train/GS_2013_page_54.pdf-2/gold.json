@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "pre-tax earnings were $ 4.33 billion in 2013 , what were they in billions in 2012?",
+      "answer": 2.8578,
+      "answer_raw": "2.8578",
+      "program": "divide(34, const_100), subtract(const_1, #0), multiply(4.33, #1)"
+    }
+  ]
+}

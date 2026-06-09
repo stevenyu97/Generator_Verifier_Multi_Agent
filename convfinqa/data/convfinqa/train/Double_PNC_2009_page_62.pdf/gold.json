@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the carrying value of pnc 2019s investment in blackrock in 2009?",
+      "answer": 5.8,
+      "answer_raw": "5.8",
+      "program": "5.8"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2008?",
+      "answer": 4.2,
+      "answer_raw": "4.2",
+      "program": "4.2"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum for two years?",
+      "answer": 10.0,
+      "answer_raw": "10.0",
+      "program": "add(5.8, 4.2)"
+    }
+  ]
+}

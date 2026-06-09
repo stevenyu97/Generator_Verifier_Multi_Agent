@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the asian consumer packaging net sales in 2013",
+      "answer": -0.99867,
+      "answer_raw": "-0.99867",
+      "program": "subtract(1.1, 830), divide(#0, 830)"
+    }
+  ]
+}

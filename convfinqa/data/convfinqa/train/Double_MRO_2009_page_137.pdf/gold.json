@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the vesting date fair value of restricted stock awards which vested in 2009?",
+      "answer": 24.0,
+      "answer_raw": "24.0",
+      "program": "24"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2008?",
+      "answer": 38.0,
+      "answer_raw": "38.0",
+      "program": "38"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "in which year, then, was it greater?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(24, 38)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in that same year of 2009, what was the number of unvested shares?",
+      "answer": 1441499.0,
+      "answer_raw": "1441499.0",
+      "program": "1441499"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and what was their weighted-average grant date fair value?",
+      "answer": 44.89,
+      "answer_raw": "44.89",
+      "program": "44.89"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what was, then, the total value of those shares?",
+      "answer": 64708890.11,
+      "answer_raw": "64708890.11",
+      "program": "multiply(1441499, 44.89)"
+    }
+  ]
+}

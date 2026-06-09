@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of the ups in 2004?",
+      "answer": 139.55,
+      "answer_raw": "139.55",
+      "program": "139.55"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2003?",
+      "answer": 119.89,
+      "answer_raw": "119.89",
+      "program": "119.89"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 19.66,
+      "answer_raw": "19.66",
+      "program": "subtract(139.55, 119.89)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the value of the ups in 2003?",
+      "answer": 119.89,
+      "answer_raw": "119.89",
+      "program": "119.89"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this 2003 value?",
+      "answer": 0.16398,
+      "answer_raw": "0.16398",
+      "program": "subtract(139.55, 119.89), divide(#0, 119.89)"
+    }
+  ]
+}

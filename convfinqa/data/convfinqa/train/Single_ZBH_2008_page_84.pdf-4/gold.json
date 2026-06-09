@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is weighted average shares outstanding for diluted net earnings per share\t in 2007?",
+      "answer": 237.5,
+      "answer_raw": "237.5",
+      "program": "237.5"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2006?",
+      "answer": 245.4,
+      "answer_raw": "245.4",
+      "program": "245.4"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the ent change?",
+      "answer": -7.9,
+      "answer_raw": "-7.9",
+      "program": "subtract(237.5, 245.4)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage change does this change represent?",
+      "answer": -0.03219,
+      "answer_raw": "-0.03219",
+      "program": "subtract(237.5, 245.4), divide(#0, 245.4)"
+    }
+  ]
+}

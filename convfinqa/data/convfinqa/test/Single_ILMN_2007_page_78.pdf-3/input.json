@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "Single_ILMN/2007/page_78.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "goodwill goodwill represents the excess of the solexa purchase price over the sum of the amounts assigned to assets acquired less liabilities assumed .",
+      "the company believes that the acquisition of solexa will produce the following significant benefits : 2022 increased market presence and opportunities .",
+      "the combination of the company and solexa should increase the combined company 2019s market presence and opportunities for growth in revenue , earnings and stockholder return .",
+      "the company believes that the solexa technology is highly complementary to the company 2019s own portfolio of products and services and will enhance the company 2019s capabilities to service its existing customers , as well as accelerate the develop- ment of additional technologies , products and services .",
+      "the company believes that integrating solexa 2019s capabilities with the company 2019s technologies will better position the company to address the emerging biomarker research and development and in-vitro and molecular diag- nostic markets .",
+      "the company began to recognize revenue from products shipped as a result of this acquisition during the first quarter of 2007 .",
+      "2022 operating efficiencies .",
+      "the combination of the company and solexa provides the opportunity for potential economies of scale and cost savings .",
+      "the company believes that these primary factors support the amount of goodwill recognized as a result of the purchase price paid for solexa , in relation to other acquired tangible and intangible assets , including in-process research and development .",
+      "the following unaudited pro forma information shows the results of the company 2019s operations for the specified reporting periods as though the acquisition had occurred as of the beginning of that period ( in thousands , except per share data ) : year ended december 30 , year ended december 31 ."
+    ],
+    "post_text": [
+      "the pro forma results have been prepared for comparative purposes only and are not necessarily indicative of the actual results of operations had the acquisition taken place as of the beginning of the periods presented , or the results that may occur in the future .",
+      "the pro forma results exclude the $ 303.4 million non-cash acquired ipr&d charge recorded upon the closing of the acquisition during the first quarter of 2007 .",
+      "investment in solexa on november 12 , 2006 , the company entered into a definitive securities purchase agreement with solexa in which the company invested approximately $ 50 million in solexa in exchange for 5154639 newly issued shares of solexa common stock in conjunction with the merger of the two companies .",
+      "this investment was valued at $ 67.8 million as of december 31 , 2006 , which represented a market value of $ 13.15 per share of solexa common stock .",
+      "this investment was eliminated as part of the company 2019s purchase accounting upon the closing of the merger on january 26 , 2007 .",
+      "illumina , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) ."
+    ],
+    "table": [
+      [
+        "",
+        "year ended december 30 2007",
+        "year ended december 31 2006"
+      ],
+      [
+        "revenue",
+        "$ 366854",
+        "$ 187103"
+      ],
+      [
+        "net income ( loss )",
+        "$ 17388",
+        "$ -38957 ( 38957 )"
+      ],
+      [
+        "net income ( loss ) per share basic",
+        "$ 0.32",
+        "$ -0.68 ( 0.68 )"
+      ],
+      [
+        "net income ( loss ) per share diluted",
+        "$ 0.29",
+        "$ -0.68 ( 0.68 )"
+      ]
+    ],
+    "questions": [
+      "what were revenues in 2007?",
+      "what were they in 2006?",
+      "what is the net difference?",
+      "what is the difference divided by the 2006 revenues?"
+    ]
+  }
+}

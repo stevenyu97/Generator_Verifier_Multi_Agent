@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the operating expenses from 2017 to 2018?",
+      "answer": 2520.0,
+      "answer_raw": "2520.0",
+      "program": "subtract(23461, 20941)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to those expenses in 2017?",
+      "answer": 0.12034,
+      "answer_raw": "0.12034",
+      "program": "subtract(23461, 20941), divide(#0, 20941)"
+    }
+  ]
+}

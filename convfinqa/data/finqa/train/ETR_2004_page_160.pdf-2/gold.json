@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the storm damage cost as a percentage of 2002 net revenue?",
+      "answer": 0.17794,
+      "answer_raw": "0.17794",
+      "program": "divide(195, 1095.9)"
+    }
+  ]
+}

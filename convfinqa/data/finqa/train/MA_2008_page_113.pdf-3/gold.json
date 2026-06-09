@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the variation observed in the expected benefits payment in 2009 and 2010?",
+      "answer": 1584.0,
+      "answer_raw": "1584.0",
+      "program": "subtract(19766, 18182)"
+    }
+  ]
+}

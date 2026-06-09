@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "V/2008/page_149.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "visa inc .",
+      "notes to consolidated financial statements 2014 ( continued ) september 30 , 2008 ( in millions , except as noted ) secured notes series b-1995 lease agreement in september 1995 , a real estate partnership owned jointly by visa u.s.a .",
+      "and visa international issued notes that are secured by certain office properties and facilities in california which are used by the company through a lease financing of net-leased office space ( 201c1995 lease agreement 201d ) .",
+      "series b of these notes , totaling $ 27 million , were issued with an interest rate of 7.83% ( 7.83 % ) and a stated maturity of september 15 , 2015 , and are payable monthly with interest-only payments for the first ten years and payments of interest and principal for the remainder of the term .",
+      "series b debt issuance costs of $ 0.3 million and a $ 0.8 million loss on termination of a forward contract are being amortized on a straight- line basis over the life of the notes .",
+      "the settlement entered into in connection with visa check/ master money antitrust litigation had triggered an event of default under the 1995 lease agreement .",
+      "accordingly , the related debt was classified as a current liability at september 30 , 2007 .",
+      "in may 2008 , visa inc. , visa u.s.a .",
+      "and visa international executed an amendment and waiver to the 1995 lease agreement ( 201camended 1995 lease agreement 201d ) , curing the default and including a guarantee of remaining obligations under the agreement by visa inc .",
+      "the interest terms remained unchanged .",
+      "future principal payments future principal payments on the company 2019s outstanding debt are as follows: ."
+    ],
+    "post_text": [
+      "u.s .",
+      "commercial paper program visa international maintains a u.s .",
+      "commercial paper program to support its working capital requirements and for general corporate purposes .",
+      "this program allows the company to issue up to $ 500 million of unsecured debt securities , with maturities up to 270 days from the date of issuance and at interest rates generally extended to companies with comparable credit ratings .",
+      "at september 30 , 2008 , the company had no outstanding obligations under this program .",
+      "revolving credit facilities on february 15 , 2008 , visa inc .",
+      "entered into a $ 3.0 billion five-year revolving credit facility ( the 201cfebruary 2008 agreement 201d ) which replaced visa international 2019s $ 2.25 billion credit facility .",
+      "the february 2008 agreement matures on february 15 , 2013 and contains covenants and events of defaults customary for facilities of this type .",
+      "at september 30 , 2008 , the company is in compliance with all covenants with respect to the revolving credit facility. ."
+    ],
+    "table": [
+      [
+        "fiscal",
+        "( in millions )"
+      ],
+      [
+        "2009",
+        "52"
+      ],
+      [
+        "2010",
+        "12"
+      ],
+      [
+        "2011",
+        "12"
+      ],
+      [
+        "2012",
+        "13"
+      ],
+      [
+        "2013",
+        "8"
+      ],
+      [
+        "thereafter",
+        "11"
+      ],
+      [
+        "total",
+        "$ 108"
+      ]
+    ],
+    "questions": [
+      "in 2008 what was the percent of the total future principal payments on the company 2019s outstanding debt that was due in 2009"
+    ]
+  }
+}

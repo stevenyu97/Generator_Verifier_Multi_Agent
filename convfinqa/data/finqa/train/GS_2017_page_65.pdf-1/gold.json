@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in net revenues in 2017?",
+      "answer": 0.04786,
+      "answer_raw": "0.04786",
+      "program": "subtract(32073, 30608), divide(#0, 30608)"
+    }
+  ]
+}

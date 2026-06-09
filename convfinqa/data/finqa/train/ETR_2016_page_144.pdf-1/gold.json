@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much were liabilities impacted by the impact of the october 2015 planned shutdown of fitzpatrick and the 2016 decommissioning of the indian point 3 and fitzpatrick?",
+      "answer": 61.5,
+      "answer_raw": "61.5",
+      "program": "add(26.4, 35.1)"
+    }
+  ]
+}

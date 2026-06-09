@@ -1,0 +1,150 @@
+{
+  "input": {
+    "id": "Single_MMM/2007/page_37.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "3m 2019s cash and cash equivalents balance at december 31 , 2007 totaled $ 1.896 billion , with an additional $ 1.059 billion in current and long-term marketable securities .",
+      "3m 2019s strong balance sheet and liquidity provide the company with significant flexibility to take advantage of numerous opportunities going forward .",
+      "the company will continue to invest in its operations to drive growth , including continual review of acquisition opportunities .",
+      "as previously discussed , 3m expects to complete the acquisition of aearo holding corp .",
+      "for approximately $ 1.2 billion in 2008 .",
+      "3m paid dividends of $ 1.380 billion in 2007 , and has a long history of dividend increases .",
+      "in february 2008 , the board of directors increased the quarterly dividend on 3m common stock by 4.2% ( 4.2 % ) to 50 cents per share , equivalent to an annual dividend of $ 2.00 per share .",
+      "in february 2007 , 3m 2019s board of directors authorized a two-year share repurchase of up to $ 7.0 billion for the period from february 12 , 2007 to february 28 , 2009 .",
+      "at december 31 , 2007 , the company has $ 4.1 billion remaining under this authorization , which the company does not currently expect to fully utilize by february 28 , 2009 .",
+      "in 2008 , the company expects to contribute an amount in the range of $ 100 million to $ 400 million to its u.s .",
+      "and international pension plans .",
+      "the company does not have a required minimum pension contribution obligation for its u.s .",
+      "plans in 2008 .",
+      "therefore , the amount of the anticipated discretionary contribution could vary significantly depending on the u.s.-plans funding status as of the 2008 measurement date and the anticipated tax deductibility of the contribution .",
+      "future contributions will also depend on market conditions , interest rates and other factors .",
+      "3m believes its strong cash flow and balance sheet will allow it to fund future pension needs without compromising growth opportunities .",
+      "the company uses various working capital measures that place emphasis and focus on certain working capital assets and liabilities .",
+      "these measures are not defined under u.s .",
+      "generally accepted accounting principles and may not be computed the same as similarly titled measures used by other companies .",
+      "one of the primary working capital measures 3m uses is a combined index , which includes accounts receivable , inventory and accounts payable .",
+      "this combined index ( defined as quarterly net sales 2013 fourth quarter at year-end 2013 multiplied by four , divided by ending net accounts receivable plus inventory less accounts payable ) was 5.3 at december 31 , 2007 , down from 5.4 at december 31 , 2006 .",
+      "receivables increased $ 260 million , or 8.4% ( 8.4 % ) , compared with december 31 , 2006 .",
+      "currency translation increased accounts receivable by $ 159 million year-on-year , as the u.s .",
+      "dollar weakened in aggregate against a multitude of currencies .",
+      "inventories increased $ 251 million , or 9.7% ( 9.7 % ) , compared with december 31 , 2006 .",
+      "currency translation increased inventories by $ 132 million year-on-year .",
+      "accounts payable increased $ 103 million compared with december 31 , 2006 , with $ 65 million of this year-on-year increase related to currency translation .",
+      "cash flows from operating , investing and financing activities are provided in the tables that follow .",
+      "individual amounts in the consolidated statement of cash flows exclude the effects of acquisitions , divestitures and exchange rate impacts , which are presented separately in the cash flows .",
+      "thus , the amounts presented in the following operating , investing and financing activities tables reflect changes in balances from period to period adjusted for these effects .",
+      "cash flows from operating activities : years ended december 31 ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "net income",
+        "$ 4096",
+        "$ 3851",
+        "$ 3111"
+      ],
+      [
+        "depreciation and amortization",
+        "1072",
+        "1079",
+        "986"
+      ],
+      [
+        "company pension contributions",
+        "-376 ( 376 )",
+        "-348 ( 348 )",
+        "-654 ( 654 )"
+      ],
+      [
+        "company postretirement contributions",
+        "-3 ( 3 )",
+        "-37 ( 37 )",
+        "-134 ( 134 )"
+      ],
+      [
+        "company pension expense",
+        "190",
+        "347",
+        "331"
+      ],
+      [
+        "company postretirement expense",
+        "65",
+        "93",
+        "106"
+      ],
+      [
+        "stock-based compensation expense",
+        "228",
+        "200",
+        "155"
+      ],
+      [
+        "gain from sale of businesses",
+        "-849 ( 849 )",
+        "-1074 ( 1074 )",
+        "2014"
+      ],
+      [
+        "income taxes ( deferred and accrued income taxes )",
+        "-34 ( 34 )",
+        "-178 ( 178 )",
+        "402"
+      ],
+      [
+        "excess tax benefits from stock-based compensation",
+        "-74 ( 74 )",
+        "-60 ( 60 )",
+        "-54 ( 54 )"
+      ],
+      [
+        "accounts receivable",
+        "-35 ( 35 )",
+        "-103 ( 103 )",
+        "-184 ( 184 )"
+      ],
+      [
+        "inventories",
+        "-54 ( 54 )",
+        "-309 ( 309 )",
+        "-294 ( 294 )"
+      ],
+      [
+        "accounts payable",
+        "-4 ( 4 )",
+        "68",
+        "113"
+      ],
+      [
+        "product and other insurance receivables and claims",
+        "158",
+        "58",
+        "122"
+      ],
+      [
+        "other 2014 net",
+        "-105 ( 105 )",
+        "252",
+        "198"
+      ],
+      [
+        "net cash provided by operating activities",
+        "$ 4275",
+        "$ 3839",
+        "$ 4204"
+      ]
+    ],
+    "questions": [
+      "what was the change in the net income from 2006 to 2007?",
+      "and how much does this change represent in relation to the net income in 2006, in percentage?"
+    ]
+  }
+}

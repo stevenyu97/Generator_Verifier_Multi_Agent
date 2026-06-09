@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of may 31 , 2016 what percentage of cash and cash equivalents was held in foreign subsidiaries?",
+      "answer": 0.83636,
+      "answer_raw": "0.83636",
+      "program": "divide(4.6, 5.5)"
+    }
+  ]
+}

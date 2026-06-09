@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "from september 30 to december 31 of 2008, what was the decline in the performance price of the s&p 500?",
+      "answer": 21.68,
+      "answer_raw": "21.68",
+      "program": "subtract(96.54, 74.86)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that price in december 31?",
+      "answer": 74.86,
+      "answer_raw": "74.86",
+      "program": "74.86"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is, then, that decline as a portion of this december amount?",
+      "answer": 0.28961,
+      "answer_raw": "0.28961",
+      "program": "subtract(96.54, 74.86), divide(#0, 74.86)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and as of that same date, what was the performance price of the disck stock?",
+      "answer": 83.69,
+      "answer_raw": "83.69",
+      "program": "83.69"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "which price, then, was greater at december 31: the s&p 500 or the disck one?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(83.69, 74.86)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the total number of share repurchase in the fourth quarter of 2013 that was attested to upc by employees to pay stock option exercise prices",
+      "answer": 0.00107,
+      "answer_raw": "0.00107",
+      "program": "divide(5264, 4934319)"
+    }
+  ]
+}

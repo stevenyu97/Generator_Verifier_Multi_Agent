@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in billions for the years december 2013 and december 2012 , what was total commitments to invest in funds managed by the firm?",
+      "answer": 11.69,
+      "answer_raw": "11.69",
+      "program": "add(5.48, 6.21)"
+    }
+  ]
+}

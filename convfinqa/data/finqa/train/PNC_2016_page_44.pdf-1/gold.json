@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for the period october 1 2013 31 , total shares purchased as part of publicly announced programs were what percent of total shares purchased?",
+      "answer": 0.98595,
+      "answer_raw": "0.98595",
+      "program": "divide(2245, 2277)"
+    }
+  ]
+}

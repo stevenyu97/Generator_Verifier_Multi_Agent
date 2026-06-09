@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the reduction of net sales due to sales returns discounts and rebates in 2018?",
+      "answer": 12529.6,
+      "answer_raw": "12529.6",
+      "program": "12529.6"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2017?",
+      "answer": 10603.4,
+      "answer_raw": "10603.4",
+      "program": "10603.4"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 1926.2,
+      "answer_raw": "1926.2",
+      "program": "subtract(12529.6, 10603.4)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the reduction of net sales due to sales returns discounts and rebates in 2017?",
+      "answer": 10603.4,
+      "answer_raw": "10603.4",
+      "program": "10603.4"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "how much, then, does that change represent in relation to this 2017 reduction, in percentage?",
+      "answer": 0.18166,
+      "answer_raw": "0.18166",
+      "program": "subtract(12529.6, 10603.4), divide(#0, 10603.4)"
+    }
+  ]
+}

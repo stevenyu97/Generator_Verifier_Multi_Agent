@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase in the property and equipment net from 2004 to 2005",
+      "answer": 0.52221,
+      "answer_raw": "0.52221",
+      "program": "subtract(3460526, 2273356), divide(#0, 2273356)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the interest expense in 2016?",
+      "answer": 26.4,
+      "answer_raw": "26.4",
+      "program": "26.4"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2015?",
+      "answer": 14.6,
+      "answer_raw": "14.6",
+      "program": "14.6"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 11.8,
+      "answer_raw": "11.8",
+      "program": "subtract(26.4, 14.6)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage change does this represent?",
+      "answer": 0.80822,
+      "answer_raw": "0.80822",
+      "program": "subtract(26.4, 14.6), divide(#0, 14.6)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the amount of sg&a and interest expense in 2015?",
+      "answer": 83.0,
+      "answer_raw": "83.0",
+      "program": "83.0"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what about in 2014?",
+      "answer": 59.0,
+      "answer_raw": "59.0",
+      "program": "59.0"
+    },
+    {
+      "line_id": "turn_6",
+      "question": "what is the net change in the sg&a",
+      "answer": 24.0,
+      "answer_raw": "24.0",
+      "program": "subtract(83.0, 59.0)"
+    },
+    {
+      "line_id": "turn_7",
+      "question": "what percentage change does this represent?",
+      "answer": 0.40678,
+      "answer_raw": "0.40678",
+      "program": "subtract(83.0, 59.0), divide(#0, 59.0)"
+    }
+  ]
+}

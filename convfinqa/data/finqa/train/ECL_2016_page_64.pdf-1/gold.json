@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the balance of allowance for doubtful accounts during 2016?",
+      "answer": -7.0,
+      "answer_raw": "-7.0",
+      "program": "subtract(68, 75)"
+    }
+  ]
+}

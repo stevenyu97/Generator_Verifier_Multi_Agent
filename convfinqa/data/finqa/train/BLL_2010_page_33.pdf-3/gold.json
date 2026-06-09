@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "the segment sales decrease in 2010 was what percent of the decrease in 2009?",
+      "answer": 0.6757,
+      "answer_raw": "0.6757",
+      "program": "subtract(129.2, 41.9), divide(#0, 129.2)"
+    }
+  ]
+}

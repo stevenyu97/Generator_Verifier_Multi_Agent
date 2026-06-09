@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in net revenue in 2007 for entergy arkansas , inc.?",
+      "answer": 0.0336,
+      "answer_raw": "0.0336",
+      "program": "subtract(1110.6, 1074.5), divide(#0, 1074.5)"
+    }
+  ]
+}

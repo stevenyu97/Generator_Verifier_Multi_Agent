@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total shares repurchased in 4th quarter in 2010 was during october?",
+      "answer": 0.4949,
+      "answer_raw": "0.4949",
+      "program": "divide(722890, 1460682)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the portion that occurred in december?",
+      "answer": 0.23078,
+      "answer_raw": "0.23078",
+      "program": "divide(337100, 1460682)"
+    }
+  ]
+}

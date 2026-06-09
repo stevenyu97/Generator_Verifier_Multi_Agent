@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions for 2015 , 2014 and 2013 , what was total commissions and fees?",
+      "answer": 9412.0,
+      "answer_raw": "9412.0",
+      "program": "table_sum(commissions and fees, none)"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+% =============================================================================
+% Baseline / ablation results table for the multi-agent GRPO paper.
+%
+% Drop this whole file into your Overleaf project and either
+%   (a) \input{baseline_table} from the main .tex, or
+%   (b) copy the table* block(s) into the body of your paper.
+%
+% Required packages (already standard for NeurIPS):
+%   \usepackage{booktabs}    % \toprule, \midrule, \bottomrule
+%   \usepackage{multirow}    % multi-row group labels
+%   \usepackage{makecell}    % line breaks inside cells
+%   \usepackage{siunitx}     % numeric column alignment (optional, see below)
+%
+% Placeholder macro: every "\PH" will render as "--" in the PDF until you
+% replace it with a real number. Search-and-replace "\PH" to fill in results.
+\providecommand{\PH}{--}
+\providecommand{\bestnum}[1]{\textbf{#1}}     % bold the best in a column
+\providecommand{\oursrow}[1]{\textbf{#1}}      % bold an "Ours" row label
+% =============================================================================
+
+
+% -----------------------------------------------------------------------------
+%  Table 1: Headline results — methods x metrics
+% -----------------------------------------------------------------------------
+\begin{table*}[t]
+\centering
+\small
+\setlength{\tabcolsep}{6pt}
+\renewcommand{\arraystretch}{1.10}
+\caption{%
+Final-draft accuracy on the TaxCalcBench TY24 evaluation set (19 evaluated
+1040 lines per case). \emph{Strict} is the accuracy of the on-policy draft;
+\emph{Post-revise} additionally honors every Approver \textsc{revise} decision.
+\emph{Case 5a~$\uparrow$} is the rate at which the Filer was wrong, the
+Verifier raised SAC, the revise sample landed gold, and the Approver chose
+\textsc{revise} (the ideal end-to-end success bucket).
+\emph{Case 4~$\downarrow$} is the rate at which the Filer was wrong but the
+Verifier failed to flag (a missed bug).
+All trained methods use Qwen-2.5 4B unless noted; the last row uses Qwen-2.5
+7B with the same recipe.
+Best in each column is \textbf{bold}.
+}
+\label{tab:main-results}
+\begin{tabular}{l c c c c c c}
+\toprule
+& \multicolumn{2}{c}{\textbf{Final-draft accuracy}}
+& \multicolumn{2}{c}{\textbf{Case mix}}
+& \textbf{Compute}
+& \textbf{Inference} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5}
+\textbf{Method}
+& Strict $\uparrow$
+& Post-revise $\uparrow$
+& Case 5a $\uparrow$
+& Case 4 $\downarrow$
+& GPU-hr
+& tokens/case \\
+\midrule
+\multicolumn{7}{l}{\emph{Untrained baselines (no parameter updates)}} \\
+\midrule
+Qwen-2.5 4B, zero-shot                    & \PH & \PH & \PH & \PH & 0   & \PH \\
+Qwen-2.5 4B, few-shot (k=3 examples)      & \PH & \PH & \PH & \PH & 0   & \PH \\
+GPT-4o, zero-shot (Aug-2024)              & \PH & \PH & \PH & \PH & --  & \PH \\
+Claude 3.5 Sonnet, zero-shot              & \PH & \PH & \PH & \PH & --  & \PH \\
+Self-Refine (Qwen-2.5 4B, 3 turns)        & \PH & \PH & \PH & \PH & 0   & \PH \\
+\midrule
+\multicolumn{7}{l}{\emph{Trained single-agent baselines}} \\
+\midrule
+SFT on gold drafts                        & \PH & --  & --  & --  & \PH & \PH \\
+Filer-only GRPO (no V, no A)              & \PH & --  & --  & --  & \PH & \PH \\
+DPO on (preferred, dispreferred) pairs    & \PH & --  & --  & --  & \PH & \PH \\
+\midrule
+\multicolumn{7}{l}{\emph{Multi-agent ablations (ours with one component removed)}} \\
+\midrule
+Ours, no Approver (always \textsc{keep})    & \PH & \PH & \PH & \PH & \PH & \PH \\
+Ours, no Approver (always \textsc{revise})  & \PH & \PH & \PH & \PH & \PH & \PH \\
+Ours, K=1 revise (drop best-of-K)           & \PH & \PH & \PH & \PH & \PH & \PH \\
+Ours, outcome-only reward (drop counterfact.)& \PH & \PH & \PH & \PH & \PH & \PH \\
+Ours, full-draft (drop linewise loop)       & \PH & \PH & \PH & \PH & \PH & \PH \\
+Ours, shared adapter (drop role separation) & \PH & \PH & \PH & \PH & \PH & \PH \\
+\midrule
+\multicolumn{7}{l}{\emph{Ours (full recipe)}} \\
+\midrule
+\oursrow{Ours, Qwen-2.5 4B}                 & \PH & \PH & \PH & \PH & \PH & \PH \\
+\oursrow{Ours, Qwen-2.5 7B}                 & \PH & \PH & \PH & \PH & \PH & \PH \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+
+% -----------------------------------------------------------------------------
+%  Table 2: Scaling sweeps (cases-per-step, model size, training steps)
+% -----------------------------------------------------------------------------
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{6pt}
+\renewcommand{\arraystretch}{1.10}
+\caption{%
+Scaling sweeps. \emph{Cases per step} controls gradient diversity; model size
+and training steps test that the recipe transfers. All numbers are mean
+$\pm$ std over 3 seeds.
+}
+\label{tab:scaling}
+\begin{tabular}{l c c c}
+\toprule
+\textbf{Sweep variable} & \textbf{Strict $\uparrow$} & \textbf{Post-revise $\uparrow$} & \textbf{GPU-hr} \\
+\midrule
+\multicolumn{4}{l}{\emph{Cases per training step (Qwen-2.5 4B, 30 steps)}} \\
+\midrule
+3 cases / step (default)            & \PH $\pm$ \PH & \PH $\pm$ \PH & \PH \\
+5 cases / step                      & \PH $\pm$ \PH & \PH $\pm$ \PH & \PH \\
+10 cases / step                     & \PH $\pm$ \PH & \PH $\pm$ \PH & \PH \\
+\midrule
+\multicolumn{4}{l}{\emph{Model size (5 cases / step, 30 steps)}} \\
+\midrule
+Qwen-2.5 4B                         & \PH $\pm$ \PH & \PH $\pm$ \PH & \PH \\
+Qwen-2.5 7B                         & \PH $\pm$ \PH & \PH $\pm$ \PH & \PH \\
+\midrule
+\multicolumn{4}{l}{\emph{Training horizon (Qwen-2.5 4B, 5 cases / step)}} \\
+\midrule
+30 steps                            & \PH $\pm$ \PH & \PH $\pm$ \PH & \PH \\
+100 steps                           & \PH $\pm$ \PH & \PH $\pm$ \PH & \PH \\
+300 steps                           & \PH $\pm$ \PH & \PH $\pm$ \PH & \PH \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+% -----------------------------------------------------------------------------
+%  Table 3: Reward-coefficient ablation (defends the reward shape)
+% -----------------------------------------------------------------------------
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{6pt}
+\renewcommand{\arraystretch}{1.10}
+\caption{%
+Reward-coefficient sweeps. $\alpha$ is the outcome bonus
+(\texttt{--filer-outcome-bonus}); $\beta$ is the Approver cave penalty
+(\texttt{--approver-cave-penalty}); $\lambda_V$ is the verifier-loss scale
+(\texttt{--verifier-loss-scale}). Default in our main results is
+$(\alpha,\beta,\lambda_V) = (0.5, 0.5, 0.5)$.
+}
+\label{tab:reward-ablation}
+\begin{tabular}{c c c c c c}
+\toprule
+$\alpha$ & $\beta$ & $\lambda_V$ & \textbf{Strict $\uparrow$} & \textbf{Post-revise $\uparrow$} & \textbf{Decision acc $\uparrow$} \\
+\midrule
+0.0 & 0.5 & 0.5 & \PH & \PH & \PH \\
+0.25 & 0.5 & 0.5 & \PH & \PH & \PH \\
+\textbf{0.5} & \textbf{0.5} & \textbf{0.5} & \PH & \PH & \PH \\
+1.0 & 0.5 & 0.5 & \PH & \PH & \PH \\
+\midrule
+0.5 & 0.0 & 0.5 & \PH & \PH & \PH \\
+0.5 & 0.25 & 0.5 & \PH & \PH & \PH \\
+0.5 & 1.0 & 0.5 & \PH & \PH & \PH \\
+\midrule
+0.5 & 0.5 & 0.0 & \PH & \PH & \PH \\
+0.5 & 0.5 & 0.25 & \PH & \PH & \PH \\
+0.5 & 0.5 & 1.0 & \PH & \PH & \PH \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+% -----------------------------------------------------------------------------
+%  Table 4: Per-line accuracy heatmap (qualitative, optional)
+% -----------------------------------------------------------------------------
+\begin{table*}[t]
+\centering
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.05}
+\caption{%
+Per-line strict accuracy on the test split. Each cell is the fraction of
+test cases where the corresponding 1040 line is exactly correct in the final
+draft. Bold cells improve over the zero-shot baseline by $\geq 0.10$.
+}
+\label{tab:perline}
+\begin{tabular}{l *{19}{c}}
+\toprule
+\textbf{Method}
+& 1a & 9 & 10 & 11 & 12 & 15 & 16 & 19 & 24 & 25d & 26 & 27 & 28 & 29 & 32 & 33 & 34 & 35a & 37 \\
+\midrule
+Qwen-2.5 4B zero-shot
+ & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH \\
+GPT-4o zero-shot
+ & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH \\
+SFT on gold
+ & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH \\
+Filer-only GRPO
+ & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH \\
+\oursrow{Ours, 4B}
+ & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH \\
+\oursrow{Ours, 7B}
+ & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH & \PH \\
+\bottomrule
+\end{tabular}
+\end{table*}

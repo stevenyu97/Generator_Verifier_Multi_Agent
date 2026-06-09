@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did the weighted average common shares outstanding change for diluted computations between 2013 and 2014?",
+      "answer": -4.1,
+      "answer_raw": "-4.1",
+      "program": "subtract(322.4, 326.5)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the change in this value between 2014 and 2015?",
+      "answer": -7.7,
+      "answer_raw": "-7.7",
+      "program": "subtract(314.7, 322.4)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the percentage change during this time?",
+      "answer": -0.02388,
+      "answer_raw": "-0.02388",
+      "program": "subtract(314.7, 322.4), divide(#0, 322.4)"
+    }
+  ]
+}

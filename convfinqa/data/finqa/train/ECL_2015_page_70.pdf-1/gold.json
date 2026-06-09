@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the growth rate in the balance of allowance for doubtful accounts from 2014 to 2015?",
+      "answer": 75.0,
+      "answer_raw": "75.0",
+      "program": "subtract(75, 77), add(#0, 77)"
+    }
+  ]
+}

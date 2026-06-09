@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "VNO/2005/page_69.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "properties 33vornado realty trust supermarkets , home improvement stores , discount apparel stores and membership warehouse clubs .",
+      "tenants typically offer basic consumer necessities such as food , health and beauty aids , moderately priced clothing , building materials and home improvement supplies , and compete primarily on the basis of price and location .",
+      "regional malls : the green acres mall in long island , new york contains 1.6 million square feet , and is anchored by four major department stores : sears , j.c .",
+      "penney , federated department stores , doing business as macy 2019s and macy 2019s men 2019s furniture gallery .",
+      "the complex also includes the plaza at green acres , a 175000 square foot strip shopping center which is anchored by wal-mart and national wholesale liquidators .",
+      "the company plans to renovate the interior and exterior of the mall and construct 100000 square feet of free-standing retail space and parking decks in the complex , subject to governmental approvals .",
+      "in addition , the company has entered into a ground lease with b.j . 2019s wholesale club who will construct its own free-standing store in the mall complex .",
+      "the expansion and renovation are expected to be completed in 2007 .",
+      "the monmouth mall in eatontown , new jersey , owned 50% ( 50 % ) by the company , contains 1.4 million square feet and is anchored by four department stores ; macy 2019s , lord & taylor , j.c .",
+      "penney and boscovs , three of which own their stores aggregating 719000 square feet .",
+      "the joint venture plans to construct 80000 square feet of free-standing retail space in the mall complex , subject to governmental approvals .",
+      "the expansion is expected to be completed in 2007 .",
+      "the broadway mall in hicksville , long island , new york , contains 1.2 million square feet and is anchored by macy 2019s , ikea , multiplex cinema and target , which owns its store containing 141000 square feet .",
+      "the bergen mall in paramus , new jersey , as currently exists , contains 900000 square feet .",
+      "the company plans to demolish approximately 300000 square feet and construct approximately 580000 square feet of retail space , which will bring the total square footage of the mall to approximately 1360000 , including 180000 square feet to be built by target on land leased from the company .",
+      "as of december 31 , 2005 , the company has taken 480000 square feet out of service for redevelopment and leased 236000 square feet to century 21 and whole foods .",
+      "all of the foregoing is subject to governmental approvals .",
+      "the expansion and renovations , as planned , are expected to be completed in 2008 .",
+      "the montehiedra mall in san juan , puerto rico , contains 563000 square feet and is anchored by home depot , kmart , and marshalls .",
+      "the south hills mall in poughkeepsie , new york , contains 668000 square feet and is anchored by kmart and burlington coat factory .",
+      "the company plans to redevelop and retenant the mall , subject to governmental approvals .",
+      "the las catalinas mall in san juan , puerto rico , contains 495000 square feet and is anchored by kmart and sears , which owns its 140000 square foot store .",
+      "occupancy and average annual base rent per square foot : at december 31 , 2005 , the aggregate occupancy rate for the 16169000 square feet of retail properties was 95.6% ( 95.6 % ) .",
+      "strip shopping centers : average annual rentable base rent as of december 31 , square feet occupancy rate per square foot ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "as of december 31,",
+        "rentable square feet",
+        "occupancy rate",
+        "average annual base rent per square foot"
+      ],
+      [
+        "2005",
+        "10750000",
+        "95.5% ( 95.5 % )",
+        "$ 12.07"
+      ],
+      [
+        "2004",
+        "9931000",
+        "94.5% ( 94.5 % )",
+        "12.00"
+      ],
+      [
+        "2003",
+        "8798000",
+        "92.3% ( 92.3 % )",
+        "11.91"
+      ],
+      [
+        "2002",
+        "9295000",
+        "85.7% ( 85.7 % )",
+        "11.11"
+      ],
+      [
+        "2001",
+        "9008000",
+        "89.0% ( 89.0 % )",
+        "10.60"
+      ]
+    ],
+    "questions": [
+      "in rentable square , what was the change between 2005 and 2004?"
+    ]
+  }
+}

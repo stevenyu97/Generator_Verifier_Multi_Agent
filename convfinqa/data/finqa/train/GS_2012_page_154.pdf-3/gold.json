@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in millions of securities purchased under agreements to resell between 2011 and 2012?",
+      "answer": -46455.0,
+      "answer_raw": "-46455.0",
+      "program": "subtract(141334, 187789)"
+    }
+  ]
+}

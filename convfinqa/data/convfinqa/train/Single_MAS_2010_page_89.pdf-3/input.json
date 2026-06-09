@@ -1,0 +1,79 @@
+{
+  "input": {
+    "id": "Single_MAS/2010/page_89.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "o .",
+      "segment information 2013 ( concluded ) ( 1 ) included in net sales were export sales from the u.s .",
+      "of $ 246 million , $ 277 million and $ 275 million in 2010 , 2009 and 2008 , respectively .",
+      "( 2 ) intra-company sales between segments represented approximately two percent of net sales in 2010 , three percent of net sales in 2009 and one percent of net sales in 2008 .",
+      "( 3 ) included in net sales were sales to one customer of $ 1993 million , $ 2053 million and $ 2058 million in 2010 , 2009 and 2008 , respectively .",
+      "such net sales were included in the following segments : cabinets and related products , plumbing products , decorative architectural products and other specialty products .",
+      "( 4 ) net sales from the company 2019s operations in the u.s .",
+      "were $ 5618 million , $ 5952 million and $ 7150 million in 2010 , 2009 and 2008 , respectively .",
+      "( 5 ) net sales , operating ( loss ) profit , property additions and depreciation and amortization expense for 2010 , 2009 and 2008 excluded the results of businesses reported as discontinued operations in 2010 , 2009 and 2008 .",
+      "( 6 ) included in segment operating ( loss ) profit for 2010 were impairment charges for goodwill and other intangible assets as follows : plumbing products 2013 $ 1 million ; and installation and other services 2013 $ 720 million .",
+      "included in segment operating profit ( loss ) for 2009 were impairment charges for goodwill as follows : plumbing products 2013 $ 39 million ; other specialty products 2013 $ 223 million .",
+      "included in segment operating profit ( loss ) for 2008 were impairment charges for goodwill and other intangible assets as follows : cabinets and related products 2013 $ 59 million ; plumbing products 2013 $ 203 million ; installation and other services 2013 $ 52 million ; and other specialty products 2013 $ 153 million .",
+      "( 7 ) general corporate expense , net included those expenses not specifically attributable to the company 2019s segments .",
+      "( 8 ) during 2009 , the company recognized a curtailment loss related to the plan to freeze all future benefit accruals beginning january 1 , 2010 under substantially all of the company 2019s domestic qualified and non-qualified defined-benefit pension plans .",
+      "see note m to the consolidated financial statements .",
+      "( 9 ) the charge for litigation settlement in 2009 relates to a business unit in the cabinets and related products segment .",
+      "the charge for litigation settlement in 2008 relates to a business unit in the installation and other services segment .",
+      "( 10 ) see note l to the consolidated financial statements .",
+      "( 11 ) long-lived assets of the company 2019s operations in the u.s .",
+      "and europe were $ 3684 million and $ 617 million , $ 4628 million and $ 690 million , and $ 4887 million and $ 770 million at december 31 , 2010 , 2009 and 2008 , respectively .",
+      "( 12 ) segment assets for 2009 and 2008 excluded the assets of businesses reported as discontinued operations .",
+      "p .",
+      "other income ( expense ) , net other , net , which is included in other income ( expense ) , net , was as follows , in millions: ."
+    ],
+    "post_text": [
+      "masco corporation notes to consolidated financial statements 2014 ( continued ) ."
+    ],
+    "table": [
+      [
+        "",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      [
+        "income from cash and cash investments",
+        "$ 6",
+        "$ 7",
+        "$ 22"
+      ],
+      [
+        "other interest income",
+        "1",
+        "2",
+        "2"
+      ],
+      [
+        "income from financial investments net ( note e )",
+        "9",
+        "3",
+        "1"
+      ],
+      [
+        "other items net",
+        "-9 ( 9 )",
+        "17",
+        "-22 ( 22 )"
+      ],
+      [
+        "total other net",
+        "$ 7",
+        "$ 29",
+        "$ 3"
+      ]
+    ],
+    "questions": [
+      "what was the income from financial investments net in 2010?",
+      "and in 2009?",
+      "so what was the difference between these two years?",
+      "and the value for 2009 again?",
+      "so what was the percentage increase during this time?"
+    ]
+  }
+}

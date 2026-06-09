@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the change in value of an investment in ups from 2012 to 2017?",
+      "answer": 95.75,
+      "answer_raw": "95.75",
+      "program": "subtract(195.75, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what percentage changes does this represent?",
+      "answer": 0.9575,
+      "answer_raw": "0.9575",
+      "program": "subtract(195.75, const_100), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the change in value of an investment in dow jones from 2012 to 2017?",
+      "answer": 113.49,
+      "answer_raw": "113.49",
+      "program": "subtract(195.75, const_100), divide(#0, const_100), subtract(213.49, const_100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage changes does this represent?",
+      "answer": 1.1349,
+      "answer_raw": "1.1349",
+      "program": "subtract(195.75, const_100), divide(#0, const_100), subtract(213.49, const_100), divide(#2, const_100)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the difference between return on investment on ups and dow jones?",
+      "answer": -0.1774,
+      "answer_raw": "-0.1774",
+      "program": "subtract(195.75, const_100), divide(#0, const_100), subtract(213.49, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

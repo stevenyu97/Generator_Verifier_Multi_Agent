@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the increase in fuel cost recovery revenues as a percentage of the change in net revenue from 2002 to 2003?",
+      "answer": 21.36893,
+      "answer_raw": "21.36893",
+      "program": "subtract(1130.7, 1110.1), divide(440.2, #0)"
+    }
+  ]
+}

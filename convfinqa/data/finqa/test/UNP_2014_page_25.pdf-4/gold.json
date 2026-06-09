@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in fuel surcharge program freight revenue from 2013 to 2014?",
+      "answer": 0.07692,
+      "answer_raw": "0.07692",
+      "program": "subtract(2.8, 2.6), divide(#0, 2.6)"
+    }
+  ]
+}

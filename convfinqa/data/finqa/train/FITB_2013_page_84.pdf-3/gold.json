@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were total share repurchases for 2013 including the employee compensation plans repurchases?",
+      "answer": 67379223.0,
+      "answer_raw": "67379223.0",
+      "program": "add(1863097, 65516126)"
+    }
+  ]
+}

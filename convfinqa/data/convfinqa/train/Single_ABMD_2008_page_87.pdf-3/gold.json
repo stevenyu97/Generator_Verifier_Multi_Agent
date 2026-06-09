@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of operating leases in 2010?",
+      "answer": 2220.0,
+      "answer_raw": "2220.0",
+      "program": "2220"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2009?",
+      "answer": 2544.0,
+      "answer_raw": "2544.0",
+      "program": "2544"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": -324.0,
+      "answer_raw": "-324.0",
+      "program": "subtract(2220, 2544)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the net change divided by the 2009 value?",
+      "answer": -0.12736,
+      "answer_raw": "-0.12736",
+      "program": "subtract(2220, 2544), divide(#0, 2544)"
+    }
+  ]
+}

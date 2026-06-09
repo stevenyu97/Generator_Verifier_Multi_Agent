@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at january 12007 what was the percent of the interest and penalties included in the gross unrecognized tax benefits",
+      "answer": 0.19392,
+      "answer_raw": "0.19392",
+      "program": "add(65, 69), divide(#0, 691)"
+    }
+  ]
+}

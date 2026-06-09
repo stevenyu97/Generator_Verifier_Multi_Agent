@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2009, what percentage of the total due aggregate annual maturities of long-term debt obligations ( based on final maturity dates ), including trust preferred securities, were related to citigroup funding inc .?",
+      "answer": 0.19929,
+      "answer_raw": "0.19929",
+      "program": "divide(17632, 88472)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and three years later, in 2012, what were those total aggregate annual maturities of long-term debt obligations?",
+      "answer": 27999.0,
+      "answer_raw": "27999.0",
+      "program": "27999"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what were they in 2011?",
+      "answer": 42112.0,
+      "answer_raw": "42112.0",
+      "program": "42112"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was, then, the change over the year?",
+      "answer": -14113.0,
+      "answer_raw": "-14113.0",
+      "program": "subtract(27999, 42112)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and what is this change as a percentage of those 2011 obligations?",
+      "answer": -0.33513,
+      "answer_raw": "-0.33513",
+      "program": "subtract(27999, 42112), divide(#0, 42112)"
+    }
+  ]
+}

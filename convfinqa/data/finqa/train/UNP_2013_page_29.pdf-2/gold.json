@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total operating expenses was fuel in 2012?",
+      "answer": 0.25442,
+      "answer_raw": "0.25442",
+      "program": "divide(3608, 14181)"
+    }
+  ]
+}

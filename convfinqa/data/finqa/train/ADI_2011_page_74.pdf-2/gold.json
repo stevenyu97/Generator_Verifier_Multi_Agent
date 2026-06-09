@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total fair value of restricted stock units outstanding at october 29 , 2011?",
+      "answer": 64936.8,
+      "answer_raw": "64936.8",
+      "program": "multiply(2088, 31.10)"
+    }
+  ]
+}

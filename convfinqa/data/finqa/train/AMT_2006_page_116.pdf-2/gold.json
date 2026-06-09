@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of state operating loss carryforwards expire between 2017 and 2021?",
+      "answer": 0.39307,
+      "answer_raw": "0.39307",
+      "program": "divide(1001789, 2548612)"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "input": {
+    "id": "MO/2017/page_10.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "10-k altria ar release tuesday , february 27 , 2018 10:00pm andra design llc the relative percentages of operating companies income ( loss ) attributable to each reportable segment and the all other category were as follows: ."
+    ],
+    "post_text": [
+      "for items affecting the comparability of the relative percentages of operating companies income ( loss ) attributable to each reportable segment , see note 15 .",
+      "narrative description of business portions of the information called for by this item are included in operating results by business segment in item 7 .",
+      "management 2019s discussion and analysis of financial condition and results of operations of this annual report on form 10-k ( 201citem 7 201d ) .",
+      "tobacco space altria group , inc . 2019s tobacco operating companies include pm usa , usstc and other subsidiaries of ust , middleton , nu mark and nat sherman .",
+      "altria group distribution company provides sales and distribution services to altria group , inc . 2019s tobacco operating companies .",
+      "the products of altria group , inc . 2019s tobacco subsidiaries include smokeable tobacco products , consisting of cigarettes manufactured and sold by pm usa and nat sherman , machine- made large cigars and pipe tobacco manufactured and sold by middleton and premium cigars sold by nat sherman ; smokeless tobacco products manufactured and sold by usstc ; and innovative tobacco products , including e-vapor products manufactured and sold by nu mark .",
+      "cigarettes : pm usa is the largest cigarette company in the united states .",
+      "marlboro , the principal cigarette brand of pm usa , has been the largest-selling cigarette brand in the united states for over 40 years .",
+      "nat sherman sells substantially all of its super premium cigarettes in the united states .",
+      "total smokeable products segment 2019s cigarettes shipment volume in the united states was 116.6 billion units in 2017 , a decrease of 5.1% ( 5.1 % ) from cigars : middleton is engaged in the manufacture and sale of machine-made large cigars and pipe tobacco .",
+      "middleton contracts with a third-party importer to supply a majority of its cigars and sells substantially all of its cigars to customers in the united states .",
+      "black & mild is the principal cigar brand of middleton .",
+      "nat sherman sources all of its cigars from third-party suppliers and sells substantially all of its cigars to customers in the united states .",
+      "total smokeable products segment 2019s cigars shipment volume was approximately 1.5 billion units in 2017 , an increase of 9.9% ( 9.9 % ) from 2016 .",
+      "smokeless tobacco products : usstc is the leading producer and marketer of moist smokeless tobacco ( 201cmst 201d ) products .",
+      "the smokeless products segment includes the premium brands , copenhagen and skoal , and value brands , red seal and husky .",
+      "substantially all of the smokeless tobacco products are manufactured and sold to customers in the united states .",
+      "total smokeless products segment 2019s shipment volume was 841.3 million units in 2017 , a decrease of 1.4% ( 1.4 % ) from 2016 .",
+      "innovative tobacco products : nu mark participates in the e-vapor category and has developed and commercialized other innovative tobacco products .",
+      "in addition , nu mark sources the production of its e-vapor products through overseas contract manufacturing arrangements .",
+      "in 2013 , nu mark introduced markten e-vapor products .",
+      "in april 2014 , nu mark acquired the e-vapor business of green smoke , inc .",
+      "and its affiliates ( 201cgreen smoke 201d ) , which began selling e-vapor products in 2009 .",
+      "in 2017 , altria group , inc . 2019s subsidiaries purchased certain intellectual property related to innovative tobacco products .",
+      "in december 2013 , altria group , inc . 2019s subsidiaries entered into a series of agreements with philip morris international inc .",
+      "( 201cpmi 201d ) pursuant to which altria group , inc . 2019s subsidiaries provide an exclusive license to pmi to sell nu mark 2019s e-vapor products outside the united states , and pmi 2019s subsidiaries provide an exclusive license to altria group , inc . 2019s subsidiaries to sell two of pmi 2019s heated tobacco product platforms in the united states .",
+      "further , in july 2015 , altria group , inc .",
+      "announced the expansion of its strategic framework with pmi to include a joint research , development and technology-sharing agreement .",
+      "under this agreement , altria group , inc . 2019s subsidiaries and pmi will collaborate to develop e-vapor products for commercialization in the united states by altria group , inc . 2019s subsidiaries and in markets outside the united states by pmi .",
+      "this agreement also provides for exclusive technology cross licenses , technical information sharing and cooperation on scientific assessment , regulatory engagement and approval related to e-vapor products .",
+      "in the fourth quarter of 2016 , pmi submitted a modified risk tobacco product ( 201cmrtp 201d ) application for an electronically heated tobacco product with the united states food and drug administration 2019s ( 201cfda 201d ) center for tobacco products and filed its corresponding pre-market tobacco product application in the first quarter of 2017 .",
+      "upon regulatory authorization by the fda , altria group , inc . 2019s subsidiaries will have an exclusive license to sell this heated tobacco product in the united states .",
+      "distribution , competition and raw materials : altria group , inc . 2019s tobacco subsidiaries sell their tobacco products principally to wholesalers ( including distributors ) , large retail organizations , including chain stores , and the armed services .",
+      "the market for tobacco products is highly competitive , characterized by brand recognition and loyalty , with product quality , taste , price , product innovation , marketing , packaging and distribution constituting the significant methods of competition .",
+      "promotional activities include , in certain instances and where permitted by law , allowances , the distribution of incentive items , price promotions , product promotions , coupons and other discounts. ."
+    ],
+    "table": [
+      [
+        "",
+        "2017",
+        "2016",
+        "2015"
+      ],
+      [
+        "smokeable products",
+        "85.8% ( 85.8 % )",
+        "86.2% ( 86.2 % )",
+        "87.4% ( 87.4 % )"
+      ],
+      [
+        "smokeless products",
+        "13.2",
+        "13.1",
+        "12.8"
+      ],
+      [
+        "wine",
+        "1.5",
+        "1.8",
+        "1.8"
+      ],
+      [
+        "all other",
+        "-0.5 ( 0.5 )",
+        "-1.1 ( 1.1 )",
+        "-2.0 ( 2.0 )"
+      ],
+      [
+        "total",
+        "100.0% ( 100.0 % )",
+        "100.0% ( 100.0 % )",
+        "100.0% ( 100.0 % )"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in the weight of smokeless products in operating income from 2016 to 2017?"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total pre-tax catastrophe losses of 2006 and 2005?",
+      "answer": 1773.6,
+      "answer_raw": "1773.6",
+      "program": "add(287.9, 1485.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the pre-tax catastrophe losses of 2004?",
+      "answer": 390.0,
+      "answer_raw": "390.0",
+      "program": "390.0"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "then what is the total pre-tax catastrophe losses if we also include 2004?",
+      "answer": 2163.6,
+      "answer_raw": "2163.6",
+      "program": "add(287.9, 1485.7), add(#0, 390.0)"
+    }
+  ]
+}

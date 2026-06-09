@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "between july 1 2014 to september 30 2014 what was the spread between the high and low price per share?",
+      "answer": 14.55,
+      "answer_raw": "14.55",
+      "program": "subtract(62.05, 47.50)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total amount of the years 2019 and 2020?",
+      "answer": 32.0,
+      "answer_raw": "32.0",
+      "program": "add(17, 15)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the total amount of the years 2021 and 2022?",
+      "answer": 23.0,
+      "answer_raw": "23.0",
+      "program": "add(17, 15), add(12, 11)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what is the total amount of the years 2023 and thereafter?",
+      "answer": 86.0,
+      "answer_raw": "86.0",
+      "program": "add(17, 15), add(12, 11), add(6, 80)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is the total amount of the years from 2019 to 2022?",
+      "answer": 55.0,
+      "answer_raw": "55.0",
+      "program": "add(17, 15), add(12, 11), add(6, 80), add(#0, #1)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and what is the total amount of the years from 2019 to thereafter?",
+      "answer": 141.0,
+      "answer_raw": "141.0",
+      "program": "add(17, 15), add(12, 11), add(6, 80), add(#0, #1), add(#3, #2)"
+    }
+  ]
+}

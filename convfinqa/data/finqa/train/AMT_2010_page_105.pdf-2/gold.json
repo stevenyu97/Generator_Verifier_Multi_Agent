@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total cash obligations is due within the next 12 months?",
+      "answer": 0.01339,
+      "answer_raw": "0.01339",
+      "program": "divide(74896, 5594224)"
+    }
+  ]
+}

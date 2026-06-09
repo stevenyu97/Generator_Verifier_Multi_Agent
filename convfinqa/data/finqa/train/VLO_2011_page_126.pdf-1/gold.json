@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many total derivative instruments matured by 2012?",
+      "answer": 71416.0,
+      "answer_raw": "71416.0",
+      "program": "add(15398, 35708), add(#0, 20310)"
+    }
+  ]
+}

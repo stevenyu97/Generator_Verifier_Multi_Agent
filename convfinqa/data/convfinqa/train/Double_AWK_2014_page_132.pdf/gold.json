@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net effect of the one percentage point change on the other post retirement benefit obligations combined?",
+      "answer": 19788.0,
+      "answer_raw": "19788.0",
+      "program": "add(105967, -86179)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the ratio increase in the service and cost components compared to other post retirement benefit obligation?",
+      "answer": 0.05608,
+      "answer_raw": "0.05608",
+      "program": "divide(5943, 105967)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the yearly interest incurred by the redeemed amount of junior subordinated debt , in thousands?",
+      "answer": 20453.614,
+      "answer_raw": "20453.614",
+      "program": "multiply(329897, 6.2%)"
+    }
+  ]
+}

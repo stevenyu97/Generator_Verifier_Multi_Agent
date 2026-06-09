@@ -1,0 +1,47 @@
+{
+  "input": {
+    "id": "GIS/2019/page_53.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the table below presents the estimated maximum potential var arising from a one-day loss in fair value for our interest rate , foreign currency , commodity , and equity market-risk-sensitive instruments outstanding as of may 26 , 2019 and may 27 , 2018 , and the average fair value impact during the year ended may 26 , 2019. ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "in millions",
+        "fair value impact may 26 2019",
+        "fair value impact averageduringfiscal 2019",
+        "fair value impact may 27 2018"
+      ],
+      [
+        "interest rate instruments",
+        "$ 74.4",
+        "$ 46.1",
+        "$ 33.2"
+      ],
+      [
+        "foreign currency instruments",
+        "16.8",
+        "19.0",
+        "21.3"
+      ],
+      [
+        "commodity instruments",
+        "4.1",
+        "2.5",
+        "1.9"
+      ],
+      [
+        "equity instruments",
+        "2.3",
+        "2.2",
+        "2.0"
+      ]
+    ],
+    "questions": [
+      "what is the change in fair value of foreign currency instruments from 2018 to 2019?"
+    ]
+  }
+}

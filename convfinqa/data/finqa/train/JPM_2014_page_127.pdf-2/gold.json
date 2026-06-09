@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the summary of the net derivative receivables what was the percent of of the foreign exchange",
+      "answer": 0.35797,
+      "answer_raw": "0.35797",
+      "program": "divide(21253, 59371)"
+    }
+  ]
+}

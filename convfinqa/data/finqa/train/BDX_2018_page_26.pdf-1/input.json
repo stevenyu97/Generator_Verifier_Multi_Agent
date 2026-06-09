@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "BDX/2018/page_26.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "agreements containing cross-default provisions .",
+      "under these circumstances , we might not have sufficient funds or other resources to satisfy all of our obligations .",
+      "the mandatory convertible preferred stock underlying the depositary shares issued in connection with the financing of the bard transaction may adversely affect the market price of bd common stock .",
+      "the market price of bd common stock is likely to be influenced by the mandatory convertible preferred stock underlying the depositary shares issued in connection with the financing for the bard transaction .",
+      "the market price of bd common stock could become more volatile and could be depressed by : 2022 investors 2019 anticipation of the potential resale in the market of a substantial number of additional shares of bd common stock received upon conversion of the mandatory convertible preferred stock ; 2022 possible sales of bd common stock by investors who view the mandatory convertible preferred stock as a more attractive means of equity participation in bd than owning shares of bd common stock ; and 2022 hedging or arbitrage trading activity that may develop involving the mandatory convertible preferred stock and bd common stock .",
+      "item 1b .",
+      "unresolved staff comments .",
+      "item 2 .",
+      "properties .",
+      "bd 2019s executive offices are located in franklin lakes , new jersey .",
+      "as of october 31 , 2018 , bd owned or leased 380 facilities throughout the world , comprising approximately 24658363 square feet of manufacturing , warehousing , administrative and research facilities .",
+      "the u.s .",
+      "facilities , including those in puerto rico , comprise approximately 8619099 square feet of owned and 4407539 square feet of leased space .",
+      "the international facilities comprise approximately 8484223 square feet of owned and 3147502 square feet of leased space .",
+      "sales offices and distribution centers included in the total square footage are also located throughout the world .",
+      "operations in each of bd 2019s business segments are conducted at both u.s .",
+      "and international locations .",
+      "particularly in the international marketplace , facilities often serve more than one business segment and are used for multiple purposes , such as administrative/sales , manufacturing and/or warehousing/distribution .",
+      "bd generally seeks to own its manufacturing facilities , although some are leased .",
+      "the following table summarizes property information by business segment. ."
+    ],
+    "post_text": [
+      "( a ) facilities used by more than one business segment .",
+      "bd believes that its facilities are of good construction and in good physical condition , are suitable and adequate for the operations conducted at those facilities , and are , with minor exceptions , fully utilized and operating at normal capacity .",
+      "the u.s .",
+      "facilities are located in alabama , arizona , california , connecticut , florida , georgia , illinois , indiana , maryland , massachusetts , michigan , minnesota , missouri , montana , nebraska , new jersey , new york , north carolina , ohio , oklahoma , oregon , pennsylvania , rhode island , south carolina , tennessee , texas , utah , virginia , washington , d.c. , washington , wisconsin and puerto rico. ."
+    ],
+    "table": [
+      [
+        "sites",
+        "corporate",
+        "bd life sciences",
+        "bd medical",
+        "bd interventional",
+        "mixed ( a )",
+        "total"
+      ],
+      [
+        "leased",
+        "20",
+        "21",
+        "81",
+        "86",
+        "83",
+        "291"
+      ],
+      [
+        "owned",
+        "6",
+        "23",
+        "31",
+        "23",
+        "6",
+        "89"
+      ],
+      [
+        "total",
+        "26",
+        "44",
+        "112",
+        "109",
+        "89",
+        "380"
+      ],
+      [
+        "square feet",
+        "2281986",
+        "3958668",
+        "10946766",
+        "4651903",
+        "2819040",
+        "24658363"
+      ]
+    ],
+    "questions": [
+      "as of october 31 , 2018 , what was the average square footage per location bd owned or leased in square feet ."
+    ]
+  }
+}

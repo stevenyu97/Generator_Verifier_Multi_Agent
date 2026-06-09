@@ -1,0 +1,95 @@
+{
+  "input": {
+    "id": "IP/2009/page_83.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "deferred tax assets and liabilities are recorded in the accompanying consolidated balance sheet under the captions deferred income tax assets , deferred charges and other assets , other accrued liabilities and deferred income taxes .",
+      "the decrease in 2009 in deferred tax assets principally relates to the tax impact of changes in recorded qualified pension liabilities , minimum tax credit utilization and an increase in the valuation allowance .",
+      "the decrease in deferred income tax liabilities principally relates to less tax depreciation taken on the company 2019s assets purchased in 2009 .",
+      "the valuation allowance for deferred tax assets as of december 31 , 2008 was $ 72 million .",
+      "the net change in the total valuation allowance for the year ended december 31 , 2009 , was an increase of $ 274 million .",
+      "the increase of $ 274 million consists primarily of : ( 1 ) $ 211 million related to the company 2019s french operations , including a valuation allowance of $ 55 million against net deferred tax assets from current year operations and $ 156 million recorded in the second quarter of 2009 for the establishment of a valuation allowance against previously recorded deferred tax assets , ( 2 ) $ 10 million for net deferred tax assets arising from the company 2019s united king- dom current year operations , and ( 3 ) $ 47 million related to a reduction of previously recorded u.s .",
+      "state deferred tax assets , including $ 15 million recorded in the fourth quarter of 2009 for louisiana recycling credits .",
+      "the effect on the company 2019s effec- tive tax rate of the aforementioned $ 211 million and $ 10 million is included in the line item 201ctax rate and permanent differences on non-u.s .",
+      "earnings . 201d international paper adopted the provisions of new guidance under asc 740 , 201cincome taxes , 201d on jan- uary 1 , 2007 related to uncertain tax positions .",
+      "as a result of the implementation of this new guidance , the company recorded a charge to the beginning balance of retained earnings of $ 94 million , which was accounted for as a reduction to the january 1 , 2007 balance of retained earnings .",
+      "a reconciliation of the beginning and ending amount of unrecognized tax benefits for the year ending december 31 , 2009 and 2008 is as follows : in millions 2009 2008 2007 ."
+    ],
+    "post_text": [
+      "included in the balance at december 31 , 2009 and 2008 are $ 56 million and $ 9 million , respectively , for tax positions for which the ultimate benefits are highly certain , but for which there is uncertainty about the timing of such benefits .",
+      "however , except for the possible effect of any penalties , any dis- allowance that would change the timing of these benefits would not affect the annual effective tax rate , but would accelerate the payment of cash to the taxing authority to an earlier period .",
+      "the company accrues interest on unrecognized tax benefits as a component of interest expense .",
+      "penal- ties , if incurred , are recognized as a component of income tax expense .",
+      "the company had approx- imately $ 95 million and $ 74 million accrued for the payment of estimated interest and penalties asso- ciated with unrecognized tax benefits at december 31 , 2009 and 2008 , respectively .",
+      "the major jurisdictions where the company files income tax returns are the united states , brazil , france , poland and russia .",
+      "generally , tax years 2002 through 2009 remain open and subject to examina- tion by the relevant tax authorities .",
+      "the company is typically engaged in various tax examinations at any given time , both in the united states and overseas .",
+      "currently , the company is engaged in discussions with the u.s .",
+      "internal revenue service regarding the examination of tax years 2006 and 2007 .",
+      "as a result of these discussions , other pending tax audit settle- ments , and the expiration of statutes of limitation , the company currently estimates that the amount of unrecognized tax benefits could be reduced by up to $ 125 million during the next twelve months .",
+      "during 2009 , unrecognized tax benefits decreased by $ 127 million .",
+      "while the company believes that it is adequately accrued for possible audit adjustments , the final resolution of these examinations cannot be determined at this time and could result in final settlements that differ from current estimates .",
+      "the company 2019s 2009 income tax provision of $ 469 million included $ 279 million related to special items and other charges , consisting of a $ 534 million tax benefit related to restructuring and other charges , a $ 650 million tax expense for the alternative fuel mixture credit , and $ 163 million of tax-related adjustments including a $ 156 million tax expense to establish a valuation allowance for net operating loss carryforwards in france , a $ 26 million tax benefit for the effective settlement of federal tax audits , a $ 15 million tax expense to establish a valuation allow- ance for louisiana recycling credits , and $ 18 million of other income tax adjustments .",
+      "excluding the impact of special items , the tax provision was ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2009",
+        "2008",
+        "2007"
+      ],
+      [
+        "balance at january 1",
+        "$ -435 ( 435 )",
+        "$ -794 ( 794 )",
+        "-919 ( 919 )"
+      ],
+      [
+        "additions based on tax positions related to current year",
+        "-28 ( 28 )",
+        "-14 ( 14 )",
+        "-12 ( 12 )"
+      ],
+      [
+        "additions for tax positions of prior years",
+        "-82 ( 82 )",
+        "-66 ( 66 )",
+        "-30 ( 30 )"
+      ],
+      [
+        "reductions for tax positions of prior years",
+        "72",
+        "67",
+        "74"
+      ],
+      [
+        "settlements",
+        "174",
+        "352",
+        "112"
+      ],
+      [
+        "expiration of statutes of limitations",
+        "2",
+        "3",
+        "5"
+      ],
+      [
+        "currency translation adjustment",
+        "-11 ( 11 )",
+        "17",
+        "-24 ( 24 )"
+      ],
+      [
+        "balance at december 31",
+        "$ -308 ( 308 )",
+        "$ -435 ( 435 )",
+        "$ -794 ( 794 )"
+      ]
+    ],
+    "questions": [
+      "what was the change in unrecognized tax benefits between 2008 and 2009?"
+    ]
+  }
+}

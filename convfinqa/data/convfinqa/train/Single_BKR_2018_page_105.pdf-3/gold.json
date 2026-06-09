@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in fair value per share from 2017 to 2018?",
+      "answer": -1.98,
+      "answer_raw": "-1.98",
+      "program": "subtract(10.34, 12.32)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": -0.16071,
+      "answer_raw": "-0.16071",
+      "program": "subtract(10.34, 12.32), divide(#0, 12.32)"
+    }
+  ]
+}

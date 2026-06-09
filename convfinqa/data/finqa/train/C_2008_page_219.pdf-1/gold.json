@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of citigroup 2019s total other commitments as of december 31 , 2008 are outside the u.s.?",
+      "answer": 0.17557,
+      "answer_raw": "0.17557",
+      "program": "divide(236931, 1349500)"
+    }
+  ]
+}

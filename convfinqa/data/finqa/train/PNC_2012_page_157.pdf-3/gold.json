@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "excluding expenses recognized in 2012 in connection with the rbc acquisitions , what would net income be in millions?",
+      "answer": 3256.0,
+      "answer_raw": "3256.0",
+      "program": "add(2989, 267)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in madison wi what was the ratio of the square feet excluded for which the leases do not commence until 2018 as of december 31 , 2017",
+      "answer": 4.23288,
+      "answer_raw": "4.23288",
+      "program": "divide(309000, 73000)"
+    }
+  ]
+}

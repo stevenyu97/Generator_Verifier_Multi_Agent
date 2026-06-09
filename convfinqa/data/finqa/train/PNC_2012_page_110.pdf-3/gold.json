@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions , what is the total of home equity lines of credit?",
+      "answer": 22929.0,
+      "answer_raw": "22929.0",
+      "program": "add(15553, 7376)"
+    }
+  ]
+}

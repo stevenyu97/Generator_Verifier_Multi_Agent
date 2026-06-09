@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average entergy louisiana receivables from 2008 to 2011 in millions",
+      "answer": -16402.0,
+      "answer_raw": "-16402.0",
+      "program": "multiply(118415, const_m1), add(#0, 49887), add(#0, 52807), add(#1, 61236), divide(#2, const_4)"
+    }
+  ]
+}

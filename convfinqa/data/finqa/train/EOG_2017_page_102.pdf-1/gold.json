@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the highest initial balance observed during 2015-2017?",
+      "answer": 1149309.0,
+      "answer_raw": "1149309.0",
+      "program": "table_max(balance at january 1, none)"
+    }
+  ]
+}

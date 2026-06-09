@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "IP/2012/page_57.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "freesheet paper were higher in russia , but lower in europe reflecting weak economic conditions and market demand .",
+      "average sales price realizations for pulp decreased .",
+      "lower input costs for wood and purchased fiber were partially offset by higher costs for energy , chemicals and packaging .",
+      "freight costs were also higher .",
+      "planned maintenance downtime costs were higher due to executing a significant once-every-ten-years maintenance outage plus the regularly scheduled 18-month outage at the saillat mill while outage costs in russia and poland were lower .",
+      "manufacturing operating costs were favor- entering 2013 , sales volumes in the first quarter are expected to be seasonally weaker in russia , but about flat in europe .",
+      "average sales price realizations for uncoated freesheet paper are expected to decrease in europe , but increase in russia .",
+      "input costs should be higher in russia , especially for wood and energy , but be slightly lower in europe .",
+      "no maintenance outages are scheduled for the first quarter .",
+      "ind ian papers includes the results of andhra pradesh paper mills ( appm ) of which a 75% ( 75 % ) interest was acquired on october 14 , 2011 .",
+      "net sales were $ 185 million in 2012 and $ 35 million in 2011 .",
+      "operat- ing profits were a loss of $ 16 million in 2012 and a loss of $ 3 million in 2011 .",
+      "asian pr int ing papers net sales were $ 85 mil- lion in 2012 , $ 75 million in 2011 and $ 80 million in 2010 .",
+      "operating profits were improved from break- even in past years to $ 1 million in 2012 .",
+      "u.s .",
+      "pulp net sales were $ 725 million in 2012 compared with $ 725 million in 2011 and $ 715 million in 2010 .",
+      "operating profits were a loss of $ 59 million in 2012 compared with gains of $ 87 million in 2011 and $ 107 million in 2010 .",
+      "sales volumes in 2012 increased from 2011 primarily due to the start-up of pulp production at the franklin mill in the third quarter of 2012 .",
+      "average sales price realizations were significantly lower for both fluff pulp and market pulp .",
+      "input costs were lower , primarily for wood and energy .",
+      "freight costs were slightly lower .",
+      "mill operating costs were unfavorable primarily due to costs associated with the start-up of the franklin mill .",
+      "planned maintenance downtime costs were lower .",
+      "in the first quarter of 2013 , sales volumes are expected to be flat with the fourth quarter of 2012 .",
+      "average sales price realizations are expected to improve reflecting the realization of sales price increases for paper and tissue pulp that were announced in the fourth quarter of 2012 .",
+      "input costs should be flat .",
+      "planned maintenance downtime costs should be about $ 9 million higher than in the fourth quarter of 2012 .",
+      "manufacturing costs related to the franklin mill should be lower as we continue to improve operations .",
+      "consumer packaging demand and pricing for consumer packaging prod- ucts correlate closely with consumer spending and general economic activity .",
+      "in addition to prices and volumes , major factors affecting the profitability of consumer packaging are raw material and energy costs , freight costs , manufacturing efficiency and product mix .",
+      "consumer packaging net sales in 2012 decreased 15% ( 15 % ) from 2011 and 7% ( 7 % ) from 2010 .",
+      "operating profits increased 64% ( 64 % ) from 2011 and 29% ( 29 % ) from 2010 .",
+      "net sales and operating profits include the shorewood business in 2011 and 2010 .",
+      "exclud- ing asset impairment and other charges associated with the sale of the shorewood business , and facility closure costs , 2012 operating profits were 27% ( 27 % ) lower than in 2011 , but 23% ( 23 % ) higher than in 2010 .",
+      "benefits from lower raw material costs ( $ 22 million ) , lower maintenance outage costs ( $ 5 million ) and other items ( $ 2 million ) were more than offset by lower sales price realizations and an unfavorable product mix ( $ 66 million ) , lower sales volumes and increased market-related downtime ( $ 22 million ) , and higher operating costs ( $ 40 million ) .",
+      "in addition , operating profits in 2012 included a gain of $ 3 million related to the sale of the shorewood business while operating profits in 2011 included a $ 129 million fixed asset impairment charge for the north ameri- can shorewood business and $ 72 million for other charges associated with the sale of the shorewood business .",
+      "consumer packaging ."
+    ],
+    "post_text": [
+      "north american consumer packaging net sales were $ 2.0 billion in 2012 compared with $ 2.5 billion in 2011 and $ 2.4 billion in 2010 .",
+      "operating profits were $ 165 million ( $ 162 million excluding a gain related to the sale of the shorewood business ) in 2012 compared with $ 35 million ( $ 236 million excluding asset impairment and other charges asso- ciated with the sale of the shorewood business ) in 2011 and $ 97 million ( $ 105 million excluding facility closure costs ) in 2010 .",
+      "coated paperboard sales volumes in 2012 were lower than in 2011 reflecting weaker market demand .",
+      "average sales price realizations were lower , primar- ily for folding carton board .",
+      "input costs for wood increased , but were partially offset by lower costs for chemicals and energy .",
+      "planned maintenance down- time costs were slightly lower .",
+      "market-related down- time was about 113000 tons in 2012 compared with about 38000 tons in 2011. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2012",
+        "2011",
+        "2010"
+      ],
+      [
+        "sales",
+        "$ 3170",
+        "$ 3710",
+        "$ 3400"
+      ],
+      [
+        "operating profit",
+        "268",
+        "163",
+        "207"
+      ]
+    ],
+    "questions": [
+      "what percentage where north american consumer packaging net sales of total consumer packaging sales in 2011?"
+    ]
+  }
+}

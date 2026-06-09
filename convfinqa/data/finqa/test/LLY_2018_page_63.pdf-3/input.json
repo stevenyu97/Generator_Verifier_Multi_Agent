@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "LLY/2018/page_63.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "note 6 : inventories we use the last-in , first-out ( lifo ) method for the majority of our inventories located in the continental u.s .",
+      "other inventories are valued by the first-in , first-out ( fifo ) method .",
+      "fifo cost approximates current replacement cost .",
+      "inventories measured using lifo must be valued at the lower of cost or market .",
+      "inventories measured using fifo must be valued at the lower of cost or net realizable value .",
+      "inventories at december 31 consisted of the following: ."
+    ],
+    "post_text": [
+      "inventories valued under the lifo method comprised $ 1.57 billion and $ 1.56 billion of total inventories at december 31 , 2018 and 2017 , respectively .",
+      "note 7 : financial instruments financial instruments that potentially subject us to credit risk consist principally of trade receivables and interest- bearing investments .",
+      "wholesale distributors of life-science products account for a substantial portion of our trade receivables ; collateral is generally not required .",
+      "we seek to mitigate the risk associated with this concentration through our ongoing credit-review procedures and insurance .",
+      "a large portion of our cash is held by a few major financial institutions .",
+      "we monitor our exposures with these institutions and do not expect any of these institutions to fail to meet their obligations .",
+      "major financial institutions represent the largest component of our investments in corporate debt securities .",
+      "in accordance with documented corporate risk-management policies , we monitor the amount of credit exposure to any one financial institution or corporate issuer .",
+      "we are exposed to credit-related losses in the event of nonperformance by counterparties to risk-management instruments but do not expect any counterparties to fail to meet their obligations given their high credit ratings .",
+      "we consider all highly liquid investments with a maturity of three months or less from the date of purchase to be cash equivalents .",
+      "the cost of these investments approximates fair value .",
+      "our equity investments are accounted for using three different methods depending on the type of equity investment : 2022 investments in companies over which we have significant influence but not a controlling interest are accounted for using the equity method , with our share of earnings or losses reported in other-net , ( income ) expense .",
+      "2022 for equity investments that do not have readily determinable fair values , we measure these investments at cost , less any impairment , plus or minus changes resulting from observable price changes in orderly transactions for the identical or similar investment of the same issuer .",
+      "any change in recorded value is recorded in other-net , ( income ) expense .",
+      "2022 our public equity investments are measured and carried at fair value .",
+      "any change in fair value is recognized in other-net , ( income ) expense .",
+      "we review equity investments other than public equity investments for indications of impairment on a regular basis .",
+      "our derivative activities are initiated within the guidelines of documented corporate risk-management policies and are intended to offset losses and gains on the assets , liabilities , and transactions being hedged .",
+      "management reviews the correlation and effectiveness of our derivatives on a quarterly basis. ."
+    ],
+    "table": [
+      [
+        "",
+        "2018",
+        "2017"
+      ],
+      [
+        "finished products",
+        "$ 988.1",
+        "$ 1211.4"
+      ],
+      [
+        "work in process",
+        "2628.2",
+        "2697.7"
+      ],
+      [
+        "raw materials and supplies",
+        "506.5",
+        "488.8"
+      ],
+      [
+        "total ( approximates replacement cost )",
+        "4122.8",
+        "4397.9"
+      ],
+      [
+        "increase ( reduction ) to lifo cost",
+        "-11.0 ( 11.0 )",
+        "60.4"
+      ],
+      [
+        "inventories",
+        "$ 4111.8",
+        "$ 4458.3"
+      ]
+    ],
+    "questions": [
+      "what was the percent of the finished products to the total inventory"
+    ]
+  }
+}

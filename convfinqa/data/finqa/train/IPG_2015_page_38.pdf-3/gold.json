@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average dividend payment per share of common stock that was repurchased , per quarter?",
+      "answer": 3.59375,
+      "answer_raw": "3.59375",
+      "program": "divide(195.5, 13.6), divide(#0, const_4)"
+    }
+  ]
+}

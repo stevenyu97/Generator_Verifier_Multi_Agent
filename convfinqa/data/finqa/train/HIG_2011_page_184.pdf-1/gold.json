@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2011 what was the percent of the total collateral loaned securities and derivative instruments collateral pledged that was associated with short-term investments",
+      "answer": 0.15486,
+      "answer_raw": "0.15486",
+      "program": "divide(199, 1285)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2021 and 2022 , what were total millions of minimum annual future rental commitment under operating leases that have initial or remaining non-cancelable lease terms?",
+      "answer": 23.0,
+      "answer_raw": "23.0",
+      "program": "add(12, 11)"
+    }
+  ]
+}

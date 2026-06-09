@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much of the securities borrowed in 2008 were fair value resale agreements?",
+      "answer": 0.16774,
+      "answer_raw": "0.16774",
+      "program": "multiply(20.8, const_1000), divide(#0, 124000)"
+    }
+  ]
+}

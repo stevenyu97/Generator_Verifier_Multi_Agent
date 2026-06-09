@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "Double_RSG/2016/page_69.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "liquidity and capital resources the major components of changes in cash flows for 2016 , 2015 and 2014 are discussed in the following paragraphs .",
+      "the following table summarizes our cash flow from operating activities , investing activities and financing activities for the years ended december 31 , 2016 , 2015 and 2014 ( in millions of dollars ) : ."
+    ],
+    "post_text": [
+      "cash flows provided by operating activities the most significant items affecting the comparison of our operating cash flows for 2016 and 2015 are summarized below : changes in assets and liabilities , net of effects from business acquisitions and divestitures , decreased our cash flow from operations by $ 205.2 million in 2016 , compared to a decrease of $ 316.7 million in 2015 , primarily as a result of the following : 2022 our accounts receivable , exclusive of the change in allowance for doubtful accounts and customer credits , increased $ 52.3 million during 2016 due to the timing of billings net of collections , compared to a $ 15.7 million increase in 2015 .",
+      "as of december 31 , 2016 and 2015 , our days sales outstanding were 38.1 and 38.3 days , or 26.1 and 25.8 days net of deferred revenue , respectively .",
+      "2022 our accounts payable decreased $ 9.8 million during 2016 compared to an increase of $ 35.6 million during 2015 , due to the timing of payments .",
+      "2022 cash paid for capping , closure and post-closure obligations was $ 11.0 million lower during 2016 compared to 2015 .",
+      "the decrease in cash paid for capping , closure , and post-closure obligations is primarily due to payments in 2015 related to a required capping event at one of our closed landfills .",
+      "2022 cash paid for remediation obligations was $ 13.2 million lower during 2016 compared to 2015 primarily due to the timing of obligations .",
+      "in addition , cash paid for income taxes was approximately $ 265 million and $ 321 million for 2016 and 2015 , respectively .",
+      "income taxes paid in 2016 and 2015 reflect the favorable tax depreciation provisions of the protecting americans from tax hikes act signed into law in december 2015 as well as the realization of certain tax credits .",
+      "cash paid for interest was $ 330.2 million and $ 327.6 million for 2016 and 2015 , respectively .",
+      "the most significant items affecting the comparison of our operating cash flows for 2015 and 2014 are summarized below : changes in assets and liabilities , net of effects of business acquisitions and divestitures , decreased our cash flow from operations by $ 316.7 million in 2015 , compared to a decrease of $ 295.6 million in 2014 , primarily as a result of the following : 2022 our accounts receivable , exclusive of the change in allowance for doubtful accounts and customer credits , increased $ 15.7 million during 2015 due to the timing of billings , net of collections , compared to a $ 54.3 million increase in 2014 .",
+      "as of december 31 , 2015 and 2014 , our days sales outstanding were 38 days , or 26 and 25 days net of deferred revenue , respectively .",
+      "2022 our accounts payable increased $ 35.6 million and $ 3.3 million during 2015 and 2014 , respectively , due to the timing of payments as of december 31 , 2015. ."
+    ],
+    "table": [
+      [
+        "",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "net cash provided by operating activities",
+        "$ 1847.8",
+        "$ 1679.7",
+        "$ 1529.8"
+      ],
+      [
+        "net cash used in investing activities",
+        "-961.2 ( 961.2 )",
+        "-1482.8 ( 1482.8 )",
+        "-959.8 ( 959.8 )"
+      ],
+      [
+        "net cash used in financing activities",
+        "-851.2 ( 851.2 )",
+        "-239.7 ( 239.7 )",
+        "-708.1 ( 708.1 )"
+      ]
+    ],
+    "questions": [
+      "in 2016, what was, in millions, the total sum of the net cash provided by operating activities and the one used in investing activities?",
+      "and what becomes this sum including the net cash used in financing activities?",
+      "in that same year, how much did the total of changes in assets and liabilities , net of effects from business acquisitions and divestitures represent in relation to that total in 2015?"
+    ]
+  }
+}

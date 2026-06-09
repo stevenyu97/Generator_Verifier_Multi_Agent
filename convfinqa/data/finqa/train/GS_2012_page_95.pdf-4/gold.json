@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was the estimated sensitivity to a one basis point increase in credit spreads ( counterparty and our own ) on derivatives greater than the estimated sensitivity to a one basis point increase in our own credit spreads on unsecured borrowings for which the fair value option was elected as of december 2012?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(3, 7)"
+    }
+  ]
+}

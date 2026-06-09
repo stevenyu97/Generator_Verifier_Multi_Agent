@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "were significant additions to proved undeveloped reserves during 2013 in the eagle ford greater than the bakken?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(72, 49)"
+    }
+  ]
+}

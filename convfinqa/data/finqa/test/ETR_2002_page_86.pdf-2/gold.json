@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2002 what was the ratio of the annual cash sinking fund requirements for debt outstanding that was due in 2004 to 2005",
+      "answer": 1.71179,
+      "answer_raw": "1.71179",
+      "program": "divide(925005, 540372)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average industry segment operating profits from 2004 to 2006",
+      "answer": 5399.0,
+      "answer_raw": "5399.0",
+      "program": "add(2074, 1622), add(1703, #0)"
+    }
+  ]
+}

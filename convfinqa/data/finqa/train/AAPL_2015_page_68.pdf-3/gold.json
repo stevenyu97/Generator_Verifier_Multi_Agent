@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for future minimum lease payments under noncancelable operating leases having remaining terms in excess of one year as of september 26 , 2015 , what percentage are due after 5 years?",
+      "answer": 0.41333,
+      "answer_raw": "0.41333",
+      "program": "divide(2592, 6271)"
+    }
+  ]
+}

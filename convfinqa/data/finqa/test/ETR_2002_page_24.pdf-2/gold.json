@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2002 what was the ratio of the net mw in operation to the generation in gwh for the year",
+      "answer": 0.13204,
+      "answer_raw": "0.13204",
+      "program": "divide(3955, 29953)"
+    }
+  ]
+}

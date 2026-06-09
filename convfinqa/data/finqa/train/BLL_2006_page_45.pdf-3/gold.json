@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2006 , without the cash due to replacement of fire-damaged assets , what would free cash flow have been , in millions?",
+      "answer": 121.8,
+      "answer_raw": "121.8",
+      "program": "subtract(183.1, 61.3)"
+    }
+  ]
+}

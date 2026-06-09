@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total value of progresso before the impairment charge?",
+      "answer": 462.1,
+      "answer_raw": "462.1",
+      "program": "add(132.1, 330.0)"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "Single_RSG/2017/page_142.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "republic services , inc .",
+      "notes to consolidated financial statements 2014 ( continued ) employee stock purchase plan republic employees are eligible to participate in an employee stock purchase plan .",
+      "the plan allows participants to purchase our common stock for 95% ( 95 % ) of its quoted market price on the last day of each calendar quarter .",
+      "for the years ended december 31 , 2017 , 2016 and 2015 , issuances under this plan totaled 113941 shares , 130085 shares and 141055 shares , respectively .",
+      "as of december 31 , 2017 , shares reserved for issuance to employees under this plan totaled 0.4 million and republic held employee contributions of approximately $ 1.8 million for the purchase of common stock .",
+      "12 .",
+      "stock repurchases and dividends stock repurchases stock repurchase activity during the years ended december 31 , 2017 and 2016 follows ( in millions except per share amounts ) : ."
+    ],
+    "post_text": [
+      "as of december 31 , 2017 , there were 0.5 million repurchased shares pending settlement and $ 33.8 million was unpaid and included within other accrued liabilities .",
+      "in october 2017 , our board of directors added $ 2.0 billion to the existing share repurchase authorization that now extends through december 31 , 2020 .",
+      "before this , $ 98.4 million remained under a prior authorization .",
+      "share repurchases under the program may be made through open market purchases or privately negotiated transactions in accordance with applicable federal securities laws .",
+      "while the board of directors has approved the program , the timing of any purchases , the prices and the number of shares of common stock to be purchased will be determined by our management , at its discretion , and will depend upon market conditions and other factors .",
+      "the share repurchase program may be extended , suspended or discontinued at any time .",
+      "as of december 31 , 2017 , the remaining authorized purchase capacity under our october 2017 repurchase program was $ 1.8 billion .",
+      "in december 2015 , our board of directors changed the status of 71272964 treasury shares to authorized and unissued .",
+      "in doing so , the number of our issued shares was reduced by the stated amount .",
+      "our accounting policy is to deduct the par value from common stock and to reflect the excess of cost over par value as a deduction from additional paid-in capital .",
+      "the change in unissued shares resulted in a reduction of $ 2295.3 million in treasury stock , $ 0.6 million in common stock , and $ 2294.7 million in additional paid-in capital .",
+      "there was no effect on our total stockholders 2019 equity position as a result of the change .",
+      "dividends in october 2017 , our board of directors approved a quarterly dividend of $ 0.345 per share .",
+      "cash dividends declared were $ 446.3 million , $ 423.8 million and $ 404.3 million for the years ended december 31 , 2017 , 2016 and 2015 , respectively .",
+      "as of december 31 , 2017 , we recorded a quarterly dividend payable of $ 114.4 million to shareholders of record at the close of business on january 2 , 2018 .",
+      "13 .",
+      "earnings per share basic earnings per share is computed by dividing net income attributable to republic services , inc .",
+      "by the weighted average number of common shares ( including vested but unissued rsus ) outstanding during the ."
+    ],
+    "table": [
+      [
+        "",
+        "2017",
+        "2016"
+      ],
+      [
+        "number of shares repurchased",
+        "9.6",
+        "8.4"
+      ],
+      [
+        "amount paid",
+        "$ 610.7",
+        "$ 403.8"
+      ],
+      [
+        "weighted average cost per share",
+        "$ 63.84",
+        "$ 48.56"
+      ]
+    ],
+    "questions": [
+      "what was the change in the number of shares of the issuance under the employee stock purchase plan from 2016 to 2017?",
+      "and how much does this change represent in relation to that number in 2016, in percentage?"
+    ]
+  }
+}

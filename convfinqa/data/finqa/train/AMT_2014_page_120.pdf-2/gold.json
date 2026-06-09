@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions , what were total tax related prepaids in 2014?",
+      "answer": 57740.0,
+      "answer_raw": "57740.0",
+      "program": "add(34512, 23228)"
+    }
+  ]
+}

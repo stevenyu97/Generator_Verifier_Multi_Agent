@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the minimum unrecognized tax benefits?",
+      "answer": 0.0,
+      "answer_raw": "0.0",
+      "program": "0"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about the maximum?",
+      "answer": 40.0,
+      "answer_raw": "40.0",
+      "program": "40"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total of these two?",
+      "answer": 40.0,
+      "answer_raw": "40.0",
+      "program": "add(0, 40)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what about the average?",
+      "answer": 20.0,
+      "answer_raw": "20.0",
+      "program": "add(0, 40), divide(#0, const_2)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the yearly amortization rate related to trademarks?",
+      "answer": 14.28571,
+      "answer_raw": "14.28571",
+      "program": "divide(const_100, 7)"
+    }
+  ]
+}

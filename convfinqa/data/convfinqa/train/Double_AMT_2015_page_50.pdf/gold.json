@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the price of shares from the highest value, during the quarter ended december 31 , 2015, to the closing price on february 19 , 2016?",
+      "answer": -16.8,
+      "answer_raw": "-16.8",
+      "program": "subtract(87.32, 104.12)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to that closing price?",
+      "answer": -0.16135,
+      "answer_raw": "-0.16135",
+      "program": "subtract(87.32, 104.12), divide(#0, 104.12)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and for the quarter ended march 31 of the first year of that period, what was the range of the price of the stock?",
+      "answer": 8.67,
+      "answer_raw": "8.67",
+      "program": "subtract(101.88, 93.21)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is this range as a percentage of the lowest price of that stock?",
+      "answer": 0.09302,
+      "answer_raw": "0.09302",
+      "program": "subtract(101.88, 93.21), divide(#0, 93.21)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "included in the derivative loss for 2004 noted in the above table for the 2018 2018protect crack spread values 2019 2019 strategy was a gain due to changes in the fair value of crack-spread derivatives that will expire throughout 2005 . what was the loss without benefit of this gain?",
+      "answer": 68.0,
+      "answer_raw": "68.0",
+      "program": "subtract(76, const_8)"
+    }
+  ]
+}

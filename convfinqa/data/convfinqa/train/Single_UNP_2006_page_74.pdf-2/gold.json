@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the rental income from 2005 to 2006?",
+      "answer": 24.0,
+      "answer_raw": "24.0",
+      "program": "subtract(83, 59)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that rental income in 2005?",
+      "answer": 59.0,
+      "answer_raw": "59.0",
+      "program": "59"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, does that change represent in relation to this 2005 rental income, in percentage?",
+      "answer": 0.40678,
+      "answer_raw": "0.40678",
+      "program": "subtract(83, 59), divide(#0, 59)"
+    }
+  ]
+}

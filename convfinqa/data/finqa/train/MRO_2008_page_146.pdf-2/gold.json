@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did minimum rental increase from 2006 to 2008?",
+      "answer": 0.42442,
+      "answer_raw": "0.42442",
+      "program": "subtract(245, 172), divide(#0, 172)"
+    }
+  ]
+}

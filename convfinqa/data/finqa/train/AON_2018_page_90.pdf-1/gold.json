@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2018 what was the percent of the expenses in the us to the total benefit expense",
+      "answer": 0.58333,
+      "answer_raw": "0.58333",
+      "program": "divide(98, 168)"
+    }
+  ]
+}

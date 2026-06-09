@@ -1,0 +1,53 @@
+{
+  "input": {
+    "id": "APD/2016/page_85.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "as of 30 september 2016 and 2015 , there were no assets or liabilities classified as discontinued operations relating to the homecare business .",
+      "5 .",
+      "business restructuring and cost reduction actions the charges we record for business restructuring and cost reduction actions have been excluded from segment operating income .",
+      "cost reduction actions in fiscal year 2016 , we recognized an expense of $ 33.9 ( $ 24.0 after-tax , or $ .11 per share ) for severance and other benefits related to cost reduction actions which resulted in the elimination of approximately 700 positions .",
+      "the expenses related primarily to the industrial gases 2013 americas and the industrial gases 2013 emea segments .",
+      "the following table summarizes the carrying amount of the accrual for cost reduction actions at 30 september severance and other benefits ."
+    ],
+    "post_text": [
+      "business realignment and reorganization on 18 september 2014 , we announced plans to reorganize the company , including realignment of our businesses in new reporting segments and other organizational changes , effective as of 1 october 2014 .",
+      "as a result of this reorganization , we incurred severance and other charges .",
+      "in fiscal year 2015 , we recognized an expense of $ 207.7 ( $ 153.2 after-tax , or $ .71 per share ) .",
+      "severance and other benefits totaled $ 151.9 and related to the elimination of approximately 2000 positions .",
+      "asset and associated contract actions totaled $ 55.8 and related primarily to a plant shutdown in the corporate and other segment and the exit of product lines within the industrial gases 2013 global and materials technologies segments .",
+      "the 2015 charges related to the segments as follows : $ 31.7 in industrial gases 2013 americas , $ 52.2 in industrial gases 2013 emea , $ 10.3 in industrial gases 2013 asia , $ 37.0 in industrial gases 2013 global , $ 27.6 in materials technologies , and $ 48.9 in corporate and other .",
+      "during the fourth quarter of 2014 , an expense of $ 12.7 ( $ 8.2 after-tax , or $ .04 per share ) was incurred relating to the elimination of approximately 50 positions .",
+      "the 2014 charge related to the segments as follows : $ 2.9 in industrial gases 2013 americas , $ 3.1 in industrial gases 2013 emea , $ 1.5 in industrial gases 2013 asia , $ 1.5 in industrial gases 2013 global , $ 1.6 in materials technologies , and $ 2.1 in corporate and other. ."
+    ],
+    "table": [
+      [
+        "",
+        "severance and other benefits"
+      ],
+      [
+        "2016 charge",
+        "$ 33.9"
+      ],
+      [
+        "amount reflected in pension liability",
+        "-.9 ( .9 )"
+      ],
+      [
+        "cash expenditures",
+        "-20.4 ( 20.4 )"
+      ],
+      [
+        "currency translation adjustment",
+        ".3"
+      ],
+      [
+        "30 september 2016",
+        "$ 12.9"
+      ]
+    ],
+    "questions": [
+      "considering the years 2015-2016 , what was the decrease observed in the expense for severance and other benefits?"
+    ]
+  }
+}

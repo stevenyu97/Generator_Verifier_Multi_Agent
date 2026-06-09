@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "Double_RE/2010/page_138.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "a reconciliation of the beginning and ending amount of unrecognized tax benefits , for the periods indicated , is as follows: ."
+    ],
+    "post_text": [
+      "the entire amount of the unrecognized tax benefits would affect the effective tax rate if recognized .",
+      "in 2010 , the company favorably settled a 2003 and 2004 irs audit .",
+      "the company recorded a net overall tax benefit including accrued interest of $ 25920 thousand .",
+      "in addition , the company was also able to take down a $ 12356 thousand fin 48 reserve that had been established regarding the 2003 and 2004 irs audit .",
+      "the company is no longer subject to u.s .",
+      "federal , state and local or foreign income tax examinations by tax authorities for years before 2007 .",
+      "the company recognizes accrued interest related to net unrecognized tax benefits and penalties in income taxes .",
+      "during the years ended december 31 , 2010 , 2009 and 2008 , the company accrued and recognized a net expense ( benefit ) of approximately $ ( 9938 ) thousand , $ 1563 thousand and $ 2446 thousand , respectively , in interest and penalties .",
+      "included within the 2010 net expense ( benefit ) of $ ( 9938 ) thousand is $ ( 10591 ) thousand of accrued interest related to the 2003 and 2004 irs audit .",
+      "the company is not aware of any positions for which it is reasonably possible that the total amounts of unrecognized tax benefits will significantly increase or decrease within twelve months of the reporting date .",
+      "for u.s .",
+      "income tax purposes the company has foreign tax credit carryforwards of $ 55026 thousand that begin to expire in 2014 .",
+      "in addition , for u.s .",
+      "income tax purposes the company has $ 41693 thousand of alternative minimum tax credits that do not expire .",
+      "management believes that it is more likely than not that the company will realize the benefits of its net deferred tax assets and , accordingly , no valuation allowance has been recorded for the periods presented .",
+      "tax benefits of $ 629 thousand and $ 1714 thousand related to share-based compensation deductions for stock options exercised in 2010 and 2009 , respectively , are included within additional paid-in capital of the shareholders 2019 equity section of the consolidated balance sheets. ."
+    ],
+    "table": [
+      [
+        "( dollars in thousands )",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      [
+        "balance at january 1",
+        "$ 29010",
+        "$ 34366",
+        "$ 29132"
+      ],
+      [
+        "additions based on tax positions related to the current year",
+        "7119",
+        "6997",
+        "5234"
+      ],
+      [
+        "additions for tax positions of prior years",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "reductions for tax positions of prior years",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "settlements with taxing authorities",
+        "-12356 ( 12356 )",
+        "-12353 ( 12353 )",
+        "-"
+      ],
+      [
+        "lapses of applicable statutes of limitations",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "balance at december 31",
+        "$ 23773",
+        "$ 29010",
+        "$ 34366"
+      ]
+    ],
+    "questions": [
+      "what was the change in the net expense in interest and penalties from 2008 to 2009?",
+      "and what is this change as a percentage of that net expense in 2008?",
+      "and in the next year of that period, 2010, what was the balance at january 1?",
+      "with the additions based on tax positions related to the current year, what became that balance?",
+      "and including the net overall tax benefit recorded from the settlements, what then became that balance?"
+    ]
+  }
+}

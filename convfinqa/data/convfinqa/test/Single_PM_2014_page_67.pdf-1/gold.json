@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of u.s . dollar notes issued in 2014 and that matured in either 2024 or 2044, in millions?",
+      "answer": 1500.0,
+      "answer_raw": "1500.0",
+      "program": "add(750, 750)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "including the u.s . dollar notes that matured in 2017, what then becomes that total, in millions?",
+      "answer": 2000.0,
+      "answer_raw": "2000.0",
+      "program": "add(750, 750), add(#0, 500)"
+    }
+  ]
+}

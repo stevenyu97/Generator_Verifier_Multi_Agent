@@ -1,0 +1,73 @@
+{
+  "input": {
+    "id": "Single_BKR/2017/page_105.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "baker hughes , a ge company notes to consolidated and combined financial statements bhge 2017 form 10-k | 85 the total intrinsic value of rsus ( defined as the value of the shares awarded at the current market price ) vested and outstanding in 2017 was $ 17 million and $ 38 million , respectively .",
+      "the total fair value of rsus vested in 2017 was $ 19 million .",
+      "as of december 31 , 2017 , there was $ 98 million of total unrecognized compensation cost related to unvested rsus , which is expected to be recognized over a weighted average period of 2.5 years .",
+      "note 12 .",
+      "equity common stock we are authorized to issue 2 billion shares of class a common stock , 1.25 billion shares of class b common stock and 50 million shares of preferred stock each of which have a par value of $ 0.0001 per share .",
+      "on july 3 , 2017 , each share of baker hughes common stock was converted into one share of class a common stock in the company .",
+      "the number of class a common stock and class b common stock shares outstanding at december 31 , 2017 is 422 million and 707 million , respectively .",
+      "we have not issued any preferred stock .",
+      "ge owns all the issued and outstanding class b common stock .",
+      "each share of class a and class b common stock and the associated membership interest in bhge llc form a paired interest .",
+      "while each share of class b common stock has equal voting rights to a share of class a common stock , it has no economic rights , meaning holders of class b common stock have no right to dividends and any assets in the event of liquidation of the company .",
+      "former baker hughes stockholders immediately after the completion of the transactions received a special one-time cash dividend of $ 17.50 per share paid by the company to holders of record of the company's class a common stock .",
+      "in addition , during 2017 the company declared and paid regular dividends of $ 0.17 per share and $ 0.18 per share to holders of record of the company's class a common stock during the quarters ended september 30 , 2017 and december 31 , 2017 , respectively .",
+      "the following table presents the changes in number of shares outstanding ( in thousands ) : class a common class b common ."
+    ],
+    "post_text": [
+      "( 1 ) share amounts reflected above are net of shares withheld to satisfy the employee's tax withholding obligation .",
+      "( 2 ) on november 2 , 2017 , our board of directors authorized bhge llc to repurchase up to $ 3 billion of its common units from the company and ge .",
+      "the proceeds of this repurchase are to be used by bhge to repurchase class a common stock of the company on the open market , which if fully implemented would result in the repurchase of approximately $ 1.1 billion of class a common stock .",
+      "the class b common stock of the company , that is paired with repurchased common units , was repurchased by the company at par value .",
+      "the $ 3 billion repurchase authorization is the aggregate authorization for repurchases of class a and class b common stock together with its paired unit .",
+      "bhge llc had authorization remaining to repurchase up to approximately $ 2.5 billion of its common units from bhge and ge at december 31 , 2017 .",
+      "( 3 ) during 2017 , we repurchased and canceled 6046735 shares of class a common stock for a total of $ 187 million .",
+      "we also repurchased and canceled 10126467 shares of class b common stock from ge which is paired together with common units of bhge llc for $ 314 million. ."
+    ],
+    "table": [
+      [
+        "",
+        "class a common stock",
+        "class b common stock"
+      ],
+      [
+        "balance at december 31 2016",
+        "2014",
+        "2014"
+      ],
+      [
+        "issue of shares on business combination at july 3 2017",
+        "427709",
+        "717111"
+      ],
+      [
+        "issue of shares upon vesting of restricted stock units ( 1 )",
+        "290",
+        "2014"
+      ],
+      [
+        "issue of shares on exercises of stock options ( 1 )",
+        "256",
+        "2014"
+      ],
+      [
+        "stock repurchase program ( 2 ) ( 3 )",
+        "-6047 ( 6047 )",
+        "-10126 ( 10126 )"
+      ],
+      [
+        "balance at december 31 2017",
+        "422208",
+        "706985"
+      ]
+    ],
+    "questions": [
+      "what is the number of class b shares issued in 2017 times 1000?",
+      "what is the total class b shares outstanding divided by that product?"
+    ]
+  }
+}

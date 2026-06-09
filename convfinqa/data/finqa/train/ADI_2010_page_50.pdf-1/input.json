@@ -1,0 +1,81 @@
+{
+  "input": {
+    "id": "ADI/2010/page_50.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the following table illustrates the effect that a 10% ( 10 % ) unfavorable or favorable movement in foreign currency exchange rates , relative to the u.s .",
+      "dollar , would have on the fair value of our forward exchange contracts as of october 30 , 2010 and october 31 , 2009: ."
+    ],
+    "post_text": [
+      "fair value of forward exchange contracts after a 10% ( 10 % ) unfavorable movement in foreign currency exchange rates asset .",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "$ 22062 $ 20132 fair value of forward exchange contracts after a 10% ( 10 % ) favorable movement in foreign currency exchange rates liability .",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "$ ( 7396 ) $ ( 6781 ) the calculation assumes that each exchange rate would change in the same direction relative to the u.s .",
+      "dollar .",
+      "in addition to the direct effects of changes in exchange rates , such changes typically affect the volume of sales or the foreign currency sales price as competitors 2019 products become more or less attractive .",
+      "our sensitivity analysis of the effects of changes in foreign currency exchange rates does not factor in a potential change in sales levels or local currency selling prices. ."
+    ],
+    "table": [
+      [
+        "",
+        "october 30 2010",
+        "october 31 2009"
+      ],
+      [
+        "fair value of forward exchange contracts asset",
+        "$ 7256",
+        "$ 8367"
+      ],
+      [
+        "fair value of forward exchange contracts after a 10% ( 10 % ) unfavorable movement in foreign currency exchange rates asset",
+        "$ 22062",
+        "$ 20132"
+      ],
+      [
+        "fair value of forward exchange contracts after a 10% ( 10 % ) favorable movement in foreign currency exchange rates liability",
+        "$ -7396 ( 7396 )",
+        "$ -6781 ( 6781 )"
+      ]
+    ],
+    "questions": [
+      "what is the growth rate in the fair value of forward exchange contracts asset from 2009 to 2010?"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total expenses related to defined contribution plan for u.s . employees in 2010?",
+      "answer": 20.5,
+      "answer_raw": "20.5",
+      "program": "20.5"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2009?",
+      "answer": 21.5,
+      "answer_raw": "21.5",
+      "program": "21.5"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": -1.0,
+      "answer_raw": "-1.0",
+      "program": "subtract(20.5, 21.5)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage change does this represent?",
+      "answer": -0.04651,
+      "answer_raw": "-0.04651",
+      "program": "subtract(20.5, 21.5), divide(#0, 21.5)"
+    }
+  ]
+}

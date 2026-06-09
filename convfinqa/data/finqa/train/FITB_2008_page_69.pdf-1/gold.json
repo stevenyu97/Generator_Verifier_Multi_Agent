@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average securitization rate of standby letters of credit as of december 2008 and 2007?",
+      "answer": 0.68,
+      "answer_raw": "0.68",
+      "program": "add(66%, 70%), divide(#0, const_2)"
+    }
+  ]
+}

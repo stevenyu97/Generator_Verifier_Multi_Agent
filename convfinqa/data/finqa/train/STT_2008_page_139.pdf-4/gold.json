@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of 2008's total other expenses is the total customer indemnification reserve?",
+      "answer": -692.0,
+      "answer_raw": "-692.0",
+      "program": "subtract(200, 892)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in millions of international subscribers between discovery channel and tlc real time and travel & living?",
+      "answer": 72.0,
+      "answer_raw": "72.0",
+      "program": "subtract(246, 174)"
+    }
+  ]
+}

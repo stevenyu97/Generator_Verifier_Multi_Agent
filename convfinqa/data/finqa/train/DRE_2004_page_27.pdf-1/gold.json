@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of impairment charges associated with contracts to sell land parcels for the years ended december 31 , 2004 and 2003 , respectively .",
+      "answer": 984000.0,
+      "answer_raw": "984000.0",
+      "program": "add(424000, 560000)"
+    }
+  ]
+}

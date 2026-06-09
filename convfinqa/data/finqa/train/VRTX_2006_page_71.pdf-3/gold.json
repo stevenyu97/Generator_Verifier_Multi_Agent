@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent of the in the non operating income associated with interest income in 2005",
+      "answer": 0.16505,
+      "answer_raw": "0.16505",
+      "program": "divide(1.7, 10.3)"
+    }
+  ]
+}

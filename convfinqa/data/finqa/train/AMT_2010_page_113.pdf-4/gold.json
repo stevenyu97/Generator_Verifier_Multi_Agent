@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the change in the intrinsic value of stock options from 2009 to 2010",
+      "answer": 0.56359,
+      "answer_raw": "0.56359",
+      "program": "subtract(62.7, 40.1), divide(#0, 40.1)"
+    }
+  ]
+}

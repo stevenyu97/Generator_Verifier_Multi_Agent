@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31 , 2016 what was the percent of the future expenditures under unconditional purchase obligations that was due in 2018",
+      "answer": 0.27497,
+      "answer_raw": "0.27497",
+      "program": "divide(10288, 37415)"
+    }
+  ]
+}

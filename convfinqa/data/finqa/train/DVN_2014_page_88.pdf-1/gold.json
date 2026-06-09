@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the net proceeds came from the floating rates due in 2015 and 2016?",
+      "answer": 37.81139,
+      "answer_raw": "37.81139",
+      "program": "add(500, 350), divide(#0, 2248), multiply(#1, const_100)"
+    }
+  ]
+}

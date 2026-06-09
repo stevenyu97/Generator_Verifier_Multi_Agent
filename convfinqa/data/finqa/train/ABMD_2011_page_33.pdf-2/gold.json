@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "did abiomed inc , outperform the nasdaq medical equipment index?\\\\n",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(112.64, 91.35)"
+    }
+  ]
+}

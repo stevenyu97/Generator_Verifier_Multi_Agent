@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was change in the value of the aggregate rent expense from 2005 to 2006?",
+      "answer": 68.3,
+      "answer_raw": "68.3",
+      "program": "subtract(237.0, 168.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the value in 2005?",
+      "answer": 168.7,
+      "answer_raw": "168.7",
+      "program": "168.7"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the percent change?",
+      "answer": 0.40486,
+      "answer_raw": "0.40486",
+      "program": "subtract(237.0, 168.7), divide(#0, 168.7)"
+    }
+  ]
+}

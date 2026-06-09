@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the estimated value , in dollars , of the total number of shares purchased between 9/30/07 and 10/26/07?",
+      "answer": 56010396.84,
+      "answer_raw": "56010396.84",
+      "program": "multiply(18.84, 2972951)"
+    }
+  ]
+}

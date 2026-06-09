@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was 2010 interest expense greater than the nonrecurring expenses of the one-time payment to csx in the first quarter of 2010?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(602, 45)"
+    }
+  ]
+}

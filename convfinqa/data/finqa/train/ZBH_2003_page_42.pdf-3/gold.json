@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total contractual obligations is comprised of operating leases?",
+      "answer": 0.04974,
+      "answer_raw": "0.04974",
+      "program": "divide(77.2, 1552.2)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average price per share from november to december?",
+      "answer": 3.61,
+      "answer_raw": "3.61",
+      "program": "add(3.24, 3.98), divide(#0, const_2)"
+    }
+  ]
+}

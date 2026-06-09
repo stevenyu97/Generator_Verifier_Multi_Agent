@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the 5 year return of the kbw bank index?",
+      "answer": 1.5882,
+      "answer_raw": "1.5882",
+      "program": "subtract(258.82, const_100), divide(#0, const_100)"
+    }
+  ]
+}

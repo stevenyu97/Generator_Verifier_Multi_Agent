@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the total cost of common share repurchases between 2013 and 2014?",
+      "answer": -0.11433,
+      "answer_raw": "-0.11433",
+      "program": "subtract(5469, 6175), divide(#0, 6175)"
+    }
+  ]
+}

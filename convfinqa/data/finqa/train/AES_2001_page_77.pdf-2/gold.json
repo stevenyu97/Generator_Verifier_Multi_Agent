@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total price for the kmr power corporation purchase in millions?",
+      "answer": 309.0,
+      "answer_raw": "309.0",
+      "program": "add(64, 245)"
+    }
+  ]
+}

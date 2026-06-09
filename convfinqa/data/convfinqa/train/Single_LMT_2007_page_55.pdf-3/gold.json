@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the backlog in 2007?",
+      "answer": 21200.0,
+      "answer_raw": "21200.0",
+      "program": "21200"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2006?",
+      "answer": 19700.0,
+      "answer_raw": "19700.0",
+      "program": "19700"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 1500.0,
+      "answer_raw": "1500.0",
+      "program": "subtract(21200, 19700)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the backlog in 2006?",
+      "answer": 19700.0,
+      "answer_raw": "19700.0",
+      "program": "19700"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this 2006 backlog, in percentage?",
+      "answer": 0.07614,
+      "answer_raw": "0.07614",
+      "program": "subtract(21200, 19700), divide(#0, 19700)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the number of securities to be issued upon exercise of outstanding options warrants and rights?",
+      "answer": 1233672.0,
+      "answer_raw": "1233672.0",
+      "program": "1233672"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the number of securities remaining available for future issuance under equity compensation plans?",
+      "answer": 4903018.0,
+      "answer_raw": "4903018.0",
+      "program": "4903018"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is, then, the combined total of those numbers of securities?",
+      "answer": 6136690.0,
+      "answer_raw": "6136690.0",
+      "program": "add(1233672, 4903018)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the number of securities to be issued upon exercise of outstanding options warrants and rights?",
+      "answer": 1233672.0,
+      "answer_raw": "1233672.0",
+      "program": "1233672"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does this number of securities represent in relation to that combined total?",
+      "answer": 0.20103,
+      "answer_raw": "0.20103",
+      "program": "add(1233672, 4903018), divide(1233672, #0)"
+    }
+  ]
+}

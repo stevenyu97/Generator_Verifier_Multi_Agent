@@ -1,0 +1,83 @@
+{
+  "input": {
+    "id": "Double_JPM/2018/page_150.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "management 2019s discussion and analysis 118 jpmorgan chase & co./2018 form 10-k equivalent to the risk of loan exposures .",
+      "dre is a less extreme measure of potential credit loss than peak and is used as an input for aggregating derivative credit risk exposures with loans and other credit risk .",
+      "finally , avg is a measure of the expected fair value of the firm 2019s derivative receivables at future time periods , including the benefit of collateral .",
+      "avg over the total life of the derivative contract is used as the primary metric for pricing purposes and is used to calculate credit risk capital and the cva , as further described below .",
+      "the fair value of the firm 2019s derivative receivables incorporates cva to reflect the credit quality of counterparties .",
+      "cva is based on the firm 2019s avg to a counterparty and the counterparty 2019s credit spread in the credit derivatives market .",
+      "the firm believes that active risk management is essential to controlling the dynamic credit risk in the derivatives portfolio .",
+      "in addition , the firm 2019s risk management process takes into consideration the potential impact of wrong-way risk , which is broadly defined as the potential for increased correlation between the firm 2019s exposure to a counterparty ( avg ) and the counterparty 2019s credit quality .",
+      "many factors may influence the nature and magnitude of these correlations over time .",
+      "to the extent that these correlations are identified , the firm may adjust the cva associated with that counterparty 2019s avg .",
+      "the firm risk manages exposure to changes in cva by entering into credit derivative contracts , as well as interest rate , foreign exchange , equity and commodity derivative contracts .",
+      "the accompanying graph shows exposure profiles to the firm 2019s current derivatives portfolio over the next 10 years as calculated by the peak , dre and avg metrics .",
+      "the three measures generally show that exposure will decline after the first year , if no new trades are added to the portfolio .",
+      "exposure profile of derivatives measures december 31 , 2018 ( in billions ) the following table summarizes the ratings profile of the firm 2019s derivative receivables , including credit derivatives , net of all collateral , at the dates indicated .",
+      "the ratings scale is based on the firm 2019s internal ratings , which generally correspond to the ratings as assigned by s&p and moody 2019s .",
+      "ratings profile of derivative receivables ."
+    ],
+    "post_text": [
+      "as previously noted , the firm uses collateral agreements to mitigate counterparty credit risk .",
+      "the percentage of the firm 2019s over-the-counter derivative transactions subject to collateral agreements 2014 excluding foreign exchange spot trades , which are not typically covered by collateral agreements due to their short maturity and centrally cleared trades that are settled daily 2014 was approximately 90% ( 90 % ) at both december 31 , 2018 , and december 31 , 2017. ."
+    ],
+    "table": [
+      [
+        "rating equivalent december 31 ( in millions except ratios )",
+        "rating equivalent exposure net of all collateral",
+        "rating equivalent % (  % ) of exposure netof all collateral",
+        "exposure net of all collateral",
+        "% (  % ) of exposure netof all collateral"
+      ],
+      [
+        "aaa/aaa to aa-/aa3",
+        "$ 11831",
+        "31% ( 31 % )",
+        "$ 11529",
+        "29% ( 29 % )"
+      ],
+      [
+        "a+/a1 to a-/a3",
+        "7428",
+        "19",
+        "6919",
+        "17"
+      ],
+      [
+        "bbb+/baa1 to bbb-/baa3",
+        "12536",
+        "32",
+        "13925",
+        "34"
+      ],
+      [
+        "bb+/ba1 to b-/b3",
+        "6373",
+        "16",
+        "7397",
+        "18"
+      ],
+      [
+        "ccc+/caa1 and below",
+        "723",
+        "2",
+        "645",
+        "2"
+      ],
+      [
+        "total",
+        "$ 38891",
+        "100% ( 100 % )",
+        "$ 40415",
+        "100% ( 100 % )"
+      ]
+    ],
+    "questions": [
+      "in 2018, what percentage of the total derivative receivable ratings were ones equivalent to junk bonds?",
+      "and what was, in millions, the total amount of money represented by class b derivatives?"
+    ]
+  }
+}

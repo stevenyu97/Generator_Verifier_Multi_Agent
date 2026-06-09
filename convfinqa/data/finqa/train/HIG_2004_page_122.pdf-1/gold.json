@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent of the total company 2019s aggregate contractual obligations due for property and casualty obligations in less than 1 year",
+      "answer": 0.26397,
+      "answer_raw": "0.26397",
+      "program": "divide(5777, 21885)"
+    }
+  ]
+}

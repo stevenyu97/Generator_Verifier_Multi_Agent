@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the return on investment for q if the investment is sold at the end of year 2014?",
+      "answer": 0.4,
+      "answer_raw": "0.4",
+      "program": "subtract(140, const_100), divide(#0, const_100)"
+    }
+  ]
+}

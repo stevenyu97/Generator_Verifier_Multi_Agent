@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the gross gains from sales of available for sale securities in 2009?",
+      "answer": 418.0,
+      "answer_raw": "418.0",
+      "program": "418"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2008?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the change in value between these two years?",
+      "answer": 318.0,
+      "answer_raw": "318.0",
+      "program": "subtract(418, 100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the value for 2008 again?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "100"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and the percentage change?",
+      "answer": 3.18,
+      "answer_raw": "3.18",
+      "program": "subtract(418, 100), divide(#0, 100)"
+    }
+  ]
+}

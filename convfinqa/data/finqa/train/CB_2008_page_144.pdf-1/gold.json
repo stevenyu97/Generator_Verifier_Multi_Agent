@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the pre-tax impact on equity of hypothetical 10 percent strengthening of the u.s . dollar in 2007 to 2008",
+      "answer": 1.78571,
+      "answer_raw": "1.78571",
+      "program": "divide(150, 84)"
+    }
+  ]
+}

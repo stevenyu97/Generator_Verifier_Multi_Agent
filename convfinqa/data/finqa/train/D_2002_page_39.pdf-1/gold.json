@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if the 2003 growth rate is the same as 2002 , what would 2003 electricity supplied equal ( million mwhrs ) ?",
+      "answer": 107.37895,
+      "answer_raw": "107.37895",
+      "program": "divide(101, 95), multiply(101, #0)"
+    }
+  ]
+}

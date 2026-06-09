@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the operating margin for the coatings segment in 2004?",
+      "answer": 0.1473,
+      "answer_raw": "0.1473",
+      "program": "divide(777, 5275)"
+    }
+  ]
+}

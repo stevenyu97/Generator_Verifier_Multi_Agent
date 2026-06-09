@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "Single_CDNS/2007/page_93.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the changes in the gross amount of unrecognized tax benefits for the year ended december 29 , 2007 are as follows: ."
+    ],
+    "post_text": [
+      "as of december 29 , 2007 , $ 228.4 million of unrecognized tax benefits would , if recognized , reduce the effective tax rate , as compared to $ 232.1 million as of december 31 , 2006 , the first day of cadence 2019s fiscal year .",
+      "the total amounts of interest and penalties recognized in the consolidated income statement for the year ended december 29 , 2007 resulted in net tax benefits of $ 11.1 million and $ 0.4 million , respectively , primarily due to the effective settlement of tax audits during the year .",
+      "the total amounts of gross accrued interest and penalties recognized in the consolidated balance sheets as of december 29 , 2007 , were $ 47.9 million and $ 9.7 million , respectively as compared to $ 65.8 million and $ 10.1 million , respectively as of december 31 , 2006 .",
+      "note 9 .",
+      "acquisitions for each of the acquisitions described below , the results of operations and the estimated fair value of the assets acquired and liabilities assumed have been included in cadence 2019s consolidated financial statements from the date of the acquisition .",
+      "comparative pro forma financial information for all 2007 , 2006 and 2005 acquisitions have not been presented because the results of operations were not material to cadence 2019s consolidated financial statements .",
+      "2007 acquisitions during 2007 , cadence acquired invarium , inc. , a san jose-based developer of advanced lithography-modeling and pattern-synthesis technology , and clear shape technologies , inc. , a san jose-based design for manufacturing technology company specializing in design-side solutions to minimize yield loss for advanced semiconductor integrated circuits .",
+      "cadence acquired these two companies for an aggregate purchase price of $ 75.5 million , which included the payment of cash , the fair value of assumed options and acquisition costs .",
+      "the $ 45.7 million of goodwill recorded in connection with these acquisitions is not expected to be deductible for income tax purposes .",
+      "prior to acquiring clear shape technologies , inc. , cadence had an investment of $ 2.0 million in the company , representing a 12% ( 12 % ) ownership interest , which had been accounted for under the cost method of accounting .",
+      "in accordance with sfas no .",
+      "141 , 201cbusiness combinations , 201d cadence accounted for this acquisition as a step acquisition .",
+      "subsequent adjustments to the purchase price of these acquired companies are included in the 201cother 201d line of the changes of goodwill table in note 10 below .",
+      "2006 acquisition in march 2006 , cadence acquired a company for an aggregate initial purchase price of $ 25.8 million , which included the payment of cash , the fair value of assumed options and acquisition costs .",
+      "the preliminary allocation of the purchase price was recorded as $ 17.4 million of goodwill , $ 9.4 million of identifiable intangible assets and $ ( 1.0 ) million of net liabilities .",
+      "the $ 17.4 million of goodwill recorded in connection with this acquisition is not expected to be deductible for income tax purposes .",
+      "subsequent adjustments to the purchase price of this acquired company are included in the 201cother 201d line of the changes of goodwill table in note 10 below. ."
+    ],
+    "table": [
+      [
+        "",
+        "( in thousands )"
+      ],
+      [
+        "balance as of december 31 2006",
+        "$ 337226"
+      ],
+      [
+        "gross amount of the decreases in unrecognized tax benefits of tax positions taken during a prior year",
+        "-31608 ( 31608 )"
+      ],
+      [
+        "gross amount of the increases in unrecognized tax benefits as a result of tax positions taken during the current year",
+        "7764"
+      ],
+      [
+        "amount of decreases in unrecognized tax benefits relating to settlements with taxing authorities",
+        "-6001 ( 6001 )"
+      ],
+      [
+        "reductions to unrecognized tax benefits resulting from the lapse of the applicable statute of limitations",
+        "-511 ( 511 )"
+      ],
+      [
+        "balance as of december 29 2007",
+        "$ 306870"
+      ]
+    ],
+    "questions": [
+      "what was the change in the gross accrued interest from 2006 to 2007?",
+      "and how much does this change represent in relation to the gross accrued interest in 2006, in percentage?"
+    ]
+  }
+}

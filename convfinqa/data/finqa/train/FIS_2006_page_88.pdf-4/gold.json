@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in estimated fair value of the cash flow hedges from 2005 to 2006?",
+      "answer": -0.05769,
+      "answer_raw": "-0.05769",
+      "program": "subtract(4.9, 5.2), divide(#0, 5.2)"
+    }
+  ]
+}

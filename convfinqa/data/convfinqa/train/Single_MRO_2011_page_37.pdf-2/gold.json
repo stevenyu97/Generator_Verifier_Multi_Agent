@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the price of brent crude oil in 2011?",
+      "answer": 111.26,
+      "answer_raw": "111.26",
+      "program": "111.26"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2010?",
+      "answer": 79.51,
+      "answer_raw": "79.51",
+      "program": "79.51"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the change in price during this time?",
+      "answer": 31.75,
+      "answer_raw": "31.75",
+      "program": "subtract(111.26, 79.51)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the value for 2010 again?",
+      "answer": 79.51,
+      "answer_raw": "79.51",
+      "program": "79.51"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage growth during this time?",
+      "answer": 0.39932,
+      "answer_raw": "0.39932",
+      "program": "subtract(111.26, 79.51), divide(#0, 79.51)"
+    }
+  ]
+}

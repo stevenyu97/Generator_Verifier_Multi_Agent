@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of foreign currency transaction gains ( losses ) for aes corporation in 2015, in millions?",
+      "answer": -31.0,
+      "answer_raw": "-31.0",
+      "program": "-31"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2014, also in millions?",
+      "answer": -34.0,
+      "answer_raw": "-34.0",
+      "program": "-34"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "by how much, then, did that total change over the period?",
+      "answer": 3.0,
+      "answer_raw": "3.0",
+      "program": "subtract(-31, -34)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what was that change over the subsequent year, from 2015 to 2016?",
+      "answer": -19.0,
+      "answer_raw": "-19.0",
+      "program": "subtract(-50, -31)"
+    }
+  ]
+}

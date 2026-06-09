@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the price of delphi automotive plc as of 12/31/15?",
+      "answer": 418.67,
+      "answer_raw": "418.67",
+      "program": "418.67"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the difference between this price and the starting price as of 11/17/11?",
+      "answer": 318.67,
+      "answer_raw": "318.67",
+      "program": "subtract(418.67, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and as a percentage of the original value?",
+      "answer": 3.1867,
+      "answer_raw": "3.1867",
+      "program": "subtract(418.67, const_100), divide(#0, const_100)"
+    }
+  ]
+}

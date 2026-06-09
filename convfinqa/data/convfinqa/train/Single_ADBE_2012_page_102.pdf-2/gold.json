@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the total gross amount of unrecognized tax benefits from 2011 to 2012?",
+      "answer": -3139.0,
+      "answer_raw": "-3139.0",
+      "program": "subtract(160468, 163607)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to that total gross amount in 2011, in percentage?",
+      "answer": -0.01919,
+      "answer_raw": "-0.01919",
+      "program": "subtract(160468, 163607), divide(#0, 163607)"
+    }
+  ]
+}

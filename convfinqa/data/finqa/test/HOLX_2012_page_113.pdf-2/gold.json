@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the expected yearly stock-based compensation expense over the remaining vesting period , ( in millions ) ?",
+      "answer": 6.62857,
+      "answer_raw": "6.62857",
+      "program": "divide(23.2, 3.5)"
+    }
+  ]
+}

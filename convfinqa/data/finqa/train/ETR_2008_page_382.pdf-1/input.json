@@ -1,0 +1,57 @@
+{
+  "input": {
+    "id": "ETR/2008/page_382.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy texas , inc .",
+      "management's financial discussion and analysis dividends or other distributions on its common stock .",
+      "currently , all of entergy texas' retained earnings are available for distribution .",
+      "sources of capital entergy texas' sources to meet its capital requirements include : internally generated funds ; cash on hand ; debt or preferred stock issuances ; and bank financing under new or existing facilities .",
+      "entergy texas may refinance or redeem debt prior to maturity , to the extent market conditions and interest and dividend rates are favorable .",
+      "all debt and common and preferred stock issuances by entergy texas require prior regulatory approval .",
+      "preferred stock and debt issuances are also subject to issuance tests set forth in its corporate charter , bond indentures , and other agreements .",
+      "entergy texas has sufficient capacity under these tests to meet its foreseeable capital needs .",
+      "entergy gulf states , inc .",
+      "filed with the ferc an application , on behalf of entergy texas , for authority to issue up to $ 200 million of short-term debt , up to $ 300 million of tax-exempt bonds , and up to $ 1.3 billion of other long- term securities , including common and preferred or preference stock and long-term debt .",
+      "on november 8 , 2007 , the ferc issued orders granting the requested authority for a two-year period ending november 8 , 2009 .",
+      "entergy texas' receivables from or ( payables to ) the money pool were as follows as of december 31 for each of the following years: ."
+    ],
+    "post_text": [
+      "see note 4 to the financial statements for a description of the money pool .",
+      "entergy texas has a credit facility in the amount of $ 100 million scheduled to expire in august 2012 .",
+      "as of december 31 , 2008 , $ 100 million was outstanding on the credit facility .",
+      "in february 2009 , entergy texas repaid its credit facility with the proceeds from the bond issuance discussed below .",
+      "on june 2 , 2008 and december 8 , 2008 , under the terms of the debt assumption agreement between entergy texas and entergy gulf states louisiana that is discussed in note 5 to the financial statements , entergy texas paid at maturity $ 148.8 million and $ 160.3 million , respectively , of entergy gulf states louisiana first mortgage bonds , which results in a corresponding decrease in entergy texas' debt assumption liability .",
+      "in december 2008 , entergy texas borrowed $ 160 million from its parent company , entergy corporation , under a $ 300 million revolving credit facility pursuant to an inter-company credit agreement between entergy corporation and entergy texas .",
+      "this borrowing would have matured on december 3 , 2013 .",
+      "entergy texas used these borrowings , together with other available corporate funds , to pay at maturity the portion of the $ 350 million floating rate series of first mortgage bonds due december 2008 that had been assumed by entergy texas , and that bond series is no longer outstanding .",
+      "in january 2009 , entergy texas repaid its $ 160 million note payable to entergy corporation with the proceeds from the bond issuance discussed below .",
+      "in january 2009 , entergy texas issued $ 500 million of 7.125% ( 7.125 % ) series mortgage bonds due february 2019 .",
+      "entergy texas used a portion of the proceeds to repay its $ 160 million note payable to entergy corporation , to repay the $ 100 million outstanding on its credit facility , and to repay short-term borrowings under the entergy system money pool .",
+      "entergy texas intends to use the remaining proceeds to repay on or prior to maturity approximately $ 70 million of obligations that had been assumed by entergy texas under the debt assumption agreement with entergy gulf states louisiana and for other general corporate purposes. ."
+    ],
+    "table": [
+      [
+        "2008",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )"
+      ],
+      [
+        "( $ 50794 )",
+        "$ 154176",
+        "$ 97277",
+        "$ 136545"
+      ]
+    ],
+    "questions": [
+      "what is the annual expense for entergy texas incurred from the series mortgage bonds due february 2019 , in millions?"
+    ]
+  }
+}

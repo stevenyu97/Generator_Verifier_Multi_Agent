@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "Single_CB/2010/page_114.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the following table reports the significant movements in our shareholders 2019 equity for the year ended december 31 , 2010. ."
+    ],
+    "post_text": [
+      "total shareholders 2019 equity increased $ 3.3 billion in 2010 , primarily due to net income of $ 3.1 billion and the change in net unrealized appreciation on investments of $ 742 million .",
+      "short-term debt at december 31 , 2010 , in connection with the financing of the rain and hail acquisition , short-term debt includes reverse repurchase agreements totaling $ 1 billion .",
+      "in addition , $ 300 million in borrowings against ace 2019s revolving credit facility were outstanding at december 31 , 2010 .",
+      "at december 31 , 2009 , short-term debt consisted of a five-year term loan which we repaid in december 2010 .",
+      "long-term debt our total long-term debt increased by $ 200 million during the year to $ 3.4 billion and is described in detail in note 9 to the consolidated financial statements , under item 8 .",
+      "in november 2010 , ace ina issued $ 700 million of 2.6 percent senior notes due november 2015 .",
+      "these senior unsecured notes are guaranteed on a senior basis by the company and they rank equally with all of the company 2019s other senior obligations .",
+      "in april 2008 , as part of the financing of the combined insurance acquisition , ace ina entered into a $ 450 million float- ing interest rate syndicated term loan agreement due april 2013 .",
+      "simultaneously , the company entered into a swap transaction that had the economic effect of fixing the interest rate for the term of the loan .",
+      "in december 2010 , ace repaid this loan and exited the swap .",
+      "in december 2008 , ace ina entered into a $ 66 million dual tranche floating interest rate term loan agreement .",
+      "the first tranche , a $ 50 million three-year term loan due december 2011 , had a floating interest rate .",
+      "simultaneously , the company entered into a swap transaction that had the economic effect of fixing the interest rate for the term of the loan .",
+      "in december 2010 , ace repaid this loan and exited the swap .",
+      "the second tranche , a $ 16 million nine-month term loan , was due and repaid in september 2009 .",
+      "trust preferred securities the securities outstanding consist of $ 300 million of trust preferred securities due 2030 , issued by a special purpose entity ( a trust ) that is wholly owned by us .",
+      "the sole assets of the special purpose entity are debt instruments issued by one or more of our subsidiaries .",
+      "the special purpose entity looks to payments on the debt instruments to make payments on the preferred securities .",
+      "we have guaranteed the payments on these debt instruments .",
+      "the trustees of the trust include one or more of our officers and at least one independent trustee , such as a trust company .",
+      "our officers serving as trustees of the trust do not receive any compensation or other remuneration for their services in such capacity .",
+      "the full $ 309 million of outstanding trust preferred securities ( calculated as $ 300 million as discussed above plus our equity share of the trust ) is shown on our con- solidated balance sheet as a liability .",
+      "additional information with respect to the trust preferred securities is contained in note 9 d ) to the consolidated financial statements , under item 8 .",
+      "common shares our common shares had a par value of chf 30.57 each at december 31 , 2010 .",
+      "at the annual general meeting held in may 2010 , the company 2019s shareholders approved a par value reduction in an aggregate swiss franc amount , pursuant to a formula , equal to $ 1.32 per share , which we refer to as the base annual divi- dend .",
+      "the base annual dividend is payable in four installments , provided that each of the swiss franc installments will be ."
+    ],
+    "table": [
+      [
+        "( in millions of u.s . dollars )",
+        "2010"
+      ],
+      [
+        "balance beginning of year",
+        "$ 19667"
+      ],
+      [
+        "net income",
+        "3108"
+      ],
+      [
+        "dividends declared on common shares",
+        "-443 ( 443 )"
+      ],
+      [
+        "change in net unrealized appreciation ( depreciation ) on investments net of tax",
+        "742"
+      ],
+      [
+        "repurchase of shares",
+        "-303 ( 303 )"
+      ],
+      [
+        "other movements net of tax",
+        "203"
+      ],
+      [
+        "balance end of year",
+        "$ 22974"
+      ]
+    ],
+    "questions": [
+      "what is the net change in shareholders 2019 equity during 2010?",
+      "what percentage change does this represent?"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "input": {
+    "id": "GPN/2015/page_83.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "the performance units granted to certain executives in fiscal 2014 were based on a one-year performance period .",
+      "after the compensation committee certified the performance results , 25% ( 25 % ) of the performance units converted to unrestricted shares .",
+      "the remaining 75% ( 75 % ) converted to restricted shares that vest in equal installments on each of the first three anniversaries of the conversion date .",
+      "the performance units granted to certain executives during fiscal 2015 were based on a three-year performance period .",
+      "after the compensation committee certifies the performance results for the three-year period , performance units earned will convert into unrestricted common stock .",
+      "the compensation committee may set a range of possible performance-based outcomes for performance units .",
+      "depending on the achievement of the performance measures , the grantee may earn up to 200% ( 200 % ) of the target number of shares .",
+      "for awards with only performance conditions , we recognize compensation expense over the performance period using the grant date fair value of the award , which is based on the number of shares expected to be earned according to the level of achievement of performance goals .",
+      "if the number of shares expected to be earned were to change at any time during the performance period , we would make a cumulative adjustment to share-based compensation expense based on the revised number of shares expected to be earned .",
+      "during fiscal 2015 , certain executives were granted performance units that we refer to as leveraged performance units , or lpus .",
+      "lpus contain a market condition based on our relative stock price growth over a three-year performance period .",
+      "the lpus contain a minimum threshold performance which , if not met , would result in no payout .",
+      "the lpus also contain a maximum award opportunity set as a fixed dollar and fixed number of shares .",
+      "after the three-year performance period , one-third of any earned units converts to unrestricted common stock .",
+      "the remaining two-thirds convert to restricted stock that will vest in equal installments on each of the first two anniversaries of the conversion date .",
+      "we recognize share-based compensation expense based on the grant date fair value of the lpus , as determined by use of a monte carlo model , on a straight-line basis over the requisite service period for each separately vesting portion of the lpu award .",
+      "total shareholder return units before fiscal 2015 , certain of our executives were granted total shareholder return ( 201ctsr 201d ) units , which are performance-based restricted stock units that are earned based on our total shareholder return over a three-year performance period compared to companies in the s&p 500 .",
+      "once the performance results are certified , tsr units convert into unrestricted common stock .",
+      "depending on our performance , the grantee may earn up to 200% ( 200 % ) of the target number of shares .",
+      "the target number of tsr units for each executive is set by the compensation committee .",
+      "we recognize share-based compensation expense based on the grant date fair value of the tsr units , as determined by use of a monte carlo model , on a straight-line basis over the vesting period .",
+      "the following table summarizes the changes in unvested share-based awards for the years ended may 31 , 2015 and 2014 ( shares in thousands ) : shares weighted-average grant-date fair value ."
+    ],
+    "post_text": [
+      "global payments inc .",
+      "| 2015 form 10-k annual report 2013 81 ."
+    ],
+    "table": [
+      [
+        "",
+        "shares",
+        "weighted-averagegrant-datefair value"
+      ],
+      [
+        "unvested at may 31 2013",
+        "1096",
+        "$ 44"
+      ],
+      [
+        "granted",
+        "544",
+        "47"
+      ],
+      [
+        "vested",
+        "-643 ( 643 )",
+        "45"
+      ],
+      [
+        "forfeited",
+        "-120 ( 120 )",
+        "45"
+      ],
+      [
+        "unvested at may 31 2014",
+        "877",
+        "45"
+      ],
+      [
+        "granted",
+        "477",
+        "72"
+      ],
+      [
+        "vested",
+        "-324 ( 324 )",
+        "46"
+      ],
+      [
+        "forfeited",
+        "-106 ( 106 )",
+        "53"
+      ],
+      [
+        "unvested at may 31 2015",
+        "924",
+        "$ 58"
+      ]
+    ],
+    "questions": [
+      "what is the net change in the balance of unvested shares from 2013 to 2015?"
+    ]
+  }
+}

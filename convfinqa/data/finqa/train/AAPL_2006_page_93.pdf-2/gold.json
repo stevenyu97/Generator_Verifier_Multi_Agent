@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the greatest ending allowance balance , in millions?",
+      "answer": 52.0,
+      "answer_raw": "52.0",
+      "program": "table_max(ending allowance balance, none)"
+    }
+  ]
+}

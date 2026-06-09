@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in receivables from between 2001 and 2002?",
+      "answer": 15042.0,
+      "answer_raw": "15042.0",
+      "program": "subtract(18854, 3812)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the percentage change?",
+      "answer": 3.94596,
+      "answer_raw": "3.94596",
+      "program": "subtract(18854, 3812), divide(#0, 3812)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "from 2005-2006 , what was the total amount of remaining net rentals , in millions?",
+      "answer": 131.2,
+      "answer_raw": "131.2",
+      "program": "add(62.3, 68.9)"
+    }
+  ]
+}

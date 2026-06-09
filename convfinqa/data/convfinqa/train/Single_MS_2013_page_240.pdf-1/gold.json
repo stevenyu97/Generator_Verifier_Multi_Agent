@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of the operating lease liability for years 2014 and 2015?",
+      "answer": 1328.0,
+      "answer_raw": "1328.0",
+      "program": "add(672, 656)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what now is the sum of the operating lease liability including 2013?",
+      "answer": 1949.0,
+      "answer_raw": "1949.0",
+      "program": "add(672, 656), add(#0, 621)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the average value per year?",
+      "answer": 649.66667,
+      "answer_raw": "649.66667",
+      "program": "add(672, 656), add(#0, 621), divide(#1, const_3)"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "input": {
+    "id": "Single_CME/2010/page_113.pdf-5",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the company granted 1020 performance shares .",
+      "the vesting of these shares is contingent on meeting stated goals over a performance period .",
+      "beginning with restricted stock grants in september 2010 , dividends are accrued on restricted class a common stock and restricted stock units and are paid once the restricted stock vests .",
+      "the following table summarizes restricted stock and performance shares activity for 2010 : number of shares weighted average grant date fair value ."
+    ],
+    "post_text": [
+      "the total fair value of restricted stock that vested during the years ended december 31 , 2010 , 2009 and 2008 , was $ 10.3 million , $ 6.2 million and $ 2.5 million , respectively .",
+      "eligible employees may acquire shares of cme group 2019s class a common stock using after-tax payroll deductions made during consecutive offering periods of approximately six months in duration .",
+      "shares are purchased at the end of each offering period at a price of 90% ( 90 % ) of the closing price of the class a common stock as reported on the nasdaq .",
+      "compensation expense is recognized on the dates of purchase for the discount from the closing price .",
+      "in 2010 , 2009 and 2008 , a total of 4371 , 4402 and 5600 shares , respectively , of class a common stock were issued to participating employees .",
+      "these shares are subject to a six-month holding period .",
+      "annual expense of $ 0.1 million for the purchase discount was recognized in 2010 , 2009 and 2008 , respectively .",
+      "non-executive directors receive an annual award of class a common stock with a value equal to $ 75000 .",
+      "non-executive directors may also elect to receive some or all of the cash portion of their annual stipend , up to $ 25000 , in shares of stock based on the closing price at the date of distribution .",
+      "as a result , 7470 , 11674 and 5509 shares of class a common stock were issued to non-executive directors during 2010 , 2009 and 2008 , respectively .",
+      "these shares are not subject to any vesting restrictions .",
+      "expense of $ 2.4 million , $ 2.5 million and $ 2.4 million related to these stock-based payments was recognized for the years ended december 31 , 2010 , 2009 and 2008 , respectively. ."
+    ],
+    "table": [
+      [
+        "",
+        "number of shares",
+        "weighted average grant date fair value"
+      ],
+      [
+        "outstanding at december 31 2009",
+        "116677",
+        "$ 280"
+      ],
+      [
+        "granted",
+        "134245",
+        "275"
+      ],
+      [
+        "vested",
+        "-34630 ( 34630 )",
+        "257"
+      ],
+      [
+        "cancelled",
+        "-19830 ( 19830 )",
+        "260"
+      ],
+      [
+        "outstanding at december 31 2010",
+        "196462",
+        "283"
+      ]
+    ],
+    "questions": [
+      "what was the expense of class a common stock issued to non-executive directors in 2010?",
+      "what is that times 1000000?",
+      "what is that value divided by the number of shares?"
+    ]
+  }
+}

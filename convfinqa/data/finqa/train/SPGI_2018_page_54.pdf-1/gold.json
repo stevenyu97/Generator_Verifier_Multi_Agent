@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the decline in the other net income from 2016 to 2018",
+      "answer": -0.10714,
+      "answer_raw": "-0.10714",
+      "program": "subtract(25, 28), divide(#0, 28)"
+    }
+  ]
+}

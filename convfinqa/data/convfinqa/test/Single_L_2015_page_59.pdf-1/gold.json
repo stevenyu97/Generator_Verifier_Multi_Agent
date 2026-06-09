@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the value of loews common stock in 2011 less 100?",
+      "answer": -2.63,
+      "answer_raw": "-2.63",
+      "program": "subtract(97.37, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that divided by 100?",
+      "answer": -0.0263,
+      "answer_raw": "-0.0263",
+      "program": "subtract(97.37, const_100), divide(#0, const_100)"
+    }
+  ]
+}

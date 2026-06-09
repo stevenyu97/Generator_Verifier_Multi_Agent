@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of the retail electric price and volume/weather adjustments?",
+      "answer": 219.5,
+      "answer_raw": "219.5",
+      "program": "add(180.0, 39.5)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is net revenue less that sum?",
+      "answer": 2189.3,
+      "answer_raw": "2189.3",
+      "program": "add(180.0, 39.5), subtract(2408.8, #0)"
+    }
+  ]
+}

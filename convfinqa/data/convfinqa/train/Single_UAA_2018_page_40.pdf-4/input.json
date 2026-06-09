@@ -1,0 +1,99 @@
+{
+  "input": {
+    "id": "Single_UAA/2018/page_40.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "consolidated results of operations year ended december 31 , 2018 compared to year ended december 31 , 2017 net revenues increased $ 203.9 million , or 4.1% ( 4.1 % ) , to $ 5193.2 million in 2018 from $ 4989.2 million in 2017 .",
+      "net revenues by product category are summarized below: ."
+    ],
+    "post_text": [
+      "the increase in net sales was driven primarily by : 2022 apparel unit sales growth driven by the train category ; and 2022 footwear unit sales growth , led by the run category .",
+      "the increase was partially offset by unit sales decline in accessories .",
+      "license revenues increased $ 8.2 million , or 7.0% ( 7.0 % ) , to $ 124.8 million in 2018 from $ 116.6 million in 2017 .",
+      "connected fitness revenue increased $ 18.5 million , or 18.1% ( 18.1 % ) , to $ 120.4 million in 2018 from $ 101.9 million in 2017 primarily driven by increased subscribers on our fitness applications .",
+      "gross profit increased $ 89.1 million to $ 2340.5 million in 2018 from $ 2251.4 million in 2017 .",
+      "gross profit as a percentage of net revenues , or gross margin , was unchanged at 45.1% ( 45.1 % ) in 2018 compared to 2017 .",
+      "gross profit percentage was favorably impacted by lower promotional activity , improvements in product cost , lower air freight , higher proportion of international and connected fitness revenue and changes in foreign currency ; these favorable impacts were offset by channel mix including higher sales to our off-price channel and restructuring related charges .",
+      "with the exception of improvements in product input costs and air freight improvements , we do not expect these trends to have a material impact on the full year 2019 .",
+      "selling , general and administrative expenses increased $ 82.8 million to $ 2182.3 million in 2018 from $ 2099.5 million in 2017 .",
+      "as a percentage of net revenues , selling , general and administrative expenses decreased slightly to 42.0% ( 42.0 % ) in 2018 from 42.1% ( 42.1 % ) in 2017 .",
+      "selling , general and administrative expense was impacted by the following : 2022 marketing costs decreased $ 21.3 million to $ 543.8 million in 2018 from $ 565.1 million in 2017 .",
+      "this decrease was primarily due to restructuring efforts , resulting in lower compensation and contractual sports marketing .",
+      "this decrease was partially offset by higher costs in connection with brand marketing campaigns and increased marketing investments with the growth of our international business .",
+      "as a percentage of net revenues , marketing costs decreased to 10.5% ( 10.5 % ) in 2018 from 11.3% ( 11.3 % ) in 2017 .",
+      "2022 other costs increased $ 104.1 million to $ 1638.5 million in 2018 from $ 1534.4 million in 2017 .",
+      "this increase was primarily due to higher incentive compensation expense and higher costs incurred for the continued expansion of our direct to consumer distribution channel and international business .",
+      "as a percentage of net revenues , other costs increased to 31.6% ( 31.6 % ) in 2018 from 30.8% ( 30.8 % ) in 2017 .",
+      "restructuring and impairment charges increased $ 59.1 million to $ 183.1 million from $ 124.0 million in 2017 .",
+      "refer to the restructuring plans section above for a summary of charges .",
+      "income ( loss ) from operations decreased $ 52.8 million , or 189.9% ( 189.9 % ) , to a loss of $ 25.0 million in 2018 from income of $ 27.8 million in 2017 .",
+      "as a percentage of net revenues , income from operations decreased to a loss of 0.4% ( 0.4 % ) in 2018 from income of 0.5% ( 0.5 % ) in 2017 .",
+      "income from operations for the year ended december 31 , 2018 was negatively impacted by $ 203.9 million of restructuring , impairment and related charges in connection with the 2018 restructuring plan .",
+      "income from operations for the year ended december 31 , 2017 was negatively impacted by $ 129.1 million of restructuring , impairment and related charges in connection with the 2017 restructuring plan .",
+      "interest expense , net decreased $ 0.9 million to $ 33.6 million in 2018 from $ 34.5 million in 2017. ."
+    ],
+    "table": [
+      [
+        "( in thousands )",
+        "year ended december 31 , 2018",
+        "year ended december 31 , 2017",
+        "year ended december 31 , $ change",
+        "year ended december 31 , % (  % ) change"
+      ],
+      [
+        "apparel",
+        "$ 3462372",
+        "$ 3287121",
+        "$ 175251",
+        "5.3% ( 5.3 % )"
+      ],
+      [
+        "footwear",
+        "1063175",
+        "1037840",
+        "25335",
+        "2.4"
+      ],
+      [
+        "accessories",
+        "422496",
+        "445838",
+        "-23342 ( 23342 )",
+        "-5.2 ( 5.2 )"
+      ],
+      [
+        "total net sales",
+        "4948043",
+        "4770799",
+        "177244",
+        "3.7"
+      ],
+      [
+        "license",
+        "124785",
+        "116575",
+        "8210",
+        "7.0"
+      ],
+      [
+        "connected fitness",
+        "120357",
+        "101870",
+        "18487",
+        "18.1"
+      ],
+      [
+        "total net revenues",
+        "$ 5193185",
+        "$ 4989244",
+        "$ 203941",
+        "4.1% ( 4.1 % )"
+      ]
+    ],
+    "questions": [
+      "what was the total net revenue for 2018?",
+      "and converted to the thousands place?",
+      "so what was the gross margin for the year?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the weighted average cost per share from 2014 to 2015",
+      "answer": 0.15228,
+      "answer_raw": "0.15228",
+      "program": "subtract(41.39, 35.92), divide(#0, 35.92)"
+    }
+  ]
+}

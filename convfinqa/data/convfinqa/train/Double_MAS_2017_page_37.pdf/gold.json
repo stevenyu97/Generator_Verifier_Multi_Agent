@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in adjusted operating profit margins between 2015 and 2016?",
+      "answer": 0.016,
+      "answer_raw": "0.016",
+      "program": "subtract(14.6%, 13.0%)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the difference in gross profit margin between 2016 and 2017?",
+      "answer": 0.8,
+      "answer_raw": "0.8",
+      "program": "subtract(34.2, 33.4)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and what was the percentage change during this time?",
+      "answer": 0.02395,
+      "answer_raw": "0.02395",
+      "program": "subtract(34.2, 33.4), divide(#0, 33.4)"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "JPM/2003/page_35.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "j.p .",
+      "morgan chase & co .",
+      "/ 2003 annual report 33 corporate credit allocation in 2003 , tss was assigned a corporate credit allocation of pre- tax earnings and the associated capital related to certain credit exposures managed within ib 2019s credit portfolio on behalf of clients shared with tss .",
+      "prior periods have been revised to reflect this allocation .",
+      "for 2003 , the impact to tss of this change increased pre-tax operating results by $ 36 million and average allocated capital by $ 712 million , and it decreased sva by $ 65 million .",
+      "pre-tax operating results were $ 46 million lower than in 2002 , reflecting lower loan volumes and higher related expenses , slightly offset by a decrease in credit costs .",
+      "business outlook tss revenue in 2004 is expected to benefit from improved global equity markets and from two recent acquisitions : the november 2003 acquisition of the bank one corporate trust portfolio , and the january 2004 acquisition of citigroup 2019s electronic funds services business .",
+      "tss also expects higher costs as it integrates these acquisitions and continues strategic investments to sup- port business expansion .",
+      "by client segment tss dimensions of 2003 revenue diversification by business revenue by geographic region investor services 36% ( 36 % ) other 1% ( 1 % ) institutional trust services 23% ( 23 % ) treasury services 40% ( 40 % ) large corporations 21% ( 21 % ) middle market 18% ( 18 % ) banks 11% ( 11 % ) nonbank financial institutions 44% ( 44 % ) public sector/governments 6% ( 6 % ) europe , middle east & africa 27% ( 27 % ) asia/pacific 9% ( 9 % ) the americas 64% ( 64 % ) ( a ) includes the elimination of revenue related to shared activities with chase middle market in the amount of $ 347 million .",
+      "year ended december 31 , operating revenue ."
+    ],
+    "post_text": [
+      "( a ) includes a portion of the $ 41 million gain on sale of a nonstrategic business in 2003 : $ 1 million in institutional trust services and $ 40 million in other .",
+      "( b ) includes the elimination of revenues related to shared activities with chase middle market , and a $ 50 million gain on sale of a non-u.s .",
+      "securities clearing firm in 2002. ."
+    ],
+    "table": [
+      [
+        "year ended december 31 , ( in millions )",
+        "year ended december 31 , 2003",
+        "year ended december 31 , 2002",
+        "change"
+      ],
+      [
+        "treasury services",
+        "$ 1927",
+        "$ 1818",
+        "6% ( 6 % )"
+      ],
+      [
+        "investor services",
+        "1449",
+        "1513",
+        "-4 ( 4 )"
+      ],
+      [
+        "institutional trust services ( a )",
+        "928",
+        "864",
+        "7"
+      ],
+      [
+        "other ( a ) ( b )",
+        "-312 ( 312 )",
+        "-303 ( 303 )",
+        "-3 ( 3 )"
+      ],
+      [
+        "total treasury & securities services",
+        "$ 3992",
+        "$ 3892",
+        "3% ( 3 % )"
+      ]
+    ],
+    "questions": [
+      "how much was 2003 total treasury & securities services without the benefit of the special gain ( in us$ m ) ?"
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "input": {
+    "id": "UPS/2014/page_61.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "united parcel service , inc .",
+      "and subsidiaries management's discussion and analysis of financial condition and results of operations issuances of debt in 2014 and 2013 consisted primarily of longer-maturity commercial paper .",
+      "issuances of debt in 2012 consisted primarily of senior fixed rate note offerings totaling $ 1.75 billion .",
+      "repayments of debt in 2014 and 2013 consisted primarily of the maturity of our $ 1.0 and $ 1.75 billion senior fixed rate notes that matured in april 2014 and january 2013 , respectively .",
+      "the remaining repayments of debt during the 2012 through 2014 time period included paydowns of commercial paper and scheduled principal payments on our capitalized lease obligations .",
+      "we consider the overall fixed and floating interest rate mix of our portfolio and the related overall cost of borrowing when planning for future issuances and non-scheduled repayments of debt .",
+      "we had $ 772 million of commercial paper outstanding at december 31 , 2014 , and no commercial paper outstanding at december 31 , 2013 and 2012 .",
+      "the amount of commercial paper outstanding fluctuates throughout each year based on daily liquidity needs .",
+      "the average commercial paper balance was $ 1.356 billion and the average interest rate paid was 0.10% ( 0.10 % ) in 2014 ( $ 1.013 billion and 0.07% ( 0.07 % ) in 2013 , and $ 962 million and 0.07% ( 0.07 % ) in 2012 , respectively ) .",
+      "the variation in cash received from common stock issuances to employees was primarily due to level of stock option exercises in the 2012 through 2014 period .",
+      "the cash outflows in other financing activities were impacted by several factors .",
+      "cash inflows ( outflows ) from the premium payments and settlements of capped call options for the purchase of ups class b shares were $ ( 47 ) , $ ( 93 ) and $ 206 million for 2014 , 2013 and 2012 , respectively .",
+      "cash outflows related to the repurchase of shares to satisfy tax withholding obligations on vested employee stock awards were $ 224 , $ 253 and $ 234 million for 2014 , 2013 and 2012 , respectively .",
+      "in 2013 , we paid $ 70 million to purchase the noncontrolling interest in a joint venture that operates in the middle east , turkey and portions of the central asia region .",
+      "in 2012 , we settled several interest rate derivatives that were designated as hedges of the senior fixed-rate debt offerings that year , which resulted in a cash outflow of $ 70 million .",
+      "sources of credit see note 7 to the audited consolidated financial statements for a discussion of our available credit and debt covenants .",
+      "guarantees and other off-balance sheet arrangements we do not have guarantees or other off-balance sheet financing arrangements , including variable interest entities , which we believe could have a material impact on financial condition or liquidity .",
+      "contractual commitments we have contractual obligations and commitments in the form of capital leases , operating leases , debt obligations , purchase commitments , and certain other liabilities .",
+      "we intend to satisfy these obligations through the use of cash flow from operations .",
+      "the following table summarizes the expected cash outflow to satisfy our contractual obligations and commitments as of december 31 , 2014 ( in millions ) : ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "commitment type",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "after 2019",
+        "total"
+      ],
+      [
+        "capital leases",
+        "$ 75",
+        "$ 74",
+        "$ 67",
+        "$ 62",
+        "$ 59",
+        "$ 435",
+        "$ 772"
+      ],
+      [
+        "operating leases",
+        "323",
+        "257",
+        "210",
+        "150",
+        "90",
+        "274",
+        "1304"
+      ],
+      [
+        "debt principal",
+        "876",
+        "8",
+        "377",
+        "752",
+        "1000",
+        "7068",
+        "10081"
+      ],
+      [
+        "debt interest",
+        "295",
+        "293",
+        "293",
+        "282",
+        "260",
+        "4259",
+        "5682"
+      ],
+      [
+        "purchase commitments",
+        "269",
+        "195",
+        "71",
+        "19",
+        "8",
+        "26",
+        "588"
+      ],
+      [
+        "pension fundings",
+        "1030",
+        "1161",
+        "344",
+        "347",
+        "400",
+        "488",
+        "3770"
+      ],
+      [
+        "other liabilities",
+        "43",
+        "23",
+        "10",
+        "5",
+        "2014",
+        "2014",
+        "81"
+      ],
+      [
+        "total",
+        "$ 2911",
+        "$ 2011",
+        "$ 1372",
+        "$ 1617",
+        "$ 1817",
+        "$ 12550",
+        "$ 22278"
+      ]
+    ],
+    "questions": [
+      "what percent of total expected cash outflow to satisfy contractual obligations and commitments as of december 31 , 2014 , is debt principal?"
+    ]
+  }
+}

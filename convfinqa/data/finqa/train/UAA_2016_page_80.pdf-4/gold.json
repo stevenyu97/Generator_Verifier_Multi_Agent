@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the estimated amortization expense will be recognized in 2017?",
+      "answer": 0.18004,
+      "answer_raw": "0.18004",
+      "program": "divide(10509, 58370)"
+    }
+  ]
+}

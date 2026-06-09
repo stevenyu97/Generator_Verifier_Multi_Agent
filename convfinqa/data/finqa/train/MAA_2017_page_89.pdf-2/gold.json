@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the change in the weighted average grant date fair value per share of restricted stock from 2016 to 2017",
+      "answer": 0.15478,
+      "answer_raw": "0.15478",
+      "program": "subtract(84.53, 73.20), divide(#0, 73.20)"
+    }
+  ]
+}

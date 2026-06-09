@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2013 , did a .5% ( .5 % ) decrease in discount rate have a greater effect than a .5% ( .5 % ) decrease in expected long-term return on assets?",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(21, 19)"
+    }
+  ]
+}

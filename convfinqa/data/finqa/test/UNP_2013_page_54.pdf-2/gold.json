@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2013 what was the percent of the total operating revenues from mexico",
+      "answer": 0.0001,
+      "answer_raw": "0.0001",
+      "program": "divide(2.1, 21963)"
+    }
+  ]
+}

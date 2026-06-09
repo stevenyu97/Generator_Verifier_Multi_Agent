@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "ETR/2008/page_401.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "system energy resources , inc .",
+      "management's financial discussion and analysis with syndicated bank letters of credit .",
+      "in december 2004 , system energy amended these letters of credit and they now expire in may 2009 .",
+      "system energy may refinance or redeem debt prior to maturity , to the extent market conditions and interest and dividend rates are favorable .",
+      "all debt and common stock issuances by system energy require prior regulatory approval .",
+      "debt issuances are also subject to issuance tests set forth in its bond indentures and other agreements .",
+      "system energy has sufficient capacity under these tests to meet its foreseeable capital needs .",
+      "system energy has obtained a short-term borrowing authorization from the ferc under which it may borrow , through march 31 , 2010 , up to the aggregate amount , at any one time outstanding , of $ 200 million .",
+      "see note 4 to the financial statements for further discussion of system energy's short-term borrowing limits .",
+      "system energy has also obtained an order from the ferc authorizing long-term securities issuances .",
+      "the current long- term authorization extends through june 2009 .",
+      "system energy's receivables from the money pool were as follows as of december 31 for each of the following years: ."
+    ],
+    "post_text": [
+      "in may 2007 , $ 22.5 million of system energy's receivable from the money pool was replaced by a note receivable from entergy new orleans .",
+      "see note 4 to the financial statements for a description of the money pool .",
+      "nuclear matters system energy owns and operates grand gulf .",
+      "system energy is , therefore , subject to the risks related to owning and operating a nuclear plant .",
+      "these include risks from the use , storage , handling and disposal of high-level and low-level radioactive materials , regulatory requirement changes , including changes resulting from events at other plants , limitations on the amounts and types of insurance commercially available for losses in connection with nuclear operations , and technological and financial uncertainties related to decommissioning nuclear plants at the end of their licensed lives , including the sufficiency of funds in decommissioning trusts .",
+      "in the event of an unanticipated early shutdown of grand gulf , system energy may be required to provide additional funds or credit support to satisfy regulatory requirements for decommissioning .",
+      "environmental risks system energy's facilities and operations are subject to regulation by various governmental authorities having jurisdiction over air quality , water quality , control of toxic substances and hazardous and solid wastes , and other environmental matters .",
+      "management believes that system energy is in substantial compliance with environmental regulations currently applicable to its facilities and operations .",
+      "because environmental regulations are subject to change , future compliance costs cannot be precisely estimated .",
+      "critical accounting estimates the preparation of system energy's financial statements in conformity with generally accepted accounting principles requires management to apply appropriate accounting policies and to make estimates and judgments that ."
+    ],
+    "table": [
+      [
+        "2008",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )",
+        "( in thousands )"
+      ],
+      [
+        "$ 42915",
+        "$ 53620",
+        "$ 88231",
+        "$ 277287"
+      ]
+    ],
+    "questions": [
+      "how is cash flow of system energy affected by the change in balance of money pool from 2007 to 2008?"
+    ]
+  }
+}

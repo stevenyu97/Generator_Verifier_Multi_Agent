@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent did the balance increase from the beginning of 2016 to the end of 2017?",
+      "answer": 0.53147,
+      "answer_raw": "0.53147",
+      "program": "divide(219, 143), subtract(#0, const_1)"
+    }
+  ]
+}

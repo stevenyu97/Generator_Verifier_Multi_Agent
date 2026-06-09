@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in property plant and equipment subject to capital leases from 2014 to 2015?",
+      "answer": -70.0,
+      "answer_raw": "-70.0",
+      "program": "subtract(1721, 1791)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the balance of capital lease related to aircrafts in 2015?",
+      "answer": 2289.0,
+      "answer_raw": "2289.0",
+      "program": "2289"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what about in 2014?",
+      "answer": 2289.0,
+      "answer_raw": "2289.0",
+      "program": "2289"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the net change?",
+      "answer": 0.0,
+      "answer_raw": "0.0",
+      "program": "subtract(2289, 2289)"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "MSI/2009/page_65.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis of financial condition and results of operations indemnification provisions : in addition , the company may provide indemnifications for losses that result from the breach of general warranties contained in certain commercial , intellectual property and divestiture agreements .",
+      "historically , the company has not made significant payments under these agreements , nor have there been significant claims asserted against the company .",
+      "however , there is an increasing risk in relation to intellectual property indemnities given the current legal climate .",
+      "in indemnification cases , payment by the company is conditioned on the other party making a claim pursuant to the procedures specified in the particular contract , which procedures typically allow the company to challenge the other party 2019s claims .",
+      "further , the company 2019s obligations under these agreements for indemnification based on breach of representations and warranties are generally limited in terms of duration , typically not more than 24 months , and for amounts not in excess of the contract value , and in some instances the company may have recourse against third parties for certain payments made by the company .",
+      "legal matters : the company is a defendant in various lawsuits , claims and actions , which arise in the normal course of business .",
+      "in the opinion of management , the ultimate disposition of these matters will not have a material adverse effect on the company 2019s consolidated financial position , liquidity or results of operations .",
+      "segment information the following commentary should be read in conjunction with the financial results of each operating business segment as detailed in note 12 , 2018 2018information by segment and geographic region , 2019 2019 to the company 2019s consolidated financial statements .",
+      "net sales and operating results for the company 2019s three operating business segments for 2009 , 2008 and 2007 are presented below .",
+      "mobile devices segment the mobile devices segment designs , manufactures , sells and services wireless handsets , including smartphones , with integrated software and accessory products , and licenses intellectual property .",
+      "in 2009 , the segment 2019s net sales represented 32% ( 32 % ) of the company 2019s consolidated net sales , compared to 40% ( 40 % ) in 2008 and 52% ( 52 % ) in 2007. ."
+    ],
+    "post_text": [
+      "segment results 20142009 compared to 2008 in 2009 , the segment 2019s net sales were $ 7.1 billion , a decrease of 41% ( 41 % ) compared to net sales of $ 12.1 billion in 2008 .",
+      "the 41% ( 41 % ) decrease in net sales was primarily driven by a 45% ( 45 % ) decrease in unit shipments , partially offset by an 8% ( 8 % ) increase in average selling price ( 2018 2018asp 2019 2019 ) .",
+      "the segment 2019s net sales were negatively impacted by reduced product offerings in large market segments , particularly 3g products , including smartphones , and the segment 2019s limited product offerings in very low-tier products .",
+      "on a product technology basis , net sales decreased substantially for gsm , cdma and 3g technologies , partially offset by an increase in net sales for iden technology .",
+      "on a geographic basis , net sales decreased substantially in latin america , the europe , middle east and african region ( 2018 2018emea 2019 2019 ) and asia and , to a lesser extent , decreased in north america .",
+      "the segment incurred an operating loss of $ 1.1 billion in 2009 , an improvement of 51% ( 51 % ) compared to an operating loss of $ 2.2 billion in 2008 .",
+      "the decrease in the operating loss was primarily due to decreases in : ( i ) selling , general and administrative ( 2018 2018sg&a 2019 2019 ) expenses , primarily due to lower marketing expenses and savings from cost-reduction initiatives , ( ii ) research and development ( 2018 2018r&d 2019 2019 ) expenditures , reflecting savings from cost-reduction initiatives , ( iii ) lower excess inventory and other related charges in 2009 than in 2008 , when the charges included a $ 370 million charge due to a decision to consolidate software and silicon platforms , and ( iv ) the absence in 2009 of a comparable $ 150 million charge in 2008 related to settlement of a purchase commitment , partially offset by a decrease in gross margin , driven by the 41% ( 41 % ) decrease in net sales .",
+      "as a percentage of net sales in 2009 as compared to 2008 , gross margin and r&d expenditures increased and sg&a expenses decreased .",
+      "the segment 2019s industry typically experiences short life cycles for new products .",
+      "therefore , it is vital to the segment 2019s success that new , compelling products are continually introduced .",
+      "accordingly , a strong commitment to ."
+    ],
+    "table": [
+      [
+        "( dollars in millions )",
+        "years ended december 31 2009",
+        "years ended december 31 2008",
+        "years ended december 31 2007",
+        "years ended december 31 2009 20142008",
+        "2008 20142007"
+      ],
+      [
+        "segment net sales",
+        "$ 7146",
+        "$ 12099",
+        "$ 18988",
+        "( 41 ) % (  % )",
+        "( 36 ) % (  % )"
+      ],
+      [
+        "operating earnings ( loss )",
+        "-1077 ( 1077 )",
+        "-2199 ( 2199 )",
+        "-1201 ( 1201 )",
+        "( 51 ) % (  % )",
+        "83% ( 83 % )"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the segment net sales in 2008 to 2009"
+    ]
+  }
+}

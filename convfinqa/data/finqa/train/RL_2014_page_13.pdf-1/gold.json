@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of factory stores as of march 29 , 2014 are in the americas?",
+      "answer": 0.6383,
+      "answer_raw": "0.6383",
+      "program": "divide(150, 235)"
+    }
+  ]
+}

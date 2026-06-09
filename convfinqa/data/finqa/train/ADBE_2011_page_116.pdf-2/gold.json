@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 2 , 2011 , what would capital lease obligations be in millions excluding of current debt?",
+      "answer": 10.5,
+      "answer_raw": "10.5",
+      "program": "subtract(19.7, 9.2)"
+    }
+  ]
+}

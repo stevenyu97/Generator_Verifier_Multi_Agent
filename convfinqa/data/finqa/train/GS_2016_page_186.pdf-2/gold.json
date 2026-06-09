@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions , for 2016 , 2015 , and 2014 what was the total amount of common share repurchases?",
+      "answer": 90.5,
+      "answer_raw": "90.5",
+      "program": "table_sum(common share repurchases, none)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of the debt principal payments for 2008 and 2009?",
+      "answer": 3954.0,
+      "answer_raw": "3954.0",
+      "program": "add(1977, 1977)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the debt payment for 2010?",
+      "answer": 1977.0,
+      "answer_raw": "1977.0",
+      "program": "1977"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the total sum including 2010?",
+      "answer": 5931.0,
+      "answer_raw": "5931.0",
+      "program": "add(1977, 1977), add(#0, 1977)"
+    }
+  ]
+}

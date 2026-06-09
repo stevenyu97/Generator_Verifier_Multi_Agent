@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total in annual sales of printing papers and graphic arts supplies and equipment in 2011, in millions?",
+      "answer": 4000.0,
+      "answer_raw": "4000.0",
+      "program": "multiply(const_4, const_1000)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this total represent in relation to the total distribution sales in that year, in percentage?",
+      "answer": 0.60332,
+      "answer_raw": "0.60332",
+      "program": "multiply(const_4, const_1000), divide(#0, 6630)"
+    }
+  ]
+}

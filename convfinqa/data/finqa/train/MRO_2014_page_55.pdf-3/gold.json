@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage as of december 31 , 2014 liquidity consisted of cash and cash equivalents?",
+      "answer": 0.4898,
+      "answer_raw": "0.4898",
+      "program": "add(2.4, 2.5), divide(2.4, #0)"
+    }
+  ]
+}

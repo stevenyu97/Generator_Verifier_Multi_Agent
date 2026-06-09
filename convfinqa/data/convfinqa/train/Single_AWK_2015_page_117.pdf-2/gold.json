@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the grant date fair value per share in 2015?",
+      "answer": 62.1,
+      "answer_raw": "62.1",
+      "program": "62.10"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2014?",
+      "answer": 45.45,
+      "answer_raw": "45.45",
+      "program": "45.45"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the change in grant date fair value per share from 2014 to 2015?",
+      "answer": 16.65,
+      "answer_raw": "16.65",
+      "program": "subtract(62.10, 45.45)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the is the grant date fair value per share in 2014?",
+      "answer": 45.45,
+      "answer_raw": "45.45",
+      "program": "45.45"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what percentage change does this represent?",
+      "answer": 0.36634,
+      "answer_raw": "0.36634",
+      "program": "subtract(62.10, 45.45), divide(#0, 45.45)"
+    }
+  ]
+}

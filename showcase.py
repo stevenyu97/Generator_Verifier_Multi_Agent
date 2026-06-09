@@ -24,10 +24,7 @@ def run_showcase(
     case_dir: Optional[Path] = None,
     max_rounds: int = 3,
 ) -> Tuple[DraftReturn, List[Dict[str, Any]], Dict[str, int]]:
-    """Run one episode, print progress, save report to output_path (default: showcase_output.md)."""
-    if output_path is None:
-        output_path = Path(__file__).parent / "showcase_output.md"
-
+    """Run one episode, print progress, save report to output_path (default: showcase_output_{case_dir.name}.md)."""
     if case_dir is None:
         alt = Path(
             "/home/ubuntu/LLM/Dataset/taxcalcbench_dataset/test_data/single-retirement-1099r-alaska-dividend"
@@ -44,6 +41,8 @@ def run_showcase(
                 / "test_data"
                 / "mfj-multiple-schedule-c-loss-multi-home-office"
             )
+    if output_path is None:
+        output_path = Path(__file__).parent / f"showcase_output_{case_dir.name}.md"
 
     lines_out: List[str] = []
 

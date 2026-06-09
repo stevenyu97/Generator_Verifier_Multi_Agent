@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "disco losses improved by how much in 2001?",
+      "answer": 27000000.0,
+      "answer_raw": "27000000.0",
+      "program": "subtract(58, 31), multiply(#0, const_1000000)"
+    }
+  ]
+}

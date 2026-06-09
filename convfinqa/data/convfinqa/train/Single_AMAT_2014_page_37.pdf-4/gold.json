@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the applied materials of 10/26/2014?",
+      "answer": 183.29,
+      "answer_raw": "183.29",
+      "program": "183.29"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the difference between that and that of 10/25/2009?",
+      "answer": 83.29,
+      "answer_raw": "83.29",
+      "program": "subtract(183.29, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference between the s&p 500 index of 10/26/2014 and that of 10/25/2009?",
+      "answer": 116.39,
+      "answer_raw": "116.39",
+      "program": "subtract(183.29, const_100), subtract(216.39, const_100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the difference between that s&p 500 index difference and the applied materials difference?",
+      "answer": 33.1,
+      "answer_raw": "33.1",
+      "program": "subtract(183.29, const_100), subtract(216.39, const_100), subtract(#1, #0)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for 2009 , what was freight revenue per route mile?",
+      "answer": 416682.2459,
+      "answer_raw": "416682.2459",
+      "program": "multiply(13373, const_1000000), divide(#0, 32094)"
+    }
+  ]
+}

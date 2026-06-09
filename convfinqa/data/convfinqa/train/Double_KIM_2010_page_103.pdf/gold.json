@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the weighted average fair value of options granted throughout 2010?",
+      "answer": 0.66,
+      "answer_raw": "0.66",
+      "program": "subtract(3.82, 3.16)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to that weighted average fair value in the beginning of the year?",
+      "answer": 0.20886,
+      "answer_raw": "0.20886",
+      "program": "subtract(3.82, 3.16), divide(#0, 3.16)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and throughout 2009, what was the change in that weighted average fair value?",
+      "answer": -2.57,
+      "answer_raw": "-2.57",
+      "program": "subtract(3.16, 5.73)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is this change as a portion of the weighted average fair value of options granted in the beginning of the year?",
+      "answer": -0.44852,
+      "answer_raw": "-0.44852",
+      "program": "subtract(3.16, 5.73), divide(#0, 5.73)"
+    }
+  ]
+}

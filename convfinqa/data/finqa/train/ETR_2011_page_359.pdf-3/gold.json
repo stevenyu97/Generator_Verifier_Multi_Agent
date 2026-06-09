@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amount of the sum of the factors that contributed to the decrease in the gross operating revenues",
+      "answer": 31.6,
+      "answer_raw": "31.6",
+      "program": "add(15.4, 16.2)"
+    }
+  ]
+}

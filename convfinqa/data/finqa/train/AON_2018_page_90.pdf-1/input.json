@@ -1,0 +1,53 @@
+{
+  "input": {
+    "id": "AON/2018/page_90.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "( 3 ) refer to note 2 201csummary of significant accounting principles and practices 201d for further information .",
+      "13 .",
+      "employee benefitsp y defined contribution savings plans aon maintains defined contribution savings plans for the benefit of its employees .",
+      "the expense recognized for these plans is included in compensation and benefits in the consolidated statements of income .",
+      "the expense for the significant plans in the u.s. , u.k. , netherlands and canada is as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "pension and other postretirement benefits the company sponsors defined benefit pension and postretirement health and welfare plans that provide retirement , medical , and life insurance benefits .",
+      "the postretirement health care plans are contributory , with retiree contributions adjusted annually , and the aa life insurance and pension plans are generally noncontributory .",
+      "the significant u.s. , u.k. , netherlands and canadian pension plans are closed to new entrants. ."
+    ],
+    "table": [
+      [
+        "years ended december 31",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "u.s .",
+        "$ 98",
+        "$ 105",
+        "$ 121"
+      ],
+      [
+        "u.k .",
+        "45",
+        "43",
+        "43"
+      ],
+      [
+        "netherlands and canada",
+        "25",
+        "25",
+        "27"
+      ],
+      [
+        "total",
+        "$ 168",
+        "$ 173",
+        "$ 191"
+      ]
+    ],
+    "questions": [
+      "in 2018 what was the percent of the expenses in the us to the total benefit expense"
+    ]
+  }
+}

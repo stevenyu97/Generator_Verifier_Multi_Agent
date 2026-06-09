@@ -1,0 +1,91 @@
+{
+  "input": {
+    "id": "RSG/2008/page_131.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "in july 2006 , the fasb issued fin 48 which clarifies the accounting for income taxes by prescribing the minimum recognition threshold a tax position is required to meet before being recognized in the financial statements .",
+      "fin 48 also provides guidance on derecognition , measurement , classification , interest and penalties , accounting in interim periods and transition , and required expanded disclosure with respect to the uncertainty in income taxes .",
+      "we adopted the provisions of fin 48 effective january 1 , 2007 .",
+      "a reconciliation of the beginning and ending amount of gross unrecognized tax benefits for the years ended december 31 is as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "included in the balance at december 31 , 2008 and 2007 are approximately $ 461.0 million and $ 7.7 million , respectively , of unrecognized tax benefits ( net of the federal benefit on state issues ) that , if recognized , would affect the effective income tax rate in future periods .",
+      "sfas 141 ( r ) is effective for financial statements issued for fiscal years beginning after december 15 , 2008 .",
+      "sfas 141 ( r ) significantly changes the treatment of acquired uncertain tax liabilities .",
+      "under sfas 141 , changes in acquired uncertain tax liabilities were recognized through goodwill .",
+      "under sfas 141 ( r ) , changes in acquired unrecognized tax liabilities are recognized through the income tax provision .",
+      "as of december 31 , 2008 , $ 582.9 million of the $ 611.9 million of unrecognized tax benefits related to tax positions allied had taken prior to the merger .",
+      "of the $ 582.9 million of acquired unrecognized benefits , $ 449.6 million , if recognized in the income tax provision , would affect our effective tax rate .",
+      "we recognize interest and penalties as incurred within the provision for income taxes in the consolidated statements of income .",
+      "related to the unrecognized tax benefits noted above , we accrued penalties of $ .2 million and interest of $ 5.2 million during 2008 , and , in total as of december 31 , 2008 , have recognized a liability for penalties of $ 88.1 million and interest of $ 180.0 million .",
+      "during 2007 , we accrued interest of $ .9 million and , in total as of december 31 , 2007 , had recognized a liability for penalties and interest of $ 5.5 million .",
+      "gross unrecognized tax benefits that we expect to settle in the following twelve months are in the range of $ 10.0 million to $ 20.0 million .",
+      "it is reasonably possible that the amount of unrecognized tax benefits will increase or decrease in the next twelve months .",
+      "we and our subsidiaries are subject to income tax in the u.s .",
+      "and puerto rico , as well as income tax in multiple state jurisdictions .",
+      "we have acquired allied 2019s open tax periods as part of the acquisition .",
+      "allied is currently under examination or administrative review by various state and federal taxing authorities for certain tax years , including federal income tax audits for calendar years 2000 through 2006 .",
+      "we are also engaged in tax litigation related to our risk management companies which are subsidiaries of allied .",
+      "these matters are further discussed below .",
+      "we are subject to various federal , foreign , state and local tax rules and regulations .",
+      "our compliance with such rules and regulations is periodically audited by tax authorities .",
+      "these authorities may challenge the republic services , inc .",
+      "and subsidiaries notes to consolidated financial statements %%transmsg*** transmitting job : p14076 pcn : 123000000 ***%%pcmsg|121 |00050|yes|no|03/01/2009 18:23|0|0|page is valid , no graphics -- color : d| ."
+    ],
+    "table": [
+      [
+        "",
+        "2008",
+        "2007"
+      ],
+      [
+        "balance at beginning of year",
+        "$ 23.2",
+        "$ 56.4"
+      ],
+      [
+        "additions due to acquisition of allied",
+        "582.9",
+        "2014"
+      ],
+      [
+        "additions based on tax positions related to current year",
+        "10.6",
+        "16.3"
+      ],
+      [
+        "reductions for tax positions related to the current year",
+        "-5.1 ( 5.1 )",
+        "-17.2 ( 17.2 )"
+      ],
+      [
+        "additions for tax positions of prior years",
+        "2.0",
+        "2.0"
+      ],
+      [
+        "reductions for tax positions of prior years",
+        "-1.3 ( 1.3 )",
+        "-12.3 ( 12.3 )"
+      ],
+      [
+        "reductions for tax positions resulting from lapse of statute of limitations",
+        "-.4 ( .4 )",
+        "-.4 ( .4 )"
+      ],
+      [
+        "settlements",
+        "2014",
+        "-21.6 ( 21.6 )"
+      ],
+      [
+        "balance at end of year",
+        "$ 611.9",
+        "$ 23.2"
+      ]
+    ],
+    "questions": [
+      "in 2008 what was the change in the gross unrecognized tax benefits in millions"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the return on total assets during 2014?",
+      "answer": 0.05418,
+      "answer_raw": "0.05418",
+      "program": "divide(338, 6239)"
+    }
+  ]
+}

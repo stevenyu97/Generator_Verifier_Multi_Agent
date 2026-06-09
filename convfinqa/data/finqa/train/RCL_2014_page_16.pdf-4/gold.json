@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the estimated percentage increase , from 2012 to 2014 , in total global cruise guests?",
+      "answer": 5.26316,
+      "answer_raw": "5.26316",
+      "program": "subtract(22.0, 20.9), divide(#0, 20.9), multiply(#1, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much of the securitizations that hold asf framework loans were issued by third parties?",
+      "answer": 0.97945,
+      "answer_raw": "0.97945",
+      "program": "divide(19636, 20048)"
+    }
+  ]
+}

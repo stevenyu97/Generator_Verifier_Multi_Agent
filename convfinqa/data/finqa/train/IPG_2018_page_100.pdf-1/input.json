@@ -1,0 +1,76 @@
+{
+  "input": {
+    "id": "IPG/2018/page_100.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements 2013 ( continued ) ( amounts in millions , except per share amounts ) the estimated future benefit payments expected to be paid are presented below .",
+      "domestic pension plan foreign pension plans domestic postretirement benefit plan ."
+    ],
+    "post_text": [
+      "the estimated future payments for our domestic postretirement benefit plan are net of any estimated u.s .",
+      "federal subsidies expected to be received under the medicare prescription drug , improvement and modernization act of 2003 , which total no more than $ 0.3 in any individual year .",
+      "savings plans we sponsor defined contribution plans ( the 201csavings plans 201d ) that cover substantially all domestic employees .",
+      "the savings plans permit participants to make contributions on a pre-tax and/or after-tax basis and allow participants to choose among various investment alternatives .",
+      "we match a portion of participant contributions based upon their years of service .",
+      "amounts expensed for the savings plans for 2018 , 2017 and 2016 were $ 52.6 , $ 47.2 and $ 47.0 , respectively .",
+      "expenses include a discretionary company contribution of $ 6.7 , $ 3.6 and $ 6.1 offset by participant forfeitures of $ 5.8 , $ 4.6 and $ 4.4 in 2018 , 2017 and 2016 , respectively .",
+      "in addition , we maintain defined contribution plans in various foreign countries and contributed $ 51.3 , $ 47.4 and $ 44.5 to these plans in 2018 , 2017 and 2016 , respectively .",
+      "deferred compensation and benefit arrangements we have deferred compensation and benefit arrangements which ( i ) permit certain of our key officers and employees to defer a portion of their salary or incentive compensation or ( ii ) require us to contribute an amount to the participant 2019s account .",
+      "these arrangements may provide participants with the amounts deferred plus interest upon attaining certain conditions , such as completing a certain number of years of service , attaining a certain age or upon retirement or termination .",
+      "as of december 31 , 2018 and 2017 , the deferred compensation and deferred benefit liability balance was $ 196.2 and $ 213.2 , respectively .",
+      "amounts expensed for deferred compensation and benefit arrangements in 2018 , 2017 and 2016 were $ 10.0 , $ 18.5 and $ 18.5 , respectively .",
+      "we have purchased life insurance policies on participants 2019 lives to assist in the funding of the related deferred compensation and deferred benefit liabilities .",
+      "as of december 31 , 2018 and 2017 , the cash surrender value of these policies was $ 177.3 and $ 177.4 , respectively .",
+      "long-term disability plan we have a long-term disability plan which provides income replacement benefits to eligible participants who are unable to perform their job duties or any job related to his or her education , training or experience .",
+      "as all income replacement benefits are fully insured , no related obligation is required as of december 31 , 2018 and 2017 .",
+      "in addition to income replacement benefits , plan participants may remain covered for certain health and life insurance benefits up to normal retirement age , and accordingly , we have recorded an obligation of $ 5.9 and $ 8.4 as of december 31 , 2018 and 2017 , respectively. ."
+    ],
+    "table": [
+      [
+        "years",
+        "domesticpension plan",
+        "foreignpension plans",
+        "domestic postretirementbenefit plan"
+      ],
+      [
+        "2019",
+        "$ 14.5",
+        "$ 21.7",
+        "$ 3.0"
+      ],
+      [
+        "2020",
+        "8.8",
+        "18.7",
+        "2.8"
+      ],
+      [
+        "2021",
+        "8.0",
+        "19.8",
+        "2.6"
+      ],
+      [
+        "2022",
+        "8.3",
+        "20.9",
+        "2.4"
+      ],
+      [
+        "2023",
+        "7.8",
+        "21.8",
+        "2.2"
+      ],
+      [
+        "2024 - 2028",
+        "36.7",
+        "117.2",
+        "9.8"
+      ]
+    ],
+    "questions": [
+      "in 2019 what was the ratio of the foreign pension plan to the domestic pension plans"
+    ]
+  }
+}

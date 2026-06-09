@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in the difference in the fair value of the securities held in decommissioning trust funds and the amounts deposited plus the earnings on the deposits from 2001 to 2002 for entergy gulf states?",
+      "answer": 12.21429,
+      "answer_raw": "12.21429",
+      "program": "subtract(18.5, 1.4), divide(#0, 1.4)"
+    }
+  ]
+}

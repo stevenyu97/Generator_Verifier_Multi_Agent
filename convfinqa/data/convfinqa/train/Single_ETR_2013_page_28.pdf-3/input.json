@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "Single_ETR/2013/page_28.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "human capital management strategic imperative entergy engaged in a strategic imperative intended to optimize the organization through a process known as human capital management .",
+      "in july 2013 management completed a comprehensive review of entergy 2019s organization design and processes .",
+      "this effort resulted in a new internal organization structure , which resulted in the elimination of approximately 800 employee positions .",
+      "entergy incurred approximately $ 110 million in costs in 2013 associated with this phase of human capital management , primarily implementation costs , severance expenses , pension curtailment losses , special termination benefits expense , and corporate property , plant , and equipment impairments .",
+      "in december 2013 , entergy deferred for future recovery approximately $ 45 million of these costs , as approved by the apsc and the lpsc .",
+      "see note 2 to the financial statements for details of the deferrals and note 13 to the financial statements for details of the restructuring charges .",
+      "liquidity and capital resources this section discusses entergy 2019s capital structure , capital spending plans and other uses of capital , sources of capital , and the cash flow activity presented in the cash flow statement .",
+      "capital structure entergy 2019s capitalization is balanced between equity and debt , as shown in the following table. ."
+    ],
+    "post_text": [
+      "( a ) calculation excludes the arkansas , louisiana , and texas securitization bonds , which are non-recourse to entergy arkansas , entergy louisiana , and entergy texas , respectively .",
+      "net debt consists of debt less cash and cash equivalents .",
+      "debt consists of notes payable and commercial paper , capital lease obligations , and long-term debt , including the currently maturing portion .",
+      "capital consists of debt , common shareholders 2019 equity , and subsidiaries 2019 preferred stock without sinking fund .",
+      "net capital consists of capital less cash and cash equivalents .",
+      "entergy uses the debt to capital ratios excluding securitization bonds in analyzing its financial condition and believes they provide useful information to its investors and creditors in evaluating entergy 2019s financial condition because the securitization bonds are non-recourse to entergy , as more fully described in note 5 to the financial statements .",
+      "entergy also uses the net debt to net capital ratio excluding securitization bonds in analyzing its financial condition and believes it provides useful information to its investors and creditors in evaluating entergy 2019s financial condition because net debt indicates entergy 2019s outstanding debt position that could not be readily satisfied by cash and cash equivalents on hand .",
+      "long-term debt , including the currently maturing portion , makes up most of entergy 2019s total debt outstanding .",
+      "following are entergy 2019s long-term debt principal maturities and estimated interest payments as of december 31 , 2013 .",
+      "to estimate future interest payments for variable rate debt , entergy used the rate as of december 31 , 2013 .",
+      "the amounts below include payments on the entergy louisiana and system energy sale-leaseback transactions , which are included in long-term debt on the balance sheet .",
+      "entergy corporation and subsidiaries management's financial discussion and analysis ."
+    ],
+    "table": [
+      [
+        "",
+        "2013",
+        "2012"
+      ],
+      [
+        "debt to capital",
+        "57.9% ( 57.9 % )",
+        "58.7% ( 58.7 % )"
+      ],
+      [
+        "effect of excluding securitization bonds",
+        "( 1.6% ( 1.6 % ) )",
+        "( 1.8% ( 1.8 % ) )"
+      ],
+      [
+        "debt to capital excluding securitization bonds ( a )",
+        "56.3% ( 56.3 % )",
+        "56.9% ( 56.9 % )"
+      ],
+      [
+        "effect of subtracting cash",
+        "( 1.5% ( 1.5 % ) )",
+        "( 1.1% ( 1.1 % ) )"
+      ],
+      [
+        "net debt to net capital excluding securitization bonds ( a )",
+        "54.8% ( 54.8 % )",
+        "55.8% ( 55.8 % )"
+      ]
+    ],
+    "questions": [
+      "what was the debt-to-capital ratio in 2013?",
+      "and what was it in 2012?",
+      "what was, then, the change over the year?",
+      "and how much does this change represent in relation to the 2012 debt-to-capital ratio, in percentage?"
+    ]
+  }
+}

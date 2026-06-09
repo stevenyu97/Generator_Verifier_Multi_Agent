@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "combined, what were the liabilities for the company for estimated interest and penalties on unrecognized tax benefits in 2013 and 2012?",
+      "answer": 19.0,
+      "answer_raw": "19.0",
+      "program": "add(9, 10)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and also including 2011?",
+      "answer": 34.0,
+      "answer_raw": "34.0",
+      "program": "add(9, 10), add(#0, 15)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and the average for these years?",
+      "answer": 11.33333,
+      "answer_raw": "11.33333",
+      "program": "add(9, 10), add(#0, 15), divide(#1, const_3)"
+    }
+  ]
+}

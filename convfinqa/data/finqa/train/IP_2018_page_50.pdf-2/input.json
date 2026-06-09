@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "IP/2018/page_50.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the company recorded equity earnings , net of taxes , related to ilim of $ 290 million in 2018 , compared with earnings of $ 183 million in 2017 , and $ 199 million in 2016 .",
+      "operating results recorded in 2018 included an after-tax non-cash foreign exchange loss of $ 82 million , compared with an after-tax foreign exchange gain of $ 15 million in 2017 and an after-tax foreign exchange gain of $ 25 million in 2016 , primarily on the remeasurement of ilim's u.s .",
+      "dollar denominated net debt .",
+      "ilim delivered outstanding performance in 2018 , driven largely by higher price realization and strong demand .",
+      "sales volumes for the joint venture increased year over year for shipments to china of softwood pulp and linerboard , but were offset by decreased sales of hardwood pulp to china .",
+      "sales volumes in the russian market increased for softwood pulp and hardwood pulp , but decreased for linerboard .",
+      "average sales price realizations were significantly higher in 2018 for sales of softwood pulp , hardwood pulp and linerboard to china and other export markets .",
+      "average sales price realizations in russian markets increased year over year for all products .",
+      "input costs were higher in 2018 , primarily for wood , fuel and chemicals .",
+      "distribution costs were negatively impacted by tariffs and inflation .",
+      "the company received cash dividends from the joint venture of $ 128 million in 2018 , $ 133 million in 2017 and $ 58 million in entering the first quarter of 2019 , sales volumes are expected to be lower than in the fourth quarter of 2018 , due to the seasonal slowdown in china and fewer trading days .",
+      "based on pricing to date in the current quarter , average sales prices are expected to decrease for hardwood pulp , softwood pulp and linerboard to china .",
+      "input costs are projected to be relatively flat , while distribution costs are expected to increase .",
+      "equity earnings - gpip international paper recorded equity earnings of $ 46 million on its 20.5% ( 20.5 % ) ownership position in gpip in 2018 .",
+      "the company received cash dividends from the investment of $ 25 million in 2018 .",
+      "liquidity and capital resources overview a major factor in international paper 2019s liquidity and capital resource planning is its generation of operating cash flow , which is highly sensitive to changes in the pricing and demand for our major products .",
+      "while changes in key cash operating costs , such as energy , raw material , mill outage and transportation costs , do have an effect on operating cash generation , we believe that our focus on pricing and cost controls has improved our cash flow generation over an operating cycle .",
+      "cash uses during 2018 were primarily focused on working capital requirements , capital spending , debt reductions and returning cash to shareholders through dividends and share repurchases under the company's share repurchase program .",
+      "cash provided by operating activities cash provided by operations , including discontinued operations , totaled $ 3.2 billion in 2018 , compared with $ 1.8 billion for 2017 , and $ 2.5 billion for 2016 .",
+      "cash used by working capital components ( accounts receivable , contract assets and inventory less accounts payable and accrued liabilities , interest payable and other ) totaled $ 439 million in 2018 , compared with cash used by working capital components of $ 402 million in 2017 , and cash provided by working capital components of $ 71 million in 2016 .",
+      "investment activities including discontinued operations , investment activities in 2018 increased from 2017 , as 2018 included higher capital spending .",
+      "in 2016 , investment activity included the purchase of weyerhaeuser's pulp business for $ 2.2 billion in cash , the purchase of the holmen business for $ 57 million in cash , net of cash acquired , and proceeds from the sale of the asia packaging business of $ 108 million , net of cash divested .",
+      "the company maintains an average capital spending target around depreciation and amortization levels , or modestly above , due to strategic plans over the course of an economic cycle .",
+      "capital spending was $ 1.6 billion in 2018 , or 118% ( 118 % ) of depreciation and amortization , compared with $ 1.4 billion in 2017 , or 98% ( 98 % ) of depreciation and amortization , and $ 1.3 billion , or 110% ( 110 % ) of depreciation and amortization in 2016 .",
+      "across our segments , capital spending as a percentage of depreciation and amortization ranged from 69.8% ( 69.8 % ) to 132.1% ( 132.1 % ) in 2018 .",
+      "the following table shows capital spending for operations by business segment for the years ended december 31 , 2018 , 2017 and 2016 , excluding amounts related to discontinued operations of $ 111 million in 2017 and $ 107 million in 2016. ."
+    ],
+    "post_text": [
+      "capital expenditures in 2019 are currently expected to be about $ 1.4 billion , or 104% ( 104 % ) of depreciation and amortization , including approximately $ 400 million of strategic investments. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "industrial packaging",
+        "$ 1061",
+        "$ 836",
+        "$ 832"
+      ],
+      [
+        "global cellulose fibers",
+        "183",
+        "188",
+        "174"
+      ],
+      [
+        "printing papers",
+        "303",
+        "235",
+        "215"
+      ],
+      [
+        "subtotal",
+        "1547",
+        "1259",
+        "1221"
+      ],
+      [
+        "corporate and other",
+        "25",
+        "21",
+        "20"
+      ],
+      [
+        "capital spending",
+        "$ 1572",
+        "$ 1280",
+        "$ 1241"
+      ]
+    ],
+    "questions": [
+      "what was the percentage increase of capital expenditures for operations in the industrial packaging business segment in from 2017 to 2018?"
+    ]
+  }
+}

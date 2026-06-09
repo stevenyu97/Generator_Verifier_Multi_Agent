@@ -1,0 +1,80 @@
+{
+  "input": {
+    "id": "C/2009/page_141.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "citigroup 2019s repurchases are primarily from government sponsored entities .",
+      "the specific representations and warranties made by the company depend on the nature of the transaction and the requirements of the buyer .",
+      "market conditions and credit-ratings agency requirements may also affect representations and warranties and the other provisions the company may agree to in loan sales .",
+      "in the event of a breach of the representations and warranties , the company may be required to either repurchase the mortgage loans ( generally at unpaid principal balance plus accrued interest ) with the identified defects or indemnify ( 201cmake-whole 201d ) the investor or insurer .",
+      "the company has recorded a repurchase reserve that is included in other liabilities in the consolidated balance sheet .",
+      "in the case of a repurchase , the company will bear any subsequent credit loss on the mortgage loans .",
+      "the company 2019s representations and warranties are generally not subject to stated limits in amount or time of coverage .",
+      "however , contractual liability arises only when the representations and warranties are breached and generally only when a loss results from the breach .",
+      "in the case of a repurchase , the loan is typically considered a credit- impaired loan and accounted for under sop 03-3 , 201caccounting for certain loans and debt securities , acquired in a transfer 201d ( now incorporated into asc 310-30 , receivables 2014loans and debt securities acquired with deteriorated credit quality ) .",
+      "these repurchases have not had a material impact on nonperforming loan statistics , because credit-impaired purchased sop 03-3 loans are not included in nonaccrual loans .",
+      "the company estimates its exposure to losses from its obligation to repurchase previously sold loans based on the probability of repurchase or make-whole and an estimated loss given repurchase or make-whole .",
+      "this estimate is calculated separately by sales vintage ( i.e. , the year the loans were sold ) based on a combination of historical trends and forecasted repurchases and losses considering the : ( 1 ) trends in requests by investors for loan documentation packages to be reviewed ; ( 2 ) trends in recent repurchases and make-wholes ; ( 3 ) historical percentage of claims made as a percentage of loan documentation package requests ; ( 4 ) success rate in appealing claims ; ( 5 ) inventory of unresolved claims ; and ( 6 ) estimated loss given repurchase or make-whole , including the loss of principal , accrued interest , and foreclosure costs .",
+      "the company does not change its estimation methodology by counterparty , but the historical experience and trends are considered when evaluating the overall reserve .",
+      "the request for loan documentation packages is an early indicator of a potential claim .",
+      "during 2009 , loan documentation package requests and the level of outstanding claims increased .",
+      "in addition , our loss severity estimates increased during 2009 due to the impact of macroeconomic factors and recent experience .",
+      "these factors contributed to a $ 493 million change in estimate for this reserve in 2009 .",
+      "as indicated above , the repurchase reserve is calculated by sales vintage .",
+      "the majority of the repurchases in 2009 were from the 2006 and 2007 sales vintages , which also represent the vintages with the largest loss- given-repurchase .",
+      "an insignificant percentage of 2009 repurchases were from vintages prior to 2006 , and this is expected to decrease , because those vintages are later in the credit cycle .",
+      "although early in the credit cycle , the company has experienced improved repurchase and loss-given-repurchase statistics from the 2008 and 2009 vintages .",
+      "in the case of a repurchase of a credit-impaired sop 03-3 loan ( now incorporated into asc 310-30 ) , the difference between the loan 2019s fair value and unpaid principal balance at the time of the repurchase is recorded as a utilization of the repurchase reserve .",
+      "payments to make the investor whole are also treated as utilizations and charged directly against the reserve .",
+      "the provision for estimated probable losses arising from loan sales is recorded as an adjustment to the gain on sale , which is included in other revenue in the consolidated statement of income .",
+      "a liability for representations and warranties is estimated when the company sells loans and is updated quarterly .",
+      "any subsequent adjustment to the provision is recorded in other revenue in the consolidated statement of income .",
+      "the activity in the repurchase reserve for the years ended december 31 , 2009 and 2008 is as follows: ."
+    ],
+    "post_text": [
+      "goodwill goodwill represents an acquired company 2019s acquisition cost over the fair value of net tangible and intangible assets acquired .",
+      "goodwill is subject to annual impairment tests , whereby goodwill is allocated to the company 2019s reporting units and an impairment is deemed to exist if the carrying value of a reporting unit exceeds its estimated fair value .",
+      "furthermore , on any business dispositions , goodwill is allocated to the business disposed of based on the ratio of the fair value of the business disposed of to the fair value of the reporting unit .",
+      "intangible assets intangible assets 2014including core deposit intangibles , present value of future profits , purchased credit card relationships , other customer relationships , and other intangible assets , but excluding msrs 2014are amortized over their estimated useful lives .",
+      "intangible assets deemed to have indefinite useful lives , primarily certain asset management contracts and trade names , are not amortized and are subject to annual impairment tests .",
+      "an impairment exists if the carrying value of the indefinite-lived intangible asset exceeds its fair value .",
+      "for other intangible assets subject to amortization , an impairment is recognized if the carrying amount is not recoverable and exceeds the fair value of the intangible asset .",
+      "other assets and other liabilities other assets include , among other items , loans held-for-sale , deferred tax assets , equity-method investments , interest and fees receivable , premises and equipment , end-user derivatives in a net receivable position , repossessed assets , and other receivables. ."
+    ],
+    "table": [
+      [
+        "in millions of dollars",
+        "2009",
+        "2008"
+      ],
+      [
+        "balance beginning of the year",
+        "$ 75",
+        "$ 2"
+      ],
+      [
+        "additions for new sales",
+        "33",
+        "23"
+      ],
+      [
+        "change in estimate",
+        "493",
+        "59"
+      ],
+      [
+        "utilizations",
+        "-119 ( 119 )",
+        "-9 ( 9 )"
+      ],
+      [
+        "balance end of the year",
+        "$ 482",
+        "$ 75"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the change in estimate for 2009 to 2008"
+    ]
+  }
+}

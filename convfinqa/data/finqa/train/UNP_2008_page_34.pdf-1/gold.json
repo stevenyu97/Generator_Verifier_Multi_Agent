@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2008 what was the ratio of the reduction of the personal injury expense and asbestos-related costs to the environmental and toxic tort expenses",
+      "answer": 11.71429,
+      "answer_raw": "11.71429",
+      "program": "divide(82, 7)"
+    }
+  ]
+}

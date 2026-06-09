@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the share-based compensation expense from 2011 to 2012?",
+      "answer": -4.3,
+      "answer_raw": "-4.3",
+      "program": "subtract(38.4, 42.7)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was this change as a percent of that expense in 2011?",
+      "answer": -0.1007,
+      "answer_raw": "-0.1007",
+      "program": "subtract(38.4, 42.7), divide(#0, 42.7)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and throughout the subsequent year of this period, what was that change?",
+      "answer": -5.5,
+      "answer_raw": "-5.5",
+      "program": "subtract(32.9, 38.4)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what percentage did this 2012-2013 change represent in relation to that compensation expense in 2012?",
+      "answer": -0.14323,
+      "answer_raw": "-0.14323",
+      "program": "subtract(32.9, 38.4), divide(#0, 38.4)"
+    }
+  ]
+}

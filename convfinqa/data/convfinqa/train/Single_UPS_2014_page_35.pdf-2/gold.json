@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the value of the s&p500 in 2012?",
+      "answer": 136.26,
+      "answer_raw": "136.26",
+      "program": "136.26"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2010?",
+      "answer": 115.06,
+      "answer_raw": "115.06",
+      "program": "115.06"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change in its value over the year?",
+      "answer": 21.2,
+      "answer_raw": "21.2",
+      "program": "subtract(136.26, 115.06)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the value of the s&p500 in 2010?",
+      "answer": 115.06,
+      "answer_raw": "115.06",
+      "program": "115.06"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this 2010 value?",
+      "answer": 0.18425,
+      "answer_raw": "0.18425",
+      "program": "subtract(136.26, 115.06), divide(#0, 115.06)"
+    }
+  ]
+}

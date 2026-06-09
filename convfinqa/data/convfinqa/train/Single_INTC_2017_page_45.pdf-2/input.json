@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "Single_INTC/2017/page_45.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "in summary , our cash flows for each period were as follows : years ended ( in millions ) dec 30 , dec 31 , dec 26 ."
+    ],
+    "post_text": [
+      "operating activities cash provided by operating activities is net income adjusted for certain non-cash items and changes in assets and liabilities .",
+      "for 2017 compared to 2016 , the $ 302 million increase in cash provided by operating activities was due to changes to working capital partially offset by adjustments for non-cash items and lower net income .",
+      "tax reform did not have an impact on our 2017 cash provided by operating activities .",
+      "the increase in cash provided by operating activities was driven by increased income before taxes and $ 1.0 billion receipts of customer deposits .",
+      "these increases were partially offset by increased inventory and accounts receivable .",
+      "income taxes paid , net of refunds , in 2017 compared to 2016 were $ 2.9 billion higher due to higher income before taxes , taxable gains on sales of asml , and taxes on the isecg divestiture .",
+      "we expect approximately $ 2.0 billion of additional customer deposits in 2018 .",
+      "for 2016 compared to 2015 , the $ 2.8 billion increase in cash provided by operating activities was due to adjustments for non-cash items and changes in working capital , partially offset by lower net income .",
+      "the adjustments for non-cash items were higher in 2016 primarily due to restructuring and other charges and the change in deferred taxes , partially offset by lower depreciation .",
+      "investing activities investing cash flows consist primarily of capital expenditures ; investment purchases , sales , maturities , and disposals ; and proceeds from divestitures and cash used for acquisitions .",
+      "our capital expenditures were $ 11.8 billion in 2017 ( $ 9.6 billion in 2016 and $ 7.3 billion in 2015 ) .",
+      "the decrease in cash used for investing activities in 2017 compared to 2016 was primarily due to higher net activity of available-for sale-investments in 2017 , proceeds from our divestiture of isecg in 2017 , and higher maturities and sales of trading assets in 2017 .",
+      "this activity was partially offset by higher capital expenditures in 2017 .",
+      "the increase in cash used for investing activities in 2016 compared to 2015 was primarily due to our completed acquisition of altera , net purchases of trading assets in 2016 compared to net sales of trading assets in 2015 , and higher capital expenditures in 2016 .",
+      "this increase was partially offset by lower investments in non-marketable equity investments .",
+      "financing activities financing cash flows consist primarily of repurchases of common stock , payment of dividends to stockholders , issuance and repayment of short-term and long-term debt , and proceeds from the sale of shares of common stock through employee equity incentive plans .",
+      "the increase in cash used for financing activities in 2017 compared to 2016 was primarily due to net long-term debt activity , which was a use of cash in 2017 compared to a source of cash in 2016 .",
+      "during 2017 , we repurchased $ 3.6 billion of common stock under our authorized common stock repurchase program , compared to $ 2.6 billion in 2016 .",
+      "as of december 30 , 2017 , $ 13.2 billion remained available for repurchasing common stock under the existing repurchase authorization limit .",
+      "we base our level of common stock repurchases on internal cash management decisions , and this level may fluctuate .",
+      "proceeds from the sale of common stock through employee equity incentive plans totaled $ 770 million in 2017 compared to $ 1.1 billion in 2016 .",
+      "our total dividend payments were $ 5.1 billion in 2017 compared to $ 4.9 billion in 2016 .",
+      "we have paid a cash dividend in each of the past 101 quarters .",
+      "in january 2018 , our board of directors approved an increase to our cash dividend to $ 1.20 per share on an annual basis .",
+      "the board has declared a quarterly cash dividend of $ 0.30 per share of common stock for q1 2018 .",
+      "the dividend is payable on march 1 , 2018 to stockholders of record on february 7 , 2018 .",
+      "cash was used for financing activities in 2016 compared to cash provided by financing activities in 2015 , primarily due to fewer debt issuances and the repayment of debt in 2016 .",
+      "this activity was partially offset by repayment of commercial paper in 2015 and fewer common stock repurchases in 2016 .",
+      "md&a - results of operations consolidated results and analysis 37 ."
+    ],
+    "table": [
+      [
+        "years ended ( in millions )",
+        "dec 302017",
+        "dec 312016",
+        "dec 262015"
+      ],
+      [
+        "net cash provided by operating activities",
+        "$ 22110",
+        "$ 21808",
+        "$ 19018"
+      ],
+      [
+        "net cash used for investing activities",
+        "-15762 ( 15762 )",
+        "-25817 ( 25817 )",
+        "-8183 ( 8183 )"
+      ],
+      [
+        "net cash provided by ( used for ) financing activities",
+        "-8475 ( 8475 )",
+        "-5739 ( 5739 )",
+        "1912"
+      ],
+      [
+        "net increase ( decrease ) in cash and cash equivalents",
+        "$ -2127 ( 2127 )",
+        "$ -9748 ( 9748 )",
+        "$ 12747"
+      ]
+    ],
+    "questions": [
+      "what was the total of capital expenditures in 2017?",
+      "and what was that total in 2016?",
+      "what was, then, the change over the year?",
+      "and how much does this change represent in relation to the 2016 total, in percentage?"
+    ]
+  }
+}

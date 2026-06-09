@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2007 what was the percent of the income from continuing operations that was from the us",
+      "answer": 0.60162,
+      "answer_raw": "0.60162",
+      "program": "divide(13720, 22805)"
+    }
+  ]
+}

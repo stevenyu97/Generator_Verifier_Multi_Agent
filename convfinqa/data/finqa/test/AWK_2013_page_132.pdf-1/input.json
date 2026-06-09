@@ -1,0 +1,41 @@
+{
+  "input": {
+    "id": "AWK/2013/page_132.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "coupons and expected maturity values of individually selected bonds .",
+      "the yield curve was developed for a universe containing the majority of u.s.-issued aa-graded corporate bonds , all of which were non callable ( or callable with make-whole provisions ) .",
+      "historically , for each plan , the discount rate was developed as the level equivalent rate that would produce the same present value as that using spot rates aligned with the projected benefit payments .",
+      "the expected long-term rate of return on plan assets is based on historical and projected rates of return , prior to administrative and investment management fees , for current and planned asset classes in the plans 2019 investment portfolios .",
+      "assumed projected rates of return for each of the plans 2019 projected asset classes were selected after analyzing historical experience and future expectations of the returns and volatility of the various asset classes .",
+      "based on the target asset allocation for each asset class , the overall expected rate of return for the portfolio was developed , adjusted for historical and expected experience of active portfolio management results compared to the benchmark returns and for the effect of expenses paid from plan assets .",
+      "the company 2019s pension expense increases as the expected return on assets decreases .",
+      "assumed health care cost trend rates have a significant effect on the amounts reported for the other postretirement benefit plans .",
+      "the health care cost trend rate is based on historical rates and expected market conditions .",
+      "a one-percentage-point change in assumed health care cost trend rates would have the following effects : percentage- increase percentage- decrease ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "one-percentage-pointincrease",
+        "one-percentage-pointdecrease"
+      ],
+      [
+        "effect on total of service and interest cost components",
+        "$ 7367",
+        "$ -5974 ( 5974 )"
+      ],
+      [
+        "effect on other postretirement benefit obligation",
+        "$ 72238",
+        "$ -60261 ( 60261 )"
+      ]
+    ],
+    "questions": [
+      "based on the information provided what is the ratio of the post retirement benefit obligation to the service and interest one-point percentage increase"
+    ]
+  }
+}

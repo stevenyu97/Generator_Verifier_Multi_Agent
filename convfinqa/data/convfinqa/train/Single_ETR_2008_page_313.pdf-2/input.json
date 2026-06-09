@@ -1,0 +1,58 @@
+{
+  "input": {
+    "id": "Single_ETR/2008/page_313.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "entergy louisiana , llc management's financial discussion and analysis net revenue 2008 compared to 2007 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory charges .",
+      "following is an analysis of the change in net revenue comparing 2008 to 2007 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the retail electric price variance is primarily due to the cessation of the interim storm recovery through the formula rate plan upon the act 55 financing of storm costs and a credit passed on to customers as a result of the act 55 storm cost financing , partially offset by increases in the formula rate plan effective october 2007 .",
+      "refer to \"hurricane rita and hurricane katrina\" and \"state and local rate regulation\" below for a discussion of the interim recovery of storm costs , the act 55 storm cost financing , and the formula rate plan filing .",
+      "the purchased power capacity variance is due to the amortization of deferred capacity costs effective september 2007 as a result of the formula rate plan filing in may 2007 .",
+      "purchased power capacity costs are offset in base revenues due to a base rate increase implemented to recover incremental deferred and ongoing purchased power capacity charges .",
+      "see \"state and local rate regulation\" below for a discussion of the formula rate plan filing .",
+      "the net wholesale revenue variance is primarily due to provisions recorded for potential rate refunds related to the treatment of interruptible load in pricing entergy system affiliate sales .",
+      "gross operating revenue and , fuel and purchased power expenses gross operating revenues increased primarily due to an increase of $ 364.7 million in fuel cost recovery revenues due to higher fuel rates offset by decreased usage .",
+      "the increase was partially offset by a decrease of $ 56.8 million in gross wholesale revenue due to a decrease in system agreement rough production cost equalization credits .",
+      "fuel and purchased power expenses increased primarily due to increases in the average market prices of natural gas and purchased power , partially offset by a decrease in the recovery from customers of deferred fuel costs. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2007 net revenue",
+        "$ 991.1"
+      ],
+      [
+        "retail electric price",
+        "-17.1 ( 17.1 )"
+      ],
+      [
+        "purchased power capacity",
+        "-12.0 ( 12.0 )"
+      ],
+      [
+        "net wholesale revenue",
+        "-7.4 ( 7.4 )"
+      ],
+      [
+        "other",
+        "4.6"
+      ],
+      [
+        "2008 net revenue",
+        "$ 959.2"
+      ]
+    ],
+    "questions": [
+      "what is the sum of the retail electric price and purchased power capacity?",
+      "what is the sum including new wholesale revenue?",
+      "what was the value of other revenues?",
+      "what is the total sum of revenues?"
+    ]
+  }
+}

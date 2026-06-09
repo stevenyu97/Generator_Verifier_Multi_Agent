@@ -1,0 +1,100 @@
+{
+  "input": {
+    "id": "Single_APD/2014/page_44.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "investing activities for the year ended 30 september 2014 , cash used for investing activities was $ 1638.0 , primarily capital expenditures for plant and equipment .",
+      "for the year ended 30 september 2013 , cash used for investing activities was $ 1697.0 , primarily capital expenditures for plant and equipment and acquisitions .",
+      "for the year ended 30 september 2012 , cash used for investing activities was $ 2435.2 , primarily capital expenditures for plant and equipment , acquisitions , and investments in unconsolidated affiliates .",
+      "refer to the capital expenditures section below for additional detail .",
+      "capital expenditures capital expenditures are detailed in the following table: ."
+    ],
+    "post_text": [
+      "( a ) we utilize a non-gaap measure in the computation of capital expenditures and include spending associated with facilities accounted for as capital leases and purchases of noncontrolling interests .",
+      "certain contracts associated with facilities that are built to provide product to a specific customer are required to be accounted for as leases , and such spending is reflected as a use of cash within cash provided by operating activities , if the arrangement qualifies as a capital lease .",
+      "additionally , the payment for subsidiary shares from noncontrolling interests in a subsidiary is accounted for as an equity transaction and will be reflected as a financing activity in the statement of cash flows .",
+      "the presentation of this non-gaap measure is intended to enhance the usefulness of information by providing a measure that our management uses internally to evaluate and manage our expenditures .",
+      "capital expenditures on a gaap basis in 2014 totaled $ 1682.2 , compared to $ 1747.8 in 2013 .",
+      "the decrease of $ 65.6 was primarily due to the acquisitions in 2013 .",
+      "additions to plant and equipment are largely in support of the merchant gases and tonnage gases businesses .",
+      "additions to plant and equipment also included support capital of a routine , ongoing nature , including expenditures for distribution equipment and facility improvements .",
+      "spending in 2014 and 2013 included plant and equipment constructed to provide oxygen for coal gasification in china , hydrogen to the global market , and renewable energy in the u.k .",
+      "in 2013 , we completed three acquisitions with an aggregate cash use , net of cash acquired , of $ 224.9 .",
+      "in the fourth quarter , we acquired an air separation unit and integrated gases liquefier in guiyang , china .",
+      "during the third quarter , we acquired epco , the largest independent u.s .",
+      "producer of liquid carbon dioxide ( co2 ) , and wcg .",
+      "in 2012 , we acquired a controlling stake in indura s.a .",
+      "for $ 690 and e.i .",
+      "dupont de nemours and co. , inc . 2019s 50% ( 50 % ) interest in our joint venture , da nanomaterials for $ 147 .",
+      "we also purchased a 25% ( 25 % ) equity interest in abdullah hashim industrial gases & equipment co .",
+      "ltd .",
+      "( ahg ) , an unconsolidated affiliate , for $ 155 .",
+      "refer to note 5 , business combinations , and note 7 , summarized financial information of equity affiliates , to the consolidated financial statements for additional details regarding the acquisitions and the investments .",
+      "capital expenditures on a non-gaap basis in 2014 totaled $ 1885.1 compared to $ 1996.7 in 2013 .",
+      "capital lease expenditures of $ 202.4 decreased by $ 32.5 , reflecting lower project spending .",
+      "2015 outlook excluding acquisitions , capital expenditures for new plant and equipment in 2015 on a gaap basis are expected to be between $ 1650 and $ 1800 , and on a non-gaap basis are expected to be between $ 1700 and $ 1900 .",
+      "the non-gaap capital expenditures include spending associated with facilities accounted for as capital leases , which are expected to be between $ 50 and $ 100 .",
+      "a majority of the total capital expenditures is expected to be for new plants .",
+      "it is anticipated that capital expenditures will be funded principally with cash from continuing operations .",
+      "in addition , we intend to continue to evaluate acquisition opportunities and investments in equity affiliates .",
+      "financing activities for the year ended 2014 , cash used by financing activities was $ 504.3 primarily attributable to cash used to pay dividends of $ 627.7 , which was partially offset by proceeds from stock option exercises of $ 141.6 .",
+      "our borrowings ( short- and long-term proceeds , net of repayments ) were a net source of cash ( issuance ) of $ 1.1 and included $ 148.7 of net commercial paper and other short-term debt issuances , debt proceeds from the issuance of a ."
+    ],
+    "table": [
+      [
+        "",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      [
+        "additions to plant and equipment",
+        "$ 1684.2",
+        "$ 1524.2",
+        "$ 1521.0"
+      ],
+      [
+        "acquisitions less cash acquired",
+        "2014",
+        "224.9",
+        "863.4"
+      ],
+      [
+        "investments in and advances to unconsolidated affiliates",
+        "-2.0 ( 2.0 )",
+        "-1.3 ( 1.3 )",
+        "175.4"
+      ],
+      [
+        "capital expenditures on a gaap basis",
+        "$ 1682.2",
+        "$ 1747.8",
+        "$ 2559.8"
+      ],
+      [
+        "capital lease expenditures ( a )",
+        "202.4",
+        "234.9",
+        "212.2"
+      ],
+      [
+        "purchase of noncontrolling interests in asubsidiary ( a )",
+        ".5",
+        "14.0",
+        "6.3"
+      ],
+      [
+        "capital expenditures on a non-gaap basis",
+        "$ 1885.1",
+        "$ 1996.7",
+        "$ 2778.3"
+      ]
+    ],
+    "questions": [
+      "what were the capital expenditures on a non-gaap basis in 2012?",
+      "and what were the capital expenditures on a gaap basis in that same year?",
+      "how much, then, do the capital expenditures on a non-gaap basis represent in relation to the ones on a gaap basis, in 2012?",
+      "and what is the difference between this value and the number one?"
+    ]
+  }
+}

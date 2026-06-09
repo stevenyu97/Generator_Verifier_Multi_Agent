@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if mr . fadell's gave his unvested restricted stock units to a girlfriend , would his wife have more than his girlfriend?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(40000, 210000)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in rental income from 2004 to 2005?",
+      "answer": 0.07273,
+      "answer_raw": "0.07273",
+      "program": "subtract(59, 55), divide(#0, 55)"
+    }
+  ]
+}

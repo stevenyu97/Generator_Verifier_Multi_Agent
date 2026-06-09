@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of decline in the expected volatility from 2013 to 2014",
+      "answer": -0.04844,
+      "answer_raw": "-0.04844",
+      "program": "subtract(27.5, 28.9), divide(#0, 28.9)"
+    }
+  ]
+}

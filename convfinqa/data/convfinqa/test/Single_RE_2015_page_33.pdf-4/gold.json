@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the investment income from 2011 to 2012?",
+      "answer": -19.8,
+      "answer_raw": "-19.8",
+      "program": "subtract(600.2, 620.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to that income in 2011, in percentage?",
+      "answer": -0.03194,
+      "answer_raw": "-0.03194",
+      "program": "subtract(600.2, 620.0), divide(#0, 620.0)"
+    }
+  ]
+}

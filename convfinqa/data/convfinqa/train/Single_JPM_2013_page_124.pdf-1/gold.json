@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in total wholesale credit-related assets from 2012 to 2013?",
+      "answer": 2253.0,
+      "answer_raw": "2253.0",
+      "program": "subtract(414067, 411814)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the total wholesale credit-related assets in 2012?",
+      "answer": 411814.0,
+      "answer_raw": "411814.0",
+      "program": "411814"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage change does this represent?",
+      "answer": 0.00547,
+      "answer_raw": "0.00547",
+      "program": "subtract(414067, 411814), divide(#0, 411814)"
+    }
+  ]
+}

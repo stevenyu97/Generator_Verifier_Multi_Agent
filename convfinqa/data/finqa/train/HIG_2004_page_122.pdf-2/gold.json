@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total obligations are due within the next 3 years?",
+      "answer": 0.22986,
+      "answer_raw": "0.22986",
+      "program": "add(27729, 45161), divide(#0, 317105)"
+    }
+  ]
+}

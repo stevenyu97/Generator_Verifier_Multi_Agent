@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total maturities of debt come due prior to 2019?",
+      "answer": 0.30727,
+      "answer_raw": "0.30727",
+      "program": "subtract(41029, 28422), divide(#0, 41029)"
+    }
+  ]
+}

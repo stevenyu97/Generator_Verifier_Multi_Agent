@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent did the net cash provided by operations increase between 2018 and 2019?",
+      "answer": 379.0,
+      "answer_raw": "379.0",
+      "program": "subtract(2310.2, 1931.2)"
+    }
+  ]
+}

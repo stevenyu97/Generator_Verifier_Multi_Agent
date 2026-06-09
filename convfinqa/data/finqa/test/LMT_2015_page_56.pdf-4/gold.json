@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was average net sales for space systems in millions from 2013 to 2015?",
+      "answer": 9198.33333,
+      "answer_raw": "9198.33333",
+      "program": "table_average(net sales, none)"
+    }
+  ]
+}

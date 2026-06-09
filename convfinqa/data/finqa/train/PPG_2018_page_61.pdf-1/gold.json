@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was operating income return on sales on the discontinued glass segment in 2016?",
+      "answer": 0.12225,
+      "answer_raw": "0.12225",
+      "program": "divide(111, 908)"
+    }
+  ]
+}

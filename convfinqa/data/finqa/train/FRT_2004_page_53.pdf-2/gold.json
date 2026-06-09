@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are the percentage of the acquisition of westgate mall , shaw 2019s plaza , and several parcels of land in the investing activities?\\\\n",
+      "answer": 0.65911,
+      "answer_raw": "0.65911",
+      "program": "divide(101.7, 154.3)"
+    }
+  ]
+}

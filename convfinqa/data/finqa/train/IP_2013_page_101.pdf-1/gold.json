@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2014 what percentage of at december 31 , 2013 , total future minimum commitments under existing non-cancelable operating leases and purchase obligations is due to purchase obligations?",
+      "answer": 0.94882,
+      "answer_raw": "0.94882",
+      "program": "divide(3170, 3341)"
+    }
+  ]
+}

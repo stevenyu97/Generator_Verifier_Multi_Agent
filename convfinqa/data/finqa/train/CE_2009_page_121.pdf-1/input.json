@@ -1,0 +1,65 @@
+{
+  "input": {
+    "id": "CE/2009/page_121.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "during 2009 , the company extended the contractual life of 4 million fully vested share options held by 6 employees .",
+      "as a result of that modification , the company recognized additional compensation expense of $ 1 million for the year ended december 31 , 2009 .",
+      "restricted stock units ( 201crsus 201d ) performance-based rsus .",
+      "the company grants performance-based rsus to the company 2019s executive officers and certain employees once per year .",
+      "the company may also grant performance-based rsus to certain new employees or to employees who assume positions of increasing responsibility at the time those events occur .",
+      "the number of performance-based rsus that ultimately vest is dependent on one or both of the following as per the terms of the specific award agreement : the achievement of 1 ) internal profitability targets ( performance condition ) and 2 ) market performance targets measured by the comparison of the company 2019s stock performance versus a defined peer group ( market condition ) .",
+      "the performance-based rsus generally cliff-vest during the company 2019s quarter-end september 30 black-out period three years from the date of grant .",
+      "the ultimate number of shares of the company 2019s series a common stock issued will range from zero to stretch , with stretch defined individually under each award , net of personal income taxes withheld .",
+      "the market condition is factored into the estimated fair value per unit and compensation expense for each award will be based on the probability of achieving internal profitability targets , as applicable , and recognized on a straight-line basis over the term of the respective grant , less estimated forfeitures .",
+      "for performance-based rsus granted without a performance condition , compensation expense is based on the fair value per unit recognized on a straight-line basis over the term of the grant , less estimated forfeitures .",
+      "in april 2007 , the company granted performance-based rsus to certain employees that vest annually in equal tranches beginning october 1 , 2008 through october 1 , 2011 and include a market condition .",
+      "the performance- based rsus awarded include a catch-up provision that provides for an additional year of vesting of previously unvested amounts , subject to certain maximums .",
+      "compensation expense is based on the fair value per unit recognized on a straight-line basis over the term of the grant , less estimated forfeitures .",
+      "a summary of changes in performance-based rsus outstanding is as follows : number of weighted average fair value ( in thousands ) ( in $ ) ."
+    ],
+    "post_text": [
+      "the fair value of shares vested for performance-based rsus during the years ended december 31 , 2009 and 2008 was $ 2 million and $ 3 million , respectively .",
+      "there were no vestings that occurred during the year ended december 31 , 2007 .",
+      "fair value for the company 2019s performance-based rsus was estimated at the grant date using a monte carlo simulation approach .",
+      "monte carlo simulation was utilized to randomly generate future stock returns for the company and each company in the defined peer group for each grant based on company-specific dividend yields , volatilities and stock return correlations .",
+      "these returns were used to calculate future performance-based rsu vesting percentages and the simulated values of the vested performance-based rsus were then discounted to present value using a risk-free rate , yielding the expected value of these performance-based rsus .",
+      "%%transmsg*** transmitting job : d70731 pcn : 119000000 ***%%pcmsg|119 |00016|yes|no|02/10/2010 16:17|0|0|page is valid , no graphics -- color : n| ."
+    ],
+    "table": [
+      [
+        "",
+        "number of units ( in thousands )",
+        "weighted average fair value ( in $ )"
+      ],
+      [
+        "nonvested at december 31 2008",
+        "1188",
+        "19.65"
+      ],
+      [
+        "granted",
+        "420",
+        "38.16"
+      ],
+      [
+        "vested",
+        "-79 ( 79 )",
+        "21.30"
+      ],
+      [
+        "forfeited",
+        "-114 ( 114 )",
+        "17.28"
+      ],
+      [
+        "nonvested at december 31 2009",
+        "1415",
+        "25.24"
+      ]
+    ],
+    "questions": [
+      "what is the net change in the balance of non vested units during 2009?"
+    ]
+  }
+}

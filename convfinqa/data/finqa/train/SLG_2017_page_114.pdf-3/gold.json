@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total contributions in 2017 was the 2017 pension plan?",
+      "answer": 23.02777,
+      "answer_raw": "23.02777",
+      "program": "divide(3856, 16745), multiply(#0, const_100)"
+    }
+  ]
+}

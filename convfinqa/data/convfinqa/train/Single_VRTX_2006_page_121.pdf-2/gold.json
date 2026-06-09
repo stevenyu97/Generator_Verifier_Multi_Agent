@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of share issuable in 2006?",
+      "answer": 28.0,
+      "answer_raw": "28.0",
+      "program": "28"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that in 2005?",
+      "answer": 19.0,
+      "answer_raw": "19.0",
+      "program": "19"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 9.0,
+      "answer_raw": "9.0",
+      "program": "subtract(28, 19)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the total of share issuable in 2005?",
+      "answer": 19.0,
+      "answer_raw": "19.0",
+      "program": "19"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much does that change represent in relation to this 2005 total, in percentage?",
+      "answer": 0.47368,
+      "answer_raw": "0.47368",
+      "program": "subtract(28, 19), divide(#0, 19)"
+    }
+  ]
+}

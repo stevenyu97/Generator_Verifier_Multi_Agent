@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of future minimum rental payments are due in 2017?",
+      "answer": 0.14941,
+      "answer_raw": "0.14941",
+      "program": "divide(290, 1941)"
+    }
+  ]
+}

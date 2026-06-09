@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total entergy's employees are part of entergy texas?",
+      "answer": 0.04591,
+      "answer_raw": "0.04591",
+      "program": "divide(674, 14682)"
+    }
+  ]
+}

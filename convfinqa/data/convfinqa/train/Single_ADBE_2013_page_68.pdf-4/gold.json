@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum value of trademarks and acquired right to use technology?",
+      "answer": 16.0,
+      "answer_raw": "16.0",
+      "program": "add(8, 8)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the average value?",
+      "answer": 8.0,
+      "answer_raw": "8.0",
+      "program": "add(8, 8), divide(#0, const_2)"
+    }
+  ]
+}

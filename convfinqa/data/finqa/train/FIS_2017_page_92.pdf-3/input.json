@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "FIS/2017/page_92.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "fidelity national information services , inc .",
+      "and subsidiaries notes to consolidated financial statements - ( continued ) the following summarizes the aggregate maturities of our debt and capital leases on stated contractual maturities , excluding unamortized non-cash bond premiums and discounts net of $ 30 million as of december 31 , 2017 ( in millions ) : ."
+    ],
+    "post_text": [
+      "there are no mandatory principal payments on the revolving loan and any balance outstanding on the revolving loan will be due and payable at its scheduled maturity date , which occurs at august 10 , 2021 .",
+      "fis may redeem the 2018 notes , 2020 notes , 2021 notes , 2021 euro notes , 2022 notes , 2022 gbp notes , 2023 notes , 2024 notes , 2024 euro notes , 2025 notes , 2026 notes , and 2046 notes at its option in whole or in part , at any time and from time to time , at a redemption price equal to the greater of 100% ( 100 % ) of the principal amount to be redeemed and a make-whole amount calculated as described in the related indenture in each case plus accrued and unpaid interest to , but excluding , the date of redemption , provided no make-whole amount will be paid for redemptions of the 2020 notes , the 2021 notes , the 2021 euro notes and the 2022 gbp notes during the one month prior to their maturity , the 2022 notes during the two months prior to their maturity , the 2023 notes , the 2024 notes , the 2024 euro notes , the 2025 notes , and the 2026 notes during the three months prior to their maturity , and the 2046 notes during the six months prior to their maturity .",
+      "debt issuance costs of $ 53 million , net of accumulated amortization , remain capitalized as of december 31 , 2017 , related to all of the above outstanding debt .",
+      "we monitor the financial stability of our counterparties on an ongoing basis .",
+      "the lender commitments under the undrawn portions of the revolving loan are comprised of a diversified set of financial institutions , both domestic and international .",
+      "the failure of any single lender to perform its obligations under the revolving loan would not adversely impact our ability to fund operations .",
+      "the fair value of the company 2019s long-term debt is estimated to be approximately $ 156 million higher than the carrying value as of december 31 , 2017 .",
+      "this estimate is based on quoted prices of our senior notes and trades of our other debt in close proximity to december 31 , 2017 , which are considered level 2-type measurements .",
+      "this estimate is subjective in nature and involves uncertainties and significant judgment in the interpretation of current market data .",
+      "therefore , the values presented are not necessarily indicative of amounts the company could realize or settle currently. ."
+    ],
+    "table": [
+      [
+        "",
+        "total"
+      ],
+      [
+        "2018",
+        "$ 1045"
+      ],
+      [
+        "2019",
+        "44"
+      ],
+      [
+        "2020",
+        "1157"
+      ],
+      [
+        "2021",
+        "1546"
+      ],
+      [
+        "2022",
+        "705"
+      ],
+      [
+        "thereafter",
+        "4349"
+      ],
+      [
+        "total principal payments",
+        "8846"
+      ],
+      [
+        "debt issuance costs net of accumulated amortization",
+        "-53 ( 53 )"
+      ],
+      [
+        "total long-term debt",
+        "$ 8793"
+      ]
+    ],
+    "questions": [
+      "what is the amount of long-term debt that should be reported in the non-current liabilities section of the balance sheet as of december 31 , 2017?"
+    ]
+  }
+}

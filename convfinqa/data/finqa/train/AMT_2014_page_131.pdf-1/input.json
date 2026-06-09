@@ -1,0 +1,62 @@
+{
+  "input": {
+    "id": "AMT/2014/page_131.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements acquisition accounting upon closing of the acquisition .",
+      "based on current estimates , the company expects the value of potential contingent consideration payments required to be made under these agreements to be between zero and $ 4.4 million .",
+      "during the year ended december 31 , 2014 , the company ( i ) recorded a decrease in fair value of $ 1.7 million in other operating expenses in the accompanying consolidated statements of operations , ( ii ) recorded settlements under these agreements of $ 3.5 million , ( iii ) reduced its contingent consideration liability by $ 0.7 million as a portion of the company 2019s obligations was assumed by the buyer in conjunction with the sale of operations in panama and ( iv ) recorded additional liability of $ 0.1 million .",
+      "as a result , the company estimates the value of potential contingent consideration payments required under these agreements to be $ 2.3 million using a probability weighted average of the expected outcomes as of december 31 , 2014 .",
+      "other u.s . 2014in connection with other acquisitions in the united states , the company is required to make additional payments if certain pre-designated tenant leases commence during a specified period of time .",
+      "during the year ended december 31 , 2014 , the company recorded $ 6.3 million of contingent consideration liability as part of the preliminary acquisition accounting upon closing of certain acquisitions .",
+      "during the year ended december 31 , 2014 , the company recorded settlements under these agreements of $ 0.4 million .",
+      "based on current estimates , the company expects the value of potential contingent consideration payments required to be made under these agreements to be between zero and $ 5.9 million and estimates it to be $ 5.9 million using a probability weighted average of the expected outcomes as of december 31 , 2014 .",
+      "for more information regarding contingent consideration , see note 12 .",
+      "7 .",
+      "accrued expenses accrued expenses consists of the following as of december 31 , ( in thousands ) : ."
+    ],
+    "post_text": [
+      "( 1 ) december 31 , 2013 balances have been revised to reflect purchase accounting measurement period adjustments. ."
+    ],
+    "table": [
+      [
+        "",
+        "2014",
+        "2013 ( 1 )"
+      ],
+      [
+        "accrued property and real estate taxes",
+        "$ 61206",
+        "$ 54529"
+      ],
+      [
+        "payroll and related withholdings",
+        "57110",
+        "50843"
+      ],
+      [
+        "accrued construction costs",
+        "46024",
+        "52446"
+      ],
+      [
+        "accrued rent",
+        "34074",
+        "28456"
+      ],
+      [
+        "other accrued expenses",
+        "219340",
+        "234914"
+      ],
+      [
+        "balance as of december 31,",
+        "$ 417754",
+        "$ 421188"
+      ]
+    ],
+    "questions": [
+      "how much of the of contingent consideration for acquisitions was actually settled in 2014?"
+    ]
+  }
+}

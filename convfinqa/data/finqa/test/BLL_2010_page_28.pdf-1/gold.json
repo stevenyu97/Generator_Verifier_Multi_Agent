@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage cumulative total shareholder return for ball corporation for the five year period ending 12/31/10?",
+      "answer": 0.7893,
+      "answer_raw": "0.7893",
+      "program": "subtract(178.93, const_100), divide(#0, const_100)"
+    }
+  ]
+}

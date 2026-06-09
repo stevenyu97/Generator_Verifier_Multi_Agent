@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would the purchase obligations and other be for payments before the period be if they included the multiemployer pension plan?",
+      "answer": 2458.3,
+      "answer_raw": "2458.3",
+      "program": "add(247.8, 2210.5)"
+    }
+  ]
+}

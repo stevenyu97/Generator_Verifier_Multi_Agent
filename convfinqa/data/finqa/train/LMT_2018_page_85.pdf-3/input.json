@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "LMT/2018/page_85.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "note 2 2013 earnings per share the weighted average number of shares outstanding used to compute earnings per common share were as follows ( in millions ) : ."
+    ],
+    "post_text": [
+      "we compute basic and diluted earnings per common share by dividing net earnings by the respective weighted average number of common shares outstanding for the periods presented .",
+      "our calculation of diluted earnings per common share also includes the dilutive effects for the assumed vesting of outstanding restricted stock units ( rsus ) , performance stock units ( psus ) and exercise of outstanding stock options based on the treasury stock method .",
+      "there were no significant anti-dilutive equity awards for the years ended december 31 , 2018 , 2017 and 2016 .",
+      "note 3 2013 acquisition and divestitures consolidation of awe management limited on august 24 , 2016 , we increased our ownership interest in the awe joint venture , which operates the united kingdom 2019s nuclear deterrent program , from 33% ( 33 % ) to 51% ( 51 % ) .",
+      "consequently , we began consolidating awe and our operating results include 100% ( 100 % ) of awe 2019s sales and 51% ( 51 % ) of its operating profit .",
+      "prior to increasing our ownership interest , we accounted for our investment in awe using the equity method of accounting .",
+      "under the equity method , we recognized only 33% ( 33 % ) of awe 2019s earnings or losses and no sales .",
+      "accordingly , prior to august 24 , 2016 , the date we obtained control , we recorded 33% ( 33 % ) of awe 2019s net earnings in our operating results and subsequent to august 24 , 2016 , we recognized 100% ( 100 % ) of awe 2019s sales and 51% ( 51 % ) of its operating profit .",
+      "we accounted for this transaction as a 201cstep acquisition 201d ( as defined by u.s .",
+      "gaap ) , which requires us to consolidate and record the assets and liabilities of awe at fair value .",
+      "accordingly , we recorded intangible assets of $ 243 million related to customer relationships , $ 32 million of net liabilities , and noncontrolling interests of $ 107 million .",
+      "the intangible assets are being amortized over a period of eight years in accordance with the underlying pattern of economic benefit reflected by the future net cash flows .",
+      "in 2016 , we recognized a non-cash net gain of $ 104 million associated with obtaining a controlling interest in awe , which consisted of a $ 127 million pretax gain recognized in the operating results of our space business segment and $ 23 million of tax-related items at our corporate office .",
+      "the gain represented the fair value of our 51% ( 51 % ) interest in awe , less the carrying value of our previously held investment in awe and deferred taxes .",
+      "the gain was recorded in other income , net on our consolidated statements of earnings .",
+      "the fair value of awe ( including the intangible assets ) , our controlling interest , and the noncontrolling interests were determined using the income approach .",
+      "divestiture of the information systems & global solutions business on august 16 , 2016 , we divested our former is&gs business , which merged with leidos , in a reverse morris trust transaction ( the 201ctransaction 201d ) .",
+      "the transaction was completed in a multi-step process pursuant to which we initially contributed the is&gs business to abacus innovations corporation ( abacus ) , a wholly owned subsidiary of lockheed martin created to facilitate the transaction , and the common stock of abacus was distributed to participating lockheed martin stockholders through an exchange offer .",
+      "under the terms of the exchange offer , lockheed martin stockholders had the option to exchange shares of lockheed martin common stock for shares of abacus common stock .",
+      "at the conclusion of the exchange offer , all shares of abacus common stock were exchanged for 9369694 shares of lockheed martin common stock held by lockheed martin stockholders that elected to participate in the exchange .",
+      "the shares of lockheed martin common stock that were exchanged and accepted were retired , reducing the number of shares of our common stock outstanding by approximately 3% ( 3 % ) .",
+      "following the exchange offer , abacus merged with a subsidiary of leidos , with abacus continuing as the surviving corporation and a wholly-owned subsidiary of leidos .",
+      "as part of the merger , each share of abacus common stock was automatically converted into one share of leidos common stock .",
+      "we did not receive any shares of leidos common stock as part of the transaction and do not hold any shares of leidos or abacus common stock following the transaction .",
+      "based on an opinion of outside tax counsel , subject to customary qualifications and based on factual representations , the exchange offer and merger will qualify as tax-free transactions to lockheed martin and its stockholders , except to the extent that cash was paid to lockheed martin stockholders in lieu of fractional shares .",
+      "in connection with the transaction , abacus borrowed an aggregate principal amount of approximately $ 1.84 billion under term loan facilities with third party financial institutions , the proceeds of which were used to make a one-time special cash payment of $ 1.80 billion to lockheed martin and to pay associated borrowing fees and expenses .",
+      "the entire special cash payment was used to repay debt , pay dividends and repurchase stock during the third and fourth quarters of 2016 .",
+      "the obligations under the abacus term loan facilities were guaranteed by leidos as part of the transaction. ."
+    ],
+    "table": [
+      [
+        "",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "weighted average common shares outstanding for basic computations",
+        "284.5",
+        "287.8",
+        "299.3"
+      ],
+      [
+        "weighted average dilutive effect of equity awards",
+        "2.3",
+        "2.8",
+        "3.8"
+      ],
+      [
+        "weighted average common shares outstanding for diluted computations",
+        "286.8",
+        "290.6",
+        "303.1"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in weighted average common shares outstanding for basic computations from 2016 to 2017?"
+    ]
+  }
+}

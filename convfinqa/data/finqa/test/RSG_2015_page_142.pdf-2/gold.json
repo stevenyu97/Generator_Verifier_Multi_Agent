@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage growth of the aggregate fair values of our outstanding fuel hedge for 2014 to 2015",
+      "answer": 0.09884,
+      "answer_raw": "0.09884",
+      "program": "subtract(37.8, 34.4), divide(#0, 34.4)"
+    }
+  ]
+}

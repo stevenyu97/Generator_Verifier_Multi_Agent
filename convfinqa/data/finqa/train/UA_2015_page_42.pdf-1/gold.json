@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2014 what was the percent of the sales revenues of apparel to the total revenues",
+      "answer": 0.74295,
+      "answer_raw": "0.74295",
+      "program": "divide(2291520, 3084370)"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "input": {
+    "id": "SLG/2012/page_61.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "sl green realty corp .",
+      "it happens here 2012 annual report 59 | 59 during the year ended december a031 , 2012 , when compared to the year ended december a031 , 2011 , we used cash for the follow- ing financing activities ( in thousands ) : ."
+    ],
+    "post_text": [
+      "ca pita liz ation | as of december a0 31 , 2012 , we had 91249632 shares of common stock , 2759758 units of lim- ited partnership interest in the operating partnership held by persons other than the company , 66668 a0 performance based ltip units , 7700000 a0 shares of our 7.625% ( 7.625 % ) series a0 c cumulative redeemable preferred stock , or series c preferred stock , and 9200000 a0 shares of our 6.50% ( 6.50 % ) series a0 i cumula- tive redeemable preferred stock , or series a0 i preferred stock , outstanding .",
+      "in addition , we also had preferred units of limited partnership interests in the operating partnership having aggregate liquidation preferences of $ 49.6 a0million held by per- sons other than the company .",
+      "in september a0 2012 , we redeemed 4000000 a0 shares , or $ 100.0 a0 million , of series c preferred stock at a redemp- tion price of $ 25.00 a0 per share plus a0 $ 0.3707 in accumu- lated and unpaid dividends on such preferred stock through september a0 24 , 2012 .",
+      "we recognized $ 6.3 a0 million of costs to partially redeem the series c preferred stock .",
+      "as a result of this redemption , we have 7700000 a0 shares of series a0 c preferred stock outstanding .",
+      "in august a0 2012 , we issued 9200000 a0 shares of our series a0 i preferred stock with a mandatory liquidation pref- erence of $ 25.00 a0 per share .",
+      "the series a0 i preferred share- holders receive annual distributions of $ 1.625 a0per share paid on a quarterly basis and distributions are cumulative , sub- ject to certain provisions .",
+      "we are entitled to redeem our series a0i preferred stock at par for cash at our option on or after august a0 10 , 2017 .",
+      "net proceeds from the series i preferred stock ( $ 222.2 a0million ) was recorded net of underwriters 2019 dis- count and issuance a0costs .",
+      "in july a0 2012 , we redeemed all 4000000 a0 shares , or $ 100.0 a0million , of our 7.875% ( 7.875 % ) series a0d cumulative redeemable preferred stock , or series a0d preferred stock , at a redemption price of $ 25.00 a0 per share plus $ 0.4922 in accumulated and unpaid dividends on such preferred stock through july a0 14 , 2012 .",
+      "we recognized $ 3.7 a0million of costs to fully redeem the series a0d preferred stock .",
+      "in july a0 2011 , we , along with the operating partnership , entered into an 201cat-the-market 201d equity offering program , or atm program , to sell an aggregate of $ 250.0 a0 million of our common stock .",
+      "during the year ended december a0 31 , 2012 , we sold 2.6 a0 million shares of our common stock through the atm program for aggregate gross proceeds of approximately $ 204.6 a0 million ( $ 201.3 a0 million of net proceeds after related expenses ) .",
+      "the net proceeds were used to repay debt , fund new investments and for other corporate purposes .",
+      "as of december a0 31 , 2012 , we had $ 45.4 a0 million available to issue under the atm a0program .",
+      "dividend reinvestment and stock purchase plan | in march a0 2012 , we filed a registration statement with the sec for our dividend reinvestment and stock purchase plan , or drip , which automatically became effective upon filing .",
+      "we registered 3500000 a0shares of common stock under the drip .",
+      "the drip commenced on september a024 , 2001 .",
+      "during the years ended december a0 31 , 2012 and 2011 , we issued approximately 1.3 a0 million and 473 a0 shares of our common stock and received approximately $ 99.6 a0million and $ 34000 of net proceeds , respectively , from dividend reinvest- ments and/or stock purchases under the drip .",
+      "drip shares may be issued at a discount to the market price .",
+      "second amended and restated 2005 stock option and incentive plan | subject to adjustments upon cer- tain corporate transactions or events , up to a maximum of 10730000 a0 fungible units may be granted as options , restricted stock , phantom shares , dividend equivalent rights and other equity based awards under the second amended and restated 2005 a0 stock option and incentive plan , or the 2005 a0plan .",
+      "as of december a031 , 2012 , no fungible units were available for issuance under the 2005 a0plan after reserving for shares underlying outstanding restricted stock units , phantom stock units granted pursuant to our non-employee directors 2019 deferral program and ltip units , including , among others , outstanding ltip units issued under our 2011 a0 long-term outperformance plan , which remain subject to performance based a0vesting .",
+      "2005 long-ter m outper for m a nce compensation program | in december a0 2005 , the compensation commit- tee of our board of directors approved a long-term incentive compensation program , the 2005 a0 outperformance plan .",
+      "participants in the 2005 a0 outperformance plan were enti- tled to earn ltip a0 units in our operating partnership if our total return to stockholders for the three-year period beginning december a0 1 , 2005 exceeded a cumulative total return to stockholders of 30% ( 30 % ) ; provided that participants were entitled to earn ltip units earlier in the event that we achieved maximum performance for 30 consecutive days .",
+      "on june a014 , 2006 , the compensation committee determined that under the terms of the 2005 a0 outperformance plan , as of june a0 8 , 2006 , the performance period had accelerated and the maximum performance pool of $ 49250000 , taking into account forfeitures , had been earned .",
+      "under the terms of the 2005 a0 outperformance plan , participants also earned additional ltip a0units with a value equal to the distributions ."
+    ],
+    "table": [
+      [
+        "proceeds from our debt obligations",
+        "$ 254579"
+      ],
+      [
+        "repayments under our debt obligations",
+        "538903"
+      ],
+      [
+        "proceeds from issuance of common and preferred stock",
+        "-92924 ( 92924 )"
+      ],
+      [
+        "redemption of preferred stock",
+        "-200013 ( 200013 )"
+      ],
+      [
+        "noncontrolling interests contributions in excess of distributions",
+        "144957"
+      ],
+      [
+        "other financing activities",
+        "48213"
+      ],
+      [
+        "dividends and distributions paid",
+        "-57372 ( 57372 )"
+      ],
+      [
+        "increase in net cash provided in financing activities",
+        "$ 636343"
+      ]
+    ],
+    "questions": [
+      "in 000 , what were proceeds from our debt obligations net of repayments under our debt obligations?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "during 2013 , what were total losses in millions for charge-offs on new oreo properties and negative fair value adjustments on existing oreo properties?",
+      "answer": 45.0,
+      "answer_raw": "45.0",
+      "program": "add(19, 26)"
+    }
+  ]
+}

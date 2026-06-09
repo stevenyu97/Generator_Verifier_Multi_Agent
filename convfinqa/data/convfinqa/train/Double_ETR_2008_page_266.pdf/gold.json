@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net revenue in 2007?",
+      "answer": 1110.6,
+      "answer_raw": "1110.6",
+      "program": "1110.6"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2008?",
+      "answer": 1117.9,
+      "answer_raw": "1117.9",
+      "program": "1117.9"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": -7.3,
+      "answer_raw": "-7.3",
+      "program": "subtract(1110.6, 1117.9)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what growth rate does this represent?",
+      "answer": -0.00653,
+      "answer_raw": "-0.00653",
+      "program": "subtract(1110.6, 1117.9), divide(#0, 1117.9)"
+    }
+  ]
+}

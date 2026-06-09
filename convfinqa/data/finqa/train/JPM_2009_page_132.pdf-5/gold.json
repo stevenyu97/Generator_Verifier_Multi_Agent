@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how many trading days did the daily net gains exceed daily net losses?",
+      "answer": 193.0,
+      "answer_raw": "193.0",
+      "program": "subtract(227, 34)"
+    }
+  ]
+}

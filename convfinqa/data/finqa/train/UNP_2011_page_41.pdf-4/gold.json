@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total commercial commitments are credit facilities?",
+      "answer": 0.65478,
+      "answer_raw": "0.65478",
+      "program": "divide(1800, 2749)"
+    }
+  ]
+}

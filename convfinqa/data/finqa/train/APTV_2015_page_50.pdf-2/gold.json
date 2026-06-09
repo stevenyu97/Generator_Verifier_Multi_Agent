@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference in total return on delphi automotive plc and the automotive supplier peer group for the five year period ending december 31 2015?",
+      "answer": 2.4676,
+      "answer_raw": "2.4676",
+      "program": "subtract(418.67, const_100), subtract(171.91, const_100), divide(#0, const_100), divide(#1, const_100), subtract(#2, #3)"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "VLO/2018/page_25.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "table of contents tceq and harris county pollution control services department ( hcpcs ) ( houston terminal ) .",
+      "we have an outstanding noe from the tceq and an outstanding vn from the hcpcs alleging excess emissions from tank 003 that occurred during hurricane harvey .",
+      "we are working with the pertinent authorities to resolve these matters .",
+      "item 4 .",
+      "mine safety disclosures part ii item 5 .",
+      "market for registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities our common stock trades on the nyse under the trading symbol 201cvlo . 201d as of january 31 , 2019 , there were 5271 holders of record of our common stock .",
+      "dividends are considered quarterly by the board of directors , may be paid only when approved by the board , and will depend on our financial condition , results of operations , cash flows , prospects , industry conditions , capital requirements , and other factors and restrictions our board deems relevant .",
+      "there can be no assurance that we will pay a dividend at the rates we have paid historically , or at all , in the future .",
+      "the following table discloses purchases of shares of our common stock made by us or on our behalf during the fourth quarter of 2018 .",
+      "period total number of shares purchased average price paid per share total number of shares not purchased as part of publicly announced plans or programs ( a ) total number of shares purchased as part of publicly announced plans or programs approximate dollar value of shares that may yet be purchased under the plans or programs ( b ) ."
+    ],
+    "post_text": [
+      "( a ) the shares reported in this column represent purchases settled in the fourth quarter of 2018 relating to ( i ) our purchases of shares in open-market transactions to meet our obligations under stock-based compensation plans and ( ii ) our purchases of shares from our employees and non-employee directors in connection with the exercise of stock options , the vesting of restricted stock , and other stock compensation transactions in accordance with the terms of our stock-based compensation plans .",
+      "( b ) on january 23 , 2018 , we announced that our board of directors authorized our purchase of up to $ 2.5 billion of our outstanding common stock ( the 2018 program ) , with no expiration date , which was in addition to the remaining amount available under a $ 2.5 billion program authorized on september 21 , 2016 ( the 2016 program ) .",
+      "during the fourth quarter of 2018 , we completed our purchases under the 2016 program .",
+      "as of december 31 , 2018 , we had $ 2.2 billion remaining available for purchase under the 2018 program. ."
+    ],
+    "table": [
+      [
+        "period",
+        "total numberof sharespurchased",
+        "averageprice paidper share",
+        "total number ofshares notpurchased as part ofpublicly announcedplans or programs ( a )",
+        "total number ofshares purchased aspart of publiclyannounced plans orprograms",
+        "approximate dollarvalue of shares thatmay yet be purchasedunder the plans orprograms ( b )"
+      ],
+      [
+        "october 2018",
+        "939957",
+        "$ 87.23",
+        "8826",
+        "931131",
+        "$ 2.7 billion"
+      ],
+      [
+        "november 2018",
+        "3655945",
+        "$ 87.39",
+        "216469",
+        "3439476",
+        "$ 2.4 billion"
+      ],
+      [
+        "december 2018",
+        "3077364",
+        "$ 73.43",
+        "4522",
+        "3072842",
+        "$ 2.2 billion"
+      ],
+      [
+        "total",
+        "7673266",
+        "$ 81.77",
+        "229817",
+        "7443449",
+        "$ 2.2 billion"
+      ]
+    ],
+    "questions": [
+      "for the fourth quarter ended december 312018 what was the total number of shares purchased in november"
+    ]
+  }
+}

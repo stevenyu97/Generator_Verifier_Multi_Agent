@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the increase in earnings before taxes?",
+      "answer": 173.0,
+      "answer_raw": "173.0",
+      "program": "173"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the increase in earnings after taxes?",
+      "answer": 113.0,
+      "answer_raw": "113.0",
+      "program": "113"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference?",
+      "answer": 60.0,
+      "answer_raw": "60.0",
+      "program": "subtract(173, 113)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the increase in earnings before taxes?",
+      "answer": 173.0,
+      "answer_raw": "173.0",
+      "program": "173"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the percent change?",
+      "answer": 0.34682,
+      "answer_raw": "0.34682",
+      "program": "subtract(173, 113), divide(#0, 173)"
+    }
+  ]
+}

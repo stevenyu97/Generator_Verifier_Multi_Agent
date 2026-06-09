@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were net sales in 2012?",
+      "answer": 7457.0,
+      "answer_raw": "7457.0",
+      "program": "7457"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what were net sales in 2011?",
+      "answer": 7463.0,
+      "answer_raw": "7463.0",
+      "program": "7463"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the net change in value?",
+      "answer": -6.0,
+      "answer_raw": "-6.0",
+      "program": "subtract(7457, 7463)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the 2011 value?",
+      "answer": 7463.0,
+      "answer_raw": "7463.0",
+      "program": "7463"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the percent change?",
+      "answer": -0.0008,
+      "answer_raw": "-0.0008",
+      "program": "subtract(7457, 7463), divide(#0, 7463)"
+    }
+  ]
+}

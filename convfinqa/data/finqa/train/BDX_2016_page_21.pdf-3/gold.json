@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of october 31 , 2016 , what was the average square footage for bd owned or leased facilities?",
+      "answer": 77631.41569,
+      "answer_raw": "77631.41569",
+      "program": "divide(19796011, 255)"
+    }
+  ]
+}

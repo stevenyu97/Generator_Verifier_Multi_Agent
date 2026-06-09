@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between cash and other assets acquired and liabilities assumed?",
+      "answer": 60607.0,
+      "answer_raw": "60607.0",
+      "program": "subtract(137222, 76615)"
+    }
+  ]
+}

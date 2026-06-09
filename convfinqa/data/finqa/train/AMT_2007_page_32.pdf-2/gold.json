@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the average number of shares per registered holder as of february 29 , 2008?",
+      "answer": 749524.29167,
+      "answer_raw": "749524.29167",
+      "program": "divide(395748826, 528)"
+    }
+  ]
+}

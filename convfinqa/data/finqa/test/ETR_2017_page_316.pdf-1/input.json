@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "ETR/2017/page_316.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "entergy arkansas , inc .",
+      "and subsidiaries management 2019s financial discussion and analysis results of operations net income 2017 compared to 2016 net income decreased $ 27.4 million primarily due to higher nuclear refueling outage expenses , higher depreciation and amortization expenses , higher taxes other than income taxes , and higher interest expense , partially offset by higher other income .",
+      "2016 compared to 2015 net income increased $ 92.9 million primarily due to higher net revenue and lower other operation and maintenance expenses , partially offset by a higher effective income tax rate and higher depreciation and amortization expenses .",
+      "net revenue 2017 compared to 2016 net revenue consists of operating revenues net of : 1 ) fuel , fuel-related expenses , and gas purchased for resale , 2 ) purchased power expenses , and 3 ) other regulatory charges ( credits ) . a0 a0following is an analysis of the change in net revenue comparing 2017 to 2016 .",
+      "amount ( in millions ) ."
+    ],
+    "post_text": [
+      "the retail electric price variance is primarily due to the implementation of formula rate plan rates effective with the first billing cycle of january 2017 and an increase in base rates effective february 24 , 2016 , each as approved by the apsc .",
+      "a significant portion of the base rate increase was related to the purchase of power block 2 of the union power station in march 2016 .",
+      "the increase was partially offset by decreases in the energy efficiency rider , as approved by the apsc , effective april 2016 and january 2017 .",
+      "see note 2 to the financial statements for further discussion of the rate case and formula rate plan filings .",
+      "see note 14 to the financial statements for further discussion of the union power station purchase .",
+      "the opportunity sales variance results from the estimated net revenue effect of the 2017 and 2016 ferc orders in the opportunity sales proceeding attributable to wholesale customers .",
+      "see note 2 to the financial statements for further discussion of the opportunity sales proceeding. ."
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in millions )"
+      ],
+      [
+        "2016 net revenue",
+        "$ 1520.5"
+      ],
+      [
+        "retail electric price",
+        "33.8"
+      ],
+      [
+        "opportunity sales",
+        "5.6"
+      ],
+      [
+        "asset retirement obligation",
+        "-14.8 ( 14.8 )"
+      ],
+      [
+        "volume/weather",
+        "-29.0 ( 29.0 )"
+      ],
+      [
+        "other",
+        "6.5"
+      ],
+      [
+        "2017 net revenue",
+        "$ 1522.6"
+      ]
+    ],
+    "questions": [
+      "what was the average net revenue between 2016 and 2017 in millions"
+    ]
+  }
+}

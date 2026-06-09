@@ -1,0 +1,92 @@
+{
+  "input": {
+    "id": "BDX/2009/page_81.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "the company has a restricted stock plan for non-employee directors which reserves for issuance of 300000 shares of the company 2019s common stock .",
+      "no restricted shares were issued in 2009 .",
+      "the company has a directors 2019 deferral plan , which provides a means to defer director compensation , from time to time , on a deferred stock or cash basis .",
+      "as of september 30 , 2009 , 86643 shares were held in trust , of which 4356 shares represented directors 2019 compensation in 2009 , in accordance with the provisions of the plan .",
+      "under this plan , which is unfunded , directors have an unsecured contractual commitment from the company .",
+      "the company also has a deferred compensation plan that allows certain highly-compensated employees , including executive officers , to defer salary , annual incentive awards and certain equity-based compensation .",
+      "as of september 30 , 2009 , 557235 shares were issuable under this plan .",
+      "note 16 2014 earnings per share the weighted average common shares used in the computations of basic and diluted earnings per share ( shares in thousands ) for the years ended september 30 were as follows: ."
+    ],
+    "post_text": [
+      "average common and common equivalent shares outstanding 2014 assuming dilution .",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "246798 252681 254810 note 17 2014 segment data the company 2019s organizational structure is based upon its three principal business segments : bd medical ( 201cmedical 201d ) , bd diagnostics ( 201cdiagnostics 201d ) and bd biosciences ( 201cbiosciences 201d ) .",
+      "the principal product lines in the medical segment include needles , syringes and intravenous catheters for medication delivery ; safety-engineered and auto-disable devices ; prefilled iv flush syringes ; syringes and pen needles for the self-injection of insulin and other drugs used in the treatment of diabetes ; prefillable drug delivery devices provided to pharmaceutical companies and sold to end-users as drug/device combinations ; surgical blades/scalpels and regional anesthesia needles and trays ; critical care monitoring devices ; ophthalmic surgical instruments ; and sharps disposal containers .",
+      "the principal products and services in the diagnostics segment include integrated systems for specimen collection ; an extensive line of safety-engineered specimen blood collection products and systems ; plated media ; automated blood culturing systems ; molecular testing systems for sexually transmitted diseases and healthcare-associated infections ; microorganism identification and drug susceptibility systems ; liquid-based cytology systems for cervical cancer screening ; and rapid diagnostic assays .",
+      "the principal product lines in the biosciences segment include fluorescence activated cell sorters and analyzers ; cell imaging systems ; monoclonal antibodies and kits for performing cell analysis ; reagent systems for life sciences research ; tools to aid in drug discovery and growth of tissue and cells ; cell culture media supplements for biopharmaceutical manufacturing ; and diagnostic assays .",
+      "the company evaluates performance of its business segments based upon operating income .",
+      "segment operating income represents revenues reduced by product costs and operating expenses .",
+      "the company hedges against certain forecasted sales of u.s.-produced products sold outside the united states .",
+      "gains and losses associated with these foreign currency translation hedges are reported in segment revenues based upon their proportionate share of these international sales of u.s.-produced products .",
+      "becton , dickinson and company notes to consolidated financial statements 2014 ( continued ) ."
+    ],
+    "table": [
+      [
+        "",
+        "2009",
+        "2008",
+        "2007"
+      ],
+      [
+        "average common shares outstanding",
+        "240479",
+        "244323",
+        "244929"
+      ],
+      [
+        "dilutive share equivalents from share-based plans",
+        "6319",
+        "8358",
+        "9881"
+      ],
+      [
+        "average common and common equivalent sharesoutstanding 2014 assuming dilution",
+        "246798",
+        "252681",
+        "254810"
+      ]
+    ],
+    "questions": [
+      "what is the percentage decrease for average common shares outstanding from 2008-2009?"
+    ]
+  }
+}

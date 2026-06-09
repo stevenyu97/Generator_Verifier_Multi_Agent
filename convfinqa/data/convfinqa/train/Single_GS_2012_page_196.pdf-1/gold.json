@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in net unrecognized tax benefit values from 2011 to 2012?",
+      "answer": 234.0,
+      "answer_raw": "234.0",
+      "program": "subtract(1552, 1318)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": 0.17754,
+      "answer_raw": "0.17754",
+      "program": "subtract(1552, 1318), divide(#0, 1318)"
+    }
+  ]
+}

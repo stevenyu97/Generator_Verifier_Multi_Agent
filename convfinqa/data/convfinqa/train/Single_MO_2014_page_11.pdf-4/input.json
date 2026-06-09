@@ -1,0 +1,99 @@
+{
+  "input": {
+    "id": "Single_MO/2014/page_11.pdf-4",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "part i item 1 .",
+      "business .",
+      "general development of business general : altria group , inc .",
+      "is a holding company incorporated in the commonwealth of virginia in 1985 .",
+      "at december 31 , 2014 , altria group , inc . 2019s wholly-owned subsidiaries included philip morris usa inc .",
+      "( 201cpm usa 201d ) , which is engaged predominantly in the manufacture and sale of cigarettes in the united states ; john middleton co .",
+      "( 201cmiddleton 201d ) , which is engaged in the manufacture and sale of machine-made large cigars and pipe tobacco , and is a wholly- owned subsidiary of pm usa ; and ust llc ( 201cust 201d ) , which through its wholly-owned subsidiaries , including u.s .",
+      "smokeless tobacco company llc ( 201cusstc 201d ) and ste .",
+      "michelle wine estates ltd .",
+      "( 201cste .",
+      "michelle 201d ) , is engaged in the manufacture and sale of smokeless tobacco products and wine .",
+      "altria group , inc . 2019s other operating companies included nu mark llc ( 201cnu mark 201d ) , a wholly-owned subsidiary that is engaged in the manufacture and sale of innovative tobacco products , and philip morris capital corporation ( 201cpmcc 201d ) , a wholly-owned subsidiary that maintains a portfolio of finance assets , substantially all of which are leveraged leases .",
+      "other altria group , inc .",
+      "wholly-owned subsidiaries included altria group distribution company , which provides sales , distribution and consumer engagement services to certain altria group , inc .",
+      "operating subsidiaries , and altria client services inc. , which provides various support services , such as legal , regulatory , finance , human resources and external affairs , to altria group , inc .",
+      "and its subsidiaries .",
+      "at december 31 , 2014 , altria group , inc .",
+      "also held approximately 27% ( 27 % ) of the economic and voting interest of sabmiller plc ( 201csabmiller 201d ) , which altria group , inc .",
+      "accounts for under the equity method of accounting .",
+      "source of funds : because altria group , inc .",
+      "is a holding company , its access to the operating cash flows of its wholly- owned subsidiaries consists of cash received from the payment of dividends and distributions , and the payment of interest on intercompany loans by its subsidiaries .",
+      "at december 31 , 2014 , altria group , inc . 2019s principal wholly-owned subsidiaries were not limited by long-term debt or other agreements in their ability to pay cash dividends or make other distributions with respect to their equity interests .",
+      "in addition , altria group , inc .",
+      "receives cash dividends on its interest in sabmiller if and when sabmiller pays such dividends .",
+      "financial information about segments altria group , inc . 2019s reportable segments are smokeable products , smokeless products and wine .",
+      "the financial services and the innovative tobacco products businesses are included in an all other category due to the continued reduction of the lease portfolio of pmcc and the relative financial contribution of altria group , inc . 2019s innovative tobacco products businesses to altria group , inc . 2019s consolidated results .",
+      "altria group , inc . 2019s chief operating decision maker reviews operating companies income to evaluate the performance of , and allocate resources to , the segments .",
+      "operating companies income for the segments is defined as operating income before amortization of intangibles and general corporate expenses .",
+      "interest and other debt expense , net , and provision for income taxes are centrally managed at the corporate level and , accordingly , such items are not presented by segment since they are excluded from the measure of segment profitability reviewed by altria group , inc . 2019s chief operating decision maker .",
+      "net revenues and operating companies income ( together with a reconciliation to earnings before income taxes ) attributable to each such segment for each of the last three years are set forth in note 15 .",
+      "segment reporting to the consolidated financial statements in item 8 .",
+      "financial statements and supplementary data of this annual report on form 10-k ( 201citem 8 201d ) .",
+      "information about total assets by segment is not disclosed because such information is not reported to or used by altria group , inc . 2019s chief operating decision maker .",
+      "segment goodwill and other intangible assets , net , are disclosed in note 4 .",
+      "goodwill and other intangible assets , net to the consolidated financial statements in item 8 ( 201cnote 4 201d ) .",
+      "the accounting policies of the segments are the same as those described in note 2 .",
+      "summary of significant accounting policies to the consolidated financial statements in item 8 ( 201cnote 2 201d ) .",
+      "the relative percentages of operating companies income ( loss ) attributable to each reportable segment and the all other category were as follows: ."
+    ],
+    "post_text": [
+      "for items affecting the comparability of the relative percentages of operating companies income ( loss ) attributable to each reportable segment , see note 15 .",
+      "segment reporting to the consolidated financial statements in item 8 ( 201cnote 15 201d ) .",
+      "narrative description of business portions of the information called for by this item are included in item 7 .",
+      "management 2019s discussion and analysis of financial condition and results of operations - operating results by business segment of this annual report on form 10-k .",
+      "tobacco space altria group , inc . 2019s tobacco operating companies include pm usa , usstc and other subsidiaries of ust , middleton and nu mark .",
+      "altria group distribution company provides sales , distribution and consumer engagement services to altria group , inc . 2019s tobacco operating companies .",
+      "the products of altria group , inc . 2019s tobacco subsidiaries include smokeable tobacco products comprised of cigarettes manufactured and sold by pm usa and machine-made large altria_mdc_2014form10k_nolinks_crops.pdf 3 2/25/15 5:56 pm ."
+    ],
+    "table": [
+      [
+        "",
+        "2014",
+        "2013",
+        "2012"
+      ],
+      [
+        "smokeable products",
+        "87.2% ( 87.2 % )",
+        "84.5% ( 84.5 % )",
+        "83.7% ( 83.7 % )"
+      ],
+      [
+        "smokeless products",
+        "13.4",
+        "12.2",
+        "12.5"
+      ],
+      [
+        "wine",
+        "1.7",
+        "1.4",
+        "1.4"
+      ],
+      [
+        "all other",
+        "-2.3 ( 2.3 )",
+        "1.9",
+        "2.4"
+      ],
+      [
+        "total",
+        "100.0% ( 100.0 % )",
+        "100.0% ( 100.0 % )",
+        "100.0% ( 100.0 % )"
+      ]
+    ],
+    "questions": [
+      "what was operating income related to smokeless products in 2014?",
+      "what was the value in 2013?",
+      "what is the net change in value?",
+      "what is the percent change?"
+    ]
+  }
+}

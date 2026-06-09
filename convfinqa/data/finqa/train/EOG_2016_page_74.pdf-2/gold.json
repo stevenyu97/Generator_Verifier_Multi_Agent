@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the lowest beginning balance observed during 2014-2016?",
+      "answer": 223599.0,
+      "answer_raw": "223599.0",
+      "program": "table_min(beginning balance, none)"
+    }
+  ]
+}

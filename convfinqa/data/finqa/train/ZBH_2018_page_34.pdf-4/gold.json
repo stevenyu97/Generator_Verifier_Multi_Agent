@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in cash flows provided by operating activities between 2017 and 2016?",
+      "answer": -0.03057,
+      "answer_raw": "-0.03057",
+      "program": "subtract(1582.3, 1632.2), divide(#0, 1632.2)"
+    }
+  ]
+}

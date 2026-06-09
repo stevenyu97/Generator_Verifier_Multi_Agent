@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the cumulative rent expanse from 2012 to 2014",
+      "answer": 507.0,
+      "answer_raw": "507.0",
+      "program": "add(154, 168), add(185, #0)"
+    }
+  ]
+}

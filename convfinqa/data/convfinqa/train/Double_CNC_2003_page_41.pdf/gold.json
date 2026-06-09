@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the revenue in 2002?",
+      "answer": 567048.0,
+      "answer_raw": "567048.0",
+      "program": "567048"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in 2001?",
+      "answer": 395155.0,
+      "answer_raw": "395155.0",
+      "program": "395155"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the net change?",
+      "answer": 171893.0,
+      "answer_raw": "171893.0",
+      "program": "subtract(567048, 395155)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what growth rate does this represent?",
+      "answer": 0.435,
+      "answer_raw": "0.435",
+      "program": "subtract(567048, 395155), divide(#0, 395155)"
+    }
+  ]
+}

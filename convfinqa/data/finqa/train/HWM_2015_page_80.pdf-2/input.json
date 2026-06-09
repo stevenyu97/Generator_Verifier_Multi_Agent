@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "HWM/2015/page_80.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "restructuring and other charges 2014restructuring and other charges for each year in the three-year period ended december 31 , 2015 were comprised of the following: ."
+    ],
+    "post_text": [
+      "layoff costs were recorded based on approved detailed action plans submitted by the operating locations that specified positions to be eliminated , benefits to be paid under existing severance plans , union contracts or statutory requirements , and the expected timetable for completion of the plans .",
+      "2015 actions .",
+      "in 2015 , alcoa recorded restructuring and other charges of $ 1195 ( $ 836 after-tax and noncontrolling interest ) , which were comprised of the following components : $ 438 ( $ 281 after-tax and noncontrolling interest ) for exit costs related to decisions to permanently shut down and demolish three smelters and a power station ( see below ) ; $ 246 ( $ 118 after-tax and noncontrolling interest ) for the curtailment of two refineries and two smelters ( see below ) ; $ 201 ( pre- and after-tax ) related to legal matters in italy ; a $ 161 ( $ 151 after-tax and noncontrolling interest ) net loss related to the march 2015 divestiture of a rolling mill in russia ( see global rolled products in segment information below ) and post-closing adjustments associated with three december 2014 divestitures ; $ 143 ( $ 102 after-tax and noncontrolling interest ) for layoff costs , including the separation of approximately 2100 employees ( 425 in the transportation and construction solutions segment , 645 in the engineered products and solutions segment , 380 in the primary metals segment , 90 in the global rolled products segment , 85 in the alumina segment , and 475 in corporate ) ; $ 34 ( $ 14 after-tax and noncontrolling interest ) for asset impairments , virtually all of which was related to prior capitalized costs for an expansion project at a refinery in australia that is no longer being pursued ; an $ 18 ( $ 13 after- tax ) gain on the sale of land related to one of the rolling mills in australia that was permanently closed in december 2014 ( see 2014 actions below ) ; a net charge of $ 4 ( a net credit of $ 7 after-tax and noncontrolling interest ) for other miscellaneous items ; and $ 14 ( $ 11 after-tax and noncontrolling interest ) for the reversal of a number of small layoff reserves related to prior periods .",
+      "during 2015 , management initiated various alumina refining and aluminum smelting capacity curtailments and/or closures .",
+      "the curtailments were composed of the remaining capacity at all of the following : the s e3o lu eds smelter in brazil ( 74 kmt-per-year ) ; the suriname refinery ( 1330 kmt-per-year ) ; the point comfort , tx refinery ( 2010 kmt-per- year ) ; and the wenatchee , wa smelter ( 143 kmt-per-year ) .",
+      "all of the curtailments were completed in 2015 except for 1635 kmt-per-year at the point comfort refinery , which is expected to be completed by the end of june 2016 .",
+      "the permanent closures were composed of the capacity at the warrick , in smelter ( 269 kmt-per-year ) ( includes the closure of a related coal mine ) and the infrastructure of the massena east , ny smelter ( potlines were previously shut down in both 2013 and 2014 2014see 2013 actions and 2014 actions below ) , as the modernization of this smelter is no longer being pursued .",
+      "the shutdown of the warrick smelter is expected to be completed by the end of march 2016 .",
+      "the decisions on the above actions were part of a separate 12-month review in refining ( 2800 kmt-per-year ) and smelting ( 500 kmt-per-year ) capacity initiated by management in march 2015 for possible curtailment ( partial or full ) , permanent closure or divestiture .",
+      "while many factors contributed to each decision , in general , these actions were initiated to maintain competitiveness amid prevailing market conditions for both alumina and aluminum .",
+      "demolition and remediation activities related to the warrick smelter and the massena east location will begin in 2016 and are expected to be completed by the end of 2020 .",
+      "separate from the actions initiated under the reviews described above , in mid-2015 , management approved the permanent shutdown and demolition of the po e7os de caldas smelter ( capacity of 96 kmt-per-year ) in brazil and the ."
+    ],
+    "table": [
+      [
+        "",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "asset impairments",
+        "$ 335",
+        "$ 406",
+        "$ 116"
+      ],
+      [
+        "layoff costs",
+        "299",
+        "259",
+        "201"
+      ],
+      [
+        "legal matters in italy",
+        "201",
+        "-",
+        "-"
+      ],
+      [
+        "net loss on divestitures of businesses",
+        "161",
+        "332",
+        "-"
+      ],
+      [
+        "resolution of a legal matter",
+        "-",
+        "-",
+        "391"
+      ],
+      [
+        "other",
+        "213",
+        "199",
+        "82"
+      ],
+      [
+        "reversals of previously recorded layoff and other exit costs",
+        "-14 ( 14 )",
+        "-28 ( 28 )",
+        "-8 ( 8 )"
+      ],
+      [
+        "restructuring and other charges",
+        "$ 1195",
+        "$ 1168",
+        "$ 782"
+      ]
+    ],
+    "questions": [
+      "what is the percentual growth observed in the percentage of asset impairment costs concerning the restructuring and other charges costs during 2013 and 2014?"
+    ]
+  }
+}

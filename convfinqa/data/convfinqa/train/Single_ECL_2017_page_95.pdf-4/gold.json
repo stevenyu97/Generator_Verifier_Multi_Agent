@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in value of the balance of gross liability for unrecognized tax benefits from 2016 to 2017?",
+      "answer": -14.4,
+      "answer_raw": "-14.4",
+      "program": "subtract(61.5, 75.9)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change over the year?",
+      "answer": -0.18972,
+      "answer_raw": "-0.18972",
+      "program": "subtract(61.5, 75.9), divide(#0, 75.9)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total statutory surplus is related to property and casualty insurance subsidiaries in 2014?",
+      "answer": 0.52995,
+      "answer_raw": "0.52995",
+      "program": "divide(8069, 15226)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in net revenue during 2007 for entergy arkansas , inc.?",
+      "answer": 36.1,
+      "answer_raw": "36.1",
+      "program": "subtract(1110.6, 1074.5)"
+    }
+  ]
+}

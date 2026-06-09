@@ -1,2 +1,9 @@
 # GPT-5 filer uses LiteLLM Responses API (same as TaxCalcBench) for comparable accuracy
 litellm>=1.0.0
+
+# Local Qwen + GRPO training (train_grpo.py)
+torch>=2.1.0
+transformers>=4.40.0
+accelerate>=0.27.0
+peft>=0.11.0
+lxml>=5.0.0

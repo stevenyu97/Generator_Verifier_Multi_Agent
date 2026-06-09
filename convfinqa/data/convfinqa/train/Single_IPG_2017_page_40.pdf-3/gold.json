@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net decrease in cash equivalent and marketable securities from 2016 to 2017?",
+      "answer": 309.6,
+      "answer_raw": "309.6",
+      "program": "subtract(1100.6, 791.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that divided by the 2017 value?",
+      "answer": 0.2813,
+      "answer_raw": "0.2813",
+      "program": "subtract(1100.6, 791.0), divide(#0, 1100.6)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is that shown as a percent?",
+      "answer": 28.13011,
+      "answer_raw": "28.13011",
+      "program": "subtract(1100.6, 791.0), divide(#0, 1100.6), multiply(#1, const_100)"
+    }
+  ]
+}

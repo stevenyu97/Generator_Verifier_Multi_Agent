@@ -1,0 +1,50 @@
+{
+  "input": {
+    "id": "Double_BDX/2016/page_62.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "notes to consolidated financial statements 2014 ( continued ) becton , dickinson and company ( b ) these reclassifications were recorded to interest expense and cost of products sold .",
+      "additional details regarding the company's cash flow hedges are provided in note 13 .",
+      "on august 25 , 2016 , in anticipation of proceeds to be received from the divestiture of the respiratory solutions business in the first quarter of fiscal year 2017 , the company entered into an accelerated share repurchase ( \"asr\" ) agreement .",
+      "subsequent to the end of the company's fiscal year 2016 and as per the terms of the asr agreement , the company received approximately 1.3 million shares of its common stock , which was recorded as a $ 220 million increase to common stock in treasury .",
+      "note 4 2014 earnings per share the weighted average common shares used in the computations of basic and diluted earnings per share ( shares in thousands ) for the years ended september 30 were as follows: ."
+    ],
+    "post_text": [
+      "average common and common equivalent shares outstanding 2014 assuming dilution 217536 207509 197709 upon closing the acquisition of carefusion corporation ( 201ccarefusion 201d ) on march 17 , 2015 , the company issued approximately 15.9 million of its common shares as part of the purchase consideration .",
+      "additional disclosures regarding this acquisition are provided in note 9 .",
+      "options to purchase shares of common stock are excluded from the calculation of diluted earnings per share when their inclusion would have an anti-dilutive effect on the calculation .",
+      "for the years ended september 30 , 2016 , 2015 and 2014 there were no options to purchase shares of common stock which were excluded from the diluted earnings per share calculation. ."
+    ],
+    "table": [
+      [
+        "",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "average common shares outstanding",
+        "212702",
+        "202537",
+        "193299"
+      ],
+      [
+        "dilutive share equivalents from share-based plans",
+        "4834",
+        "4972",
+        "4410"
+      ],
+      [
+        "average common and common equivalent shares outstanding 2014 assuming dilution",
+        "217536",
+        "207509",
+        "197709"
+      ]
+    ],
+    "questions": [
+      "what was the percentage of total average common and common equivalent shares outstanding in 2014 assuming dilution that was dilute share equivalents from share-based plans?",
+      "what was the total number of average common shares outstanding in 2015 and 2016?",
+      "and the total including the value for 2014?"
+    ]
+  }
+}

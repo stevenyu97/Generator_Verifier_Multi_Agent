@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between the aggregate principal amount of fixed and floating rate senior notes and the cash proceeds that resulted from it?",
+      "answer": 0.05,
+      "answer_raw": "0.05",
+      "program": "subtract(2.25, 2.2)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the total of those cash proceeds?",
+      "answer": 2.2,
+      "answer_raw": "2.2",
+      "program": "2.2"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and how much does that difference represent in relation to this total, in percentage?",
+      "answer": 0.02273,
+      "answer_raw": "0.02273",
+      "program": "subtract(2.25, 2.2), divide(#0, 2.2)"
+    }
+  ]
+}

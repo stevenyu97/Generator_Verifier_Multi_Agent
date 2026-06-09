@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average estimated sensitivity to a one basis point increase in credit spreads ( counterparty and our own ) on derivatives in millions for the years of december 2013 and december 2012?",
+      "answer": 3.5,
+      "answer_raw": "3.5",
+      "program": "add(const_4, const_3), divide(#0, const_2)"
+    }
+  ]
+}

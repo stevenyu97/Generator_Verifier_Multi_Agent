@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net value change in loans reported from 2012 to 2013?",
+      "answer": 8381.0,
+      "answer_raw": "8381.0",
+      "program": "subtract(321564, 313183)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change from 2012 to 2013?",
+      "answer": 0.02676,
+      "answer_raw": "0.02676",
+      "program": "subtract(321564, 313183), divide(#0, 313183)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the years 2006-2009 , what is the value of the average additions?",
+      "answer": 100491.0,
+      "answer_raw": "100491.0",
+      "program": "add(96454, 101321), multiply(const_1000, 103.698), add(#0, #1), divide(#2, const_3)"
+    }
+  ]
+}

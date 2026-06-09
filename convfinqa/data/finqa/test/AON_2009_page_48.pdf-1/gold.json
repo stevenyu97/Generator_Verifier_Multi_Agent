@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the change in the consulting segment revenue from 2008 2009\\\\n",
+      "answer": -0.06563,
+      "answer_raw": "-0.06563",
+      "program": "subtract(1267, 1356), divide(#0, 1356)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the year 2009 , what is the difference between the carrying value on consolidated balance sheets for derivative receivables and derivative payables , in millions?",
+      "answer": 20085.0,
+      "answer_raw": "20085.0",
+      "program": "subtract(80210, 60125)"
+    }
+  ]
+}

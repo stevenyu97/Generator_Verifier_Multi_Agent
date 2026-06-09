@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net change in the balance of receivables from the money pool from 2010 to 2011?",
+      "answer": -12746.0,
+      "answer_raw": "-12746.0",
+      "program": "subtract(9074, 21820)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the ratio of ninemile 6 mw to the cost of the construction?",
+      "answer": 1.31091,
+      "answer_raw": "1.31091",
+      "program": "divide(721, 550)"
+    }
+  ]
+}

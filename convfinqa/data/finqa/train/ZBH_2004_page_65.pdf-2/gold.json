@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in foreign currency translation in 2004?",
+      "answer": 0.80968,
+      "answer_raw": "0.80968",
+      "program": "divide(145.5, 179.7)"
+    }
+  ]
+}

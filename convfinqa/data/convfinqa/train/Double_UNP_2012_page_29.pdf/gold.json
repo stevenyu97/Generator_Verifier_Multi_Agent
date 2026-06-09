@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the equipment and other rents segment from 2011 to 2012?",
+      "answer": 30.0,
+      "answer_raw": "30.0",
+      "program": "subtract(1197, 1167)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the change in the total expense in that same period?",
+      "answer": 348.0,
+      "answer_raw": "348.0",
+      "program": "subtract(1197, 1167), subtract(14181, 13833)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what percentage, then, of this total expense change was due to the change in that segment?",
+      "answer": 0.08621,
+      "answer_raw": "0.08621",
+      "program": "subtract(1197, 1167), subtract(14181, 13833), divide(#0, #1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in that same two year period, what was the change in the higher locomotive diesel fuel prices?",
+      "answer": 0.1,
+      "answer_raw": "0.1",
+      "program": "subtract(3.22, 3.12)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and how much did the increase in the expenses, in millions of dollars, represent in relation to this change?",
+      "answer": 1050.0,
+      "answer_raw": "1050.0",
+      "program": "subtract(3.22, 3.12), divide(105, #0)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is that counting that increase only in dollars?",
+      "answer": 1050000000.0,
+      "answer_raw": "1050000000.0",
+      "program": "subtract(3.22, 3.12), divide(105, #0), multiply(#1, const_1000000)"
+    }
+  ]
+}

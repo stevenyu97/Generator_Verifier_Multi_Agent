@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the balance at end of year 2013?",
+      "answer": 124.3,
+      "answer_raw": "124.3",
+      "program": "124.3"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and that of 2012?",
+      "answer": 110.8,
+      "answer_raw": "110.8",
+      "program": "110.8"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does the balance at end of year 2013 represents in relation to that of 2012?",
+      "answer": 1.12184,
+      "answer_raw": "1.12184",
+      "program": "divide(124.3, 110.8)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the difference between that and the number 1?",
+      "answer": 0.12184,
+      "answer_raw": "0.12184",
+      "program": "divide(124.3, 110.8), subtract(#0, const_1)"
+    }
+  ]
+}

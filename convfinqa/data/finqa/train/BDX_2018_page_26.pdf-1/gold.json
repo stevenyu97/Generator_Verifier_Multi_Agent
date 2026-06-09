@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of october 31 , 2018 , what was the average square footage per location bd owned or leased in square feet .",
+      "answer": 64890.42895,
+      "answer_raw": "64890.42895",
+      "program": "divide(24658363, 380)"
+    }
+  ]
+}

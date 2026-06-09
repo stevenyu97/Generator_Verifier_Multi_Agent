@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the total purchase consideration is comprised of intangible assets?",
+      "answer": 0.72964,
+      "answer_raw": "0.72964",
+      "program": "add(16079, 3453), add(#0, 399), add(#1, 66809), divide(#2, 118880)"
+    }
+  ]
+}

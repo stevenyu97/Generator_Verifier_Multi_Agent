@@ -1,0 +1,59 @@
+{
+  "input": {
+    "id": "Single_AWK/2018/page_131.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "investment tax credits have been deferred by the regulated utility subsidiaries and are being amortized to income over the average estimated service lives of the related assets .",
+      "the company recognizes accrued interest and penalties related to tax positions as a component of income tax expense and accounts for sales tax collected from customers and remitted to taxing authorities on a net basis .",
+      "see note 14 2014income taxes for additional information .",
+      "allowance for funds used during construction afudc is a non-cash credit to income with a corresponding charge to utility plant that represents the cost of borrowed funds or a return on equity funds devoted to plant under construction .",
+      "the regulated utility subsidiaries record afudc to the extent permitted by the pucs .",
+      "the portion of afudc attributable to borrowed funds is shown as a reduction of interest , net on the consolidated statements of operations .",
+      "any portion of afudc attributable to equity funds would be included in other , net on the consolidated statements of operations .",
+      "afudc is provided in the following table for the years ended december 31: ."
+    ],
+    "post_text": [
+      "environmental costs the company 2019s water and wastewater operations and the operations of its market-based businesses are subject to u.s .",
+      "federal , state , local and foreign requirements relating to environmental protection , and as such , the company periodically becomes subject to environmental claims in the normal course of business .",
+      "environmental expenditures that relate to current operations or provide a future benefit are expensed or capitalized as appropriate .",
+      "remediation costs that relate to an existing condition caused by past operations are accrued , on an undiscounted basis , when it is probable that these costs will be incurred and can be reasonably estimated .",
+      "a conservation agreement entered into by a subsidiary of the company with the national oceanic and atmospheric administration in 2010 and amended in 2017 required the subsidiary to , among other provisions , implement certain measures to protect the steelhead trout and its habitat in the carmel river watershed in the state of california .",
+      "the subsidiary agreed to pay $ 1 million annually commencing in 2010 with the final payment being made in 2021 .",
+      "remediation costs accrued amounted to $ 4 million and $ 6 million as of december 31 , 2018 and 2017 , respectively .",
+      "derivative financial instruments the company uses derivative financial instruments for purposes of hedging exposures to fluctuations in interest rates .",
+      "these derivative contracts are entered into for periods consistent with the related underlying exposures and do not constitute positions independent of those exposures .",
+      "the company does not enter into derivative contracts for speculative purposes and does not use leveraged instruments .",
+      "all derivatives are recognized on the balance sheet at fair value .",
+      "on the date the derivative contract is entered into , the company may designate the derivative as a hedge of the fair value of a recognized asset or liability ( fair-value hedge ) or a hedge of a forecasted transaction or of the variability of cash flows to be received or paid related to a recognized asset or liability ( cash-flow hedge ) .",
+      "changes in the fair value of a fair-value hedge , along with the gain or loss on the underlying hedged item , are recorded in current-period earnings .",
+      "the gains and losses on the effective portion of cash-flow hedges are recorded in other comprehensive income , until earnings are affected by the variability of cash flows .",
+      "any ineffective portion of designated cash-flow hedges is recognized in current-period earnings. ."
+    ],
+    "table": [
+      [
+        "",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "allowance for other funds used during construction",
+        "$ 24",
+        "$ 19",
+        "$ 15"
+      ],
+      [
+        "allowance for borrowed funds used during construction",
+        "13",
+        "8",
+        "6"
+      ]
+    ],
+    "questions": [
+      "what was the allowance for other funds used during construction in 2018?",
+      "and what was it in 2016?",
+      "what was, then, the change over the year?",
+      "and how much does this change represent in relation to that allowance in 2016?"
+    ]
+  }
+}

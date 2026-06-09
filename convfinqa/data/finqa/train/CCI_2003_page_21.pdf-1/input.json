@@ -1,0 +1,80 @@
+{
+  "input": {
+    "id": "CCI/2003/page_21.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "million ( $ 27.6 million at such time ) annually under its transmission contract with itvd .",
+      "itvd represented approximately 12% ( 12 % ) of the 2001 revenues of ccuk and approximately 3% ( 3 % ) of the 2001 consolidated revenues of the company .",
+      "in august 2002 , the itc granted the dtt multiplex licenses previously held by itvd to ccuk ( multiplex c and d ) and the bbc ( multiplex b , bringing the bbc 2019s total to two licenses ) .",
+      "the dtt multiplex licenses awarded to ccuk have a term of 12 years , and ccuk has the right to renew the licenses for an additional term of 12 years subject to satisfaction of certain performance criteria .",
+      "no license fees were paid to the u.k .",
+      "government with respect to the award of the multiplex licenses other than an approximately $ 76000 application fee .",
+      "following the award of such licenses , the current u.k .",
+      "dtt multiplex licensing structure is as follows: ."
+    ],
+    "post_text": [
+      "* broadcasting service provided in connection with freeview brand .",
+      "on october 30 , 2002 , the bbc , ccuk and bskyb launched a multi-channel digital tv and radio broadcasting service under the brand 201cfreeview . 201d freeview is a free-to-air broadcast service and is received by viewers via a set- top box or other device .",
+      "at the end of 2003 , there were approximately three million such devices in service , in contrast to the approximately 1.2 million set-top boxes in service with respect to itvd service 20 months prior .",
+      "our revenue derived from broadcast transmission services ( including distribution and multiplexing ) relating to freeview is contractually based and therefore is not directly dependent on the number of freeview viewers .",
+      "in connection with the launch of freeview , in august 2002 ccuk entered into an agreement with the bbc to provide broadcast transmission along with distribution service for the second multiplex license ( multiplex b ) awarded to the bbc .",
+      "also in august 2002 , ccuk entered into an agreement with bskyb to provide broadcast transmission along with distribution and multiplexing service in relation to 75% ( 75 % ) of the capacity of one of the ccuk multiplexes ( multiplex c ) .",
+      "both of these agreements are for an initial period of six years with options for the bbc and bskyb to extend for an additional six-year term .",
+      "in addition , ccuk has entered into agreements to provide similar service to a number of tv , radio and interactive service content providers ( including uktv , flextech , viacom , emap , mietv , oneword , guardian media group and bbc world service ) through the two multiplexes awarded to ccuk .",
+      "freeview related agreements with the television content providers are also for six-year terms , with renewal options , while agreements with radio and interactive service providers are generally for shorter terms .",
+      "through such agreements , ccuk is currently transmitting content for such customers with respect to approximately 90% ( 90 % ) of its licensed capacity and is negotiating with content providers with respect to the remaining capacity .",
+      "ccuk has contracted annual revenues of approximately a327.2 million ( $ 48.5 million ) for the provision of transmission , distribution and multiplexing services related to its multiplex licenses , which replaces the approximately a319.4 million annual revenues previously earned from the itvd contract and is in addition to the revenues generated from the 1998 bbc digital transmission contract .",
+      "see 201cbusiness 2014the company 2014u.k .",
+      "operations 2014significant contracts 20141998 bbc dtt transmission contract 201d , 201c 20142002 bbc dtt transmission contract 201d and 201c 2014bskyb and other freeview content dtt transmission contracts . 201d as a result of its previous contract with itvd , ccuk had already invested substantially all of the capital required to provide the freeview related broadcast transmission service described above .",
+      "in addition , ccuk had previously been incurring , again by virtue of its previous contract with itvd , a large proportion of the operating costs required to provide these services ( including payments to bt for distribution circuits and payments to ntl for site rental ) .",
+      "since ccuk is providing a more complete end-to-end service to content providers than was provided to itvd , ccuk is incurring certain additional annual operating costs of approximately a34.6 million ( $ 8.2 million ) ."
+    ],
+    "table": [
+      [
+        "multiplex",
+        "licensee",
+        "multiplex service provider",
+        "transmission service provider"
+      ],
+      [
+        "1",
+        "bbc",
+        "bbc technology ltd",
+        "ccuk"
+      ],
+      [
+        "2",
+        "digital 3&4 ltd",
+        "ntl",
+        "ntl"
+      ],
+      [
+        "a",
+        "sdn ltd",
+        "ntl",
+        "ntl"
+      ],
+      [
+        "b",
+        "bbc",
+        "bbc technology ltd",
+        "ccuk*"
+      ],
+      [
+        "c",
+        "ccuk",
+        "bbc technology ltd",
+        "ccuk*"
+      ],
+      [
+        "d",
+        "ccuk",
+        "bbc technology ltd",
+        "ccuk*"
+      ]
+    ],
+    "questions": [
+      "what is the operating expense ratio for ccuk ( in millions ) ?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in percentage cumulative total shareowners return for united parcel service inc . versus the standard & poor's 500 index for the five years ended 12/31/2016?",
+      "answer": -0.0837,
+      "answer_raw": "-0.0837",
+      "program": "subtract(189.72, const_100), divide(#0, const_100), subtract(198.09, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

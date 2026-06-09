@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions , what was the total asset retirement obligations as of december 31 2007 and 2008?",
+      "answer": 2099.0,
+      "answer_raw": "2099.0",
+      "program": "add(965, 1134)"
+    }
+  ]
+}

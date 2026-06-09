@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the difference in the total value of cash, cash equivalents, and marketable securities between 2005 and 2006?",
+      "answer": 354.3,
+      "answer_raw": "354.3",
+      "program": "subtract(761.8, 407.5)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the value for 2005 specifically?",
+      "answer": 407.5,
+      "answer_raw": "407.5",
+      "program": "407.5"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the percentage change?",
+      "answer": 0.86945,
+      "answer_raw": "0.86945",
+      "program": "subtract(761.8, 407.5), divide(#0, 407.5)"
+    }
+  ]
+}

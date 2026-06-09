@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in rent expense for operating leases with terms exceeding one month from 2012 to 2013?",
+      "answer": -0.0206,
+      "answer_raw": "-0.0206",
+      "program": "subtract(618, 631), divide(#0, 631)"
+    }
+  ]
+}

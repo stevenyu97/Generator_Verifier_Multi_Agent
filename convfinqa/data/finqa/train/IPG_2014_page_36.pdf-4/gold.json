@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how many percent did the net cash provided by operating activities increase from 2013 to 2014?",
+      "answer": 12.91955,
+      "answer_raw": "12.91955",
+      "program": "subtract(669.5, 76.6), divide(76.6, #0), multiply(#1, const_100)"
+    }
+  ]
+}

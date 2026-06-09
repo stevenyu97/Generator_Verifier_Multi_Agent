@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the minimum total assets available for default is related to assessment powers?",
+      "answer": 0.72665,
+      "answer_raw": "0.72665",
+      "program": "divide(7973.6, 10973.1)"
+    }
+  ]
+}

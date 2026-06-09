@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "Single_LKQ/2009/page_66.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "investments prior to our acquisition of keystone on october 12 , 2007 , we held common shares of keystone , which were classified as an available-for-sale investment security .",
+      "accordingly , the investment was included in other assets at its fair value , with the unrealized gain excluded from earnings and included in accumulated other comprehensive income , net of applicable taxes .",
+      "upon our acquisition of keystone on october 12 , 2007 , the unrealized gain was removed from accumulated other comprehensive income , net of applicable taxes , and the original cost of the common shares was considered a component of the purchase price .",
+      "fair value of financial instruments our debt is reflected on the balance sheet at cost .",
+      "based on current market conditions , our interest rate margins are below the rate available in the market , which causes the fair value of our debt to fall below the carrying value .",
+      "the fair value of our term loans ( see note 6 , 201clong-term obligations 201d ) is approximately $ 570 million at december 31 , 2009 , as compared to the carrying value of $ 596 million .",
+      "we estimated the fair value of our term loans by calculating the upfront cash payment a market participant would require to assume our obligations .",
+      "the upfront cash payment , excluding any issuance costs , is the amount that a market participant would be able to lend at december 31 , 2009 to an entity with a credit rating similar to ours and achieve sufficient cash inflows to cover the scheduled cash outflows under our term loans .",
+      "the carrying amounts of our cash and equivalents , net trade receivables and accounts payable approximate fair value .",
+      "we apply the market approach to value our financial assets and liabilities , which include the cash surrender value of life insurance , deferred compensation liabilities and interest rate swaps .",
+      "the market approach utilizes available market information to estimate fair value .",
+      "required fair value disclosures are included in note 8 , 201cfair value measurements . 201d accrued expenses we self-insure a portion of employee medical benefits under the terms of our employee health insurance program .",
+      "we purchase certain stop-loss insurance to limit our liability exposure .",
+      "we also self-insure a portion of our property and casualty risk , which includes automobile liability , general liability , workers 2019 compensation and property under deductible insurance programs .",
+      "the insurance premium costs are expensed over the contract periods .",
+      "a reserve for liabilities associated with these losses is established for claims filed and claims incurred but not yet reported based upon our estimate of ultimate cost , which is calculated using analyses of historical data .",
+      "we monitor new claims and claim development as well as trends related to the claims incurred but not reported in order to assess the adequacy of our insurance reserves .",
+      "self-insurance reserves on the consolidated balance sheets are net of claims deposits of $ 0.7 million and $ 0.8 million , at december 31 , 2009 and 2008 , respectively .",
+      "while we do not expect the amounts ultimately paid to differ significantly from our estimates , our insurance reserves and corresponding expenses could be affected if future claim experience differs significantly from historical trends and assumptions .",
+      "product warranties some of our mechanical products are sold with a standard six-month warranty against defects .",
+      "we record the estimated warranty costs at the time of sale using historical warranty claim information to project future warranty claims activity and related expenses .",
+      "the changes in the warranty reserve are as follows ( in thousands ) : ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "balance as of january 1 2008",
+        "$ 580"
+      ],
+      [
+        "warranty expense",
+        "3681"
+      ],
+      [
+        "warranty claims",
+        "-3721 ( 3721 )"
+      ],
+      [
+        "balance as of december 31 2008",
+        "540"
+      ],
+      [
+        "warranty expense",
+        "5033"
+      ],
+      [
+        "warranty claims",
+        "-4969 ( 4969 )"
+      ],
+      [
+        "balance as of december 31 2009",
+        "$ 604"
+      ]
+    ],
+    "questions": [
+      "what is the balance in the warranty reserves as of december 31, 2009?",
+      "what about 2008?",
+      "what is the net change?",
+      "what is the balance in the warranty reserves as of december 31, 2008?",
+      "what percentage change does this represent?"
+    ]
+  }
+}

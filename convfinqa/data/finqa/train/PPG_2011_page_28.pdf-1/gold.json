@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "if trade receivables from customers trends at the same rate as 2011 , what will the 2012 allowance be as a percentage of fourth quarter sales?",
+      "answer": 18.1,
+      "answer_raw": "18.1",
+      "program": "subtract(17.9, 18.1), subtract(17.9, #0)"
+    }
+  ]
+}

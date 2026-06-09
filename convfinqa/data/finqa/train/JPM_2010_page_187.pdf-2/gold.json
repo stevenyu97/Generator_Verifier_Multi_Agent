@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the 2020 net derivative balance in billions?",
+      "answer": 18962.0,
+      "answer_raw": "18962.0",
+      "program": "subtract(84676, 65714)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in 2008 what was the carrying amount reported on the consolidated balance sheet to aggregate unpaid principal balance in excess of fair value of the trading assets",
+      "answer": 2.50023,
+      "answer_raw": "2.50023",
+      "program": "divide(16254, 6501)"
+    }
+  ]
+}

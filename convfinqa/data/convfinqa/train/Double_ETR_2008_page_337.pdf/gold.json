@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in net revenue from 2006 to 2007?",
+      "answer": 20.8,
+      "answer_raw": "20.8",
+      "program": "subtract(486.9, 466.1)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that net revenue in 2006?",
+      "answer": 466.1,
+      "answer_raw": "466.1",
+      "program": "466.1"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, in percentage, does that change represent in relation to this 2006 net revenue?",
+      "answer": 0.04463,
+      "answer_raw": "0.04463",
+      "program": "subtract(486.9, 466.1), divide(#0, 466.1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what, again, was the variation in net revenue between the two years?",
+      "answer": 20.8,
+      "answer_raw": "20.8",
+      "program": "subtract(486.9, 466.1)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "AMT/2002/page_104.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements 2014 ( continued ) 19 .",
+      "subsequent events 12.25% ( 12.25 % ) senior subordinated discount notes and warrants offering 2014in january 2003 , the company issued 808000 units , each consisting of ( 1 ) $ 1000 principal amount at maturity of the 12.25% ( 12.25 % ) senior subordinated discount notes due 2008 of a wholly owned subsidiary of the company ( ati notes ) and ( 2 ) a warrant to purchase 14.0953 shares of class a common stock of the company , for gross proceeds of $ 420.0 million .",
+      "the gross offering proceeds were allocated between the ati notes ( $ 367.4 million ) and the fair value of the warrants ( $ 52.6 million ) .",
+      "net proceeds from the offering aggregated approximately $ 397.0 million and were or will be used for the purposes described below under amended and restated loan agreement .",
+      "the ati notes accrue no cash interest .",
+      "instead , the accreted value of each ati note will increase between the date of original issuance and maturity ( august 1 , 2008 ) at a rate of 12.25% ( 12.25 % ) per annum .",
+      "the 808000 warrants that were issued together with the ati notes each represent the right to purchase 14.0953 shares of class a common stock at $ 0.01 per share .",
+      "the warrants are exercisable at any time on or after january 29 , 2006 and will expire on august 1 , 2008 .",
+      "as of the issuance date , the warrants represented approximately 5.5% ( 5.5 % ) of the company 2019s outstanding common stock ( assuming exercise of all warrants ) .",
+      "the indenture governing the ati notes contains covenants that , among other things , limit the ability of the issuer subsidiary and its guarantors to incur or guarantee additional indebtedness , create liens , pay dividends or make other equity distributions , enter into agreements restricting the restricted subsidiaries 2019 ability to pay dividends , purchase or redeem capital stock , make investments and sell assets or consolidate or merge with or into other companies .",
+      "the ati notes rank junior in right of payment to all existing and future senior indebtedness , including all indebtedness outstanding under the credit facilities , and are structurally senior in right of payment to all existing and future indebtedness of the company .",
+      "amended and restated loan agreement 2014on february 21 , 2003 , the company completed an amendment to its credit facilities .",
+      "the amendment provides for the following : 2022 prepayment of a portion of outstanding term loans .",
+      "the company agreed to prepay an aggregate of $ 200.0 million of the term loans outstanding under the credit facilities from a portion of the net proceeds of the ati notes offering completed in january 2003 .",
+      "this prepayment consisted of a $ 125.0 million prepayment of the term loan a and a $ 75.0 million prepayment of the term loan b , each to be applied to reduce future scheduled principal payments .",
+      "giving effect to the prepayment of $ 200.0 million of term loans under the credit facility and the issuance of the ati notes as discussed above as well as the paydown of debt from net proceeds of the sale of mtn ( $ 24.5 million in february 2003 ) , the company 2019s aggregate principal payments of long- term debt , including capital leases , for the next five years and thereafter are as follows ( in thousands ) : year ending december 31 ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "2003",
+        "$ 268496"
+      ],
+      [
+        "2004",
+        "131262"
+      ],
+      [
+        "2005",
+        "195082"
+      ],
+      [
+        "2006",
+        "538479"
+      ],
+      [
+        "2007",
+        "1065437"
+      ],
+      [
+        "thereafter",
+        "1408783"
+      ],
+      [
+        "total",
+        "$ 3607539"
+      ]
+    ],
+    "questions": [
+      "what is the total expected payments for principal of long- term debt , including capital leases in the next 24 months?"
+    ]
+  }
+}

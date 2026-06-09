@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was the total 2016 non-vested incentive/ performance units shares weighted- average grant date fair value greater than the non-vested restricted share/ restricted share units weighted average grant date value?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "greater(81.42, 83.27)"
+    }
+  ]
+}

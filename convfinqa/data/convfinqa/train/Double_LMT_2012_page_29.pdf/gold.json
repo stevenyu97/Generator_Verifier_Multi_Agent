@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total stock purchases occurred in october 2012?",
+      "answer": 0.27082,
+      "answer_raw": "0.27082",
+      "program": "divide(842445, 3110706)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how many shares were purchased during november 26 - december 31, 2012?",
+      "answer": 1395288.0,
+      "answer_raw": "1395288.0",
+      "program": "1395288"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "at that average price?",
+      "answer": 92.02,
+      "answer_raw": "92.02",
+      "program": "92.02"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total value of these purchases?",
+      "answer": 128394401.76,
+      "answer_raw": "128394401.76",
+      "program": "multiply(1395288, 92.02)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what about in millions?",
+      "answer": 128.3944,
+      "answer_raw": "128.3944",
+      "program": "multiply(1395288, 92.02), divide(#0, const_1000000)"
+    }
+  ]
+}

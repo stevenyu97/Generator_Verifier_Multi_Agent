@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total net revenues in the institutional client services segment was due to fixed income currency and commodities client execution in 2015?",
+      "answer": 0.48327,
+      "answer_raw": "0.48327",
+      "program": "divide(7322, 15151)"
+    }
+  ]
+}

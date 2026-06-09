@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in the net cash used in financing activities from 2004 to 2005",
+      "answer": 0.45185,
+      "answer_raw": "0.45185",
+      "program": "subtract(3679, 2534), divide(#0, 2534)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of accumulated pre-tax catastrophe loss in 2010 and 2011?",
+      "answer": 1871.5,
+      "answer_raw": "1871.5",
+      "program": "add(571.1, 1300.4)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the sum including 2012?",
+      "answer": 2281.5,
+      "answer_raw": "2281.5",
+      "program": "add(571.1, 1300.4), add(#0, 410.0)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum of accumulated pre-tax catastrophe loss in 2013?",
+      "answer": 195.0,
+      "answer_raw": "195.0",
+      "program": "195.0"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the total sum?",
+      "answer": 2476.5,
+      "answer_raw": "2476.5",
+      "program": "add(571.1, 1300.4), add(#0, 410.0), add(#1, 195.0)"
+    }
+  ]
+}

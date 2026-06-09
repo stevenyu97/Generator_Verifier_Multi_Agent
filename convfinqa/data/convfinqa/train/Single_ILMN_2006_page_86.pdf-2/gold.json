@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the difference between the net loss of the year ended january 1 2006 and that of the year ended january 2 2005?",
+      "answer": 3731.0,
+      "answer_raw": "3731.0",
+      "program": "subtract(-6234, -9965)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how much does that difference represents in relation to the absolute value of the net loss of the year ended january 2 2005?",
+      "answer": 0.37441,
+      "answer_raw": "0.37441",
+      "program": "subtract(-6234, -9965), divide(#0, 9965)"
+    }
+  ]
+}

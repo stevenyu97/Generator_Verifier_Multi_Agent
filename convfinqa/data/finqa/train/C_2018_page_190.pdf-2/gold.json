@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what are total estimated future benefit payments in millions for 2020?",
+      "answer": 1382.0,
+      "answer_raw": "1382.0",
+      "program": "table_sum(2020, none)"
+    }
+  ]
+}

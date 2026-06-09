@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "INTC/2013/page_71.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the fair value of our grants receivable is determined using a discounted cash flow model , which discounts future cash flows using an appropriate yield curve .",
+      "as of december 28 , 2013 , and december 29 , 2012 , the carrying amount of our grants receivable was classified within other current assets and other long-term assets , as applicable .",
+      "our long-term debt recognized at amortized cost is comprised of our senior notes and our convertible debentures .",
+      "the fair value of our senior notes is determined using active market prices , and it is therefore classified as level 1 .",
+      "the fair value of our convertible long-term debt is determined using discounted cash flow models with observable market inputs , and it takes into consideration variables such as interest rate changes , comparable securities , subordination discount , and credit-rating changes , and it is therefore classified as level 2 .",
+      "the nvidia corporation ( nvidia ) cross-license agreement liability in the preceding table was incurred as a result of entering into a long-term patent cross-license agreement with nvidia in january 2011 .",
+      "we agreed to make payments to nvidia over six years .",
+      "as of december 28 , 2013 , and december 29 , 2012 , the carrying amount of the liability arising from the agreement was classified within other accrued liabilities and other long-term liabilities , as applicable .",
+      "the fair value is determined using a discounted cash flow model , which discounts future cash flows using our incremental borrowing rates .",
+      "note 5 : cash and investments cash and investments at the end of each period were as follows : ( in millions ) dec 28 , dec 29 ."
+    ],
+    "post_text": [
+      "in the third quarter of 2013 , we sold our shares in clearwire corporation , which had been accounted for as available-for-sale marketable equity securities , and our interest in clearwire communications , llc ( clearwire llc ) , which had been accounted for as an equity method investment .",
+      "in total , we received proceeds of $ 470 million on these transactions and recognized a gain of $ 439 million , which is included in gains ( losses ) on equity investments , net on the consolidated statements of income .",
+      "proceeds received and gains recognized for each investment are included in the \"available-for-sale investments\" and \"equity method investments\" sections that follow .",
+      "table of contents intel corporation notes to consolidated financial statements ( continued ) ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "dec 282013",
+        "dec 292012"
+      ],
+      [
+        "available-for-sale investments",
+        "$ 18086",
+        "$ 14001"
+      ],
+      [
+        "cash",
+        "854",
+        "593"
+      ],
+      [
+        "equity method investments",
+        "1038",
+        "992"
+      ],
+      [
+        "loans receivable",
+        "1072",
+        "979"
+      ],
+      [
+        "non-marketable cost method investments",
+        "1270",
+        "1202"
+      ],
+      [
+        "reverse repurchase agreements",
+        "800",
+        "2850"
+      ],
+      [
+        "trading assets",
+        "8441",
+        "5685"
+      ],
+      [
+        "total cash and investments",
+        "$ 31561",
+        "$ 26302"
+      ]
+    ],
+    "questions": [
+      "as part of the proceeds from the clear wire transactions what was the percent of the gain recognized included in the equity investments , net on the consolidated statements of income ."
+    ]
+  }
+}

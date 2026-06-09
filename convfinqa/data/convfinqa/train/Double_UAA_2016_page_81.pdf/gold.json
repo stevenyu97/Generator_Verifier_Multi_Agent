@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage do the scheduled maturities of long term debt due in 2019 represent in relation to the total ones?",
+      "answer": 0.07606,
+      "answer_raw": "0.07606",
+      "program": "divide(63000, 828250)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is that percentage representation for the ones due in 2020?",
+      "answer": 0.03018,
+      "answer_raw": "0.03018",
+      "program": "divide(25000, 828250)"
+    }
+  ]
+}

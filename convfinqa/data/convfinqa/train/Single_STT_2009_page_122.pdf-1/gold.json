@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how much was kept as collateral in 2009?",
+      "answer": 375.92,
+      "answer_raw": "375.92",
+      "program": "375.92"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "how much was kept as collateral in 2008?",
+      "answer": 333.07,
+      "answer_raw": "333.07",
+      "program": "333.07"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the difference in value between 2008 and 2009?",
+      "answer": 42.85,
+      "answer_raw": "42.85",
+      "program": "subtract(375.92, 333.07)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "how much was kept as collateral in 2008?",
+      "answer": 333.07,
+      "answer_raw": "333.07",
+      "program": "333.07"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the difference divided by the collateral kept in 2008?",
+      "answer": 0.12865,
+      "answer_raw": "0.12865",
+      "program": "subtract(375.92, 333.07), divide(#0, 333.07)"
+    }
+  ]
+}

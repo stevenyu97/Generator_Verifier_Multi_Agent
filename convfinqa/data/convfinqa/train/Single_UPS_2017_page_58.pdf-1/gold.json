@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the pension and postretirement plan contributions in 2016?",
+      "answer": 2668.0,
+      "answer_raw": "2668.0",
+      "program": "2668"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2015?",
+      "answer": 1229.0,
+      "answer_raw": "1229.0",
+      "program": "1229"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between these two years?",
+      "answer": 1439.0,
+      "answer_raw": "1439.0",
+      "program": "subtract(2668, 1229)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage change during this time?",
+      "answer": 1.17087,
+      "answer_raw": "1.17087",
+      "program": "subtract(2668, 1229), divide(#0, 1229)"
+    }
+  ]
+}

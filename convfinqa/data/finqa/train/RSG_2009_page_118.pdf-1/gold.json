@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the year ended december 31 2008 ( unaudited ) information what was the net profit margin",
+      "answer": 0.03052,
+      "answer_raw": "0.03052",
+      "program": "divide(285.7, 9362.2)"
+    }
+  ]
+}

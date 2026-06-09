@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in cash used for operating in 2017?",
+      "answer": -799.0,
+      "answer_raw": "-799.0",
+      "program": "-799"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was used for investing?",
+      "answer": -4123.0,
+      "answer_raw": "-4123.0",
+      "program": "-4123"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum?",
+      "answer": -4922.0,
+      "answer_raw": "-4922.0",
+      "program": "add(-799, -4123)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the amount of cash from financing activities?",
+      "answer": 10919.0,
+      "answer_raw": "10919.0",
+      "program": "10919"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total sum?",
+      "answer": 5997.0,
+      "answer_raw": "5997.0",
+      "program": "add(-799, -4123), add(#0, 10919)"
+    }
+  ]
+}

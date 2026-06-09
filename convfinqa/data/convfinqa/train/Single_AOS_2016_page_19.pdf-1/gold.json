@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in price for a.o. smith corp from 2011 to 2016?",
+      "answer": 401.4,
+      "answer_raw": "401.4",
+      "program": "subtract(501.4, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what was the percent change?",
+      "answer": 4.014,
+      "answer_raw": "4.014",
+      "program": "subtract(501.4, const_100), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the value of the s&p midcap index at the end of 2016?",
+      "answer": 204.1,
+      "answer_raw": "204.1",
+      "program": "204.1"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what was the net change assuming a $100 initial investment?",
+      "answer": 104.1,
+      "answer_raw": "104.1",
+      "program": "subtract(501.4, const_100), divide(#0, const_100), subtract(204.1, const_100)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the percent change?",
+      "answer": 1.041,
+      "answer_raw": "1.041",
+      "program": "subtract(501.4, const_100), divide(#0, const_100), subtract(204.1, const_100), divide(#2, const_100)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the difference in the percents?",
+      "answer": 2.973,
+      "answer_raw": "2.973",
+      "program": "subtract(501.4, const_100), divide(#0, const_100), subtract(204.1, const_100), divide(#2, const_100), subtract(#1, #3)"
+    }
+  ]
+}

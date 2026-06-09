@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total contractual obligations has been differed over 5 years?",
+      "answer": 0.41209,
+      "answer_raw": "0.41209",
+      "program": "divide(5194, 12604)"
+    }
+  ]
+}

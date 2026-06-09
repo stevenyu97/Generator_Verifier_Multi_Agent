@@ -1,0 +1,74 @@
+{
+  "input": {
+    "id": "Single_AMT/2007/page_111.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "american tower corporation and subsidiaries notes to consolidated financial statements 2014 ( continued ) maturities 2014as of december 31 , 2007 , aggregate carrying value of long-term debt , including capital leases , for the next five years and thereafter are estimated to be ( in thousands ) : year ending december 31 ."
+    ],
+    "post_text": [
+      "4 .",
+      "acquisitions during the years ended december 31 , 2007 , 2006 and 2005 , the company used cash to acquire a total of ( i ) 293 towers and the assets of a structural analysis firm for approximately $ 44.0 million in cash ( ii ) 84 towers and 6 in-building distributed antenna systems for approximately $ 14.3 million and ( iii ) 30 towers for approximately $ 6.0 million in cash , respectively .",
+      "the tower asset acquisitions were primarily in mexico and brazil under ongoing agreements .",
+      "during the year ended december 31 , 2005 , the company also completed its merger with spectrasite , inc .",
+      "pursuant to which the company acquired approximately 7800 towers and 100 in-building distributed antenna systems .",
+      "under the terms of the merger agreement , in august 2005 , spectrasite , inc .",
+      "merged with a wholly- owned subsidiary of the company , and each share of spectrasite , inc .",
+      "common stock converted into the right to receive 3.575 shares of the company 2019s class a common stock .",
+      "the company issued approximately 169.5 million shares of its class a common stock and reserved for issuance approximately 9.9 million and 6.8 million of class a common stock pursuant to spectrasite , inc .",
+      "options and warrants , respectively , assumed in the merger .",
+      "the final allocation of the $ 3.1 billion purchase price is summarized in the company 2019s annual report on form 10-k for the year ended december 31 , 2006 .",
+      "the acquisitions consummated by the company during 2007 , 2006 and 2005 , have been accounted for under the purchase method of accounting in accordance with sfas no .",
+      "141 201cbusiness combinations 201d ( sfas no .",
+      "141 ) .",
+      "the purchase prices have been allocated to the net assets acquired and the liabilities assumed based on their estimated fair values at the date of acquisition .",
+      "the company primarily acquired its tower assets from third parties in one of two types of transactions : the purchase of a business or the purchase of assets .",
+      "the structure of each transaction affects the way the company allocates purchase price within the consolidated financial statements .",
+      "in the case of tower assets acquired through the purchase of a business , such as the company 2019s merger with spectrasite , inc. , the company allocates the purchase price to the assets acquired and liabilities assumed at their estimated fair values as of the date of acquisition .",
+      "the excess of the purchase price paid by the company over the estimated fair value of net assets acquired has been recorded as goodwill .",
+      "in the case of an asset purchase , the company first allocates the purchase price to property and equipment for the appraised value of the towers and to identifiable intangible assets ( primarily acquired customer base ) .",
+      "the company then records any remaining purchase price within intangible assets as a 201cnetwork location intangible . 201d ."
+    ],
+    "table": [
+      [
+        "2008",
+        "$ 1817"
+      ],
+      [
+        "2009",
+        "1241"
+      ],
+      [
+        "2010",
+        "78828"
+      ],
+      [
+        "2011",
+        "13714"
+      ],
+      [
+        "2012",
+        "1894998"
+      ],
+      [
+        "thereafter",
+        "2292895"
+      ],
+      [
+        "total cash obligations",
+        "$ 4283493"
+      ],
+      [
+        "accreted value of the discount and premium of 3.00% ( 3.00 % ) notes and 7.125% ( 7.125 % ) notes",
+        "1791"
+      ],
+      [
+        "balance as of december 31 2007",
+        "$ 4285284"
+      ]
+    ],
+    "questions": [
+      "what was the total number of towers acquired in the years of 2006 and 2007, combined?",
+      "including the year of 2005, what then becomes that total?"
+    ]
+  }
+}

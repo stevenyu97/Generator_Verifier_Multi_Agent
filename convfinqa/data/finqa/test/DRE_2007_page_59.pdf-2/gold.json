@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "goodwill comprises what percentage of total assets acquired?",
+      "answer": 1.69695,
+      "answer_raw": "1.69695",
+      "program": "divide(14722, 867558), multiply(#0, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in net revenue from 2002 to 2003 for entergy corporation?",
+      "answer": 4.9,
+      "answer_raw": "4.9",
+      "program": "subtract(4214.5, 4209.6)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this change as a portion of that net revenue in 2002?",
+      "answer": 0.00116,
+      "answer_raw": "0.00116",
+      "program": "subtract(4214.5, 4209.6), divide(#0, 4209.6)"
+    }
+  ]
+}

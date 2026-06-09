@@ -1,0 +1,88 @@
+{
+  "input": {
+    "id": "PNC/2011/page_209.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "agreements associated with the agency securitizations , most sale agreements do not provide for penalties or other remedies if we do not respond timely to investor indemnification or repurchase requests .",
+      "origination and sale of residential mortgages is an ongoing business activity and , accordingly , management continually assesses the need to recognize indemnification and repurchase liabilities pursuant to the associated investor sale agreements .",
+      "we establish indemnification and repurchase liabilities for estimated losses on sold first and second-lien mortgages and home equity loans/lines for which indemnification is expected to be provided or for loans that are expected to be repurchased .",
+      "for the first and second-lien mortgage sold portfolio , we have established an indemnification and repurchase liability pursuant to investor sale agreements based on claims made and our estimate of future claims on a loan by loan basis .",
+      "these relate primarily to loans originated during 2006-2008 .",
+      "for the home equity loans/lines sold portfolio , we have established indemnification and repurchase liabilities based upon this same methodology for loans sold during 2005-2007 .",
+      "indemnification and repurchase liabilities are initially recognized when loans are sold to investors and are subsequently evaluated by management .",
+      "initial recognition and subsequent adjustments to the indemnification and repurchase liability for the sold residential mortgage portfolio are recognized in residential mortgage revenue on the consolidated income statement .",
+      "since pnc is no longer engaged in the brokered home equity lending business , only subsequent adjustments are recognized to the home equity loans/lines indemnification and repurchase liability .",
+      "these adjustments are recognized in other noninterest income on the consolidated income statement .",
+      "management 2019s subsequent evaluation of these indemnification and repurchase liabilities is based upon trends in indemnification and repurchase requests , actual loss experience , risks in the underlying serviced loan portfolios , and current economic conditions .",
+      "as part of its evaluation , management considers estimated loss projections over the life of the subject loan portfolio .",
+      "at december 31 , 2011 and december 31 , 2010 , the total indemnification and repurchase liability for estimated losses on indemnification and repurchase claims totaled $ 130 million and $ 294 million , respectively , and was included in other liabilities on the consolidated balance sheet .",
+      "an analysis of the changes in this liability during 2011 and 2010 follows : analysis of indemnification and repurchase liability for asserted claims and unasserted claims ."
+    ],
+    "post_text": [
+      "( a ) repurchase obligation associated with sold loan portfolios of $ 121.4 billion and $ 139.8 billion at december 31 , 2011 and december 31 , 2010 , respectively .",
+      "( b ) repurchase obligation associated with sold loan portfolios of $ 4.5 billion and $ 6.5 billion at december 31 , 2011 and december 31 , 2010 , respectively .",
+      "pnc is no longer engaged in the brokered home equity lending business , which was acquired with national city .",
+      "management believes our indemnification and repurchase liabilities appropriately reflect the estimated probable losses on investor indemnification and repurchase claims at december 31 , 2011 and 2010 .",
+      "while management seeks to obtain all relevant information in estimating the indemnification and repurchase liability , the estimation process is inherently uncertain and imprecise and , accordingly , it is reasonably possible that future indemnification and repurchase losses could be more or less than our established liability .",
+      "factors that could affect our estimate include the volume of valid claims driven by investor strategies and behavior , our ability to successfully negotiate claims with investors , housing prices , and other economic conditions .",
+      "at december 31 , 2011 , we estimate that it is reasonably possible that we could incur additional losses in excess of our indemnification and repurchase liability of up to $ 85 million .",
+      "this estimate of potential additional losses in excess of our liability is based on assumed higher investor demands , lower claim rescissions , and lower home prices than our current assumptions .",
+      "reinsurance agreements we have two wholly-owned captive insurance subsidiaries which provide reinsurance to third-party insurers related to insurance sold to our customers .",
+      "these subsidiaries enter into various types of reinsurance agreements with third-party insurers where the subsidiary assumes the risk of loss through either an excess of loss or quota share agreement up to 100% ( 100 % ) reinsurance .",
+      "in excess of loss agreements , these subsidiaries assume the risk of loss for an excess layer of coverage up to specified limits , once a defined first loss percentage is met .",
+      "in quota share agreements , the subsidiaries and third-party insurers share the responsibility for payment of all claims .",
+      "these subsidiaries provide reinsurance for accidental death & dismemberment , credit life , accident & health , lender placed 200 the pnc financial services group , inc .",
+      "2013 form 10-k ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "2011 residential mortgages ( a )",
+        "2011 home equity loans/lines ( b )",
+        "2011 total",
+        "2011 residential mortgages ( a )",
+        "2011 home equity loans/lines ( b )",
+        "total"
+      ],
+      [
+        "january 1",
+        "$ 144",
+        "$ 150",
+        "$ 294",
+        "$ 229",
+        "$ 41",
+        "$ 270"
+      ],
+      [
+        "reserve adjustments net",
+        "102",
+        "4",
+        "106",
+        "120",
+        "144",
+        "264"
+      ],
+      [
+        "losses 2013 loan repurchases and settlements",
+        "-163 ( 163 )",
+        "-107 ( 107 )",
+        "-270 ( 270 )",
+        "-205 ( 205 )",
+        "-35 ( 35 )",
+        "-240 ( 240 )"
+      ],
+      [
+        "december 31",
+        "$ 83",
+        "$ 47",
+        "$ 130",
+        "$ 144",
+        "$ 150",
+        "$ 294"
+      ]
+    ],
+    "questions": [
+      "what was the ratio of the the total indemnification and repurchase liability for estimated losses on indemnification and repurchase claims \\\\n"
+    ]
+  }
+}

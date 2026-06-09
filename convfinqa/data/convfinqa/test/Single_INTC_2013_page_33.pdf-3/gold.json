@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of diluted earnings per common share as of december 2013?",
+      "answer": 1.89,
+      "answer_raw": "1.89",
+      "program": "1.89"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it as of december 2012?",
+      "answer": 2.13,
+      "answer_raw": "2.13",
+      "program": "2.13"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change in that total over the year?",
+      "answer": -0.24,
+      "answer_raw": "-0.24",
+      "program": "subtract(1.89, 2.13)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation to the 2012 total of diluted earnings per common share, in percentage?",
+      "answer": -0.11268,
+      "answer_raw": "-0.11268",
+      "program": "subtract(1.89, 2.13), divide(#0, 2.13)"
+    }
+  ]
+}

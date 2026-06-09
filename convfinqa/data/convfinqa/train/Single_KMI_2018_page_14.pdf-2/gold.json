@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the number of liquid terminals?",
+      "answer": 52.0,
+      "answer_raw": "52.0",
+      "program": "52"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is number of bulk terminals?",
+      "answer": 34.0,
+      "answer_raw": "34.0",
+      "program": "34"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum of those terminals?",
+      "answer": 86.0,
+      "answer_raw": "86.0",
+      "program": "add(52, 34)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what is the number of jones act tankers?",
+      "answer": 16.0,
+      "answer_raw": "16.0",
+      "program": "16"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total number of terminals and jones act tankers?",
+      "answer": 102.0,
+      "answer_raw": "102.0",
+      "program": "add(52, 34), add(#0, 16)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "what is the number of bulk terminals divided by the total number of terminals and jones act tankers?",
+      "answer": 0.5098,
+      "answer_raw": "0.5098",
+      "program": "add(52, 34), add(#0, 16), divide(52, #1)"
+    }
+  ]
+}

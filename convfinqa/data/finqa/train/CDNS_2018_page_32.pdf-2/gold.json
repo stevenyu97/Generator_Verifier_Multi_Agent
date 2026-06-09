@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how is net change in cash from financing activity affected by the share repurchase during december 20018 , ( in millions ) ?",
+      "answer": 56.57146,
+      "answer_raw": "56.57146",
+      "program": "multiply(1327657, 42.61), divide(#0, const_1000000)"
+    }
+  ]
+}

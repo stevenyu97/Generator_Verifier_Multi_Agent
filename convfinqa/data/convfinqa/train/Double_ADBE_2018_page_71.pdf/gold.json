@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the amount from the total estimated purchase price of goodwill?",
+      "answer": 3459751.0,
+      "answer_raw": "3459751.0",
+      "program": "3459751"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that purchase price?",
+      "answer": 4736263.0,
+      "answer_raw": "4736263.0",
+      "program": "4736263"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what portion, then of this price did that amount represent?",
+      "answer": 0.73048,
+      "answer_raw": "0.73048",
+      "program": "divide(3459751, 4736263)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and concerning the trademarks segment, what was its estimated annual amortization expense?",
+      "answer": 36500.0,
+      "answer_raw": "36500.0",
+      "program": "divide(328500, 9)"
+    }
+  ]
+}

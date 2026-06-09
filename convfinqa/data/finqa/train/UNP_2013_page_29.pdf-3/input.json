@@ -1,0 +1,99 @@
+{
+  "input": {
+    "id": "UNP/2013/page_29.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "operating expenses millions 2013 2012 2011 % (  % ) change 2013 v 2012 % (  % ) change 2012 v 2011 ."
+    ],
+    "post_text": [
+      "operating expenses increased $ 336 million in 2013 versus 2012 .",
+      "wage and benefit inflation , new logistics management fees and container costs for our automotive business , locomotive overhauls , property taxes and repairs on jointly owned property contributed to higher expenses during the year .",
+      "lower fuel prices partially offset the cost increases .",
+      "operating expenses increased $ 348 million in 2012 versus 2011 .",
+      "depreciation , wage and benefit inflation , higher fuel prices and volume- related trucking services purchased by our logistics subsidiaries , contributed to higher expenses during the year .",
+      "efficiency gains , volume related fuel savings ( 2% ( 2 % ) fewer gallons of fuel consumed ) and $ 38 million of weather related expenses in 2011 , which favorably affects the comparison , partially offset the cost increase .",
+      "compensation and benefits 2013 compensation and benefits include wages , payroll taxes , health and welfare costs , pension costs , other postretirement benefits , and incentive costs .",
+      "general wages and benefits inflation , higher work force levels and increased pension and other postretirement benefits drove the increases in 2013 versus 2012 .",
+      "the impact of ongoing productivity initiatives partially offset these increases .",
+      "expenses in 2012 were essentially flat versus 2011 as operational improvements and cost reductions offset general wage and benefit inflation and higher pension and other postretirement benefits .",
+      "in addition , weather related costs increased these expenses in 2011 .",
+      "fuel 2013 fuel includes locomotive fuel and gasoline for highway and non-highway vehicles and heavy equipment .",
+      "lower locomotive diesel fuel prices , which averaged $ 3.15 per gallon ( including taxes and transportation costs ) in 2013 , compared to $ 3.22 in 2012 , decreased expenses by $ 75 million .",
+      "volume , as measured by gross ton-miles , decreased 1% ( 1 % ) while the fuel consumption rate , computed as gallons of fuel consumed divided by gross ton-miles , increased 2% ( 2 % ) compared to 2012 .",
+      "declines in heavier , more fuel-efficient coal shipments drove the variances in gross-ton-miles and the fuel consumption rate .",
+      "higher locomotive diesel fuel prices , which averaged $ 3.22 per gallon ( including taxes and transportation costs ) in 2012 , compared to $ 3.12 in 2011 , increased expenses by $ 105 million .",
+      "volume , as measured by gross ton-miles , decreased 2% ( 2 % ) in 2012 versus 2011 , driving expense down .",
+      "the fuel consumption rate was flat year-over-year .",
+      "purchased services and materials 2013 expense for purchased services and materials includes the costs of services purchased from outside contractors and other service providers ( including equipment maintenance and contract expenses incurred by our subsidiaries for external transportation services ) ; materials used to maintain the railroad 2019s lines , structures , and equipment ; costs of operating facilities jointly used by uprr and other railroads ; transportation and lodging for train crew employees ; trucking and contracting costs for intermodal containers ; leased automobile maintenance expenses ; and tools and 2013 operating expenses ."
+    ],
+    "table": [
+      [
+        "millions",
+        "2013",
+        "2012",
+        "2011",
+        "% (  % ) change 2013 v 2012",
+        "% (  % ) change 2012 v 2011"
+      ],
+      [
+        "compensation and benefits",
+        "$ 4807",
+        "$ 4685",
+        "$ 4681",
+        "3 % (  % )",
+        "-% ( - % )"
+      ],
+      [
+        "fuel",
+        "3534",
+        "3608",
+        "3581",
+        "-2 ( 2 )",
+        "1"
+      ],
+      [
+        "purchased services and materials",
+        "2315",
+        "2143",
+        "2005",
+        "8",
+        "7"
+      ],
+      [
+        "depreciation",
+        "1777",
+        "1760",
+        "1617",
+        "1",
+        "9"
+      ],
+      [
+        "equipment and other rents",
+        "1235",
+        "1197",
+        "1167",
+        "3",
+        "3"
+      ],
+      [
+        "other",
+        "849",
+        "788",
+        "782",
+        "8",
+        "1"
+      ],
+      [
+        "total",
+        "$ 14517",
+        "$ 14181",
+        "$ 13833",
+        "2 % (  % )",
+        "3% ( 3 % )"
+      ]
+    ],
+    "questions": [
+      "what percentage of total operating expenses was fuel in 2013?"
+    ]
+  }
+}

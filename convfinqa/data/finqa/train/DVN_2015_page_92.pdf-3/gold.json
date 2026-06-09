@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "in millions , what was the mathematical range of debt maturities for 2018-2020?",
+      "answer": 686.0,
+      "answer_raw": "686.0",
+      "program": "subtract(1100, 414)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the review of the analysis of total reserve activity related to the hardboard , omniwood and woodruf settlements for the years ended december 31 , 2009 , 2008 and 2007 what was the sum of the payments",
+      "answer": 203.0,
+      "answer_raw": "203.0",
+      "program": "add(78, 87), add(#0, 38)"
+    }
+  ]
+}

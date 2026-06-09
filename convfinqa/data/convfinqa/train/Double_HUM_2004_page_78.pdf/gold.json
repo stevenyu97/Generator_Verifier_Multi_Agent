@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total value of cash and cash equivalents and investment securities, combined?",
+      "answer": 99797.0,
+      "answer_raw": "99797.0",
+      "program": "add(15270, 84527)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is the total value of premiums receivable and other current assets and property and equipment and other assets, also combined?",
+      "answer": 27463.0,
+      "answer_raw": "27463.0",
+      "program": "add(15270, 84527), add(20616, 6847)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is, then, the total sum of these values, composing the total assets?",
+      "answer": 127260.0,
+      "answer_raw": "127260.0",
+      "program": "add(15270, 84527), add(20616, 6847), add(#0, #1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what percentage of these total assets does the property and equipment and other assets represent?",
+      "answer": 0.0538,
+      "answer_raw": "0.0538",
+      "program": "add(15270, 84527), add(20616, 6847), add(#0, #1), divide(6847, #2)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "in that same period, what was the amount of the total liabilities?",
+      "answer": 92749.0,
+      "answer_raw": "92749.0",
+      "program": "add(71063, 21604), add(82, #0)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and what percentage of it is from the current ones?",
+      "answer": 0.23293,
+      "answer_raw": "0.23293",
+      "program": "add(71063, 21604), add(82, #0), divide(21604, #1)"
+    }
+  ]
+}

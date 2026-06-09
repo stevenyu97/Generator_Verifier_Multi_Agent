@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the expense which relates to the acceleration of equity awards upon termination of employment of baker hughes employees as a percentage of stock based compensation expense?",
+      "answer": 0.40541,
+      "answer_raw": "0.40541",
+      "program": "divide(15, 37)"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "input": {
+    "id": "Double_RE/2015/page_148.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "the following table summarized the status of the company 2019s non-vested performance share unit awards and changes for the period indicated : weighted- average grant date performance share unit awards shares fair value ."
+    ],
+    "post_text": [
+      "19 .",
+      "segment reporting the u.s .",
+      "reinsurance operation writes property and casualty reinsurance and specialty lines of business , including marine , aviation , surety and accident and health ( 201ca&h 201d ) business , on both a treaty and facultative basis , through reinsurance brokers , as well as directly with ceding companies primarily within the u.s .",
+      "the international operation writes non-u.s .",
+      "property and casualty reinsurance through everest re 2019s branches in canada and singapore and through offices in brazil , miami and new jersey .",
+      "the bermuda operation provides reinsurance and insurance to worldwide property and casualty markets through brokers and directly with ceding companies from its bermuda office and reinsurance to the united kingdom and european markets through its uk branch and ireland re .",
+      "the insurance operation writes property and casualty insurance directly and through general agents , brokers and surplus lines brokers within the u.s .",
+      "and canada .",
+      "the mt .",
+      "logan re segment represents business written for the segregated accounts of mt .",
+      "logan re , which were formed on july 1 , 2013 .",
+      "the mt .",
+      "logan re business represents a diversified set of catastrophe exposures , diversified by risk/peril and across different geographical regions globally .",
+      "these segments , with the exception of mt .",
+      "logan re , are managed independently , but conform with corporate guidelines with respect to pricing , risk management , control of aggregate catastrophe exposures , capital , investments and support operations .",
+      "management generally monitors and evaluates the financial performance of these operating segments based upon their underwriting results .",
+      "the mt .",
+      "logan re segment is managed independently and seeks to write a diverse portfolio of catastrophe risks for each segregated account to achieve desired risk and return criteria .",
+      "underwriting results include earned premium less losses and loss adjustment expenses ( 201clae 201d ) incurred , commission and brokerage expenses and other underwriting expenses .",
+      "we measure our underwriting results using ratios , in particular loss , commission and brokerage and other underwriting expense ratios , which , respectively , divide incurred losses , commissions and brokerage and other underwriting expenses by premiums earned .",
+      "mt .",
+      "logan re 2019s business is sourced through operating subsidiaries of the company ; however , the activity is only reflected in the mt .",
+      "logan re segment .",
+      "for other inter-affiliate reinsurance , business is generally reported within the segment in which the business was first produced , consistent with how the business is managed .",
+      "except for mt .",
+      "logan re , the company does not maintain separate balance sheet data for its operating segments .",
+      "accordingly , the company does not review and evaluate the financial results of its operating segments based upon balance sheet data. ."
+    ],
+    "table": [
+      [
+        "performance share unit awards",
+        "year ended december 31 2015 shares",
+        "year ended december 31 2015 weighted- average grant date fair value"
+      ],
+      [
+        "outstanding at january 1,",
+        "-",
+        "$ -"
+      ],
+      [
+        "granted",
+        "10705",
+        "178.84"
+      ],
+      [
+        "vested",
+        "-",
+        "-"
+      ],
+      [
+        "forfeited",
+        "-",
+        "-"
+      ],
+      [
+        "outstanding at december 31,",
+        "10705",
+        "178.84"
+      ]
+    ],
+    "questions": [
+      "in the year of 2015, what was the number of granted shares of everest re?",
+      "and what was the weighted- average grant date fair value of these shares?",
+      "what was, then, their full value?",
+      "and what is that in millions?",
+      "what is that in just dollars?"
+    ]
+  }
+}

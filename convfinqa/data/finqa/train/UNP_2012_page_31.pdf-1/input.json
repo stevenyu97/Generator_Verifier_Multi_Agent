@@ -1,0 +1,111 @@
+{
+  "input": {
+    "id": "UNP/2012/page_31.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "other income increased in 2011 versus 2010 due to higher gains from real estate sales , lower environmental costs associated with non-operating properties and the comparative impact of premiums paid for early redemption of long-term debt in the first quarter of 2010 .",
+      "interest expense 2013 interest expense decreased in 2012 versus 2011 reflecting a lower effective interest rate in 2012 of 6.0% ( 6.0 % ) versus 6.2% ( 6.2 % ) in 2011 as the debt level did not materially change in 2012 .",
+      "interest expense decreased in 2011 versus 2010 due to a lower weighted-average debt level of $ 9.2 billion versus $ 9.7 billion .",
+      "the effective interest rate was 6.2% ( 6.2 % ) in both 2011 and 2010 .",
+      "income taxes 2013 higher pre-tax income increased income taxes in 2012 compared to 2011 .",
+      "our effective tax rate for 2012 was relatively flat at 37.6% ( 37.6 % ) compared to 37.5% ( 37.5 % ) in 2011 .",
+      "income taxes were higher in 2011 compared to 2010 , primarily driven by higher pre-tax income .",
+      "our effective tax rate remained relatively flat at 37.5% ( 37.5 % ) in 2011 compared to 37.3% ( 37.3 % ) in 2010 .",
+      "other operating/performance and financial statistics we report key performance measures weekly to the association of american railroads ( aar ) , including carloads , average daily inventory of freight cars on our system , average train speed , and average terminal dwell time .",
+      "we provide this data on our website at www.up.com/investors/reports/index.shtml .",
+      "operating/performance statistics railroad performance measures reported to the aar , as well as other performance measures , are included in the table below : 2012 2011 2010 % (  % ) change 2012 v 2011 % (  % ) change 2011 v 2010 ."
+    ],
+    "post_text": [
+      "average train speed 2013 average train speed is calculated by dividing train miles by hours operated on our main lines between terminals .",
+      "average train speed , as reported to the association of american railroads ( aar ) , increased 4% ( 4 % ) in 2012 versus 2011 .",
+      "efficient operations and relatively mild weather conditions during the year compared favorably to 2011 , during which severe winter weather , flooding , and extreme heat and drought affected various parts of our network .",
+      "we continued operating a fluid and efficient network while handling essentially the same volume and adjusting operations to accommodate increased capital project work on our network compared to 2011 .",
+      "the extreme weather challenges in addition to increased carloadings and traffic mix changes , led to a 2% ( 2 % ) decrease in average train speed in 2011 compared to 2010 .",
+      "average terminal dwell time 2013 average terminal dwell time is the average time that a rail car spends at our terminals .",
+      "lower average terminal dwell time improves asset utilization and service .",
+      "average terminal dwell time remained flat in 2012 compared to 2011 , despite a shift in traffic mix to more manifest shipments , which require more switching at terminals .",
+      "average terminal dwell time increased 3% ( 3 % ) in 2011 compared to 2010 .",
+      "additional volume , weather challenges , track replacement programs , and a shift of traffic mix to more manifest shipments , which require additional terminal processing , all contributed to the increase .",
+      "average rail car inventory 2013 average rail car inventory is the daily average number of rail cars on our lines , including rail cars in storage .",
+      "lower average rail car inventory reduces congestion in our yards and sidings , which increases train speed , reduces average terminal dwell time , and improves rail car utilization .",
+      "despite a shift in traffic mix from coal to shale-related and automotive shipments with longer ."
+    ],
+    "table": [
+      [
+        "",
+        "2012",
+        "2011",
+        "2010",
+        "% (  % ) change 2012 v 2011",
+        "% (  % ) change 2011 v 2010"
+      ],
+      [
+        "average train speed ( miles per hour )",
+        "26.5",
+        "25.6",
+        "26.2",
+        "4 % (  % )",
+        "( 2 ) % (  % )"
+      ],
+      [
+        "average terminal dwell time ( hours )",
+        "26.2",
+        "26.2",
+        "25.4",
+        "- % (  % )",
+        "3 % (  % )"
+      ],
+      [
+        "average rail car inventory ( thousands )",
+        "269.1",
+        "272.9",
+        "274.4",
+        "( 1 ) % (  % )",
+        "( 1 ) % (  % )"
+      ],
+      [
+        "gross ton-miles ( billions )",
+        "959.3",
+        "978.2",
+        "931.4",
+        "( 2 ) % (  % )",
+        "5 % (  % )"
+      ],
+      [
+        "revenue ton-miles ( billions )",
+        "521.1",
+        "544.4",
+        "520.4",
+        "( 4 ) % (  % )",
+        "5 % (  % )"
+      ],
+      [
+        "operating ratio",
+        "67.8",
+        "70.7",
+        "70.6",
+        "( 2.9 ) pts",
+        "0.1 pts"
+      ],
+      [
+        "employees ( average )",
+        "45928",
+        "44861",
+        "42884",
+        "2 % (  % )",
+        "5 % (  % )"
+      ],
+      [
+        "customer satisfaction index",
+        "93",
+        "92",
+        "89",
+        "1 pt",
+        "3 pts"
+      ]
+    ],
+    "questions": [
+      "what is the 2011 total interest expense in billions based on the weighted-average debt level and effective interest rate?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "did jpmorgan chase outperform the kbw bank index 100.00?\\\\n",
+      "answer": "yes",
+      "answer_raw": "yes",
+      "program": "greater(298.31, 258.82)"
+    }
+  ]
+}

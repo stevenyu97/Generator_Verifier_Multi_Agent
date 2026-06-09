@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the nonrecurring losses in 2013?",
+      "answer": 19.0,
+      "answer_raw": "19.0",
+      "program": "19"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2012?",
+      "answer": 17.0,
+      "answer_raw": "17.0",
+      "program": "17"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference in this value between the two years?",
+      "answer": 2.0,
+      "answer_raw": "2.0",
+      "program": "subtract(19, 17)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the percentage change for this period?",
+      "answer": 0.11765,
+      "answer_raw": "0.11765",
+      "program": "subtract(19, 17), divide(#0, 17)"
+    }
+  ]
+}

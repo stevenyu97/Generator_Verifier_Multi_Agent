@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of total contractual obligations is expected to be paid as interest payments?",
+      "answer": 0.28458,
+      "answer_raw": "0.28458",
+      "program": "divide(3716, 13058)"
+    }
+  ]
+}

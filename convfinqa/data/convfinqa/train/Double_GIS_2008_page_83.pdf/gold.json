@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the total of net assets in 2008?",
+      "answer": 2309.9,
+      "answer_raw": "2309.9",
+      "program": "2309.9"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2007?",
+      "answer": 2303.0,
+      "answer_raw": "2303.0",
+      "program": "2303.0"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 6.9,
+      "answer_raw": "6.9",
+      "program": "subtract(2309.9, 2303.0)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and for the two years prior to 2008, what was the total recognized expense related to defined contribution plans?",
+      "answer": 110.2,
+      "answer_raw": "110.2",
+      "program": "add(61.9, 48.3)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "including 2008, what then becomes that total?",
+      "answer": 155.7,
+      "answer_raw": "155.7",
+      "program": "add(61.9, 48.3), add(#0, 45.5)"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "and what is the average total recognized expense between those three years?",
+      "answer": 51.9,
+      "answer_raw": "51.9",
+      "program": "add(61.9, 48.3), add(#0, 45.5), divide(#1, const_3)"
+    }
+  ]
+}

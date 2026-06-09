@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the increase in net revenue from non-utility nuclear is attributed to the palisades acquisition?",
+      "answer": 0.19798,
+      "answer_raw": "0.19798",
+      "program": "divide(98, 495)"
+    }
+  ]
+}

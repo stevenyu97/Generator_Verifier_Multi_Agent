@@ -1,0 +1,90 @@
+{
+  "input": {
+    "id": "PNC/2016/page_177.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "note 20 commitments in the normal course of business , we have various commitments outstanding , certain of which are not included on our consolidated balance sheet .",
+      "the following table presents our outstanding commitments to extend credit along with significant other commitments as of december 31 , 2016 and december 31 , 2015 , respectively .",
+      "table 98 : commitments to extend credit and other commitments in millions december 31 december 31 ."
+    ],
+    "post_text": [
+      "commitments to extend credit , or net unfunded loan commitments , represent arrangements to lend funds or provide liquidity subject to specified contractual conditions .",
+      "these commitments generally have fixed expiration dates , may require payment of a fee , and contain termination clauses in the event the customer 2019s credit quality deteriorates .",
+      "net outstanding standby letters of credit we issue standby letters of credit and share in the risk of standby letters of credit issued by other financial institutions , in each case to support obligations of our customers to third parties , such as insurance requirements and the facilitation of transactions involving capital markets product execution .",
+      "approximately 94% ( 94 % ) and 93% ( 93 % ) of our net outstanding standby letters of credit were rated as pass as of december 31 , 2016 and december 31 , 2015 , respectively , with the remainder rated as below pass .",
+      "an internal credit rating of pass indicates the expected risk of loss is currently low , while a rating of below pass indicates a higher degree of risk .",
+      "if the customer fails to meet its financial or performance obligation to the third party under the terms of the contract or there is a need to support a remarketing program , then upon a draw by a beneficiary , subject to the terms of the letter of credit , we would be obligated to make payment to them .",
+      "the standby letters of credit outstanding on december 31 , 2016 had terms ranging from less than 1 year to 8 years .",
+      "as of december 31 , 2016 , assets of $ 1.0 billion secured certain specifically identified standby letters of credit .",
+      "in addition , a portion of the remaining standby letters of credit issued on behalf of specific customers is also secured by collateral or guarantees that secure the customers 2019 other obligations to us .",
+      "the carrying amount of the liability for our obligations related to standby letters of credit and participations in standby letters of credit was $ .2 billion at december 31 , 2016 and is included in other liabilities on our consolidated balance sheet .",
+      "the pnc financial services group , inc .",
+      "2013 form 10-k 161 ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "december 312016",
+        "december 312015"
+      ],
+      [
+        "commitments to extend credit",
+        "",
+        ""
+      ],
+      [
+        "total commercial lending",
+        "$ 108256",
+        "$ 101252"
+      ],
+      [
+        "home equity lines of credit",
+        "17438",
+        "17268"
+      ],
+      [
+        "credit card",
+        "22095",
+        "19937"
+      ],
+      [
+        "other",
+        "4192",
+        "4032"
+      ],
+      [
+        "total commitments to extend credit",
+        "151981",
+        "142489"
+      ],
+      [
+        "net outstanding standby letters of credit ( a )",
+        "8324",
+        "8765"
+      ],
+      [
+        "reinsurance agreements ( b )",
+        "1835",
+        "2010"
+      ],
+      [
+        "standby bond purchase agreements ( c )",
+        "790",
+        "911"
+      ],
+      [
+        "other commitments ( d )",
+        "967",
+        "966"
+      ],
+      [
+        "total commitments to extend credit and other commitments",
+        "$ 163897",
+        "$ 155141"
+      ]
+    ],
+    "questions": [
+      "as of december 31 , 2016 what was the percent of the total commercial lending of the total commitments to extend credit and other commitments"
+    ]
+  }
+}

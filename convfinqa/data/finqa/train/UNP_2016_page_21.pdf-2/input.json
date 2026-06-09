@@ -1,0 +1,61 @@
+{
+  "input": {
+    "id": "UNP/2016/page_21.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "five-year performance comparison 2013 the following graph provides an indicator of cumulative total shareholder returns for the corporation as compared to the peer group index ( described above ) , the dj trans , and the s&p 500 .",
+      "the graph assumes that $ 100 was invested in the common stock of union pacific corporation and each index on december 31 , 2011 and that all dividends were reinvested .",
+      "the information below is historical in nature and is not necessarily indicative of future performance .",
+      "purchases of equity securities 2013 during 2016 , we repurchased 35686529 shares of our common stock at an average price of $ 88.36 .",
+      "the following table presents common stock repurchases during each month for the fourth quarter of 2016 : period total number of shares purchased [a] average price paid per share total number of shares purchased as part of a publicly announced plan or program [b] maximum number of shares remaining under the plan or program [b] ."
+    ],
+    "post_text": [
+      "[a] total number of shares purchased during the quarter includes approximately 74460 shares delivered or attested to upc by employees to pay stock option exercise prices , satisfy excess tax withholding obligations for stock option exercises or vesting of retention units , and pay withholding obligations for vesting of retention shares .",
+      "[b] effective january 1 , 2014 , our board of directors authorized the repurchase of up to 120 million shares of our common stock by december 31 , 2017 .",
+      "these repurchases may be made on the open market or through other transactions .",
+      "our management has sole discretion with respect to determining the timing and amount of these transactions .",
+      "on november 17 , 2016 , our board of directors approved the early renewal of the share repurchase program , authorizing the repurchase of up to 120 million shares of our common stock by december 31 , 2020 .",
+      "the new authorization was effective january 1 , 2017 , and replaces the previous authorization , which expired on december 31 , 2016. ."
+    ],
+    "table": [
+      [
+        "period",
+        "total number of shares purchased [a]",
+        "average price paid per share",
+        "total number of shares purchased as part of a publicly announcedplan or program [b]",
+        "maximum number of shares remaining under the plan or program [b]"
+      ],
+      [
+        "oct . 1 through oct . 31",
+        "3501308",
+        "$ 92.89",
+        "3452500",
+        "23769426"
+      ],
+      [
+        "nov . 1 through nov . 30",
+        "2901167",
+        "95.68",
+        "2876067",
+        "20893359"
+      ],
+      [
+        "dec . 1 through dec . 31",
+        "3296652",
+        "104.30",
+        "3296100",
+        "17597259"
+      ],
+      [
+        "total",
+        "9699127",
+        "$ 97.60",
+        "9624667",
+        "n/a"
+      ]
+    ],
+    "questions": [
+      "during 2016 what was the percent of the number of shares bought in the fourth quarter"
+    ]
+  }
+}

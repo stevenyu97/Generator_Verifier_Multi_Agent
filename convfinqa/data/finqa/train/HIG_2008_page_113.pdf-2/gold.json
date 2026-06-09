@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the net income reported in 2007 , ( in millions ) ?",
+      "answer": 2947.916,
+      "answer_raw": "2947.916",
+      "program": "multiply(316.3, 9.32)"
+    }
+  ]
+}

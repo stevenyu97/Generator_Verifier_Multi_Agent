@@ -1,0 +1,47 @@
+{
+  "input": {
+    "id": "VTR/2007/page_47.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "as of february 15 , 2008 , there were 138311810 shares of our common stock outstanding held by approximately 2979 stockholders of record .",
+      "dividends and distributions we pay regular quarterly dividends to holders of our common stock .",
+      "on february 13 , 2008 , our board of directors declared the first quarterly installment of our 2008 dividend in the amount of $ 0.5125 per share , payable on march 28 , 2008 to stockholders of record on march 6 , 2008 .",
+      "we expect to distribute 100% ( 100 % ) or more of our taxable net income to our stockholders for 2008 .",
+      "our board of directors normally makes decisions regarding the frequency and amount of our dividends on a quarterly basis .",
+      "because the board considers a number of factors when making these decisions , we cannot assure you that we will maintain the policy stated above .",
+      "please see 201ccautionary statements 201d and the risk factors included in part i , item 1a of this annual report on form 10-k for a description of other factors that may affect our distribution policy .",
+      "our stockholders may reinvest all or a portion of any cash distribution on their shares of our common stock by participating in our distribution reinvestment and stock purchase plan , subject to the terms of the plan .",
+      "see 201cnote 16 2014capital stock 201d of the notes to consolidated financial statements included in part ii , item 8 of this annual report on form 10-k .",
+      "director and employee stock sales certain of our directors , executive officers and other employees have adopted and may , from time to time in the future , adopt non-discretionary , written trading plans that comply with rule 10b5-1 under the exchange act , or otherwise monetize their equity-based compensation .",
+      "stock repurchases the table below summarizes repurchases of our common stock made during the quarter ended december 31 , 2007 : number of shares repurchased ( 1 ) average price per ."
+    ],
+    "post_text": [
+      "( 1 ) repurchases represent shares withheld to pay taxes on the vesting of restricted stock granted to employees. ."
+    ],
+    "table": [
+      [
+        "",
+        "number of shares repurchased ( 1 )",
+        "average price per share"
+      ],
+      [
+        "october 1 through october 31",
+        "2014",
+        "2014"
+      ],
+      [
+        "november 1 through november 30",
+        "2014",
+        "2014"
+      ],
+      [
+        "december 1 through december 31",
+        "14669",
+        "$ 43.89"
+      ]
+    ],
+    "questions": [
+      "what was the number of shares outstanding as of december 31 , 2007"
+    ]
+  }
+}

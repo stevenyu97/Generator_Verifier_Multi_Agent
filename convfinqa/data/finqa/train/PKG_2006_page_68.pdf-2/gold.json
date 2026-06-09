@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent of the bonuses and incentives of the total accrued liabilities",
+      "answer": 0.29694,
+      "answer_raw": "0.29694",
+      "program": "divide(29822, 100430)"
+    }
+  ]
+}

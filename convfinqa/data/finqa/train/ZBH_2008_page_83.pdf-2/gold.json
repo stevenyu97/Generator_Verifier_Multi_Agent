@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the balance increase in the two periods were from prior periods?",
+      "answer": 37.7,
+      "answer_raw": "37.7",
+      "program": "add(12.1, 27.4), add(15.8, 21.9)"
+    }
+  ]
+}

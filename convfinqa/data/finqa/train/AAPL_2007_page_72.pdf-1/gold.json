@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total other current assets in 2006 was comprised of nand flash memory prepayments?",
+      "answer": 0.09163,
+      "answer_raw": "0.09163",
+      "program": "divide(208, 2270)"
+    }
+  ]
+}

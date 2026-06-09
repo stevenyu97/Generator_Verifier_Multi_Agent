@@ -1,0 +1,73 @@
+{
+  "input": {
+    "id": "BLL/2007/page_46.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "page 30 of 94 are included in capital spending amounts .",
+      "another example is the company 2019s decision in 2007 to contribute an additional $ 44.5 million ( $ 27.3 million ) to its pension plans as part of its overall debt reduction plan .",
+      "based on this , our consolidated free cash flow is summarized as follows: ."
+    ],
+    "post_text": [
+      "based on information currently available , we estimate cash flows from operating activities for 2008 to be approximately $ 650 million , capital spending to be approximately $ 350 million and free cash flow to be in the $ 300 million range .",
+      "capital spending of $ 259.9 million ( net of $ 48.6 million in insurance recoveries ) in 2007 was below depreciation and amortization expense of $ 281 million .",
+      "we continue to invest capital in our best performing operations , including projects to increase custom can capabilities , improve beverage can and end making productivity and add more beverage can capacity in europe , as well as expenditures in the aerospace and technologies segment .",
+      "of the $ 350 million of planned capital spending for 2008 , approximately $ 180 million will be spent on top-line sales growth projects .",
+      "debt facilities and refinancing interest-bearing debt at december 31 , 2007 , decreased $ 93.1 million to $ 2358.6 million from $ 2451.7 million at december 31 , 2006 .",
+      "the 2007 debt decrease from 2006 was primarily attributed to debt payments offset by higher foreign exchange rates .",
+      "at december 31 , 2007 , $ 705 million was available under the company 2019s multi-currency revolving credit facilities .",
+      "the company also had $ 345 million of short-term uncommitted credit facilities available at the end of the year , of which $ 49.7 million was outstanding .",
+      "on october 13 , 2005 , ball refinanced its senior secured credit facilities and during the third and fourth quarters of 2005 , ball redeemed its 7.75% ( 7.75 % ) senior notes due august 2006 primarily through the drawdown of funds under the new credit facilities .",
+      "the refinancing and redemption resulted in a pretax debt refinancing charge of $ 19.3 million ( $ 12.3 million after tax ) to reflect the call premium associated with the senior notes and the write off of unamortized debt issuance costs .",
+      "the company has a receivables sales agreement that provides for the ongoing , revolving sale of a designated pool of trade accounts receivable of ball 2019s north american packaging operations , up to $ 250 million .",
+      "the agreement qualifies as off-balance sheet financing under the provisions of statement of financial accounting standards ( sfas ) no .",
+      "140 , as amended by sfas no .",
+      "156 .",
+      "net funds received from the sale of the accounts receivable totaled $ 170 million and $ 201.3 million at december 31 , 2007 and 2006 , respectively , and are reflected as a reduction of accounts receivable in the consolidated balance sheets .",
+      "the company was not in default of any loan agreement at december 31 , 2007 , and has met all payment obligations .",
+      "the u.s .",
+      "note agreements , bank credit agreement and industrial development revenue bond agreements contain certain restrictions relating to dividends , investments , financial ratios , guarantees and the incurrence of additional indebtedness .",
+      "additional details about the company 2019s receivables sales agreement and debt are available in notes 7 and 13 , respectively , accompanying the consolidated financial statements within item 8 of this report. ."
+    ],
+    "table": [
+      [
+        "( $ in millions )",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "cash flows from operating activities",
+        "$ 673.0",
+        "$ 401.4",
+        "$ 558.8"
+      ],
+      [
+        "incremental pension funding net of tax",
+        "27.3",
+        "2013",
+        "2013"
+      ],
+      [
+        "capital spending",
+        "-308.5 ( 308.5 )",
+        "-279.6 ( 279.6 )",
+        "-291.7 ( 291.7 )"
+      ],
+      [
+        "proceeds for replacement of fire-damaged assets",
+        "48.6",
+        "61.3",
+        "2013"
+      ],
+      [
+        "free cash flow",
+        "$ 440.4",
+        "$ 183.1",
+        "$ 267.1"
+      ]
+    ],
+    "questions": [
+      "how much of the 2008 planned capital spending will impact top line revenue?"
+    ]
+  }
+}

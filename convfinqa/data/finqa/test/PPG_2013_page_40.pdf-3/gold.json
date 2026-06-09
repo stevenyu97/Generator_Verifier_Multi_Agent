@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage change in research and development net from 2012 to 2013?",
+      "answer": 0.07726,
+      "answer_raw": "0.07726",
+      "program": "subtract(488, 453), divide(#0, 453)"
+    }
+  ]
+}

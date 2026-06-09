@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent change in gain on land sales from 2001 to 2002?",
+      "answer": -11.85039,
+      "answer_raw": "-11.85039",
+      "program": "subtract(4478, 5080), divide(#0, 5080), multiply(#1, const_100)"
+    }
+  ]
+}

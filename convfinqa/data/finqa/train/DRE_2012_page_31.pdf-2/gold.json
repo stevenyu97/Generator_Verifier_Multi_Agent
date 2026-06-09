@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percent increase of the interest expense allocable to continuing operations in 2012 to 2011",
+      "answer": 0.11202,
+      "answer_raw": "0.11202",
+      "program": "subtract(245.2, 220.5), divide(#0, 220.5)"
+    }
+  ]
+}

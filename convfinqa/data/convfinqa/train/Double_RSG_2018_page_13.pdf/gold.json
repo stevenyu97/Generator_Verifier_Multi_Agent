@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the approximate number of residential vehicles as of december 2008?",
+      "answer": 7000.0,
+      "answer_raw": "7000.0",
+      "program": "7000"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about large-container vehicles?",
+      "answer": 4300.0,
+      "answer_raw": "4300.0",
+      "program": "4300"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the ratio of residential to large-container?",
+      "answer": 1.62791,
+      "answer_raw": "1.62791",
+      "program": "divide(7000, 4300)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what portion of total vehicles uses natural gas?",
+      "answer": 3200.0,
+      "answer_raw": "3200.0",
+      "program": "multiply(16000, 20%)"
+    }
+  ]
+}

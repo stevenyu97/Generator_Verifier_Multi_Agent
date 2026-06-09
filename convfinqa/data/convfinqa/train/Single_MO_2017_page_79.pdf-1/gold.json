@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the sum of cases in 2017 for individual smoking and health and smoking and health class actions and aggregated claims litigation?",
+      "answer": 96.0,
+      "answer_raw": "96.0",
+      "program": "add(92, 4)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the number of cases related to health care cost recovery actions?",
+      "answer": 1.0,
+      "answer_raw": "1.0",
+      "program": "1"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is the sum of those 3 cases?",
+      "answer": 97.0,
+      "answer_raw": "97.0",
+      "program": "add(92, 4), add(#0, 1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "what are the number of 2010 lights/ultra lights 2010 class action cases?",
+      "answer": 3.0,
+      "answer_raw": "3.0",
+      "program": "3"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what is the total sum of cases?",
+      "answer": 100.0,
+      "answer_raw": "100.0",
+      "program": "add(92, 4), add(#0, 1), add(#1, 3)"
+    }
+  ]
+}

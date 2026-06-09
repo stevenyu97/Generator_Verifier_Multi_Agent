@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the interest expense from continuing operations from 2010 to 2011?",
+      "answer": 34.1,
+      "answer_raw": "34.1",
+      "program": "subtract(220.5, 186.4)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was the interest expense from continuing operations in 2010?",
+      "answer": 186.4,
+      "answer_raw": "186.4",
+      "program": "186.4"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much does that change represent in relation to this 2010 interest expense, in percentage?",
+      "answer": 0.18294,
+      "answer_raw": "0.18294",
+      "program": "subtract(220.5, 186.4), divide(#0, 186.4)"
+    }
+  ]
+}

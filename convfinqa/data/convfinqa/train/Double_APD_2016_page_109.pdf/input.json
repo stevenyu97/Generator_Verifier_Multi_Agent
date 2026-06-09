@@ -1,0 +1,67 @@
+{
+  "input": {
+    "id": "Double_APD/2016/page_109.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "we , in the normal course of business operations , have issued product warranties related to equipment sales .",
+      "also , contracts often contain standard terms and conditions which typically include a warranty and indemnification to the buyer that the goods and services purchased do not infringe on third-party intellectual property rights .",
+      "the provision for estimated future costs relating to warranties is not material to the consolidated financial statements .",
+      "we do not expect that any sum we may have to pay in connection with guarantees and warranties will have a material adverse effect on our consolidated financial condition , liquidity , or results of operations .",
+      "unconditional purchase obligations we are obligated to make future payments under unconditional purchase obligations as summarized below: ."
+    ],
+    "post_text": [
+      "approximately $ 4000 of our unconditional purchase obligations relate to helium purchases , which include crude feedstock supply to multiple helium refining plants in north america as well as refined helium purchases from sources around the world .",
+      "as a rare byproduct of natural gas production in the energy sector , these helium sourcing agreements are medium- to long-term and contain take-or-pay provisions .",
+      "the refined helium is distributed globally and sold as a merchant gas , primarily under medium-term requirements contracts .",
+      "while contract terms in the energy sector are longer than those in merchant , helium is a rare gas used in applications with few or no substitutions because of its unique physical and chemical properties .",
+      "approximately $ 330 of our long-term unconditional purchase obligations relate to feedstock supply for numerous hyco ( hydrogen , carbon monoxide , and syngas ) facilities .",
+      "the price of feedstock supply is principally related to the price of natural gas .",
+      "however , long-term take-or-pay sales contracts to hyco customers are generally matched to the term of the feedstock supply obligations and provide recovery of price increases in the feedstock supply .",
+      "due to the matching of most long-term feedstock supply obligations to customer sales contracts , we do not believe these purchase obligations would have a material effect on our financial condition or results of operations .",
+      "the unconditional purchase obligations also include other product supply and purchase commitments and electric power and natural gas supply purchase obligations , which are primarily pass-through contracts with our customers .",
+      "purchase commitments to spend approximately $ 350 for additional plant and equipment are included in the unconditional purchase obligations in 2017 .",
+      "in addition , we have purchase commitments totaling approximately $ 500 in 2017 and 2018 relating to our long-term sale of equipment project for saudi aramco 2019s jazan oil refinery .",
+      "18 .",
+      "capital stock common stock authorized common stock consists of 300 million shares with a par value of $ 1 per share .",
+      "as of 30 september 2016 , 249 million shares were issued , with 217 million outstanding .",
+      "on 15 september 2011 , the board of directors authorized the repurchase of up to $ 1000 of our outstanding common stock .",
+      "we repurchase shares pursuant to rules 10b5-1 and 10b-18 under the securities exchange act of 1934 , as amended , through repurchase agreements established with several brokers .",
+      "we did not purchase any of our outstanding shares during fiscal year 2016 .",
+      "at 30 september 2016 , $ 485.3 in share repurchase authorization remains. ."
+    ],
+    "table": [
+      [
+        "2017",
+        "$ 942"
+      ],
+      [
+        "2018",
+        "525"
+      ],
+      [
+        "2019",
+        "307"
+      ],
+      [
+        "2020",
+        "298"
+      ],
+      [
+        "2021",
+        "276"
+      ],
+      [
+        "thereafter",
+        "2983"
+      ],
+      [
+        "total",
+        "$ 5331"
+      ]
+    ],
+    "questions": [
+      "what portion of total future payments is related to helium purchaes?",
+      "what portion of issued shares is outstanding as of september 30, 2016?"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "based on the operating/performance statistics what was the average operating ratio from 2006 to 2008",
+      "answer": 238.1,
+      "answer_raw": "238.1",
+      "program": "add(77.3, 79.3), add(#0, 81.5)"
+    }
+  ]
+}

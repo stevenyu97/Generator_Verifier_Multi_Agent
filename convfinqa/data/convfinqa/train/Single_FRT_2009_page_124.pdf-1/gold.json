@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "combined, what were the additions in 2006 and 207?",
+      "answer": 197775.0,
+      "answer_raw": "197775.0",
+      "program": "add(96454, 101321)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2008?",
+      "answer": 103.698,
+      "answer_raw": "103.698",
+      "program": "103.698"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and converting this value into millions?",
+      "answer": 103698.0,
+      "answer_raw": "103698.0",
+      "program": "add(96454, 101321), multiply(const_1000, 103.698)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "now combined with the values from 2006 and 2007?",
+      "answer": 301473.0,
+      "answer_raw": "301473.0",
+      "program": "add(96454, 101321), multiply(const_1000, 103.698), add(#0, #1)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what is the average of these values?",
+      "answer": 100491.0,
+      "answer_raw": "100491.0",
+      "program": "add(96454, 101321), multiply(const_1000, 103.698), add(#0, #1), divide(#2, const_3)"
+    }
+  ]
+}

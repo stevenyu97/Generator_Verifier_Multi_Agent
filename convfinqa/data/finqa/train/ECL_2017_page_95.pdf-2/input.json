@@ -1,0 +1,98 @@
+{
+  "input": {
+    "id": "ECL/2017/page_95.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "the company 2019s 2017 reported tax rate includes $ 160.9 million of net tax benefits associated with the tax act , $ 6.2 million of net tax benefits on special gains and charges , and net tax benefits of $ 25.3 million associated with discrete tax items .",
+      "in connection with the company 2019s initial analysis of the impact of the tax act , as noted above , a provisional net discrete tax benefit of $ 160.9 million was recorded in the period ended december 31 , 2017 , which includes $ 321.0 million tax benefit for recording deferred tax assets and liabilities at the u.s .",
+      "enacted tax rate , and a net expense for the one-time transition tax of $ 160.1 million .",
+      "while the company was able to make an estimate of the impact of the reduction in the u.s .",
+      "rate on deferred tax assets and liabilities and the one-time transition tax , it may be affected by other analyses related to the tax act , as indicated above .",
+      "special ( gains ) and charges represent the tax impact of special ( gains ) and charges , as well as additional tax benefits utilized in anticipation of u.s .",
+      "tax reform of $ 7.8 million .",
+      "during 2017 , the company recorded a discrete tax benefit of $ 39.7 million related to excess tax benefits , resulting from the adoption of accounting changes regarding the treatment of tax benefits on share-based compensation .",
+      "the extent of excess tax benefits is subject to variation in stock price and stock option exercises .",
+      "in addition , the company recorded net discrete expenses of $ 14.4 million related to recognizing adjustments from filing the 2016 u.s .",
+      "federal income tax return and international adjustments due to changes in estimates , partially offset by the release of reserves for uncertain tax positions due to the expiration of statute of limitations in state tax matters .",
+      "during 2016 , the company recognized net expense related to discrete tax items of $ 3.9 million .",
+      "the net expenses were driven primarily by recognizing adjustments from filing the company 2019s 2015 u.s .",
+      "federal income tax return , partially offset by settlement of international tax matters and remeasurement of certain deferred tax assets and liabilities resulting from the application of updated tax rates in international jurisdictions .",
+      "net expense was also impacted by adjustments to deferred tax asset and liability positions and the release of reserves for uncertain tax positions due to the expiration of statute of limitations in non-u.s .",
+      "jurisdictions .",
+      "during 2015 , the company recognized net benefits related to discrete tax items of $ 63.3 million .",
+      "the net benefits were driven primarily by the release of $ 20.6 million of valuation allowances , based on the realizability of foreign deferred tax assets and the ability to recognize a worthless stock deduction of $ 39.0 million for the tax basis in a wholly-owned domestic subsidiary .",
+      "a reconciliation of the beginning and ending amount of gross liability for unrecognized tax benefits is as follows: ."
+    ],
+    "post_text": [
+      "the total amount of unrecognized tax benefits , if recognized would have affected the effective tax rate by $ 47.1 million as of december 31 , 2017 , $ 57.5 million as of december 31 , 2016 and $ 59.2 million as of december 31 , 2015 .",
+      "the company recognizes interest and penalties related to unrecognized tax benefits in its provision for income taxes .",
+      "during 2017 , 2016 and 2015 the company released $ 0.9 million , $ 2.9 million and $ 1.4 million related to interest and penalties , respectively .",
+      "the company had $ 9.3 million , $ 10.2 million and $ 13.1 million of accrued interest , including minor amounts for penalties , at december 31 , 2017 , 2016 , and 2015 , respectively. ."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "2017",
+        "2016",
+        "2015"
+      ],
+      [
+        "balance at beginning of year",
+        "$ 75.9",
+        "$ 74.6",
+        "$ 78.7"
+      ],
+      [
+        "additions based on tax positions related to the current year",
+        "3.2",
+        "8.8",
+        "5.8"
+      ],
+      [
+        "additions for tax positions of prior years",
+        "-",
+        "2.1",
+        "0.9"
+      ],
+      [
+        "reductions for tax positions of prior years",
+        "-4.9 ( 4.9 )",
+        "-1.0 ( 1.0 )",
+        "-8.8 ( 8.8 )"
+      ],
+      [
+        "reductions for tax positions due to statute of limitations",
+        "-14.0 ( 14.0 )",
+        "-5.5 ( 5.5 )",
+        "-1.6 ( 1.6 )"
+      ],
+      [
+        "settlements",
+        "-10.8 ( 10.8 )",
+        "-2.0 ( 2.0 )",
+        "-4.2 ( 4.2 )"
+      ],
+      [
+        "assumed in connection with acquisitions",
+        "10.0",
+        "-",
+        "8.0"
+      ],
+      [
+        "foreign currency translation",
+        "2.1",
+        "-1.1 ( 1.1 )",
+        "-4.2 ( 4.2 )"
+      ],
+      [
+        "balance at end of year",
+        "$ 61.5",
+        "$ 75.9",
+        "$ 74.6"
+      ]
+    ],
+    "questions": [
+      "what percentage of the ending balance in unrecognized tax benefits relates to unrecognized tax benefits that would have affected the effective tax rate as of december 31 , 2017?"
+    ]
+  }
+}

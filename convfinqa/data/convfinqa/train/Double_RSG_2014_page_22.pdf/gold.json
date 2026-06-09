@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as of december 31, 2014, what percentage did the residential vehicles represent in relation to the total fleet?",
+      "answer": 0.48101,
+      "answer_raw": "0.48101",
+      "program": "divide(7600, 15800)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much did they represent in relation to the commercial number of vehicles?",
+      "answer": 1.76744,
+      "answer_raw": "1.76744",
+      "program": "divide(7600, 4300)"
+    }
+  ]
+}

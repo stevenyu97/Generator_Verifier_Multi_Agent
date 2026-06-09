@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average expected annual dividend yield , in percent?",
+      "answer": 0.014,
+      "answer_raw": "0.014",
+      "program": "table_average(expected annual dividend yield, none)"
+    }
+  ]
+}

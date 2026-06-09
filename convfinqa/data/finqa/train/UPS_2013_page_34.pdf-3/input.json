@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "UPS/2013/page_34.pdf-3",
+    "dataset": "finqa",
+    "pre_text": [
+      "shareowner return performance graph the following performance graph and related information shall not be deemed 201csoliciting material 201d or to be 201cfiled 201d with the sec , nor shall such information be incorporated by reference into any future filing under the securities act of 1933 or securities exchange act of 1934 , each as amended , except to the extent that the company specifically incorporates such information by reference into such filing .",
+      "the following graph shows a five year comparison of cumulative total shareowners 2019 returns for our class b common stock , the standard & poor 2019s 500 index , and the dow jones transportation average .",
+      "the comparison of the total cumulative return on investment , which is the change in the quarterly stock price plus reinvested dividends for each of the quarterly periods , assumes that $ 100 was invested on december 31 , 2008 in the standard & poor 2019s 500 index , the dow jones transportation average , and our class b common stock. ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "12/31/2008",
+        "12/31/2009",
+        "12/31/2010",
+        "12/31/2011",
+        "12/31/2012",
+        "12/31/2013"
+      ],
+      [
+        "united parcel service inc .",
+        "$ 100.00",
+        "$ 107.75",
+        "$ 140.39",
+        "$ 145.84",
+        "$ 151.44",
+        "$ 221.91"
+      ],
+      [
+        "standard & poor 2019s 500 index",
+        "$ 100.00",
+        "$ 126.45",
+        "$ 145.49",
+        "$ 148.55",
+        "$ 172.30",
+        "$ 228.09"
+      ],
+      [
+        "dow jones transportation average",
+        "$ 100.00",
+        "$ 118.59",
+        "$ 150.30",
+        "$ 150.31",
+        "$ 161.56",
+        "$ 228.42"
+      ]
+    ],
+    "questions": [
+      "what is the difference in performance for the five years ended 12/21/2013 between united parcel service inc . and the standard & poor's 500 index?"
+    ]
+  }
+}

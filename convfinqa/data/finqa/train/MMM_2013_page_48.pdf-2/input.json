@@ -1,0 +1,68 @@
+{
+  "input": {
+    "id": "MMM/2013/page_48.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "commodity prices risk : certain commodities the company uses in the production of its products are exposed to market price risks .",
+      "3m manages commodity price risks through negotiated supply contracts , price protection agreements and forward physical contracts .",
+      "the company uses commodity price swaps relative to natural gas as cash flow hedges of forecasted transactions to manage price volatility .",
+      "generally , the length of time over which 3m hedges its exposure to the variability in future cash flows for its forecasted natural gas transactions is 12 months .",
+      "3m also enters into commodity price swaps that are not designated in hedge relationships to offset , in part , the impacts of fluctuations in costs associated with the use of certain precious metals .",
+      "the dollar equivalent gross notional amount of the company 2019s natural gas commodity price swaps designated as cash flow hedges and precious metal commodity price swaps not designated in hedge relationships were $ 19 million and $ 2 million , respectively , at december 31 , 2013 .",
+      "value at risk : the value at risk analysis is performed annually .",
+      "a monte carlo simulation technique was used to test the company 2019s exposure to changes in currency rates , interest rates , and commodity prices and assess the risk of loss or benefit in after- tax earnings of financial instruments ( primarily debt ) , derivatives and underlying exposures outstanding at december 31 , 2013 .",
+      "the model ( third-party bank dataset ) used a 95 percent confidence level over a 12-month time horizon .",
+      "the exposure to changes in currency rates model used 18 currencies , interest rates related to four currencies , and commodity prices related to five commodities .",
+      "this model does not purport to represent what actually will be experienced by the company .",
+      "this model does not include certain hedge transactions , because the company believes their inclusion would not materially impact the results .",
+      "foreign exchange rate risk of loss or benefit increased in 2013 , primarily due to increases in exposures , which is one of the key drivers in the valuation model .",
+      "interest rate volatility remained stable in 2013 because interest rates are currently very low and are projected to remain low , based on forward rates .",
+      "the following table summarizes the possible adverse and positive impacts to after-tax earnings related to these exposures .",
+      "adverse impact on after-tax earnings positive impact on after-tax earnings ."
+    ],
+    "post_text": [
+      "in addition to the possible adverse and positive impacts discussed in the preceding table related to foreign exchange rates , recent historical information is as follows .",
+      "3m estimates that year-on-year currency effects , including hedging impacts , had the following effects on net income attributable to 3m : 2013 ( $ 74 million decrease ) and 2012 ( $ 103 million decrease ) .",
+      "this estimate includes the effect of translating profits from local currencies into u.s .",
+      "dollars ; the impact of currency fluctuations on the transfer of goods between 3m operations in the united states and abroad ; and transaction gains and losses , including derivative instruments designed to reduce foreign currency exchange rate risks and the negative impact of swapping venezuelan bolivars into u.s .",
+      "dollars .",
+      "3m estimates that year-on-year derivative and other transaction gains and losses had the following effects on net income attributable to 3m : 2013 ( $ 12 million decrease ) and 2012 ( $ 49 million increase ) .",
+      "an analysis of the global exposures related to purchased components and materials is performed at each year-end .",
+      "a one percent price change would result in a pre-tax cost or savings of approximately $ 76 million per year .",
+      "the global energy exposure is such that a 10 percent price change would result in a pre-tax cost or savings of approximately $ 45 million per ."
+    ],
+    "table": [
+      [
+        "( millions )",
+        "adverse impact on after-tax earnings 2013",
+        "adverse impact on after-tax earnings 2012",
+        "adverse impact on after-tax earnings 2013",
+        "2012"
+      ],
+      [
+        "foreign exchange rates",
+        "$ -111 ( 111 )",
+        "$ -97 ( 97 )",
+        "$ 119",
+        "$ 105"
+      ],
+      [
+        "interest rates",
+        "-2 ( 2 )",
+        "-2 ( 2 )",
+        "1",
+        "1"
+      ],
+      [
+        "commodity prices",
+        "-2 ( 2 )",
+        "-9 ( 9 )",
+        "3",
+        "7"
+      ]
+    ],
+    "questions": [
+      "\\\\nwhat was ratio of the estimates of the year-on-year derivative and other transaction gains and losses 2012 to 2013"
+    ]
+  }
+}

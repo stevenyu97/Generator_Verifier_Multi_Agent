@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the annual compensation expense for the remaining unvested performance retention awards?",
+      "answer": 16923076.92308,
+      "answer_raw": "16923076.92308",
+      "program": "multiply(22, const_1000000), divide(#0, 1.3)"
+    }
+  ]
+}

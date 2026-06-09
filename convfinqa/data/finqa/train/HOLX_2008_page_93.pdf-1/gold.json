@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total number of issued securities is approved by security holders?",
+      "answer": 0.96346,
+      "answer_raw": "0.96346",
+      "program": "divide(15370814, 15953695)"
+    }
+  ]
+}

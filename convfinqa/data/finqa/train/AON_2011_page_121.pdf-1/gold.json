@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the ratio of the shares in connection with the 2008 leadership performance plan ( 2018 2018lpp 2019 2019 ) cycle to the 2006 performance plan issued in 2011",
+      "answer": 4.0,
+      "answer_raw": "4.0",
+      "program": "divide(1.2, 0.3)"
+    }
+  ]
+}

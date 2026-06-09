@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the ratio of the insurance recovery to the incremental cost related to our closed bridgeton landfill",
+      "answer": 3.33333,
+      "answer_raw": "3.33333",
+      "program": "divide(40.0, 12.0)"
+    }
+  ]
+}

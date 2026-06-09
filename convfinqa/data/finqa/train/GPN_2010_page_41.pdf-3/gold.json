@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage growth in net cash provided by operating activities from 2009 to 2010?",
+      "answer": 0.21619,
+      "answer_raw": "0.21619",
+      "program": "subtract(465.8, 82.8), divide(82.8, #0)"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "input": {
+    "id": "Single_UA/2015/page_42.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "other expense , net increased $ 0.8 million to $ 7.2 million in 2015 from $ 6.4 million in 2014 .",
+      "this increase was due to higher net losses on the combined foreign currency exchange rate changes on transactions denominated in foreign currencies and our foreign currency derivative financial instruments in 2015 .",
+      "provision for income taxes increased $ 19.9 million to $ 154.1 million in 2015 from $ 134.2 million in 2014 .",
+      "our effective tax rate was 39.9% ( 39.9 % ) in 2015 compared to 39.2% ( 39.2 % ) in 2014 .",
+      "our effective tax rate for 2015 was higher than the effective tax rate for 2014 primarily due to increased non-deductible costs incurred in connection with our connected fitness acquisitions in 2015 .",
+      "year ended december 31 , 2014 compared to year ended december 31 , 2013 net revenues increased $ 752.3 million , or 32.3% ( 32.3 % ) , to $ 3084.4 million in 2014 from $ 2332.1 million in 2013 .",
+      "net revenues by product category are summarized below: ."
+    ],
+    "post_text": [
+      "the increase in net sales were driven primarily by : 2022 apparel unit sales growth and new offerings in multiple lines led by training , hunt and golf ; and 2022 footwear unit sales growth , led by running and basketball .",
+      "license revenues increased $ 13.3 million , or 24.7% ( 24.7 % ) , to $ 67.2 million in 2014 from $ 53.9 million in 2013 .",
+      "this increase in license revenues was primarily a result of increased distribution and continued unit volume growth by our licensees .",
+      "connected fitness revenue increased $ 18.1 million to $ 19.2 million in 2014 from $ 1.1 million in 2013 primarily due to a full year of revenue from our connected fitness business in 2014 compared to one month in gross profit increased $ 375.5 million to $ 1512.2 million in 2014 from $ 1136.7 million in 2013 .",
+      "gross profit as a percentage of net revenues , or gross margin , increased 30 basis points to 49.0% ( 49.0 % ) in 2014 compared to 48.7% ( 48.7 % ) in 2013 .",
+      "the increase in gross margin percentage was primarily driven by the following : 2022 approximate 20 basis point increase driven primarily by decreased sales mix of excess inventory through our factory house outlet stores ; and 2022 approximate 20 basis point increase as a result of higher duty costs recorded during the prior year on certain products imported in previous years .",
+      "the above increases were partially offset by : 2022 approximate 10 basis point decrease by unfavorable foreign currency exchange rate fluctuations. ."
+    ],
+    "table": [
+      [
+        "( in thousands )",
+        "year ended december 31 , 2014",
+        "year ended december 31 , 2013",
+        "year ended december 31 , $ change",
+        "year ended december 31 , % (  % ) change"
+      ],
+      [
+        "apparel",
+        "$ 2291520",
+        "$ 1762150",
+        "$ 529370",
+        "30.0% ( 30.0 % )"
+      ],
+      [
+        "footwear",
+        "430987",
+        "298825",
+        "132162",
+        "44.2"
+      ],
+      [
+        "accessories",
+        "275409",
+        "216098",
+        "59311",
+        "27.4"
+      ],
+      [
+        "total net sales",
+        "2997916",
+        "2277073",
+        "720843",
+        "31.7"
+      ],
+      [
+        "license revenues",
+        "67229",
+        "53910",
+        "13319",
+        "24.7"
+      ],
+      [
+        "connected fitness",
+        "19225",
+        "1068",
+        "18157",
+        "1700.1"
+      ],
+      [
+        "total net revenues",
+        "$ 3084370",
+        "$ 2332051",
+        "$ 752319",
+        "32.3% ( 32.3 % )"
+      ]
+    ],
+    "questions": [
+      "what was the net change in the value of sales revenues of apparel from 2013 to 2014?",
+      "what is that divided by the 2013 value?"
+    ]
+  }
+}

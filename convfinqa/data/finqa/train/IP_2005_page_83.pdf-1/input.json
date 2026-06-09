@@ -1,0 +1,85 @@
+{
+  "input": {
+    "id": "IP/2005/page_83.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "at december 31 , 2005 , estimated total future post- retirement benefit payments , net of participant con- tributions and estimated future medicare part d subsidy receipts are as follows : in millions benefit payments subsidy receipts ."
+    ],
+    "post_text": [
+      "non-u.s .",
+      "postretirement benefits in addition to the u.s .",
+      "plan , certain canadian and brazilian employees are eligible for retiree health care and life insurance .",
+      "net postretirement benefit cost for our non-u.s .",
+      "plans was $ 3 million for 2005 and $ 2 mil- lion for 2004 .",
+      "the benefit obligation for these plans was $ 21 million in 2005 and $ 20 million in 2004 .",
+      "note 17 incentive plans international paper currently has a long-term in- centive compensation plan ( lticp ) that includes a stock option program , a restricted performance share program and a continuity award program , ad- ministered by a committee of nonemployee members of the board of directors ( committee ) who are not eligible for awards .",
+      "also , stock appreciation rights ( sar 2019s ) have been awarded to employees of a non-u.s .",
+      "subsidiary , with 5135 and 5435 rights outstanding at de- cember 31 , 2005 and 2004 , respectively .",
+      "we also have other performance-based restricted share/unit programs available to senior executives and directors .",
+      "international paper applies the provisions of apb opinion no .",
+      "25 , 201caccounting for stock issued to employees , 201d and related interpretations and the dis- closure provisions of sfas no .",
+      "123 , 201caccounting for stock-based compensation , 201d in accounting for our plans .",
+      "sfas no .",
+      "123 ( r ) will be adopted effective jan- uary 1 , 2006 .",
+      "as no unvested stock options were out- standing at this date , the company believes that the adoption will not have a material impact on its con- solidated financial statements .",
+      "stock option program international paper accounts for stock options using the intrinsic value method under apb opinion no .",
+      "25 .",
+      "under this method , compensation expense is recorded over the related service period when the market price exceeds the option price at the measurement date , which is the grant date for international paper 2019s options .",
+      "no compensation expense is recorded as options are is- sued with an exercise price equal to the market price of international paper stock on the grant date .",
+      "during each reporting period , fully diluted earnings per share is calculated by assuming that 201cin-the-money 201d options are exercised and the exercise proceeds are used to repurchase shares in the marketplace .",
+      "when options are actually exercised , option proceeds are credited to equity and issued shares are included in the computation of earnings per common share , with no effect on re- ported earnings .",
+      "equity is also increased by the tax benefit that international paper will receive in its tax return for income reported by the optionees in their in- dividual tax returns .",
+      "under the program , officers and certain other em- ployees may be granted options to purchase interna- tional paper common stock .",
+      "the option price is the market price of the stock on the close of business on the day prior to the date of grant .",
+      "options must be vested before they can be exercised .",
+      "upon exercise of an op- tion , a replacement option may be granted under certain circumstances with an exercise price equal to the market price at the time of exercise and with a term extending to the expiration date of the original option .",
+      "the company discontinued its stock option pro- gram in 2004 for members of executive management , and in 2005 for all other eligible u.s .",
+      "and non-u.s .",
+      "employees .",
+      "in the united states , the stock option pro- gram was replaced with a performance-based restricted share program for approximately 1250 employees to more closely tie long-term incentive compensation to company performance on two key performance drivers : return on investment ( roi ) and total shareholder re- turn ( tsr ) .",
+      "as part of this shift in focus away from stock options to performance-based restricted stock , the company accelerated the vesting of all 14 million un- vested stock options to july 12 , 2005 .",
+      "the company also considered the benefit to employees and the income statement impact in making its decision to accelerate the vesting of these options .",
+      "based on the market value of the company 2019s common stock on july 12 , 2005 , the exercise prices of all such stock options were above the market value and , accordingly , the company recorded no expense as a result of this action. ."
+    ],
+    "table": [
+      [
+        "in millions",
+        "benefitpayments",
+        "subsidy receipts"
+      ],
+      [
+        "2006",
+        "$ 87",
+        "$ -13 ( 13 )"
+      ],
+      [
+        "2007",
+        "86",
+        "-14 ( 14 )"
+      ],
+      [
+        "2008",
+        "83",
+        "-15 ( 15 )"
+      ],
+      [
+        "2009",
+        "81",
+        "-16 ( 16 )"
+      ],
+      [
+        "2010",
+        "79",
+        "-17 ( 17 )"
+      ],
+      [
+        "2011 2013 2015",
+        "352",
+        "-90 ( 90 )"
+      ]
+    ],
+    "questions": [
+      "in 2006 what was the ratio of the benefit payments to the subsidy receipts"
+    ]
+  }
+}

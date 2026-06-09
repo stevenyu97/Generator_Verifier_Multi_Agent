@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the gen-probe's purchase price is paid in cash?",
+      "answer": 0.99891,
+      "answer_raw": "0.99891",
+      "program": "divide(3967866, 3972176)"
+    }
+  ]
+}

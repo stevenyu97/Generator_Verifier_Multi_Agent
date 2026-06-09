@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net revenue in 2010?",
+      "answer": 540.2,
+      "answer_raw": "540.2",
+      "program": "540.2"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2009?",
+      "answer": 485.1,
+      "answer_raw": "485.1",
+      "program": "485.1"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change over the year?",
+      "answer": 55.1,
+      "answer_raw": "55.1",
+      "program": "subtract(540.2, 485.1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what percentage does this change represent in relation to that 2009 net revenue?",
+      "answer": 0.11358,
+      "answer_raw": "0.11358",
+      "program": "subtract(540.2, 485.1), divide(#0, 485.1)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "and from that change over the year, what percentage of it is due to the net wholesale revenue?",
+      "answer": 0.50272,
+      "answer_raw": "0.50272",
+      "program": "subtract(540.2, 485.1), divide(27.7, #0)"
+    }
+  ]
+}

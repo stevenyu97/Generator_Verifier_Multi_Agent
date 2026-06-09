@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the allowances at the beginning of the year in 2005?",
+      "answer": 462.0,
+      "answer_raw": "462.0",
+      "program": "462"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and in 2004?",
+      "answer": 607.0,
+      "answer_raw": "607.0",
+      "program": "607"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what is the difference in this value between the two years?",
+      "answer": -145.0,
+      "answer_raw": "-145.0",
+      "program": "subtract(462, 607)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the amount in 2004 again?",
+      "answer": 607.0,
+      "answer_raw": "607.0",
+      "program": "607"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage change?",
+      "answer": -0.23888,
+      "answer_raw": "-0.23888",
+      "program": "subtract(462, 607), divide(#0, 607)"
+    }
+  ]
+}

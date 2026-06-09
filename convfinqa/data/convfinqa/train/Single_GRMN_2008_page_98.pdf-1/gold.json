@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the expected volatility in 2007 divided by that in 2008?",
+      "answer": 1.04569,
+      "answer_raw": "1.04569",
+      "program": "divide(0.3845, 0.3677)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is that value minus 1?",
+      "answer": 0.04569,
+      "answer_raw": "0.04569",
+      "program": "divide(0.3845, 0.3677), subtract(#0, const_1)"
+    }
+  ]
+}

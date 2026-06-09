@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "HIG/2004/page_67.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "income was due primarily to the adoption of statement of position 03-1 , 201caccounting and reporting by insurance enterprises for certain nontraditional long-duration contracts and for separate accounts 201d ( 201csop 03-1 201d ) , which resulted in $ 1.6 billion of net investment income .",
+      "2003 compared to 2002 2014 revenues for the year ended december 31 , 2003 increased $ 2.3 billion over the comparable 2002 period .",
+      "revenues increased due to earned premium growth within the business insurance , specialty commercial and personal lines segments , primarily as a result of earned pricing increases , higher earned premiums and net investment income in the retail products segment and net realized capital gains in 2003 as compared to net realized capital losses in 2002 .",
+      "total benefits , claims and expenses increased $ 3.9 billion for the year ended december 31 , 2003 over the comparable prior year period primarily due to the company 2019s $ 2.6 billion asbestos reserve strengthening during the first quarter of 2003 and due to increases in the retail products segment associated with the growth in the individual annuity and institutional investments businesses .",
+      "the net loss for the year ended december 31 , 2003 was primarily due to the company 2019s first quarter 2003 asbestos reserve strengthening of $ 1.7 billion , after-tax .",
+      "included in net loss for the year ended december 31 , 2003 are $ 40 of after-tax expense related to the settlement of litigation with bancorp services , llc ( 201cbancorp 201d ) and $ 27 of severance charges , after-tax , in property & casualty .",
+      "included in net income for the year ended december 31 , 2002 are the $ 8 after-tax benefit recognized by hartford life , inc .",
+      "( 201chli 201d ) related to the reduction of hli 2019s reserves associated with september 11 and $ 11 of after-tax expense related to litigation with bancorp .",
+      "net realized capital gains and losses see 201cinvestment results 201d in the investments section .",
+      "income taxes the effective tax rate for 2004 , 2003 and 2002 was 15% ( 15 % ) , 83% ( 83 % ) and 6% ( 6 % ) , respectively .",
+      "the principal causes of the difference between the effective rates and the u.s .",
+      "statutory rate of 35% ( 35 % ) were tax-exempt interest earned on invested assets , the dividends-received deduction , the tax benefit associated with the settlement of the 1998-2001 irs audit in 2004 and the tax benefit associated with the settlement of the 1996-1997 irs audit in 2002 .",
+      "income taxes paid ( received ) in 2004 , 2003 and 2002 were $ 32 , ( $ 107 ) and ( $ 102 ) respectively .",
+      "for additional information , see note 13 of notes to consolidated financial statements .",
+      "per common share the following table represents earnings per common share data for the past three years: ."
+    ],
+    "post_text": [
+      "[1] as a result of the net loss for the year ended december 31 , 2003 , sfas no .",
+      "128 , 201cearnings per share 201d , requires the company to use basic weighted average common shares outstanding in the calculation of the year ended december 31 , 2003 diluted earnings ( loss ) per share , since the inclusion of options of 1.8 would have been antidilutive to the earnings per share calculation .",
+      "in the absence of the net loss , weighted average common shares outstanding and dilutive potential common shares would have totaled 274.2 .",
+      "executive overview the company provides investment and retirement products such as variable and fixed annuities , mutual funds and retirement plan services and other institutional products ; individual and corporate owned life insurance ; and , group benefit products , such as group life and group disability insurance .",
+      "the company derives its revenues principally from : ( a ) fee income , including asset management fees , on separate account and mutual fund assets and mortality and expense fees , as well as cost of insurance charges ; ( b ) net investment income on general account assets ; ( c ) fully insured premiums ; and ( d ) certain other fees .",
+      "asset management fees and mortality and expense fees are primarily generated from separate account assets , which are deposited with the company through the sale of variable annuity and variable universal life products and from mutual funds .",
+      "cost of insurance charges are assessed on the net amount at risk for investment-oriented life insurance products .",
+      "premium revenues are derived primarily from the sale of group life , and group disability and individual term insurance products .",
+      "the company 2019s expenses essentially consist of interest credited to policyholders on general account liabilities , insurance benefits provided , amortization of the deferred policy acquisition costs , expenses related to the selling and servicing the various products offered by the company , dividends to policyholders , and other general business expenses. ."
+    ],
+    "table": [
+      [
+        "",
+        "2004",
+        "2003",
+        "2002"
+      ],
+      [
+        "basic earnings ( loss ) per share",
+        "$ 7.24",
+        "$ -0.33 ( 0.33 )",
+        "$ 4.01"
+      ],
+      [
+        "diluted earnings ( loss ) per share [1]",
+        "$ 7.12",
+        "$ -0.33 ( 0.33 )",
+        "$ 3.97"
+      ],
+      [
+        "weighted average common shares outstanding ( basic )",
+        "292.3",
+        "272.4",
+        "249.4"
+      ],
+      [
+        "weighted average common shares outstanding and dilutivepotential common shares ( diluted ) [1]",
+        "297.0",
+        "272.4",
+        "251.8"
+      ]
+    ],
+    "questions": [
+      "what is the net income reported in 2004 , ( in millions ) ?"
+    ]
+  }
+}

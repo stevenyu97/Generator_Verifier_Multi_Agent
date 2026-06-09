@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of total revenues net of interest expense was non-interest revenue in 2009?",
+      "answer": 0.28532,
+      "answer_raw": "0.28532",
+      "program": "divide(5473, 19182)"
+    }
+  ]
+}

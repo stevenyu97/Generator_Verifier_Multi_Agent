@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the increased rent after five years?",
+      "answer": 58.0,
+      "answer_raw": "58.0",
+      "program": "58"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and the base rental during the first five years?",
+      "answer": 51.0,
+      "answer_raw": "51.0",
+      "program": "51"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "so what was the difference between these two values?",
+      "answer": 7.0,
+      "answer_raw": "7.0",
+      "program": "subtract(58, 51)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the growth rate of this value?",
+      "answer": 0.13725,
+      "answer_raw": "0.13725",
+      "program": "subtract(58, 51), divide(#0, 51)"
+    }
+  ]
+}

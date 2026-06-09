@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the net change in citigroup from 2007 to 2008?",
+      "answer": -51.65,
+      "answer_raw": "-51.65",
+      "program": "subtract(18.71, 70.36)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what is the percent change?",
+      "answer": -0.73408,
+      "answer_raw": "-0.73408",
+      "program": "subtract(18.71, 70.36), divide(#0, 70.36)"
+    }
+  ]
+}

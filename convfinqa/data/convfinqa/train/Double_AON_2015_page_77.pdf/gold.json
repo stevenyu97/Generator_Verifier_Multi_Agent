@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the balance of uncertain tax positions in the end of 2015?",
+      "answer": 218.0,
+      "answer_raw": "218.0",
+      "program": "218"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in the beginning of the year?",
+      "answer": 191.0,
+      "answer_raw": "191.0",
+      "program": "191"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change throughout the year?",
+      "answer": 27.0,
+      "answer_raw": "27.0",
+      "program": "subtract(218, 191)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in that same year, what was the number of shares repurchased?",
+      "answer": 25.8,
+      "answer_raw": "25.8",
+      "program": "25.8"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what was in 2014?",
+      "answer": 16.0,
+      "answer_raw": "16.0",
+      "program": "16.0"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "how much, then, did the 2015 number represent in relation to this 2014 one?",
+      "answer": 1.6125,
+      "answer_raw": "1.6125",
+      "program": "divide(25.8, 16.0)"
+    }
+  ]
+}

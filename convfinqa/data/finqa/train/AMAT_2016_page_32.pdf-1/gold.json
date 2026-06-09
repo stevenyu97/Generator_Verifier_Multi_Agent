@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total return if 1000000 is invested in applied materials in 2011 and sold in 2012?",
+      "answer": -130700.0,
+      "answer_raw": "-130700.0",
+      "program": "subtract(86.93, const_100), divide(1000000, const_100), multiply(#1, #0)"
+    }
+  ]
+}

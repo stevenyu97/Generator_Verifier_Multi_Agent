@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the cash dividend per share in the last quarter of 2002?",
+      "answer": 0.455,
+      "answer_raw": "0.455",
+      "program": ".455"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in the first quarter?",
+      "answer": 0.45,
+      "answer_raw": "0.45",
+      "program": ".450"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was, then, the change in that cash dividend throughout 2002?",
+      "answer": 0.005,
+      "answer_raw": "0.005",
+      "program": "subtract(.455, .450)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this change represent in relation in relation to that cash dividend in the first quarter?",
+      "answer": 0.01111,
+      "answer_raw": "0.01111",
+      "program": "subtract(.455, .450), divide(#0, .450)"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "how much is that in percentage?",
+      "answer": 1.11111,
+      "answer_raw": "1.11111",
+      "program": "subtract(.455, .450), divide(#0, .450), multiply(#1, const_100)"
+    }
+  ]
+}

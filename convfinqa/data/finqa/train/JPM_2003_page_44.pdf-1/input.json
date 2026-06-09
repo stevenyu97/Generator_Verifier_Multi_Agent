@@ -1,0 +1,104 @@
+{
+  "input": {
+    "id": "JPM/2003/page_44.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "business-related metrics as of or for the year ended december 31 ."
+    ],
+    "post_text": [
+      "crb is the no .",
+      "1 bank in the new york tri-state area and a top five bank in texas ( both ranked by retail deposits ) , providing payment , liquidity , investment , insurance and credit products and services to three primary customer segments : small busi- ness , affluent and retail .",
+      "within these segments , crb serves 326000 small businesses , 433000 affluent consumers and 2.6 million mass-market consumers .",
+      "crb 2019s continued focus on expanding customer relationships resulted in a 14% ( 14 % ) increase in core deposits ( for this purpose , core deposits are total deposits less time deposits ) from december 31 , 2002 , and a 77% ( 77 % ) increase in the cross-sell of chase credit products over 2002 .",
+      "in 2003 , mortgage and home equity originations through crb 2019s distribution channels were $ 3.4 billion and $ 4.7 billion , respectively .",
+      "branch-originated credit cards totaled 77000 , contributing to 23% ( 23 % ) of crb customers holding chase credit cards .",
+      "crb is compensated by cfs 2019s credit businesses for the home finance and credit card loans it origi- nates and does not retain these balances .",
+      "chase regional banking while crb continues to position itself for growth , decreased deposit spreads related to the low-rate environment and increased credit costs resulted in an 80% ( 80 % ) decline in crb operating earnings from 2002 .",
+      "this decrease was partly offset by an 8% ( 8 % ) increase in total average deposits .",
+      "operating revenue of $ 2.6 billion decreased by 9% ( 9 % ) compared with 2002 .",
+      "net interest income declined by 11% ( 11 % ) to $ 1.7 billion , primarily attributable to the lower interest rate environment .",
+      "noninterest revenue decreased 6% ( 6 % ) to $ 927 million due to lower deposit service fees , decreased debit card fees and one-time gains in 2002 .",
+      "crb 2019s revenue does not include funding profits earned on its deposit base ; these amounts are included in the results of global treasury .",
+      "operating expense of $ 2.4 billion increased by 7% ( 7 % ) from 2002 .",
+      "the increase was primarily due to investments in technology within the branch network ; also contributing were higher compensation expenses related to increased staff levels and higher severance costs as a result of continued restructuring .",
+      "this increase in operating caf is the largest u.s .",
+      "bank originator of automobile loans and leases , with more than 2.9 million accounts .",
+      "in 2003 , caf had a record number of automobile loan and lease originations , growing by 10% ( 10 % ) over 2002 to $ 27.8 billion .",
+      "loan and lease receivables of $ 43.2 billion at december 31 , 2003 , were 16% ( 16 % ) higher than at the prior year-end .",
+      "despite a challenging operating environment reflecting slightly declining new car sales in 2003 and increased competition , caf 2019s market share among automobile finance companies improved to 6.1% ( 6.1 % ) in 2003 from 5.7% ( 5.7 % ) in 2002 .",
+      "the increase in market share was the result of strong organic growth and an origination strategy that allies the business with manufac- turers and dealers .",
+      "caf 2019s relationships with several major car manufacturers contributed to 2003 growth , as did caf 2019s dealer relationships , which increased from approximately 12700 dealers in 2002 to approximately 13700 dealers in 2003 .",
+      "in 2003 , operating earnings were $ 205 million , 23% ( 23 % ) higher compared with 2002 .",
+      "the increase in earnings was driven by continued revenue growth and improved operating efficiency .",
+      "in 2003 , caf 2019s operating revenue grew by 23% ( 23 % ) to $ 842 million .",
+      "net interest income grew by 33% ( 33 % ) compared with 2002 .",
+      "the increase was driven by strong operating performance due to higher average loans and leases outstanding , reflecting continued strong origination volume and lower funding costs .",
+      "operating expense of $ 292 million increased by 18% ( 18 % ) compared with 2002 .",
+      "the increase in expenses was driven by higher average chase auto finance loans outstanding , higher origination volume and higher perform- ance-based incentives .",
+      "caf 2019s overhead ratio improved from 36% ( 36 % ) in 2002 to 35% ( 35 % ) in 2003 , as a result of strong revenue growth , con- tinued productivity gains and disciplined expense management .",
+      "credit costs increased 18% ( 18 % ) to $ 205 million , primarily reflecting a 32% ( 32 % ) increase in average loan and lease receivables .",
+      "credit quality continued to be strong relative to 2002 , as evidenced by a lower net charge-off ratio and 30+ day delinquency rate .",
+      "caf also comprises chase education finance , a top provider of government-guaranteed and private loans for higher education .",
+      "loans are provided through a joint venture with sallie mae , a government-sponsored enterprise and the leader in funding and servicing education loans .",
+      "chase education finance 2019s origination volume totaled $ 2.7 billion , an increase of 4% ( 4 % ) from last year .",
+      "management 2019s discussion and analysis j.p .",
+      "morgan chase & co .",
+      "42 j.p .",
+      "morgan chase & co .",
+      "/ 2003 annual report ."
+    ],
+    "table": [
+      [
+        "( in billions except ratios )",
+        "2003",
+        "2002",
+        "change"
+      ],
+      [
+        "loan and lease receivables",
+        "$ 43.2",
+        "$ 37.4",
+        "16% ( 16 % )"
+      ],
+      [
+        "average loan and lease receivables",
+        "41.7",
+        "31.7",
+        "32"
+      ],
+      [
+        "automobile origination volume",
+        "27.8",
+        "25.3",
+        "10"
+      ],
+      [
+        "automobile market share",
+        "6.1% ( 6.1 % )",
+        "5.7% ( 5.7 % )",
+        "40bp"
+      ],
+      [
+        "30+ day delinquency rate",
+        "1.46",
+        "1.54",
+        "-8 ( 8 )"
+      ],
+      [
+        "net charge-off ratio",
+        "0.41",
+        "0.51",
+        "-10 ( 10 )"
+      ],
+      [
+        "overhead ratio",
+        "35",
+        "36",
+        "-100 ( 100 )"
+      ]
+    ],
+    "questions": [
+      "what was the operating revenue in 2002"
+    ]
+  }
+}

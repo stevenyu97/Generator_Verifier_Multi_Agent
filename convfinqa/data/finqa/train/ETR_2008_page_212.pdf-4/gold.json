@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the total owned and leased capability is owned by entergy louisiana?",
+      "answer": 0.26515,
+      "answer_raw": "0.26515",
+      "program": "divide(5854, 22078)"
+    }
+  ]
+}

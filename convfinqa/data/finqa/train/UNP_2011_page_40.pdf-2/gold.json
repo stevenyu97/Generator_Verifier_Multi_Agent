@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "assuming a 120 day inventory turn , how of the receivables balance at december 31 , 2010 , was collected in q1 2011 in billions?",
+      "answer": 5.43333,
+      "answer_raw": "5.43333",
+      "program": "divide(16.3, const_3)"
+    }
+  ]
+}

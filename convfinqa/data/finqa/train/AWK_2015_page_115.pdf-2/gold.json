@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the rate of the income tax benefit based on the stock compensation",
+      "answer": 0.36364,
+      "answer_raw": "0.36364",
+      "program": "divide(const_4, 11)"
+    }
+  ]
+}

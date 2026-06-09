@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what were the remaining mondovi net assets acquired following the sale of certain excess assets from the deal , in thousands?",
+      "answer": 1042490.2,
+      "answer_raw": "1042490.2",
+      "program": "subtract(1042661, 170.8)"
+    }
+  ]
+}

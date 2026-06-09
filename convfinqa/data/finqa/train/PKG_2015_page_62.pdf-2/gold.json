@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "of the decreases related to prior years' tax positions , what percent of the 2013 amount is the gross decrease related to the taxability of the alternative energy tax credits claimed in 2009 excise tax returns by boise inc?",
+      "answer": 0.99228,
+      "answer_raw": "0.99228",
+      "program": "divide(64.3, 64.8)"
+    }
+  ]
+}

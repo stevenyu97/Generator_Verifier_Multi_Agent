@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the revised purchase price of kichler is dedicated to goodwill?",
+      "answer": 0.11658,
+      "answer_raw": "0.11658",
+      "program": "divide(64, 549)"
+    }
+  ]
+}

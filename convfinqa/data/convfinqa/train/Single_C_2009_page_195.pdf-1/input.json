@@ -1,0 +1,116 @@
+{
+  "input": {
+    "id": "Single_C/2009/page_195.pdf-1",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "18 .",
+      "allowance for credit losses ."
+    ],
+    "post_text": [
+      "( 1 ) reclassified to conform to the current period 2019s presentation .",
+      "( 2 ) 2009 primarily includes reductions to the loan loss reserve of approximately $ 543 million related to securitizations , approximately $ 402 million related to the sale or transfers to held-for-sale of u.s .",
+      "real estate lending loans , and $ 562 million related to the transfer of the u.k .",
+      "cards portfolio to held-for-sale .",
+      "2008 primarily includes reductions to the loan loss reserve of approximately $ 800 million related to fx translation , $ 102 million related to securitizations , $ 244 million for the sale of the german retail banking operation , $ 156 million for the sale of citicapital , partially offset by additions of $ 106 million related to the cuscatl e1n and bank of overseas chinese acquisitions .",
+      "2007 primarily includes reductions to the loan loss reserve of $ 475 million related to securitizations and transfers to loans held-for-sale , and reductions of $ 83 million related to the transfer of the u.k .",
+      "citifinancial portfolio to held-for-sale , offset by additions of $ 610 million related to the acquisitions of egg , nikko cordial , grupo cuscatl e1n and grupo financiero uno .",
+      "( 3 ) represents additional credit loss reserves for unfunded corporate lending commitments and letters of credit recorded in other liabilities on the consolidated balance sheet. ."
+    ],
+    "table": [
+      [
+        "in millions of dollars",
+        "2009",
+        "2008 ( 1 )",
+        "2007 ( 1 )"
+      ],
+      [
+        "allowance for loan losses at beginning of year",
+        "$ 29616",
+        "$ 16117",
+        "$ 8940"
+      ],
+      [
+        "gross credit losses",
+        "-32784 ( 32784 )",
+        "-20760 ( 20760 )",
+        "-11864 ( 11864 )"
+      ],
+      [
+        "gross recoveries",
+        "2043",
+        "1749",
+        "1938"
+      ],
+      [
+        "net credit ( losses ) recoveries ( ncls )",
+        "$ -30741 ( 30741 )",
+        "$ -19011 ( 19011 )",
+        "$ -9926 ( 9926 )"
+      ],
+      [
+        "ncls",
+        "$ 30741",
+        "$ 19011",
+        "$ 9926"
+      ],
+      [
+        "net reserve builds ( releases )",
+        "5741",
+        "11297",
+        "6550"
+      ],
+      [
+        "net specific reserve builds ( releases )",
+        "2278",
+        "3366",
+        "356"
+      ],
+      [
+        "total provision for credit losses",
+        "$ 38760",
+        "$ 33674",
+        "$ 16832"
+      ],
+      [
+        "other net ( 2 )",
+        "-1602 ( 1602 )",
+        "-1164 ( 1164 )",
+        "271"
+      ],
+      [
+        "allowance for loan losses at end of year",
+        "$ 36033",
+        "$ 29616",
+        "$ 16117"
+      ],
+      [
+        "allowance for credit losses on unfunded lending commitments at beginning of year ( 3 )",
+        "$ 887",
+        "$ 1250",
+        "$ 1100"
+      ],
+      [
+        "provision for unfunded lending commitments",
+        "244",
+        "-363 ( 363 )",
+        "150"
+      ],
+      [
+        "allowance for credit losses on unfunded lending commitments at end of year ( 3 )",
+        "$ 1157",
+        "$ 887",
+        "$ 1250"
+      ],
+      [
+        "total allowance for loans leases and unfunded lending commitments",
+        "$ 37190",
+        "$ 30503",
+        "$ 17367"
+      ]
+    ],
+    "questions": [
+      "what was the difference in the allowance for loan losses between 2008-09?",
+      "and as a percentage of the starting value?"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "input": {
+    "id": "NWS/2016/page_61.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "increased investment in programming to support subscriber growth , higher offer costs and continued investment in presto , partially offset by lower depreciation expense resulting from foxtel 2019s reassessment of the useful lives of cable and satellite installations .",
+      "net income decreased as a result of the lower operating income noted above , partially offset by lower income tax expense .",
+      "( b ) other equity affiliates , net for the fiscal year ended june 30 , 2016 includes losses primarily from the company 2019s interests in draftstars and elara technologies , which owns proptiger .",
+      "interest , net 2014interest , net for the fiscal year ended june 30 , 2016 decreased $ 13 million , or 23% ( 23 % ) , as compared to fiscal 2015 , primarily due to the negative impact of foreign currency fluctuations and interest expense associated with the rea facility .",
+      "( see note 9 to the consolidated financial statements ) .",
+      "other , net 2014 for the fiscal years ended june 30 ."
+    ],
+    "post_text": [
+      "( a ) rea group recognized a gain of $ 29 million resulting from the revaluation of its previously held equity interest in iproperty during the fiscal year ended june 30 , 2016 .",
+      "( see note 3 to the consolidated financial statements ) .",
+      "( b ) the company recorded write-offs and impairments of certain investments in the fiscal years ended june 30 , 2016 and 2015 .",
+      "these write-offs and impairments were taken either as a result of the deteriorating financial position of the investee or due to an other-than-temporary impairment resulting from sustained losses and limited prospects for recovery .",
+      "( see note 6 to the consolidated financial statements. ) ( c ) in august 2014 , rea group completed the sale of a minority interest held in marketable securities for total cash consideration of $ 104 million .",
+      "as a result of the sale , rea group recognized a pre-tax gain of $ 29 million , which was reclassified out of accumulated other comprehensive income and included in other , net in the statement of operations .",
+      "income tax benefit ( expense ) 2014the company 2019s income tax benefit and effective tax rate for the fiscal year ended june 30 , 2016 were $ 54 million and ( 30% ( 30 % ) ) , respectively , as compared to an income tax expense and effective tax rate of $ 185 million and 34% ( 34 % ) , respectively , for fiscal 2015 .",
+      "for the fiscal years ended june 30 , 2016 the company recorded a tax benefit of $ 54 million on pre-tax income of $ 181 million resulting in an effective tax rate that was lower than the u.s .",
+      "statutory tax .",
+      "the lower tax rate was primarily due to a tax benefit of approximately $ 106 million related to the release of previously established valuation allowances related to certain u.s .",
+      "federal net operating losses and state deferred tax assets .",
+      "this benefit was recognized in conjunction with management 2019s plan to dispose of the company 2019s digital education business in the first quarter of fiscal 2016 , as the company now expects to generate sufficient u.s .",
+      "taxable income to utilize these deferred tax assets prior to expiration .",
+      "in addition , the effective tax rate was also impacted by the $ 29 million non-taxable gain resulting from the revaluation of rea group 2019s previously held equity interest in iproperty .",
+      "for the fiscal year ended june 30 , 2015 , the company 2019s effective tax rate was lower than the u.s .",
+      "statutory tax rate primarily due to the impact from foreign operations which are subject to lower tax rates , partially offset by the impact of nondeductible items and changes in our accrued liabilities for uncertain tax positions .",
+      "( see note 18 to the consolidated financial statements ) . ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "for the fiscal years ended june 30 , 2016",
+        "for the fiscal years ended june 30 , 2015"
+      ],
+      [
+        "gain on iproperty transaction ( a )",
+        "$ 29",
+        "$ 2014"
+      ],
+      [
+        "impairment of marketable securities and cost method investments ( b )",
+        "-21 ( 21 )",
+        "-5 ( 5 )"
+      ],
+      [
+        "gain on sale of marketable securities ( c )",
+        "2014",
+        "29"
+      ],
+      [
+        "dividends received from cost method investments",
+        "2014",
+        "25"
+      ],
+      [
+        "gain on sale of cost method investments",
+        "2014",
+        "15"
+      ],
+      [
+        "other",
+        "10",
+        "11"
+      ],
+      [
+        "total other net",
+        "$ 18",
+        "$ 75"
+      ]
+    ],
+    "questions": [
+      "what on the net interest reduction of 13 million or 23% ( 23 % ) compared to 2015 what was the interest amount in 2016 in millions"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percentage change in goodwill from 2009 to 2010?",
+      "answer": 0.40984,
+      "answer_raw": "0.40984",
+      "program": "subtract(8.6, 6.1), divide(#0, 6.1)"
+    }
+  ]
+}

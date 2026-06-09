@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how many square feet are leased by the company in barueri brazil?",
+      "answer": 75000.0,
+      "answer_raw": "75000.0",
+      "program": "75000"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is that number for mullingar ireland?",
+      "answer": 74000.0,
+      "answer_raw": "74000.0",
+      "program": "74000"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what is, then, the total square feet leased by the company in both locations?",
+      "answer": 149000.0,
+      "answer_raw": "149000.0",
+      "program": "add(75000, 74000)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and what is that number for mosta malta?",
+      "answer": 73000.0,
+      "answer_raw": "73000.0",
+      "program": "73000"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "including, then, mosta malta, what becomes the total square feet leased for the three locations?",
+      "answer": 222000.0,
+      "answer_raw": "222000.0",
+      "program": "add(75000, 74000), add(#0, 73000)"
+    }
+  ]
+}

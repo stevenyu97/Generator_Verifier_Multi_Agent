@@ -1,0 +1,60 @@
+{
+  "input": {
+    "id": "Single_ABMD/2011/page_33.pdf-3",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "performance graph the following graph compares the yearly change in the cumulative total stockholder return for our last five full fiscal years , based upon the market price of our common stock , with the cumulative total return on a nasdaq composite index ( u.s .",
+      "companies ) and a peer group , the nasdaq medical equipment-sic code 3840-3849 index , which is comprised of medical equipment companies , for that period .",
+      "the performance graph assumes the investment of $ 100 on march 31 , 2006 in our common stock , the nasdaq composite index ( u.s .",
+      "companies ) and the peer group index , and the reinvestment of any and all dividends. ."
+    ],
+    "post_text": [
+      "this graph is not 201csoliciting material 201d under regulation 14a or 14c of the rules promulgated under the securities exchange act of 1934 , is not deemed filed with the securities and exchange commission and is not to be incorporated by reference in any of our filings under the securities act of 1933 , as amended , or the exchange act whether made before or after the date hereof and irrespective of any general incorporation language in any such filing .",
+      "transfer agent american stock transfer & trust company , 59 maiden lane , new york , ny 10038 , is our stock transfer agent. ."
+    ],
+    "table": [
+      [
+        "",
+        "3/31/2006",
+        "3/31/2007",
+        "3/31/2008",
+        "3/31/2009",
+        "3/31/2010",
+        "3/31/2011"
+      ],
+      [
+        "abiomed inc",
+        "100",
+        "105.89",
+        "101.86",
+        "37.98",
+        "80.00",
+        "112.64"
+      ],
+      [
+        "nasdaq composite index",
+        "100",
+        "103.50",
+        "97.41",
+        "65.33",
+        "102.49",
+        "118.86"
+      ],
+      [
+        "nasdaq medical equipment sic code 3840-3849",
+        "100",
+        "88.78",
+        "84.26",
+        "46.12",
+        "83.47",
+        "91.35"
+      ]
+    ],
+    "questions": [
+      "what was the value of the nasdaq composite index in 2009?",
+      "what was the value in 2006?",
+      "what is the net change?",
+      "what is the change divided by the 2006 value?"
+    ]
+  }
+}

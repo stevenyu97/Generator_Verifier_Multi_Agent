@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "GS/2017/page_74.pdf-4",
+    "dataset": "finqa",
+    "pre_text": [
+      "the goldman sachs group , inc .",
+      "and subsidiaries management 2019s discussion and analysis investing & lending investing & lending includes our investing activities and the origination of loans , including our relationship lending activities , to provide financing to clients .",
+      "these investments and loans are typically longer-term in nature .",
+      "we make investments , some of which are consolidated , including through our merchant banking business and our special situations group , in debt securities and loans , public and private equity securities , infrastructure and real estate entities .",
+      "some of these investments are made indirectly through funds that we manage .",
+      "we also make unsecured and secured loans to retail clients through our digital platforms , marcus and goldman sachs private bank select ( gs select ) , respectively .",
+      "the table below presents the operating results of our investing & lending segment. ."
+    ],
+    "post_text": [
+      "operating environment .",
+      "during 2017 , generally higher global equity prices and tighter credit spreads contributed to a favorable environment for our equity and debt investments .",
+      "results also reflected net gains from company- specific events , including sales , and corporate performance .",
+      "this environment contrasts with 2016 , where , in the first quarter of 2016 , market conditions were difficult and corporate performance , particularly in the energy sector , was impacted by a challenging macroeconomic environment .",
+      "however , market conditions improved during the rest of 2016 as macroeconomic concerns moderated .",
+      "if macroeconomic concerns negatively affect company-specific events or corporate performance , or if global equity markets decline or credit spreads widen , net revenues in investing & lending would likely be negatively impacted .",
+      "2017 versus 2016 .",
+      "net revenues in investing & lending were $ 6.58 billion for 2017 , 61% ( 61 % ) higher than 2016 .",
+      "net revenues in equity securities were $ 4.58 billion , including $ 3.82 billion of net gains from private equities and $ 762 million in net gains from public equities .",
+      "net revenues in equity securities were 78% ( 78 % ) higher than 2016 , primarily reflecting a significant increase in net gains from private equities , which were positively impacted by company- specific events and corporate performance .",
+      "in addition , net gains from public equities were significantly higher , as global equity prices increased during the year .",
+      "of the $ 4.58 billion of net revenues in equity securities , approximately 60% ( 60 % ) was driven by net gains from company-specific events , such as sales , and public equities .",
+      "net revenues in debt securities and loans were $ 2.00 billion , 33% ( 33 % ) higher than 2016 , reflecting significantly higher net interest income ( 2017 included approximately $ 1.80 billion of net interest income ) .",
+      "net revenues in debt securities and loans for 2017 also included an impairment of approximately $ 130 million on a secured operating expenses were $ 2.80 billion for 2017 , 17% ( 17 % ) higher than 2016 , due to increased compensation and benefits expenses , reflecting higher net revenues , increased expenses related to consolidated investments , and increased expenses related to marcus .",
+      "pre-tax earnings were $ 3.79 billion in 2017 compared with $ 1.69 billion in 2016 .",
+      "2016 versus 2015 .",
+      "net revenues in investing & lending were $ 4.08 billion for 2016 , 25% ( 25 % ) lower than 2015 .",
+      "net revenues in equity securities were $ 2.57 billion , including $ 2.17 billion of net gains from private equities and $ 402 million in net gains from public equities .",
+      "net revenues in equity securities were 32% ( 32 % ) lower than 2015 , primarily reflecting a significant decrease in net gains from private equities , driven by company-specific events and corporate performance .",
+      "net revenues in debt securities and loans were $ 1.51 billion , 9% ( 9 % ) lower than 2015 , reflecting significantly lower net revenues related to relationship lending activities , due to the impact of changes in credit spreads on economic hedges .",
+      "losses related to these hedges were $ 596 million in 2016 , compared with gains of $ 329 million in 2015 .",
+      "this decrease was partially offset by higher net gains from investments in debt instruments and higher net interest income .",
+      "see note 9 to the consolidated financial statements for further information about economic hedges related to our relationship lending activities .",
+      "operating expenses were $ 2.39 billion for 2016 , essentially unchanged compared with 2015 .",
+      "pre-tax earnings were $ 1.69 billion in 2016 , 44% ( 44 % ) lower than 2015 .",
+      "goldman sachs 2017 form 10-k 61 ."
+    ],
+    "table": [
+      [
+        "$ in millions",
+        "year ended december 2017",
+        "year ended december 2016",
+        "year ended december 2015"
+      ],
+      [
+        "equity securities",
+        "$ 4578",
+        "$ 2573",
+        "$ 3781"
+      ],
+      [
+        "debt securities and loans",
+        "2003",
+        "1507",
+        "1655"
+      ],
+      [
+        "total net revenues",
+        "6581",
+        "4080",
+        "5436"
+      ],
+      [
+        "operating expenses",
+        "2796",
+        "2386",
+        "2402"
+      ],
+      [
+        "pre-taxearnings",
+        "$ 3785",
+        "$ 1694",
+        "$ 3034"
+      ]
+    ],
+    "questions": [
+      "what percentage of total net revenue in the investing & lending segment during 2017 was comprised of equity securities?"
+    ]
+  }
+}

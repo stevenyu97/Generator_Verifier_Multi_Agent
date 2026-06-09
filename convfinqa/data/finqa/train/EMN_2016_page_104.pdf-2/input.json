@@ -1,0 +1,64 @@
+{
+  "input": {
+    "id": "EMN/2016/page_104.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to the audited consolidated financial statements director stock compensation subplan eastman's 2016 director stock compensation subplan ( \"directors' subplan\" ) , a component of the 2012 omnibus plan , remains in effect until terminated by the board of directors or the earlier termination of thf e 2012 omnibus plan .",
+      "the directors' subplan provides for structured awards of restricted shares to non-employee members of the board of directors .",
+      "restricted shares awarded under the directors' subplan are subject to the same terms and conditions of the 2012 omnibus plan .",
+      "the directors' subplan does not constitute a separate source of shares for grant of equity awards and all shares awarded are part of the 10 million shares authorized under the 2012 omnibus plan .",
+      "shares of restricted stock are granted on the first day of a non-f employee director's initial term of service and shares of restricted stock are granted each year to each non-employee director on the date of the annual meeting of stockholders .",
+      "general the company is authorized by the board of directors under the 2012 omnibus plan tof provide awards to employees and non- employee members of the board of directors .",
+      "it has been the company's practice to issue new shares rather than treasury shares for equity awards that require settlement by the issuance of common stock and to withhold or accept back shares awarded to cover the related income tax obligations of employee participants .",
+      "shares of unrestricted common stock owned by non-d employee directors are not eligible to be withheld or acquired to satisfy the withholding obligation related to their income taxes .",
+      "aa shares of unrestricted common stock owned by specified senior management level employees are accepted by the company to pay the exercise price of stock options in accordance with the terms and conditions of their awards .",
+      "for 2016 , 2015 , and 2014 , total share-based compensation expense ( before tax ) of approximately $ 36 million , $ 36 million , and $ 28 million , respectively , was recognized in selling , general and administrative exd pense in the consolidated statements of earnings , comprehensive income and retained earnings for all share-based awards of which approximately $ 7 million , $ 7 million , and $ 4 million , respectively , related to stock options .",
+      "the compensation expense is recognized over the substantive vesting period , which may be a shorter time period than the stated vesting period for qualifying termination eligible employees as defined in the forms of award notice .",
+      "for 2016 , 2015 , and 2014 , approximately $ 2 million , $ 2 million , and $ 1 million , respectively , of stock option compensation expense was recognized due to qualifying termination eligibility preceding the requisite vesting period .",
+      "stock option awards options have been granted on an annual basis to non-employee directors under the directors' subplan and predecessor plans and by the compensation and management development committee of the board of directors under the 2012 omnibus plan and predecessor plans to employees .",
+      "option awards have an exercise price equal to the closing price of the company's stock on the date of grant .",
+      "the term of options is 10 years with vesting periods thf at vary up to three years .",
+      "vesting usually occurs ratably over the vesting period or at the end of the vesting period .",
+      "the company utilizes the black scholes merton option valuation model which relies on certain assumptions to estimate an option's fair value .",
+      "the weighted average assumptions used in the determination of fair value for stock options awarded in 2016 , 2015 , and 2014 are provided in the table below: ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "assumptions",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "expected volatility rate",
+        "23.71% ( 23.71 % )",
+        "24.11% ( 24.11 % )",
+        "25.82% ( 25.82 % )"
+      ],
+      [
+        "expected dividend yield",
+        "2.31% ( 2.31 % )",
+        "1.75% ( 1.75 % )",
+        "1.70% ( 1.70 % )"
+      ],
+      [
+        "average risk-free interest rate",
+        "1.23% ( 1.23 % )",
+        "1.45% ( 1.45 % )",
+        "1.44% ( 1.44 % )"
+      ],
+      [
+        "expected term years",
+        "5.0",
+        "4.8",
+        "4.7"
+      ]
+    ],
+    "questions": [
+      "what percent of the total share-based compensation expense in 2016 was related to stock options?"
+    ]
+  }
+}

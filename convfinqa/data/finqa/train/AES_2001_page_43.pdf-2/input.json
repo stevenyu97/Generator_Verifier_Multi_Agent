@@ -1,0 +1,82 @@
+{
+  "input": {
+    "id": "AES/2001/page_43.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "increase .",
+      "in north america , contract generation segment revenues increased $ 46 million .",
+      "in the caribbean ( which includes venezuela and colombia ) , contract generation segment revenues increased $ 11 million , and this was due to a full year of operations at merida iii offset by a lower capacity factor at los mina .",
+      "competitive supply revenues increased $ 300 million or 13% ( 13 % ) to $ 2.7 billion in 2001 from $ 2.4 billion in 2000 .",
+      "excluding businesses acquired or that commenced commercial operations in 2001 or 2000 , competitive supply revenues increased 3% ( 3 % ) to $ 2.4 billion in 2001 .",
+      "the most significant increases occurred within north america and the caribbean .",
+      "slight increases were recorded within south america and asia .",
+      "europe/africa reported a slight decrease due to lower pool prices in the u.k .",
+      "offset by the start of commercial operations at fifoots and the acquisition of ottana .",
+      "in north america , competitive supply segment revenues increased $ 184 million due primarily to an expanded customer base at new energy as well as increased operations at placerita .",
+      "these increases in north america were offset by lower market prices at our new york businesses .",
+      "in the caribbean , competitive supply segment revenues increased $ 123 million due primarily to the acquisition of chivor .",
+      "large utility revenues increased $ 300 million , or 14% ( 14 % ) to $ 2.4 billion in 2001 from $ 2.1 billion in 2000 , principally resulting from the addition of revenues attributable to businesses acquired during 2001 or 2000 .",
+      "excluding businesses acquired in 2001 and 2000 , large utility revenues increased 1% ( 1 % ) to $ 1.6 billion in 2001 .",
+      "the majority of the increase occurred within the caribbean , and there was a slight increase in north america .",
+      "in the caribbean , revenues increased $ 312 million due to a full year of revenues from edc , which was acquired in june 2000 .",
+      "growth distribution revenues increased $ 400 million , or 31% ( 31 % ) to $ 1.7 billion in 2001 from $ 1.3 billion in 2000 .",
+      "excluding businesses acquired in 2001 or 2000 , growth distribution revenues increased 20% ( 20 % ) to $ 1.3 billion in 2001 .",
+      "revenues increased most significantly in the caribbean and to a lesser extent in south america and europe/africa .",
+      "revenues decreased slightly in asia .",
+      "in the caribbean , growth distribution segment revenues increased $ 296 million due primarily to a full year of operations at caess , which was acquired in 2000 and improved operations at ede este .",
+      "in south america , growth distribution segment revenues increased $ 89 million due to the significant revenues at sul from our settlement with the brazilian government offset by declines in revenues at our argentine distribution businesses .",
+      "the settlement with the brazilian government confirmed the sales price that sul would receive from its sales into the southeast market ( where rationing occurred ) under its itaipu contract .",
+      "in europe/africa , growth distribution segment revenues increased $ 59 million from the acquisition of sonel .",
+      "in asia , growth distribution segment revenues decreased $ 33 million mainly due to the change in the way in which we are accounting for our investment in cesco .",
+      "cesco was previously consolidated but was changed to equity method during 2001 when the company was removed from management and the board of directors .",
+      "this decline was partially offset by the increase in revenues from the distribution businesses that we acquired in the ukraine .",
+      "aes is a global power company which operates in 29 countries around the world .",
+      "the breakdown of aes 2019s revenues for the years ended december 31 , 2001 and 2000 , based on the geographic region in which they were earned , is set forth below .",
+      "a more detailed breakdown by country can be found in note 16 of the consolidated financial statements. ."
+    ],
+    "post_text": [
+      "* includes venezuela and colombia. ."
+    ],
+    "table": [
+      [
+        "",
+        "2001",
+        "2000",
+        "% (  % ) change"
+      ],
+      [
+        "north america",
+        "$ 3.6 billion",
+        "$ 3.4 billion",
+        "6% ( 6 % )"
+      ],
+      [
+        "south america",
+        "$ 1.7 billion",
+        "$ 1.1 billion",
+        "55% ( 55 % )"
+      ],
+      [
+        "caribbean*",
+        "$ 1.9 billion",
+        "$ 1.1 billion",
+        "73% ( 73 % )"
+      ],
+      [
+        "europe/africa",
+        "$ 1.4 billion",
+        "$ 1.3 billion",
+        "8% ( 8 % )"
+      ],
+      [
+        "asia",
+        "$ 693 million",
+        "$ 615 million",
+        "13% ( 13 % )"
+      ]
+    ],
+    "questions": [
+      "total americas segment revenues were how much ( in billions ) in 2001?"
+    ]
+  }
+}

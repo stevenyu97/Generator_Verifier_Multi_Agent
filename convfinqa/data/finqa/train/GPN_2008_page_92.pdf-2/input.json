@@ -1,0 +1,56 @@
+{
+  "input": {
+    "id": "GPN/2008/page_92.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements 2014 ( continued ) the weighted average grant-date fair value of share awards granted in the years ended may 31 , 2007 and 2006 was $ 45 and $ 36 , respectively .",
+      "the total fair value of share awards vested during the years ended may 31 , 2008 , 2007 and 2006 was $ 4.1 million , $ 1.7 million and $ 1.4 million , respectively .",
+      "we recognized compensation expenses for restricted stock of $ 5.7 million , $ 2.7 million , and $ 1.6 million in the years ended may 31 , 2008 , 2007 and 2006 .",
+      "as of may 31 , 2008 , there was $ 15.2 million of total unrecognized compensation cost related to unvested restricted stock awards that is expected to be recognized over a weighted average period of 2.9 years .",
+      "employee stock purchase plan we have an employee stock purchase plan under which the sale of 2.4 million shares of our common stock has been authorized .",
+      "employees may designate up to the lesser of $ 25 thousand or 20% ( 20 % ) of their annual compensation for the purchase of stock .",
+      "for periods prior to october 1 , 2006 , the price for shares purchased under the plan was the lower of 85% ( 85 % ) of the market value on the first day or the last day of the quarterly purchase period .",
+      "with the quarterly purchase period beginning on october 1 , 2006 , the price for shares purchased under the plan is 85% ( 85 % ) of the market value on the last day of the quarterly purchase period ( the 201cpurchase date 201d ) .",
+      "at may 31 , 2008 , 0.7 million shares had been issued under this plan , with 1.7 million shares reserved for future issuance .",
+      "the weighted average grant-date fair value of each designated share purchased under this plan was $ 6 , $ 8 and $ 8 in the years ended may 31 , 2008 , 2007 and 2006 , respectively .",
+      "for the quarterly purchases after october 1 , 2006 , the fair value of each designated share purchased under the employee stock purchase plan is based on the 15% ( 15 % ) discount on the purchase date .",
+      "for purchases prior to october 1 , 2006 , the fair value of each designated share purchased under the employee stock purchase plan was estimated on the date of grant using the black-scholes valuation model using the following weighted average assumptions: ."
+    ],
+    "post_text": [
+      "the risk-free interest rate is based on the yield of a zero coupon united states treasury security with a maturity equal to the expected life of the option from the date of the grant .",
+      "our assumption on expected volatility is based on our historical volatility .",
+      "the dividend yield assumption is calculated using our average stock price over the preceding year and the annualized amount of our current quarterly dividend .",
+      "since the purchase price for shares under the plan is based on the market value on the first day or last day of the quarterly purchase period , we use an expected life of three months to determine the fair value of each designated share. ."
+    ],
+    "table": [
+      [
+        "",
+        "2007",
+        "2006"
+      ],
+      [
+        "risk-free interest rates",
+        "4.93% ( 4.93 % )",
+        "3.72% ( 3.72 % )"
+      ],
+      [
+        "expected volatility",
+        "37.02% ( 37.02 % )",
+        "26.06% ( 26.06 % )"
+      ],
+      [
+        "dividend yields",
+        "0.19% ( 0.19 % )",
+        "0.34% ( 0.34 % )"
+      ],
+      [
+        "expected lives",
+        "3 months",
+        "3 months"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in the weighted average grant-date fair value of share awards from 2006 to 2007?"
+    ]
+  }
+}

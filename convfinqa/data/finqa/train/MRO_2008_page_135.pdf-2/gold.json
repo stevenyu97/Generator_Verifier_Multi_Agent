@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did asset retirement obligations increase from 2006 to 2007?",
+      "answer": 0.08621,
+      "answer_raw": "0.08621",
+      "program": "subtract(1134, 1044), divide(#0, 1044)"
+    }
+  ]
+}

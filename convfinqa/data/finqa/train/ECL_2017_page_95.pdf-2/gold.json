@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the ending balance in unrecognized tax benefits relates to unrecognized tax benefits that would have affected the effective tax rate as of december 31 , 2017?",
+      "answer": 0.76585,
+      "answer_raw": "0.76585",
+      "program": "divide(47.1, 61.5)"
+    }
+  ]
+}

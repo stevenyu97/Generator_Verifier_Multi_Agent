@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the change in net cash used for investing activities was used for capital expenditures in 2013?",
+      "answer": 0.7706,
+      "answer_raw": "0.7706",
+      "program": "divide(173.0, 224.5)"
+    }
+  ]
+}

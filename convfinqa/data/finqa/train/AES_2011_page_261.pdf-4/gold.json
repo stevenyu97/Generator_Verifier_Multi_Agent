@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage was the southland ( huntington beach ) of asset impairment expense for the year ended december 31 , 2010?",
+      "answer": 0.51414,
+      "answer_raw": "0.51414",
+      "program": "divide(200, 389)"
+    }
+  ]
+}

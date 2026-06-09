@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "how bigger are the additions in comparison with the deductions during 2009?",
+      "answer": 773.68776,
+      "answer_raw": "773.68776",
+      "program": "divide(103698, 11869), multiply(#0, const_100), subtract(#1, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "input": {
+    "id": "SWKS/2006/page_81.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "notes to consolidated financial statements 2014 ( continued ) on historical trends and known economic and market conditions at the time of valuation .",
+      "actual results may differ substantially from these assumptions .",
+      "these differences may significantly impact future pension or retiree medical expenses .",
+      "annual pension and retiree medical expense is principally the sum of three components : 1 ) increase in liability from interest ; less 2 ) expected return on plan assets ; and 3 ) other gains and losses as described below .",
+      "the expected return on plan assets is calculated by applying an assumed long-term rate of return to the fair value of plan assets .",
+      "in any given year , actual returns can differ significantly from the expected return .",
+      "differences between the actual and expected return on plan assets are combined with gains or losses resulting from the revaluation of plan liabilities .",
+      "plan liabilities are revalued annually , based on updated assumptions and infor- mation about the individuals covered by the plan .",
+      "the combined gain or loss is generally expensed evenly over the remaining years that employees are expected to work .",
+      "comprehensive income ( loss ) the company accounts for comprehensive income ( loss ) in accordance with the provisions of sfas no .",
+      "130 , 201creporting comprehensive income 201d ( 201csfas no .",
+      "130 201d ) .",
+      "sfas no .",
+      "130 is a financial statement presentation standard that requires the company to disclose non-owner changes included in equity but not included in net income or loss .",
+      "other items of comprehensive income ( loss ) presented in the financial statements consists of adjustments to the company 2019s minimum pension liability as follows ( in thousands ) : pension adjustments accumulated comprehensive ."
+    ],
+    "post_text": [
+      "recently issued accounting pronouncements in november 2004 , the fasb issued sfas no .",
+      "151 , 201cinventory costs 2014 an amendment to apb no .",
+      "23 , chapter 4 201d ( 201csfas no .",
+      "151 201d ) .",
+      "the amendments made by sfas no .",
+      "151 clarify that abnormal amounts of idle facility expense , freight , handling costs and wasted materials ( spoilage ) should be recognized as current-period charges and require the allocation of fixed production overheads to inventory based on the normal capacity of the production facilities .",
+      "the guidance is effective for inventory costs incurred during fiscal years beginning after june 15 , 2005 .",
+      "the company adopted sfas no .",
+      "151 on october 1 , 2005 and it did not have a material impact on its financial statements in fiscal 2006 .",
+      "in december 2004 , the fasb issued sfas no .",
+      "153 , 201cexchanges of nonmonetary assets 2014 an amend- ment of apb opinion no .",
+      "29 201d ( 201csfas no .",
+      "153 201d ) .",
+      "the guidance in apb opinion no .",
+      "29 , 201caccounting for nonmonetary transactions 201d ( 201capb no .",
+      "29 201d ) is based on the principle that exchanges of nonmonetary assets should be measured based on the fair value of the assets exchanged .",
+      "the guidance in apb no .",
+      "29 , however , included certain exceptions to that principle .",
+      "sfas no .",
+      "153 amends apb no .",
+      "29 to eliminate the exception for nonmonetary exchanges of similar productive assets and replaces it with a general exception for exchanges of nonmonetary assets that do not have commercial substance .",
+      "sfas no .",
+      "153 is effective for such exchange transactions occurring in fiscal periods beginning after june 15 , 2005 .",
+      "the company adopted sfas no .",
+      "153 on october 1 , 2005 and it did not have a material impact on its financial statements in fiscal 2006 .",
+      "in may 2005 , the fasb issued sfas no .",
+      "154 , 201caccounting changes and error corrections 2014 a replacement of apb opinion no .",
+      "20 and fasb statement no .",
+      "3 201d ( 201csfas no .",
+      "154 201d ) .",
+      "this statement replaces apb opinion no .",
+      "20 , 201caccounting changes 201d and fasb statement no .",
+      "3 , 201creporting accounting changes in interim financial statements 2014 an amendment of apb opinion no .",
+      "28 , 201d and also changes the ."
+    ],
+    "table": [
+      [
+        "",
+        "pension adjustments",
+        "accumulated other comprehensive loss"
+      ],
+      [
+        "balance as of october 1 2004",
+        "$ -786 ( 786 )",
+        "$ -786 ( 786 )"
+      ],
+      [
+        "change in period",
+        "-351 ( 351 )",
+        "-351 ( 351 )"
+      ],
+      [
+        "balance as of september 30 2005",
+        "-1137 ( 1137 )",
+        "-1137 ( 1137 )"
+      ],
+      [
+        "change in period",
+        "538",
+        "538"
+      ],
+      [
+        "balance as of september 29 2006",
+        "$ -599 ( 599 )",
+        "$ -599 ( 599 )"
+      ]
+    ],
+    "questions": [
+      "what is the percentage change in in the pension liability balance from 2004 to 2006?"
+    ]
+  }
+}

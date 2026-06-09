@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "at 12/31/15 , nonperforming loans were what percent of total tdrs?",
+      "answer": 0.47597,
+      "answer_raw": "0.47597",
+      "program": "divide(1119, 2351)"
+    }
+  ]
+}

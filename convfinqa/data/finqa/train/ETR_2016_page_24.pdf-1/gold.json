@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "was the tax benefit from the the stipulated settlement in the business combination granting customer credits greater than the change in revenue between years?",
+      "answer": "no",
+      "answer_raw": "no",
+      "program": "subtract(107, 66), subtract(2224, 1666), greater(#0, #1)"
+    }
+  ]
+}

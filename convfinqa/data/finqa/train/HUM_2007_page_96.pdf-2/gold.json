@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "considering the years 2005-2007 , what is the average fair value of shares vested , in millions?",
+      "answer": 2.1,
+      "answer_raw": "2.1",
+      "program": "add(3.4, 0.6), add(#0, 2.3), divide(#1, const_3)"
+    }
+  ]
+}

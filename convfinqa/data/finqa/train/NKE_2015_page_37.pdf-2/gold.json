@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent of the total for all years was due to contributions form the year 2020?",
+      "answer": 0.05642,
+      "answer_raw": "0.05642",
+      "program": "divide(873, 15473)"
+    }
+  ]
+}

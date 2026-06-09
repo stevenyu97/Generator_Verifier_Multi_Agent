@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the percent increase in cash and cash equivalents from year 2009 to 2010?",
+      "answer": 0.24446,
+      "answer_raw": "0.24446",
+      "program": "subtract(453257, 364221), divide(#0, 364221)"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "input": {
+    "id": "CDW/2013/page_103.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "cdw corporation and subsidiaries notes to consolidated financial statements holders of class b common units in connection with the distribution is subject to any vesting provisions previously applicable to the holder 2019s class b common units .",
+      "class b common unit holders received 3798508 shares of restricted stock with respect to class b common units that had not yet vested at the time of the distribution .",
+      "for the year ended december 31 , 2013 , 1200544 shares of such restricted stock vested/settled and 5931 shares were forfeited .",
+      "as of december 31 , 2013 , 2592033 shares of restricted stock were outstanding .",
+      "stock options in addition , in connection with the ipo , the company issued 1268986 stock options to the class b common unit holders to preserve their fully diluted equity ownership percentage .",
+      "these options were issued with a per-share exercise price equal to the ipo price of $ 17.00 and are also subject to the same vesting provisions as the class b common units to which they relate .",
+      "the company also granted 19412 stock options under the 2013 ltip during the year ended december 31 , 2013 .",
+      "restricted stock units ( 201crsus 201d ) in connection with the ipo , the company granted 1416543 rsus under the 2013 ltip at a weighted- average grant-date fair value of $ 17.03 per unit .",
+      "the rsus cliff-vest at the end of four years .",
+      "valuation information the company attributes the value of equity-based compensation awards to the various periods during which the recipient must perform services in order to vest in the award using the straight-line method .",
+      "post-ipo equity awards the company has elected to use the black-scholes option pricing model to estimate the fair value of stock options granted .",
+      "the black-scholes option pricing model incorporates various assumptions including volatility , expected term , risk-free interest rates and dividend yields .",
+      "the assumptions used to value the stock options granted during the year ended december 31 , 2013 are presented below .",
+      "year ended december 31 , assumptions 2013 ."
+    ],
+    "post_text": [
+      "expected term ( in years ) ( 3 ) .",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "5.4 ( 1 ) based upon an assessment of the two-year , five-year and implied volatility for the company 2019s selected peer group , adjusted for the company 2019s leverage .",
+      "( 2 ) based on a composite u.s .",
+      "treasury rate .",
+      "( 3 ) the expected term is calculated using the simplified method .",
+      "the simplified method defines the expected term as the average of the option 2019s contractual term and the option 2019s weighted-average vesting period .",
+      "the company utilizes this method as it has limited historical stock option data that is sufficient to derive a reasonable estimate of the expected stock option term. ."
+    ],
+    "table": [
+      [
+        "assumptions",
+        "year ended december 31 2013"
+      ],
+      [
+        "weighted-average grant date fair value",
+        "$ 4.75"
+      ],
+      [
+        "weighted-average volatility ( 1 )",
+        "35.00% ( 35.00 % )"
+      ],
+      [
+        "weighted-average risk-free rate ( 2 )",
+        "1.58% ( 1.58 % )"
+      ],
+      [
+        "dividend yield",
+        "1.00% ( 1.00 % )"
+      ],
+      [
+        "expected term ( in years ) ( 3 )",
+        "5.4"
+      ]
+    ],
+    "questions": [
+      "as of dec 13 , 2013 , if all forfeited shares became vested , what percentage of shares would be vested?"
+    ]
+  }
+}

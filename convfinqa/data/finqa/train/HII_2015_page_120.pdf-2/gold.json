@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total net income for the fiscal year of 2015?",
+      "answer": 404.0,
+      "answer_raw": "404.0",
+      "program": "add(87, 156), add(#0, 111), add(#1, 50)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the net cash provided by operating activities from 2009 to 2010?",
+      "answer": 383.0,
+      "answer_raw": "383.0",
+      "program": "subtract(465.8, 82.8)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and how much does this change represent in relation to that net cash in 2009, in percentage?",
+      "answer": 0.21619,
+      "answer_raw": "0.21619",
+      "program": "subtract(465.8, 82.8), divide(82.8, #0)"
+    }
+  ]
+}

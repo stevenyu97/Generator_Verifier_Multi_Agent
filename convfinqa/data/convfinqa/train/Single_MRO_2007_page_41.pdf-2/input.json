@@ -1,0 +1,102 @@
+{
+  "input": {
+    "id": "Single_MRO/2007/page_41.pdf-2",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "marketing we are a supplier of gasoline and distillates to resellers and consumers within our market area in the midwest , upper great plains , gulf coast and southeastern regions of the united states .",
+      "in 2007 , our refined products sales volumes totaled 21.6 billion gallons , or 1.410 mmbpd .",
+      "the average sales price of our refined products in aggregate was $ 86.53 per barrel for 2007 .",
+      "the following table sets forth our refined products sales by product group and our average sales price for each of the last three years .",
+      "refined product sales ( thousands of barrels per day ) 2007 2006 2005 ."
+    ],
+    "post_text": [
+      "total ( a ) 1410 1425 1455 average sales price ( dollars per barrel ) $ 86.53 $ 77.76 $ 66.42 ( a ) includes matching buy/sell volumes of 24 mbpd and 77 mbpd in 2006 and 2005 .",
+      "on april 1 , 2006 , we changed our accounting for matching buy/sell arrangements as a result of a new accounting standard .",
+      "this change resulted in lower refined products sales volumes for 2007 and the remainder of 2006 than would have been reported under our previous accounting practices .",
+      "see note 2 to the consolidated financial statements .",
+      "the wholesale distribution of petroleum products to private brand marketers and to large commercial and industrial consumers and sales in the spot market accounted for 69 percent of our refined products sales volumes in 2007 .",
+      "we sold 49 percent of our gasoline volumes and 89 percent of our distillates volumes on a wholesale or spot market basis .",
+      "half of our propane is sold into the home heating market , with the balance being purchased by industrial consumers .",
+      "propylene , cumene , aromatics , aliphatics and sulfur are domestically marketed to customers in the chemical industry .",
+      "base lube oils , maleic anhydride , slack wax , extract and pitch are sold throughout the united states and canada , with pitch products also being exported worldwide .",
+      "we market asphalt through owned and leased terminals throughout the midwest , upper great plains , gulf coast and southeastern regions of the united states .",
+      "our customer base includes approximately 750 asphalt-paving contractors , government entities ( states , counties , cities and townships ) and asphalt roofing shingle manufacturers .",
+      "we have blended ethanol with gasoline for over 15 years and increased our blending program in 2007 , in part due to renewable fuel mandates .",
+      "we blended 41 mbpd of ethanol into gasoline in 2007 and 35 mbpd in both 2006 and 2005 .",
+      "the future expansion or contraction of our ethanol blending program will be driven by the economics of the ethanol supply and changes in government regulations .",
+      "we sell reformulated gasoline in parts of our marketing territory , primarily chicago , illinois ; louisville , kentucky ; northern kentucky ; milwaukee , wisconsin and hartford , illinois , and we sell low-vapor-pressure gasoline in nine states .",
+      "we also sell biodiesel in minnesota , illinois and kentucky .",
+      "as of december 31 , 2007 , we supplied petroleum products to about 4400 marathon branded-retail outlets located primarily in ohio , michigan , indiana , kentucky and illinois .",
+      "branded retail outlets are also located in georgia , florida , minnesota , wisconsin , north carolina , tennessee , west virginia , virginia , south carolina , alabama , pennsylvania , and texas .",
+      "sales to marathon-brand jobbers and dealers accounted for 16 percent of our refined product sales volumes in 2007 .",
+      "speedway superamerica llc ( 201cssa 201d ) , our wholly-owned subsidiary , sells gasoline and diesel fuel primarily through retail outlets that we operate .",
+      "sales of refined products through these ssa retail outlets accounted for 15 percent of our refined products sales volumes in 2007 .",
+      "as of december 31 , 2007 , ssa had 1636 retail outlets in nine states that sold petroleum products and convenience store merchandise and services , primarily under the brand names 201cspeedway 201d and 201csuperamerica . 201d ssa 2019s revenues from the sale of non-petroleum merchandise totaled $ 2.796 billion in 2007 , compared with $ 2.706 billion in 2006 .",
+      "profit levels from the sale of such merchandise and services tend to be less volatile than profit levels from the retail sale of gasoline and diesel fuel .",
+      "ssa also operates 59 valvoline instant oil change retail outlets located in michigan and northwest ohio .",
+      "pilot travel centers llc ( 201cptc 201d ) , our joint venture with pilot corporation ( 201cpilot 201d ) , is the largest operator of travel centers in the united states with 286 locations in 37 states and canada at december 31 , 2007 .",
+      "the travel centers offer diesel fuel , gasoline and a variety of other services , including on-premises brand-name restaurants at many locations .",
+      "pilot and marathon each own a 50 percent interest in ptc. ."
+    ],
+    "table": [
+      [
+        "( thousands of barrels per day )",
+        "2007",
+        "2006",
+        "2005"
+      ],
+      [
+        "gasoline",
+        "791",
+        "804",
+        "836"
+      ],
+      [
+        "distillates",
+        "377",
+        "375",
+        "385"
+      ],
+      [
+        "propane",
+        "23",
+        "23",
+        "22"
+      ],
+      [
+        "feedstocks and special products",
+        "103",
+        "106",
+        "96"
+      ],
+      [
+        "heavy fuel oil",
+        "29",
+        "26",
+        "29"
+      ],
+      [
+        "asphalt",
+        "87",
+        "91",
+        "87"
+      ],
+      [
+        "total ( a )",
+        "1410",
+        "1425",
+        "1455"
+      ],
+      [
+        "average sales price ( dollars per barrel )",
+        "$ 86.53",
+        "$ 77.76",
+        "$ 66.42"
+      ]
+    ],
+    "questions": [
+      "what was the sum of propane production in 2006 and 2007?",
+      "what is the sum including 2005?"
+    ]
+  }
+}

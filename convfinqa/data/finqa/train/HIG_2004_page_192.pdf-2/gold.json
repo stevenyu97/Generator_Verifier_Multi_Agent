@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what portion of the total expected payment for benefits is related to pension benefits?",
+      "answer": 0.83427,
+      "answer_raw": "0.83427",
+      "program": "add(1772, 352), divide(1772, #0)"
+    }
+  ]
+}

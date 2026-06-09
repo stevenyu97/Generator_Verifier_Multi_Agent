@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percent did the employee benefits expense increase between 2004 and 2006?",
+      "answer": 1.81081,
+      "answer_raw": "1.81081",
+      "program": "subtract(208, 74), divide(#0, 74)"
+    }
+  ]
+}

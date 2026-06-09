@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the estimated amortization expense for finite-lived intangible assets from 2010 to 2011?",
+      "answer": 3.0,
+      "answer_raw": "3.0",
+      "program": "subtract(160, 157)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was this expense in 2010?",
+      "answer": 157.0,
+      "answer_raw": "157.0",
+      "program": "157"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, in percentage, did that change represent in relation to this 2010 amount?",
+      "answer": 0.01911,
+      "answer_raw": "0.01911",
+      "program": "subtract(160, 157), divide(#0, 157)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in this same year, what was the estimated amortization expense for finite-lived intangible assets as a percentage of the unsecured revolving credit facility?",
+      "answer": 0.0025,
+      "answer_raw": "0.0025",
+      "program": "divide(2.5, const_1000)"
+    }
+  ]
+}

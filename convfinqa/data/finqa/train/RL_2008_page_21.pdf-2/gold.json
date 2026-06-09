@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the wholesale segment as of march 29 , 2008 doors was in the united states and canada geography?",
+      "answer": 0.79687,
+      "answer_raw": "0.79687",
+      "program": "divide(8611, 10806)"
+    }
+  ]
+}

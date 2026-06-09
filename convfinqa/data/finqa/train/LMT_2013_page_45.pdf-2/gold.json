@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "as part of the is&gs results of operation what as the average operating profit from 2011 to 2013",
+      "answer": 813.66667,
+      "answer_raw": "813.66667",
+      "program": "add(759, 808), add(#0, 874), divide(#1, const_3)"
+    }
+  ]
+}

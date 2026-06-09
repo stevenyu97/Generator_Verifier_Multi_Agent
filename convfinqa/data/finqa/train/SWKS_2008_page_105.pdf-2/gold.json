@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what would be the total common stock par value if all authorized shares were outstanding?",
+      "answer": 131250000.0,
+      "answer_raw": "131250000.0",
+      "program": "multiply(525000000, 0.25)"
+    }
+  ]
+}

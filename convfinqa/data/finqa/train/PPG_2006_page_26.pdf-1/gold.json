@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was operating income return for 2005 in the industrial coatings segment?",
+      "answer": 0.09723,
+      "answer_raw": "0.09723",
+      "program": "divide(284, 2921)"
+    }
+  ]
+}

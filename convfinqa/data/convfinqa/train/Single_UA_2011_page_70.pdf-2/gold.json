@@ -1,0 +1,39 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the rent expense for the year ended 12/31/11?",
+      "answer": 26.7,
+      "answer_raw": "26.7",
+      "program": "26.7"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and for the year ended 12/31/10?",
+      "answer": 21.3,
+      "answer_raw": "21.3",
+      "program": "21.3"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "what was the difference between these two years?",
+      "answer": 5.4,
+      "answer_raw": "5.4",
+      "program": "subtract(26.7, 21.3)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and the specific amount for the period ended 12/31/10 again?",
+      "answer": 21.3,
+      "answer_raw": "21.3",
+      "program": "21.3"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "so what was the percentage change?",
+      "answer": 0.25352,
+      "answer_raw": "0.25352",
+      "program": "subtract(26.7, 21.3), divide(#0, 21.3)"
+    }
+  ]
+}

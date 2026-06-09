@@ -1,0 +1,25 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the change in the total of performance shares outstanding during 2011?",
+      "answer": 218602.0,
+      "answer_raw": "218602.0",
+      "program": "subtract(774788, 556186)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was that total in the beginning of the year?",
+      "answer": 556186.0,
+      "answer_raw": "556186.0",
+      "program": "556186"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "and how much, then, does that change represent in relation to this total, in percentage?",
+      "answer": 0.39304,
+      "answer_raw": "0.39304",
+      "program": "subtract(774788, 556186), divide(#0, 556186)"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "input": {
+    "id": "C/2008/page_193.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "application of specific accounting literature .",
+      "for the nonconsolidated proprietary tob trusts and qspe tob trusts , the company recognizes only its residual investment on its balance sheet at fair value and the third-party financing raised by the trusts is off-balance sheet .",
+      "the following table summarizes selected cash flow information related to municipal bond securitizations for the years 2008 , 2007 and 2006 : in billions of dollars 2008 2007 2006 ."
+    ],
+    "post_text": [
+      "cash flows received on retained interests and other net cash flows 0.5 2014 2014 municipal investments municipal investment transactions represent partnerships that finance the construction and rehabilitation of low-income affordable rental housing .",
+      "the company generally invests in these partnerships as a limited partner and earns a return primarily through the receipt of tax credits earned from the affordable housing investments made by the partnership .",
+      "client intermediation client intermediation transactions represent a range of transactions designed to provide investors with specified returns based on the returns of an underlying security , referenced asset or index .",
+      "these transactions include credit-linked notes and equity-linked notes .",
+      "in these transactions , the spe typically obtains exposure to the underlying security , referenced asset or index through a derivative instrument , such as a total-return swap or a credit-default swap .",
+      "in turn the spe issues notes to investors that pay a return based on the specified underlying security , referenced asset or index .",
+      "the spe invests the proceeds in a financial asset or a guaranteed insurance contract ( gic ) that serves as collateral for the derivative contract over the term of the transaction .",
+      "the company 2019s involvement in these transactions includes being the counterparty to the spe 2019s derivative instruments and investing in a portion of the notes issued by the spe .",
+      "in certain transactions , the investor 2019s maximum risk of loss is limited and the company absorbs risk of loss above a specified level .",
+      "the company 2019s maximum risk of loss in these transactions is defined as the amount invested in notes issued by the spe and the notional amount of any risk of loss absorbed by the company through a separate instrument issued by the spe .",
+      "the derivative instrument held by the company may generate a receivable from the spe ( for example , where the company purchases credit protection from the spe in connection with the spe 2019s issuance of a credit-linked note ) , which is collateralized by the assets owned by the spe .",
+      "these derivative instruments are not considered variable interests under fin 46 ( r ) and any associated receivables are not included in the calculation of maximum exposure to the spe .",
+      "structured investment vehicles structured investment vehicles ( sivs ) are spes that issue junior notes and senior debt ( medium-term notes and short-term commercial paper ) to fund the purchase of high quality assets .",
+      "the junior notes are subject to the 201cfirst loss 201d risk of the sivs .",
+      "the sivs provide a variable return to the junior note investors based on the net spread between the cost to issue the senior debt and the return realized by the high quality assets .",
+      "the company acts as manager for the sivs and , prior to december 13 , 2007 , was not contractually obligated to provide liquidity facilities or guarantees to the sivs .",
+      "in response to the ratings review of the outstanding senior debt of the sivs for a possible downgrade announced by two ratings agencies and the continued reduction of liquidity in the siv-related asset-backed commercial paper and medium-term note markets , on december 13 , 2007 , citigroup announced its commitment to provide support facilities that would support the sivs 2019 senior debt ratings .",
+      "as a result of this commitment , citigroup became the sivs 2019 primary beneficiary and began consolidating these entities .",
+      "on february 12 , 2008 , citigroup finalized the terms of the support facilities , which took the form of a commitment to provide $ 3.5 billion of mezzanine capital to the sivs in the event the market value of their junior notes approaches zero .",
+      "the mezzanine capital facility was increased by $ 1 billion to $ 4.5 billion , with the additional commitment funded during the fourth quarter of 2008 .",
+      "the facilities rank senior to the junior notes but junior to the commercial paper and medium-term notes .",
+      "the facilities were at arm 2019s-length terms .",
+      "interest was paid on the drawn amount of the facilities and a per annum fee was paid on the unused portion .",
+      "during the period to november 18 , 2008 , the company wrote down $ 3.3 billion on siv assets .",
+      "in order to complete the wind-down of the sivs , the company , in a nearly cashless transaction , purchased the remaining assets of the sivs at fair value , with a trade date of november 18 , 2008 .",
+      "the company funded the purchase of the siv assets by assuming the obligation to pay amounts due under the medium-term notes issued by the sivs , as the medium-term notes mature .",
+      "the net funding provided by the company to fund the purchase of the siv assets was $ 0.3 billion .",
+      "as of december 31 , 2008 , the carrying amount of the purchased siv assets was $ 16.6 billion , of which $ 16.5 billion is classified as htm assets .",
+      "investment funds the company is the investment manager for certain investment funds that invest in various asset classes including private equity , hedge funds , real estate , fixed income and infrastructure .",
+      "the company earns a management fee , which is a percentage of capital under management , and may earn performance fees .",
+      "in addition , for some of these funds the company has an ownership interest in the investment funds .",
+      "the company has also established a number of investment funds as opportunities for qualified employees to invest in private equity investments .",
+      "the company acts as investment manager to these funds and may provide employees with financing on both a recourse and non-recourse basis for a portion of the employees 2019 investment commitments. ."
+    ],
+    "table": [
+      [
+        "in billions of dollars",
+        "2008",
+        "2007",
+        "2006"
+      ],
+      [
+        "proceeds from new securitizations",
+        "$ 1.2",
+        "$ 10.5",
+        "2014"
+      ],
+      [
+        "cash flows received on retained interests and other net cash flows",
+        "0.5",
+        "2014",
+        "2014"
+      ]
+    ],
+    "questions": [
+      "what was the percentage change in proceeds from new securitizations from 2007 to 2008?"
+    ]
+  }
+}

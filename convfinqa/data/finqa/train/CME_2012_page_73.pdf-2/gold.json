@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the unrealized gain pre-tex for bolsa mexicana de valores?",
+      "answer": 12.0,
+      "answer_raw": "12.0",
+      "program": "subtract(29.3, 17.3)"
+    }
+  ]
+}

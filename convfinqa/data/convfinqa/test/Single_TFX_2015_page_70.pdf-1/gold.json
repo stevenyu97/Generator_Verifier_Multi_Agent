@@ -1,0 +1,18 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total value of the issued options, warrants, and rights?",
+      "answer": 125504485.76,
+      "answer_raw": "125504485.76",
+      "program": "multiply(1442912, 86.98)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "what about in millions?",
+      "answer": 125.50449,
+      "answer_raw": "125.50449",
+      "program": "multiply(1442912, 86.98), divide(#0, const_1000000)"
+    }
+  ]
+}

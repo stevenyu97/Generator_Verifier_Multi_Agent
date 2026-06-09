@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "for miscellaneous receivables and other assets , what was the percentage that represented assets related to the firm 2019s reinsurance business which were classified as held for sale as of december 2012?",
+      "answer": 3.464,
+      "answer_raw": "3.464",
+      "program": "divide(20234, const_1000), subtract(#0, 16.77)"
+    }
+  ]
+}

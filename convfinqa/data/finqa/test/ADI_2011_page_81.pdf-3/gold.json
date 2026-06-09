@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage increase of total deferred compensation plan investments from 2010 to 2011?\\\\n",
+      "answer": 2.03913,
+      "answer_raw": "2.03913",
+      "program": "subtract(26410, 8690), divide(#0, 8690)"
+    }
+  ]
+}

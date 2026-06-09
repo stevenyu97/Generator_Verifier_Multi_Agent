@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "by how much did total regulatory liabilities increase from 2017 to 2018?",
+      "answer": 0.14603,
+      "answer_raw": "0.14603",
+      "program": "subtract(1907, 1664), divide(#0, 1664)"
+    }
+  ]
+}

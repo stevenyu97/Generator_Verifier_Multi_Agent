@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the total fair value of vested shares in 2016?",
+      "answer": 17439.15,
+      "answer_raw": "17439.15",
+      "program": "multiply(633, 27.55)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of total accounts payable and other current liabilities was accrued casualty costs at december 31 , 2010?",
+      "answer": 0.11979,
+      "answer_raw": "0.11979",
+      "program": "divide(325, 2713)"
+    }
+  ]
+}

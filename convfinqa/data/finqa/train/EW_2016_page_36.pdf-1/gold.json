@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the percentage cumulative total return for edwards lifesciences for the five years ended 2016?",
+      "answer": 1.6506,
+      "answer_raw": "1.6506",
+      "program": "subtract(265.06, const_100), divide(#0, const_100)"
+    }
+  ]
+}

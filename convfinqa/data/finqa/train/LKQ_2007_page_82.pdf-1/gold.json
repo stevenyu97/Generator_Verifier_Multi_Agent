@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the average we sublease rental income from 2005 to 2007",
+      "answer": 86501.5,
+      "answer_raw": "86501.5",
+      "program": "add(54000, 70000), add(49000, #0), add(#1, const_3), divide(#2, const_2)"
+    }
+  ]
+}

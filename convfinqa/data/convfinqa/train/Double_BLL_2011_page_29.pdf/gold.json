@@ -1,0 +1,32 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the variation in the performance price of the ball corporation stock from 2006 to 2008?",
+      "answer": -2.96,
+      "answer_raw": "-2.96",
+      "program": "subtract(97.04, const_100)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what is this variation as a portion of that price in 2006?",
+      "answer": -0.0296,
+      "answer_raw": "-0.0296",
+      "program": "subtract(97.04, const_100), divide(#0, const_100)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "in that same period, what was that variation for dj us containers & packaging?",
+      "answer": -33.09,
+      "answer_raw": "-33.09",
+      "program": "subtract(66.91, const_100)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and how much does this variation represent in relation to the 2006 performance price of this stock?",
+      "answer": -0.3309,
+      "answer_raw": "-0.3309",
+      "program": "subtract(66.91, const_100), divide(#0, const_100)"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "input": {
+    "id": "JPM/2003/page_28.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "management 2019s discussion and analysis j.p .",
+      "morgan chase & co .",
+      "26 j.p .",
+      "morgan chase & co .",
+      "/ 2003 annual report $ 41.7 billion .",
+      "nii was reduced by a lower volume of commercial loans and lower spreads on investment securities .",
+      "as a compo- nent of nii , trading-related net interest income of $ 2.1 billion was up 13% ( 13 % ) from 2002 due to a change in the composition of , and growth in , trading assets .",
+      "the firm 2019s total average interest-earning assets in 2003 were $ 590 billion , up 6% ( 6 % ) from the prior year .",
+      "the net interest yield on these assets , on a fully taxable-equivalent basis , was 2.10% ( 2.10 % ) , compared with 2.09% ( 2.09 % ) in the prior year .",
+      "noninterest expense year ended december 31 ."
+    ],
+    "post_text": [
+      "technology and communications expense in 2003 , technology and communications expense was 11% ( 11 % ) above the prior-year level .",
+      "the increase was primarily due to a shift in expenses : costs that were previously associated with compensation and other expenses shifted , upon the commence- ment of the ibm outsourcing agreement , to technology and communications expense .",
+      "also contributing to the increase were higher costs related to software amortization .",
+      "for a further dis- cussion of the ibm outsourcing agreement , see support units and corporate on page 44 of this annual report .",
+      "other expense other expense in 2003 rose slightly from the prior year , reflecting higher outside services .",
+      "for a table showing the components of other expense , see note 8 on page 96 of this annual report .",
+      "surety settlement and litigation reserve the firm added $ 100 million to the enron-related litigation reserve in 2003 to supplement a $ 900 million reserve initially recorded in 2002 .",
+      "the 2002 reserve was established to cover enron-related matters , as well as certain other material litigation , proceedings and investigations in which the firm is involved .",
+      "in addition , in 2002 the firm recorded a charge of $ 400 million for the settlement of enron-related surety litigation .",
+      "merger and restructuring costs merger and restructuring costs related to business restructurings announced after january 1 , 2002 , were recorded in their relevant expense categories .",
+      "in 2002 , merger and restructuring costs of $ 1.2 billion , for programs announced prior to january 1 , 2002 , were viewed by management as nonoperating expenses or 201cspecial items . 201d refer to note 8 on pages 95 201396 of this annual report for a further discussion of merger and restructuring costs and for a summary , by expense category and business segment , of costs incurred in 2003 and 2002 for programs announced after january 1 , 2002 .",
+      "provision for credit losses the 2003 provision for credit losses was $ 2.8 billion lower than in 2002 , primarily reflecting continued improvement in the quality of the commercial loan portfolio and a higher volume of credit card securitizations .",
+      "for further information about the provision for credit losses and the firm 2019s management of credit risk , see the dis- cussions of net charge-offs associated with the commercial and consumer loan portfolios and the allowance for credit losses , on pages 63 201365 of this annual report .",
+      "income tax expense income tax expense was $ 3.3 billion in 2003 , compared with $ 856 million in 2002 .",
+      "the effective tax rate in 2003 was 33% ( 33 % ) , compared with 34% ( 34 % ) in 2002 .",
+      "the tax rate decline was principally attributable to changes in the proportion of income subject to state and local taxes .",
+      "compensation expense compensation expense in 2003 was 6% ( 6 % ) higher than in the prior year .",
+      "the increase principally reflected higher performance-related incentives , and higher pension and other postretirement benefit costs , primarily as a result of changes in actuarial assumptions .",
+      "for a detailed discussion of pension and other postretirement benefit costs , see note 6 on pages 89 201393 of this annual report .",
+      "the increase pertaining to incentives included $ 266 million as a result of adopting sfas 123 , and $ 120 million from the reversal in 2002 of previously accrued expenses for certain forfeitable key employ- ee stock awards , as discussed in note 7 on pages 93 201395 of this annual report .",
+      "total compensation expense declined as a result of the transfer , beginning april 1 , 2003 , of 2800 employees to ibm in connection with a technology outsourcing agreement .",
+      "the total number of full-time equivalent employees at december 31 , 2003 was 93453 compared with 94335 at the prior year-end .",
+      "occupancy expense occupancy expense of $ 1.9 billion rose 19% ( 19 % ) from 2002 .",
+      "the increase reflected costs of additional leased space in midtown manhattan and in the south and southwest regions of the united states ; higher real estate taxes in new york city ; and the cost of enhanced safety measures .",
+      "also contributing to the increase were charges for unoccupied excess real estate of $ 270 million ; this compared with $ 120 million in 2002 , mostly in the third quarter of that year. ."
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2003",
+        "2002",
+        "change"
+      ],
+      [
+        "compensation expense",
+        "$ 11695",
+        "$ 10983",
+        "6% ( 6 % )"
+      ],
+      [
+        "occupancy expense",
+        "1912",
+        "1606",
+        "19"
+      ],
+      [
+        "technology and communications expense",
+        "2844",
+        "2554",
+        "11"
+      ],
+      [
+        "other expense",
+        "5137",
+        "5111",
+        "1"
+      ],
+      [
+        "surety settlement and litigation reserve",
+        "100",
+        "1300",
+        "-92 ( 92 )"
+      ],
+      [
+        "merger and restructuring costs",
+        "2014",
+        "1210",
+        "nm"
+      ],
+      [
+        "total noninterest expense",
+        "$ 21688",
+        "$ 22764",
+        "( 5 ) % (  % )"
+      ]
+    ],
+    "questions": [
+      "what was the value of the firms interest earning assets in 2002 in millions"
+    ]
+  }
+}

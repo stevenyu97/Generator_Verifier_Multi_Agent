@@ -1,0 +1,55 @@
+{
+  "input": {
+    "id": "UPS/2017/page_31.pdf-1",
+    "dataset": "finqa",
+    "pre_text": [
+      "shareowner return performance graph the following performance graph and related information shall not be deemed 201csoliciting material 201d or to be 201cfiled 201d with the sec , nor shall such information be incorporated by reference into any future filing under the securities act of 1933 or securities exchange act of 1934 , each as amended , except to the extent that the company specifically incorporates such information by reference into such filing .",
+      "the following graph shows a five-year comparison of cumulative total shareowners 2019 returns for our class b common stock , the standard & poor 2019s 500 index and the dow jones transportation average .",
+      "the comparison of the total cumulative return on investment , which is the change in the quarterly stock price plus reinvested dividends for each of the quarterly periods , assumes that $ 100 was invested on december 31 , 2012 in the standard & poor 2019s 500 index , the dow jones transportation average and our class b common stock. ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "table": [
+      [
+        "",
+        "12/31/2012",
+        "12/31/2013",
+        "12/31/2014",
+        "12/31/2015",
+        "12/31/2016",
+        "12/31/2017"
+      ],
+      [
+        "united parcel service inc .",
+        "$ 100.00",
+        "$ 146.54",
+        "$ 159.23",
+        "$ 148.89",
+        "$ 182.70",
+        "$ 195.75"
+      ],
+      [
+        "standard & poor 2019s 500 index",
+        "$ 100.00",
+        "$ 132.38",
+        "$ 150.49",
+        "$ 152.55",
+        "$ 170.79",
+        "$ 208.06"
+      ],
+      [
+        "dow jones transportation average",
+        "$ 100.00",
+        "$ 141.38",
+        "$ 176.83",
+        "$ 147.19",
+        "$ 179.37",
+        "$ 213.49"
+      ]
+    ],
+    "questions": [
+      "what is the total cumulative percentage return on investment on class b common stock for the five years ended 122/31/2017?"
+    ]
+  }
+}

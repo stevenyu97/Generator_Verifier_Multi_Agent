@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what is the expected growth rate in operating leases in 2010 compare to 2009?",
+      "answer": -0.12736,
+      "answer_raw": "-0.12736",
+      "program": "subtract(2220, 2544), divide(#0, 2544)"
+    }
+  ]
+}

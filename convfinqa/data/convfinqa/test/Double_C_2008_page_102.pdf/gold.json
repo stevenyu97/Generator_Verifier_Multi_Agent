@@ -1,0 +1,46 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what was the tier 2 capital in 2008?",
+      "answer": 37.4,
+      "answer_raw": "37.4",
+      "program": "subtract(108.4, 71.0)"
+    },
+    {
+      "line_id": "turn_1",
+      "question": "and what was it in 2007?",
+      "answer": 39.6,
+      "answer_raw": "39.6",
+      "program": "subtract(108.4, 71.0), subtract(121.6, 82.0)"
+    },
+    {
+      "line_id": "turn_2",
+      "question": "how much, then, did the 2008 amount represent in relation to this 2007 one?",
+      "answer": 0.94444,
+      "answer_raw": "0.94444",
+      "program": "subtract(108.4, 71.0), subtract(121.6, 82.0), divide(#0, #1)"
+    },
+    {
+      "line_id": "turn_3",
+      "question": "and in that last year of the period, what was the total capital?",
+      "answer": 108.4,
+      "answer_raw": "108.4",
+      "program": "108.4"
+    },
+    {
+      "line_id": "turn_4",
+      "question": "what was it in 2007?",
+      "answer": 121.6,
+      "answer_raw": "121.6",
+      "program": "121.6"
+    },
+    {
+      "line_id": "turn_5",
+      "question": "by how much, then, did it increase over the year?",
+      "answer": -13.2,
+      "answer_raw": "-13.2",
+      "program": "subtract(108.4, 121.6)"
+    }
+  ]
+}

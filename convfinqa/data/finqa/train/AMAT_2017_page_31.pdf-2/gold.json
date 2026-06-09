@@ -1,0 +1,11 @@
+{
+  "turns": [
+    {
+      "line_id": "turn_0",
+      "question": "what percentage of the company's property is located in other countries and it is owned by the company?",
+      "answer": 0.21697,
+      "answer_raw": "0.21697",
+      "program": "divide(1652, 7614)"
+    }
+  ]
+}

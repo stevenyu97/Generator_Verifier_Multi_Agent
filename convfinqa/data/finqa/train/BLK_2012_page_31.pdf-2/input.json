@@ -1,0 +1,85 @@
+{
+  "input": {
+    "id": "BLK/2012/page_31.pdf-2",
+    "dataset": "finqa",
+    "pre_text": [
+      "although many clients use both active and passive strategies , the application of these strategies differs greatly .",
+      "for example , clients may use index products to gain exposure to a market or asset class pending reallocation to an active manager .",
+      "this has the effect of increasing turnover of index aum .",
+      "in addition , institutional non-etp index assignments tend to be very large ( multi- billion dollars ) and typically reflect low fee rates .",
+      "this has the potential to exaggerate the significance of net flows in institutional index products on blackrock 2019s revenues and earnings .",
+      "equity year-end 2012 equity aum of $ 1.845 trillion increased by $ 285.4 billion , or 18% ( 18 % ) , from the end of 2011 , largely due to flows into regional , country-specific and global mandates and the effect of higher market valuations .",
+      "equity aum growth included $ 54.0 billion in net new business and $ 3.6 billion in new assets related to the acquisition of claymore .",
+      "net new business of $ 54.0 billion was driven by net inflows of $ 53.0 billion and $ 19.1 billion into ishares and non-etp index accounts , respectively .",
+      "passive inflows were offset by active net outflows of $ 18.1 billion , with net outflows of $ 10.0 billion and $ 8.1 billion from fundamental and scientific active equity products , respectively .",
+      "passive strategies represented 84% ( 84 % ) of equity aum with the remaining 16% ( 16 % ) in active mandates .",
+      "institutional investors represented 62% ( 62 % ) of equity aum , while ishares , and retail and hnw represented 29% ( 29 % ) and 9% ( 9 % ) , respectively .",
+      "at year-end 2012 , 63% ( 63 % ) of equity aum was managed for clients in the americas ( defined as the united states , caribbean , canada , latin america and iberia ) compared with 28% ( 28 % ) and 9% ( 9 % ) managed for clients in emea and asia-pacific , respectively .",
+      "blackrock 2019s effective fee rates fluctuate due to changes in aum mix .",
+      "approximately half of blackrock 2019s equity aum is tied to international markets , including emerging markets , which tend to have higher fee rates than similar u.s .",
+      "equity strategies .",
+      "accordingly , fluctuations in international equity markets , which do not consistently move in tandem with u.s .",
+      "markets , may have a greater impact on blackrock 2019s effective equity fee rates and revenues .",
+      "fixed income fixed income aum ended 2012 at $ 1.259 trillion , rising $ 11.6 billion , or 1% ( 1 % ) , relative to december 31 , 2011 .",
+      "growth in aum reflected $ 43.3 billion in net new business , excluding the two large previously mentioned low-fee outflows , $ 75.4 billion in market and foreign exchange gains and $ 3.0 billion in new assets related to claymore .",
+      "net new business was led by flows into domestic specialty and global bond mandates , with net inflows of $ 28.8 billion , $ 13.6 billion and $ 3.1 billion into ishares , non-etp index and model-based products , respectively , partially offset by net outflows of $ 2.2 billion from fundamental strategies .",
+      "fixed income aum was split between passive and active strategies with 48% ( 48 % ) and 52% ( 52 % ) , respectively .",
+      "institutional investors represented 74% ( 74 % ) of fixed income aum while ishares and retail and hnw represented 15% ( 15 % ) and 11% ( 11 % ) , respectively .",
+      "at year-end 2012 , 59% ( 59 % ) of fixed income aum was managed for clients in the americas compared with 33% ( 33 % ) and 8% ( 8 % ) managed for clients in emea and asia- pacific , respectively .",
+      "multi-asset class component changes in multi-asset class aum ( dollar amounts in millions ) 12/31/2011 net new business acquired market /fx app ( dep ) 12/31/2012 ."
+    ],
+    "post_text": [
+      "multi-asset class aum totaled $ 267.7 billion at year-end 2012 , up 19% ( 19 % ) , or $ 42.6 billion , reflecting $ 15.8 billion in net new business and $ 26.7 billion in portfolio valuation gains .",
+      "blackrock 2019s multi-asset class team manages a variety of bespoke mandates for a diversified client base that leverages our broad investment expertise in global equities , currencies , bonds and commodities , and our extensive risk management capabilities .",
+      "investment solutions might include a combination of long-only portfolios and alternative investments as well as tactical asset allocation overlays .",
+      "at december 31 , 2012 , institutional investors represented 66% ( 66 % ) of multi-asset class aum , while retail and hnw accounted for the remaining aum .",
+      "additionally , 58% ( 58 % ) of multi-asset class aum is managed for clients based in the americas with 37% ( 37 % ) and 5% ( 5 % ) managed for clients in emea and asia-pacific , respectively .",
+      "flows reflected ongoing institutional demand for our advice in an increasingly ."
+    ],
+    "table": [
+      [
+        "( dollar amounts in millions )",
+        "12/31/2011",
+        "net new business",
+        "net acquired",
+        "market /fx app ( dep )",
+        "12/31/2012"
+      ],
+      [
+        "asset allocation",
+        "$ 126067",
+        "$ 1575",
+        "$ 78",
+        "$ 12440",
+        "$ 140160"
+      ],
+      [
+        "target date/risk",
+        "49063",
+        "14526",
+        "2014",
+        "6295",
+        "69884"
+      ],
+      [
+        "fiduciary",
+        "50040",
+        "-284 ( 284 )",
+        "2014",
+        "7948",
+        "57704"
+      ],
+      [
+        "multi-asset",
+        "$ 225170",
+        "$ 15817",
+        "$ 78",
+        "$ 26683",
+        "$ 267748"
+      ]
+    ],
+    "questions": [
+      "what is the percent change in multi-asset from 12/31/2011 to 12/31/2012?"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "input": {
+    "id": "Double_TXN/2017/page_55.pdf",
+    "dataset": "convfinqa",
+    "pre_text": [
+      "assumed health care cost trend rates for the u.s .",
+      "retiree health care benefit plan as of december 31 are as follows: ."
+    ],
+    "post_text": [
+      "a one percentage point increase or decrease in health care cost trend rates over all future periods would have increased or decreased the accumulated postretirement benefit obligation for the u.s .",
+      "retiree health care benefit plan as of december 31 , 2017 , by $ 1 million .",
+      "the service cost and interest cost components of 2017 plan expense would have increased or decreased by less than $ 1 million .",
+      "deferred compensation arrangements we have a deferred compensation plan that allows u.s .",
+      "employees whose base salary and management responsibility exceed a certain level to defer receipt of a portion of their cash compensation .",
+      "payments under this plan are made based on the participant 2019s distribution election and plan balance .",
+      "participants can earn a return on their deferred compensation based on notional investments in the same investment funds that are offered in our defined contribution plans .",
+      "as of december 31 , 2017 , our liability to participants of the deferred compensation plans was $ 255 million and is recorded in other long-term liabilities on our consolidated balance sheets .",
+      "this amount reflects the accumulated participant deferrals and earnings thereon as of that date .",
+      "as of december 31 , 2017 , we held $ 236 million in mutual funds related to these plans that are recorded in long-term investments on our consolidated balance sheets , and serve as an economic hedge against changes in fair values of our other deferred compensation liabilities .",
+      "we record changes in the fair value of the liability and the related investment in sg&a as discussed in note 8 .",
+      "11 .",
+      "debt and lines of credit short-term borrowings we maintain a line of credit to support commercial paper borrowings , if any , and to provide additional liquidity through bank loans .",
+      "as of december 31 , 2017 , we had a variable-rate revolving credit facility from a consortium of investment-grade banks that allows us to borrow up to $ 2 billion until march 2022 .",
+      "the interest rate on borrowings under this credit facility , if drawn , is indexed to the applicable london interbank offered rate ( libor ) .",
+      "as of december 31 , 2017 , our credit facility was undrawn and we had no commercial paper outstanding .",
+      "long-term debt we retired $ 250 million of maturing debt in march 2017 and another $ 375 million in june 2017 .",
+      "in may 2017 , we issued an aggregate principal amount of $ 600 million of fixed-rate , long-term debt .",
+      "the offering consisted of the reissuance of $ 300 million of 2.75% ( 2.75 % ) notes due in 2021 at a premium and the issuance of $ 300 million of 2.625% ( 2.625 % ) notes due in 2024 at a discount .",
+      "we incurred $ 3 million of issuance and other related costs .",
+      "the proceeds of the offerings were $ 605 million , net of the original issuance discount and premium , and were used for the repayment of maturing debt and general corporate purposes .",
+      "in november 2017 , we issued a principal amount of $ 500 million of fixed-rate , long-term debt due in 2027 .",
+      "we incurred $ 3 million of issuance and other related costs .",
+      "the proceeds of the offering were $ 494 million , net of the original issuance discount , and were used for general corporate purposes .",
+      "in may 2016 , we issued a principal amount of $ 500 million of fixed-rate , long-term debt due in 2022 .",
+      "we incurred $ 3 million of issuance and other related costs .",
+      "the proceeds of the offering were $ 499 million , net of the original issuance discount , and were used toward the repayment of a portion of $ 1.0 billion of maturing debt retired in may 2016 .",
+      "in may 2015 , we issued a principal amount of $ 500 million of fixed-rate , long-term debt due in 2020 .",
+      "we incurred $ 3 million of issuance and other related costs .",
+      "the proceeds of the offering were $ 498 million , net of the original issuance discount , and were used toward the repayment of a portion of the debt that matured in august 2015 .",
+      "we retired $ 250 million of maturing debt in april 2015 and another $ 750 million in august 2015 .",
+      "texas instruments 2022 2017 form 10-k 51 ."
+    ],
+    "table": [
+      [
+        "",
+        "2017",
+        "2016"
+      ],
+      [
+        "assumed health care cost trend rate for next year",
+        "7.50% ( 7.50 % )",
+        "6.75% ( 6.75 % )"
+      ],
+      [
+        "ultimate trend rate",
+        "5.00% ( 5.00 % )",
+        "5.00% ( 5.00 % )"
+      ],
+      [
+        "year in which ultimate trend rate is reached",
+        "2028",
+        "2024"
+      ]
+    ],
+    "questions": [
+      "what amount of long-term debt was retired during 2017?",
+      "what is the net change in assumed health care cost trend rate from 2016 to 2017?"
+    ]
+  }
+}
