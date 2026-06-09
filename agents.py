@@ -79,6 +79,14 @@ def _trim_input_for_verifier(input_json: Dict[str, Any], max_keys: int = 60) -> 
     inp = input_json.get("input", input_json)
     if not isinstance(inp, dict):
         return input_json
+    # FinQA / ConvFinQA documents use pre_text/post_text/table, not tax return_data.
+    if "return_data" not in inp and ("pre_text" in inp or "table" in inp):
+        try:
+            from convfinqa.cfq_prompts import trim_input_for_verifier as _cfq_trim
+
+            return _cfq_trim(input_json)
+        except ImportError:
+            return inp
     out = {"return_header": inp.get("return_header", {})}
     rd = inp.get("return_data", {})
     if isinstance(rd, dict) and len(rd) > max_keys:
@@ -111,6 +119,55 @@ def verifier_agent(
                 continue
             raise
 
+    return parse_verifier_raw_to_safety_case(raw, draft, sac_only=True)
+
+
+def _apply_verifier_numeric_checks(draft: DraftReturn, safety_case: SafetyCase) -> SafetyCase:
+    """Lightweight numeric sanity checks that can upgrade overly-optimistic Verifier verdicts.
+
+    These checks are deterministic and operate only on the draft itself, not on ground-truth XML.
+    If a line's amount is arithmetically inconsistent with related lines but the Verifier marked
+    it as 'correct', we downgrade it to 'suspicious' so downstream analysis sees a sac for it.
+    """
+    # Index draft lines by (form, line) for quick lookup
+    amounts: Dict[tuple, float] = {}
+    for dl in draft.lines:
+        try:
+            amt = float(dl.amount)
+        except (TypeError, ValueError):
+            amt = 0.0
+        key = ((dl.form or "1040").strip(), (dl.line or "").strip())
+        amounts[key] = amt
+
+    # Helper to get 1040 line amount with default 0.0
+    def _amt(line_id: str) -> float:
+        return amounts.get(("1040", line_id), 0.0)
+
+    # Tax-only internal-consistency rule: Line 11 ≈ Line 9 − Line 10
+    if ("1040", "11") not in amounts:
+        return safety_case
+    target = _amt("11")
+    lhs = _amt("9") - _amt("10")
+    if abs(target - lhs) > 1e-6:
+        for lf in safety_case.line_findings:
+            if lf.form == "1040" and lf.line.strip() == "11" and lf.verdict == "correct":
+                lf.verdict = "suspicious"
+
+    return safety_case
+
+
+def parse_verifier_raw_to_safety_case(
+    raw: Dict[str, Any],
+    draft: DraftReturn,
+    *,
+    sac_only: bool = True,
+) -> SafetyCase:
+    """Parse verifier JSON into a ``SafetyCase``.
+
+    Numeric checks run on the full finding list first. If ``sac_only`` (default),
+    findings with verdict ``correct`` are then removed for SAC-style payloads.
+    Use ``sac_only=False`` for training rewards over all 19 evaluated lines.
+    """
     _valid_verdicts = ("correct", "plausible", "suspicious", "wrong")
     _valid_overall = ("accept", "uncertain", "reject")
     line_findings = []
@@ -141,46 +198,21 @@ def verifier_agent(
     if ov not in _valid_overall:
         ov = "uncertain"
 
-    # Only output sac for lines the Verifier does not mark as "correct". Omit "correct" so V no-sac = V thinks correct.
-    line_findings_for_sac = [lf for lf in line_findings if lf.verdict != "correct"]
     safety_case = SafetyCase(
         claim_id=raw.get("claim_id", "safety-case-1"),
         overall_verdict=ov,
         overall_confidence=float(raw.get("overall_confidence", 0.0)),
-        line_findings=line_findings_for_sac,
+        line_findings=line_findings,
     )
-    return _apply_verifier_numeric_checks(draft, safety_case)
-
-
-def _apply_verifier_numeric_checks(draft: DraftReturn, safety_case: SafetyCase) -> SafetyCase:
-    """Lightweight numeric sanity checks that can upgrade overly-optimistic Verifier verdicts.
-
-    These checks are deterministic and operate only on the draft itself, not on ground-truth XML.
-    If a line's amount is arithmetically inconsistent with related lines but the Verifier marked
-    it as 'correct', we downgrade it to 'suspicious' so downstream analysis sees a sac for it.
-    """
-    # Index draft lines by (form, line) for quick lookup
-    amounts: Dict[tuple, float] = {}
-    for dl in draft.lines:
-        try:
-            amt = float(dl.amount)
-        except (TypeError, ValueError):
-            amt = 0.0
-        key = ((dl.form or "1040").strip(), (dl.line or "").strip())
-        amounts[key] = amt
-
-    # Helper to get 1040 line amount with default 0.0
-    def _amt(line_id: str) -> float:
-        return amounts.get(("1040", line_id), 0.0)
-
-    # Simple internal-consistency rule: Line 11 ≈ Line 9 − Line 10
-    target = _amt("11")
-    lhs = _amt("9") - _amt("10")
-    if abs(target - lhs) > 1e-6:
-        for lf in safety_case.line_findings:
-            if lf.form == "1040" and lf.line.strip() == "11" and lf.verdict == "correct":
-                lf.verdict = "suspicious"
-
+    safety_case = _apply_verifier_numeric_checks(draft, safety_case)
+    if sac_only:
+        sac = [lf for lf in safety_case.line_findings if lf.verdict != "correct"]
+        safety_case = SafetyCase(
+            claim_id=safety_case.claim_id,
+            overall_verdict=safety_case.overall_verdict,
+            overall_confidence=safety_case.overall_confidence,
+            line_findings=sac,
+        )
     return safety_case
 
 
