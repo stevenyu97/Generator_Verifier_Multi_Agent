@@ -6,7 +6,7 @@ pipeline used during training. Reports per-case strict and post-revise
 accuracy, plus the 8-bucket case histogram, identical in shape to the
 periodic-eval JSONL written during training.
 
-Why this works: train_grpo._set_active_adapter() is a no-op when the model
+Why this works: dpa_grpo.checkpointing._set_active_adapter() is a no-op when the model
 isn't wrapped by PEFT, so all three agent calls (Filer, Verifier, Approver)
 share the same base policy — the canonical "zero-shot" setting.
 
@@ -29,14 +29,11 @@ from pathlib import Path
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-from dataset_registry import get_dataset_config
-from train_grpo import (
-    _resolve_model_path,
-    _run_dual_periodic_eval,
-    configure_dataset,
-    discover_case_dirs,
-    split_train_test_cases,
-)
+from benchmarks.registry import get_dataset_config
+from dpa_grpo.checkpointing import _resolve_model_path
+from dpa_grpo.config import configure_dataset
+from dpa_grpo.data import discover_case_dirs, split_train_test_cases
+from dpa_grpo.eval import _run_dual_periodic_eval
 
 
 def build_eval_args(

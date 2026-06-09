@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# Training artifacts live outside the repo (see DPA_GRPO_CHECKPOINT_ROOT)
+grpo_checkpoints/
+
+# Optional: raw dataset downloads (converted data under convfinqa/data/ is kept)
+convfinqa/raw/
+
+# Editor / OS
+.DS_Store
+*.swp
+.idea/
+.vscode/
