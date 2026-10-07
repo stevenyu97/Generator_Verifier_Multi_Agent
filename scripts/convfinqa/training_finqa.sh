@@ -3,7 +3,8 @@
 set -euo pipefail
 export DPA_GRPO_CHECKPOINT_ROOT="${DPA_GRPO_CHECKPOINT_ROOT:-/home/ubuntu/llm_artifacts/grpo_checkpoints}"
 CKPT_ROOT="${DPA_GRPO_CHECKPOINT_ROOT}"
-cd "$(dirname "$0")/.."
+cd "$(dirname "$0")/../.."
+REPO_ROOT="$(pwd)"
 
 export PYTORCH_ALLOC_CONF="${PYTORCH_ALLOC_CONF:-expandable_segments:True}"
 
@@ -23,8 +24,8 @@ python train_grpo.py \
   --steps "${RUN_STEPS}" \
   --resume-from "${RESUME_FROM}" \
   --output-dir ${CKPT_ROOT} \
-  --model-path "${TAX_MODEL_PATH:-/home/ubuntu/models/models--Qwen--Qwen3-4B}" \
-  --cases-root "${HOME}/llm/convfinqa/data/finqa/train" \
+  --model-path "${TAX_MODEL_PATH:-$HOME/models/Qwen3-4B}" \
+  --cases-root "${CASES_ROOT:-${REPO_ROOT}/benchmarks/convfinqa/data/finqa/train}" \
   --test-fraction 0.2 \
   --split-seed 42 \
   --train-case-subset-size 10 \

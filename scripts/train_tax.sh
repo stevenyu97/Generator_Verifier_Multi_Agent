@@ -13,7 +13,8 @@
 set -euo pipefail
 export DPA_GRPO_CHECKPOINT_ROOT="${DPA_GRPO_CHECKPOINT_ROOT:-/home/ubuntu/llm_artifacts/grpo_checkpoints}"
 CKPT_ROOT="${DPA_GRPO_CHECKPOINT_ROOT}"
-cd "$(dirname "$0")/.."
+REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+cd "${REPO_ROOT}"
 
 export PYTORCH_ALLOC_CONF="${PYTORCH_ALLOC_CONF:-expandable_segments:True}"
 
@@ -22,10 +23,9 @@ RUN_STEPS="${RUN_STEPS:-30}"
 RESUME_FROM="${RESUME_FROM:-}"
 
 RUN_DIR="${CKPT_ROOT}/${RUN_NAME}"
-if [[ -d "${RUN_DIR}" && -z "${RESUME_FROM}" && "${FORCE:-0}" != "1" ]]; then
-  echo "ERROR: ${RUN_DIR} already exists." >&2
-  echo "  Pick a new RUN_NAME, set RESUME_FROM=${RUN_DIR}, or set FORCE=1." >&2
-  exit 1
+if [[ -d "${RUN_DIR}" && -z "${RESUME_FROM}" ]]; then
+  echo "[train] Removing existing run dir: ${RUN_DIR}"
+  rm -rf "${RUN_DIR}"
 fi
 echo "[run.sh] RUN_NAME=${RUN_NAME} RUN_STEPS=${RUN_STEPS} RESUME_FROM=${RESUME_FROM:-<none>}"
 
@@ -34,8 +34,8 @@ python train_grpo.py \
   --steps "${RUN_STEPS}" \
   --resume-from "${RESUME_FROM}" \
   --output-dir ${CKPT_ROOT} \
-  --model-path "${TAX_MODEL_PATH:-/home/ubuntu/models/models--Qwen--Qwen3-8B}" \
-  --cases-root "${HOME}/llm/tax-calc-bench/tax_calc_bench/ty24/test_data" \
+  --model-path "${TAX_MODEL_PATH:-$HOME/models/Qwen3-8B}" \
+  --cases-root "${CASES_ROOT:-${REPO_ROOT}/tax-calc-bench/tax_calc_bench/ty24/test_data}" \
   --test-fraction 0.2 \
   --split-seed 42 \
   --train-case-subset-size 10 \
@@ -73,11 +73,9 @@ python train_grpo.py \
   --line-case-taxonomy
 
 METRICS_PATH="${RUN_DIR}/metrics.jsonl"
-if [[ -f "${METRICS_PATH}" ]]; then
+if [[ -f paper/equilibrium_metrics.py && -f "${METRICS_PATH}" ]]; then
   python paper/equilibrium_metrics.py \
     --metrics-jsonl "${METRICS_PATH}" \
     --window-size 5 \
     | tee "${RUN_DIR}/equilibrium_report.txt"
-else
-  echo "equilibrium report skipped: ${METRICS_PATH} not found"
 fi

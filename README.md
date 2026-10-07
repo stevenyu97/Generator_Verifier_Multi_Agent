@@ -20,7 +20,27 @@ Training uses per-line (or per-turn) 2-GRPO with an 8-case credit-assignment tax
 | Variable | Default | Purpose |
 |---|---|---|
 | `DPA_GRPO_CHECKPOINT_ROOT` | `/home/ubuntu/llm_artifacts/grpo_checkpoints` | Training checkpoints and eval logs |
-| `TAX_MODEL_PATH` | `/home/ubuntu/models/models--Qwen--Qwen3-4B` | HuggingFace model path |
+| `TAX_MODEL_PATH` | `$HOME/models/Qwen3-4B` | Local Qwen model directory |
+| `CASES_ROOT` | dataset default below | Override the case folder for one training script |
+
+## Qwen models
+
+Weights are not in this repo. Download them with the Hugging Face CLI (`huggingface_hub` comes in with `transformers` from `requirements.txt`):
+
+```bash
+pip install -r requirements.txt
+huggingface-cli download Qwen/Qwen3-4B --local-dir "$HOME/models/Qwen3-4B"
+export TAX_MODEL_PATH="$HOME/models/Qwen3-4B"
+```
+
+`scripts/train_tax.sh` uses Qwen3-8B when `TAX_MODEL_PATH` is unset. Download that checkpoint the same way if you want it:
+
+```bash
+huggingface-cli download Qwen/Qwen3-8B --local-dir "$HOME/models/Qwen3-8B"
+export TAX_MODEL_PATH="$HOME/models/Qwen3-8B"
+```
+
+`TAX_MODEL_PATH` can be that folder, or a Hugging Face cache directory named like `models--Qwen--Qwen3-4B` that contains `snapshots/`. Training does not download the model for you.
 
 ## Quickstart
 
@@ -44,14 +64,14 @@ python download_data.py
 python convert.py
 ```
 
-That creates:
+That creates the folders the FinQA and ConvFinQA launchers use by default:
 
-- `benchmarks/convfinqa/data/finqa/`
-- `benchmarks/convfinqa/data/convfinqa/`
+- `benchmarks/convfinqa/data/finqa/train`
+- `benchmarks/convfinqa/data/convfinqa/train`
 
-`.gitignore` excludes `benchmarks/convfinqa/data/` and `benchmarks/convfinqa/raw/`, so those directories will not appear on GitHub. Small checked-in samples are in `benchmarks/convfinqa/fixtures/`.
+`.gitignore` excludes `benchmarks/convfinqa/data/` and `benchmarks/convfinqa/raw/`, so those directories will not appear on GitHub. Small checked-in samples are in `benchmarks/convfinqa/fixtures/`. Set `CASES_ROOT` to point a launcher at a different folder.
 
-The tax adapter is [`benchmarks/tax/`](benchmarks/tax/). TaxCalcBench cases are external and are not stored in this repo.
+The tax adapter is [`benchmarks/tax/`](benchmarks/tax/). `scripts/train_tax.sh` reads cases from `tax-calc-bench/tax_calc_bench/ty24/test_data` under the repo root, or from `CASES_ROOT`. TaxCalcBench is not stored in this repo.
 
 ## Imports
 
