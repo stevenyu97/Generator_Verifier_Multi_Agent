@@ -14,7 +14,11 @@ import torch.nn.functional as F
 from torch.optim import AdamW
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-
+from dpa_grpo.sampling import (
+    completion_logprob_sum,
+    completion_token_logprobs,
+    ref_context_manager,
+)
 
 def grpo_group_accumulate_gradients(
     model: torch.nn.Module,
@@ -26,11 +30,21 @@ def grpo_group_accumulate_gradients(
     use_amp: bool,
     scaler: Optional[Any],
     loss_scale: float = 1.0,
+    *,
+    length_normalize: bool = True,
 ) -> float:
     """One GRPO group: backward **per sequence** so peak memory is O(1) seq graph, not O(K).
 
     Gradients accumulate to match the mean of per-sequence GRPO losses. Returns that mean
     (detached) for logging.
+
+    With ``length_normalize`` the policy term uses the **mean** per-token log-prob rather
+    than the sum. A summed log-prob makes the gradient magnitude proportional to completion
+    length, so for a paired binary decision the branch that emits more text dominates the
+    update even when both branches carry the same reward. In the dual setting a SAC verdict
+    is a long structured JSON while NO_SAC is a short refusal (~3x on tax), which ratchets
+    the intervention rate toward 1.0 and then compounds via the revision branch. Set to
+    False only to reproduce pre-fix runs.
     """
     ctx = ref_context_manager(model)
     model.train()
@@ -45,14 +59,35 @@ def grpo_group_accumulate_gradients(
     ):
         for i, (seq, plen) in enumerate(zip(sequences, prompt_lengths)):
             adv_f = float(advantages[i].item())
-            lp = completion_logprob_sum(model, seq, plen, enable_grad=True)
-            if ctx is not None:
-                with ctx():
-                    ref_lp = completion_logprob_sum(
-                        model, seq, plen, enable_grad=False
+            if length_normalize:
+                tok_lp = completion_token_logprobs(
+                    model, seq, plen, enable_grad=True
+                )
+                if tok_lp.numel() == 0:
+                    continue
+                n_tok = int(tok_lp.numel())
+                if ctx is not None:
+                    with ctx():
+                        ref_tok = completion_token_logprobs(
+                            model, seq, plen, enable_grad=False
+                        )
+                    n_tok = int(min(n_tok, ref_tok.numel())) or n_tok
+                    ref_val = (
+                        float(ref_tok[:n_tok].mean()) if ref_tok.numel() else None
                     )
+                else:
+                    ref_val = None
+                lp = tok_lp[:n_tok].mean()
+                ref_lp = lp.detach() if ref_val is None else ref_val
             else:
-                ref_lp = lp.detach()
+                lp = completion_logprob_sum(model, seq, plen, enable_grad=True)
+                if ctx is not None:
+                    with ctx():
+                        ref_lp = completion_logprob_sum(
+                            model, seq, plen, enable_grad=False
+                        )
+                else:
+                    ref_lp = lp.detach()
             loss_term = -adv_f * lp + beta_kl * (lp - ref_lp)
             total_log += float(loss_term.detach().cpu()) / k * loss_scale
             to_backward = loss_term / k * float(loss_scale)

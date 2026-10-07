@@ -37,6 +37,7 @@ from dpa_grpo.config import (
     _line_verifier_user_payload,
     _verifier_system_prompt_for,
 )
+from dpa_grpo.data import _draft_to_dict
 from dpa_grpo.parsing import (
     _extract_line_verdict_from_raw,
     build_chat_text,

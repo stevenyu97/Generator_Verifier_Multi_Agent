@@ -15,7 +15,7 @@ from torch.optim import AdamW
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 from dpa_grpo.checkpointing import _set_active_adapter
-from dpa_grpo.config import _approver_line_prompt, _filer_line_prompt, _line_filer_user_payload, _line_revise_user_payload, _line_verifier_user_payload
+from dpa_grpo.config import _approver_line_prompt, _filer_line_prompt, _line_filer_user_payload, _line_revise_user_payload, _line_verifier_user_payload, _verifier_system_prompt_for
 from dpa_grpo.losses import grpo_group_accumulate_gradients, ppo_clip_accumulate_gradients
 from dpa_grpo.parsing import build_chat_text, _parse_approver_decision
 from dpa_grpo.sampling import _build_seq_from_prompt_and_action, _sample_line_action, completion_token_logprobs
@@ -108,11 +108,12 @@ def _apply_transition_batch_update(
             samples = list(fp.get("samples") or [])
             rewards = list(fp.get("rewards") or [])
             f_user = fp.get("user", "")
-            if len(samples) >= 2 and len(rewards) >= 2 and f_user:
+            n_group = min(len(samples), len(rewards))
+            if n_group >= 2 and f_user:
                 _set_active_adapter(model, roles["filer_adapter"])
                 seqs_f: List[torch.Tensor] = []
                 pl_f: List[int] = []
-                for sample_text in samples[:2]:
+                for sample_text in samples[:n_group]:
                     seq, pl = _build_seq_from_prompt_and_action(
                         tokenizer,
                         _filer_line_prompt(),
@@ -123,14 +124,13 @@ def _apply_transition_batch_update(
                     seqs_f.append(seq)
                     pl_f.append(pl)
                 rfs = torch.tensor(
-                    rewards[:2], device=device, dtype=torch.float32
+                    rewards[:n_group], device=device, dtype=torch.float32
                 )
-                # Skip update when both samples have identical reward: the
+                # Skip update when every sample has the same reward: the
                 # GRPO advantage is zero everywhere and the gradient is zero
                 # too (advantage standardisation is undefined for std=0).
-                # This also serves as DAPO's dynamic-sampling filter (skip
-                # groups whose rollouts share the same reward — no learning
-                # signal).
+                # DAPO redraws tied groups before this point; a group that
+                # is still tied after the cap is dropped here.
                 if abs(float(rfs.std(unbiased=False).item())) > 1e-12:
                     adv_f = (rfs - rfs.mean()) / (
                         rfs.std(unbiased=False) + 1e-8
@@ -220,50 +220,54 @@ def _apply_transition_batch_update(
             )
             n_backward += 1
 
-        # Filer KEEP/REVISE paired update. Skip when the revise output was invalid
-        # JSON: training on that noisy text makes KEEP structurally dominate and
-        # fights any real revision signal.
-        do_filer_revise_update = bool(tr["revision"]["considered"]) and not (
-            skip_f_on_invalid_revise and revise_parsed is False
+        # Revision-text GRPO group: every parsed K-sample, scored by S_z.
+        # Unparsed revisions are dropped. A group with no reward contrast
+        # (all hits or all misses) is skipped.
+        rev_samples = list((tr.get("revision") or {}).get("samples") or [])
+        if skip_f_on_invalid_revise:
+            rev_samples = [s for s in rev_samples if s.get("parsed") and s.get("text")]
+        do_filer_revise_update = (
+            bool(tr["revision"]["considered"]) and len(rev_samples) >= 2
         )
         if do_filer_revise_update:
             _set_active_adapter(model, roles["filer_adapter"])
             f_user = tr["prompts"]["revise_user"]
-            keep_text = tr["revision"]["keep_text"]
-            revise_text = tr["revision"]["revise_text"] or keep_text
-            seq_keep, pl_keep = _build_seq_from_prompt_and_action(
-                tokenizer, _filer_line_prompt(), f_user, keep_text, device
-            )
-            seq_rev, pl_rev = _build_seq_from_prompt_and_action(
-                tokenizer, _filer_line_prompt(), f_user, revise_text, device
-            )
-            rfs = torch.tensor(
-                [tr["revision"]["keep_reward"], tr["revision"]["revise_reward"]],
-                device=device,
-                dtype=torch.float32,
-            )
-            adv_f = (rfs - rfs.mean()) / (rfs.std(unbiased=False) + 1e-8)
-            lf_total += grpo_group_accumulate_gradients(
-                model,
-                [seq_keep, seq_rev],
-                [pl_keep, pl_rev],
-                adv_f,
-                args.beta_kl,
-                device,
-                use_amp,
-                scaler,
-                loss_scale=1.0,
-            )
-            n_backward += 1
+            seqs_r: List[torch.Tensor] = []
+            pl_r: List[int] = []
+            rewards_r: List[float] = []
+            for sample in rev_samples:
+                seq, pl = _build_seq_from_prompt_and_action(
+                    tokenizer,
+                    _filer_line_prompt(),
+                    f_user,
+                    str(sample["text"]),
+                    device,
+                )
+                seqs_r.append(seq)
+                pl_r.append(pl)
+                rewards_r.append(float(sample.get("reward", 0.0)))
+            rfs = torch.tensor(rewards_r, device=device, dtype=torch.float32)
+            if abs(float(rfs.std(unbiased=False).item())) > 1e-12:
+                adv_f = (rfs - rfs.mean()) / (rfs.std(unbiased=False) + 1e-8)
+                lf_total += grpo_group_accumulate_gradients(
+                    model,
+                    seqs_r,
+                    pl_r,
+                    adv_f,
+                    args.beta_kl,
+                    device,
+                    use_amp,
+                    scaler,
+                    loss_scale=1.0,
+                )
+                n_backward += 1
 
-        # Approver KEEP/REVISE decision-token paired update. Trains the
-        # *Approver adapter* (pinned, see _role_assignment) to emit the right
-        # meta-action under _approver_line_prompt() when the verifier has
-        # flagged a line. Always trained (counterfactual) whenever a revision
-        # was considered: even when the revise sample was garbage, the right
-        # answer ("KEEP, the revision is unusable") is informative.
+        # Approver KEEP/REVISE pair on the shown revision. Skipped when that
+        # revision is not valid JSON, so the shared adapter is not updated
+        # from a garbage revise prompt.
         ap = tr.get("approver", {}) or {}
-        if bool(ap.get("considered", False)):
+        # No approver update when the shown revision is not valid JSON.
+        if bool(ap.get("considered", False)) and revise_parsed is not False:
             _set_active_adapter(model, roles["approver_adapter"])
             a_user = tr["prompts"].get("approver_user", "") or ""
             if a_user:

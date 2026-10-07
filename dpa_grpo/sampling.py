@@ -14,6 +14,7 @@ import torch.nn.functional as F
 from torch.optim import AdamW
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
+from dpa_grpo.checkpointing import PeftModel, _HAS_PEFT
 from dpa_grpo.parsing import build_chat_text
 
 
@@ -109,6 +110,11 @@ def generate_group_sequences(
     top_p: float,
     device: str,
 ) -> Tuple[List[torch.Tensor], List[int]]:
+    # Dropout must be off while sampling, but the caller may be in the middle
+    # of a training rollout. dual_rollout uses model.training to choose K
+    # revisions and to apply approver exploration. Leaving the module in
+    # eval() made both checks see evaluation mode after the first draft.
+    was_training = bool(model.training)
     model.eval()
     prompt_len = int(prompt_ids.shape[1])
     pad_id = tokenizer.pad_token_id or tokenizer.eos_token_id
@@ -122,20 +128,24 @@ def generate_group_sequences(
         bad_words_ids = []
     out_list: List[torch.Tensor] = []
     lengths: List[int] = []
-    with torch.no_grad():
-        for _ in range(group_size):
-            gen = model.generate(
-                prompt_ids,
-                attention_mask=attention_mask,
-                max_new_tokens=max_new_tokens,
-                do_sample=True,
-                temperature=max(temperature, 1e-5),
-                top_p=top_p,
-                pad_token_id=pad_id,
-                bad_words_ids=bad_words_ids or None,
-            )
-            out_list.append(gen)
-            lengths.append(prompt_len)
+    try:
+        with torch.no_grad():
+            for _ in range(group_size):
+                gen = model.generate(
+                    prompt_ids,
+                    attention_mask=attention_mask,
+                    max_new_tokens=max_new_tokens,
+                    do_sample=True,
+                    temperature=max(temperature, 1e-5),
+                    top_p=top_p,
+                    pad_token_id=pad_id,
+                    bad_words_ids=bad_words_ids or None,
+                )
+                out_list.append(gen)
+                lengths.append(prompt_len)
+    finally:
+        if was_training:
+            model.train()
     return out_list, lengths
 
 def _build_seq_from_prompt_and_action(

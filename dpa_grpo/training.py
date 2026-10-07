@@ -58,6 +58,93 @@ from dpa_grpo.sampling import _role_assignment
 from dpa_grpo.updates import _apply_transition_batch_update
 
 
+def _train_best_metric_key(args: argparse.Namespace) -> str:
+    if str(getattr(args, "best_metric", "post_revise")) == "post_revise":
+        return "train_accuracy_post_revise"
+    return "train_accuracy_strict"
+
+
+def _maybe_save_best_train_checkpoint(
+    *,
+    args: argparse.Namespace,
+    model: torch.nn.Module,
+    tokenizer: Any,
+    run_dir: Path,
+    gstep: int,
+    score: float,
+    train_best_state: Dict[str, Any],
+    optimizer: AdamW,
+    scaler: Optional[Any],
+) -> None:
+    """Save adapter when train-batch accuracy improves (used when eval is off)."""
+    if not args.use_lora or not bool(getattr(args, "save_best_adapter", True)):
+        return
+    metric_key = train_best_state["metric_key"]
+    if score <= float(train_best_state["best_score"]) + 1e-12:
+        return
+    train_best_state["best_score"] = float(score)
+    train_best_state["best_step"] = int(gstep)
+    best_path = run_dir / f"best_adapter_step_{gstep}"
+    try:
+        _save_lora_checkpoint(
+            model, tokenizer, run_dir, best_path, gstep, optimizer, scaler
+        )
+        train_best_state["best_path"] = str(best_path)
+        (run_dir / "best.json").write_text(
+            json.dumps(
+                {
+                    "best_step": gstep,
+                    "best_score": float(score),
+                    "best_metric": metric_key,
+                    "best_path": str(best_path),
+                    "source": "train_batch",
+                },
+                indent=2,
+            ),
+            encoding="utf-8",
+        )
+        print(
+            f"[train_grpo] NEW TRAIN BEST: {metric_key}={score:.4f} "
+            f"at step {gstep}; saved to {best_path}"
+        )
+    except Exception as ee:
+        print(
+            f"[train_grpo] Warning: failed to save train-best adapter "
+            f"at step {gstep}: {ee}"
+        )
+
+
+def _finalize_best_adapter(run_dir: Path, final: Path) -> None:
+    """Copy train/eval best checkpoint to adapter_final when available."""
+    best_json = run_dir / "best.json"
+    if not best_json.is_file():
+        return
+    try:
+        meta = json.loads(best_json.read_text(encoding="utf-8"))
+        best_path = Path(str(meta.get("best_path", "")))
+        if not best_path.is_dir():
+            return
+        import shutil
+
+        if final.is_dir():
+            shutil.rmtree(final)
+        shutil.copytree(best_path, final)
+        print(
+            f"[train_grpo] adapter_final <- best step {meta.get('best_step')} "
+            f"({meta.get('best_metric')}={meta.get('best_score')})"
+        )
+    except Exception as ee:
+        print(f"[train_grpo] Warning: could not copy best adapter to adapter_final: {ee}")
+
+
+def _resolve_train_case_subset_size(args: argparse.Namespace, n_train: int) -> int:
+    """Map --train-case-subset-fraction to a case count when set (see train_grpo.py)."""
+    frac = float(getattr(args, "train_case_subset_fraction", 0) or 0)
+    size = int(getattr(args, "train_case_subset_size", 0) or 0)
+    if frac > 0:
+        size = max(1, int(round(frac * n_train)))
+    return size
+
 
 def train_loop(args: argparse.Namespace) -> None:
     configure_dataset(getattr(args, "dataset", "tax"))
@@ -100,6 +187,37 @@ def train_loop(args: argparse.Namespace) -> None:
             model = PeftModel.from_pretrained(
                 model, str(adapter_resume), is_trainable=True
             )
+            # Dual-agent rollouts require a 'theta' adapter; from_pretrained only
+            # loads 'default'. Load sibling theta/ if present, else init fresh.
+            if getattr(args, "dual_agent_replay", False):
+                peft_cfg = getattr(model, "peft_config", {}) or {}
+                if "theta" not in peft_cfg:
+                    theta_dir = adapter_resume / "theta"
+                    if theta_dir.is_dir():
+                        model.load_adapter(str(theta_dir), adapter_name="theta")
+                        print(f"[train_grpo] Loaded verifier adapter from {theta_dir}")
+                    else:
+                        cfg_json = adapter_resume / "adapter_config.json"
+                        if not cfg_json.is_file():
+                            raise RuntimeError(
+                                f"Cannot add theta adapter: missing {cfg_json}"
+                            )
+                        raw = json.loads(cfg_json.read_text())
+                        lcfg = LoraConfig(
+                            r=raw.get("r", args.lora_r),
+                            lora_alpha=raw.get("lora_alpha", args.lora_alpha),
+                            lora_dropout=raw.get(
+                                "lora_dropout", args.lora_dropout
+                            ),
+                            bias=raw.get("bias", "none"),
+                            task_type=raw.get("task_type", "CAUSAL_LM"),
+                            target_modules=list(raw.get("target_modules", [])),
+                        )
+                        model.add_adapter("theta", lcfg)
+                        print(
+                            "[train_grpo] Added fresh theta adapter for dual-agent resume"
+                        )
+                model.set_adapter("default")
             model.print_trainable_parameters()
         else:
             targets = _lora_target_modules(model)
@@ -246,7 +364,9 @@ def train_loop(args: argparse.Namespace) -> None:
         f"(test_fraction={args.test_fraction}, split_seed={args.split_seed})"
     )
     full_train_cases = list(train_cases)
-    subset_size = int(getattr(args, "train_case_subset_size", 0) or 0)
+    subset_frac = float(getattr(args, "train_case_subset_fraction", 0) or 0)
+    subset_size = _resolve_train_case_subset_size(args, len(full_train_cases))
+    args.train_case_subset_size = subset_size
     resample_each_step = bool(getattr(args, "train_case_resample_each_step", False))
     if subset_size > 0:
         subset_size = min(subset_size, len(train_cases))
@@ -291,6 +411,7 @@ def train_loop(args: argparse.Namespace) -> None:
         "train_case_dirs": [str(p.resolve()) for p in train_cases],
         "test_case_dirs": [str(p.resolve()) for p in test_cases],
         "train_case_subset_size": subset_size,
+        "train_case_subset_fraction": subset_frac,
         "train_case_cycle": bool(args.train_case_cycle),
         "run_dir": str(run_dir.resolve()),
         "resume_from": resume_from or None,
@@ -769,6 +890,12 @@ def _training_steps_dual(
     buf_stats_fp = open(buf_stats_path, "w", encoding="utf-8")
     train_all = bool(getattr(args, "train_all_cases_per_step", False))
     replay_disabled = bool(getattr(args, "disable_replay", False))
+    train_best_state: Dict[str, Any] = {
+        "best_score": float("-inf"),
+        "best_step": 0,
+        "best_path": None,
+        "metric_key": _train_best_metric_key(args),
+    }
     if replay_disabled:
         print(
             "[train_grpo] Replay buffer DISABLED via --disable-replay: "
@@ -776,8 +903,12 @@ def _training_steps_dual(
         )
     resample_each_step = bool(getattr(args, "train_case_resample_each_step", False))
     subset_size = int(getattr(args, "train_case_subset_size", 0) or 0)
+    format_bad_streak = 0
+    format_stop_rate = float(getattr(args, "format_stop_invalid_rate", 0.2) or 0.2)
+    format_stop_patience = int(getattr(args, "format_stop_patience", 2) or 0)
     try:
         for step in range(1, args.steps + 1):
+            model.train()
             gstep = global_step_base + step
 
             # Build the list of cases this step will iterate through.
@@ -1127,6 +1258,53 @@ def _training_steps_dual(
                     f"{forced_str} "
                     f"acc={final_acc:.3f} acc_post={final_acc_post:.3f}"
                 )
+            if int(args.eval_every) <= 0:
+                metric_key = train_best_state["metric_key"]
+                train_score = (
+                    final_acc_post
+                    if metric_key == "train_accuracy_post_revise"
+                    else final_acc
+                )
+                _maybe_save_best_train_checkpoint(
+                    args=args,
+                    model=model,
+                    tokenizer=tokenizer,
+                    run_dir=run_dir,
+                    gstep=gstep,
+                    score=float(train_score),
+                    train_best_state=train_best_state,
+                    optimizer=optimizer,
+                    scaler=scaler,
+                )
+            if format_stop_patience > 0 and invalid_filer_json_rate > format_stop_rate:
+                format_bad_streak += 1
+            else:
+                format_bad_streak = 0
+            if format_stop_patience > 0 and format_bad_streak >= format_stop_patience:
+                print(
+                    f"[train_grpo] FORMAT STOP at step {gstep}: "
+                    f"invalid_filer_json_rate>{format_stop_rate} for "
+                    f"{format_bad_streak} steps. Keeping the last checkpoint "
+                    f"where the running train score was best."
+                )
+                try:
+                    (run_dir / "early_stopped.json").write_text(
+                        json.dumps(
+                            {
+                                "stopped_at_step": gstep,
+                                "reason": "invalid_filer_json",
+                                "invalid_filer_json_rate": invalid_filer_json_rate,
+                                "patience": format_stop_patience,
+                                "best_step": train_best_state.get("best_step"),
+                                "best_score": train_best_state.get("best_score"),
+                            },
+                            indent=2,
+                        ),
+                        encoding="utf-8",
+                    )
+                except Exception:
+                    pass
+                break
             if step % args.save_every == 0 and args.use_lora:
                 save_path = run_dir / f"adapter_step_{gstep}"
                 _save_lora_checkpoint(
@@ -1251,5 +1429,8 @@ def _training_steps_dual(
     if args.use_lora:
         final = run_dir / "adapter_final"
         g_final = global_step_base + args.steps
-        _save_lora_checkpoint(model, tokenizer, run_dir, final, g_final, optimizer, scaler)
-        print(f"[train_grpo] Saved final adapter + training_state (step {g_final}) to {final}")
+        if (run_dir / "best.json").is_file():
+            _finalize_best_adapter(run_dir, final)
+        else:
+            _save_lora_checkpoint(model, tokenizer, run_dir, final, g_final, optimizer, scaler)
+            print(f"[train_grpo] Saved final adapter + training_state (step {g_final}) to {final}")

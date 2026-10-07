@@ -97,6 +97,8 @@ def try_parse_line_draft(text: str, target_line: str) -> Optional[DraftLine]:
 
 def _parse_approver_decision(text: str) -> Optional[str]:
     """Return 'KEEP', 'REVISE', or None when the model output is unparseable."""
+    import re
+
     raw = extract_json_from_response((text or "").strip()) or {}
     if isinstance(raw, dict):
         d = raw.get("decision")
@@ -104,6 +106,25 @@ def _parse_approver_decision(text: str) -> Optional[str]:
             d_up = d.strip().upper()
             if d_up in ("KEEP", "REVISE"):
                 return d_up
+        for key in raw:
+            k_up = str(key).strip().upper()
+            if k_up in ("KEEP", "REVISE"):
+                return k_up
+    body = (text or "").strip()
+    m = re.search(r'"decision"\s*:\s*"(KEEP|REVISE)"', body, re.IGNORECASE)
+    if m:
+        return m.group(1).upper()
+    m = re.search(r'\\"decision\\"\s*:\s*\\"(KEEP|REVISE)\\"', body, re.IGNORECASE)
+    if m:
+        return m.group(1).upper()
+    m = re.search(r'\\"(KEEP|REVISE)\\"\s*\}\s*$', body.strip(), re.IGNORECASE)
+    if m:
+        return m.group(1).upper()
+    m = re.search(
+        r'["\\]*(KEEP|REVISE)["\\]*\s*\n?\s*\}\s*$', body.strip(), re.IGNORECASE
+    )
+    if m:
+        return m.group(1).upper()
     return None
 
 def _extract_line_verdict_from_raw(raw: Dict[str, Any], line_id: str) -> str:

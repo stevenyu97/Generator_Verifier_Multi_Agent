@@ -63,43 +63,69 @@ def _dual_linewise_rollout_transitions(
         f_user = _line_filer_user_payload(input_json, lid, context_so_far)
 
         if filer_only_mode:
-            # Filer-only baseline path: sample K=2 paired drafts, reward each
-            # by oracle line correctness S_x, build a paired-action GRPO
-            # transition for the Filer adapter and skip Verifier+Approver.
-            # The "best" draft (or first if tied) is used for context_so_far
-            # to keep the per-line cascade consistent with the multi-agent
-            # rollout's selection rule.
-            pair_texts: List[str] = []
-            pair_lines: List[Optional[DraftLine]] = []
-            pair_S: List[float] = []
-            for _k in range(2):
-                cand_text = _sample_line_action(
-                    model,
-                    tokenizer,
-                    _filer_line_prompt(),
-                    f_user,
-                    args.filer_max_new_tokens,
-                    args,
-                    device,
-                )
-                cand_line = try_parse_line_draft(cand_text, lid)
-                if cand_line is None:
-                    cand_S = 0.0
-                else:
-                    cand_tmp = DraftReturn(
-                        return_version=_ds_cfg().return_version, lines=[cand_line], metadata={}
+            # Filer-only baseline: sample K drafts (args.group_size), reward
+            # each by oracle line correctness S_x, and train the Filer adapter
+            # on that group. Evaluation draws K=1. DAPO redraws a tied group
+            # until the rewards disagree or the resample cap is hit. GRPO and
+            # GSPO keep the first group and the update skips it when every
+            # reward is equal. The first highest-reward draft is used for
+            # context_so_far.
+            group_k = max(int(getattr(args, "group_size", 2) or 2), 2)
+            if not model.training:
+                group_k = 1
+            use_dapo_sample = bool(getattr(args, "use_dapo", False)) and model.training
+            resample_cap = (
+                max(int(getattr(args, "dapo_resample_cap", 4) or 0), 0)
+                if use_dapo_sample
+                else 0
+            )
+
+            def _sample_filer_group() -> Tuple[List[str], List[Optional[DraftLine]], List[float]]:
+                texts: List[str] = []
+                lines: List[Optional[DraftLine]] = []
+                rewards: List[float] = []
+                for _k in range(group_k):
+                    cand_text = _sample_line_action(
+                        model,
+                        tokenizer,
+                        _filer_line_prompt(),
+                        f_user,
+                        args.filer_max_new_tokens,
+                        args,
+                        device,
                     )
-                    cand_S = (
-                        1.0
-                        if line_strict_correctness_by_line_id(cand_tmp, gold_path).get(
-                            lid, False
+                    cand_line = try_parse_line_draft(cand_text, lid)
+                    if cand_line is None:
+                        cand_S = 0.0
+                    else:
+                        cand_tmp = DraftReturn(
+                            return_version=_ds_cfg().return_version, lines=[cand_line], metadata={}
                         )
-                        else 0.0
-                    )
-                pair_texts.append(cand_text)
-                pair_lines.append(cand_line)
-                pair_S.append(cand_S)
-            best_idx = 0 if pair_S[0] >= pair_S[1] else 1
+                        cand_S = (
+                            1.0
+                            if line_strict_correctness_by_line_id(cand_tmp, gold_path).get(
+                                lid, False
+                            )
+                            else 0.0
+                        )
+                    texts.append(cand_text)
+                    lines.append(cand_line)
+                    rewards.append(cand_S)
+                return texts, lines, rewards
+
+            pair_texts, pair_lines, pair_S = _sample_filer_group()
+            draws = 1
+            while (
+                draws <= resample_cap
+                and pair_S
+                and (max(pair_S) - min(pair_S)) <= 1e-8
+            ):
+                pair_texts, pair_lines, pair_S = _sample_filer_group()
+                draws += 1
+            best_idx = 0
+            for i, reward in enumerate(pair_S):
+                if reward > pair_S[best_idx]:
+                    best_idx = i
             x_parsed = pair_lines[best_idx]
             f_text = pair_texts[best_idx]
             filer_parsed = x_parsed is not None
@@ -250,6 +276,7 @@ def _dual_linewise_rollout_transitions(
 
         revision_considered = y_choice == "SAC"
         revise_text = ""
+        revise_samples: List[Dict[str, Any]] = []
         z_line: Optional[DraftLine] = None
         S_z = S_x
         outcome_bonus = float(getattr(args, "filer_outcome_bonus", 0.5))
@@ -269,18 +296,14 @@ def _dual_linewise_rollout_transitions(
         if revision_considered:
             _set_active_adapter(model, roles["filer_adapter"])
             r_user = _line_revise_user_payload(input_json, x_line, lid, y_raw, context_so_far[:-1])
-            # Best-of-K revise sampling. Draw K candidates at an elevated
-            # temperature (--revise-temperature) and select by:
-            #   1) S_z == 1 (lands gold) ─ populates 5a / 6b buckets
-            #   2) parse-valid           ─ avoids garbage revise text
-            #   3) first sample          ─ fallback
-            # This both (a) gives the Approver a higher-quality revise to
-            # judge and (b) gives the filer's revise role more useful gradient.
+            # Sample K revisions from the revise policy. Gold scores every
+            # sample for the GRPO group; it does not choose which string the
+            # approver sees. Evaluation draws K=1.
             revise_k = max(int(getattr(args, "revise_sample_k", 1) or 1), 1)
+            if not model.training:
+                revise_k = 1
             revise_temp = float(getattr(args, "revise_temperature", args.temperature))
-            best_text = ""
-            best_line: Optional[DraftLine] = None
-            best_score = -1  # 2 = lands gold, 1 = parses, 0 = garbage
+            revise_samples: List[Dict[str, Any]] = []
             for _k in range(revise_k):
                 cand_text = _sample_line_action(
                     model,
@@ -294,42 +317,39 @@ def _dual_linewise_rollout_transitions(
                 )
                 cand_line = try_parse_line_draft(cand_text, lid)
                 if cand_line is None:
-                    score = 0
+                    cand_s = 0.0
+                    cand_reward = -fmt_pen
+                    cand_parsed = False
                 else:
                     cand_tmp = DraftReturn(
                         return_version=_ds_cfg().return_version, lines=[cand_line], metadata={}
                     )
-                    lands = bool(
-                        line_strict_correctness_by_line_id(cand_tmp, gold_path).get(
+                    cand_s = (
+                        1.0
+                        if line_strict_correctness_by_line_id(cand_tmp, gold_path).get(
                             lid, False
                         )
+                        else 0.0
                     )
-                    score = 2 if lands else 1
-                if score > best_score:
-                    best_score = score
-                    best_text = cand_text
-                    best_line = cand_line
-                    if score == 2:
-                        break  # can't do better than landing gold
-            revise_text = best_text
-            z_line = best_line
-            revise_parsed = z_line is not None
-            if z_line is not None:
-                S_z = 1.0 if best_score == 2 else 0.0
-
-            # Counterfactual REVISE-generation reward (used to train the filer to
-            # produce better revise text, conditional on KEEP vs REVISE prompts).
-            if sac_correct_line:
-                cf_keep, cf_revise = 0.0, 1.0
-            else:
-                cf_keep, cf_revise = 1.0, 0.0
-            keep_reward = cf_keep + outcome_bonus * float(S_x)
-            if z_line is not None:
-                revise_reward = cf_revise + outcome_bonus * float(S_z)
-            else:
-                # Invalid revise JSON: keep counterfactual decision reward but apply
-                # a small format penalty so producing garbage isn't free.
-                revise_reward = cf_revise - fmt_pen
+                    cand_reward = cand_s
+                    cand_parsed = True
+                revise_samples.append(
+                    {
+                        "text": cand_text,
+                        "parsed": cand_parsed,
+                        "S_z": cand_s,
+                        "reward": cand_reward,
+                        "line": cand_line,
+                    }
+                )
+            # First sample is the on-policy revision shown to the approver.
+            shown = revise_samples[0]
+            revise_text = str(shown["text"])
+            z_line = shown["line"]
+            revise_parsed = bool(shown["parsed"])
+            S_z = float(shown["S_z"])
+            keep_reward = float(S_x)
+            revise_reward = float(shown["reward"])
 
             # Approver step: pinned-adapter sample of an explicit KEEP/REVISE
             # decision token, conditioned on (input, draft_line, verifier_feedback,
@@ -364,7 +384,7 @@ def _dual_linewise_rollout_transitions(
             # REVISE action strings regardless of the rolled-out action, so
             # forcing the rollout never produces an off-policy gradient.
             ap_eps = float(getattr(args, "approver_explore_eps", 0.0) or 0.0)
-            if ap_eps > 0.0 and revision_decision != "REVISE":
+            if model.training and ap_eps > 0.0 and revision_decision != "REVISE":
                 if random.random() < ap_eps:
                     revision_decision = "REVISE"
                     forced_explore = True
@@ -513,6 +533,15 @@ def _dual_linewise_rollout_transitions(
                         ensure_ascii=False,
                     ),
                     "revise_text": revise_text,
+                    "samples": [
+                        {
+                            "text": s["text"],
+                            "parsed": s["parsed"],
+                            "S_z": s["S_z"],
+                            "reward": s["reward"],
+                        }
+                        for s in revise_samples
+                    ],
                     "keep_reward": keep_reward,
                     "revise_reward": revise_reward,
                     "decision": revision_decision,
