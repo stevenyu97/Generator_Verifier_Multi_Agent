@@ -7,15 +7,12 @@ Training uses per-line (or per-turn) 2-GRPO with an 8-case credit-assignment tax
 ## Layout
 
 ```
-llm/
-├── train_grpo.py       # Training CLI entry point
-├── dpa_grpo/           # Training implementation package
-├── core/               # Agents, prompts, rewards, evaluator
-├── benchmarks/         # Dataset registry, line_eval seam, tax + convfinqa adapters
-├── scripts/            # Training and eval shell scripts
-├── paper/              # LaTeX, figures, plotting utilities
-├── tax-calc-bench/     # TaxCalcBench submodule (data)
-└── docs/               # Release notes and examples
+├── train_grpo.py    # Training CLI
+├── dpa_grpo/        # Training algorithm
+├── core/            # Agents, prompts, rewards, schemas
+├── benchmarks/      # Tax, FinQA, and ConvFinQA adapters
+├── scripts/         # Training launchers
+└── requirements.txt
 ```
 
 ## Environment variables
@@ -28,32 +25,33 @@ llm/
 ## Quickstart
 
 ```bash
-cd /home/ubuntu/llm
 pip install -r requirements.txt
-
-# CPU wiring check (no GPU)
 python benchmarks/convfinqa/smoke_test.py
 
-# TaxCalcBench training
 bash scripts/train_tax.sh
-
-# ConvFinQA / FinQA
 bash scripts/convfinqa/training_convfinqa.sh
 bash scripts/convfinqa/training_finqa.sh
-
-# Zero-shot baseline
-python eval_zero_shot.py --dataset convfinqa \
-  --model-path ~/models/models--Qwen--Qwen3-4B \
-  --output-dir "$DPA_GRPO_CHECKPOINT_ROOT/zero_shot_convfinqa_4b"
 ```
 
 ## Datasets
 
-- **Tax** (default): `tax-calc-bench/tax_calc_bench/ty24/test_data`
-- **FinQA**: `benchmarks/convfinqa/data/finqa/`
-- **ConvFinQA**: `benchmarks/convfinqa/data/convfinqa/`
+FinQA and ConvFinQA are not checked in. The adapter code is
+[`benchmarks/convfinqa/`](benchmarks/convfinqa/). Build the case folders locally:
 
-See [`benchmarks/convfinqa/README.md`](benchmarks/convfinqa/README.md) for download/convert instructions.
+```bash
+cd benchmarks/convfinqa
+python download_data.py
+python convert.py
+```
+
+That creates:
+
+- `benchmarks/convfinqa/data/finqa/`
+- `benchmarks/convfinqa/data/convfinqa/`
+
+`.gitignore` excludes `benchmarks/convfinqa/data/` and `benchmarks/convfinqa/raw/`, so those directories will not appear on GitHub. Small checked-in samples are in `benchmarks/convfinqa/fixtures/`.
+
+The tax adapter is [`benchmarks/tax/`](benchmarks/tax/). TaxCalcBench cases are external and are not stored in this repo.
 
 ## Imports
 
